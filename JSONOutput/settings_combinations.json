@@ -1,0 +1,104 @@
+{
+  "settings-lists": {
+    "01-settings": [
+      "World Under Dead/Dying God",
+      "Castle/Fortress as Central Location",
+      "Post-Apocalyptic Elements"
+    ],
+    "02-settings": [
+      "Castle/Fortress as Central Location",
+      "World Under Dead/Dying God",
+      "Gothic Architecture"
+    ],
+    "03-settings": [
+      "World Under Dead/Dying God",
+      "Castle/Fortress as Central Location",
+      "Decaying/Ruined World"
+    ],
+    "04-settings": [
+      "Subterranean/Underground Spaces",
+      "Hostile/Cursed Wilderness",
+      "Decaying/Ruined World"
+    ],
+    "05-settings": [
+      "Gothic Architecture",
+      "Post-Apocalyptic Elements",
+      "Decaying/Ruined World"
+    ],
+    "06-settings": [
+      "Post-Apocalyptic Elements",
+      "World Under Dead/Dying God",
+      "Hostile/Cursed Wilderness"
+    ],
+    "07-settings": [
+      "Post-Apocalyptic Elements",
+      "Gothic Architecture",
+      "Hostile/Cursed Wilderness"
+    ],
+    "08-settings": [
+      "Decaying/Ruined World",
+      "World Under Dead/Dying God",
+      "Hostile/Cursed Wilderness"
+    ],
+    "09-settings": [
+      "Castle/Fortress as Central Location",
+      "Subterranean/Underground Spaces",
+      "World Under Dead/Dying God"
+    ],
+    "10-settings": [
+      "Subterranean/Underground Spaces",
+      "Hostile/Cursed Wilderness",
+      "Castle/Fortress as Central Location"
+    ],
+    "11-settings": [
+      "Subterranean/Underground Spaces",
+      "World Under Dead/Dying God",
+      "Decaying/Ruined World"
+    ],
+    "12-settings": [
+      "Decaying/Ruined World",
+      "Hostile/Cursed Wilderness",
+      "World Under Dead/Dying God"
+    ],
+    "13-settings": [
+      "Castle/Fortress as Central Location",
+      "Gothic Architecture",
+      "World Under Dead/Dying God"
+    ],
+    "14-settings": [
+      "Gothic Architecture",
+      "World Under Dead/Dying God",
+      "Subterranean/Underground Spaces"
+    ],
+    "15-settings": [
+      "Post-Apocalyptic Elements",
+      "Subterranean/Underground Spaces",
+      "Castle/Fortress as Central Location"
+    ],
+    "16-settings": [
+      "Castle/Fortress as Central Location",
+      "World Under Dead/Dying God",
+      "Gothic Architecture"
+    ],
+    "17-settings": [
+      "Subterranean/Underground Spaces",
+      "Gothic Architecture",
+      "Hostile/Cursed Wilderness"
+    ],
+    "18-settings": [
+      "Hostile/Cursed Wilderness",
+      "Post-Apocalyptic Elements",
+      "Gothic Architecture"
+    ],
+    "19-settings": [
+      "Hostile/Cursed Wilderness",
+      "Castle/Fortress as Central Location",
+      "Post-Apocalyptic Elements"
+    ],
+    "20-settings": [
+      "Decaying/Ruined World",
+      "World Under Dead/Dying God",
+      "Castle/Fortress as Central Location"
+    ]
+  }
+}
