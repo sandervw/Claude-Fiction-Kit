@@ -1,0 +1,94 @@
+{
+  "worlds": [
+    {
+      "name": "The Pale of Sarava",
+      "description": "A white sea that forgot it was water. The bones of leviathans breach the crust like monuments to a thirst that killed everything. Pilgrims still walk toward its center; none return, but their preserved bodies join the procession.",
+      "locations": [
+        {
+          "name": "Kethval",
+          "description": "The last trading post before the white begins. Built from leviathan baleen and cracked hulls of ships that once sailed here. Caravans resupply; most turn back."
+        },
+        {
+          "name": "The Asking",
+          "description": "A depression where brine still pools, tended by a blind woman who inherited the duty. Travelers pay in blood to see how someone died. Never who. Never why."
+        },
+        {
+          "name": "Sarava's Kneel",
+          "description": "A circle of mummified figures, oldest at the center, newest at the edge. Who Sarava was is disputed; that she stopped here first is not."
+        },
+        {
+          "name": "Whitmouth",
+          "description": "A petrified leviathan's open jaws, large enough to shelter a village. The baleen filters the salt-wind into something breathable. Inhabitants never leave; visitors rarely stay."
+        }
+      ]
+    },
+    {
+      "name": "Overmire",
+      "description": "Monastery-fortresses hanging above a world that choked. The chains are ancient, the anchors are cracking, and the abbeys sway in winds that carry poison. The monks pray for structural integrity. It's unclear if anyone listens.",
+      "locations": [
+        {
+          "name": "Thornwick",
+          "description": "The largest surviving abbey, seat of the Suspended Doctrine. Its great chain has seventeen links remaining; each bears a name, and when one fails, so shall someone below."
+        },
+        {
+          "name": "Respite",
+          "description": "Sealed chambers where breathable air is stored and rationed. The filters are organic, sourced from those who died gasping. Residents try not to think about it."
+        },
+        {
+          "name": "The Dangle",
+          "description": "Cargo nets strung between abbeys where traders meet mid-air. Deals must close before the nets swing apart. Disputes resolve themselves."
+        },
+        {
+          "name": "Merthwick Below",
+          "description": "A sister-abbey that fell into the miasma three generations ago. Lights still flicker in its windows."
+        }
+      ]
+    },
+    {
+      "name": "Vethrak",
+      "description": "A volcanic wound where a god's heart still burns—barely. Cults have built their foundries over the dying flame, waging theological war over who inherits the last heat. The stone shifts. The fire dims. Everyone knows it's ending.",
+      "locations": [
+        {
+          "name": "Vorn's Anvil",
+          "description": "The central foundry, built directly over the ember. Smiths here don't use bellows; they sing, and the fire answers. What they forge depends on what the song."
+        },
+        {
+          "name": "The Inhale",
+          "description": "A terrace where seers breathe volcanic fumes until prophecy comes. Their words are always true, always reversed. Transcribers work facing mirrors."
+        },
+        {
+          "name": "Calworth and Sethric",
+          "description": "Two fortress-temples on opposite crater walls, locked in war for six centuries. Their doctrines are identical except for one word no one can translate anymore."
+        },
+        {
+          "name": "The Shaping Grounds",
+          "description": "Slag heaps where divine waste accumulates. Scavengers pick through it. Sometimes the slag arranges itself overnight into shapes: blueprints for things that don't exist yet."
+        },
+        {
+          "name": "The Cooling",
+          "description": "Hardened lava tubes veined with ore, warm to the touch. They grow hot when lies are spoken. Oaths sworn here tend to be kept."
+        }
+      ]
+    },
+    {
+      "name": "The Sulcus",
+      "description": "The volcanic archipelago's surface died in an eruption that lasted eleven years, and the survivors descended into cities their ancestors had carved as tombs. Now the underground nations trade through magma-lit canals while above, the islands cool into new and terrible shapes. Occasionally, expeditions return to the surface. More occasionally, they return from it."
+    },
+    {
+      "name": "Szgany",
+      "description": "The hamlet exists in the permanent shadow of a castle that should not geometrically be able to cast one so far, and its people have forgotten what daylight looks like. They are not thralls—they are something more troubling: volunteers, generations deep, who speak of the Count not with fear but with the tired fondness of those describing a chronic illness. The graveyard grows; the population does not shrink. These facts are not contradictory here."
+    },
+    {
+      "name": "Hesoth",
+      "description": "The sea here has been blood since before anyone thought to ask why, and the ruins of those who first sailed it rise from the shallows like broken teeth. Beneath the waves, in coral-crusted ziggurats, lie libraries whose books are written in languages that predate human tongues—and which, when read aloud, teach the reader things they immediately wish to forget."
+    },
+    {
+      "name": "The Hollows of Karn",
+      "description": "A kingdom that retreated underground so long ago its people have become rumors to the surface, their mountain catacombs now a wilderness unto themselves—complete with weather, seasons, and predators that evolved in absolute darkness. The old throne rooms gather dust while the court hunts through forests of stone and fungus, and the borders of the realm are not walls but simply the places where the echoes stop returning."
+    },
+    {
+      "name": "Golgorand",
+      "description": "A decaying castle built vertically into a cliff face, where status is measured in altitude and the lowest levels have not seen visitors in generations. The plain below should not exist—it is surreal in the literal sense, a landscape that the mind processes as real only through tremendous effort—and those who descend the castle's endless stairs find that down is a direction with no bottom. Somewhere below the lowest dungeon, something is climbing up."
+    }
+  ]
+}
