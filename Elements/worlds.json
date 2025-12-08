@@ -1,7 +1,6 @@
 {
   "worlds": [
     {
-      "name": "The Pale of Sarava",
       "description": "A white sea that forgot it was water. The bones of leviathans breach the crust like monuments to a thirst that killed everything. Pilgrims still walk toward its center; none return, but their preserved bodies join the procession.",
       "locations": [
         {
@@ -23,7 +22,6 @@
       ]
     },
     {
-      "name": "Overmire",
       "description": "Monastery-fortresses hanging above a world that choked. The chains are ancient, the anchors are cracking, and the abbeys sway in winds that carry poison. The monks pray for structural integrity. It's unclear if anyone listens.",
       "locations": [
         {
@@ -45,7 +43,6 @@
       ]
     },
     {
-      "name": "Vethrak",
       "description": "A volcanic wound where a god's heart still burns—barely. Cults have built their foundries over the dying flame, waging theological war over who inherits the last heat. The stone shifts. The fire dims. Everyone knows it's ending.",
       "locations": [
         {
@@ -71,24 +68,13 @@
       ]
     },
     {
-      "name": "The Sulcus",
-      "description": "The volcanic archipelago's surface died in an eruption that lasted eleven years, and the survivors descended into cities their ancestors had carved as tombs. Now the underground nations trade through magma-lit canals while above, the islands cool into new and terrible shapes. Occasionally, expeditions return to the surface. More occasionally, they return from it."
+      "description": "An infinite vertical city spiraling into a sinkhole that widens by inches each year, swallowing the surface world behind it. The deeper one descends, the older the architecture—and the deep-dwellers remember things the surface has chosen to forget."
     },
     {
-      "name": "Szgany",
-      "description": "The hamlet exists in the permanent shadow of a castle that should not geometrically be able to cast one so far, and its people have forgotten what daylight looks like. They are not thralls—they are something more troubling: volunteers, generations deep, who speak of the Count not with fear but with the tired fondness of those describing a chronic illness. The graveyard grows; the population does not shrink. These facts are not contradictory here."
+      "description": "A sunken forge-city built into the ribcage of a god whose body became the ore, where smelters still labor though the furnaces have been cold for centuries, and the things they shape crawl from slag heaps seeking purpose."
     },
     {
-      "name": "Hesoth",
-      "description": "The sea here has been blood since before anyone thought to ask why, and the ruins of those who first sailed it rise from the shallows like broken teeth. Beneath the waves, in coral-crusted ziggurats, lie libraries whose books are written in languages that predate human tongues—and which, when read aloud, teach the reader things they immediately wish to forget."
-    },
-    {
-      "name": "The Hollows of Karn",
-      "description": "A kingdom that retreated underground so long ago its people have become rumors to the surface, their mountain catacombs now a wilderness unto themselves—complete with weather, seasons, and predators that evolved in absolute darkness. The old throne rooms gather dust while the court hunts through forests of stone and fungus, and the borders of the realm are not walls but simply the places where the echoes stop returning."
-    },
-    {
-      "name": "Golgorand",
-      "description": "A decaying castle built vertically into a cliff face, where status is measured in altitude and the lowest levels have not seen visitors in generations. The plain below should not exist—it is surreal in the literal sense, a landscape that the mind processes as real only through tremendous effort—and those who descend the castle's endless stairs find that down is a direction with no bottom. Somewhere below the lowest dungeon, something is climbing up."
+      "description": "Miles of subterranean archive beneath a collapsed civilization, where the dead are catalogued by clerks who don't recall being hired, shelves extend into geometries suggesting more than three dimensions, and every living thing that enters receives a file."
     }
   ]
 }

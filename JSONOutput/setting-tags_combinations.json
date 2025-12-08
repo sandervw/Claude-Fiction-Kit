@@ -1,0 +1,54 @@
+{
+  "tags-lists": {
+    "01-tags": [
+      "surface settlements",
+      "interconnected ruins",
+      "swamp"
+    ],
+    "02-tags": [
+      "world under slain god's corpse",
+      "dungeon areas (ruins, warrens, etc)",
+      "standing stones"
+    ],
+    "03-tags": [
+      "veggie-folk villages",
+      "clock towers",
+      "blighted wasteland"
+    ],
+    "04-tags": [
+      "volcanic/colonial archipelago",
+      "War-torn continent",
+      "impossible libraries"
+    ],
+    "05-tags": [
+      "cursed forest",
+      "evil feast chamber",
+      "womb-like underground"
+    ],
+    "06-tags": [
+      "veggie-folk villages",
+      "post-apocalyptic surface",
+      "plain of [insert dark fantasy material: bones, leather, ash]"
+    ],
+    "07-tags": [
+      "evil feast chamber",
+      "vampire castle",
+      "underdark wilderness"
+    ],
+    "08-tags": [
+      "plague cities",
+      "arcane observatory",
+      "blighted wasteland"
+    ],
+    "09-tags": [
+      "crystal pillars",
+      "clock towers",
+      "standing stones"
+    ],
+    "10-tags": [
+      "post-apocalyptic surface",
+      "world under slain god's corpse",
+      "crumbling kingdom"
+    ]
+  }
+}

@@ -56,11 +56,13 @@ Predetermined `Outline` - the structure, plot, or outline is roughly determined 
 - `Theme` is hidden too
 
 ### Genres
- Somewhat randomly generated, somewhat picked from list
- 
- NOTICE: Every story should have a Main sub-genre and Secondary one - blending genre's is where magic happens
- 
- Possible requirement - all `choices` must have unique names:
+
+Somewhat randomly generated, somewhat picked from list
+
+NOTICE: Every story should have a Main sub-genre and Secondary one - blending genre's is where magic happens
+
+Possible requirement - all `choices` must have unique names:
+
 1. 'In the Deep' = Dungeon (Dark) Fantasy (_Your Genre_)
 2. 'Of the Backworldsmen' = Mythic (High) Fantasy
 3. 'Those Pinholes of Light' = Science Fiction
@@ -68,13 +70,11 @@ Predetermined `Outline` - the structure, plot, or outline is roughly determined 
 5. 'Goldeneye' = Spy Thriller? TODO = Alternate History?
    a. Possibly have historic period be a `Setting`, not a genre
    b. What to do for genre 5?
-  
-  Folklore:
-    - Fairy Tales (specifically Japanese, Russian, European, Native American), Don't Starve
-    - Myth: The Odyssey, Beowulf, Dark Souls (Again...), Zelda, King Arthur
-    - Ghost Stories: The Woman in Black, Kaidan,
+
+Folklore: - Fairy Tales (specifically Japanese, Russian, European, Native American), Don't Starve - Myth: The Odyssey, Beowulf, Dark Souls (Again...), Zelda, King Arthur - Ghost Stories: The Woman in Black, Kaidan,
 
 Alternate/Period History:
+
 - Japan (Muromachi and Edo): Seven Samurai, 13 Assassins, Samurai Champloo
 - Ancient Greek: The Odyssey, 300
 - Bronze/Stone/Iron-age Europe (druids, early settlements): Drova... The Bard's Tale? and not much else (**HERE LIES OPPORTUNITY**)
@@ -91,132 +91,132 @@ Exemplars: **Dark Souls**, Vermis, Lunacid, Castlevania, The Black Company, The 
 
 Subgenres: Dungeon (Crawl, Synth), Gothic, Apocalyptic, Sword-and-Sorcery
 
-Character Archtypes: 
+Character Archtypes:
 
-Locations/Settings: 
+Locations/Settings:
 
-Theme: 
+Theme:
 
-Tone: 
+Tone:
 
-Plot Structure/Patterns: 
+Plot Structure/Patterns:
 
-Conflic Type: 
+Conflic Type:
 
-**Motifs (Super Important):** 
+**Motifs (Super Important):**
 
-Stakes/Scope: 
+Stakes/Scope:
 
-Resolution: 
+Resolution:
 
 #### High Fantasy
-
 
     - Gaslamp/Steampunk Fantasy: Howl's Moving Castle, Castle in the Sky, Torchlight
     - High Fantasy: The Hobbit, Morrowind (Elder Scrolls), Wildermyth, Dungeon Siege, Fable
 
-Exemplars: 
+Exemplars:
 
-Subgenres: 
+Subgenres:
 
-Character Archtypes: 
+Character Archtypes:
 
-Locations/Settings: 
+Locations/Settings:
 
-Theme: 
+Theme:
 
-Tone: 
+Tone:
 
-Plot Structure/Patterns: 
+Plot Structure/Patterns:
 
-Conflic Type: 
+Conflic Type:
 
-**Motifs (Super Important):** 
+**Motifs (Super Important):**
 
-Stakes/Scope: 
+Stakes/Scope:
 
-Resolution: 
+Resolution:
 
 #### Science Fiction
 
-  - Science Fiction:
-    - Space Western: Firefly, Cowboy BeBop, The Mandalorian, Borderlands, Faster Than Light, Void Bastards
-    - Cyberpunk: Neuromancer, Deus Ex, Blade Runner
+- Science Fiction:
+  - Space Western: Firefly, Cowboy BeBop, The Mandalorian, Borderlands, Faster Than Light, Void Bastards
+  - Cyberpunk: Neuromancer, Deus Ex, Blade Runner
 
-Exemplars: 
+Exemplars:
 
-Subgenres: 
+Subgenres:
 
-Character Archtypes: 
+Character Archtypes:
 
-Locations/Settings: 
+Locations/Settings:
 
-Theme: 
+Theme:
 
-Tone: 
+Tone:
 
-Plot Structure/Patterns: 
+Plot Structure/Patterns:
 
-Conflic Type: 
+Conflic Type:
 
-**Motifs (Super Important):** 
+**Motifs (Super Important):**
 
-Stakes/Scope: 
+Stakes/Scope:
 
-Resolution: 
+Resolution:
 
 #### Horror
 
-  - Horror:
-    - Exemplars: The House on the Borderland, The Thing, H.P. Lovecraft's stories, Carnacki the Ghost-Finder, The Cabinet of Dr. Caligari
-    - Subgenres: Cosmic/Lovecraftian, Monster, Gothic
-    - Monster: Dracula, The Mummy, Frankenstein, etc
+- Horror:
+  - Exemplars: The House on the Borderland, The Thing, H.P. Lovecraft's stories, Carnacki the Ghost-Finder, The Cabinet of Dr. Caligari
+  - Subgenres: Cosmic/Lovecraftian, Monster, Gothic
+  - Monster: Dracula, The Mummy, Frankenstein, etc
 
-Exemplars: 
+Exemplars:
 
-Subgenres: 
+Subgenres:
 
-Character Archtypes: 
+Character Archtypes:
 
-Locations/Settings: 
+Locations/Settings:
 
-Theme: 
+Theme:
 
-Tone: 
+Tone:
 
-Plot Structure/Patterns: 
+Plot Structure/Patterns:
 
-Conflic Type: 
+Conflic Type:
 
-**Motifs (Super Important):** 
+**Motifs (Super Important):**
 
-Stakes/Scope: 
+Stakes/Scope:
 
-Resolution: 
+Resolution:
 
 #### TODO Genre
 
-Exemplars: 
+Exemplars:
 
-Subgenres: 
+Subgenres:
 
-Character Archtypes: 
+Character Archtypes:
 
-Locations/Settings: 
+Locations/Settings:
 
-Theme: 
+Theme:
 
-Tone: 
+Tone:
 
-Plot Structure/Patterns: 
+Plot Structure/Patterns:
 
-Conflic Type: 
+Conflic Type:
 
-**Motifs (Super Important):** 
+**Motifs (Super Important):**
 
-Stakes/Scope: 
+Stakes/Scope:
 
-Resolution: 
+Resolution:
+
 ## Method
 
 Step 1: Start by getting one complete story, pseudo-random, with the LLM (not automated through your app)
@@ -253,7 +253,7 @@ Step 5: Frontend
 **Backend** - `Express`
 
 - Apply your Sparse.ts, Sparse.Express laws
-- Switch to `Bun` if possible (faster, unified with frontend)
+- Switch to `Bun` if possible (faster, unified with frontend): https://bun.com/
 - You come up with the data models, the endpoints, the logic for LLM requests - claude agents do the code
 - Use your standard auth from Leaves (clean it up, make it conform to Sparse Laws)
 - Question: What to use for the storage?
