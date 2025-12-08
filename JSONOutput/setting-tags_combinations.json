@@ -1,54 +1,54 @@
 {
   "tags-lists": {
     "01-tags": [
-      "surface settlements",
-      "interconnected ruins",
-      "swamp"
+      "clock towers",
+      "vague geography",
+      "ancient precursor ruins"
     ],
     "02-tags": [
-      "world under slain god's corpse",
-      "dungeon areas (ruins, warrens, etc)",
-      "standing stones"
+      "ruined Gothic estate",
+      "ice-blasted dale",
+      "forested colony"
     ],
     "03-tags": [
-      "veggie-folk villages",
       "clock towers",
-      "blighted wasteland"
+      "ice-blasted dale",
+      "forested colony"
     ],
     "04-tags": [
-      "volcanic/colonial archipelago",
-      "War-torn continent",
-      "impossible libraries"
+      "clock towers",
+      "gothic cathedrals",
+      "bonfires"
     ],
     "05-tags": [
-      "cursed forest",
-      "evil feast chamber",
-      "womb-like underground"
+      "graveyard city",
+      "crumbling kingdom",
+      "veggie-folk villages"
     ],
     "06-tags": [
-      "veggie-folk villages",
-      "post-apocalyptic surface",
-      "plain of [insert dark fantasy material: bones, leather, ash]"
+      "PS1 aesthetic",
+      "impossible libraries",
+      "crystal pillars"
     ],
     "07-tags": [
-      "evil feast chamber",
-      "vampire castle",
-      "underdark wilderness"
+      "labyrinth",
+      "graveyard city",
+      "surface settlements"
     ],
     "08-tags": [
-      "plague cities",
-      "arcane observatory",
-      "blighted wasteland"
+      "Shapeshifting Gothic castle",
+      "surface settlements",
+      "labyrinth"
     ],
     "09-tags": [
-      "crystal pillars",
-      "clock towers",
-      "standing stones"
+      "arcane observatory",
+      "Great Well (subterranean region)",
+      "dying lands (terminal decline)"
     ],
     "10-tags": [
-      "post-apocalyptic surface",
-      "world under slain god's corpse",
-      "crumbling kingdom"
+      "interconnected ruins",
+      "forested colony",
+      "darkest dungeon"
     ]
   }
 }

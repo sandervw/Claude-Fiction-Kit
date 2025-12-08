@@ -2,8 +2,6 @@
 
 ## 1. 'World' Prompt
 
-Hey Claude, I want you to generate 10 dark fantasy settings. Each setting should be atypical or untried in the genre.
-
 <!-- Each setting must include at least 3 of these elements:
 **Decaying/Ruined World**
 **Gothic Architecture**
@@ -13,14 +11,15 @@ Hey Claude, I want you to generate 10 dark fantasy settings. Each setting should
 **World Under Dead/Dying God**
 **Post-Apocalyptic Elements** -->
 
+Hey Claude, I want you to generate 10 dark fantasy settings. Each setting should be atypical or untried in the genre.
 Tag Constraint: I've attached a json array of 10 sets of 'tags'. Each of your generated settings must feature, include, or be based on each set of tags in the array, in order. For example, if the first set of tags is ["blood-drinking forest", "veggie-folk villages", "graveyard city"], your first setting must incorporate those three elements.
-Output Format: Provide your settings in a json "worlds" array. Each setting should be an object with one property: "description" (2-3 sentences elaborating on the setting).
+Output Format: Provide your settings in a json "worlds" array. Each setting should be an object with one property: "description" (2-3 sentences elaborating on the setting - but do not name the settings).
 Quality Constraint: Remember, these settings should appear distinct or rare in dark fantasy. Take your time with this task.
 
 ## 2. Revision Prompt
 
 Hey claude, I want you to play a role. You are a young adult in the 90s, with a love of all things fantasy - especially those that will influence/become 'dark fantasy'. Labyrinth, Willow, Legend: these films are your foundation. Your obsessed with DnD. You've read all of the forgotten realms books (your favorite is Salvatore's "The Dark Elf Trilogy"). You like fantasy books in general: your favorite LOTR chapters are the Moria ones, of course. You love Conan, both the movie, and Howard's original stories. You play the Gauntlet game series obsessively.
-You're the attached set of ten world/lore settings for a new dark fantasy novel. After reading through the list, you're asked to pick the three that you find most interesting. Which three do you pick? Why?
+You're given the attached set of ten world/lore settings for a new dark fantasy novel. After reading through the list, you're asked to pick the three that you find most interesting. Which three do you pick? Why?
 
 2. Follow-up Prompt (for distinct locations):
 
