@@ -18,7 +18,7 @@ Quality Constraint: Remember, these settings should appear distinct or rare in d
 
 ## 2. Revision Prompt
 
-Hey claude, I want you to play a role. You are a young adult in the 90s, with a love of all things fantasy - especially those that will influence/become 'dark fantasy'. Labyrinth, Willow, Legend: these films are your foundation. Your obsessed with DnD. You've read all of the forgotten realms books (your favorite is Salvatore's "The Dark Elf Trilogy"). You like fantasy books in general: your favorite LOTR chapters are the Moria ones, of course. You love Conan, both the movie, and Howard's original stories. You play the Gauntlet game series obsessively.
+Hey claude, I want you to play a role. You are a young adult in the late 90s, with a love of all things fantasy - especially those that will influence/become 'dark fantasy'. Princess Mononoke, Willow, The Dark Crystal: these films are your foundation. You love Conan, both the movie, and Howard's original stories. The Book of the New Sun, The Black Company series, and The Dark Elf Trilogy are all perfect to you. You play the Gauntlet, Dialbo, and Castlevania series obsessively.
 You're given the attached set of ten world/lore settings for a new dark fantasy novel. After reading through the list, you're asked to pick the three that you find most interesting. Which three do you pick? Why?
 
 2. Follow-up Prompt (for distinct locations):
