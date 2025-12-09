@@ -25,7 +25,7 @@ Extract brief, evocative tags from fictional source material via web research.
    - Search: `"[source]" review`
    - Search: `"[source]" [type](s)`
    - Search: `"[source]" [type] description`
-   - Fetch 3-4 authoritative pages (source material, detailed reviews, official websites)
+   - Fetch 2-3 authoritative pages (source material, detailed reviews, official websites)
 
 2. **Extraction Phase**
 

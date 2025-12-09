@@ -2,9 +2,7 @@
   "permissions": {
     "allow": [
       "WebSearch",
-      "WebFetch(domain:drova-forsaken-kin.fandom.com)",
-      "WebFetch(domain:www.neoseeker.com)",
-      "WebFetch(domain:store.steampowered.com)"
+      "WebFetch"
     ],
     "deny": [],
     "ask": []
