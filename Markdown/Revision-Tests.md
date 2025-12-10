@@ -411,3 +411,84 @@ Each threshold drinks something from those who cross it: the weight of a year, p
 After asking GPT, Gemini, and Claude to review the various 'Result' values produced above, all three consistently ranked result 3 (Dark-souls-style revision 2, ChatGPT result) as the best description in terms of LLM parsability/expandability. See the prompt guidelines used. This suggests that Using ChatGPT's method AND model for the purposes of generated the structure/outline prose for a dark fantasy story is the best strategy.
 However, in terms of prose quality, result 3 is absolutely atrocious. Presenting that text on an actual web app would immediately spell out that the text was written by an LLM (go figure). In terms of prose quality, the LLM rankings varied, but the general trend was toward the latter results as being higher quality (the Peake-style revisions). This is perhaps a result of "end-bias", where the LLMs see results at the beginning or end of a list as 'better'.
 For my personal tastes, see above. The Peake revisions were generally hihg quality, but trended toward wordiness.
+
+## George Thorogood Revision Test
+
+_Using the dark souls text for this one_
+
+### Prompt
+
+Can you rewrite a description for me? I want you to take this prologue text from the Dark souls intro, and write it like the spoken-word portion of a George Thorogood song. That prologue text is pasted below for reference. I'd like you to keep your rewrite under 500 characters long.
+After you rewrite the description, can you explain to me the general method you used - any tips/pointers I could use to rewrite it myself if I wanted to, or an analysis of what seperates the two styles?
+Dark Souls Prologue Text: [In the Age of Ancients the world was unformed, shrouded by fog. A land of gray crags, Archtrees and Everlasting Dragons. But then there was Fire and with fire came disparity. Heat and cold, life and death, and of course, light and dark. Then from the dark, They came, and found the Souls of Lords within the flame. Nito, the First of the Dead, The Witch of Izalith and her Daughters of Chaos, Gwyn, the Lord of Sunlight, and his faithful knights. And the Furtive Pygmy, so easily forgotten. With the strength of Lords, they challenged the Dragons. Gwyn's mighty bolts peeled apart their stone scales. The Witches weaved great firestorms. Nito unleashed a miasma of death and disease. And Seath the Scaleless betrayed his own, and the Dragons were no more. Thus began the Age of Fire. But soon the flames will fade and only Dark will remain. Even now there are only embers, and man sees not light, but only endless nights. And amongst the living are seen, carriers of the accursed Darksign. Yes, indeed. The Darksign brands the Undead. And in this land, the Undead are corralled and led to the north, where they are locked away, to await the end of the world... This is your fate. Only, in the ancient legends it is stated, that one day an undead shall be chosen to leave the undead asylum, in pilgrimage, to the land of ancient lords, Lordran.]
+
+### ChatGPT Result (Easily the Best)
+
+Now dig this, man. World used to be one long, foggy drag—no shape, no sound, just stone and big mean lizards on the scene. Then Fire walks in like a jukebox angel, flips the switch: hot and cold, life and death, spotlight and shadow. Out of that dark step four bad actors and one sneaky little man, pockets full of god-souls, lookin’ to roll them dragons and start the Age of Fire—and in the back of the bar, that cursed mark’s already burning your name.
+
+### Method
+
+`1. Strip it to the skeleton`
+
+- Note the core beats in plain language.
+- Think “outline of a campfire story,”
+
+`2. Set narrator and point of view`
+
+- Bar-band storyteller talking to the crowd; or guy sitting next to you at a dive bar.
+- Use 2nd person and a loose, talk-sung feel: something you could say over a 12-bar blues riff.
+- Refer to the subject or listener as "buddy," "friend," or "man."
+- Add the narrators own opinion, cynicism, or attitude to the story.
+- Tip: Inject rhetorical questions or casual observations.
+
+`3. Use barroom blues diction`
+
+- Trade nouns for rock/blues images.
+- Imagine taking a cathedral sermon and retelling it in a smoky roadhouse.
+
+`4. Keep the rhythm punchy, not solemn`
+
+- Short hits and stacked phrases; rely on a punchy, staccato beat (paratactic).
+- Read it out loud; if it can’t ride on drums and slide guitar, tighten or rephrase.
+- Tip: Break one long sentence into three short ones.
+
+`5. Compress names into attitude`
+
+- Collapse specifics into general types and keep just enough prose flavor.
+- Save details for another “verse,” not the opening spiel.
+
+### Test Prompt with Method
+
+I want you to rewrite the prologue text from the Dark souls intro. That prologue text is pasted below for reference. I'd like you to keep your rewrite under 500 characters long. I'd like you to rewrite it, using the following guidelines.
+Prologue Text: [In the Age of Ancients the world was unformed, shrouded by fog. A land of gray crags, Archtrees and Everlasting Dragons. But then there was Fire and with fire came disparity. Heat and cold, life and death, and of course, light and dark. Then from the dark, They came, and found the Souls of Lords within the flame. Nito, the First of the Dead, The Witch of Izalith and her Daughters of Chaos, Gwyn, the Lord of Sunlight, and his faithful knights. And the Furtive Pygmy, so easily forgotten. With the strength of Lords, they challenged the Dragons. Gwyn's mighty bolts peeled apart their stone scales. The Witches weaved great firestorms. Nito unleashed a miasma of death and disease. And Seath the Scaleless betrayed his own, and the Dragons were no more. Thus began the Age of Fire. But soon the flames will fade and only Dark will remain. Even now there are only embers, and man sees not light, but only endless nights. And amongst the living are seen, carriers of the accursed Darksign. Yes, indeed. The Darksign brands the Undead. And in this land, the Undead are corralled and led to the north, where they are locked away, to await the end of the world... This is your fate. Only, in the ancient legends it is stated, that one day an undead shall be chosen to leave the undead asylum, in pilgrimage, to the land of ancient lords, Lordran.]
+
+**Guidelines:**
+
+`1. Strip it to the skeleton`
+
+- Note the core beats in plain language.
+- Think “outline of a campfire story,”
+
+`2. Set narrator and point of view`
+
+- Bar-band storyteller talking to the crowd; or guy sitting next to you at a dive bar.
+- Use 2nd person and a loose, talk-sung feel: something you could say over a 12-bar blues riff.
+- Refer to the subject or listener as "buddy," "friend," or "man."
+- Add the narrators own opinion, cynicism, or attitude to the story.
+- Tip: Inject rhetorical questions or casual observations.
+
+`3. Use barroom blues diction`
+
+- Trade nouns for rock/blues images.
+- Imagine taking a cathedral sermon and retelling it in a smoky roadhouse.
+
+`4. Keep the rhythm punchy, not solemn`
+
+- Short hits and stacked phrases; rely on a punchy, staccato beat (paratactic).
+- Read it out loud; if it can’t ride on drums and slide guitar, tighten or rephrase.
+- Tip: Break one long sentence into three short ones.
+
+`5. Compress names into attitude`
+
+- Collapse specifics into general types and keep just enough prose flavor.
+- Save details for another “verse,” not the opening spiel.

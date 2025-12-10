@@ -1,11 +1,11 @@
 ---
-name: fiction-tag-extractor
+name: fiction-tagger-mark2
 description: Extract thematic tags from fiction (games, books, films). Use for tag/trait/descriptor extraction from sources like Dark Souls, Black Company, etc.
 tools: WebSearch, WebFetch, Write
 model: haiku
 ---
 
-# Fiction Tag Extractor
+# Fiction Tagger Mark 2
 
 Extract brief, evocative tags from fictional source material.
 

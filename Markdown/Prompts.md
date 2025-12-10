@@ -36,3 +36,39 @@ Naming rules (if applicable): Names should create questions, not answer them. Av
 Anti-examples: [Provide 2-3 examples of the generic output you want to avoid for this specific element type.]
 
 The anti-examples are key—they give me a concrete floor to stay above. Good luck with the testing, man.
+
+## Thorogood Revision
+
+I want you to rewrite the following notes I have for an album review. I'd like you to keep your rewrite under 500 characters long. Rewrite it using the guidelines pasted below.
+"review_text": "Porkchops instantly healing HP, the first castle you build out of cobblestone, that dog you tamed, the nether update - if you're late 20s/early-30s and this isn't the soundtrack to your chilhood, then I don't know what to tell you. You got the short end of the parent stick."
+
+**Guidelines:**
+
+`1. Strip it to the skeleton`
+
+- Note the core beats in plain language.
+- Think “outline of a campfire story,”
+
+`2. Set narrator and point of view`
+
+- Bar-band storyteller talking to the crowd; or guy sitting next to you at a dive bar.
+- Use 2nd person and a loose, talk-sung feel: something you could say over a 12-bar blues riff.
+- Refer to the subject or listener as "buddy," "friend," or "man."
+- Add the narrators own opinion, cynicism, or attitude to the story.
+- Tip: Inject rhetorical questions or casual observations.
+
+`3. Use barroom blues diction`
+
+- Trade nouns for rock/blues images.
+- Imagine taking a cathedral sermon and retelling it in a smoky roadhouse.
+
+`4. Keep the rhythm punchy, not solemn`
+
+- Short hits and stacked phrases; rely on a punchy, staccato beat (paratactic).
+- Read it out loud; if it can’t ride on drums and slide guitar, tighten or rephrase.
+- Tip: Break one long sentence into three short ones.
+
+`5. Compress names into attitude`
+
+- Collapse specifics into general types and keep just enough prose flavor.
+- Save details for another “verse,” not the opening spiel.

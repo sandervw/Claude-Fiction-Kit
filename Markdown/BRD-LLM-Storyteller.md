@@ -39,7 +39,7 @@ Replay Stories:
 
 Generate your `Location` or `Setting` (uncommon to genre)
 
-Generate uncommon `Protagonists`: Dwarves, Machines/Automatons, Veg-folk (but not ents)
+Generate uncommon `Protagonists`, including non-human ones: Dwarves, Machines/Automatons, Veg-folk (but not ents)
 
 - Need to be specific to setting
 
