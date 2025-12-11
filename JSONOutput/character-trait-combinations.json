@@ -1,0 +1,29 @@
+{
+  "tags-lists": {
+    "01-tags": [
+      "reckless",
+      "solitary",
+      "withdrawn"
+    ],
+    "02-tags": [
+      "melancholic",
+      "desperate",
+      "jealous"
+    ],
+    "03-tags": [
+      "swooning",
+      "violent",
+      "curious"
+    ],
+    "04-tags": [
+      "introspective",
+      "self-pitying",
+      "unstable"
+    ],
+    "05-tags": [
+      "joyless",
+      "eccentric",
+      "shackled"
+    ]
+  }
+}

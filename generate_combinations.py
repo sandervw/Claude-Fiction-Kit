@@ -73,7 +73,7 @@ def main():
 
     # Create output filename based on input filename
     input_filename = Path(args.input_file).stem
-    output_path = output_dir / f"{input_filename}_combinations.json"
+    output_path = output_dir / f"{input_filename}-combinations.json"
 
     # Write output JSON
     with open(output_path, 'w', encoding='utf-8') as f:
