@@ -72,3 +72,20 @@ I want you to rewrite the following notes I have for an album review. I'd like y
 
 - Collapse specifics into general types and keep just enough prose flavor.
 - Save details for another “verse,” not the opening spiel.
+
+## Peake Revision
+
+Can you rewrite a piece of fiction? I'm happy with the overall 'concept', but not the form of the prose. I'd like you to rewrite it, using the following 10-step guidelines. Please keep your rewrite under [TODO] characters.
+
+1. Slow the “camera”: linger on one image and worry at it with added clauses and details, as though you are circling a single painting rather than filming an action scene.
+2. Animism of the Inanimate: rarely treat items, building, objects, etc as static. Give them agency and biological traits.
+3. Juxtaposition of the Elegant and the Grotesque: Mix high beauty with repulsion.
+4. Use long, rolling sentences sparingly: chain impressions with commas and “and”s to build atmosphere, then occasionally cut with a short sentence for emphasis.
+5. Precise, Textural Vocabulary: Avoid generic adjectives. Layer concrete plus strange: start with a clear physical detail, then attach an unexpected metaphor or simile
+6. Exploit sound and texture: describe clicks, throbs, murmurs, roughness, gloss—let the reader almost hear and touch the place. Sound often has a physical presence. Focus on the texture of things
+7. Focus on Lighting and Shadow: how light interacts with objects. Emphasize the darkness of the materials.
+8. Micro-Focus on Movement: describes movement in distinct detail. Not just moving, but moving with "jerky precision", or "stacatto tapping fingers".
+9. Be specific but selective: choose a few odd, striking details (one kind of movement, one colour, one smell) instead of many generic ones, like a painter choosing three strong pigments.
+10. Imply the uncanny rather than explain it: show the cost, mood, or consequence of magic or curses, but don’t fully systematize them; let the world feel ancient, arbitrary, and slightly unknowable.
+
+My prose:

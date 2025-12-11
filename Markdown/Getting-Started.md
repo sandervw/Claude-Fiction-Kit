@@ -5,15 +5,23 @@
 Don't start with the outline. If you give the LLM a full outline and
 ask it to fill in pivots, you'll get competent but generic prose.
 The structure will be correct, but the voice will be bland. You'll
-have built a skeleton with no flesh.
+have built a skeleton with no flesh. Start with a single scene.
 
-Start with a single scene.
+`Genre:` Dark Fantasy
 
-- Genre: Dark Fantasy
-- Subgenre: Dungeon Crawl
-- World: "Monastery-fortresses hanging above a world that choked. The chains are ancient, the anchors are cracking, and the abbeys sway in winds that carry poison. The monks pray for structural integrity. It's unclear if anyone listens."
-- Protagonist:
-- One moment: Not a full pivot—just a single screen worth of prose
+`Subgenre:` Dungeon Crawl
+
+`World:` "Monastery-fortresses hanging above a world that choked. The chains are ancient, the anchors are cracking, and the abbeys sway in winds that carry poison. The monks pray for structural integrity. It's unclear if anyone listens."
+
+`Protagonist:`
+
+THE BELL-RINGER'S APPRENTICE
+Core Identity: His master fell from the bell tower. He caught the rope but couldn't hold it. Now he rings the hours alone—not because duty demands it, but because the routine is the only thing keeping him from unraveling completely.
+Physical Presence: His face has gone blank. Not peaceful—erased. The other monks find it difficult to look at him; there's something uncanny about a human face with nothing behind it, like a door that opens onto a wall. He's stopped maintaining himself in the small ways that mark someone as present in their own life: his beard has grown wild, knotting faster than he bothers to pick it out, a physical record of neglect. But occasionally—unpredictably—something will strike him as funny, and out comes this laugh: high, sharp, almost childlike. It doesn't reach his eyes. It doesn't change his expression. It just happens, then stops, and he continues as if it never occurred.
+Psychological Fractures: The trauma broke something loose in him, and what emerged doesn't quite fit together. He faints at odd moments—sudden collapses triggered by heights, by rope tension, by bells that ring at the wrong pitch. The monks have learned to catch him. But they've also learned to keep their distance, because there's violence in him now: a hair-trigger startle response that's left brothers with black eyes and broken fingers when they've touched him without warning. He apologizes afterward, expressionless, and means it. He does it again anyway.
+The Investigation: Between the swooning and the violence, a strange curiosity has taken root. He's begun pulling at threads—examining the old rope, questioning monks about the wind patterns that day, mapping who was in the tower and when. He doesn't accuse anyone directly. He just asks, with that blank face, and writes the answers in a journal he keeps beneath the largest bell. He doesn't know what he's looking for. Proof it wasn't his fault. Proof it was someone else's. Proof that it meant something, that his grip failing wasn't just physics and sweat and bad luck.
+
+`One moment:` Not a full pivot—just a single screen worth of prose
 
 Then test: Can the LLM produce text that sounds like it belongs in
 Vermis? In Dark Souls item descriptions? That has the "mythic
