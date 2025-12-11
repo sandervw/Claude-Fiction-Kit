@@ -40,7 +40,7 @@ The anti-examples are key—they give me a concrete floor to stay above. Good lu
 ## Thorogood Revision
 
 I want you to rewrite the following notes I have for an album review. I'd like you to keep your rewrite under 500 characters long. Rewrite it using the guidelines pasted below.
-"review_text": "Porkchops instantly healing HP, the first castle you build out of cobblestone, that dog you tamed, the nether update - if you're late 20s/early-30s and this isn't the soundtrack to your chilhood, then I don't know what to tell you. You got the short end of the parent stick."
+"review_text": "This is my favorite dungeon synth album of all time, and I mostly just listen to dungeon synth; not the most ambient, but it tells the best cohesive story; every track paints a picture with music - you see the valley dwellers, feel the boulder's cool air, stand in the silent crypt; this is music to daydream with"
 
 **Guidelines:**
 

@@ -41,9 +41,9 @@ _Note - character limit is 498_
     "revised-text": "You built your first fort outta cobblestone, man. Ugly thing. But it was yours. Dog at your side. Porkchops on the fire. Portal glowin' purple. Now you're pushin' thirty and these piano keys hit different. If they don't? Friend, somebody back home dropped the ball on ya."
   },
   {
-    "album_title": "",
-    "artist_name": "",
-    "review_text": ""
+    "album_title": "Compendium Reliquiae",
+    "artist_name": "DIM",
+    "review_text": "This is my favorite dungeon synth album of all time, and I mostly just listen to dungeon synth; not the most ambient, but it tells the best cohesive story; every track paints a picture with music - you see the valley dwellers, feel the boulder's cool air, stand in the silent crypt; this is music to daydream with"
   },
   {
     "album_title": "",
