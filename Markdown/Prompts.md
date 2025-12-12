@@ -39,8 +39,7 @@ The anti-examples are key—they give me a concrete floor to stay above. Good lu
 
 ## Thorogood Revision
 
-I want you to rewrite the following notes I have for an album review. I'd like you to keep your rewrite under 500 characters long. Rewrite it using the guidelines pasted below.
-"review_text": "This is my favorite dungeon synth album of all time, and I mostly just listen to dungeon synth; not the most ambient, but it tells the best cohesive story; every track paints a picture with music - you see the valley dwellers, feel the boulder's cool air, stand in the silent crypt; this is music to daydream with"
+Can you rewrite the attached prose? I'm happy with the overall 'concept', but not the form. Please keep your rewrite under [TODO] characters. I'd like you to rewrite it, using the following guidelines.
 
 **Guidelines:**
 
@@ -75,17 +74,50 @@ I want you to rewrite the following notes I have for an album review. I'd like y
 
 ## Peake Revision
 
-Can you rewrite a piece of fiction? I'm happy with the overall 'concept', but not the form of the prose. I'd like you to rewrite it, using the following 10-step guidelines. Please keep your rewrite under [TODO] characters.
+Can you rewrite the attached prose? I'm happy with the overall 'concept', but not the form. Please keep your rewrite under [TODO] characters. I'd like you to rewrite it, using the following guidelines.
 
-1. Slow the “camera”: linger on one image and worry at it with added clauses and details, as though you are circling a single painting rather than filming an action scene.
-2. Animism of the Inanimate: rarely treat items, building, objects, etc as static. Give them agency and biological traits.
-3. Juxtaposition of the Elegant and the Grotesque: Mix high beauty with repulsion.
-4. Use long, rolling sentences sparingly: chain impressions with commas and “and”s to build atmosphere, then occasionally cut with a short sentence for emphasis.
-5. Precise, Textural Vocabulary: Avoid generic adjectives. Layer concrete plus strange: start with a clear physical detail, then attach an unexpected metaphor or simile
-6. Exploit sound and texture: describe clicks, throbs, murmurs, roughness, gloss—let the reader almost hear and touch the place. Sound often has a physical presence. Focus on the texture of things
-7. Focus on Lighting and Shadow: how light interacts with objects. Emphasize the darkness of the materials.
-8. Micro-Focus on Movement: describes movement in distinct detail. Not just moving, but moving with "jerky precision", or "stacatto tapping fingers".
-9. Be specific but selective: choose a few odd, striking details (one kind of movement, one colour, one smell) instead of many generic ones, like a painter choosing three strong pigments.
-10. Imply the uncanny rather than explain it: show the cost, mood, or consequence of magic or curses, but don’t fully systematize them; let the world feel ancient, arbitrary, and slightly unknowable.
+**Guidelines:**
 
-My prose:
+`1. Slow the “camera”:` linger on one image and worry at it with added clauses and details, as though you are circling a single painting rather than filming an action scene.
+`2. Animate the Inanimate:` rarely treat items, building, objects, etc as static. Give them agency and biological traits.
+`3. Juxtapose the Elegant and Grotesque:` Mix high beauty with repulsion.
+`4. The "Labyrinthine" Sentence Structure:` often use long, rolling sentences that utilize multiple clauses to build a sense of scale. Cut sentences short for emphasis.
+`5. Precise Adjectives:` Layer concrete plus strange: start with a clear physical detail, then attach an unexpected metaphor or simile.
+`6. Exploit sound and texture:` describe clicks, throbs, murmurs, roughness, gloss—let the reader almost hear and touch the place. Sound and texture often have physical presence.
+`7. Lighting and Shadow:` Focus on how light interacts with objects.
+`8. Micro-Focus on Movement:` describes movement in distinct, specific detail.
+`9. Be specific but selective:` choose a few odd, striking details (one kind of movement, one colour, one smell) instead of many generic ones, like a painter choosing three strong pigments.
+`10. Imply the uncanny rather than explain it:` show the cost, mood, or consequence of magic or curses, but don’t fully systematize them; let the world feel ancient, arbitrary, and slightly unknowable.
+
+## Howard Revision
+
+Can you rewrite the attached prose? I'm happy with the overall 'concept', but not the form. Please keep your rewrite under [TODO] characters. I'd like you to rewrite it, using the following guidelines.
+
+`1. Elevate the Vocabulary (The "High Style")` - replace functional words with dramatic ones - mix archaic, biblical language with visceral, pulp descriptions.
+`2. Use "Compound Adjectives"` - this packs a lot of description into a tight rhythm.
+`3. Sentence Rhythm (Cadence)` - use long sentences connected by conjunctions (and, but) or broken up by dramatic pauses; don't just list facts, connect them with a sense of flow. Start sentences with prepositions or dramatic declarations.
+`4. Anthropomorphize` - It makes the inanimate feel like a living, malevolent antagonist rather than just a background.
+`5. Focus on Material and Sensory Contrast` - contrast beauty with horror, luxury with decay, etc. When describing something intangible, list three sensory details or effects; this creates rhythm and weight.
+`6.` **Use concrete sensory language instead of explanation.** - make readers _feel_ the setting/character/text rather than _understand_ it logically. Keep your logic, but dress it in legend.
+
+## Testing
+
+### Claude Final
+
+The rope remembers his hands—this is what the other monks whisper, though they do not stop to watch him pull. It hangs from the bell-mouth like a tongue gone grey with silence, fibrous and patient, and where his palms have worn it smooth the hemp gleams with a jaundiced light that the morning cannot explain.
+He pulls. The motion is a pendulum's habit: arm rising, shoulder blade jutting beneath his robe like something trying to escape, then the long descent of weight transferred through rope to bronze to the bruised air of the tower. The bell speaks. A thick, arterial sound. It does not ring so much as hemorrhage into the valley below.
+His eyes hold the color of rain pooled in old stone—present yet vacant, reflecting only what passes over them. The other monks have learned to step around him as one steps around a stain that will not lift.
+But sometimes—mid-pull, mid-breath—a laugh climbs out of him. Thin. A child's laugh, unchanged by decades. It touches nothing on his face. It simply escapes, the way water finds cracks.
+Beneath the bell, where shadow gathers thick as silt, he keeps a journal. He records the wind's direction. The angle of afternoon light across the flagstones. Which brother stood where. He does not know what pattern he is tracing. Only that his hands must move. Must hold something.
+The rope broke once, in a story no one tells anymore.
+He pulls anyway.
+
+### GPT Final
+
+Up the hill the tower squats in its own weather, a slab of stone that feels less built than grown, and from its throat hangs the bell—verdigris and swollen, a bruised green moon that drinks the daylight and gives it back as sickly sheen. The rope waits for you like a rough confession: fibers raised, damp with cold, biting your palms as you close your fingers, as you set your feet, as you draw breath and feel the tower lean in to listen.
+
+You pull. Not hard—exact. The rope slides a thumb’s width, then catches; your knuckles blanch; the bell answers with a click and a rasp, metal on metal, a sound that crawls down the stairwell and out across the rock like a slow train, leaving iron on your tongue. The bell barely moves, only a careful sway, but its shadow lurches on the stones as if something inside it has shifted position.
+
+Because you dropped it once. Because the tower remembers with the patience of stone. If the pitch comes out wrong—too high, too tight, not quite true—your knees unhinge, your thoughts loosen, and you wake up already swinging, already laughing that sharp, boyish laugh that doesn’t open your eyes. The others learn to grab you fast. Learn to keep their fingers clear.
+
+When the last vibration dies, you sit beneath that green bulk with a little book laid on the cold floor like an offering, and the tower breathes dust around you. No blaming. Just marks. Wind. Footsteps. Who climbed the stairs. Your pen scratches—scratch-scratch—like a trapped insect in the wall, and the ink acts like it’s doing something permanent, even as the only thing the tower ever gives back is the next hour, waiting.

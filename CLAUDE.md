@@ -42,33 +42,8 @@ Output goes to `JSONOutput/[source]-[type].json`
 
 ## Key Concepts
 
-### Prose Revision Guidelines
-The repository documents tested methods for rewriting prose in specific styles:
-
-**Dark Souls Style** (Gemini method preferred):
-1. Mythic Capitalization - capitalize common nouns as Proper Nouns
-2. Passive Historic Voice - narrator as observer of fate
-3. Contrast and Disparity - juxtapose opposing concepts rhythmically
-4. Archaic/Somber Vocabulary - gothic over technical words
-5. "The Turn" - history first, then immediate danger to the individual
-
-**Robert E. Howard Style** (GPT method preferred):
-1. Name places and give reputation
-2. Physical, archaic nouns/verbs over neutral ones
-3. Turn abstracts into three concrete images
-4. Personify landscape as beast/titan
-5. Rolling sentence chains with occasional short cuts
-6. Concrete sensory language over explanation
-7. Logic dressed in legend
-
-**Mervyn Peake Style**:
-1. Animism of the inanimate - buildings with agency
-2. Juxtapose elegant and grotesque
-3. Labyrinthine sentence structure with multiple clauses
-4. Precise textural vocabulary
-5. Focus on lighting and shadow
-6. Auditory weight - sound as physical presence
-7. Micro-focus on movement details
+### Prose Revision
+Use the `literary-revision` skill for prose revision in specific styles (Thorogood, Howard, Peake, etc.). Style references are maintained in `.claude/skills/literary-revision/references/`.
 
 ### Tag Quality Guidelines
 Good tags: brief (1-3 words), evocative, transferable ("black palace", "ashen ruins")
