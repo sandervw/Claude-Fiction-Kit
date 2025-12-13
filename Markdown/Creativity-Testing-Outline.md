@@ -49,7 +49,7 @@ For each, provide:
 A reusable "ANTI-PATTERN CONSTRAINTS" block for your project:
 
 ```
-AVOID THESE PATTERNS:
+AVOID THESE SCENE PATTERNS:
 - **Trauma-Triggered Outburst**: A protagonist suffering from PTSD or conditioning involuntarily reacts with violence or panic to a benign sensory trigger, such as a sound or touch.
 - **The Interrupted Revelation**: A witness or ally is on the verge of revealing the truth but is silenced by an alarm, injury, or sudden danger before they can speak.
 - **Sabotage Discovered via Duty**: The protagonist performs a dangerous or hated task and conveniently finds physical proof of tampering.
