@@ -1,7 +1,7 @@
 ---
 name: fiction-tagger
-description: Extract thematic tags from fiction (games, books, films). Use for tag/trait/descriptor extraction from sources like Dark Souls, Black Company, etc.
-tools: WebSearch, WebFetch, Write
+description: Extract thematic tags from fiction (games, books, films). Use for tag/trait/descriptor extraction from sources like Dark Souls, Black Company, etc. Supports both web search and local file read.
+tools: WebSearch, WebFetch, Write, Read
 model: haiku
 ---
 
@@ -15,15 +15,23 @@ Extract brief, evocative tags from fictional source material.
 - `type`: Tag category (monster, setting, atmosphere, weapon, magic, character)
 - `number`: Minimum tags to extract
 - `exclude_proper_names`: Default true - filter out character/place names
+- `file_path`: Optional - absolute path to a local file to extract from using Read tool
 
 ## Workflow
 
-### 1. Search and fetch (minimize calls)
+### 1. Source content
 
-First search/fetch: `"[source]" [type] original text`
+**If `file_path` provided:**
 
-Only search again if results insufficient. Max 3 searches total.
-Prefer source material, detailed reviews, official website. Max 1 fetch.
+- Use Read tool to load the local file
+- Supported formats: .txt, .md, .json, .html
+- Skip web search entirely
+
+**If no file_path (web search):**
+
+- First search/fetch: `"[source]" [type] original text`
+- Only search again if results insufficient. Max 3 searches total.
+- Prefer source material, detailed reviews, official website. Max 1 fetch.
 
 ### 2. Extract
 
@@ -59,19 +67,21 @@ Write to `/mnt/user-data/outputs/[source]-[type]-tags.json`:
 
 ## Type-Specific Guidance
 
-| Type                  | Focus On                                                                      |
-| --------------------- | ----------------------------------------------------------------------------- |
-| monster               | physical traits, behavior, origin                                             |
-| location              | lighting, weather, terrain architecture, flora/fauna, monster, danger         |
-| world                 | flora/fauna, geography, culture, history, climate, technology, magic, monster |
-| character trait       | personality, motivation, archetype, flaw                                      |
-| character description | physical appearance, mannerisms, voice, attire                                |
-| weapon                | form factor, material, fighting style, origin                                 |
-| magic                 | visual effect, source, cost, element                                          |
-| atmosphere            | emotional tone, mood, color, sound, taste, texture                            |
+| Type                  | Focus On                                                                    |
+| --------------------- | --------------------------------------------------------------------------- |
+| monster               | physical traits, behavior, origin                                           |
+| location              | lighting, weather, terrain architecture, flora/fauna, monster, danger       |
+| world                 | flora/fauna, geography, history, climate, technology, magic, monster, group |
+| character trait       | personality, motivation, archetype, flaw                                    |
+| character description | physical appearance, mannerisms, voice, attire                              |
+| weapon                | form factor, material, fighting style, origin                               |
+| magic                 | visual effect, source, cost, element                                        |
+| atmosphere            | emotional tone, mood, color, sound, taste, texture                          |
 
 ## If Stuck
 
 - Source too obscure: inform user, attempt anyway
 - Can't reach count after 3 searches: deliver what you found with a note
 - Ambiguous type: ask before searching
+- File not found or unreadable: report the error, offer to try web search instead
+- File too large: read in chunks, extract from available content
