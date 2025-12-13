@@ -26,6 +26,7 @@ Analyze these scene concepts. Identify:
 4. Emotional beats that feel "expected"
 
 Be specific. Name the pattern, not just "cliché."
+Output your results as a json array of objects, with a 'pattern-name', 'description' (be brief), and 'explanation' of why it's predictable.
 ```
 
 - Repeat 2-3 times with different seed generations
@@ -49,9 +50,12 @@ A reusable "ANTI-PATTERN CONSTRAINTS" block for your project:
 
 ```
 AVOID THESE PATTERNS:
-- [Pattern 1]: [description]
-- [Pattern 2]: [description]
-...
+- **Trauma-Triggered Outburst**: A protagonist suffering from PTSD or conditioning involuntarily reacts with violence or panic to a benign sensory trigger, such as a sound or touch.
+- **The Interrupted Revelation**: A witness or ally is on the verge of revealing the truth but is silenced by an alarm, injury, or sudden danger before they can speak.
+- **Sabotage Discovered via Duty**: The protagonist performs a dangerous or hated task and conveniently finds physical proof of tampering.
+- **Institutional Gaslighting**: Authority figures or experts nervous about the "official story" use disciplinary meetings or soft warnings to intimidate the protagonist and hide the truth.
+- **The Corrupted Artifact**: A sacred, ceremonial, or innocent object (such as a gift or research cache) is revealed to be a weapon, evidence of guilt, or a sign of moral rot.
+- **Public Social Exile**: A public ceremony is disrupted by the protagonist, turning the community against them and forcing them to investigate alone.
 ```
 
 ---

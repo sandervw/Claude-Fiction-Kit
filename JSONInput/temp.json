@@ -1,0 +1,207 @@
+[
+  {
+    "pattern-name": "Trial-by-Vertigo Initiation",
+    "description": "Protagonist’s competence is tested through a dangerous descent over an abyss.",
+    "explanation": "Genre often externalizes inner fear through literal height or fall; the scene establishes stakes and trauma early in a familiar, visual way."
+  },
+  {
+    "pattern-name": "Witness Notices the Wrong Detail",
+    "description": "A minor character reveals a discrepancy that implies foul play.",
+    "explanation": "Mystery structures frequently advance via an elderly or marginal observer whose overlooked detail reframes an accident as intentional."
+  },
+  {
+    "pattern-name": "Rescue Reveals Sabotage",
+    "description": "Hero saves someone, then immediately discovers evidence of deliberate harm.",
+    "explanation": "Combines action beat with plot revelation; predictable because danger conveniently positions the protagonist to uncover the clue."
+  },
+  {
+    "pattern-name": "Sacred Object Corruption",
+    "description": "A ritual instrument malfunctions, signaling moral or supernatural rot.",
+    "explanation": "Horror and gothic fiction regularly use defiled sacred symbols to telegraph unseen evil without explicit confrontation."
+  },
+  {
+    "pattern-name": "Merchant Remembers Too Much",
+    "description": "A traveling tradesman provides crucial provenance information.",
+    "explanation": "Economy-side characters are a common, low-risk exposition device: outside the institution, plausibly informed, briefly present."
+  },
+  {
+    "pattern-name": "Hidden Heretical Shrine",
+    "description": "Secret worship space reveals an organized, ideological antagonist.",
+    "explanation": "Discovery of a concealed altar is a standard midpoint escalation, transforming suspicion into proof of conspiracy."
+  },
+  {
+    "pattern-name": "Interrupted Confession",
+    "description": "A character attempts to reveal truth but is cut off before completion.",
+    "explanation": "This beat sustains mystery through delay; its predictability comes from repeated use as a tension extender rather than new information."
+  },
+  {
+    "pattern-name": "Overreaction as Trauma Tell",
+    "description": "Protagonist reacts with disproportionate violence to a benign stimulus.",
+    "explanation": "Well-worn shorthand for PTSD or conditioning; the audience anticipates the outburst as soon as a sudden noise is staged."
+  },
+  {
+    "pattern-name": "Storm as Emotional Climax Proxy",
+    "description": "Environmental chaos mirrors internal crisis during a critical duty.",
+    "explanation": "Natural violence aligning with psychological turmoil is a classic externalization technique, expected at late-second-act escalation."
+  },
+  {
+    "pattern-name": "Self-Incriminating Artifact",
+    "description": "Protagonist finds evidence of their own actions they don’t remember.",
+    "explanation": "Amnesia or dissociation twists often culminate in authored proof, a familiar hook that reframes the hero as potential culprit."
+  },
+  {
+    "pattern-name": "Ceremonial Gift Becomes a Weapon",
+    "description": "An innocent-looking ritual object triggers a violent incident.",
+    "explanation": "The “special present” that’s secretly dangerous is a common inciting beat because it creates instant mystery while plausibly bypassing suspicion (it’s a gift, in public). :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "pattern-name": "Blackout Violence Whiplash",
+    "description": "Character loses time and wakes mid-atrocity, implying possession/conditioning.",
+    "explanation": "This reliably manufactures doubt (“did I do it?”) and sets up later reveals (trigger, hypnotic cue, implanted behavior), so the audience anticipates a hidden mechanism rather than random madness. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "pattern-name": "Hated Maintenance Job Reveals Sabotage",
+    "description": "A dreaded routine task becomes the investigation’s first hard clue.",
+    "explanation": "Putting the protagonist in the one place nobody wants to go is a standard way to ‘earn’ the clue and isolate them for danger; the reveal (fresh file marks) is the expected payoff. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "pattern-name": "Official Story vs. Nervous Expert",
+    "description": "A specialist’s answers don’t match the accepted account, and their anxiety telegraphs a lie.",
+    "explanation": "The ‘expert contradicts the narrative + acts scared’ combo is a classic breadcrumb: it signals conspiracy without proving it yet, so viewers expect the expert is hiding institutional guilt or fear. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "pattern-name": "Involuntary Outburst at a Solemn Rite",
+    "description": "A socially catastrophic reflex erupts at the worst possible ceremonial moment.",
+    "explanation": "This beat predictably flips grief into suspicion/alienation in a single stroke; the silence afterward is the genre’s expected ‘social death’ penalty that escalates isolation. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "pattern-name": "Obsessive Evidence Cache Misread as Guilt",
+    "description": "Hidden research materials are discovered and interpreted as incriminating fixation.",
+    "explanation": "The same objects can read as ‘investigation’ to the protagonist and ‘premeditation’ to others; audiences expect this misunderstanding because it’s an efficient midpoint turn to shift allies into accusers. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "pattern-name": "Trauma Reflex Harms the Innocent",
+    "description": "A benign touch triggers sudden violence against a weaker bystander.",
+    "explanation": "This is a familiar way to show the protagonist is dangerous even when not choosing to be, forcing consequences (discipline, exile threats) and making redemption harder—an expected escalation lever. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "pattern-name": "Disciplinary ‘Conversation’ as Power Play",
+    "description": "Authority summons the protagonist under the guise of dialogue, but it’s coercive.",
+    "explanation": "In closed hierarchies, the ‘not really a conversation’ scene is a predictable dominance ritual: it signals institutional control and foreshadows cover-ups rather than fair process. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "pattern-name": "Routine as Coping During Catastrophe",
+    "description": "While everyone panics, the protagonist clings to an assigned ritual with eerie calm.",
+    "explanation": "Genre logic treats this as both characterization (fractured psyche) and omen (they’re connected to the system/secret). Audiences expect the ritual act to matter later (signal, code, trigger). :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "pattern-name": "Ominous Glimpse of the ‘Bigger Thing’",
+    "description": "A fleeting sighting hints at a large hidden threat; elders react like it’s known.",
+    "explanation": "The quick tease + evasive reaction is a standard promise of scope expansion: viewers expect the mystery to outgrow the personal murder plot into a contained-monster/contained-secret problem. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "pattern-name": "Dead Mentor’s Secret Second Thread",
+    "description": "A hidden journal reveals the mentor investigated the same mystery and died for it.",
+    "explanation": "This is a familiar handoff: it legitimizes the protagonist’s suspicions, supplies a quest object (cipher), and frames the death as targeted—so the audience predicts a conspiracy chain. :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "pattern-name": "Cipher-as-Gatekeeping Clue",
+    "description": "Key information is locked behind code, delaying answers while raising stakes.",
+    "explanation": "Ciphers are a predictable pacing device: they prevent premature resolution and justify future scenes of decoding, ally recruitment, or risky theft of reference materials. :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "pattern-name": "Confession Interrupted by Alarm",
+    "description": "A terrified witness starts to name the culprit, then an emergency cuts them off.",
+    "explanation": "This interruption is a classic suspense valve: it withholds the reveal while escalating immediate danger (failing chains). Audiences expect the confessor to die, disappear, or be silenced next. :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "pattern-name": "Infrastructure Failure as Ticking Clock",
+    "description": "The setting’s physical support system starts failing, forcing action now.",
+    "explanation": "A literal countdown (chains failing) predictably converts a whodunit into a survival deadline, ensuring the third act can’t stay purely investigative. :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "pattern-name": "Closed Institution, Shared Secret",
+    "description": "Senior members exchange loaded looks that imply collective concealment.",
+    "explanation": "This is a recognizable ‘the system is complicit’ signal; viewers expect the antagonist to be institutional (cabal, cover-up) rather than a lone rogue because multiple leaders already know something. :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "pattern-name": "Cause-Effect Ladder: Clue → Suspicion → Isolation → Greater Threat",
+    "description": "Each discovery increases both external blame and environmental danger.",
+    "explanation": "The sequence is mechanically familiar: a hard clue (sabotage) prompts probing (contradicting witness), which triggers social backlash (funeral incident, stash discovery), culminating in overt peril (alarms, failing chains). The predictability comes from the steady ratchet with no genuine de-escalation beats. :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "pattern-name": "Expected Emotional Beat: Public Shame as Social Exile",
+    "description": "A single taboo moment turns the community against the protagonist.",
+    "explanation": "Stories in strict communities often use ‘public breach of decorum’ to flip belonging into suspicion quickly; audiences expect the protagonist to be ostracized and forced into lone-wolf investigation. :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "pattern-name": "Expected Emotional Beat: Validation Snatched Away",
+    "description": "A witness offers relief (“I saw someone else”), then the moment is stolen.",
+    "explanation": "This is a common emotional bait-and-switch: it spikes hope, then yanks it to prolong tension. Viewers anticipate the story will not allow clean vindication until late. :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "pattern-name": "Peril Interrupts Revelation",
+    "description": "A key interrogation is derailed by immediate physical danger.",
+    "explanation": "Mystery scenes often delay answers by forcing a survival choice, keeping the truth just out of reach while still escalating tension."
+  },
+  {
+    "pattern-name": "Sensory PTSD Trigger Collapse",
+    "description": "A sound/weight sensation triggers a flashback and incapacitation.",
+    "explanation": "Trauma narratives reliably use a repeated sensory cue (bell pitch, rope weight) to force a breakdown right when the protagonist needs control."
+  },
+  {
+    "pattern-name": "Vulnerability Window Enables Evidence Theft",
+    "description": "He blacks out; on waking, crucial notes/pages are missing.",
+    "explanation": "This is a standard investigation throttle: remove the protagonist’s progress without resolving the plot, and confirm there’s an active adversary."
+  },
+  {
+    "pattern-name": "Hero Takes the Job No One Else Will",
+    "description": "He volunteers for the most feared task and finds a clue there.",
+    "explanation": "Genre logic makes danger = access: the protagonist’s willingness to suffer is predictably rewarded with “exclusive” evidence."
+  },
+  {
+    "pattern-name": "Tamper Mark Discovery",
+    "description": "Physical tool marks imply sabotage rather than accident.",
+    "explanation": "A clean, readable clue that shifts the story from grief to conspiracy is a familiar pivot beat, because it upgrades stakes with minimal ambiguity."
+  },
+  {
+    "pattern-name": "Midnight Informant Visit Goes Wrong",
+    "description": "A would-be witness arrives at night, then gets incapacitated.",
+    "explanation": "Noir/mystery structure routinely introduces testimony and then yanks it away via interruption or injury to prolong uncertainty."
+  },
+  {
+    "pattern-name": "Institutional Gaslight Warning",
+    "description": "Authority privately suggests he’s the problem (“unsettling”).",
+    "explanation": "Secretive-order stories predictably pit truth-seeker vs. institution; a soft warning signals future containment, exile, or framing."
+  },
+  {
+    "pattern-name": "Public Ritual Becomes Social Fallout",
+    "description": "A funeral/memorial is disrupted by an involuntary response.",
+    "explanation": "Communal ceremonies are commonly used as pressure cookers: the protagonist’s “wrong” emotion triggers shame, isolation, and suspicion on schedule."
+  },
+  {
+    "pattern-name": "Obsessive Forensics Draws the Wrong Eyes",
+    "description": "He scrutinizes materials (rope fibers) and a merchant notices.",
+    "explanation": "Investigation scenes often convert competence into exposure: the act of checking evidence predictably creates a new antagonist or leverage point."
+  },
+  {
+    "pattern-name": "World-Reveal Beat vs. Personal Blindness",
+    "description": "A big external reveal happens, but he refuses to look.",
+    "explanation": "This is a classic characterization shortcut: show obsession by having the hero ignore spectacle, signaling he’s psychologically “stuck.”"
+  },
+  {
+    "pattern-name": "Mirror Alienation Moment",
+    "description": "He doesn’t recognize himself in a reflection.",
+    "explanation": "Identity-dissociation imagery is a common, expected shorthand for trauma escalation—an interior crisis made visually simple and immediate."
+  },
+  {
+    "pattern-name": "Echoed Incident Forces Fear Confrontation",
+    "description": "A second fall mirrors the first, demanding he act through triggers.",
+    "explanation": "Repetition-with-variation is a predictable escalation tool: recreate the origin trauma so the character must ‘redo’ it, aiming for catharsis or failure."
+  },
+  {
+    "pattern-name": "Inanimate Confessional Gives Uncanny Reply",
+    "description": "He speaks to an object; it responds impossibly (single bell ring).",
+    "explanation": "Gothic mysteries frequently externalize guilt/truth into “haunted” objects; the small supernatural wink is a standard hook for deeper secrets. :contentReference[oaicite:0]{index=0}"
+  }
+]
