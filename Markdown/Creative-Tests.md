@@ -33,3 +33,9 @@ Generated 3 batches of 10 scenes w. Claude, GPT judged, Gemini grabbed the most 
 ### Second Tropes
 
 Generated 3 batches of 10 scenes w. GPT, Gemini judged, Claude grabbed the most common.
+
+## Method 2:
+
+Have claude call random_tags.py in Elements folder, randomly grab 3 tags from scene list, must incorporate those into a scene
+
+## Method 3:
