@@ -1,0 +1,484 @@
+{
+  "emotions": [
+    {
+      "name": "Ominous",
+      "description": "dread creeping at the edges"
+    },
+    {
+      "name": "Reverent",
+      "description": "sacred, hushed, numinous"
+    },
+    {
+      "name": "Melancholic",
+      "description": "grief-touched, sorrowful"
+    },
+    {
+      "name": "Triumphant",
+      "description": "victory, exultation"
+    },
+    {
+      "name": "Eerie",
+      "description": "wrongness, the uncanny"
+    },
+    {
+      "name": "Wistful",
+      "description": "nostalgic longing"
+    },
+    {
+      "name": "Grim",
+      "description": "bleak resolve, gallows determination"
+    },
+    {
+      "name": "Wonder",
+      "description": "awe at the sublime or magical"
+    },
+    {
+      "name": "Sinister",
+      "description": "malice lurking beneath"
+    },
+    {
+      "name": "Elegiac",
+      "description": "mourning what's been lost"
+    },
+    {
+      "name": "Desperate",
+      "description": "backs against the wall"
+    },
+    {
+      "name": "Tender",
+      "description": "quiet intimacy, vulnerability"
+    },
+    {
+      "name": "Defiant",
+      "description": "fury against the inevitable"
+    },
+    {
+      "name": "Solemn",
+      "description": "weight of ceremony or oath"
+    },
+    {
+      "name": "Frenzied",
+      "description": "chaos, madness, battle-fury"
+    },
+    {
+      "name": "Desolate",
+      "description": "emptiness, ruin, aftermath"
+    },
+    {
+      "name": "Sardonic",
+      "description": "bitter humor, gallows wit"
+    },
+    {
+      "name": "Paranoid",
+      "description": "suspicion, walls closing in"
+    },
+    {
+      "name": "Rapturous",
+      "description": "ecstasy, transcendence"
+    },
+    {
+      "name": "Brooding",
+      "description": "dark introspection, storm-before-the-storm"
+    },
+    {
+      "name": "Awe",
+      "description": "Vastness that makes characters feel small—cathedrals, dragons, ancient magic, star-thick skies."
+    },
+    {
+      "name": "Dread",
+      "description": "A slow, tightening sense that something is wrong, unseen, and closing in."
+    },
+    {
+      "name": "Wonder",
+      "description": "Curiosity-lit delight at the strange and beautiful, like discovering a hidden grove or impossible artifact."
+    },
+    {
+      "name": "Foreboding",
+      "description": "The scene feels like a dark prologue—omens, uneasy silences, and the sense of an approaching turn."
+    },
+    {
+      "name": "Triumph",
+      "description": "A hard-won surge of victory, often edged by exhaustion, scars, or cost."
+    },
+    {
+      "name": "Reverence",
+      "description": "A hushed, ceremonial respect—toward gods, relics, monarchs, vows, or the dead."
+    },
+    {
+      "name": "Melancholy",
+      "description": "Soft grief without immediate crisis—ruins, fading songs, remembered homes, the end of an age."
+    },
+    {
+      "name": "Rage",
+      "description": "Hot, propulsive fury—often righteous, often dangerous, narrowing the character’s world to a target."
+    },
+    {
+      "name": "Grief",
+      "description": "Acute loss that bends everything in the scene toward absence, weight, and aftershock."
+    },
+    {
+      "name": "Tenderness",
+      "description": "Brief warmth and care—bandaging wounds, shared food, small acts that resist the harsh world."
+    },
+    {
+      "name": "Suspicion",
+      "description": "Motive-hunting alertness—every smile may be a knife; every gift may be bait."
+    },
+    {
+      "name": "Paranoia",
+      "description": "Suspicion turned feverish—patterns everywhere, trust collapsing, safety feeling impossible."
+    },
+    {
+      "name": "Relief",
+      "description": "Pressure releasing—survival after peril, a door barred, a friend found, a spell finally holds."
+    },
+    {
+      "name": "Hope",
+      "description": "A thin but stubborn thread—belief that the quest, the cure, or the dawn is still possible."
+    },
+    {
+      "name": "Desperation",
+      "description": "When choices shrink to ugly options—bargains, sacrifices, last spells, last arrows."
+    },
+    {
+      "name": "Elation",
+      "description": "Bright, almost reckless joy—flight, feast, reunion, magic working cleanly for once."
+    },
+    {
+      "name": "Humiliation",
+      "description": "Status and pride torn open—public failure, betrayal, being outplayed in court or combat."
+    },
+    {
+      "name": "Stoic Resolve",
+      "description": "A controlled, iron steadiness—fear acknowledged but harnessed; duty becomes the spine of the scene."
+    },
+    {
+      "name": "Mirth",
+      "description": "Levity in the mud—banter, gallows humor, tavern laughter that keeps the dark at bay."
+    },
+    {
+      "name": "Uncanny Unease",
+      "description": "Something is familiar but wrong—time slips, too-smooth voices, perfect rooms, magic that feels like teeth."
+    },
+    {
+      "name": "Awe",
+      "description": "A stunned, widening sense of scale—something vast or holy makes the characters feel small and breathless."
+    },
+    {
+      "name": "Dread",
+      "description": "A cold certainty that something is wrong, approaching, or already watching; fear without a clear shape."
+    },
+    {
+      "name": "Wonder",
+      "description": "Curiosity laced with delight at the impossible made real—magic felt as discovery rather than threat."
+    },
+    {
+      "name": "Foreboding",
+      "description": "A quiet, creeping suspicion that today’s choices will have consequences the characters can’t yet name."
+    },
+    {
+      "name": "Reverence",
+      "description": "Respect edged with fear, as if speaking too loudly might offend a god, a relic, or an ancient law."
+    },
+    {
+      "name": "Triumph",
+      "description": "A surge of victory—earned, costly, and bright—often with a lingering taste of what it took to win."
+    },
+    {
+      "name": "Grief",
+      "description": "Loss that settles like ash; the world feels dimmer, and even the scenery seems to mourn."
+    },
+    {
+      "name": "Rage",
+      "description": "Hot, focused fury that narrows the scene to a single purpose: punish, break, burn, or undo."
+    },
+    {
+      "name": "Resolve",
+      "description": "A hardened calm—the moment a character decides to endure, to act, or to pay the price willingly."
+    },
+    {
+      "name": "Suspicion",
+      "description": "Every word feels like a trap; motives are questioned, alliances feel thin, and trust becomes currency."
+    },
+    {
+      "name": "Paranoia",
+      "description": "Suspicion turned inward and feverish—shadows become evidence, and coincidence feels like design."
+    },
+    {
+      "name": "Hope",
+      "description": "A fragile light held against darkness—small, stubborn optimism that refuses to die."
+    },
+    {
+      "name": "Desperation",
+      "description": "Running out of time, options, or breath; choices become ugly because survival is louder than pride."
+    },
+    {
+      "name": "Melancholy",
+      "description": "A sweet ache for what’s gone or fading—ruins, old songs, old empires, old selves."
+    },
+    {
+      "name": "Nostalgia",
+      "description": "Longing for a remembered place or simpler world, often sharpened by the knowledge it can’t be returned to."
+    },
+    {
+      "name": "Elation",
+      "description": "A buoyant lift—relief and joy spilling over after danger passes or a miracle occurs."
+    },
+    {
+      "name": "Unease",
+      "description": "Low-grade discomfort; nothing is overtly wrong, but the scene feels tilted, like a painting hung crooked."
+    },
+    {
+      "name": "Solemnity",
+      "description": "Quiet gravity—oaths, funerals, crowns, prophecies—where even small gestures carry weight."
+    },
+    {
+      "name": "Enchantment",
+      "description": "A dreamy, bewitched softness; the world feels more vivid, seductive, and slightly unreal."
+    },
+    {
+      "name": "Defiance",
+      "description": "A sharp refusal to yield—standing against fate, tyrants, gods, or the story’s “inevitable” outcome."
+    },
+    {
+      "name": "Awe",
+      "description": "A breath-held sense of vastness—ancient ruins, impossible skies, or power that makes characters feel small."
+    },
+    {
+      "name": "Dread",
+      "description": "A slow, sinking certainty that something is wrong, approaching, or already inside the walls."
+    },
+    {
+      "name": "Wonder",
+      "description": "Bright curiosity and delighted disbelief at the strange: new magic, unfamiliar creatures, or hidden worlds."
+    },
+    {
+      "name": "Foreboding",
+      "description": "A quiet warning tone—omens, uneasy coincidences, and the feeling the story is turning toward trouble."
+    },
+    {
+      "name": "Reverence",
+      "description": "A hushed, ritual respect for gods, kings, relics, or sacred places where even speech feels intrusive."
+    },
+    {
+      "name": "Defiance",
+      "description": "Steel-spined refusal to yield—characters choose “no” even when the world insists otherwise."
+    },
+    {
+      "name": "Grief",
+      "description": "Loss made heavy and tangible: a death, a burned home, a broken oath, or an age ending."
+    },
+    {
+      "name": "Rage",
+      "description": "Hot, narrowing fury that sharpens decisions and risks turning justice into violence."
+    },
+    {
+      "name": "Hope",
+      "description": "A fragile light—small victories, unlikely allies, or one promise that keeps the night from winning."
+    },
+    {
+      "name": "Desperation",
+      "description": "The feeling of running out of road: last arrows, last spell, last chance to save someone."
+    },
+    {
+      "name": "Triumph",
+      "description": "A surge of earned victory—after ordeal, the world briefly aligns and the hero can breathe."
+    },
+    {
+      "name": "Betrayal",
+      "description": "A cold snap in trust—an ally’s turn, a revealed lie, or loyalty sold for gold or fear."
+    },
+    {
+      "name": "Suspicion",
+      "description": "Watchful uncertainty—glances linger, motives feel layered, and every kindness might be a hook."
+    },
+    {
+      "name": "Tenderness",
+      "description": "Softness amid hardship—care, intimacy, or protection that feels precious because it’s rare."
+    },
+    {
+      "name": "Melancholy",
+      "description": "A lingering sadness without a single cause—beautiful decay, fading glory, and roads that don’t return."
+    },
+    {
+      "name": "Enchantment",
+      "description": "A dreamlike, spell-touched mood where logic loosens and everything feels slightly luminous or unreal."
+    },
+    {
+      "name": "Unease",
+      "description": "A prickling discomfort—too-quiet forests, polite smiles that don’t reach the eyes, wrong-footed reality."
+    },
+    {
+      "name": "Exaltation",
+      "description": "A soaring, near-religious high—prophecy fulfilled, power awakened, or destiny suddenly close enough to touch."
+    },
+    {
+      "name": "Isolation",
+      "description": "A sense of being cut off—geographically, socially, or spiritually—like shouting into a vast, indifferent world."
+    },
+    {
+      "name": "Determination",
+      "description": "Steady forward motion—resolve that doesn’t need anger or hope, just a decision that won’t be undone."
+    },
+    {
+      "name": "Dread",
+      "description": "Creeping anticipation of something terrible approaching"
+    },
+    {
+      "name": "Wonder",
+      "description": "Awe at encountering the vast, magical, or incomprehensible"
+    },
+    {
+      "name": "Melancholy",
+      "description": "A lingering sadness, often tied to loss or fading glory"
+    },
+    {
+      "name": "Fury",
+      "description": "Raw, explosive anger—battle rage or righteous wrath"
+    },
+    {
+      "name": "Reverence",
+      "description": "Humbled respect before something ancient or sacred"
+    },
+    {
+      "name": "Despair",
+      "description": "Utter hopelessness when all seems lost"
+    },
+    {
+      "name": "Tension",
+      "description": "Taut, electric anticipation before conflict or revelation"
+    },
+    {
+      "name": "Triumph",
+      "description": "Exultant victory, the payoff of struggle"
+    },
+    {
+      "name": "Grief",
+      "description": "Deep mourning for the fallen or the broken"
+    },
+    {
+      "name": "Unease",
+      "description": "Something is wrong but unnamed—wrongness in the air"
+    },
+    {
+      "name": "Longing",
+      "description": "Ache for something distant—home, love, a lost age"
+    },
+    {
+      "name": "Terror",
+      "description": "Visceral, primal fear in the face of true horror"
+    },
+    {
+      "name": "Serenity",
+      "description": "Stillness and peace, often before the storm"
+    },
+    {
+      "name": "Defiance",
+      "description": "Standing firm against overwhelming odds"
+    },
+    {
+      "name": "Betrayal",
+      "description": "The sting of broken trust, loyalty turned to ash"
+    },
+    {
+      "name": "Mystery",
+      "description": "The pull of secrets, riddles, and hidden knowledge"
+    },
+    {
+      "name": "Intimacy",
+      "description": "Closeness between characters—vulnerability shared"
+    },
+    {
+      "name": "Foreboding",
+      "description": "Dark omens and the shadow of things to come"
+    },
+    {
+      "name": "Elation",
+      "description": "Soaring joy, often fleeting in dark tales"
+    },
+    {
+      "name": "Resolve",
+      "description": "Grim determination hardening into purpose"
+    },
+    {
+      "name": "Dread",
+      "description": "Creeping awareness of impending doom; the weight of something terrible approaching."
+    },
+    {
+      "name": "Wonder",
+      "description": "Breathless awe at the magical, vast, or sublime."
+    },
+    {
+      "name": "Melancholy",
+      "description": "Deep, lingering sadness often tied to loss, decay, or fading glory."
+    },
+    {
+      "name": "Triumph",
+      "description": "Victorious exultation; the surge of hard-won success."
+    },
+    {
+      "name": "Foreboding",
+      "description": "Ominous anticipation; dark clouds gathering on the horizon."
+    },
+    {
+      "name": "Reverence",
+      "description": "Sacred awe; the hush before something holy or ancient."
+    },
+    {
+      "name": "Desperation",
+      "description": "Frantic urgency when all options narrow to one last gamble."
+    },
+    {
+      "name": "Tension",
+      "description": "Taut anticipation; a bowstring drawn and waiting to snap."
+    },
+    {
+      "name": "Grief",
+      "description": "Raw, immediate mourning; the wound of fresh loss."
+    },
+    {
+      "name": "Menace",
+      "description": "Threatening atmosphere radiating from a presence or place."
+    },
+    {
+      "name": "Desolation",
+      "description": "Bleak emptiness; the silence of ruins and abandoned things."
+    },
+    {
+      "name": "Intimacy",
+      "description": "Close personal connection; vulnerability shared between souls."
+    },
+    {
+      "name": "Fury",
+      "description": "Burning, barely-contained rage seeking an outlet."
+    },
+    {
+      "name": "Serenity",
+      "description": "Peaceful stillness; a moment of calm amid chaos."
+    },
+    {
+      "name": "Horror",
+      "description": "Visceral revulsion and fear at something fundamentally wrong."
+    },
+    {
+      "name": "Resolve",
+      "description": "Steely determination; the quiet hardening before action."
+    },
+    {
+      "name": "Nostalgia",
+      "description": "Bittersweet longing for a past that cannot return."
+    },
+    {
+      "name": "Unease",
+      "description": "Subtle wrongness; something off that can't quite be named."
+    },
+    {
+      "name": "Exhilaration",
+      "description": "Thrilling rush of danger, speed, or sudden freedom."
+    },
+    {
+      "name": "Solemnity",
+      "description": "Grave seriousness; the weight of oaths, rituals, or final words."
+    }
+  ]
+}

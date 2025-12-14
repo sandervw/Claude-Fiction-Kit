@@ -23,6 +23,8 @@ Output your results as a json array of objects, with a 'pattern-name', 'descript
 
 Generated 3 batches of 10 scenes w. Claude, GPT judged, Gemini grabbed the most common.
 
+AVOID THESE SCENE PATTERNS:
+
 - **Trauma-Triggered Outburst**: A protagonist suffering from PTSD or conditioning involuntarily reacts with violence or panic to a benign sensory trigger, such as a sound or touch.
 - **The Interrupted Revelation**: A witness or ally is on the verge of revealing the truth but is silenced by an alarm, injury, or sudden danger before they can speak.
 - **Sabotage Discovered via Duty**: The protagonist performs a dangerous or hated task and conveniently finds physical proof of tampering.
@@ -39,3 +41,36 @@ Generated 3 batches of 10 scenes w. GPT, Gemini judged, Claude grabbed the most 
 Have claude call random_tags.py in Elements folder, randomly grab 3 tags from scene list, must incorporate those into a scene
 
 ## Method 3:
+
+```
+[Model A: Draft] → [Model B: Revise] → [Optional: Model A: Polish]
+```
+
+### Phase 1: Generation (Model A)
+
+- Include all constraints (anti-patterns, random seeds, style parameters)
+- Request raw draft, not polished output
+- Specify: "Prioritize unexpected choices over polish"
+
+### Phase 2: Revision (Model B)
+
+- Provide original constraints + Model A's draft
+- Prompt:
+
+```
+Revise this draft. Preserve any genuinely unexpected elements.
+
+Your revision should:
+1. Identify and cut any moments that resolve too neatly
+2. Find places where the prose explains too much — leave gaps
+3. Replace any phrasing that feels like "default LLM voice"
+4. Maintain the required elements from the original constraints
+
+Do not smooth over weirdness. Amplify it.
+```
+
+### Phase 3: Polish (Optional, Model A)
+
+- Return to original model for final pass
+- Focus on line-level prose, not structure
+- Constraint: "Do not add new plot beats or revelations"
