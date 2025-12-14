@@ -32,13 +32,13 @@ AVOID THESE SCENE PATTERNS:
 - **The Corrupted Artifact**: A sacred, ceremonial, or innocent object (such as a gift or research cache) is revealed to be a weapon, evidence of guilt, or a sign of moral rot.
 - **Public Social Exile**: A public ceremony is disrupted by the protagonist, turning the community against them and forcing them to investigate alone.
 
-### Second Tropes
+### Second Tropes (TODO)
 
 Generated 3 batches of 10 scenes w. GPT, Gemini judged, Claude grabbed the most common.
 
 ## Method 2:
 
-Have claude call random_tags.py in Elements folder, randomly grab 3 tags from scene list, must incorporate those into a scene
+Have claude call random_tags.py in Elements folder, randomly grab 3 tags from SCENE list, incorporate into scene
 
 ## Method 3:
 
@@ -74,3 +74,15 @@ Do not smooth over weirdness. Amplify it.
 - Return to original model for final pass
 - Focus on line-level prose, not structure
 - Constraint: "Do not add new plot beats or revelations"
+
+## Method 4
+
+Have claude call random_tags.py in Elements folder, randomly grab 3 tags from EMOTION list, incorporate into scene
+
+Add to prompt:
+
+```
+EMOTIONAL REGISTER: [specific underrepresented tone]
+The scene should NOT build toward dramatic release.
+The tension, if any, should remain unresolved and low-grade.
+```
