@@ -17,6 +17,17 @@ Do me a favor. I've got this attached outline for a story setting/character. I n
 ```
 
 ```
+Analyze this scene. Identify:
+1. Recurring structural beats (e.g., "revelation interrupted," "must face fear")
+2. Familiar genre tropes being invoked
+3. Predictable cause-effect patterns
+4. Emotional beats that feel "expected"
+
+Be specific. Name the pattern, not just "cliché."
+Output your results as a json array of objects, with a 'pattern-name' and 'description' (be brief).
+```
+
+```
 Analyze these scene concepts. Identify:
 1. Recurring structural beats (e.g., "revelation interrupted," "must face fear")
 2. Familiar genre tropes being invoked
@@ -84,9 +95,13 @@ Your revision should:
 1. Identify and cut any moments that resolve too neatly
 2. Find places where the prose explains too much — leave gaps
 3. Replace any phrasing that feels like "default LLM voice"
-4. Maintain the required elements from the original constraints
+4. Maintain the required elements from the original constraints (see below)
 
 Do not smooth over weirdness. Amplify it.
+
+Original Constraints:
+1. The scene you write should be no more than 3000 characters long (including spaces).
+2. The scene should incorporate the following elements in a meaningful way: ['pillars jutting ruin', 'curious philosopher', 'supernatural vulnerability']
 ```
 
 ### Phase 3: Polish (Optional, Model A)
