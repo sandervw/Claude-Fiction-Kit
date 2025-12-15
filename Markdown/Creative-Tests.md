@@ -42,6 +42,18 @@ Have claude call random_tags.py in Elements folder, randomly grab 3 tags from SC
 
 ## Method 3:
 
+Have claude call random_tags.py in Elements folder, randomly grab 3 tags from EMOTION list, incorporate into scene
+
+Add to prompt:
+
+```
+EMOTIONAL REGISTER: [specific underrepresented tone]
+The scene should NOT build toward dramatic release.
+The tension, if any, should remain unresolved and low-grade.
+```
+
+## Method 4:
+
 ```
 [Model A: Draft] → [Model B: Revise] → [Optional: Model A: Polish]
 ```
@@ -74,15 +86,3 @@ Do not smooth over weirdness. Amplify it.
 - Return to original model for final pass
 - Focus on line-level prose, not structure
 - Constraint: "Do not add new plot beats or revelations"
-
-## Method 4
-
-Have claude call random_tags.py in Elements folder, randomly grab 3 tags from EMOTION list, incorporate into scene
-
-Add to prompt:
-
-```
-EMOTIONAL REGISTER: [specific underrepresented tone]
-The scene should NOT build toward dramatic release.
-The tension, if any, should remain unresolved and low-grade.
-```

@@ -41,13 +41,3 @@ Gothic atmospheric prose. Slow, circling or zooming camera. Treats objects, plac
 
 - Describe clicks, throbs, murmurs, roughness, gloss
 - Let reader almost hear and touch the place
-
-## Example Transformation
-
-**Before** (functional):
-
-> A maintenance worker who crawls the exterior chains, patching rust and replacing links. Has breathed too much of the poison wind; their lungs are failing. Knows the abbey's structural weaknesses better than anyone—including which chains will snap first.
-
-**After** (Peake):
-
-> Out on the abbey’s dangling chains—those cold, obedient vertebrae—the maintenance wretch inches hand over hand, listening to each link click and complain as they burnish rust and graft in fresh metal. The poison wind pets their face like silk dipped in lye; every breath is a wet, rattling bellows. They know the tower’s weak bones by touch. They know which chain will go. Soon.
