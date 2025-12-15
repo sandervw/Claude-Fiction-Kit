@@ -1,5 +1,13 @@
 # Working Doc for Creative Writing Tests
 
+## main writing prompt
+
+I want you to write out a scene from a fiction short story. I've attached all the story details you'll need in the temp.md file. For prose style, I want you to follow the guidelines in styleguide.md. Additionally:
+
+1. The scene you write should be no more than 3000 characters long (including spaces).
+2. The scene should incorporate the following elements in a meaningful way: ['pillars jutting ruin', 'curious philosopher', 'supernatural vulnerability']
+3. This scene is a rough draft, not finished output: prioritize unexpected choices over polish
+
 ## Method 1: Cross-Model Anti-Pattern Identification
 
 ### Prompts
