@@ -1,122 +1,40 @@
 {
   "worlds": [
     {
-      "description": "A white sea that forgot it was water. The bones of leviathans breach the crust like monuments to a thirst that killed everything. Pilgrims still walk toward its center; none return, but their preserved bodies join the procession.",
-      "locations": [
-        {
-          "name": "Kethval",
-          "description": "The last trading post before the white begins. Built from leviathan baleen and cracked hulls of ships that once sailed here. Caravans resupply; most turn back."
-        },
-        {
-          "name": "The Asking",
-          "description": "A depression where brine still pools, tended by a blind woman who inherited the duty. Travelers pay in blood to see how someone died. Never who. Never why."
-        },
-        {
-          "name": "Sarava's Kneel",
-          "description": "A circle of mummified figures, oldest at the center, newest at the edge. Who Sarava was is disputed; that she stopped here first is not."
-        },
-        {
-          "name": "Whitmouth",
-          "description": "A petrified leviathan's open jaws, large enough to shelter a village. The baleen filters the salt-wind into something breathable. Inhabitants never leave; visitors rarely stay."
-        }
-      ]
-    },
-    {
-      "description": "Monastery-fortresses hanging above a world that choked. The chains are ancient, the anchors are cracking, and the abbeys sway in winds that carry poison. The monks pray for structural integrity. It's unclear if anyone listens.",
-      "locations": [
-        {
-          "name": "Thornwick",
-          "description": "The largest surviving abbey, seat of the Suspended Doctrine. Its great chain has seventeen links remaining; each bears a name, and when one fails, so shall someone below."
-        },
-        {
-          "name": "Respite",
-          "description": "Sealed chambers where breathable air is stored and rationed. The filters are organic, sourced from those who died gasping. Residents try not to think about it."
-        },
-        {
-          "name": "The Dangle",
-          "description": "Cargo nets strung between abbeys where traders meet mid-air. Deals must close before the nets swing apart. Disputes resolve themselves."
-        },
-        {
-          "name": "Merthwick Below",
-          "description": "A sister-abbey that fell into the miasma three generations ago. Lights still flicker in its windows."
-        }
-      ]
-    },
-    {
-      "description": "A volcanic wound where a god's heart still burns—barely. Cults have built their foundries over the dying flame, waging theological war over who inherits the last heat. The stone shifts. The fire dims. Everyone knows it's ending.",
-      "locations": [
-        {
-          "name": "Vorn's Anvil",
-          "description": "The central foundry, built directly over the ember. Smiths here don't use bellows; they sing, and the fire answers. What they forge depends on what the song."
-        },
-        {
-          "name": "The Inhale",
-          "description": "A terrace where seers breathe volcanic fumes until prophecy comes. Their words are always true, always reversed. Transcribers work facing mirrors."
-        },
-        {
-          "name": "Calworth and Sethric",
-          "description": "Two fortress-temples on opposite crater walls, locked in war for six centuries. Their doctrines are identical except for one word no one can translate anymore."
-        },
-        {
-          "name": "The Shaping Grounds",
-          "description": "Slag heaps where divine waste accumulates. Scavengers pick through it. Sometimes the slag arranges itself overnight into shapes: blueprints for things that don't exist yet."
-        },
-        {
-          "name": "The Cooling",
-          "description": "Hardened lava tubes veined with ore, warm to the touch. They grow hot when lies are spoken. Oaths sworn here tend to be kept."
-        }
-      ]
-    },
-    {
-      "description": "An infinite vertical city spiraling into a sinkhole that widens by inches each year, swallowing the surface world behind it. The deeper one descends, the older the architecture—and the deep-dwellers remember things the surface has chosen to forget."
-    },
-    {
-      "description": "A sunken forge-city built into the ribcage of a god whose body became the ore, where smelters still labor though the furnaces have been cold for centuries, and the things they shape crawl from slag heaps seeking purpose."
+      "description": "Monastery-fortresses hanging above a world that choked. The chains are ancient, the anchors are cracking, and the abbeys sway in winds that carry poison. The monks pray for structural integrity. It's unclear if anyone listens."
     },
     {
       "description": "Miles of subterranean archive beneath a collapsed civilization, where the dead are catalogued by clerks who don't recall being hired, shelves extend into geometries suggesting more than three dimensions, and every living thing that enters receives a file."
     },
     {
-      "description": "Deep in the underdark wilderness, a vampire castle hangs stalactite-like from a cavern ceiling above an ecosystem that evolved to hunt the deathless. Here, vampires are prey, not predator—their feast chambers serve desperate defensive meals before hunts, and the castle's lords have grown strange and humble, their immortality a curse that lets the eyeless things below kill them forever without end."
-    },
-    {
-      "description": "Three apocalypses stacked atop each other—a crumbling kingdom built on the corpse of a slain god, itself now buried beneath the ash and ruin of a more recent cataclysm. Survivors dig downward through historical layers, finding that each stratum of destruction contains refugees from the era above it, all the way down to the god's bones where the original mourners still wait, unsure if anything remains above them to mourn."
-    },
-    {
-      "description": "A vast swamp built vertically into a chasm, where villages cling to fungal shelves and rope bridges span between soggy landings. Settlers descended here generations ago fleeing something above, but the grey sea that rings the canyon's rim reflects no stars and swallows all vessels, trapping every soul within. Travel means climbing through strata of rot: the deeper you go, the older and stranger the drowned things become."
-    },
-    {
-      "description": "A network of plague-cities built within mountain ossuaries, where survivors of surface pandemics fled underground only to institutionalize quarantine as culture. Each canton seals itself from the others via bone-gates and fumigation locks; disease is currency, leverage, and religious doctrine. The catacombs connect them all, but traversing the passages means navigating not just the dead, but the infected exiles cast out to wander between seals."
-    },
-    {
-      "description": "A gnome city carved into the aquifer-caves beneath an ice-blasted dale where nothing survives on the surface for long. The gnomes engineered geothermal vents to survive, but the heat attracts predators from deeper underground—pale things that fear neither cold nor flame. Politics center on rationing warmth: too little and the city freezes, too much and the barriers that keep the deep-dwellers out begin to melt."
-    },
-    {
       "description": "Reality here renders in flat textures and jagged polygons, a world of low-resolution dread where fog hides draw-distance and nothing casts a proper shadow. Pilgrims seek the impossible libraries built around towering crystal pillars, hoping the glitched grimoires within can explain why existence looks this way—or how to escape it."
     },
     {
-      "description": "At the edge of dying lands where crops wither and rivers thin to dust, an arcane observatory perches over the Great Well—a subterranean void that plunges miles into the earth. The astronomers turned their lenses downward generations ago, convinced that whatever is killing the world isn't falling from the sky but rising from below."
+      "name": "Rotting Expanse",
+      "description": "Ancient witches claimed this wilderness generations ago, transforming every plant into mold-covered parodies of living things. The air hangs thick with infectious spores that force travelers to wear elaborate filters woven from blessed cloth and copper wire. The witches themselves have merged with the decay, their bodies more fungal network than human flesh, spreading their influence through root and spore.",
+      "tags": [
+        "witch's wilderness",
+        "moldy flora",
+        "infectious spores"
+      ]
     },
     {
-      "description": "The kingdom rots from its capital outward: a vast graveyard-city where the dead outnumber the living and mausoleums serve as tenements. Beyond the crumbling walls, agrarian villages of fungal veggie-folk till compost and bone-meal, their harvest the only food the dying realm still produces—traded grimly for the corpses they require to propagate."
+      "name": "Blighted Canopy",
+      "description": "Deep within an ancient rainforest, shamanic tribes wage a generations-long war against a spreading corruption that twists great apes into hulking, horn-crowned demons. Ivory-skinned apparitions drift between the trees—spirits of the land itself manifesting to guide or deceive those who would cleanse the taint. The shamans paint themselves in ash and bone-dust, channeling the forest's wrath through ritual and sacrifice.",
+      "tags": [
+        "ivory-skinned apparition",
+        "shamanic magic",
+        "demon-ape corruption"
+      ]
     },
     {
-      "description": "Beneath exhausted mining shafts lies a subterranean ecosystem of towering fungal growths, their pale stems and broad caps forming a second forest underground, all surrounding a central pit choked with ancient webbing from a long-dead brood-mother. The miners who carved these tunnels left behind portraits that now weep black oil, their painted eyes tracking movement, while nearby tar pits bubble with half-preserved bodies of those who sought the fungal colony's narcotic spores. Something still tends the paintings, reframing them, repositioning them closer to the web-pit's edge."
-    },
-    {
-      "description": "A drowned necropolis accessible only through certain household fireplaces that serve as portals, depositing travelers into sepulchral crypts flooded with ancient, clotted blood that rises and falls with an unseen tide. Bioluminescent jellyfish drift through the crimson murk, their tendrils carrying voltaic charges that arc between the submerged sarcophagi, while violet inkycap fungi colonize every surface above the blood-line, their spores inducing visions of the dead. The crypts' original builders seemingly engineered this ecosystem intentionally, though their purpose remains incomprehensible."
-    },
-    {
-      "description": "Rolling moorlands of sucking peat and corpse-lights surround the vine-strangled ruins of a fey court, where the forest has grown so thick that lush green paths seem to guide travelers safely—until the checkered marble floors of the old palace reveal themselves as illusions painted over the open mouths of crypt shafts. The ancient dead were buried standing upright in these vertical tombs, and those who fall through the false floors find themselves face-to-face with mummified nobility. The bogs remember every body they've claimed, and sometimes return them, altered."
-    },
-    {
-      "description": "A vast goblin-dominated tunnel network where clans harvest luminescent violet coprinus fungi and deliberately cultivate enormous spider egg clusters as both food source and currency. The goblins revere the hatching cycles as religious events, and the tunnels pulse with a nauseating purple glow that intensifies as fungal blooms spread across walls thick with translucent egg sacs."
-    },
-    {
-      "description": "A mausoleum complex where reality itself seems to degrade—surfaces appear smeared, details become indistinct the deeper one ventures, as if existence is losing fidelity near an ancient corruption. Spider colonies nest in the sarcophagi of forgotten kings, their egg clusters the only sharp, vivid things in a world slowly dissolving into abstraction."
-    },
-    {
-      "description": "A citadel constructed entirely from the chitinous shells of giant insects, where metallic spider automatons serve as eternal guardians. Every doorway is cursed—passage through grants entry but extracts something intangible: a memory, a sense, a year of life. The architecture clicks and shifts as the shell-walls settle, and the spider guardians skitter through corridors repairing damage with secreted metal."
+      "name": "Thawing Pinnacles",
+      "description": "For an age beyond counting, the crystalline peaks stood frozen in perfect silence—until the first cracks appeared beneath silver moonlight. Ancient things sealed within the ice have begun to stir, and the mountain tribes must reckon with powers their ancestors imprisoned long ago. Pilgrims now climb toward the fracturing summits, some seeking to restore the stasis, others to welcome what emerges.",
+      "tags": [
+        "eternal stasis broken",
+        "frosted silver moonlight",
+        "crystalline peaks"
+      ]
     }
   ]
 }

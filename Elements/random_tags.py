@@ -38,4 +38,4 @@ if __name__ == '__main__':
     count = int(sys.argv[2])
 
     result = get_random_tags(filename, count)
-    print(result)
+    print(json.dumps(result))
