@@ -1,6 +1,6 @@
 # Test Results
 
-## LLM1 Raw Output (more readable)
+## Claude Raw Output (more readable)
 
 `The Bell-Ringer's Grief`
 
@@ -28,7 +28,7 @@ He had not _asked_.
 
 The journal fell from his hands. He did not pick it up. Outside, wind screamed through the chain-links, and somewhere far below, the poisoned world turned without him.
 
-## LLM2 Raw Output
+## GPT Raw Output
 
 In the master’s cell the air tasted of old brass and wet stone and the sweet-rot pulse of reading-moss, and Merrick sat with the journal open on his knees as if it were a wound that insisted on being looked at.
 
@@ -76,7 +76,7 @@ Original Constraints:
 1. The scene you write should be no more than 3000 characters long (including spaces).
 2. The scene should incorporate the following elements in a meaningful way: ['pillars jutting ruin', 'curious philosopher', 'supernatural vulnerability']
 
-## LLM1 Revision of LLM1 Output
+## Claude Revision of Claude Output
 
 `The Bell-Ringer's Grief`
 
@@ -102,7 +102,7 @@ The journal fell from his hands.
 
 Outside, wind moved through the chain-links. The beads from the prayer-wheel had rolled into the moss, and something in the green light held them there, patient, waiting for no one.
 
-## LLM2 Revision of LLM1 Output
+## GPT Revision of Claude Output
 
 The cell smelled of tallow and regret.
 
@@ -126,7 +126,7 @@ He tried to swallow and found the act too loud.
 
 The journal slipped. He didn’t catch it. The page fluttered once, like a throat clearing. Outside, wind screamed through chain-links; far below, the poisoned world kept turning—yet the bell-tower, for a moment, sounded as if it were being pulled by nobody at all.
 
-## LLM1 Revision of LLM2 Output
+## Claude Revision of GPT Output
 
 In the master's cell the air tasted of brass and wet stone and the sweet-rot pulse of reading-moss. Merrick sat with the journal open on his knees.
 Outside the slit-window the abbey's under-works showed their skeleton: pillars jutting ruin from the cliff-face, broken column-stumps reaching into the poisoned night, each one chained to another by links that moaned when the wind changed its mind. The world below was a black throat. It breathed up rust-dust, sour incense, and a faint animal heat.
@@ -143,7 +143,7 @@ Merrick's fingers tightened on the journal. The ink on the next line had bled, a
 "Close it," Silex whispered. "Or ring the hour. The pillars are cracking."
 From the slit-window, a shadow shifted between the jutting columns, and the chains answered with a wet, metallic sigh—
 
-## LLM2 Revision of LLM2 Output
+## GPT Revision of GPT Output (Winner)
 
 In the master’s cell the air tasted of old brass, wet stone, and the sweet-rot pulse of reading-moss. Merrick sat with the journal open on his knees as if it were not paper at all but a tender place you kept worrying with a thumb, to see whether it still hurt.
 
@@ -170,3 +170,58 @@ Merrick’s fingers tightened on the journal until the spine creaked. The next l
 Silex’s gaze flicked to the slit-window, to the cracked columns and the patient dark threaded through them. “It’s learning,” he whispered—not of what.
 
 Between the jutting pillars, a shadow shifted, and the chains answered with a wet, metallic sigh—like a mouth practicing Merrick’s name without using any sound.
+
+## Final Revision Prompt:
+
+Revise this scene draft. Your revision should focus on line-level prose, not structure. Use the list below to help guide your edit:
+
+1. Cut out the first two paragraphs; add a single sentence to the third paragraph, just enough to make the scene work.
+2. Trim overreaching or stacked metaphors.
+3. Trim a few stock flourishes, swap for concrete imagery.
+4. Reduce comound adjectives.
+5. Replace em-dashes with alternative punctuation.
+6. Cut the last paragraph; add a concluding sentence only if absolutely necessary.
+
+Constraint: Do not add new plot beats or revelations.
+
+## Claude Final Revision
+
+Merrick sat with the journal open on his knees, worrying it like a wound. He read in little bites. Not the sentence you brace for. Instead: "He startles when touched." A blot. "He laughs, high as a child, then returns to the blank." Another hand, later: "Rope. Gravity." And, cramped in the margin: "His ear knows the hour by the first tremor of the bell."
+
+A knock. Soft, curious, wrong for midnight. The door eased open without waiting.
+
+Brother Silex entered: the abbey's philosopher, threadbare, ink-stained, eyes bright with the hunger of those who would rather take a miracle apart than survive it whole. He didn't look at Merrick first. He listened to the room, to the moss, to the distant chain-song outside.
+
+"You keep the hours," he murmured, peering past Merrick at the greenish light, "and the hours keep you."
+
+Merrick didn't lift his face. The letters swam, then steadied. "Why are you here?"
+
+"To stand where the world is thin." Silex leaned close, not intimate, investigative. "Do you feel it? The draft that isn't wind. The small gap."
+
+Merrick's laugh came out sharp, wrong in his own mouth, his face unchanged. The sound skittered across the ink. The moss dimmed, then flared.
+
+Silex went still. His smile slipped as if borrowed. "There," he said, reverent. "Supernatural vulnerability." He touched the air between them, and his fingertip shivered. "Your laugh doesn't belong to your breath."
+
+Merrick's fingers tightened on the journal until the spine creaked. The next line had bled through: "If I die, he will ring alone. If he rings alone, something will answer."
+
+## GPT Final Revision
+
+In the master’s cell, Merrick held the journal open on his knees while the slit-window framed pillars jutting ruin from the cliff-face. He read in little bites, never the sentence you brace for. Instead: “He startles when touched.” A blot. “He laughs, high as a child, then returns to the blank.” Another hand, later: “Rope. Gravity.” And, in cramped pride: “His ear knows the hour by the first tremor of the bell.”
+
+A knock, soft and curious, wrong for midnight. The door opened without waiting, as if waiting had never been part of it.
+
+Brother Silex entered, the abbey’s curious philosopher, threadbare, with ink ground into his fingers. He didn’t look at Merrick first. He listened to the room, to the moss, to the chains outside.
+
+“You keep the hours,” he murmured, peering past Merrick at the greenish light, “and the hours keep you.”
+
+Merrick didn’t lift his face. The letters swam, then steadied; the ink looked slick in the mosslight. “Why are you here?”
+
+“To stand where the world is thin.” Silex leaned close, not intimate, just intent. “Do you feel it? The draft that isn’t wind. The small gap.”
+
+Merrick’s laugh came out sharp and wrong. His face didn’t move. It sounded too loud over paper. The moss dimmed. Then it flared, startled, offended.
+
+Silex went very still. His smile slipped, as if it had been borrowed. “There,” he said, almost reverent, the word tasting of metal. “Supernatural vulnerability.” He touched the air between them, and his fingertip shivered, as if it had brushed a cobweb you couldn’t see. “Your laugh doesn’t… belong to your breath.”
+
+Merrick’s fingers tightened on the journal until the spine creaked. The next line had run, as if the page had dampened: “If I die, he will ring alone. If he rings alone, something will answer.”
+
+Silex’s gaze flicked to the slit-window, to cracked columns and the dark between them. “It’s learning,” he whispered, not of what.
