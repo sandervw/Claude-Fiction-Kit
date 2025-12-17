@@ -1,0 +1,256 @@
+{
+  "tropes": [
+    {
+      "pattern-name": "Aftermath Habitat",
+      "description": "The world’s core identity is “the disaster already happened,” and daily life is built inside its leftovers (ruins, corpses, flooded cities) rather than in a functioning civilization."
+    },
+    {
+      "pattern-name": "Slow Catastrophe",
+      "description": "The apocalypse isn’t a single event—it’s a meter still ticking (waters rising, sun dying, continents drifting, divine flesh rotting), guaranteeing worsening conditions."
+    },
+    {
+      "pattern-name": "Monstrous Shelter",
+      "description": "Safety comes from living in or on something horrifying (the dead god as refuge), turning “sanctuary” into a grotesque dependency."
+    },
+    {
+      "pattern-name": "Colossal Remains",
+      "description": "Landscape-as-cadaver: deserts of bone, petrified organs as cities, ancient bodies as infrastructure—an expected dark-fantasy move to literalize death into geography."
+    },
+    {
+      "pattern-name": "Twilight Stasis",
+      "description": "Perpetual dusk acts as instant mood-engine: stalled sun, withered agriculture, lengthened shadows—the familiar “time is broken” ambience."
+    },
+    {
+      "pattern-name": "Betrayed Physics",
+      "description": "A single rule of reality collapses (gravity inversion), forcing hanging/underside civilizations—an expected high-concept ‘physics gone wrong’ world hook."
+    },
+    {
+      "pattern-name": "Sentient Environment",
+      "description": "Nature is no longer neutral backdrop; it thinks, coordinates, and assimilates (hive forests, alien blight), making the setting itself the antagonist."
+    },
+    {
+      "pattern-name": "Identity Erosion",
+      "description": "Horror is framed as loss of personhood rather than death: infection/assimilation that turns people into extensions of something else."
+    },
+    {
+      "pattern-name": "Depths Stir",
+      "description": "Threat is repeatedly deferred into the unseen below (beneath water, bone dust, mist): “something stirs” as a predictable suspense valve."
+    },
+    {
+      "pattern-name": "Vertical Survivors",
+      "description": "Human adaptation is expressed through extreme verticality (upper floors, undersides, endless falls), a common post-cataclysm logistics pattern."
+    },
+    {
+      "pattern-name": "Scavenger Economies",
+      "description": "Culture becomes salvage: fishing drowned streets, mining bones, repurposing organs—an expected survivalist economy built from dead-world materials."
+    },
+    {
+      "pattern-name": "Mythic Unexplained Past",
+      "description": "Foundational lore sits “before recorded history” or in rumor (“some say…”), keeping causes vague and ancient—familiar dark-fantasy negative space."
+    },
+    {
+      "pattern-name": "Single-Gimmick World",
+      "description": "Each setting is organized around one dominant catastrophic conceit (flood, dusk, bones, blight, inversion, god-corpse), a recognizable ‘one big idea’ construction style."
+    },
+    {
+      "pattern-name": "Cataclysm Biome",
+      "description": "Each world is defined by one overwhelming disaster-ecology (flooded empire, ash twilight, poisoned forest floor, bleeding ice), a classic dark-fantasy shorthand that can feel like “one big vibe” instead of a complex lived-in world."
+    },
+    {
+      "pattern-name": "Ruins As Larder",
+      "description": "Civilization survives by stripping dead empires (flooded spires, sunken fleets, leviathan remains), an expected scavenger-economy engine."
+    },
+    {
+      "pattern-name": "Depth Means Worse",
+      "description": "The closer you get to “down/below” (water depths, tree layers, chasm districts), the older, stranger, and more lawless reality becomes—a very familiar descent-to-rot gradient."
+    },
+    {
+      "pattern-name": "Monumental Remains",
+      "description": "Colossal architecture and megafauna bones (cathedrals under water, continent trees, leviathan carcasses) lean into the genre’s go-to sense of dwarfed humanity."
+    },
+    {
+      "pattern-name": "Perpetual Dimness",
+      "description": "Twilight, lightless districts, moonless danger—dark fantasy’s default lighting rig, making the tone feel “pre-set.”"
+    },
+    {
+      "pattern-name": "Harvest The Weird",
+      "description": "Survival depends on extracting uncanny resources (rust-ice bleed, thermal vents, salvage), a predictable loop of risk-for-yield."
+    },
+    {
+      "pattern-name": "Prophecy Commodity",
+      "description": "A substance that grants visions (and addiction) turns mysticism into an economy—common because it instantly motivates factions, crime, and pilgrimage."
+    },
+    {
+      "pattern-name": "Sleeper Below",
+      "description": "Something immense shifts beneath the world (under ice, under water, under the city), an expected looming-wake-up apocalypse timer."
+    },
+    {
+      "pattern-name": "Cycle-Gated Horror",
+      "description": "Threats tied to natural cycles (moon-dark surfacing, tide-revealed wrecks) are a familiar way to schedule dread and add urgency."
+    },
+    {
+      "pattern-name": "Poisoned Ground",
+      "description": "The land itself is untouchable/contaminated, forcing vertical living; it’s a well-worn constraint that reliably produces stratified societies."
+    },
+    {
+      "pattern-name": "Sacred Maintenance",
+      "description": "A ritual system framed as infrastructure (an altar that must not go cold) evokes the expected priestly caretakers keeping disaster at bay."
+    },
+    {
+      "pattern-name": "Frontier Scavengers",
+      "description": "Barges, tide-runners, and ruin-divers as the main working class is a recognizable dark-fantasy labor archetype."
+    },
+    {
+      "pattern-name": "Scarcity Tribalism",
+      "description": "Nomads competing over a tiny set of habitable nodes (thermal vents) is a familiar post-cataclysm social dynamic."
+    },
+    {
+      "pattern-name": "Rot As Texture",
+      "description": "Rotting barges, rotting heartwood, calcified bones—decay is used as the primary aesthetic binder, which can read as genre-default."
+    },
+    {
+      "pattern-name": "Weaponized Memory",
+      "description": "Environments that do not just store history but actively weaponize personal trauma or secrets against the protagonist (e.g., Hollow Orchard's whispering seeds, Salt Cathedral's replaying of confessions)."
+    },
+    {
+      "pattern-name": "Fluid Geography",
+      "description": "A world where map-making is futile because the terrain is physically unstable or constantly rearranging itself (e.g., Ash Aquarium's shifting tides, Suture City's sliding districts, Paper Wilderness's turning pages)."
+    },
+    {
+      "pattern-name": "Literalized Metaphor",
+      "description": "Abstract concepts manifested as literal physical terrain, making the symbolism the primary environmental hazard (e.g., a 'patchwork' city that is literally stitched, a 'forest of stories' made of paper)."
+    },
+    {
+      "pattern-name": "Predatory Mimicry",
+      "description": "The environment or its denizens lure victims by imitating safety, humanity, or the self (e.g., Lantern Marsh's lights mirroring the viewer's face)."
+    },
+    {
+      "pattern-name": "Grimdark Scavenger Economy",
+      "description": "Societies defined entirely by the harvesting of a specific, grim resource necessary for survival or trade (e.g., sifting ash for machine bones, harvesting ear-cages of secrets)."
+    },
+    {
+      "pattern-name": "Identity Erasure",
+      "description": "The threat of death is secondary to the threat of losing one's name, face, or history (e.g., Paper Wilderness rewriting names, Suture City removing residents mid-sentence)."
+    },
+    {
+      "pattern-name": "Literalized Metaphor",
+      "description": "Abstract idioms are rendered as physical threats: 'family trees' become orchards of ancestors, 'empty suits' become hollow rulers, and 'red tape' becomes biting paperwork."
+    },
+    {
+      "pattern-name": "Somatic Terrain",
+      "description": "The landscape is treated as a biological body (vertebrae mountains, marrow tunnels, soil of cremated remains), making geography explicitly visceral and often grotesque."
+    },
+    {
+      "pattern-name": "Psychic Contamination",
+      "description": "Environmental hazards attack the mind or self-identity rather than just physical health, such as bells bending memory, fruit transmitting voices, or mirrors showing alternate selves."
+    },
+    {
+      "pattern-name": "Grimdark Mercantilism",
+      "description": "The economy relies on harvesting taboo or horrific resources, such as ancestral dreams, non-rotting meat, or storms, normalizing the consumption of the grotesque."
+    },
+    {
+      "pattern-name": "The Absent God",
+      "description": "Authority figures are missing, dead, or empty (hollow robes, dead ancestors, sleeping giants), leaving systems to run on inertia and archaic, dangerous rules."
+    },
+    {
+      "pattern-name": "Preservation as Curse",
+      "description": "A recurring focus on preventing change or rot (salt preservation, non-rotting meat, silencing the dead) which leads to a stagnant, museum-like existence rather than life."
+    },
+    {
+      "pattern-name": "Absent Overlords",
+      "description": "Authority figures (nobility, machine creators, sun itself) have vanished or died, leaving behind systems that grind on purposelessly. Standard 'fallen empire' scaffolding."
+    },
+    {
+      "pattern-name": "Body-as-Fuel",
+      "description": "Bones ground for machines, lungs consumed by spores, flesh scoured by storms. The world literally devours inhabitants—a Dark Souls staple."
+    },
+    {
+      "pattern-name": "Passive Endurance",
+      "description": "Inhabitants cope (masks, sewn ears, chains) rather than resist. No rebellion, no adaptation beyond survival. Grimdark shorthand for 'hopelessness.'"
+    },
+    {
+      "pattern-name": "Vertical Class Stratification",
+      "description": "Higher = powerful/absent, lower = suffering/visible. Appears in Sprawl and Foundry. Borrowed directly from Gormenghast and 40K hive cities."
+    },
+    {
+      "pattern-name": "Leviathan Graveyard",
+      "description": "Giant dead creatures forming terrain/shelter. Extremely common in fantasy art and games (Shadow of the Colossus, Kenshi, etc.)."
+    },
+    {
+      "pattern-name": "Sickly Palette Signaling",
+      "description": "Yellow fog, violet sun, grey sand, black sap. Color used as blunt 'wrongness' indicator rather than earned atmosphere."
+    },
+    {
+      "pattern-name": "Forgotten Purpose Machine",
+      "description": "Technology running without meaning or memory. Direct Kafka/industrial horror lineage. Predictable in subterranean settings."
+    },
+    {
+      "pattern-name": "Madness Vector",
+      "description": "Environmental element (voices, spores) that attacks sanity. Lovecraft-derived; expected in any 'hostile wasteland' setup."
+    },
+    {
+      "pattern-name": "Sinking/Eroding Settlement",
+      "description": "Villages sinking into bog, spires crumbling. Physical decay mirroring societal decay—overused symbolism."
+    },
+    {
+      "pattern-name": "Buried Treasure Hook",
+      "description": "Lost armaments under sand, refuse from above. Provides convenient adventure motivation but feels procedurally generated."
+    },
+    {
+      "pattern-name": "Faceless Labor",
+      "description": "Anonymous workers in chains. Dehumanization-as-aesthetic without exploring the humanity underneath. Surface-level horror."
+    },
+    {
+      "pattern-name": "Ancient Watchers",
+      "description": "Stone idols with worn faces 'watching.' Implies forgotten gods but commits to nothing. Vague mysticism placeholder."
+    },
+    {
+      "pattern-name": "Bioluminescent Substitute",
+      "description": "When primary light fails, glowing fungi/creatures fill the void. Standard underground/dying-world shorthand for 'adapted ecosystem.'"
+    },
+    {
+      "pattern-name": "Corpse-Light Lure",
+      "description": "Will-o'-wisps leading travelers to doom. Direct folklore import with no subversion—appears in Rotting Fen exactly as expected."
+    },
+    {
+      "pattern-name": "Ossuary Architecture",
+      "description": "Bones as building material. Heavily associated with the Paris Catacombs aesthetic; dark fantasy default for 'death-culture city.'"
+    },
+    {
+      "pattern-name": "Madness-Inducing Environment",
+      "description": "Ambient feature (wind, sound, cold) that drives people insane. Lovecraft-descended shortcut for 'this place is bad.'"
+    },
+    {
+      "pattern-name": "Frozen Tragedy Window",
+      "description": "Ancient civilization perfectly preserved in ice, visible but unreachable. Combines 'lost golden age' with 'nature as tomb.'"
+    },
+    {
+      "pattern-name": "Carnivorous Terrain",
+      "description": "Land that digests sleepers/the unwary. Body-horror geography—the 'don't sleep here' rule signals danger without active antagonist."
+    },
+    {
+      "pattern-name": "Eternal Dying Sun",
+      "description": "Perpetual twilight from a frozen/failing celestial body. Removes day/night cycle to create permanent dread atmosphere."
+    },
+    {
+      "pattern-name": "Sinking Stilt Village",
+      "description": "Communities slowly consumed by swamp. Combines 'doomed settlement' with 'nature reclaiming'—very expected for fen settings."
+    },
+    {
+      "pattern-name": "Restless Earth Below",
+      "description": "Subterranean groans, pulses, or heartbeats suggesting something sleeping beneath. Foreshadows a 'true threat' without revealing it."
+    },
+    {
+      "pattern-name": "Ash-Silence Pairing",
+      "description": "Volcanic desolation paired with oppressive quiet. Sensory deprivation trope—'nothing lives here' communicated through absence."
+    },
+    {
+      "pattern-name": "Adapted Predator Ecology",
+      "description": "Pale/blind creatures hunting in darkness. Evolutionary logic applied to fantasy—predictable 'realistic' worldbuilding move."
+    },
+    {
+      "pattern-name": "Bleeding Flora",
+      "description": "Plants that bleed red sap when cut. Quick visual cue for 'this ecosystem is wrong/alive'—minimal worldbuilding, maximum signaling."
+    }
+  ]
+}
