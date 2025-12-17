@@ -67,16 +67,16 @@ Write to `/mnt/user-data/outputs/[source]-[type]-tags.json`:
 
 ## Type-Specific Guidance
 
-| Type                  | Focus On                                                                    |
-| --------------------- | --------------------------------------------------------------------------- |
-| monster               | physical traits, behavior, origin                                           |
-| location              | lighting, weather, terrain architecture, flora/fauna, monster, danger       |
-| world                 | flora/fauna, geography, history, climate, technology, magic, monster, group |
-| character trait       | personality, motivation, archetype, flaw                                    |
-| character description | physical appearance, mannerisms, voice, attire                              |
-| weapon                | form factor, material, fighting style, origin                               |
-| magic                 | visual effect, source, cost, element                                        |
-| atmosphere            | emotional tone, mood, color, sound, taste, texture                          |
+| Type                  | Focus On                                                      |
+| --------------------- | ------------------------------------------------------------- |
+| threat                | specific monster, trap, environmental/social hazard           |
+| location              | specific building, landmark, or geographic feature            |
+| ritual                | social ritual, daily practice, obligations, customs, routines |
+| character trait       | personality, motivation, archetype, flaw                      |
+| character description | physical appearance, mannerisms, voice, attire                |
+| weapon                | form factor, material, fighting style, origin                 |
+| magic                 | visual effect, source, cost, element                          |
+| atmosphere            | emotional tone, mood, color, sound, taste, texture            |
 
 ## If Stuck
 

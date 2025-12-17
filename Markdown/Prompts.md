@@ -2,19 +2,37 @@
 
 ## 1. 'World' Prompt
 
-<!-- Each setting must include at least 3 of these elements:
-**Decaying/Ruined World**
-**Gothic Architecture**
-**Subterranean/Underground Spaces**
-**Castle/Fortress as Central Location**
-**Hostile/Cursed Wilderness**
-**World Under Dead/Dying God**
-**Post-Apocalyptic Elements** -->
-
 Hey Claude, I want you to generate 10 dark fantasy settings. Each setting should be atypical or untried in the genre.
 Tag Constraint: I've attached a json array of 10 sets of 'tags'. Each of your generated settings must feature, include, or be based on each set of tags in the array, in order. For example, if the first set of tags is ["blood-drinking forest", "veggie-folk villages", "graveyard city"], your first setting must incorporate those three elements.
 Output Format: Provide your settings in a json "worlds" array. Each setting should be an object with one property: "description" (2-3 sentences elaborating on the setting - but do not name the settings).
 Quality Constraint: Remember, these settings should appear distinct or rare in dark fantasy. Take your time with this task.
+
+LOCATION PROMPT:
+Generate 10 specific dark fantasy locations. Each should be a single
+place (a building, landmark, or geographic feature) - not a region or
+city. Include one unusual physical or spatial property for each.
+Output as JSON array: [{"location": "...", "property": "..."}]
+
+THREAT PROMPT:
+Generate 10 dark fantasy monsters or threats. Each must have a
+specific behavioral quirk - not just what it is, but how it acts
+or what it wants. Avoid generic undead, demons, or corrupted beasts.
+Output as JSON array: [{"threat": "...", "behavior": "..."}]
+
+RITUAL PROMPT:
+Generate 10 social rituals or daily practices for a dark fantasy
+society. These should be obligations, customs, or routines - things
+people DO regularly. Avoid religious worship or obvious magical rites.
+Output as JSON array: [{"ritual": "...", "purpose": "..."}]
+
+COMPOSITION PROMPT:
+Build a dark fantasy setting that incorporates all three elements below. The setting should make these elements feel connected - not just coexisting, but creating tension or meaning through their interaction.
+
+Location: Mirewatch Lighthouse - Its beacon illuminates only things that no longer exist, revealing phantom ships and dead cities
+Threat: The Unfinished - Hunts exclusively those who abandoned creative works; appears as a shifting mass of half-formed shapes, demanding completion or consumption
+Ritual: Blade Offering - When concluding any negotiation, both parties draw a drop of their own blood onto the contract as a seal of accountability
+
+Output: A 4-5 sentence setting description. Include one strong visual image and explain why the ritual matters given the threat.
 
 ## 2. Revision Prompt
 

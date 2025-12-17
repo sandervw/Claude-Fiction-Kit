@@ -1,0 +1,42 @@
+[
+  {
+    "location": "The Ossuary of Whispered Names",
+    "property": "The deeper you descend, the higher you climb—visitors enter through a cellar but emerge atop a mile-high spire"
+  },
+  {
+    "location": "Gallowsreach Bridge",
+    "property": "The bridge appears 100 feet long but takes three days to cross on foot, regardless of pace"
+  },
+  {
+    "location": "The Weeping Colossus",
+    "property": "A statue visible from any point in the surrounding wasteland, yet impossible to approach closer than a league"
+  },
+  {
+    "location": "Thornspire Keep",
+    "property": "All rooms share the same doorway—which door you enter depends on the emotion you carry"
+  },
+  {
+    "location": "The Drowned Bell Tower",
+    "property": "Submerged in a black lake, yet its interior remains dry and sounds echo as if in open air"
+  },
+  {
+    "location": "Mirewatch Lighthouse",
+    "property": "Its beacon illuminates only things that no longer exist, revealing phantom ships and dead cities"
+  },
+  {
+    "location": "The Flayed Oak",
+    "property": "Casts seven shadows from a single light source, each pointing toward a different grave"
+  },
+  {
+    "location": "Char Hollow Well",
+    "property": "Objects dropped in fall upward into a starless sky that exists only within the shaft"
+  },
+  {
+    "location": "The Silent Chancel",
+    "property": "Physically rotates to always face away from whoever is looking at it"
+  },
+  {
+    "location": "Graven Tooth Monolith",
+    "property": "Appears two-dimensional from every angle except when viewed through a corpse's eyes"
+  }
+]

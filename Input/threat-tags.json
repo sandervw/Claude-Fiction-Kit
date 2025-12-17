@@ -1,0 +1,42 @@
+[
+  {
+    "threat": "The Tithekeeper",
+    "behavior": "Appears at thresholds offering fair bargains, but each deal subtly redefines what the victim considers 'fair' until they willingly trade away everything"
+  },
+  {
+    "threat": "Hollow Choir",
+    "behavior": "A mass of fused bodies that only hunts those who have been forgotten by everyone they once knew—it can sense the absence of being remembered"
+  },
+  {
+    "threat": "The Seamstress",
+    "behavior": "Stitches sleeping victims into their own nightmares using thread spun from regret; victims wake paralyzed, living their worst memories on loop"
+  },
+  {
+    "threat": "Gravedebt",
+    "behavior": "Manifests near anyone who survived when others died in their place; doesn't attack, just follows—until the survivor is alone"
+  },
+  {
+    "threat": "The Asking Price",
+    "behavior": "A faceless merchant that appears in moments of desperation, trades exactly what you need for 'something you won't miss yet'"
+  },
+  {
+    "threat": "Stillborn Echo",
+    "behavior": "Mimics the voice of a loved one calling from just out of sight, leading victims in circles until exhaustion—it feeds on the hope that precedes despair"
+  },
+  {
+    "threat": "The Unfinished",
+    "behavior": "Hunts exclusively those who abandoned creative works; appears as a shifting mass of half-formed shapes, demanding completion or consumption"
+  },
+  {
+    "threat": "Vowbreaker",
+    "behavior": "Tracks oath-makers obsessively but never harms them—instead kills everyone the oath-breaker loves while forcing them to watch"
+  },
+  {
+    "threat": "The Patient Feast",
+    "behavior": "Infests a community as a shared delusion of prosperity; victims fatten and celebrate while slowly being digested from within over months"
+  },
+  {
+    "threat": "Kindness Debt",
+    "behavior": "Appears as a helpful stranger who saves lives unsolicited, then returns years later to collect—the saved must now save it, no matter the cost"
+  }
+]
