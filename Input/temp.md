@@ -1,6 +1,6 @@
 # Shuffled Combinations
 
-## 1
+## 1 (Dud)
 
 Location: Mirewatch Lighthouse - Its beacon illuminates only things that no longer exist, revealing phantom ships and dead cities
 Threat: The Unfinished - Hunts exclusively those who abandoned creative works; appears as a shifting mass of half-formed shapes, demanding completion or consumption
@@ -18,7 +18,7 @@ Location: Char Hollow Well - Objects dropped in fall upward into a starless sky 
 Threat: Hollow Choir - A mass of fused bodies that only hunts those who have been forgotten by everyone they once knew—it can sense the absence of being remembered
 Ritual: Name Carrying - Citizens introduce themselves with the name of their most recent dead relative appended to their own, keeping the deceased in public memory
 
-## 4
+## 4 (Dud)
 
 Location: Thornspire Keep - All rooms share the same doorway—which door you enter depends on the emotion you carry
 Threat: The Seamstress - Stitches sleeping victims into their own nightmares using thread spun from regret; victims wake paralyzed, living their worst memories on loop

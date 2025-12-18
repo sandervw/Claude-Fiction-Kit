@@ -28,9 +28,9 @@ Output as JSON array: [{"ritual": "...", "purpose": "..."}]
 COMPOSITION PROMPT:
 Build a dark fantasy setting that incorporates all three elements below. The setting should make these elements feel connected - not just coexisting, but creating tension or meaning through their interaction.
 
-Location: Mirewatch Lighthouse - Its beacon illuminates only things that no longer exist, revealing phantom ships and dead cities
-Threat: The Unfinished - Hunts exclusively those who abandoned creative works; appears as a shifting mass of half-formed shapes, demanding completion or consumption
-Ritual: Blade Offering - When concluding any negotiation, both parties draw a drop of their own blood onto the contract as a seal of accountability
+Location: Thornspire Keep - All rooms share the same doorway—which door you enter depends on the emotion you carry
+Threat: The Seamstress - Stitches sleeping victims into their own nightmares using thread spun from regret; victims wake paralyzed, living their worst memories on loop
+Ritual: Hollow Pockets - Before sleep, all pockets and bags must be turned inside-out and shown empty, symbolizing one carries no hidden burdens into dreams
 
 Output: A 4-5 sentence setting description. Include one strong visual image and explain why the ritual matters given the threat.
 
