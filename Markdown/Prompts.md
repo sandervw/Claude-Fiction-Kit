@@ -90,6 +90,11 @@ Can you rewrite the attached prose? I'm happy with the overall 'concept', but no
 - Collapse specifics into general types and keep just enough prose flavor.
 - Save details for another “verse,” not the opening spiel.
 
+## Bandcamp Review Prompt
+
+Hey Claude, try revising the following text in the thorogood style, 500 characters:
+It reminds me of Aindulmedir, not exactly the same style, but in the way it captured a mood; cool use of chime/ringing sounds to evoke a sense of winter, or piety; Works as background noise, or active listening; 9/10, potentially a ten if stick around in my head for a few months.
+
 ## Peake Revision
 
 Can you rewrite the attached prose? I'm happy with the overall 'concept', but not the form. Please keep your rewrite under [TODO] characters. I'd like you to rewrite it, using the following guidelines.
