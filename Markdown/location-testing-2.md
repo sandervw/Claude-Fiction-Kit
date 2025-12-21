@@ -55,3 +55,47 @@ The fish have stopped coming. Not scarce—gone. The loch surface lies mirror-fl
 At night, the wind carries sounds from the mainland—clicks and low hoots that might be owls, or might be the Sarks who have claimed the abandoned village there. On clear evenings, their fires glow through the trees. They remember fire, at least. Brennach posts a watch until dawn, though everyone knows the Lost Ones fear the water.
 
 The causeway rots faster than it can be replaced. By spring, the path may sink entirely. "A wall that holds nothing out holds everything in."
+
+## Renamed Characters
+
+`Prompt:`
+
+```
+Hey claude, take a look at the description for a dark fantasy location I've attached as a markdown file.  need you to update this so that any proper character names are pulled randomly from the attached json doc. Don't update creatures or locations, just the actual people-names. To make sure your choice is random, write a quick python script to randomly select from each list of names (male or female) as appropriate.
+```
+
+**Crannóg Teile**
+
+The settlement clings to a limestone islet in Loch Mórànn, reached only by a causeway of rotting timber that surfaces at low tide. The water lies black and still. It tastes of peat and old iron when the wind lifts spray to your lips.
+
+Seventeen souls remain—down from forty-three when the warlord Vardrek declared this place a refuge, six winters past. He rules from a roundhouse whose thatch has gone grey with damp, a thick-armed man who once led raids on the mainland. Now he reinforces timbers and rations grain. His axe hangs above the hearthfire, untouched two seasons. "What cannot be taken cannot be kept."
+
+The druid Gellandrixa keeps the names. Each evening she recites every lineage—a wavering litany growing longer each month, for she must now speak for the dead as well as the living. Her fingers are stained black from oak-gall ink. She insists the children listen. Repeat. The youngest, Grundvik from Lowmire, mouths the words but his eyes slide toward the water, watching something none of the adults acknowledge.
+
+The fish have stopped coming. Not scarce—gone. The loch surface lies mirror-flat, undisturbed by fin or ripple. Yet each morning, Phollimbra Dess the net-mender finds her lines heavy. Waterlogged cloth. A leather shoe. Once, a carved figure so worn by the black water its features had smoothed to nothing. She buries these finds behind the roundhouse and speaks of them to no one.
+
+At night, the wind carries sounds from the mainland—clicks and low hoots that might be owls, or might be the Sarks who have claimed the abandoned village there. On clear evenings, their fires glow through the trees. They remember fire, at least. Vardrek posts a watch until dawn, though everyone knows the Lost Ones fear the water.
+
+The causeway rots faster than it can be replaced. By spring, the path may sink entirely. "A wall that holds nothing out holds everything in."
+
+## Reworded (Final Draft?)
+
+`Prompt:`
+
+```
+Hey claude, take a look at the description for a dark fantasy location I've attached as a markdown file.  need you to update this so that the words used (both for proper-named places, and for regular nouns) mix in my setting-specific words defined in the attached json document. Substitute setting vocabulary sparingly. Convert proper nouns. Choose ONE key term to anchor the location's identity and use it no more than twice. Reserve other specialized words for moments of mystery, ritual, or deep antiquity—places where strangeness belongs. Leave generic words wherever they're doing navigational or functional work.
+```
+
+**Krannogg Teile**
+
+The settlement clings to a limestone islet in Loch Mórann, reached only by a causeway of rotting timber that surfaces at low tide. The water lies black and still. It tastes of peat and old iron when the wind lifts spray to your lips.
+
+Seventeen souls remain—down from forty-three when the warlord Vardrek declared this krannogg a refuge, six winters past. He rules from a rhundhaus whose thatch has gone grey with damp, a thick-armed man who once led raids on the mainland. Now he reinforces timbers and rations grain. His axe hangs above the hearthfire, untouched two seasons. "What cannot be taken cannot be kept."
+
+The druid Gellandrixa keeps the names. Each evening she recites every lineage—a wavering litany growing longer each month, for she must now speak for the dead as well as the living. Her fingers are stained black from oak-gall ink. She insists the children listen. Repeat. The youngest, Grundvik from Dhallmire, mouths the words but his eyes slide toward the water, watching something none of the adults acknowledge.
+
+The fish have stopped coming. Not scarce—gone. The loch surface lies mirror-flat, undisturbed by fin or ripple. Yet each morning, Phollimbra Dess the net-mender finds her lines heavy. Waterlogged cloth. A leather shoe. Once, a figure carved from the stone of some passaj grav, so worn by the black water its features had smoothed to nothing. She buries these finds behind the rhundhaus and speaks of them to no one.
+
+At night, the wind carries sounds from the mainland—clicks and low hoots that might be owls, or might be the Sarks who have claimed the abandoned balli there. On clear evenings, their fires glow through the trees. They remember fire, at least. Vardrek posts a watch until dawn, though everyone knows the Lost Ones fear the water.
+
+The causeway rots faster than it can be replaced. By spring, the path may sink entirely. "A wall that holds nothing out holds everything in."
