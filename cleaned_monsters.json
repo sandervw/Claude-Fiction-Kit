@@ -1,0 +1,1882 @@
+[
+  {
+    "name": "Air Elemental",
+    "description": "A massive form of congealed air and vapor with a large head, torso, and powerful arms that move with high speed and accuracy. It projects long-ranged cones of freezing air through magical currents channeled via its arms.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Air_Elemental"
+  },
+  {
+    "name": "Air Elemental Minion",
+    "description": "A smaller air and vapor construct with a head, torso, and large arms that relies on closing distance to engage prey in melee combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Air_Elemental_Minion"
+  },
+  {
+    "name": "Alpha Wolf",
+    "description": "A larger and more durable gray wolf than its pack mates, distinguished by a deep luminous blue aura.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Alpha_Wolf"
+  },
+  {
+    "name": "Ancient Corpse",
+    "description": "An undead creature.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Ancient_Corpse"
+  },
+  {
+    "name": "Ancient Scorpion",
+    "description": "A wood and steel automaton resembling a scorpion, equipped with a fire cannon and a burst-fire chaingun mounted on its body.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Ancient_Scorpiot"
+  },
+  {
+    "name": "Angler",
+    "description": "A brightly-colored aquatic creature with a single large eye and multiple relatives found across the continent.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Angler"
+  },
+  {
+    "name": "Arakun Spider",
+    "description": "An arachnid creature.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Arakun_Spider"
+  },
+  {
+    "name": "Automaton Blade",
+    "description": "A bulky humanoid automaton with twin blades that attacks with a very slow sequence.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Arhok_Cold_Storage_Cave"
+  },
+  {
+    "name": "Automaton Mech",
+    "description": "A humanoid automaton equipped with a burst-fire gatling gun mounted on its chassis.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Automaton_Blade"
+  },
+  {
+    "name": "Bandit",
+    "description": "A human-like warrior armed with melee weapons who engages enemies in close combat with straightforward attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Bandit"
+  },
+  {
+    "name": "Bandit Archer",
+    "description": "A human-like archer that attacks from range using projectile weapons rather than engaging in melee.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Bandit_Archer"
+  },
+  {
+    "name": "Bandit Boss",
+    "description": "A heavily armored bandit leader with a distinctive skull-adorned red-and-black outfit, mohawk, and axe who possesses significantly greater durability and combat prowess than standard bandits.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Bandit_Boss"
+  },
+  {
+    "name": "Barkrunner",
+    "description": "A towering tree-like humanoid with dense bark skin and glowing red eyes that bashes foes with powerful limb strikes and blends seamlessly with forest environments.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Barkrunner"
+  },
+  {
+    "name": "Battle Wraith",
+    "description": "A floating skeletal undead composed of a skull, ribs, spine, and arms that attacks with aggressive fist-fighting, sometimes removing and flailing its own helmet in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Battle_Wraith"
+  },
+  {
+    "name": "Bear",
+    "description": "A natural beast encountered in isolated locations that attacks with physical strikes.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Bear"
+  },
+  {
+    "name": "Big Chicken",
+    "description": "A large avian creature that engages in combat using basic attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Big_Chicken"
+  },
+  {
+    "name": "Bile Lunger",
+    "description": "A miniboss-tier creature resembling a water-based humanoid that fights using hand-to-hand melee combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Bile_Lunger"
+  },
+  {
+    "name": "Black Drake",
+    "description": "A draconic creature with mottled black scales that attacks enemies with powerful claws and white-hot flame breath.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Black_Drake"
+  },
+  {
+    "name": "Black Skrub",
+    "description": "A hostile creature with unknown physical characteristics and combat behavior.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Black_Skrub"
+  },
+  {
+    "name": "Black Skrubb",
+    "description": "A low-level enemy with an unspecified appearance that serves as an early-game encounter.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Black_Skrubb"
+  },
+  {
+    "name": "Black Wolf",
+    "description": "A large predator with a mottled-black coat that hunts in packs, displaying bold and aggressive behavior toward humans.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Black_Wolf"
+  },
+  {
+    "name": "Blaster",
+    "description": "A heavily armored treaded robotic tank equipped with a grenade launcher for ranged combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Blaster"
+  },
+  {
+    "name": "Blazing Elemental",
+    "description": "A small, knee-high fire elemental that charges at enemies and detonates with intense force and heat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Blazing_Elemental"
+  },
+  {
+    "name": "Blue Drake",
+    "description": "A forest-dwelling drake that breathes a blue weapon as its primary attack.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Blue_Drake"
+  },
+  {
+    "name": "Blue Shard",
+    "description": "A medium-sized crystalline creature that launches blue homing projectiles at enemies.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Blue_Shard"
+  },
+  {
+    "name": "Bog Beast",
+    "description": "A swamp-dwelling creature with an unspecified appearance encountered in wetland environments.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Bog_Beast"
+  },
+  {
+    "name": "Bonepicker's Trading Post",
+    "description": "This is a location, not a monster, and should not be included in this list.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Bonepicker's_Trading_Post"
+  },
+  {
+    "name": "Bones",
+    "description": "An early skeleton revenant with enhanced agility that attacks with flailing bare fists.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Bones"
+  },
+  {
+    "name": "Bookas",
+    "description": "A small pygmy spellcaster that uses magic in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Bookas"
+  },
+  {
+    "name": "Braak",
+    "description": "Blue-skinned, horned humanoids with red eyes, sharp teeth, and white-furred forearms and legs that wear pelts. They are semi-intelligent melee combatants that often coordinate attacks with magic-using variants.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Braak"
+  },
+  {
+    "name": "Braak Mage",
+    "description": "A smaller variant of Braak that eschews melee combat in favor of magical attacks against its enemies.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Braak_Mage"
+  },
+  {
+    "name": "Brankar the Scavenger",
+    "description": "A larger, blue-greenish krug with minimal armor and weaponry who leads groups of scavengers but lacks the combat strength of standard krug warriors.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Brankar_the_Scavenger"
+  },
+  {
+    "name": "Bronze Gargoyle",
+    "description": "A ranged magic user that projects long-range laser beams from its eyes with considerable power and accuracy.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Bronze_Gargoyle"
+  },
+  {
+    "name": "Cave Angler",
+    "description": "A creature inhabiting flooded underwater caverns that typically appears in large swarms.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Cave_Angler"
+  },
+  {
+    "name": "Cave Bear",
+    "description": "A large ursine predator found in cave environments.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Cave_Bear"
+  },
+  {
+    "name": "Cave Giant",
+    "description": "A towering humanoid creature of exceptional size and strength.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Cave_Giant"
+  },
+  {
+    "name": "Chitterskrag",
+    "description": "A multi-meter tall arthropod resembling a hybrid of hermit crab and cockroach with a chitinous carapace that typically hunts in large groups to overwhelm prey.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Chitterskrag"
+  },
+  {
+    "name": "Chomper",
+    "description": "A squat, sentient melee creature distinguished by prominent front incisors found in coastal and cave environments.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Chomper"
+  },
+  {
+    "name": "Cicatrix",
+    "description": "A skeletal centaur lord clad in heavy armor who wields a flaming sickle and summons waves of skeleton warriors and archers in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Cicatrix"
+  },
+  {
+    "name": "Clockwork Automaton",
+    "description": "A large, ornately decorated mechanical construct similar to smaller automaton models. It engages opponents through melee combat with its built-in weaponry.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Clockwork_Automaton"
+  },
+  {
+    "name": "Cobble Man",
+    "description": "A rocky humanoid creature capable of both melee and ranged attacks. It launches conical sprays of rock projectiles at targets from a distance.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Cobble_Man"
+  },
+  {
+    "name": "Copter",
+    "description": "A small flying robot with propellers and internal mechanisms, armed with a lightning gun. It hovers above melee range to attack while remaining mobile, posing minimal threat when encountered alone.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Copter"
+  },
+  {
+    "name": "Crystal Golem",
+    "description": "A humanoid construct composed of crystalline material. It attacks with powerful hand-to-hand strikes.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Crystal_Golem"
+  },
+  {
+    "name": "Crystal Guardian",
+    "description": "An oversized, shard-like crystalline construct that resembles floating crystal formations. It attacks with claws and ranged crystalline projectiles similar to smaller shards.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Crystal_Guardian"
+  },
+  {
+    "name": "Cyclops",
+    "description": "A massive pale-skinned giant with a single large eye and muscular build wearing minimal clothing. It fights with its bare fists or wields enormous clubs as melee weapons.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Cyclops"
+  },
+  {
+    "name": "Dark Acolyte",
+    "description": "A wraith-like skeletal undead with an upper body and no lower half, wearing a horned helmet. It attacks with sharp claws when provoked.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Dark_Acolyte"
+  },
+  {
+    "name": "Dark Caster",
+    "description": "A dark-skinned humanoid mage dwelling in cave systems. It casts instantaneous-hit electrical spells at targets.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Dark_Caster"
+  },
+  {
+    "name": "Dark Generator",
+    "description": "A mago-technological device with a dark, shadowy appearance that channels power through magical-mechanical means. It darkens the surrounding area through its operation.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Dark_Generator"
+  },
+  {
+    "name": "Dark Klaw",
+    "description": "A bleached-horned variant of the Klaw with distinctive markings across its hide. It engages enemies with melee attacks using its sharp claws and natural weapons.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Dark_Klaw"
+  },
+  {
+    "name": "Dark Lunger",
+    "description": "A dark-colored creature that attacks by rushing toward enemies and clawing with its hands.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Dark_Lunger"
+  },
+  {
+    "name": "Dark Mucosa",
+    "description": "A large red melee-fighting creature that is more robust and aggressive than its lighter-colored relatives.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Dark_Mucosa"
+  },
+  {
+    "name": "Dark Slinger",
+    "description": "A ranged attacker that rapidly fires forked javelin-like projectiles at enemies from a distance.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Dark_Slinger"
+  },
+  {
+    "name": "Dark Wolf",
+    "description": "An undead spectral wolf with exposed bone, loose hide, and glowing red eyes that hunts with a pack of regular wolves.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Dark_Wolf"
+  },
+  {
+    "name": "Dark Wraith Mage",
+    "description": "A powerful wraith surrounded by a rust-colored aura that casts homing projectile spells at opponents.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Dark_Wraith_Mage"
+  },
+  {
+    "name": "Dark Zepheryl",
+    "description": "A being composed of purple magical energy that attacks by unleashing electrical discharges at enemies.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Dark_Zepheryl"
+  },
+  {
+    "name": "Darkling",
+    "description": "A creature of unspecified appearance and combat behavior.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Darkling"
+  },
+  {
+    "name": "Death Knight",
+    "description": "An armored undead warrior wielding a hack and shield that moves with military discipline.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Death_Knight"
+  },
+  {
+    "name": "Desert Braak",
+    "description": "Wooly, ram-like humanoids that walk upright and appear social. They hurl boulders at enemies and possess exceptional durability despite not being conventional spellcasters.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Desert_Braak"
+  },
+  {
+    "name": "Doppelganger",
+    "description": "A shapeshifter that upon detecting an enemy immediately transforms into an exact copy of that target, wielding identical weapons and fighting style.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Doppelganger"
+  },
+  {
+    "name": "Doppelganger Knave",
+    "description": "A tougher variant of the standard Doppelganger with the same shapeshifting ability to copy enemies and their equipment.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Doppelganger_Knave"
+  },
+  {
+    "name": "Doppelganger Lord",
+    "description": "The most powerful Doppelganger variant, distinguished by a green aura, possessing enhanced durability while retaining the ability to assume the form of encountered enemies.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Doppelganger_Lord"
+  },
+  {
+    "name": "Drake",
+    "description": "A draconic creature class found across various environments, with multiple subspecies adapted to different regions and terrains.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Drake"
+  },
+  {
+    "name": "Droc",
+    "description": "A primitive crocodilian humanoid race with upright posture and basic intelligence.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Droc"
+  },
+  {
+    "name": "Droc Spatter",
+    "description": "A reddish variant of Droc capable of spitting yellow orbs from its maw, using ranged attacks to maintain distance from opponents.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Droc_Spatter"
+  },
+  {
+    "name": "Droc Superior",
+    "description": "A larger and more powerful Droc with darker green scales and distinctive head markings, wielding a large skull as a melee weapon.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Droc_Superior"
+  },
+  {
+    "name": "Droog Archer",
+    "description": "A ranged-combat Droog that attacks from distance using projectiles.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Droog_Archer"
+  },
+  {
+    "name": "Droog Captain",
+    "description": "A heavily tattooed and battle-hardened Droog leader with shaved head, representing a more formidable combat variant than standard warriors.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Droog_Captain"
+  },
+  {
+    "name": "Droog Grunt",
+    "description": "A hostile Droog warrior with a bulky, aggressive build that engages enemies in close combat using melee weapons.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Droog_Grunt"
+  },
+  {
+    "name": "Droog Mage",
+    "description": "A Droog spellcaster that attacks from a distance using nature-based magic.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Droog_Mage"
+  },
+  {
+    "name": "Dungeon Crawler",
+    "description": "A decomposed humanoid corpse with only its upper body intact that crawls along the ground, relying on powerful melee attacks and grabbing to damage enemies despite its slow movement.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Droog_Village_(Cliffs_of_Fire)"
+  },
+  {
+    "name": "Dust Spider",
+    "description": "A spider species related to the larger Arakun spiders.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Dungeon_Crawler"
+  },
+  {
+    "name": "Earth Elemental",
+    "description": "A massive bipedal creature composed of rock and ore deposits that moves slowly but delivers devastating melee damage through its heavy fists and magically-shifting stone body.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Dust_Spider"
+  },
+  {
+    "name": "Earth Elemental Minion",
+    "description": "A smaller but still enormous stone construct that swings its fists with extreme force in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Earth_Elemental"
+  },
+  {
+    "name": "Emerald Spider",
+    "description": "An oversized green spider that actively hunts prey.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Earth_Elemental_Minion"
+  },
+  {
+    "name": "Enraged Gorack",
+    "description": "A more powerful variant of the Gorack with granite-colored skin and colorful attire that strikes harder and endures longer in combat than standard Goracks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Emerald_Spider"
+  },
+  {
+    "name": "Farm Skrub",
+    "description": "No description provided.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Farm_Skrub"
+  },
+  {
+    "name": "Farm Skrubb",
+    "description": "A weak creature that burrows underground and surfaces to attack prey, launching dark greenish goo at opponents.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Farm_Skrubb"
+  },
+  {
+    "name": "Ferocious Braak",
+    "description": "A braak variant with distinctive markings and an unusually aggressive facial appearance.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Ferocious_Braak"
+  },
+  {
+    "name": "Fire Elemental",
+    "description": "A tall, gangly biped composed entirely of living fire that attacks aggressively when encountered.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Fire_Elemental"
+  },
+  {
+    "name": "Fire Elemental Minion",
+    "description": "A miniature version of the Fire Elemental, composed of living fire and capable of attacking.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Fire_Elemental_Minion"
+  },
+  {
+    "name": "Flechette",
+    "description": "A weaker variant of the Perforator creature.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Flechette"
+  },
+  {
+    "name": "Fleshrender",
+    "description": "A humanoid creature with a grey body, blue eyes, spiked crown, prominent fangs, and webbed hands and feet adapted for aquatic environments.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Fleshrender"
+  },
+  {
+    "name": "Flying Gritch",
+    "description": "A hostile flying arthropod with a grayish appearance resembling a Soul Stinger.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Flying_Gritch"
+  },
+  {
+    "name": "Forest Darkling",
+    "description": "An enhanced variant of the Darkling that casts green sparks and dwells in deep forests.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Forest_Darkling"
+  },
+  {
+    "name": "Forest Klaw",
+    "description": "A predatory forest beast with three angular head horns, large jaws, long wiry arms with huge claws, and slower movement speed that allows for evasion in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Forest_Klaw"
+  },
+  {
+    "name": "Forest Phrak",
+    "description": "A small Phrak subspecies with a relatively low health pool. It attacks with basic melee strikes.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Forest_Phrak"
+  },
+  {
+    "name": "Forest Troll",
+    "description": "A large, black-furred biped with yellow eyes, small ears, and unusually long forearms, wielding a spiked club. Forest Trolls hunt in small packs and will disengage from combat to retreat and regenerate health before returning to attack.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Forest_Troll"
+  },
+  {
+    "name": "Frost Archer",
+    "description": "A blue-hued archer with enhanced health and damage compared to regular archers, often surrounded by a faint blue aura. It attacks with ranged projectiles.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Frost_Archer"
+  },
+  {
+    "name": "Frost Drake",
+    "description": "The weakest variant of drake, distinguished by its icy coloration. It attacks with both spell-based frost attacks and physical melee strikes.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Frost_Drake"
+  },
+  {
+    "name": "Frost Golem",
+    "description": "A magical construct encountered in cold regions with a relatively low threat level. It attacks with upward swinging motions.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Frost_Golem"
+  },
+  {
+    "name": "Frost Mage",
+    "description": "An ice-adapted humanoid mage with poor individual health and spell damage. It compensates by summoning Ice Warriors repeatedly during combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Frost_Mage"
+  },
+  {
+    "name": "Frost Spitter",
+    "description": "A pale spider camouflaged within ice caverns, physically resembling a Frostnid. It attacks by projecting a frost ray from range.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Frost_Spitter"
+  },
+  {
+    "name": "Frost Warrior",
+    "description": "An opaque humanoid warrior surrounded by a glowing blue aura, with notably high armor and life ratings. It attacks with melee strikes comparable to regular Ice Warriors.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Frost_Warrior"
+  },
+  {
+    "name": "Frostnid",
+    "description": "A slow-moving spider adapted to cold climates. It attacks with simple biting strikes.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Frostnid"
+  },
+  {
+    "name": "Frostnid Spitter",
+    "description": "An oversized spider with pale coloration suited to frozen environments. It attacks from range using projectile frost attacks and is weaker than standard Frost Spitters.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Frostnid_Spitter"
+  },
+  {
+    "name": "Furok",
+    "description": "A shaggy, white-furred humanoid with massive hands designed for tearing prey apart. It uses its thick fur to blend in with snowy environments while hunting.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Furok"
+  },
+  {
+    "name": "Furok Slasher",
+    "description": "A variant of Furok distinguished by dark black stripes across its arms, legs, and upper body, significantly more aggressive and powerful than its standard counterpart.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Furok_Slasher"
+  },
+  {
+    "name": "Fury",
+    "description": "A boss-level monster that serves as a major threat in dungeons.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Fury"
+  },
+  {
+    "name": "Fury Spawn",
+    "description": "A small, single-eyed creature with multiple limbs that emit powerful colored energy beams (orange, purple, or green) in a wide frontal attack pattern.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Fury_Spawn"
+  },
+  {
+    "name": "Futak the Trainer",
+    "description": "A Krug leader wielding a hack weapon and shield who fights primarily through commanding and coordinating numerous allied Krug rather than individual combat prowess.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Futak_the_Trainer"
+  },
+  {
+    "name": "Gargoyle",
+    "description": "A winged stone creature that serves as a dungeon guardian.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gargoyle"
+  },
+  {
+    "name": "Ghastly Necron",
+    "description": "A purple-and-green-clothed undead creature resembling a mage, which wields a staff as a melee weapon rather than casting spells.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Ghastly_Necron"
+  },
+  {
+    "name": "Ghost",
+    "description": "A non-corporeal evil spirit that attacks from range with a life-draining assault that cannot be evaded, featuring lower defensive capability than creatures in its vicinity.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Ghost"
+  },
+  {
+    "name": "Giant Chitterskrag",
+    "description": "An enormous crustacean-like creature resembling an elephant-sized crab with large pincers, multiple legs, and a grey or blue carapace.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Giant_Chitterskrag"
+  },
+  {
+    "name": "Giant Lizard",
+    "description": "A horned, quadrupedal reptile that approaches from ground level with slow but resilient movements.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Giant_Lizard"
+  },
+  {
+    "name": "Giant Moth",
+    "description": "A giant insect with moth-like features. It attacks with its large body and wings.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Giant_Moth"
+  },
+  {
+    "name": "Giant Rat",
+    "description": "An oversized rodent enemy. It bites and claws at opponents.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Giant_Rat"
+  },
+  {
+    "name": "Giant Skeleton",
+    "description": "A towering skeletal humanoid standing approximately 10 feet tall, wielding a long sword and large shield. It attacks with powerful melee strikes and possesses substantial health reserves.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Giant_Skeleton"
+  },
+  {
+    "name": "Giant Skeleton Stalker",
+    "description": "An undead skeletal creature equipped with a sword and shield. It pursues enemies in groups alongside skeletal archers.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Giant_Skeleton_Stalker"
+  },
+  {
+    "name": "Giant Spider",
+    "description": "A massive arachnid with multiple legs and fangs. It engages opponents with aggressive melee attacks and is encountered as a boss-level threat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Giant_Spider"
+  },
+  {
+    "name": "Giant Wasp",
+    "description": "A flying insect with an elongated head, dangling legs, and a venomous stinger. It attacks from the air with stinging strikes.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Giant_Wasp"
+  },
+  {
+    "name": "Gobbot Blaster",
+    "description": "A mechanical goblin-made tank with ranged weaponry. It fires explosive blasts at enemies from a distance.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gobbot_Blaster"
+  },
+  {
+    "name": "Gobbot General",
+    "description": "An animatronic leader construct equipped with a gas-based ranged weapon. It directs attacks from a distance using pressurized gas projectiles.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gobbot_General"
+  },
+  {
+    "name": "Gobbot Grenadier",
+    "description": "A mechanical goblin automaton armed with a grenade launcher. It launches explosive ordnance with a wide blast radius.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gobbot_Grenadier"
+  },
+  {
+    "name": "Gobbot Gunner",
+    "description": "A goblin-constructed automaton equipped with a minigun. It fires rapid streams of projectiles at opponents.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gobbot_Gunner"
+  },
+  {
+    "name": "Gobbot Igniter",
+    "description": "A goblin-made automaton equipped with a flamethrower that it uses to attack with fire-based weapons.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gobbot_Igniter"
+  },
+  {
+    "name": "Gobbot Lobber",
+    "description": "A goblin-made automaton armed with a mini-grenade launcher that fires explosive projectiles in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gobbot_Lobber"
+  },
+  {
+    "name": "Gobbot Scorcher",
+    "description": "A weaker variant of the Gobbot Igniter, this automaton wields a flaemblaster that spews flames at enemies.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gobbot_Scorcher"
+  },
+  {
+    "name": "Gobbot Shocker",
+    "description": "A goblin-made automaton equipped with a lightning gun that delivers electrical attacks to opponents.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gobbot_Shocker"
+  },
+  {
+    "name": "Gobbot Sleeper",
+    "description": "A goblin-made automaton that wields a dragon minigun as its primary weapon in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gobbot_Sleeper"
+  },
+  {
+    "name": "Gobbot Zapper",
+    "description": "A goblin-made automaton employed by goblins, though its specific armament and combat style are not described.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gobbot_Zapper"
+  },
+  {
+    "name": "Goblin Blackguard",
+    "description": "A heavily armored goblin defender wearing a leather uniform and wielding a custom clockwork hammer for powerful strikes.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Goblin_Blackguard"
+  },
+  {
+    "name": "Goblin Grunt",
+    "description": "A low-ranked, unarmored goblin workman equipped with a worn hammer better suited for manufacturing than combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Goblin_Grunt"
+  },
+  {
+    "name": "Goblin Guard",
+    "description": "A goblin defender wearing a wood-and-steel carapace suit and armed with a blade capable of dealing significant damage.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Goblin_Guard"
+  },
+  {
+    "name": "Goblin Headsman",
+    "description": "A well-armored goblin guard clad in scale mail and wielding a black steel weapon designed for fast slashing attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Goblin_Headsman"
+  },
+  {
+    "name": "Goblin Inventor",
+    "description": "A technologically advanced goblin who designs and operates mechanical war machines. He pilots his creations from an internal cockpit and demonstrates skilled evasive maneuvers while unleashing multiple weapon systems against opponents.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Goblin_Inventor"
+  },
+  {
+    "name": "Goblin Robo Suit",
+    "description": "A towering wooden and steel two-legged mech equipped with a shoulder-mounted lightning gun, grenade launcher, flamethrower, and minigun arms. The pilot operates the suit with practiced skill, dodging projectiles while strafing enemies with coordinated weapon fire.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Goblin_Robo_Suit"
+  },
+  {
+    "name": "Gom",
+    "description": "A god-king of the Seck faction, serving as a powerful final antagonist with divine authority and commanding presence.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gom"
+  },
+  {
+    "name": "Goo Grub",
+    "description": "A small blob-like creature of indeterminate characteristics.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Goo_Grub"
+  },
+  {
+    "name": "Goo Walker",
+    "description": "A swamp-dwelling zombie that emerges from underground spawn points and attacks by launching visceral projectiles at enemies from a distance.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Goo_Walker"
+  },
+  {
+    "name": "Googore",
+    "description": "A gigantic worm-like creature with a segmented body that dwells in caves, capable of dealing substantial melee and elemental damage.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Googore"
+  },
+  {
+    "name": "Googore Grub",
+    "description": "A juvenile worm creature roughly human-sized, resembling a smaller version of the adult Googore with similar burrowing capabilities.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Googore_Grub"
+  },
+  {
+    "name": "Gorack",
+    "description": "A muscular humanoid primate wearing clothes and leather arm bands with an aggressive temperament, delivering powerful melee attacks and possessing high durability in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gorack"
+  },
+  {
+    "name": "Grave Crawler",
+    "description": "A severely decomposed undead corpse possessing only a single leg bone, moving slowly by crawling toward targets but compensating with substantial health reserves.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Grave_Crawler"
+  },
+  {
+    "name": "Gray Wolf",
+    "description": "A feral canine predator with gray fur that attacks using bites and physical assault in melee combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gray_Wolf"
+  },
+  {
+    "name": "Great Krakbone",
+    "description": "A massive green-skinned octopus with a single eye, large sharp beak, and long tentacles. It emerges from water to swipe at opponents with its tentacles.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Great_Krakbone"
+  },
+  {
+    "name": "Great Trog Warrior",
+    "description": "An enhanced version of the Trog Warrior with greater strength, wearing red plated armor.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Great_Trog_Warrior"
+  },
+  {
+    "name": "Greater Scrub Scorpion",
+    "description": "A large scorpion species found in arid scrub environments, representing the upper tier of scrub scorpion varieties.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Greater_Scrub_Scorpion"
+  },
+  {
+    "name": "Green Drake",
+    "description": "A drake inhabiting desert regions that attacks with claws at close range or breathes a corrosive luminous green mist from a distance.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Green_Drake"
+  },
+  {
+    "name": "Green Shard",
+    "description": "A small crystalline creature that fires green homing projectile attacks, with moderate durability among its shard-type variants.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Green_Shard"
+  },
+  {
+    "name": "Gremal",
+    "description": "A long-tusked rodent or lagomorph that hops about passively, though more aggressive variants exist.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gremal"
+  },
+  {
+    "name": "Gresh",
+    "description": "A Seck commander who wields powerful necromancy to command undead forces in direct combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gresh"
+  },
+  {
+    "name": "Grizzly Furok",
+    "description": "A demonic-looking furok variant with moderate combat ability, though it strengthens considerably at higher difficulty levels.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Grizzly_Furok"
+  },
+  {
+    "name": "Gulik",
+    "description": "A small pygmy creature found in jungle environments.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Gulik"
+  },
+  {
+    "name": "Hassat Archer",
+    "description": "A cheetah-like ranger Hassat that wields a bow as its primary weapon.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Hassat_Archer"
+  },
+  {
+    "name": "Hassat Caster",
+    "description": "A leonine spellcaster that hurls bright-blue projectile spells at its opponents.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Hassat_Caster"
+  },
+  {
+    "name": "Hassat Commander",
+    "description": "A white sabertooth warrior wielding a staff in one hand and bearing protective guards fashioned from exotic materials. It fights with skilled, deliberate combat technique.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Hassat_Commander"
+  },
+  {
+    "name": "Hassat Fighter",
+    "description": "A tiger-like swordsman armed with a tempered blade that it wields in direct melee combat against opponents.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Hassat_Fighter"
+  },
+  {
+    "name": "Hassat Hunter",
+    "description": "A cheetah-based ranger that attacks from range using a bow with quick, precise shots.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Hassat_Hunter"
+  },
+  {
+    "name": "Hassat Mage",
+    "description": "A lion-featured spellcaster adorned with colorful leather pouches that casts blue projectile spells and occasionally summons magical orbs.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Hassat_Mage"
+  },
+  {
+    "name": "Hassat Panther",
+    "description": "A panther-like creature with exceptional physical resilience that engages in close-quarters combat, though with limited agility.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Hassat_Panther"
+  },
+  {
+    "name": "Hassat Ranger",
+    "description": "A cheetah-form ranger clad in upgraded armor plating that hunts opponents from distance with a bow.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Hassat_Ranger"
+  },
+  {
+    "name": "Hassat Runner",
+    "description": "A cougar-resembling fighter with significant physical durability that relies on close-combat tactics.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Hassat_Runner"
+  },
+  {
+    "name": "Hassat Shaman",
+    "description": "A lion-shaped spellcaster that launches blue projectile spells at its enemies from a distance.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Hassat_Shaman"
+  },
+  {
+    "name": "Hassat Slicer",
+    "description": "A leopard-like warrior that attacks with a large axe in brutal melee combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Hassat_Slicer"
+  },
+  {
+    "name": "Headless Corpse",
+    "description": "A decapitated, bloodied corpse that rises to attack when sensing nearby creatures. Despite its slow movement, it deals heavy damage in melee combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Headless_Corpse"
+  },
+  {
+    "name": "Headless Zombie",
+    "description": "A beheaded undead corpse that emerges from the ground to assault intruders with brutal force, despite moving slowly and lacking a head to perceive its surroundings.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Headless_Zombie"
+  },
+  {
+    "name": "Heater",
+    "description": "A heavily armored, treaded robotic tank equipped with a flamethrower cannon capable of dealing significant damage. It was constructed by goblins for territorial defense and industrial purposes.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Heater"
+  },
+  {
+    "name": "Hell Boar",
+    "description": "A four-legged creature with burnished scales, eye stalks, wormlike mandibles, and a lamprey mouth that charges recklessly into battle to maul opponents. It exhibits aggressive boar-like behavior despite its otherworldly appearance.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Hell_Boar"
+  },
+  {
+    "name": "Horrid",
+    "description": "A monster occasionally encountered in dungeons, with limited information available about its appearance or combat style.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Horrid"
+  },
+  {
+    "name": "Hunter",
+    "description": "An attack drone fielded by goblins as an offensive combat unit.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Hunter"
+  },
+  {
+    "name": "Huskar the Shaman",
+    "description": "A powerful Krug magic-user and miniboss that combines both physical and magical attacks in combat. It likely commands the Shaman caste among its kind.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Huskar_the_Shaman"
+  },
+  {
+    "name": "Hydrack",
+    "description": "A saurian creature with a long, scaled neck and draconic head that inhabits swamp lakes and remains mostly submerged while attacking. It breathes a cone of poisonous gas or acid that deals heavy damage across a large area.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Hydrack"
+  },
+  {
+    "name": "Ice Archer",
+    "description": "An elemental humanoid creature encountered in alpine environments that operates in coordinated packs. These archers deliver ranged attacks from behind defensive formations of other ice elementals.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Ice_Archer"
+  },
+  {
+    "name": "Ice Fly",
+    "description": "A small ice elemental found in deep magical ice caves that inhabits burrows throughout frozen regions. It poses minimal threat individually despite its magical nature.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Ice_Fly"
+  },
+  {
+    "name": "Ice Giant",
+    "description": "A towering humanoid with pale blue skin, white hair, and well-muscled build that displays signs of intelligence through its clothing. It inhabits frozen caves and relies on melee combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Ice_Giant"
+  },
+  {
+    "name": "Ice Grub",
+    "description": "A human-sized worm that moves through icy terrain and engages in direct combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Ice_Grub"
+  },
+  {
+    "name": "Ice Mage",
+    "description": "A hunchbacked, elderly humanoid that summons Ice Warriors to fight on its behalf while using ice-based magic attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Ice_Mage"
+  },
+  {
+    "name": "Ice Moth",
+    "description": "An insectoid creature encountered in early-game alpine environments.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Ice_Moth"
+  },
+  {
+    "name": "Ice Warrior",
+    "description": "An elemental humanoid that operates in coordinated packs, can emerge unexpectedly from terrain, and provides defensive support for ranged allies. It carries valuable weaponry when defeated.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Ice_Warrior"
+  },
+  {
+    "name": "Ice Wasp",
+    "description": "A small flying elemental creature that inhabits frozen regions and engages in aerial combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Ice_Wasp"
+  },
+  {
+    "name": "Immature Chitterskrag",
+    "description": "The juvenile form of a larger insectoid species native to tropical island environments.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Immature_Chitterskrag"
+  },
+  {
+    "name": "Impaler",
+    "description": "A scorpion-like creature lacking frontal claws but armed with a long, flexible tail used for stabbing and bludgeoning attacks, known for emitting high-pitched vocalizations.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Impaler"
+  },
+  {
+    "name": "Infested Larch",
+    "description": "A larger, more powerful variant of the common Larch that serves as a significant threat in its territory.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Infested_Larch"
+  },
+  {
+    "name": "Island Lizard",
+    "description": "A small reptile with a distinctive pattern of white stripes along its back, smaller than its continental cousins.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Island_Lizard"
+  },
+  {
+    "name": "Jade Gargoyle",
+    "description": "A jade-colored gargoyle that engages enemies from range using projectile attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Jade_Gargoyle"
+  },
+  {
+    "name": "Jungle Angler",
+    "description": "A creature found in jungle coastal areas that uses angling attacks to engage prey.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Jungle_Angler"
+  },
+  {
+    "name": "Jungle Klaw",
+    "description": "A jungle variant of the Forest Klaw with clawed appendages used for melee combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Jungle_Klaw"
+  },
+  {
+    "name": "Jungle Phrak",
+    "description": "A insectoid creature that emerges from mound-like nests and attacks with aggression.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Jungle_Phrak"
+  },
+  {
+    "name": "Jungle Skrubb",
+    "description": "A small jungle-dwelling creature that scurries about and attacks with primitive force.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Jungle_Skrubb"
+  },
+  {
+    "name": "Jungle Slinger",
+    "description": "A humanoid creature that hurls projectiles such as forks at enemies from a distance.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Jungle_Slinger"
+  },
+  {
+    "name": "Jungle Slinger Camora",
+    "description": "An enhanced variant of the Jungle Slinger that throws projectiles with greater skill and ferocity.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Jungle_Slinger_Camora"
+  },
+  {
+    "name": "Jungle Spiker",
+    "description": "A spined creature inhabiting jungle regions that uses its sharp protrusions in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Jungle_Spiker"
+  },
+  {
+    "name": "Kell",
+    "description": "A pink-skinned serpentine demon with a horned head, glowing orange eyes, and sharp teeth that employs area-damage fireballs, homing magical projectiles, and lightning bolts as a resilient spellcaster.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Kell"
+  },
+  {
+    "name": "Kill Bot",
+    "description": "A mechanical attack drone with a quadrupedal or tracked design that fires projectiles at targets.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Kill_Bot"
+  },
+  {
+    "name": "Killer Gremal",
+    "description": "Oversized, hairless rodents with pinkish skin, huge red eyes, and long sharp teeth, possessing powerful leg muscles for hopping. They attack in large groups, hopping back and forth before biting with their prominent teeth.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Killer_Gremal"
+  },
+  {
+    "name": "Killer Vines",
+    "description": "Large sentient carnivorous vines that emerge from the ground with a swaying motion. They attack by swiping at approaching creatures and sink back into the ground when defeated.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Killer_Vines"
+  },
+  {
+    "name": "Klandank the Krug",
+    "description": "A large, broad red-orange Krug with a glowing green aura, significantly taller and wider than a human. He wields a blunt dagger and moves with great speed despite dealing minimal damage.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Klandank_the_Krug"
+  },
+  {
+    "name": "Klaw",
+    "description": "Tall hunching creatures with long arms, sharp claws, and three large horns atop their heads. They attack by lunging with gaping mouths and slashing with their claws, typically hunting in small packs.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Klaw"
+  },
+  {
+    "name": "Krakemaw the Putrid",
+    "description": "A putrid Rahk miniboss creature.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Krakemaw_the_Putrid"
+  },
+  {
+    "name": "Krug Apprentice",
+    "description": "A Krug variant of apprentice rank.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Krug_Apprentice"
+  },
+  {
+    "name": "Krug Chucker",
+    "description": "A Krug variant that uses ranged weapons to attack.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Krug_Chucker"
+  },
+  {
+    "name": "Krug Commander",
+    "description": "A Krug variant of commanding rank and strength.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Krug_Commander"
+  },
+  {
+    "name": "Krug Dog",
+    "description": "Roughly dog-like creatures with cream-white pelts and massive dagger-like canines. They are stronger than standard Krug scouts and typically appear in large packs.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Krug_Dog"
+  },
+  {
+    "name": "Krug Grunt",
+    "description": "A common, lower-ranked Krug warrior type.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Krug_Grunt"
+  },
+  {
+    "name": "Krug Guard",
+    "description": "A heavily armored Krug resembling Raiders but nearly twice as strong, wearing mismatched armor plates with red waistbands and skull emblems on their chestplates. They serve as enforcers within Krug forces, holding territory and directing lesser Krug in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Krug_Guard"
+  },
+  {
+    "name": "Krug Killer Dog",
+    "description": "A dangerous canine beast that is larger and more vicious than standard Krug Dogs, commonly found alongside Krug Raiders, Guards, and Commanders in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Krug_Killer_Dog"
+  },
+  {
+    "name": "Krug Raider",
+    "description": "A mid-ranked Krug warrior that serves as a more formidable combatant than basic Krug forces, engaging enemies in melee combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Krug_Raider"
+  },
+  {
+    "name": "Krug Scavenger",
+    "description": "A lower-ranked Krug that appears to function as a weaker variant within the Krug hierarchy, likely engaging in basic melee attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Krug_Scavenger"
+  },
+  {
+    "name": "Krug Scout",
+    "description": "A light combat Krug warrior that operates within the Krug forces, capable of engaging enemies in melee combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Krug_Scout"
+  },
+  {
+    "name": "Krug Shaman",
+    "description": "A Krug spellcaster that employs magical attacks rather than melee weapons, serving a support or offensive magical role in Krug groups.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Krug_Shaman"
+  },
+  {
+    "name": "Larch",
+    "description": "A large, tree-like beast that resembles barkrunners and bog beasts, attacking with powerful punching strikes from its massive fists.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Larch"
+  },
+  {
+    "name": "Lava Beast",
+    "description": "A volcanic creature that uses magical spell attacks as its primary combat method.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Lava_Beast"
+  },
+  {
+    "name": "Lava Horror",
+    "description": "A small red-skinned imp with huge glowing yellow compound eyes, covered in demonic horns and wearing green underpants, engaging enemies in close melee combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Lava_Horror"
+  },
+  {
+    "name": "Lava Imp",
+    "description": "A short mauve-skinned horned imp found in volcanic regions, attacking enemies with melee strikes in territorial defense.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Lava_Imp"
+  },
+  {
+    "name": "Lava Mage",
+    "description": "A gray-skinned imp with glowing yellow eyes and elaborate horns that serves as a ranged attacker. It casts slow-moving orbs of magical energy at its targets.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Lava_Mage"
+  },
+  {
+    "name": "Lava Runner",
+    "description": "A red-horned imp with large glowing yellow eyes and mummy-like linen wrapping that attacks at range. It typically appears in groups and fires two magical orbs at moderate speed.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Lava_Runner"
+  },
+  {
+    "name": "Lava Spirit",
+    "description": "An elemental creature that appears as a pile of glowing volcanic rocks until provoked, then coalesces into a two-armed form capable of slow levitation. It deals significant melee damage when in close range and some variants possess ranged attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Lava_Spirit"
+  },
+  {
+    "name": "Lectar",
+    "description": "A small brown reptilian creature with hammerhead shark eyes and a scorpion-like mouth.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Lectar"
+  },
+  {
+    "name": "Leetch",
+    "description": "A frozen invertebrate species with a physiology resembling Slargs.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Leetch"
+  },
+  {
+    "name": "Lesser Krakbone",
+    "description": "A miniature one-eyed creature with green skin, octopus-like appearance, a large sharp beak, and long tentacles.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Lesser_Krakbone"
+  },
+  {
+    "name": "Lesser Scrub Scorpion",
+    "description": "A scorpion species found in arid environments.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Lesser_Scrub_Scorpion"
+  },
+  {
+    "name": "Lord Hovart",
+    "description": "An undead enemy of significant threat level.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Lord_Hovart"
+  },
+  {
+    "name": "Lost Queen",
+    "description": "Insufficient information provided.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Lost_Queen"
+  },
+  {
+    "name": "Magma Beast",
+    "description": "A miniboss-level lava beast that casts magical spells as its primary attack method.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Magma_Beast"
+  },
+  {
+    "name": "Maljin Assassin",
+    "description": "A phantom-like demon with a lean, agile physique that engages opponents in rapid melee combat with exceptional speed and ferocity.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Maljin_Assassin"
+  },
+  {
+    "name": "Maljin Jolt",
+    "description": "A small, grey-skinned demon that fires rapid barrages of obsidian projectiles at enemies with persistent aggression.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Maljin_Jolt"
+  },
+  {
+    "name": "Maljin Phantom",
+    "description": "A small, red-orange demon with elaborate horns that cycles through multiple spell attacks including fireballs, eldritch orbs, and homing missiles in rapid succession.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Maljin_Phantom"
+  },
+  {
+    "name": "Maljin Stalker",
+    "description": "A small, wiry demon wrapped in white cloth bindings that fights as a fast and dangerous melee combatant with martial prowess.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Maljin_Stalker"
+  },
+  {
+    "name": "Mangler",
+    "description": "An aggressive amphibian resembling a deep-sea fish with white chitinous armor, a gaping maw, and clawed forearms used for rapid overland pursuit of prey.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Mangler"
+  },
+  {
+    "name": "Mantrap",
+    "description": "A worm-like creature with a textured, cucumber-like exterior that uses both melee and spell attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Mantrap"
+  },
+  {
+    "name": "Marble Golem",
+    "description": "A massive stone construct with industrial-strength limbs that crushes threats with powerful crushing attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Marble_Golem"
+  },
+  {
+    "name": "Mechanized Wasp",
+    "description": "A robotic version of a giant wasp with mechanical construction and aerial combat capabilities.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Mechanized_Wasp"
+  },
+  {
+    "name": "Mhulliq",
+    "description": "A boar-like creature with a higher-pitched vocalization that exhibits aggressive charging behavior.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Mhulliq"
+  },
+  {
+    "name": "Mine Worm",
+    "description": "A subterranean worm creature adapted to burrowing and underground combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Mine_Worm"
+  },
+  {
+    "name": "Molten Drake",
+    "description": "A drake with resplendent orange scales from a superheated body core that attacks with powerful claws and cone-shaped flaming breath.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Molten_Drake"
+  },
+  {
+    "name": "Molten Steel Drake",
+    "description": "A drake distinguished by brilliantly red-orange markings and a glowing aura of power that combines the physical durability of molten drakes with devastating melee attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Molten_Steel_Drake"
+  },
+  {
+    "name": "Monstrous Rat",
+    "description": "An unusually large rodent with lurid green eyes and exposed flesh along its back that fights as a unique boss among giant rat counterparts.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Monstrous_Rat"
+  },
+  {
+    "name": "Mountain Phrak",
+    "description": "A species of phrak insect that nests on mountainous slopes and attacks intruders on its territory.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Mountain_Phrak"
+  },
+  {
+    "name": "Mountain Quadscale",
+    "description": "A weaker variant of the quadscale reptile found in volcanic regions that relies on physical attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Mountain_Quadscale"
+  },
+  {
+    "name": "Mountain Troll",
+    "description": "A large, scrawny ape-like creature with green fur, yellow eyes, and unusually long forearms that hunts in coordinated packs to overwhelm opponents.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Mountain_Troll"
+  },
+  {
+    "name": "Mucosa",
+    "description": "A hostile spider-like creature that engages foes with melee attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Mucosa"
+  },
+  {
+    "name": "Mucosa Brute",
+    "description": "A physically imposing mucosa variant that serves as a miniboss among its spider-like kind through enhanced melee combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Mucosa_Brute"
+  },
+  {
+    "name": "Mucosa Predator",
+    "description": "A mucosa with a luminous blue-and-purple carapace that attacks from range by spitting high-damage purple slime projectiles.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Mucosa_Predator"
+  },
+  {
+    "name": "Mucosa Raider",
+    "description": "A large mucosa with dull yellow-and-green markings that uses melee attacks and typically hunts in groups with other monsters.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Mucosa_Raider"
+  },
+  {
+    "name": "Mummy",
+    "description": "A decayed undead corpse wrapped in tattered burial wrappings. It shuffles forward to engage enemies in melee combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Mummy"
+  },
+  {
+    "name": "Muong Troll",
+    "description": "A large, scaly-skinned troll distinguished by a glowing aura of natural energy. It attacks with powerful melee strikes.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Muong_Troll"
+  },
+  {
+    "name": "Mutant Goblin Hurler",
+    "description": "A sickly-colored, mutated goblin wearing leather armor with a distinctly unwell appearance. It specializes in hurling rocks as fast, ranged attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Mutant_Goblin_Hurler"
+  },
+  {
+    "name": "Mutated Goblin Warrior",
+    "description": "A heavily mutated goblin with enlarged musculature covered in the same base mesh as standard goblins. It wields a massive hammer-like weapon and delivers slow but devastating melee strikes.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Mutated_Goblin_Warrior"
+  },
+  {
+    "name": "Noctiss",
+    "description": "A ghostly apparition clad in a black robe with a short tail-like extension. It attacks by casting spellwork and vanishes in a cloud of smoke upon death.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Noctiss"
+  },
+  {
+    "name": "Nosirrom",
+    "description": "A reptilian creature of imposing stature with evolved physiology. It engages enemies through direct confrontation.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Nosirrom"
+  },
+  {
+    "name": "Octodrak",
+    "description": "A tentacled creature that emerges from underwater ruins and the ground itself. It lashes out with its tentacles at nearby threats.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Octodrak"
+  },
+  {
+    "name": "Perforator",
+    "description": "A four-legged goblin war machine armored with wood and steel, powered by a large battery on its back. It provides ranged suppressive fire using dual rotary cannons.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Perforator"
+  },
+  {
+    "name": "Phrak",
+    "description": "A small, flying green insect resembling a bee with two large eyes and wings that allow it to hover at head height. It poses minimal threat with weak attacks and low durability.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Phrak"
+  },
+  {
+    "name": "Phrak Ballista",
+    "description": "A larger, more dangerous variant of the flying Phrak equipped with ballistic weaponry. It attacks from the air with ranged ballista fire.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Phrak_Ballista"
+  },
+  {
+    "name": "Phrak Piercer",
+    "description": "A blue, ranged variant of Phrak that launches arrow-like spines at targets from a distance.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Phrak_Piercer"
+  },
+  {
+    "name": "Picker",
+    "description": "A dark spider-like creature with small eyes, a large jaw, and four long legs that inhabits water dungeons and attacks with its powerful mandibles.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Picker"
+  },
+  {
+    "name": "Pitiful Braak",
+    "description": "A miniboss Braak variant distinguished by glowing blue markings across its body that fights with melee attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Pitful_Braak"
+  },
+  {
+    "name": "Possessed Armor",
+    "description": "A translucent green shade encased in plate armor that moves slightly slower than humans but delivers devastating punching attacks with high durability.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Pitiful_Braak"
+  },
+  {
+    "name": "Possessed Skull",
+    "description": "A giant fleshy demonic skull that casts flaming projectiles at its opponents from range.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Possessed_Armor"
+  },
+  {
+    "name": "Proxo",
+    "description": "A self-destructing war construct that detonates as its primary combat method.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Possessed_Skull"
+  },
+  {
+    "name": "Punisher",
+    "description": "An undead monster in the form of a giant skull that uses spell-based ranged attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Proxo"
+  },
+  {
+    "name": "Purple Shard",
+    "description": "The largest and most dangerous crystalline shard creature that fires homing projectile attacks with high inherent damage.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Punisher"
+  },
+  {
+    "name": "Quadscale",
+    "description": "A four-legged, armored insectoid creature found in volcanic regions that possesses a powerful bite but moves slowly.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Purple_Shard"
+  },
+  {
+    "name": "Quillrabe Canyons",
+    "description": "A series of canyon formations in a scorching desert landscape. The area is inhabited by various deadly creatures including demonic imps and large insectoid beings.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Quillrabe_Canyons"
+  },
+  {
+    "name": "Rabid Spiked Maw",
+    "description": "An enhanced variant of the standard Spiked Maw creature with increased ferocity and danger.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Rabid_Spiked_Maw"
+  },
+  {
+    "name": "Rahk",
+    "description": "An undead drake with mostly white scales and a green belly. It attacks with melee strikes and uses magical abilities in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Rahk"
+  },
+  {
+    "name": "Reaper",
+    "description": "A skeletal humanoid figure summoned as a guardian. It serves as a bodyguard and combatant in direct confrontations.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Reaper"
+  },
+  {
+    "name": "Rector",
+    "description": "An undead humanoid creature representing the basic form of its class. It engages in melee combat as a standard undead foe.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Rector"
+  },
+  {
+    "name": "Red Drake",
+    "description": "A large drake with dull brick-colored scales that is physically imposing compared to other drake variants. It attacks using claws and breath attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Red_Drake"
+  },
+  {
+    "name": "Rending Mhulliq",
+    "description": "A large insectoid creature that represents a more powerful variant of its kind. It uses aggressive melee attacks in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Rending_Mhulliq"
+  },
+  {
+    "name": "Rock Beast",
+    "description": "A creature composed of or resembling stone and earth. It engages enemies through both physical attacks and magical abilities.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Rock_Beast"
+  },
+  {
+    "name": "Rogue Bandit",
+    "description": "A humanoid swordsman wearing a form-fitting chainmail suit and face mask who wields a gladius. It deals significant melee damage and demonstrates tactical intelligence, often coordinating with allied bandits.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Rogue_Bandit"
+  },
+  {
+    "name": "Rotten Troll",
+    "description": "An enhanced miniboss variant of the standard swamp troll with increased size and combat prowess. It attacks with powerful melee strikes.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Rotten_Troll"
+  },
+  {
+    "name": "Ruby Gargoyle",
+    "description": "An animated stone gargoyle with a ruby-like appearance that serves as a boss enemy.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Ruby_Gargoyle"
+  },
+  {
+    "name": "Rune Beast",
+    "description": "A tan-colored, minotaur-like creature that engages in melee combat and can be encountered roaming or summoned.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Rune_Beast"
+  },
+  {
+    "name": "Rune Caster",
+    "description": "A witch-like humanoid that attacks by casting homing magic missiles or summoning rune monsters to fight on their behalf.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Rune_Caster"
+  },
+  {
+    "name": "Rune Fiend",
+    "description": "A bull-headed minotaur-like creature with sandy brown fur and hooves that attacks by casting red fire-based spells at targets.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Rune_Fiend"
+  },
+  {
+    "name": "Rune Guardian",
+    "description": "The largest of the rune monsters, wielding a lightning-attuned scythe and summoned as a powerful combatant.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Rune_Guardian"
+  },
+  {
+    "name": "Rune Master",
+    "description": "A leader figure of the rune cult who commands rune beasts and acts as a guardian against intruders.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Rune_Master"
+  },
+  {
+    "name": "Rusted Automaton",
+    "description": "An ancient war machine with a three-barreled machine gun that provides ranged fire support alongside other mechanical constructs.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Rusted_Automaton"
+  },
+  {
+    "name": "Sand Basher",
+    "description": "A grey-skinned imp with elaborate horns and blue eyes that engages in melee combat, stronger than its ripper counterparts.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Sand_Basher"
+  },
+  {
+    "name": "Sand Mage",
+    "description": "A beige-skinned imp with large horns that attacks with powerful heat bursts, often appearing in swirling clouds of flame.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Sand_Mage"
+  },
+  {
+    "name": "Sand Ripper",
+    "description": "A brown-skinned imp with yellow extremities and orange compound eyes that engages in melee combat, weaker than sand bashers.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Sand_Ripper"
+  },
+  {
+    "name": "Sandskreech",
+    "description": "A dark greenish arthropod with purple growths resembling a Picker. It inhabits sandy terrain and hunts as a solitary predator.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Sandskreech"
+  },
+  {
+    "name": "Scaly Rahk",
+    "description": "A stronger variant of the Rahk with a distinctive purple belly. It attacks with melee strikes and possesses greater durability than its standard counterpart.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Scaly_Rahk"
+  },
+  {
+    "name": "Scorch",
+    "description": "No description provided.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Scorch"
+  },
+  {
+    "name": "Scorpion",
+    "description": "A giant scorpion with a brilliant red-orange carapace, prominent pincers, and a segmented tail. It hunts aggressively using its natural weapons.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Scorpion"
+  },
+  {
+    "name": "Scorpiot Gunner",
+    "description": "A scorpion-resembling robot equipped with a fireshot launcher on one pincer, a Gatling burst cannon on the other, and a laser beam cannon on its tail-stinger. It engages enemies from range.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Scorpiot_Gunner"
+  },
+  {
+    "name": "Scorpiot Slasher",
+    "description": "A melee-focused scorpion-shaped robot armed with triple blades—two on its front arms and one on its tail. It closes distance to slash opponents.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Scorpiot_Slasher"
+  },
+  {
+    "name": "Scrub Howler",
+    "description": "An enormous bipedal mandrill with dark ochre fur, white belly, and a hairless face featuring a red stripe and blue ridges. It wields a long staff with a crescent moon blade and strikes with incredible speed while emitting battle cries.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Scrub_Howler"
+  },
+  {
+    "name": "Scrub Troll",
+    "description": "A large, lanky ape-like creature with brownish-yellowish fur, yellow eyes, and unusually long forearms. It attacks in coordinated packs to overwhelm prey.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Scrub_Troll"
+  },
+  {
+    "name": "Sea Mangler",
+    "description": "An amphibious deep-sea creature with a scaly body, enormous toothy maw, two small eyes, and clawed forearms. It is highly aggressive and capable of both swimming and crawling on land.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Sea_Mangler"
+  },
+  {
+    "name": "Seck Archer",
+    "description": "A grey-skinned, muscular humanoid warrior wielding a standard bow and relying on high constitution. Seck archers are significantly stronger than typical combatants and pose a serious threat in groups.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Seck_Archer"
+  },
+  {
+    "name": "Seck Elite Archer",
+    "description": "A grey-skinned, muscular humanoid with superior armor resembling an Elite Guard. It fights from range with a bow, delivering high damage output.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Seck_Elite_Archer"
+  },
+  {
+    "name": "Seck Elite Guard",
+    "description": "A grey-skinned, muscular humanoid wearing a distinctive uniform and wielding a melee weapon. It engages in close combat with high defense and damage capabilities.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Seck_Elite_Guard"
+  },
+  {
+    "name": "Seck Grunt",
+    "description": "A grey-skinned, muscular humanoid of large stature wearing drab garments. It relies on melee fighting skill and physical constitution in battle.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Seck_Grunt"
+  },
+  {
+    "name": "Seck High Mage",
+    "description": "A grey-skinned, muscular humanoid dressed in elaborate clothing and a cape, wielding a staff. It attacks with magical flame attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Seck_High_Mage"
+  },
+  {
+    "name": "Seck Mage",
+    "description": "A grey-skinned, muscular humanoid wearing a finely-wrought cape and body suit, wielding a staff. It employs flame-based spells in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Seck_Mage"
+  },
+  {
+    "name": "Shadow Lunger",
+    "description": "A creature distinguished by strange magenta patterns covering its body. Its combat behavior is not specified.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Shadow_Lunger"
+  },
+  {
+    "name": "Shadowjumper",
+    "description": "A shadowy sorcerer that attacks with magical spells. It is a powerful spellcaster capable of dealing significant magical damage.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Shadowjumper"
+  },
+  {
+    "name": "Shadowjumper Lieutenant",
+    "description": "A humanoid bodyguard armed with a katana imbued with blue lightning enchantments. It engages in close melee combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Shadowjumper_Lieutenant"
+  },
+  {
+    "name": "Shard",
+    "description": "A crystalline creature that lies dormant as scattered fragments until approached, then coalesces into a body core with four pronged legs. It attacks by launching homing projectiles at adversaries.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Shard"
+  },
+  {
+    "name": "Shrack",
+    "description": "A hostile fish that dwells in flooded underground environments. It remains contained until disturbed, then rushes out to attack.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Shrack"
+  },
+  {
+    "name": "Skank Witch",
+    "description": "A witch draped in red rags and surrounded by a deathly purple aura. It attacks with magical abilities and poses a significant magical threat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Skank_Witch"
+  },
+  {
+    "name": "Skeleton",
+    "description": "An animated skeletal humanoid composed of bones held together by dark magic. It engages enemies through melee combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Skeleton"
+  },
+  {
+    "name": "Skeleton Archer",
+    "description": "A skeletal figure armed with a bow that fires projectiles at range. It relies on ranged attacks to strike from a distance.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Skeleton_Archer"
+  },
+  {
+    "name": "Skeleton Captain",
+    "description": "A command-structure skeleton that typically leads other skeletal minions in coordinated attacks. It serves as a tactical threat among undead forces.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Skeleton_Captain"
+  },
+  {
+    "name": "Skeleton Guard",
+    "description": "A basic skeletal warrior that forms the primary melee defense of undead forces. It attacks with straightforward bone and blade strikes.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Skeleton_Guard"
+  },
+  {
+    "name": "Skeleton Krug Dog",
+    "description": "An animated canine skeleton far stronger than its living counterpart, with powerful jaws and teeth. These creatures hunt in large coordinated packs to overwhelm prey through numerical advantage.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Skeleton_Krug_Dog"
+  },
+  {
+    "name": "Skeleton Mercenary",
+    "description": "A reanimated swordsman reduced to skeletal form, capable of wielding melee weapons with trained skill. It attacks with disciplined sword techniques.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Skeleton_Mercenary"
+  },
+  {
+    "name": "Skeleton Ranger",
+    "description": "An undead archer stripped to bone, retaining combat proficiency with ranged weaponry. It attacks from distance with projectiles.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Skeleton_Ranger"
+  },
+  {
+    "name": "Skick",
+    "description": "A spindly humanoid creature with four long spider-like arms, two legs, and a small head dominated by a single large red eye. It uses its multiple arms to crawl and rapidly slash enemies with sharp claws.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Skick"
+  },
+  {
+    "name": "Skitterclaw",
+    "description": "An ostrich-sized flightless bird with bright red feathers, long legs, and a large sharp beak. It is highly aggressive and uses its beak and talons as weapons, typically appearing in groups.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Skitterclaw"
+  },
+  {
+    "name": "Skitterling",
+    "description": "A small, purple-feathered avian creature that resembles a juvenile version of larger skitterclaw predators. It hunts through quick, skittering movements typical of its species.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Skitterling"
+  },
+  {
+    "name": "Slag",
+    "description": "A lava golem composed of molten rock and solidified magma. It attacks with heat-based melee strikes and can withstand significant physical punishment due to its hardened exterior.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Slag"
+  },
+  {
+    "name": "Slarg",
+    "description": "A green-skinned amphibian resembling a mudskipper with short horns and side-mounted arms. It attacks by extending a large, retractable sphincter maw that folds in and out of its body.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Slarg"
+  },
+  {
+    "name": "Snapper",
+    "description": "A small, aggressive amphibious creature with a scaly body, enormous maw, fins, and a single eye, equipped with clawed forearms for rapid overland movement. These creatures hunt in groups and employ ambush tactics from water or brush.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Snapper"
+  },
+  {
+    "name": "Snow Boar",
+    "description": "A cold-adapted variant of the Hell Boar with a stocky, armored body suited to arctic terrain. It charges and gores opponents with its tusks and heavy bulk.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Snow_Boar"
+  },
+  {
+    "name": "Snow Wolf",
+    "description": "A large canine predator adapted to arctic environments with thick fur and powerful jaws. It hunts aggressively using speed and coordinated pack tactics.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Snow_Wolf"
+  },
+  {
+    "name": "Soul Stinger",
+    "description": "A flying desert insect with an elongated abdomen and a venomous stinger. It attacks from the air with precise piercing strikes more penetrating than similar winged insects.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Soul_Stinger"
+  },
+  {
+    "name": "Spider",
+    "description": "A harmless arachnid roughly the size of a tarantula with eight legs and multiple eyes. It is a non-hostile creature found in enclosed spaces.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Spider"
+  },
+  {
+    "name": "Spiked Dweller",
+    "description": "A large, toad-like creature with bright green spikes covering its back. It attacks by leaning forward and ejecting clusters of spikes from its body.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Spiked_Dweller"
+  },
+  {
+    "name": "Spiked Maw",
+    "description": "A squat, toad-like creature covered in steely-grey spikes along its back. It attacks by presenting its spiked back and violently ejecting spike clusters at prey.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Spiked_Maw"
+  },
+  {
+    "name": "Stalagnid",
+    "description": "A spider with green markings on its abdomen that disguises itself as a stalagmite until approached, then unfurls to attack. They typically hunt in small groups and are dangerous at close range.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Stalagnid"
+  },
+  {
+    "name": "Stingbot",
+    "description": "A robotic insectoid creature designed as a mechanical version of the Synged. It attacks with mechanical precision and efficiency.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Stingbot"
+  },
+  {
+    "name": "Swamp Creature",
+    "description": "A large, lumbering humanoid monster with extremely high durability and damage output. These creatures can be summoned and controlled by magic users.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Swamp_Creature"
+  },
+  {
+    "name": "Swamp Slinger",
+    "description": "A small, green-hued shambling creature that resembles a diminutive version of the Swamp Creature. They attack in groups by hurling noxious projectiles at enemies.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Swamp_Slinger"
+  },
+  {
+    "name": "Swamp Stinger",
+    "description": "A giant predatory fly with a glistening blue carapace, faceted eyes, and oversized proportions. It attacks humans aggressively and relentlessly.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Swamp_Stinger"
+  },
+  {
+    "name": "Swamp Troll",
+    "description": "A miniature yellow-skinned troll wielding a club that inhabits swampy terrain. Despite their small size, they appear in large groups and pose a significant threat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Swamp_Troll"
+  },
+  {
+    "name": "Swamp Witch",
+    "description": "A hunchbacked spellcaster appearing as an old woman in rags and a dark hooded cloak with claw-like hands. She casts ranged elemental spells and continuously summons other creatures to fight alongside her, retreating when approached.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Swamp_Witch"
+  },
+  {
+    "name": "Swanny the Mad Jailer",
+    "description": "A burly man with a heavy mustache wearing a green leather jerkin and executioner's hood, armed with a thick wooden bat. He attacks with brute force and melee weapon strikes.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Swanny_the_Mad_Jailer"
+  },
+  {
+    "name": "Swarmling Drone",
+    "description": "A red-carapaced insectoid creature with mandibles that bite enemies in melee combat. These drones typically protect larger creatures and attack in coordinated groups.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Swarmling_Drone"
+  },
+  {
+    "name": "Swarmling Queen",
+    "description": "A green-carapaced arthropod with a ranged breath weapon attack that strikes from a distance. It is typically surrounded and defended by smaller drones.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Swarmling_Queen"
+  },
+  {
+    "name": "Swirling Midges",
+    "description": "Small flying insects that attack from a distance using homing projectile spells.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Swirling_Midges"
+  },
+  {
+    "name": "Synged",
+    "description": "Demonic flying creatures with fleshy bodies, large pedipalps, and a prominent compound eye that engage enemies with ranged attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Synged"
+  },
+  {
+    "name": "Syrrus",
+    "description": "A saurian creature with a long, scaled neck and draconic head that remains mostly submerged while attacking with a cone of super-chilled caustic breath.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Syrrus"
+  },
+  {
+    "name": "Teal Shard",
+    "description": "A crystalline creature of modest size that fires homing projectile attacks at opponents.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Teal_Shard"
+  },
+  {
+    "name": "Terror Wraith",
+    "description": "A skeletal floating spirit consisting of a skull, ribcage, arms, and spine that moves with high speed and attacks with melee weapons.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Terror_Wraith"
+  },
+  {
+    "name": "Tesla Coil",
+    "description": "A stationary machine with a cross-shaped configuration that activates upon sensing nearby targets and discharges powerful electrical bolts.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Tesla_Coil"
+  },
+  {
+    "name": "The Lost Witch",
+    "description": "A dark-skinned witch with glowing eyes wearing tattered green garments that uses ranged ice attacks and summons additional creatures to aid in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/The_Lost_Witch"
+  },
+  {
+    "name": "Toreck",
+    "description": "A brutish minotaur-like humanoid with tusks and ungulate legs that wields a polearm with rapid, relentless attacks.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Toreck"
+  },
+  {
+    "name": "Tortured Corpse",
+    "description": "An early-encountered undead enemy.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Tortured_Corpse"
+  },
+  {
+    "name": "Tretch",
+    "description": "A tall sentient tree with a large yellow eye and flexible branch-like arms that swipes and lashes at approaching foes.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Tretch"
+  },
+  {
+    "name": "Trog",
+    "description": "Hunchbacked humanoids with thin limbs, solid yellow eyes, and beaked mouths filled with teeth. They display intelligence by organizing into hierarchies and wielding weapons and armor, fighting as coordinated combatants.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Trog"
+  },
+  {
+    "name": "Trog Knight",
+    "description": "The most heavily armored variant of Trog, clad in scale armor and wielding a massive greatsword in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Trog_Knight"
+  },
+  {
+    "name": "Trog Warrior",
+    "description": "Medium-sized Trog infantry wearing brigandine armor and fighting with a sword and metal shield.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Trog_Warrior"
+  },
+  {
+    "name": "Troll Masher",
+    "description": "A massive green-skinned giant wearing a fur loincloth that delivers devastating melee damage with its fists and possesses considerable durability.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Troll_Masher"
+  },
+  {
+    "name": "Unguis",
+    "description": "An aquatic creature that extends a cephalopod tentacle from submerged structures to attack; it dies when the tentacle is sufficiently damaged.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Unguis"
+  },
+  {
+    "name": "Ursae",
+    "description": "A rotting, decomposing undead bear that shuffles through marshy terrain as a mindless hostile creature.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Ursae"
+  },
+  {
+    "name": "Varg",
+    "description": "Small wolf-like solitary hunters that emit high-pitched growls and yips; they pose minimal threat despite occasional aggressive behavior.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Varg"
+  },
+  {
+    "name": "Venom Fiend",
+    "description": "A large scorpion with distinctive red-orange glowing markings that serves as a formidable miniboss.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Venom_Fiend"
+  },
+  {
+    "name": "Vile Mucosa",
+    "description": "A gelatinous creature variant that attacks with viscous projectiles during early-stage encounters.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Vile_Mucosa"
+  },
+  {
+    "name": "Walking Corpse",
+    "description": "A reanimated undead humanoid that shambles forward as a basic hostile corpse.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Walking_Corpse"
+  },
+  {
+    "name": "Warrior Wraith",
+    "description": "A disembodied spirit consisting of a skull, arms, ribcage, and spine that radiates a purple aura, floating through the air and delivering savage melee attacks with fearless intensity.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Warrior_Wraith"
+  },
+  {
+    "name": "Water Elemental",
+    "description": "A hulking, horned biped composed entirely of congealed water rather than flesh, attacking with massive fists in a berserk manner.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Water_Elemental"
+  },
+  {
+    "name": "Water Elemental Minion",
+    "description": "A small aquatic spirit with a glistening aqua sheen and the general form of a Mangler, possessing unearthly strength despite its diminutive size.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Water_Elemental_Minion"
+  },
+  {
+    "name": "Water Lunger",
+    "description": "A dark grey-skinned creature that engages in close-quarters hand-to-hand combat in flooded zones.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Water_Lunger"
+  },
+  {
+    "name": "Water Slinger",
+    "description": "A blue-green aquatic creature that launches javelin or fork-like projectiles in rapid succession during combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Water_Slinger"
+  },
+  {
+    "name": "Weathered Automaton",
+    "description": "A Utraean war machine equipped with long blades on each arm, serving as a frontline fighter to protect ranged allies.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Weathered_Automaton"
+  },
+  {
+    "name": "White Wolf",
+    "description": "A wolf creature that serves as a standard melee combatant in wilderness and dungeon environments.",
+    "url": "https://dungeonsiege.fandom.com/wiki/White_Wolf"
+  },
+  {
+    "name": "Wraith",
+    "description": "A disembodied skeletal spirit with a skull, arms, ribcage, and spine that floats through the air, moves faster than full-bodied skeletons, and attacks fearlessly in melee combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Wraith"
+  },
+  {
+    "name": "Wraith Archer",
+    "description": "A legless cursed spirit composed of a skull, arms, ribcage, and spine that floats in the air and attacks with a bow from a distance.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Wraith_Archer"
+  },
+  {
+    "name": "Wraith Mage",
+    "description": "A floating skeletal spirit lacking its lower half that casts a slow-moving, homing projectile spell dealing life-draining damage to its targets.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Wraith_Mage"
+  },
+  {
+    "name": "Wraith Piercer",
+    "description": "A cursed spirit consisting of a skull, arms, ribcage, and spine with no lower body that floats through the air. It functions as a ranged combatant, wielding a bow and attacking from a distance with greater speed and agility than skeletal creatures.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Wraith_Piercer"
+  },
+  {
+    "name": "Wraith Warlock",
+    "description": "A spectral spellcaster with only an upper body that hovers in the air, capable of casting a long-range lightning spell that deals heavy damage and cannot be dodged. It moves faster than full-bodied skeletons and requires swift engagement to prevent sustained magical assault.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Wraith_Warlock"
+  },
+  {
+    "name": "Yellow Eye",
+    "description": "A large bear with a distinctive appearance that serves as a powerful territorial guardian. It attacks with physical force and bears dangerous claws.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Yellow_Eye"
+  },
+  {
+    "name": "Yellow Spider",
+    "description": "A small, pus-yellow arachnid roughly the size of a crate that descends from its webs to attack. It can traverse vertical surfaces and walls with ease.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Yellow_Spider"
+  },
+  {
+    "name": "Yeti",
+    "description": "A towering humanoid creature covered in thick white fur with large clawed hands, resembling mythological descriptions of its kind. It relies on brute physical strength and massive claws to tear apart prey.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Yeti"
+  },
+  {
+    "name": "Zaurask Adept",
+    "description": "A reptilian spellcaster of mid-tier rank that carries a staff as its primary weapon. It employs combat magic in battle.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Zaurask_Adept"
+  },
+  {
+    "name": "Zaurask Archer",
+    "description": "A lower-tier reptilian warrior equipped with a bow for ranged attacks. It represents the earliest-encountered bow-using variant of its species.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Zaurask_Archer"
+  },
+  {
+    "name": "Zaurask Claw",
+    "description": "An unarmored scaly reptilian with no weapons that relies entirely on its natural claws and physical strength in combat. It represents the weakest tier of Zaurask infantry.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Zaurask_Claw"
+  },
+  {
+    "name": "Zaurask Fang",
+    "description": "A scaly reptilian warrior wearing a left shoulder plate that fights using martial techniques and hand-to-hand combat. It is stronger than unarmored variants of its species.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Zaurask_Fang"
+  },
+  {
+    "name": "Zaurask Fighter",
+    "description": "An elite scaly reptilian warrior equipped with a turtle-shell shield and trained in melee combat. It represents the highest tier of Zaurask basic infantry.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Zaurask_Fighter"
+  },
+  {
+    "name": "Zaurask Incanter",
+    "description": "A reptilian spellcaster with a hunched posture that launches red magical projectiles at enemies from range.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Zaurask_Incanter"
+  },
+  {
+    "name": "Zaurask Leader",
+    "description": "An elite Zaurask warrior clad in heavier armor and equipped with a turtle-shell shield, engaging foes in close melee combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Zaurask_Leader"
+  },
+  {
+    "name": "Zaurask Lightning",
+    "description": "A ranged archer that fires physical projectiles with speed and precision to support ground forces from a distance.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Zaurask_Lightning"
+  },
+  {
+    "name": "Zaurask Mage",
+    "description": "A high-tier reptilian spellcaster that unleashes powerful magical attacks against enemies from range.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Zaurask_Mage"
+  },
+  {
+    "name": "Zaurask Ranger",
+    "description": "An elite archer equipped with superior weaponry that provides accurate ranged physical support in combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Zaurask_Ranger"
+  },
+  {
+    "name": "Zaurask Seer",
+    "description": "A mid-tier magical practitioner that casts spells to damage and support other Zaurask forces from a distance.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Zaurask_Seer"
+  },
+  {
+    "name": "Zaurask Slasher",
+    "description": "A heavily armored melee fighter resembling the Leader class but without a shield, using sword attacks in direct combat.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Zaurask_Slasher"
+  },
+  {
+    "name": "Zaurask Slavemaster",
+    "description": "An elite infantry unit covered in protective gear that wields melee weapons and fights aggressively in close quarters.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Zaurask_Slavemaster"
+  },
+  {
+    "name": "Zaurask Spine",
+    "description": "A bow-wielding archer that fires physical projectiles to strike enemies from range alongside other Zaurask forces.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Zaurask_Spine"
+  },
+  {
+    "name": "Zaurask Whacker",
+    "description": "A basic reptilian warrior armed with a sword that engages enemies in melee combat as front-line infantry.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Zaurask_Whacker"
+  },
+  {
+    "name": "Zepheryl",
+    "description": "A creature composed of red magical energy that attacks enemies with electrical discharge. Zepheryls have a larger dark variant.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Zepheryl"
+  },
+  {
+    "name": "Ztrool",
+    "description": "A small creature resembling a chomper that hides within rocks and emerges to attack. Ztrools have a compact, rock-dwelling physiology.",
+    "url": "https://dungeonsiege.fandom.com/wiki/Ztrool"
+  }
+]

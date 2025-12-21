@@ -150,5 +150,479 @@
     "Greldi",
     "Voltrissima Crenn",
     "Threx of Fourkerns"
+  ],
+  "location-names": [
+    {
+      "name": "Ghoulmark",
+      "type": "territory"
+    },
+    {
+      "name": "Fetch Isles",
+      "type": "territory"
+    },
+    {
+      "name": "Barguestry",
+      "type": "territory"
+    },
+    {
+      "name": "Wightmoor",
+      "type": "territory"
+    },
+    {
+      "name": "Hag's Pale",
+      "type": "territory"
+    },
+    {
+      "name": "Vothria",
+      "type": "territory"
+    },
+    {
+      "name": "Kelmory",
+      "type": "territory"
+    },
+    {
+      "name": "Thuréne",
+      "type": "territory"
+    },
+    {
+      "name": "Ossivard",
+      "type": "territory"
+    },
+    {
+      "name": "Peltrany",
+      "type": "territory"
+    },
+    {
+      "name": "Striqua",
+      "type": "territory"
+    },
+    {
+      "name": "Zulmë",
+      "type": "territory"
+    },
+    {
+      "name": "Carsobrine",
+      "type": "territory"
+    },
+    {
+      "name": "Mesquin",
+      "type": "territory"
+    },
+    {
+      "name": "Orbathy",
+      "type": "territory"
+    },
+    {
+      "name": "Ventraq",
+      "type": "territory"
+    },
+    {
+      "name": "Ghastenry",
+      "type": "territory"
+    },
+    {
+      "name": "Lurqany",
+      "type": "territory"
+    },
+    {
+      "name": "Silpho",
+      "type": "territory"
+    },
+    {
+      "name": "Emmory",
+      "type": "territory"
+    },
+    {
+      "name": "Thornrigg",
+      "type": "fortress"
+    },
+    {
+      "name": "Vurlank",
+      "type": "fortress"
+    },
+    {
+      "name": "Kelpshaw",
+      "type": "fortress"
+    },
+    {
+      "name": "Drossaby",
+      "type": "fortress"
+    },
+    {
+      "name": "Skerriwast",
+      "type": "fortress"
+    },
+    {
+      "name": "Maudling",
+      "type": "fortress"
+    },
+    {
+      "name": "Quelm",
+      "type": "fortress"
+    },
+    {
+      "name": "Harrowick",
+      "type": "fortress"
+    },
+    {
+      "name": "Zabraq",
+      "type": "fortress"
+    },
+    {
+      "name": "Grith Keep",
+      "type": "fortress"
+    },
+    {
+      "name": "Orpelheim",
+      "type": "fortress"
+    },
+    {
+      "name": "Ketterick",
+      "type": "fortress"
+    },
+    {
+      "name": "Vespany",
+      "type": "fortress"
+    },
+    {
+      "name": "Churlgate",
+      "type": "fortress"
+    },
+    {
+      "name": "Drabbock",
+      "type": "fortress"
+    },
+    {
+      "name": "Bhrugh Veldriss",
+      "type": "fortress"
+    },
+    {
+      "name": "Dunn Kethram",
+      "type": "fortress"
+    },
+    {
+      "name": "Kahr of Throssvel",
+      "type": "fortress"
+    },
+    {
+      "name": "Koshtra Ymbrë",
+      "type": "mountain"
+    },
+    {
+      "name": "Koshtra Valend",
+      "type": "mountain"
+    },
+    {
+      "name": "Zora Metch Gharl",
+      "type": "mountain"
+    },
+    {
+      "name": "Benn Ithrek",
+      "type": "mountain"
+    },
+    {
+      "name": "Benn Vothras",
+      "type": "mountain"
+    },
+    {
+      "name": "Skurr of Bothric",
+      "type": "mountain"
+    },
+    {
+      "name": "Mount Keldren",
+      "type": "mountain"
+    },
+    {
+      "name": "Mount Drothven",
+      "type": "mountain"
+    },
+    {
+      "name": "Drhum of Sorrows",
+      "type": "ridge"
+    },
+    {
+      "name": "Thremnir's Kregg",
+      "type": "crag"
+    },
+    {
+      "name": "Nhess of Velim",
+      "type": "headland"
+    },
+    {
+      "name": "Rhubha Kess",
+      "type": "headland"
+    },
+    {
+      "name": "Strait of Quelaphron",
+      "type": "strait"
+    },
+    {
+      "name": "Straits of Vrethenmor",
+      "type": "strait"
+    },
+    {
+      "name": "Glenn of Vethrim",
+      "type": "valley"
+    },
+    {
+      "name": "Strath Embreth",
+      "type": "valley"
+    },
+    {
+      "name": "Korrie of Whispers",
+      "type": "hollow"
+    },
+    {
+      "name": "Dry Korrie",
+      "type": "hollow"
+    },
+    {
+      "name": "Bealakh Sithren",
+      "type": "pass"
+    },
+    {
+      "name": "Mountains of Vreth",
+      "type": "mountain"
+    },
+    {
+      "name": "Kettleblack Ridge",
+      "type": "ridge"
+    },
+    {
+      "name": "The Wold of Thrase",
+      "type": "upland"
+    },
+    {
+      "name": "Celyamorne",
+      "type": "geographic"
+    },
+    {
+      "name": "Eshgrar Tholm",
+      "type": "mountain"
+    },
+    {
+      "name": "Morune Kregg",
+      "type": "crag"
+    },
+    {
+      "name": "Iron Tower",
+      "type": "landmark"
+    },
+    {
+      "name": "Switchwater",
+      "type": "settlement"
+    },
+    {
+      "name": "Middle Sea",
+      "type": "sea"
+    },
+    {
+      "name": "Gallowsmere",
+      "type": "settlement"
+    },
+    {
+      "name": "Shucklewood",
+      "type": "forest"
+    },
+    {
+      "name": "Mirkhollow",
+      "type": "settlement"
+    },
+    {
+      "name": "Revelshorn",
+      "type": "settlement"
+    },
+    {
+      "name": "Lhinn of Carsobry",
+      "type": "lake"
+    },
+    {
+      "name": "Barrowdeep",
+      "type": "landmark"
+    },
+    {
+      "name": "Switchwater Minor",
+      "type": "settlement"
+    },
+    {
+      "name": "Fellwrack",
+      "type": "ruin"
+    },
+    {
+      "name": "Ishnain Vothrek",
+      "type": "settlement"
+    },
+    {
+      "name": "Houndstooth Mere",
+      "type": "lake"
+    },
+    {
+      "name": "Wuthering Garth",
+      "type": "settlement"
+    },
+    {
+      "name": "Azumel Ulterior",
+      "type": "settlement"
+    },
+    {
+      "name": "Blackrigg",
+      "type": "settlement"
+    },
+    {
+      "name": "Throstlemark",
+      "type": "settlement"
+    },
+    {
+      "name": "Corpse Candle Fen",
+      "type": "wetland"
+    },
+    {
+      "name": "Vellarny",
+      "type": "settlement"
+    },
+    {
+      "name": "Glimholt",
+      "type": "forest"
+    },
+    {
+      "name": "Mulgrith",
+      "type": "settlement"
+    },
+    {
+      "name": "Sorrow's Lathe",
+      "type": "landmark"
+    },
+    {
+      "name": "Krannogg of Threll",
+      "type": "settlement"
+    },
+    {
+      "name": "Vveald Mossen",
+      "type": "forest"
+    },
+    {
+      "name": "Three Heaps",
+      "type": "landmark"
+    },
+    {
+      "name": "Four Stanes",
+      "type": "landmark"
+    },
+    {
+      "name": "Eass Veldrim",
+      "type": "waterfall"
+    },
+    {
+      "name": "Invr Kossam",
+      "type": "river-mouth"
+    },
+    {
+      "name": "Uvamh of Grothen",
+      "type": "cave"
+    },
+    {
+      "name": "Tharbett Crossing",
+      "type": "isthmus"
+    },
+    {
+      "name": "Makhir of Vess",
+      "type": "coastal"
+    },
+    {
+      "name": "Henj of Keldros",
+      "type": "ritual-site"
+    },
+    {
+      "name": "Kromhlekh Drell",
+      "type": "ritual-site"
+    },
+    {
+      "name": "Passaj Grav of Thelvorn",
+      "type": "tomb"
+    },
+    {
+      "name": "Rhyng Barroh of Kings",
+      "type": "tomb"
+    },
+    {
+      "name": "The Burnt Mhund",
+      "type": "ritual-site"
+    },
+    {
+      "name": "Kursuss of Vethras",
+      "type": "ritual-site"
+    },
+    {
+      "name": "Soutrenn Darkling",
+      "type": "underground"
+    },
+    {
+      "name": "Balli Throsswick",
+      "type": "settlement"
+    },
+    {
+      "name": "Athh Keldren",
+      "type": "ford"
+    },
+    {
+      "name": "Karrigg Vorn",
+      "type": "outcrop"
+    },
+    {
+      "name": "Dusty Shelves",
+      "type": "settlement"
+    },
+    {
+      "name": "Greynhess",
+      "type": "headland"
+    },
+    {
+      "name": "Wetstanes",
+      "type": "settlement"
+    },
+    {
+      "name": "Fendelaith",
+      "type": "settlement"
+    },
+    {
+      "name": "Strathtyr",
+      "type": "valley"
+    },
+    {
+      "name": "Steep Marches",
+      "type": "territory"
+    },
+    {
+      "name": "Muddenheim",
+      "type": "settlement"
+    },
+    {
+      "name": "Lowmire",
+      "type": "settlement"
+    },
+    {
+      "name": "Blotthall",
+      "type": "settlement"
+    },
+    {
+      "name": "Slate-colored Parishes",
+      "type": "territory"
+    },
+    {
+      "name": "Hillhenj",
+      "type": "ritual-site"
+    },
+    {
+      "name": "Spidersilt",
+      "type": "settlement"
+    },
+    {
+      "name": "Bronzvaults",
+      "type": "landmark"
+    },
+    {
+      "name": "Three Lhinns Running",
+      "type": "waterfall"
+    }
   ]
 }

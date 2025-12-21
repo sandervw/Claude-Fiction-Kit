@@ -3,9 +3,10 @@
 ## Overview
 
 "Twilight threatens."
+
 - _Unknown Bard_
 
-The iron has lost its edge, the palisade falls to ruin, and Nature once again has the better of men. Not by fire, steel, the methods of war, but through erasure. The wind erodes the old menhirs and cairns, monuments that once held the boundaries between civilization and the primordial forces beneath it. A covenant was broken. The Fomorians, who never truly left, come again: not as armies, but as an inhospitable land, a sea swallowing the coasts, a forests stretching its roots and thorns. The gates of the raths are not hewn by the axe. They are reclaimed: sinking into the bog, forgotten by the world.
+The iron has lost its edge, the palisade falls to ruin, and Nature once again has the better of men. Not by fire, steel, the methods of war, but through erasure. The wind erodes the old menhyrs and cairns, monuments that once held the boundaries between civilization and the primordial forces beneath it. A covenant was broken. The Vormakhians, who never truly left, come again: not as armies, but as an inhospitable land, a sea swallowing the coasts, a forests stretching its roots and thorns. The gates of the raths are not hewn by the axe. They are reclaimed: sinking into the bog, forgotten by the world.
 
 Humanity huddles round a final few fires: hill-forts with walls half-fallen to ruin, villages clustered around ritual circles of browning grass, island holds cut off from the mainland. The druids who understood the old wards are dying, their knowledge fading. The kings squabble over what remains. And in the wild places, the Lost Ones wait. Human once, no longer. The world is forgetting mankind, and mankind forgets itself.
 
@@ -13,7 +14,7 @@ Humanity huddles round a final few fires: hill-forts with walls half-fallen to r
 
 ## Recession, Not Invasion
 
-The Fomorians are _rising_.
+The Vormakhians are _rising_.
 
 The sea swallows the coast in fingerwidths, season by season. The forests remember, sending roots through hearthstones and thorns through thatch. The bogs drink the fields, and the black water gives nothing back. The land is becoming what it was before the first fence-post, the first furrow: wild, vast and indifferent.
 
@@ -23,14 +24,14 @@ There are no banners on the horizon, no war-horns in the passes. The horror of t
 
 ## The Broken Compact
 
-In the days before the first crops were sewn, there began a covenant. The old druids struck a balance with the Fomorian world. A frontier were traced in stone and words, and Ritual bound the seams. The standing stones were anchors, pinning back the pitiless tide of what lay beneath.
+In the days before the first crops were sewn, there began a covenant. The old druids struck a balance with the Vormakhian world. A frontier were traced in stone and words, and Ritual bound the seams. The standing stones were anchors, pinning back the pitiless tide of what lay beneath.
 
-Red King Gwayne broke that covenant.
+Red King Tharn broke that covenant.
 
 The stories fracture here, each teller certain of a different sin:
 
 - He spilled: blood on consecrated ground—his brother's, or his son's
-- He took: a Fomorian wife and sired something that should not have been
+- He took: a Vormakhian wife and sired something that should not have been
 - He spoke: an unspeakable name
 - He forgot: failed to discharge the Ritual at the turning of the year, let the seams come unstitched, let words go unspoken
 
@@ -44,11 +45,11 @@ The age of man was _forfeited_.
 
 ---
 
-## The Fomorians
+## The Vormakhians
 
-The Fomorians are not creatures, and nor are they the enemy. They are the world as it was before man carved his name into it — the deep water, the dark, the slow grind of stone, decomposition. They do not hate man. They do not _anything_ man. They are a glacier, the tide - unstoppable, yet incapable of malice.
+The Vormakhians are not creatures, and nor are they the enemy. They are the world as it was before man carved his name into it — the deep water, the dark, the slow grind of stone, decomposition. They do not hate man. They do not _anything_ man. They are a glacier, the tide - unstoppable, yet incapable of malice.
 
-**Manifestation:** The Fomorians rarely take forms that can be fought. A Fomorian _is_:
+**Manifestation:** The Vormakhians rarely take forms that can be fought. A Vormakhian _is_:
 
 - The mountain sliding southward
 - The fog that does not lift
@@ -56,7 +57,7 @@ The Fomorians are not creatures, and nor are they the enemy. They are the world 
 - The spreading woods
 - The hurricane
 
-When men speak of "a Fomorian", they are speaking of a thing so vast and old that its attention alone is fatal. They speak of a catastrophe. And a catastrophe cannot be fought.
+When men speak of "a Vormakhian", they are speaking of a thing so vast and old that its attention alone is fatal. They speak of a catastrophe. And a catastrophe cannot be fought.
 
 What man fights are the symptoms: the things that emerge as the wild reclaims the tamed.
 
@@ -64,7 +65,7 @@ What man fights are the symptoms: the things that emerge as the wild reclaims th
 
 ## The Forgetting
 
-What makes humans human in this world is memory. The kin fables, the folk who know your face. The Fomorians erode these things. The world is becoming a place where lineage cannot last, like writing on water.
+What makes humans human in this world is memory. The kin fables, the folk who know your face. The Vormakhians erode these things. The world is becoming a place where lineage cannot last, like writing on water.
 
 In the old tradition, names carried genuine power. Druids preserved genealogies because lineage was an anchor to the soil. To know someone's name was to plot their existence. Losing your name; lose your Self.
 
@@ -106,7 +107,7 @@ The Sarks are those who completed the Forgetting. They are the primary physical 
 
 ### Trow (The Dark Ones)
 
-If Sarks are the horde, The Dark Ones - Trow -  are what Sarks become when they left alone, in the dark, for a long, long time. Those who have forgotten so completely that they have found a strange paradise, an equilibrium with the Fomorian world.
+If Sarks are the horde, The Dark Ones - Trow - are what Sarks become when they left alone, in the dark, for a long, long time. Those who have forgotten so completely that they have found a strange paradise, an equilibrium with the Vormakhian world.
 
 **Appearance:** Always seen incomplete. At torchlight's limit. In sight's corner. The eye slides over them the way it slides over the familiar treeline - until with a second glance something seems altered, but what? You are uncertain what you have seen.
 
@@ -173,7 +174,7 @@ The old high kingship fell to pieces along with the compact. What remains are pe
 
 ### The Kinfolk
 
-Farmers, fishermen, artisans, sons and daughters, sires and grandsires. They do not care about covenants or Fomorians. They care about the barley crop, the leaky roof, whether Sarks will come after dusk.
+Farmers, fishermen, artisans, sons and daughters, sires and grandsires. They do not care about covenants or Vormakhians. They care about the barley crop, the leaky roof, whether Sarks will come after dusk.
 
 **How they survive:**
 
@@ -187,8 +188,8 @@ Farmers, fishermen, artisans, sons and daughters, sires and grandsires. They do 
 
 ## Themes and Symbols
 
-- **Entropy.** The threat is indifferent. The world is a `river walking over its bed`. The Fomorians do not need to hate man, and are not evil. They are only continuing on their way.
+- **Entropy.** The threat is indifferent. The world is a `river walking over its bed`. The Vormakhians do not need to hate man, and are not evil. They are only continuing on their way.
 - **Memory and Names.** You are your kin. Your memory. Every beast and monster has a body, but `man's lips alone can speak a name.`
-- **Complicity.** `Red King Gwayne cut the bond`. But, his sin is everyone's. His sin is yours. His sin is your lover's. His sin was your grandsire's. His sin will be your children's.
-- **The Last Star of Night.** Civilization is a little light flickering in a black ocean.  And like `the old star at the new day's dawn`, that star dims by the hour.
+- **Complicity.** `Red King Tharn cut the bond`. But, his sin is everyone's. His sin is yours. His sin is your lover's. His sin was your grandsire's. His sin will be your children's.
+- **The Last Star of Night.** Civilization is a little light flickering in a black ocean. And like `the old star at the new day's dawn`, that star dims by the hour.
 - **Recognition.** The horror is not the Sark growling in the dark. The horror is `the familiar face that pushes into the light, and itself wears no recognition.`
