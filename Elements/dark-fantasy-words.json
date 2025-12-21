@@ -1,0 +1,382 @@
+[
+  {
+    "term": "rhath",
+    "category": "fortifications",
+    "meaning": "Earthen ringfort with external ditch/fosse"
+  },
+  {
+    "term": "kaschel",
+    "category": "fortifications",
+    "meaning": "Stone-walled ringfort (dry stone)"
+  },
+  {
+    "term": "kahr",
+    "category": "fortifications",
+    "meaning": "Large stone fort, often royal or ceremonial"
+  },
+  {
+    "term": "lyoss",
+    "category": "fortifications",
+    "meaning": "Enclosed farmstead or ringfort"
+  },
+  {
+    "term": "bivallat",
+    "category": "fortifications",
+    "meaning": "Fort with two concentric banks and ditches"
+  },
+  {
+    "term": "thrivallat",
+    "category": "fortifications",
+    "meaning": "Fort with three concentric banks and ditches"
+  },
+  {
+    "term": "phosse",
+    "category": "fortifications",
+    "meaning": "Defensive ditch outside a rampart"
+  },
+  {
+    "term": "brokh",
+    "category": "structures",
+    "meaning": "Hollow-walled drystone tower"
+  },
+  {
+    "term": "whelhaus",
+    "category": "structures",
+    "meaning": "Round stone dwelling with radial piers resembling wheel spokes"
+  },
+  {
+    "term": "wagg",
+    "category": "structures",
+    "meaning": "Building with pillars or stalls, often mixed circular and rectangular"
+  },
+  {
+    "term": "klokhan",
+    "category": "structures",
+    "meaning": "Corbelled beehive hut built of dry stone"
+  },
+  {
+    "term": "bothn",
+    "category": "structures",
+    "meaning": "Beehive shieling dwelling"
+  },
+  {
+    "term": "soutrenn",
+    "category": "structures",
+    "meaning": "Underground stone-lined passage or chamber"
+  },
+  {
+    "term": "erth-haus",
+    "category": "structures",
+    "meaning": "Term for souterrain"
+  },
+  {
+    "term": "krannogg",
+    "category": "structures",
+    "meaning": "Artificial island dwelling constructed in lakes or bogs"
+  },
+  {
+    "term": "rhundhaus",
+    "category": "structures",
+    "meaning": "Circular domestic building with conical thatched roof"
+  },
+  {
+    "term": "klava kern",
+    "category": "ritual",
+    "meaning": "Circular chambered tomb with passage"
+  },
+  {
+    "term": "syst",
+    "category": "ritual",
+    "meaning": "Stone-lined burial box or chest"
+  },
+  {
+    "term": "systvaen",
+    "category": "ritual",
+    "meaning": "Stone burial chamber or cist"
+  },
+  {
+    "term": "rhyng barroh",
+    "category": "ritual",
+    "meaning": "Circular burial mound with surrounding ditch"
+  },
+  {
+    "term": "kursuss",
+    "category": "ritual",
+    "meaning": "Long parallel-ditched ceremonial avenue or processional way"
+  },
+  {
+    "term": "henj",
+    "category": "ritual",
+    "meaning": "Circular bank-and-ditch enclosure with ditch inside the bank"
+  },
+  {
+    "term": "kerb kern",
+    "category": "ritual",
+    "meaning": "Cairn defined by an encircling stone kerb"
+  },
+  {
+    "term": "wedj thomb",
+    "category": "ritual",
+    "meaning": "Megalithic tomb narrowing from front to back"
+  },
+  {
+    "term": "passaj grav",
+    "category": "ritual",
+    "meaning": "Chambered tomb accessed via a stone-lined passage"
+  },
+  {
+    "term": "burnt mhund",
+    "category": "ritual",
+    "meaning": "Mound of fire-cracked stones"
+  },
+  {
+    "term": "makhir",
+    "category": "landscape",
+    "meaning": "Fertile coastal grassland on shell-sand plain"
+  },
+  {
+    "term": "korrie",
+    "category": "landscape",
+    "meaning": "Mountain hollow or cirque, literally cauldron"
+  },
+  {
+    "term": "bealakh",
+    "category": "landscape",
+    "meaning": "Mountain pass"
+  },
+  {
+    "term": "strath",
+    "category": "landscape",
+    "meaning": "Broad river valley"
+  },
+  {
+    "term": "glenn",
+    "category": "landscape",
+    "meaning": "Narrow valley"
+  },
+  {
+    "term": "skurr",
+    "category": "landscape",
+    "meaning": "Sharp rocky peak"
+  },
+  {
+    "term": "meall",
+    "category": "landscape",
+    "meaning": "Rounded lumpy hill"
+  },
+  {
+    "term": "knokk",
+    "category": "landscape",
+    "meaning": "Small rounded hill or knoll"
+  },
+  {
+    "term": "thomm",
+    "category": "landscape",
+    "meaning": "Small hillock"
+  },
+  {
+    "term": "drhum",
+    "category": "landscape",
+    "meaning": "Ridge, literally spine or back"
+  },
+  {
+    "term": "kregg",
+    "category": "landscape",
+    "meaning": "Rock face or crag"
+  },
+  {
+    "term": "rhubha",
+    "category": "landscape",
+    "meaning": "Headland or promontory point"
+  },
+  {
+    "term": "kyl",
+    "category": "landscape",
+    "meaning": "Narrows or strait"
+  },
+  {
+    "term": "tharbett",
+    "category": "landscape",
+    "meaning": "Isthmus or portage point between bodies of water"
+  },
+  {
+    "term": "lhinn",
+    "category": "landscape",
+    "meaning": "Pool or waterfall"
+  },
+  {
+    "term": "eass",
+    "category": "landscape",
+    "meaning": "Waterfall"
+  },
+  {
+    "term": "invr",
+    "category": "landscape",
+    "meaning": "River mouth"
+  },
+  {
+    "term": "abr",
+    "category": "landscape",
+    "meaning": "River mouth or confluence"
+  },
+  {
+    "term": "uvamh",
+    "category": "landscape",
+    "meaning": "Cave"
+  },
+  {
+    "term": "kern",
+    "category": "landscape",
+    "meaning": "Heap of stones, often a hill or memorial marker"
+  },
+  {
+    "term": "benn",
+    "category": "landscape",
+    "meaning": "Mountain or high hill"
+  },
+  {
+    "term": "stobb",
+    "category": "landscape",
+    "meaning": "High rocky pointed hill, literally pointed stick"
+  },
+  {
+    "term": "lunhula",
+    "category": "artifacts",
+    "meaning": "Crescent-shaped gold collar or necklace"
+  },
+  {
+    "term": "thork",
+    "category": "artifacts",
+    "meaning": "Twisted metal neck-ring, often gold or bronze"
+  },
+  {
+    "term": "palstav",
+    "category": "artifacts",
+    "meaning": "Axe with flanged grip for split handle"
+  },
+  {
+    "term": "gorjett",
+    "category": "artifacts",
+    "meaning": "Gold collar or throat ornament"
+  },
+  {
+    "term": "quhrn",
+    "category": "artifacts",
+    "meaning": "Hand-grinding stone for processing grain"
+  },
+  {
+    "term": "pennannulr",
+    "category": "artifacts",
+    "meaning": "Almost-ring-shaped, describing a type of brooch with gap"
+  },
+  {
+    "term": "dunn",
+    "category": "placeElements",
+    "meaning": "Fort or stronghold"
+  },
+  {
+    "term": "ardh",
+    "category": "placeElements",
+    "meaning": "Height or promontory"
+  },
+  {
+    "term": "khil",
+    "category": "placeElements",
+    "meaning": "Church or monastic cell"
+  },
+  {
+    "term": "balli",
+    "category": "placeElements",
+    "meaning": "Settlement or townland"
+  },
+  {
+    "term": "kluain",
+    "category": "placeElements",
+    "meaning": "Meadow or pasture"
+  },
+  {
+    "term": "akhadh",
+    "category": "placeElements",
+    "meaning": "Field"
+  },
+  {
+    "term": "dhall",
+    "category": "placeElements",
+    "meaning": "Meadow or water-meadow"
+  },
+  {
+    "term": "tyr",
+    "category": "placeElements",
+    "meaning": "Land or territory"
+  },
+  {
+    "term": "athh",
+    "category": "placeElements",
+    "meaning": "Ford or river crossing"
+  },
+  {
+    "term": "karrigg",
+    "category": "placeElements",
+    "meaning": "Rock or rocky outcrop"
+  },
+  {
+    "term": "mhydden",
+    "category": "ritual",
+    "meaning": "Refuse heap containing shells, bones, and domestic waste"
+  },
+  {
+    "term": "nhess",
+    "category": "landscape",
+    "meaning": "Headland or promontory"
+  },
+  {
+    "term": "vveald",
+    "category": "landscape",
+    "meaning": "Forested upland or woodland"
+  },
+  {
+    "term": "stane",
+    "category": "landscape",
+    "meaning": "Stone, often referring to standing stones"
+  },
+  {
+    "term": "bhrugh",
+    "category": "fortifications",
+    "meaning": "Fortified place or stronghold"
+  },
+  {
+    "term": "menhyr",
+    "category": "ritual",
+    "meaning": "Large upright standing stone"
+  },
+  {
+    "term": "dolmn",
+    "category": "ritual",
+    "meaning": "Megalithic tomb with large capstone on uprights"
+  },
+  {
+    "term": "quoyt",
+    "category": "ritual",
+    "meaning": "Megalithic chamber tomb, Cornish term for dolmen"
+  },
+  {
+    "term": "kromhlekh",
+    "category": "ritual",
+    "meaning": "Stone circle or megalithic tomb"
+  },
+  {
+    "term": "schyling",
+    "category": "structures",
+    "meaning": "Temporary summer dwelling for pastoral herding"
+  },
+  {
+    "term": "kleyt",
+    "category": "structures",
+    "meaning": "Stone storage structure with permeable walls for drying, found on St Kilda"
+  },
+  {
+    "term": "Sark",
+    "category": "creatures",
+    "meaning": "a human who has Forgotten"
+  }
+]

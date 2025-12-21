@@ -93,7 +93,7 @@ Can you rewrite the attached prose? I'm happy with the overall 'concept', but no
 ## Bandcamp Review Prompt
 
 Hey Claude, try revising the following text in the thorogood style, 500 characters:
-It reminds me of Aindulmedir, not exactly the same style, but in the way it captured a mood; cool use of chime/ringing sounds to evoke a sense of winter, or piety; Works as background noise, or active listening; 9/10, potentially a ten if stick around in my head for a few months.
+You no longer bear the burden of prophecy. You have achieved your destiny. You are freed. The doomed Dwemer's folly. Lord Dagoth's temptation. The Tribunal's seduction. The god's heart freed. The prophecy fulfilled. All fates sealed and sins redeemed. If you have pity, mourn the lost but let the weeping cease. The blight is gone, and the sun's golden honey gilds the land. Hail savior, Hortator and Nerevarine. Your people look to you for protection. Monsters and villains great and small still threaten the people of Vvardenfell. Enemies and evils abound, yet indomitable will might rid Morrowind of all its ills. For you, our thanks and blessing, our gift and token given. Come, take this thing from the hand of god.
 
 ## Peake Revision
 

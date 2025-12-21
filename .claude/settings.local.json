@@ -3,7 +3,9 @@
     "allow": [
       "WebSearch",
       "WebFetch",
-      "Skill(literary-revision)"
+      "Skill(literary-revision)",
+      "Bash(python:*)",
+      "Bash(pip show:*)"
     ],
     "deny": [],
     "ask": []
