@@ -14,29 +14,29 @@ Per your Rite of Spring template, elements map to orchestral sections:
 | Element           | Orchestra                  | Story Role                                       |
 | ----------------- | -------------------------- | ------------------------------------------------ |
 | **Heroes**        | Winds                      | A small rescue band—perhaps 3-4 characters       |
-| **Foe (Minor)**   | Strings (plucking)         | Moldrick's raiders                               |
-| **Foe (Master)**  | Strings (bowed) + Trumpets | The Dolmn Kin                                    |
+| **Foe (Minor)**   | Strings (plucking)         | Stulm's raiders                                  |
+| **Foe (Master)**  | Strings (bowed) + Trumpets | The Grundkholm                                   |
 | **Arena/Texture** | Drums                      | The Soutrenn itself—architecture, weather, decay |
 | **Magic/Action**  | Brass                      | Combat, shamanic wards, jade guardian activation |
 
 ### Suggested Hero Party
 
-| Name                  | Role                      | "Instrument"        | Arc                                                        |
-| --------------------- | ------------------------- | ------------------- | ---------------------------------------------------------- |
-| **Brennach**          | Leader, aging warrior     | Bassoon (main hero) | Carries guilt; knew Mother Drelvi's husband, owes a debt   |
-| **Sile**              | Young shaman-in-training  | Clarinet            | Knows fragments of ward-lore; represents hope/knowledge    |
-| **Corran**            | Scout, Kinfolk hunter     | Flute               | Pragmatic survivor; teetering near Forgetting himself      |
-| **[Optional] Marren** | Muscle, mute since trauma | Bass clarinet       | Communicates through action; "bubbly excitement" in finale |
+| Name                               | Role                      | "Instrument"        | Arc                                                        |
+| ---------------------------------- | ------------------------- | ------------------- | ---------------------------------------------------------- |
+| **Drutch**                         | Leader, aging warrior     | Bassoon (main hero) | Carries guilt; knew Mother Drelvi's husband, owes a debt   |
+| **Moldrick Phenn**                 | Young shaman-in-training  | Clarinet            | Knows fragments of ward-lore; represents hope/knowledge    |
+| **Machram**                        | Scout, Kinfolk hunter     | Flute               | Pragmatic survivor; teetering near Forgetting himself      |
+| **[Optional] Vross of Muddenheim** | Muscle, mute since trauma | Bass clarinet       | Communicates through action; "bubbly excitement" in finale |
 
 ### The Foes
 
-| Threat                          | Location                 | Role                                        |
-| ------------------------------- | ------------------------ | ------------------------------------------- |
-| **Moldrick One-Hand** + raiders | Exterior, Upper Soutrenn | Initial obstacle; human desperation         |
-| **Kestanes & Gravelforms**      | Upper Soutrenn           | Environmental threat; wards gone wrong      |
-| **Sarks**                       | Lower Depths             | The Forgotten; horror of recognition        |
-| **The Dolmn Kin**               | Warden's Rest            | Master Foe; the old world's broken guardian |
-| **The Sealed Gate**             | Beyond boss chamber      | Unresolved mystery; sequel hook             |
+| Threat                       | Location                 | Role                                        |
+| ---------------------------- | ------------------------ | ------------------------------------------- |
+| **Stulm One-Hand** + raiders | Exterior, Upper Soutrenn | Initial obstacle; human desperation         |
+| **Kestanes & Bhruggspire**   | Upper Soutrenn           | Environmental threat; wards gone wrong      |
+| **Sarks**                    | Lower Depths             | The Forgotten; horror of recognition        |
+| **The Grundkholm**           | Warden's Rest            | Master Foe; the old world's broken guardian |
+| **The Sealed Gate**          | Beyond boss chamber      | Unresolved mystery; sequel hook             |
 
 ---
 
@@ -84,12 +84,12 @@ Per your Rite of Spring template, elements map to orchestral sections:
 
 ### Character Actions/Emotions
 
-| Character | Action                              | Emotion               |
-| --------- | ----------------------------------- | --------------------- |
-| Brennach  | Speaks first; gives grim assessment | Weariness, obligation |
-| Sile      | Responds with nervous determination | Hope tinged with fear |
-| Corran    | Warns of what he's seen ahead       | Pragmatic dread       |
-| Marren    | Silent nod, checks weapon           | Readiness             |
+| Character           | Action                              | Emotion               |
+| ------------------- | ----------------------------------- | --------------------- |
+| Drutch              | Speaks first; gives grim assessment | Weariness, obligation |
+| Moldrick Phenn      | Responds with nervous determination | Hope tinged with fear |
+| Machram             | Warns of what he's seen ahead       | Pragmatic dread       |
+| Vross of Muddenheim | Moldrick Phennnt nod, checks weapon | Readiness             |
 
 ### Descriptions to Write
 
@@ -129,7 +129,7 @@ Per your Rite of Spring template, elements map to orchestral sections:
 
 ### Questions Answered
 
-- What waits at Kelpshaw? → Moldrick's band.
+- What waits at Kelpshaw? → Stulm's band.
 - Is this a rescue mission? → Yes, but complicated.
 
 ### Questions to Pose (for Section 3)
@@ -139,26 +139,26 @@ Per your Rite of Spring template, elements map to orchestral sections:
 
 ### Character Actions/Emotions
 
-| Character | Action                           | Emotion             |
-| --------- | -------------------------------- | ------------------- |
-| Corran    | Reports what he sees from cover  | Clinical assessment |
-| Brennach  | Weighs options; decides approach | Grim calculation    |
-| Sile      | Senses the broken wards          | Unease, nausea      |
-| Marren    | Scouts flank, returns with intel | Focused             |
+| Character           | Action                           | Emotion             |
+| ------------------- | -------------------------------- | ------------------- |
+| Machram             | Reports what he sees from cover  | Clinical assessment |
+| Drutch              | Weighs options; decides approach | Grim calculation    |
+| Moldrick Phenn      | Senses the broken wards          | Unease, nausea      |
+| Vross of Muddenheim | Scouts flank, returns with intel | Focused             |
 
 ### Descriptions to Write
 
-- **The Compound:** Two canted longhouses, moss-eaten walkways, a central firepit. Moldrick hunching by flames.
+- **The Compound:** Two canted longhouses, moss-eaten walkways, a central firepit. Stulm hunching by flames.
 - **The Raiders:** Not monsters—desperate Kinfolk. Worn faces, stolen gear. Emphasize their humanity.
-- **The Wards:** Sile should feel something wrong. Carved spirals on distant stones, cracked, bleeding energy.
+- **The Wards:** Moldrick Phenn should feel something wrong. Carved spirals on distant stones, cracked, bleeding energy.
 
 ### Sentence Flow Guidance
 
 1. **Establish vantage:** Heroes observing from cover. Where are they? What do they see?
-2. **Focus on foe (strings):** Moldrick described. His missing hand. His people on watch.
-3. **Magic sense (brass):** Sile's reaction to the broken wards—physical sensation.
+2. **Focus on foe (strings):** Stulm described. His missing hand. His people on watch.
+3. **Magic sense (brass):** Moldrick Phenn's reaction to the broken wards—physical sensation.
 4. **Heroes react (winds):** Quick exchange. Plan forming.
-5. **Foreshadow resolution:** Something Brennach notices that will matter in the finale—a pattern, a weakness, an entry point.
+5. **Foreshadow resolution:** Something Drutch notices that will matter in the finale—a pattern, a weakness, an entry point.
 
 ### Thematic Anchors
 
@@ -169,7 +169,7 @@ Per your Rite of Spring template, elements map to orchestral sections:
 
 - [ ] Mention the sealed gate (in passing—raiders talk about "the door that won't open")
 - [ ] Establish entry route heroes will use
-- [ ] Note something about Moldrick that humanizes him
+- [ ] Note something about Stulm that humanizes him
 
 ---
 
@@ -190,12 +190,12 @@ Per your Rite of Spring template, elements map to orchestral sections:
 
 ### Character Actions/Emotions
 
-| Character | Action                                       | Emotion                     |
-| --------- | -------------------------------------------- | --------------------------- |
-| Corran    | Leads infiltration; silent takedowns         | Cold efficiency             |
-| Brennach  | Manages the approach; makes hard calls       | Controlled tension          |
-| Sile      | Reads the carved spirals; warns of guardians | Growing dread               |
-| Marren    | First blood; protects the rear               | Violence without hesitation |
+| Character           | Action                                         | Emotion                     |
+| ------------------- | ---------------------------------------------- | --------------------------- |
+| Machram             | Leads infiltration; Moldrick Phennnt takedowns | Cold efficiency             |
+| Drutch              | Manages the approach; makes hard calls         | Controlled tension          |
+| Moldrick Phenn      | Reads the carved spirals; warns of guardians   | Growing dread               |
+| Vross of Muddenheim | First blood; protects the rear                 | Violence without hesitation |
 
 ### Descriptions to Write (DRUMS — Major Texture)
 
@@ -206,13 +206,13 @@ Per your Rite of Spring template, elements map to orchestral sections:
 ### Action Sequence (BRASS)
 
 - Brief skirmish with two raiders near a guttering torch.
-- Corran or Marren handles it quickly—this is not the main fight.
+- Machram or Vross of Muddenheim handles it quickly—this is not the main fight.
 - Emphasize stealth broken, clock now ticking.
 
 ### Sentence Flow Guidance
 
 1. **Open with texture (drums):** The Soutrenn's entrance. Dense sensory description. 4-6 sentences.
-2. **Magic impression (brass):** Sile touching the walls, reading the decay.
+2. **Magic impression (brass):** Moldrick Phenn touching the walls, reading the decay.
 3. **Movement:** Heroes descending. Architecture described through motion.
 4. **Skirmish:** Quick, brutal. 2-3 sentences of action. Not the focus.
 5. **Fork in the path:** The passage splits. North (cell) and South (vaulted chamber). Decision moment.
@@ -250,12 +250,12 @@ Establish clearly:
 
 ### Character Actions/Emotions
 
-| Character | Action                                 | Emotion              |
-| --------- | -------------------------------------- | -------------------- |
-| Brennach  | Gets the key; opens the cell           | Relief, then concern |
-| Sile      | Recognizes Drelvi; seeks guidance      | Desperate hope       |
-| Corran    | Watches the corridor; reports movement | Mounting anxiety     |
-| Drelvi    | Warns them; something is coming        | Exhausted terror     |
+| Character      | Action                                 | Emotion              |
+| -------------- | -------------------------------------- | -------------------- |
+| Drutch         | Gets the key; opens the cell           | Relief, then concern |
+| Moldrick Phenn | Recognizes Drelvi; seeks guidance      | Desperate hope       |
+| Machram        | Watches the corridor; reports movement | Mounting anxiety     |
+| Drelvi         | Warns them; something is coming        | Exhausted terror     |
 
 ### Descriptions to Write
 
@@ -272,15 +272,15 @@ Establish clearly:
 ### Sentence Flow Guidance
 
 1. **Open with heroes (winds):** Planning, moving, executing. Dialogue-driven.
-2. **Cell discovery:** Brennach finds Drelvi. Emotional beat—recognition, relief.
-3. **Alternating tension:** Cut between the cell and Corran watching the corridor.
+2. **Cell discovery:** Drutch finds Drelvi. Emotional beat—recognition, relief.
+3. **Alternating tension:** Cut between the cell and Machram watching the corridor.
 4. **The warning:** Drelvi explains what she's heard. What's below.
 5. **Texture shift (drums):** Sound of Kestanes stirring. The trap about to spring.
 
 ### Thematic Anchors
 
 - **Memory as survival:** Drelvi survived by reciting names. Her lineage. Her students. "The Forgetting could not take what I would not release."
-- **Recognition:** This is a reunion. Brennach knew her husband. Old debts, old bonds.
+- **Recognition:** This is a reunion. Drutch knew her husband. Old debts, old bonds.
 
 ### Foreshadowing Checklist
 
@@ -307,19 +307,19 @@ Establish clearly:
 
 ### Character Actions/Emotions
 
-| Character | Action                                   | Emotion                        |
-| --------- | ---------------------------------------- | ------------------------------ |
-| All       | Fighting retreat through vaulted chamber | Controlled panic               |
-| Brennach  | Shields Drelvi; takes wounds             | Protective fury                |
-| Sile      | Attempts ward-speech; partial success    | Frustration, glimpses of power |
-| Corran    | Finds paths through chaos                | Survival instinct              |
-| Marren    | Rearguard action; silent violence        | Grim satisfaction              |
+| Character           | Action                                      | Emotion                        |
+| ------------------- | ------------------------------------------- | ------------------------------ |
+| All                 | Fighting retreat through vaulted chamber    | Controlled panic               |
+| Drutch              | Shields Drelvi; takes wounds                | Protective fury                |
+| Moldrick Phenn      | Attempts ward-speech; partial success       | Frustration, glimpses of power |
+| Machram             | Finds paths through chaos                   | Survival instinct              |
+| Vross of Muddenheim | Rearguard action; Moldrick Phennnt violence | Grim satisfaction              |
 
 ### Descriptions to Write (DRUMS — Changed Texture)
 
 - **The Vaulted Chamber:** Two walkways above, flagstones below. Raiders already fighting Kestanes—chaos.
 - **The Kestanes:** Jade hound-shapes clicking across wet stone. Angular, wrong movement. They don't discriminate—attack everyone.
-- **Gravelforms:** Floating sentinels, dust-trailing wings humming. A sound felt in the teeth.
+- **Bhruggspire:** Floating sentinels, dust-trailing wings humming. A sound felt in the teeth.
 
 ### The Battle Dance (BRASS — Action Begins)
 
@@ -334,7 +334,7 @@ Establish clearly:
 2. **Action begins (brass):** Combat erupts. Quick cuts between combatants.
 3. **Competing elements:**
    - Enemy (strings): Raiders fighting, dying.
-   - Magic (brass): Kestanes attacking, Sile's partial ward-speech.
+   - Magic (brass): Kestanes attacking, Moldrick Phenn's partial ward-speech.
    - Heroes (winds): Moving as a unit, protecting Drelvi.
 4. **Changed texture (drums):** The ceiling. Scuttling sounds. More Kestanes coming.
 5. **New threat:** The spear-trap gauntlet. The only way forward.
@@ -348,18 +348,18 @@ Establish clearly:
 
 - Emphasize movement through space, not static fighting.
 - The party is retreating forward, deeper into the Soutrenn.
-- Sile's partial success with ward-speech should feel like potential, not mastery.
+- Moldrick Phenn's partial success with ward-speech should feel like potential, not mastery.
 
 ---
 
 ## Section 6: The Master Appears
 
 **Word Count:** 200–250  
-**Purpose:** The Dolmn Kin revealed; all other conflict pauses; dread.
+**Purpose:** The Grundkholm revealed; all other conflict pauses; dread.
 
 ### Questions Answered
 
-- What controls this place? → The Dolmn Kin. Or it did, once.
+- What controls this place? → The Grundkholm. Or it did, once.
 - Why did everything pause? → Even the Kestanes defer to it.
 
 ### Questions to Pose (for Section 7)
@@ -369,25 +369,25 @@ Establish clearly:
 
 ### Character Actions/Emotions
 
-| Character | Action                               | Emotion               |
-| --------- | ------------------------------------ | --------------------- |
-| All       | Freeze; stare                        | Awe, terror           |
-| Drelvi    | Whispers what she knows              | Resignation           |
-| Brennach  | Steps forward; draws attention       | Defiance masking fear |
-| Sile      | Reaches for ward-lore; finds nothing | Despair               |
+| Character      | Action                               | Emotion               |
+| -------------- | ------------------------------------ | --------------------- |
+| All            | Freeze; stare                        | Awe, terror           |
+| Drelvi         | Whispers what she knows              | Resignation           |
+| Drutch         | Steps forward; draws attention       | Defiance masking fear |
+| Moldrick Phenn | Reaches for ward-lore; finds nothing | Despair               |
 
 ### Descriptions to Write
 
-- **The Dolmn Kin:** Twice a man's height. Red-veined jade. Eyes like dark pits. It stirs—stone grinding on stone.
-- **The Stillness:** Everything else stops. Kestanes freeze. Gravelforms hover motionless. Even the dust hangs.
+- **The Grundkholm:** Twice a man's height. Red-veined jade. Eyes like dark pits. It stirs—stone grinding on stone.
+- **The Stillness:** Everything else stops. Kestanes freeze. Bhruggspire hover motionless. Even the dust hangs.
 - **The Threshold:** The Warden's Rest. A chamber built for this guardian. The party has crossed into its domain.
 
 ### Sentence Flow Guidance
 
 1. **Texture + action herald (drums + brass):** The sound of its waking. Stone on stone. A pressure in the air.
 2. **Pileup pause:** All other combat ceases. The scene holds its breath.
-3. **The Master (strings):** Description of the Dolmn Kin. Take your time. This is the reveal.
-4. **Hushed close:** Strange silence. Color bleaching from the scene. Something ancient regarding something brief.
+3. **The Master (strings):** Description of the Grundkholm. Take your time. This is the reveal.
+4. **Hushed close:** Strange Moldrick Phennnce. Color bleaching from the scene. Something ancient regarding something brief.
 
 ### Thematic Anchors
 
@@ -405,7 +405,7 @@ Establish clearly:
 ## Section 7: The Enemy Triumphs
 
 **Word Count:** 300–350  
-**Purpose:** The Dolmn Kin attacks; heroes are broken; defeat.
+**Purpose:** The Grundkholm attacks; heroes are broken; defeat.
 
 ### Questions Answered
 
@@ -419,25 +419,25 @@ Establish clearly:
 
 ### Character Actions/Emotions
 
-| Character | Action                                     | Emotion               |
-| --------- | ------------------------------------------ | --------------------- |
-| Brennach  | Attempts to hold the line; is thrown aside | Defiance → defeat     |
-| Marren    | Charges; is swatted like a fly             | Wordless fury → pain  |
-| Corran    | Tries to find weakness; there is none      | Calculation → despair |
-| Sile      | Ward-speech fails utterly                  | Helplessness          |
-| Drelvi    | Calls a name; buys seconds                 | Last desperate act    |
+| Character           | Action                                     | Emotion               |
+| ------------------- | ------------------------------------------ | --------------------- |
+| Drutch              | Attempts to hold the line; is thrown aside | Defiance → defeat     |
+| Vross of Muddenheim | Charges; is swatted like a fly             | Wordless fury → pain  |
+| Machram             | Tries to find weakness; there is none      | Calculation → despair |
+| Moldrick Phenn      | Ward-speech fails utterly                  | Helplessness          |
+| Drelvi              | Calls a name; buys seconds                 | Last desperate act    |
 
 ### Descriptions to Write (DRUMS — Unique Texture)
 
-- **The Chamber in Motion:** The Dolmn Kin moving is like architecture collapsing. The air displaced. The sound.
-- **Environmental Threats:** Other guardians resume. Kestanes circling. Gravelforms descending.
+- **The Chamber in Motion:** The Grundkholm moving is like architecture collapsing. The air displaced. The sound.
+- **Environmental Threats:** Other guardians resume. Kestanes circling. Bhruggspire descending.
 - **The Overwhelm:** Everything at once. Too many threats. No coordination possible.
 
 ### The Battle (BRASS — Aggressive Final)
 
 - Environmental threats (bass/cellos): Kestanes circling, clicking, attacking flanks.
-- Lackeys (violas/horns): Gravelforms herding, driving the party together.
-- The Master (trumpets/violins): The Dolmn Kin, glorying in its purpose. It was made for this.
+- Lackeys (violas/horns): Bhruggspire herding, driving the party together.
+- The Master (trumpets/violins): The Grundkholm, glorying in its purpose. It was made for this.
 - Build, layer, climax: Short sentences. Fragmented. Impact after impact.
 
 ### Sentence Flow Guidance
@@ -445,13 +445,13 @@ Establish clearly:
 1. **The strike:** It moves. Someone is hit. Immediate, brutal.
 2. **Building chaos:** Other threats join. The party scatters, regroups, scatters.
 3. **Individual failures:** Each hero tries something. Each fails.
-4. **Drelvi's desperate act:** She speaks an old name. The Dolmn Kin pauses—one second, two.
+4. **Drelvi's desperate act:** She speaks an old name. The Grundkholm pauses—one second, two.
 5. **The break:** Not enough. The party is separated, wounded, driven into the Lower Depths.
 
 ### Thematic Anchors
 
 - **Names have power:** Drelvi's invocation of an old name (the shaman who made this guardian?) creates a moment. Not enough, but something.
-- **Defeat:** This must feel earned. The Dolmn Kin is beyond them. For now.
+- **Defeat:** This must feel earned. The Grundkholm is beyond them. For now.
 
 ### Transition to Part II
 
@@ -480,18 +480,18 @@ The heroes are broken—physically, emotionally. They've been driven down into t
 
 ### Character Actions/Emotions
 
-| Character | Action                               | Emotion                 |
-| --------- | ------------------------------------ | ----------------------- |
-| Brennach  | Taking stock; binding wounds         | Shame, exhaustion       |
-| Sile      | Trying to understand what Drelvi did | Desperate curiosity     |
-| Corran    | Scouting the immediate area          | Hollow wariness         |
-| Marren    | Silent, in pain                      | Endurance               |
-| Drelvi    | Barely conscious; muttering names    | Fighting the Forgetting |
+| Character           | Action                               | Emotion                 |
+| ------------------- | ------------------------------------ | ----------------------- |
+| Drutch              | Taking stock; binding wounds         | Shame, exhaustion       |
+| Moldrick Phenn      | Trying to understand what Drelvi did | Desperate curiosity     |
+| Machram             | Scouting the immediate area          | Hollow wariness         |
+| Vross of Muddenheim | Moldrick Phennnt, in pain            | Endurance               |
+| Drelvi              | Barely conscious; muttering names    | Fighting the Forgetting |
 
 ### Descriptions to Write (DRUMS — Darker Arena)
 
 - **The Drowned Roots:** Black water pooling. Raised stone walkways. Tree roots piercing the ceiling like grasping fingers.
-- **The Silence:** After the chaos above, the quiet is worse. Dripping. Distant clicks.
+- **The Moldrick Phennnce:** After the chaos above, the quiet is worse. Dripping. Distant clicks.
 - **The Tents:** Hide stretched over bone. Someone—something—lives here.
 
 ### Sentence Flow Guidance
@@ -504,7 +504,7 @@ The heroes are broken—physically, emotionally. They've been driven down into t
 
 ### Thematic Anchors
 
-- **The Forgetting:** Drelvi is fighting it. "She mutters names like a ward against silence."
+- **The Forgetting:** Drelvi is fighting it. "She mutters names like a ward against Moldrick Phennnce."
 - **Entropy:** Even the refuge is decay. The water black and still. The roots like reaching hands.
 
 ### Atmosphere Notes
@@ -532,24 +532,24 @@ The heroes are broken—physically, emotionally. They've been driven down into t
 
 ### Character Actions/Emotions
 
-| Character | Action                                         | Emotion           |
-| --------- | ---------------------------------------------- | ----------------- |
-| Drelvi    | Shares what she knows; suggests the impossible | Grim clarity      |
-| Brennach  | Accepts the plan; no better options            | Resolved despair  |
-| Sile      | Understands the ward-theory; can she do it?    | Terrified hope    |
-| Corran    | Maps the path forward                          | Purpose returning |
-| Marren    | Readies for what's coming                      | Anticipation      |
+| Character           | Action                                         | Emotion           |
+| ------------------- | ---------------------------------------------- | ----------------- |
+| Drelvi              | Shares what she knows; suggests the impossible | Grim clarity      |
+| Drutch              | Accepts the plan; no better options            | Resolved despair  |
+| Moldrick Phenn      | Understands the ward-theory; can she do it?    | Terrified hope    |
+| Machram             | Maps the path forward                          | Purpose returning |
+| Vross of Muddenheim | Readies for what's coming                      | Anticipation      |
 
 ### Descriptions to Write
 
 - **Sark Activity:** Seen from hiding. Lost Ones in rotted clothes. Clicking, grunting. Pack behavior. Some carry tools they don't remember.
-- **The Horror of Recognition:** Corran sees someone he knew. A farmer from Thornhollow. Now... this.
+- **The Horror of Recognition:** Machram sees someone he knew. A farmer from Thornhollow. Now... this.
 - **The Plan:** Drelvi knows a lever in a tower retracts the bone-spears. Beyond that, the Warden's Rest. Beyond that, a sealed gate. Behind the gate—something that might help.
 
 ### Sentence Flow Guidance
 
 1. **Foes (plucking strings):** Sarks going about their business. Observed. Detailed.
-2. **Recognition beat:** Corran's reaction. "That was Aldric. He had three daughters."
+2. **Recognition beat:** Machram's reaction. "That was Aldric. He had three daughters."
 3. **Drelvi speaks (winds):** Slow-paced exposition. What she knows. The sealed gate.
 4. **Heroes respond (winds):** Taking turns. Reacting. Planning.
 5. **Exclamation point (brass):** The decision made. "Then we go through them."
@@ -564,7 +564,7 @@ The heroes are broken—physically, emotionally. They've been driven down into t
 1. Get past the Sarks to the tower
 2. Pull the lever; retract the bone-spears
 3. Return to the Warden's Rest
-4. Sile attempts ward-speech while others distract the Dolmn Kin
+4. Moldrick Phenn attempts ward-speech while others distract the Grundkholm
 5. Open the sealed gate with knowledge Drelvi provides
 6. Find... something. Hope. An answer.
 
@@ -587,19 +587,19 @@ The heroes are broken—physically, emotionally. They've been driven down into t
 
 ### Character Actions/Emotions
 
-| Character | Action                             | Emotion                 |
-| --------- | ---------------------------------- | ----------------------- |
-| All       | Moving as a unit; fighting through | Controlled violence     |
-| Corran    | Leading; using terrain             | Primal focus            |
-| Marren    | At the front; breaking the line    | Unleashed               |
-| Brennach  | Protecting Drelvi and Sile         | Desperate determination |
-| Sile      | Ward-fragments; making them flinch | Growing confidence      |
+| Character           | Action                               | Emotion                 |
+| ------------------- | ------------------------------------ | ----------------------- |
+| All                 | Moving as a unit; fighting through   | Controlled violence     |
+| Machram             | Leading; using terrain               | Primal focus            |
+| Vross of Muddenheim | At the front; breaking the line      | Unleashed               |
+| Drutch              | Protecting Drelvi and Moldrick Phenn | Desperate determination |
+| Moldrick Phenn      | Ward-fragments; making them flinch   | Growing confidence      |
 
 ### Descriptions to Write (DRUMS — Death-Rhythm Texture)
 
 - **The Running Fight:** Through hide-tents and bone-frame shelters. Black water splashing. Screams and clicks.
 - **The Sarks:** Flanking, ambushing. Cunning. Using terrain. Not mindless—worse.
-- **The Screicher:** The rust-feathered bird-thing in their path. Beak like an iron chisel. This is the set-piece fight.
+- **The Skrelving:** The rust-feathered bird-thing in their path. Beak like an iron chisel. This is the set-piece fight.
 
 ### Action Sequence (BRASS — Most Savage)
 
@@ -611,9 +611,9 @@ The heroes are broken—physically, emotionally. They've been driven down into t
 
 1. **Rhythm begins (drums):** The attack. Immediate. Violent.
 2. **Most savage battle:** Short sentences. Impact. Response. Impact.
-3. **Set-piece:** The Screicher. How do they get past it?
+3. **Set-piece:** The Skrelving. How do they get past it?
 4. **Enraged pursuit (plucking strings):** Sarks following. Not retreating.
-5. **The tower:** Corran reaches it. The lever. The spears retract.
+5. **The tower:** Machram reaches it. The lever. The spears retract.
 
 ### Thematic Anchors
 
@@ -623,8 +623,8 @@ The heroes are broken—physically, emotionally. They've been driven down into t
 ### Combat Notes
 
 - This is the action peak of Part II.
-- Marren's "muscle" role should shine here.
-- The Screicher fight is the anchor—build to it, resolve it decisively.
+- Vross of Muddenheim's "muscle" role should shine here.
+- The Skrelving fight is the anchor—build to it, resolve it decisively.
 
 ---
 
@@ -636,7 +636,7 @@ The heroes are broken—physically, emotionally. They've been driven down into t
 ### Questions Answered
 
 - Did they make it? → Yes. The path is open.
-- What now? → Back up. Face the Dolmn Kin again.
+- What now? → Back up. Face the Grundkholm again.
 
 ### Questions to Pose (for Section 12)
 
@@ -645,13 +645,13 @@ The heroes are broken—physically, emotionally. They've been driven down into t
 
 ### Character Actions/Emotions
 
-| Character | Action                                      | Emotion                     |
-| --------- | ------------------------------------------- | --------------------------- |
-| Corran    | Pulls the lever; watches the spears retract | Fierce satisfaction         |
-| Brennach  | Allows himself hope                         | Cautious joy                |
-| Sile      | Realizes what she must do                   | Determination crystallizing |
-| Marren    | A rare smile                                | Shared triumph              |
-| Drelvi    | Speaks the Dolmn Kin's maker's name         | Revelation                  |
+| Character           | Action                                      | Emotion                     |
+| ------------------- | ------------------------------------------- | --------------------------- |
+| Machram             | Pulls the lever; watches the spears retract | Fierce satisfaction         |
+| Drutch              | Allows himself hope                         | Cautious joy                |
+| Moldrick Phenn      | Realizes what she must do                   | Determination crystallizing |
+| Vross of Muddenheim | A rare smile                                | Shared triumph              |
+| Drelvi              | Speaks the Grundkholm's maker's name        | Revelation                  |
 
 ### Descriptions to Write
 
@@ -686,7 +686,7 @@ The heroes are broken—physically, emotionally. They've been driven down into t
 
 ### Questions Answered
 
-- How will they face the Dolmn Kin? → With a name. With ward-speech. Together.
+- How will they face the Grundkholm? → With a name. With ward-speech. Together.
 - What's the strategy? → Distraction and invocation.
 
 ### Questions to Pose (for Section 13)
@@ -696,18 +696,18 @@ The heroes are broken—physically, emotionally. They've been driven down into t
 
 ### Character Actions/Emotions
 
-| Character | Action                                                       | Emotion            |
-| --------- | ------------------------------------------------------------ | ------------------ |
-| Brennach  | Draws the guardian's attention                               | Acceptance of cost |
-| Sile      | Prepares the ward-speech; Drelvi guides                      | Focused terror     |
-| Corran    | Flanking; looking for the lever that lowers the chest-spears | Tactical           |
-| Marren    | Ready to charge                                              | Eager violence     |
-| Drelvi    | Providing the name; the connection                           | Last reserve spent |
+| Character           | Action                                                       | Emotion            |
+| ------------------- | ------------------------------------------------------------ | ------------------ |
+| Drutch              | Draws the guardian's attention                               | Acceptance of cost |
+| Moldrick Phenn      | Prepares the ward-speech; Drelvi guides                      | Focused terror     |
+| Machram             | Flanking; looking for the lever that lowers the chest-spears | Tactical           |
+| Vross of Muddenheim | Ready to charge                                              | Eager violence     |
+| Drelvi              | Providing the name; the connection                           | Last reserve spent |
 
 ### Descriptions to Write
 
 - **The Return:** Ascending back to the Warden's Rest. What's changed. What hasn't.
-- **The Dolmn Kin Waiting:** It knows they're coming. Standing in its alcove. Eyes darker than before.
+- **The Grundkholm Waiting:** It knows they're coming. Standing in its alcove. Eyes darker than before.
 - **The Dance:** Not combat yet. Movement. Positioning. Neither side committing.
 
 ### Sentence Flow Guidance
@@ -716,16 +716,16 @@ The heroes are broken—physically, emotionally. They've been driven down into t
 2. **Balance:** Victory sways. Could go either way.
 3. **Slow dance:** Detailed movement. Positioning. The space described through tactical consideration.
 4. **Cold conflict:** Tension without release. The moment before.
-5. **Close on readiness:** Marren, the muscle, ready. The finale is next.
+5. **Close on readiness:** Vross of Muddenheim, the muscle, ready. The finale is next.
 
 ### Thematic Anchors
 
-- **The old world:** The Dolmn Kin represents what was built. And what was lost.
+- **The old world:** The Grundkholm represents what was built. And what was lost.
 - **Complicity:** The heroes aren't here to destroy it. They're here to get past it. If possible.
 
 ### Stakes Clarification
 
-- The party doesn't need to kill the Dolmn Kin. They need to open the sealed gate.
+- The party doesn't need to kill the Grundkholm. They need to open the sealed gate.
 - But the guardian won't let them.
 - The ward-speech, if it works, might restore purpose—or at least hesitation.
 
@@ -762,26 +762,26 @@ The finale has internal structure:
 
 ### Character Actions/Emotions
 
-| Character | Action                                     | Emotion                   |
-| --------- | ------------------------------------------ | ------------------------- |
-| Brennach  | Holds the line; takes the blows            | Sacrificial determination |
-| Sile      | Speaks the ward-phrase; Ghastor's name     | Transcendence             |
-| Corran    | Gets to the lever; lowers the chest-spears | Opportunistic triumph     |
-| Marren    | The charge that creates the opening        | Violent joy               |
-| Drelvi    | Collapses after guiding Sile; spent        | Peaceful exhaustion       |
+| Character           | Action                                        | Emotion                   |
+| ------------------- | --------------------------------------------- | ------------------------- |
+| Drutch              | Holds the line; takes the blows               | Sacrificial determination |
+| Moldrick Phenn      | Speaks the ward-phrase; Ghastor's name        | Transcendence             |
+| Machram             | Gets to the lever; lowers the chest-spears    | Opportunistic triumph     |
+| Vross of Muddenheim | The charge that creates the opening           | Violent joy               |
+| Drelvi              | Collapses after guiding Moldrick Phenn; spent | Peaceful exhaustion       |
 
 ### The Three Gestures
 
-1. **Names:** Sile invokes Ghastor Thrice-Carved. The Dolmn Kin hesitates.
-2. **Fire:** Brennach's torch, held high. The old fear.
-3. **Iron:** Marren's blade. The covenant metal.
+1. **Names:** Moldrick Phenn invokes Ghastor Thrice-Carved. The Grundkholm hesitates.
+2. **Fire:** Drutch's torch, held high. The old fear.
+3. **Iron:** Vross of Muddenheim's blade. The covenant metal.
 
 ### Descriptions to Write
 
 - **Opening Texture (drums):** The Warden's Rest. Long description. Short follow-up.
 - **The Pause:** After the name is spoken. Everything stops.
 - **The Action (brass):** Combat resumes. Different now. The guardian is confused.
-- **The Gate:** Sile reaches it. Spiral carvings. The keyhole. No key—but a name.
+- **The Gate:** Moldrick Phenn reaches it. Spiral carvings. The keyhole. No key—but a name.
 - **The Opening:** What light comes through. What breath.
 
 ### Sentence Flow Guidance
@@ -796,8 +796,8 @@ The finale has internal structure:
 8. **Accumulation:** Building. Foes rally. Heroes press.
 9. **Gong moment:** The gate responds to the name. The earth shivers.
 10. **Climax:** Everything at once. Short, sharp sentences.
-11. **Final action (brass):** Marren's charge. Corran's lever. Sile's last word.
-12. **Resolution:** The gate opens. Light or dark beyond. The Dolmn Kin... stops.
+11. **Final action (brass):** Vross of Muddenheim's charge. Machram's lever. Moldrick Phenn's last word.
+12. **Resolution:** The gate opens. Light or dark beyond. The Grundkholm... stops.
 
 ### The Gate's Opening
 
@@ -810,7 +810,7 @@ The finale has internal structure:
 
 - **Memory wins:** A name, remembered, made the difference.
 - **Entropy held:** Not reversed. But held. For now.
-- **Recognition:** The Dolmn Kin, when the name was spoken, almost seemed to remember what it was for.
+- **Recognition:** The Grundkholm, when the name was spoken, almost seemed to remember what it was for.
 
 ### Closing Image Options
 
@@ -835,7 +835,7 @@ Lower Depths: Drowned Roots (Sarks)
         ↓
 Tower (Lever)
         ↓
-Return: Warden's Rest (Dolmn Kin)
+Return: Warden's Rest (Grundkholm)
         ↓
 Sealed Gate → Exit/Resolution
 ```
@@ -851,7 +851,7 @@ Sealed Gate → Exit/Resolution
 
 - [ ] Section 2: Sealed gate mentioned
 - [ ] Section 4: Drelvi's knowledge hinted
-- [ ] Section 6: The Dolmn Kin's hesitation possibility
+- [ ] Section 6: The Grundkholm's hesitation possibility
 - [ ] Section 7: Name as power demonstrated
 - [ ] Section 9: The plan crystallized
 - [ ] Section 11: Ghastor's name revealed

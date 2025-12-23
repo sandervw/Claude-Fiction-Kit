@@ -101,8 +101,6 @@ The Sarks are those who completed the Forgetting. They are the primary physical 
 - Individually weaker than a skilled warrior. Dangerous in numbers.
 - They do not fear death. They _do_ fear fire, and iron.
 
-**The horror:** Sometimes you recognize them. But your brother's face will never more recognize you.
-
 ---
 
 ### Trow (The Dark Ones)
@@ -125,37 +123,33 @@ If Sarks are the horde, The Dark Ones - Trow - are what Sarks become when they l
 - Killing one may require severing its connection to a community...
 - Possibly vulnerable to naming. If a shaman can discover who a Dark One was before it Forgot, that old name might sting. But this is theory, little-tried.
 
-**The Dread:** That change in the treeline - is it a Dark One, or only a broken branch? One can never me sure, and that is the terror.
-
 ---
 
 ## The Odd
 
-The old world stirred with things that were never men. Some were carved by shaman hands; others grew in the dark places where no compact held sway. As the wards fray, they wake — or breed — without restraint.
+The old world stirred with things that were never men. Some were carved by shaman hands; others grew in the dark places where no compact held sway.
+
+_Below are two sample monsters_
 
 ---
 
-### Kernwardens (The Jade-Carved)
+### Greenspire (They of Jade)
 
-Before the breaking, shamans carved gargoyles from sacred jade and gave them purpose through Ritual. The Kernwardens were shaped intention: to watch, to wait, to wake when boundaries were crossed. Now the Ritual frays, and so do they.
+In an older age, shamans carved gargoyles from jade-streaked and gave them purpose through Ritual. The Greenspire were shaped intention: to watch, to wait, to wake when boundaries were crossed.
 
 **Varieties:**
 
 - **Kestanes** — Hound-sized, angular, once perched at thresholds. Now they stir without reason, skittering in packs, lashing at sound.
-- **Gravelforms** — Sentinels, floating at a man's height. They patrol old corridors in slow circuits, grinding wings fluttering ceaselessly, the same routes they walked centuries ago.
-- **Dolmn Kin** — Rare. Vast. Twice a man's height, carved from red-veined stone. A Dolmn Kin is fought as one fights a collapsing wall: with distance and the wisdom to not be where it strikes.
-
-**The dread:** Forgetting not their purpose, yet they no longer remember who they were made to protect.
+- **Bhruggspire** — Sentinels, floating at a man's height. They patrol old corridors in slow circuits, grinding wings fluttering ceaselessly, the same routes they walked centuries ago.
+- **Grundkholm** — Rare. Vast. Twice a man's height, carved from red-veined stone. A Grundkholm is fought as one fights a collapsing wall: with distance and the wisdom to not be where it strikes.
 
 ---
 
-### Screichers (The Rust-Feathered)
+### Skrelvings (Rust-Feathered)
 
-Flightless birds of the deep places, tall as a man's chest, with beaks like iron chisels and feathers the color of dried blood. They hunt by sound and heat. A single Screicher is a nuisance. A flock is a death sentence.
+Flightless birds of the deep places, tall as a man's chest, with beaks like iron chisels and feathers the color of dried blood. They hunt by sound and heat. A single Skrelving is a nuisance. A flock is a death sentence.
 
-**The Redmaw:** When prey grows scarce, one Screicher feeds on its kin. It grows. Its feathers blacken. Its beak thickens to a war-pick. The Redmaw stands tall as a horse and remembers the taste of everything it has eaten.
-
-**The dread:** They do not eat carrion. They make it.
+**The Ruddyman:** When prey grows scarce, one Skrelving feeds on its kin. It grows. Its feathers blacken. Its beak thickens to a war-pick. The Ruddyman stands tall as a horse and remembers the taste of everything it has eaten.
 
 ---
 
@@ -218,7 +212,7 @@ Farmers, fishermen, artisans, sons and daughters, sires and grandsires. They do 
 
 ## Themes and Symbols
 
-- **Entropy.** The threat is indifferent. The world is a `river walking over its bed`. The Vormakhians do not need to hate man, and are not evil. They are only continuing on their way.
+- **Entropy.** The threat is indifferent. The world is a `river walking over its bed`. The Vormakhians do not hate man, and are not evil. They are only continuing on their way.
 - **Memory and Names.** You are your kin. Your memory. Every beast and monster has a body, but `man's lips alone can speak a name.`
 - **Complicity.** `Red King Tharn cut the bond`. But, his sin is everyone's. His sin is yours. His sin is your lover's. His sin was your grandsire's. His sin will be your children's.
 - **The Last Star of Night.** Civilization is a little light flickering in a black ocean. And like `the old star at the new day's dawn`, that star dims by the hour.
