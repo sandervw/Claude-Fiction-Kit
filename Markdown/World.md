@@ -6,17 +6,17 @@
 
 - _Unknown Bard_
 
-The iron has lost its edge, the palisade falls to ruin, and Nature once again has the better of men. Not by fire, steel, the methods of war, but through erasure. The wind erodes the old menhyrs and cairns, monuments that once held the boundaries between civilization and the primordial forces beneath it. A covenant was broken. The Vormakhians, who never truly left, come again: not as armies, but as an inhospitable land, a sea swallowing the coasts, a forests stretching its roots and thorns. The gates of the raths are not hewn by the axe. They are reclaimed: sinking into the bog, forgotten by the world.
+The iron has lost its edge, the palisade falls to ruin, and Nature once again has the better of men. Not by fire, steel, the methods of war, but through erasure. The wind erodes the old menhyrs and kerns, monuments that once held the boundaries between civilization and the primordial forces beneath it. A covenant was broken. The Vormakhians, who never truly left, come again: not as armies, but as an inhospitable land, a sea swallowing the coasts, a forests stretching its roots and thorns. The gates of man are not hewn by the axe. They are reclaimed, forgotten by the world.
 
 Humanity huddles round a final few fires: hill-forts with walls half-fallen to ruin, villages clustered around ritual circles of browning grass, island holds cut off from the mainland. The druids who understood the old wards are dying, their knowledge fading. The kings squabble over what remains. And in the wild places, the Lost Ones wait. Human once, no longer. The world is forgetting mankind, and mankind forgets itself.
 
 ---
 
-## Recession, Not Invasion
+## A Regressive Age
 
 The Vormakhians are _rising_.
 
-The sea swallows the coast in fingerwidths, season by season. The forests remember, sending roots through hearthstones and thorns through thatch. The bogs drink the fields, and the black water gives nothing back. The land is becoming what it was before the first fence-post, the first furrow: wild, vast and indifferent.
+The sea eats the shoreline, in handspans, season by season; or else it vanishes suddenly in the dark of night, and leaves uncovered the beslimed and half-digested carcasses of strange ships, or an abyssal plain stripped naked to the parching eye of the sun and dotted with mounds built of worked, ruddy stanes. The forests remember, sending roots through hearthstones and thorns through thatch. The bogs drink the fields, and the black water gives nothing back. The land is becoming what it was before the first fence-post, the first furrow: wild, vast and indifferent.
 
 There are no banners on the horizon, no war-horns in the passes. The horror of this age is quieter: the slow comprehension that man will not last, and that Nature comes for her stolen throne.
 
@@ -129,11 +129,41 @@ If Sarks are the horde, The Dark Ones - Trow - are what Sarks become when they l
 
 ---
 
+## The Odd
+
+The old world stirred with things that were never men. Some were carved by druid hands; others grew in the dark places where no compact held sway. As the wards fray, they wake — or breed — without restraint.
+
+---
+
+### Kernwardens (The Jade-Carved)
+
+Before the breaking, druids carved gargoyles from sacred jade and gave them purpose through Ritual. The Kernwardens were shaped intention: to watch, to wait, to wake when boundaries were crossed. Now the Ritual frays, and so do they.
+
+**Varieties:**
+
+- **Kestanes** — Hound-sized, angular, once perched at thresholds. Now they stir without reason, skittering in packs, lashing at sound.
+- **Gravelforms** — Sentinels, floating at a man's height. They patrol old corridors in slow circuits, grinding wings fluttering ceaselessly, the same routes they walked centuries ago.
+- **Dolmn Kin** — Rare. Vast. Twice a man's height, carved from red-veined stone. A Dolmn Kin is fought as one fights a collapsing wall: with distance and the wisdom to not be where it strikes.
+
+**The dread:** Forgetting not their purpose, yet they no longer remember who they were made to protect.
+
+---
+
+### Screichers (The Rust-Feathered)
+
+Flightless birds of the deep places, tall as a man's chest, with beaks like iron chisels and feathers the color of dried blood. They hunt by sound and heat. A single Screicher is a nuisance. A flock is a death sentence.
+
+**The Redmaw:** When prey grows scarce, one Screicher feeds on its kin. It grows. Its feathers blacken. Its beak thickens to a war-pick. The Redmaw stands tall as a horse and remembers the taste of everything it has eaten.
+
+**The dread:** They do not eat carrion. They make it.
+
+---
+
 ## Factions
 
 ### The Druids
 
-The druids are they who remember an echo of Ritual. They maintain the genealogies, and attend the cairns. Their knowledge is fragmentary - much was lost in the plague that followed the broken compact. They know enough to keep the remaining seams from coming unstitched, and that is all they know.
+The druids are they who remember an echo of Ritual. They maintain the genealogies, and attend the kerns. Their knowledge is fragmentary - much was lost in the plague that followed the broken compact. They know enough to keep the remaining seams from coming unstitched, and that is all they know.
 
 **What they do:**
 

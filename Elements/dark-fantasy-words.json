@@ -375,8 +375,33 @@
     "meaning": "Stone storage structure with permeable walls for drying, found on St Kilda"
   },
   {
+    "term": "Vormakhian",
+    "category": "creatures",
+    "meaning": "primordial, elemental, ancient, abstract powers of nature; the cataclysm of the world"
+  },
+  {
+    "term": "The Forgetting",
+    "category": "affliction",
+    "meaning": "a gradual process by which a human loses their memory and identity"
+  },
+  {
     "term": "Sark",
     "category": "creatures",
-    "meaning": "a human who has Forgotten"
+    "meaning": "a human who has undergone The Forgetting, becoming feral and animalistic"
+  },
+  {
+    "term": "The Lost Ones",
+    "category": "creatures",
+    "meaning": "another term for Sarks"
+  },
+  {
+    "term": "Trow",
+    "category": "creatures",
+    "meaning": "a Sark that has evolved, finding equilibrium with the Vormakhian energies; subtler, vaguer, and more dangerous than a Sark"
+  },
+  {
+    "term": "The Dark Ones",
+    "category": "creatures",
+    "meaning": "Another term for Trow"
   }
 ]

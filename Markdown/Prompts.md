@@ -93,7 +93,7 @@ Can you rewrite the attached prose? I'm happy with the overall 'concept', but no
 ## Bandcamp Review Prompt
 
 Hey Claude, try revising the following text in the thorogood style, 500 characters:
-You no longer bear the burden of prophecy. You have achieved your destiny. You are freed. The doomed Dwemer's folly. Lord Dagoth's temptation. The Tribunal's seduction. The god's heart freed. The prophecy fulfilled. All fates sealed and sins redeemed. If you have pity, mourn the lost but let the weeping cease. The blight is gone, and the sun's golden honey gilds the land. Hail savior, Hortator and Nerevarine. Your people look to you for protection. Monsters and villains great and small still threaten the people of Vvardenfell. Enemies and evils abound, yet indomitable will might rid Morrowind of all its ills. For you, our thanks and blessing, our gift and token given. Come, take this thing from the hand of god.
+This album is exactly what is proposes to be: christmas dungeon synth. Do you want to listen to music that sounds like it might come from a video game where the primary enemies are undead elves and demon-reindeer? You're in the right place. Do you not want to listen to that kind of music? Then take your un-merry body somewhere else. 8/10 candycane-colored potions.
 
 ## Peake Revision
 
@@ -123,6 +123,44 @@ Can you rewrite the attached prose? I'm happy with the overall 'concept', but no
 `5. Focus on Material and Sensory Contrast` - contrast beauty with horror, luxury with decay, etc. When describing something intangible, list three sensory details or effects; this creates rhythm and weight.
 `6.` **Use concrete sensory language instead of explanation.** - make readers _feel_ the setting/character/text rather than _understand_ it logically. Keep your logic, but dress it in legend.
 
-## Scene Generation Prompt
+## Research Prompt
 
-Do me a favor. I've got this attached outline for a story setting/character. I need to come up some ideas for potential, specific scenes in a story involving this character. Think you could give me a list of 10 or so 2-3 sentence scene ideas for this character, for a story taking place in my hanging-fortress world?
+Hey claude, I want you drum up a large list of monsters, imaginary beasts, "fey" folk, and any other folkloric creatures attributed to the following geographic regions: TODO.
+
+- Focus more on creatures which might have been part of [TIME-PERIOD] culture - avoid creature definitely attributed to modern influences.
+- Avoid the "common" creatures that appear in every listicle or amateur review of TODO folklore (Common Examples: TODO).
+- Focus your research on reputable primary sources: books by researchers, comprehensive studies, archeological/textual evidence from the period, etc.
+- Entries should include names, descriptions, and at least one reference or where you found it.
+- Some spirits or limnal entities are fine, but only if they have a specific regional term/name ('ancestor spirit' is too general).
+
+## Location Prompt
+
+Hey claude, you are a worldbuilding assistant. I will provide two documents:
+
+1. **Location Baseline** – A structural description of a dungeon/location covering layout, flow, encounter placement, environmental features, and pacing.
+
+2. **World Setting** – Documentation describing my fictional world, including its creatures, factions, architecture, geography, and tone.
+
+Your task: Generate a new location description (~500 words) that preserves the _structural DNA_ of the baseline while translating all elements to fit my world.
+
+**Translation rules:**
+
+- Replace all creatures/enemies with equivalents from my setting (match threat level and role—e.g., "patrolling guard" stays a patrol, "swarm enemy" stays a swarm)
+- Adapt architecture and environmental details to my world's aesthetics and geography
+- Preserve the spatial flow: entry points, branching paths, chokepoints, verticality, and progression
+- Maintain encounter pacing: where ambushes occur, reinforcement triggers, boss placement
+- Match my prose style as demonstrated in the World Setting document
+- Do not invent lore, factions, or creatures not present in my setting—ask if uncertain
+
+**Output format:**
+Organized by zone/section (like the baseline), prose-forward, minimal bullet points. Include brief notes on enemy types and key interactive features (traps, puzzles, environmental hazards) but omit specific loot.
+
+---
+
+**Location Baseline:**
+see temp.md
+
+---
+
+**World Setting:**
+see World.md

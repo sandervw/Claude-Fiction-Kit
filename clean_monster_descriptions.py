@@ -109,7 +109,7 @@ Monsters:
 
         try:
             response = client.messages.create(
-                model="claude-haiku-4-5-20251001",  # Fast and cheap
+                model="claude-haiku-4-5",  # Fast and cheap
                 max_tokens=2000,
                 messages=[{"role": "user", "content": prompt}]
             )
