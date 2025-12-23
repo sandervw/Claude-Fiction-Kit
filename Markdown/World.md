@@ -8,7 +8,7 @@
 
 The iron has lost its edge, the palisade falls to ruin, and Nature once again has the better of men. Not by fire, steel, the methods of war, but through erasure. The wind erodes the old menhyrs and kerns, monuments that once held the boundaries between civilization and the primordial forces beneath it. A covenant was broken. The Vormakhians, who never truly left, come again: not as armies, but as an inhospitable land, a sea swallowing the coasts, a forests stretching its roots and thorns. The gates of man are not hewn by the axe. They are reclaimed, forgotten by the world.
 
-Humanity huddles round a final few fires: hill-forts with walls half-fallen to ruin, villages clustered around ritual circles of browning grass, island holds cut off from the mainland. The druids who understood the old wards are dying, their knowledge fading. The kings squabble over what remains. And in the wild places, the Lost Ones wait. Human once, no longer. The world is forgetting mankind, and mankind forgets itself.
+Humanity huddles round a final few fires: hill-forts with walls half-fallen to ruin, villages clustered around ritual circles of browning grass, island holds cut off from the mainland. The shamans who understood the old wards are dying, their knowledge fading. The kings squabble over what remains. And in the wild places, the Lost Ones wait. Human once, no longer. The world is forgetting mankind, and mankind forgets itself.
 
 ---
 
@@ -24,7 +24,7 @@ There are no banners on the horizon, no war-horns in the passes. The horror of t
 
 ## The Broken Compact
 
-In the days before the first crops were sewn, there began a covenant. The old druids struck a balance with the Vormakhian world. A frontier were traced in stone and words, and Ritual bound the seams. The standing stones were anchors, pinning back the pitiless tide of what lay beneath.
+In the days before the first crops were sewn, there began a covenant. The old shamans struck a balance with the Vormakhian world. A frontier were traced in stone and words, and Ritual bound the seams. The standing stones were anchors, pinning back the pitiless tide of what lay beneath.
 
 Red King Tharn broke that covenant.
 
@@ -35,7 +35,7 @@ The stories fracture here, each teller certain of a different sin:
 - He spoke: an unspeakable name
 - He forgot: failed to discharge the Ritual at the turning of the year, let the seams come unstitched, let words go unspoken
 
-The exact sin matters little. The druids - they who might have redeemed it - died in the plague that followed within a summer: a plague of conscience, or mere ill luck. With those druids went the words, the names, the shape of Ritual.
+The exact sin matters little. The shamans - they who might have redeemed it - died in the plague that followed within a summer: a plague of conscience, or mere ill luck. With those shamans went the words, the names, the shape of Ritual.
 
 The wards are unseamed.
 
@@ -67,7 +67,7 @@ What man fights are the symptoms: the things that emerge as the wild reclaims th
 
 What makes humans human in this world is memory. The kin fables, the folk who know your face. The Vormakhians erode these things. The world is becoming a place where lineage cannot last, like writing on water.
 
-In the old tradition, names carried genuine power. Druids preserved genealogies because lineage was an anchor to the soil. To know someone's name was to plot their existence. Losing your name; lose your Self.
+In the old tradition, names carried genuine power. Shamans preserved genealogies because lineage was an anchor to the soil. To know someone's name was to plot their existence. Losing your name; lose your Self.
 
 **The stages of Forgetting:**
 
@@ -123,7 +123,7 @@ If Sarks are the horde, The Dark Ones - Trow - are what Sarks become when they l
 - Difficult to fight, difficult to find. Engaging one is like trying to strike mist.
 - Can be driven off by firelight, recitation of kin lineages, the speaking of friends' names. Reinforcing identity weakens their grip.
 - Killing one may require severing its connection to a community...
-- Possibly vulnerable to naming. If a druid can discover who a Dark One was before it Forgot, that old name might sting. But this is theory, little-tried.
+- Possibly vulnerable to naming. If a shaman can discover who a Dark One was before it Forgot, that old name might sting. But this is theory, little-tried.
 
 **The Dread:** That change in the treeline - is it a Dark One, or only a broken branch? One can never me sure, and that is the terror.
 
@@ -131,13 +131,13 @@ If Sarks are the horde, The Dark Ones - Trow - are what Sarks become when they l
 
 ## The Odd
 
-The old world stirred with things that were never men. Some were carved by druid hands; others grew in the dark places where no compact held sway. As the wards fray, they wake — or breed — without restraint.
+The old world stirred with things that were never men. Some were carved by shaman hands; others grew in the dark places where no compact held sway. As the wards fray, they wake — or breed — without restraint.
 
 ---
 
 ### Kernwardens (The Jade-Carved)
 
-Before the breaking, druids carved gargoyles from sacred jade and gave them purpose through Ritual. The Kernwardens were shaped intention: to watch, to wait, to wake when boundaries were crossed. Now the Ritual frays, and so do they.
+Before the breaking, shamans carved gargoyles from sacred jade and gave them purpose through Ritual. The Kernwardens were shaped intention: to watch, to wait, to wake when boundaries were crossed. Now the Ritual frays, and so do they.
 
 **Varieties:**
 
@@ -161,9 +161,9 @@ Flightless birds of the deep places, tall as a man's chest, with beaks like iron
 
 ## Factions
 
-### The Druids
+### The Shamans
 
-The druids are they who remember an echo of Ritual. They maintain the genealogies, and attend the kerns. Their knowledge is fragmentary - much was lost in the plague that followed the broken compact. They know enough to keep the remaining seams from coming unstitched, and that is all they know.
+The shamans are they who remember an echo of Ritual. They maintain the genealogies, and attend the kerns. Their knowledge is fragmentary - much was lost in the plague that followed the broken compact. They know enough to keep the remaining seams from coming unstitched, and that is all they know.
 
 **What they do:**
 
@@ -178,7 +178,7 @@ The druids are they who remember an echo of Ritual. They maintain the genealogie
 - Others turn desperate, willing to bargain with certain secret powers
 - A few believe that the age _should_ end; man is dying - mercy is easing the passage rather than prolonging the suffering
 
-**The truth about druids:** They are kin. Invaluable. Overworked. Not always trustworthy. A druid's motives may be pure, or otherwise. There are too few of them for a man to be picky when he requires one's service or council, and that makes druid dangerous.
+**The truth about shamans:** They are kin. Invaluable. Overworked. Not always trustworthy. A shaman's motives may be pure, or otherwise. There are too few of them for a man to be picky when he requires one's service or council, and that makes shaman dangerous.
 
 ---
 
@@ -190,7 +190,7 @@ The old high kingship fell to pieces along with the compact. What remains are pe
 
 - rule settlements.
 - Compete for resources. Timber, iron, grain, people. There is never enough of anything.
-- Seek alliances. A smart man knows he cannot survive alone. They court druids, and bandy terms with other lords.
+- Seek alliances. A smart man knows he cannot survive alone. They court shamans, and bandy terms with other lords.
 
 **Differing Motives:**
 
@@ -198,7 +198,7 @@ The old high kingship fell to pieces along with the compact. What remains are pe
 - Some fight for what others have, for survival justifies any means
 - Some fight the wild itself - the mad ones, or the foolish
 
-**The truth about warlords:** Strength does matter. Sarks bleed. Walls can be held. Yet the enemy they face is not a conventional one. The smartest warlords seek the help of the druids, or anything that might preserve what they have for just one more winter.
+**The truth about warlords:** Strength does matter. Sarks bleed. Walls can be held. Yet the enemy they face is not a conventional one. The smartest warlords seek the help of the shamans, or anything that might preserve what they have for just one more winter.
 
 ---
 
@@ -209,7 +209,7 @@ Farmers, fishermen, artisans, sons and daughters, sires and grandsires. They do 
 **How they survive:**
 
 - Huddling behind raised earthworks, within sacred sites, around any defensible place
-- Paying tribute for protection, from kings or druids, from warchiefs of masters of words
+- Paying tribute for protection, from kings or shamans, from warchiefs of masters of words
 - Practicing small, half-remember observances: reciting kin-names before suppers, spreading ginger and ashes before the hovel door, always travelling in company
 
 **The stakes:** Common Kinfolk are the ones who must be saved or forgotten. While they endure, so do the world of man. But if thy sisters and thy brothers, thy mothers and thy fathers, and thy grandfathers, and even thy grandfathers' grandfathers, and all thy children - if these were forgotten, what is left worth saving?

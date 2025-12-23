@@ -17,14 +17,14 @@ Per your Rite of Spring template, elements map to orchestral sections:
 | **Foe (Minor)**   | Strings (plucking)         | Moldrick's raiders                               |
 | **Foe (Master)**  | Strings (bowed) + Trumpets | The Dolmn Kin                                    |
 | **Arena/Texture** | Drums                      | The Soutrenn itself—architecture, weather, decay |
-| **Magic/Action**  | Brass                      | Combat, druidic wards, jade guardian activation  |
+| **Magic/Action**  | Brass                      | Combat, shamanic wards, jade guardian activation |
 
 ### Suggested Hero Party
 
 | Name                  | Role                      | "Instrument"        | Arc                                                        |
 | --------------------- | ------------------------- | ------------------- | ---------------------------------------------------------- |
 | **Brennach**          | Leader, aging warrior     | Bassoon (main hero) | Carries guilt; knew Mother Drelvi's husband, owes a debt   |
-| **Sile**              | Young druid-in-training   | Clarinet            | Knows fragments of ward-lore; represents hope/knowledge    |
+| **Sile**              | Young shaman-in-training  | Clarinet            | Knows fragments of ward-lore; represents hope/knowledge    |
 | **Corran**            | Scout, Kinfolk hunter     | Flute               | Pragmatic survivor; teetering near Forgetting himself      |
 | **[Optional] Marren** | Muscle, mute since trauma | Bass clarinet       | Communicates through action; "bubbly excitement" in finale |
 
@@ -200,7 +200,7 @@ Per your Rite of Spring template, elements map to orchestral sections:
 ### Descriptions to Write (DRUMS — Major Texture)
 
 - **The Stone Steps:** Plunging into cool dark. Temperature drop. Sound changes.
-- **The Ward-Hall:** Carved spirals, centuries of druid work, now cracked and molded. Shattered Kestanes littering the floor—jade hound-shapes with fractured limbs.
+- **The Ward-Hall:** Carved spirals, centuries of shaman work, now cracked and molded. Shattered Kestanes littering the floor—jade hound-shapes with fractured limbs.
 - **The Atmosphere:** Guttering torchlight. Echoes. The smell of old stone and something fouler beneath.
 
 ### Action Sequence (BRASS)
@@ -259,7 +259,7 @@ Establish clearly:
 
 ### Descriptions to Write
 
-- **The Cell:** Small, damp, a druid circle scratched into the floor with fingernails. Drelvi's attempt to maintain herself.
+- **The Cell:** Small, damp, a shaman circle scratched into the floor with fingernails. Drelvi's attempt to maintain herself.
 - **Drelvi:** Aged beyond her years. Eyes that have seen too much. She knows names—speaks them like prayers.
 - **The False Victory:** For a moment, it seems simple. Get her out. Go.
 
@@ -391,7 +391,7 @@ Establish clearly:
 
 ### Thematic Anchors
 
-- **The broken compact:** This guardian was made by druids. It protected something. Now it's just... on.
+- **The broken compact:** This guardian was made by shamans. It protected something. Now it's just... on.
 - **Entropy:** Even this magnificent thing is running down. Cracks in its jade. Movements not quite smooth.
 
 ### Atmosphere Notes
@@ -450,7 +450,7 @@ Establish clearly:
 
 ### Thematic Anchors
 
-- **Names have power:** Drelvi's invocation of an old name (the druid who made this guardian?) creates a moment. Not enough, but something.
+- **Names have power:** Drelvi's invocation of an old name (the shaman who made this guardian?) creates a moment. Not enough, but something.
 - **Defeat:** This must feel earned. The Dolmn Kin is beyond them. For now.
 
 ### Transition to Part II
@@ -523,7 +523,7 @@ The heroes are broken—physically, emotionally. They've been driven down into t
 ### Questions Answered
 
 - What lives here? → Sarks. The Lost Ones.
-- Is there hope? → A fragment. The sealed gate. An old druidic key.
+- Is there hope? → A fragment. The sealed gate. An old shamanic key.
 
 ### Questions to Pose (for Section 10)
 
@@ -803,7 +803,7 @@ The finale has internal structure:
 
 - **Don't fully reveal what's behind.** This is the sequel hook.
 - Something breathing. Slow. Patient. But not hostile?
-- Or: old druid texts. The knowledge to restore the compact.
+- Or: old shaman texts. The knowledge to restore the compact.
 - Or: simply an exit. Emerging west of the compound beneath a darker sky.
 
 ### Thematic Resolution

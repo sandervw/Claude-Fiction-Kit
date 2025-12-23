@@ -20,7 +20,7 @@ The settlement clings to a limestone islet in the middle of Loch Mórann, access
 
 Brennach rules from a roundhouse whose thatch has gone grey with damp. He is a thick-armed man who once led raids on the mainland; now he spends his days reinforcing the causeway timbers and rationing grain. His axe hangs above the hearthfire, untouched for two seasons. There is nothing left worth raiding, and no one comes to trade.
 
-The druid Síle keeps the names. Each evening before the communal meal, she recites the lineages of every resident—a wavering litany that takes longer each month, as she must now speak for the dead as well as the living. Her fingers are stained black from the oak-gall ink she uses to mark genealogies onto scraped hide. She insists the children listen. She insists they repeat. The youngest, a boy called Faolán, mouths the words but his eyes slide toward the water, watching something none of the adults acknowledge.
+The shaman Síle keeps the names. Each evening before the communal meal, she recites the lineages of every resident—a wavering litany that takes longer each month, as she must now speak for the dead as well as the living. Her fingers are stained black from the oak-gall ink she uses to mark genealogies onto scraped hide. She insists the children listen. She insists they repeat. The youngest, a boy called Faolán, mouths the words but his eyes slide toward the water, watching something none of the adults acknowledge.
 
 The uncanny thing: the fish have stopped coming. Not scarce—gone. The loch surface lies mirror-flat most days, undisturbed by fin or ripple. Yet each morning, Cáit the net-mender finds her lines heavy with something. Waterlogged cloth. A leather shoe. Once, a carved wooden figure so worn by the black water that its features had smoothed to nothing. She buries these finds behind the roundhouse and speaks of them to no one, though Síle has noticed the fresh-turned earth and says nothing either.
 
@@ -48,7 +48,7 @@ The settlement clings to a limestone islet in Loch Mórann, reached only by a ca
 
 Seventeen souls remain—down from forty-three when the warlord Brennach mac Coire declared this place a refuge, six winters past. He rules from a roundhouse whose thatch has gone grey with damp, a thick-armed man who once led raids on the mainland. Now he reinforces timbers and rations grain. His axe hangs above the hearthfire, untouched two seasons. "What cannot be taken cannot be kept."
 
-The druid Síle keeps the names. Each evening she recites every lineage—a wavering litany growing longer each month, for she must now speak for the dead as well as the living. Her fingers are stained black from oak-gall ink. She insists the children listen. Repeat. The youngest, Faolán, mouths the words but his eyes slide toward the water, watching something none of the adults acknowledge.
+The shaman Síle keeps the names. Each evening she recites every lineage—a wavering litany growing longer each month, for she must now speak for the dead as well as the living. Her fingers are stained black from oak-gall ink. She insists the children listen. Repeat. The youngest, Faolán, mouths the words but his eyes slide toward the water, watching something none of the adults acknowledge.
 
 The fish have stopped coming. Not scarce—gone. The loch surface lies mirror-flat, undisturbed by fin or ripple. Yet each morning, Cáit the net-mender finds her lines heavy. Waterlogged cloth. A leather shoe. Once, a carved figure so worn by the black water its features had smoothed to nothing. She buries these finds behind the roundhouse and speaks of them to no one.
 
@@ -70,7 +70,7 @@ The settlement clings to a limestone islet in Loch Mórànn, reached only by a c
 
 Seventeen souls remain—down from forty-three when the warlord Vardrek declared this place a refuge, six winters past. He rules from a roundhouse whose thatch has gone grey with damp, a thick-armed man who once led raids on the mainland. Now he reinforces timbers and rations grain. His axe hangs above the hearthfire, untouched two seasons. "What cannot be taken cannot be kept."
 
-The druid Gellandrixa keeps the names. Each evening she recites every lineage—a wavering litany growing longer each month, for she must now speak for the dead as well as the living. Her fingers are stained black from oak-gall ink. She insists the children listen. Repeat. The youngest, Grundvik from Lowmire, mouths the words but his eyes slide toward the water, watching something none of the adults acknowledge.
+The shaman Gellandrixa keeps the names. Each evening she recites every lineage—a wavering litany growing longer each month, for she must now speak for the dead as well as the living. Her fingers are stained black from oak-gall ink. She insists the children listen. Repeat. The youngest, Grundvik from Lowmire, mouths the words but his eyes slide toward the water, watching something none of the adults acknowledge.
 
 The fish have stopped coming. Not scarce—gone. The loch surface lies mirror-flat, undisturbed by fin or ripple. Yet each morning, Phollimbra Dess the net-mender finds her lines heavy. Waterlogged cloth. A leather shoe. Once, a carved figure so worn by the black water its features had smoothed to nothing. She buries these finds behind the roundhouse and speaks of them to no one.
 
@@ -92,7 +92,7 @@ The settlement clings to a limestone islet in Lake Dremling, reached only by a c
 
 Seventeen souls remain, down from forty-three when the warlord Vardrek declared this krannogg a refuge, six winters past. He rules from a rhundhaus whose thatch has gone grey with damp, a thick-armed man who once led raids on the mainland. Now he reinforces timbers and rations grain. His axe hangs above the hearthfire, untouched two seasons.
 
-The druid Gellandrixa keeps the names. Each evening she recites every lineage—a wavering litany growing longer each month, for she must now speak for the dead as well as the living. Her fingers are stained black from oak-gall ink. She insists the children listen. Repeat. The youngest, Grundvik from Dhallmire, mouths the words but his eyes slide toward the water, watching something none of the adults acknowledge.
+The shaman Gellandrixa keeps the names. Each evening she recites every lineage—a wavering litany growing longer each month, for she must now speak for the dead as well as the living. Her fingers are stained black from oak-gall ink. She insists the children listen. Repeat. The youngest, Grundvik from Dhallmire, mouths the words but his eyes slide toward the water, watching something none of the adults acknowledge.
 
 The fish have stopped coming. Not scarce, gone. The lake surface lies mirror-flat, undisturbed by fin or ripple. Yet each morning, Phollimbra Dess the net-mender finds her lines heavy. Waterlogged cloth. A leather shoe. Once, a figure carved from the stone of some passaj grav, so worn by the black water its features had smoothed to nothing. She buries these finds behind the rhundhaus and speaks of them to no one.
 

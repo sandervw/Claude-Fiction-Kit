@@ -54,9 +54,9 @@ A hill-fort gone to ruin—two longhouses with collapsed thatch, a pair of watch
 
 #### Upper Delve (The Old Ward-Hall)
 
-Stone steps descend into cool dark. The walls bear carved spirals—druidic work, centuries old—now cracked and dark with mold. Shattered **Kestanes** litter the corridor: jade hound-shapes with fractured limbs, their purpose long exhausted. Two raiders crouch near a guttering torch ahead, arguing over a stolen ring.
+Stone steps descend into cool dark. The walls bear carved spirals—shamanic work, centuries old—now cracked and dark with mold. Shattered **Kestanes** litter the corridor: jade hound-shapes with fractured limbs, their purpose long exhausted. Two raiders crouch near a guttering torch ahead, arguing over a stolen ring.
 
-The passage branches. North: a barred door (key on a sleeping guard) leads to a cell where **Mother Aelwen**, an aging druid, awaits ransom or rescue. South: a ramp descends to a vaulted chamber where the wards have fully failed. Here, Kestanes have reawakened and turned on the raiders who disturbed them. Combat is already joined when you arrive—two bandits on each raised walkway, two Kestanes skittering below alongside two more desperate fighters. _The jade guardians click and scrape across flagstones slick with old rain._
+The passage branches. North: a barred door (key on a sleeping guard) leads to a cell where **Mother Aelwen**, an aging shaman, awaits ransom or rescue. South: a ramp descends to a vaulted chamber where the wards have fully failed. Here, Kestanes have reawakened and turned on the raiders who disturbed them. Combat is already joined when you arrive—two bandits on each raised walkway, two Kestanes skittering below alongside two more desperate fighters. _The jade guardians click and scrape across flagstones slick with old rain._
 
 Beyond, corridors wind through halls where **Gravelforms** drift in slow, grinding circuits—floating sentinels trailing dust, their jade wings humming a sound felt more than heard. Ceiling scuttles disgorge more Kestanes as you pass. A spear-trap gauntlet blocks the way forward: six pressure-plates requiring careful sequencing.
 
@@ -76,7 +76,7 @@ An exit lift returns to the surface, emerging west of the ruined compound beneat
 
 ---
 
-**Key Interactive Features:** Spear-trap sequencing puzzle (Upper Delve); tripwire deadfalls (Lower Delve); boss-arena lever; sealed Vormakhian gate requiring a druidic key-item.
+**Key Interactive Features:** Spear-trap sequencing puzzle (Upper Delve); tripwire deadfalls (Lower Delve); boss-arena lever; sealed Vormakhian gate requiring a shamanic key-item.
 
 ## Revised Prose
 
@@ -99,9 +99,9 @@ A hill-fort gone to ruin—two longhouses with collapsed thatch, watchtowers lis
 
 #### Upper Delve (The Old Ward-Hall)
 
-Stone steps descend into cool dark. The walls bear carved spirals—druidic work, centuries old—now cracked and black with mold. Shattered **Kestanes** litter the corridor: jade hound-shapes with fractured limbs. Two raiders crouch near a guttering torch, arguing over a stolen ring.
+Stone steps descend into cool dark. The walls bear carved spirals—shamanic work, centuries old—now cracked and black with mold. Shattered **Kestanes** litter the corridor: jade hound-shapes with fractured limbs. Two raiders crouch near a guttering torch, arguing over a stolen ring.
 
-The passage branches. North: a barred door (key on a sleeping guard) leads to a cell where **Mother Aelwen**, an aging druid, awaits ransom or rescue. South: a ramp descends to a vaulted chamber where the wards have bled dry. Kestanes have reawakened and turned on the raiders who disturbed them. Two bandits hold each raised walkway; two jade guardians click and scrape across flagstones slick with old rain, two more fighters already bleeding below.
+The passage branches. North: a barred door (key on a sleeping guard) leads to a cell where **Mother Aelwen**, an aging shaman, awaits ransom or rescue. South: a ramp descends to a vaulted chamber where the wards have bled dry. Kestanes have reawakened and turned on the raiders who disturbed them. Two bandits hold each raised walkway; two jade guardians click and scrape across flagstones slick with old rain, two more fighters already bleeding below.
 
 Beyond, corridors wind through halls where **Gravelforms** drift in slow, grinding circuits—floating sentinels trailing dust, jade wings humming a sound felt in the teeth. Ceiling scuttles disgorge more Kestanes as you pass. A spear-trap gauntlet blocks the way forward: six pressure-plates requiring careful sequencing.
 
@@ -121,7 +121,7 @@ An exit lift returns to the surface, emerging west of the compound beneath a sky
 
 ---
 
-**Key Interactive Features:** Spear-trap sequencing puzzle (Upper Delve); tripwire deadfalls (Lower Delve); boss-arena lever; sealed Vormakhian gate requiring a druidic key-item.
+**Key Interactive Features:** Spear-trap sequencing puzzle (Upper Delve); tripwire deadfalls (Lower Delve); boss-arena lever; sealed Vormakhian gate requiring a shamanic key-item.
 
 ## Renamed Characters
 
@@ -139,9 +139,9 @@ A hill-fort gone to ruin—two longhouses with collapsed thatch, watchtowers lis
 
 #### Upper Delve (The Old Ward-Hall)
 
-Stone steps descend into cool dark. The walls bear carved spirals—druidic work, centuries old—now cracked and black with mold. Shattered **Kestanes** litter the corridor: jade hound-shapes with fractured limbs. Two raiders crouch near a guttering torch, arguing over a stolen ring.
+Stone steps descend into cool dark. The walls bear carved spirals—shamanic work, centuries old—now cracked and black with mold. Shattered **Kestanes** litter the corridor: jade hound-shapes with fractured limbs. Two raiders crouch near a guttering torch, arguing over a stolen ring.
 
-The passage branches. North: a barred door (key on a sleeping guard) leads to a cell where **Mother Drelvi**, an aging druid, awaits ransom or rescue. South: a ramp descends to a vaulted chamber where the wards have bled dry. Kestanes have reawakened and turned on the raiders who disturbed them. Two bandits hold each raised walkway; two jade guardians click and scrape across flagstones slick with old rain, two more fighters already bleeding below.
+The passage branches. North: a barred door (key on a sleeping guard) leads to a cell where **Mother Drelvi**, an aging shaman, awaits ransom or rescue. South: a ramp descends to a vaulted chamber where the wards have bled dry. Kestanes have reawakened and turned on the raiders who disturbed them. Two bandits hold each raised walkway; two jade guardians click and scrape across flagstones slick with old rain, two more fighters already bleeding below.
 
 Beyond, corridors wind through halls where **Gravelforms** drift in slow, grinding circuits—floating sentinels trailing dust, jade wings humming a sound felt in the teeth. Ceiling scuttles disgorge more Kestanes as you pass. A spear-trap gauntlet blocks the way forward: six pressure-plates requiring careful sequencing.
 
@@ -161,7 +161,7 @@ An exit lift returns to the surface, emerging west of the compound beneath a sky
 
 ---
 
-**Key Interactive Features:** Spear-trap sequencing puzzle (Upper Delve); tripwire deadfalls (Lower Delve); boss-arena lever; sealed Ghastenrian gate requiring a druidic key-item.
+**Key Interactive Features:** Spear-trap sequencing puzzle (Upper Delve); tripwire deadfalls (Lower Delve); boss-arena lever; sealed Ghastenrian gate requiring a shamanic key-item.
 
 ## Reworded
 
@@ -179,9 +179,9 @@ A rhath gone to ruin—two longhouses with collapsed thatch, watchtowers listing
 
 #### Upper Soutrenn (The Old Ward-Hall)
 
-Stone steps descend into cool dark. The walls bear carved spirals—druidic work, centuries old—now cracked and black with mold. Shattered **Kestanes** litter the corridor: jade hound-shapes with fractured limbs. Two raiders crouch near a guttering torch, arguing over a stolen ring.
+Stone steps descend into cool dark. The walls bear carved spirals—shamanic work, centuries old—now cracked and black with mold. Shattered **Kestanes** litter the corridor: jade hound-shapes with fractured limbs. Two raiders crouch near a guttering torch, arguing over a stolen ring.
 
-The passage branches. North: a barred door (key on a sleeping guard) leads to a cell where **Mother Drelvi**, an aging druid, awaits ransom or rescue. South: a ramp descends to a vaulted chamber where the wards have bled dry. Kestanes have reawakened and turned on the raiders who disturbed them. Two bandits hold each raised walkway; two jade guardians click and scrape across flagstones slick with old rain, two more fighters already bleeding below.
+The passage branches. North: a barred door (key on a sleeping guard) leads to a cell where **Mother Drelvi**, an aging shaman, awaits ransom or rescue. South: a ramp descends to a vaulted chamber where the wards have bled dry. Kestanes have reawakened and turned on the raiders who disturbed them. Two bandits hold each raised walkway; two jade guardians click and scrape across flagstones slick with old rain, two more fighters already bleeding below.
 
 Beyond, corridors wind through halls where **Gravelforms** drift in slow, grinding circuits—floating sentinels trailing dust, jade wings humming a sound felt in the teeth. Ceiling scuttles disgorge more Kestanes as you pass. A spear-trap gauntlet blocks the way forward: six pressure-plates requiring careful sequencing.
 
@@ -201,7 +201,7 @@ An exit lift returns to the surface, emerging west of the compound beneath a sky
 
 ---
 
-**Key Interactive Features:** Spear-trap sequencing puzzle (Upper Soutrenn); tripwire deadfalls (Lower Depths); boss-arena lever; sealed Ghastenrian gate requiring a druidic key-item.
+**Key Interactive Features:** Spear-trap sequencing puzzle (Upper Soutrenn); tripwire deadfalls (Lower Depths); boss-arena lever; sealed Ghastenrian gate requiring a shamanic key-item.
 
 ## Final Cleanup
 
@@ -226,9 +226,9 @@ A rhath gone to wreckage—two longhouses with caved thatch, watchtowers canting
 
 #### Upper Soutrenn (The Old Ward-Hall)
 
-Stone steps plunge into cool dark. The walls bear carved spirals—druidic work, centuries old—now cracked and blackened with mold. Shattered **Kestanes** litter the corridor: jade hound-shapes with fractured limbs. Two raiders crouch near a guttering torch, bickering over a stolen ring.
+Stone steps plunge into cool dark. The walls bear carved spirals—shamanic work, centuries old—now cracked and blackened with mold. Shattered **Kestanes** litter the corridor: jade hound-shapes with fractured limbs. Two raiders crouch near a guttering torch, bickering over a stolen ring.
 
-The passage forks. North: a barred door (key on a dozing guard) opens to a cell where **Mother Drelvi**, an aging druid, awaits ransom or rescue. South: a ramp drops to a vaulted chamber where the wards have bled dry. Kestanes have reawakened and turned on the raiders who disturbed them. Two bandits hold each raised walkway; two jade guardians click and scrape across flagstones slick with old rain, two more fighters bleeding below.
+The passage forks. North: a barred door (key on a dozing guard) opens to a cell where **Mother Drelvi**, an aging shaman, awaits ransom or rescue. South: a ramp drops to a vaulted chamber where the wards have bled dry. Kestanes have reawakened and turned on the raiders who disturbed them. Two bandits hold each raised walkway; two jade guardians click and scrape across flagstones slick with old rain, two more fighters bleeding below.
 
 Beyond, corridors wind through halls where **Gravelforms** drift in slow circuits—floating sentinels trailing dust, jade wings humming a sound felt in the teeth. Ceiling scuttles disgorge more Kestanes as you pass. A spear-trap gauntlet blocks the way forward: six pressure-plates demanding careful sequencing.
 
@@ -248,4 +248,4 @@ An exit lift returns to the surface, emerging west of the compound beneath a sky
 
 ---
 
-**Key Interactive Features:** Spear-trap sequencing puzzle (Upper Soutrenn); tripwire deadfalls (Lower Depths); boss-arena lever; sealed Ghastenrian gate requiring a druidic key-item.
+**Key Interactive Features:** Spear-trap sequencing puzzle (Upper Soutrenn); tripwire deadfalls (Lower Depths); boss-arena lever; sealed Ghastenrian gate requiring a shamanic key-item.
