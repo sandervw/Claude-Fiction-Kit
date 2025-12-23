@@ -210,6 +210,7 @@ An exit lift returns to the surface, emerging west of the compound beneath a sky
 ```
 Hey claude, can you revise the attached markdown doc describing a location in a fantasy setting I'm working on? Revise it with the following goals:
 - clean up unrealistic dialogue
+- replace all em-dashes with alternative punctuation
 - replace 30% of common verbs/adjectives/nouns with uncommon equivilants
 - replace 80% of parallel construction sentences
 - replace 40% of triadic constructions (lists, three-sentence rhythms, etc) with two-, four-, or five-item constructions
@@ -219,7 +220,7 @@ Hey claude, can you revise the attached markdown doc describing a location in a 
 
 ### The Kelpshaw Soutrenn
 
-## Exterior Compound
+#### Exterior Compound
 
 A rhath gone to wreckage—two longhouses with caved thatch, watchtowers canting like rotten teeth. Wooden walkways, half-swallowed by creeping moss, span the structures. A central firepit trails smoke. Raiders have claimed the place: desperate Kinfolk turned bandit under **Moldrick One-Hand**, who hunches by the flames working a notched blade with his remaining fingers. His people watch the approaches—two at the gate, three more on the overgrown earthworks. Wet ash on the wind, something fouler beneath.
 

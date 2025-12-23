@@ -164,3 +164,25 @@ see temp.md
 
 **World Setting:**
 see World.md
+
+## Story Scaffold Prompt
+
+Hey claude, I want you to help be write out a scaffold for a short story. My final goal is a fantasy story of 3-4 thousand words. I've attached three documents.
+
+1. World.md: general info about the world I want to set the story in
+2. Outline-Rite-of-Spring.md: the general 'structure' or 'template' I want the story to follow
+3. Kelpshaw.md: The location in the world that I want to use as the specific backdrop/setting of this story
+
+Basically, I want you to use these three documents to write out 'boilerplate' for me to follow, replacing your generic text with the actual story prose. My thinking is this: for each section, scene, or breakpoint, you'd specify things like:
+
+- section word count
+- character actions/emotions to show
+- descriptions to write out
+- questions to answer from prior scene
+- questions to pose for next scene
+- general sentence flow
+- anything else you think is relevant? (Open to suggestions)
+
+My goal is to have as much detail as possible in this scaffold. Basically, taking away the overhead of knowing when I need to reference a character, or set a stage, and focusing on the actual literary 'implementation'.
+
+Does this make, and is this something you can help with?
