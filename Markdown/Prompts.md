@@ -183,6 +183,6 @@ Basically, I want you to use these three documents to write out 'boilerplate' fo
 - general sentence flow
 - anything else you think is relevant? (Open to suggestions)
 
-My goal is to have as much detail as possible in this scaffold. Basically, taking away the overhead of knowing when I need to reference a character, or set a stage, and focusing on the actual literary 'implementation'.
+My goal is to have as much detail as possible in this scaffold. A step-by-step series of paragraphs/beats/elements to write for each scene would be ideal. Basically, taking away the overhead of knowing when I need to reference a character, or set a stage, and focusing on the actual literary 'implementation'.
 
-Does this make, and is this something you can help with?
+Does this make sense, and is this something you can help with?
