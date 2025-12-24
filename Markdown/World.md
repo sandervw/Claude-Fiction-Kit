@@ -125,7 +125,7 @@ If Sarks are the horde, The Dark Ones - Trow - are what Sarks become when they l
 
 ---
 
-## The Odd
+### The Odd
 
 The old world stirred with things that were never men. Some were carved by shaman hands; others grew in the dark places where no compact held sway.
 
@@ -133,7 +133,7 @@ _Below are two sample monsters_
 
 ---
 
-### Greenspire (They of Jade)
+#### Greenspire (They of Jade)
 
 In an older age, shamans carved gargoyles from jade-streaked and gave them purpose through Ritual. The Greenspire were shaped intention: to watch, to wait, to wake when boundaries were crossed.
 
@@ -145,7 +145,7 @@ In an older age, shamans carved gargoyles from jade-streaked and gave them purpo
 
 ---
 
-### Skrelvings (Rust-Feathered)
+#### Skrelvings (Rust-Feathered)
 
 Flightless birds of the deep places, tall as a man's chest, with beaks like iron chisels and feathers the color of dried blood. They hunt by sound and heat. A single Skrelving is a nuisance. A flock is a death sentence.
 

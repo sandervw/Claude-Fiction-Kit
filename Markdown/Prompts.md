@@ -186,3 +186,43 @@ Basically, I want you to use these three documents to write out 'boilerplate' fo
 My goal is to have as much detail as possible in this scaffold. A step-by-step series of paragraphs/beats/elements to write for each scene would be ideal. Basically, taking away the overhead of knowing when I need to reference a character, or set a stage, and focusing on the actual literary 'implementation'.
 
 Does this make sense, and is this something you can help with?
+
+## Revision (Mervyn) Prompts
+
+### GPT
+
+Write a descriptive passage in a slow, atmospheric, observational prose style.
+
+Focus on:
+
+- Extended sentences that accumulate detail through subordinate clauses and modifiers, occasionally punctuated by short, declarative sentences marking absence, change, or finality.
+- Concrete, precise nouns paired with low-frequency but readable adjectives; favor texture, weight, and age over emotional language.
+- Metaphors and similes grounded in physical resemblance, especially between natural phenomena and constructed or time-worn objects. Let metaphors enrich atmosphere rather than explain meaning.
+- Environmental movement over human action: light shifting, weather pressing, materials decaying, animals inhabiting spaces once shaped by people.
+- An impersonal, patient narrative voice that observes without commentary and implies history through erosion, vacancy, or residue rather than exposition.
+
+Avoid:
+
+- Modern idiom, casual phrasing, or overt emotional interpretation.
+- High fantasy tropes, named characters, or explicit backstory.
+- Metaphor stacking or lyrical excess that draws attention to itself.
+
+The goal is prose that feels dense, deliberate, and quietly monumental, where time seems slowed and the setting carries more presence than any implied observer.
+
+Now write a description of a celtic bronze-age king's feasting hall, with the trophies of slain monsters about the room, in this style.
+
+### Claude
+
+Write a descriptive passage in the following style:
+
+**Sentence Structure:** Use long, winding sentences with multiple dependent clauses that delay resolution. Connect related observations with semicolons. Include rhythmic enumerations (lists of 4-6 elements joined by commas and "and"). Interrupt sentences with parenthetical asides that add texture. Vary this occasionally with shorter declarative sentences for emphasis.
+
+**Vocabulary:** Favor archaic, rare, or unexpected words where common ones would suffice—words that feel slightly weathered or forgotten. Use precise technical terms for natural phenomena, architecture, or craftsmanship. Build compound adjectives that are sensory-specific (color-texture, shape-material). Avoid modern idiom entirely.
+
+**Figurative Language:** Personify architecture and landscape as though they breathe, age, and act with intention. When using similes, reach for the unexpected or faintly unsettling—comparisons to disease, minerals, or ancient artifacts rather than obvious analogues. Treat light as a theatrical agent that selects, reveals, and transforms.
+
+**Atmosphere:** Convey deep geological time—decay and growth measured in centuries, layers accumulating beneath layers. Blur the boundary between the living and the built. Use color sparingly but with compound precision. Create a sense of slow, deliberate observation, as though the narrator is pacing through the scene.
+
+**Avoid:** Modern phrasing, cliché, rushed pacing, short punchy sentences as the default, obvious metaphors, and any sense of hurry. The prose should feel heavy with age and attention.
+
+Now write a description of a celtic bronze-age king's feasting hall, with the trophies of slain monsters about the room, in this style.
