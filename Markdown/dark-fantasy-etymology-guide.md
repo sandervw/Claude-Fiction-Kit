@@ -134,7 +134,6 @@ A signature element. Use **rh-** at word beginnings for landscape/structural ter
 - **-worth**: Bremworth, Phlegworth
 - **-ford**: Wekkingford
 - **-moor/-mire**: Siltmoor, Lowmire, Thrallmire
-- **-heim**: Muggenheim, Orpelheim
 
 **Territory suffixes**:
 
@@ -156,7 +155,7 @@ A signature element. Use **rh-** at word beginnings for landscape/structural ter
 2. **No Japanese/Asian phonology**: Avoid -ko, -shi, -chi endings
 3. **No modern English words**: Don't use recognizable words like "Diva"
 4. **No bright vowels**: Avoid -ee-, -oo-, -ay- sounds
-5. **Minimize 'Z'**: Z-names exist (Zabraq, Zess) but feel imported; use sparingly
+5. **Minimize 'Z'**: Z-names exist (Zabraq, Zess) but use sparingly
 6. **No 'X' as exotic marker**: Except in female -ixia/-axia suffixes
 7. **No smooth syllables**: Prefer guttural, stopped, or aspirated sounds
 
