@@ -20,12 +20,12 @@
     "meaning": "Enclosed farmstead or ringfort"
   },
   {
-    "term": "bivallat",
+    "term": "bivallatt",
     "category": "fortifications",
     "meaning": "Fort with two concentric banks and ditches"
   },
   {
-    "term": "thrivallat",
+    "term": "thrivallatt",
     "category": "fortifications",
     "meaning": "Fort with three concentric banks and ditches"
   },
@@ -35,7 +35,7 @@
     "meaning": "Defensive ditch outside a rampart"
   },
   {
-    "term": "brokh",
+    "term": "ghrokh",
     "category": "structures",
     "meaning": "Hollow-walled drystone tower"
   },

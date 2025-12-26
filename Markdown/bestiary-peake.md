@@ -2,7 +2,7 @@
 
 ---
 
-## Monster 1
+## Khernghast (Cairn Man)
 
 A wizened thing it is, no taller than a child of seven winters, with skin like leather cured in peat-smoke and shrunk upon the bone; and eyes — milky as quartz veined through with something older than malice — that do not blink, that have perhaps forgotten blinking as the stones themselves have forgotten the hands that set them. They dwell in old barrows and in forgotten kerns where the capstones have settled into the earth like teeth into a jaw — places raised with purpose, though the purpose has long since silted over with centuries of rain and the slow, anonymous industry of roots.
 
@@ -12,7 +12,7 @@ A wizened thing it is, no taller than a child of seven winters, with skin like l
 
 ---
 
-## Monster 2
+## Grethlings (Fogfolk)
 
 When the fog thickens along that coast—thickens and settles and spreads its grey pavilions across the water—they emerge; gaunt figures whose skin holds the grey-green of drowned things long submerged, slick as fish-scale, glistening with a mineral sheen that catches what thin light remains. They move with a grace that mocks distance itself, as though the air between places were merely a courtesy they need not observe. The stench of rotting kelp precedes them like a herald. Their breathing is wet, labored, the sound of water draining through ancient stone.
 
@@ -22,7 +22,7 @@ When the fog thickens along that coast—thickens and settles and spreads its gr
 
 ---
 
-## Monster 3
+## Hounds of Klokhanwast
 
 A hound—if hound it be—black as the space between dying stars, vast beyond any breed that man has coaxed from wolf or wilderness; it appears only when darkness has settled into the hollows of ruined strongholds like sediment into ancient bone. Its eyes gather no reflection; they drink the light as parched stone drinks rain, and give nothing back. It passes without sound, and where it moves the air thickens, grows cold as the breath of tombs, tasting of iron, of old blood, of that suspended instant before frost descends to kill.
 

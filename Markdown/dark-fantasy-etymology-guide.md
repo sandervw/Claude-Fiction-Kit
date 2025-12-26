@@ -8,37 +8,31 @@ A ruleset for generating names and terms consistent with the established linguis
 
 ### 1. Consonant Clusters (Heavily Favored)
 
-Initial clusters give names weight and texture. Use liberally:
-
 | Cluster  | Examples                                      |
 | -------- | --------------------------------------------- |
-| **Thr-** | Throssvel, Thremnir, Thelvash, Thrundle       |
+| **Thr-** | Throssvel, Thremnit, Thelvash, Thrundle       |
 | **Skr-** | Skrelving, Skrivvi, Skrella                   |
 | **Sk-**  | Skelvorn, Skolla, Skurr                       |
 | **Dr-**  | Drhum, Drenn, Droz, Drossam                   |
-| **Gr-**  | Grothven, Grundvik, Grelb                     |
-| **Br-**  | Bremm, Branvik, Brollix                       |
-| **Kr-**  | Kremlik, Krossam, Krannogg                    |
+| **Gr-**  | Grothven, Grundvit, Grelb                     |
+| **Ghr-** | Ghremm, Ghranvit, Ghrollix                    |
+| **Kr-**  | Kremlit, Krossam, Krannogg                    |
+| **Vl-**  | Vlinn, Vloss, Vliss                           |
 | **Ph-**  | Phalantios, Phodric, Phoss (use "ph" not "f") |
-| **Kl-**  | Klokhan, Kleyt, Clodrik                       |
+| **Kl-**  | Klokhan, Kleyt, Klodrit                       |
 | **St-**  | Strath, Stobb, Stober                         |
-| **Vr-**  | Vrinn, Vross, Vriss                           |
 | **Pl-**  | Plax, Plossk, Plixie                          |
 
 ### 2. Geminate (Doubled) Consonants
 
-Very common—creates a "thick" sound:
-
-- **-ss**: Phoss, Vross, Dross, Kess
-- **-nn**: Vrenn, Drenn, Glenn, Benn
+- **-ss**: Phoss, Vloss, Dross, Kess
+- **-nn**: Vlenn, Drenn, Glenn, Benn
 - **-ll**: Threll, Skolla, Thrall
 - **-bb**: Globb, Throbb, Clobba
-- **-tt**: Tharbett, bivallat
-- **-mm**: Bremm, Dremm, Gremmi
+- **-tt**: Tharbett, bivallatt
+- **-mm**: Ghremm, Dremm, Gremmi
 
 ### 3. Aspirated Consonant Digraphs
-
-Use **'h'** after consonants to create texture:
 
 | Digraph | Position             | Examples                                                  |
 | ------- | -------------------- | --------------------------------------------------------- |
@@ -75,10 +69,10 @@ A signature element. Use **rh-** at word beginnings for landscape/structural ter
 
 **Compound forms**:
 
-- **-vik**: Branvik, Styrovik, Grundvik, Prondvik
+- **-vit**: Ghranvit, Styrovit, Grundvit, Prondvit
 - **-brand**: Kolbrand, Golbrand, Pelbrand
 - **-bold/-brod**: Helmbrod, Strombold, Thrembold
-- **-rik/-rick**: Phodric, Clodrik, Blothric, Moldrick
+- **-rit/-rith**: Phodric, Clodrit, Blothric, Moldrith
 - **-vax/-vask**: Tholvax, Vask, Korvasch
 - **-vast**: Strumvast, Threlvast
 
@@ -93,20 +87,20 @@ A signature element. Use **rh-** at word beginnings for landscape/structural ter
 **Elaborate forms**:
 
 - **-andrine/-ine**: Thessalandrine, Threlvandrine, Skellandrine, Phossandrine
-- **-enne/-ienne**: Strathenna, Moldravienne, Branvenna
+- **-enne/-ienne**: Strathenna, Moldravienne, Ghranvenna
 - **-ixia/-axia/-istria**: Kenthrixia, Kolvristria, Valdacrixia, Grondaxia
 - **-ella/-lla**: Krombella, Skella, Skrella
 - **-ssa/-issa**: Vendrissia, Grundissa, Drelvissa
 
 **Short forms**:
 
-- Monosyllabic: Thel, Stra, Cho, Vru, Stev, Greb
+- Monosyllabic: Thel, Stra, Cho, Vlu, Stev, Greb
 - Diminutive **-ie/-i**: Greffie, Plixie, Heldri, Eldi, Greldi, Sprelli
 
 **Reduplicated names** (distinctive, possibly ritual significance):
 
-- Wiv Wix Via, Kvo Kvo Bren, Kvi Kli Drenn, Vorr Vorr Thess
-- Brixabreexa, Tri-Vessa
+- Wiv Wix Via, Kvo Kvo Ghren, Kvi Kli Drenn, Vorr Vorr Thess
+- Ghrixabreexa, Tri-Vessa
 
 ### Location Names
 
@@ -131,7 +125,7 @@ A signature element. Use **rh-** at word beginnings for landscape/structural ter
 
 - **-wick**: Harrowick, Grothwick
 - **-holm/-holme**: Sleckholm, Drabbingholme
-- **-worth**: Bremworth, Phlegworth
+- **-worth**: Ghremworth, Phlegworth
 - **-ford**: Wekkingford
 - **-moor/-mire**: Siltmoor, Lowmire, Thrallmire
 

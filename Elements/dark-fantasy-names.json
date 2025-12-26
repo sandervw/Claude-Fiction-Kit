@@ -6,12 +6,12 @@
     "Kolbrand",
     "Gax-Goss",
     "Thelvash",
-    "Vrinn",
+    "Vlinn",
     "Semprovius Thessamander Kurz",
     "Helmbrod",
     "Plossk from Fendelaith",
     "Kefko",
-    "Branvit",
+    "Ghranvit",
     "Zarphon",
     "Wemity Thross",
     "Chorv of Strathtyr",
@@ -26,7 +26,7 @@
     "Slivven of Three Cairns",
     "Phodric",
     "Corimbrian Dossbrian",
-    "Styrovik",
+    "Styrovit",
     "Gurd of the Steep Marches",
     "Benthazar",
     "Droz",
@@ -45,8 +45,8 @@
     "Swarthian Blekk",
     "Gothvern",
     "Stulm",
-    "Vross of Muddenheim",
-    "Brollix",
+    "Vloss of Muddenheim",
+    "Ghrollix",
     "Throssimus Veldarian Klopp",
     "Phoss",
     "Grelb",
@@ -56,7 +56,7 @@
     "Grundvit from Lowmire",
     "Prunt",
     "Tholvax",
-    "Bruddock",
+    "Ghruddock",
     "Spronk",
     "Geldrim",
     "Phelvius Strossander Venne",
@@ -67,9 +67,9 @@
     "Mald Rick Phenn",
     "Skellavorn",
     "Krossam",
-    "Velmik",
+    "Velmit",
     "Grelvius Thatch",
-    "Drelvik from Blotthall",
+    "Drelvit from Blotthall",
     "Strumvast",
     "Pelbrand Vork",
     "Grundicus Thessabrand Murk III",
@@ -80,14 +80,14 @@
     "Threlvast",
     "Grudden Voss",
     "Veldrit of the Cantons",
-    "Bremm",
+    "Ghremm",
     "Skuluvian Mork",
     "Gothenbach",
     "Dribbus",
     "Welk from Kettledeep",
     "Strombold",
     "Phloggan",
-    "Crelvik Thenn",
+    "Crelvit Thenn",
     "Mundivarius Kess",
     "Spalth",
     "Glosk",
@@ -98,7 +98,7 @@
     "Grommius Veldassar Bletch",
     "Pelch",
     "Stritvold",
-    "Kremlik",
+    "Kremlit",
     "Vothgar of Slickholm",
     "Tharn",
     "Skelvius Drommander Wursk",
@@ -111,9 +111,9 @@
   "female-names": [
     "Thessalandrine",
     "Greffie",
-    "Vriss of Hillhenj",
+    "Vliss of Hillhenj",
     "Kenthrixia",
-    "Branvenna",
+    "Ghranvenna",
     "Clobba Cress",
     "Thel",
     "Kolvristria",
@@ -124,11 +124,11 @@
     "Plixie",
     "Heldri",
     "Zarphenda",
-    "Brixabreexa",
+    "Ghrixabreexa",
     "Stra",
     "Valdacrixia Lorr",
     "Gormu",
-    "Kress of the Brugh",
+    "Kress of the Ghrugh",
     "Fellishi Cressa",
     "Machridia",
     "Thelmbryda",
@@ -144,7 +144,7 @@
     "Vethrandoline",
     "Dreff",
     "Skolla of Mhydden",
-    "Brelixandria",
+    "Ghrelixandria",
     "Thremmis Vorr",
     "Greba",
     "Plindra",
@@ -154,11 +154,11 @@
     "Zess from Dusty Shelves",
     "Phelvandrique",
     "Sprelli",
-    "Klo-Bren",
+    "Klo-Ghren",
     "Thermidraxis",
-    "Vril",
+    "Vlil",
     "Gelvindroma",
-    "Brist of Three Lhinns Running",
+    "Ghrist of Three Lhinns Running",
     "Krombella",
     "Voxxi",
     "Skrella of the Bronzvaults",
@@ -174,7 +174,7 @@
     "Skrivvi",
     "Phollimbra Dess",
     "Stev",
-    "Brellanthe",
+    "Ghrellanthe",
     "Tri-Vessa",
     "Greldi",
     "Voltrissima Crenn",
@@ -185,7 +185,7 @@
     "Vothrenelle",
     "Drelvissa of Sourfen",
     "Skellandrine",
-    "Vru",
+    "Vlu",
     "Grundissa Threll",
     "Krembelline",
     "Plev",
@@ -198,7 +198,7 @@
     "Velthi",
     "Phossandrine",
     "Gelvondra",
-    "Bremmiline from Siltmoor",
+    "Ghremmiline from Siltmoor",
     "Voldrixxia Stenn",
     "Preth",
     "Krossaline",
@@ -413,7 +413,7 @@
       "type": "strait"
     },
     {
-      "name": "Straits of Vrethenmor",
+      "name": "Straits of Vlethenmor",
       "type": "strait"
     },
     {
@@ -437,7 +437,7 @@
       "type": "pass"
     },
     {
-      "name": "Mountains of Vreth",
+      "name": "Mountains of Vleth",
       "type": "mountain"
     },
     {
@@ -717,7 +717,7 @@
       "type": "territory"
     },
     {
-      "name": "Bremworth",
+      "name": "Ghremworth",
       "type": "territory"
     },
     {
@@ -761,7 +761,7 @@
       "type": "mountain"
     },
     {
-      "name": "Benn Thremvik",
+      "name": "Benn Thremvit",
       "type": "mountain"
     },
     {
@@ -793,7 +793,7 @@
       "type": "crag"
     },
     {
-      "name": "Glenn of Throssvik",
+      "name": "Glenn of Throssvit",
       "type": "valley"
     },
     {
@@ -849,7 +849,7 @@
       "type": "settlement"
     },
     {
-      "name": "Balli Skremvik",
+      "name": "Balli Skremvit",
       "type": "settlement"
     },
     {
@@ -941,7 +941,7 @@
       "type": "wetland"
     },
     {
-      "name": "Athh Dremmvik",
+      "name": "Athh Dremmvit",
       "type": "ford"
     },
     {

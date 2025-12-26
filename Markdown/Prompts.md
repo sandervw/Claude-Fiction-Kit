@@ -93,7 +93,7 @@ Can you rewrite the attached prose? I'm happy with the overall 'concept', but no
 ## Bandcamp Review Prompt
 
 Hey Claude, try revising the following text in the thorogood style, 500 characters:
-This album is exactly what is proposes to be: christmas dungeon synth. Do you want to listen to music that sounds like it might come from a video game where the primary enemies are undead elves and demon-reindeer? You're in the right place. Do you not want to listen to that kind of music? Then take your un-merry body somewhere else. 8/10 candycane-colored potions.
+When you buy this album (which you will), find yourself a seatbelt, and buckle; one of the frostiest albums I found this year, and right at christmas; lots of texture between the different tracks, some slip over into more synth-metal than dungeon synth, but don't let that detract; a perfect mix of repetition and variation (a-la Jim Kirkwood) mixed with the atmosphere of Aindulmedir, and the lore of wagner. 9/10.
 
 ## Peake Revision
 
