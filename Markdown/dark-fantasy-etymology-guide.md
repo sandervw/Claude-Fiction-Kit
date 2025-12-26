@@ -8,20 +8,20 @@ A ruleset for generating names and terms consistent with the established linguis
 
 ### 1. Consonant Clusters (Heavily Favored)
 
-| Cluster  | Examples                                      |
-| -------- | --------------------------------------------- |
-| **Thr-** | Throssvel, Thremnit, Thelvash, Thrundle       |
-| **Skr-** | Skrelving, Skrivvi, Skrella                   |
-| **Sk-**  | Skelvorn, Skolla, Skurr                       |
-| **Dr-**  | Drhum, Drenn, Droz, Drossam                   |
-| **Gr-**  | Grothven, Grundvit, Grelb                     |
-| **Ghr-** | Ghrezz, Ghranvit, Ghrollix                    |
-| **Kr-**  | Kremlit, Krossam, Krannogg                    |
-| **Vl-**  | Vlinn, Vloss, Vliss                           |
-| **Ph-**  | Phalantios, Phodric, Phoss (use "ph" not "f") |
-| **Kl-**  | Klokhan, Kleyt, Klodrit                       |
-| **St-**  | Strath, Stobb, Stober                         |
-| **Pl-**  | Plax, Plossk, Plixie                          |
+| Cluster  | Examples                                       |
+| -------- | ---------------------------------------------- |
+| **Thr-** | Throssvel, Thremnit, Thelvash, Thrundle        |
+| **Skr-** | Skrelving, Skrivvi, Skrella                    |
+| **Sk-**  | Skelvorn, Skolla, Skurr                        |
+| **Dr-**  | Drhum, Drenn, Droz, Drossam                    |
+| **Gr-**  | Grothven, Grundvit, Grelb                      |
+| **Ghr-** | Ghrezz, Ghranvit, Ghrollix                     |
+| **Kr-**  | Kremlit, Krossam, Krannogg                     |
+| **Vl-**  | Vlinn, Vloss, Vliss                            |
+| **Ph-**  | Phalantios, Phodrith, Phoss (use "ph" not "f") |
+| **Kl-**  | Klokhan, Kleyt, Klodrit                        |
+| **St-**  | Strath, Stobb, Stober                          |
+| **Pl-**  | Plax, Plossk, Plixie                           |
 
 ### 2. Geminate (Doubled) Consonants
 
@@ -62,7 +62,7 @@ A signature element. Use **rh-** at word beginnings for landscape/structural ter
 
 ### Male Personal Names
 
-**Short guttural forms**:
+**Short forms**:
 
 - Monosyllabic: Guzz, Prunt, Droz, Welk, Throbb, Globb, Pelch, Grelb
 - Pattern: CVC, CCVC, CVCC with hard consonants
@@ -70,13 +70,13 @@ A signature element. Use **rh-** at word beginnings for landscape/structural ter
 **Compound forms**:
 
 - **-vit**: Ghranvit, Styrovit, Grundvit, Prondvit
-- **-brant**: Kolbrant, Golbrant, Pelbrant
-- **-bold/-brod**: Helmbrod, Strombold, Thrembold
-- **-rit/-rith**: Phodric, Clodrit, Blothric, Moldrith
-- **-vax/-vask**: Tholvax, Vask, Korvasch
+- **-brang**: Kolbrang, Golbrang, Pelbrang
+- **-bolg/-brod**: Helmbrod, Strombolg, Thrembolg
+- **-rit/-rith**: Phodrit, Clodrit, Blothrit, Moldrith
+- **-vax/-vask**: Tholvax, Vask, Korvask
 - **-vast**: Strumvast, Threlvast
 
-**Latinized formal names**:
+**Latinized names**:
 
 - Pattern: [Root]-ius, [Root]-us, [Root]-ander
 - Examples: Phalantios, Semprovius, Coriandus, Grozzius, Thessamander
@@ -87,17 +87,17 @@ A signature element. Use **rh-** at word beginnings for landscape/structural ter
 **Elaborate forms**:
 
 - **-andrine/-ine**: Thessalandrine, Threlvandrine, Skellandrine, Phossandrine
-- **-enne/-ienne**: Strathenna, Moldravienne, Ghranvenna
+- **-enna/-ienne**: Strathenna, Moldravienne, Ghranvenna
 - **-ixia/-axia/-istria**: Kenthrixia, Kolvristria, Valdacrixia, Grondaxia
 - **-ella/-lla**: Krombella, Skella, Skrella
 - **-ssa/-issa**: Vendrissia, Grundissa, Drelvissa
 
 **Short forms**:
 
-- Monosyllabic: Thel, Stra, Cho, Vlu, Stev, Greb
+- Monosyllabic: Thel, Stra, Cho, Vlu, Stev, Grem
 - Diminutive **-ie/-i**: Greffie, Plixie, Heldri, Eldi, Greldi, Sprelli
 
-**Reduplicated names** (distinctive, possibly ritual significance):
+**Repeat-sound names**:
 
 - Wiv Wix Via, Kvo Kvo Ghren, Kvi Kli Drenn, Vorr Vorr Thess
 - Ghrixabreexa, Tri-Vessa
@@ -108,7 +108,7 @@ A signature element. Use **rh-** at word beginnings for landscape/structural ter
 
 | Term   | Meaning      | Example            |
 | ------ | ------------ | ------------------ |
-| Bhrugh | Stronghold   | Bhrugh Veldriss    |
+| Strugh | Stronghold   | Strugh Veldriss    |
 | Dunn   | Fort         | Dunn Kethram       |
 | Kahr   | Royal fort   | Kahr of Throssvel  |
 | Benn   | Mountain     | Benn Ithrek        |
@@ -121,17 +121,17 @@ A signature element. Use **rh-** at word beginnings for landscape/structural ter
 | Vveald | Forest       | Vveald Mossen      |
 | Henj   | Stone circle | Henj of Keldros    |
 
-**Settlement suffixes** (Anglo-Saxon/Norse):
+**Settlement suffixes**:
 
-- **-wick**: Harrowick, Grothwick
+- **-wik**: Harrowik, Grothwik
 - **-holm/-holme**: Sleckholm, Drabbingholme
-- **-worth**: Ghremworth, Phlegworth
+- **-wort**: Ghremwort, Phlegmwort
 - **-ford**: Wekkingford
 - **-moor/-mire**: Siltmoor, Lowmire, Thrallmire
 
 **Territory suffixes**:
 
-- **-ry/-ery**: Barguestry, Ghastenry, Kelmory
+- **-ry**: Barguestry, Ghastenry, Kelmory
 - **-any**: Peltrany, Lurqany, Phossany
 - **-mark**: Ghoulmark, Grelmark, Throstlemark
 
@@ -149,9 +149,8 @@ A signature element. Use **rh-** at word beginnings for landscape/structural ter
 2. **No Japanese/Asian phonology**: Avoid -ko, -shi, -chi endings
 3. **No modern English words**: Don't use recognizable words like "Diva"
 4. **No bright vowels**: Avoid -ee-, -oo-, -ay- sounds
-5. **Minimize 'Z'**: Z-names exist (Zabraq, Zess) but use sparingly
-6. **No 'X' as exotic marker**: Except in female -ixia/-axia suffixes
-7. **No smooth syllables**: Prefer guttural, stopped, or aspirated sounds
+5. **No 'X' as exotic marker**: Except in female -ixia/-axia suffixes
+6. **No smooth syllables**: Prefer guttural, stopped, or aspirated sounds
 
 ---
 
@@ -162,6 +161,5 @@ When creating a new name/term, verify:
 - [ ] Contains at least one consonant cluster OR geminate consonant
 - [ ] Uses short vowels (a, e, i, o, u)
 - [ ] Has a "weight" to it—nothing too light or musical
-- [ ] Could be pronounced by a medieval peasant with missing teeth
 - [ ] Evokes stone, damp, cold, or age
 - [ ] Doesn't sound like it came from a different fantasy setting

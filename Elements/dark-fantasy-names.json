@@ -3,7 +3,7 @@
     "Phalantios Morror",
     "Stober",
     "Drenn of wetstanes",
-    "Kolbrant",
+    "Kolbrang",
     "Gax-Goss",
     "Thelvash",
     "Vlinn",
@@ -25,7 +25,7 @@
     "Mivven Murr Muvroxorn IX",
     "Guzz",
     "Slivven of Three Cairns",
-    "Phodric",
+    "Phodrit",
     "Corimbrian Dossbrian",
     "Styrovit",
     "Gurd of the Steep Marches",
@@ -36,10 +36,10 @@
     "Keldamar",
     "Whulk",
     "Coriandus Vex",
-    "Korvasch",
+    "Korvask",
     "Glossblatt",
     "Vardrek",
-    "Golbrant",
+    "Golbrang",
     "Thrundle Vask",
     "Moldrus",
     "Pelvish from the Slate-colored Parishes",
@@ -72,12 +72,12 @@
     "Grelvius Thatch",
     "Drelvit from Blotthall",
     "Strumvast",
-    "Pelbrant Vork",
-    "Grundicus Thessabrant Murk III",
+    "Pelbrang Vork",
+    "Grundicus Thessabrang Murk III",
     "Throbb",
     "Mossrit",
     "Stolvian Dross",
-    "Blendrick Mozzle",
+    "Blendrith Mozzle",
     "Threlvast",
     "Grudden Voss",
     "Veldrit of the Cantons",
@@ -86,14 +86,14 @@
     "Gothenbach",
     "Dribbus",
     "Welk from Kettledeep",
-    "Strombold",
+    "Strombolg",
     "Phloggan",
     "Crelvit Thenn",
     "Mundivarius Kess",
     "Spalth",
     "Glosk",
-    "Thrembold of Four Kerns",
-    "Kethlrick",
+    "Thrembolg of Four Kerns",
+    "Kethlrith",
     "Drutch",
     "Skvorn from the Damp",
     "Grozzius Veldassar Bletch",
@@ -147,7 +147,7 @@
     "Skolla of Mhydden",
     "Ghrelixandria",
     "Threzzis Vorr",
-    "Greba",
+    "Grema",
     "Plindra",
     "Krixavessa",
     "Strypt",
@@ -318,7 +318,7 @@
       "type": "fortress"
     },
     {
-      "name": "Harrowick",
+      "name": "Harrowik",
       "type": "fortress"
     },
     {
@@ -334,7 +334,7 @@
       "type": "fortress"
     },
     {
-      "name": "Ketterick",
+      "name": "Ketterith",
       "type": "fortress"
     },
     {
@@ -350,7 +350,7 @@
       "type": "fortress"
     },
     {
-      "name": "Bhrugh Veldriss",
+      "name": "Strugh Veldriss",
       "type": "fortress"
     },
     {
@@ -382,7 +382,7 @@
       "type": "mountain"
     },
     {
-      "name": "Skurr of Bothric",
+      "name": "Skurr of Bothrit",
       "type": "mountain"
     },
     {
@@ -614,7 +614,7 @@
       "type": "underground"
     },
     {
-      "name": "Balli Throsswick",
+      "name": "Balli Throsswik",
       "type": "settlement"
     },
     {
@@ -706,7 +706,7 @@
       "type": "territory"
     },
     {
-      "name": "Vothric Pale",
+      "name": "Vothrit Pale",
       "type": "territory"
     },
     {
@@ -718,7 +718,7 @@
       "type": "territory"
     },
     {
-      "name": "Ghremworth",
+      "name": "Ghremwort",
       "type": "territory"
     },
     {
@@ -734,7 +734,7 @@
       "type": "fortress"
     },
     {
-      "name": "Grothwick",
+      "name": "Grothwik",
       "type": "fortress"
     },
     {
@@ -750,11 +750,11 @@
       "type": "fortress"
     },
     {
-      "name": "Bhrugh Skolvenn",
+      "name": "Strugh Skolvenn",
       "type": "fortress"
     },
     {
-      "name": "Kahr of Drelmwick",
+      "name": "Kahr of Drelmwik",
       "type": "fortress"
     },
     {
@@ -826,7 +826,7 @@
       "type": "strait"
     },
     {
-      "name": "Kyl Throsswick",
+      "name": "Kyl Throsswik",
       "type": "strait"
     },
     {
@@ -842,7 +842,7 @@
       "type": "settlement"
     },
     {
-      "name": "Phlegmworth",
+      "name": "Phlegmwort",
       "type": "settlement"
     },
     {
