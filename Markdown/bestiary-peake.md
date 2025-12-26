@@ -32,7 +32,7 @@ A hound—if hound it be—black as the space between dying stars, vast beyond a
 
 ---
 
-## Mossen Ghrelda (Forest Mother)
+## Mossen Ghrelda (Forest Ogre)
 
 An ogress of the deep woods. She stands twice a man's height, her limbs thick as ancient boughs, her face the colour and texture of milk gone to ruin; her teeth have been filed to eager points, each one a small monument to appetite. She wears pelts stitched from things best left unexamined, hides that carry the memory of their origins in their stiffness and their strange, irregular seams. The reek of old meat clings to her as lichen clings to stone, and those who survive describe a low humming—tuneless, constant, a sound less sung than secreted—that she makes as she works.
 
@@ -62,7 +62,7 @@ At the outermost reach of firelight, where flame-glow thins to amber uncertainty
 
 ---
 
-## Monster 7
+## Malkh (Black Cat)
 
 A cat vast as a mastiff, its coat black as peat-water save for a single pale blazon upon the chest—some ancient heraldry worn thin by centuries. Its eyes hold light that belongs to no visible source; they gleam with the faint phosphorescence of things long drowned. Its purr passes through floorboards and into the marrow of bone, a resonance felt in the teeth before it is heard by the ear.
 
@@ -72,7 +72,7 @@ A cat vast as a mastiff, its coat black as peat-water save for a single pale bla
 
 ---
 
-## Monster 8
+## Thrymaxia (Grandmother Ice)
 
 A giantess, twice a tall man's height and more, her skin bearing the livid hue of flesh long-bruised; her hair hanging like rime, like the hoarfrost that gathers upon stone where no warmth has touched for a thousand years. One eye remains—the other socket holds something worse than absence. She carries a staff of wood so black it drinks the light, and where it strikes, the earth remembers winter; the ground stiffens, cracks, submits. Her breath rises in pale columns even beneath the summer sun. The creak of straining ice—that sound of glaciers calving in distant darkness—attends her every footfall.
 
@@ -82,7 +82,7 @@ A giantess, twice a tall man's height and more, her skin bearing the livid hue o
 
 ---
 
-## Monster 9
+## The Khroth (The Grey Man)
 
 A figure at the liminal hour—when dusk bleeds into dawn or dawn into dusk, when the eye cannot trust its testimony—shaped as an old man might be shaped, grey as hearthstone ash from crown to sole. It does not speak; it does not approach. It watches, with the patience of lichen spreading across a gravestone, and then it is not. Those who have lingered where it stood report an absence more profound than mere emptiness: no scent, no stirring of air, no residual warmth. A void in the weave of things, a hollow where presence ought to reside but does not.
 
@@ -92,7 +92,7 @@ A figure at the liminal hour—when dusk bleeds into dawn or dawn into dusk, whe
 
 ---
 
-## Monster 10
+## Grellwife (Goblin Wife)
 
 A woman—or nearly so—though the qualification settles upon her like dust upon neglected furniture. Her skin holds the pallor of grey-green lichen; her hair, long and fair, hangs lank as winter sedge; her garments, once green, have surrendered to tatters. She moves in a perpetual crouch, a skulk, as though the air itself pressed upon her shoulders. Those who look too closely perceive what her ragged skirts conceal: legs that bend at angles no human bone permits, terminating in hooves, cloven and dark as old horn. Her scent shifts with her disposition—wet meadow grass when she is gentle; stagnant water and ancient copper when she is not.
 
@@ -102,7 +102,7 @@ A woman—or nearly so—though the qualification settles upon her like dust upo
 
 ---
 
-## Monster 11
+## Lhinnwife (Pool Wife)
 
 A young woman in ragged vestments, her coat drawn up about her head like a cowl of sodden cloth. She stands at the water's margin, always at night, motionless as a thing of weathered stone. She does not speak; she does not turn toward greeting. Water drips ceaselessly from her hem, though she stands on dry ground. The air about her carries a cold that numbs as mineral numbs—patient and depthless.
 
@@ -112,7 +112,7 @@ A young woman in ragged vestments, her coat drawn up about her head like a cowl 
 
 ---
 
-## Monster 12
+## Burnt Vennghast (Fen Ghost)
 
 A thing of no fixed form—now a man stooped beneath invisible burdens, now a beast of indeterminate genus, now a greyhound the colour of ancient char whose legs move with the terrible patience of smoke. It passes between standing stones that have forgotten their purpose; it follows paths worn into the hills before memory began, and it moves only when darkness has settled like sediment upon the land. Its howl carries across miles of sleeping country, waking those who will not find rest again until dawn drags its grey fingers across the threshold. Between one shape and the next, witnesses have glimpsed something slick and lightless, something that glistens as wet shadow glistens—briefly, obscenely. The smell of scorched hair lingers long after, clinging to stone and cloth alike.
 
