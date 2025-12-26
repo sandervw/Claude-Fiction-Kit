@@ -15,7 +15,7 @@ A ruleset for generating names and terms consistent with the established linguis
 | **Sk-**  | Skelvorn, Skolla, Skurr                       |
 | **Dr-**  | Drhum, Drenn, Droz, Drossam                   |
 | **Gr-**  | Grothven, Grundvit, Grelb                     |
-| **Ghr-** | Ghremm, Ghranvit, Ghrollix                    |
+| **Ghr-** | Ghrezz, Ghranvit, Ghrollix                    |
 | **Kr-**  | Kremlit, Krossam, Krannogg                    |
 | **Vl-**  | Vlinn, Vloss, Vliss                           |
 | **Ph-**  | Phalantios, Phodric, Phoss (use "ph" not "f") |
@@ -30,7 +30,7 @@ A ruleset for generating names and terms consistent with the established linguis
 - **-ll**: Threll, Skolla, Thrall
 - **-bb**: Globb, Throbb, Clobba
 - **-tt**: Tharbett, bivallatt
-- **-mm**: Ghremm, Dremm, Gremmi
+- **-zz**: Ghrezz, Drezz, Grezzi
 
 ### 3. Aspirated Consonant Digraphs
 
@@ -70,7 +70,7 @@ A signature element. Use **rh-** at word beginnings for landscape/structural ter
 **Compound forms**:
 
 - **-vit**: Ghranvit, Styrovit, Grundvit, Prondvit
-- **-brand**: Kolbrand, Golbrand, Pelbrand
+- **-brant**: Kolbrant, Golbrant, Pelbrant
 - **-bold/-brod**: Helmbrod, Strombold, Thrembold
 - **-rit/-rith**: Phodric, Clodrit, Blothric, Moldrith
 - **-vax/-vask**: Tholvax, Vask, Korvasch
@@ -79,8 +79,8 @@ A signature element. Use **rh-** at word beginnings for landscape/structural ter
 **Latinized formal names**:
 
 - Pattern: [Root]-ius, [Root]-us, [Root]-ander
-- Examples: Phalantios, Semprovius, Coriandus, Grommius, Thessamander
-- Often three names: Semprovius Thessamander Kurz, Grommius Veldassar Bletch
+- Examples: Phalantios, Semprovius, Coriandus, Grozzius, Thessamander
+- Often three names: Semprovius Thessamander Kurz, Grozzius Veldassar Bletch
 
 ### Female Personal Names
 
