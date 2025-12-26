@@ -32,7 +32,7 @@ A hound—if hound it be—black as the space between dying stars, vast beyond a
 
 ---
 
-## Monster 4
+## Mossen Ghrelda (Forest Mother)
 
 An ogress of the deep woods. She stands twice a man's height, her limbs thick as ancient boughs, her face the colour and texture of milk gone to ruin; her teeth have been filed to eager points, each one a small monument to appetite. She wears pelts stitched from things best left unexamined, hides that carry the memory of their origins in their stiffness and their strange, irregular seams. The reek of old meat clings to her as lichen clings to stone, and those who survive describe a low humming—tuneless, constant, a sound less sung than secreted—that she makes as she works.
 
@@ -42,7 +42,7 @@ An ogress of the deep woods. She stands twice a man's height, her limbs thick as
 
 ---
 
-## Monster 5
+## Dhoor Puddle
 
 It possesses no fixed architecture of flesh. Those who have glimpsed it speak variously: a sack of waterlogged sand hauling itself by secret contractions, a trembling mass of blanched jelly, something _fundamentally mistaken_ pressing its weight against shuttered casements in the small hours. One element persists across all tellings—a single unlidded eye, vast and cataracted, that appears to _regard_ without the mechanism of sight. Its passage produces the sound of sodden cloth drawn across ancient flagstones, and in its wake there lingers brine, and beneath the brine something sweeter, something gone to soft corruption.
 
@@ -52,7 +52,7 @@ It possesses no fixed architecture of flesh. Those who have glimpsed it speak va
 
 ---
 
-## Monster 6
+## Vlimmen (Tricksters)
 
 At the outermost reach of firelight, where flame-glow thins to amber uncertainty, they are sometimes glimpsed—small figures, man-shaped yet wrongly assembled, their proportions skewed as though drawn from faulty memory, their movements possessing a liquidity that the eye refuses and the mind mistrusts. Their skin holds a pallid luminescence, the cold phosphorescence of rotting wood in autumn marshes. They carry about them the scent of crushed grass and something sharper beneath it—that mineral tang which haunts the air after lightning has touched earth. When they laugh, the sound is water finding its way among stones.
 
