@@ -81,77 +81,7 @@ In the old tradition, names carried genuine power. Shamans preserved genealogies
 
 ## The Threats
 
-### Sarks (The Lost Ones)
-
-The Sarks are those who completed the Forgetting. They are the primary physical threat of this time — shaped like man, but of memory, empty.
-
-**Appearance:** Human, but wrong gait, wrong posture, something off. Many wear their old clothes. Some carry tools they no longer understand how to use.
-
-**Behavior:**
-
-- They vocalize — grunts, howls, clicking sounds. Pack communication, not language.
-- Territorial. They claim the places civilization has abandoned: ruins, overgrown farmsteads, forest hollows.
-- A lone traveler will draw them like line and hook. A group with torches and discipline makes them wary.
-- They eat what they catch. Not above hunting men.
-- Some retain echoes of their lives. A Sark blacksmith might hoard iron. A Sark mother might follow kids.
-
-**In combat:**
-
-- Cunning, like an animal. Sarks ambush, flank, use terrain. They are not mindless.
-- Individually weaker than a skilled warrior. Dangerous in numbers.
-- They do not fear death. They _do_ fear fire, and iron.
-
----
-
-### Trow (The Dark Ones)
-
-If Sarks are the horde, The Dark Ones - Trow - are what Sarks become when they left alone, in the dark, for a long, long time. Those who have forgotten so completely that they have found a strange paradise, an equilibrium with the Vormakhian world.
-
-**Appearance:** Always seen incomplete. At torchlight's limit. In sight's corner. The eye slides over them the way it slides over the familiar treeline - until with a second glance something seems altered, but what? You are uncertain what you have seen.
-
-**Behavior:**
-
-- They follow.
-- Their presence accelerates the Forgetting. Around a Trow, friends quarrel. Names fall off the spear of the tongue. Dreams slide away, leaving only a greasy residue in the mind.
-- They single out certain folk. Those marked are isolated through a slow accumulation of accidents, withdrawals of companionship. Eventually, the marked one is alone. _Almost_ alone.
-- Patient. Over one summer or ten, a single Trow will whittle out a village, often without ever being seen.
-
-**In combat:**
-
-- Difficult to fight, difficult to find. Engaging one is like trying to strike mist.
-- Can be driven off by firelight, recitation of kin lineages, the speaking of friends' names. Reinforcing identity weakens their grip.
-- Killing one may require severing its connection to a community...
-- Possibly vulnerable to naming. If a shaman can discover who a Dark One was before it Forgot, that old name might sting. But this is theory, little-tried.
-
----
-
-### The Odd
-
-The old world stirred with things that were never men. Some were carved by shaman hands; others grew in the dark places where no compact held sway.
-
-_Below are two sample monsters_
-
----
-
-#### Greenspire (They of Jade)
-
-In an older age, shamans carved gargoyles from jade-streaked and gave them purpose through Ritual. The Greenspire were shaped intention: to watch, to wait, to wake when boundaries were crossed.
-
-**Varieties:**
-
-- **Kestanes** — Hound-sized, angular, once perched at thresholds. Now they stir without reason, skittering in packs, lashing at sound.
-- **Bhruggspire** — Sentinels, floating at a man's height. They patrol old corridors in slow circuits, grinding wings fluttering ceaselessly, the same routes they walked centuries ago.
-- **Grundkholm** — Rare. Vast. Twice a man's height, carved from red-veined stone. A Grundkholm is fought as one fights a collapsing wall: with distance and the wisdom to not be where it strikes.
-
----
-
-#### Skrelvings (Rust-Feathered)
-
-Flightless birds of the deep places, tall as a man's chest, with beaks like iron chisels and feathers the color of dried blood. They hunt by sound and heat. A single Skrelving is a nuisance. A flock is a death sentence.
-
-**The Ruddyman:** When prey grows scarce, one Skrelving feeds on its kin. It grows. Its feathers blacken. Its beak thickens to a war-pick. The Ruddyman stands tall as a horse and remembers the taste of everything it has eaten.
-
----
+TODO reference bestiary (json and markdown)
 
 ## Factions
 
