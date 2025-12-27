@@ -6,8 +6,8 @@
       "behavior": "Territorial pack hunters that claim abandoned places, using cunning ambush tactics and flanking maneuvers.",
       "habitat": "Ruins, overgrown farmsteads, forest hollows, and anywhere civilization has retreated from.",
       "threat": "medium",
-      "type": "undead", // primate, weird, elemental, beast, spirit, giant
-      "group_size": "pack", // solitary, small, pack, swarm
+      "type": "monster",
+      "group_size": "pack",
       "weakness": [
         "fire",
         "iron"
@@ -20,7 +20,7 @@
       "behavior": "Patient stalkers that accelerate the Forgetting in others, isolating victims over months or years before claiming them.",
       "habitat": "Dark places where Sarks have dwelt undisturbed for generations.",
       "threat": "high",
-      "type": "spirit",
+      "type": "monster",
       "group_size": "solitary",
       "weakness": [
         "firelight",
@@ -35,7 +35,7 @@
       "behavior": "Once threshold guardians, now they skitter in packs without purpose, attacking intruders with claws and stone teeth.",
       "habitat": "Ancient shamanic sites, old temples, and ruins where wards were once carved.",
       "threat": "medium",
-      "type": "construct",
+      "type": "elemental",
       "group_size": "pack",
       "weakness": [],
       "rarity": "uncommon"
@@ -46,8 +46,8 @@
       "behavior": "Patrol fixed routes ceaselessly, hurling bullets of dripping jade acid at any who intrude.",
       "habitat": "Interior corridors of old shamanic fortresses and sealed ritual chambers.",
       "threat": "medium",
-      "type": "construct",
-      "group_size": "solitary",
+      "type": "elemental",
+      "group_size": "small",
       "weakness": [],
       "rarity": "uncommon"
     },
@@ -57,7 +57,7 @@
       "behavior": "Fought like a collapsing wall—slow but devastating, requiring distance and positioning rather than direct combat.",
       "habitat": "The deepest vaults and most sacred chambers of ancient shamanic strongholds.",
       "threat": "extreme",
-      "type": "construct",
+      "type": "elemental",
       "group_size": "solitary",
       "weakness": [],
       "rarity": "rare"
@@ -90,7 +90,7 @@
       "behavior": "Territorial but transactional—offerings of milk, grain, or iron buy safe passage; theft or disrespect brings lingering misfortune.",
       "habitat": "Barrows, old cairns, and burial mounds where the dead were laid with ceremony.",
       "threat": "low",
-      "type": "fey",
+      "type": "monster",
       "group_size": "solitary",
       "weakness": [],
       "rarity": "uncommon"
@@ -101,7 +101,7 @@
       "behavior": "Raiders who come specifically to abduct spouses; silver coins cause them to pause in covetous fascination.",
       "habitat": "Tidal caves, fog-shrouded beaches, and coastal shallows—never beyond the sea's reach.",
       "threat": "high",
-      "type": "fey",
+      "type": "monster",
       "group_size": "pack",
       "weakness": [
         "silver",
@@ -115,8 +115,8 @@
       "behavior": "Observes silently; those who flee are spared, those who linger are found dead of terror with no visible wounds.",
       "habitat": "Ruined fortifications and forsaken holds where lords once ruled.",
       "threat": "extreme",
-      "type": "spirit",
-      "group_size": "solitary",
+      "type": "beast",
+      "group_size": "small",
       "weakness": [],
       "rarity": "rare"
     },
@@ -140,8 +140,8 @@
       "behavior": "Arrives with darkness, curdling sleep into fever-visions; blades pass through it uselessly but fire repels and names wound it.",
       "habitat": "Coastlines, salt-marshes, and wherever land and water meet uncertainly.",
       "threat": "high",
-      "type": "spirit",
-      "group_size": "solitary",
+      "type": "elemental",
+      "group_size": "small",
       "weakness": [
         "fire",
         "naming",
@@ -155,7 +155,7 @@
       "behavior": "Tricksters who lead travelers astray, pinch out torches, and steal first objects then memories; milk and honey may buy forbearance.",
       "habitat": "Liminal spaces—crossroads, forest edges, thresholds between one thing and another.",
       "threat": "medium",
-      "type": "fey",
+      "type": "monster",
       "group_size": "pack",
       "weakness": [
         "milk offerings",
@@ -169,8 +169,8 @@
       "behavior": "Appears near farmsteads; those who leave milk find livestock protected, those who neglect or harm it suffer wasting sickness and curdled stores.",
       "habitat": "Farmsteads, barns, and wherever cattle are kept.",
       "threat": "medium",
-      "type": "fey",
-      "group_size": "solitary",
+      "type": "beast",
+      "group_size": "small",
       "weakness": [],
       "rarity": "uncommon"
     },
@@ -202,7 +202,7 @@
       "behavior": "Dual-natured—guards some farmsteads in exchange for offerings while haunting pools to drink blood from the unwary.",
       "habitat": "Farmsteads where she wards, forest pools and slow streams where she hunts.",
       "threat": "medium",
-      "type": "fey",
+      "type": "monster",
       "group_size": "solitary",
       "weakness": [],
       "rarity": "uncommon"
@@ -213,7 +213,7 @@
       "behavior": "Waits silently; those who stop to speak or reach toward her are found dead without wounds, drained of warmth.",
       "habitat": "Lakeshores, lonely paths beside water, places where travelers walk alone at night.",
       "threat": "high",
-      "type": "spirit",
+      "type": "monster",
       "group_size": "solitary",
       "weakness": [],
       "rarity": "rare"
@@ -224,10 +224,43 @@
       "behavior": "Terrorizes rather than kills, stalking lone travelers across days or weeks, changing form between each sighting until victims flee or break.",
       "habitat": "Hill passes, stone circles, lonely roads between settlements.",
       "threat": "medium",
-      "type": "spirit",
+      "type": "monster",
       "group_size": "solitary",
       "weakness": [],
       "rarity": "uncommon"
+    },
+    {
+      "name": "Hollgh",
+      "description": "An angry or insulted ancestor spirit, invisible apart from limnal circumstances: shamans in trance, at the edge of sleep, in deep fog.",
+      "behavior": "",
+      "habitat": "",
+      "threat": "medium",
+      "type": "spirit",
+      "group_size": "small",
+      "weakness": [],
+      "rarity": "common"
+    },
+    {
+      "name": "Ongkhan-hollgh",
+      "description": "A bound spirit-helper gone feral and parasitic, contained within a vessel, polluting its surroundings.",
+      "behavior": "",
+      "habitat": "",
+      "threat": "medium",
+      "type": "spirit",
+      "group_size": "small",
+      "weakness": [],
+      "rarity": "uncommon"
+    },
+    {
+      "name": "Ezn",
+      "description": "An ancient and powerful master spirit of a place; it IS the place, it's name cannot be known.",
+      "behavior": "",
+      "habitat": "",
+      "threat": "medium",
+      "type": "spirit",
+      "group_size": "solitary",
+      "weakness": [],
+      "rarity": "rare"
     }
   ]
 }

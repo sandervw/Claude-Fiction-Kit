@@ -156,10 +156,26 @@ A thing of no fixed form—now a man stooped beneath invisible burdens, now a be
 
 **Habitat:** Hill passes where mist gathers in the hollows; stone circles patient with lichen; the lonely roads that wind between settlements, forgotten by all save those who must walk them.
 
-###
+### Hollgh (Insulted Dead)
 
-A thing of no fixed form—now a man stooped beneath invisible burdens, now a beast of indeterminate genus, now a greyhound the colour of ancient char whose legs move with the terrible patience of smoke. It passes between standing stones that have forgotten their purpose; it follows paths worn into the hills before memory began, and it moves only when darkness has settled like sediment upon the land. Its howl carries across miles of sleeping country, waking those who will not find rest again until dawn drags its grey fingers across the threshold. Between one shape and the next, witnesses have glimpsed something slick and lightless, something that glistens as wet shadow glistens—briefly, obscenely. The smell of scorched hair lingers long after, clinging to stone and cloth alike.
+An angry or insulted ancestor spirit, invisible apart from limnal circumstances: shamans in trance, at the edge of sleep, in deep fog.
 
-**Behavior:** It terrorizes rather than kills, though terror sustained is itself a killing thing. It stalks the lone traveler; appearing first at such distance that one doubts one's eyes, then closer, changed in form between each sighting, as though the intervals of darkness have worked upon it like a sculptor's hands. By morning it is gone, dissolved into whatever crevice or abstraction houses it. By the following night, returned. Those it marks find themselves harrowed across days and weeks until at last they flee or break. What the creature desires remains obscure. What it _is_—equally so.
+**Behavior:** TODO
 
-**Habitat:** Hill passes where mist gathers in the hollows; stone circles patient with lichen; the lonely roads that wind between settlements, forgotten by all save those who must walk them.
+**Habitat:** TODO
+
+### Ongkhan-hollgh (Corrupted Helper)
+
+A bound spirit-helper gone feral and parasitic, contained within a vessel, polluting its surroundings.
+
+**Behavior:** TODO
+
+**Habitat:** TODO
+
+### Ezn (Lord-Spirit)
+
+An ancient and powerful master spirit of a place; it IS the place, it's name cannot be known.
+
+**Behavior:** TODO
+
+**Habitat:** TODO
