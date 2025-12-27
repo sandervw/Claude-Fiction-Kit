@@ -22,7 +22,7 @@ The Sarks are those who completed the Forgetting. They are the primary physical 
 
 ## Trow (The Dark Ones)
 
-If Sarks are the horde, The Dark Ones - Trow - are what Sarks become when they left alone, in the dark, for a long, long time. Those who have forgotten so completely that they have found a strange paradise, an equilibrium with the Vormakhian world.
+If Sarks are the horde, The Dark Ones - Trow - are what Sarks become when they left alone, in the dark, for a long, long time. Those who have forgotten so completely that they have found a strange paradise, an equilibrium with the Vormakhan world.
 
 **Appearance:** Always seen incomplete. At torchlight's limit. In sight's corner. The eye slides over them the way it slides over the familiar treeline - until with a second glance something seems altered, but what? You are uncertain what you have seen.
 
@@ -50,9 +50,9 @@ In an older age, shamans carved gargoyles from jade-streaked and gave them purpo
 
 **Varieties:**
 
-- **Kestanes** — Hound-sized, angular, once perched at thresholds. Now they stir without reason, skittering in packs, lashing at sound.
-- **Bhruggspire** — Sentinels, floating at a man's height. They patrol old corridors in slow circuits, grinding wings fluttering ceaselessly, the same routes they walked centuries ago.
-- **Grundkholm** — Rare. Vast. Twice a man's height, carved from red-veined stone. A Grundkholm is fought as one fights a collapsing wall: with distance and the wisdom to not be where it strikes.
+- **Kestanes** — Hound-sized, angular, once perched at thresholds. Now they stir without reason, skittering in packs. They stare with their green eyes, and lash with green claws dripping an odd jade acid, and bite with stone teeth.
+- **Bhruggspire** — Sentinels, floating at a man's height. They patrol old corridors in slow circuits, grinding wings fluttering ceaselessly, the same routes they walked centuries ago. They hurl bullets of dripping jade at intruders.
+- **Grundkholm** — Rare. Vast. Twice a man's height, carved from red-veined stone. A Grundkholm is fought as one fights a collapsing wall: with distance and the wisdom to not be where it strikes. From their knuckles a continual stream of jade acid seeps.
 
 ### Skrelvings (Rust-Feathered)
 
@@ -149,6 +149,14 @@ A young woman in ragged vestments, her coat drawn up about her head like a cowl 
 **Habitat:** Lakeshores. Lonely paths beside water. Places where travelers walk alone, and the night is patient.
 
 ### Burnt Vennghast (Fen Ghost)
+
+A thing of no fixed form—now a man stooped beneath invisible burdens, now a beast of indeterminate genus, now a greyhound the colour of ancient char whose legs move with the terrible patience of smoke. It passes between standing stones that have forgotten their purpose; it follows paths worn into the hills before memory began, and it moves only when darkness has settled like sediment upon the land. Its howl carries across miles of sleeping country, waking those who will not find rest again until dawn drags its grey fingers across the threshold. Between one shape and the next, witnesses have glimpsed something slick and lightless, something that glistens as wet shadow glistens—briefly, obscenely. The smell of scorched hair lingers long after, clinging to stone and cloth alike.
+
+**Behavior:** It terrorizes rather than kills, though terror sustained is itself a killing thing. It stalks the lone traveler; appearing first at such distance that one doubts one's eyes, then closer, changed in form between each sighting, as though the intervals of darkness have worked upon it like a sculptor's hands. By morning it is gone, dissolved into whatever crevice or abstraction houses it. By the following night, returned. Those it marks find themselves harrowed across days and weeks until at last they flee or break. What the creature desires remains obscure. What it _is_—equally so.
+
+**Habitat:** Hill passes where mist gathers in the hollows; stone circles patient with lichen; the lonely roads that wind between settlements, forgotten by all save those who must walk them.
+
+###
 
 A thing of no fixed form—now a man stooped beneath invisible burdens, now a beast of indeterminate genus, now a greyhound the colour of ancient char whose legs move with the terrible patience of smoke. It passes between standing stones that have forgotten their purpose; it follows paths worn into the hills before memory began, and it moves only when darkness has settled like sediment upon the land. Its howl carries across miles of sleeping country, waking those who will not find rest again until dawn drags its grey fingers across the threshold. Between one shape and the next, witnesses have glimpsed something slick and lightless, something that glistens as wet shadow glistens—briefly, obscenely. The smell of scorched hair lingers long after, clinging to stone and cloth alike.
 

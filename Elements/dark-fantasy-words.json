@@ -375,33 +375,48 @@
     "meaning": "Stone storage structure with permeable walls for drying, found on St Kilda"
   },
   {
-    "term": "Vormakhian",
-    "category": "creatures",
-    "meaning": "primordial, elemental, ancient, abstract powers of nature; the cataclysm of the world"
-  },
-  {
     "term": "The Forgetting",
     "category": "affliction",
     "meaning": "a gradual process by which a human loses their memory and identity"
   },
   {
+    "term": "Vormakhan",
+    "category": "creature",
+    "meaning": "primordial, elemental, ancient, abstract powers of nature; the cataclysm of the world"
+  },
+  {
     "term": "Sark",
-    "category": "creatures",
+    "category": "creature",
     "meaning": "a human who has undergone The Forgetting, becoming feral and animalistic"
   },
   {
     "term": "The Lost Ones",
-    "category": "creatures",
+    "category": "creature",
     "meaning": "another term for Sarks"
   },
   {
     "term": "Trow",
-    "category": "creatures",
-    "meaning": "a Sark that has evolved, finding equilibrium with the Vormakhian energies; subtler, vaguer, and more dangerous than a Sark"
+    "category": "creature",
+    "meaning": "a Sark that has evolved, finding equilibrium with the Vormakhan energies; subtler, vaguer, and more dangerous than a Sark"
   },
   {
     "term": "The Dark Ones",
-    "category": "creatures",
+    "category": "creature",
     "meaning": "Another term for Trow"
+  },
+  {
+    "term": "Hollgh",
+    "category": "spirit",
+    "meaning": "an angry or insulted ancestor spirit"
+  },
+  {
+    "term": "Ongkhan-hollgh",
+    "category": "spirit",
+    "meaning": "a bound spirit-helper gone feral and parasitic"
+  },
+  {
+    "term": "Ezn",
+    "category": "spirit",
+    "meaning": "an ancient and powerful master spirit of a place; it's name cannot be known"
   }
 ]

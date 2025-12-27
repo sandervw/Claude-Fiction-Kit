@@ -1,0 +1,233 @@
+{
+  "creatures": [
+    {
+      "name": "Sark",
+      "description": "Former humans who completed the Forgetting, appearing human but with wrong gait and posture, often carrying tools they no longer understand.",
+      "behavior": "Territorial pack hunters that claim abandoned places, using cunning ambush tactics and flanking maneuvers.",
+      "habitat": "Ruins, overgrown farmsteads, forest hollows, and anywhere civilization has retreated from.",
+      "threat": "medium",
+      "type": "undead", // primate, weird, elemental, beast, spirit, giant
+      "group_size": "pack", // solitary, small, pack, swarm
+      "weakness": [
+        "fire",
+        "iron"
+      ],
+      "rarity": "common"
+    },
+    {
+      "name": "Trow",
+      "description": "Sarks left alone in darkness so long they've become shadow-things, seen only at torchlight's edge or in the corner of vision.",
+      "behavior": "Patient stalkers that accelerate the Forgetting in others, isolating victims over months or years before claiming them.",
+      "habitat": "Dark places where Sarks have dwelt undisturbed for generations.",
+      "threat": "high",
+      "type": "spirit",
+      "group_size": "solitary",
+      "weakness": [
+        "firelight",
+        "naming",
+        "reciting lineages"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "name": "Kestane",
+      "description": "Hound-sized jade gargoyles with angular forms, green eyes, and claws that drip acidic jade.",
+      "behavior": "Once threshold guardians, now they skitter in packs without purpose, attacking intruders with claws and stone teeth.",
+      "habitat": "Ancient shamanic sites, old temples, and ruins where wards were once carved.",
+      "threat": "medium",
+      "type": "construct",
+      "group_size": "pack",
+      "weakness": [],
+      "rarity": "uncommon"
+    },
+    {
+      "name": "Bhruggspire",
+      "description": "Man-height floating jade sentinels with grinding stone wings, patrolling ancient corridors in endless circuits.",
+      "behavior": "Patrol fixed routes ceaselessly, hurling bullets of dripping jade acid at any who intrude.",
+      "habitat": "Interior corridors of old shamanic fortresses and sealed ritual chambers.",
+      "threat": "medium",
+      "type": "construct",
+      "group_size": "solitary",
+      "weakness": [],
+      "rarity": "uncommon"
+    },
+    {
+      "name": "Grundkholm",
+      "description": "Massive jade constructs twice a man's height, carved from red-veined stone with knuckles that seep continuous acid.",
+      "behavior": "Fought like a collapsing wall—slow but devastating, requiring distance and positioning rather than direct combat.",
+      "habitat": "The deepest vaults and most sacred chambers of ancient shamanic strongholds.",
+      "threat": "extreme",
+      "type": "construct",
+      "group_size": "solitary",
+      "weakness": [],
+      "rarity": "rare"
+    },
+    {
+      "name": "Skrelving",
+      "description": "Flightless birds tall as a man's chest with rust-red feathers and iron-chisel beaks, hunting by sound and heat.",
+      "behavior": "Hunt in flocks through underground spaces; a single bird is a nuisance, a flock is lethal.",
+      "habitat": "Deep underground places, caverns, and subterranean ruins.",
+      "threat": "low",
+      "type": "beast",
+      "group_size": "swarm",
+      "weakness": [],
+      "rarity": "common"
+    },
+    {
+      "name": "Ruddyman",
+      "description": "A Skrelving grown horse-tall by cannibalizing its flock, with blackened feathers and a war-pick beak.",
+      "behavior": "Emerges when prey grows scarce, remembering everything it has consumed and hunting with terrible focus.",
+      "habitat": "Deep places where Skrelving flocks have exhausted their prey.",
+      "threat": "high",
+      "type": "beast",
+      "group_size": "solitary",
+      "weakness": [],
+      "rarity": "rare"
+    },
+    {
+      "name": "Khernghast",
+      "description": "Child-sized creatures with peat-smoke leather skin and milky quartz eyes, dwelling in ancient barrows.",
+      "behavior": "Territorial but transactional—offerings of milk, grain, or iron buy safe passage; theft or disrespect brings lingering misfortune.",
+      "habitat": "Barrows, old cairns, and burial mounds where the dead were laid with ceremony.",
+      "threat": "low",
+      "type": "fey",
+      "group_size": "solitary",
+      "weakness": [],
+      "rarity": "uncommon"
+    },
+    {
+      "name": "Grethling",
+      "description": "Gaunt grey-green figures with fish-scale skin that emerge from coastal fog, reeking of rotting kelp.",
+      "behavior": "Raiders who come specifically to abduct spouses; silver coins cause them to pause in covetous fascination.",
+      "habitat": "Tidal caves, fog-shrouded beaches, and coastal shallows—never beyond the sea's reach.",
+      "threat": "high",
+      "type": "fey",
+      "group_size": "pack",
+      "weakness": [
+        "silver",
+        "reciting genealogies"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "name": "Hound of Klokhanwast",
+      "description": "A massive black hound with light-drinking eyes that appears only in the darkness of ruined strongholds.",
+      "behavior": "Observes silently; those who flee are spared, those who linger are found dead of terror with no visible wounds.",
+      "habitat": "Ruined fortifications and forsaken holds where lords once ruled.",
+      "threat": "extreme",
+      "type": "spirit",
+      "group_size": "solitary",
+      "weakness": [],
+      "rarity": "rare"
+    },
+    {
+      "name": "Mossen Ghrelda",
+      "description": "A twice-man-height ogress with milk-curdled skin, filed teeth, and pelts stitched from unidentifiable hides.",
+      "behavior": "Waits motionless along forest paths for days until prey wanders close, preferring victims alive for what follows.",
+      "habitat": "Dense forest where canopy blocks the sky, overgrown ruins, anywhere shadow pools permanently.",
+      "threat": "high",
+      "type": "giant",
+      "group_size": "solitary",
+      "weakness": [
+        "fire",
+        "iron"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "name": "Dhoor Puddle",
+      "description": "A formless mass like waterlogged sand or blanched jelly with a single vast cataracted eye, leaving brine and corruption in its wake.",
+      "behavior": "Arrives with darkness, curdling sleep into fever-visions; blades pass through it uselessly but fire repels and names wound it.",
+      "habitat": "Coastlines, salt-marshes, and wherever land and water meet uncertainly.",
+      "threat": "high",
+      "type": "spirit",
+      "group_size": "solitary",
+      "weakness": [
+        "fire",
+        "naming",
+        "iron"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "name": "Vlimmen",
+      "description": "Small wrongly-proportioned figures with phosphorescent skin, smelling of crushed grass and lightning, whose laughter sounds like water over stones.",
+      "behavior": "Tricksters who lead travelers astray, pinch out torches, and steal first objects then memories; milk and honey may buy forbearance.",
+      "habitat": "Liminal spaces—crossroads, forest edges, thresholds between one thing and another.",
+      "threat": "medium",
+      "type": "fey",
+      "group_size": "pack",
+      "weakness": [
+        "milk offerings",
+        "honey offerings"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "name": "Malkh",
+      "description": "A mastiff-sized black cat with a pale chest blazon and phosphorescent eyes, whose purr resonates through bone.",
+      "behavior": "Appears near farmsteads; those who leave milk find livestock protected, those who neglect or harm it suffer wasting sickness and curdled stores.",
+      "habitat": "Farmsteads, barns, and wherever cattle are kept.",
+      "threat": "medium",
+      "type": "fey",
+      "group_size": "solitary",
+      "weakness": [],
+      "rarity": "uncommon"
+    },
+    {
+      "name": "Thrymaxia",
+      "description": "A giantess twice a tall man's height with bruise-colored skin and rime-like hair, carrying a light-drinking black staff.",
+      "behavior": "Does not hunt—simply exists, and killing winter follows wherever she walks, reshaping the land itself.",
+      "habitat": "Mountain passes, frozen lakes, high places where nothing grows and warmth is forgotten.",
+      "threat": "extreme",
+      "type": "giant",
+      "group_size": "solitary",
+      "weakness": [],
+      "rarity": "unique"
+    },
+    {
+      "name": "Khroth",
+      "description": "A grey ash-colored figure shaped like an old man, appearing at liminal hours and leaving no trace of presence.",
+      "behavior": "A death omen that cannot be fought or bargained with—to see it means death approaches someone in your bloodline.",
+      "habitat": "Anywhere the veil is thin, especially near ancestral dwellings.",
+      "threat": "low",
+      "type": "spirit",
+      "group_size": "solitary",
+      "weakness": [],
+      "rarity": "rare"
+    },
+    {
+      "name": "Grellwife",
+      "description": "A woman-like creature with grey-green lichen skin and hooved legs hidden beneath tattered green skirts, smelling of wet grass or stagnant water.",
+      "behavior": "Dual-natured—guards some farmsteads in exchange for offerings while haunting pools to drink blood from the unwary.",
+      "habitat": "Farmsteads where she wards, forest pools and slow streams where she hunts.",
+      "threat": "medium",
+      "type": "fey",
+      "group_size": "solitary",
+      "weakness": [],
+      "rarity": "uncommon"
+    },
+    {
+      "name": "Lhinnwife",
+      "description": "A young woman in sodden ragged vestments standing motionless at water's edge, dripping ceaselessly though on dry ground.",
+      "behavior": "Waits silently; those who stop to speak or reach toward her are found dead without wounds, drained of warmth.",
+      "habitat": "Lakeshores, lonely paths beside water, places where travelers walk alone at night.",
+      "threat": "high",
+      "type": "spirit",
+      "group_size": "solitary",
+      "weakness": [],
+      "rarity": "rare"
+    },
+    {
+      "name": "Burnt Vennghast",
+      "description": "A shapeshifter appearing as stooped man, indeterminate beast, or char-colored greyhound, leaving the smell of scorched hair.",
+      "behavior": "Terrorizes rather than kills, stalking lone travelers across days or weeks, changing form between each sighting until victims flee or break.",
+      "habitat": "Hill passes, stone circles, lonely roads between settlements.",
+      "threat": "medium",
+      "type": "spirit",
+      "group_size": "solitary",
+      "weakness": [],
+      "rarity": "uncommon"
+    }
+  ]
+}

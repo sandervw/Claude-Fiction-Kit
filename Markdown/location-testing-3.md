@@ -76,7 +76,7 @@ An exit lift returns to the surface, emerging west of the ruined compound beneat
 
 ---
 
-**Key Interactive Features:** Spear-trap sequencing puzzle (Upper Delve); tripwire deadfalls (Lower Delve); boss-arena lever; sealed Vormakhian gate requiring a shamanic key-item.
+**Key Interactive Features:** Spear-trap sequencing puzzle (Upper Delve); tripwire deadfalls (Lower Delve); boss-arena lever; sealed Vormakhan gate requiring a shamanic key-item.
 
 ## Revised Prose
 
@@ -121,7 +121,7 @@ An exit lift returns to the surface, emerging west of the compound beneath a sky
 
 ---
 
-**Key Interactive Features:** Spear-trap sequencing puzzle (Upper Delve); tripwire deadfalls (Lower Delve); boss-arena lever; sealed Vormakhian gate requiring a shamanic key-item.
+**Key Interactive Features:** Spear-trap sequencing puzzle (Upper Delve); tripwire deadfalls (Lower Delve); boss-arena lever; sealed Vormakhan gate requiring a shamanic key-item.
 
 ## Renamed Characters
 
