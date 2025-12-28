@@ -1,85 +1,23 @@
-## CHARACTER TEMPLATE
+### Hollgh (Insulted Dead)
 
-**Copy this to a character document - fill the template out for each character**
+**Description:** The Hollgh are ancestor-spirits curdled by neglect—the resentful residue of those buried without the speaking of names, or whose remains were laid unclean into indifferent earth. They possess no form the waking eye may grasp. Only at the threshold do they reveal themselves: to shamans suspended in trance, to the near-dreaming mind at the lip of sleep, or to those who wander deep into fog where the world grows thin as old linen. There, one might glimpse them—suggestions of figures, hunched and accusatory, their outlines flickering like heat above stone.
 
-### Purpose (All characters)
+**Behavior:** They do not strike the flesh but rather siege the senses. First comes a ringing in the ears, persistent as guilt. Then a heaviness settles into the limbs, a weariness no rest dispels. Sight dims by slow degrees until the afflicted stumbles through a world of murk. Where many Hollgh gather, and where the trespass runs deep, they may extinguish perception entirely—leaving their victim blind, numb, paralyzed in spirit if not in body. They cannot kill outright, yet need not; the enfeebled fall readily enough to cold, to hunger, to crueler things that smell weakness. Their malice is tethered to the place of their interment, though numbers and grievance stretch that tether far. Fermented sheep's milk, sprinkled or offered, grants brief reprieve. Certain dirges played upon bone flutes may distract them, drawing their attention like moths to sour flame. But only a shaman in full trance, bearing proper offerings, may negotiate a lasting peace.
 
-_What is the character's name?_ Text
+**Habitat:** Barrow-mounds. Vaults beneath ruined forts. Any ground where the dead were planted carelessly—or where some upheaval, natural or monstrous, has cracked open their rest.
 
-_Briefly describe the character:_ Text
+### Ongkhan-hollgh (Corrupted Helper)
 
-_What is the function of the character in the story?_ Text
+**Description:** In the age before the breaking, shamans bound spirit-helpers into vessels—carved figurines of bone or root, pouches of knotted sinew, clay jars stopped with wax and words. These were the Ongkhan: servants, counselors, intermediaries between man and what lay beyond. They required offerings. The recitation of their use-names at prescribed intervals. The shamans who knew those names are dead. What remains are the Ongkhan-hollgh. They cannot leave their vessels, yet neither can they die. They fester within, their purpose rotted to blind appetite. The vessel itself becomes a wound in the world: a thing that should not be touched or opened, should not be brought beneath a roof where children sleep.
 
-_Does the character have an archetype/polarization (head/heart/gut), and do they avoid cliches?_ Text
+**Behavior:** Their influence seeps outward like damp through stone. Iron weeps rust. Dreams turn foul and clinging. Those who linger near grow anxious, sickly, desperate. The Ongkhan-hollgh feeds on vitality the way a wick drinks oil. It cannot act directly, yet it pulls. Folk find themselves reaching for the vessel without knowing why, fingers brushing its surface before the mind catches up. To open it is to invite not possession, but a slow unstitching - Madness. Destruction of the vessel does not kill the spirit.
 
-_How does the character compare/contrast with the hero?_ Text
+**Habitat:** Shaman's huts long abandoned. Reliquaries in ruined forts. Anywhere the old tools were cached and then forgotten. Traders sometimes carry them without knowing—a curious carving, a stoppered jar—and wonder why their companions sicken on the road.
 
-_Does the character have some mystery?_ Text
+### Ezn (Lord-Spirit)
 
-_Does the character change?_ Text
+**Description:** The Ezn are not spirits of a place, but the place itself, the way a valley holds the light, the particular silence of a lake in the dawn, the weight a forest presses in the respired air. They predate memory. The Vormakhans are vast and formless. But the Ezn are local and absolute: each one sovereign over its place - itself - and each old as stone and gravity. They have no shape the eye can hold. One only feels the valley watching. One only feels the mountain's attention like settled snow. Their names are unknowable, unspeakable, their names are sounds no human throat can form, ideas no human mind can carry. Older age shamans knew syllables, enough to petition without offense. That knowledge, too, is passing.
 
-_Could the character undergo a range of change, and is the one they go through the most-fitting by the end?_ Text
+**Behavior:** An Ezn does not act. It simply is. Those within its domain exist at its sufferance. Hurt it - pollution, forgetfulness, some trespass whose logic belongs to an older world - and the land twitches and writhes. Streams that once tasted sweet now run metallic and astringent, bringing thirst rather than refreshment, the water of an alum ocean. Paths loop back on themselves. Wind cuts sharper. Some Ezn can be propitiated with certain offerings or certain silences. But the terms vary, and guessing wrong is its own trespass.
 
-_What are the character's values?_ Text
-
-_Does the character have a symbolic animal and/or movement?_ Text
-
-_Does the character have one or two of the following forms of symbols: action, object, name, or symbolic god/animal/machine?_ Text
-
-_Do the symbols change with the character each time they are repeated?_ Text
-
-### Believe (3D Characters)
-
-_Does the hero have a moment of humanity early on? (A funny, or out-of-character, or compassionate, or oddball, or comically vain, or unique-but-universal "I thought I was the only one who did that!" moment?)_ Text
-
-_Is the hero defined by ongoing actions and attitudes, not by backstory?_ Text
-
-_Does the hero have a well-defined public identity?_ Text
-
-_Does that public identity ironically contrast with a hidden interior self?_ Text
-
-_Does the hero have a consistent metaphor family (drawn from his or her job, background, or developmental state)?_ Text
-
-_Does the hero have a default personality trait?_ Text
-
-_Does the hero have a default argument tactic?_ Text
-
-_Is the hero's primary motivation for tackling this challenge strong, simple, and revealed early on?_ Text
-
-### Care (3D Characters)
-
-_What will be the hero's self-revelation at the story's end?_ Text
-
-_Does the hero start out with a shortsighted or wrongheaded philosophy (or accept a false piece of advice early on)?_ Text
-
-_Does the hero have a false or shortsighted goal in the first half?_ Text
-
-_Does the hero have an open fear or anxiety about his or her future as well as a hidden, private fear?_ Text
-
-_What are the hero's psychological/moral weaknesses/needs?_ Text
-
-_What is the hero's [social]{.underline} problem and [specific]{.underline} desire line?_ Text
-
-### Invest (3D Characters)
-
-_Is the hero's greatest weakness (ironically) the natural flip-side of a great strength that we admire?_ Text
-
-_Is the hero curious and resourceful?_ Text
-
-_Does the hero have a plan?_ Text
-
-_Does the hero have general rules for living he or she clings to (either stated or implied)?_ Text
-
-_Is the hero surrounded by people who sorely lack his or her most valuable quality?_ Text
-
-_...And is the hero willing to let them know that, subtly or directly?_ Text
-
-_Is the hero already doing something active when we first meet him or her?_ Text
-
-_Does the hero have (or claim) decision-making authority?_ Text
-
-_Does the hero use pre-established special skills from his or her past to solve problems (rather than doing what anybody would do)?_ Text
-
-_Does the hero have an opponent (competing for the same goal, and able to hit the hero's weakest point)?_ Text
-
-_Does the hero conflict with the opponent(s) over strong beliefs/morals?_ Text
+**Habitat:** Everywhere. Singular. A mountain. A megalith. A deep bog. A deeper cave. They do not wander. Where you stand, one may be listening.
