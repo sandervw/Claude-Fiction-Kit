@@ -158,24 +158,24 @@ A thing of no fixed form—now a man stooped beneath invisible burdens, now a be
 
 ### Hollgh (Insulted Dead)
 
-An angry or insulted ancestor spirit, invisible apart from limnal circumstances: shamans in trance, at the edge of sleep, in deep fog.
+**Description:** The Hollgh are ancestor-spirits curdled by neglect—the resentful residue of those buried without the speaking of names, or whose remains were laid unclean into indifferent earth. They possess no form the waking eye may grasp. Only at the threshold do they reveal themselves: to shamans suspended in trance, to the near-dreaming mind at the lip of sleep, or to those who wander deep into fog where the world grows thin as old linen. There, one might glimpse them—suggestions of figures, hunched and accusatory, their outlines flickering like heat above stone.
 
-**Behavior:** TODO
+**Behavior:** They do not strike the flesh but rather siege the senses. First comes a ringing in the ears, persistent as guilt. Then a heaviness settles into the limbs, a weariness no rest dispels. Sight dims by slow degrees until the afflicted stumbles through a world of murk. Where many Hollgh gather, and where the trespass runs deep, they may extinguish perception entirely—leaving their victim blind, numb, paralyzed in spirit if not in body. They cannot kill outright, yet need not; the enfeebled fall readily enough to cold, to hunger, to crueler things that smell weakness. Their malice is tethered to the place of their interment, though numbers and grievance stretch that tether far. Fermented sheep's milk, sprinkled or offered, grants brief reprieve. Certain dirges played upon bone flutes may distract them, drawing their attention like moths to sour flame. But only a shaman in full trance, bearing proper offerings, may negotiate a lasting peace.
 
-**Habitat:** TODO
+**Habitat:** Barrow-mounds. Vaults beneath ruined forts. Any ground where the dead were planted carelessly—or where some upheaval, natural or monstrous, has cracked open their rest.
 
 ### Ongkhan-hollgh (Corrupted Helper)
 
-A bound spirit-helper gone feral and parasitic, contained within a vessel, polluting its surroundings.
+**Description:** In the age before the breaking, shamans bound spirit-helpers into vessels—carved figurines of bone or root, pouches of knotted sinew, clay jars stopped with wax and words. These were the Ongkhan: servants, counselors, intermediaries between man and what lay beyond. They required offerings. The recitation of their use-names at prescribed intervals. The shamans who knew those names are dead. What remains are the Ongkhan-hollgh. They cannot leave their vessels, yet neither can they die. They fester within, their purpose rotted to blind appetite. The vessel itself becomes a wound in the world: a thing that should not be touched or opened, should not be brought beneath a roof where children sleep.
 
-**Behavior:** TODO
+**Behavior:** Their influence seeps outward like damp through stone. Iron weeps rust. Dreams turn foul and clinging. Those who linger near grow anxious, sickly, desperate. The Ongkhan-hollgh feeds on vitality the way a wick drinks oil. It cannot act directly, yet it pulls. Folk find themselves reaching for the vessel without knowing why, fingers brushing its surface before the mind catches up. To open it is to invite not possession, but a slow unstitching - Madness. Destruction of the vessel does not kill the spirit.
 
-**Habitat:** TODO
+**Habitat:** Shaman's huts long abandoned. Reliquaries in ruined forts. Anywhere the old tools were cached and then forgotten. Traders sometimes carry them without knowing—a curious carving, a stoppered jar—and wonder why their companions sicken on the road.
 
 ### Ezn (Lord-Spirit)
 
-An ancient and powerful master spirit of a place; it IS the place, it's name cannot be known.
+**Description:** The Ezn are not spirits of a place, but the place itself, the way a valley holds the light, the particular silence of a lake in the dawn, the weight a forest presses in the respired air. They predate memory. The Vormakhans are vast and formless. But the Ezn are local and absolute: each one sovereign over its place - itself - and each old as stone and gravity. They have no shape the eye can hold. One only feels the valley watching. One only feels the mountain's attention like settled snow. Their names are unknowable, unspeakable, their names are sounds no human throat can form, ideas no human mind can carry. Older age shamans knew syllables, enough to petition without offense. That knowledge, too, is passing.
 
-**Behavior:** TODO
+**Behavior:** An Ezn does not act. It simply is. Those within its domain exist at its sufferance. Hurt it - pollution, forgetfulness, some trespass whose logic belongs to an older world - and the land twitches and writhes. Paths loop back on themselves. Streams that once tasted sweet now seem to run with ocean water, bringing thirst rather than refreshment. The cold bites deeper. Some Ezn can be propitiated with certain offerings or certain silences. But the terms vary, and guessing wrong is its own trespass.
 
-**Habitat:** TODO
+**Habitat:** Everywhere. Singular. A mountain. A megalith. A deep bog. A deeper cave. They do not wander. Where you stand, one may be listening.
