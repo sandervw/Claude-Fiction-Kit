@@ -1,0 +1,299 @@
+{
+  "archtype-templates": [
+    {
+      "type-name": "The Reluctant Homebody",
+      "values": [
+        "comfort",
+        "security",
+        "domestic peace"
+      ],
+      "default-personality-trait": "Cautious",
+      "default-argument-tactic": "practical objections",
+      "primary-motivation": "return home",
+      "self-revelation": "adventure reveals inner courage",
+      "false-philosophy": "safety through avoidance",
+      "false-goal": "preserve unchanged routine",
+      "fears": {
+        "open": "the unknown",
+        "hidden": "inadequacy"
+      },
+      "social-problem": "underestimation",
+      "specific-desire": "Example: reclaim peaceful life",
+      "greatest-weakness": "timidity",
+      "corresponding-strength": "resourcefulness",
+      "rules-for-living": [
+        "'never miss a meal'",
+        "'home is where heart is'"
+      ],
+      "special-skills": [
+        "Example: clever wordplay",
+        "Example: domestic crafts"
+      ]
+    },
+    {
+      "type-name": "The Devoted Gardener",
+      "values": [
+        "stewardship",
+        "patience"
+      ],
+      "default-personality-trait": "Humble",
+      "default-argument-tactic": "gentle persistence",
+      "primary-motivation": "nurturing growth",
+      "self-revelation": "small things sustain worlds",
+      "false-philosophy": "Example: grand deeds matter most",
+      "false-goal": "Example: protecting one beloved garden",
+      "fears": {
+        "open": "blight or destruction",
+        "hidden": "being uprooted"
+      },
+      "social-problem": "Example: environmental degradation",
+      "specific-desire": "Example: restore the orchard",
+      "greatest-weakness": "over-attachment to place",
+      "corresponding-strength": "fierce loyalty",
+      "rules-for-living": [
+        "'tend what's before you'",
+        "'growth takes time'"
+      ],
+      "special-skills": [
+        "botanical knowledge",
+        "restoration"
+      ]
+    },
+    {
+      "type-name": "The Village Wise Woman",
+      "values": [
+        "community",
+        "duty",
+        "tradition"
+      ],
+      "default-personality-trait": "Pragmatic",
+      "default-argument-tactic": "knowing silence",
+      "primary-motivation": "service",
+      "self-revelation": "care is its own reward",
+      "false-philosophy": "must solve everyone's problems",
+      "false-goal": "earn community's gratitude",
+      "fears": {
+        "open": "failing those in need",
+        "hidden": "becoming obsolete"
+      },
+      "social-problem": "unacknowledged labor",
+      "specific-desire": "Example: heal the sick child",
+      "greatest-weakness": "pride",
+      "corresponding-strength": "competence",
+      "rules-for-living": [
+        "'don't meddle unnecessarily'",
+        "'know when not to act'"
+      ],
+      "special-skills": [
+        "herbalism",
+        "headology",
+        "midwifery"
+      ]
+    },
+    {
+      "type-name": "The Hearth Witch",
+      "values": [
+        "nurturing",
+        "hospitality"
+      ],
+      "default-personality-trait": "Warm",
+      "default-argument-tactic": "maternal disarmament",
+      "primary-motivation": "creating home",
+      "self-revelation": "domestic arts hold true power",
+      "false-philosophy": "magic must be grand to matter",
+      "false-goal": "prove worth beyond housework",
+      "fears": {
+        "open": "chaos",
+        "hidden": "being undervalued"
+      },
+      "social-problem": "devalued labor",
+      "specific-desire": "Example: transform this space into home",
+      "greatest-weakness": "self-effacement",
+      "corresponding-strength": "quiet competence",
+      "rules-for-living": [
+        "'feed them first'",
+        "'home is sanctuary'"
+      ],
+      "special-skills": [
+        "cooking",
+        "brewing",
+        "midwifery"
+      ]
+    },
+    {
+      "type-name": "The Witch's Apprentice",
+      "values": [
+        "self-improvement",
+        "community"
+      ],
+      "default-personality-trait": "Earnest",
+      "default-argument-tactic": "humble admission",
+      "primary-motivation": "mastery",
+      "self-revelation": "competence comes through connection",
+      "false-philosophy": "succeed alone to prove worth",
+      "false-goal": "perfect skill before seeking belonging",
+      "fears": {
+        "open": "failure",
+        "hidden": "being fundamentally incompetent"
+      },
+      "social-problem": "not fitting in",
+      "specific-desire": "Example: pass the apprentice trial",
+      "greatest-weakness": "self-doubt",
+      "corresponding-strength": "persistence",
+      "rules-for-living": [
+        "'practice makes perfect'",
+        "'ask for help when stuck'"
+      ],
+      "special-skills": [
+        "Example: flying",
+        "Example: potion-brewing"
+      ]
+    },
+    {
+      "type-name": "The Pastoral Craftsperson",
+      "values": [
+        "craftsmanship",
+        "patience"
+      ],
+      "default-personality-trait": "Humble",
+      "default-argument-tactic": "practical demonstration",
+      "primary-motivation": "mastery",
+      "self-revelation": "humble work is genuine achievement",
+      "false-philosophy": "must prove worth through grand deeds",
+      "false-goal": "Example: seek heroic glory",
+      "fears": {
+        "open": "inadequacy",
+        "hidden": "insignificance"
+      },
+      "social-problem": "undervaluation of labor",
+      "specific-desire": "Example: complete masterwork piece",
+      "greatest-weakness": "self-doubt",
+      "corresponding-strength": "diligence",
+      "rules-for-living": [
+        "'excellence in small things'",
+        "'practice before perfection'"
+      ],
+      "special-skills": [
+        "Example: smithing",
+        "Example: beekeeping"
+      ]
+    },
+    {
+      "type-name": "The Nurturing Innkeeper",
+      "values": [
+        "hospitality",
+        "community"
+      ],
+      "default-personality-trait": "Motherly",
+      "default-argument-tactic": "gentle reassurance",
+      "primary-motivation": "nurturing others",
+      "self-revelation": "creating home matters most",
+      "false-philosophy": "guests need only food and shelter",
+      "false-goal": "keep the establishment running",
+      "fears": {
+        "open": "failing guests",
+        "hidden": "empty tables"
+      },
+      "social-problem": "loneliness",
+      "specific-desire": "Example: expand the kitchen",
+      "greatest-weakness": "overgiving",
+      "corresponding-strength": "unconditional acceptance",
+      "rules-for-living": [
+        "'no one leaves hungry'",
+        "'all are welcome here'"
+      ],
+      "special-skills": [
+        "cooking",
+        "reading people"
+      ]
+    },
+    {
+      "type-name": "The Subversive Princess",
+      "values": [
+        "autonomy",
+        "competence"
+      ],
+      "default-personality-trait": "Spirited",
+      "default-argument-tactic": "cheerful defiance",
+      "primary-motivation": "self-determination",
+      "self-revelation": "choosing freely makes work joy",
+      "false-philosophy": "escape expectations entirely",
+      "false-goal": "flee restrictive society",
+      "fears": {
+        "open": "arranged marriage",
+        "hidden": "being ordinary"
+      },
+      "social-problem": "gendered expectations",
+      "specific-desire": "Example: master unconventional skill",
+      "greatest-weakness": "impatience with tradition",
+      "corresponding-strength": "adaptability",
+      "rules-for-living": [
+        "'choose your own captivity'",
+        "'competence over propriety'"
+      ],
+      "special-skills": [
+        "Example: swordsmanship",
+        "Example: scholarly learning"
+      ]
+    },
+    {
+      "type-name": "The Retired Adventurer",
+      "values": [
+        "peace",
+        "contentment"
+      ],
+      "default-personality-trait": "Patient",
+      "default-argument-tactic": "gentle wisdom",
+      "primary-motivation": "tranquility",
+      "self-revelation": "peace was always the goal",
+      "false-philosophy": "stay uninvolved forever",
+      "false-goal": "complete isolation from conflict",
+      "fears": {
+        "open": "violence returning",
+        "hidden": "being forgotten"
+      },
+      "social-problem": "Example: past reputation",
+      "specific-desire": "Example: tend the garden",
+      "greatest-weakness": "reluctance to act",
+      "corresponding-strength": "hard-won wisdom",
+      "rules-for-living": [
+        "'those days are behind me'",
+        "'the young must find their path'"
+      ],
+      "special-skills": [
+        "Example: dormant combat prowess",
+        "Example: mentorship"
+      ]
+    },
+    {
+      "type-name": "The Communal Guardian",
+      "values": [
+        "community",
+        "duty",
+        "cooperation"
+      ],
+      "default-personality-trait": "Practical",
+      "default-argument-tactic": "appeal to shared welfare",
+      "primary-motivation": "protecting community",
+      "self-revelation": "belonging matters more than glory",
+      "false-philosophy": "must become exceptional to protect others",
+      "false-goal": "become the legendary hero",
+      "fears": {
+        "open": "failing the community",
+        "hidden": "being ordinary"
+      },
+      "social-problem": "Example: external threat",
+      "specific-desire": "Example: rally neighbors for defense",
+      "greatest-weakness": "self-doubt",
+      "corresponding-strength": "humility",
+      "rules-for-living": [
+        "'do what needs doing'",
+        "'we're stronger together'"
+      ],
+      "special-skills": [
+        "Example: herbalism",
+        "Example: organization"
+      ]
+    }
+  ]
+}

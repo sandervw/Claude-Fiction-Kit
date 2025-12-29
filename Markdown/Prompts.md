@@ -229,114 +229,37 @@ Now write a description of a celtic bronze-age king's feasting hall, with the tr
 
 ### Research Archtypes Prompt
 
-#### Instructions
-
-Replace the placeholders below before use:
-
-- `{{TARGET_GENRE}}` — The primary genre to research (e.g., "dark fantasy", "cosmic horror", "noir")
-- `{{ADJACENT_GENRES}}` — Related subgenres to include (e.g., "weird fiction and grimdark sword & sorcery")
-- `{{EXCLUDED_GENRES}}` — Genres to explicitly exclude (e.g., "gothic horror")
-
----
-
-#### Prompt
-
 ```
-Research and compile a list of 8-12 protagonist archetypes specific to the **{{TARGET_GENRE}}** genre.
-
-### Scope & Criteria
-
-- Focus on **protagonist archetypes only**, not side/support characters
-- All examples must come from media (film, TV, literature, video games) made **before the year 2005**
-- Precursors and "forefathers" of the genre are acceptable
-- **Include adjacent subgenres:** {{ADJACENT_GENRES}}
-- **Exclude:** {{EXCLUDED_GENRES}}
-- Your final report should be no more than 10 pages
-
-### Output Requirements
-
-For each archetype, provide:
-
-1. **Archetype name** — A descriptive title (e.g., "The Doomed Champion", "The Amoral Barbarian Survivor")
-
-2. **Character Examples** — 2-3 specific characters with:
-   - Character name
-   - Creator/author or studio
-   - Source media title
-   - Approximate date (year or range)
-
-3. **Core Elements** — A paragraph covering:
-   - The archetype's origin or foundational example
-   - Primary motivations and defining traits
-   - How creators conceived or designed this character type
-
-4. **Distinguishing Features** — A paragraph covering:
-   - What separates this archetype from others in the genre
-   - Key skills, relationships, or narrative functions
-   - Visual or behavioral motifs
-
-5. **What Makes It {{TARGET_GENRE}}** — A paragraph covering:
-   - Why this archetype belongs specifically to this genre
-   - Moral/philosophical dimensions
-   - Relationship to the genre's core themes and atmosphere
-
-### Output Format
-
-Structure the deliverable as a markdown document with:
-
-1. **Title header** — "{{TARGET_GENRE}} Protagonist Archetypes: A Creative Writing Reference"
-
-2. **Introduction paragraph** — Brief overview of what distinguishes this genre's protagonists from traditional/mainstream fantasy heroes
-
-3. **Numbered archetype sections** (8-12 total) — Each as an H2 header, containing:
-   - Character Examples (bulleted list)
-   - Core Elements (paragraph)
-   - Distinguishing Features (paragraph)
-   - What Makes It {{TARGET_GENRE}} (paragraph)
-
-4. **Comparative analysis table** — Contrasting genre protagonists against traditional fantasy heroes across traits like:
-   - Motivation
-   - Moral framework
-   - Relationship to magic/supernatural
-   - Community/isolation
-   - Character arc
-   - Victory condition
-   - Divine/cosmic relationship
-
-5. **Brief concluding paragraph** — Synthesizing the genre's protagonist philosophy
-
-### Research Guidance
-
-- Prioritize literary criticism, genre analysis, and retrospectives over plot summaries
-- Key authors/creators vary by genre — identify foundational figures early
-- Look for explicit creator commentary on character design philosophy
-- Note influences and legacy where relevant (who inspired whom)
+Hey claude, I want you to do a research project for a list of character archtypes specific to the {{MAIN_GENRE}} genre. I'm looking specifically for protagonist archtypes, not side/support characters. Anything from film, tv, literature, and video games is on the table, but the media must have been made before the year 2005. Precursors or 'forefathers' of the genre are acceptable. Try for 8-12 archtypes, but do not pad the list with non-protagonists if you can't distinguish 8-12. You can include the following related genres in your research: {{INCLUDED_GENRES}}. But exclude {{EXCLUDED_GENRES}}.
+Your final report should be in markdown format. Each archtype should have its own section. For each archtype, include 2-3 example characters, core elements, distinguishing features, and what makes it a {{MAIN GENRE}} archtype. At the end of the report, you should include a comparative analysis table, contrasting the general defining features of the genre's archtypes against traditional genre ones.
 ```
 
 ### Image Generation Prompt
 
-First Prompt
+Can you help me diagnose a prompting problem I'm having? I gave you the two prompts below in priors chats. The first one produced exactly what I wanted. I have adjusted the second half-a-dozen times, but you consistently refuse to output an image in the desired 2.5D style (no pixel sprites, no retro video game look). Can you explain why?
+Prompt 1:
+
+```
+I want you to generate an image. IT should be a still first-person 2.5D dungeon crawler with chunky pixel-art: a blocky 3D world textured in low-res pixels, populated by billboarded 2D sprites, lit like a moody 90s FPS. In the still, there should be a pixel-art flail in the left hand, and the view should be looking down two long rows of 2D pews in a dark fantasy church, with skeleton sprites emerging from the darkness.
+```
+
+Prompt 2:
 
 ```
 Can you generate the image I outline below?
-`STYLE`
-The image style should be like an Arthur Rackham Fairy Tale Illustration.
-`DESCRIPTION`
-The setting is a **ruined interior space**, perhaps a celtic burial mound. The walls are rough stone, a long and tall hall extending into the black background, with a long upper ledge on one side.
-There are **four creatures** in this setting, one crouched as if squatting at the lip up on the long ledge, and the other three prowling on the cracked floor.
-The creatures appear **hound-sized and with long greyhound-like legs**. Their bodies are **angular and segmented**, as though assembled from broken masonry. Each limb is thin with sharp, chiseled edges that resemble fractured stone. Cracks and fissures run across their hides, giving the impression of **ancient statues reanimated**.
-Their **heads are shaed like the busts of green philosphers**, with broad, long beards and placid or contemplative faces. In contract, however, their mouths gape, filled with uneven, chipped, stone-like teeth. From these mouths—and from the claws—drips a **viscous, luminous jade substance**. The liquid appears corrosive or alchemical; it clings heavily, stretching in strings before breaking into puddles. Their **eyes glow the same vivid jade green**.
-Each creature bears **shattered wings**, folded awkwardly along their backs. These wings are broken at the joints, cracked along the membranes, and jagged at the edges. They resemble the remnants of architectural gargoyles. Their **claws are long, like the claws of a therizinosaur**, stained and dripping with the same jade fluid.
+`Description`
+This is a still frame from a retro first-person 2.5D dungeon crawler video game.
+The environment is rendered as a blocky 3D space with low-resolution pixel textures.
+All enemies are flat, billboarded 2D sprites that always face the camera, with visible pixel grids and limited color palettes.
+In the still, there should be a pixel-art longsword in the left hand, and the view should be looking down a ruined interior space resembling a Celtic burial mound. The walls are rough stone, a long and tall hall extending into the black background, with a long upper ledge on one side.
+There are threey sprites, one crouched on the long ledge, two huddled on the floor. The sprites resemble gargoyles, hunched on all fours, with jade eyes.
+The image must look like a low-resolution video game screenshot.
 ```
 
-Second Prompt:
+### JSON Conversion Prompt
 
 ```
-Can you adjust the attached image? I want it to be mostly the same, but the four monsters should be a kind of bluish-grey colored stone, closer to slate, contrasting sharply with the background. Maintain their jade-colored eyes, claws, and saliva.
-```
-
-Third Prompt:
-
-```
-Can you re-imagine the attached image in a new style? I want the same general layout. But the new style should be like a **first-person 2.5D dungeon crawler** with chunky pixel-art: a **blocky 3D world textured in low-res pixels**, populated by **billboarded 2D sprites**, lit like a moody 90s FPS.
+Hey claude, take a look at @Markdown\temp.md and @Elements\archtype-example.json. I want you to use the info in temp.md to create a new json object in the structure shown in archtype-example.json. You should strive to be as generic as possible, with each attribute of the json object reflecting the most common pattern among characters in the dark fantasy genre which fit this archtype. Be brief with your attributes: 1 word if possible, no more than 4 when *some* elaboration is called for. In cases where there is no 'fixed' attribute value in the genre, put "Example: attributeValue" with a common feature of characters in the genre.
+Before you start, do a quick web search for "Dark Fantasy [THE NAME OF THE ARCHTYPE]" so you have points of reference.
+Output only your json object when you are finished.
 ```
