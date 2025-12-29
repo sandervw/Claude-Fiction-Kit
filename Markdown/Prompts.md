@@ -259,7 +259,7 @@ The image must look like a low-resolution video game screenshot.
 ### JSON Conversion Prompt
 
 ```
-Hey claude, take a look at @Markdown\temp.md and @Elements\archtype-example.json. I want you to use the info in temp.md to create a new json object in the structure shown in archtype-example.json. You should strive to be as generic as possible, with each attribute of the json object reflecting the most common pattern among characters in the dark fantasy genre which fit this archtype. Be brief with your attributes: 1 word if possible, no more than 4 when *some* elaboration is called for. In cases where there is no 'fixed' attribute value in the genre, put "Example: attributeValue" with a common feature of characters in the genre.
-Before you start, do a quick web search for "Dark Fantasy [THE NAME OF THE ARCHTYPE]" so you have points of reference.
+Hey claude, take a look at @Markdown\temp.md and @Elements\archtype-example.json. I want you to use the info in temp.md to create a new json object in the structure shown in archtype-example.json. You should strive to be as generic as possible, with each attribute of the json object reflecting the most common pattern among characters in the Space Opera genre which fit this archtype. Be brief with your attributes: 1 word if possible, no more than 4 when *some* elaboration is called for. In cases where there is no 'fixed' attribute value in the genre, put "Example: attributeValue" with a common feature of characters in the genre.
+Before you start, do a quick web search for "Space Opera [THE NAME OF THE ARCHTYPE]" so you have points of reference.
 Output only your json object when you are finished.
 ```

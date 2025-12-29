@@ -1,293 +1,293 @@
 {
   "archtype-templates": [
     {
-      "type-name": "Amoral Barbarian Survivor",
+      "type-name": "Prophesied Chosen One",
       "values": [
-        "strength",
-        "cunning"
+        "destiny",
+        "justice"
       ],
-      "default-personality-trait": "stoic",
-      "default-argument-tactic": "dismissive contempt",
-      "primary-motivation": "survival",
-      "self-revelation": "civilization mirrors the savagery it condemns",
-      "false-philosophy": "strength alone justifies",
-      "false-goal": "wealth will bring security",
+      "default-personality-trait": "idealistic",
+      "default-argument-tactic": "moral appeal",
+      "primary-motivation": "fulfilling destiny",
+      "self-revelation": "power demands sacrifice",
+      "false-philosophy": "prophecy justifies action",
+      "false-goal": "restore galactic order",
       "fears": {
-        "open": "weakness",
-        "hidden": "meaninglessness"
+        "open": "failure",
+        "hidden": "becoming tyrant"
       },
-      "social-problem": "displacement",
-      "specific-desire": "Example: plunder the temple",
-      "greatest-weakness": "amorality",
-      "corresponding-strength": "adaptability",
+      "social-problem": "oppression",
+      "specific-desire": "Example: defeat the Emperor",
+      "greatest-weakness": "naivety",
+      "corresponding-strength": "purity of intent",
       "rules-for-living": [
-        "'trust no one'",
-        "'take what you can'"
+        "'trust the vision'",
+        "'mentor knows best'"
       ],
       "special-skills": [
-        "combat",
-        "Example: wilderness survival"
+        "precognition",
+        "telepathy"
       ]
     },
     {
-      "type-name": "Doomed Champion",
+      "type-name": "The Noble Captain",
       "values": [
-        "cosmic balance",
-        "loyalty"
+        "duty",
+        "justice"
       ],
-      "default-personality-trait": "melancholic",
-      "default-argument-tactic": "weary fatalism",
-      "primary-motivation": "break the curse",
-      "self-revelation": "power devours the wielder",
-      "false-philosophy": "dark means justify noble ends",
-      "false-goal": "escape servitude",
+      "default-personality-trait": "principled",
+      "default-argument-tactic": "eloquent appeal to ideals",
+      "primary-motivation": "protect crew and principles",
+      "self-revelation": "authority means sacrifice",
+      "false-philosophy": "diplomacy solves everything",
+      "false-goal": "maintain perfect peace",
       "fears": {
-        "open": "harming loved ones",
-        "hidden": "being the monster"
+        "open": "crew casualties",
+        "hidden": "making the wrong call"
       },
-      "social-problem": "exile",
-      "specific-desire": "Example: slay the demon lord",
-      "greatest-weakness": "dependency",
-      "corresponding-strength": "cosmic significance",
+      "social-problem": "bureaucratic interference",
+      "specific-desire": "Example: resolve the crisis",
+      "greatest-weakness": "overconfidence",
+      "corresponding-strength": "decisiveness",
       "rules-for-living": [
-        "'the sword demands blood'",
-        "'fate cannot be outrun'"
+        "'the captain goes down with the ship'",
+        "'never leave anyone behind'"
       ],
       "special-skills": [
-        "cursed-weapon mastery",
-        "Example: sorcery"
+        "oratory",
+        "tactical command"
       ]
     },
     {
-      "type-name": "Immortal Villain Protagonist",
-      "values": [
-        "power",
-        "knowledge"
-      ],
-      "default-personality-trait": "nihilistic",
-      "default-argument-tactic": "cold dismissal",
-      "primary-motivation": "perpetuation",
-      "self-revelation": "destruction defines existence",
-      "false-philosophy": "morality is perspective",
-      "false-goal": "dominion",
-      "fears": {
-        "open": "violence by own hand",
-        "hidden": "purposelessness"
-      },
-      "social-problem": "outliving all bonds",
-      "specific-desire": "Example: acquire the artifact",
-      "greatest-weakness": "complete amorality",
-      "corresponding-strength": "ruthless pragmatism",
-      "rules-for-living": [
-        "'nothing endures'",
-        "'might determines right'"
-      ],
-      "special-skills": [
-        "sorcery",
-        "combat mastery"
-      ]
-    },
-    {
-      "type-name": "The Humanized Rogues",
+      "type-name": "The Lovable Rogue",
       "values": [
         "loyalty",
         "freedom"
       ],
-      "default-personality-trait": "sardonic",
-      "default-argument-tactic": "deflecting wit",
+      "default-personality-trait": "cynical",
+      "default-argument-tactic": "deflecting sarcasm",
       "primary-motivation": "survival",
-      "self-revelation": "bonds outweigh profit",
-      "false-philosophy": "self-interest alone",
-      "false-goal": "one last score",
+      "self-revelation": "caring is worth the risk",
+      "false-philosophy": "look out for yourself first",
+      "false-goal": "one last score to retire",
       "fears": {
-        "open": "authorities",
-        "hidden": "losing partner"
+        "open": "capture",
+        "hidden": "attachment"
       },
-      "social-problem": "marginalization",
-      "specific-desire": "Example: pull off heist",
-      "greatest-weakness": "overconfidence",
-      "corresponding-strength": "resourcefulness",
+      "social-problem": "authority",
+      "specific-desire": "Example: clear a debt",
+      "greatest-weakness": "distrust",
+      "corresponding-strength": "self-reliance",
       "rules-for-living": [
-        "never work free",
-        "watch partner's back"
+        "'never work for free'",
+        "'always have an exit'"
       ],
       "special-skills": [
-        "thievery",
-        "deception"
+        "piloting",
+        "fast-talking"
       ]
     },
     {
-      "type-name": "The Picaresque Amoral Survivor",
+      "type-name": "Displaced Earthman",
       "values": [
-        "self-preservation",
-        "avarice"
+        "humanity",
+        "adaptability"
       ],
-      "default-personality-trait": "shameless",
-      "default-argument-tactic": "sophistry",
+      "default-personality-trait": "bewildered",
+      "default-argument-tactic": "pop-culture analogy",
       "primary-motivation": "survival",
-      "self-revelation": "none",
-      "false-philosophy": "cleverness conquers all",
-      "false-goal": "comfort through cunning",
+      "self-revelation": "ordinary humans matter among the stars",
+      "false-philosophy": "stay uninvolved until I find a way home",
+      "false-goal": "return to Earth",
       "fears": {
-        "open": "violence",
-        "hidden": "being outwitted"
+        "open": "alien hostility",
+        "hidden": "never belonging"
       },
-      "social-problem": "civilizational decay",
-      "specific-desire": "Example: escape current predicament",
-      "greatest-weakness": "arrogance",
-      "corresponding-strength": "adaptability",
+      "social-problem": "cultural outsider",
+      "specific-desire": "Example: escape the empire",
+      "greatest-weakness": "ignorance",
+      "corresponding-strength": "fresh perspective",
       "rules-for-living": [
-        "self first always",
-        "trust no one"
+        "'trust no one alien'",
+        "'fake it till you make it'"
       ],
       "special-skills": [
-        "deception",
-        "manipulation"
+        "Example: piloting",
+        "improvisation"
       ]
     },
     {
-      "type-name": "Cynical Mercenary",
+      "type-name": "Planetary Romance Hero",
       "values": [
-        "loyalty",
-        "pragmatism"
+        "honor",
+        "courage"
       ],
-      "default-personality-trait": "sardonic",
-      "default-argument-tactic": "weary deflection",
-      "primary-motivation": "coin",
-      "self-revelation": "loyalty outlasts causes",
-      "false-philosophy": "all sides corrupt equally",
-      "false-goal": "one last contract",
+      "default-personality-trait": "stalwart",
+      "default-argument-tactic": "direct challenge",
+      "primary-motivation": "belonging",
+      "self-revelation": "home is chosen, not born",
+      "false-philosophy": "strength conquers all",
+      "false-goal": "become greatest warrior",
       "fears": {
-        "open": "death",
-        "hidden": "abandonment"
+        "open": "captivity",
+        "hidden": "rootlessness"
       },
-      "social-problem": "expendability",
-      "specific-desire": "Example: complete contract",
-      "greatest-weakness": "apathy",
-      "corresponding-strength": "adaptability",
+      "social-problem": "displacement",
+      "specific-desire": "Example: rescue the princess",
+      "greatest-weakness": "recklessness",
+      "corresponding-strength": "fearlessness",
       "rules-for-living": [
-        "honor the contract",
-        "coin is coin"
+        "'protect the helpless'",
+        "'never refuse a duel'"
       ],
       "special-skills": [
-        "combat",
+        "swordsmanship",
         "survival"
       ]
     },
     {
-      "type-name": "The Undead Revenant",
+      "type-name": "Revenge-Driven Antihero",
       "values": [
-        "truth",
-        "memory"
+        "relentlessness",
+        "self-transformation"
       ],
-      "default-personality-trait": "bitter",
-      "default-argument-tactic": "grim reminder",
+      "default-personality-trait": "obsessive",
+      "default-argument-tactic": "intimidation",
       "primary-motivation": "vengeance",
-      "self-revelation": "death offers no escape",
-      "false-philosophy": "closure ends suffering",
-      "false-goal": "destroy the one responsible",
+      "self-revelation": "revenge consumes the avenger",
+      "false-philosophy": "destroy those who wronged me",
+      "false-goal": "annihilate my betrayers",
       "fears": {
-        "open": "dissolution",
-        "hidden": "what they were"
+        "open": "failure",
+        "hidden": "insignificance"
       },
-      "social-problem": "monstrousness",
-      "specific-desire": "Example: kill former master",
-      "greatest-weakness": "obsession",
-      "corresponding-strength": "persistence",
+      "social-problem": "abandonment",
+      "specific-desire": "Example: destroy the Vorga",
+      "greatest-weakness": "rage",
+      "corresponding-strength": "determination",
       "rules-for-living": [
-        "trust nothing living",
-        "the dead keep secrets"
+        "'never forgive'",
+        "'become what they fear'"
       ],
       "special-skills": [
-        "supernatural perception",
-        "tireless endurance"
+        "survival",
+        "adaptation"
       ]
     },
     {
-      "type-name": "The Fanatical Avenger",
+      "type-name": "Visionary Mastermind",
       "values": [
-        "justice",
-        "righteousness"
-      ],
-      "default-personality-trait": "grim",
-      "default-argument-tactic": "moral condemnation",
-      "primary-motivation": "vengeance",
-      "self-revelation": "vengeance leaves only hollowness",
-      "false-philosophy": "violence as divine mandate",
-      "false-goal": "destroying enemy brings peace",
-      "fears": {
-        "open": "the wicked escaping",
-        "hidden": "becoming what they hunt"
-      },
-      "social-problem": "Example: unpunished atrocity",
-      "specific-desire": "Example: kill cult leader",
-      "greatest-weakness": "obsession",
-      "corresponding-strength": "relentlessness",
-      "rules-for-living": [
-        "no mercy for the wicked",
-        "the hunt never ends"
-      ],
-      "special-skills": [
-        "combat",
-        "Example: tracking"
-      ]
-    },
-    {
-      "type-name": "Female Warrior in Hostile World",
-      "values": [
-        "sovereignty",
-        "will"
-      ],
-      "default-personality-trait": "defiant",
-      "default-argument-tactic": "cold intimidation",
-      "primary-motivation": "autonomy",
-      "self-revelation": "power corrupts the wielder",
-      "false-philosophy": "strength alone conquers",
-      "false-goal": "prove worth through dominance",
-      "fears": {
-        "open": "subjugation",
-        "hidden": "own monstrous nature"
-      },
-      "social-problem": "patriarchy",
-      "specific-desire": "Example: defend domain",
-      "greatest-weakness": "isolation",
-      "corresponding-strength": "self-reliance",
-      "rules-for-living": [
-        "never show weakness",
-        "trust own judgment"
-      ],
-      "special-skills": [
-        "combat",
-        "Example: leadership"
-      ]
-    },
-    {
-      "type-name": "Unreliable Narrator-Messiah",
-      "values": [
-        "Example: truth",
-        "Example: transformation"
+        "knowledge",
+        "civilization"
       ],
       "default-personality-trait": "detached",
-      "default-argument-tactic": "omission",
-      "primary-motivation": "ascension",
-      "self-revelation": "perception deceives",
-      "false-philosophy": "I record faithfully",
-      "false-goal": "Example: chronicle my journey",
+      "default-argument-tactic": "historical precedent",
+      "primary-motivation": "legacy",
+      "self-revelation": "control is illusion",
+      "false-philosophy": "the masses are variables",
+      "false-goal": "engineer perfect future",
       "fears": {
-        "open": "judgment",
-        "hidden": "exposure"
+        "open": "chaos",
+        "hidden": "irrelevance"
       },
-      "social-problem": "moral transgression",
-      "specific-desire": "Example: attain rulership",
-      "greatest-weakness": "self-deception",
-      "corresponding-strength": "perception",
+      "social-problem": "stagnation",
+      "specific-desire": "Example: establish the Foundation",
+      "greatest-weakness": "arrogance",
+      "corresponding-strength": "foresight",
       "rules-for-living": [
-        "Example: 'truth serves purpose'",
-        "Example: 'the past is mutable'"
+        "'violence is incompetence'",
+        "'trust the equations'"
       ],
       "special-skills": [
-        "Example: execution",
-        "Example: eidetic memory"
+        "psychohistory",
+        "political manipulation"
+      ]
+    },
+    {
+      "type-name": "Underdog Trickster",
+      "values": [
+        "ingenuity",
+        "persistence"
+      ],
+      "default-personality-trait": "manic",
+      "default-argument-tactic": "overwhelming improvisation",
+      "primary-motivation": "proving worth",
+      "self-revelation": "acceptance comes from within",
+      "false-philosophy": "outperform everyone to earn respect",
+      "false-goal": "erase perceived deficiency",
+      "fears": {
+        "open": "failure",
+        "hidden": "inadequacy"
+      },
+      "social-problem": "Example: physical disability",
+      "specific-desire": "Example: command a fleet",
+      "greatest-weakness": "recklessness",
+      "corresponding-strength": "adaptability",
+      "rules-for-living": [
+        "'forward momentum'",
+        "'never let them see you sweat'"
+      ],
+      "special-skills": [
+        "bluffing",
+        "tactical improvisation"
+      ]
+    },
+    {
+      "type-name": "Idealistic Rebel",
+      "values": [
+        "freedom",
+        "justice"
+      ],
+      "default-personality-trait": "passionate",
+      "default-argument-tactic": "moral appeal",
+      "primary-motivation": "liberation",
+      "self-revelation": "Example: the cause requires compromise",
+      "false-philosophy": "Example: purity justifies any sacrifice",
+      "false-goal": "Example: destroy symbol of oppression",
+      "fears": {
+        "open": "tyranny",
+        "hidden": "becoming what they fight"
+      },
+      "social-problem": "authoritarianism",
+      "specific-desire": "Example: rally the resistance",
+      "greatest-weakness": "idealism",
+      "corresponding-strength": "inspiration",
+      "rules-for-living": [
+        "'the cause comes first'",
+        "'no compromise with evil'"
+      ],
+      "special-skills": [
+        "leadership",
+        "rhetoric"
+      ]
+    },
+    {
+      "type-name": "The Reluctant Prophet",
+      "values": [
+        "duty",
+        "rationality"
+      ],
+      "default-personality-trait": "skeptical",
+      "default-argument-tactic": "appeal to evidence",
+      "primary-motivation": "protect others",
+      "self-revelation": "faith and reason can coexist",
+      "false-philosophy": "the spiritual is superstition",
+      "false-goal": "prove prophecy wrong",
+      "fears": {
+        "open": "manipulation",
+        "hidden": "unworthiness"
+      },
+      "social-problem": "religious expectation",
+      "specific-desire": "Example: complete original mission",
+      "greatest-weakness": "denial",
+      "corresponding-strength": "discernment",
+      "rules-for-living": [
+        "'trust what you can verify'",
+        "'lead by example, not decree'"
+      ],
+      "special-skills": [
+        "command",
+        "diplomacy"
       ]
     }
   ]
