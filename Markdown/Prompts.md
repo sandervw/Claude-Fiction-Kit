@@ -93,7 +93,7 @@ Can you rewrite the attached prose? I'm happy with the overall 'concept', but no
 ## Bandcamp Review Prompt
 
 Hey Claude, try revising the following text in the thorogood style, 500 characters:
-When you buy this album (which you will), find yourself a seatbelt, and buckle; one of the frostiest albums I found this year, and right at christmas; lots of texture between the different tracks, some slip over into more synth-metal than dungeon synth, but don't let that detract; a perfect mix of repetition and variation (a-la Jim Kirkwood) mixed with the atmosphere of Aindulmedir, and the lore of wagner. 9/10.
+Pretty solid dungeon synth for background music; for active listening it works okay - each of the tracks fits the title, so if you're listening to 'Burial Mound' you can picture yourself delving into one; relies pretty heavily on the repetition that is the hallmark of dungeon synth, sometimes a little too heavily and it gets annoying; but if you're just looking for something to play while you read/write, this is decent silver. 6/10
 
 ## Peake Revision
 
@@ -226,3 +226,117 @@ Write a descriptive passage in the following style:
 **Avoid:** Modern phrasing, cliché, rushed pacing, short punchy sentences as the default, obvious metaphors, and any sense of hurry. The prose should feel heavy with age and attention.
 
 Now write a description of a celtic bronze-age king's feasting hall, with the trophies of slain monsters about the room, in this style.
+
+### Research Archtypes Prompt
+
+#### Instructions
+
+Replace the placeholders below before use:
+
+- `{{TARGET_GENRE}}` — The primary genre to research (e.g., "dark fantasy", "cosmic horror", "noir")
+- `{{ADJACENT_GENRES}}` — Related subgenres to include (e.g., "weird fiction and grimdark sword & sorcery")
+- `{{EXCLUDED_GENRES}}` — Genres to explicitly exclude (e.g., "gothic horror")
+
+---
+
+#### Prompt
+
+```
+Research and compile a list of 8-12 protagonist archetypes specific to the **{{TARGET_GENRE}}** genre.
+
+### Scope & Criteria
+
+- Focus on **protagonist archetypes only**, not side/support characters
+- All examples must come from media (film, TV, literature, video games) made **before the year 2005**
+- Precursors and "forefathers" of the genre are acceptable
+- **Include adjacent subgenres:** {{ADJACENT_GENRES}}
+- **Exclude:** {{EXCLUDED_GENRES}}
+- Your final report should be no more than 10 pages
+
+### Output Requirements
+
+For each archetype, provide:
+
+1. **Archetype name** — A descriptive title (e.g., "The Doomed Champion", "The Amoral Barbarian Survivor")
+
+2. **Character Examples** — 2-3 specific characters with:
+   - Character name
+   - Creator/author or studio
+   - Source media title
+   - Approximate date (year or range)
+
+3. **Core Elements** — A paragraph covering:
+   - The archetype's origin or foundational example
+   - Primary motivations and defining traits
+   - How creators conceived or designed this character type
+
+4. **Distinguishing Features** — A paragraph covering:
+   - What separates this archetype from others in the genre
+   - Key skills, relationships, or narrative functions
+   - Visual or behavioral motifs
+
+5. **What Makes It {{TARGET_GENRE}}** — A paragraph covering:
+   - Why this archetype belongs specifically to this genre
+   - Moral/philosophical dimensions
+   - Relationship to the genre's core themes and atmosphere
+
+### Output Format
+
+Structure the deliverable as a markdown document with:
+
+1. **Title header** — "{{TARGET_GENRE}} Protagonist Archetypes: A Creative Writing Reference"
+
+2. **Introduction paragraph** — Brief overview of what distinguishes this genre's protagonists from traditional/mainstream fantasy heroes
+
+3. **Numbered archetype sections** (8-12 total) — Each as an H2 header, containing:
+   - Character Examples (bulleted list)
+   - Core Elements (paragraph)
+   - Distinguishing Features (paragraph)
+   - What Makes It {{TARGET_GENRE}} (paragraph)
+
+4. **Comparative analysis table** — Contrasting genre protagonists against traditional fantasy heroes across traits like:
+   - Motivation
+   - Moral framework
+   - Relationship to magic/supernatural
+   - Community/isolation
+   - Character arc
+   - Victory condition
+   - Divine/cosmic relationship
+
+5. **Brief concluding paragraph** — Synthesizing the genre's protagonist philosophy
+
+### Research Guidance
+
+- Prioritize literary criticism, genre analysis, and retrospectives over plot summaries
+- Key authors/creators vary by genre — identify foundational figures early
+- Look for explicit creator commentary on character design philosophy
+- Note influences and legacy where relevant (who inspired whom)
+```
+
+### Image Generation Prompt
+
+First Prompt
+
+```
+Can you generate the image I outline below?
+`STYLE`
+The image style should be like an Arthur Rackham Fairy Tale Illustration.
+`DESCRIPTION`
+The setting is a **ruined interior space**, perhaps a celtic burial mound. The walls are rough stone, a long and tall hall extending into the black background, with a long upper ledge on one side.
+There are **four creatures** in this setting, one crouched as if squatting at the lip up on the long ledge, and the other three prowling on the cracked floor.
+The creatures appear **hound-sized and with long greyhound-like legs**. Their bodies are **angular and segmented**, as though assembled from broken masonry. Each limb is thin with sharp, chiseled edges that resemble fractured stone. Cracks and fissures run across their hides, giving the impression of **ancient statues reanimated**.
+Their **heads are shaed like the busts of green philosphers**, with broad, long beards and placid or contemplative faces. In contract, however, their mouths gape, filled with uneven, chipped, stone-like teeth. From these mouths—and from the claws—drips a **viscous, luminous jade substance**. The liquid appears corrosive or alchemical; it clings heavily, stretching in strings before breaking into puddles. Their **eyes glow the same vivid jade green**.
+Each creature bears **shattered wings**, folded awkwardly along their backs. These wings are broken at the joints, cracked along the membranes, and jagged at the edges. They resemble the remnants of architectural gargoyles. Their **claws are long, like the claws of a therizinosaur**, stained and dripping with the same jade fluid.
+```
+
+Second Prompt:
+
+```
+Can you adjust the attached image? I want it to be mostly the same, but the four monsters should be a kind of bluish-grey colored stone, closer to slate, contrasting sharply with the background. Maintain their jade-colored eyes, claws, and saliva.
+```
+
+Third Prompt:
+
+```
+Can you re-imagine the attached image in a new style? I want the same general layout. But the new style should be like a **first-person 2.5D dungeon crawler** with chunky pixel-art: a **blocky 3D world textured in low-res pixels**, populated by **billboarded 2D sprites**, lit like a moody 90s FPS.
+```

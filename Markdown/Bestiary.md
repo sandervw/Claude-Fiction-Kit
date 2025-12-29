@@ -46,11 +46,11 @@ The old world stirred with things that were never men. Some were carved by shama
 
 ### Greenspire (They of Jade)
 
-In an older age, shamans carved gargoyles from jade-streaked and gave them purpose through Ritual. The Greenspire were shaped intention: to watch, to wait, to wake when boundaries were crossed.
+In an older age, shamans carved gargoyles from jade-streaked stone and gave them purpose through Ritual. The Greenspire were shaped intention: to watch, to wait, to wake when boundaries were crossed.
 
 **Varieties:**
 
-- **Kestanes** — Hound-sized, angular, once perched at thresholds. Now they stir without reason, skittering in packs. They stare with their green eyes, and lash with green claws dripping an odd jade acid, and bite with stone teeth.
+- **Kestanes** — Hound-sized, angular: gargoyles once perched at thresholds. Now their wings are shattered, they skitter across the floor in packs. They stare with their jade eyes, and lash with green claws dripping an odd jade acid, and bite with stone teeth.
 - **Bhruggspire** — Sentinels, floating at a man's height. They patrol old corridors in slow circuits, grinding wings fluttering ceaselessly, the same routes they walked centuries ago. They hurl bullets of dripping jade at intruders.
 - **Grundkholm** — Rare. Vast. Twice a man's height, carved from red-veined stone. A Grundkholm is fought as one fights a collapsing wall: with distance and the wisdom to not be where it strikes. From their knuckles a continual stream of jade acid seeps.
 
