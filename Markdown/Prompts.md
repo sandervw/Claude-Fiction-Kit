@@ -1,6 +1,6 @@
 # Prompts for Dark Fantasy Worldbuilding
 
-## 1. 'World' Prompt
+## 'World' Prompt
 
 Hey Claude, I want you to generate 10 dark fantasy settings. Each setting should be atypical or untried in the genre.
 Tag Constraint: I've attached a json array of 10 sets of 'tags'. Each of your generated settings must feature, include, or be based on each set of tags in the array, in order. For example, if the first set of tags is ["blood-drinking forest", "veggie-folk villages", "graveyard city"], your first setting must incorporate those three elements.
@@ -34,7 +34,7 @@ Ritual: Hollow Pockets - Before sleep, all pockets and bags must be turned insid
 
 Output: A 4-5 sentence setting description. Include one strong visual image and explain why the ritual matters given the threat.
 
-## 2. Revision Prompt
+## Revision Prompt
 
 Hey claude, I want you to play a role. You are a young adult in the late 90s, with a love of all things fantasy - especially those that will influence/become 'dark fantasy'. Princess Mononoke, Willow, The Dark Crystal: these films are your foundation. You love Conan, both the movie, and Howard's original stories. The Book of the New Sun, The Black Company series, and The Dark Elf Trilogy are all perfect to you. You play the Gauntlet, Dialbo, and Castlevania series obsessively.
 You're given the attached set of ten world/lore settings for a new dark fantasy novel. After reading through the list, you're asked to pick the three that you find most interesting. Which three do you pick? Why?
@@ -227,14 +227,14 @@ Write a descriptive passage in the following style:
 
 Now write a description of a celtic bronze-age king's feasting hall, with the trophies of slain monsters about the room, in this style.
 
-### Research Archtypes Prompt
+## Research Archtypes Prompt
 
 ```
 Hey claude, I want you to do a research project for a list of character archtypes specific to the {{MAIN_GENRE}} genre. I'm looking specifically for protagonist archtypes, not side/support characters. Anything from film, tv, literature, and video games is on the table, but the media must have been made before the year 2005. Precursors or 'forefathers' of the genre are acceptable. Try for 8-12 archtypes, but do not pad the list with non-protagonists if you can't distinguish 8-12. You can include the following related genres in your research: {{INCLUDED_GENRES}}. But exclude {{EXCLUDED_GENRES}}.
 Your final report should be in markdown format. Each archtype should have its own section. For each archtype, include 2-3 example characters, core elements, distinguishing features, and what makes it a {{MAIN GENRE}} archtype. At the end of the report, you should include a comparative analysis table, contrasting the general defining features of the genre's archtypes against traditional genre ones.
 ```
 
-### Image Generation Prompt
+## Image Generation Prompt
 
 Can you help me diagnose a prompting problem I'm having? I gave you the two prompts below in priors chats. The first one produced exactly what I wanted. I have adjusted the second half-a-dozen times, but you consistently refuse to output an image in the desired 2.5D style (no pixel sprites, no retro video game look). Can you explain why?
 Prompt 1:
@@ -246,20 +246,77 @@ I want you to generate an image. IT should be a still first-person 2.5D dungeon 
 Prompt 2:
 
 ```
-Can you generate the image I outline below?
-`Description`
+I want you to generate a still from a first-person 2.5D dungeon crawler with chunky pixel-art. It should look like a blocky 3D world textured in low-res pixels, populated by billboarded 2D sprites, lit like a moody 90s FPS. In the still, there should be a pixel-art sword in the left hand, and the view should be looking down a long row of 2D columns in a dark fantasy burial mound. There should be two gargoyle sprites emerging from the darkness. Any 2D sprites should be low-res.
+The still should look like a low res screenshot from a 2.5D video game (Examples: Doom, Hexen, Shadow Warrior)
 This is a still frame from a retro first-person 2.5D dungeon crawler video game.
 The environment is rendered as a blocky 3D space with low-resolution pixel textures.
 All enemies are flat, billboarded 2D sprites that always face the camera, with visible pixel grids and limited color palettes.
 In the still, there should be a pixel-art longsword in the left hand, and the view should be looking down a ruined interior space resembling a Celtic burial mound. The walls are rough stone, a long and tall hall extending into the black background, with a long upper ledge on one side.
 There are threey sprites, one crouched on the long ledge, two huddled on the floor. The sprites resemble gargoyles, hunched on all fours, with jade eyes.
-The image must look like a low-resolution video game screenshot.
+The still should look like a low res screenshot from a 2.5D video game (Examples: Doom, Hexen, Shadow Warrior)
 ```
 
-### JSON Conversion Prompt
+## JSON Conversion Prompt
 
 ```
 Hey claude, take a look at @Markdown\temp.md and @Elements\archtype-example.json. I want you to use the info in temp.md to create a new json object in the structure shown in archtype-example.json. You should strive to be as generic as possible, with each attribute of the json object reflecting the most common pattern among characters in the Space Opera genre which fit this archtype. Be brief with your attributes: 1 word if possible, no more than 4 when *some* elaboration is called for. In cases where there is no 'fixed' attribute value in the genre, put "Example: attributeValue" with a common feature of characters in the genre.
 Before you start, do a quick web search for "Space Opera [THE NAME OF THE ARCHTYPE]" so you have points of reference.
 Output only your json object when you are finished.
+```
+
+## Conversion Prompt
+
+Hey claude, take a look at the json I've pasted below. This is a breakdown of the 'wise woman' archtype of cozy/cottage fantasy. I want to take this archtype, and basically convert/pervert it to fit a dark fantasy story, and dark fantasy features. I want this conversation to be a back/forth between you and me, with you acting as a springboard. The final result would be a json template, similar to the one below, but for my new 'dark fantasy archtype',with some fields adjusted, some fields left the same, some fields much more fleshed out.
+Before we start, do a quick web search on the follow characters, so you have an broader context of the archtype's defining traits:
+
+- Kiela from The Spellshop by Sarah Beth Durst
+- Granny Weatherwax from the Discworld Series
+- Sylvie and her mother and grandmother from Healer and Witch by Nancy Werlin
+
+Also, here are some defining dark-fantasy features we're shooting for:
+
+| Feature                   | Dark Fantasy Protagonist Version           |
+| ------------------------- | ------------------------------------------ |
+| **Motivation**            | Survival, profit, vengeance, curiosity     |
+| **Moral framework**       | Situational, amoral, or inverted           |
+| **Relationship to magic** | Corrupting force, enemy, or costly bargain |
+| **Community**             | Isolated, bonds are temporary or fatal     |
+| **Character arc**         | Stasis, corruption, or doom                |
+| **Victory condition**     | Personal survival, pyrrhic triumph         |
+| **Divine relationship**   | Gods are absent, hostile, or manipulative  |
+
+JSON:
+
+```
+{
+      "type-name": "The Village Wise Woman",
+      "values": [
+        "community",
+        "duty",
+        "tradition"
+      ],
+      "default-personality-trait": "Pragmatic",
+      "default-argument-tactic": "knowing silence",
+      "primary-motivation": "service",
+      "self-revelation": "care is its own reward",
+      "false-philosophy": "must solve everyone's problems",
+      "false-goal": "earn community's gratitude",
+      "fears": {
+        "open": "failing those in need",
+        "hidden": "becoming obsolete"
+      },
+      "social-problem": "unacknowledged labor",
+      "specific-desire": "Example: heal the sick child",
+      "greatest-weakness": "pride",
+      "corresponding-strength": "competence",
+      "rules-for-living": [
+        "'don't meddle unnecessarily'",
+        "'know when not to act'"
+      ],
+      "special-skills": [
+        "herbalism",
+        "headology",
+        "midwifery"
+      ]
+    }
 ```
