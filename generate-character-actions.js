@@ -181,8 +181,8 @@ async function generateCharacterActions() {
 
     console.log('Candidates:', tempPickedArray);
 
-    // Get most recent 3 actions
-    const precedingActions = characterActions.slice(-3);
+    // Get most recent 4 actions
+    const precedingActions = characterActions.slice(-4);
 
     // Call LLM to pick best action
     const nextAction = await pickActionLLM(
