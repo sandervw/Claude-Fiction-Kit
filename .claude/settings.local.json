@@ -5,7 +5,9 @@
       "WebFetch",
       "Skill(literary-revision)",
       "Bash(python:*)",
-      "Bash(pip show:*)"
+      "Bash(pip show:*)",
+      "Bash(npm install:*)",
+      "Bash(node generate-character-actions.js:*)"
     ],
     "deny": [],
     "ask": []
