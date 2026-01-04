@@ -93,7 +93,7 @@ Can you rewrite the attached prose? I'm happy with the overall 'concept', but no
 ## Bandcamp Review Prompt
 
 Hey Claude, try revising the following text in the thorogood style, 500 characters:
-Pretty solid dungeon synth for background music; for active listening it works okay - each of the tracks fits the title, so if you're listening to 'Burial Mound' you can picture yourself delving into one; relies pretty heavily on the repetition that is the hallmark of dungeon synth, sometimes a little too heavily and it gets annoying; but if you're just looking for something to play while you read/write, this is decent silver. 6/10
+Not bad, not outstanding; feels more like "October 31st Synth" than Dungeon Synth (I couldn't hear this in a dungeon space); the synth distortion is nice here; the spoken narration at the start of each track is well performed, but I could barely understand it in parts - music should be softer, and text should be shorter during narration; overall 6/10, 9/10 if you're listening around halloween
 
 ## Peake Revision
 
