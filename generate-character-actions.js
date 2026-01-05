@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename);
 // Model configuration
 // Use 'claude-sonnet-4-5-20250929' for speed/cost balance
 // Use 'claude-opus-4-5-20251101' for highest quality
-const MODEL = 'claude-sonnet-4-5-20250929';
+const MODEL = 'claude-opus-4-5-20251101';
 
 /**
  * Select random actions from fullActionsArray without repeats
@@ -142,11 +142,11 @@ async function generateCharacterActions() {
   }
 
   const actionsFile = JSON.parse(fs.readFileSync(fullActionsPath, 'utf-8'));
-  // Support both { tags: [...] } format and plain array
-  const fullActionsArray = actionsFile.tags || actionsFile;
+  // Support both { actions: [...] } format and plain array
+  const fullActionsArray = actionsFile.actions || actionsFile;
 
   if (!Array.isArray(fullActionsArray)) {
-    console.error('Error: Actions file must contain an array or { tags: [...] }');
+    console.error('Error: Actions file must contain an array or { actions: [...] }');
     process.exit(1);
   }
 
@@ -181,8 +181,8 @@ async function generateCharacterActions() {
 
     console.log('Candidates:', tempPickedArray);
 
-    // Get most recent 4 actions
-    const precedingActions = characterActions.slice(-4);
+    // Get most recent 3 actions
+    const precedingActions = characterActions.slice(-3);
 
     // Call LLM to pick best action
     const nextAction = await pickActionLLM(

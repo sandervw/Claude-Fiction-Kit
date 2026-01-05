@@ -1,6 +1,8 @@
-# Conan — Actions
+# Conan — Generalized Actions
 
-_"Queen of the Black Coast" by Robert E. Howard_
+_Source: "Queen of the Black Coast" by Robert E. Howard_
+
+## Original Actions
 
 1. Flees through Argos after killing a magistrate who demanded he betray a friend
 2. Leaps aboard the departing merchant galley Argus to escape pursuing guards
@@ -36,3 +38,40 @@ _"Queen of the Black Coast" by Robert E. Howard_
 32. Charges the winged monster and bisects it with a single sword stroke
 33. Cuts the Tigress loose and lets the current carry her toward the sea
 34. Watches from the beach as the burning ship disappears over the horizon
+
+## Generalized Actions
+
+1. Flees city after killing an official who demanded betrayal of a friend
+2. Leaps aboard departing vessel to escape pursuing guards
+3. Threatens ship captain with drawn blade to demand passage
+4. Sheathes weapon and accepts captain's offer of hospitality
+5. Requests ranged weapon when enemy ship approaches
+6. Shoots arrows at enemy raiders from elevated ship position
+7. Rallies crew after captain falls in battle
+8. Leaps alone onto enemy vessel when fight becomes hopeless
+9. Kills numerous enemies in furious close combat while surrounded
+10. Freezes when pirate queen commands her warriors to spare him
+11. Accepts offer to become mate and co-leader of pirate band
+12. Raids coastline alongside lover for years, earning fearsome reputation
+13. Participates in raiding ships and coastal settlements with crew
+14. Sails up forbidden river with lover seeking lost city's treasure
+15. Discusses theology with lover, comparing different gods and beliefs
+16. Spots inhuman creature and watches it flee into the wilds
+17. Helps disturb ancient ruin, triggering collapse that kills several men
+18. Examines revealed treasure crypt beneath fallen altar
+19. Volunteers to lead warriors into dangerous territory for supplies
+20. Halts patrol and investigates signs of stalking presences
+21. Inhales supernatural intoxicant and falls unconscious
+22. Awakens from drug-induced visions and tracks lost companions
+23. Kills maddened ally in self-defense when attacked
+24. Discovers site where remaining companions met their deaths
+25. Returns to ship and finds lover murdered by unknown enemy
+26. Wraps lover's body in cloak and prepares funeral pyre
+27. Takes elevated defensive position with ranged weapons to await monsters
+28. Shoots down charging monsters in hail of arrows
+29. Fights remaining creatures in brutal hand-to-hand combat
+30. Becomes trapped under debris when structure collapses
+31. Breaks free after spiritual intervention from deceased lover
+32. Charges the monster and kills it with single devastating blow
+33. Sets funeral ship adrift on the current toward open water
+34. Watches from shore as burning ship disappears over horizon

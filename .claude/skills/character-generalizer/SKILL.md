@@ -62,9 +62,13 @@ Default to Actions mode unless user specifies otherwise.
 1. User provides action list (or references existing document)
 2. Process each action through transformation rules
 3. Output as two separate numbered lists (original, then generalized)
-4. If user requests file output, save as `[Character]-Actions-Generalized.md`
+4. If user requests file output, save both:
+   - `[Character]-Actions-Generalized.md` (markdown format)
+   - `[Character]-Actions-Generalized.json` (JSON format)
 
-## Output Format
+## Output Formats
+
+### Markdown Output
 
 ```markdown
 # [Character] — Generalized Actions
@@ -82,4 +86,19 @@ _Source: [Original Work]_
 1. [5-10 word generalized version of action 1]
 2. [5-10 word generalized version of action 2]
 ...
+```
+
+### JSON Output
+
+```json
+{
+  "original-actions": [
+    "Original action 1",
+    "Original action 2"
+  ],
+  "generalized-actions": [
+    "5-10 word generalized version of action 1",
+    "5-10 word generalized version of action 2"
+  ]
+}
 ```

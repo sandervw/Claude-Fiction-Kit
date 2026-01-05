@@ -8,7 +8,8 @@
       "Bash(pip show:*)",
       "Bash(npm install:*)",
       "Bash(node generate-character-actions.js:*)",
-      "Skill(character-analysis)"
+      "Skill(character-analysis)",
+      "Skill(character-generalizer)"
     ],
     "deny": [],
     "ask": []
