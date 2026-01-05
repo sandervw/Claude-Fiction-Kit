@@ -92,8 +92,8 @@ Can you rewrite the attached prose? I'm happy with the overall 'concept', but no
 
 ## Bandcamp Review Prompt
 
-Hey Claude, try revising the following text in the thorogood style, 500 characters:
-Not bad, not outstanding; feels more like "October 31st Synth" than Dungeon Synth (I couldn't hear this in a dungeon space); the synth distortion is nice here; the spoken narration at the start of each track is well performed, but I could barely understand it in parts - music should be softer, and text should be shorter during narration; overall 6/10, 9/10 if you're listening around halloween
+Hey Claude, try revising the following album review in the thorogood style, 500 characters:
+Pretty good ambient music, but this is not dungeon synch; it's more 'traditional Japanese Koto / Shamisen with some synth noises'; it's not Dungeon Synth; if you buy it as ambient traditional Japanese music, it's an 8/10.
 
 ## Peake Revision
 
