@@ -200,7 +200,7 @@ async function generateCharacterActions() {
   }
 
   // Save output
-  const outputPath = path.join(__dirname, 'Output', 'character-actions.json');
+  const outputPath = path.join(__dirname, 'Output', 'character.json');
   const output = {
     characterDescription,
     genre,

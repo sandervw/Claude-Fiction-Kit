@@ -4,7 +4,11 @@ _[Work Title] by [Author/Creator]_
 
 ## Full Description
 
-1-2 paragraph summary, hard minimum of 250 words, hard maximum of 500 words.
+A **PHYSICAL DETAILS ONLY** description of the character:
+- `PREFER DIRECT QUOTES`
+- `must be 1-2 paragraphs`
+- `hard minimum of 250 words`
+- `hard maximum of 500 words`
 
 ## Description Parts
 
@@ -20,7 +24,7 @@ Each field below should be filled out as "Field_name: Value"
 - [face] - nose/mouth/brow
 - [eyes] - color/shape
 - [expression]
-- [scars_marks_tattoos] - visible scars, birthmarks, tattoos, body modifications
+- [scars_marks_tattoos] - visible scars, birthmarks, body modifications
 - [voice]
 - [movement] - gait/gestures
 - [sound] - caused by movement/gear
