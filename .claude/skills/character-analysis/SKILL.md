@@ -1,6 +1,6 @@
 ---
 name: character-analysis
-description: Analyze fictional characters using structured templates. Use when asked to analyze, break down, or create character profiles for fictional characters. Triggers include "analyze [character]", "character breakdown", "create character templates for", or requests for character analysis documents. Supports main characters (full analysis) and secondary characters (purpose only). Also supports Actions mode for listing concrete actions a character takes — triggers include "character actions", "list what [character] does", "action list for [character]".
+description: Analyze fictional characters using structured templates. Use when asked to analyze, break down, or create character profiles for fictional characters. Triggers include "analyze [character]", "character breakdown", "create character templates for", or requests for character analysis documents. Supports main characters (full analysis) and secondary characters (purpose only). Also supports Actions mode for listing concrete actions a character takes — triggers include "character actions", "list what [character] does", "action list for [character]". Also supports Description mode for physical appearance — triggers include "character description", "describe [character]", "what does [character] look like", "physical description".
 ---
 
 # Character Analysis
@@ -13,11 +13,15 @@ Determine mode from user request:
 
 **Profile mode** (default):
 → Triggers: "analyze", "character breakdown", "character profile", "character template"
-→ **Read**: `assets/profile-reference.md`
+→ **Read**: `references/profile-reference.md`
 
 **Actions mode**:
 → Triggers: "character actions", "what does [character] do", "list of actions", "action list"
-→ **Read**: `assets/actions-reference.md`
+→ **Read**: `references/actions-reference.md`
+
+**Description mode**:
+→ Triggers: "character description", "describe [character]", "what does [character] look like", "physical description", "appearance"
+→ **Read**: `references/description-reference.md`
 
 If ambiguous, ask user which mode.
 

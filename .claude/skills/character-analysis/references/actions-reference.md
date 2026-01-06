@@ -47,15 +47,10 @@ Build chronological list of significant actions. Distinguish what character *doe
 - Trivial actions unless character-defining
 
 **Format:**
-```markdown
-# [Character] — Actions
-
-_[Work Title] by [Author/Creator]_
-
+Copy template from `assets/Actions-Template.md` to working directory, then fill in list items as: 
 1. [Action in active voice, 5-15 words]
 2. [Action in active voice, 5-15 words]
 ...
-```
 
 **Order:** Chronological within the narrative.
 
