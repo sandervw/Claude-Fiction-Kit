@@ -321,22 +321,54 @@ JSON:
     }
 ```
 
+## Character-Description Prompt
+
+Hey claude, take a look at my attached Whyneland setting doc. With that as context, I want you to generate a character's physical description using the guidelines below. The description must address all of the following, but may integrate them fluidly rather than sequentially. The symbolic animal should be a `REPLACE`, the character should me male, and he should be a `REPLACE - OCCUPATION`. Otherwise, you have freedom within the guidelines.
+GUIDELINES:
+- [symbolic_animal] - influences exactly three to four elements: gait, one facial feature, one equipment piece, and optionally one additional detail (posture, hands, voice, etc.)
+- [gender]; [rough_age]
+- [height]; [build]; [stance] (build/stance should be uncommon)
+- [skin_tone]
+- [hands]
+- [hair]- style/color/condition
+- [face] - nose/mouth/brow; [eyes] - color/shape
+- [expression]
+- [voice]
+- [movement] - gait/gestures
+- [sound] - caused by movement/gear; [smell] - breath/general-odor
+	- Must generate one of these
+- [equipment] - exactly one element below must be an idiosyncratic, highly-identifiable symbol
+	- clothing
+	- any tools/weapons
+	- any headwear
+	- any footwear
+	- any bags/backpacks
+	- any other possessions or personal effects
+	- *Name specific materials — wood types, fabric weaves, metal alloys, etc.*
+	- *Describe equipment in spatial layers, not as a list*
+- COLORS: Avoid primary colors and generic terms. Use compound-colors or specific shades
+- ASSYMETRY: Include one physical asymmetry, old injury, and/or uneven equipment wear pattern
+- METAPHOR: Use one or two 'as if' or 'like' constructions to anchor abstract qualities in physical causes or animal comparisons
+- **DO NOT SPECIFY**: anything that cannot be inferred by the senses (not 'a warrior' or 'an evil man')
+**The Final Description should be between 250 and 500 words**
+
 ## Character-Story Prompt
 
 Hey claude, I want to test your ability to come up with a concrete story, given a generalized character. I have attached a json file containing all the context you will receive about the character. It includes a description, and a series of actions which the character performs in the story. Note: these actions are not "plot-steps" - they are the key things the character does, nothing else. 
 Given only this context, you task is to create a 1-2 paragraph story summary, for a specific story involving this character. You should strive to make the plot as concrete and detail-focused as possible. Use the methods below, along with your own knowledge/ideas, to guide your approach:
 - Replace generic words or terms with specific ones (For this attempt, for names/words, rely on the other two json docs I've attached to this request)
 - Add proper names where appropriate
-- fill in missing plot gaps, where the character is not directly acting, but which are significant to the story
+- Fill in missing plot gaps (where the character is not directly acting, but which are significant jumps between their actions) by inventing intermediate events, or by adding 'time passed'-style summaries
+- Add relationship types: "noble daughter" or "chieftain" could be further specified (ally, obstacle, mentor, rival)
+- Sprinkle in a few weather, smells, sounds, or other sensory groundings - but keep the summary terse
+
+And for the purposes of this test:
+1. This protagonist is `REPLACE - MORALITY` and the story is `REPLACE - tragedy, heroic, melancholy`
+2. The story length is `REPLACE - rough word count`
+3. The story timeframe is `REPLACE - hours/days/weeks/months/years`
 
 Aside from these guidelines/constrains, you have total creative freedom. When you are finished, output 2 things in the chat:
 1. The resulting story summary
-2. Any suggestions for additional guidelines I could specify in my prompt above when describing how to add concrete detail.
-
-TODO - possible improvements:
-1. Motivation anchors — What drives the character between actions? (revenge, redemption, curiosity, survival?) Knowing this lets me connect the dots more coherently.
-2. Relationship types — Generic "noble daughter" or "chieftain" could be further specified (ally, obstacle, mentor, rival) to shape the tone of interactions.
-3. Sensory/atmospheric focus — Do you want the summary to emphasize weather, smell, sound, or other sensory grounding? This affects whether I lean descriptive or terse.
-4. Moral register — Is this a morally grey protagonist, a villain's arc, or a heroic trajectory? The same actions can read very differently depending on framing.
-5. Time compression — Should gaps be filled with brief "months passed" summaries, or should I invent specific intermediate events to maintain narrative density?
+2. Any assumptions you made, or specific story/setting directions you chose
+3. Any suggestions for additional guidelines I could specify in my prompt above when describing how to add concrete detail.
 
