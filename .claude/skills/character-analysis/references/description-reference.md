@@ -2,32 +2,53 @@
 
 Generate physical description of a character based on source material. Focus exclusively on sensory details — what can be seen, heard, smelled, touched. Do NOT include personality, tone, or internal states.
 
-## Phase 1: Gather Sources
+## Phase 1: Search Strategy
 
-Prioritize source text. The ideal description is verbatim from the original work.
+**Goal:** Find verbatim source text first. Synthesis is fallback.
 
-**Primary search targets:**
-1. Wiki pages with "Appearance" or "Description"
-2. Direct quotes from the source material
-3. Official character profiles or art descriptions
+### Search Query Progression
 
-**Search queries:**
-- `"[character] [work title] appearance"`
-- `"[character] [work title] description"`
-- `"[character] [work title] wiki"` (then web_fetch, look for Appearance section)
+Start specific, broaden if needed:
 
-**For visual media (games, films, animation):**
-- `"[character] character design"` or `"[character] concept art description"`
-- `"[character] [work title] model viewer"` or `"[character] in-game appearance"`
+```
+Round 1 - Direct quotes:
+"[character]" "[work title]" "appeared" OR "looked" OR "described"
+"[character]" "[work title]" physical description
+"[character]" "[work title]" appearance quote
 
-Use `web_fetch` on **2 wiki pages max**, look specifically for:
-- "Appearance" sections
-- Quoted passages from source
-- Detailed physical breakdowns
+Round 2 - Wiki/reference:
+[character] [work title] wiki appearance
+[character] [work title] fandom appearance section
+[character] site:tvtropes.org (check Character page for description)
 
-If direct source text is unavailable, compile from multiple secondary sources.
+Round 3 - Visual media (games/film/animation):
+[character] [work title] character design
+[character] [work title] concept art description
+[character] [work title] model viewer
+```
 
-## Phase 2: Synthesize
+### Evaluate Search Snippets First
+
+Before any fetch, check if snippets contain:
+- Direct quoted passages
+- Specific physical details (hair, eyes, build, distinguishing marks)
+- Enough detail to fill core template fields
+
+**If snippets contain quoted source text, attempt fetch for fuller context**
+
+## Phase 2: Fetch Strategy
+
+### Fetch Rules
+
+1. **Attempt max 2 fetches total** — not 2 per source type
+2. **Prioritize in order:**
+   - `.txt`, `.htm`, or `.html` pages containing source text
+   - Wiki page with confirmed "Appearance" section (check URL or snippet for indicator)
+   - TVTropes character page
+   - Fan sites with quoted passages
+3. **On fetch failure:** Do NOT retry same domain. Move to next source or fall back to snippet synthesis.
+
+## Phase 3: Synthesize
 
 Compile findings into the description template fields.
 
@@ -43,7 +64,7 @@ Compile findings into the description template fields.
 - If source text is longer: **include most relevant quoted passages**
 - `Reminder`: description must be 1-2 paragraphs long, 250-500 words
 
-## Phase 3: Generate Output
+## Phase 4: Generate Output
 
 Create both output files:
 
