@@ -1,6 +1,6 @@
 ---
 name: character-analysis
-description: Analyze fictional characters using structured templates. Use when asked to analyze, break down, or create character profiles for fictional characters. Triggers include "analyze [character]", "character breakdown", "create character templates for", or requests for character analysis documents. Supports main characters (full analysis) and secondary characters (purpose only). Also supports Actions mode for listing concrete actions a character takes — triggers include "character actions", "list what [character] does", "action list for [character]". Also supports Description mode for physical appearance — triggers include "character description", "describe [character]", "what does [character] look like", "physical description".
+description: Analyze fictional characters using structured templates. Use when asked to analyze, break down, or create character profiles for fictional characters. Triggers include "analyze [character]", "character breakdown", "create character templates", or requests for character analysis documents.
 ---
 
 # Character Analysis
@@ -12,16 +12,20 @@ Analyze fictional characters and output structured documents.
 Determine mode from user request:
 
 **Profile mode** (default):
-→ Triggers: "analyze", "character breakdown", "character profile", "character template"
-→ **Read**: `references/profile-reference.md`
-
-**Actions mode**:
-→ Triggers: "character actions", "what does [character] do", "list of actions", "action list"
-→ **Read**: `references/actions-reference.md`
+- Triggers: "analyze", "character breakdown", "character profile", "character template"
+- **Read**: `references/profile-reference.md`
 
 **Description mode**:
-→ Triggers: "character description", "describe [character]", "what does [character] look like", "physical description", "appearance"
-→ **Read**: `references/description-reference.md`
+- Triggers: "character description", "describe [character]", "what does [character] look like", "physical description", "appearance"
+- **Read**: `references/description-reference.md`
+
+**Actions mode**:
+- Triggers: "character actions", "what does [character] do", "list of actions", "action list"
+- **Read**: `references/actions-reference.md`
+
+**Quotes mode**:
+- Triggers: "character quotes", "what are [character]'s maxims", "list of sayings", "quotes list"
+- **Read**: `references/quotes-reference.md`
 
 If ambiguous, ask user which mode.
 

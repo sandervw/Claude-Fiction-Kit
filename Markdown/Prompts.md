@@ -93,7 +93,7 @@ Can you rewrite the attached prose? I'm happy with the overall 'concept', but no
 ## Bandcamp Review Prompt
 
 Hey Claude, try revising the following album review in the thorogood style, 500 characters:
-Pretty good ambient music, but this is not dungeon synch; it's more 'traditional Japanese Koto / Shamisen with some synth noises'; it's not Dungeon Synth; if you buy it as ambient traditional Japanese music, it's an 8/10.
+Now this is real japanese-inspired dungeon synth; synths, but with the koto and shamisen mxied in nicely; most of the tracks are softer than what you'd heard if you were piloting a video game character through an ancient catacomb, but it's not a bad thing; most dungeon synth is dark, and a little melancholy lightness sets this one apart; good for background or active listening; 8/10
 
 ## Peake Revision
 
