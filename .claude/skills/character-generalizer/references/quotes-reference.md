@@ -1,16 +1,9 @@
-# Actions Mode Reference
-
-TODO
-
-## Quotes Mode
+# Quotes Mode Reference
 
 Generalize character-defining quotes into portable templates that preserve rhetorical shape and voice without locking into specific phrasing.
 
-### Why Quotes Differ from Actions
 
-Actions generalize around the **verb**—the mechanism of what happens. Quotes must preserve **voice and rhythm**—the rhetorical shape that makes a line memorable. A quote's power often lies in its cadence, not just its meaning.
-
-### Transformation Rules
+## Transformation Rules
 
 **Capture:**
 
@@ -38,20 +31,20 @@ Actions generalize around the **verb**—the mechanism of what happens. Quotes m
 - Skeleton templates with bracketed placeholders (e.g., "I prefer [ART] to [POLITICS]")
 - These over-constrain rewrites and flatten the quote's music
 
-### Output Components
+## Output Components
 
 Each generalized quote produces three elements:
 
-**Structure** (1 sentence)
+**Structure** (1 sentence, 5-15 words)
 The rhetorical skeleton: what move the quote makes, in what order.
 
 **Rhetorical DNA** (3-5 bullets)
 The specific devices, rhythms, and tonal qualities that give the quote its voice. This is what a rewrite must preserve to feel like the same kind of utterance.
 
-**Respecification Seed** (1 sentence)
+**Respecification Seed** (1 sentence, 5-15 words)
 The dramatic situation that calls for this quote—when and why a character would say something like this.
 
-### Calibration Examples
+## Calibration Examples
 
 | Original                                                                                                                                    | Structure                                                                | Rhetorical DNA                                                                                                                                                                                                   | Respecification Seed                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -60,55 +53,19 @@ The dramatic situation that calls for this quote—when and why a character woul
 | "Who dares call me turncoat, who do but follow now as I have followed this rare wisdom all my days: to love the sunrise and the sundown..." | Defiant self-justification reframing apparent vice as aesthetic virtue.  | Rhetorical question structure. Reframes disloyalty as philosophical consistency. Elevated, theatrical register. Long flowing syntax mirrors the "following" being described.                                     | A character accused of betrayal refuses shame, instead claiming their inconstancy as a principle.                    |
 | "I am supposed to talk to people!"                                                                                                          | Frustrated assertion of professional identity against circumstances.     | Single sentence, exclamatory. Emphasis on role/function ("supposed to"). Register: exasperated, almost comic indignation.                                                                                        | A character with a specific skill set finds themselves in a situation that renders that skill useless, and protests. |
 
-### Workflow
+## Workflow
 
 1. User provides quote list (or references existing document)
 2. For each quote, extract Structure, Rhetorical DNA, and Respecification Seed
 3. Output in grouped format (all three elements per quote)
-4. If user requests file output, save as:
-   - `[Character]-Quotes-Generalized.md` (markdown format)
-   - `[Character]-Quotes-Generalized.json` (JSON format)
 
+## Final Output
 
-### Markdown Output
+Create both output files:
 
-```markdown
-# [Character] — Generalized Quotes
+1. **Markdown output**: Copy template from `assets/Quotes-Template.md`
+2. **JSON output**: Copy template from `assets/quotes-template.json`
 
-_Source: [Original Work]_
-
-## Quote 1
-
-**Structure:** [5-15 words describing rhetorical skeleton]
-
-**Rhetorical DNA:**
-- [Rhythm/length pattern]
-- [Key device or contrast]
-- [Register and tone]
-
-**Respecification Seed:** [5-15 words describing dramatic situation]
-
----
-
-## Quote 2
-
-...
-```
-
-### JSON Output
-
-```json
-{
-  "quotes": [
-    {
-      "structure": "5-15 words describing rhetorical skeleton",
-      "rhetorical-dna": [
-        "Rhythm/length pattern",
-        "Key device or contrast",
-        "Register and tone"
-      ],
-      "respecification-seed": "5-15 words sentence describing dramatic situation"
-    }
-  ]
-}
-```
+**Save as:**
+- `[Character]-Description.md`
+- `[Character]-Description.json`
