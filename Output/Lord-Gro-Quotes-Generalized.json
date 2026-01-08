@@ -1,0 +1,105 @@
+{
+  "quotes": [
+    {
+      "structure": "Defiant self-justification reframing apparent vice as aesthetic or philosophical virtue.",
+      "rhetorical-dna": [
+        "Rhetorical question that pivots to declaration; long flowing syntax mirrors the 'following' being described",
+        "Reframes disloyalty as philosophical consistency through 'rare wisdom'",
+        "Lists of paired cyclical beauties as justification for inconstancy",
+        "Register: elevated, theatrical, unapologetic"
+      ],
+      "respecification-seed": "A character accused of betrayal refuses shame, claiming their inconstancy as principled devotion to beauty or change itself."
+    },
+    {
+      "structure": "Warning against expecting permanence, delivered via vivid image of futile labor.",
+      "rhetorical-dna": [
+        "Single sentence, aphoristic and complete",
+        "Classical 'He that...' construction lending timeless authority",
+        "Ends with absurd impossible task as metaphor",
+        "Register: melancholic wisdom, no softening or comfort offered"
+      ],
+      "respecification-seed": "A character counsels against hoping that achievement will bring lasting satisfaction."
+    },
+    {
+      "structure": "Counterintuitive advice followed by invitation to consider an explanatory metaphor.",
+      "rhetorical-dna": [
+        "Two sentences; second opens reasoning to listener ('For but consider')",
+        "Paradoxical wisdom: indirect path preferred",
+        "Mentorly tone assumes shared capacity for reflection",
+        "Register: philosophical, unhurried, confident"
+      ],
+      "respecification-seed": "A character advocates for indirect approaches, offering to explain their reasoning through extended metaphor."
+    },
+    {
+      "structure": "Stark equation of inner state with absolute condition, dismissing all mitigating factors.",
+      "rhetorical-dna": [
+        "Single sentence, aphoristic",
+        "Classical 'He that...' construction",
+        "Parallel dismissals ('were he never so X, were he never so Y') sweep aside exemptions",
+        "Register: hard, uncompromising, universal claim"
+      ],
+      "respecification-seed": "A character declares that fear itself is the true bondage, regardless of external power or wealth."
+    },
+    {
+      "structure": "Gentle assertion that natural grandeur is an overlooked remedy for human discontents.",
+      "rhetorical-dna": [
+        "Single flowing sentence",
+        "'Surely' signals confident but non-aggressive claim",
+        "'if men did but know it' — rueful acknowledgment of general ignorance",
+        "Register: wistful, pastoral, quietly yearning"
+      ],
+      "respecification-seed": "A character reflects that immersion in vast nature would cure modern anxieties, if only people recognized it."
+    },
+    {
+      "structure": "Wistful conditional expressing desire for permanent escape via transformation.",
+      "rhetorical-dna": [
+        "Single compact sentence",
+        "Subjunctive mood throughout ('would I,' 'had I but')",
+        "Wishes to become small/insignificant to remain in peaceful place",
+        "Register: tender, self-aware longing, touch of whimsy"
+      ],
+      "respecification-seed": "A character, moved by a tranquil place, wishes they could shrink from the world's demands and remain there forever."
+    },
+    {
+      "structure": "Logical argument that oaths are worthless from the untrustworthy, preemptively refusing to bind oneself.",
+      "rhetorical-dna": [
+        "Three sentences building a tight argument",
+        "Rhetorical question opener",
+        "Self-aware moral positioning ('Oaths bind not an ill man')",
+        "Conditional demonstrating ease of deception",
+        "Register: urbane, almost amused, disarming honesty about own nature"
+      ],
+      "respecification-seed": "A character refuses to give an oath, arguing that their willingness to swear should itself be suspicious."
+    },
+    {
+      "structure": "Courtly declaration presenting lifelong familiarity with danger as credential or confession.",
+      "rhetorical-dna": [
+        "Single sentence, formally structured",
+        "Elevated address to listener",
+        "Personification of abstracts as intimate companions ('bedfellow,' 'familiar friend')",
+        "Register: dignified, weary-but-unbroken, romantic fatalism"
+      ],
+      "respecification-seed": "A character presents their constant exposure to peril as qualification or explanation for who they have become."
+    },
+    {
+      "structure": "Permission for attacks on self, absolute prohibition against attacks on beloved other.",
+      "rhetorical-dna": [
+        "Two sentences in stark contrast",
+        "First grants permission, second forbids absolutely",
+        "Stakes life on the boundary ('whiles I live')",
+        "Register: defiant, protective, controlled fury beneath formal diction"
+      ],
+      "respecification-seed": "A character enduring insult declares they will tolerate any abuse to themselves but not slander of someone they honor."
+    },
+    {
+      "structure": "Invocation of beloved's favor as sufficient armor against all opposition.",
+      "rhetorical-dna": [
+        "Single sentence building to climax",
+        "Doubled name as incantation or plea",
+        "'let me but' — minimal request claimed to yield maximal consequence",
+        "Register: ardent, supplicating, romantic absolutism"
+      ],
+      "respecification-seed": "A character declares that the approval of one beloved person would make them invincible against any threat."
+    }
+  ]
+}
