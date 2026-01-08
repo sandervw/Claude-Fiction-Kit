@@ -1,0 +1,10 @@
+{
+  "original-actions": [
+    "Original action 1",
+    "Original action 2"
+  ],
+  "generalized-actions": [
+    "5-10 word generalized version of action 1",
+    "5-10 word generalized version of action 2"
+  ]
+}

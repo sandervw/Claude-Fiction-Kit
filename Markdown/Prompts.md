@@ -374,20 +374,21 @@ Aside from these guidelines/constrains, you have total creative freedom. When yo
 
 ## Quote Generation Template
 
+*Note to self: 5-7 quotes for automation*
+
 Hey claude, info below:
 
 Attachments:
-
-character.json — character context
-templates.json — quote templates
+- `character.json` — character context
+- `templates.json` — quote templates
 
 Pick one template. Write one quote spoken by this character. The quote must:
+- **Follow the template structure exactly**
+- **Express a core belief, principle, or pivotal decision**
 
-Follow the template structure exactly
-Express a core belief, principle, or pivotal decision
+**Brevity over clarity**. Output only the quote and template number.
 
-Brevity over clarity. Output only the quote and template number.
-
+```
 Hey claude, I have a test for you. Take a look at the attached character.json file. Assume that this is all the context you have about a character: a physical description, and a list of actions they take in a story. temp.json is a list of "quote templates". Each template is a guideline for writing a core/personality/decision-defining quote spoken by a fictional character.
 *Your test*: pick `two` quote templates; write `two` quotations spoken by the character.
 *Guidelines*:
@@ -400,3 +401,4 @@ Hey claude, I have a test for you. Take a look at the attached character.json fi
 - Your two quotes
 - The templates you chose
 - Any assumptions or critical choices you made.
+```

@@ -67,5 +67,5 @@ Create both output files:
 2. **JSON output**: Copy template from `assets/quotes-template.json`
 
 **Save as:**
-- `[Character]-Description.md`
-- `[Character]-Description.json`
+- `[Character]-Quotes-Generalized.md`
+- `[character]-quotes-generalized.json`
