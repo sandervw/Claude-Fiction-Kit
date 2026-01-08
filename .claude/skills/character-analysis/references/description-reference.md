@@ -73,4 +73,4 @@ Create both output files:
 
 **Save as:**
 - `[Character]-Description.md`
-- `[Character]-Description.json`
+- `[character]-description.json`
