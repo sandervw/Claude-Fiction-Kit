@@ -1,6 +1,107 @@
 {
   "quotes": [
     {
+      "structure": "Defiant self-justification reframing apparent vice as aesthetic or philosophical virtue.",
+      "rhetorical-dna": [
+        "Rhetorical question that pivots to declaration; long flowing syntax mirrors the 'following' being described",
+        "Reframes disloyalty as philosophical consistency through rare wisdom",
+        "Lists of paired cyclical beauties as justification for inconstancy",
+        "Register: elevated, theatrical, unapologetic"
+      ],
+      "respecification-seed": "A character accused of betrayal refuses shame, claiming their inconstancy as principled devotion to beauty or change itself."
+    },
+    {
+      "structure": "Warning against expecting permanence, delivered via vivid image of futile labor.",
+      "rhetorical-dna": [
+        "Single sentence, aphoristic and complete",
+        "Classical 'He that...' construction lending timeless authority",
+        "Ends with absurd impossible task as metaphor",
+        "Register: melancholic wisdom, no softening or comfort offered"
+      ],
+      "respecification-seed": "A character counsels against hoping that achievement will bring lasting satisfaction."
+    },
+    {
+      "structure": "Counterintuitive advice followed by invitation to consider an explanatory metaphor.",
+      "rhetorical-dna": [
+        "Two sentences; second opens reasoning to listener ('For but consider')",
+        "Paradoxical wisdom: indirect path preferred",
+        "Mentorly tone assumes shared capacity for reflection",
+        "Register: philosophical, unhurried, confident"
+      ],
+      "respecification-seed": "A character advocates for indirect approaches, offering to explain their reasoning through extended metaphor."
+    },
+    {
+      "structure": "Stark equation of inner state with absolute condition, dismissing all mitigating factors.",
+      "rhetorical-dna": [
+        "Single sentence, aphoristic",
+        "Classical 'He that...' construction",
+        "Parallel dismissals ('were he never so X, were he never so Y') sweep aside exemptions",
+        "Register: hard, uncompromising, universal claim"
+      ],
+      "respecification-seed": "A character declares that fear itself is the true bondage, regardless of external power or wealth."
+    },
+    {
+      "structure": "Gentle assertion that natural grandeur is an overlooked remedy for human discontents.",
+      "rhetorical-dna": [
+        "Single flowing sentence",
+        "First word signals confident but non-aggressive claim",
+        "Rueful acknowledgment of general ignorance",
+        "Register: wistful, pastoral, quietly yearning"
+      ],
+      "respecification-seed": "A character reflects that immersion in vast nature would cure modern anxieties, if only people recognized it."
+    },
+    {
+      "structure": "Wistful conditional expressing desire for permanent escape via transformation.",
+      "rhetorical-dna": [
+        "Single compact sentence",
+        "Subjunctive mood throughout ('would I,' 'had I but')",
+        "Wishes to become small/insignificant to remain in peaceful place",
+        "Register: tender, self-aware longing, touch of whimsy"
+      ],
+      "respecification-seed": "A character, moved by a tranquil place, wishes they could shrink from the world's demands and remain there forever."
+    },
+    {
+      "structure": "Logical argument that oaths are worthless from the untrustworthy, preemptively refusing to bind oneself.",
+      "rhetorical-dna": [
+        "Three sentences building a tight argument",
+        "Rhetorical question opener",
+        "Self-aware moral positioning",
+        "Conditional demonstrating ease of deception",
+        "Register: urbane, almost amused, disarming honesty about own nature"
+      ],
+      "respecification-seed": "A character refuses to give an oath, arguing that their willingness to swear should itself be suspicious."
+    },
+    {
+      "structure": "Courtly declaration presenting lifelong familiarity with danger as credential or confession.",
+      "rhetorical-dna": [
+        "Single sentence, formally structured",
+        "Elevated address to listener",
+        "Personification of abstracts as intimate companions ('bedfellow,' 'familiar friend')",
+        "Register: dignified, weary-but-unbroken, romantic fatalism"
+      ],
+      "respecification-seed": "A character presents their constant exposure to peril as qualification or explanation for who they have become."
+    },
+    {
+      "structure": "Permission for attacks on self, absolute prohibition against attacks on beloved other.",
+      "rhetorical-dna": [
+        "Two sentences in stark contrast",
+        "First grants permission, second forbids absolutely",
+        "Stakes life on the boundary",
+        "Register: defiant, protective, controlled fury beneath formal diction"
+      ],
+      "respecification-seed": "A character enduring insult declares they will tolerate any abuse to themselves but not slander of someone they honor."
+    },
+    {
+      "structure": "Invocation of beloved's favor as sufficient armor against all opposition.",
+      "rhetorical-dna": [
+        "Single sentence building to climax",
+        "Doubled name as incantation or plea",
+        "Minimal request claimed to yield maximal consequence",
+        "Register: ardent, supplicating, romantic absolutism"
+      ],
+      "respecification-seed": "A character declares that the approval of one beloved person would make them invincible against any threat."
+    },
+    {
       "structure": "Formal self-introduction asserting identity through ancestral chain.",
       "rhetorical-dna": [
         "Single sentence with rhythmic repetition building through lineage",
@@ -13,7 +114,7 @@
       "structure": "Frustrated assertion of professional identity against hostile circumstances.",
       "rhetorical-dna": [
         "Two short sentences, both exclamatory; profanity for emphasis",
-        "Emphasis on role and function ('supposed to')",
+        "Emphasis on role and function",
         "Register: exasperated, comic indignation"
       ],
       "respecification-seed": "A character with specialized skills finds themselves where those skills are useless, and protests."
@@ -89,6 +190,69 @@
         "Register: retrospective awe, devout closure"
       ],
       "respecification-seed": "A character concludes an account of harrowing travel by naming its terrors and crediting higher power for survival."
+    },
+    {
+      "structure": "Gentle correction + self-declaration of withdrawal from X in favor of Y.",
+      "rhetorical-dna": [
+        "Two sentences, second longer",
+        "Direct address establishes warmth despite distance",
+        "Triadic contrast: solitary art vs political sphere + violence",
+        "Register: dignified, unhurried, no defensiveness"
+      ],
+      "respecification-seed": "A character who has chosen contemplative isolation explains this without apology when their past is assumed."
+    },
+    {
+      "structure": "Imperative welcome + formal declaration of place + conditional requirement for continuation.",
+      "rhetorical-dna": [
+        "Three sentences, first short and commanding, second elaborate, third clipped",
+        "Imperative opening establishes host authority with warmth",
+        "Self-identification by place rather than title—identity tied to location",
+        "Final sentence sets terms: exchange of names required; courtly but firm",
+        "Register: formal hospitality, measured, quietly commanding"
+      ],
+      "respecification-seed": "A character receives an unexpected guest and establishes their role as host while requiring reciprocal disclosure."
+    },
+    {
+      "structure": "Confirming news of allies' status—certainty, partial certainty, and ignorance in descending order.",
+      "rhetorical-dna": [
+        "Four sentences, each a discrete fact; clipped, military brevity",
+        "Direct address maintains formality under pressure",
+        "Structure of decreasing certainty: definite → probable → unknown",
+        "Final sentence admits limitation without apology",
+        "Register: reporting, soldierly, no embellishment"
+      ],
+      "respecification-seed": "A character delivers status updates about scattered companions to someone who needs to know."
+    },
+    {
+      "structure": "Bleak collective self-assessment through geological metaphor.",
+      "rhetorical-dna": [
+        "Single short sentence, trailing ellipsis suggests more to come",
+        "Inclusive 'we'—not accusation but confession",
+        "Key metaphor: worn down by time/elements, diminished from former state",
+        "Register: elegiac, weary, accepting rather than bitter"
+      ],
+      "respecification-seed": "A character acknowledges their generation or fellowship has been diminished by time and loss."
+    },
+    {
+      "structure": "Prophetic declaration followed by extended image of inhabiting desolation.",
+      "rhetorical-dna": [
+        "Opens with emphatic repetition",
+        "Ellipses create visionary, drifting quality",
+        "Extended simile: domestic image applied to bleak landscape",
+        "Physical discomfort made strangely familiar, almost comfortable",
+        "Register: oracular, melancholic, poetic rather than practical"
+      ],
+      "respecification-seed": "A character describes visions of a bleak future they have accepted, even come to inhabit."
+    },
+    {
+      "structure": "Warning against anxious speculation + terse philosophical anchor.",
+      "rhetorical-dna": [
+        "Three short sentences, aphoristic",
+        "First: vivid consequence of mental habit",
+        "Second and third: clipped declarations, almost mathematical",
+        "Register: hard-won wisdom, no softening"
+      ],
+      "respecification-seed": "A character counsels against catastrophizing, speaking from experience of having done exactly that."
     }
   ]
 }
