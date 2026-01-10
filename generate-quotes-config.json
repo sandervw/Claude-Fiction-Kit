@@ -1,0 +1,8 @@
+{
+  "context": "./Input/character.json",
+  "fullItemArray": "./Input/quote-templates.json",
+  "itemType": "quote",
+  "objectiveText": "your task is to pick one template. Write one quote spoken by this character. The quote must:\n- **Follow the template structure exactly**\n- **Express a core belief, principle, or pivotal decision**\n\n**Brevity over clarity**.\nReturn ONLY the single quote you wrote as your output, as a string. No explanation, no template, just the quote text.",
+  "totalItems": 6,
+  "itemsPerSelection": 7
+}

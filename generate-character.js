@@ -1,6 +1,7 @@
 import Anthropic from '@anthropic-ai/sdk';
 import fs from 'fs';
 import path from 'path';
+import { json } from 'stream/consumers';
 import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -15,9 +16,10 @@ const MODEL = 'claude-opus-4-5-20251101';
  * Select random items from json array without repeats
  */
 function selectWithoutRepeats(chosenItems, fullItemsArray, itemsPerSelection) {
-  // Filter out items already used
+  // Filter out items already used (stringify for object comparison)
+  const chosenStrings = chosenItems.map(item => JSON.stringify(item));
   const availableItems = fullItemsArray.filter(
-    item => !chosenItems.includes(item)
+    item => !chosenStrings.includes(JSON.stringify(item))
   );
 
   // Shuffle and pick
@@ -45,16 +47,17 @@ function createPrompt(
   candidateItems,
   objectiveText
 ) {
+  // Helper to display items (stringify objects, leave strings as-is)
+  const displayItem = (item) => typeof item === 'object' ? JSON.stringify(item, null, 2) : item;
+
   const precedingItemsText = precedingItems.length > 0
-    ? precedingItems.map((a, i) => `${i + 1}. ${a}`).join('\n')
+    ? precedingItems.map((a, i) => `${i + 1}. ${displayItem(a)}`).join('\n')
     : `(No ${itemType} yet - this is the first ${itemType})`;
   const candidateItemsText = candidateItems
-    .map((a, i) => `${i + 1}. ${a}`)
+    .map((a, i) => `${i + 1}. ${displayItem(a)}`)
     .join('\n');
 
-  return `You are writing a character collaboratively in a story.
-
-The only context you have of the character is the following:
+  return `You are writing a character collaboratively in a story. The only context you have of the character is the following:
 
 1. BASE CONTEXT:
 ${context}
@@ -81,13 +84,8 @@ Given your known context, ${objectiveText}`;
  */
 async function pickItemLLM(
   client,
-  prompt,
-  candidates
+  prompt
 ) {
-  // If only one candidate, just return it directly (no need to call LLM)
-  if (candidates.length === 1) {
-    return candidates[0];
-  }
 
   const message = await client.messages.create({
     model: MODEL,
@@ -97,29 +95,17 @@ async function pickItemLLM(
 
   // Extract text from response
   const responseText = message.content[0].text.trim();
-
-  // Validate response is one of the candidates (handle LLM refusal/explanation)
-  const matchedItem = candidates.find(
-    item => responseText.includes(item) || item.includes(responseText)
-  );
-
-  if (matchedItem) {
-    return matchedItem;
-  }
-
-  // Fallback: if LLM gave explanation instead of item, pick first candidate
-  console.log('  (LLM gave explanation, falling back to first candidate)');
-  return candidates[0];
+  return responseText;
 }
 
 /**
  * Main function to add a list of 'items' (actions, quotes, etc) to a character
  */
-async function addCharacterList() {
+async function addCharacterList(configFilePath) {
   // Load config
-  const configPath = path.join(__dirname, 'generate-character-config.json');
+  const configPath = path.join(__dirname, configFilePath);
   if (!fs.existsSync(configPath)) {
-    console.error('Error: generate-character-config.json not found in project root');
+    console.error(`Error: config file not found at ${configPath}`);
     process.exit(1);
   }
 
@@ -139,18 +125,24 @@ async function addCharacterList() {
     console.error(`Error: item list file not found at ${fullItemPath}`);
     process.exit(1);
   }
-
   const itemsFile = JSON.parse(fs.readFileSync(fullItemPath, 'utf-8'));
-  // Support both generic { "[items]": [...] } format and plain array
   const fullItemsArray = itemsFile[itemType] || itemsFile[Object.keys(itemsFile)[0]] || itemsFile;
-
   if (!Array.isArray(fullItemsArray)) {
     console.error('Error: Items file must contain an array or { "[items]": [...] }');
     process.exit(1);
   }
 
+  // Load character context if file path provided
+  const contextPath = path.resolve(__dirname, context);
+  if (!fs.existsSync(contextPath)) {
+    console.error(`Error: context file not found at ${contextPath}`);
+    process.exit(1);
+  }
+  const contextFile = JSON.parse(fs.readFileSync(contextPath, 'utf-8'));
+  const characterContext = JSON.stringify(contextFile);
+
   console.log(`Generating ${totalItems} character ${itemType}...`);
-  console.log(`Character: ${context}`);
+  console.log(`Character: ${characterContext}`);
   console.log(`Pool: ${fullItemsArray.length} available`);
   console.log(`Candidates per selection: ${itemsPerSelection}`);
   console.log('---');
@@ -182,7 +174,7 @@ async function addCharacterList() {
     const precedingItems = characterItems.slice(-3);
 
     const prompt = createPrompt(
-      context,
+      characterContext,
       itemType,
       precedingItems,
       currentItem,
@@ -191,21 +183,22 @@ async function addCharacterList() {
       objectiveText
     );
 
+    //console.log(prompt);
+
     // Call LLM to pick best item
     const nextItem = await pickItemLLM(
       client,
-      prompt,
-      tempPickedArray
+      prompt
     );
 
-    console.log(`Selected: ${nextItem}`);
+    console.log(`response: ${nextItem}`);
     characterItems.push(nextItem);
   }
 
   // Save output
   const outputPath = path.join(__dirname, 'Output', 'character.json');
   const output = {
-    context,
+    character: JSON.parse(characterContext),
     itemType,
     totalItems,
     generatedAt: new Date().toISOString(),
@@ -219,7 +212,7 @@ async function addCharacterList() {
 }
 
 // Run
-addCharacterList().catch(err => {
+addCharacterList('generate-quotes-config.json').catch(err => {
   console.error('Error:', err.message);
   process.exit(1);
 });
