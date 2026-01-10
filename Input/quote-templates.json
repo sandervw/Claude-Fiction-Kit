@@ -253,6 +253,358 @@
         "Register: hard-won wisdom, no softening"
       ],
       "respecification-seed": "A character counsels against catastrophizing, speaking from experience of having done exactly that."
+    },
+    {
+      "structure": "Identification of powerful figure + recounting of deeds + counsel for strategic courtesy.",
+      "rhetorical-dna": [
+        "Three sentences building from naming to recommendation; middle sentence longest",
+        "Advisory register, pragmatic rather than awed",
+        "Pattern: identify threat/asset, establish credentials, conclude with political counsel",
+        "Tone: the seasoned retainer briefing his lord"
+      ],
+      "respecification-seed": "A counselor recognizes a dangerous or valuable newcomer and advises treating them with calculated respect."
+    },
+    {
+      "structure": "Elaboration of legendary feat + absolute declaration of invincibility.",
+      "rhetorical-dna": [
+        "Two sentences: first describes mythic deed, second delivers emphatic conclusion",
+        "Register: awed yet matter-of-fact about the extraordinary",
+        "Opener signals continuation from prior speech",
+        "Final sentence short and absolute—no qualifications"
+      ],
+      "respecification-seed": "A character continues describing someone's legendary status, culminating in a claim of their total invulnerability."
+    },
+    {
+      "structure": "Panicked rhetorical question + exclamatory declaration of supernatural threat.",
+      "rhetorical-dna": [
+        "Two parts: question addressed to superior + hyperbolic exclamation",
+        "Register: alarmed, sardonic exaggeration",
+        "Short, punchy delivery expressing desperation",
+        "Breaks formal decorum under pressure"
+      ],
+      "respecification-seed": "A normally composed advisor panics when confronting a threat that exceeds all preparation."
+    },
+    {
+      "structure": "Aphoristic warning about transferring power + prediction of consequences.",
+      "rhetorical-dna": [
+        "Two sentences: general maxim then specific application",
+        "Register: cynical, political, calculating",
+        "First sentence frames as universal principle; second grounds it in particular danger",
+        "Tone: the hard counselor who trusts no one outside the inner circle"
+      ],
+      "respecification-seed": "A character warns against giving resources or authority to someone whose loyalty lies elsewhere."
+    },
+    {
+      "structure": "Explicit conditional prophecy of harm from an alliance.",
+      "rhetorical-dna": [
+        "Single sentence, if-then structure",
+        "Register: ominous, cold, calculating",
+        "No hedging—direct prediction delivered as certainty",
+        "Treats political marriage as strategic threat"
+      ],
+      "respecification-seed": "A character predicts that an alliance will be weaponized against their own faction."
+    },
+    {
+      "structure": "Stark admission of past act + warning of inevitable retaliation.",
+      "rhetorical-dna": [
+        "Two clauses: confession then consequence",
+        "Register: matter-of-fact, neither proud nor ashamed",
+        "Accepts that past action has created permanent enmity",
+        "Tone: the pragmatist accounting for debts that will come due"
+      ],
+      "respecification-seed": "A character admits to a past killing and acknowledges that vengeance will follow."
+    },
+    {
+      "structure": "Defiant assertion of values over omens.",
+      "rhetorical-dna": [
+        "Single short sentence with parallel X-not-Y structure",
+        "Register: proud, dismissive, martial",
+        "Rejects superstition in favor of code",
+        "Maximum meaning in minimum words—aphoristic"
+      ],
+      "respecification-seed": "A character rejects warnings or portents, declaring that their code takes precedence over fear."
+    },
+    {
+      "structure": "Invocation of authority + declaration of a fact.",
+      "rhetorical-dna": [
+        "Two parts: command attribution + eternal declaration",
+        "Register: proud, final, ceremonial",
+        "First clause defers to lords; second claims personal triumph in permanence",
+        "Ends with forever—absolute finality"
+      ],
+      "respecification-seed": "A character explains why something was destroyed or hidden, and asserts it will never be recovered."
+    },
+    {
+      "structure": "Defiant confession + justification + open challenge to all comers.",
+      "rhetorical-dna": [
+        "Three-part escalation: admission, reasoning, dare",
+        "Register: righteous, confrontational, theatrical",
+        "Emphatic ownership of the act with 'Yes, it was I'",
+        "Final challenge universal—refuses shame, reframes killing as deserved"
+      ],
+      "respecification-seed": "A character publicly claims a controversial killing, justifies it, and dares anyone to seek retribution."
+    },
+    {
+      "structure": "Claim of exclusive knowledge + triumphant curse of concealment.",
+      "rhetorical-dna": [
+        "Two sentences: first invokes higher power as co-keeper of secret, second delivers taunt",
+        "Register: defiant, triumphant, almost gleeful",
+        "Elevates the secret to sacred by invoking deity/supernatural-being",
+        "Final 'forever' echoes absolute permanence"
+      ],
+      "respecification-seed": "A character possessing a secret gloats that it will die with them, denying it to an adversary forever."
+    },
+    {
+      "structure": "Deconstruction of a grand term into a critique of language itself as prison.",
+      "rhetorical-dna": [
+        "Three sentences expanding a single premise, each building on the metaphor",
+        "Opens with clinical dismissal, then extends into elaborate conceit",
+        "Register: intellectual, slightly superior, performatively nihilistic"
+      ],
+      "respecification-seed": "A character deflects a compliment or grand term by exposing language itself as inadequate."
+    },
+    {
+      "structure": "Bold ideological assertion followed by elevated elaboration of its foundational importance.",
+      "rhetorical-dna": [
+        "Two sentences: first short and colloquial, second long and formal, almost bureaucratic",
+        "Grand principle stated with manifesto-like certainty",
+        "Register: idealistic surface masking personal agenda"
+      ],
+      "respecification-seed": "A character states a grand principle that secretly serves their self-interest."
+    },
+    {
+      "structure": "Rhetorical question normalizing a vice, then pivot to direct personal accusation.",
+      "rhetorical-dna": [
+        "Two sentences: first deflects judgment onto universal category, second lands the blow",
+        "Formal address softened by mock-courtesy before the accusation",
+        "Register: insinuating, weaponized politeness"
+      ],
+      "respecification-seed": "A character accuses another by first making the accusation universal, then pointedly personal."
+    },
+    {
+      "structure": "Dual self-acknowledgment of outsider status—nature and origin.",
+      "rhetorical-dna": [
+        "Two parallel short sentences with anaphora",
+        "First addresses appearance/nature, second addresses origin",
+        "Register: blunt, dignified resignation—preemptive acknowledgment disarms attack"
+      ],
+      "respecification-seed": "A character states their own defects before others can weaponize them."
+    },
+    {
+      "structure": "Conditional self-assessment narrowing to one expertise, then revealing its personal origin.",
+      "rhetorical-dna": [
+        "Two sentences: first construction signals limited self-knowledge, then claims one thing definitively",
+        "Second sentence explains through personal wound",
+        "Register: confessional, quietly bitter"
+      ],
+      "respecification-seed": "A character claims understanding of a dark emotion by revealing its source in their own experience."
+    },
+    {
+      "structure": "Accusatory lament over rejected generosity.",
+      "rhetorical-dna": [
+        "Three short sentences with repetition in first and last",
+        "Exclamatory middle sentence functions as command ('Remember that!')",
+        "Register: wounded, bitter, controlling—generosity reframed as leverage"
+      ],
+      "respecification-seed": "A rejected character reminds another of what they've lost by refusing them."
+    },
+    {
+      "structure": "Formal assurance of capability plus paradox of instinct over intellect.",
+      "rhetorical-dna": [
+        "Two sentences: first is formal confidence with direct address, second inverts expectation",
+        "Prioritizes emotion (intuition) over calculation (reasons) while admitting many reasons exist",
+        "Register: obsequious, theatrical, with undercurrent of menace"
+      ],
+      "respecification-seed": "A character ingratiates themselves to power while hinting at hidden depths."
+    },
+    {
+      "structure": "Violent declaration followed by darkly comic qualification.",
+      "rhetorical-dna": [
+        "Two sentences: first is standard threat formula (exclamatory), second undercuts with absurd precision",
+        "The qualification deflates grandeur while preserving menace",
+        "Register: theatrical rage punctured by sardonic afterthought"
+      ],
+      "respecification-seed": "A character makes a grandiose threat, then reveals self-awareness about its absurdity."
+    },
+    {
+      "structure": "Intimate address to personified evil or obstacle.",
+      "rhetorical-dna": [
+        "Single short sentence, direct address to abstraction/enemy given a name",
+        "'Just you and me' implies stripped-down finality",
+        "Register: grim, darkly playful, final-confrontation energy"
+      ],
+      "respecification-seed": "A character faces a final obstacle and addresses it as an adversary worthy of acknowledgment."
+    },
+    {
+      "structure": "Universal claim that simple violence suffices against all problems.",
+      "rhetorical-dna": [
+        "Single declarative sentence, absolute and confident",
+        "Double negative emphasizes totality",
+        "Register: plain-spoken certainty, warrior's pragmatism"
+      ],
+      "respecification-seed": "A character dismisses complex or supernatural threats with unshakeable faith in direct violence."
+    },
+    {
+      "structure": "Negation of seeking trouble paired with refusal to avoid confrontation.",
+      "rhetorical-dna": [
+        "Two clauses linked by 'but' in balanced antithesis",
+        "Parallel phrasing creates symmetry",
+        "Register: level-headed, unboastful courage"
+      ],
+      "respecification-seed": "A character explains their philosophy of neither hunting nor fleeing danger."
+    },
+    {
+      "structure": "Indictment of sophisticated skepticism as willful blindness.",
+      "rhetorical-dna": [
+        "Two sentences: short dismissal, then longer explanation",
+        "Contemptuous modifier for opponent's worldview",
+        "Register: sardonic disdain from an outsider's perspective"
+      ],
+      "respecification-seed": "Someone outside mainstream culture mocks the establishment's inability to accept what defies their framework."
+    },
+    {
+      "structure": "Defiant promise that one's death will carry weight and be noticed.",
+      "rhetorical-dna": [
+        "Single sentence, conditional structure",
+        "Macabre specificity delivered with casual matter-of-factness",
+        "Register: grim pride, acceptance of violent end with dignity"
+      ],
+      "respecification-seed": "A character facing likely death promises their end will have meaning or impact."
+    },
+    {
+      "structure": "Eulogy declaring worth through category membership plus honoring a companion.",
+      "rhetorical-dna": [
+        "Three-part progression: terse declaration, toast to fallen, toast to beast",
+        "Category membership as highest possible praise",
+        "Register: solemn, economical grief"
+      ],
+      "respecification-seed": "A warrior honors fallen comrades—including a loyal animal—with spare, sincere words."
+    },
+    {
+      "structure": "Vow of specific, quantified vengeance elevating a fallen companion.",
+      "rhetorical-dna": [
+        "Two-part structure with precise numbers establishing proportionality",
+        "Second clause elevates beast above humans",
+        "Register: formal oath-taking, controlled rage beneath measured words"
+      ],
+      "respecification-seed": "A character swears proportional vengeance for allies, ranking an animal equal to or above men."
+    },
+    {
+      "structure": "Conditional promise to resolve uncertainty through direct physical action.",
+      "rhetorical-dna": [
+        "Single sentence, if-then structure",
+        "Technical/physical term grounds abstract question in concrete violence",
+        "Register: confident understatement, martial pragmatism"
+      ],
+      "respecification-seed": "A character cuts short debate by promising decisive action once they're close enough."
+    },
+    {
+      "structure": "Permission or welcome paired with practical justification of unlikely ally.",
+      "rhetorical-dna": [
+        "Two short sentences: terse command, then explanation",
+        "Contrast elevates instinct over intellect",
+        "Register: matter-of-fact acceptance of unconventional assistance"
+      ],
+      "respecification-seed": "A character defends an unusual companion by citing their practical, instinctual usefulness."
+    },
+    {
+      "structure": "Grudging respect for enemies' swift recovery from fear.",
+      "rhetorical-dna": [
+        "Single sentence with delayed qualifier creating dark humor",
+        "The pause subverts the apparent compliment",
+        "Register: wry acknowledgment of worthy, resilient opponents"
+      ],
+      "respecification-seed": "A character admits their enemies, though briefly daunted, quickly regain courage."
+    },
+    {
+      "structure": "Terse acceptance of practical limits against the supernatural.",
+      "rhetorical-dna": [
+        "Single brief sentence, flat declarative",
+        "Frames surrender as pragmatism rather than defeat",
+        "Register: unsentimental assessment, maximum economy of words"
+      ],
+      "respecification-seed": "A character abandons pursuit, acknowledging some foes are beyond natural tracking."
+    },
+    {
+      "structure": "Formal self-introduction establishing allegiance, then reframing a curse as catalyst for a personal quest.",
+      "rhetorical-dna": [
+        "Two sentences, first brief and declarative, second longer and purposeful",
+        "Transformation framing: what might be a loss becomes an opportunity",
+        "Register: earnest, almost naive enthusiasm, no cynicism or irony"
+      ],
+      "respecification-seed": "A character introduces themselves, revealing their quest was born from a change in their circumstances that others would consider misfortune."
+    },
+    {
+      "structure": "Hedged observation of connection, then rhetorical question implying fate in a hostile world.",
+      "rhetorical-dna": [
+        "Two sentences, first tentative, second a rhetorical question",
+        "Contrasts the danger of the environment with the improbability of meeting",
+        "Register: warm, contemplative, inviting agreement rather than asserting"
+      ],
+      "respecification-seed": "A character suggests their meeting with another is fated, given the odds of connection in an isolating environment."
+    },
+    {
+      "structure": "Statement of displacement, then metaphysical explanation for the world's strangeness.",
+      "rhetorical-dna": [
+        "Two sentences, first brief and disorienting, second elaborates with cosmic scope",
+        "Repetition of 'strange' creates an incantatory, accepting tone",
+        "Register: contemplative awe, acceptance rather than fear of the uncanny"
+      ],
+      "respecification-seed": "A character articulates the bent rules of their reality, where time and presence don't work as expected."
+    },
+    {
+      "structure": "Invitation to use a gift, described through triadic escalation culminating in fellowship.",
+      "rhetorical-dna": [
+        "Single sentence with imperative opening, then three infinitive phrases building in scope",
+        "Final phrase is signature: unexpectedly earnest term for cooperation",
+        "Register: warm, enthusiastic, endearingly sincere where cynicism might be expected"
+      ],
+      "respecification-seed": "A character offers a means of connection between isolated souls, framing mutual aid as joyful rather than transactional."
+    },
+    {
+      "structure": "Reverent declaration of an ideal, familial comparison, then self-deprecating aspiration.",
+      "rhetorical-dna": [
+        "Three sentences of increasing emotional intensity, each ending with exclamation or emphasis",
+        "Unusual word pairing creates memorable, idiosyncratic phrasing",
+        "Register: reverent, almost worshipful, with childlike longing rather than dignified distance"
+      ],
+      "respecification-seed": "A character expresses devotion to their ideal, wishing they could embody even a fraction of its qualities."
+    },
+    {
+      "structure": "Teasing observation of repeated contact, then playful deflection of emotional intimacy.",
+      "rhetorical-dna": [
+        "Two sentences, first rhetorical question with tag inviting agreement",
+        "Conditional in second creates plausible deniability",
+        "Register: warm, gently teasing, acknowledging affection while maintaining lightness"
+      ],
+      "respecification-seed": "A character notices another keeps seeking them out, deflecting the intimacy with humor while revealing they value the connection."
+    },
+    {
+      "structure": "Admission of failure across multiple attempts, then short declaration of continued resolve.",
+      "rhetorical-dna": [
+        "Two sentences, first catalogues failures with parallel 'not in X, nor in Y' structure",
+        "Second sentence is blunt and short, contrasting the elaborated first",
+        "Register: weary but resolute, no self-pity or dramatic despair"
+      ],
+      "respecification-seed": "A character admits their quest has yielded nothing across many places but refuses to abandon it."
+    },
+    {
+      "structure": "Series of anguished rhetorical questions, address to absent ideal, plea for direction.",
+      "rhetorical-dna": [
+        "Four questions, each more desperate than the last",
+        "Direct address to the object of devotion",
+        "Register: broken, faith shattered, raw vulnerability without dignity"
+      ],
+      "respecification-seed": "A character, having lost faith in their life's purpose, addresses the very thing they worshipped and begs for guidance."
+    },
+    {
+      "structure": "Fragmented announcement of ending, farewell to ideal, descent into absence.",
+      "rhetorical-dna": [
+        "Sentence fragments separated by ellipses, creating dying rhythm",
+        "Repetition in final fragment intensifies finality",
+        "Register: dying breath, peaceful yet tragic, metaphor made literal (the ideal's death is their death)"
+      ],
+      "respecification-seed": "A character's final words equate their death with the loss of the thing they devoted their life to."
     }
   ]
 }
