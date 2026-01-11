@@ -2,7 +2,7 @@
   "context": "./Input/character.json",
   "fullItemArray": "./Input/character-actions.json",
   "itemType": "action",
-  "objectiveText": "your task is to pick the single best action from that list, given the goal of writing a satisfying character arc.\nRemember, you are picking THE CURRENT ACTION number in the sequential list of actions.\nIMPORTANT: Consider narrative pacing. For example:\n- Do not select 'character dies' as action 2/10 in the story\n- Early action should establish character and situation\n- Middle action should develop conflict and growth\n- Later action should build toward climax and resolution\nReturn ONLY the single chosen action as your output, exactly as it appears in the list above. No explanation, no quotes, just the action text.",
+  "objectiveText": "your task is to pick the single best action from that list, given the goal of writing a satisfying character arc.\nRemember, you are picking `THE NEXT ACTION` number in the sequential list of actions.\nIMPORTANT: Consider narrative pacing. For example:\n- Do not select 'character dies' as action 2/10 in the story\n- Early action should establish character and situation\n- Middle action should develop conflict and growth\n- Later action should build toward climax and resolution\nReturn ONLY the single chosen action as your output, exactly as it appears in the list above. No explanation, no quotes, just the action text.",
   "totalItems": 10,
   "itemsPerSelection": 7
 }

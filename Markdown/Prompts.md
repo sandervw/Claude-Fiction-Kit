@@ -323,8 +323,16 @@ JSON:
 
 ## Character-Description Prompt
 
-Hey claude, take a look at my attached Whyneland setting doc. With that as context, I want you to generate a character's physical description using the guidelines below. The description must address all of the following, but may integrate them fluidly rather than sequentially. The symbolic animal should be a `REPLACE`, the character should me male, and he should be a `REPLACE - OCCUPATION`. Otherwise, you have freedom within the guidelines.
-GUIDELINES:
+
+Hey claude, I'm giving you a setting overview for my Whyneland story setting. Along with that, I have some CURRENT DETAILS about a character which influence his physical description. Using that information, as well as the GUIDELINES below, I want you to 'fill out' the *physical* description of the character. Rely on my pre-written details, and use the GUIDELINES to write the rest. The description must address all of the GUIDELINES, but may integrate them fluidly rather than sequentially.
+
+### CURRENT DETAILS:
+- The symbolic animal should be a `ANIMAL`
+- The character should me male
+- He should be a `PROFESSION`
+- `ADDITONAL`
+
+### GUIDELINES:
 - [symbolic_animal] - influences exactly three to four elements: gait, one facial feature, one equipment piece, and optionally one additional detail (posture, hands, voice, etc.)
 - [gender]; [rough_age]
 - [height]; [build]; [stance] (build/stance should be uncommon)

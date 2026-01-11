@@ -152,6 +152,8 @@ async function addCharacterList(configFilePath) {
 
   // Build character items array
   const characterItems = [];
+  let firstPromptResponse = null;
+  let lastPromptResponse = null;
 
   for (let i = 0; i < totalItems; i++) {
     const currentItem = i + 1;
@@ -168,7 +170,7 @@ async function addCharacterList(configFilePath) {
       break;
     }
 
-    console.log('Candidates:', tempPickedArray);
+    // console.log('Candidates:', tempPickedArray);
 
     // Get most recent 3 items
     const precedingItems = characterItems.slice(-3);
@@ -183,7 +185,7 @@ async function addCharacterList(configFilePath) {
       objectiveText
     );
 
-    //console.log(prompt);
+    // console.log(prompt);
 
     // Call LLM to pick best item
     const nextItem = await pickItemLLM(
@@ -191,8 +193,15 @@ async function addCharacterList(configFilePath) {
       prompt
     );
 
-    console.log(`response: ${nextItem}`);
+    // console.log(`response: ${nextItem}`);
     characterItems.push(nextItem);
+
+    // Track first and last prompt+response for logging
+    const promptResponse = { prompt, response: nextItem };
+    if (i === 0) {
+      firstPromptResponse = promptResponse;
+    }
+    lastPromptResponse = promptResponse;
   }
 
   // Save output
@@ -202,11 +211,43 @@ async function addCharacterList(configFilePath) {
     itemType,
     totalItems,
     generatedAt: new Date().toISOString(),
-    items: characterItems
+    [`${itemType}s`]: characterItems
   };
 
   fs.writeFileSync(outputPath, JSON.stringify(output, null, 2));
   console.log(`\n---\nSaved ${characterItems.length} ${itemType} to ${outputPath}`);
+
+  // Write first and last prompt+response to log file
+  if (firstPromptResponse && lastPromptResponse) {
+    const logPath = path.join(__dirname, 'Output', 'character-generation.log');
+    const logContent = `=== Character Generation Log ===
+Generated: ${new Date().toISOString()}
+Item Type: ${itemType}
+Total Items: ${totalItems}
+
+================================================================================
+FIRST PROMPT:
+================================================================================
+${firstPromptResponse.prompt}
+
+================================================================================
+FIRST RESPONSE:
+================================================================================
+${firstPromptResponse.response}
+
+================================================================================
+LAST PROMPT:
+================================================================================
+${lastPromptResponse.prompt}
+
+================================================================================
+LAST RESPONSE:
+================================================================================
+${lastPromptResponse.response}
+`;
+    fs.writeFileSync(logPath, logContent);
+    console.log(`Saved prompt/response log to ${logPath}`);
+  }
 
   return characterItems;
 }

@@ -1,28 +1,30 @@
 {
   "character": {
-    "characterDescription": "Black hair and mustache, with flinty grey hairs at the temples, bristly and kinked, as if he'd looked overlong into a smokepit. His eyes and eyebrows are shadowed with the same sooty darkness, bagged and deeply lined, and with irises of such a stony blue that they are almost indiscernible from the pupils. His lips are chapped and pressed together; when they open, the voice that issues from them has a clear and precise depth to it that is naturally discomforting. His expression is more senatorial than grim, a kind of stoical look that is yet untroubled, his features calm.\nHe stands above average height, with ropey and knotted limbs, all sinew and tendons visible beneath sun-darkened skin, and with a slight asymmetry to his stance as his pointed right shoulderblade rises higher than his left. His veined hands are smooth at the fingertips and stained the color of rusty iron. When he stands still, he is upright, solitary, patient. And when he walks, it with ungainly clamber and shuffle of a cormorant.\nUpon his person he carries a bronze flanged mace with a long and hazelwood haft, and an ash wood targe. He wears a 'shaman coat' - a thick, brown, twill wool lining layered over with deer leather of dappled sepia and pewter and flax-white color. a pair of iron deer hooves hang as ornaments near the waist, beside an oxbone flute, and one set of brass chimes is draped along a shoulder. Moreover, the coat sports three dolls with bodies of fur, and heads of deer hair. From his neck, over his chest and the front of the coat, there hangs a drilled copper mirror - it is circular, and while the edge band is all copper, only the top of the edge is weathered with verdigris green; the bottom is shiny and ruddy. On the shaman's head is a fitted bear-skull helmet.",
-    "actionsTakenDuringStory": [
-      "Spots inhuman creature and watches it flee into the wilds",
-      "Reluctantly accepts selection into warband by oracle's prophecy.",
-      "Receives summons from high priest of religion",
-      "Quarrels with foster-brother ruler, exiled for treason.",
-      "Identifies himself to contact who fails to recognize him",
-      "Questions local rogue about target location and its defenses",
-      "Travels to old tomb and retrieves sacred part of remains",
-      "Enters magical dwelling through servants' entrance uninvited",
-      "Speaks with spirits of failed predecessors and receives enchanted gifts",
-      "Fights in final battle as enemy assault is broken."
+    "character": {
+      "characterDescription": "A man past middle age but not yet old—somewhere in that weathered span where sinew outlasts softness. Medium height, neither tall enough to notice nor short enough to remember, with a build like a yew stave: slim, dense, stronger than it looks. He stands with weight settled back on his heels, shoulders rounded forward in a way that makes him seem shorter, less present. Your eye finds him and moves on.\nHis skin carries the sallow-tan of someone who works beneath open sky but rarely in direct sun—a scout's complexion, or a shepherd's. The hands are broad-palmed with blunt fingers, the webbing between thumb and forefinger on his right hand thick with old scar tissue, pale as fishbone against the darker skin. His beard hangs past his collarbone, iron-grey streaked through dull black, divided into two loose plaits bound with waxed cord. The hair above is thinner, cropped close to the skull where it hasn't retreated entirely.\nThe face is pleasant in a forgettable way: soft mouth, brow that furrows easily into something like mild concern. But the nose hooks sharply, almost beaked, as if some ancestor's bone structure had been borrowed from a raptor. His eyes sit deep beneath that brow—the grey-green of lichen on granite—and they move in small, quick ticks, always returning to hands, to exits, to distances. The expression never changes during these assessments.\nHe moves with an unhurried administrative quality, like a clerk walking between offices, until he doesn't. Then there's that sudden darting shift, a shrike dropping from its perch, finished before the motion fully registers.\nAcross his shoulders hangs a cloak of felted wool in a color that's neither brown nor grey but something between—moorland drab, patched at the left hem where the weave has worn thin from years of the same habitual grip. Beneath it, a knee-length tunic of undyed linen over leather leggings gone dark with oil and use. His boots are low-cut, the soles wrapped in layered hide that muffles his step to near-silence on packed earth.\nThe spear rides diagonally across his back, haft-down, secured by a leather loop. The shaft is pale ash, worn smooth where hands have gripped it for decades, and the head is bronze—leaf-shaped but with a pronounced barb curving back from one edge like a thorn or a hooked beak, meant to catch and tear on the way out. Below the socket-mounting, three bands of copper wire spiral down the haft, tarnished to verdigris. No other spear looks quite like it; you would know this weapon if you saw it twice.\nWhen he breathes out, there's the faint sourness of soured milk and dried meat—traveler's rations, long carried.\nHis voice, when it comes, is soft and unhurried, the kind that makes you lean in slightly to hear."
+    },
+    "actions": [
+      "Crosses beyond a menhyr circle into land the Spirit of Wilderness reclaimed",
+      "Tracks a rival warband's scout through the dense weald for hours",
+      "Listens to a Skrae's - a spirit bird's - revelation concerning Red King Tharn and the power man forfeited",
+      "Refuses to immediately place the vessel that would bind the Skrae to his service",
+      "Backtracks repeatedly as bogs drink the paths and the land reshapes itself",
+      "Suffers visions of kin and tormented souls",
+      "Descends into a flooded stone-lined passage beneath an old henj",
+      "Locates and shatters the name-stone anchoring an enemy warlord's memory to the earth, ending his unnatural persistence",
+      "Fights in the final battle alongside warriors from a once-rival warband",
+      "Witnesses his lord's death and the raising of the funeral kern beside the survivors"
     ]
   },
   "itemType": "quote",
   "totalItems": 6,
-  "generatedAt": "2026-01-10T01:50:07.391Z",
-  "items": [
-    "\"You misremember me, friend. I am no longer the man who stood in councils and commanded spears—I have given over such things for the drum and the smoke, for the silence between the chimes.\"",
-    "\"The shortest path to a quarry is seldom the truest one; the beast that flees straight is soonest taken. For but consider the river—it winds and doubles, yet it alone reaches the sea, while the rain that falls direct is swallowed by the dust and forgotten.\"",
-    "\"He that builds his peace upon the taking of a city has set himself to weave a rope of smoke.\"",
-    "\"Honor guides me, not ravens.\"",
-    "\"What profit lies in an oath from one such as I? If I were false, I should swear most readily; if true, my word alone should suffice. Bind me not with chains I could slip as easily as a snake sheds its winter skin.\"",
-    "\"I slew the oracle's chosen before he could reach the throne. His kinsmen will find me—debts of blood do not fade with distance.\""
+  "generatedAt": "2026-01-10T22:36:25.619Z",
+  "quotes": [
+    "\"What worth is an oath from a man who's walked corpse-roads and broken name-stones? If I swore fealty on every spirit between here and the henj, you'd be a fool to sleep easier for it—I'd simply swear again when the wind changed.\"",
+    "\"Worry gnaws the bowstring before the arrow flies. What is, is. What comes, comes.\"",
+    "\"By my lord's command I broke the stone, and the name it held is scattered past all gathering—forgotten forever.\"",
+    "\"Enter, and be easy—the fire asks no toll. I am keeper of this ground, warden where the old stones still stand. But a name given earns a name returned, if we are to share salt.\"",
+    "\"Slander me as you will—my name is a small thing, already half-forgotten. But speak ill of my lord's memory, and I will open your throat before the words cool in the air.\"",
+    "\"They were shaken, I grant them that—but only until they remembered there were more of them than us.\""
   ]
 }
