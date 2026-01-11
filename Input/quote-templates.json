@@ -605,6 +605,296 @@
         "Register: dying breath, peaceful yet tragic, metaphor made literal (the ideal's death is their death)"
       ],
       "respecification-seed": "A character's final words equate their death with the loss of the thing they devoted their life to."
+    },
+    {
+      "structure": "Reassurance followed by stark declaration of acceptance of death.",
+      "rhetorical-dna": [
+        "Two sentences, first brief and calming, second longer and shocking",
+        "Inverts expectation: the comfort offered is the speaker's doom",
+        "Register: serene, fatalistic, dignified"
+      ],
+      "respecification-seed": "A character reveals their acceptance of death to someone who fears their intentions."
+    },
+    {
+      "structure": "Philosophical summary plus vivid metaphor of impermanence.",
+      "rhetorical-dna": [
+        "Two sentences, first sets up reflection, second delivers imagery",
+        "Extended metaphor: stability as illusion, destruction as natural force",
+        "Register: mournful, resigned, aphoristic"
+      ],
+      "respecification-seed": "A character reflects on the fragility of everything they and others have built."
+    },
+    {
+      "structure": "Relayed promise building through intensifying oaths.",
+      "rhetorical-dna": [
+        "Five short sentences, escalating commitment with each",
+        "Third-party address (message relayed through intermediary)",
+        "Register: earnest, protective, solemn oath-taking"
+      ],
+      "respecification-seed": "A character vows to protect or guide someone dear to another, staking their honor on it."
+    },
+    {
+      "structure": "Deflating declaration naming a sacred institution as hollow.",
+      "rhetorical-dna": [
+        "Single sentence that builds before it punctures",
+        "'After all' signals an arrived-at conclusion, not sudden revelation",
+        "Register: bitter, disillusioned, accusatory"
+      ],
+      "respecification-seed": "A character strips away pretense from something their society holds sacred."
+    },
+    {
+      "structure": "Rhetorical question asserting the unknowability of others.",
+      "rhetorical-dna": [
+        "Single sentence, rhetorical question expecting no answer",
+        "Depth metaphor for inner life",
+        "Register: philosophical, humble, perhaps defensive"
+      ],
+      "respecification-seed": "A character deflects judgment by invoking the mystery of human interiority."
+    },
+    {
+      "structure": "Rhetorical question accusing the privileged of incomprehension.",
+      "rhetorical-dna": [
+        "Single sentence, rhetorical question as indictment",
+        "Class or experience divide framed as epistemic barrier",
+        "Register: bitter, sympathetic toward the suffering, indicting the comfortable"
+      ],
+      "respecification-seed": "A character challenges those who have never lacked to admit they cannot understand deprivation."
+    },
+    {
+      "structure": "Single-sentence challenge turning judgment back on the judge.",
+      "rhetorical-dna": [
+        "Short, direct rhetorical question",
+        "Reversal: the accused becomes the accuser",
+        "Register: defiant, intimate confrontation"
+      ],
+      "respecification-seed": "A character deflects moral criticism by forcing the critic to imagine themselves in the same position."
+    },
+    {
+      "structure": "Aphorism exposing theory without practice as self-deception.",
+      "rhetorical-dna": [
+        "Single sentence, parallel construction",
+        "Absurdist comparison renders the point undeniable",
+        "Register: sardonic, instructive, devastating"
+      ],
+      "respecification-seed": "A character mocks untested expertise by revealing its fundamental impossibility."
+    },
+    {
+      "structure": "Acknowledgment of claimed glory followed by accusation of hypocrisy.",
+      "rhetorical-dna": [
+        "Single compound sentence pivoting on 'but'",
+        "Names specific symbols of pride before deflating them",
+        "Register: controlled contempt, public indictment"
+      ],
+      "respecification-seed": "A character confronts a proud institution directly, naming their honors before declaring them hollow."
+    },
+    {
+      "structure": "Double assertion of autonomy refusing justification.",
+      "rhetorical-dna": [
+        "Two short sentences, firm parallel refusals",
+        "Direct address ('to you') establishes boundary",
+        "Register: cold, dignified, final"
+      ],
+      "respecification-seed": "A character shuts down demands for explanation by asserting sovereign authority over their own choices."
+    },
+    {
+      "structure": "Imperative summons acknowledging ambiguous relationship, then revealing practical need.",
+      "rhetorical-dna": [
+        "Repetition of specific invitation word (three times) creates incantatory rhythm",
+        "Binary framing (X or Y) collapses moral categories—the distinction doesn't matter",
+        "Shift from grandiose invitation to pragmatic demand",
+        "Register: imperial, commanding, yet oddly intimate"
+      ],
+      "respecification-seed": "A powerful figure summons an old associate whose loyalty is uncertain, revealing they need something the other possesses."
+    },
+    {
+      "structure": "Dismissive insult + declaration of nature + rhetorical question exposing futility.",
+      "rhetorical-dna": [
+        "Three short punchy sentences escalating in certainty",
+        "Rhetorical question implies the answer is 'you cannot'",
+        "The simplicity of the declaration is the power—no elaboration needed",
+        "Register: contemptuous, almost pitying"
+      ],
+      "respecification-seed": "A being of supreme power dismisses an attacker's threat as categorically impossible."
+    },
+    {
+      "structure": "Denial of defeat + declaration of resurgence with liberationist purpose.",
+      "rhetorical-dna": [
+        "Classic 'not dead but sleeping' reversal—what enemies thought was victory was merely dormancy",
+        "Tense shift from past passivity to present action",
+        "Dual enemy: external occupiers + false spiritual authorities",
+        "Register: prophetic, collective, messianic"
+      ],
+      "respecification-seed": "A leader announces the return of a defeated faction, framing resurgence as liberation from both foreign and spiritual tyranny."
+    },
+    {
+      "structure": "Declaration of gift-giving purpose + speculative invitation to imagine freedom.",
+      "rhetorical-dna": [
+        "First sentence: benevolent framing of power-sharing",
+        "Second sentence: rhetorical question opens rather than closes—genuinely speculative",
+        "Liberation is from fear, not from the powers themselves",
+        "Register: philosophical, generous, subtly utopian"
+      ],
+      "respecification-seed": "A figure offering transcendence frames their gift as freedom from existential terror, inviting others to imagine what lies beyond."
+    },
+    {
+      "structure": "Formal greeting by title + announcement of prepared reception.",
+      "rhetorical-dna": [
+        "Two short sentences, hospitable surface",
+        "Title instead of name—recognizes the role, not the person",
+        "'Prepared a place' carries ominous biblical resonance—ambiguously threatening or genuine",
+        "Register: ceremonial, ominous hospitality"
+      ],
+      "respecification-seed": "A host greets a prophesied visitor by title, the welcome's sincerity deliberately unclear."
+    },
+    {
+      "structure": "Greeting + vision of alliance toward shared governance and expulsion of enemies.",
+      "rhetorical-dna": [
+        "Assumes alliance without asking for it",
+        "Dyadic framing of authority (abstract + concrete)",
+        "Dehumanizing enemy",
+        "Register: formal, martial, nationalist"
+      ],
+      "respecification-seed": "A former ally greets a returning figure, presuming partnership in driving out occupiers and restoring rightful order."
+    },
+    {
+      "structure": "Symmetrical declaration of origin and terminus + formal invitation to final speech.",
+      "rhetorical-dna": [
+        "Perfect parallelism ('began' / 'end')—structural inevitability",
+        "Shift from declarative to interrogative",
+        "Tone is both ceremonial and fatal",
+        "Register: resigned, almost ritual, acknowledging gravity"
+      ],
+      "respecification-seed": "At the site where everything started, a figure announces the final confrontation and offers the opponent a last chance to speak."
+    },
+    {
+      "structure": "Nostalgic invocation of past bond + claim of unmatched loyalty.",
+      "rhetorical-dna": [
+        "Elegiac tone acknowledging rupture",
+        "Doubled intensifiers (Examples: friends and brothers, peace and war)",
+        "Superlative claim of service—positioning self as the ultimate loyal one",
+        "Register: grieved, almost reproachful, dignified"
+      ],
+      "respecification-seed": "A former ally reminds one who betrayed (or feels betrayed by) them of their shared history, asserting no one served more faithfully."
+    },
+    {
+      "structure": "Imperative summons acknowledging hardship of journey + affirmation of reception.",
+      "rhetorical-dna": [
+        "Short, incantatory sentences",
+        "Statement of two hardships faced acknowledges the cost of approach",
+        "Opening welcome greeting implies destination is worth the journey",
+        "Register: almost tender beneath the grandiosity"
+      ],
+      "respecification-seed": "A figure at the center of conflict invites another to reach them despite all obstacles, promising welcome at journey's end."
+    },
+    {
+      "structure": "Declaration of finality + intensified acknowledgment of its quality.",
+      "rhetorical-dna": [
+        "Two sentences, second elaborating first",
+        "Repetition for emphasis—not just end, but hard end",
+        "No denial, no defiance—pure acceptance",
+        "Register: mournful, exhausted, dignified in defeat"
+      ],
+      "respecification-seed": "A figure facing final defeat acknowledges the conclusion without evasion, letting the bitterness speak."
+    },
+    {
+      "structure": "Observational paradox followed by ominous approval and dark proposition.",
+      "rhetorical-dna": [
+        "Three sentences: first longer, next two short and punchy",
+        "Opens with ironic observation about the addressee",
+        "Pivot creates menacing approval rather than judgment",
+        "Register: calm, knowing, sinister seduction"
+      ],
+      "respecification-seed": "A recruiter approaches someone who has crossed a moral line, offering belonging rather than judgment."
+    },
+    {
+      "structure": "Formal address + denial that pivots to superior claim.",
+      "rhetorical-dna": [
+        "Two sentences, second half the length of first",
+        "Affectionate honorific establishes in-group intimacy",
+        "Parallel structure with escalating verb",
+        "Register: sardonic pride, theatrical confidence"
+      ],
+      "respecification-seed": "A character corrects a misunderstanding of their role by claiming greater power than assumed."
+    },
+    {
+      "structure": "Evocative imagery command followed by terse identification.",
+      "rhetorical-dna": [
+        "Two sentences: first elaborate and sensory, second blunt",
+        "Invitation into shared vision",
+        "Stacked adjectives create atmospheric density",
+        "Register: reverent, instructive, almost liturgical"
+      ],
+      "respecification-seed": "A character explains an abstract or divine concept through sensory metaphor."
+    },
+    {
+      "structure": "Declaration of purpose through ascending triadic list.",
+      "rhetorical-dna": [
+        "Single sentence with triadic structure",
+        "Escalation from base (profit) through transgressive (enjoyment) to sacred (glory)",
+        "First-person plural establishes collective identity",
+        "Register: proud, unapologetic, ritualistic"
+      ],
+      "respecification-seed": "A character states their group's ethos, embracing rather than excusing its dark nature."
+    },
+    {
+      "structure": "Simple identity claim with violent metaphorical elaboration.",
+      "rhetorical-dna": [
+        "Single sentence, two clauses",
+        "Household metaphor domesticates what follows; the violence becomes intimacy",
+        "Craft metaphor implies permanence and intentionality",
+        "Register: warm despite content, matter-of-fact about darkness"
+      ],
+      "respecification-seed": "A character welcomes another into a group bound by shared transgression rather than birth."
+    },
+    {
+      "structure": "Extended contractual metaphor with escalating fragments.",
+      "rhetorical-dna": [
+        "Three units, progressively shorter (full sentence to fragment to fragment)",
+        "Legal/signing metaphor sustained through all three",
+        "Transforms violence into bureaucratic formality",
+        "Register: formal, almost legalistic, ceremonial"
+      ],
+      "respecification-seed": "A character reframes a violent act as the addressee's binding initiation into an organization."
+    },
+    {
+      "structure": "Temporal marker + role assignment with possessive claim.",
+      "rhetorical-dna": [
+        "Single sentence, formal announcement structure",
+        "Opening creates ritual boundary",
+        "Possessive + role title establishes hierarchical intimacy",
+        "Register: ceremonial, authoritative, conferring honor"
+      ],
+      "respecification-seed": "A mentor formally elevates someone to a position of trust and purpose."
+    },
+    {
+      "structure": "Ominous promise with pause + warm invitation.",
+      "rhetorical-dna": [
+        "Two short sentences",
+        "Ellipsis creates menacing ambiguity",
+        "Pivot from surveillance to warmth",
+        "Register: controlled, watchful, warmth undercut by implied threat"
+      ],
+      "respecification-seed": "A superior welcomes a new member while making clear they will be observed."
+    },
+    {
+      "structure": "Benediction/sending with honorific address and mission statement.",
+      "rhetorical-dna": [
+        "Two sentences, imperative mood throughout",
+        "Honorific title places addressee in lineage",
+        "Dual imperative: embodiment + action",
+        "Register: liturgical, parental, blessing-as-command"
+      ],
+      "respecification-seed": "A spiritual authority sends an agent forth on a mission framed as sacred duty."
+    },
+    {
+      "structure": "Rhetorical question + revelation + call to action.",
+      "rhetorical-dna": [
+        "Three short sentences, escalating urgency",
+        "'You and I' creates conspiratorial alliance",
+        "Shift from authority to apparent vulnerability (may itself be manipulation)",
+        "Register: urgent, frustrated, seeking partnership"
+      ],
+      "respecification-seed": "An authority figure pivots to seeking alliance when they discover shared victimhood."
     }
   ]
 }

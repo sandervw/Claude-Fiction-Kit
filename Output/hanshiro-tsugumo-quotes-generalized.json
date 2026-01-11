@@ -1,0 +1,94 @@
+{
+  "quotes": [
+    {
+      "structure": "Reassurance followed by stark declaration of acceptance of death.",
+      "rhetorical-dna": [
+        "Two sentences, first brief and calming, second longer and shocking",
+        "Inverts expectation: the comfort offered is the speaker's doom",
+        "Register: serene, fatalistic, dignified"
+      ],
+      "respecification-seed": "A character reveals their acceptance of death to someone who fears their intentions."
+    },
+    {
+      "structure": "Philosophical summary plus vivid metaphor of impermanence.",
+      "rhetorical-dna": [
+        "Two sentences, first sets up reflection, second delivers imagery",
+        "Extended metaphor: stability as illusion, destruction as natural force",
+        "Register: mournful, resigned, aphoristic"
+      ],
+      "respecification-seed": "A character reflects on the fragility of everything they and others have built."
+    },
+    {
+      "structure": "Relayed promise building through intensifying oaths.",
+      "rhetorical-dna": [
+        "Five short sentences, escalating commitment with each",
+        "Third-party address (message relayed through intermediary)",
+        "Register: earnest, protective, solemn oath-taking"
+      ],
+      "respecification-seed": "A character vows to protect or guide someone dear to another, staking their honor on it."
+    },
+    {
+      "structure": "Deflating declaration naming a sacred institution as hollow.",
+      "rhetorical-dna": [
+        "Single sentence that builds before it punctures",
+        "'After all' signals an arrived-at conclusion, not sudden revelation",
+        "Register: bitter, disillusioned, accusatory"
+      ],
+      "respecification-seed": "A character strips away pretense from something their society holds sacred."
+    },
+    {
+      "structure": "Rhetorical question asserting the unknowability of others.",
+      "rhetorical-dna": [
+        "Single sentence, rhetorical question expecting no answer",
+        "Depth metaphor for inner life",
+        "Register: philosophical, humble, perhaps defensive"
+      ],
+      "respecification-seed": "A character deflects judgment by invoking the mystery of human interiority."
+    },
+    {
+      "structure": "Rhetorical question accusing the privileged of incomprehension.",
+      "rhetorical-dna": [
+        "Single sentence, rhetorical question as indictment",
+        "Class or experience divide framed as epistemic barrier",
+        "Register: bitter, sympathetic toward the suffering, indicting the comfortable"
+      ],
+      "respecification-seed": "A character challenges those who have never lacked to admit they cannot understand deprivation."
+    },
+    {
+      "structure": "Single-sentence challenge turning judgment back on the judge.",
+      "rhetorical-dna": [
+        "Short, direct rhetorical question",
+        "Reversal: the accused becomes the accuser",
+        "Register: defiant, intimate confrontation"
+      ],
+      "respecification-seed": "A character deflects moral criticism by forcing the critic to imagine themselves in the same position."
+    },
+    {
+      "structure": "Aphorism exposing theory without practice as self-deception.",
+      "rhetorical-dna": [
+        "Single sentence, parallel construction",
+        "Absurdist comparison renders the point undeniable",
+        "Register: sardonic, instructive, devastating"
+      ],
+      "respecification-seed": "A character mocks untested expertise by revealing its fundamental impossibility."
+    },
+    {
+      "structure": "Acknowledgment of claimed glory followed by accusation of hypocrisy.",
+      "rhetorical-dna": [
+        "Single compound sentence pivoting on 'but'",
+        "Names specific symbols of pride before deflating them",
+        "Register: controlled contempt, public indictment"
+      ],
+      "respecification-seed": "A character confronts a proud institution directly, naming their honors before declaring them hollow."
+    },
+    {
+      "structure": "Double assertion of autonomy refusing justification.",
+      "rhetorical-dna": [
+        "Two short sentences, firm parallel refusals",
+        "Direct address ('to you') establishes boundary",
+        "Register: cold, dignified, final"
+      ],
+      "respecification-seed": "A character shuts down demands for explanation by asserting sovereign authority over their own choices."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "quotes": [
+    {
+      "structure": "Observational paradox followed by ominous approval and dark proposition.",
+      "rhetorical-dna": [
+        "Three sentences: first longer, next two short and punchy",
+        "Opens with ironic observation about the addressee (peaceful sleep contradicting violent nature)",
+        "\"That's good\" pivot creates menacing approval rather than judgment",
+        "Register: calm, knowing, sinister seduction"
+      ],
+      "respecification-seed": "A recruiter approaches someone who has crossed a moral line, offering belonging rather than judgment."
+    },
+    {
+      "structure": "Formal address + denial that pivots to superior claim.",
+      "rhetorical-dna": [
+        "Two sentences, second half the length of first",
+        "Affectionate honorific establishes in-group intimacy",
+        "Parallel structure with escalating verb (spread to create)",
+        "Register: sardonic pride, theatrical confidence"
+      ],
+      "respecification-seed": "A character corrects a misunderstanding of their role by claiming greater power than assumed."
+    },
+    {
+      "structure": "Evocative imagery command followed by terse identification.",
+      "rhetorical-dna": [
+        "Two sentences: first elaborate and sensory, second blunt",
+        "\"Imagine\" as invitation into shared vision",
+        "Stacked adjectives create atmospheric density",
+        "Register: reverent, instructive, almost liturgical"
+      ],
+      "respecification-seed": "A character explains an abstract or divine concept through sensory metaphor."
+    },
+    {
+      "structure": "Declaration of purpose through ascending triadic list.",
+      "rhetorical-dna": [
+        "Single sentence with triadic structure",
+        "Escalation from base (profit) through transgressive (enjoyment) to sacred (glory)",
+        "First-person plural establishes collective identity",
+        "Register: proud, unapologetic, ritualistic"
+      ],
+      "respecification-seed": "A character states their group's ethos, embracing rather than excusing its dark nature."
+    },
+    {
+      "structure": "Simple identity claim with violent metaphorical elaboration.",
+      "rhetorical-dna": [
+        "Single sentence, two clauses",
+        "\"Family\" domesticates what follows; the violence becomes intimacy",
+        "\"Forged\" implies permanence and intentionality",
+        "Register: warm despite content, matter-of-fact about darkness"
+      ],
+      "respecification-seed": "A character welcomes another into a group bound by shared transgression rather than birth."
+    },
+    {
+      "structure": "Extended contractual metaphor with escalating fragments.",
+      "rhetorical-dna": [
+        "Three units, progressively shorter (full sentence to fragment to fragment)",
+        "Legal/signing metaphor sustained through all three",
+        "Transforms violence into bureaucratic formality",
+        "Register: formal, almost legalistic, ceremonial"
+      ],
+      "respecification-seed": "A character reframes a violent act as the addressee's binding initiation into an organization."
+    },
+    {
+      "structure": "Temporal marker + role assignment with possessive claim.",
+      "rhetorical-dna": [
+        "Single sentence, formal announcement structure",
+        "\"From this moment forward\" creates ritual boundary",
+        "Possessive + role title establishes hierarchical intimacy",
+        "Register: ceremonial, authoritative, conferring honor"
+      ],
+      "respecification-seed": "A mentor formally elevates someone to a position of trust and purpose."
+    },
+    {
+      "structure": "Ominous promise with pause + warm invitation.",
+      "rhetorical-dna": [
+        "Two short sentences",
+        "Ellipsis creates menacing ambiguity (following you, or your progress?)",
+        "Pivot from surveillance to warmth",
+        "Register: controlled, watchful, warmth undercut by implied threat"
+      ],
+      "respecification-seed": "A superior welcomes a new member while making clear they will be observed."
+    },
+    {
+      "structure": "Benediction/sending with honorific address and mission statement.",
+      "rhetorical-dna": [
+        "Two sentences, imperative mood throughout",
+        "Honorific title places addressee in lineage",
+        "Dual imperative: embodiment + action",
+        "Register: liturgical, parental, blessing-as-command"
+      ],
+      "respecification-seed": "A spiritual authority sends an agent forth on a mission framed as sacred duty."
+    },
+    {
+      "structure": "Rhetorical question + revelation + call to action.",
+      "rhetorical-dna": [
+        "Three short sentences, escalating urgency",
+        "\"You and I\" creates conspiratorial alliance",
+        "Shift from authority to apparent vulnerability (may itself be manipulation)",
+        "Register: urgent, frustrated, seeking partnership"
+      ],
+      "respecification-seed": "An authority figure pivots to seeking alliance when they discover shared victimhood."
+    }
+  ]
+}
