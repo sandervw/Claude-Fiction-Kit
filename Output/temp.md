@@ -1,37 +1,15 @@
-# Tegeus-Chromis — Quotes
+A man past middle age but not yet old—somewhere in that weathered span where sinew outlasts softness. Medium height, neither tall enough to notice nor short enough to remember, with a build like a yew stave: slim, dense, stronger than it looks. He stands with weight settled back on his heels, shoulders rounded forward in a way that makes him seem shorter, less present. Your eye finds him and moves on.
 
-1. "You forget, my friend. I have been a recluse, preferring poetry to courts and swords."
+His skin carries the sallow-tan of someone who works beneath open sky but rarely in direct sun—a scout's complexion, or a shepherd's. The hands are broad-palmed with blunt fingers, the webbing between thumb and forefinger on his right hand thick with old scar tissue, pale as fishbone against the darker skin. His beard hangs past his collarbone, iron-grey streaked through dull black, divided into two loose plaits bound with waxed cord. The hair above is thinner, cropped close to the skull where it hasn't retreated entirely.
 
-2. "Rest yourself. You are in the tower of tegeus-Cromis, that some men call Balmacara. I must know your name if we are to talk."
+The face is pleasant in a forgettable way: soft mouth, brow that furrows easily into something like mild concern. But the nose hooks sharply, almost beaked, as if some ancestor's bone structure had been borrowed from a raptor. His eyes sit deep beneath that brow—the grey-green of lichen on granite—and they move in small, quick ticks, always returning to hands, to exits, to distances. The expression never changes during these assessments.
 
-3. "Grif lives, madam, for sure. Hours ago, he rode north at my request. He believes that Tomb and Trinor live also. Of the others I have heard nothing."
+He moves with an unhurried administrative quality, like a clerk walking between offices, until he doesn't. Then there's that sudden darting shift, a shrike dropping from its perch, finished before the motion fully registers.
 
-4. "We are nothing but eroded men…"
+Across his shoulders hangs a cloak of felted wool in a color that's neither brown nor grey but something between—moorland drab, patched at the left hem where the weave has worn thin from years of the same habitual grip. Beneath it, a knee-length tunic of undyed linen over leather leggings gone dark with oil and use. His boots are low-cut, the soles wrapped in layered hide that muffles his step to near-silence on packed earth.
 
-5. "Strong visions: I have strong visions of this place in the empty times... On the devastated peaks of hills we ease the barrenness into our thin bones like a foot into a tight shoe..."
+The spear rides diagonally across his back, haft-down, secured by a leather loop. The shaft is pale ash, worn smooth where hands have gripped it for decades, and the head is bronze—leaf-shaped but with a pronounced barb curving back from one edge like a thorn or a hooked beak, meant to catch and tear on the way out. Below the socket-mounting, three bands of copper wire spiral down the haft, tarnished to verdigris. No other spear looks quite like it; you would know this weapon if you saw it twice.
 
-6. "Manufacture dooms in your head and you will go mad. Reality is incontrovertible. Also, it will not be anticipated."
+When he breathes out, there's the faint sourness of soured milk and dried meat—traveler's rations, long carried.
 
-# Ahmad Ibn Fadlan — Quotes
-
-1. "I am Ahmed Ibn Fahdlan, Ibn Al Abbas, Ibn Rasid, Ibn Hammad."
-
-2. "I am an ambassador, damn it! I am supposed to talk to people!"
-
-3. "There is only one God and Muhammad is His prophet."
-
-4. "I cannot lift this."
-
-# Lord Gro — Quotes
-
-1. "Who dares call me turncoat, who do but follow now as I have followed this rare wisdom all my days: to love the sunrise and the sundown and the morning and the evening star."
-
-2. "He that imagineth after his labours to attain unto lasting joy, as well may he beat water in a mortar."
-
-3. "Of the roads, a wise man will choose ever that one which is indirect. For but consider the matter: think our life's course a lofty cliff."
-
-4. "He that feareth is a slave, were he never so rich, were he never so powerful."
-
-5. "Surely, the great mountains of the world are a present remedy if men did but know it against our modern discontent and ambitions."
-
-6. "Here would I dwell for ever had I but the art to make myself little as an eft."
+His voice, when it comes, is soft and unhurried, the kind that makes you lean in slightly to hear.
