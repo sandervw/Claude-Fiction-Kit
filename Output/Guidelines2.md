@@ -1,6 +1,6 @@
-# Guidelines 2 (Secondary)
+## Guidelines 2 (Secondary)
 
-## Core Orientation
+### Core Orientation
 
 * Treat the character as an **object of formal observation**, not as a subjective or intimate viewpoint.
 * Describe *what is seen* and *how it impresses*, not what the character thinks or feels.
@@ -11,7 +11,7 @@ Analogy: write as though carving a figure in relief on stone—everything is sur
 
 ---
 
-## Sentence Structure and Rhythm
+### Sentence Structure and Rhythm
 
 * Prefer **long, flowing sentences** with multiple descriptive clauses joined by commas, semicolons, or conjunctions.
 * Allow sentences to *accumulate detail* rather than resolve quickly.
@@ -26,9 +26,9 @@ Avoid:
 
 ---
 
-## Descriptive Focus
+### Descriptive Focus
 
-### Physical Form
+#### Physical Form
 
 * Always anchor the description in **body, stance, and proportion**.
 * Emphasize build through **comparative imagery** (animals, materials, natural forms).
@@ -39,14 +39,14 @@ Rules:
 * Name specific features (brow, jaw, mouth, eyes, hands) rather than general impressions.
 * Let one or two features dominate as identifiers.
 
-### Bearing and Movement
+#### Bearing and Movement
 
 * When movement is described, it should be **measured, symbolic, or animal-like**, not kinetic or cinematic.
 * Gait and posture often carry metaphorical weight.
 
 ---
 
-## Clothing and Ornament
+### Clothing and Ornament
 
 * Garments are described in **material terms** first (silk, mail, fur, gold), then ornament.
 * Clothing functions as **status-signaling and symbolic extension** of the body.
@@ -60,7 +60,7 @@ Rules:
 
 ---
 
-## Use of Comparison
+### Use of Comparison
 
 * Comparisons should be **concrete and archetypal** (animals, celestial bodies, metals, weapons, natural forces).
 * Similes often elevate rather than clarify.
@@ -77,7 +77,7 @@ Avoid:
 
 ---
 
-## Tone and Register
+### Tone and Register
 
 * Maintain a **formal, high-register tone** throughout.
 * Use archaic or quasi-archaic constructions sparingly but consistently.
@@ -90,7 +90,7 @@ Rules:
 
 ---
 
-## What to Exclude (Antipatterns)
+### What to Exclude (Antipatterns)
 
 Do **not** include:
 
@@ -102,7 +102,7 @@ Do **not** include:
 
 ---
 
-## Structural Checklist (Implicit, Not Literal)
+### Structural Checklist (Implicit, Not Literal)
 
 A successful description typically covers several of the following, in fluid order:
 
@@ -119,6 +119,6 @@ Do **not** present these as a list; they should emerge organically.
 
 ---
 
-## Final Constraint
+### Final Constraint
 
 The description should read as though the character **exists fully in the moment of being seen**, without reference to past or future action. The prose should suggest mythic permanence rather than narrative momentum.
