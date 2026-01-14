@@ -8,17 +8,18 @@
 
 ## Paragraph Structure
 
-- Write **long paragraphs**: every paragraph should be over 100 words
-- Prefer transitions within paragraphs
-- Use new paragraphs to mark shifts of focus, or to paint contrasts
+- **Exactly 60 and 70 percent of paragraphs MUST be long**
+- *A long paragraph is over 80 words*
+- *A short paragraph is less than 40 words*
+- Use new paragraphs to mark only major shifts of focus, or to paint contrasts
 
 ## Sentence Structure and Rhythm
 
-- Use long, flowing sentences: multiple descriptive clauses joined by commas, semicolons, or conjunctions
-- Use short, inverted declarations to anchor a description before elaboration begins
-- **Favor longer sentences**, in a ratio of 2-to-1 with short ones
-- Apply inverted syntax: place adjectives, adverbs, or descriptive phrases before the subject
-- Cadence: Use the "and... and... and" structure (polysyndeton)
+- **Exactly 60 and 70 percent of TOTAL sentences MUST be long**
+- *Short sentences are less than 15 words*, usually a single independent clause
+- Long sentences should flow naturally: multiple descriptive clauses joined by commas, semicolons, or conjunctions
+- **Apply inverted syntax**: place adjectives, adverbs, or descriptive phrases before the subject
+- Make use of the "and... and... and" structure **(polysyndeton)**
 
 ## Use of Comparison
 
@@ -57,9 +58,7 @@
 
 **NEVER DO THE FOLLOWING**
 
-- Modern minimalism or clipped phrasing
 - Em-dashes
-- Sentence Fragments
 - Vague beauty words: never "handsome" or "beautiful" without concrete elaboration
 - Clinical anatomy: avoid "musculature," "physique," "bone structure"
 - Listing traits as bullets: descriptions should flow as continuous prose

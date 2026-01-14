@@ -18,7 +18,7 @@ const response = await client.messages.create({
   messages: [
     {
       role: "user",
-      content: `Hey claude, write a full description of a dark fantasy character, based on the rough, generic physical traits I've included here:\n\n${character}\n\n Use these guidelines to shape your description. Keep your description under 400 words.\n\n${guidelines}\n.`,
+      content: `Hey claude, write a full description of a character, based on the rough physical traits I've included here:\n\n${character}\n\n Use these guidelines to shape your description. Keep your description under 300 words.\n\n${guidelines}\n.`,
     },
   ],
 });
