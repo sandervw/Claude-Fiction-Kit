@@ -4,7 +4,8 @@
   "type": "module",
   "description": "LLM-powered dynamic storytelling tools",
   "scripts": {
-    "generate-character": "node generate-character.js"
+    "generate-character": "node generate-character.js",
+    "prompt": "node QuickPrompt.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0"

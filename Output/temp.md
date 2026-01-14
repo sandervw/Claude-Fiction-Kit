@@ -1,31 +1,3 @@
-# Character Description Parts
+# Basic Description
 
-- **Profession:** Warrior
-- **symbolic_animal:** Shrike
-- **gender:** Male
-- **rough_age:** Late middle age, not yet old
-- **height:** Medium, unremarkable
-- **build:** Slim, dense, deceptively strong
-- **stance:** Weight settled back on heels, shoulders rounded forward—appears shorter, less present
-- **skin_tone:** Sallow-tan (outdoor worker who avoids direct sun—scout or shepherd's complexion)
-- **hands:** Broad-palmed, blunt fingers; thick scar tissue in right thumb
-- **hair:** Scalp hair thin, cropped close, receding; beard past collarbone, iron-grey streaked through dull black
-- **face:** Pleasant, forgettable; soft mouth; brow furrows easily into mild concern; nose hooks sharply
-- **eyes:** Grey-green, deep-set, quick small movements tracking hands/exits/distances
-- **expression:** Mild, watchful neutrality
-- **scars_marks_tattoos:** Old scar tissue in right hand webbing between thumb and forefinger
-- **voice:** Soft, unhurried, quiet enough to make listeners lean in
-- **movement:** Unhurried until sudden darting bursts—fast, finished before fully registered
-- **sound:** Near-silent footfalls
-- **smell:** Faint sourness—soured milk and dried meat
-- **equipment:**
-  - *Clothing:*
-    - Cloak: felted wool, moorland drab, patched
-    - Tunic: knee-length, undyed linen
-    - Leggings: leather, darkened
-  - *Weapons:*
-    - Spear: ash shaft (worn smooth from use), bronze leaf-shaped head with pronounced barb (thorn/hook design), three bands of copper wire below socket (tarnished), distinctive, recognizable
-  - *Headwear:* Unspecified
-  - *Footwear:* Low-cut boots, soles wrapped in hide
-  - *Bags/Backpacks:* Unspecified
-  - *Other Possessions:* traveler's rations (implied)
+A tall, slender lord with predatory grace and feminine beauty, dressed in ornate silk and gold, whose gentle melancholy and delicate frame belie a dangerous, fiery power lurking beneath the surface.

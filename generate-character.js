@@ -1,7 +1,6 @@
 import Anthropic from '@anthropic-ai/sdk';
 import fs from 'fs';
 import path from 'path';
-import { json } from 'stream/consumers';
 import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
