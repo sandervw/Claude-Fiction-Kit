@@ -14,9 +14,9 @@
 
 ## Sentence Structure and Rhythm
 
-- Prefer long, flowing sentences: multiple descriptive clauses joined by commas, semicolons, or conjunctions
-- Use occasional short, inverted declarations to anchor a description before elaboration begins
-- **Vary sentence length** but favor longer, layered sentences
+- Use long, flowing sentences: multiple descriptive clauses joined by commas, semicolons, or conjunctions
+- Use short, inverted declarations to anchor a description before elaboration begins
+- Vary sentence length, but **favor longer sentences, in a ratio of 2-to-1**
 - Apply inverted syntax: place adjectives, adverbs, or descriptive phrases before the subject
 - Cadence: Use the "and... and... and" structure (polysyndeton)
 
@@ -51,7 +51,7 @@
 - Let physical details imply personality—do not state traits directly
 - Use light symbolically: describe how light interacts with the figure
 - Place the figure in movement or social context; avoid static description
-- **End descriptions on a strong, CONCRETE image**, a single charged detail
+- **End descriptions on a concrete physical feature**, not an atmospheric impression
 
 ## Antipatterns
 

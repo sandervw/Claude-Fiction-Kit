@@ -1,3 +1,3 @@
 # Basic Description
 
-A tall, slender lord with predatory grace and feminine beauty, dressed in ornate silk and gold, whose gentle melancholy and delicate frame belie a dangerous, fiery power lurking beneath the surface.
+A proud, powerfully-built warrior with a broad chest, bare muscled arms adorned with golden rings, thick fair curls bound with black bryony, and dark blue eyes that hold a tamed insolence—dressed in a sky-blue silk cloak and short-sleeved silver scale byrnie.
