@@ -16,7 +16,7 @@
 
 - Use long, flowing sentences: multiple descriptive clauses joined by commas, semicolons, or conjunctions
 - Use short, inverted declarations to anchor a description before elaboration begins
-- Vary sentence length, but **favor longer sentences, in a ratio of 2-to-1**
+- **Favor longer sentences**, in a ratio of 2-to-1 with short ones
 - Apply inverted syntax: place adjectives, adverbs, or descriptive phrases before the subject
 - Cadence: Use the "and... and... and" structure (polysyndeton)
 

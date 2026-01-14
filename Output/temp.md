@@ -1,3 +1,3 @@
 # Basic Description
 
-A proud, powerfully-built warrior with a broad chest, bare muscled arms adorned with golden rings, thick fair curls bound with black bryony, and dark blue eyes that hold a tamed insolence—dressed in a sky-blue silk cloak and short-sleeved silver scale byrnie.
+A seven-foot-ten warrior-ascetic in ancient bronze armor, bearing the Mark of Shame branded on his chest, with amber predator's eyes, and the controlled economy of movement befitting a disgraced noble lord given to death as penance.

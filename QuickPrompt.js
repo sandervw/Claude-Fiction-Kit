@@ -14,11 +14,11 @@ const MODEL = 'claude-opus-4-5-20251101';
 
 const response = await client.messages.create({
   model: MODEL,
-  max_tokens: 1024,
+  max_tokens: 2048,
   messages: [
     {
       role: "user",
-      content: `Hey claude, write a full description of a dark fantasy character, based on the rough, generic physical traits I've included here:\n\n${character}\n\n Use these guidelines to shape your description. Keep your description under 120 words.\n\n${guidelines}\n.`,
+      content: `Hey claude, write a full description of a dark fantasy character, based on the rough, generic physical traits I've included here:\n\n${character}\n\n Use these guidelines to shape your description. Keep your description under 400 words.\n\n${guidelines}\n.`,
     },
   ],
 });

@@ -54,4 +54,6 @@ Copy template from `assets/Actions-Template.md` to working directory, then fill 
 
 **Order:** Chronological within the narrative.
 
+**DO NOT ADD SECTIONS/FIELDS TO THE TEMPLATE FILES** (no "metadata", "Additional Analysis Notes", "Critical Reception", etc.)
+
 Save as: `[Character]-Actions.md`

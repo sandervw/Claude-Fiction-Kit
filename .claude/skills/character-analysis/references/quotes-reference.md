@@ -50,4 +50,6 @@ Copy template from `assets/Quotes-Template.md` to working directory, fill in:
 2. [Quote, 1-30 words]
 ...
 
+**DO NOT ADD SECTIONS/FIELDS TO THE TEMPLATE FILES** (no "metadata", "Additional Analysis Notes", "Critical Reception", etc.)
+
 Save as: `[Character]-Quotes.md`
