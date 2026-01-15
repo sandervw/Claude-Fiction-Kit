@@ -1,4 +1,4 @@
-# Archaic Revision Guide
+# Eddison Style
 
 A reference for applying Eddison/Shakespearean vocabulary to prose.
 
@@ -19,7 +19,7 @@ A reference for applying Eddison/Shakespearean vocabulary to prose.
 | countless    | an hundred, manifold        |
 | thin light   | pale gleam, wan light       |
 | weapon       | arm, glaive                 |
-| old          | ancientry, of old           |
+| old          | of old                      |
 | wounds       | hurts                       |
 | before       | ere                         |
 | quickly      | apace, forthwith            |
@@ -29,7 +29,6 @@ A reference for applying Eddison/Shakespearean vocabulary to prose.
 | although     | albeit, howbeit             |
 | among        | amongst, amid               |
 | while        | whilst                      |
-| enough       | enow                        |
 | immediately  | straightway, anon           |
 | anger        | choler, ire                 |
 | brave        | valiant, doughty            |
@@ -44,6 +43,7 @@ A reference for applying Eddison/Shakespearean vocabulary to prose.
 
 ## Phrase-Level Changes
 
+**Examples:**
 | Modern Phrase                         | Archaic Revision                     |
 | ------------------------------------- | ------------------------------------ |
 | "long accustomed to being overlooked" | "long wonted to pass unremarked"     |
@@ -54,30 +54,12 @@ A reference for applying Eddison/Shakespearean vocabulary to prose.
 
 ---
 
-## Verb Forms
-
-Consider "-eth" and "-th" endings and "doth/hath" auxiliaries.
-
-**Guidelines:**
-- Use sparingly to avoid parody
-- If you use an archaic form for a verb, apply it consistently throughout
-- "hath" (has), "doth" (does), "moveth" (moves) are common choices
-- Third-person singular verbs take "-eth": he speaketh, she walketh, it gleameth
-
-**Examples:**
-- "he moves" → "he moveth"
-- "it has" → "it hath"
-- "the light does yield" → "the light doth yield"
-- "who has learned" → "who hath learned"
-
----
-
 ## Inverted Syntax
 
 Place adjectives, adverbs, or descriptive phrases before the subject
 
 **Guidelines:**
-- Use sparingly — 2-4 inversions per paragraph max
+- Use sparingly — 1-2 inversions per paragraph max
 - Pair with archaic verb forms for stronger effect
 
 **Examples:**
@@ -99,3 +81,9 @@ Occasionally, apply with delineation by commas, to create rhythm and emphasis
 - "fire and sword and ruin, and a host of others evils, then came upon them"
 - "they rode and rode and rode until the stars wheeled overhead"
 
+# DO NOT DO THESE
+
+- NEVER apply verb-form changes (eth/th)
+- NEVER apply redundant elaboration (IE. "dried flesh—wayfarer's provender")
+- NEVER apply any of the following words: hosen, enow, flesh (for meat), provender, unto, ancientry, twain (two)
+- NEVER add em-dashes
