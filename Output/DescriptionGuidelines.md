@@ -18,8 +18,6 @@
 - **Exactly 60 and 70 percent of TOTAL sentences MUST be long**
 - *Short sentences are less than 15 words*, usually a single independent clause
 - Long sentences should flow naturally: multiple descriptive clauses joined by commas, semicolons, or conjunctions
-- **Apply inverted syntax**: place adjectives, adverbs, or descriptive phrases before the subject
-- Make use of the "and... and... and" structure **(polysyndeton)**
 
 ## Use of Comparison
 
@@ -41,11 +39,6 @@
 - List garments from outer to inner, or from prominent to secondary
 - **Avoid generic terms** without modifiers, describe construction
 - Do not describe clothing as fashionable, practical, or comfortable
-
-## Vocabulary & Register
-
-- Use archaic terms; use them liberally and often
-- Prefer **concrete nouns over abstract** ones
 
 ## Atmosphere & Implication
 
