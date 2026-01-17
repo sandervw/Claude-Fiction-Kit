@@ -413,6 +413,7 @@ Hey claude, I have a test for you. Take a look at the attached character.json fi
 
 ## Quote Extraction
 
+
 Hey claude, I'm looking for real-life historical persons with a distinctive 'voice' or   
   'speech architecture'. I'm not talking about accent, I'm talking about word choice,      
   syntax, sentence organization and structure, etc.
@@ -420,3 +421,28 @@ Hey claude, I'm looking for real-life historical persons with a distinctive 'voi
   from interviews and other text sources. Do a web search. Your goal is 30+ individual     
   quotes. Try to get a good variety of lengths and context: a true sample set of his       
   'verbal DNA' (at least, what the public sees).
+
+
+## Style Skill Prompt
+
+Analyze [AUTHOR/STYLE] and complete the attached Style-Guide markdown template.   
+
+  CRITICAL INSTRUCTIONS:
+
+  1. **Teach principles, not patterns.** For each section, explain WHY the style works, not just WHAT it looks like. The reader should be able to generate infinite variations, not copy surface features.
+
+  2. **Avoid finite lists.** Instead of "use these 5 verbs," explain the *type* of verb and *why* that type fits. Give examples as illustrations, not as a vocabulary bank to rotate through.
+
+  3. **Name the underlying engine.** What is the author trying to achieve emotionally or atmospherically? How does each technique serve that goal? A technique without its purpose becomes a hollow template.
+
+  4. **Contrast with defaults.** Where does this style diverge from generic prose? What would an imitator get wrong by following surface patterns without understanding the logic?
+
+  5. **Be specific about the WHY in Antipatterns.** Don't just say "avoid X." Explain what trap an imitator falls into and why it betrays the style's core intent.
+
+  Ground every principle in concrete examples from the source material, but frame those examples as *evidence* for a larger technique, not as templates to copy.
+
+  REFERENCE TEXT:
+  The attached work-sample markdown file is source material from [AUTHOR].
+  Use it as PRIMARY EVIDENCE for your analysis.
+  Ground every technique you identify in specific examples from this text. 
+  Do not summarize or continue this text; analyze it.
