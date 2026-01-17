@@ -93,7 +93,7 @@ Can you rewrite the attached prose? I'm happy with the overall 'concept', but no
 ## Bandcamp Review Prompt
 
 Hey Claude, try revising the following album review in the thorogood style, 500 characters:
-Now this is real japanese-inspired dungeon synth; synths, but with the koto and shamisen mxied in nicely; most of the tracks are softer than what you'd heard if you were piloting a video game character through an ancient catacomb, but it's not a bad thing; most dungeon synth is dark, and a little melancholy lightness sets this one apart; good for background or active listening; 8/10
+Hard to tell if this a hidden gem or a guilty pleasure; sometimes Among the Lethe sounds to me like 'generic calm new-age indie music largely inspired by radiohead/coldplay'; other times my heart says this is original and lovely'; I'll accept what the heart has to say. 9/10
 
 ## Peake Revision
 
@@ -410,3 +410,13 @@ Hey claude, I have a test for you. Take a look at the attached character.json fi
 - The templates you chose
 - Any assumptions or critical choices you made.
 ```
+
+## Quote Extraction
+
+Hey claude, I'm looking for real-life historical persons with a distinctive 'voice' or   
+  'speech architecture'. I'm not talking about accent, I'm talking about word choice,      
+  syntax, sentence organization and structure, etc.
+  Lets dive into Werner Herzog. I want you to extract a massive list of quotes by him      
+  from interviews and other text sources. Do a web search. Your goal is 30+ individual     
+  quotes. Try to get a good variety of lengths and context: a true sample set of his       
+  'verbal DNA' (at least, what the public sees).

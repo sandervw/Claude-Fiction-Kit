@@ -17,11 +17,3 @@ LLMAppDocs is a documentation and research repository for using claude and other
 LLMAppDocs/
 ├── TODO
 ```
-
-## Custom Agents
-
-TODO
-
-## Custom Skills
-
-TODO
