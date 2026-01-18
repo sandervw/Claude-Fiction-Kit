@@ -1,0 +1,78 @@
+{
+  "source": {
+    "work": "Queen of the Black Coast",
+    "author": "Robert E. Howard"
+  },
+  "paragraphs": [
+    {
+      "word-count": "150-200",
+      "type": "Action",
+      "tension-arc": "Escalate",
+      "structure": "Seven sentences building from distant approach to decisive leap. Opens with rhythmic sound-image, expands through fleeting civilian perspective, sustains chase energy, climaxes with athletic boarding.",
+      "rhetorical-dna": [
+        "Kinetic verbs anchor each sentence (drummed, swept, jerked, sprang, landed)",
+        "Fleeting glimpse technique: protagonist seen through bystander eyes, mythologized by motion",
+        "Contrast between crowd chaos and rider's singular focus—he never looks back",
+        "Final sentence pivots from observer reaction to actor's decisive move",
+        "Sensory layering: sound first, then color, then physical impact"
+      ],
+      "respecification-seed": "A pursued figure makes a desperate, athletic escape onto a departing vessel."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Action",
+      "tension-arc": "Escalate",
+      "structure": "Six sentences tracing doom's approach through accumulating casualties. Opens with pursuit closing, tracks death moving through ranks, ends with leadership vacuum filled.",
+      "rhetorical-dna": [
+        "Body-count progression: group casualties, then named individual, then vessel falters",
+        "Physical strain made visceral through anatomical metaphor",
+        "Emotional punctuation: the sob before death contrasts with curses during life",
+        "Ship personified—loses headway, rolls helplessly—mirroring crew's fate",
+        "Final sentence withholds method, promising action in next beat"
+      ],
+      "respecification-seed": "A vessel's crew falls one by one until a newcomer must seize command."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Action",
+      "tension-arc": "Escalate",
+      "structure": "Four sentences of pure combat fury. Short opener, then three increasingly brutal elaborations. Catalog of violence accelerates through compound verbs.",
+      "rhetorical-dna": [
+        "Hurricane/blur metaphors externalize berserker state",
+        "Weapons given agency and sound: sword sings its death-song",
+        "Anatomical catalog in accelerating rhythm",
+        "Interior state (red mist) bleeds into exterior carnage",
+        "Sentence length mirrors escalation: tight opening, then sprawling slaughter"
+      ],
+      "respecification-seed": "A warrior enters berserker fury and butchers enemies in graphic excess."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Action",
+      "tension-arc": "Release",
+      "structure": "Three sentences building to frozen tableau. First continues violence, second reaches terminal moment, third crystallizes stillness through simile.",
+      "rhetorical-dna": [
+        "Invulnerable opening grants temporary mythic status",
+        "Death-readiness as characterization: tensing to leap and die, not retreat",
+        "External interruption breaks momentum without protagonist agency",
+        "Statue simile freezes all motion simultaneously",
+        "Parallel final clause balances opposing forces in stalemate"
+      ],
+      "respecification-seed": "A cornered warrior prepares for final stand when outside force freezes the moment."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Description",
+      "tension-arc": "Release",
+      "structure": "Three sentences of lyric intensity. Opens with triadic simile chain, middle sentence shows effect on witnesses, long final sentence consummates encounter.",
+      "rhetorical-dna": [
+        "Triadic simile structure elevates action to cosmic force",
+        "Opposites yoked: creation and death, blood and starlight, ivory and black",
+        "Dying men forgot death—presence suspends mortality itself",
+        "Color progression builds through contrast",
+        "Final sentence syntactically sprawling, mimicking overwhelming desire"
+      ],
+      "respecification-seed": "A mesmerizing figure's performance ends with sudden surrender to the warrior."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "source": {
+    "work": "Queen of the Black Coast",
+    "author": "Robert E. Howard"
+  },
+  "paragraphs": [
+    {
+      "word-count": "150-200",
+      "type": "Action",
+      "tension-arc": "Escalate",
+      "structure": "Seven sentences building from distant approach to decisive action. Opens with rhythmic sound-image, expands through fleeting perspective, sustains chase energy, climaxes with athletic feat.",
+      "rhetorical-dna": [
+        "Kinetic verbs anchor each sentence (examples: drummed, swept, jerked, sprang, landed)",
+        "Fleeting glimpse technique: protagonist seen through bystander eyes, mythologized by motion",
+        "Final sentence pivots from observer to actor's decisive move",
+        "Sensory layering: sound first, then color, then physical impact"
+      ],
+      "respecification-seed": "A moving figure makes a desperate, athletic maneuver onto a transport or through an obstacle."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Action",
+      "tension-arc": "Escalate",
+      "structure": "Six sentences tracing danger's approach through accumulating circumstances. Opens with pursuit, tracks ruin moving through ranks, ends with standout or resistant figure.",
+      "rhetorical-dna": [
+        "Destruction-count progression: group damage/death, then named ones, then the whole mass falters",
+        "Physical strain made visceral through anatomical metaphor",
+        "Emotional punctuation: grief before destruction contrasts with curses/anger during life",
+        "Location personified—darkens or shifts soundscapes—mirroring crew's fate",
+        "Final sentence withholds method, promising action in next beat"
+      ],
+      "respecification-seed": "A group of people or objects falls one by one until a singular figure must act."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Action",
+      "tension-arc": "Escalate",
+      "structure": "Four sentences of pure combat fury. Short opener, then three increasingly brutal elaborations. Catalog of violence accelerates through compound verbs.",
+      "rhetorical-dna": [
+        "Hurricane/blur metaphors externalize frenzied state",
+        "Equipment/tools given agency and sound (Example: 'sword sings its death-song', 'boots thundered the planking')",
+        "Anatomical catalog in accelerating rhythm",
+        "Interior state (Example: red mist) bleeds into exterior carnage",
+        "Sentence length mirrors escalation: tight opening, then sprawling destruction"
+      ],
+      "respecification-seed": "An actor enters a frenzy and slaughters or otherwise beats down enemies in graphic excess."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Action",
+      "tension-arc": "Release",
+      "structure": "Three sentences building to frozen tableau. First continues violence, second reaches terminal moment, third crystallizes stillness through simile.",
+      "rhetorical-dna": [
+        "Opening grants temporary mythic/invulnerable quality",
+        "Death-readiness as characterization: no retreat",
+        "External interruption breaks momentum without protagonist agency",
+        "Simile freezes all motion simultaneously",
+        "Parallel final clause balances opposing forces in stalemate"
+      ],
+      "respecification-seed": "A cornered actor prepares for final stand or destruction, when outside force freezes the moment."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Action",
+      "tension-arc": "Release",
+      "structure": "Three sentences of lyric intensity. Opens with triadic simile chain, middle sentence shows effect on witnesses, long final sentence consummates encounter.",
+      "rhetorical-dna": [
+        "Triadic simile structure elevates action to cosmic force",
+        "Opposites yoked (examples: creation and death, blood and starlight, ivory and black)",
+        "Color progression builds through contrast",
+        "Final sentence syntactically sprawling, mimicking overwhelming emotion"
+      ],
+      "respecification-seed": "A mesmerizing figure's performance ends with sudden surrender to the actor."
+    }
+  ]
+}

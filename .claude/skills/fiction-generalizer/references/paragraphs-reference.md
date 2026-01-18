@@ -73,5 +73,5 @@ Create both output files:
 2. **JSON output**: Copy template from `assets/paragraphs-template.json`
 
 **Save as:**
-- `[Work]-Paragraphs-Abstractd.md`
-- `[Work]-paragraphs-abstractd.json`
+- `[Work]-Paragraphs-Abstracted.md`
+- `[Work]-paragraphs-abstracted.json`
