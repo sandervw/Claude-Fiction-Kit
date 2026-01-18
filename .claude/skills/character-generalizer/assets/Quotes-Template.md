@@ -8,7 +8,7 @@ _[Work Title] by [Author/Creator]_
 2. Quotes
 3. Quotes
 
-## Generalized
+## Abstractd
 
 ### Quote 1
 

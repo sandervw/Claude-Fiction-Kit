@@ -1,6 +1,6 @@
 # Quotes Mode Reference
 
-Generalize character-defining quotes into portable templates that preserve rhetorical shape and voice without locking into specific phrasing.
+Abstract character-defining quotes into portable templates that preserve rhetorical shape and voice without locking into specific phrasing.
 
 
 ## Transformation Rules
@@ -33,7 +33,7 @@ Generalize character-defining quotes into portable templates that preserve rheto
 
 ## Output Components
 
-Each generalized quote produces three elements:
+Each abstractd quote produces three elements:
 
 **Structure** (1 sentence, 5-15 words)
 The rhetorical skeleton: what move the quote makes, in what order.
@@ -67,5 +67,5 @@ Create both output files:
 2. **JSON output**: Copy template from `assets/quotes-template.json`
 
 **Save as:**
-- `[Character]-Quotes-Generalized.md`
-- `[character]-quotes-generalized.json`
+- `[Character]-Quotes-Abstractd.md`
+- `[character]-quotes-abstractd.json`

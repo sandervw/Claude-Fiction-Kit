@@ -1,6 +1,6 @@
 # Actions Mode Reference
 
-Generalize character-defining quotes into portable templates that preserve rhetorical shape and voice without locking into specific phrasing.
+Abstract character-defining quotes into portable templates that preserve rhetorical shape and voice without locking into specific phrasing.
 
 ## Transformation Rules
 
@@ -25,7 +25,7 @@ Generalize character-defining quotes into portable templates that preserve rheto
 
 ## Target Output
 
-- **Length**: 5-10 words per generalized action
+- **Length**: 5-10 words per abstractd action
 - **Tone**: Active voice, imperative feel
 - **Specificity**: Preserve enough to shape story patterns—not so vague it could mean anything
 
@@ -43,7 +43,7 @@ Generalize character-defining quotes into portable templates that preserve rheto
 
 1. User provides action list (or references existing document)
 2. Process each action through transformation rules
-3. Output as two separate numbered lists (original, then generalized)
+3. Output as two separate numbered lists (original, then abstractd)
 
 ## Final Output
 
@@ -53,5 +53,5 @@ Create both output files:
 2. **JSON output**: Copy template from `assets/actions-template.json`
 
 **Save as:**
-- `[Character]-Action-Generalized.md`
-- `[character]-actions-generalized.json`
+- `[Character]-Action-Abstractd.md`
+- `[character]-actions-abstractd.json`

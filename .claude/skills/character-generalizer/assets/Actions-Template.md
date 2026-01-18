@@ -1,4 +1,4 @@
-# [Character] — Generalized Actions
+# [Character] — Abstractd Actions
 
 _Source: [Original Work]_
 
@@ -8,8 +8,8 @@ _Source: [Original Work]_
 2. [Original action 2]
 ...
 
-## Generalized Actions
+## Abstractd Actions
 
-1. [5-10 word generalized version of action 1]
-2. [5-10 word generalized version of action 2]
+1. [5-10 word abstractd version of action 1]
+2. [5-10 word abstractd version of action 2]
 ...

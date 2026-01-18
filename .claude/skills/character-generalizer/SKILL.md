@@ -1,9 +1,9 @@
 ---
-name: character-generalizer
-description: Generalize character elements (actions, quotes, descriptions) from specific fictional sources.. Use when asked to "generalize [elements]", make elements "more general" or "setting-agnostic", create "reusable" or "generic" templates. Triggers include "generalize [filename]", "make [character] generic", "strip [element] details".
+name: character-abstraction
+description: Abstract character elements (actions, quotes, descriptions) from specific fictional sources.. Use when asked to "abstract [elements]", make elements "more general" or "setting-agnostic", create "reusable" or "generic" templates. Triggers include "abstract [filename]", "make [character] generic", "strip [element] details".
 ---
 
-# Character Generalizer
+# Character abstraction
 
 Transform setting-specific character elements into portable, reusable templates for worldbuilding.
 
@@ -12,11 +12,11 @@ Transform setting-specific character elements into portable, reusable templates 
 Determine mode from user request:
 
 **Actions mode**:
-- Triggers: "generic actions", "generalize actions", "list of generic actions"
+- Triggers: "generic actions", "abstract actions", "list of generic actions"
 - **Read**: `references/actions-reference.md`
 
 **Quotes mode**:
-- Triggers: "generic quotes", "generalize quotes", "generate quote structure"
+- Triggers: "generic quotes", "abstract quotes", "generate quote structure"
 - **Read**: `references/quotes-reference.md`
 
 If ambiguous, ask user which mode.

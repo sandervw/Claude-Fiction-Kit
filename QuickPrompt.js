@@ -5,6 +5,7 @@ const client = new Anthropic();
 
 const guidelines = readFileSync("./Output/DescriptionGuidelines.md", "utf-8");
 const character = readFileSync("./Output/temp.md", "utf-8");
+const file = readFileSync("./Output/work-sample.md", "utf-8");
 // Use 'claude-sonnet-4-5-20250929' for speed/cost balance
 // Use 'claude-opus-4-5-20251101' for highest quality
 const MODEL = 'claude-opus-4-5-20251101';
@@ -14,7 +15,7 @@ const MODEL = 'claude-opus-4-5-20251101';
 
 const response = await client.messages.create({
   model: MODEL,
-  max_tokens: 2048,
+  max_tokens: 20000,
   messages: [
     {
       role: "user",
@@ -23,5 +24,5 @@ const response = await client.messages.create({
   ],
 });
 
-writeFileSync("./Output/Description.txt", response.content[0].text.trim());
+writeFileSync("./Output/paragraphs.md", response.content[0].text.trim());
 console.log(response.content[0].text.trim());
