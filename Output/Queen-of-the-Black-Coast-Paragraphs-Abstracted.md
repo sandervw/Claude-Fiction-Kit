@@ -1,4 +1,4 @@
-# Queen of the Black Coast — Paragraphs
+# Queen of the Black Coast - Paragraphs
 
 _Queen of the Black Coast by Robert E. Howard_
 
@@ -14,30 +14,9 @@ _Queen of the Black Coast by Robert E. Howard_
 
 5. And she danced, like the spin of a desert whirlwind, like the leaping of a quenchless flame, like the urge of creation and the urge of death. Her white feet spurned the blood-stained deck and dying men forgot death as they gazed frozen at her. Then, as the white stars glimmered through the blue velvet dusk, making her whirling body a blur of ivory fire, with a wild cry she threw herself at Conan's feet, and the blind flood of the Cimmerian's desire swept all else away as he crushed her panting form against the black plates of his corseleted breast.
 
-## Abstractd
+## Abstracted
 
 ### Paragraph 1
-
-**Word Count:** 150-200
-
-**Type:** Action
-
-**Tension Arc:** Escalate
-
-**Structure:** Seven sentences building from distant approach to decisive leap. Opens with rhythmic sound-image, expands through fleeting civilian perspective, sustains chase energy, climaxes with athletic boarding.
-
-**Rhetorical DNA:**
-- Kinetic verbs anchor each sentence (drummed, swept, jerked, sprang, landed)
-- Fleeting glimpse technique: protagonist seen through bystander eyes, mythologized by motion
-- Contrast between crowd chaos and rider's singular focus—he never looks back
-- Final sentence pivots from observer (captain's anger) to actor's decisive move
-- Sensory layering: sound first (hoofs), then color (scarlet cloak), then physical impact
-
-**Respecification Seed:** A pursued figure makes a desperate, athletic escape onto a departing vessel.
-
----
-
-### Paragraph 2
 
 **Word Count:** 100-150
 
@@ -45,16 +24,35 @@ _Queen of the Black Coast by Robert E. Howard_
 
 **Tension Arc:** Escalate
 
-**Structure:** Six sentences tracing doom's approach through accumulating casualties. Opens with pursuit closing, tracks death moving through ranks, ends with leadership vacuum filled.
+**Structure:** Five sentences building velocity: two short establishing urgency, two medium showing pursuit and arrival, one long climactic sentence landing the athletic feat.
 
 **Rhetorical DNA:**
-- Body-count progression: steersmen (plural), then named individual, then vessel itself falters
-- Physical strain made visceral ("braced legs knots of straining thews")
-- Emotional punctuation: the sob before death, contrasting with curses during life
-- Ship personified—loses headway, rolls helplessly—mirroring crew's fate
-- Final sentence withholds method, promising action in next beat
+- Percussive opening verb ("drummed") sets kinetic rhythm; sentences accelerate toward leap
+- Sensory flashes (cloak on wind, stallion on haunches) paint motion without slowing pace
+- Crowd reactions frame the figure - we see him through their startled eyes
+- Final sentence extends to match the leap's arc, landing with physical finality
 
-**Respecification Seed:** A vessel's crew falls one by one until a newcomer must seize command.
+**Respecification Seed:** A moving figure makes a desperate maneuver onto a transport or through an obstacle.
+
+---
+
+### Paragraph 2
+
+**Word Count:** 50-100
+
+**Type:** Action
+
+**Tension Arc:** Escalate
+
+**Structure:** Four sentences of cascading collapse - each loss triggers the next, ending with terse takeover statement.
+
+**Rhetorical DNA:**
+- Bodily detail under stress ("knots of straining thews," "gasping black curses") personalizes the doomed
+- Transport personified - loses headway, rolls helplessly when its handler falls
+- Rhythm mimics the domino-fall: steady, steady, then sudden stop with the sinking
+- Final sentence snaps to new subject, tersely announcing shift without elaboration
+
+**Respecification Seed:** A group falls one by one until a singular figure must act.
 
 ---
 
@@ -66,37 +64,35 @@ _Queen of the Black Coast by Robert E. Howard_
 
 **Tension Arc:** Escalate
 
-**Structure:** Four sentences of pure combat fury. Short opener, then three increasingly brutal elaborations. Catalog of violence accelerates through compound verbs.
+**Structure:** Three sentences: brief setup, short pivot ("But he moved..."), then one long cascading sentence of carnage with accumulating verbs.
 
 **Rhetorical DNA:**
-- Hurricane/blur metaphors externalize berserker state
-- Weapons given agency and sound: sword "sang its death-song"
-- Anatomical catalog (skulls, breasts, limbs, entrails) in accelerating rhythm
-- "Red mist" interior state bleeds into exterior carnage
-- Sentence length mirrors escalation: tight opening, then sprawling slaughter
+- Equipment given agency and sound ("sword sang its death-song")
+- Verbs pile in triadic and quadratic groups, each blow a percussive beat
+- Abstract states made physical ("red mist of unreasoning fury wavering before his blazing eyes")
+- Final clause lands on visceral tableau, the "ghastly harvest" as summation
 
-**Respecification Seed:** A warrior enters berserker fury and butchers enemies in graphic excess.
+**Respecification Seed:** A figure stands at the center of overwhelming violence and dominates through superior ferocity.
 
 ---
 
 ### Paragraph 4
 
-**Word Count:** 100-150
+**Word Count:** 50-100
 
 **Type:** Action
 
 **Tension Arc:** Release
 
-**Structure:** Three sentences building to frozen tableau. First sentence continues violence, second reaches terminal moment, third crystallizes stillness through simile.
+**Structure:** Three sentences: first establishes dominance, second builds to expected death, third freezes all motion with external interruption.
 
 **Rhetorical DNA:**
-- "Invulnerable" opening grants temporary mythic status
-- Death-readiness as characterization: he tenses to leap and die, not retreat
-- External interruption (shrill cry) breaks momentum without protagonist agency
-- Statue simile freezes all motion simultaneously
-- Parallel final clause balances opposing forces in stalemate
+- Tableau construction - action halts into frozen image ("stood like statues")
+- Parallel final clause balances opposing forces: enemies poised, defender ready
+- Momentum built specifically to be arrested; the interruption gains power from denied climax
+- Single sensory detail (shrill cry) sufficient to halt the scene
 
-**Respecification Seed:** A cornered warrior prepares for final stand when outside force freezes the moment.
+**Respecification Seed:** A standoff reaches its breaking point and is frozen by unexpected intervention.
 
 ---
 
@@ -104,19 +100,16 @@ _Queen of the Black Coast by Robert E. Howard_
 
 **Word Count:** 100-150
 
-**Type:** Action
+**Type:** Description
 
 **Tension Arc:** Release
 
-**Structure:** Three sentences of lyric intensity. Opens with triadic simile chain, middle sentence shows effect on witnesses, long final sentence consummates encounter.
+**Structure:** Three sentences: first all simile and motion, second grounds the dance in setting, third extends into surrender with sensory overload.
 
 **Rhetorical DNA:**
-- Triadic simile ("like... like... like...") elevates dance to cosmic force
-- Opposites yoked: creation and death, blood and starlight, ivory and black armor
-- Dying men "forgot death"—her presence suspends mortality itself
-- Color progression: white feet, blood-stained deck, blue velvet dusk, ivory fire, black plates
-- Final sentence syntactically sprawling, mimicking overwhelming desire
+- Triple simile cascade opens ("like the spin... like the leaping... like the urge")
+- Color and texture contrasts (white feet / blood-stained deck, ivory fire / blue velvet dusk)
+- Dying men "forgot death" - violence transmuted into aesthetic arrest
+- Final sentence sprawls luxuriantly, matching the surrender's abandon
 
-**Respecification Seed:** A mesmerizing figure's performance ends with sudden surrender to the warrior.
-
----
+**Respecification Seed:** A figure's performance arrests violence and transforms the scene into something transcendent.

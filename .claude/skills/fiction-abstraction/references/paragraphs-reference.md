@@ -57,7 +57,19 @@ The rhetorical skeleton: sentence count, length variation, what move the paragra
 The specific devices, rhythms, and tonal qualities that give the paragraph its voice.
 
 **Respecification Seed** (1 sentence, 5-15 words)
-The dramatic situation that calls for this paragraph.
+The dramatic situation that calls for this paragraph. See calibration examples for proper generality.
+
+## Calibration Examples
+
+These examples show proper abstraction level vs. over-specific output that limits reuse.
+
+| Component  | Too Specific                                             | Properly Abstracted                                                                   |
+| ---------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Structure  | "...climaxes with athletic boarding of a ship"           | "...climaxes with athletic feat"                                                      |
+| DNA bullet | "Ship personified—loses headway, rolls helplessly"       | "Location personified—darkens or shifts soundscapes"                                  |
+| DNA bullet | "Sword sings its death-song"                             | "Equipment given agency and sound (Example: sword sings its death-song)"              |
+| Seed       | "A pursued figure escapes onto a departing vessel."      | "A moving figure makes a desperate maneuver onto a transport or through an obstacle." |
+| Seed       | "A vessel's crew falls until a newcomer seizes command." | "A group falls one by one until a singular figure must act."                          |
 
 ## Workflow
 

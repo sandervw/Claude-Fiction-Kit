@@ -1,78 +1,69 @@
 {
-  "source": {
-    "work": "Queen of the Black Coast",
-    "author": "Robert E. Howard"
-  },
   "paragraphs": [
     {
-      "word-count": "150-200",
+      "word-count": "100-150",
       "type": "Action",
       "tension-arc": "Escalate",
-      "structure": "Seven sentences building from distant approach to decisive leap. Opens with rhythmic sound-image, expands through fleeting civilian perspective, sustains chase energy, climaxes with athletic boarding.",
+      "structure": "Five sentences building velocity: two short establishing urgency, two medium showing pursuit and arrival, one long climactic sentence landing the athletic feat.",
       "rhetorical-dna": [
-        "Kinetic verbs anchor each sentence (drummed, swept, jerked, sprang, landed)",
-        "Fleeting glimpse technique: protagonist seen through bystander eyes, mythologized by motion",
-        "Contrast between crowd chaos and rider's singular focus—he never looks back",
-        "Final sentence pivots from observer reaction to actor's decisive move",
-        "Sensory layering: sound first, then color, then physical impact"
+        "Percussive opening verb sets kinetic rhythm; sentences accelerate toward action",
+        "Sensory flashes (examples: cloak on wind, mount rearing) paint motion without slowing pace",
+        "Group reactions frame the figure - we see him through their startled eyes",
+        "Final sentence extends to match the action's arc, ending in final physical feat"
       ],
-      "respecification-seed": "A pursued figure makes a desperate, athletic escape onto a departing vessel."
+      "respecification-seed": "A moving figure makes a desperate maneuver onto a transport or through an obstacle."
+    },
+    {
+      "word-count": "50-100",
+      "type": "Action",
+      "tension-arc": "Escalate",
+      "structure": "Four sentences of cascading collapse - each loss triggers the next, ending with terse takeover statement.",
+      "rhetorical-dna": [
+        "Bodily detail under stress personalizes the doomed",
+        "Transport personified - loses headway, rolls helplessly when its handler falls",
+        "Rhythm mimics the domino-fall: steady, steady, then sudden stop with the sinking",
+        "Final sentence snaps to new subject, tersely announcing shift without elaboration"
+      ],
+      "respecification-seed": "A group falls one by one until a singular figure must act."
     },
     {
       "word-count": "100-150",
       "type": "Action",
       "tension-arc": "Escalate",
-      "structure": "Six sentences tracing doom's approach through accumulating casualties. Opens with pursuit closing, tracks death moving through ranks, ends with leadership vacuum filled.",
+      "structure": "Three sentences: brief setup, short pivot, then one long cascading sentence of carnage with accumulating verbs.",
       "rhetorical-dna": [
-        "Body-count progression: group casualties, then named individual, then vessel falters",
-        "Physical strain made visceral through anatomical metaphor",
-        "Emotional punctuation: the sob before death contrasts with curses during life",
-        "Ship personified—loses headway, rolls helplessly—mirroring crew's fate",
-        "Final sentence withholds method, promising action in next beat"
+        "Equipment given agency and sound (Example: sword sings its death-song)",
+        "Verbs pile in triadic and quadratic groups, each blow a percussive beat",
+        "Abstract states made physical (Example: fury as colored mist before the eyes)",
+        "Final clause lands on visceral tableau as summation"
       ],
-      "respecification-seed": "A vessel's crew falls one by one until a newcomer must seize command."
+      "respecification-seed": "A figure stands at the center of overwhelming violence and dominates through superior ferocity."
     },
     {
-      "word-count": "100-150",
-      "type": "Action",
-      "tension-arc": "Escalate",
-      "structure": "Four sentences of pure combat fury. Short opener, then three increasingly brutal elaborations. Catalog of violence accelerates through compound verbs.",
-      "rhetorical-dna": [
-        "Hurricane/blur metaphors externalize berserker state",
-        "Weapons given agency and sound: sword sings its death-song",
-        "Anatomical catalog in accelerating rhythm",
-        "Interior state (red mist) bleeds into exterior carnage",
-        "Sentence length mirrors escalation: tight opening, then sprawling slaughter"
-      ],
-      "respecification-seed": "A warrior enters berserker fury and butchers enemies in graphic excess."
-    },
-    {
-      "word-count": "100-150",
+      "word-count": "50-100",
       "type": "Action",
       "tension-arc": "Release",
-      "structure": "Three sentences building to frozen tableau. First continues violence, second reaches terminal moment, third crystallizes stillness through simile.",
+      "structure": "Three sentences: first establishes dominance, second builds to expected destruction, third freezes all motion with external interruption.",
       "rhetorical-dna": [
-        "Invulnerable opening grants temporary mythic status",
-        "Death-readiness as characterization: tensing to leap and die, not retreat",
-        "External interruption breaks momentum without protagonist agency",
-        "Statue simile freezes all motion simultaneously",
-        "Parallel final clause balances opposing forces in stalemate"
+        "Tableau construction - action halts into frozen image",
+        "Parallel final clause balances opposing forces: foes poised, actor ready",
+        "Momentum built specifically to be arrested; the interruption gains power from denied climax",
+        "Single sensory detail sufficient to halt the scene"
       ],
-      "respecification-seed": "A cornered warrior prepares for final stand when outside force freezes the moment."
+      "respecification-seed": "A standoff reaches its breaking point and is frozen by unexpected intervention."
     },
     {
       "word-count": "100-150",
       "type": "Description",
       "tension-arc": "Release",
-      "structure": "Three sentences of lyric intensity. Opens with triadic simile chain, middle sentence shows effect on witnesses, long final sentence consummates encounter.",
+      "structure": "Three sentences: first all simile and motion, second grounds the performance in setting, third extends into surrender with sensory overload.",
       "rhetorical-dna": [
-        "Triadic simile structure elevates action to cosmic force",
-        "Opposites yoked: creation and death, blood and starlight, ivory and black",
-        "Dying men forgot death—presence suspends mortality itself",
-        "Color progression builds through contrast",
-        "Final sentence syntactically sprawling, mimicking overwhelming desire"
+        "Triple simile cascade opens the paragraph",
+        "Color and texture contrasts throughout (Examples: pale against dark, fire against dusk)",
+        "Violence transmuted into aesthetic arrest (Example: dying men 'forget death')",
+        "Final sentence sprawls luxuriantly, matching the surrender's abandon"
       ],
-      "respecification-seed": "A mesmerizing figure's performance ends with sudden surrender to the warrior."
+      "respecification-seed": "A figure's performance arrests violence and transforms the scene into something transcendent."
     }
   ]
 }

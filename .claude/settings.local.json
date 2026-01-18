@@ -10,7 +10,8 @@
       "Bash(node generate-character-actions.js:*)",
       "Skill(character-analysis)",
       "Skill(character-generalizer)",
-      "Skill(fiction-generalizer)"
+      "Skill(fiction-generalizer)",
+      "Skill(fiction-abstraction)"
     ],
     "deny": [],
     "ask": []
