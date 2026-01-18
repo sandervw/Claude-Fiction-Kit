@@ -1,58 +1,69 @@
-# Howard Style
+# Robert E. Howard Style Guide
 
-Pulp heroic fantasy. Dramatic, elevated, visceral. Think Robert E. Howard's Conan tales.
+Adrenaline-drunk war correspondent transmitting directly from inside a body mid-combat.
 
-## Techniques
+---
 
-### 1. Elevate Vocabulary (The "High Style")
+## 1. Sentences & Rhythm
 
-- Replace functional words with dramatic ones
-- Mix archaic/biblical language with visceral pulp
-- "walked" → "strode"; "old" → "ancient"; "saw" → "beheld"
-- Favor words with weight: doom, savage, crimson, titan
+Howard's sentences are pistons building pressure toward physical release. The engine is **accumulation-to-climax**: pile clause upon clause, each adding force, until the sentence detonates in a concrete action.
 
-### 2. Compound Adjectives
+Compound structures chain with semicolons to create breathless rushes where stopping would kill momentum: *"The warrior roared and wrenched the axe-head free, but even as he did so, John's sword sang down."* The reader's eye cannot rest mid-sentence; they're dragged through by the syntax itself.
 
-- Pack description into hyphenated constructions
-- Creates tight rhythm with dense imagery
-- Examples: "sword-scarred," "moon-pale," "blood-dimmed," "shadow-haunted"
+Short declarative sentences punch after long ones for impact contrast. Paragraphs function like combat rounds: escalation, peak violence, brief aftermath. The goal is **kinetic trance**; the reader should feel slightly winded.
 
-### 3. Sentence Cadence
+## 2. Word Choice
 
-- Long sentences connected by conjunctions (and, but)
-- Or broken by dramatic pauses (commas, semicolons)
-- Don't list facts—connect them with flow
-- Start sentences with prepositions or dramatic declarations
-- Example: "From the east came war, and with it came ruin."
+Howard's vocabulary is **Anglo-Saxon and concrete**. Choose words that carry the physical weight of the action: not "moved" but "forged," not "attacked" but "hurled himself upon." The verb should make you feel the muscle strain.
 
-### 4. Anthropomorphize
+The principle: every word must be **tactile or kinetic**. Abstract nouns drain energy; concrete nouns build it. "The red eyes glared up at him with awful life" beats any psychological alternative because eyes and glaring and redness are things you can see.
 
-- Make inanimate things living, malevolent antagonists
-- The darkness hungers; the wind screams; the mountain broods
-- Setting as adversary, not backdrop
+Adjectives serve immediate sensory registration: "frozen," "crimson," "naked," "cold." They identify what the body would notice under stress: temperature, color, texture. No adjective that requires contemplation.
 
-### 5. Material and Sensory Contrast
+## 3. Imagery
 
-- Contrast beauty with horror, luxury with decay
-- Silk against blood; gold amid bones; perfume over rot
-- **Rule of Three**: When describing intangibles, list three sensory details
-- Creates rhythm and weight
+Howard's similes anchor the fantastic in **elemental forces**: "roars like the grinding of ice-bergs on a frozen shore," "like a colossus carved of ice." Draw comparisons from weather, geology, predator behavior, fire, and ice. These feel primal and ancient because they predate civilization.
 
-### 6. Concrete Sensory Language Over Explanation
+The body is rendered **physiologically**: veins swell, muscles stand out like cords, teeth gnash, foam flies from lips. This isn't decoration; it's proof of extremity. When you write that foam flies from a warrior's lips, you've shown the reader his state without naming an emotion.
 
-- Make readers _feel_ rather than _understand_
-- Keep logic, but dress it in legend
-- Don't explain why something is terrifying—describe what it looks/sounds/smells like
-- Visceral > analytical
+Colors are primary and stark: white snow, red blood, black figures, cold silver light. This palette reinforces the mythic register; pastels would shatter it.
 
-## Word Substitution Guide
+## 4. Tone
 
-| Weak   | Strong                             |
-| ------ | ---------------------------------- |
-| big    | titanic, vast, cyclopean           |
-| old    | ancient, primordial, elder         |
-| dark   | stygian, ebon, shadow-shrouded     |
-| scary  | eldritch, dread, nightmare-spawned |
-| walked | strode, stalked, prowled           |
-| said   | growled, hissed, thundered         |
-| killed | slew, smote, sent to hell          |
+The narrator occupies **close third person fused with the viewpoint character's nervous system**. We experience through their adrenaline state: "*Further and further into the wastes she led him*" puts us in John's tunnel vision.
+
+Howard is **utterly earnest** about violence and danger. There is no winking at the reader, no ironic distance, no authorial awareness that this is pulp adventure. The moment you introduce self-awareness, the spell breaks. Treat every sword-stroke as if it matters absolutely.
+
+The supernatural is accepted with **matter-of-fact gravity**. Marcus doesn't explain magic academically; he states it as frontier knowledge: "He can't command all the animals. Only such as remember the Old One." Mysteries remain mysterious.
+
+## 5. Dialogue
+
+Characters speak in **declarative volleys**. *"You can not escape me! Lead me into a snare and I'll heap the skulls of your kinsmen at your feet."* No hedging, no subtext, no trailing off. What they say is what they mean, delivered with force.
+
+The register is **elevated but not archaic**. Howard avoids "thee/thou" while still sounding ancient. The trick is syntactic formality (declarative sentences, parallel structure) plus concrete imagery, not vocabulary archaism.
+
+Dialogue tags are minimal or replaced by action beats. When a character's words already contain fury, "he roared" adds nothing but permission to skim.
+
+## 6. Themes & Atmosphere
+
+Howard's core subject is **man against elemental forces**: cold that bites through chainmail, beasts that remember ancient gods, supernatural beings that must be overcome by steel and will. The environment is never neutral; it actively opposes.
+
+Physical courage is the **cardinal virtue**. Characters prove themselves through endurance and violence. Intellect matters only when applied to survival; abstract cleverness is suspect.
+
+Time operates **mythically**. Events feel ancient even when described in present action. References to "the Old One" and beings who "remember" invoke deep time without exposition. The world is older than any character in it.
+
+What Howard omits: interiority, hesitation, moral complexity, domestic scenes. Characters do not examine their feelings; they act them out through their bodies.
+
+## 7. Antipatterns
+
+**Purple elaboration.** Howard is vivid, never ornate. When imitators add more adjectives, more metaphors, more descriptive filigree, they kill momentum. Howard's vividness comes from *precision*, not accumulation. "The handle of the ax standing up from its head" is brutal because it's exact.
+
+**Stopping for description.** Description must occur *while things happen*. The northern lights appear as John chases the girl; the leopard is described *as it threatens*. Static description pages kill Howard's engine entirely.
+
+**Ironic distance.** The instant you signal awareness that this is genre fiction, you've betrayed the form. Howard's power requires absolute commitment. The reader's skepticism dissolves only if the author shows none.
+
+**Psychological interiority.** "He felt afraid" is death. "The veins swelled and throbbed in his temples" is Howard. Translate emotion into physiology or action; never name it.
+
+**Modern speech rhythms in dialogue.** Characters must sound like they could carve their words in stone. Contractions, filler words, and contemporary cadence shatter the register.
+
+**NEVER USE EM-DASHES**

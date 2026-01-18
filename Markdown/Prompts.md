@@ -93,7 +93,7 @@ Can you rewrite the attached prose? I'm happy with the overall 'concept', but no
 ## Bandcamp Review Prompt
 
 Hey Claude, try revising the following album review in the thorogood style, 500 characters:
-Hard to tell if this a hidden gem or a guilty pleasure; sometimes Among the Lethe sounds to me like 'generic calm new-age indie music largely inspired by radiohead/coldplay'; other times my heart says this is original and lovely'; I'll accept what the heart has to say. 9/10
+Been listening to Clann, and this album, for years; it's perfectly idiosyncratic, there's nothing I've found on all the seas that sounds quite like like music of faeries and sirens; bit of synth, never too heavy, with melancholy/eerie distorted vocals woven throughout; it's not happy or sad, it's uncanny - it's 10/10; wish they'd make more music though...
 
 ## Peake Revision
 
@@ -425,7 +425,7 @@ Hey claude, I'm looking for real-life historical persons with a distinctive 'voi
 
 ## Style Skill Prompt
 
-Analyze [AUTHOR/STYLE] and complete the attached Style-Guide markdown template.   
+Hey claude, Analyze [AUTHOR/STYLE] and complete the attached Style-Guide markdown template.   
 
   CRITICAL INSTRUCTIONS:
 
