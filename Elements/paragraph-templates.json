@@ -1,5 +1,5 @@
 {
-  "paragraphs": [
+  "action-paragraphs": [
     {
       "word-count": "100-150",
       "type": "Action",
@@ -51,19 +51,6 @@
         "Single sensory detail sufficient to halt the scene"
       ],
       "respecification-seed": "A standoff reaches its breaking point and is frozen by unexpected intervention."
-    },
-    {
-      "word-count": "100-150",
-      "type": "Description",
-      "tension-arc": "Release",
-      "structure": "Three sentences: first all simile and motion, second grounds the performance in setting, third extends into surrender with sensory overload.",
-      "rhetorical-dna": [
-        "Triple simile cascade opens the paragraph",
-        "Color and texture contrasts throughout (Examples: pale against dark, fire against dusk)",
-        "Violence transmuted into aesthetic arrest (Example: dying men 'forget death')",
-        "Final sentence sprawls luxuriantly, matching the surrender's abandon"
-      ],
-      "respecification-seed": "A figure's performance arrests violence and transforms the scene into something transcendent."
     }
   ]
 }
