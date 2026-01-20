@@ -327,10 +327,11 @@ JSON:
 Hey claude, I'm giving you a setting overview for my Whyneland story setting. Along with that, I have some CURRENT DETAILS about a character which influence his physical description. Using that information, as well as the GUIDELINES below, I want you to 'fill out' the *physical* description of the character. Rely on my pre-written details, and use the GUIDELINES to write the rest. The description must address all of the GUIDELINES, but may integrate them fluidly rather than sequentially.
 
 ### CURRENT DETAILS:
-- The symbolic animal should be a `ANIMAL`
+- The symbolic animal should be a `Python`
 - The character should me male
-- He should be a `PROFESSION`
-- `ADDITONAL`
+- He should be a `Warrior`
+- He should be tall, fairly strong, but a lean, taut kind of muscle
+- His theme is basically "Noble Serpent": loyal to a cause/person, but willing to use deception or underhanded tactics to serve
 
 ### GUIDELINES:
 - [symbolic_animal] - influences exactly three to four elements: gait, one facial feature, one equipment piece, and optionally one additional detail (posture, hands, voice, etc.)

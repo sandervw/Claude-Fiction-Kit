@@ -52,5 +52,135 @@
       ],
       "respecification-seed": "A standoff reaches its breaking point and is frozen by unexpected intervention."
     }
+  ],
+  "scene-description-paragraphs": [
+    {
+      "word-count": "200-250",
+      "type": "Description",
+      "tension-arc": "Escalate",
+      "structure": "Six sentences building from conditional environment observation to accumulated images of decay. Opens with elaborate subordinate clause, middle sentences layer parasitic imagery, closes with terse day/night contrast.",
+      "rhetorical-dna": [
+        "Elaborate periodic sentences give way to shorter declarative punch at the end",
+        "Disease and parasitism metaphors (epidemic, swarmed, clamping like limpets)",
+        "Anthropomorphic violence applied to environment (examples: mutilated finger, fists of knuckled masonry, pointed blasphemously)",
+        "Accumulation through shadows: shadows of smaller features, then a dominant penumbra cast from  a large structure or geological feature",
+        "Final sentence splits into binary contrast (night/day, voice/voiceless)"
+      ],
+      "respecification-seed": "A grand environment (natural or built) overwhelmed by dependent growths, culminating in one dominant feature that commands the scene."
+    },
+    {
+      "word-count": "50-100",
+      "type": "Description",
+      "tension-arc": "Maintain",
+      "structure": "Five sentences descending from elaborate observation to sentence-fragment finality. Opens with complex participial construction, compresses through middle, ends with three-word verdict.",
+      "rhetorical-dna": [
+        "Paradox as central device (vivid yet dark, colorful yet exuding darkness)",
+        "Atmosphere given emotional weight (air turgid with contempt)",
+        "Simile deflates human/object figures (examples: craftsmen like beggars)",
+        "Progressive shortening mirrors degradation: long sentence, medium, short, shorter, fragment",
+        "Final fragment delivers blunt judgment after ornate buildup"
+      ],
+      "respecification-seed": "A gathering of people and/or objects that, despite surface vitality, emanates decay and emotional poison."
+    },
+    {
+      "word-count": "50-100",
+      "type": "Description",
+      "tension-arc": "Release",
+      "structure": "Two sentences of measured, slow observation. Both begin with light's attempt and acknowledge its failure, yet the tone softens rather than despairs.",
+      "rhetorical-dna": [
+        "Light as agent that partially fails (examples: gave vague structure, in no way dispelled)",
+        "Extended simile elevates dust motes, rays, or glimmers to cosmic imagery",
+        "Warm and brooding coexist without contradiction",
+        "Latinate diction creates formal, almost liturgical register (examples: infiltration, attenuate, grave order)",
+        "Rhythm slows through polysyllables, creating contemplative suspension"
+      ],
+      "respecification-seed": "Light penetrates a dark space, revealing small details that suggest larger, slower order."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Description",
+      "tension-arc": "Maintain",
+      "structure": "Three sentences establishing spatial and comparative relationship between connected locations. Opens with superlative claim, follows with elaborate conditional syntax explaining the comparison, closes by contrasting the third space with its superior illumination and sweeping vista.",
+      "rhetorical-dna": [
+        "Comparative framework structures observation (example: darkest, less direct, best lit)",
+        "Light treated as active agent that penetrates, infiltrates through decay (examples: fissures, dislodged portions)",
+        "Final sentence rewards patience with panoramic payoff after cramped observations",
+        "Scale collapse for dramatic effect (example: figure no taller than a thimble)",
+        "Latinate and technical diction (examples: penetrate, banistered verandah, bastions, quadrangle)"
+      ],
+      "respecification-seed": "A sequence of connected spaces, each characterized by how light reaches it, culminating in one that opens onto a vast view."
+    },
+    {
+      "word-count": "250+",
+      "type": "Description",
+      "tension-arc": "Escalate",
+      "structure": "Seven sentences building from simple action through expanding revelation of space and its accumulated contents. Opens with brief physical gesture, pivots to unconscious affection, then unfolds into elaborate cataloguing of objects that threatens to overwhelm before revealing secret pathways through.",
+      "rhetorical-dna": [
+        "Small domestic gesture grounds vast description in bodily scale",
+        "Catalogue technique: accumulation through diverse objects from grand to trivial",
+        "Paradox of constriction within vastness (example: long and lofty yet appearing smaller)",
+        "Extended simile comparing intimate knowledge to indigenous expertise",
+        "Sentence length mirrors spatial journey: short entrance, expanding middle, long winding exploration"
+      ],
+      "respecification-seed": "A figure enters a cluttered/dense space whose apparent chaos conceals secret passages known only to them."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Description",
+      "tension-arc": "Release",
+      "structure": "Three sentences moving from singular striking object to character's response to that object. Opens with central artifact described in isolation, middle sentence captures impulsive physical action, final sentence traces restless eyes seeking focus.",
+      "rhetorical-dna": [
+        "Polished grotesque as focal point (examples: writhing root, rare gloss, every wrinkle gleaming)",
+        "Objects/features given sensory personality (example: suavity of contour)",
+        "Eyes given independence and agency, moving as if separate from their owner",
+        "Tonal shift: calm emotion upon entry now replaced by smouldering restlessness",
+        "Neither setting nor object can hold attention, suggesting internal turbulence"
+      ],
+      "respecification-seed": "A figure sprawls in an ornate or sacral space, their restless gaze finding no anchor among the striking objects/features around them."
+    }
+  ],
+  "character-description-paragraphs": [
+    {
+      "word-count": "150-200",
+      "type": "Description",
+      "tension-arc": "Escalate",
+      "structure": "Seven sentences building from garment outward to physique to bearing to face, concluding with eye-contact confrontation. Short declarative opener, then increasingly elaborate dependent clauses stacking physical detail, climaxing in a power dynamic.",
+      "rhetorical-dna": [
+        "Anatomical inventory moving outward then inward: clothing, body, features, finally eyes",
+        "Simile anchors physicality (example: 'broad as a bull's'), sensory luxury (example: 'made for wine-cups and for ladies' lips')",
+        "Deliberate archaisms and compound epithets signal high register",
+        "Tension created through contrast (example: subject's insolence 'tamed' by superior presence)",
+        "Triadic listing at phrase level (example: 'throat and neck,' 'chin and jaw') gives cadence weight"
+      ],
+      "respecification-seed": "A proud warrior or professional presents himself before an imposing/authoritative figure."
+    },
+    {
+      "word-count": "0-50",
+      "type": "Description",
+      "tension-arc": "Maintain",
+      "structure": "Two sentences only. First establishes scale through spatial filling; second delivers character impression via participial phrases stacked after the main clause.",
+      "rhetorical-dna": [
+        "Economy of means: entire presence conveyed in two strokes",
+        "Physical mass implied through architecture (example: 'filled all the space between the pillars')",
+        "Present participles chain consequence (example: 'clothed... armed... smoking')—suggests action just completed",
+        "Register formal but punchy; no ornamentation, raw impression"
+      ],
+      "respecification-seed": "A formidable figure occupies a seat of power, fresh from violence."
+    },
+    {
+      "word-count": "250+",
+      "type": "Description",
+      "tension-arc": "Maintain",
+      "structure": "Long accumulative paragraph opening with movement, then static inventory of attire, then extended simile, finally settling on face and expression. Sentences lengthen progressively; last sentence is the longest, weaving contradictions.",
+      "rhetorical-dna": [
+        "Animal simile opens (example: 'lithe beast of prey newly wakened'), establishing predatory grace",
+        "Feminine comparison recurs (examples: 'slender... like a girl,' 'softly coloured like a girl's face') creating deliberate contrast with martial hints",
+        "Attire catalogued with precise materials and colors (examples: silk, gold, specific gemstones)",
+        "Nature simile (example: 'delicate peak of a snow mountain') bridges delicacy and latent power",
+        "Final sentence braids contradictions (examples: melancholy/disdain, gentleness/fiery glints, beauty/determination)",
+        "Archaic inversions (example: 'Very tall was that lord') maintain elevated register throughout"
+      ],
+      "respecification-seed": "A figure of deceptive delicacy appears, concealing dangerous capability beneath graceful beauty."
+    }
   ]
 }
