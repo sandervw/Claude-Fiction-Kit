@@ -1,4 +1,50 @@
 {
+  "phrases": [
+    {
+      "phrase": "Towermowth",
+      "meaning": "A chiding epithet, an archetypical person, a verb describing the action - essentially: speaking without thought, rushed to talk. Derives from Carilion, belltowers, clocktowers - historical places of annoying volubility."
+    },
+    {
+      "phrase": "Weep not for my sake; nor fear aught for my life",
+      "meaning": "A common saying at a departure."
+    },
+    {
+      "phrase": "Like a name written under a tile",
+      "meaning": "Said when something was 'fated to happen' - as if shrugging. Like 'No use crying over spilled milk'."
+    },
+    {
+      "phrase": "His words unwinged abode with her",
+      "meaning": "She took his words to heart. (Replace pronouns as needed)."
+    },
+    {
+      "phrase": "**As the Way",
+      "meaning": "'Fate/destiny' - but carries a more passive, accepting connotation than either of those; reflects an orientation toward accepting circumstances rather than controlling them."
+    },
+    {
+      "phrase": "Hush",
+      "meaning": "A more loaded word here than in english. It is a Code of Silence - like a promise to keep a secret. If someone says 'Hush': it means they are swearing upon their spirit to keep whatever was just said to themselves; OR, it is a warning to a speaker, that they should hold tongue, or suffer terrible consequences."
+    },
+    {
+      "phrase": "Give Them Bread",
+      "meaning": "A slogan that captures what masses actually want, used by 'Old King Koth' to rally the peasants in his revolution. Often used in place of 'take the direct approach', or 'do what is right'."
+    },
+    {
+      "phrase": "Mhettle, Stoff",
+      "meaning": "Excellence or virtue (mettle, stuff). The quality of being the best one can be; not merely moral goodness but the fulfillment of one's function or purpose, applicable to humans, horses, or tools."
+    },
+    {
+      "phrase": "Innergate",
+      "meaning": "'Inwardness'. Defines a Whyneland cultural emphasis on interior spiritual and intellectual life over external political engagement; interpreted as both profound depth and escapism from political responsibility."
+    },
+    {
+      "phrase": "TODO",
+      "meaning": "TODO"
+    },
+    {
+      "phrase": "TODO",
+      "meaning": "TODO"
+    }
+  ],
   "creatures": [
     {
       "name": "Sark",
