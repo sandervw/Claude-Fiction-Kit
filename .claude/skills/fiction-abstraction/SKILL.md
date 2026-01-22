@@ -1,9 +1,9 @@
 ---
 name: fiction-abstraction
-description: Abstract elements (paragraphs, plots, scenes) from specific fictional sources. Use when asked to "abstract [elements]", make elements "more general", or create "reusable" or "generic" templates. Triggers include "abstract [elements] in [filename]", "make [element] generic", "strip [element] details".
+description: Abstract elements (paragraphs, dialogue, plots, scenes) from specific fictional sources. Use when asked to "abstract [elements]", make elements "more general", or create "reusable" or "generic" templates. Triggers include "abstract [elements] in [filename]", "make [element] generic", "strip [element] details".
 ---
 
-# Character abstraction
+# Fiction Abstraction
 
 Transform fictional-work-specific elements into portable, reusable templates for writing.
 
@@ -14,6 +14,10 @@ Determine mode from user request:
 **Paragraphs mode**:
 - Triggers: "generic paragraphs", "abstract paragraphs", "list of generic paragraphs"
 - **Read**: `references/paragraphs-reference.md`
+
+**Dialogue mode**:
+- Triggers: "generic dialogue", "abstract dialogue", "dialogue templates", "abstract exchanges"
+- **Read**: `references/dialogue-reference.md`
 
 If ambiguous, ask user which mode.
 

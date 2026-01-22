@@ -3,14 +3,13 @@
     "allow": [
       "WebSearch",
       "WebFetch",
-      "Skill(literary-revision)",
       "Bash(python:*)",
       "Bash(pip show:*)",
       "Bash(npm install:*)",
       "Bash(node generate-character-actions.js:*)",
+      "Skill(literary-revision)",
       "Skill(character-analysis)",
-      "Skill(character-generalizer)",
-      "Skill(fiction-generalizer)",
+      "Skill(character-abstraction)",
       "Skill(fiction-abstraction)"
     ],
     "deny": [],
