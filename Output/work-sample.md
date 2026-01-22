@@ -1,19 +1,79 @@
-Gormenghast, that is, the main massing of the original stone, taken by itself would have displayed a certain ponderous architectural quality were it possible to have ignored the circumfusion of those mean dwellings that swarmed like an epidemic around its outer walls. They sprawled over the sloping earth, each one half way over its neighbour until, held back by the castle ramparts, the innermost of these hovels laid hold on the great walls, clamping themselves thereto like limpets to a rock. These dwellings, by ancient law, were granted this chill intimacy with the stronghold that loomed above them. Over their irregular roofs would fall throughout the seasons, the shadows of time-eaten buttresses, of broken and lofty turrets, and, most enormous of all, the shadow of the Tower of Flints. This tower, patched unevenly with black ivy, arose like a mutilated finger from among the fists of knuckled masonry and pointed blasphemously at heaven. At night the owls made of it an echoing throat; by day it stood voiceless and cast its long shadow.
+# Example Process
 
-Standing immobile throughout the day, these vivid objects, with their fantastic shadows on the wall behind them shifting and elongating hour by hour with the sun's rotation, exuded a kind of darkness for all their colour. The air between them was turgid with contempt and jealousy. The craftsmen stood about like beggars, their families clustered in silent groups. They were uncouth and prematurely aged. All radiance gone.
+## Input - Story So Far
 
-An infiltration of the morning's sun gave the various objects a certain vague structure but in no way dispelled the darkness. Here and there a thin beam of light threaded the warm brooding dusk and was filled with slowly moving motes like an attenuate firmament of stars revolving in grave order.
+Paragraph 5 - ACTION:
+- Our man finds the trail: bent fronds, bootprints in the leafpack, fluttering curtains of cobwebs
+- Compress the hours through a 'time passes' type transition
+- He closes his eyes, listens; smelling the air, his nostrils widening
+- One sound squeals through the woods; a goldfinch
 
-This room was the darkest. In the summer the light seemed to penetrate through the fissures in the warped wood and through the dislodged portions of stone slating in a less direct way than was the case in the larger room or gallery to its right. The third, the smallest attic, with its steps leading upwards from the gallery with the banistered verandah was the best lit, for it boasted a window with shutters which, when opened, gave upon a panorama of rooftops, towers and battlements that lay in a great half-circle below. Between high bastions might be seen, hundreds of feet beneath, a portion of quadrangle wherein, were a figure to move across, he would appear no taller than a thimble.
+---
 
-Fuchsia took three paces forward in the first of the attics and then paused a moment to re-tie a string above her knee. Over her head vague rafters loomed and while she straightened herself she noticed them and unconsciously loved them. This was the lumber room. Though very long and lofty it looked relatively smaller than it was, for the fantastic piles of every imaginable kind of thing, from the great organ to the lost and painted head of a broken toy lion that must one day have been the plaything of one of Fuchsia's ancestors, spread from every wall until only an avenue was left to the adjacent room. This high, narrow avenue wound down the centre of the first attic before suddenly turning at a sharp angle to the right. The fact that this room was filled with lumber did not mean that she ignored it and used it only as a place of transit. Oh no, for it was here that many long afternoons had been spent as she crawled deep into the recesses and found for herself many a strange cavern among the incongruous relics of the past. She knew of ways through the centre of what appeared to be hills of furniture, boxes, musical instruments and toys, kites, pictures, bamboo armour and helmets, flags and relics of every kind, as an Indian knows his green and secret trail. Within reach of her hand the hide and head of a skinned baboon hung dustily over a broken drum that rose beyond above the dim ranges of this attic medley. Huge and impregnable they looked in the warm still half-light, but Fuchsia, had she wished to, could have disappeared awkwardly but very suddenly into these fantastic mountains, reached their centre and lain down upon an ancient couch with a picture book at her elbow and been entirely lost to view within a few moments.
+Paragraph 6 - Character DESCRIPTION:
+- The describe the goldfinch, watching with intelligence
+- Its perch: a branch at exact eye level
+- Go into detail on plumage, eyes, etc
 
-A great writhing root, long since dragged from the woods of Gormenghast mountain, stood in the centre of the room. It had been polished to a rare gloss, its every wrinkle gleaming. Fuchsia flung herself down on the most imposing article in the room, a couch of faded splendour and suavity of contour in which the angles of Fuchsia’s body as she lay in a half sprawl were thrown out with uncompromising severity. Her eyes which, since she had entered the attic, had taken on the calm expression so alien to her, were now smouldering again. They moved about the room as though they were seeking in vain a resting place, but neither the fantastic root, nor the ingenious patterns in the carpet below her had the power to hold them.
+---
 
-The margin of the forest under whose high branches Titus was standing was an interwoven screen of foliage, more like a green wall constructed for some histrionic purpose than a natural growth. Was it to hide away some drama that it arose there, so sheer and so thick? Or was it the backcloth of some immortal mime? Which was the stage and which the audience? There was not a sound.
+Paragraph 7 - DIALOGUE (TODO):
+- The goldfinch delivers the prophecy: death at the warlord's hall, after the last echo of the shaman's laughter has sounded
+- The spare, weighted quality of the exchange—few words, each one deliberate
+- Maerbrang's replies, questions the bird; it is evasive in its answers
+- The bird tells of 'the shaman's laughter' as a riddle - doesn't specify when he will hear it
 
-Titus, wrenching two boughs apart, thrust himself forward and wriggled into the green darkness; thrust again, prizing his feet against a great lateral root. The leaves and the moss were cold with the dew. Working forward on his elbows, he found his way almost completely barred by a tough network of boughs; but the edge of his eagerness to break his way through was whetted, for a branch had swung back and switched him across his cheek, and in the pain of the moment he fought the muscled branches, until the upper part of his body had forced a gap which he kept from reclosing with his aching shoulders. His arms were forward of his body and he was able to free his face of the leaves and, as he panted to regain his breath, to see ahead of him, spreading into the clear distances, the forest floor like a sea of golden moss. From its heaving expanses arose, as through the chimera of a daydream, a phantasmic gathering of ancient oaks. Like dappled gods they stood, each in his own preserve, the wide glades of moss flowing between them in swathes of gold and green and away into the clear, dwindling distances.
+## Input - Templates
 
-Was there a slightly different feeling about the light as it slanted through the oak leaves and lay along the glades? Was there a less deathly stillness in the air? For a moment Titus thought he heard a sigh among the leaves above him. Was there a quickening in the torpor of the midday stillness?
+```JSON
+{
+      "word-count": "150-200",
+      "type": "Description",
+      "tension-arc": "Escalate",
+      "structure": "Seven sentences building from garment outward to physique to bearing to face, concluding with eye-contact confrontation. Short declarative opener, then increasingly elaborate dependent clauses stacking physical detail, climaxing in a power dynamic.",
+      "rhetorical-dna": [
+        "Anatomical inventory moving outward then inward: clothing, body, features, finally eyes",
+        "Simile anchors physicality (example: 'broad as a bull's'), sensory luxury (example: 'made for wine-cups and for ladies' lips')",
+        "Deliberate archaisms and compound epithets signal high register",
+        "Tension created through contrast (example: subject's insolence 'tamed' by superior presence)",
+        "Triadic listing at phrase level (example: 'throat and neck,' 'chin and jaw') gives cadence weight"
+      ],
+      "respecification-seed": "A proud warrior or professional presents himself before an imposing/authoritative figure."
+    },
+    {
+      "word-count": "0-50",
+      "type": "Description",
+      "tension-arc": "Maintain",
+      "structure": "Two sentences only. First establishes scale through spatial filling; second delivers character impression via participial phrases stacked after the main clause.",
+      "rhetorical-dna": [
+        "Economy of means: entire presence conveyed in two strokes",
+        "Physical mass implied through architecture (example: 'filled all the space between the pillars')",
+        "Present participles chain consequence (example: 'clothed... armed... smoking')—suggests action just completed",
+        "Register formal but punchy; no ornamentation, raw impression"
+      ],
+      "respecification-seed": "A formidable figure occupies a seat of power, fresh from violence."
+    },
+    {
+      "word-count": "250+",
+      "type": "Description",
+      "tension-arc": "Maintain",
+      "structure": "Long accumulative paragraph opening with movement, then static inventory of attire, then extended simile, finally settling on face and expression. Sentences lengthen progressively; last sentence is the longest, weaving contradictions.",
+      "rhetorical-dna": [
+        "Animal simile opens (example: 'lithe beast of prey newly wakened'), establishing predatory grace",
+        "Feminine comparison recurs (examples: 'slender... like a girl,' 'softly coloured like a girl's face') creating deliberate contrast with martial hints",
+        "Attire catalogued with precise materials and colors (examples: silk, gold, specific gemstones)",
+        "Nature simile (example: 'delicate peak of a snow mountain') bridges delicacy and latent power",
+        "Final sentence braids contradictions (examples: melancholy/disdain, gentleness/fiery glints, beauty/determination)",
+        "Archaic inversions (example: 'Very tall was that lord') maintain elevated register throughout"
+      ],
+      "respecification-seed": "A figure of deceptive delicacy appears, concealing dangerous capability beneath graceful beauty."
+    }
+```
 
-It was not long before the peerless lawns of moss that stretched between the oaks became pranked by clumps of ferns which, ignoring the sun's rays, appeared silhouetted, so dark was the viridian of their hanging fronds, so luminous their golden background. The relief to the boy's spirit was instantaneous, and when the sumptuous floor gave place to coarse grasses and the rank profusion of flowering weeds, and when, most refreshing of all to Titus's eyes, the oaks no longer cast their ancestral spell across the vistas, but were challenged by a variety of trees and shrubs, until the last of those gnarled monarchs had withdrawn and Titus found himself in a fresher atmosphere, then, at last, he was clear of the nightmare and, with his hunger for redundant proof, was once again in the clear, sharp, actual world that he knew. The ground began to drop away before him at a lively gradient. As on the far side of the oak forest, here also were scattered rocks and groups of ferns; and then all of a sudden Titus gave a shout of happiness to see a living thing after the emptiness and nervelessness of the golden glades—a dog fox that, disturbed by his footsteps, had waked out of its midday sleep in a quiet nest of ferns, had got to its feet with extraordinary self-possession and trotted away at an even pace across the slant of the falling ground.
+## Templates Sources
+
+1. "His cloak of sky-blue silk was flung back from his shoulders. His chest, broad as a bull's, swelled beneath the shining silver scales of his byrnie, that was short-sleeved, leaving his strong arms bare to view with golden rings about the wrists. Proudly he stood before the King, his head firm planted above his mighty throat and neck; his proud luxurious mouth, made for wine-cups and for ladies' lips, firm set above the square shaven chin and jaw; the thick fair curls of his hair bound with black bryony; the insolence that dwelt in his dark blue eyes tamed for the while in face of that green bale-light that rose and fell in the steadfast gaze of the King."
+
+2. "The breadth of his shoulders filled all the space between the pillars of the spacious seat. A hard man he looked to deal with, clothed upon with youth and strength and all armed and yet smoking from the battle."
+
+3. "His gait was delicate, as of some lithe beast of prey newly wakened out of slumber, and he greeted with lazy grace the many friends who hailed his entrance. Very tall was that lord, and slender of build, like a girl. His tunic was of silk coloured like the wild rose, and embroidered in gold with representations of flowers and thunderbolts. His buskins were laced with gold, and from his belt hung a sword, narrow of blade and keen, the hilt rough with beryls and black diamonds. Strangely light and delicate was his frame and seeming, yet with a sense of slumbering power beneath, as the delicate peak of a snow mountain seen afar in the low red rays of morning. His face was beautiful to look upon, and softly coloured like a girl's face, and his expression one of gentle melancholy, mixed with some disdain; but fiery glints awoke at intervals in his eyes, and the lines of swift determination hovered round the mouth below his curled moustachios."

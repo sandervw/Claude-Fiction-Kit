@@ -1,9 +1,15 @@
-"The spring sunlight as he paced from shine to shade and to shine again, passing the tall windows, seemed to caress his face and form. It was as if spring laughed for joy beholding in him one that was her own child, clothed to outward view with so much loveliness and grace, but full besides to the eyes and finger-tips with fire and vital sap."
+"O devil transmarine, pity of thine ignorance sith thou know'st not Mivarsh Faz."
 
-"He came with furtive step yet goodly and fair to behold. The nose of him was hooked like a sickle and his eyes great and fair like the eyes of an ox, inscrutable as they. Lean and spare was his frame. Pale was his face and pale his delicate hands, and his long black beard was tightly curled and bright as the coat of a black retriever."
+"Woe worth the woe that is fallen upon all the land of Impland!"
 
-"And in a mighty chair beside this table was King Gorice XII., robed in his conjuring robe of black and gold, resting his cheek on his hand that was lean as an eagle's claw. The low light, mother of shade and secrecy, that hovered in that chamber moved about the still figure of the King, his nose hooked as the eagle's beak, his cropped hair, his thick close-cut beard and shaven upper lip, his high cheek-bones and cruel heavy jaw, and the dark eaves of his brows whence the glint of green eyes showed as no friendly lamp to them without."
+"Out harrow and alas for Fax Fay Faz and Illarosh Faz and Lurmesh Faz and Gandassa Faz and all the great ones in the land!"
 
-"His byrny was of black chain mail, its collar, sleeves, and skirt edged with plates of dull gold set with hyacinths and black opals. His hose were black, cross-gartered with bands of sealskin trimmed with diamonds. On his left thumb was his great signet ring fashioned in gold in the semblance of the worm Ouroboros that eateth his own tail: the bezel of the ring the head of the worm, made of a peach-coloured ruby of the bigness of a sparrow's egg. His cloak was woven of the skins of black cobras stitched together with gold wire, its lining of black silk sprinkled with dust of gold."
+"Curse ye bitterly Philpritz Faz, which betrayed us into the hand of the devil ultramontane in the castle of Orpish."
 
-"A lady light of build and exceeding fair to look upon, brave of carriage like a war-horse, soft of feature, clear-browed, gray-eyed and proud-eyed: sweet-mouthed, but not as one who can speak nought but sweetness. Her robe was of pale buff-coloured silk, with corsage covered as by a spider's web with fine golden threads; and she wore a point-lace ruffle stiffened with gold and silver wire and spangled with little diamonds. Her deep hair, black as the raven's wing, was fastened with pins of gold, and a yellow rose that nestled in its coils was as the moon looking forth among thick clouds of night."
+"O devils transmarine, ye give me strong waters which comfort my soul, and ye speak me soft words. But shall I not fear soft words? Soft words were spoke by this devil ultramontane, when he and cursed Philpritz spake soft words unto us in Orpish: unto me, and unto Fax Fay Faz, and Gandassa, and Illarosh, and unto all of us, after our overthrow in battle against him by the banks of Arlan."
+
+
+"I was born in the high valley of Perarshyn by the upper waters of the Beirun in Impland. There boys scarce toddle ere they can climb a rock. This climb affrights me not, nor those mountains. But the land is unknown and terrible, and many loathly ones inhabit it, ghosts and eaters of men. O devils transmarine, and my friends, is it not enough? Let us turn again, and if the Gods save our lives we shall be famous for ever, that came unto Morna Moruna and returned alive."
+
+"Ye be devils, but of myself I marvel. For I have dwelt by snow mountains all my days, and many I wot of that have been benighted on the snows in wild weather. And not one but was starved by reason of the cold. I speak of them that were found. Many were not found, for the spirits devoured them."
+

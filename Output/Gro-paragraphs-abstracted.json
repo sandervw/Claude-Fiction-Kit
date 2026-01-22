@@ -1,0 +1,85 @@
+{
+  "paragraphs": [
+    {
+      "word-count": "100-150",
+      "type": "Reflection",
+      "tension-arc": "Escalate",
+      "structure": "Opens with rhetorical question anticipating judgment, pivots to self-defense through enumeration of hard-won achievements. One long unwinding sentence establishing stakes.",
+      "rhetorical-dna": [
+        "Inverted syntax and archaic constructions create formal, deliberate cadence",
+        "Self-aware framing: speaker pre-empts criticism by voicing it first",
+        "Triadic listing builds cumulative weight",
+        "Intimate metaphor for bond with authority figure"
+      ],
+      "respecification-seed": "A figure defends a dangerous choice made at the height of hard-won security."
+    },
+    {
+      "word-count": "150-200",
+      "type": "Reflection",
+      "tension-arc": "Release",
+      "structure": "Opens with defiant reversal, expands into philosophical maxim, then unfolds into extended allegory. Rhythm shifts from terse declaration to lyrical accumulation.",
+      "rhetorical-dna": [
+        "Proverbial wisdom as foundation",
+        "Cosmic allegory (example: day vs. night as triumph over darkness)",
+        "Personification building in intensity: delicate to wild to triumphant",
+        "Parallel construction cascading into celebration",
+        "Register shifts from sardonic to exalted"
+      ],
+      "respecification-seed": "A character dismisses conventional wisdom by invoking nature's own cycles of triumph and loss."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Reflection",
+      "tension-arc": "Maintain",
+      "structure": "Two-part movement: first, rhetorical question challenging loyalty to success; second, philosophical self-justification through metaphor.",
+      "rhetorical-dna": [
+        "Defiant self-defense through counter-question",
+        "Extended metaphor linking personal loyalty to cosmic phenomena",
+        "Archaic formality lending dignity to what might seem betrayal",
+        "Final clause lifts into abstraction"
+      ],
+      "respecification-seed": "A figure justifies their questionable choices by an extended metaphor with divine/natural phenomenon."
+    },
+    {
+      "word-count": "150-200",
+      "type": "Reflection",
+      "tension-arc": "Escalate",
+      "structure": "Opens with aphoristic statement, then develops through direct address and extended climbing metaphor. Builds through hypotheticals to grim conclusion.",
+      "rhetorical-dna": [
+        "Maxim as thesis",
+        "Direct address creating intimate tutorial tone",
+        "Life-as-X metaphor sustained through multiple scenarios",
+        "Rhetorical questions driving argument forward",
+        "Dark humor in final image (Example: corpse vs. successful climber)"
+      ],
+      "respecification-seed": "A character proposes that indirect paths succeed where direct ones lead to ruin or death."
+    },
+    {
+      "word-count": "50-100",
+      "type": "Reflection",
+      "tension-arc": "Maintain",
+      "structure": "Formal address establishing debt, pivoting to offer of counsel. Single building sentence leading to promise of singular solution.",
+      "rhetorical-dna": [
+        "Courtly formula opening",
+        "Parallel construction in middle",
+        "Tease structure: many options considered, one chosen",
+        "Formal register throughout, deferential but confident"
+      ],
+      "respecification-seed": "An character makes a pledge and promises a single best choice after much deliberation."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Reflection",
+      "tension-arc": "Escalate",
+      "structure": "Opens with chiding observation, proceeds through dismissal of obvious strengths, builds to revelation of hidden greater power. Three beats: critique, enumeration, climactic mystery.",
+      "rhetorical-dna": [
+        "Proverbial wisdom as framing device",
+        "Deliberate undercutting of military assets to elevate something intangible",
+        "Comparative structure building to superlative",
+        "Suspense through withholding: the greater thing unnamed",
+        "Direct address maintaining intimate advisory tone"
+      ],
+      "respecification-seed": "A character warns against relying on obvious strength, hinting at a hidden greater asset."
+    }
+  ]
+}
