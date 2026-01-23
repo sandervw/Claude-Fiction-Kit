@@ -27,7 +27,6 @@ _[Work Title] by [Author/Creator]_
 **Rhetorical DNA:**
 - [Power dynamic]
 - [Line length/rhythm contrast]
-- [Subtext handling]
 - [Interstitial action style]
 
 **Respecification Seed:** [5-15 words describing dramatic situation]

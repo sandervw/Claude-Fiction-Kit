@@ -69,6 +69,22 @@ The specific dynamics that give the exchange its character
 **Respecification Seed** (1 sentence, 5-15 words)
 The dramatic situation that calls for this exchange. See calibration examples for proper generality.
 
+## Calibration Examples
+
+These examples show proper abstraction level vs. over-specific output that limits reuse.
+
+| Component  | Too Specific                                                                                           | Properly Abstracted                                                                                |
+| ---------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| Structure  | "Opens with authority's sour dismissal demanding explanation"                                          | "Opens with antagonist demanding explanation"                                                      |
+| Structure  | "Advisor delivers elaborate prophetic vision"                                                          | "Actor delivers elaborate prophetic vision"                                                        |
+| Structure  | "Authority explodes into multi-part accusation spanning jealousy, disloyalty, and conspiracy"          | "Antagonist explodes into multi-part accusation of motives (examples: jealousy, disloyalty, fear)" |
+| Structure  | "Captive answers obliquely with partial information"                                                   | "Antagonist answers obliquely with partial information"                                            |
+| DNA bullet | "Power asymmetry: absolute authority vs. vulnerable counselor; one speaks volumes, one barely defends" | "Power asymmetry: absolute antagonist vs. vulnerable actor; one speaks volumes, one defends"       |
+| DNA bullet | "Captors hold all leverage but use soft extraction; captive is wary, broken, speaks from trauma"       | "Interrogator holds leverage but uses soft extraction; antagonist is wary"                         |
+| DNA bullet | "Subtext: advisor genuinely fears for king; king suspects political maneuvering behind every word"     | (Omit - too specific to single scenario)                                                           |
+| Seed       | "A counselor's sincere warning interpreted as scheming by a paranoid ruler"                            | "An actor's sincere warning interpreted as scheming by a paranoid antagonist"                      |
+| Seed       | "Interrogators coax information from a traumatized, suspicious captive using kindness"                 | "Interrogator coaxes information from a suspicious antagonist using kindness"                      |
+
 ## Workflow
 
 1. User provides dialogue exchange(s) (or references existing document)
