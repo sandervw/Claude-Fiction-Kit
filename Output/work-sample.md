@@ -1,79 +1,13 @@
-# Example Process
+"I am not afeared, O my Lord the King, but rather rejoiced I at your summons. For it jumpeth with mine own designs, when I took counsel secretly in my heart after the woes that the Fates fulfilled for Witchland in the Foliot Isles. For in that day, O King, when I beheld the light of Witchland darkened and her might abated in the fall of King Gorice XI. of glorious memory, I thought on you, Lord, the twelfth Gorice raised up King in Carcë; and there was present to my mind the word of the soothsayer of old, where he singeth... And being minded that he singleth out you, the twelfth, as potent in grammarie, all my care was that these Demons should be detained within reach of your spells until we should have time to win home to you and to apprise you of their farings, that so you might put forth your power and destroy them by art magic or ever they come safe again to many-mountained Demonland."
 
-## Input - Story So Far
+"For many years, Lord, or ever I came to Carcë, I fared up and down the world, and I am acquainted with objects of terror as a child with his toys. I have seen in the southern seas, by the light of Achernar and Canopus, giant sea-horses battling with eight-legged cuttle-fishes in the whirlpools of the Korsh. Yet was I unafraid. I was in the isle Ciona when the fires of the pit brast forth in that isle and split it as a man’s skull is split with an axe, and the green gulfs of the sea swallowed that isle, and the stench and the steam hung in the air for days where the burning rock and earth had sizzled in the ocean. Yet was I unafraid. Also was I with Gaslark in the flight out of Zajë Zaculo, when the Ghouls took the palace over our heads, and portents walked in his halls in broad daylight, and the Ghouls conjured the sun out of heaven. Yet was I unafraid. And for thirty days and thirty nights wandered I alone on the face of the Moruna in Upper Impland, where scarce a living soul hath been: and there the evil wights that people the air of that desert dogged my steps and gibbered at me in darkness. Yet was I unafraid; and came in due time to Morna Moruna, and thence, standing on the lip of the escarpment as it were on the edge of the world, looked southaway where never mortal eye had gazed aforetime, across the untrodden forests of the Bhavinan. And in that skyey distance, pre-eminent beyond range on range of ice-robed mountains, I beheld two peaks throned for ever between firm land and heaven in unearthly loveliness: the spires and airy ridges of Koshtra Pivrarcha, and the wild precipices that soar upward from the abysses to the queenly silent snow-dome of Koshtra Belorn."
 
-Paragraph 5 - ACTION:
-- Our man finds the trail: bent fronds, bootprints in the leafpack, fluttering curtains of cobwebs
-- Compress the hours through a 'time passes' type transition
-- He closes his eyes, listens; smelling the air, his nostrils widening
-- One sound squeals through the woods; a goldfinch
+Great is the strength and cunning of the seed of Demonland. By main strength have they now shown mastery over us, as sadly witnesseth the overthrow of Gorice XI., ’gainst whom no mortal could stand up and wrastle and not die, till cursed Goldry, drunk with spleen and envy, slew him in the Foliot Isles. Nor was there any aforetime to outdo us in feats of arms, and Gorice X., victorious in single combats without number, made our name glorious over all the world. Yet at the last he gat his death, out of all expectation and by what treacherous sleight I know not, standing in single combat against the curled step-dancer from Krothering. But I, that am skilled in grammarie, do bear a mightier engine against the Demons than brawny sinews or the sword that smiteth asunder. Yet is mine engine perilous to him that useth it."
 
----
+"This is that awful book of grammarie wherewith in this same chamber, on such a night, Gorice VII. stirred the vasty deep. And know that from this circumstance alone ensued the ruin of King Gorice VII., in that, having by his hellish science conjured up somewhat from the primaeval dark, and being utterly fordone with the sweat and stress of his conjuring, his mind was clouded for a moment, in such sort that either he forgot the words writ in this grammarie, or the page whereon they were writ, or speech failed him to speak those words that must be spoken, or might to do those things which must be done to complete the charm. Wherefore he kept not his power over that which he had called out of the deep, but it turned upon him and tare him limb from limb. Such like doom will I avoid, renewing in these latter days those self-same spells, if thou durst stand by me undismayed the while I utter my incantations. And shouldst thou mark me fail or waver ere all be accomplished, then shalt thyself lay hand on book and crucible and fulfil whatsoever is needful, as I shall first show thee. Or quailest thou at this?"
 
-Paragraph 6 - Character DESCRIPTION:
-- The describe the goldfinch, watching with intelligence
-- Its perch: a branch at exact eye level
-- Go into detail on plumage, eyes, etc
+So they took horse, and while they rode they related to Spitfire all that had befallen since their faring to Carcë. In such wise came they north past the harbour, and so over Havershaw Tongue to Beckfoot where they took the upper path that climbs into Evendale close under the screes of Starksty Pike, and so came a little before noon to Galing.
 
----
+That night they spent safely, by favour of the Gods, under the highest crags of Koshtra Pivrarcha, in a sheltered hollow piled round with snow. Dawn came like a lily, saffron-hued, smirched with smoke-gray streaks that slanted from the north. The great peaks stood as islands above a main of level cloud, out of which the sun walked flaming, a ball of red-gold fire. An hour before his face appeared, the Demons and Mivarsh were roped and started on their eastward journey. Ill to do with as was the crest of the great north buttress by which they had climbed the mountain, seven times worse was this eastern ridge, leading to Koshtra Belorn. Leaner of back it was, flanked by more profound abysses, deeplier gashed, too treacherous and too sudden in its changes from sure rock to rotten and perilous: piled with tottering crags, hung about with cornices of uncertain snow, girt with cliffs smooth and holdless as a castle wall. Small marvel that it cost them thirteen hours to come down that ridge. The sun wheeled towards the west when they reached at length that frozen edge, sharp as a sickle, that was in the Gates of Zimiamvia. Weary they were, and ropeless; for by no means else might they come down from the last great tower save by the rope made fast from above. A fierce north-easter had swept the ridges all day, bringing snow-storms on its wings. Their fingers were numbed with cold, and the beards of Lord Brandoch Daha and Mivarsh Faz stiff with ice.
 
-Paragraph 7 - DIALOGUE (TODO):
-- The goldfinch delivers the prophecy: death at the warlord's hall, after the last echo of the shaman's laughter has sounded
-- The spare, weighted quality of the exchange—few words, each one deliberate
-- Maerbrang's replies, questions the bird; it is evasive in its answers
-- The bird tells of 'the shaman's laughter' as a riddle - doesn't specify when he will hear it
-
-## Input - Templates
-
-```JSON
-{
-      "word-count": "150-200",
-      "type": "Description",
-      "tension-arc": "Escalate",
-      "structure": "Seven sentences building from garment outward to physique to bearing to face, concluding with eye-contact confrontation. Short declarative opener, then increasingly elaborate dependent clauses stacking physical detail, climaxing in a power dynamic.",
-      "rhetorical-dna": [
-        "Anatomical inventory moving outward then inward: clothing, body, features, finally eyes",
-        "Simile anchors physicality (example: 'broad as a bull's'), sensory luxury (example: 'made for wine-cups and for ladies' lips')",
-        "Deliberate archaisms and compound epithets signal high register",
-        "Tension created through contrast (example: subject's insolence 'tamed' by superior presence)",
-        "Triadic listing at phrase level (example: 'throat and neck,' 'chin and jaw') gives cadence weight"
-      ],
-      "respecification-seed": "A proud warrior or professional presents himself before an imposing/authoritative figure."
-    },
-    {
-      "word-count": "0-50",
-      "type": "Description",
-      "tension-arc": "Maintain",
-      "structure": "Two sentences only. First establishes scale through spatial filling; second delivers character impression via participial phrases stacked after the main clause.",
-      "rhetorical-dna": [
-        "Economy of means: entire presence conveyed in two strokes",
-        "Physical mass implied through architecture (example: 'filled all the space between the pillars')",
-        "Present participles chain consequence (example: 'clothed... armed... smoking')—suggests action just completed",
-        "Register formal but punchy; no ornamentation, raw impression"
-      ],
-      "respecification-seed": "A formidable figure occupies a seat of power, fresh from violence."
-    },
-    {
-      "word-count": "250+",
-      "type": "Description",
-      "tension-arc": "Maintain",
-      "structure": "Long accumulative paragraph opening with movement, then static inventory of attire, then extended simile, finally settling on face and expression. Sentences lengthen progressively; last sentence is the longest, weaving contradictions.",
-      "rhetorical-dna": [
-        "Animal simile opens (example: 'lithe beast of prey newly wakened'), establishing predatory grace",
-        "Feminine comparison recurs (examples: 'slender... like a girl,' 'softly coloured like a girl's face') creating deliberate contrast with martial hints",
-        "Attire catalogued with precise materials and colors (examples: silk, gold, specific gemstones)",
-        "Nature simile (example: 'delicate peak of a snow mountain') bridges delicacy and latent power",
-        "Final sentence braids contradictions (examples: melancholy/disdain, gentleness/fiery glints, beauty/determination)",
-        "Archaic inversions (example: 'Very tall was that lord') maintain elevated register throughout"
-      ],
-      "respecification-seed": "A figure of deceptive delicacy appears, concealing dangerous capability beneath graceful beauty."
-    }
-```
-
-## Templates Sources
-
-1. "His cloak of sky-blue silk was flung back from his shoulders. His chest, broad as a bull's, swelled beneath the shining silver scales of his byrnie, that was short-sleeved, leaving his strong arms bare to view with golden rings about the wrists. Proudly he stood before the King, his head firm planted above his mighty throat and neck; his proud luxurious mouth, made for wine-cups and for ladies' lips, firm set above the square shaven chin and jaw; the thick fair curls of his hair bound with black bryony; the insolence that dwelt in his dark blue eyes tamed for the while in face of that green bale-light that rose and fell in the steadfast gaze of the King."
-
-2. "The breadth of his shoulders filled all the space between the pillars of the spacious seat. A hard man he looked to deal with, clothed upon with youth and strength and all armed and yet smoking from the battle."
-
-3. "His gait was delicate, as of some lithe beast of prey newly wakened out of slumber, and he greeted with lazy grace the many friends who hailed his entrance. Very tall was that lord, and slender of build, like a girl. His tunic was of silk coloured like the wild rose, and embroidered in gold with representations of flowers and thunderbolts. His buskins were laced with gold, and from his belt hung a sword, narrow of blade and keen, the hilt rough with beryls and black diamonds. Strangely light and delicate was his frame and seeming, yet with a sense of slumbering power beneath, as the delicate peak of a snow mountain seen afar in the low red rays of morning. His face was beautiful to look upon, and softly coloured like a girl's face, and his expression one of gentle melancholy, mixed with some disdain; but fiery glints awoke at intervals in his eyes, and the lines of swift determination hovered round the mouth below his curled moustachios."
+So they tasted of the ambrosia, that was white to look on and crisp to the tooth and sweet, and being eaten revived strength in the body more than a surfeit of bullock’s flesh, and of the nectar that was all afoam and coloured like the inmost fires of sunset. Surely somewhat of the peace of the Gods was in that nectar divine.
