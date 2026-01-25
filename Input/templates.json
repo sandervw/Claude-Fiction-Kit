@@ -1,0 +1,46 @@
+{
+  "character-description-paragraphs": [
+    {
+      "word-count": "50-100",
+      "type": "Description",
+      "tension-arc": "Release",
+      "structure": "Two sentences. First traces movement through alternating light; second expands into personification, the environment responding to the figure. Climactic clause stacks contrasts (example: outward loveliness vs. inner fire).",
+      "rhetorical-dna": [
+        "Nature personified as celebrant (example: 'spring laughed for joy beholding')",
+        "Contrast between external grace and internal vitality (examples: 'loveliness and grace' vs. 'fire and vital sap')",
+        "Elemental vocabulary (sunlight, shine, shade, spring, sap) creates organic unity",
+        "Movement implied through spatial progression (example: 'shine to shade and to shine again')",
+        "Register elevated but warm; admiring rather than awed"
+      ],
+      "respecification-seed": "A vital figure moves through an environment that seems to welcome or celebrate their presence."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Description",
+      "tension-arc": "Escalate",
+      "structure": "Three sentences of increasing menace. First places figure in setting with posture; second lingers on atmospheric lighting; third delivers extended anatomical inventory culminating in eyes. Main clause delayed by participial buildup.",
+      "rhetorical-dna": [
+        "Predatory animal imagery throughout (examples: 'lean as an rat's tail,' 'hooked as the eagle's beak')",
+        "Light personified as co-conspirator (example: 'mother of shade and secrecy... moved about')",
+        "Anatomical inventory builds threat",
+        "Final image of eyes completes menacing portrait",
+        "Archaic syntax and compound epithets maintain high register"
+      ],
+      "respecification-seed": "A powerful figure sits in shadow, their predatory features gradually revealed by unfriendly light."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Description",
+      "tension-arc": "Maintain",
+      "structure": "Four sentences cataloguing attire. Each sentence names materials, colors, and ornamentation with lapidary precision. No verbs of action; static display.",
+      "rhetorical-dna": [
+        "Catalog structure: different parts of attire, in sequence",
+        "Precious materials accumulated (examples: chain mail, gold, hyacinths, opals, diamonds, sealskin, ruby, cobra skins, silk)",
+        "Symbolic detail embedded",
+        "Color palette restricted to two primary colors throughout, with single accent",
+        "Register heraldic; reading like blazon or inventory rather than narrative"
+      ],
+      "respecification-seed": "A figure's elaborate outfit is catalogued piece by piece, revealing wealth, power, and symbolic identity."
+    }
+  ]
+}

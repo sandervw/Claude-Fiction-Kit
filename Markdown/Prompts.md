@@ -323,15 +323,12 @@ JSON:
 
 ## Character-Description Prompt
 
-
-Hey claude, I'm giving you a setting overview for my Whyneland story setting. Along with that, I have some CURRENT DETAILS about a character which influence his physical description. Using that information, as well as the GUIDELINES below, I want you to 'fill out' the *physical* description of the character. Rely on my pre-written details, and use the GUIDELINES to write the rest. The description must address all of the GUIDELINES, but may integrate them fluidly rather than sequentially.
+Hey claude, I'm giving you a setting overview for my Whyneland story setting (@Markdown\World.md). Along with that, I have some CURRENT DETAILS about a character which influence his physical description. Using that information, as well as the GUIDELINES below, I want you to 'fill out' the *physical* description of the character. Rely on my pre-written details, and use the GUIDELINES to write the rest. The description must address all of the GUIDELINES, but may integrate them fluidly rather than sequentially.
 
 ### CURRENT DETAILS:
-- The symbolic animal should be a `Python`
+- The symbolic animal should be a `Water Strider Bug`
 - The character should me male
-- He should be a `Warrior`
-- He should be tall, fairly strong, but a lean, taut kind of muscle
-- His theme is basically "Noble Serpent": loyal to a cause/person, but willing to use deception or underhanded tactics to serve
+- He should be a `Ferryman/gondoleer`
 
 ### GUIDELINES:
 - [symbolic_animal] - influences exactly three to four elements: gait, one facial feature, one equipment piece, and optionally one additional detail (posture, hands, voice, etc.)
@@ -359,7 +356,7 @@ Hey claude, I'm giving you a setting overview for my Whyneland story setting. Al
 - ASSYMETRY: Include one physical asymmetry, old injury, and/or uneven equipment wear pattern
 - METAPHOR: Use one or two 'as if' or 'like' constructions to anchor abstract qualities in physical causes or animal comparisons
 - **DO NOT SPECIFY**: anything that cannot be inferred by the senses (not 'a warrior' or 'an evil man')
-**The Final Description should be between 250 and 500 words**
+**The Final Description MUST BE between 150 and 250 words**
 
 ## Character-Story Prompt
 
@@ -447,3 +444,8 @@ Hey claude, Analyze [AUTHOR/STYLE] and complete the attached Style-Guide markdow
   Use it as PRIMARY EVIDENCE for your analysis.
   Ground every technique you identify in specific examples from this text. 
   Do not summarize or continue this text; analyze it.
+
+## Paragraph Generation Prompt
+
+Hey claude, take a look at @[[Working-Notes]] . This is the only context you have for a fiction story. I want you to write just paragraph[TODO] into a full piece of third person, past-tense prose. You must pick one of the paragraph templates from @[[Templates]] , and write your paragraph to the form of that template. Pick the most fitting template.
+Focus particularly on writing with less-used or uncommon nouns, verbs, and adjectives.
