@@ -51,6 +51,64 @@
         "Single sensory detail sufficient to halt the scene"
       ],
       "respecification-seed": "A standoff reaches its breaking point and is frozen by unexpected intervention."
+    },
+    {
+      "word-count": "150-200",
+      "type": "Action",
+      "tension-arc": "Escalate",
+      "structure": "Four sentences building momentum: first establishes pursuit with precise measurement, second captures frantic physical scrambling, third pivots to psychological focus, fourth delivers staccato pair of negations before trailing into atmospheric close.",
+      "rhetorical-dna": [
+        "Numerical precision amid chaos grounds the fantastic",
+        "Limbs described as mechanical/puppet-like",
+        "Abrupt tonal shift from physical urgency to contemplative aside about perception",
+        "Closing sentence fragments punctuate longer unwinding clause",
+        "Formal, theatrical register - characters as performers unaware of stage mechanics"
+      ],
+      "respecification-seed": "A pursued figure enters hostile territory, gaining slight advantage through frantic movement while both parties remain blind to environmental changes around them."
+    },
+    {
+      "word-count": "50-100",
+      "type": "Action",
+      "tension-arc": "Maintain",
+      "structure": "Three sentences of functional combat description: first establishes readiness, second tracks opponent's methodical advance, third shows preparation. Deliberately workmanlike - a gathering pause.",
+      "rhetorical-dna": [
+        "Opponent reduced to dehumanizing descriptor",
+        "Repetitive physical actions create slow-motion effect",
+        "Eyes emphasized as primary instruments of engagement",
+        "Technical vocabulary of combat preparation without flourish",
+        "Tension held through stillness rather than motion"
+      ],
+      "respecification-seed": "Two combatants face each other across a cluttered space, one methodically clearing obstacles while maintaining visual lock on the other."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Action",
+      "tension-arc": "Escalate",
+      "structure": "Two long sentences tracking decision-making: first follows physical movement through hesitation to resolution, second explicates the internal shift with sardonic commentary.",
+      "rhetorical-dna": [
+        "Movement tracked through conditional clauses showing hesitation then resolution",
+        "Internal logic made external - we see the decision form",
+        "Formal diction applied to brutal intent",
+        "Authorial voice intrudes with judgment",
+        "Ceremony and ritual dignify violence"
+      ],
+      "respecification-seed": "A combatant abandons cautious preparation, committing fully to engagement with a shift in bearing that dignifies the violence to come."
+    },
+    {
+      "word-count": "250+",
+      "type": "Action",
+      "tension-arc": "Escalate",
+      "structure": "Extended sequence building through multiple feints: initial positioning, tactical maneuvering, psychological insight via parenthetical asides, explosive climax in staccato fragments, then aftermath in single devastating image. A complete combat arc compressed.",
+      "rhetorical-dna": [
+        "Constant physical repositioning tracked with geometric precision",
+        "Environment weaponized through perception - terrain becomes ally",
+        "Grotesque characterization embedded in action",
+        "Parenthetical asides create ironic distance",
+        "Cosmic intrusion at violence's peak",
+        "Negation pairs emphasize deliberation",
+        "Final image inverts expectation - environment strikes the blow, not the weapon"
+      ],
+      "respecification-seed": "A tactical engagement where one combatant feints and maneuvers to lure the other into position for an environmental trap, climaxing in the terrain itself delivering the decisive strike."
     }
   ],
   "scene-description-paragraphs": [
@@ -271,7 +329,7 @@
       "word-count": "250+",
       "type": "Exposition",
       "tension-arc": "Escalate",
-      "structure": "Extended catalogue of terrors, each episode punctuated by the same refrain, building through escalating wonders to a final vision of sublime beauty.",
+      "structure": "Ten sentences. Extended catalogue of terrors, each episode punctuated by the same refrain, building through escalating wonders to a final vision of sublime beauty.",
       "rhetorical-dna": [
         "Anaphoric refrain creates drumbeat rhythm across escalating dangers",
         "Each episode more cosmic than the last: beasts, cataclysm, supernatural invasion, haunted wilderness",
@@ -284,7 +342,7 @@
       "word-count": "150-200",
       "type": "Exposition",
       "tension-arc": "Maintain",
-      "structure": "Three movements: acknowledges enemy strength through past defeats, pivots to actor's unique advantage, ends with ominous caveat. Balanced clauses weigh loss against hope.",
+      "structure": "Eight sentences in three movements: acknowledges enemy strength through past defeats, pivots to actor's unique advantage, ends with ominous caveat. Balanced clauses weigh loss against hope.",
       "rhetorical-dna": [
         "Grudging admission of enemy prowess maintains tension through honesty",
         "Historical examples establish pattern of defeat despite physical supremacy",
@@ -298,7 +356,7 @@
       "word-count": "200-250",
       "type": "Exposition",
       "tension-arc": "Escalate",
-      "structure": "Opens with portentous identification of artifact, recounts predecessor's doom in elaborate detail, then pivots to present intention and request. Ends with a challenge.",
+      "structure": "Seven sentences that open with portentous identification of artifact, recounts predecessor's doom in elaborate detail, then pivots to present intention and request. Ends with a challenge.",
       "rhetorical-dna": [
         "Nested doom-narrative creates weight of history",
         "Accumulative 'either...or' structure multiplies possible failures",
@@ -325,7 +383,7 @@
       "word-count": "250+",
       "type": "Exposition",
       "tension-arc": "Escalate",
-      "structure": "Opens with night's safety, blooms into elaborate dawn imagery, then shifts to grueling traverse. Accumulative hardships build through the day to exhausted arrival.",
+      "structure": "Eleven sentences; opens with night's safety, blooms into elaborate dawn imagery, then shifts to grueling traverse. Accumulative hardships build through the day to exhausted arrival.",
       "rhetorical-dna": [
         "Lyrical nature imagery gives way to harsh terrain catalog",
         "Comparative intensification builds severity",
