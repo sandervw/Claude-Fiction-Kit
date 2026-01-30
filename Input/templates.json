@@ -2,45 +2,44 @@
   "character-description-paragraphs": [
     {
       "word-count": "150-200",
-      "type": "Action",
+      "type": "Reflection",
       "tension-arc": "Escalate",
-      "structure": "Four sentences building momentum: first establishes pursuit with precise measurement, second captures frantic physical scrambling, third pivots to psychological focus, fourth delivers staccato pair of negations before trailing into atmospheric close.",
+      "structure": "Opens with aphoristic statement, then develops through direct address and extended climbing metaphor. Builds through hypotheticals to grim conclusion.",
       "rhetorical-dna": [
-        "Numerical precision amid chaos grounds the fantastic",
-        "Limbs described as mechanical/puppet-like",
-        "Abrupt tonal shift from physical urgency to contemplative aside about perception",
-        "Closing sentence fragments punctuate longer unwinding clause",
-        "Formal, theatrical register - characters as performers unaware of stage mechanics"
+        "Maxim as thesis",
+        "Direct address creating intimate tutorial tone",
+        "Life-as-X metaphor sustained through multiple scenarios",
+        "Rhetorical questions driving argument forward",
+        "Dark humor in final image (Example: corpse vs. successful climber)"
       ],
-      "respecification-seed": "A pursued figure enters hostile territory, gaining slight advantage through frantic movement while both parties remain blind to environmental changes around them."
+      "respecification-seed": "A character proposes that indirect paths succeed where direct ones lead to ruin or death."
     },
     {
       "word-count": "50-100",
-      "type": "Action",
+      "type": "Reflection",
       "tension-arc": "Maintain",
-      "structure": "Three sentences of functional combat description: first establishes readiness, second tracks opponent's methodical advance, third shows preparation. Deliberately workmanlike - a gathering pause.",
+      "structure": "Formal address establishing debt, pivoting to offer of counsel. Single building sentence leading to promise of singular solution.",
       "rhetorical-dna": [
-        "Opponent reduced to dehumanizing descriptor",
-        "Repetitive physical actions create slow-motion effect",
-        "Eyes emphasized as primary instruments of engagement",
-        "Technical vocabulary of combat preparation without flourish",
-        "Tension held through stillness rather than motion"
+        "Courtly formula opening",
+        "Parallel construction in middle",
+        "Tease structure: many options considered, one chosen",
+        "Formal register throughout, deferential but confident"
       ],
-      "respecification-seed": "Two combatants face each other across a cluttered space, one methodically clearing obstacles while maintaining visual lock on the other."
+      "respecification-seed": "An character makes a pledge and promises a single best choice after much deliberation."
     },
     {
       "word-count": "100-150",
-      "type": "Action",
+      "type": "Reflection",
       "tension-arc": "Escalate",
-      "structure": "Two long sentences tracking decision-making: first follows physical movement through hesitation to resolution, second explicates the internal shift with sardonic commentary.",
+      "structure": "Opens with chiding observation, proceeds through dismissal of obvious strengths, builds to revelation of hidden greater power. Three beats: critique, enumeration, climactic mystery.",
       "rhetorical-dna": [
-        "Movement tracked through conditional clauses showing hesitation then resolution",
-        "Internal logic made external - we see the decision form",
-        "Formal diction applied to brutal intent",
-        "Authorial voice intrudes with judgment",
-        "Ceremony and ritual dignify violence"
+        "Proverbial wisdom as framing device",
+        "Deliberate undercutting of military assets to elevate something intangible",
+        "Comparative structure building to superlative",
+        "Suspense through withholding: the greater thing unnamed",
+        "Direct address maintaining intimate advisory tone"
       ],
-      "respecification-seed": "A combatant abandons cautious preparation, committing fully to engagement with a shift in bearing that dignifies the violence to come."
+      "respecification-seed": "A character warns against relying on obvious strength, hinting at a hidden greater asset."
     }
   ]
 }

@@ -1,0 +1,7 @@
+**Template Used: #1 (Reflection, Escalate, 150-200 words)**
+
+**Application:** Opens with aphoristic statement about villainy's relative nature, develops through rhetorical questions examining the ferryman's death from multiple perspectives, sustains an extended metaphor of Maerbrang as serpent/adder throughout, builds through hypotheticals about past killings to the grim conclusion of willing servitude as Lord Guss's "tame adder."
+
+---
+
+Villainy, Maerbrang mused as he drove the dripping pole into the murk, possesses no fixed habitation—it roosts only where particular eyes bid it nest. He thrust again, feeling the barge shudder forward through the vaporous stillness. Consider: would those wayfarers whom the bargeman had ferried toward their doom name this slaying wicked? Would the bones that moldered in whatever oubliette Thessamander Kurz maintained for such unfortunates weep for their jailer's gutting? Nay—to them, Maerbrang would stand as liberator, as rectifier of trespasses long unanswered. And thus it ran with all his killings. Wode the shaman, silenced mid-cackle. Others, numberless others, their faces grown gauzy in recollection. Each death wore the garb of atrocity only when beheld through the bereaved eye, the partisan eye. He had always apprehended this verity, even as a whelp—that morality was merely vantage, merely the hillside from which one squinted at the deed. And if such coldness made him ophidian, then let him be the tame adder coiled at his lord Guss's heel, sinking fangs into whatever hand dared brandish iron against his master.

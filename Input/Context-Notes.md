@@ -16,17 +16,6 @@
 
 ---
 
-## Paragraph 15 - ACTION:
-- *Maerbrang kills the bargeman and steals his ferry when the ruse fails.*
-- Maerbrang strikes first; his spear 'leaps into his hand' from near his seat on the barge; he stabs forward
-- The bargeman dodges - movesments seem slow, yet somehow turning the natural rocking of the boat to his advantage, as he sways just shy of being hit; his icnredibly narrow body helps
-- Bargeman's face remains placid the whole time, as the pulls pole from water and strikes Maerbrang across the jaw - surprisingly fast
-- Maerbrang's eyes turn hostile and a sharp hiss jump from his teeth
-- General fighting; Maerbrang gets pole from bargeman; bargeman punches back with his thin limbs that are surprisingly painful
-- Finally Maerbrang turns really vicious; gets in close, draws a knife; shanks the bargeman in the guts over and over (like some kind of prison-murder scene)
-- Before the bargeman can hit the deck (very dead by then) Maerbrang grabs him, raises him above his head by collar and groin, and tosses him into the still lake with a disturbing splash
-
----
 ## Paragraph 16 - REFLECTION:
 - *While poling the barge forward, Maerbrang reflects on the nature of loyalty.*
 - He considers that the man was faithful to the enemy warlord Thessamander Kurz, just as he himself is faithful to Lord Guss.
@@ -36,3 +25,11 @@
 	- Always, he reflects, has he felt thus - and if he is a serpent, then let him be the tame adder, who digs its fangs into the hands of those that would swing knives toward his lord Guss.
 
 ---
+## Paragraph 17 - EXPOSITION:
+- *Maerbrang gets the barge near to shore, stop short, looks it over once, then scuttles it (how?) in a fit of temper*
+- As the fog grows darker with coming dusk, Maerbrang finally sees far shore of the lake
+- The Carsobrine bog has given way to a hilly, treeless, rocky headland; wind rubbing the landscape rough
+- Maebrang poles the heavy driftwood barge up to a score of meters from the shore
+- He looks down, sees the bargeman's blood against the pale driftwood deck; describe how the old branches of driftwood have been carefully laced together, "mortared" (is that the right word?) with bog tar and old cloth
+- He takes the solid (very hard wood that grew in bronze age celctic/gaelic region?) pole, and smashes down through the laced branches; they crackle and snap apart, the ship begins to fill wit water
+- He throws himself over the deck as the craft sinks beneath the water, and swims to shore

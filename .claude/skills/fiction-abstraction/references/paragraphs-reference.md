@@ -52,6 +52,7 @@ Must be one of:
 
 **Structure** (1-3 sentences, 5-30 words)
 The rhetorical skeleton: sentence count, length variation, what move the paragraph makes.
+- ALWAYS INCLUDE THE SENTENCE COUNT
 
 **Rhetorical DNA** (3-5 bullets)
 The specific devices, rhythms, and tonal qualities that give the paragraph its voice.
