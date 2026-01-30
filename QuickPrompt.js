@@ -5,7 +5,7 @@ const client = new Anthropic();
 
 const contextNotes = readFileSync("./Input/Context-Notes.md", "utf-8");
 const templates = readFileSync("./Input/Templates.json", "utf-8");
-const paragraphNumber = 16;
+const paragraphNumber = 19;
 
 
 // Use 'claude-sonnet-4-5-20250929' for speed/cost balance

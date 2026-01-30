@@ -8,6 +8,7 @@
 5. Loses himself in a bog; emerges at a fog-choked river crossing where a half-Forgotten ferryman still runs his route by route
 6. Claims a dead man's name to secure passage
 7. Kills the ferryman and steals his ferry when the ruse fails; the ferryman taunts Maerbrang with the men he's killed (the shaman, Wode) before turning hostile
+8. Scuttles the ferry in a fit of temper, before crossing a harsh landscape and ...
 ...
 
 # In-Progress Paragraphs
@@ -16,20 +17,21 @@
 
 ---
 
-## Paragraph 16 - REFLECTION:
-- *While poling the barge forward, Maerbrang reflects on the nature of loyalty.*
-- He considers that the man was faithful to the enemy warlord Thessamander Kurz, just as he himself is faithful to Lord Guss.
-- He rationalizes that a lie - or a murder - is only 'villainous' as it is seen through a particular eye.
-	- For example: would any man this bargeman has turned into a foe consider Maerbrang a villain for this murder? Not so, but this death is only evil for those specific ones who think it so in the case of this specific man.
-	- Moreover, it is the same, says Maerbrang to himself, with all those he has killed. Wode the shaman. Others.
-	- Always, he reflects, has he felt thus - and if he is a serpent, then let him be the tame adder, who digs its fangs into the hands of those that would swing knives toward his lord Guss.
+## Paragraph 18 - DESCRIPTION (Scene):
+- *Describe the land barren, rocky, windswept hillscape beyond the lake shore*
+- Wind flying like a sharp razor down a smooth cheeck; the rocks worn flat and flush with bent long grass
+- At first no sound of bird or beast above the sharp wind; then from some far, far distance, the cry of an eagle, carrying some soul from the Ochre world into the body of an infant on the Red World (earth)
+- Maerbrang can see for many miles each time he reaches the top of one of the hills, but the moor is desolate for just so many miles as his eye can cross
 
 ---
-## Paragraph 17 - EXPOSITION:
-- *Maerbrang gets the barge near to shore, stop short, looks it over once, then scuttles it (how?) in a fit of temper*
-- As the fog grows darker with coming dusk, Maerbrang finally sees far shore of the lake
-- The Carsobrine bog has given way to a hilly, treeless, rocky headland; wind rubbing the landscape rough
-- Maebrang poles the heavy driftwood barge up to a score of meters from the shore
-- He looks down, sees the bargeman's blood against the pale driftwood deck; describe how the old branches of driftwood have been carefully laced together, "mortared" (is that the right word?) with bog tar and old cloth
-- He takes the solid (very hard wood that grew in bronze age celctic/gaelic region?) pole, and smashes down through the laced branches; they crackle and snap apart, the ship begins to fill wit water
-- He throws himself over the deck as the craft sinks beneath the water, and swims to shore
+
+## Paragraph 19 - ACTION:
+- *Maerbrang searches for shelter from the cold that he feels as a result of being wet, and stumbles into the henj*
+- He feels the bite through his wet clothes and hide, and suddenly regrets jumping into the water
+- At first he tries to gather up some of the grass and small shrubs and build a fire in the shelter of one of the larger rocks; the wind is too strong; his flint can't get a light, and his fingers are going numb
+- Maerbrang stops for a moment with ear cocked, as if listening for something on the wind
+- He gives up on the fire, and stumbles on, rubbing his arms for warmth, but feeling the chill creeping in
+- He shouts, and his voice is carried off before it can echo
+- Maerbrang huddles for a moment, eyes turned down in a thousand meter stare, trying to devise some solution
+- When he looks back up, he notices a larger cluster of rocks ahead, at the top of one hill
+
