@@ -1,0 +1,44 @@
+{
+  "paragraphs": [
+    {
+      "word-count": "50-100",
+      "type": "Action",
+      "tension-arc": "Release",
+      "structure": "Four sentences. Opens with a tableau of the fallen figure, pivots to the rescuer's prior act, returns to the grim image, then closes with tending and vigilance.",
+      "rhetorical-dna": [
+        "Inverted syntax gives archaic, saga-like cadence",
+        "Passive, death-still figure contrasted with the active hands of the lesser companion",
+        "Visceral body-horror detail bracketed by gentleness",
+        "Final clause shifts from urgency to patient watchfulness, letting tension drain"
+      ],
+      "respecification-seed": "A lesser companion tends a fallen warrior after a beast-slaying on a precipice."
+    },
+    {
+      "word-count": "250+",
+      "type": "Action",
+      "tension-arc": "Release",
+      "structure": "Seven sentences building from prayer through divine commentary, into a long procedural descent sequence, finishing with a quiet time-stamp. Opens short, swells through extended compound sentences, then contracts to a flat declarative close.",
+      "rhetorical-dna": [
+        "Narrator's ironic theological aside layered over genuine piety",
+        "Extended participial chains mimic the physical labor of rope-work and climbing",
+        "Repeated concessive constructions sustain a tone of hard-won perseverance",
+        "Archaic diction and syntax throughout, lending ceremonial weight to physical struggle",
+        "Final flat time-marker punctures the elevated register, grounding the scene"
+      ],
+      "respecification-seed": "A humble figure performs a perilous rescue descent, aided by desperate prayer and raw skill."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Exposition",
+      "tension-arc": "Maintain",
+      "structure": "Three sentences. A transitional time-skip opens into geographic traversal, each sentence longer than the last, accumulating place-names and compass directions in a steady march of terrain.",
+      "rhetorical-dna": [
+        "Enumerative geography builds a mental map through accumulation rather than description",
+        "Steady, processional rhythm with no dramatic peaks; functions as a bridge",
+        "Archaic connective tissue maintains register without drawing attention",
+        "Final purpose clause quietly reintroduces intention after pure movement"
+      ],
+      "respecification-seed": "A party crosses harsh terrain over days, scouting a route toward their next ascent."
+    }
+  ]
+}

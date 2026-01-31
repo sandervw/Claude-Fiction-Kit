@@ -109,6 +109,75 @@
         "Final image inverts expectation - environment strikes the blow, not the weapon"
       ],
       "respecification-seed": "A tactical engagement where one combatant feints and maneuvers to lure the other into position for an environmental trap, climaxing in the terrain itself delivering the decisive strike."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Action",
+      "tension-arc": "Escalate",
+      "structure": "Five sentences building from physical action to full-body transformation. Opens with brief movement, pauses, then cascades through facial and bodily details in lengthening clauses, culminating in the drawing of a weapon.",
+      "rhetorical-dna": [
+        "Short declarative opener yields to increasingly ornate simile chains stacking natural and martial imagery",
+        "Body-part catalogue (jaw, teeth, nostrils, eyes, whole body) each given its own image, tightening focus then releasing into action",
+        "Formal, archaic register with alliterative pairings",
+        "Weapon personified through sound as it is drawn",
+        "Semicolons yoke parallel sensory impressions into a single mounting sentence"
+      ],
+      "respecification-seed": "A warrior perceives an approaching threat and steels himself to fight."
+    },
+    {
+      "word-count": "250+",
+      "type": "Action",
+      "tension-arc": "Escalate",
+      "structure": "Six sentences. Terse one-line opener, then a long approach-and-description sentence, an extended anatomical catalogue, a chaotic multi-clause clash, and a catastrophic fall. Rhythm accelerates from slow descriptive dread into rapid sequential violence.",
+      "rhetorical-dna": [
+        "Clipped opening sentence breaks the preceding paragraph's ornament and resets tempo",
+        "Anatomy rendered through compounding similes, each detail layered without pause, denying the reader breath",
+        "Creature/foe described through composite analogies rather than a single fixed image",
+        "Violence delivered in rapid semicolon-joined independent clauses: strike, wound, charge, fall",
+        "The catastrophic fall elongated by spatial markers stretching the sentence to match the distance"
+      ],
+      "respecification-seed": "A monster/foe closes on an individual or party in a confined space, scattering them."
+    },
+    {
+      "word-count": "250+",
+      "type": "Action",
+      "tension-arc": "Escalate then Release",
+      "structure": "Twelve-plus sentences of relentless compounding violence. Opens with counter-attack, ratchets through escalating wounds and broken weapons, climaxes with bare-handed killing, then slowly unwinds through the creature/foe's death spasms and final rest. Polysyndeton piles action upon action without relief until the final still image.",
+      "rhetorical-dna": [
+        "Polysyndetic chains create breathless momentum, conjunctions refusing to let the reader pause",
+        "Sensory revulsion as combat texture: stench, blood, viscera rendered with the same formal diction as heroic action",
+        "Weapon loss as structural pivot, forcing shift from armed combat to visceral grappling",
+        "Similes shift register as the fight degrades: martial comparisons give way to domestic and natural ones (Example: heart sliced like a lemon, beast curled like a caterpillar)",
+        "Final sentences slow and flatten into a still-life after sustained frenzy, tension bleeding out through progressively shorter closing clauses"
+      ],
+      "respecification-seed": "A lone fighter, weapon broken, kills a monster/foe by hand and endures its collapse."
+    },
+    {
+      "word-count": "50-100",
+      "type": "Action",
+      "tension-arc": "Release",
+      "structure": "Four sentences. Opens with a tableau of the fallen figure, pivots to the rescuer's prior act, returns to the grim image, then closes with tending and vigilance.",
+      "rhetorical-dna": [
+        "Inverted syntax gives archaic, saga-like cadence",
+        "Passive, death-still figure contrasted with the active hands of the lesser companion",
+        "Visceral body-horror detail bracketed by gentleness",
+        "Final clause shifts from urgency to patient watchfulness, letting tension drain"
+      ],
+      "respecification-seed": "A lesser companion tends a fallen warrior after a beast/foe-slaying."
+    },
+    {
+      "word-count": "250+",
+      "type": "Action",
+      "tension-arc": "Release",
+      "structure": "Seven sentences building from prayer through divine commentary, into a long procedural descent sequence, finishing with a quiet time-stamp. Opens short, swells through extended compound sentences, then contracts to a flat declarative close.",
+      "rhetorical-dna": [
+        "Narrator's ironic theological aside layered over genuine piety",
+        "Extended participial chains mimic physical labor",
+        "Repeated concessive constructions sustain a tone of hard-won perseverance",
+        "Archaic diction and syntax throughout, lending ceremonial weight to physical struggle",
+        "Final flat time-marker punctures the elevated register, grounding the scene"
+      ],
+      "respecification-seed": "A humble figure performs a perilous traversal of deadly terrain, aided by desperate prayer and raw skill."
     }
   ],
   "scene-description-paragraphs": [

@@ -1,46 +1,59 @@
 {
   "templates": [
     {
-      "word-count": "150-200",
-      "type": "Exposition",
+      "word-count": "250+",
+      "type": "Action",
       "tension-arc": "Escalate",
-      "structure": "Five sentences. Opens with a compressed time-lapse journey, expands through increasingly detailed scenery, then snaps to an emotional payoff in the final short sentence.",
+      "structure": "Six sentences. Terse one-line opener, then a long approach-and-description sentence, an extended anatomical catalogue, a chaotic multi-clause clash, and a catastrophic fall. Rhythm accelerates from slow descriptive dread into rapid sequential violence.",
       "rhetorical-dna": [
-        "Time-compression opener collapses hours/days/weeks into a single clause, then gradually slows to real-time arrival",
-        "Landscape/architecture accumulation through triadic and list structures",
-        "Simile drawn from the natural/animal world grounding the epic in bodily familiarity",
-        "Register is formal-archaic, dignified, with emotional restraint until the final sentence breaks into open feeling",
-        "Final sentence pivots from place to person, rewarding the long scenic build-up with sudden human recognition"
+        "Clipped opening sentence breaks the preceding paragraph's ornament and resets tempo",
+        "Anatomy rendered through compounding similes, each detail layered without pause, denying the reader breath",
+        "Creature/foe described through composite analogies rather than a single fixed image",
+        "Violence delivered in rapid semicolon-joined independent clauses: strike, wound, charge, fall",
+        "The catastrophic fall elongated by spatial markers stretching the sentence to match the distance"
       ],
-      "respecification-seed": "A long journey ends with the unexpected discovery of an ally."
-    },
-    {
-      "word-count": "150-200",
-      "type": "Description",
-      "tension-arc": "Maintain",
-      "structure": "Five sentences. Opens with a short physical anchor, expands into a long sensory panorama across three layered middle sentences, then closes with denial and concealment.",
-      "rhetorical-dna": [
-        "Sharp physical anchor followed by expansive dreamlike survey",
-        "Systematic depth layering: immediate edge, middle distance, far distance, hidden ultimate distance",
-        "Scene personified and feminized",
-        "Contrast between sensory abundance and final withholding",
-        "Register is elevated, wondering, deliberately gorgeous; the paragraph breathes outward then closes like a curtain"
-      ],
-      "respecification-seed": "Travelers gaze from a harsh threshold into a lush hidden scene whose ultimate secrets remain veiled."
+      "respecification-seed": "A monster/foe closes on an individual or party in a confined space, scattering them."
     },
     {
       "word-count": "250+",
-      "type": "Description",
-      "tension-arc": "Escalate",
-      "structure": "Seven sentences. Opens with a one-line metaphorical verdict, follows with a blunt short sentence, then unfurls four increasingly elaborate sentences of setting-inventory, and closes with a rhythmic catalog of supernatural disturbances.",
+      "type": "Action",
+      "tension-arc": "Escalate then Release",
+      "structure": "Twelve-plus sentences of relentless compounding violence. Opens with counter-attack, ratchets through escalating wounds and broken weapons, climaxes with bare-handed killing, then slowly unwinds through the creature/foe's death spasms and final rest. Polysyndeton piles action upon action without relief until the final still image.",
       "rhetorical-dna": [
-        "Opening metaphor frames the entire space as a death-chamber, coloring everything that follows with funereal beauty",
-        "Scene described through inversion of former splendor: each detail names what the thing once was before stating its decay",
-        "Extended simile yokes physical decay to aristocratic death",
-        "Shift from visual ruin to temporal endurance normalizes the uncanny before escalating into supernatural catalog",
-        "Final sentence uses asyndeton and rhythmic piling to accumulate dread without resolution"
+        "Polysyndetic chains create breathless momentum, conjunctions refusing to let the reader pause",
+        "Sensory revulsion as combat texture: stench, blood, viscera rendered with the same formal diction as heroic action",
+        "Weapon loss as structural pivot, forcing shift from armed combat to visceral grappling",
+        "Similes shift register as the fight degrades: martial comparisons give way to domestic and natural ones (Example: heart sliced like a lemon, beast curled like a caterpillar)",
+        "Final sentences slow and flatten into a still-life after sustained frenzy, tension bleeding out through progressively shorter closing clauses"
       ],
-      "respecification-seed": "A company shelters in a once-beautiful setting now haunted by decay and restless supernatural presences."
+      "respecification-seed": "A lone fighter, weapon broken, kills a monster/foe by hand and endures its collapse."
+    },
+    {
+      "word-count": "50-100",
+      "type": "Action",
+      "tension-arc": "Release",
+      "structure": "Four sentences. Opens with a tableau of the fallen figure, pivots to the rescuer's prior act, returns to the grim image, then closes with tending and vigilance.",
+      "rhetorical-dna": [
+        "Inverted syntax gives archaic, saga-like cadence",
+        "Passive, death-still figure contrasted with the active hands of the lesser companion",
+        "Visceral body-horror detail bracketed by gentleness",
+        "Final clause shifts from urgency to patient watchfulness, letting tension drain"
+      ],
+      "respecification-seed": "A lesser companion tends a fallen warrior after a beast/foe-slaying."
+    },
+    {
+      "word-count": "250+",
+      "type": "Action",
+      "tension-arc": "Release",
+      "structure": "Seven sentences building from prayer through divine commentary, into a long procedural descent sequence, finishing with a quiet time-stamp. Opens short, swells through extended compound sentences, then contracts to a flat declarative close.",
+      "rhetorical-dna": [
+        "Narrator's ironic theological aside layered over genuine piety",
+        "Extended participial chains mimic physical labor",
+        "Repeated concessive constructions sustain a tone of hard-won perseverance",
+        "Archaic diction and syntax throughout, lending ceremonial weight to physical struggle",
+        "Final flat time-marker punctures the elevated register, grounding the scene"
+      ],
+      "respecification-seed": "A humble figure performs a perilous traversal of deadly terrain, aided by desperate prayer and raw skill."
     }
   ]
 }
