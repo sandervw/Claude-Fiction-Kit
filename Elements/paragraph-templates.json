@@ -306,6 +306,61 @@
         "Final sentence uses asyndeton and rhythmic piling to accumulate dread without resolution"
       ],
       "respecification-seed": "A company shelters in a once-beautiful setting now haunted by decay and restless supernatural presences."
+    },
+    {
+      "word-count": "250+",
+      "type": "Description",
+      "tension-arc": "Escalate",
+      "structure": "Nine sentences building from flat stark view to transcendent reveal. Opens with short declarative scene-setting, elongates dramatically as the vista unfolds, then closes with two sharp images.",
+      "rhetorical-dna": [
+        "Atmospheric suppression before revelation - gray/muted conditions described first so the opening in the conditions lands with force",
+        "Sentence length mirrors emotional intensity: short factual openers give way to sprawling, breath-catching constructions at the moment of awe",
+        "Landscape/archictural elements granted spiritual vocabulary (e.g., 'deathless ones,' 'pavilioned') - terrain described as divine beings",
+        "Elemental cataloguing in triadic and quadratic lists, pairing classical elements to convey primordial scale",
+        "Final sentence delivers a single concentrated image that seals the vision with sudden brevity after long unwinding sentences"
+      ],
+      "respecification-seed": "A long-hidden view breaks through obscuring conditions to stagger an observer."
+    },
+    {
+      "word-count": "50-100",
+      "type": "Description",
+      "tension-arc": "Release",
+      "structure": "Three sentences. First tracks a gaze along a ridge in architectural language; second silences the tone; third resolves on a single peak described with intimate, tender imagery.",
+      "rhetorical-dna": [
+        "Motion-to-stillness arc: the eye travels, the tone drops, then description softens to reverence",
+        "Mountain architecture personified as divine figures descending (Example: 'dark gods going down from heaven')",
+        "Hard/masculine scenic terms pivot sharply into feminine softness in a tricolon of ascending delicacy",
+        "Silence used as a structural hinge between observation and wonder"
+      ],
+      "respecification-seed": "A character's gaze tracks along a grand feature and settles on one stunning focal point."
+    },
+    {
+      "word-count": "150-200",
+      "type": "Description",
+      "tension-arc": "Maintain",
+      "structure": "Five sentences. Opens at the observers' feet, sweeps outward across a layered scene, lingers on a dominant feature given regal personification, then reverses perspective to describe what looms behind.",
+      "rhetorical-dna": [
+        "Spatial stacking from near to far to near again, creating a 360-degree sweep anchored by the observers' position",
+        "Named features accumulate in list form, giving density and specificity that conveys overwhelming scale",
+        "Central feature personified as royalty surveying her domain, granting the scene authority and composure",
+        "Contrast between serene and severe elements holds tension between beauty and harshness without resolving either way",
+        "Closing sentence reverses the outward gaze, boxing the observers between grandeur ahead and bleak elevation behind"
+      ],
+      "respecification-seed": "Observers survey a layered scene where one feature dominates like a sovereign figure."
+    },
+    {
+      "word-count": "150-200",
+      "type": "Description",
+      "tension-arc": "Release",
+      "structure": "Six sentences. A brief transitional sentence covers travel, then the passage unfolds into a pastoral tableau, each sentence adding one soft detail, funneling toward rest.",
+      "rhetorical-dna": [
+        "Temporal compression handled in a single sentence to deliver the actor(s) quickly into the scene that matters",
+        "Scene described through comfort and intimacy rather than grandeur: e.g. turf as cushion, trees as nymphs, cave as shelter",
+        "Features personified with bodily grace (Example: trees with 'limbs gleaming,' 'reflections quivering'), giving the scene a watchful gentleness",
+        "Light treated as a fading warmth rather than a spectacle, reinforcing the settling mood",
+        "Spatial composition moves from wide to narrow funneling toward rest and enclosure"
+      ],
+      "respecification-seed": "Travelers descend from harsh terrain into a gentle, sheltered place suited for rest."
     }
   ],
   "character-description-paragraphs": [

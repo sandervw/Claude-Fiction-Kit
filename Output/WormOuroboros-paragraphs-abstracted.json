@@ -1,0 +1,88 @@
+{
+  "paragraphs": [
+    {
+      "word-count": "250+",
+      "type": "Description",
+      "tension-arc": "Release",
+      "structure": "Two long, lavishly extended sentences built on parallel 'not X but Y' contrasts, followed by two shorter sentences echoing the same contrastive pattern. Four sentences total.",
+      "rhetorical-dna": [
+        "Sustained parallel antithesis - each element of the old, artificial setting is paired against its wild, natural counterpart",
+        "Catalogue of sensory substitution - light, sound, surface, and canopy are each systematically replaced, building a complete world through negation and correction",
+        "Ceremonial, almost liturgical cadence - the 'not...but' repetition functions like a ritual invocation, dignifying the humble replacement",
+        "Named celestial bodies and flora serve as authenticating texture, grounding lush rhetoric in specificity",
+        "Register is elevated and unhurried, trusting the reader to stay inside long, branching syntax"
+      ],
+      "respecification-seed": "Characters find unexpected grandeur in a humbler setting that echoes a former splendor."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Description",
+      "tension-arc": "Escalate",
+      "structure": "Five sentences. Opens with a brief temporal-geographic summary, widens into panoramic sweep, centers on a monstrous simile, then closes with two short sensory sentences.",
+      "rhetorical-dna": [
+        "Landscape personified and given monstrous agency - a natural feature described as a creature thrusting forward",
+        "Vertical gaze pattern - the eye is pulled upward repeatedly before being brought back to ground-level flora",
+        "Alliterative clusters reinforce stony texture (Example: 'lean limestone,' 'great gray')",
+        "Compressed sensory finish - temperature, light, and growth packed into a single closing sentence",
+        "Register balances heroic grandeur with naturalist precision"
+      ],
+      "respecification-seed": "A party reaches a dramatic natural arena dominated by an ancient, almost living landmark."
+    },
+    {
+      "word-count": "100-150",
+      "type": "Description",
+      "tension-arc": "Escalate",
+      "structure": "Seven sentences. Opens with a summary of physical readiness, pivots to one concrete action, then five short declarative landscape sentences progressively widen the view to a towering final image.",
+      "rhetorical-dna": [
+        "Staccato declarative rhythm - after the opening compound sentence, each sentence is short, flat, and unadorned, mirroring the stark environment",
+        "Simile chain for the characters gives way to bare, simile-free landscape description, as if the terrain is too severe for ornament",
+        "Blood-red sunset against blue silence creates a single potent color contrast without elaboration",
+        "Progressive distance scaling - gaze moves from immediate camp to nearby snows to distant cliffs to far peaks, each sentence a wider lens",
+        "Final sentence withholds the named destination until the very end, granting it the weight of a closing revelation"
+      ],
+      "respecification-seed": "Hardened travelers enter a vast, cold expanse where distant peaks dominate the horizon."
+    },
+    {
+      "word-count": "150-200",
+      "type": "Action",
+      "tension-arc": "Escalate",
+      "structure": "Six sentences. Brief decision, then short tense danger sentence, expanding scenic sentences, closing with a long rush of beauty undercut by urgency.",
+      "rhetorical-dna": [
+        "Deliberation resolved in a single flat clause, then instant physical jeopardy - the calm before the knife-edge",
+        "Scale established through vertical measurement and hypothetical falling body (a stone or a man must fall clear)",
+        "Beauty deployed as threat: rapturous scenic language (heavenly fair) while the sentence simultaneously communicates mortal haste",
+        "Participial pileup at the close converts scenic description into desperate forward motion",
+        "Contrast between upward gaze (dazzling, white, blue) and downward consequence (dashed in pieces)"
+      ],
+      "respecification-seed": "A group commits to a dangerous path where splendor and lethality share the same terrain."
+    },
+    {
+      "word-count": "150-200",
+      "type": "Action",
+      "tension-arc": "Escalate",
+      "structure": "Six sentences. One-line sensory trigger, expanding chaos across three long sentences, two short closing sentences snapping tension with outcome.",
+      "rhetorical-dna": [
+        "Sudden rupture signaled by inverted syntax, jolting the reader out of any settled rhythm",
+        "Simile chain accelerates threat: organic beauty twisted into violence (mass opens like a flower, stones shriek like fiends)",
+        "Landscape personified under punishment, turning terrain into a suffering body (limbs of the mountain writhe as under a scourge)",
+        "Casualties reported in clipped, deflated inventory after long symphonic destruction",
+        "Sound design layers crack, shrieking, crash, and rolling echoes to fill the paragraph with acoustic chaos before silence falls"
+      ],
+      "respecification-seed": "A sudden environmental catastrophe batters a group mid-traverse, injuring one."
+    },
+    {
+      "word-count": "150-200",
+      "type": "Action",
+      "tension-arc": "Maintain",
+      "structure": "Seven sentences. Plain departure, blunt time-and-danger frame, clustered short declarative hazards, then one long winding sentence resolves the crossing.",
+      "rhetorical-dna": [
+        "Danger stated as arithmetic fact, treating lethality as sustained background condition rather than climax",
+        "Negation as structure: safety defined by what is absent (not roped, not a moment)",
+        "Hypothetical catastrophe embedded parenthetically, compressing disaster into a subordinate clause",
+        "Triadic rhythmic pulse (down and up and along, and down and up and up again) mimics the physical repetition of the route",
+        "Final clause delivers arrival through a dismissive adjective, undercutting relief with the ugliness of the escape route"
+      ],
+      "respecification-seed": "A group endures a prolonged, featureless stretch of sustained mortal danger to reach safety."
+    }
+  ]
+}

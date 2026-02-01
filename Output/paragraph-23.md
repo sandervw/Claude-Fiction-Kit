@@ -1,0 +1,10 @@
+## Template Used
+**Respecification Seed:** "A warrior perceives an approaching threat and steels himself to fight."
+
+**Application:** Maerbrang emerges into hostile territory and is spotted—the paragraph tracks his physical and psychological transformation from disoriented survivor to committed combatant as Kurz's men surround him. The structure moves from brief initial movement, through a body-catalogue of his readying response (face, hands, stance), to the drawing of his weapon, with the formal archaic register and alliterative pairings specified by the template.
+
+---
+
+## Paragraph 23
+
+Maerbrang clambered from the henj's maw into a clamour of industry—the clank of mattocks biting chalk, the grunts of men heaving wicker-loads of spoil—and for three heartbeats he stood unnoticed amid the murk, a revenant disgorged from the barrow's throat. A digger glanced up, tallow-faced beneath his leather coif; the man's mouth gaped, then shaped a warning that split the morning like a cleaver through gristle. *Guss-man*, the cry multiplied, passing lip to lip until it became a chant, a summoning. They converged from their earthworks, from their cookfires, from their piss-trenches at the ring's edge—Kurz's sworn men, clad in stained gambeson and piecemeal ring-mail, their faces bearing that particular hollowness of soldiers too long encamped in enemy soil. Maerbrang's jaw firmed, the muscles clenching like rope twisted upon a windlass; his nostrils flared wide as a winded stallion's, drawing the scent of their unwashed bodies, their oiled iron, their fear dressed as fury; his eyes narrowed to splinters of flint, each man catalogued, measured, found wanting. His whole frame underwent a settling, a sinking of weight into the hips, shoulders squaring as a plough-ox squares to the yoke—and when his hands found the spear's grip and levered it, the sharp tip cut the air high and hungry as a kite's hunting cry. There would be no quarter asked. He knew their lord's name had already begun its long forgetting beneath the hill. These men simply had not learned it yet.

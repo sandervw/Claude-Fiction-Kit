@@ -8,8 +8,11 @@
 5. Loses himself in a bog; emerges at a fog-choked river crossing where a half-Forgotten ferryman still runs his route by route
 6. Claims a dead man's name to secure passage
 7. Kills the ferryman and steals his ferry when the ruse fails; the ferryman taunts Maerbrang with the men he's killed (the shaman, Wode) before turning hostile
-8. Scuttles the ferry in a fit of temper, before crossing a harsh landscape and ...
-...
+8. Scuttles the ferry in a fit of temper, before stumbling down into a flooded stone-lined passage beneath an old henj
+9. Chuckles darkly to himself in the passage—and the henj echoes back with laughter not his own; Wode's laugh, fading slowly into silence
+10. Locates and shatters the name-stone anchoring an enemy warlord's memory to the earth, ending his unnatural persistence
+11. Fights in the final battle alongside warriors from the now-leaderless rival warband
+12. Helps the survivors raise a funeral kern for the four warband members who fell (End)
 
 # In-Progress Paragraphs
 
@@ -17,21 +20,20 @@
 
 ---
 
-## Paragraph 18 - DESCRIPTION (Scene):
-- *Describe the land barren, rocky, windswept hillscape beyond the lake shore*
-- Wind flying like a sharp razor down a smooth cheeck; the rocks worn flat and flush with bent long grass
-- At first no sound of bird or beast above the sharp wind; then from some far, far distance, the cry of an eagle, carrying some soul from the Ochre world into the body of an infant on the Red World (earth)
-- Maerbrang can see for many miles each time he reaches the top of one of the hills, but the moor is desolate for just so many miles as his eye can cross
+## Paragraph 28 - DESCRIPTION (Scene):
+- *Describe the overall carnage of the battle.*
+- Brief, abrupt exposition: battle did not last much longer (sarks don't expect heavy resistance); after two score had died, the rest turned and fled
+- 9 men remain (including Maerbrang), standing back-to-back by the wall, their weapons and clothes thick with gore
+- Pale, rag-clad bodies of the sarks massed around the ring - other dead ones scattered around the henj
+- Air is thick with smell of blood, bitter with the barren wind
+- Maerbrang's ears ring with the fading battle-fervor; the sound of his own heavy breathing cutting through gradually; he feels now the raw sting of sweat in his throat, as well as a small gash on his forearm
+- Maerbrang swallows, checks himself, and sees that he is not deeply scathed; most of the blood is that of foes
 
 ---
 
-## Paragraph 19 - ACTION:
-- *Maerbrang searches for shelter from the cold that he feels as a result of being wet, and stumbles into the henj*
-- He feels the bite through his wet clothes and hide, and suddenly regrets jumping into the water
-- At first he tries to gather up some of the grass and small shrubs and build a fire in the shelter of one of the larger rocks; the wind is too strong; his flint can't get a light, and his fingers are going numb
-- Maerbrang stops for a moment with ear cocked, as if listening for something on the wind
-- He gives up on the fire, and stumbles on, rubbing his arms for warmth, but feeling the chill creeping in
-- He shouts, and his voice is carried off before it can echo
-- Maerbrang huddles for a moment, eyes turned down in a thousand meter stare, trying to devise some solution
-- When he looks back up, he notices a larger cluster of rocks ahead, at the top of one hill
-
+## Paragraph 29 - EXPOSITION (Finale):
+- *Maerbrang and warriors decide not to fight each other, Maerbrang helps raise a funeral kern for the four dead men; they go their separate ways afterward*
+- With Thessamander Kurz gone, they decided they had no reason left for his slaying
+- Maerbrang's willingness to pick help inter the four dead men puts him better in their standing; they pile four cairns of stones reclaimed from the henj wall around the bodies
+- Maerbrang himself has no feeling of having come away un-hurt; for he had heard Wode's laughter, down in the passage under the henj, and thus feels near-certain that the goldfinch's prophecy will come true
+- Nevertheless, his duty is to his lord Guss; he learns something about the lay of the land from the lantern-jawed warrior of their group, then he and the others art ways; they to some other refuge, den, or lord to serve; or to their seperate ways; but as for Maerbrang, he turns his foot back to lord Guss
