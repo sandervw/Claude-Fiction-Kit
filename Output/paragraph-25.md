@@ -1,7 +1,0 @@
-**Template Used:** "A group falls one by one until a singular figure must act."
-
-**Application:** The cascading structure follows the sarks being cut down in sequence—first by javelin, then by pit-traps, then by Maerbrang's spear—each loss triggering the next defensive success. The rhythm builds through these falling bodies before the "domino-fall" halts with the sudden shift to Maerbrang's isolated position. The final sentence snaps to the new threat: scores more sarks appearing, tersely announcing the escalation without elaboration.
-
----
-
-Twelve spears held the henj-works—thirteen if Maerbrang counted his own arm among them—and the first wave of sarks met that bristling welcome with the witlessness of driven cattle. A clay sling-bullet took one through the eye-socket mid-scramble; another pitched forward into a stake-pit, and an axe crunched through his nape before he could thrash free. Maerbrang's own spear licked out crane-quick, skimming through gristle and neck-cord, and the sark he'd opened folded sideways, pawing at the ruin of his throat as he slithered off the wall. Seven, perhaps eight of the forgotten men lay twitching in the ditch-mud, their snarling gone to wet gurgles—but two more were already hauling themselves over the coping-stones toward him, and beyond them, beyond the embankment's lip, Maerbrang could see the crowding silhouettes of scores more, their heads cresting the earthwork like maggots boiling from a wound.
