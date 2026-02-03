@@ -1,6 +1,6 @@
 ---
 name: folklore-generator
-description: Generate folklore, cultural beliefs, rituals, and folk explanations for any observable material object or phenomenon. Use when asked to create folklore, develop cultural beliefs, invent rituals, or generate folk explanations for objects, phenomena, or concepts. Triggers include "generate folklore", "create a belief", or requests to develop cultural/mythological meaning for something.
+description: Generate folklore, (culture, rituals, beliefs) for observable material object or phenomenon. Use when asked to create folklore, develop cultural beliefs, invent rituals, or generate folk explanations for objects, phenomena, or concepts. Triggers include "generate folklore", "create a belief", or requests to develop cultural/mythological meaning for something.
 ---
 
 # Folklore Generator
@@ -9,7 +9,7 @@ Generate culturally-plausible folklore elements (beliefs, rituals, folk explanat
 
 ## Workflow
 
-Execute these steps in order:
+*DO NOT proceed to a later step until you have completed the preceding one.*
 
 ### Step 1: Load Taxonomy and Criteria
 

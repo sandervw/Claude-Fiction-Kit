@@ -1,6 +1,6 @@
 ---
 name: character-abstraction
-description: Abstract character elements (actions, quotes, descriptions) from specific fictional sources.. Use when asked to "abstract [elements]", make elements "more general" or "setting-agnostic", create "reusable" or "generic" templates. Triggers include "abstract [filename]", "make [character] generic", "strip [element] details".
+description: Abstract character elements (actions, quotes, descriptions) from specific fictional sources. Use when asked to "abstract [elements]", make elements "more general" or "setting-agnostic", create "reusable" or "generic" templates. Triggers include "abstract [filename]", "make [character] generic", "strip [element] details".
 ---
 
 # Character abstraction
