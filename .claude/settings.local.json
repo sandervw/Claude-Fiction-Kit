@@ -10,7 +10,9 @@
       "Skill(literary-revision)",
       "Skill(character-analysis)",
       "Skill(character-abstraction)",
-      "Skill(fiction-abstraction)"
+      "Skill(fiction-abstraction)",
+      "Skill(folklore-generator)",
+      "Read(~\\.claude\\skills\\**)"
     ],
     "deny": [],
     "ask": []

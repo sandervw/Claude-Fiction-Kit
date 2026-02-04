@@ -1,15 +1,21 @@
 import { readFileSync, writeFileSync } from "fs";
-import { selectTemplates } from "./javascript/templateSelector.js";
 import { llmPrompt } from "./javascript/llmPrompt.js";
+import { markdownToBlobs } from "./javascript/markdownToBlobs.js";
 
-const contextNotes = readFileSync("./Input/Context-Notes.md", "utf-8");
-const paragraphNumber = 29;
-// => array of 3 random action paragraph template objects
-const templates = JSON.stringify(selectTemplates("exposition-paragraphs", 3));
+const inputStory = readFileSync("./Input/temp.md", "utf-8");
+const revisionGuide = readFileSync("./Input/Revision-Guide.md", "utf-8");
 
-const prompt = `Hey claude, take a look at ${contextNotes}. This is the only context you have for a fiction story. I want you to write just paragraph ${paragraphNumber} into a full piece of third person, past-tense prose. You must pick one of the paragraph templates from ${templates} , and write your paragraph to the form of that template. Pick the most fitting template. *You must remain within the template's word count.*\nOutput your paragraph as markdown, along the template you used (provide the 'respecification seed'), your word-count, and a brief explanation of how you applied at the top.\n**Focus particularly on writing with less-used or uncommon nouns, verbs, and adjectives.**`;
-// \nThis time you have an additional challenge: I want you to write this 'paragraph' in the form of an 'exchange'. this should be a dialogue between two or more individuals, as described in the context notes. You'll need to adapt the template you choose to dialogue, so take that into consideration when picking a template.\n
+const { 'blob-groups': blobGroups } = markdownToBlobs(inputStory, 3);
 
-const response = await llmPrompt(prompt);
+const revisedGroups = [];
+for (const group of blobGroups) {
+  const prompt = `Hey claude, here is a section of a fiction story:\n\n${JSON.stringify(group)}\n\nPlease revise this section according to the following revision guide:\n\n${revisionGuide}\n\nOutput the revised section only, as markdown text, with each blob distinguished by a header like '## Blob X', and blobs separated by '---'.`;
+  const response = await llmPrompt(prompt);
+  revisedGroups.push(response);
+  console.log(`Revised group ${revisedGroups.length} of ${blobGroups.length}`);
 
-writeFileSync(`./Output/paragraph-${paragraphNumber}.md`, response);
+}
+
+const result = revisedGroups.join('\n\n---\n\n');
+
+writeFileSync(`./Output/llmresult.md`, result);

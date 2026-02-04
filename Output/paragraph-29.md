@@ -1,9 +1,0 @@
-**Template Used:** "A gathering disperses into varied activities." (Release tension arc, two long sentences, 150-200 words)
-
-**Word Count:** 187
-
-**Application Explanation:** I adapted the template's dispersal structure to show the warband's dissolution after battle rather than after celebration. The first sentence captures the transition from enmity to cessation with the "sensory fade" of their quarrel dying. The second sentence uses anaphoric listing ("some to... others to... but Maerbrang") to catalogue their branching paths, closing on Maerbrang's singular direction. I maintained elevated diction throughout and employed a periodic structure delaying the final clause about Maerbrang's own course.
-
----
-
-With Thessamander Kurz's name-stone shattered and his half-life quenched in the flooded passage, the old quarrel between Maerbrang and these blood-spattered strangers guttered out like a tallow-flame starved of air, and they bent themselves instead to the raising of four funeral kerns—heaping loose ashlar prised from the henj's tumbled wall into rough barrows over the cooling dead, until each slain man lay shrouded beneath his own mound of lichen-crusted stone. When the last rock had been set and the last handful of frozen earth cast down, the survivors spoke briefly of the land's lay and of distant strongholds still unsacked, then scattered to their separate fates: some to seek new lords in the war-torn marchlands, others to dens and refuges known only to wandering sword-men, still others perhaps to kinfolk or to nameless deaths in ditches unremembered—but Maerbrang, though he had heard Wode's laughter reverberating in that drowned corridor and felt the goldfinch's prophecy coiling like a wyrm behind his ribs, turned his frost-numbed feet back toward Lord Guss, for duty alone remained to him now.
