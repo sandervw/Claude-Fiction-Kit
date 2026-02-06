@@ -81,6 +81,41 @@ Occasionally, apply with delineation by commas, to create rhythm and emphasis
 - "fire and sword and ruin, and a host of others evils, then came upon them"
 - "they rode and rode and rode until the stars wheeled overhead"
 
+---
+
+## Semicolon Architecture
+
+Build long sentences using semicolons to chain independent clauses. Creates a rolling, continuous rhythm.
+
+**Example:**
+- "They swayed this way and that, as great trees in a storm; their legs planted so firm they seemed to grow from the ground; nor did either yield to the other."
+
+---
+
+## Compound Hyphenated Descriptors
+
+Use freely for landscape and atmosphere: "ice-hung," "crag-girt," "storm-swept," "snow-filled," "mist-wreathed"
+
+---
+
+## Anatomical Precision
+
+In action scenes, specify exact grip, limb, muscle. Not "he struck him" but "catching with his leg the man's leg on the inside, below the great muscle of the calf."
+
+---
+
+## The "So X That Y" Intensifier
+
+For emphasis on scale or extremity: "So huge was he that even at six miles' distance the eye might not behold him at a glance."
+
+---
+
+## Direct Address in Dialogue
+
+Characters address each other formally: "O Juss," "O Queen," "O my friend"
+
+---
+
 # DO NOT DO THESE
 
 - NEVER apply verb-form changes (eth/th)

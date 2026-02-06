@@ -1,42 +1,51 @@
 ## Blob 1
 
-If one had stood upon that border hill where Gaelic woodland met open moorland, one would have watched the wind arrive, threading itself through the standing stones that crowned the summit. The menhirs bore the wind's long attention in their weathering: windward faces worn smooth, leeward sides pitted and scabbed with lichen that clung to any surface the gale could not scour clean. Between the stones, sheep's fescue trembled. Tormentil spotted the grass with small yellow blooms that shivered at each gust. Upon exactly one stone the old cupmarks held centuries of rainwater. The wind followed the slope downward, carrying the tannin-smell of the dense woodland below, where oak, hazel, and blackthorn formed the weald's margin in a dark tangle, bracket fungi clamping to the nearest trunks. At the foot of that slope the wind halted, rolled against the canopy. For a moment the whole weald cast its penumbra uphill toward the stones. By day the wood exhaled its breath of rot and growth. By night it swallowed all sound and gave nothing back.
+If one had stood upon that border hill where Gaelic woodland met open moorland, one would have watched the cyclic toiling of the Wind, threading itself amongst the standing stones that crowned the summit like knuckles forcing through the hill's skin. The tall menhirs suffered that long attention in their weathering: windward faces worn smooth, leeward sides pitted and scabbed with lichen that clung to any surface the gale could not scour clean. Between the stones, sheep's fescue trembled, whilst tormentil spotted the grass with small yellow blooms, and upon one stone of old the cupmarks swallowed centuries of rain. The Wind followed the slope down, carrying the tannin-smell of the dense woodland below, where oak and hazel and blackthorn formed the weald's margin in a dark tangle, bracket fungi clamping to the nearest trunks like pale limpets, feeding on the bark. At the foot of that slope the Wind halted and rolled against the canopy; and for a moment the whole weald cast its penumbra uphill, back to the knuckling stones.
 
 ---
 
 ## Blob 2
 
-Descending the scarp came a wayfarer, unhurried yet purposeful, weight slung low in his hips so that the gale's pestering achieved nothing against him. The wind plucked at him. His shoulders remained loose. His stride continuous, each footfall deliberate but untroubled. Garbed was he in linen of muted ochre whose collar snapped in the gusts, and beneath it a sleeveless gambeson of flax quilted tight, and over that a harness of oxhide boiled to the hardness of horn, creaking faintly with each flexion of his torso. At his flank hung a spear of ash-wood stained to near-black, its haft wound round with snakeskin at the grip, the scales still discernible beneath lacquer, and the iron head leaf-shaped, narrow, long, etched with a coiling motif that snagged the daylight. From his belt of matching oxhide clattered an oxbone flute, thumping against his thigh with each stride. His scalp was practical, close-cropped, hair black and swept back from the brow, shorter still at the temples where thin streaks of silvering glossed the darkness. Very calm was that face, the eyes amber-green, unhurried but focused. In that calmness lay something unsettling. A settled readiness. A body and mind long reconciled to motion and to violence.
+Descending this scarp came a wayfarer smooth-gaited, unhurried yet purposeful, weight slung low in his hips. The Wind worried at him, snatched at loose line of thread and hair, yet his stride remained in motion oiled, each footfall deliberate but untroubled. Well-garbed was he, in linen of muted ochre, the collar snapping in the gusts, and beneath it a sleeveless gambeson of flax quilted tight as chainmail, and over that a harness of oxhide, creaking faintly with each flexion. At his flank hung a spear of ash-wood, its haft wound round with snakeskin at the grip, the scales still discernible beneath lacquer, and the iron head leaf-shaped, narrow, long, etched with a coiling motif that snagged the daylight. From his girdle of matching oxhide clattered an oxbone flute, idiosyncratic and incongruous, thumping against his thigh. His scalp was practical, close-cropped, hair black as hellebore and swept back from the brow, shorter still at the temples where thin streaks of silvering glossed the darkness like frost on burnt timber.
+
+Very calm was that countenance, the eyes amber-green; to them, the whole tumult of Wind and hill was only the rustling of parchment in a scriptorium. In that calmness lay something uncanny. It spoke not of serenity but of a certain settled readiness, of body and mind reconciled to violence.
 
 ---
 
 ## Blob 3
 
-He brushed a filament from his brow. The gesture was habitual, born of dozens of such woodlands, performed without rancour or even full awareness. Yet this coppice demanded the motion ceaselessly. The spiders of this particular stand had woven their snares with such profligacy that the canopy seemed strung with a second, spectral foliage: gossamer catenaries drooping between hazel wands, guy-lines anchored to pollarded oaks whose lopped crowns had thickened over centuries into grotesque boles of knuckled wood, each fist of regrowth bristling with suckers no thicker than kindling. The coppice stools themselves had grown stranger still, their centres rotted hollow so that hazel rose in bizarre circlets, multi-trunked coronas surrounding cavities of pith-black nothing. The low-cut stumps jutted a hand's breadth above the leaf-litter. Underfoot the sorrel released its acid tartness with each footfall. This scent mingled with the fungal must of rotting heartwood and the faintly mineral smell of old webs accumulating on his gambeson. He moved through the filaments, arms occasionally lifting to part the thicker skeins, the silk collecting on forearm and collar and spear-shaft in pale striations. After a quarter-hour's passage he had the look of a man swaddled in the shed integument of some enormous worm. And yet for all the density of this woven habitation, for all the evidence of countless arachnid generations spinning their geometries into the understory, he heard no birdsong. Glimpsed no flicker of furred body. No winking of mammalian eyes between the boughs. He found himself almost wishing for such a presence. *Something watching. A gleam that surfaces and vanishes.* But the wood offered nothing. No scrutiny either hostile or curious. Only a profound indifference that settled over him and whispered, in its total silence, that whatever spirit had once dwelt here had long since ceased to concern itself with the passage of men.
+The man, as he entered the wood, brushed a filament from his brow. The gesture was habit; he performed it without full awareness, as a bearded man might twist a whisker. Yet this particular wood wanted that particular gesture ceaselessly, for the spiders which lived therein had woven their snares with such profligacy that the canopy seemed strung with a second, spectral foliage: gossamer catenaries drooping between hazel wands, guy-lines anchored to pollarded oaks whose lopped crowns had thickened over centuries into grotesque boles of knuckled wood, each fist of regrowth bristling with suckers no thicker than kindling. The coppice stools which interspersed the space had grown stranger still, their centres rotted hollow so that hazel rose in bizarre circlets, multi-trunked coronas surrounding black cavities; and from certain angles, the low-cut stumps jutting a hand's breadth above the leaf-litter resembled nothing so much as dinner plates, abandoned by some slobbish giant and left to fossilize. Underfoot the sorrel released its acid tartness with each footfall, and this scent mingled with the fungal must of the rotting heartwood and the faintly mineral smell of webs of old. After a quarter-hour's passage, with the silk collecting on forearm and collar and spear-shaft in pale striations, the man seemed almost enswathed, as if in the shed integument of some enormous and indolent worm.
+
+And yet for all the density of this woven habitation, for all the evidence of manifold arachnid generations industriously spinning their geometries into the understory, the man heard no song of bird, nor saw the flicker of furred body, nor the winking of mammalian eye within the shade. He found himself almost wishing for some such ware thing whose gleam might surface and vanish when he turned. But naught of the kind did the forest yield, only indifference, which settled over him like the cobwebs; an assurance that whatever spirit-of-place dwelt here had ceased to concern itself with the passage of men.
 
 ---
 
 ## Blob 4
 
-A quarry that flees sideways harbors either cunning or terror. Rarely nothing. Maerbrang turned this over in the quiet alcove of his skull, that voice of his own devising murmuring soft and unhurried. The scout served Semprovius Thessamander Kurz, a man whose servants did not blunder into nameless bracken without purpose. Had the wretch sensed pursuit? No. The spoor told him otherwise—no hesitation in the stride, no backward glances scuffed into the loam. Yet why not skirt the treeline, where paths remained legible and a man might be found again? _One does not vanish into a wood without name unless he wishes to misplace something._ Maerbrang exhaled through his nose. The forest swallowed reasons as readily as men. _As the way._ He walked on beneath the indifferent boughs.
+*Prey that runs sideways harbors either cunning or terror - rarely nothing.*
+
+The man, Maerbrang, turned this over in the quiet alcove of his skull, in his own voice, soft and unhurried. The scout whose track he now followed served the warlord Semprovius Thessamander Kurz; and that warlord did not take as servants men who blunder into bracken without purpose. Had this scout sensed pursuit? The spoor said otherwise: no hesitation in the stride, no backward glances, where the turn of a heel scuffed the loam. Yet wherefore not skirt the forest then? One does not vanish into a pathless, nameless wood unless he wishes to misplace something: himself, perchance, or whatever has stuck upon his boots.
+
+Maerbrang exhaled through his nose, a faint sibilance. The forest swallowed reasons as well as men. *As the way*, he allowed, and walked on beneath the boughs.
 
 ---
 
 ## Blob 5
 
-The trail declared itself in crumpled bracken. In boot-gouges pressed through the leafmold. In gossamer veils of spider-silk torn and fluttering—a plainsman's spoor, graceless, the track of a man who walked forests as a stranger. Hours bled away as Maerbrang threaded the colonnades of oak and hornbeam. He surfaced where slants of afternoon pierced the canopy to gild his shoulders. The murk swallowed him again. He paused. Knelt. Read the disturbed detritus. Listened. Moved on. At one place the prints bit deeper, the leaves more thoroughly crushed—the scout had stood here, motionless, straining to hear something in the understory's hush. Maerbrang halted too, scanning the brake for any tremor of movement. He shuttered his eyes, flared his nostrils to the vegetal musk, let the forest's creaking stillness soak into him—and through that silence came a single liquid spill of birdsong, a descending trill, and he held there, breath stilled, until he named it. Goldfinch.
+As he went, the scout's track unrolled itself in crumpled bracken, in the leafmold, in gossamer veils of torn spider-silk—a plainsman's spoor, graceless and lumber-footed, the track of a man who walked woods as a stranger. Hours bled away whilst Maerbrang threaded the hornbeam colonnades, a wraith in the dimness, surfacing only where slants of afternoon pierced the canopy to gild his shoulders, ere the murk swallowed him again. He would pause, here and there; kneel; read the disturbed ground; listen; resume the hunt. Once he found the prints deeper, the leaves more thoroughly crushed. The scout had stood here, motionless, straining perchance to hear something, and Maerbrang halted now too, scanning the brake. He closed his eyes, flared his nostrils to the vegetal musk, let the forest soak him in its creaky hush.
+
+Through that hush came a single liquid spill, a descending trill that pierced the silence like a wedge through green timber. Still stood Maerbrang, breath held. He opened his eyes.
 
 ---
 
 ## Blob 6
-
-The goldfinch perched on a wand of hazel at the level of his eyes, its claws hooked into the lichenous bark, still as a carved thing. Filtered light fell upon the bird's plumage and kindled it: the citrine of its breast deepening to saffron at the coverts, the jet cap glossed, the white chevrons of its wings banded against velvet black, each barb and barbule distinct. The finch canted its skull and fixed him with one vitreous eye. No skittish alarm in that bead of polished jet. An appraisal.
+The goldfinch perched on a wand of hazel at the level of his eyes, its claws hooked into the lichenous bark, still as a carved thing. Filtered light fell upon the bird's plumage and kindled it: the citrine of its breast deepening to saffron at the coverts, the jet cap glossed, the white chevrons of its wings banded against velvet black, each barb and barbule distinct. The finch canted its skull and fixed him with one vitreous eye; no flightiness was in that bead of polished jet, but a curious appraisal, ware and unafraid.
 
 ---
 
 ## Blob 7
 
-The goldfinch turned its head with a motion slow and considered. Its eye, black as sloe, held the green gloom of the hazel-brake and gave back nothing.
+The goldfinch turned its head with a motion slow and considered. Its eye, black as sloe, held the green gloom of the hazel-brake.
 
 "Hearken," it said, and the voice that issued from that painted throat was clear, and carrying, and altogether without kindness. "Thou and thy lord Guss and all who have sworn him fealty shall meet your deaths in the hall of Semprovius Thessamander Kurz. This shall come to pass when the shaman's laughter hath sounded its last echo and faded."
 
@@ -44,69 +53,87 @@ Maerbrang unstopped his waterskin. He let fall a thread of water into the moss a
 
 The goldfinch descended upon the wet moss and drank, three quick dips of its vermillion mask. Then it hopped back and composed itself, and its eye found his again.
 
-"Others have poured out water for me," it said. "They thought to cozen secrets from the loom with such poor offerings, and learned that the threads run where they will. Water buys nothing from the Fates."
+"Others have poured out water for me," it said. "They thought to cozen secrets with such poor offerings. But water is easy-found for journeyers on the Wind between worlds."
 
-"Then tell me how we die. Tell me the manner of it, if not the cause."
+"Then tell me how we die. Tell me the manner, if not the cause."
 
-Maerbrang had drawn close, near enough that he might have cupped the creature in his hands. It did not start, nor spread its wings to flee. It only blinked, once.
+Near had Maerbrang drawn, so near he might have cupped the creature in his hands. It did not start, nor spread its wings to flee. It only blinked, once.
 
-"The shaman's laughter," it said again. The words came measured. "That alone is given me to tell. The rest is woven, and you shall walk the pattern blind until you walk it no more."
+"The shaman's laughter," it said again. Measured came the words. "That alone is given me to tell. The rest is already blowing, and thou shalt walk against or with it, till thy legs are spent, and thou walk no more."
 
 ---
 
 ## Blob 8
 
-The sunflower seeds were the vessel. Maerbrang knew this without the goldfinch uttering a syllable of instruction. He had learned such lore from the withered hedge-priests of his youth, those mumbling anchorites who catalogued every barter between mortal flesh and the spirits that haunt the liminal places: either a man proffers the appointed oblation and yokes the visitant to the Red World forever, or he spurns the compact and watches the apparition dissolve back into the grey countries from whence it fluttered. Those who had performed such bindings spoke of the transfiguration in hushed recollection—how the spirit-creature would attenuate into gossamer luminance and sink through skin and sinew until it nested in bone, transmuting some sliver of the summoner's body into its permanent tabernacle. The goldfinch, were Maerbrang to scatter those seeds before its waiting beak, would vanish from the branch and coil itself into a molar at the back of his jaw, gilding the enamel to lustrous saffron. Thereafter he would possess the lay of the goldfinch: that lilting persuasion which bends the hearts of simple folk, a charm potent enough to make any common man or woman cleave to him with unshakeable devotion. Maerbrang drew forth the pouch. He pinched a measure of the dun-gold seeds between calloused fingers and placed them upon his own tongue. The goldfinch fled.
+The sunflower seeds were the vessel. Maerbrang knew this without the goldfinch uttering a syllable of instruction. He had learned such lore from the withered hedge-shaman of his youth, those mumbling anchorites who tallied every exchange between The Red World's mortal bodies and The Ochre World's shades of varied shape: either a man proffers the appointed oblation and yokes the visitant to the Red World forever, or he spurns the compact and watches the apparition dissolve back into the grey countries. Those who had performed such bindings spoke of the transfiguration in hushed recollection; how the spirit-creature would diminish into gossamer luminance and sink through skin and sinew until it nested in bone, transmuting some sliver of the summoner's body into its permanent tabernacle. The goldfinch, were Maerbrang to scatter those seeds ere its waiting beak, would vanish from the branch and coil itself into a molar at the back of his jaw, gilding the enamel to lustrous saffron. Thereafter he would possess the lay of the goldfinch: that lilting persuasion which bends the hearts of simple folk, a charm potent enough to make any common man or woman cleave to him with unshakeable devotion. Maerbrang drew forth the pouch. He pinched a measure of the dun-gold seeds between calloused fingers and held them there, and weighed what manner of man he would become, and felt the coldness of that knowing settle upon him; and placed them upon his own tongue.
+
+Fled the goldfinch.
+
+SCENEBREAK
 
 ---
 
 ## Blob 9
 
-The Carsobrine was the dreariest morass in all the uncharted wilds, a fenland so steeped in the vintages of pre-man that no coppiced stool or pollarded boundary-ash had touched its verge for generations uncounted. The runnels once grooved by tusked boar and sure-footed ibex drank themselves into the sodden loam. No spoor remained save the scout's faint scuffings, still legible in the peat. Had light attempted ingress through canopy-gap or streambed glint, it would have curdled first in the sulphurous exhalations that seethed from certain virid pools—pools so still they held no sound of drip or lap but only the green-mirrored hush of waters that had never learned to move. Yet where the mangroves convened in their blasphemous parliament, their boles grown wider and massier than they stood tall, a curdled radiance did penetrate the fissures overhead. Maerbrang, no taller beneath those primordial trunks than a vole among standing-stones, beheld the trackless expanse unfurl before him.
+The Carsobrine was the dreariest morass in all the uncharted wilds, a fenland so steeped in the vintages of pre-man that no coppiced stool nor pollarded boundary-ash had touched its verge for generations uncounted. The runnels once grooved by tusked boar and sure-footed ibex drank themselves into the sodden loam. No spoor remained save the scout's faint scuffings, still legible in the peat. Had wan light attempted ingress through canopy gap or streambed glint, it would have curdled first in the sulphurous exhalations that seethed from certain virid pools; pools so still they held no sound of drip nor lap but only the green-mirrored hush of waters that had never learned to move. Yet where the mangroves convened in blasphemous parliament, their boles grown wider and massier than they stood tall, a curdled radiance did penetrate the fissures overhead. Maerbrang, standing amid those primordial trunks, beheld the trackless expanse of open swamp unfurl ere him, like the floor of some drowned and fever-lit temple.
 
 ---
 
 ## Blob 10
 
-The scabrous log that was not a log detonated from the shallows, brackish gobbets of swampwater flung wide. Its serried jaw yawned, a clawtrap wrought for some antediluvian sloth. Maerbrang's hidden deftness unfurled from his sliding gait. His seax keened. He gouged the brute's snout. Carved a furrow through its warted nape. Stabbed thrice and then a fourth time into the soft folds behind its forelimb. The fish-dragon wallowed in a slick of its own ichor, maw agape and hissing, then slunk back into the mire.
+The scabrous log that was not a log detonated from the shallows, brackish gobbets of swampwater flung wide. Its serried jaw yawned, a clawtrap wrought for some antediluvian sloth. Then; as a summer squall cracks the glazed stillness of a lake and lashes the willows to a frenzy, and so sends the marsh-birds shrieking from their roosts, and churns the placid water to a boil of whitecaps, ere it spends itself, leaving only trembling reeds in its wake; just so did Maerbrang's hidden deftness unfurl from his sliding gait. His seax keened. He gouged the brute's snout. Carved a furrow through its warted nape. Stabbed thrice and then a fourth time into the soft folds behind its forelimb, where the pale hide bunched loose above the joint. The fish-dragon wallowed in a slick of its own ichor, maw agape and hissing. Finding this meat's sting too costly, the monster slid, hurt and sullen, back into the mire.
+
+---
 
 ---
 
 ## Blob 11
 
-Maerbrang sought a ford, a causeway, some egress from the mire. He found none. The shallows gaped with murk. So he clambered onto the nearest tussock where the morass yielded to moss and sedge, and hunted for a path along the verge. The sun hung fixed in its azimuth, though the hours bled away. Heat mantled his shoulders and draped across his visage. The earth beneath his tread sucked and clutched. The land buckled through fens and quagmires without logic or relent, each promontory dissolving into slough, each gallery of stunted alder collapsing into impasse. Twice he retraced his own spoor. Thrice he circled back to ground he could not name. The rival scout's trail—that faint susurrus of bent grass and disturbed loam he had pursued since dawn—had vanished. Time unspooled in strange skeins. Distance contorted. And then the copses parted. Maerbrang staggered onto a silted strand. Before him sprawled a lake of such breadth that fog devoured its farther shore.
+Thereafter Maerbrang sought a ford, a causeway, some egress from the mire. He found none. The shallows gaped back from all ways. So he clambered onto the nearest tussock where the morass yielded to moss and sedge, and hunted for a path along the verge. The sun hung fixed in its azimuth, albeit the hours bled away. Heat mantled his shoulders and draped across his countenance. The earth beneath his tread sucked and clutched. The demesne buckled through fens and quagmires without logic or relent; each promontory dissolved into slough; each gallery of stunted alder collapsed into impasse. Twice he retraced his own spoor. Thrice he circled back to ground he could not name. The rival scout's trail, that faint susurrus of bent grass and disturbed loam he had pursued since dawn, had vanished. Time unspooled in strange skeins. Distance contorted.
+
+And then the dank copse parted. Onto a silted strand Maerbrang staggered. Ere him sprawled a lake of such breadth that fog devoured its farther shore. Gray and unbroken the water stretched into a mist-wreathed horizon.
 
 ---
 
 ## Blob 12
 
-*Need to go back and describe extremely hard wood pole*
+Out of that mist came a craft.
 
-The bargeman stood at the stern of his vessel, his posture the patient vertical of a mantis. The fog moved about him, thinning and thickening in turns, now veiling, now baring the weathered mask of his countenance—river-silt skin stretched taut over a blade-thin nose, a lipless mouth pressed to a permanent seam, a brow that jutted over whatever murk pooled in the sockets beneath. Ash-colored hair hung slicked with tallow against his skull. A coat of waxed linen, deep as moss-shadow, draped his frame, its left sleeve twice-patched at the elbow. From his belt a single iron nail on a tarred cord tapped its faint rhythm against his thigh. Those long callused fingers—half-curled always—gripped the pole while he fixed Maerbrang with eyes that held no particular welcome. From that lipless seam came a low churring sound.
+The bargeman stood at the stern of his vessel, his posture the patient vertical of a mantis. The fog moved about him, thinning and thickening in turns, now veiling, now baring the weathered mask of his countenance; river-silt skin stretched taut over a bladed nose, a strait-lipped mouth pressed to a permanent seam, a brow that jutted over the pooling shade in the sockets beneath. Hair the color of slag hung slicked with tallow against his skull. A coat of waxed linen draped his frame, its left sleeve patched at the elbow. From his girdle a single iron nail on a tarred cord tapped faint rhythms against his thigh. Those long callused fingers, always halfway curled, gripped the hard ashwood pole whilst he fixed Maerbrang with eyes that held no particular welcome. From that strait-lipped seam came a low churring, not so much a greeting as the ratchet-trill of a grebe.
+
+---
 
 ---
 
 ## Blob 13
 
-Maerbrang spoke first, his voice carrying flat across the fog-choked water. "I need passage."
+Maerbrang spoke the first words, his voice carrying flat across the mist-wreathed water.
 
-The bargeman's lipless mouth unseamed itself, and from it came a single croak: "Cull." A silence festered between them, broken only by the faint slap of current against hull-strakes. Maerbrang's brow furrowed. *A name? A command?* He extended his hand across the gap of dark water, palm upturned in the old greeting-gesture, but the bargeman only stared at the offered flesh—those long fingers neither releasing nor tightening on the punt-pole, merely flexing in their perpetual half-grip.
+"I need passage."
+
+The bargeman's lipless mouth unseamed itself, and from it came a single croak: "Cull."
+
+A silence festered between them, broken only by the faint slap of current against hull strakes. Maerbrang's brow furrowed. *A name? A command?* He extended his hand across the gap of dark water, palm upturned in the old greeting, yet the bargeman only stared at the offered palm. His long fingers neither releasing nor tightening on the punt pole, merely flexing in their perpetual half-grip.
 
 "I am called Vetch," Maerbrang said, retracting his hand. "I am sworn servant to Thessamander Kurz."
 
-The bargeman's fingers clenched, unclenched, clenched again around the tarred wood. "Can-not fer-ry," said he, each syllable separated from its neighbors. "Kurz-men. Only. No others cross."
+The bargeman's fingers clenched, unclenched, clenched again around the tarred wood. "Can-not fer-ry," said he, each syllable cleft from its neighbors. "Kurz-men. Only. No others cross."
 
-Maerbrang let the silence accumulate. Let it thicken until the fog itself seemed to curdle. "Kurz's man," he repeated. "I have said it."
+Maerbrang let the silence coagulate again. Let it thicken until the mist itself seemed to curdle. "Kurz's man," he repeated. "I have said as much."
 
 "Kurz-man?" The bargeman's jutting brow creased. "Truth?"
 
-Maerbrang only watched—until the barge groaned forward, its driftwood bulk grating against the gravelly mud. Cull the bargeman gestured once with his chin toward the vessel's black deck. "Mind footing."
+Maerbrang only watched, his countenance betraying naught; and still he watched, vigilant and unmoved, until the barge groaned forward, its driftwood bulk grating against the gravelled mud. Cull the bargeman gestured once with his chin toward the vessel's black deck. "Mind thy footing."
+
+---
 
 ---
 
 ## Blob 14
 
-The silence held them first. Trembling. Provisional. The bargeman's pole rose and plunged in metronomic sweeps, each stroke a genuflection to the murk below, and the water received the ashwood shaft without protest, without sound. Soon the fog closed around them, swallowing the shore behind and the shore ahead, until Maerbrang could not say whether they moved at all or merely hung suspended in some null-space between the living world and its echo. He kept his eye fixed forward, on nothing, on the void's pale belly, though he felt the ferryman's attention turn toward him. The creature's scrutiny came first in sidelong flickers, then in longer, wetter assessments—his lids clicking with each blink, the sound obscenely loud in that muffled emptiness. The lipless seam of his mouth compressed further still, until it seemed less orifice than scar. His brow, that promontory of knobbed bone, appeared to swell and thrust itself outward by degrees, until his eye-sockets became twin cisterns of shadow from which his yellowed gaze peered. Maerbrang did not move. He breathed shallowly, evenly, watching the fog. Then the half-Forgotten released his grip on the pole with one hand—those fingers uncurling—and extended a crooked digit toward Maerbrang's hip. Toward the oxbone flute that hung there in its leather loop.
+Silence held them for a moment. Trembling. Provisional. The bargeman's pole rose and plunged in metronomic sweeps, each stroke a genuflection to the mire, and the water received the ashwood shaft without sound. Soon the fog closed around them, swallowing the shore behind and the shore ahead, until Maerbrang could not say whether they moved at all or merely hung suspended in some null-space between the living world and its Ochre echo.
+
+Maerbrang kept his eye fixed forward, albeit he felt the ferryman's attention turn toward him. The creature's scrutiny came first in sidelong flickers, then in longer, wetter assessments; his lids clicking with each blink, the sound obscenely loud in that muffled emptiness. The strait-lipped seam of his mouth compressed further still, until it seemed less orifice than scar. His brow, that promontory of knobbed bone, appeared to swell and thrust itself outward by degrees, until his eye-sockets became twin cisterns of shadow from which fell his yellowed gaze. So ware was Maerbrang of this scrutiny that he dared not turn his countenance, yet shallow and even kept he his breathing, watching the fog. Then the bargeman released his grip on the pole with one hand; those fingers uncurling in tiny explosions of knuckle; and extended a crooked digit toward the oxbone flute that hung at Maerbrang's girdle.
 
 "Liar," the bargeman said. "Killer. Serpent."
 
@@ -114,116 +141,186 @@ The silence held them first. Trembling. Provisional. The bargeman's pole rose an
 
 ## Blob 15
 
-Maerbrang's hand had already found the black ash haft before the last syllable of *serpent* dissolved into the fog. His spear vaulted from the thwart. He thrust for the ferryman's sternum with economical viciousness, but the gaunt creature merely canted his blade-thin torso with the skiff's own yaw, letting the iron point hiss past his ribs, and in that same rocking motion brought the dripping pole across Maerbrang's jaw with a wet crack. Amber light scattered behind his eyes. What followed was graceless. Necessary. The pole wrenched away. Those half-curled fingers hammering at his throat and floating ribs with knuckles of river-smoothed stone. Maerbrang abandoned distance, seized the waxed lapel, drove his gutting knife into the ferryman's belly with methodical intimacy—seven, eight, nine insertions—then hoisted the twitching ruin overhead by scruff and haunch and heaved it into the vitreous water. It sank without protest. Without ripple.
+Maerbrang's hand had already found the black ash haft ere the last syllable of *serpent* dissolved into the fog. His spear vaulted from the thwart. He thrust for the ferryman's sternum with economical viciousness, but the gaunt creature merely canted his bladelike torso with the skiff's own yaw, letting the iron point hiss past his ribs, and in that same rocking motion swept his own dripping pole across Maerbrang's jaw with a wet crack. Amber light scattered behind Maerbrang's eyes.
+
+What followed was graceless. Necessary. The pole, wrenched. Half-curled fingers hammering at Maerbrang's throat and floating ribs with knuckles like river stones. Maerbrang closed, seized the bargeman's waxed lapel, drove his gutting knife into the man's belly with methodical intimacy; seven insertions, and eight, and nine. Then with a cording of muscle through shoulder and back, with a momentous heave, Maerbrang hoisted the twitching ruin overhead by scruff and haunch, and cast it into the vitreous water.
+
+Silent sank the bargeman's body, and left no ripple.
 
 ---
 
 ## Blob 16
 
-*Villainy possesses no fixed habitation—it roosts only where particular eyes bid it nest.* Maerbrang drove the dripping pole into the murk and felt the barge shudder forward through the vaporous stillness. Would those wayfarers whom the bargeman had ferried toward their doom name this slaying wicked? Would the bones moldering in whatever oubliette Thessamander Kurz maintained for such unfortunates weep for their jailer's gutting? Nay—to them, Maerbrang would stand as liberator. And thus it ran with all his killings. Wode the shaman. Others, their faces grown gauzy in recollection. Each death wore the garb of atrocity only when beheld through the bereaved eye, the partisan eye. He had always apprehended this verity, even as a whelp—that morality was merely vantage, merely the hillside from which one squinted at the deed. And if such coldness made him ophidian, then let him be the tame adder coiled at his lord Guss's heel.
+*Villainy has no set sense.* The thought rolled through Maerbrang's conscience whilst he drove the dripping pole into the murk and felt the barge shudder forward through the vaporous stillness. *It is a migrating word, now nesting in one heart, now another, and each time with different plumage.* Would those wayfarers whom the bargeman had ferried toward their doom naysay this slaying? Would the bones moldering in whatever oubliette Thessamander Kurz maintained for such unfortunates weep for their jailer's gutting? To them, Maerbrang would appear as the left hand of valor.
+
+Thus had it been with all his killings. Wode the shaman. Others, their countenances grown gauzy in recollection. Each death wore the raiment of atrocity only when beheld through the bereaved eye, the partisan eye. Maerbrang had always apprehended this truth, even as a whelp. Morality was a prospect, only the hillside from which one squinted at the deed. And if to others such coldness made him ophidian, well then let him be a serpent; but let that serpent be an adder, tame and coiled at his lord Guss's heel.
+
+---
 
 ---
 
 ## Blob 17
 
-The mirk thickened with eventide's approach. Through that grey murrain the far shore resolved itself—not the sedge and mire of Carsobrine but a hummocked headland, scabrous with lichen-crusted stone, where no tree had purchase and the wind had scoured all softness from the land. Maerbrang poled the vessel to within a score of meters of that barren strand. He stayed his labour. Looked down upon the deck where the ferryman's blood lay drying in long runnels against pale wood. The craft had been wrought with cunning—driftwood branches laced and wattled, caulked with bog-tar black and stopped with rags of ancient cloth. Something in that patient binding of dead wood into purpose stirred in him a sudden choler. He raised the ashwood pole high and brought it crashing down through the latticed timbers. Again. Once more. The branches splintered apart. Black water came welling up through the wounds he had made. The barge groaned, listed, began its slow surrender to the mere. Maerbrang cast himself over the gunwale into that cold embrace, swimming with hard strokes toward the shingle. Behind him the ferryman's craft slipped beneath the surface with scarcely a sound, bearing its cargo of blood and craft-cunning down into the silt where the half-Forgotten kept their commerce with the drowned.
+With eventide's approach the hidden sinking sun tinted the fog blackly. Through that grey murrain the far shore at last resolved itself—not the sedge and mire of Carsobrine but a hummocked headland, scabrous with lichen-crusted stone, where no tree had purchase and the Wind had scoured all softness from the demesne.
+
+Maerbrang poled the vessel to within a score of meters of the barren strand. He stayed his hand and looked down upon the deck where the ferryman's blood lay drying in long runnels against pale wood. The craft had been wrought with cunning: driftwood branches laced and wattled, caulked with bog tar and stopped with rags of ancient cloth.
+
+Something in that patient binding of dead wood stirred in Maerbrang a sudden choler. He raised the ashwood pole high and brought it crashing down through the latticed timbers. Again. Once more. The branches splintered; black water came welling through. The barge groaned and listed and began its slow sinking surrender. Maerbrang cast himself over the gunwale into the bog's cold embrace, swimming with hard strokes toward the shingle. As he neared the shore, behind him the ferryman's craft slipped beneath the surface, bearing its cargo of blood and craftsmanship down into the silt.
 
 ---
 
 ## Blob 18
 
-Maerbrang's knees struck the shingle. He dragged himself from the shallows onto a littoral of wave-smoothed slate and ash-colored gravel. The wind came sheering down the naked headland, pressing the sedge-grass flat against the scalped rock, scouring the standing water from the hollows until the whole moorland gleamed with mineral wetness. Beyond the immediate tumble of shore-stone, the hills rose in bald succession—each crown worn to a grey pate by centuries of gale, each saddle pooled with shadow and the last thin vapors of the lake-fog. Past these, more hills. More grey. More silence. An entire country of barren undulation stretching toward a horizon that refused to offer tree or wall or smoke-smudge. From some unmeasurable distance came the attenuated shriek of an erne—a soul-cry, the old shamans taught, ferrying some unbodied spirit down from the Ochre silence into the wet red wailing of a newborn's first breath. Yet the moor showed Maerbrang nothing of its people. She kept her settlements, her cookfires, her living hearts shuttered somewhere beyond his sight.
+Maerbrang's knees struck the shingle. He dragged himself from the shallows onto a strip of wave-smoothed slate and gravel. The Wind came sheering down the naked headland, pressing the sedge flat against the scalped rock, scouring the standing water from the hollows until the whole moorland gleamed with mineral wetness. Beyond the immediate tumble of shore and stone, the hills rose in bald succession, each crown worn to a grey pate by centuries of gale, each saddle pooled with shadow and the last thin vapors of the lake fog. Past these, more hills. More grey. Silence. An entire realm of barren undulation stretching toward a horizon that refused to offer tree or wall or smoke-smudge. From some unmeasurable distance came the attenuated shriek of an erne; the cry for the soul, the shamans said, for that the eagle carried some unbodied spirit out from the Ochre silence into the wet Red wailing of a newborn's first breath.
+
+Yet the moor showed Maerbrang nothing of people. If she had her settlements, her cookfires, her living hearts, then shuttered she kept them somewhere beyond his sight.
 
 ---
 
 ## Blob 19
 
-He crouched in the lee of a glacial erratic, fingers scrabbling at the sodden pouch where his flint and steel lay nestled in char-cloth now black with damp. He struck spark after spark into the pitiful nest of bent-grass and gorse-scrub. The wind snatched each ember before it could catch. Scattered his tinder into the colourless air. Left him clutching the useless steel with hands gone blue-white. His teeth clattered. He tried again, hunching his body into a windbreak, curling around the tiny architecture of kindling, yet even this desperate genuflection availed him nothing. His fingers had become traitors—wooden, disobedient, fumbling the flint into the grass where it vanished among the stems. He ceased then, ear cocked toward the keening emptiness, listening for what he could not name: some voice, some guidance, some thread of the goldfinch's prophecy unwinding toward him across the barrens. There was only the wind's idiot howling. He shouted into it, a raw syllable of rage that the gale devoured before it had travelled the length of his arm. For a long moment he simply knelt there, eyes fixed on the middle distance where the hills repeated themselves unto grey infinity. His mind turned over solutions that crumbled. When at last he raised his head—slowly, as though his skull had filled with cold river-water—he marked against the pallid sky a darker massing of stone upon the nearest hilltop. He rose. He walked toward it, his gait the stiff shamble of a man whose joints had forgotten their purpose. It was perhaps a quarter-league distant. The crossing took him until the light had begun its long curdling toward dusk.
+Maerbrang crouched low in the lee of a glacial boulder, fingers scrabbling at the sodden pouch where his flint and steel lay. He struck spark after spark into the pitiful nest of bent gorse. But the Wind snatched each ember ere it could catch, scattering his tinder into the colourless air, and leaving him clutching the useless steel with hands gone blue and white. His teeth clattered. He tried again, hunching his body into a Windbreak, curling around the tiny architecture of kindling. Nothing. His fingers were wood. He fumbled the flint into the grass where it vanished amongst the stems. Maerbrang ceased; then, cocking his ear toward the keening emptiness, he listened. For what he listened he could not name: some voice of guidance mayhap, or perchance the song of the Goldfinch. But there was only the Wind's idiot howling. He shouted back at it, a raw syllable without meaning that the gale devoured ere it had travelled the length of his arm.
+
+For a long moment Maerbrang simply knelt, eyes fixed on the middle distance where the hills repeated themselves unto grey infinity.
+
+When at last he raised his head, slowly, as though his skull had filled with an early Spring's cold river water, Maerbrang marked against the pallid skyline a darker massing of stone. He rose. He began to walk toward it, his gait a stiff shamble. The dark mass was perchance a quarter-league distant.
+
+So long was the crossing that the dusk had begun its slow curdling ere he reached it.
+
+---
 
 ---
 
 ## Blob 20
 
-The henj received him without warmth, without refusal. It stood at the hill's crown, a work of the old builders. The encircling bank, which in some elder age had risen proud, now slumped inward, its crest gnawed down by centuries of frost-heave and the patient treachery of bracken roots. The ditch that had once guarded the inner sanctum—cut inside the rampart in the manner of sacred precincts, meant to hold something in rather than keep invaders out—lay scummed with black water and the decomposing lace of autumn's leaf-fall. The palisade had long since surrendered to time. Whatever oaken or ashwood staves had once crowned the ringwork had been rendered to splinter, to punk, to loam, carried off by wind and the scavenging of peasant generations. Yet the mortared plinth they had stood upon remained—a circlet of dressed stone rising knee-high, gap-toothed where sections had tumbled into the interior bowl. Within that broken crown the ground showed the pugmarks and scat of creatures who had denned here through harder seasons: the cloven slots of roe deer pressed into frozen mud, twisted rope of fox droppings atop a fallen lintel, tufts of coarse hair snagged on jutting masonry where something larger had scraped through. But it was the henj's throat that held Maerbrang's gaze longest: a stone-lipped aperture gaping at the enclosure's nadir, its steps descending into water the color of old bronze. Water that did not ripple though no ice skinned its surface. Water from which rose the faint exhalation of peat and something older beneath—the breath of interred air, the susurrus of silt that had not been stirred in living memory.
+The henj stood at the hill's crown, a work of older builders. The encircling bank, which in that elder age had risen proud, now slumped inward, its crest gnawed down by manifold weighty frosts and the patient treachery of bracken roots. The ditch that had once guarded the inner sanctum, cut inside the rampart in the manner of sacred precincts, lay scummed with black water and the decomposing lace of autumn leaves. Long since had the palisade surrendered to time. Whatever oaken or ashwood logs had once crowned the ringwork had been rendered to splinter, to punk, to loam, carried off by Wind and the scavenging of peasant generations. Yet the mortared plinth whereon they had stood remained: a circlet of dressed stone rising generally only to the height of a knee, gapped where sections had tumbled into the interior bowl. Within that broken crown the ground showed the pugmarks and scat of creatures who had denned here through the seasons; the cloven slots of roe deer pressed into frozen mud; twisted rope of fox droppings atop a fallen lintel; tufts of coarse hair. Yet it was the henj's throat that held Maerbrang's eye longest: an aperture, lips of stone gaping at the enclosure's nadir, its steps descending into water the color of old bronze. Water that did not ripple, albeit it wore no skim of ice. Water from which rose the faint exhalation of peat and the breath of interred air and the susurrus of silt long unstirred.
+
+---
 
 ---
 
 ## Blob 21
 
-*No warmer here than on the scoured moor above.* Then his flint kissed iron and sparked life into a fistful of dry rot-wood. The flame caught. Stuttered. Held. By its stammering glow he saw himself twinned in the still black water of the passage: his own haggard face below, spear-point glinting both above and beneath the surface. He waded deeper. Names crowded the dressed stones—*Varek Thornmane*, *Ulthed the Galled*, *Brennis Who Kept the Ford*—each one a man unmade by time, his soul long since ferried crow-back to the Ochre World. *What claim have I to trespass among such interred memories?* But does the river ask permission of the gorge it cleaves? Does rain apologize to the cistern? He moved downward, inward, toward the collecting-place. Then his torch found it—a name ending in *Kurz*. He halted. The silence pressed close. He laughed, a low and wondering sound. The sound rolled outward, struck stone, returned. But the voice that came back was not his own. It was Wode's voice—the dead shaman's cackle, arriving a full minute late.
+*No warmer here than on the scoured moor.*
+
+Maerbrang's flint kissed iron and sparked life into a fistful of dry, rotten wood. The flame caught. Stuttered. Held. By its stammering glow he saw himself twinned in the still black water of the passage; his own haggard countenance below, the point of his spear glinting both above and beneath the surface.
+
+As Maerbrang waded deeper, names crowded the dressed stones: *Varek Thornmane*, *Ulthed the Galled*, *Brennis Who Kept the Ford*. Each name a man unmade by time, his soul long since ferried back to the Ochre World by the crows.
+
+*What claim have I to trespass amongst these names?*
+
+Maerbrang moved downward, inward.
+
+*But does the river ask permission of the gorge it cleaves? Does rain apologize to the cistern?*
+
+Then the torch found it; a name ending in *Kurz*.
+
+Maerbrang halted, and he began to laugh. Low and wondering was the sound. It rolled outward, struck stone, returned.
+
+But the voice that came back was not Maerbrang's voice. It was Wode's voice. It was the dead shaman's cackle, arriving a full minute late.
+
+---
 
 ---
 
 ## Blob 22
 
-With one stroke of his seax-point across the carved letters, Maerbrang unmade the name of Kurz. The grooves filled with stone-dust. The silence that followed held neither protest nor thunder, only the soft plash of his own feet as he waded the remaining length of the vault, reading by guttering light the appellations of the forgotten: Haemoth, Brecca, Thurngeld. Names that meant nothing now. Souls long since carried crow-back to the Ochre World. He did not trouble himself to scratch them out. The passage terminated in blind stone where the water did not reach, and there upon that slight hummock of dry ground he folded himself down, spear across his thighs. *Rains might come. Drown me in this culvert.* He ceased to wonder. Ceased to think. Slept a sleep without vision or visitation, black as peat-water. He woke in perfect darkness, his fire-splinters long since crumbled to cold punk, but his palm found the clammy wall and he groped toward what emerged as grey light. With it came wind. With the wind, voices—faint, indistinct, numerous.
+The smile died on Maerbrang's countenance. With one stroke of his spear's point across the carved letters, Maerbrang unmade the name on the rock. The scraping echo faded, as a normal echo, and was replaced by the soft plash as Maerbrang waded the remaining length of the vault, reading by guttering light the appellations of other names. Moldrus. Coriandus Vex. Zess from Dusty Shelves. Those names meant nothing now. Maerbrang did not trouble himself to scratch them out.
+
+The passage terminated in a blind stone wall, with a little platform where the water did not reach. There upon that slight hummock of dry ground Maerbrang folded himself down, spear across his thighs. *Rains might come.* He thought idly. *Drown me in this culvert.* His brain fell slowly silent, until at last the warrior slept a sleep without vision or visitation, black as peat water.
+
+SCENEBREAK
+
+Maerbrang woke in perfect darkness. His fire-splinters had long since crumbled to cold punk, but his palm found the clammy wall and he groped toward what emerged as grey light. With the light came Wind. And with the Wind, voices; and numerous were they.
 
 ---
 
 ## Blob 23
 
-Maerbrang clambered from the henj's maw into a clamour of industry—the clank of mattocks biting chalk, the grunts of men heaving wicker-loads of spoil. For three heartbeats he stood unnoticed amid the murk. A digger glanced up, tallow-faced beneath his leather coif. The man's mouth gaped, then shaped a warning that split the morning. *Guss-man.* The cry multiplied, passing lip to lip until it became a chant, a summoning. They converged from their earthworks, from their cookfires, from their piss-trenches at the ring's edge—Kurz's sworn men, clad in stained gambeson and piecemeal ring-mail, their faces hollow from too long encamped in enemy soil. Maerbrang's jaw firmed. His nostrils flared wide, drawing the scent of their unwashed bodies, their oiled iron, their fear dressed as fury. His eyes narrowed to flint. Each man catalogued. Measured. His frame underwent a settling, a sinking of weight into the hips. Shoulders squaring. His hands found the spear's grip and levered it. The sharp tip cut the air high and hungry. There would be no quarter asked. He knew their lord's name had already begun its long forgetting beneath the hill.
+Maerbrang clambered from the henj's maw into a raucous industry—the clank of mattocks biting chalk, the grunts of men heaving baskets of loaded wicker. For three heartbeats he stood unnoticed amid the murk, dazed by the wan daylight. A digger glanced up, tallow varnishing his countenance beneath his leather coif. The man's mouth gaped, then shaped a warning that split the morn.
+
+"Guss's man."
+
+The cry multiplied into a refrain. They converged from their earthworks, and from their cookfires, and from their trenches at the henj's edge; Kurz's sworn men, clad in stained gambesons and piecemeal ringmail, their faces hollow from too long of labour with too little of vittles.
+
+Maerbrang's nostrils flared and his jaw grew taut. His eyes narrowed to flint; each man, measured. His frame underwent a settling, a sinking of weight into the hips; his shoulders squared; his hands found the spear's grip and levered it. High and hungry cut the sharp tip through the air. There would be no quarter asked. He knew their lord's name had already begun its long forgetting beneath the hill, and they knew it too in their hearts.
 
 ---
 
 ## Blob 24
 
-Spear-hafts bristled around him, and the foremost man—lantern-jawed, his gambeson crusted with old rust and older blood—spoke through his teeth: "We ken your blazon well enough, carrion-walker. What errand drags Guss's hound into Kurz's boneyard?"
+Now spear-hafts bristled around him. The foremost man—a lantern-jawed fellow, his gambeson begrimed—spoke through his teeth. "We know your countenance well enough. What errand drags Guss's hound into this demesne?"
 
 Maerbrang let his hand rest upon his seax-hilt, scanning the encampment's margins. "Where shelters your warlord? I would speak with Semprovius Thessamander Kurz."
 
-A bark of laughter from the lantern-jawed man. "Kurz took his death-rattle in the small hours—choked on his own phlegm whilst the watch-fires guttered. You've trudged corpse-roads for a meeting with worm-meat."
+The man with the lantern-jaw set his eye stabbing into Maerbrang's. "Kurz took his death-rattle in the small hours."
 
-"Then it was his final dying. The name-stone is shattered."
+"Then it was his last dying. Scarred is his name stone. His soul leaves this Red World for the other, and for good."
 
-The warrior's eyes narrowed. "Aye. I reckoned as much when you crawled from that drowned gullet."
+"Aye." The man breathed deep in through his nose. "I expected as much when you crawled from that long drowned hole."
 
-Before he could speak further, a mud-spattered runner burst through the perimeter, gasping: "Sarks—a war-band thick as midges—less than a mile and closing swift!"
+Ere the man could speak further a muddy runner burst through the perimeter, gasping. "Sarks. Thick as midges. A mile... mayhap. They come swift."
 
-Men scrambled toward the earthworks, snatching up self-bows and fire-hardened javelins. Three warriors remained, encircling Maerbrang with naked steel.
+Men scrambled toward the stonework ring, snatching up shortbows and hard javelins. Three warriors remained by Maerbrang, encircling him with their iron.
 
-"Can you wield that blade for something beyond murder?" the youngest demanded.
+"Can you lever that spear for something beyond murder?" the youngest demanded.
 
-Maerbrang folded his arms across his chest. "To what purpose? You would gut me regardless once the Sarks lay cooling."
+Maerbrang folded his arms across his chest. "To what purpose? You would gut me once the sarks were bloody and cool."
 
-"Mayhaps we perish first," another offered. "Mayhaps you walk free."
+"Yet it may pass that we perish first," another offered. "And then you walk free."
 
-The third spat into the loam. "Kurz's blood is cold. We serve no lord's vengeance now—only our own sinews."
+The third spat into the wavery grass. "Cold lies Kurz's blood. We serve no lord's vengeance now; only our own lives."
 
-From the henj's rim: "*They crest the ridge!*"
+From the henj's rim: "They're at the ridge."
 
-"Your oath," the lantern-jawed man pressed. "Swear you will not turn your edge against us."
+"Your oath," the lantern-jawed man pressed. "Swear you will not turn your speartip against us."
 
-Maerbrang's smile was a wound. "What worth is an oath from a man who has walked corpse-roads and broken name-stones? If I swore fealty on every spirit between here and the henj, you would be a fool to sleep easier for it."
+Maerbrang's smile was a wound. "What worth is an oath from a man who has walked roads of dead men, and marred name stones? If I swore fealty on every spirit between here and the henj, you would be a fool to sleep easier for it. I would simply swear again when the wind changed."
 
-The cry rose shrill from the earthworks: "*They are upon us!*"
+"They are upon us!"
 
 ---
 
 ## Blob 25
 
-Twelve spears held the henj-works—thirteen if Maerbrang counted his own arm among them—and the first wave of sarks met that bristling welcome with the witlessness of driven cattle. A clay sling-bullet took one through the eye-socket mid-scramble. Another pitched forward into a stake-pit, and an axe crunched through his nape before he could thrash free. Maerbrang's own spear licked out, skimming through gristle and neck-cord, and the sark he'd opened folded sideways, pawing at the ruin of his throat as he slithered off the wall. Seven, perhaps eight of the forgotten men lay twitching in the ditch-mud, their snarling gone to wet gurgles—but two more were already hauling themselves over the coping-stones toward him. Beyond the embankment's lip, the crowding silhouettes of scores more, their heads cresting the earthwork.
+Twelve spears held the broken henj - thirteen if Maerbrang counted his own arm amongst them. The first wave of sarks met that bristling welcome with the witlessness of driven cattle. A clay sling bullet took one through the eyesocket mid-scramble. Another pitched forward into a stake pit, and an axe crunched through his nape ere he could thrash himself free. Maerbrang's own spear licked out, skimming through gristle and the soft meat of the throat as one scrambled toward him, and that sark folded sideways, pawing at the ruin of his windpipe as he slithered off the wall. Only a moment passed, yet now seven, perchance eight of these forgotten men lay twitching in the ditch and the grass, their snarling gone to wet gurgles. Already two more were hauling themselves over the coping-stones, clawing toward Maerbrang with fingers hooked like talons; beyond the embankment's lip the silhouettes of scores more crowded, and their heads crested the low wall, and still more pressed behind them.
+
+---
 
 ---
 
 ## Blob 26
 
-The first man fell within arm's reach. Maerbrang saw him buckle—a squat spearman from Kurz's former levy—and watched another warrior, helmed in boiled leather gone black with old tallow, cleave through the two sarks that had borne the man down. His hatchet split the crown of one and lodged in the clavicle of the second with a wet wrench of gristle. When he knelt to haul his fellow upright the spearman's throat gaped wide, the windpipe shredded to pale ribbons, the blood already sheeting down his corslet in a burgundy apron that steamed in the cold. Twelve remaining—himself counted among that sum—as he torqued his ash-haft free from the sark whose belly he had just punctured. The entrails slopped out in grey-pink ropes. The creature still twitched. Then hands seized him from behind: fingers of hemp cordage, an arm hooked beneath his chin, the stench of rotted teeth and something older—loam, or the fetor of a barrow unsealed. He was wrenched backward, his heels skidding furrows in the churned mud as the sark bore him earthward with its full weight. Its knees clamped his ribs. One fist hammered at his wrist each time he scrabbled toward the fallen spear three handspans distant. The arm constricted. Maerbrang's gorge rose. His vision curdled at the margins. Across the trampled garth he glimpsed two more warriors crumple; one took a sark with him into the mire, their bodies interlocked; the other simply dropped, hamstrung and screaming until a heel stamped his cry into silence. A second sark vaulted a gap in the low rubble-wall, its gaze fixing on Maerbrang's pinioned form. It loped toward him with that hitching, disjointed gait—limbs remembering purpose but forgetting grace—closing the distance span by span while the pressure at his throat squeezed the world to a shrinking aperture of grey and amber. *The doom the goldfinch sang of. This muddy wrack of a henj-yard.*
+The first man fell within arm's reach. Maerbrang saw him buckle, a squat spearman of what had been Semprovius Thessamander Kurz's warriors. He saw another warrior, helmed in boiled leather gone black, cleave through the sarks that had borne the man down. That man's hatchet split the crown of one and lodged in the clavicle of the second. When he knelt to haul his fellow upright he saw the spearman's throat gaping, the windpipe shredded to pale ribbons, the blood already sheeting down his corslet in a burgundy apron that steamed in the cold.
+
+Twelve remaining... if Maerbrang counted himself amongst that sum. He torqued his ash-haft free from the sark whose belly he had just punctured. The entrails slopped out in ropes. It twitched. Then hands seized Maerbrang from behind. He felt fingers of hemp cordage, an arm hooked beneath his chin; he smelled rotted teeth, and something older, loam mayhap. Maerbrang was wrenched backward, his heels skidding furrows in the churned mud whilst the sark bore him earthward. Its knees slammed his ribs. One fist hammered his own wrist each time he reached toward the fallen spear three handspans distant.
+
+Maerbrang's gorge rose. His vision curdled at the margins. Across the trampled garth he saw two more warriors crumple; one took a sark with him into the mire, their bodies interlocked; the other simply dropped, hamstrung and screaming until a heel silenced his cry. A second sark vaulted a gap in the low rubble-wall, its gaze fixing on where Maerbrang lay pinioned. It loped toward him with that hitching, disjointed gait, limbs remembering purpose but forgetting grace, closing the distance span by span whilst the pressure at his throat squeezed the world to a shrinking aperture of amber.
+
+*The doom the goldfinch sang of. Here? This muddy ruin of a yard?*
 
 ---
 
 ## Blob 27
 
-Maerbrang's scrabbling fingers found the haft of Wode's mace where it hung at his belt. The bludgeon answered his grip, arced blind over his shoulder, staved the sark's brainpan with a wet crunch. The strangling arm loosed. He gulped air. Through tear-blurred eyes he watched a flung javelin punch through the charging sark's sternum and topple it mid-stride. He heaved himself upright on treacherous legs. Snatched his fallen spear. Hamstrung a loping grey shape that lunged too near. Stumbled and staggered and half-crawled toward the remnant half-ring of warriors braced against the henj's last standing wall—eight bloodied figures, panting, blades outthrust. Rough hands seized his harness and hauled him gasping into that bristling circle where back pressed to back.
+And then Maerbrang's fingers found the haft of Wode's mace where it hung at his girdle. That bludgeon arced blind over his shoulder, and with a wet crunch stove the sark's brainpan. The strangling arm loosed. Maerbrang drank the air. Through blurred eyes he watched a flung javelin punch through the sternum of the sark that had been charging him. It too toppled.
+
+Maerbrang heaved himself upright on weak legs. He snatched his fallen spear. A loping grey shape lunged near; he slid deftly aside and cut its hamstring with the speartip, the blade biting deep where tendon joined the great muscle of the calf. Stumbling and staggering and half-crawling, Maerbrang raced toward the remnant half-ring of warriors braced against the highest portion of the henj's ruined wall. Eight bloodied figures there were, panting, blades outthrust. As Maerbrang slipped by a sark and reached their number, rough hands seized his harness and hauled him gasping into the bristling front.
+
+---
 
 ---
 
 ## Blob 28
 
-Though none among them could have reckoned its precise duration, the slaughter concluded with abruptness. Sarks, being carrion-bold but craven at the marrow, had not anticipated quarry that bit back. When two-score of their pallid kindred lay opened and steaming, the survivors scattered into the fog-choked weald. Nine men remained upright, Maerbrang among them, their ring contracted against the henj's one standing wall. The dead had swarmed upon them and now the dead clung still—rag-wound corpses heaped at their feet, limbs tangled with the defenders' greaves, fingers hooked in cloak-hems and belt-leather as though death had merely interrupted their grasping. Beyond this central massing, other carcasses lay strewn across the henj's broken floor, draped over toppled lintels, crumpled in the channels where old rain-gutters had once directed libations. Above it all the wall loomed—that solitary upright slab of lichen-scabbed granite—and cast its penumbra over victors and slain alike. Where moments before the air had rung with the wet percussion of iron meeting bone, now pressed only silence.
+Though none amongst them could have reckoned its precise duration, the slaughter concluded shortly after. The sarks, doughty like carrion, but craven in their bones, had not anticipated quarry that bit. When two-score of their pallid bodies lay opened and steaming in the ruin, the survivors scattered. Back they fled, into weald.
+
+Nine men remained upright, Maerbrang amongst them. The dead piled around them; corpses heaped at their feet, limbs tangled with the defenders' greaves, fingers hooked in mantle hems and their leather girdles; as though death had merely interrupted their animal fervor. Beyond this central mass, other carcasses lay strewn across the henj's broken floor, draped over toppled lintels, crumpled in the little channel left by rain gutters of old. Above it all the henj wall loomed, that solitary upright slab of lichenous granite, and cast its penumbra over victors and slain alike. Moments ere, the air had rung with the wet percussion of iron meeting bone. Now there was a communal heavy breathing.
+
+---
 
 ---
 
 ## Blob 29
 
-And so with Thessamander Kurz shorn from the world they found no quarrel left between them. Maerbrang stooped beside the lantern-jawed warrior and the others to prise stones from the henj's tumbled circlet and heap four rough kerns over the fallen. He gleaned from them the lie of the land—the fens, the drove-roads, the lord-halls still standing. At dusk they scattered, each to his own refuge or ruin or master's hearth. Maerbrang turned his foot back toward lord Guss.
+With Thessamander Kurz shorn from the world, his warriors found no quarrel left worth killing over. In the wake of the fray, Maerbrang stooped beside the lantern-jawed warrior and the others, prising stones from the henj's tumbled circlet. They heaped four rough kerns over the four fallen men. From the survivors Maerbrang gleaned the lie of the land: where lay the fens, the droving roads, the halls and homes still standing. At dusk the men scattered, each to his own refuge or ruin or master's hearth; and Maerbrang himself turned his feet back toward his master Guss.

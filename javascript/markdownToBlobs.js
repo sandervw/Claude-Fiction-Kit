@@ -11,7 +11,7 @@ function markdownToBlobs(markdown, groupSize) {
   const blobs = [];
 
   for (const section of sections) {
-    const headerMatch = section.match(/^##\s*Blob\s+(\d+)\s*:/m);
+    const headerMatch = section.match(/^##\s*Blob\s+(\d+)\s*/m);
     if (!headerMatch) continue;
 
     const blobNum = parseInt(headerMatch[1], 10);

@@ -5,7 +5,7 @@ import { markdownToBlobs } from "./javascript/markdownToBlobs.js";
 const inputStory = readFileSync("./Input/temp.md", "utf-8");
 const revisionGuide = readFileSync("./Input/Revision-Guide.md", "utf-8");
 
-const { 'blob-groups': blobGroups } = markdownToBlobs(inputStory, 3);
+const { 'blob-groups': blobGroups } = markdownToBlobs(inputStory, 1);
 
 const revisedGroups = [];
 for (const group of blobGroups) {
