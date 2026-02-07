@@ -85,8 +85,6 @@ The scabrous log that was not a log detonated from the shallows, brackish gobbet
 
 ---
 
----
-
 ## Blob 11
 
 Thereafter Maerbrang sought a ford, a causeway, some egress from the mire. He found none. The shallows gaped back from all ways. So he clambered onto the nearest tussock where the morass yielded to moss and sedge, and hunted for a path along the verge. The sun hung fixed in its azimuth, albeit the hours bled away. Heat mantled his shoulders and draped across his countenance. The earth beneath his tread sucked and clutched. The demesne buckled through fens and quagmires without logic or relent; each promontory dissolved into slough; each gallery of stunted alder collapsed into impasse. Twice he retraced his own spoor. Thrice he circled back to ground he could not name. The rival scout's trail, that faint susurrus of bent grass and disturbed loam he had pursued since dawn, had vanished. Time unspooled in strange skeins. Distance contorted.
@@ -103,8 +101,6 @@ The bargeman stood at the stern of his vessel, his posture the patient vertical 
 
 ---
 
----
-
 ## Blob 13
 
 Maerbrang spoke the first words, his voice carrying flat across the mist-wreathed water.
@@ -113,7 +109,7 @@ Maerbrang spoke the first words, his voice carrying flat across the mist-wreathe
 
 The bargeman's lipless mouth unseamed itself, and from it came a single croak: "Cull."
 
-A silence festered between them, broken only by the faint slap of current against hull strakes. Maerbrang's brow furrowed. *A name? A command?* He extended his hand across the gap of dark water, palm upturned in the old greeting, yet the bargeman only stared at the offered palm. His long fingers neither releasing nor tightening on the punt pole, merely flexing in their perpetual half-grip.
+A silence festered between them, broken only by the faint slap of current against hull strakes. Maerbrang's brow furrowed. *A name? A command?* He extended his hand across the gap of dark water, palm upturned in the old greeting, yet the bargeman only stared. His long fingers neither releasing nor tightening on the punt pole, merely flexing in their perpetual half-grip.
 
 "I am called Vetch," Maerbrang said, retracting his hand. "I am sworn servant to Thessamander Kurz."
 
@@ -124,8 +120,6 @@ Maerbrang let the silence coagulate again. Let it thicken until the mist itself 
 "Kurz-man?" The bargeman's jutting brow creased. "Truth?"
 
 Maerbrang only watched, his countenance betraying naught; and still he watched, vigilant and unmoved, until the barge groaned forward, its driftwood bulk grating against the gravelled mud. Cull the bargeman gestured once with his chin toward the vessel's black deck. "Mind thy footing."
-
----
 
 ---
 
@@ -154,8 +148,6 @@ Silent sank the bargeman's body, and left no ripple.
 *Villainy has no set sense.* The thought rolled through Maerbrang's conscience whilst he drove the dripping pole into the murk and felt the barge shudder forward through the vaporous stillness. *It is a migrating word, now nesting in one heart, now another, and each time with different plumage.* Would those wayfarers whom the bargeman had ferried toward their doom naysay this slaying? Would the bones moldering in whatever oubliette Thessamander Kurz maintained for such unfortunates weep for their jailer's gutting? To them, Maerbrang would appear as the left hand of valor.
 
 Thus had it been with all his killings. Wode the shaman. Others, their countenances grown gauzy in recollection. Each death wore the raiment of atrocity only when beheld through the bereaved eye, the partisan eye. Maerbrang had always apprehended this truth, even as a whelp. Morality was a prospect, only the hillside from which one squinted at the deed. And if to others such coldness made him ophidian, well then let him be a serpent; but let that serpent be an adder, tame and coiled at his lord Guss's heel.
-
----
 
 ---
 
@@ -189,13 +181,9 @@ So long was the crossing that the dusk had begun its slow curdling ere he reache
 
 ---
 
----
-
 ## Blob 20
 
 The henj stood at the hill's crown, a work of older builders. The encircling bank, which in that elder age had risen proud, now slumped inward, its crest gnawed down by manifold weighty frosts and the patient treachery of bracken roots. The ditch that had once guarded the inner sanctum, cut inside the rampart in the manner of sacred precincts, lay scummed with black water and the decomposing lace of autumn leaves. Long since had the palisade surrendered to time. Whatever oaken or ashwood logs had once crowned the ringwork had been rendered to splinter, to punk, to loam, carried off by Wind and the scavenging of peasant generations. Yet the mortared plinth whereon they had stood remained: a circlet of dressed stone rising generally only to the height of a knee, gapped where sections had tumbled into the interior bowl. Within that broken crown the ground showed the pugmarks and scat of creatures who had denned here through the seasons; the cloven slots of roe deer pressed into frozen mud; twisted rope of fox droppings atop a fallen lintel; tufts of coarse hair. Yet it was the henj's throat that held Maerbrang's eye longest: an aperture, lips of stone gaping at the enclosure's nadir, its steps descending into water the color of old bronze. Water that did not ripple, albeit it wore no skim of ice. Water from which rose the faint exhalation of peat and the breath of interred air and the susurrus of silt long unstirred.
-
----
 
 ---
 
@@ -218,8 +206,6 @@ Then the torch found it; a name ending in *Kurz*.
 Maerbrang halted, and he began to laugh. Low and wondering was the sound. It rolled outward, struck stone, returned.
 
 But the voice that came back was not Maerbrang's voice. It was Wode's voice. It was the dead shaman's cackle, arriving a full minute late.
-
----
 
 ---
 
@@ -287,8 +273,6 @@ Twelve spears held the broken henj - thirteen if Maerbrang counted his own arm a
 
 ---
 
----
-
 ## Blob 26
 
 The first man fell within arm's reach. Maerbrang saw him buckle, a squat spearman of what had been Semprovius Thessamander Kurz's warriors. He saw another warrior, helmed in boiled leather gone black, cleave through the sarks that had borne the man down. That man's hatchet split the crown of one and lodged in the clavicle of the second. When he knelt to haul his fellow upright he saw the spearman's throat gaping, the windpipe shredded to pale ribbons, the blood already sheeting down his corslet in a burgundy apron that steamed in the cold.
@@ -309,15 +293,11 @@ Maerbrang heaved himself upright on weak legs. He snatched his fallen spear. A l
 
 ---
 
----
-
 ## Blob 28
 
 Though none amongst them could have reckoned its precise duration, the slaughter concluded shortly after. The sarks, doughty like carrion, but craven in their bones, had not anticipated quarry that bit. When two-score of their pallid bodies lay opened and steaming in the ruin, the survivors scattered. Back they fled, into weald.
 
 Nine men remained upright, Maerbrang amongst them. The dead piled around them; corpses heaped at their feet, limbs tangled with the defenders' greaves, fingers hooked in mantle hems and their leather girdles; as though death had merely interrupted their animal fervor. Beyond this central mass, other carcasses lay strewn across the henj's broken floor, draped over toppled lintels, crumpled in the little channel left by rain gutters of old. Above it all the henj wall loomed, that solitary upright slab of lichenous granite, and cast its penumbra over victors and slain alike. Moments ere, the air had rung with the wet percussion of iron meeting bone. Now there was a communal heavy breathing.
-
----
 
 ---
 
