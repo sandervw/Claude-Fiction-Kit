@@ -4,15 +4,15 @@
 
 Folklore ideas originate through concrete grounding. Use these mechanisms to generate associations:
 
-| Mechanism | Description |
-|-----------|-------------|
-| **Visual/Material Analogy** | Physical resemblance suggests deeper connection (red wine → blood; tree structure → cosmic structure) |
-| **Puns and Wordplay** | Linguistic coincidence becomes meaningful (kintama "testicles" ≈ kin no tama "gold ball") |
-| **Extension of Existing Category** | Object inherits properties from its class ("garlic repels evil" → "garlic repels vampires") |
-| **Observation of Real Phenomena** | Actual properties get mythologized (tanuki pelts stretch when hammering gold → magical stretching) |
-| **Theological/Conceptual Recontextualization** | Existing symbol gets new specific meaning (Passover wine → Christ's blood specifically) |
-| **Literary Invention That Becomes Canon** | Fiction hardens into folklore (Nosferatu's sunlight weakness → all vampires) |
-| **Cross-Cultural Inheritance** | Borrowed and adapted from contact cultures (Siberian world-tree → Norse Yggdrasil) |
+| Mechanism                                      | Description                                                                                           |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Visual/Material Analogy**                    | Physical resemblance suggests deeper connection (red wine → blood; tree structure → cosmic structure) |
+| **Puns and Wordplay**                          | Linguistic coincidence becomes meaningful (kintama "testicles" ≈ kin no tama "gold ball")             |
+| **Extension of Existing Category**             | Object inherits properties from its class ("garlic repels evil" → "garlic repels vampires")           |
+| **Observation of Real Phenomena**              | Actual properties get mythologized (tanuki pelts stretch when hammering gold → magical stretching)    |
+| **Theological/Conceptual Recontextualization** | Existing symbol gets new specific meaning (Passover wine → Christ's blood specifically)               |
+| **Literary Invention That Becomes Canon**      | Fiction hardens into folklore (Nosferatu's sunlight weakness → all vampires)                          |
+| **Cross-Cultural Inheritance**                 | Borrowed and adapted from contact cultures (Siberian world-tree → Norse Yggdrasil)                    |
 
 ## Three Viability Criteria
 
