@@ -40,27 +40,19 @@ For each problem, generate 2-3 solutions. Label them A, B, C. Then select the be
 
 ## Formatting
 
-Present each problem-solution sequence as a continuous narrative, not a bulleted list. Each problem and its selected solution should be written as full sentences — a reader should be able to follow the logic without any headers or formatting cues.
+Each problem and its selected solution should be written as short full sentences.
 
-### Example Format
+Example Problem Format:
+```
+### Problem 1:
 
-**Problem 1: [The question, stated as a complete sentence]**
+[The question, stated as a short sentence]
 
-*Solution A:* [Description — a sentence or two explaining the approach and its implications]
+*Solution A:* [Description — a short sentence explaining the approach and its implications]
 
 *Solution B:* [Description]
 
 *Solution C:* [Description]
 
-**→ Selecting [A/B/C].** [One sentence explaining why this solution wins — what it adds to the concept that the others don't.]
-
-## The Resulting Concept
-
-After working through all problems, you should be able to state the story idea as a single paragraph where every clause depends on the clauses before it. The concept should feel *inevitable* — like the only story these two elements could have produced once you looked at them long enough.
-
-The final concept should contain, at minimum:
-- A protagonist with a specific defining trait drawn from the collision
-- A situation that could only exist because of the specific pairing of elements
-- A central tension where the protagonist's nature is both their greatest asset and their greatest vulnerability
-- An implied arc (not a full plot — just a direction of movement)
-- A thematic question that the story explores but doesn't necessarily answer
+**Selecting [A/B/C].** [One short sentence explaining why this solution wins.]
+```

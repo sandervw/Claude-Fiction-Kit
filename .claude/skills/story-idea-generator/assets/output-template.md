@@ -1,42 +1,42 @@
-# Story Idea — [Descriptive Title]
+# Story Idea — [Title]
 
-> **Elements:** [Element A] × [Element B]
+**Elements:** [Element A] and [Element B]
 
 ---
 
-## The Elements
+## Elements
 
 ### [Element A Name]
 
-| # | Trait |
-|---|-------|
-| 1 | [trait] |
-| 2 | [trait] |
-| 3 | [trait] |
-| 4 | [trait] |
-| 5 | [trait] |
+| #   | Trait   |
+| --- | ------- |
+| 1   | [trait] |
+| 2   | [trait] |
+| 3   | [trait] |
+| 4   | [trait] |
+| 5   | [trait] |
 
 ### [Element B Name]
 
-| # | Trait |
-|---|-------|
-| 1 | [trait] |
-| 2 | [trait] |
-| 3 | [trait] |
-| 4 | [trait] |
-| 5 | [trait] |
+| #   | Trait   |
+| --- | ------- |
+| 1   | [trait] |
+| 2   | [trait] |
+| 3   | [trait] |
+| 4   | [trait] |
+| 5   | [trait] |
 
 ---
 
-## Top Collisions
+## Collisions
 
-[List the top 5-10 "What if?" collisions, each as a numbered question with a one-sentence friction explanation.]
+[List the top 4-7 "What if?" collisions, each as a numbered question with a short one-sentence friction explanation.]
 
 ---
 
 ## Selected Candidate
 
-> [The chosen "What if?" question — the collision with the most unexplored territory]
+[The chosen "What if?" question — the collision with the most unexplored territory]
 
 **Why this one:** [1-2 sentences explaining why this candidate resists mapping onto existing stories.]
 
@@ -44,44 +44,36 @@
 
 ## Development — Problems and Solutions
 
-[For each problem, write the problem statement, the 2-3 solutions considered, and the selected solution with justification. Write in full sentences throughout — no bullet-point shorthand.]
+[For each problem, write the problem statement, the 2-3 solutions considered, and the selected solution with justification. Write in full sentences throughout.]
 
-### Problem 1: [Problem title]
+### Problem 1:
 
-[Problem statement as a full sentence or two.]
+[The question, stated as a short sentence]
 
-*Solution A:* [Full sentence description.]
+*Solution A:* [Description — a short sentence explaining the approach and its implications]
 
-*Solution B:* [Full sentence description.]
+*Solution B:* [Description]
 
-*Solution C:* [Full sentence description.] *(optional — some problems may only need two solutions)*
+*Solution C:* [Description]
 
-**→ Selecting [X].** [Justification — what this adds to the concept.]
+**Selecting [A/B/C].** [One short sentence explaining why this solution wins.]
 
-### Problem 2: [Problem title]
+### Problem 2:
 
 [Continue the same pattern for each subsequent problem...]
 
 ---
 
-## The Concept
-
-[A single paragraph summarizing the fully-developed story idea. Every clause should depend on the clauses before it. This should read as a compelling, self-contained pitch — the kind of thing you'd tell someone over drinks and they'd say "I'd read that."]
-
----
-
 ## Summary Table
 
-| # | Problem | Chosen Solution |
-|---|---------|----------------|
-| 1 | [brief problem] | [brief solution] |
-| 2 | [brief problem] | [brief solution] |
-| 3 | [brief problem] | [brief solution] |
-| 4 | [brief problem] | [brief solution] |
-| 5 | [brief problem] | [brief solution] |
+| #   | Problem                | Chosen Solution         |
+| --- | ---------------------- | ----------------------- |
+| 1   | [problem (< 10 words)] | [solution (< 10 words)] |
+| 2   | [problem (< 10 words)] | [solution (< 10 words)] |
+| 3   | [problem (< 10 words)] | [solution (< 10 words)] |
+| 4   | [problem (< 10 words)] | [solution (< 10 words)] |
+| 5   | [problem (< 10 words)] | [solution (< 10 words)] |
 
 **The central tension:** [One sentence capturing the core friction that makes this story idea work.]
 
----
-
-*Generated via story-idea-generator skill*
+**The concept:** [A single paragraph summarizing the fully-developed story idea.]

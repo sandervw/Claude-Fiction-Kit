@@ -14,21 +14,19 @@ Friction tends to appear in these patterns:
 
 ## Selection Criteria
 
-From all the combinations that produce friction, select the **top 5-10** based on three criteria.
+From all the combinations that produce friction, select the **top 4-7** based on three criteria.
 
 1. Connected to Something Observable or Widely Recognized
 2. Memorable
 3. Specific/Unique
 
-## Formatting the Top Collisions
-
-Present each collision as a numbered "What if?" question, followed by a one-sentence explanation of where the friction comes from:
+Frame each collision as a numbered "What if?" question, followed by a short one-sentence explanation of where the friction comes from:
 
 ```
-1. "What if [situation created by the collision]?"
+"1. What if [situation created by the collision]?"
    Friction: [which traits collide and why the result is charged]
 ```
 
 ## Selecting the Candidate
 
-After listing the top 5-10 collisions, select the **single strongest candidate** — the one that sounds **least like an existing story idea or explored theme**.
+After selecting the top 4-7 collisions, select the **single strongest candidate** — the one that sounds **least like an existing story idea or explored theme**.

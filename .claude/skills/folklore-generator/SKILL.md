@@ -9,7 +9,7 @@ Generate culturally-plausible folklore elements (beliefs, rituals, folk explanat
 
 ## Workflow
 
-*DO NOT proceed to a later step until you have completed the preceding one.*
+*Each step's reference file must only be read AFTER the previous step's output has been completed and presented. Do NOT batch-read reference files. Reading a step's reference file counts as beginning that step.*
 
 ### Step 1: Load Taxonomy and Criteria
 

@@ -9,7 +9,7 @@ Generate original story ideas by systematically colliding two user-provided elem
 
 ## Workflow
 
-_DO NOT proceed to a later step until you have completed the preceding one._
+*Each step's reference file must only be read AFTER the previous step's output has been completed and presented. Do NOT batch-read reference files. Reading a step's reference file counts as beginning that step.*
 
 Execute these steps in sequence. Each step loads a reference file containing detailed instructions for that phase.
 
@@ -17,22 +17,22 @@ Execute these steps in sequence. Each step loads a reference file containing det
 
 Read `references/element-combination.md`.
 
-Output the inherently-interesting traits you generated from the reference. Then proceed to step 2 with your full list of generated combinations.
+Use your full list of generated combinations in the next step.
 
 ### Step 2: Bisociation — Finding Friction
 
 Read `references/bisociation.md`.
 
-Output your list of 5-7 candidate combinations, and the final chosen candidate.
+Use your final chosen candidate in the next step.
 
 ### Step 3: Problem-Solving Development
 
 Read `references/problem-solving.md`.
 
-Take the selected candidate and develop it through 5-10 iterative problems. Each problem defines a gap or tension in the concept that must be resolved for the idea to function as a story. For each problem, generate 2-3 possible solutions, then select the best — the one that is most creative, most unique, or ties most tightly back into the original collision. Problems should progress from foundational (why does this situation exist?) to structural (what's the core conflict?) to specific (what makes the resolution distinctive?).
+Use your resulting list of problem-solution pairs, and prior step results, in the next step.
 
 ### Step 4: Format Output
 
-Read the template at `assets/story-idea-output.md`. Write the completed story idea to a new markdown file using that template. Name the file descriptively based on the two input elements (e.g., `story-idea-concierge-x-cannibals.md`).
+Read the template at `assets/output-template.md`. Write the completed story idea to a new markdown file using that template. Name the file descriptively based on the two input elements (e.g., `story-idea-concierge-x-cannibals.md`).
 
 Save the file and present it to the user.

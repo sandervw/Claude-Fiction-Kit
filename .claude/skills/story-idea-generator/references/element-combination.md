@@ -22,5 +22,3 @@ Extract **5-7 traits per element**. If you have more than 7 strong candidates, k
 ## Building the Collision Space
 
 Once both elements are decomposed, generate the full set of pairings: every trait from Element A matched against every trait from Element B. With 5-7 traits each, this produces 25-49 pairings.
-
-Present the extracted traits in two clear lists before proceeding.
