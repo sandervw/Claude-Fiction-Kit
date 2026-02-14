@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync } from "fs";
-import { llmPrompt } from "./javascript/llmPrompt.js";
-import { markdownToBlobs } from "./javascript/markdownToBlobs.js";
+import { llmPrompt } from "./Javascript/llmPrompt.js";
+import { markdownToBlobs } from "./Javascript/markdownToBlobs.js";
 
 const inputStory = readFileSync("./Input/temp.md", "utf-8");
 const revisionGuide = readFileSync("./Input/Revision-Guide.md", "utf-8");
