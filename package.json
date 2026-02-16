@@ -5,7 +5,8 @@
   "description": "LLM-powered dynamic storytelling tools",
   "scripts": {
     "generate-character": "node generate-character.js",
-    "main": "node main.js"
+    "main": "node main.js",
+    "test": "node test.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0"

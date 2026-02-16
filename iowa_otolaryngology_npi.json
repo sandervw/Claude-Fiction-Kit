@@ -1,0 +1,5421 @@
+{
+  "query": {
+    "taxonomy_description": "Otolaryngology",
+    "state": "IA",
+    "distance_from": "Washington, IA 52353"
+  },
+  "total_results": 190,
+  "results": [
+    {
+      "npi": "1982635314",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2006-07-05",
+        "first_name": "BRUCE",
+        "last_name": "ABKES",
+        "last_updated": "2007-11-02",
+        "middle_name": "A",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "215 E WATAUGA AVE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "JOHNSON CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "423-434-2032",
+        "postal_code": "376014671",
+        "state": "TN",
+        "telephone_number": "423-929-9101"
+      },
+      "distance_washington_iowa_miles": 612
+    },
+    {
+      "npi": "1861658049",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2008-08-06",
+        "first_name": "MOHANNAD",
+        "last_name": "AL-QUDAH",
+        "last_updated": "2008-08-06",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-2167"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1962857128",
+      "basic": {
+        "certification_date": "2024-08-08",
+        "credential": "MD",
+        "enumeration_date": "2016-04-25",
+        "first_name": "ZAID",
+        "last_name": "AL-QURAYSHI",
+        "last_updated": "2024-08-08",
+        "middle_name": "HILAL HADI",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-3574"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1831675107",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2018-07-19",
+        "first_name": "AHMED",
+        "last_name": "ALKHATEEB",
+        "last_updated": "2018-07-19",
+        "middle_name": "ABDULLAH",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-2177"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1538562251",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2014-10-08",
+        "first_name": "GHASSAN",
+        "last_name": "ALOKBY",
+        "last_updated": "2014-10-08",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-2167"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1629701065",
+      "basic": {
+        "certification_date": "2022-07-04",
+        "credential": "MD",
+        "enumeration_date": "2022-07-04",
+        "first_name": "ALHANOUF",
+        "last_name": "ALQABBANI",
+        "last_updated": "2022-07-04",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1902855778",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2006-05-09",
+        "first_name": "LOUIS",
+        "last_name": "ALT",
+        "last_updated": "2009-11-25",
+        "middle_name": "PETER",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1000 LANGWORTHY ST",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DUBUQUE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "563-584-3395",
+        "postal_code": "520017313",
+        "state": "IA",
+        "telephone_number": "563-584-3475"
+      },
+      "distance_washington_iowa_miles": 102.2
+    },
+    {
+      "npi": "1427921121",
+      "basic": {
+        "certification_date": "2025-09-28",
+        "credential": "MBBS",
+        "enumeration_date": "2025-09-29",
+        "first_name": "NASSER ABDULAZIZ M",
+        "last_name": "ALWEHAIBI",
+        "last_updated": "2025-09-29",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1043668478",
+      "basic": {
+        "certification_date": "2022-05-18",
+        "credential": "MD",
+        "enumeration_date": "2016-05-26",
+        "first_name": "BRADY",
+        "last_name": "ANDERSON",
+        "last_updated": "2022-05-18",
+        "middle_name": "JAMES",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1104322130",
+      "basic": {
+        "certification_date": "2025-01-08",
+        "credential": "MD",
+        "enumeration_date": "2018-03-30",
+        "first_name": "NICHOLAS",
+        "last_name": "ANDRESEN",
+        "last_updated": "2025-01-08",
+        "middle_name": "SCOTT",
+        "sex": "M",
+        "sole_proprietor": "YES",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "35 MEDICAL CENTER PKWY",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "AUGUSTA",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "207-622-8601",
+        "postal_code": "043308160",
+        "state": "ME",
+        "telephone_number": "207-622-8600"
+      },
+      "distance_washington_iowa_miles": 1131.7
+    },
+    {
+      "npi": "1245449701",
+      "basic": {
+        "certification_date": "2021-08-09",
+        "credential": "MD",
+        "enumeration_date": "2007-05-22",
+        "first_name": "BRIAN",
+        "last_name": "ANDREWS",
+        "last_updated": "2021-08-09",
+        "middle_name": "T",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-2371",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-3317"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1811090913",
+      "basic": {
+        "authorized_official_credential": "MD",
+        "authorized_official_first_name": "ANN",
+        "authorized_official_last_name": "BELL",
+        "authorized_official_middle_name": "F",
+        "authorized_official_name_prefix": "--",
+        "authorized_official_name_suffix": "--",
+        "authorized_official_telephone_number": "3193528891",
+        "authorized_official_title_or_position": "President",
+        "enumeration_date": "2006-09-06",
+        "last_updated": "2009-12-01",
+        "organization_name": "ANN F BELL MD PC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "312 9TH ST SW",
+        "address_2": "SUITE 3000",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WAVERLY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-352-8896",
+        "postal_code": "50677",
+        "state": "IA",
+        "telephone_number": "319-352-8891"
+      },
+      "distance_washington_iowa_miles": 108.1
+    },
+    {
+      "npi": "1699937045",
+      "basic": {
+        "certification_date": "2020-12-11",
+        "credential": "DO",
+        "enumeration_date": "2008-06-26",
+        "first_name": "AUSTIN",
+        "last_name": "BANCROFT",
+        "last_updated": "2020-12-11",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1215 DUFF AVENUE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "AMES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-239-4716",
+        "postal_code": "500103014",
+        "state": "IA",
+        "telephone_number": "515-239-4480"
+      },
+      "distance_washington_iowa_miles": 107.6
+    },
+    {
+      "npi": "1972596187",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2005-08-24",
+        "first_name": "NANCY",
+        "last_name": "BAUMAN",
+        "last_updated": "2025-09-11",
+        "middle_name": "M",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "UNIVERSITY OF IOWA HOSPITALS & CLINICS",
+        "address_2": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421082",
+        "state": "IA",
+        "telephone_number": "319-356-2164"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1700079480",
+      "basic": {
+        "certification_date": "2026-02-04",
+        "credential": "M.D.",
+        "enumeration_date": "2007-08-25",
+        "first_name": "RODRIGO",
+        "last_name": "BAYON",
+        "last_updated": "2026-02-04",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421007",
+        "state": "IA",
+        "telephone_number": "319-356-3317"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1467446401",
+      "basic": {
+        "certification_date": "2020-10-07",
+        "credential": "MD",
+        "enumeration_date": "2005-09-06",
+        "first_name": "ANN",
+        "last_name": "BELL",
+        "last_updated": "2020-10-07",
+        "middle_name": "F",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2710 ST FRANCIS DR STE 411",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WATERLOO",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-272-5825",
+        "postal_code": "507025634",
+        "state": "IA",
+        "telephone_number": "319-272-5000"
+      },
+      "distance_washington_iowa_miles": 85.3
+    },
+    {
+      "npi": "1316563547",
+      "basic": {
+        "certification_date": "2020-06-23",
+        "credential": "MD",
+        "enumeration_date": "2020-06-23",
+        "first_name": "NIR",
+        "last_name": "BEN-SHLOMO",
+        "last_updated": "2020-06-23",
+        "middle_name": "ALEXANDER",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "800-777-8442"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1003897554",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2005-11-10",
+        "first_name": "THOMAS",
+        "last_name": "BENDA",
+        "last_updated": "2019-07-31",
+        "middle_name": "JAMES",
+        "name_prefix": "Dr.",
+        "name_suffix": "Jr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "535 CEDAR CROSS ROAD",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DUBUQUE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "563-588-0451",
+        "postal_code": "520037704",
+        "state": "IA",
+        "telephone_number": "563-588-0506"
+      },
+      "distance_washington_iowa_miles": 96.9
+    },
+    {
+      "npi": "1114419355",
+      "basic": {
+        "certification_date": "2025-12-16",
+        "credential": "MD, PhD",
+        "enumeration_date": "2018-06-04",
+        "first_name": "DOUGLAS",
+        "last_name": "BENNION",
+        "last_updated": "2025-12-16",
+        "middle_name": "MARTIN",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1063492361",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2006-01-20",
+        "first_name": "JENNIFER",
+        "last_name": "BERGE",
+        "last_updated": "2014-02-04",
+        "middle_name": "K",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1225 S GEAR AVE",
+        "address_2": "STE 255",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST BURLINGTON",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-753-1084",
+        "postal_code": "526551691",
+        "state": "IA",
+        "telephone_number": "319-752-2725"
+      },
+      "distance_washington_iowa_miles": 42.6
+    },
+    {
+      "npi": "1902288673",
+      "basic": {
+        "certification_date": "2023-12-14",
+        "credential": "M.D.",
+        "enumeration_date": "2015-06-18",
+        "first_name": "JOSEPH",
+        "last_name": "BERTROCHE",
+        "last_updated": "2023-12-14",
+        "middle_name": "TYLER",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "5950 UNIVERSITY AVE STE 265",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "502668233",
+        "state": "IA",
+        "telephone_number": "515-875-9450"
+      },
+      "distance_washington_iowa_miles": 107.3
+    },
+    {
+      "npi": "1144405747",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2008-01-02",
+        "first_name": "MATTHEW",
+        "last_name": "BOLINGER",
+        "last_updated": "2018-09-05",
+        "middle_name": "ALAN",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2000 10TH AVE STE 370",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "COLUMBUS",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "31901",
+        "state": "GA",
+        "telephone_number": "706-660-2562"
+      },
+      "distance_washington_iowa_miles": 715.3
+    },
+    {
+      "npi": "1841283496",
+      "basic": {
+        "certification_date": "2025-07-07",
+        "credential": "M.D.",
+        "enumeration_date": "2005-08-30",
+        "first_name": "MATTHEW",
+        "last_name": "BROWN",
+        "last_updated": "2025-07-07",
+        "middle_name": "ROBERT",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "3901 INGERSOLL AVE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-274-3107",
+        "postal_code": "503123505",
+        "state": "IA",
+        "telephone_number": "515-274-9136"
+      },
+      "distance_washington_iowa_miles": 102.1
+    },
+    {
+      "npi": "1750374302",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2005-08-30",
+        "first_name": "ROBERT",
+        "last_name": "BROWN",
+        "last_updated": "2011-05-20",
+        "middle_name": "T",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "3901 INGERSOLL AVE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-274-3107",
+        "postal_code": "503123505",
+        "state": "IA",
+        "telephone_number": "515-274-9136"
+      },
+      "distance_washington_iowa_miles": 102.1
+    },
+    {
+      "npi": "1699068122",
+      "basic": {
+        "certification_date": "2024-07-17",
+        "credential": "MD",
+        "enumeration_date": "2011-05-17",
+        "first_name": "MARISA",
+        "last_name": "BUCHAKJIAN",
+        "last_updated": "2024-07-17",
+        "middle_name": "RAE",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1500 E MEDICAL CENTER DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "ANN ARBOR",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "481095000",
+        "state": "MI",
+        "telephone_number": "734-936-4000"
+      },
+      "distance_washington_iowa_miles": 418.9
+    },
+    {
+      "npi": "1992099402",
+      "basic": {
+        "certification_date": "2022-09-30",
+        "credential": "M.D.",
+        "enumeration_date": "2011-06-01",
+        "first_name": "STEPHANIE",
+        "last_name": "BURGER",
+        "last_updated": "2022-09-30",
+        "middle_name": "LANAE",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "YES",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "4301 SERGEANT ROAD- EAR NOSE & THROAT CONSULTANTS",
+        "address_2": "STE 215",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "SIOUX CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "605-217-2948",
+        "postal_code": "51106",
+        "state": "IA",
+        "telephone_number": "605-217-4320"
+      },
+      "distance_washington_iowa_miles": 248.8
+    },
+    {
+      "npi": "1720035900",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2006-05-31",
+        "first_name": "WILLIAM",
+        "last_name": "BURGMAN",
+        "last_updated": "2018-05-24",
+        "middle_name": "RICHARDS",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2710 SAINT FRANCIS DR",
+        "address_2": "SUITE 411",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WATERLOO",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "50702",
+        "state": "IA",
+        "telephone_number": "319-272-5805"
+      },
+      "distance_washington_iowa_miles": 85.3
+    },
+    {
+      "npi": "1326157140",
+      "basic": {
+        "authorized_official_credential": "M.D.",
+        "authorized_official_first_name": "DOUGLAS",
+        "authorized_official_last_name": "HENRICH",
+        "authorized_official_middle_name": "EDWIN",
+        "authorized_official_name_prefix": "Mr.",
+        "authorized_official_name_suffix": "--",
+        "authorized_official_telephone_number": "3197522725",
+        "authorized_official_title_or_position": "Physician",
+        "enumeration_date": "2006-08-29",
+        "last_updated": "2015-02-24",
+        "organization_name": "BURLINGTON EAR NOSE & THROAT CLINIC PC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1225 S GEAR AVE",
+        "address_2": "STE 255",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST BURLINGTON",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-753-1084",
+        "postal_code": "526551687",
+        "state": "IA",
+        "telephone_number": "319-752-2725"
+      },
+      "distance_washington_iowa_miles": 42.6
+    },
+    {
+      "npi": "1639160781",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2005-10-28",
+        "first_name": "KRISTI",
+        "last_name": "CHANG",
+        "last_updated": "2012-11-02",
+        "middle_name": "E",
+        "name_prefix": "Ms.",
+        "name_suffix": "--",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-6657"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1598970220",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2007-05-14",
+        "first_name": "ARTHUR",
+        "last_name": "CHEN",
+        "last_updated": "2013-11-19",
+        "middle_name": "F.",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1215 DUFF AVENUE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "AMES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-239-4716",
+        "postal_code": "500103014",
+        "state": "IA",
+        "telephone_number": "515-239-4480"
+      },
+      "distance_washington_iowa_miles": 107.6
+    },
+    {
+      "npi": "1174962492",
+      "basic": {
+        "certification_date": "2020-11-10",
+        "credential": "M.D.",
+        "enumeration_date": "2013-06-19",
+        "first_name": "ELISE",
+        "last_name": "CHENG",
+        "last_updated": "2020-11-10",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-3574"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1902864903",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2006-05-02",
+        "first_name": "HEIDI",
+        "last_name": "CLOSE",
+        "last_updated": "2015-05-07",
+        "middle_name": "LOUISE",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "405 MONROE ST",
+        "address_2": "STE A",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "PELLA",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "641-628-9701",
+        "postal_code": "502191189",
+        "state": "IA",
+        "telephone_number": "641-628-9500"
+      },
+      "distance_washington_iowa_miles": 60.5
+    },
+    {
+      "npi": "1053320978",
+      "basic": {
+        "authorized_official_credential": "M.D.",
+        "authorized_official_first_name": "D. THANE",
+        "authorized_official_last_name": "CODY",
+        "authorized_official_middle_name": "ROMNEY",
+        "authorized_official_name_prefix": "Mr.",
+        "authorized_official_name_suffix": "II",
+        "authorized_official_telephone_number": "5632425900",
+        "authorized_official_title_or_position": "President",
+        "enumeration_date": "2006-08-07",
+        "last_updated": "2020-08-22",
+        "organization_name": "CODY'S LIMITED, PC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "425 S 2ND ST",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CLINTON",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "563-242-5911",
+        "postal_code": "527324212",
+        "state": "IA",
+        "telephone_number": "563-242-5900"
+      },
+      "distance_washington_iowa_miles": 87.1
+    },
+    {
+      "npi": "1649271628",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2005-08-02",
+        "first_name": "PATRICK",
+        "last_name": "COLLISON",
+        "last_updated": "2017-02-06",
+        "middle_name": "J",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-2201"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1386135648",
+      "basic": {
+        "certification_date": "2025-07-01",
+        "credential": "MD, MPH",
+        "enumeration_date": "2018-05-22",
+        "first_name": "TATIANA",
+        "last_name": "CORREA",
+        "last_updated": "2025-07-01",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "300 PASTEUR DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "STANFORD",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "943052200",
+        "state": "CA",
+        "telephone_number": "650-723-4000"
+      },
+      "distance_washington_iowa_miles": 1638.6
+    },
+    {
+      "npi": "1245380237",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2007-01-11",
+        "first_name": "MICHAEL",
+        "last_name": "CRAWFORD",
+        "last_updated": "2013-02-21",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "320 MCKENZIE AVE STE 202",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "COUNCIL BLUFFS",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "712-256-5271",
+        "postal_code": "515031002",
+        "state": "IA",
+        "telephone_number": "712-256-5272"
+      },
+      "distance_washington_iowa_miles": 209.2
+    },
+    {
+      "npi": "1194076349",
+      "basic": {
+        "authorized_official_credential": "M.D.",
+        "authorized_official_first_name": "DAVID",
+        "authorized_official_last_name": "WAGNER",
+        "authorized_official_middle_name": "VAN",
+        "authorized_official_name_prefix": "--",
+        "authorized_official_name_suffix": "--",
+        "authorized_official_telephone_number": "7122348787",
+        "authorized_official_title_or_position": "Physician",
+        "enumeration_date": "2012-09-27",
+        "last_updated": "2012-11-05",
+        "organization_name": "DAVID VAN WAGNER MD PC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2730 PIERCE ST STE 204",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "SIOUX CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "712-234-8777",
+        "postal_code": "511043764",
+        "state": "IA",
+        "telephone_number": "712-234-8787"
+      },
+      "distance_washington_iowa_miles": 254.2
+    },
+    {
+      "npi": "1497311369",
+      "basic": {
+        "certification_date": "2024-08-09",
+        "credential": "MD",
+        "enumeration_date": "2019-05-15",
+        "first_name": "JACKSON",
+        "last_name": "DEERE",
+        "last_updated": "2024-08-09",
+        "middle_name": "WALTER",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2245 N 400 E STE 301",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "NORTH LOGAN",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "435-753-5845",
+        "postal_code": "843411892",
+        "state": "UT",
+        "telephone_number": "435-753-7880"
+      },
+      "distance_washington_iowa_miles": 1035.9
+    },
+    {
+      "npi": "1033163217",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2006-05-20",
+        "first_name": "LEOPOLDO",
+        "last_name": "DELUCCA",
+        "last_updated": "2010-03-10",
+        "middle_name": "E.",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "804 KENYON RD",
+        "address_2": "SUITE 200",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "FORT DODGE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-576-7869",
+        "postal_code": "505015742",
+        "state": "IA",
+        "telephone_number": "515-576-5000"
+      },
+      "distance_washington_iowa_miles": 149.3
+    },
+    {
+      "npi": "1912116492",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2007-05-22",
+        "first_name": "RYAN",
+        "last_name": "DEMPEWOLF",
+        "last_updated": "2013-09-11",
+        "middle_name": "DOUGLAS",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "202 10TH STREET SE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CEDAR RAPIDS",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-399-2014",
+        "postal_code": "524032404",
+        "state": "IA",
+        "telephone_number": "319-399-2022"
+      },
+      "distance_washington_iowa_miles": 47.3
+    },
+    {
+      "npi": "1275527111",
+      "basic": {
+        "certification_date": "2024-01-09",
+        "credential": "M.D.",
+        "enumeration_date": "2005-09-07",
+        "first_name": "TIMOTHY",
+        "last_name": "DETTMER",
+        "last_updated": "2024-01-09",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "250 S CRESCENT DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "MASON CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "641-494-5381",
+        "postal_code": "504012926",
+        "state": "IA",
+        "telephone_number": "641-494-5380"
+      },
+      "distance_washington_iowa_miles": 147.2
+    },
+    {
+      "npi": "1639746910",
+      "basic": {
+        "certification_date": "2021-06-07",
+        "credential": "MD",
+        "enumeration_date": "2021-06-07",
+        "first_name": "JACQUELYN",
+        "last_name": "DEVRIES",
+        "last_updated": "2021-06-07",
+        "middle_name": "KATE",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "800-777-8442"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1467610196",
+      "basic": {
+        "certification_date": "2024-01-09",
+        "credential": "M.D.",
+        "enumeration_date": "2008-05-29",
+        "first_name": "HENRY",
+        "last_name": "DIGGELMANN",
+        "last_updated": "2024-01-09",
+        "middle_name": "RICHARD",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "250 S CRESCENT DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "MASON CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "641-494-5381",
+        "postal_code": "504012926",
+        "state": "IA",
+        "telephone_number": "641-494-5380"
+      },
+      "distance_washington_iowa_miles": 147.2
+    },
+    {
+      "npi": "1285130302",
+      "basic": {
+        "certification_date": "2025-04-23",
+        "credential": "MD",
+        "enumeration_date": "2018-04-05",
+        "first_name": "SONAM",
+        "last_name": "DODHIA",
+        "last_updated": "2025-04-23",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2710 SAINT FRANCIS DR STE 411",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WATERLOO",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-272-5825",
+        "postal_code": "507025634",
+        "state": "IA",
+        "telephone_number": "319-272-5000"
+      },
+      "distance_washington_iowa_miles": 85.3
+    },
+    {
+      "npi": "1235110685",
+      "basic": {
+        "authorized_official_credential": "M.D.",
+        "authorized_official_first_name": "THOMAS",
+        "authorized_official_last_name": "BENDA",
+        "authorized_official_middle_name": "JAMES",
+        "authorized_official_name_prefix": "--",
+        "authorized_official_name_suffix": "Jr.",
+        "authorized_official_telephone_number": "5635880506",
+        "authorized_official_title_or_position": "Partner",
+        "enumeration_date": "2005-11-10",
+        "last_updated": "2019-07-31",
+        "organization_name": "DUBUQUE ENT HEAD & NECK SURGERY P.C.",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "535 CEDAR CROSS ROAD",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DUBUQUE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "563-588-0451",
+        "postal_code": "520037704",
+        "state": "IA",
+        "telephone_number": "563-588-0506"
+      },
+      "distance_washington_iowa_miles": 96.9
+    },
+    {
+      "npi": "1366281164",
+      "basic": {
+        "certification_date": "2024-05-21",
+        "credential": "MD",
+        "enumeration_date": "2024-05-21",
+        "first_name": "CADEN",
+        "last_name": "DUFFY",
+        "last_updated": "2024-05-21",
+        "middle_name": "DALE",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1346229762",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2006-01-13",
+        "first_name": "DOUGLAS",
+        "last_name": "DVORAK",
+        "last_updated": "2007-07-09",
+        "middle_name": "W.",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "3385 DEXTER CT",
+        "address_2": "STE 101",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DAVENPORT",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "563-344-6703",
+        "postal_code": "528073471",
+        "state": "IA",
+        "telephone_number": "563-359-1646"
+      },
+      "distance_washington_iowa_miles": 65.6
+    },
+    {
+      "npi": "1174663926",
+      "basic": {
+        "authorized_official_credential": "M.D.",
+        "authorized_official_first_name": "THOMAS",
+        "authorized_official_last_name": "KENNY",
+        "authorized_official_middle_name": "J",
+        "authorized_official_name_prefix": "Dr.",
+        "authorized_official_name_suffix": "IV",
+        "authorized_official_telephone_number": "7122525203",
+        "authorized_official_title_or_position": "President",
+        "enumeration_date": "2007-02-08",
+        "last_updated": "2020-08-22",
+        "organization_name": "EAR NOSE & THROAT CONSULTANTS & HEARING SERVICES PC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2730 PIERCE ST",
+        "address_2": "SUITE 402",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "SIOUX CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "712-252-0512",
+        "postal_code": "511043796",
+        "state": "IA",
+        "telephone_number": "712-252-5203"
+      },
+      "distance_washington_iowa_miles": 254.2
+    },
+    {
+      "npi": "1063636470",
+      "basic": {
+        "authorized_official_credential": "M.D.",
+        "authorized_official_first_name": "THOMAS",
+        "authorized_official_last_name": "KENNY",
+        "authorized_official_middle_name": "J",
+        "authorized_official_name_prefix": "Dr.",
+        "authorized_official_name_suffix": "IV",
+        "authorized_official_telephone_number": "7122525203",
+        "authorized_official_title_or_position": "President",
+        "enumeration_date": "2007-04-13",
+        "last_updated": "2007-08-09",
+        "organization_name": "EAR NOSE AND THROAT CONSULTANTS AND HEARING SERVICES PLC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2916 HAMILTON BLVD",
+        "address_2": "LOWER C SUITE 103",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "SIOUX CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "712-252-0512",
+        "postal_code": "511042429",
+        "state": "IA",
+        "telephone_number": "712-252-1201"
+      },
+      "distance_washington_iowa_miles": 254.2
+    },
+    {
+      "npi": "1033162706",
+      "basic": {
+        "authorized_official_credential": "D.O.",
+        "authorized_official_first_name": "DOUGLAS",
+        "authorized_official_last_name": "HOISINGTON",
+        "authorized_official_middle_name": "R",
+        "authorized_official_name_prefix": "Dr.",
+        "authorized_official_name_suffix": "--",
+        "authorized_official_telephone_number": "5152671800",
+        "authorized_official_title_or_position": "Owner of ENT Clinic of IA",
+        "certification_date": "2020-08-24",
+        "enumeration_date": "2006-05-17",
+        "last_updated": "2020-08-24",
+        "organization_name": "ENT CLINIC OF IOWA, PC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2600 WESTOWN PKWY STE 360",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-267-8857",
+        "postal_code": "502667306",
+        "state": "IA",
+        "telephone_number": "515-267-1800"
+      },
+      "distance_washington_iowa_miles": 107.3
+    },
+    {
+      "npi": "1720280761",
+      "basic": {
+        "authorized_official_first_name": "KELLY",
+        "authorized_official_last_name": "JERDEE",
+        "authorized_official_middle_name": "ANNE",
+        "authorized_official_name_prefix": "Mrs.",
+        "authorized_official_name_suffix": "--",
+        "authorized_official_telephone_number": "6052174320",
+        "authorized_official_title_or_position": "OFFICE MANAGER",
+        "enumeration_date": "2007-06-01",
+        "last_updated": "2008-03-11",
+        "organization_name": "ENT HEARING SERVICES LC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2730 PIERCE ST",
+        "address_2": "SUITE 402",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "SIOUX CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "605-217-4320",
+        "postal_code": "511043796",
+        "state": "IA",
+        "telephone_number": "605-217-4320"
+      },
+      "distance_washington_iowa_miles": 254.2
+    },
+    {
+      "npi": "1295096600",
+      "basic": {
+        "certification_date": "2024-02-22",
+        "credential": "M.D.",
+        "enumeration_date": "2012-06-01",
+        "first_name": "BENJAMIN",
+        "last_name": "ERHARDT",
+        "last_updated": "2024-02-22",
+        "middle_name": "FRANCIS",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2002 S 11TH ST",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "NILES",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "491204074",
+        "state": "MI",
+        "telephone_number": "269-687-0200"
+      },
+      "distance_washington_iowa_miles": 286.3
+    },
+    {
+      "npi": "1588658835",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2005-09-01",
+        "first_name": "THOMAS",
+        "last_name": "ERICSON",
+        "last_updated": "2007-07-08",
+        "middle_name": "A",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "5950 UNIVERSITY AVE",
+        "address_2": "STE 265",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-875-9457",
+        "postal_code": "502668216",
+        "state": "IA",
+        "telephone_number": "515-875-9456"
+      },
+      "distance_washington_iowa_miles": 107.3
+    },
+    {
+      "npi": "1750957494",
+      "basic": {
+        "certification_date": "2021-06-02",
+        "credential": "MD",
+        "enumeration_date": "2021-06-02",
+        "first_name": "PAUL",
+        "last_name": "ESCHER",
+        "last_updated": "2021-06-02",
+        "middle_name": "JOSEPH",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-3574"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1225158819",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2007-03-29",
+        "first_name": "JOSHUA",
+        "last_name": "ESPELUND",
+        "last_updated": "2017-09-05",
+        "middle_name": "JOHN",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "920 GRAND AVE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "SPENCER",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "712-262-7028",
+        "postal_code": "513013641",
+        "state": "IA",
+        "telephone_number": "712-262-8120"
+      },
+      "distance_washington_iowa_miles": 215.6
+    },
+    {
+      "npi": "1679545289",
+      "basic": {
+        "certification_date": "2024-09-04",
+        "credential": "MD",
+        "enumeration_date": "2006-02-07",
+        "first_name": "PATRICK",
+        "last_name": "FARRELL",
+        "last_updated": "2024-09-04",
+        "middle_name": "C",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "933 E PIERCE ST",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "COUNCIL BLUFFS",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "515034626",
+        "state": "IA",
+        "telephone_number": "402-397-0670"
+      },
+      "distance_washington_iowa_miles": 209.2
+    },
+    {
+      "npi": "1598413007",
+      "basic": {
+        "certification_date": "2023-06-06",
+        "credential": "MD",
+        "enumeration_date": "2022-03-14",
+        "first_name": "ZACHARY",
+        "last_name": "FLEISHHACKER",
+        "last_updated": "2023-06-06",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "719-649-2008"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1710618228",
+      "basic": {
+        "certification_date": "2022-06-23",
+        "credential": "MD, PhD",
+        "enumeration_date": "2022-06-23",
+        "first_name": "GUILLERMO",
+        "last_name": "FLORES",
+        "last_updated": "2022-06-23",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-2201"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1730173592",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2005-09-08",
+        "first_name": "BRUCE",
+        "last_name": "GANTZ",
+        "last_updated": "2007-11-30",
+        "middle_name": "J",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-3967",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-2173"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1295411478",
+      "basic": {
+        "certification_date": "2023-06-16",
+        "credential": "MD",
+        "enumeration_date": "2023-06-23",
+        "first_name": "ALEJANDRO",
+        "last_name": "GARCIA CHAVEZ",
+        "last_updated": "2023-06-23",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "617-755-8703"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1295868917",
+      "basic": {
+        "certification_date": "2021-10-12",
+        "credential": "M.D.",
+        "enumeration_date": "2007-03-13",
+        "first_name": "ANDREW",
+        "last_name": "GAUT",
+        "last_updated": "2021-10-12",
+        "middle_name": "W",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "6475 S YALE AVE STE 401",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "TULSA",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "918-502-9559",
+        "postal_code": "741367818",
+        "state": "OK",
+        "telephone_number": "918-502-9555"
+      },
+      "distance_washington_iowa_miles": 427
+    },
+    {
+      "npi": "1750958013",
+      "basic": {
+        "certification_date": "2021-06-07",
+        "credential": "MD",
+        "enumeration_date": "2021-06-07",
+        "first_name": "NICHOLAS",
+        "last_name": "GEORGE-JONES",
+        "last_updated": "2021-06-07",
+        "middle_name": "ANTONY",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1821223165",
+      "basic": {
+        "certification_date": "2020-10-14",
+        "credential": "M.D.",
+        "enumeration_date": "2009-05-15",
+        "first_name": "DANIEL",
+        "last_name": "GIVENS",
+        "last_updated": "2020-10-14",
+        "middle_name": "JUSTIN",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "535 CEDAR CROSS ROAD",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DUBUQUE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "563-588-0451",
+        "postal_code": "520037704",
+        "state": "IA",
+        "telephone_number": "563-588-0506"
+      },
+      "distance_washington_iowa_miles": 96.9
+    },
+    {
+      "npi": "1790963924",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2008-02-11",
+        "first_name": "HEATHER",
+        "last_name": "GOMES",
+        "last_updated": "2018-08-20",
+        "middle_name": "JEANETTE",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "555 N 30TH ST",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "OMAHA",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "402-498-6614",
+        "postal_code": "68131",
+        "state": "NE",
+        "telephone_number": "402-498-6540"
+      },
+      "distance_washington_iowa_miles": 219.2
+    },
+    {
+      "npi": "1326006131",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2006-05-02",
+        "first_name": "FELIX",
+        "last_name": "GONZALES",
+        "last_updated": "2011-08-08",
+        "middle_name": "EDWARD",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "YES",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "804 KENYON RD",
+        "address_2": "SUITE F",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "FORT DODGE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-576-3104",
+        "postal_code": "505015742",
+        "state": "IA",
+        "telephone_number": "515-576-3100"
+      },
+      "distance_washington_iowa_miles": 149.3
+    },
+    {
+      "npi": "1124362066",
+      "basic": {
+        "authorized_official_credential": "D.O.",
+        "authorized_official_first_name": "GORDON",
+        "authorized_official_last_name": "JOHNSON",
+        "authorized_official_middle_name": "R",
+        "authorized_official_name_prefix": "Dr.",
+        "authorized_official_name_suffix": "--",
+        "authorized_official_telephone_number": "5633913309",
+        "authorized_official_title_or_position": "President",
+        "enumeration_date": "2012-11-15",
+        "last_updated": "2012-11-15",
+        "organization_name": "GORDON R JOHNSON D O P C",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "3906 LILLIE AVE",
+        "address_2": "SUITE 1",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DAVENPORT",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "528064434",
+        "state": "IA",
+        "telephone_number": "563-391-3309"
+      },
+      "distance_washington_iowa_miles": 61.1
+    },
+    {
+      "npi": "1639063290",
+      "basic": {
+        "certification_date": "2025-06-06",
+        "credential": "MD",
+        "enumeration_date": "2025-06-06",
+        "first_name": "DREW",
+        "last_name": "GOTTMAN",
+        "last_updated": "2025-06-06",
+        "middle_name": "CAMERON",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-1338"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1508850678",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2005-09-06",
+        "first_name": "SCOTT",
+        "last_name": "GRAHAM",
+        "last_updated": "2007-12-04",
+        "middle_name": "M",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-2167"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1376657957",
+      "basic": {
+        "certification_date": "2024-02-13",
+        "credential": "MD",
+        "enumeration_date": "2006-08-19",
+        "first_name": "MARSHALL",
+        "last_name": "GREIMAN",
+        "last_updated": "2024-02-13",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1601 NW 114TH ST",
+        "address_2": "SUITE 230",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CLIVE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-222-7926",
+        "postal_code": "503257007",
+        "state": "IA",
+        "telephone_number": "515-222-7761"
+      },
+      "distance_washington_iowa_miles": 107.7
+    },
+    {
+      "npi": "1790773679",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2005-10-13",
+        "first_name": "STEPHEN",
+        "last_name": "GRIFFITH",
+        "last_updated": "2015-05-07",
+        "middle_name": "RICHARD",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "105 VALLEY WEST DR",
+        "address_2": "SUITE 100",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-453-2368",
+        "postal_code": "502653902",
+        "state": "IA",
+        "telephone_number": "515-223-4368"
+      },
+      "distance_washington_iowa_miles": 104.9
+    },
+    {
+      "npi": "1619382835",
+      "basic": {
+        "certification_date": "2020-06-19",
+        "credential": "DO, MPH",
+        "enumeration_date": "2014-06-26",
+        "first_name": "ARUN",
+        "last_name": "GUPTA",
+        "last_updated": "2020-06-19",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "YES",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "105 VALLEY WEST DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "502653902",
+        "state": "IA",
+        "telephone_number": "515-223-4368"
+      },
+      "distance_washington_iowa_miles": 104.9
+    },
+    {
+      "npi": "1740718931",
+      "basic": {
+        "certification_date": "2022-09-16",
+        "credential": "MD, PhD",
+        "enumeration_date": "2017-06-01",
+        "first_name": "ELYSE",
+        "last_name": "HANLY",
+        "last_updated": "2022-09-16",
+        "middle_name": "KATHARINE",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2615 NORTHGATE DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522459565",
+        "state": "IA",
+        "telephone_number": "319-351-5680"
+      },
+      "distance_washington_iowa_miles": 28.1
+    },
+    {
+      "npi": "1649224411",
+      "basic": {
+        "certification_date": "2023-11-07",
+        "credential": "MD",
+        "enumeration_date": "2006-05-19",
+        "first_name": "JOSEPH",
+        "last_name": "HART",
+        "last_updated": "2023-11-07",
+        "middle_name": "EDWARD",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1700 W TOWNLINE ST",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CRESTON",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "641-782-3830",
+        "postal_code": "508011054",
+        "state": "IA",
+        "telephone_number": "641-782-7091"
+      },
+      "distance_washington_iowa_miles": 139.4
+    },
+    {
+      "npi": "1881089704",
+      "basic": {
+        "certification_date": "2025-08-25",
+        "credential": "M.D.",
+        "enumeration_date": "2015-03-30",
+        "first_name": "THOMAS",
+        "last_name": "HEINEMAN",
+        "last_updated": "2025-08-25",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "202 10TH ST SE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CEDAR RAPIDS",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "524032414",
+        "state": "IA",
+        "telephone_number": "319-247-3010"
+      },
+      "distance_washington_iowa_miles": 47.3
+    },
+    {
+      "npi": "1588634414",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2006-01-24",
+        "first_name": "DOUGLAS",
+        "last_name": "HENRICH",
+        "last_updated": "2015-02-24",
+        "middle_name": "EDWIN",
+        "name_prefix": "Mr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1225 S GEAR AVE",
+        "address_2": "STE 255",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST BURLINGTON",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-753-1084",
+        "postal_code": "526551687",
+        "state": "IA",
+        "telephone_number": "319-752-2725"
+      },
+      "distance_washington_iowa_miles": 42.6
+    },
+    {
+      "npi": "1356540884",
+      "basic": {
+        "certification_date": "2020-11-13",
+        "credential": "DO",
+        "enumeration_date": "2007-07-14",
+        "first_name": "JEAN",
+        "last_name": "HERMSEN",
+        "last_updated": "2020-11-13",
+        "middle_name": "DORTHY",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1215 DUFF AVENUE",
+        "address_2": "MCFARLAND CLINIC PC",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "AMES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-239-4716",
+        "postal_code": "500103014",
+        "state": "IA",
+        "telephone_number": "515-239-4480"
+      },
+      "distance_washington_iowa_miles": 107.6
+    },
+    {
+      "npi": "1487034617",
+      "basic": {
+        "certification_date": "2020-08-17",
+        "enumeration_date": "2015-06-03",
+        "first_name": "JASMINE",
+        "last_name": "HERNANDEZ",
+        "last_updated": "2020-08-17",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "901 8TH AVE SE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CEDAR RAPIDS",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-398-6901",
+        "postal_code": "524012121",
+        "state": "IA",
+        "telephone_number": "319-398-6900"
+      },
+      "distance_washington_iowa_miles": 46.8
+    },
+    {
+      "npi": "1548241037",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2005-11-10",
+        "first_name": "CRAIG",
+        "last_name": "HERTHER",
+        "last_updated": "2007-09-24",
+        "middle_name": "CHARLES",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "310 N GRANDVIEW AVE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DUBUQUE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "563-588-0451",
+        "postal_code": "520016388",
+        "state": "IA",
+        "telephone_number": "563-588-0506"
+      },
+      "distance_washington_iowa_miles": 102.2
+    },
+    {
+      "npi": "1568456010",
+      "basic": {
+        "credential": "D.O.",
+        "enumeration_date": "2005-09-09",
+        "first_name": "STEVEN",
+        "last_name": "HERWIG",
+        "last_updated": "2011-08-10",
+        "middle_name": "R",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "5950 UNIVERSITY AVE",
+        "address_2": "STE 265",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-875-9457",
+        "postal_code": "502668216",
+        "state": "IA",
+        "telephone_number": "515-875-9450"
+      },
+      "distance_washington_iowa_miles": 107.3
+    },
+    {
+      "npi": "1194464891",
+      "basic": {
+        "certification_date": "2022-06-01",
+        "credential": "MD, PhD",
+        "enumeration_date": "2022-06-01",
+        "first_name": "MICHELLE",
+        "last_name": "HIGGINS",
+        "last_updated": "2022-06-01",
+        "middle_name": "KATE",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1326031709",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2005-08-31",
+        "first_name": "HENRY",
+        "last_name": "HOFFMAN",
+        "last_updated": "2007-12-04",
+        "middle_name": "T",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-2166"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1992106355",
+      "basic": {
+        "certification_date": "2022-07-12",
+        "credential": "M.D.",
+        "enumeration_date": "2014-09-04",
+        "first_name": "MATTHEW",
+        "last_name": "HOFFMAN",
+        "last_updated": "2022-07-12",
+        "middle_name": "R.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-2201"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1184682189",
+      "basic": {
+        "certification_date": "2020-08-24",
+        "credential": "DO",
+        "enumeration_date": "2006-05-02",
+        "first_name": "DOUGLAS",
+        "last_name": "HOISINGTON",
+        "last_updated": "2020-08-24",
+        "middle_name": "R",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2600 WESTOWN PKWY STE 360",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-267-8857",
+        "postal_code": "502667306",
+        "state": "IA",
+        "telephone_number": "515-267-1800"
+      },
+      "distance_washington_iowa_miles": 107.3
+    },
+    {
+      "npi": "1780942946",
+      "basic": {
+        "certification_date": "2024-03-01",
+        "credential": "MD",
+        "enumeration_date": "2012-04-25",
+        "first_name": "XIAOYANG",
+        "last_name": "HUA",
+        "last_updated": "2024-03-01",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "6400 FANNIN ST STE 2700",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "HOUSTON",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "713-486-5000",
+        "postal_code": "770301539",
+        "state": "TX",
+        "telephone_number": "713-486-5000"
+      },
+      "distance_washington_iowa_miles": 826.8
+    },
+    {
+      "npi": "1295197242",
+      "basic": {
+        "certification_date": "2022-09-23",
+        "enumeration_date": "2016-03-28",
+        "first_name": "RICHARD",
+        "last_name": "HUBBELL",
+        "last_updated": "2022-09-23",
+        "middle_name": "DALE",
+        "sex": "M",
+        "sole_proprietor": "YES",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2160 S 1ST AVE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "MAYWOOD",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "601533328",
+        "state": "IL",
+        "telephone_number": "708-216-9000"
+      },
+      "distance_washington_iowa_miles": 205.4
+    },
+    {
+      "npi": "1750330684",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2006-05-08",
+        "first_name": "SCOTT",
+        "last_name": "HUEBSCH",
+        "last_updated": "2013-09-11",
+        "middle_name": "ANTON",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "202 10TH STREET SE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CEDAR RAPIDS",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-399-2014",
+        "postal_code": "524032404",
+        "state": "IA",
+        "telephone_number": "319-399-2022"
+      },
+      "distance_washington_iowa_miles": 47.3
+    },
+    {
+      "npi": "1659547156",
+      "basic": {
+        "authorized_official_first_name": "CINDY",
+        "authorized_official_last_name": "FELLERS",
+        "authorized_official_middle_name": "GRACE",
+        "authorized_official_name_prefix": "--",
+        "authorized_official_name_suffix": "--",
+        "authorized_official_telephone_number": "5155763100",
+        "authorized_official_title_or_position": "BUSINESS MANAGER",
+        "enumeration_date": "2008-05-05",
+        "last_updated": "2011-08-08",
+        "organization_name": "IOWA ENT & SINUS SURGERY CENTER PC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "804 KENYON RD",
+        "address_2": "SUITE F",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "FORT DODGE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-576-3104",
+        "postal_code": "505015742",
+        "state": "IA",
+        "telephone_number": "515-576-3100"
+      },
+      "distance_washington_iowa_miles": 149.3
+    },
+    {
+      "npi": "1528314960",
+      "basic": {
+        "authorized_official_credential": "MD",
+        "authorized_official_first_name": "TIMOTHY",
+        "authorized_official_last_name": "SIMPLOT",
+        "authorized_official_middle_name": "C",
+        "authorized_official_name_prefix": "--",
+        "authorized_official_name_suffix": "--",
+        "authorized_official_telephone_number": "5152234368",
+        "authorized_official_title_or_position": "Physician",
+        "enumeration_date": "2012-08-02",
+        "last_updated": "2015-05-11",
+        "organization_name": "IOWA ENT CENTER PLLC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "105 VALLEY WEST DR",
+        "address_2": "SUITE 100",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-453-2368",
+        "postal_code": "502653902",
+        "state": "IA",
+        "telephone_number": "515-223-4368"
+      },
+      "distance_washington_iowa_miles": 104.9
+    },
+    {
+      "npi": "1760655138",
+      "basic": {
+        "authorized_official_credential": "MD",
+        "authorized_official_first_name": "ROBERT",
+        "authorized_official_last_name": "BROWN",
+        "authorized_official_middle_name": "TERRANCE",
+        "authorized_official_name_prefix": "--",
+        "authorized_official_name_suffix": "--",
+        "authorized_official_telephone_number": "5152749136",
+        "authorized_official_title_or_position": "Owner",
+        "enumeration_date": "2008-04-08",
+        "last_updated": "2022-07-21",
+        "organization_name": "IOWA HEAD & NECK PC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "3901 INGERSOLL AVE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-274-3107",
+        "postal_code": "503123505",
+        "state": "IA",
+        "telephone_number": "515-274-9136"
+      },
+      "distance_washington_iowa_miles": 102.1
+    },
+    {
+      "npi": "1104870385",
+      "basic": {
+        "authorized_official_credential": "M.D.",
+        "authorized_official_first_name": "TERRANCE",
+        "authorized_official_last_name": "WOOD",
+        "authorized_official_middle_name": "L",
+        "authorized_official_name_prefix": "--",
+        "authorized_official_name_suffix": "--",
+        "authorized_official_telephone_number": "5155764200",
+        "authorized_official_title_or_position": "owner",
+        "enumeration_date": "2006-05-20",
+        "last_updated": "2020-08-22",
+        "organization_name": "IOWA OTO HEAD AND NECK SPECIALISTS PC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "804 KENYON RD",
+        "address_2": "SUITE N",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "FORT DODGE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-576-3104",
+        "postal_code": "505015742",
+        "state": "IA",
+        "telephone_number": "515-576-4200"
+      },
+      "distance_washington_iowa_miles": 149.3
+    },
+    {
+      "npi": "1598331407",
+      "basic": {
+        "certification_date": "2021-06-01",
+        "enumeration_date": "2021-06-01",
+        "first_name": "HEBA",
+        "last_name": "ISAAC",
+        "last_updated": "2021-06-01",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1598957029",
+      "basic": {
+        "credential": "M.B.,B.S.",
+        "enumeration_date": "2007-08-17",
+        "first_name": "TIM",
+        "last_name": "ISELI",
+        "last_updated": "2007-08-17",
+        "middle_name": "A.",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-2256"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1871295428",
+      "basic": {
+        "certification_date": "2024-06-24",
+        "credential": "MD",
+        "enumeration_date": "2023-03-20",
+        "first_name": "ASEEM",
+        "last_name": "JAIN",
+        "last_updated": "2024-06-24",
+        "sex": "M",
+        "sole_proprietor": "YES",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-3574"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1336133818",
+      "basic": {
+        "certification_date": "2024-01-17",
+        "credential": "MD",
+        "enumeration_date": "2005-09-09",
+        "first_name": "VISHRAM",
+        "last_name": "JALUKAR",
+        "last_updated": "2024-01-17",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "250 S CRESCENT DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "MASON CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "641-494-5381",
+        "postal_code": "504012926",
+        "state": "IA",
+        "telephone_number": "641-494-5380"
+      },
+      "distance_washington_iowa_miles": 147.2
+    },
+    {
+      "npi": "1326575333",
+      "basic": {
+        "certification_date": "2020-04-21",
+        "enumeration_date": "2017-05-22",
+        "first_name": "MEGAN",
+        "last_name": "JENSEN",
+        "last_updated": "2022-07-21",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR DEPT OF",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-2201"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1720973563",
+      "basic": {
+        "certification_date": "2025-06-11",
+        "credential": "MD",
+        "enumeration_date": "2025-06-11",
+        "first_name": "MATTHEW",
+        "last_name": "JI",
+        "last_updated": "2025-06-11",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1205893781",
+      "basic": {
+        "credential": "D.O.",
+        "enumeration_date": "2006-04-27",
+        "first_name": "GORDON",
+        "last_name": "JOHNSON",
+        "last_updated": "2012-10-16",
+        "middle_name": "RAY",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "3906 LILLIE AVE.",
+        "address_2": "SUITE 1",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DAVENPORT",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "563-391-3630",
+        "postal_code": "528064432",
+        "state": "IA",
+        "telephone_number": "563-391-3309"
+      },
+      "distance_washington_iowa_miles": 61.1
+    },
+    {
+      "npi": "1629031059",
+      "basic": {
+        "credential": "M.D., F.A.C.S.",
+        "enumeration_date": "2006-04-07",
+        "first_name": "MICHAEL",
+        "last_name": "JONES",
+        "last_updated": "2007-10-19",
+        "middle_name": "F.E.",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1125 PIERCE ST",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "SIOUX CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "712-258-0143",
+        "postal_code": "511051485",
+        "state": "IA",
+        "telephone_number": "712-258-6780"
+      },
+      "distance_washington_iowa_miles": 252.2
+    },
+    {
+      "npi": "1770835563",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2012-10-04",
+        "first_name": "CHARLES",
+        "last_name": "JONS",
+        "last_updated": "2012-10-04",
+        "middle_name": "DOUGLAS",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "YES",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2916 FOREST HILLS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "AMES",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "500143583",
+        "state": "IA",
+        "telephone_number": "515-292-9686"
+      },
+      "distance_washington_iowa_miles": 113.7
+    },
+    {
+      "npi": "1346535846",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2011-06-13",
+        "first_name": "CHRISTOPHER",
+        "last_name": "KANDL",
+        "last_updated": "2018-03-17",
+        "middle_name": "JAMES",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "401 N 11TH ST",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "RICHMOND",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "804-828-8299",
+        "postal_code": "232191901",
+        "state": "VA",
+        "telephone_number": "804-628-4368"
+      },
+      "distance_washington_iowa_miles": 805.3
+    },
+    {
+      "npi": "1124644786",
+      "basic": {
+        "certification_date": "2025-06-24",
+        "credential": "MD",
+        "enumeration_date": "2020-06-19",
+        "first_name": "NATHAN",
+        "last_name": "KEMPER",
+        "last_updated": "2025-06-24",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "40 N GRAND AVE STE 101",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "FORT THOMAS",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "859-572-3039",
+        "postal_code": "410751765",
+        "state": "KY",
+        "telephone_number": "859-781-4900"
+      },
+      "distance_washington_iowa_miles": 414.2
+    },
+    {
+      "npi": "1154164903",
+      "basic": {
+        "certification_date": "2024-06-18",
+        "credential": "MD",
+        "enumeration_date": "2024-06-18",
+        "first_name": "TANNER",
+        "last_name": "KEMPTON",
+        "last_updated": "2024-06-18",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-2201"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1689358152",
+      "basic": {
+        "certification_date": "2023-06-14",
+        "credential": "MD",
+        "enumeration_date": "2023-06-14",
+        "first_name": "UZAIR",
+        "last_name": "KHAN",
+        "last_updated": "2023-06-14",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1992758114",
+      "basic": {
+        "certification_date": "2024-09-27",
+        "credential": "M.D.",
+        "enumeration_date": "2006-05-18",
+        "first_name": "TIMOTHY",
+        "last_name": "KING",
+        "last_updated": "2024-09-27",
+        "middle_name": "ALLEN",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "400 E 3RD ST",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DULUTH",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "558051951",
+        "state": "MN",
+        "telephone_number": "218-786-8364"
+      },
+      "distance_washington_iowa_miles": 380.5
+    },
+    {
+      "npi": "1053976175",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2019-05-03",
+        "first_name": "MILES",
+        "last_name": "KLIMARA",
+        "last_updated": "2019-05-23",
+        "middle_name": "JONATHAN",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR.",
+        "address_2": "DEPT OF OTOLARYNGOLOGY",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-2201"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1316389653",
+      "basic": {
+        "authorized_official_credential": "MD",
+        "authorized_official_first_name": "BRENT",
+        "authorized_official_last_name": "KOCH",
+        "authorized_official_name_prefix": "--",
+        "authorized_official_name_suffix": "--",
+        "authorized_official_telephone_number": "5152775555",
+        "authorized_official_title_or_position": "Owner/MD",
+        "enumeration_date": "2013-07-29",
+        "last_updated": "2017-01-12",
+        "organization_name": "KOCH FACIAL PLASTIC SURGERY PC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "4855 MILLS CIVIC PARKWAY #100",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-277-0060",
+        "postal_code": "50265",
+        "state": "IA",
+        "telephone_number": "515-277-5555"
+      },
+      "distance_washington_iowa_miles": 104.9
+    },
+    {
+      "npi": "1356451421",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2006-08-30",
+        "first_name": "KURTIS",
+        "last_name": "KORVER",
+        "last_updated": "2007-07-08",
+        "middle_name": "DAVID",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "700 JUNEAU AVE SE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "ORANGE CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "51041",
+        "state": "IA",
+        "telephone_number": "712-737-8196"
+      },
+      "distance_washington_iowa_miles": 251.9
+    },
+    {
+      "npi": "1659811701",
+      "basic": {
+        "certification_date": "2022-07-19",
+        "credential": "D.O.",
+        "enumeration_date": "2017-03-07",
+        "first_name": "RYAN",
+        "last_name": "KROGMANN",
+        "last_updated": "2022-07-19",
+        "middle_name": "JAMES",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "3385 DEXTER CT",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DAVENPORT",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "528073494",
+        "state": "IA",
+        "telephone_number": "330-971-7207"
+      },
+      "distance_washington_iowa_miles": 65.6
+    },
+    {
+      "npi": "1336599679",
+      "basic": {
+        "certification_date": "2023-08-23",
+        "credential": "M.D.",
+        "enumeration_date": "2016-06-17",
+        "first_name": "DANIEL",
+        "last_name": "LEE",
+        "last_updated": "2023-08-23",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "250 S CRESCENT DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "MASON CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "641-494-5381",
+        "postal_code": "50401",
+        "state": "IA",
+        "telephone_number": "641-494-5380"
+      },
+      "distance_washington_iowa_miles": 147.2
+    },
+    {
+      "npi": "1750089058",
+      "basic": {
+        "certification_date": "2023-02-16",
+        "credential": "MSN. ARNP, FNP-BC",
+        "enumeration_date": "2023-02-16",
+        "first_name": "JESSICA",
+        "last_name": "LEEDS",
+        "last_updated": "2023-02-16",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "311 S CLARK ST",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CARROLL",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "514013038",
+        "state": "IA",
+        "telephone_number": "712-792-4368"
+      },
+      "distance_washington_iowa_miles": 170.4
+    },
+    {
+      "npi": "1427155639",
+      "basic": {
+        "authorized_official_credential": "MD",
+        "authorized_official_first_name": "LEOPOLDO",
+        "authorized_official_last_name": "DELUCCA",
+        "authorized_official_middle_name": "E",
+        "authorized_official_name_prefix": "--",
+        "authorized_official_name_suffix": "--",
+        "authorized_official_telephone_number": "5155765000",
+        "authorized_official_title_or_position": "owner",
+        "enumeration_date": "2006-09-20",
+        "last_updated": "2010-03-12",
+        "organization_name": "LEOPOLDO E DELUCCA MD PC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "804 KENYON RD",
+        "address_2": "SUITE 200",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "FORT DODGE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-576-7869",
+        "postal_code": "505015744",
+        "state": "IA",
+        "telephone_number": "515-576-5000"
+      },
+      "distance_washington_iowa_miles": 149.3
+    },
+    {
+      "npi": "1871972695",
+      "basic": {
+        "certification_date": "2022-08-26",
+        "credential": "M.D., Ph.D.",
+        "enumeration_date": "2015-05-26",
+        "first_name": "ANDREW",
+        "last_name": "LIU",
+        "last_updated": "2022-08-26",
+        "middle_name": "SHIHKANG",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "901 8TH AVE SE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CEDAR RAPIDS",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "524012121",
+        "state": "IA",
+        "telephone_number": "319-398-6900"
+      },
+      "distance_washington_iowa_miles": 46.8
+    },
+    {
+      "npi": "1063770519",
+      "basic": {
+        "certification_date": "2024-01-02",
+        "credential": "M.D.",
+        "enumeration_date": "2012-05-02",
+        "first_name": "DANIELLE",
+        "last_name": "LIUDAHL",
+        "last_updated": "2024-01-02",
+        "middle_name": "SONIA",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "5950 UNIVERSITY AVE STE 265",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-875-9457",
+        "postal_code": "50266",
+        "state": "IA",
+        "telephone_number": "515-875-9450"
+      },
+      "distance_washington_iowa_miles": 107.3
+    },
+    {
+      "npi": "1699888438",
+      "basic": {
+        "certification_date": "2024-01-02",
+        "credential": "M.D.",
+        "enumeration_date": "2006-08-16",
+        "first_name": "GARRETT",
+        "last_name": "LOSH",
+        "last_updated": "2024-01-02",
+        "middle_name": "GRIFFITH",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "5950 UNIVERSITY AVE",
+        "address_2": "STE 265",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-875-9457",
+        "postal_code": "50266",
+        "state": "IA",
+        "telephone_number": "515-875-9450"
+      },
+      "distance_washington_iowa_miles": 107.3
+    },
+    {
+      "npi": "1881442010",
+      "basic": {
+        "certification_date": "2024-05-12",
+        "credential": "MD",
+        "enumeration_date": "2024-05-13",
+        "first_name": "TADEAS",
+        "last_name": "LUNGA",
+        "last_updated": "2024-05-13",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1689415051",
+      "basic": {
+        "certification_date": "2024-06-01",
+        "credential": "MD, PhD",
+        "enumeration_date": "2024-06-01",
+        "first_name": "EMILY",
+        "last_name": "MA",
+        "last_updated": "2024-06-01",
+        "name_prefix": "--",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1720870389",
+      "basic": {
+        "certification_date": "2025-05-20",
+        "credential": "MD,PhD",
+        "enumeration_date": "2025-05-20",
+        "first_name": "RYAN",
+        "last_name": "MACKAY",
+        "last_updated": "2025-05-20",
+        "middle_name": "PATRICK",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1043254055",
+      "basic": {
+        "authorized_official_first_name": "DANA",
+        "authorized_official_last_name": "YOUNG",
+        "authorized_official_name_prefix": "--",
+        "authorized_official_name_suffix": "--",
+        "authorized_official_telephone_number": "6414945411",
+        "authorized_official_title_or_position": "Administrator",
+        "certification_date": "2020-07-15",
+        "enumeration_date": "2006-06-16",
+        "last_updated": "2020-07-15",
+        "organization_name": "MASON CITY CLINIC PC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "250 S CRESCENT DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "MASON CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "641-494-5403",
+        "postal_code": "504012926",
+        "state": "IA",
+        "telephone_number": "800-622-1411"
+      },
+      "distance_washington_iowa_miles": 147.2
+    },
+    {
+      "npi": "1770107740",
+      "basic": {
+        "certification_date": "2020-06-04",
+        "credential": "MD, PhD",
+        "enumeration_date": "2020-06-04",
+        "first_name": "ALEXANDRA",
+        "last_name": "MCMILLAN",
+        "last_updated": "2020-06-04",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "646-203-1881"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1558454975",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2006-09-30",
+        "first_name": "WILLIAM",
+        "last_name": "MCMILLAN",
+        "last_updated": "2007-07-08",
+        "middle_name": "JOHN",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "YES",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1005 PENNSYLVANIA AVE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "OTTUMWA",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "641-683-3830",
+        "postal_code": "525016413",
+        "state": "IA",
+        "telephone_number": "641-683-1900"
+      },
+      "distance_washington_iowa_miles": 39.5
+    },
+    {
+      "npi": "1881385565",
+      "basic": {
+        "certification_date": "2023-05-15",
+        "credential": "MD",
+        "enumeration_date": "2023-05-15",
+        "first_name": "ETHAN",
+        "last_name": "MEIBURG",
+        "last_updated": "2023-05-15",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1497281828",
+      "basic": {
+        "certification_date": "2025-04-28",
+        "credential": "MD",
+        "enumeration_date": "2017-05-04",
+        "first_name": "CATHERINE",
+        "last_name": "MERNA",
+        "last_updated": "2025-04-28",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "YES",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "101 TOWER RD STE 120",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DAKOTA DUNES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "605-217-2948",
+        "postal_code": "570495011",
+        "state": "SD",
+        "telephone_number": "605-217-4320"
+      },
+      "distance_washington_iowa_miles": 258.9
+    },
+    {
+      "npi": "1255326880",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2005-09-20",
+        "first_name": "RICHARD",
+        "last_name": "MERRICK",
+        "last_updated": "2015-09-02",
+        "middle_name": "BOYD",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "5950 UNIVERSITY AVE",
+        "address_2": "STE 265",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-875-9457",
+        "postal_code": "502668216",
+        "state": "IA",
+        "telephone_number": "515-875-9450"
+      },
+      "distance_washington_iowa_miles": 107.3
+    },
+    {
+      "npi": "1518463447",
+      "basic": {
+        "certification_date": "2024-08-01",
+        "enumeration_date": "2018-03-31",
+        "first_name": "ALEXANDER",
+        "last_name": "MICHAEL",
+        "last_updated": "2024-08-01",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "9200 W WISCONSIN AVE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "MILWAUKEE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "414-476-4701",
+        "postal_code": "532263522",
+        "state": "WI",
+        "telephone_number": "414-805-5580"
+      },
+      "distance_washington_iowa_miles": 224.9
+    },
+    {
+      "npi": "1669586251",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2006-08-19",
+        "first_name": "COREY",
+        "last_name": "MINECK",
+        "last_updated": "2009-04-08",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1601 NW 114TH ST",
+        "address_2": "SUITE 230",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CLIVE",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "503257007",
+        "state": "IA",
+        "telephone_number": "515-222-7761"
+      },
+      "distance_washington_iowa_miles": 107.7
+    },
+    {
+      "npi": "1811635006",
+      "basic": {
+        "certification_date": "2022-05-26",
+        "credential": "MD",
+        "enumeration_date": "2022-05-26",
+        "first_name": "ABIGAIL",
+        "last_name": "MOORE",
+        "last_updated": "2022-05-26",
+        "middle_name": "ELIZABETH",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR DEPT OF",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1538273123",
+      "basic": {
+        "certification_date": "2024-02-13",
+        "credential": "MD",
+        "enumeration_date": "2006-08-19",
+        "first_name": "MATTHEW",
+        "last_name": "MORGAN",
+        "last_updated": "2024-02-13",
+        "middle_name": "B",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1601 NW 114TH ST",
+        "address_2": "SUITE 230",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CLIVE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-222-7926",
+        "postal_code": "503257007",
+        "state": "IA",
+        "telephone_number": "515-222-7761"
+      },
+      "distance_washington_iowa_miles": 107.7
+    },
+    {
+      "npi": "1013024439",
+      "basic": {
+        "certification_date": "2025-07-22",
+        "credential": "MD",
+        "enumeration_date": "2006-08-23",
+        "first_name": "HEATHER",
+        "last_name": "MURPHY",
+        "last_updated": "2025-07-22",
+        "middle_name": "C",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "401 CASTLE CREEK RD",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "ASPEN",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "970-205-1740",
+        "postal_code": "816111159",
+        "state": "CO",
+        "telephone_number": "970-544-1460"
+      },
+      "distance_washington_iowa_miles": 806.2
+    },
+    {
+      "npi": "1225235625",
+      "basic": {
+        "certification_date": "2025-06-27",
+        "credential": "M.D.",
+        "enumeration_date": "2007-06-29",
+        "first_name": "GRACE",
+        "last_name": "NIMMONS",
+        "last_updated": "2025-06-27",
+        "middle_name": "L",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-3574"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1558533265",
+      "basic": {
+        "authorized_official_credential": "MD",
+        "authorized_official_first_name": "DANIEL",
+        "authorized_official_last_name": "JORGENSEN",
+        "authorized_official_middle_name": "L",
+        "authorized_official_name_prefix": "Mr.",
+        "authorized_official_name_suffix": "--",
+        "authorized_official_telephone_number": "7122628120",
+        "authorized_official_title_or_position": "President/Owner",
+        "enumeration_date": "2008-04-02",
+        "last_updated": "2016-07-27",
+        "organization_name": "NORTHWEST IOWA EAR NOSE AND THROAT, PC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "920 GRAND AVE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "SPENCER",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "712-262-7028",
+        "postal_code": "513013641",
+        "state": "IA",
+        "telephone_number": "712-262-8120"
+      },
+      "distance_washington_iowa_miles": 215.6
+    },
+    {
+      "npi": "1508027665",
+      "basic": {
+        "certification_date": "2020-11-09",
+        "credential": "M.D.",
+        "enumeration_date": "2008-06-21",
+        "first_name": "OLUWAFUNMILOLA",
+        "last_name": "OKUYEMI",
+        "last_updated": "2020-11-09",
+        "middle_name": "TABITHA",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "5320 S RAINBOW BLVD STE 250",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "LAS VEGAS",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "702-671-6481",
+        "postal_code": "891181896",
+        "state": "NV",
+        "telephone_number": "702-671-6480"
+      },
+      "distance_washington_iowa_miles": 1311.5
+    },
+    {
+      "npi": "1144433962",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2007-05-08",
+        "first_name": "NITIN",
+        "last_name": "PAGEDAR",
+        "last_updated": "2008-09-17",
+        "middle_name": "AJITKUMAR",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-384-6725",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-2201"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1063738342",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2010-04-12",
+        "first_name": "CHARLES",
+        "last_name": "PARKER",
+        "last_updated": "2015-07-17",
+        "middle_name": "ALLEN",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1000 LANGWORTHY ST",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DUBUQUE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "563-584-3395",
+        "postal_code": "520017313",
+        "state": "IA",
+        "telephone_number": "563-584-3475"
+      },
+      "distance_washington_iowa_miles": 102.2
+    },
+    {
+      "npi": "1407814346",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2006-05-02",
+        "first_name": "THOMAS",
+        "last_name": "PAULSON",
+        "last_updated": "2015-05-07",
+        "middle_name": "O",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "105 VALLEY WEST DR",
+        "address_2": "SUITE 100",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-453-2368",
+        "postal_code": "502653902",
+        "state": "IA",
+        "telephone_number": "515-223-4368"
+      },
+      "distance_washington_iowa_miles": 104.9
+    },
+    {
+      "npi": "1922094952",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2005-09-26",
+        "first_name": "I",
+        "last_name": "PETERSON",
+        "last_updated": "2007-07-08",
+        "middle_name": "EUGENE",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "3901 INGERSOLL AVE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-274-3107",
+        "postal_code": "503123505",
+        "state": "IA",
+        "telephone_number": "515-274-9135"
+      },
+      "distance_washington_iowa_miles": 102.1
+    },
+    {
+      "npi": "1427082346",
+      "basic": {
+        "certification_date": "2025-08-21",
+        "credential": "M.D.",
+        "enumeration_date": "2006-07-10",
+        "first_name": "ROBERT",
+        "last_name": "PETTIS",
+        "last_updated": "2025-08-21",
+        "middle_name": "M",
+        "sex": "M",
+        "sole_proprietor": "YES",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1229 C AVE E",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "OSKALOOSA",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "949-337-4464",
+        "postal_code": "525774298",
+        "state": "IA",
+        "telephone_number": "641-672-3394"
+      },
+      "distance_washington_iowa_miles": 47.9
+    },
+    {
+      "npi": "1558956938",
+      "basic": {
+        "certification_date": "2021-03-07",
+        "credential": "MD",
+        "enumeration_date": "2021-03-07",
+        "first_name": "THUY",
+        "last_name": "PHAM",
+        "last_updated": "2021-03-07",
+        "middle_name": "TRUONG AN",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-961-5660"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1689664112",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2005-10-26",
+        "first_name": "DENNIS",
+        "last_name": "PORTO",
+        "last_updated": "2007-07-08",
+        "middle_name": "P",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "6000 UNIVERSITY AVE",
+        "address_2": "SUITE 230",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-222-0019",
+        "postal_code": "502668203",
+        "state": "IA",
+        "telephone_number": "515-222-0677"
+      },
+      "distance_washington_iowa_miles": 107.3
+    },
+    {
+      "npi": "1619300415",
+      "basic": {
+        "credential": "MBBS",
+        "enumeration_date": "2013-08-15",
+        "first_name": "NICHOLAS",
+        "last_name": "POTTER",
+        "last_updated": "2013-08-15",
+        "middle_name": "JOHN",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_2": "UNIVERSITY OF IA HOSPITALS OTOLARYNGOLOGY 21112PFP",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-2167"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1861442915",
+      "basic": {
+        "certification_date": "2023-04-12",
+        "credential": "M.D.",
+        "enumeration_date": "2006-05-11",
+        "first_name": "SARAH",
+        "last_name": "POWELL",
+        "last_updated": "2023-04-12",
+        "middle_name": "P",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "101 TOWER RD",
+        "address_2": "SUITE 120",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DAKOTA DUNES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "605-217-2948",
+        "postal_code": "570495007",
+        "state": "SD",
+        "telephone_number": "605-217-4320"
+      },
+      "distance_washington_iowa_miles": 258.9
+    },
+    {
+      "npi": "1508495383",
+      "basic": {
+        "certification_date": "2025-07-08",
+        "credential": "MD",
+        "enumeration_date": "2020-04-03",
+        "first_name": "PRASHANTH",
+        "last_name": "PRABAKARAN",
+        "last_updated": "2025-07-08",
+        "middle_name": "JYOTHI",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-3574"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1972732469",
+      "basic": {
+        "credential": "MBBS",
+        "enumeration_date": "2009-07-07",
+        "first_name": "JAMIE",
+        "last_name": "PRIESTLEY",
+        "last_updated": "2009-07-07",
+        "middle_name": "DAVID",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421078",
+        "state": "IA",
+        "telephone_number": "319-356-2201"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1417183351",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2009-06-05",
+        "first_name": "MICHAEL",
+        "last_name": "REED",
+        "last_updated": "2014-06-26",
+        "middle_name": "JAMES",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2615 NORTHGATE DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522459565",
+        "state": "IA",
+        "telephone_number": "319-351-5680"
+      },
+      "distance_washington_iowa_miles": 28.1
+    },
+    {
+      "npi": "1730183104",
+      "basic": {
+        "certification_date": "2021-01-06",
+        "credential": "M.D.",
+        "enumeration_date": "2005-06-13",
+        "first_name": "WILLIAM",
+        "last_name": "REMINGTON",
+        "last_updated": "2021-01-06",
+        "middle_name": "J",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "901 MONTGOMERY ST",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DECORAH",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "563-387-3102",
+        "postal_code": "521012325",
+        "state": "IA",
+        "telephone_number": "563-382-2911"
+      },
+      "distance_washington_iowa_miles": 140.5
+    },
+    {
+      "npi": "1932195997",
+      "basic": {
+        "certification_date": "2021-08-17",
+        "credential": "M.D.",
+        "enumeration_date": "2005-09-26",
+        "first_name": "RICHARD",
+        "last_name": "RINEHART",
+        "last_updated": "2021-08-17",
+        "middle_name": "J",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "5950 UNIVERSITY AVE",
+        "address_2": "STE 265",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-875-9457",
+        "postal_code": "50266",
+        "state": "IA",
+        "telephone_number": "515-875-9450"
+      },
+      "distance_washington_iowa_miles": 107.3
+    },
+    {
+      "npi": "1447783139",
+      "basic": {
+        "certification_date": "2022-07-14",
+        "credential": "MD",
+        "enumeration_date": "2017-04-10",
+        "first_name": "KENNY",
+        "last_name": "RODRIGUEZ",
+        "last_updated": "2022-07-14",
+        "middle_name": "DAVID",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2515 CYCLONE DR STE B",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WATERLOO",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "507019746",
+        "state": "IA",
+        "telephone_number": "319-888-8044"
+      },
+      "distance_washington_iowa_miles": 83.3
+    },
+    {
+      "npi": "1649273772",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2005-05-23",
+        "first_name": "JAMES",
+        "last_name": "ROEDER",
+        "last_updated": "2009-09-02",
+        "middle_name": "W",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "915 13TH AVE N",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CLINTON",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "563-243-0817",
+        "postal_code": "527325067",
+        "state": "IA",
+        "telephone_number": "563-243-2511"
+      },
+      "distance_washington_iowa_miles": 87.1
+    },
+    {
+      "npi": "1558303222",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2006-06-10",
+        "first_name": "DOV",
+        "last_name": "ROTENBERG",
+        "last_updated": "2007-07-16",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2710 SAINT FRANCIS DR",
+        "address_2": "SUITE 411",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WATERLOO",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-272-5825",
+        "postal_code": "507025619",
+        "state": "IA",
+        "telephone_number": "319-272-5000"
+      },
+      "distance_washington_iowa_miles": 85.3
+    },
+    {
+      "npi": "1821260852",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2008-03-31",
+        "first_name": "KELLI",
+        "last_name": "RUDMAN",
+        "last_updated": "2018-06-18",
+        "middle_name": "LYNN",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "320 MCKENZIE AVE STE 202",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "COUNCIL BLUFFS",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "515031002",
+        "state": "IA",
+        "telephone_number": "712-256-5272"
+      },
+      "distance_washington_iowa_miles": 209.2
+    },
+    {
+      "npi": "1609369412",
+      "basic": {
+        "certification_date": "2023-06-27",
+        "credential": "MD",
+        "enumeration_date": "2018-06-07",
+        "first_name": "MADIA",
+        "last_name": "RUSSILLO",
+        "last_updated": "2023-09-14",
+        "middle_name": "CHOWDHURY",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "202 10TH ST SE STE 200",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CEDAR RAPIDS",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "524032434",
+        "state": "IA",
+        "telephone_number": "319-399-2022"
+      },
+      "distance_washington_iowa_miles": 47.3
+    },
+    {
+      "npi": "1659303972",
+      "basic": {
+        "authorized_official_first_name": "TONY",
+        "authorized_official_last_name": "MORRISON",
+        "authorized_official_middle_name": "LEE",
+        "authorized_official_telephone_number": "6053288380",
+        "authorized_official_title_or_position": "Vice President, Revenue Cycle",
+        "certification_date": "2026-02-13",
+        "enumeration_date": "2006-07-07",
+        "last_updated": "2026-02-13",
+        "organization_name": "SANFORD CLINIC",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1310 W 22ND ST",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "SIOUX FALLS",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "605-328-8201",
+        "postal_code": "571051501",
+        "state": "SD",
+        "telephone_number": "605-328-8200"
+      },
+      "distance_washington_iowa_miles": 297.2
+    },
+    {
+      "npi": "1730175605",
+      "basic": {
+        "certification_date": "2024-01-11",
+        "credential": "M.D.",
+        "enumeration_date": "2005-09-26",
+        "first_name": "DOUGLAS",
+        "last_name": "SCHULTE",
+        "last_updated": "2024-01-11",
+        "middle_name": "L",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "5950 UNIVERSITY AVE",
+        "address_2": "STE 265",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-875-9457",
+        "postal_code": "50266",
+        "state": "IA",
+        "telephone_number": "515-875-9450"
+      },
+      "distance_washington_iowa_miles": 107.3
+    },
+    {
+      "npi": "1174904890",
+      "basic": {
+        "credential": "M.D., D.M.A.",
+        "enumeration_date": "2015-06-18",
+        "first_name": "ADAM",
+        "last_name": "SCHWALJE",
+        "last_updated": "2015-06-18",
+        "middle_name": "TOBIAS",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_2": "DEPT OF OTOLARYNGOLOGY - HEAD AND NECK SURGERY",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-3574"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1568689420",
+      "basic": {
+        "credential": "D.O.",
+        "enumeration_date": "2007-04-19",
+        "first_name": "CRYSTAL",
+        "last_name": "SELUK",
+        "last_updated": "2022-07-21",
+        "middle_name": "DAWN",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "105 W STONE DR STE 4D",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "KINGSPORT",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "376603365",
+        "state": "TN",
+        "telephone_number": "423-392-6299"
+      },
+      "distance_washington_iowa_miles": 594.1
+    },
+    {
+      "npi": "1275591273",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2006-05-02",
+        "first_name": "TIMOTHY",
+        "last_name": "SIMPLOT",
+        "last_updated": "2015-05-07",
+        "middle_name": "C",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "105 VALLEY WEST DR",
+        "address_2": "STE 100",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-453-2368",
+        "postal_code": "502653902",
+        "state": "IA",
+        "telephone_number": "515-223-4368"
+      },
+      "distance_washington_iowa_miles": 104.9
+    },
+    {
+      "npi": "1083874853",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2008-06-14",
+        "first_name": "JEFFREY",
+        "last_name": "SMIT",
+        "last_updated": "2010-07-20",
+        "middle_name": "RYAN",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1601 NW 114TH ST",
+        "address_2": "STE: 230",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CLIVE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-222-7926",
+        "postal_code": "503257007",
+        "state": "IA",
+        "telephone_number": "515-222-7761"
+      },
+      "distance_washington_iowa_miles": 107.7
+    },
+    {
+      "npi": "1124556923",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2017-05-24",
+        "first_name": "RYAN",
+        "last_name": "SMITH",
+        "last_updated": "2017-05-24",
+        "middle_name": "BRADLEY",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR.",
+        "address_2": "DEPT. OF OTOLARYNGOLOGY-HEAD & NECK SURGERY",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "864-915-7182"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1801877204",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2005-11-11",
+        "first_name": "THOMAS",
+        "last_name": "SMITH",
+        "last_updated": "2008-05-20",
+        "middle_name": "EDWIN",
+        "name_prefix": "Dr.",
+        "name_suffix": "Jr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1215 DUFF AVE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "AMES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-239-4539",
+        "postal_code": "500103014",
+        "state": "IA",
+        "telephone_number": "515-239-4480"
+      },
+      "distance_washington_iowa_miles": 107.6
+    },
+    {
+      "npi": "1821619479",
+      "basic": {
+        "authorized_official_first_name": "BRENDA",
+        "authorized_official_last_name": "TIEFENTHALER",
+        "authorized_official_telephone_number": "7122646111",
+        "authorized_official_title_or_position": "President/CEO",
+        "certification_date": "2023-10-10",
+        "enumeration_date": "2020-05-05",
+        "last_updated": "2023-10-10",
+        "organization_name": "SPENCER MUNICIPAL HOSPITAL",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "920 GRAND AVE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "SPENCER",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "712-262-7028",
+        "postal_code": "513013641",
+        "state": "IA",
+        "telephone_number": "712-262-8120"
+      },
+      "distance_washington_iowa_miles": 215.6
+    },
+    {
+      "npi": "1477743482",
+      "basic": {
+        "certification_date": "2024-01-11",
+        "credential": "DO",
+        "enumeration_date": "2007-07-26",
+        "first_name": "ANDREW",
+        "last_name": "STEVENSON",
+        "last_updated": "2024-01-11",
+        "middle_name": "NELSON",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "5950 UNIVERSITY AVE",
+        "address_2": "STE 265",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-875-9457",
+        "postal_code": "50266",
+        "state": "IA",
+        "telephone_number": "515-875-9450"
+      },
+      "distance_washington_iowa_miles": 107.3
+    },
+    {
+      "npi": "1467898411",
+      "basic": {
+        "certification_date": "2024-10-28",
+        "enumeration_date": "2013-05-17",
+        "first_name": "NOAH",
+        "last_name": "SYME",
+        "last_updated": "2024-10-28",
+        "middle_name": "PHILLIPS",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2211 LOMAS BLVD NE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "ALBUQUERQUE",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "87106",
+        "state": "NM",
+        "telephone_number": "505-272-6451"
+      },
+      "distance_washington_iowa_miles": 914
+    },
+    {
+      "npi": "1093383085",
+      "basic": {
+        "certification_date": "2021-06-15",
+        "enumeration_date": "2021-06-15",
+        "first_name": "ZACHARY",
+        "last_name": "TANENBAUM",
+        "last_updated": "2021-06-15",
+        "middle_name": "GAVIN",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1205499159",
+      "basic": {
+        "enumeration_date": "2019-04-17",
+        "first_name": "OSAMA",
+        "last_name": "TARABICHI",
+        "last_updated": "2019-04-17",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR DEPT OF",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "908-400-8984"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1144439548",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2007-05-22",
+        "first_name": "MICHAEL",
+        "last_name": "TELISAK",
+        "last_updated": "2016-03-07",
+        "middle_name": "STEVEN",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "202 10TH ST SE",
+        "address_2": "SUITE 200",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CEDAR RAPIDS",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-399-2014",
+        "postal_code": "524032414",
+        "state": "IA",
+        "telephone_number": "319-399-2022"
+      },
+      "distance_washington_iowa_miles": 47.3
+    },
+    {
+      "npi": "1811488489",
+      "basic": {
+        "certification_date": "2025-07-05",
+        "credential": "MD",
+        "enumeration_date": "2018-05-19",
+        "first_name": "RYAN",
+        "last_name": "THORPE",
+        "last_updated": "2025-07-05",
+        "middle_name": "KENDALL",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "100 DUKE HEALTH CARY PL STE 300",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CARY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "275196759",
+        "state": "NC",
+        "telephone_number": "855-855-6484"
+      },
+      "distance_washington_iowa_miles": 790.4
+    },
+    {
+      "npi": "1548581234",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2010-06-16",
+        "first_name": "JOSHUA",
+        "last_name": "TOKITA",
+        "last_updated": "2010-08-23",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421007",
+        "state": "IA",
+        "telephone_number": "319-356-3574"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1912977232",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2006-01-26",
+        "first_name": "MICHAEL",
+        "last_name": "TOMEK",
+        "last_updated": "2007-07-09",
+        "middle_name": "S",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "3385 DEXTER CT",
+        "address_2": "STE 101",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DAVENPORT",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "563-344-6703",
+        "postal_code": "528073471",
+        "state": "IA",
+        "telephone_number": "563-359-1646"
+      },
+      "distance_washington_iowa_miles": 65.6
+    },
+    {
+      "npi": "1891904207",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2007-05-22",
+        "first_name": "GEIR",
+        "last_name": "TRYGGVASON",
+        "last_updated": "2007-07-08",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-384-6004",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-1616"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1215916168",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2006-01-10",
+        "first_name": "RALPH",
+        "last_name": "TYNER",
+        "last_updated": "2007-07-09",
+        "middle_name": "R",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "3385 DEXTER CT",
+        "address_2": "STE 101",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DAVENPORT",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "528073471",
+        "state": "IA",
+        "telephone_number": "563-359-1646"
+      },
+      "distance_washington_iowa_miles": 65.6
+    },
+    {
+      "npi": "1053153965",
+      "basic": {
+        "certification_date": "2024-06-11",
+        "credential": "MD",
+        "enumeration_date": "2024-06-11",
+        "first_name": "CHRISTIAN",
+        "last_name": "VANDELUNE",
+        "last_updated": "2024-06-11",
+        "sex": "M",
+        "sole_proprietor": "YES",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8442"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1366335408",
+      "basic": {
+        "certification_date": "2025-05-29",
+        "credential": "MD",
+        "enumeration_date": "2025-05-29",
+        "first_name": "PIPER",
+        "last_name": "VANDER WAAL",
+        "last_updated": "2025-05-29",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1346877024",
+      "basic": {
+        "certification_date": "2025-06-16",
+        "credential": "MD",
+        "enumeration_date": "2020-03-24",
+        "first_name": "ADAM",
+        "last_name": "VESOLE",
+        "last_updated": "2025-06-16",
+        "middle_name": "SAMUEL",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "3400 SPRUCE ST FL 5",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "PHILADELPHIA",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "191044229",
+        "state": "PA",
+        "telephone_number": "215-662-2137"
+      },
+      "distance_washington_iowa_miles": 871.1
+    },
+    {
+      "npi": "1508836123",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2006-01-25",
+        "first_name": "DAVID",
+        "last_name": "WAGNER",
+        "last_updated": "2008-04-28",
+        "middle_name": "V",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "2730 PIERCE ST",
+        "address_2": "SUITE 204",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "SIOUX CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "712-234-8777",
+        "postal_code": "511043796",
+        "state": "IA",
+        "telephone_number": "712-234-8787"
+      },
+      "distance_washington_iowa_miles": 254.2
+    },
+    {
+      "npi": "1972129542",
+      "basic": {
+        "certification_date": "2025-08-11",
+        "credential": "MD",
+        "enumeration_date": "2020-06-19",
+        "first_name": "CORI",
+        "last_name": "WALKER",
+        "last_updated": "2025-08-11",
+        "middle_name": "NICOLE",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "250 S CRESCENT DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "MASON CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "641-494-5381",
+        "postal_code": "504012926",
+        "state": "IA",
+        "telephone_number": "641-494-5380"
+      },
+      "distance_washington_iowa_miles": 147.2
+    },
+    {
+      "npi": "1407968142",
+      "basic": {
+        "certification_date": "2025-02-24",
+        "credential": "M.D.",
+        "enumeration_date": "2006-08-31",
+        "first_name": "DAVID",
+        "last_name": "WEBER",
+        "last_updated": "2025-02-24",
+        "middle_name": "ERIC",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "601 HIGHWAY 6 W",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522462209",
+        "state": "IA",
+        "telephone_number": "319-338-0581"
+      },
+      "distance_washington_iowa_miles": 25.2
+    },
+    {
+      "npi": "1740494244",
+      "basic": {
+        "authorized_official_credential": "M.D.",
+        "authorized_official_first_name": "TRACEY",
+        "authorized_official_last_name": "WELLENDORF",
+        "authorized_official_middle_name": "G",
+        "authorized_official_name_prefix": "Dr.",
+        "authorized_official_name_suffix": "--",
+        "authorized_official_telephone_number": "7127924368",
+        "authorized_official_title_or_position": "President",
+        "enumeration_date": "2007-05-10",
+        "last_updated": "2019-03-26",
+        "organization_name": "WELLENDORF ENT, P.C.",
+        "organizational_subpart": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "405 S CLARK ST",
+        "address_2": "SUITE 215",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CARROLL",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "712-792-2056",
+        "postal_code": "514013065",
+        "state": "IA",
+        "telephone_number": "712-792-4368"
+      },
+      "distance_washington_iowa_miles": 170.4
+    },
+    {
+      "npi": "1528057387",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2005-10-14",
+        "first_name": "TRACEY",
+        "last_name": "WELLENDORF",
+        "last_updated": "2019-03-25",
+        "middle_name": "G",
+        "name_prefix": "Mr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "405 S CLARK ST",
+        "address_2": "SUITE 215",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "CARROLL",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "712-792-2056",
+        "postal_code": "514013065",
+        "state": "IA",
+        "telephone_number": "712-792-4368"
+      },
+      "distance_washington_iowa_miles": 170.4
+    },
+    {
+      "npi": "1932180486",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2005-11-10",
+        "first_name": "GREGORY",
+        "last_name": "WHITE",
+        "last_updated": "2019-07-31",
+        "middle_name": "JOSEPH",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "535 CEDAR CROSS ROAD",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DUBUQUE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "563-588-0451",
+        "postal_code": "520037704",
+        "state": "IA",
+        "telephone_number": "563-588-0506"
+      },
+      "distance_washington_iowa_miles": 96.9
+    },
+    {
+      "npi": "1336548346",
+      "basic": {
+        "credential": "DO",
+        "enumeration_date": "2014-08-14",
+        "first_name": "JOSEPH",
+        "last_name": "WHITMAN",
+        "last_updated": "2019-10-14",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "122 4TH AVENUE",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "GRINNELL",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "641-236-3411",
+        "postal_code": "50112",
+        "state": "IA",
+        "telephone_number": "461-236-4323"
+      },
+      "distance_washington_iowa_miles": 58.2
+    },
+    {
+      "npi": "1912393687",
+      "basic": {
+        "certification_date": "2021-08-18",
+        "credential": "M.D.",
+        "enumeration_date": "2015-04-09",
+        "first_name": "TYLER",
+        "last_name": "WILLMAN",
+        "last_updated": "2021-08-18",
+        "middle_name": "JAMES",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1000 LANGWORTHY ST",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "DUBUQUE",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "563-584-3395",
+        "postal_code": "520017365",
+        "state": "IA",
+        "telephone_number": "563-584-3475"
+      },
+      "distance_washington_iowa_miles": 102.2
+    },
+    {
+      "npi": "1710945506",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2006-05-02",
+        "first_name": "SIMON",
+        "last_name": "WRIGHT",
+        "last_updated": "2015-05-07",
+        "middle_name": "K",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "105 VALLEY WEST DR",
+        "address_2": "SUITE 100",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-453-2368",
+        "postal_code": "502653902",
+        "state": "IA",
+        "telephone_number": "515-223-4368"
+      },
+      "distance_washington_iowa_miles": 104.9
+    },
+    {
+      "npi": "1710678966",
+      "basic": {
+        "certification_date": "2023-05-18",
+        "credential": "MD, PhD",
+        "enumeration_date": "2023-05-18",
+        "first_name": "PEIZHE",
+        "last_name": "WU",
+        "last_updated": "2023-05-18",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-385-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1619958642",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2005-11-08",
+        "first_name": "SU-MIN",
+        "last_name": "YI",
+        "last_updated": "2007-07-08",
+        "name_prefix": "Ms.",
+        "name_suffix": "--",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_2": "UNIVERSITY OF IOWA HOSPITALS & CLINICS",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421082",
+        "state": "IA",
+        "telephone_number": "319-356-2169"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1326249715",
+      "basic": {
+        "credential": "M.D.",
+        "enumeration_date": "2007-05-31",
+        "first_name": "MAHER",
+        "last_name": "YOUNES",
+        "last_updated": "2018-03-17",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1455 29TH ST",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-267-8857",
+        "postal_code": "502661302",
+        "state": "IA",
+        "telephone_number": "515-267-1800"
+      },
+      "distance_washington_iowa_miles": 107.3
+    },
+    {
+      "npi": "1437117439",
+      "basic": {
+        "credential": "MD",
+        "enumeration_date": "2006-05-02",
+        "first_name": "EYTAN",
+        "last_name": "YOUNG",
+        "last_updated": "2015-05-07",
+        "name_prefix": "--",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "105 VALLEY WEST DR",
+        "address_2": "SUITE100",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-453-2368",
+        "postal_code": "502653902",
+        "state": "IA",
+        "telephone_number": "515-223-4368"
+      },
+      "distance_washington_iowa_miles": 104.9
+    },
+    {
+      "npi": "1538262860",
+      "basic": {
+        "certification_date": "2025-09-09",
+        "credential": "MD",
+        "enumeration_date": "2006-09-05",
+        "first_name": "BEVAN",
+        "last_name": "YUEH",
+        "last_updated": "2025-09-09",
+        "name_prefix": "Dr.",
+        "name_suffix": "--",
+        "sex": "M",
+        "sole_proprietor": "YES",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-3949",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-356-2201"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1225488778",
+      "basic": {
+        "certification_date": "2025-04-04",
+        "credential": "M.D.",
+        "enumeration_date": "2016-06-15",
+        "first_name": "HUAN",
+        "last_name": "ZHANG",
+        "last_updated": "2025-04-04",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "1310 W 22ND ST",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "SIOUX FALLS",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "571051501",
+        "state": "SD",
+        "telephone_number": "605-328-8200"
+      },
+      "distance_washington_iowa_miles": 297.2
+    },
+    {
+      "npi": "1528626736",
+      "basic": {
+        "certification_date": "2025-08-19",
+        "credential": "MD",
+        "enumeration_date": "2019-06-03",
+        "first_name": "VIVIAN",
+        "last_name": "ZHU",
+        "last_updated": "2025-08-19",
+        "middle_name": "LIN",
+        "name_prefix": "Dr.",
+        "sex": "F",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "401 E CHESTNUT ST UNIT 170",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "LOUISVILLE",
+        "country_code": "US",
+        "country_name": "United States",
+        "postal_code": "402025701",
+        "state": "KY",
+        "telephone_number": "502-583-3687"
+      },
+      "distance_washington_iowa_miles": 381.1
+    },
+    {
+      "npi": "1346988862",
+      "basic": {
+        "certification_date": "2022-05-24",
+        "credential": "MD",
+        "enumeration_date": "2022-05-24",
+        "first_name": "JOHN",
+        "last_name": "ZIEGLER",
+        "last_updated": "2022-05-24",
+        "middle_name": "PALMANO",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "200 HAWKINS DR",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "IOWA CITY",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "319-356-4547",
+        "postal_code": "522421009",
+        "state": "IA",
+        "telephone_number": "319-384-8277"
+      },
+      "distance_washington_iowa_miles": 26.8
+    },
+    {
+      "npi": "1477549210",
+      "basic": {
+        "certification_date": "2021-08-17",
+        "credential": "M.D.",
+        "enumeration_date": "2005-09-27",
+        "first_name": "MARK",
+        "last_name": "ZLAB",
+        "last_updated": "2021-08-17",
+        "middle_name": "KENT",
+        "name_prefix": "Dr.",
+        "sex": "M",
+        "sole_proprietor": "NO",
+        "status": "A"
+      },
+      "address": {
+        "address_1": "5950 UNIVERSITY AVE",
+        "address_2": "STE 265",
+        "address_purpose": "LOCATION",
+        "address_type": "DOM",
+        "city": "WEST DES MOINES",
+        "country_code": "US",
+        "country_name": "United States",
+        "fax_number": "515-875-9457",
+        "postal_code": "50266",
+        "state": "IA",
+        "telephone_number": "515-875-9450"
+      },
+      "distance_washington_iowa_miles": 107.3
+    }
+  ]
+}
