@@ -1,0 +1,2279 @@
+Case Number: 19003589.03
+Case Title:  WILSON, JOSE V. ARCONIC, INC.
+Doc Type:    Decision - Deputy
+Source:      Wilson Jose-19003589.03d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+JOSE WILSON, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+ File Nos. 19003589.03 
+ 
+ 
+  : 
+ 
+ 
+      23700914.01 
+vs. 
+ 
+  : 
+ 
+ 
+  :                  
+ARCONIC, INC., 
+  : 
+ 
+ 
+  :                  ARBITRATION DECISION                
+ 
+Employer, 
+  : 
+ 
+ 
+  :                         
+and 
+ 
+  : 
+ 
+ 
+  : 
+INDEMNITY INS. CO. OF N. AMERICA,   : 
+ 
+ 
+  : 
+         Head Notes: 1100; 1400; 1600; 
+ 
+Insurance Carrier, 
+  : 
+ 
+  1800; 1803.1; 1803; 2402 
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+ 
+The claimant, Jose Wilson, filed a petition for arbitration seeking workers’ 
+compensation benefits from employer Arconic, Inc. (“Arconic”) and its insurer, Indemnity 
+Insurance Company of North America.  Rocco Motto appeared on behalf of the 
+claimant.  Troy Howell appeared on behalf of the defendants.   
+ 
+The matter came on for hearing on October 14, 2024, before Deputy Workers’ 
+Compensation Commissioner Andrew M. Phillips.  Pursuant to an order of the Iowa 
+Workers’ Compensation Commissioner, the hearing occurred electronically via Zoom.  
+The hearing proceeded without significant difficulty.  
+ 
+The record in this case consists of Joint Exhibits 1-11, Claimant’s Exhibits 1-4, 
+and Defendants’ Exhibits A-Q.  All of the exhibits were received into evidence without 
+objection.  The undersigned took administrative notice that the claimant’s original notice 
+and petition in File Number 23700914.01 was electronically filed with the Agency on 
+October 31, 2023.   
+The claimant testified on his own behalf.  Heidi Krafka was appointed the official 
+reporter and custodian of the notes of the proceeding.  The record was held open for 45 
+days following the conclusion of the hearing in order to receive a rebuttal report from the 
+claimant, and the matter was considered fully submitted following briefing by the parties 
+on January 3, 2025.   
+   
+ELECTRONICALLY FILED     2025-Mar-18  12:00:56     DIVISION OF WORKERS' COMPENSATION
+
+WILSON V. ARCONIC, INC. 
+Page 2 
+ 
+STIPULATIONS 
+ 
+Through the hearing report, as reviewed at the commencement of the hearing, 
+the parties stipulated and/or established the following: 
+File No. 19003589.03 
+1. There was an employer-employee relationship at the time of the alleged 
+injury.   
+  
+2. That the claimant sustained an injury, which arose out of and in the course of 
+his employment to his right shoulder, right arm, and right knee on February 
+20, 2019. 
+  
+3. That the alleged injury is a cause of temporary disability.   
+ 
+4. That, at the time of the alleged injury, the claimant’s gross earnings were one 
+thousand one hundred eighty-one and 22/100 dollars ($1,181.22) per week, 
+that the claimant was married and entitled to five exemptions, providing a 
+weekly rate of compensation of seven hundred seventy-six and 02/100 dollars 
+($776.02).   
+ 
+5. That, prior to the hearing, the claimant was paid 58 weeks of compensation at 
+the rate of seven hundred seventy-six and 02/100 dollars ($776.02) per week. 
+ 
+6. That, prior to the hearing, the claimant was paid forty-five thousand nine and 
+16/100 dollars ($45,000.16) in permanent partial disability benefits relating to 
+injuries to his right knee and right shoulder.   
+ 
+7. That the costs listed in Claimant’s Exhibit 3 have been paid. 
+The defendants waived their affirmative defenses.  Entitlement to temporary disability 
+and/or healing period benefits was no longer in dispute. 
+File No. 23700914.01 
+1. There was an employer-employee relationship at the time of the alleged injury.   
+  
+2. That, at the time of the alleged injury, the claimant’s gross earnings were one 
+thousand one hundred eighty-one and 22/100 dollars ($1,181.22) per week, 
+that the claimant was married and entitled to five exemptions, providing a 
+weekly rate of compensation of seven hundred seventy-six and 02/100 dollars 
+($776.02).   
+ 
+3. That, prior to the hearing, the claimant was paid zero (0) weeks of 
+compensation.   
+ 
+
+WILSON V. ARCONIC, INC. 
+Page 3 
+ 
+4. That the costs listed in Claimant’s Exhibit 3 have been paid.   
+ 
+5. Whether the defendants proved an affirmative defense pursuant to Iowa Code 
+section 85.26(1). 
+ 
+The defendants waived some of their affirmative defenses.  Entitlement to temporary 
+disability and/or healing period benefits and medical benefits were no longer in dispute. 
+ 
+The parties are now bound by their stipulations. 
+ISSUES 
+The parties submitted the following issues for determination: 
+File No. 19003589.03 
+1. Whether the alleged injury to the claimant’s right arm was a cause of 
+permanent disability. 
+  
+2. The extent of permanent disability benefits, should any be awarded.   
+  
+3. Whether the disability is an industrial disability or should be compensated as 
+a functional impairment pursuant to the terms of Iowa Code section 
+85.34(2)(v). 
+  
+4. The proper commencement date for permanent partial disability benefits, if 
+any are awarded. 
+ 
+5. Whether the claimant is entitled to reimbursement for portions of an 
+independent medical examination (“IME”) pursuant to Iowa Code section 
+85.39(2). 
+  
+6. Whether the claimant is entitled to a specific taxation of costs, and the 
+amount of those costs.   
+ 
+File No. 23700914.01 
+ 
+1. Whether the claimant sustained injuries to his right shoulder, right knee, and 
+right arm, which arose out of and in the course of his employment on June 1, 
+2019.   
+  
+2. Whether the alleged injuries were a cause of temporary disability during a 
+period of recovery.   
+ 
+3. Whether the alleged injuries were a cause of permanent disability.   
+ 
+4. The extent of permanent disability benefits, should any be awarded.   
+
+WILSON V. ARCONIC, INC. 
+Page 4 
+ 
+ 
+5. Whether the disability is an industrial disability or should be compensated as a 
+scheduled member disability.   
+ 
+6. The proper commencement date for permanent partial disability benefits, if any 
+are awarded.   
+ 
+7. Whether the claimant is entitled to a specific taxation of costs, and the amount 
+of those costs.   
+ 
+8. Whether the defendants have proven their asserted affirmative defense of an 
+untimely claim pursuant to Iowa Code section 85.26.   
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+Jose Wilson, the claimant, was 45 years old at the time of the hearing.  
+(Testimony).  He resides in Clinton, Iowa.  (Defendants’ Exhibit P:91).  He was married 
+and lived with his wife and two minor children.  (DE P:91-92).  At the time of the 
+incidents in question in this matter, two additional children did not reside with him.  (DE 
+P:92).  He obtained a GED in 2017 or 2018, and completed some college courses.  (DE 
+P:92).  He also obtained a certificate in machine maintenance repair from Eastern Iowa 
+Community College.  (Testimony).   
+ 
+In May of 2011, Mr. Wilson began working for Arconic.  (Testimony; DE P:97).  
+He worked for them for about 11 years as an equipment operator.  (Testimony).  As an 
+equipment operator, he waited for metal coils to arrive on the production line.  
+(Testimony).  He would then cut the ends of the coils with a trimmer.  (Testimony).  He 
+also took calculations on the coils as instructed.  (Testimony).  In February of 2019, Mr. 
+Wilson earned about twenty-six and 00/100 dollars ($26.00) per hour.  (Testimony).   
+ 
+On February 20, 2019, Mr. Wilson was working and “running coils like normal.”  
+(Testimony).  He cut the front part of an ingot, which then got stuck in the machine.  
+(Testimony).  He proceeded to the other side of the machine using a catwalk located in 
+a tunnel.  (Testimony).  He freed the ingot and began to return to his workstation.  
+(Testimony).  He walked down three stairs into the tunnel and continued across the 
+catwalk when he fell on some loose grating.  (Testimony).  He then fell forward into a 
+pit.  (Testimony).  As a result of his fall, he felt pain in his right knee, right leg, and right 
+shoulder.  (Testimony).  He also had some scrapes on his right hand, which required 
+bandaging.  (Testimony).   
+ 
+After his fall, Mr. Wilson was taken to an onsite medical facility, where he was 
+bandaged, and provided with ice and ibuprofen.  (Testimony; Joint Exhibit 8:105-108).  
+He continued to follow-up with the onsite medical facility for several weeks prior to 
+starting his shift.  (Testimony).   
+
+WILSON V. ARCONIC, INC. 
+Page 5 
+ 
+ 
+Mr. Wilson returned to Arconic’s medical facility on February 22, 2019.  (JE 
+8:109).  He continued to complain of pain in his right knee, left forearm and right 
+shoulder.  (JE 8:109).  He rated his pain 7 to 8 out of 10.  (JE 8:109).  The provider 
+recommended that Mr. Wilson apply ice and heat, as well as use ibuprofen and Tylenol.  
+(JE 8:109).  He was told to contact Arconic’s medical staff if he experienced worsening.  
+(JE 8:109).   
+ 
+On February 25, 2019, Mr. Wilson followed-up with Arconic medical.  (JE 8:110).  
+He continued to experience pain in his bilateral forearms, knees, and shoulders, with 
+the worst pain being in the right shoulder and right knee.  (JE 8:110).  He rated his pain 
+7 out of 10 in his left elbow, 9 out of 10 in his right shoulder, and 7 out of 10 in the right 
+knee.  (JE 8:110).  Extending his forearm and left leg increased the pain.  (JE 8:110).  It 
+was recommended he take ibuprofen and Tylenol to treat his pain.  (JE 8:110).  He was 
+returned to work with no restrictions, “but advised to work at his own pace.”  (JE 8:110).   
+ 
+Mr. Wilson returned to Arconic medical on February 27, 2019, with continued 
+complaints of pain in his bilateral forearms, knees, and shoulders.  (JE 8:111).  His pain 
+was worst in his right knee, left forearm and right shoulder.  (JE 8:111).  Again, the 
+provider recommended ice, heat, Ibuprofen, and Tylenol.  (JE 8:111).  Mr. Wilson was 
+allowed to return to work with no restrictions, but was told to work at his own pace.  (JE 
+8:111).   
+ 
+On March 4, 2019, Mr. Wilson continued his follow-up with Arconic medical.  (JE 
+8:113).  He noted that he was due to follow-up in a few days, but that his pain increased 
+and he could not wait that long for an appointment.  (JE 8:113).  Specifically, he felt that 
+his right shoulder blade and right knee were not improving.  (JE 8:113).  Mr. Wilson told 
+the provider that “…he isn’t trying to get out of work he is just in a lot of pain and nothing 
+is getting better and he wants his shoulder looked at by a Doctor.”  (JE 8:113).  The 
+provider indicated that they would not refer Mr. Wilson for external treatment and that he 
+would need to seek treatment on his own volition.  (JE 8:113).  He also was told that he 
+would be sent home from work with an indication that he told the Arconic provider that 
+he could not work.  (JE 8:113).  Mr. Wilson, at the advice of a union representative, 
+refused to acknowledge that he was requesting to be taken off of work, and instead 
+returned to his job.  (JE 8:113).  After consulting with “Dr. Chelli,” it was determined that 
+Mr. Wilson should see radiology and follow up with Dr. Chelli on March 6, 2019.  (JE 
+8:113-114).   
+ 
+Eventually, Mr. Wilson was referred for treatment outside of Arconic.  
+(Testimony).   
+ 
+On March 6, 2019, x-ray results of the right knee and right shoulder were 
+reviewed by Arconic’s medical team.  (JE 8:115)  The right knee x-ray showed mild 
+calcification of the medial meniscus, which suggested “calcium pyrophosphate 
+deposition.”  (JE 8:115).  X-rays of the right shoulder showed no acute issues.  (JE 
+8:115).  During an examination with Arconic medical on the same date, Mr. Wilson 
+noted, “my knee and shoulder are killing me.”  (JE 8:116).  He rated his pain 8 out of 10 
+in both of those locations.  (JE 8:116).  He was referred to physical therapy.  (JE 8:116).   
+
+WILSON V. ARCONIC, INC. 
+Page 6 
+ 
+ 
+Mr. Wilson returned to Arconic medical on March 8, 2019, with complaints of right 
+knee and shoulder pain.  (JE 8:117).  He was told he had a referral to “AT-C” on March 
+11, 2019.  (JE 8:117).   
+ 
+On March 11, 2019, Mr. Wilson presented to Arconic medical for therapy.  (JE 
+8:118).  Mr. Wilson felt constant pulling in his right shoulder and posterior right knee.  
+(JE 8:118).  Despite doing “everything as instructed” Mr. Wilson could not stand the 
+pain.  (JE 8:118).  The “ATC” noted that they were unable to complete certain special 
+testing due to Mr. Wilson guarding, indicating that Mr. Wilson was unwilling to go past 
+certain ranges of motion in his bilateral shoulders.  (JE 8:118).   
+ 
+Mr. Wilson had additional follow-up at Arconic on March 13, 2019, for his ongoing 
+complaints of right knee and right shoulder pain.  (JE 8:119).  Mr. Wilson used tape on 
+his right shoulder and right knee.  (JE 8:119).  He felt as though his right knee was like a 
+“cracked knuckle” constantly grating.  (JE 8:119).  The Arconic provider continued to 
+recommend ice and heat along with ibuprofen and Tylenol for the right knee and   
+shoulder pain.  (JE 8:119).  He was told to follow-up with Arconic medical on March 14, 
+2019, and also told to work with no restrictions.  (JE 8:119).   
+ 
+As directed, Mr. Wilson returned to Arconic medical on March 14, 2019, to follow-
+up on his bilateral forearms, knees, and shoulders.  (JE 8:120).  His pain was worse in 
+his right knee and right shoulder.  (JE 8:120).  He used “KT tape” on his neck and upper 
+back.  (JE 8:120).  Mr. Wilson could raise his right arm to 80-degrees laterally with no 
+difficulty.  (JE 8:120).  The provider at Arconic continued to recommend ice, heat, and 
+over-the-counter medications.  (JE 8:120).   
+ 
+On March 22, 2019, Mr. Wilson followed-up with Arconic medical for his ongoing 
+complaints.  (JE 8:121).  His union representative attended this visit with him.  (JE 
+8:121).  Mr. Wilson continued with the same complaints as his previous visits.  (JE 
+8:121).  The treatment recommendations remained the same.  (JE 8:121).  Arconic 
+allowed the claimant to work with no restrictions, but allowed him to “…work at his own 
+pace, ask for help as needed and continue to use extremities during normal tasks to 
+allow healing.”  (JE 8:121).   
+ 
+Mr. Wilson returned to Arconic medical on March 27, 2019, for his ongoing 
+complaints to his right knee and right shoulder.  (JE 8:123).  He noted increased pain in 
+his posterior shoulder to his neck.  (JE 8:123).  Mr. Wilson could raise his right arm to 
+75-degrees with his fist clenched, to 120-to-130-degrees laterally with his fist clenched.  
+(JE 8:123).  The provider again recommended ice, heat, and over-the-counter 
+medications.  (JE 8:123).  An MR arthrogram was ordered by Dr. Chelli, and Mr. Wilson 
+was told to return on March 28, 2019 for continued follow-up.  (JE 8:123-124).   
+ 
+On March 28, 2019, a provider at Arconic examined Mr. Wilson again for his 
+ongoing complaints in his right knee and right shoulder.  (JE 8:125).  Mr. Wilson 
+indicated that his complaints were not improving.  (JE 8:125).  He could extend his right 
+knee to 45 degrees, and could sit and rise from a chair with no noticeable distress.  (JE 
+8:125).  Again, Mr. Wilson was told to use ice and heat along with over-the-counter 
+
+WILSON V. ARCONIC, INC. 
+Page 7 
+ 
+medications.  (JE 8:125).  He was told to return on April 1, 2019, and allowed to return 
+to work with no restrictions.  (JE 8:125).   
+ 
+Mr. Wilson returned, as instructed, to Arconic medical, on April 1, 2019, for his 
+ongoing complaints to his right knee and right shoulder.  (JE 8:126).  The 
+recommendations of the Arconic provider remained the same as during his previous 
+visits.  (JE 8:126).   
+ 
+On April 5, 2019, Mr. Wilson visited Arconic medical for continued complaints to 
+his right knee and right shoulder.  (JE 8:127).  The recommendations of the Arconic 
+provider remained unchanged from his previous visits.  (JE 8:127).  Mr. Wilson was 
+allowed to return to work with no restrictions and instructions to work at his own pace 
+and to ask for help when needed.  (JE 8:127).   
+ 
+Arconic medical saw Mr. Wilson again on April 8, 2019, for his ongoing 
+complaints of right shoulder and knee pain.  (JE 8:128).  He located the pain to his right 
+scapula, right side of his neck, and right shoulder.  (JE 8:128).  Mr. Wilson could extend 
+his right knee to 45 degrees with pain.  (JE 8:128).  The recommendations from the 
+Arconic provider remained unchanged from Mr. Wilson’s previous visits.  (JE 8:128).  
+Mr. Wilson was again allowed to return to work with no restrictions.  (JE 8:128).   
+ 
+On April 10, 2019, Mr. Wilson visited with Arconic medical again for pain in his 
+right shoulder and right knee.  (JE 8:129).  Mr. Wilson rated his pain 7 out of 10.  (JE 
+8:129).  He told the provider that he had difficulty sleeping over the last two days.  (JE 
+8:129).  Arconic returned Mr. Wilson to work with no restrictions.  (JE 8:129).   
+ 
+Mr. Wilson had an MR arthrogram of his right shoulder on April 12, 2019.  (JE 
+2:58-59).  The MR arthrogram showed a “[s]mall partial undersurface tear of the 
+supraspinatus tendon without full-thickness tear…” involving less than 50 percent of the 
+shoulder fibers.  (JE 2:59).  
+ 
+On April 15, 2019, Mr. Wilson returned to Arconic medical for his ongoing 
+complaints of right knee and right shoulder pain, which extended into his neck.  (JE 
+8:130).  Mr. Wilson told the provider that his pain was in his “…whole right side.”  (JE 
+8:130).  A copy of his recent MR arthrogram was provided to Dr. Chelli, who referred 
+Mr. Wilson to ORA and for an MRI of his right knee.  (JE 8:130).   
+ 
+Mr. Wilson followed-up with Arconic medical again on April 16, 2019.  (JE 8:131).  
+Mr. Wilson indicated that he continued to take over-the-counter medications and applied 
+ice as directed with no relief to his ongoing pain in his right shoulder and right knee.  (JE 
+8:131).   
+ 
+On April 19, 2019, Mr. Wilson returned to Arconic medical for his ongoing 
+complaints.  (JE 8:132).  He continued to rate his pain 7 out of 10.  (JE 8:132).  Mr. 
+Wilson again demonstrated pain with extending his right knee, as well as in his right 
+shoulder.  (JE 8:132).  The pain in his right shoulder radiated to his neck.  (JE 8:132).   
+
+WILSON V. ARCONIC, INC. 
+Page 8 
+ 
+ 
+Mr. Wilson continued his follow-up care with Arconic medical on April 24, 2019, 
+for his ongoing right shoulder and right knee pain.  (JE 8:133).  Mr. Wilson expressed 
+frustration that he could not get ORA to return his call and with an MRI scheduled in 
+Illinois.  (JE 8:133).   
+ 
+On April 25, 2019, Mr. Wilson returned to Arconic medical for additional follow-up 
+on his complaints to his right knee and right shoulder.  (JE 8:134).  He rated his right 
+shoulder pain 8 out of 10 and 6 out of 10 in his right knee.  (JE 8:134).  Mr. Wilson was 
+told to return to Arconic medical for additional follow-up, and to use over-the-counter 
+medications and ice or heat to treat his ongoing issues.  (JE 8:134).  He was returned to 
+work with no restrictions.  (JE 8:134).   
+ 
+Mr. Wilson continued his medical care with Arconic medical on April 29, 2019.  
+(JE 8:135).   Mr. Wilson noted that he elevated his right knee over the weekend and 
+then experienced numbness and tingling.  (JE 8:135).  Mr. Wilson was provided with 
+over-the-counter medications and allowed to return to work with no restrictions.  (JE 
+8:135).   
+ 
+On April 30, 2019, Mr. Wilson saw a provider at Arconic medical.  (JE 8:136).  He 
+continued to experience pain in his right knee and right shoulder.  (JE 8:136).  It was 
+confirmed that Mr. Wilson was scheduled to complete an MRI in the coming days, along 
+with a visit with ORA.  (JE 8:136).  Mr. Wilson was released to work with no restrictions.  
+(JE 8:136).   
+ 
+On May 7, 2019, Mr. Wilson had an MRI of his right knee.  (JE 2:60-61).  The 
+MRI showed a tear of the medial meniscus, minimal joint fluid, and a small medial 
+enchondroma of the distal femur.  (JE 2:61).   
+ 
+Following his MRI, Mr. Wilson returned to Arconic medical on May 8, 2019.  (JE 
+8:137).  The provider continued to recommend using over-the-counter medications, rest, 
+ice, and heat, to treat his right knee and shoulders.  (JE 8:137).  The MRI results from 
+May 7, 2019, were also documented.  (JE 8:137).  Mr. Wilson was allowed to return to 
+work with no restrictions.  (JE 8:137).   
+ 
+On May 9, 2019, Mr. Wilson returned to Arconic medical.  (JE 8:138).  Mr. Wilson 
+requested, and was provided with, a copy of the May 7, 2019, MRI, and a medical 
+mileage form. (JE 8:138).  He was again returned to work with no restrictions.  (JE 
+8:138).   
+ 
+Mr. Wilson followed-up with Arconic medical on May 13, 2019, for his ongoing 
+complaints to his right shoulder and right knee.  (JE 8:139).  He described a tightening 
+feeling in his right knee and locking in his right calf.  (JE 8:139).  His pain levels 
+remained unchanged.  (JE 8:139).  He was allowed to return to work with no 
+restrictions.  (JE 8:139).   
+
+WILSON V. ARCONIC, INC. 
+Page 9 
+ 
+ 
+On May 14, 2019, Mr. Wilson returned to Arconic medical reporting tightness in 
+his right shoulder and right knee.  (JE 8:139).  Again, Arconic allowed him to return with 
+no restrictions.  (JE 8:139).   
+ 
+Mr. Wilson continued his follow-up care with Arconic medical on May 22, 2019.  
+(JE 8:140).  Mr. Wilson noted an upcoming appointment with ORA, for which he was 
+provided with an “appointment card.”  (JE 8:140).  Again, Mr. Wilson was counseled to 
+take over-the-counter medications, use ice and heat, and BioFreeze.  (JE 8:140).  He 
+was returned to work with no restrictions.  (JE 8:140).   
+ 
+On May 23, 2019, Arconic medical examined Mr. Wilson for his ongoing 
+complaints to his right shoulder and right knee.  (JE 8:141).  Mr. Wilson described 
+tightness in his right knee with an intermittent pulling sensation up to his mid lateral 
+thigh and down to his calf.  (JE 8:141).  Mr. Wilson was provided with the same 
+instructions for his ongoing care as his previous visits.  (JE 8:141).  Again, he was 
+returned to work with no restrictions.  (JE 8:141).   
+ 
+Mr. Wilson returned to Arconic medical on May 28, 2019, with no stated change  
+to the condition of his right knee or right shoulder.  (JE 8:142).  He expressed frustration 
+with a moved appointment, and noted throbbing in his right knee.  (JE 8:142).  He also 
+described a pulling or twisting feeling in his right knee.  (JE 8:142). He was allowed to 
+return to work with no restrictions, and provided the same care instructions as his 
+previous visits.  (JE 8:142).   
+ 
+During a May 31, 2019, appointment with Arconic medical, Mr. Wilson described 
+continued throbbing and pulling pain in his right knee.  (JE 8:143).  He also noted no 
+improvement to his right shoulder.  (JE 8:143).  He rated his shoulder pain 7 out of 10 
+and his knee pain 10 out of 10.  (JE 8:143).  He was returned to work with no 
+restrictions.  (JE 8:143).  Arconic advised him of an upcoming appointment at ORA.  (JE 
+8:143).   
+ 
+On June 1, 2019, Mr. Wilson was working at Arconic while on crutches.  
+(Testimony).  As an ingot moved down the line it sparked with coolant which caused it to 
+blow up over the top of the machine upon which Mr. Wilson operated.  (Testimony).  
+This caught his machine on fire.  (Testimony).  As he attempted to flee the fire, he fell, 
+injuring his right knee and quadriceps.  (Testimony; DE P:119).  He was taken away in 
+an ambulance.  (Testimony).   
+ 
+A report of injury was filed on June 1, 2019, in which it indicated that Mr. Wilson 
+was injured on the same date at 10:30 p.m.  (JE 8:104).  The report indicated: 
+EE was working in Rolling in the pulpit when there was a fire in the 
+equipment he was using.  States he immediately got out of the pulpit after 
+calling on the radio the fire & states had to push the door hard to get out 
+reinjuring his right shoulder and felt a ‘pop’ in the right knee.  States he ran 
+from the pulpit as fast as he could. 
+
+WILSON V. ARCONIC, INC. 
+Page 10 
+ 
+(JE 8:104).   
+ 
+On June 2, 2019, Mr. Wilson reported to the emergency department at UnityPoint 
+Health Trinity for complaints of moderate and constant pain to his right knee and right 
+shoulder which began in the morning.  (JE 10:223-230).  Mr. Wilson told the emergency 
+room providers that he injured his right knee and right shoulder when he was 
+“extricating himself” from a work machine which caught fire.  (JE 10:223).  X-rays of the 
+claimant’s right shoulder showed no issues.  (JE 10:228).  X-rays of the claimant’s right 
+knee were also normal.  (JE 10:229).  Mr. Wilson noted that he visited the emergency 
+room earlier in the day, but that his work would not accept a work note previously 
+provided.  (JE 10:225).  Thus, the attending physician drafted a note indicating that Mr. 
+Wilson was allowed to return to work on June 3, 2019.  (JE 10:230).  Mr. Wilson was not 
+allowed to bear weight on his right knee on June 3 or June 4, and was instructed to use 
+crutches.  (JE 10:230).  He also was told not to use his shoulder on June 3 or June 4.  
+(JE 10:230).   
+ 
+Arconic medical called Mr. Wilson on June 3, 2019, to check on him.  (JE 8:145).  
+Mr. Wilson complained of pain and that he went to the emergency room on June 2, 
+2019.  (JE 8:145).  Mr. Wilson told the Arconic provider that Arconic security told him to 
+go to the emergency room.  (JE 8:145).   
+ 
+On June 5, 2019, Arconic security contacted Arconic medical indicating that Mr. 
+Wilson arrived at the gate requesting a wheelchair for transportation to Arconic medical.  
+(JE 8:146).  He indicated that he had serious pain in his right leg, and an Arconic 
+employee assisted him with ambulating using crutches.  (JE 8:146).  He was told to 
+return that evening to see Dr. Chelli.  (JE 8:146).  During a visit that evening, Mr. Wilson 
+complained of pain in his right lower extremity into his buttocks. (JE 8:149).  He 
+expressed exasperation with his lack of restrictions, telling Dr. Chelli, “[I] can’t [sic] do 
+my job, I know it and you know it.”  (JE 8:149).  Dr. Chelli provided restrictions of sitting 
+90 percent of the time and walking or standing 10 percent of the time while using an 
+assistive device.  (JE 8:149).   
+ 
+There is an Arconic note from June 6, 2019, regarding a visit Mr. Wilson had with 
+Dr. Hussain.  (JE 8:147).  Mr. Wilson told Dr. Hussain that he had a great deal of pain in 
+his right knee and requested pain medication.  (JE 8:147).  Mr. Wilson did bend his right 
+knee during the examination.  (JE 8:147).   
+ 
+On June 10, 2019, Mr. Wilson returned to Arconic medical with his union 
+steward.  (JE 8:147).  He was “very angry” that he was not receiving any treatment and 
+requested to see a doctor.  (JE 8:147).  He outlined pain in his right knee which he rated 
+10 out of 10, and noted that his use of crutches for his right knee put increased strain 
+and pain on his right shoulder.  (JE 8:147).  Mr. Wilson was told to take ibuprofen and 
+was given a prescription for Tramadol.  (JE 8:147).  Mr. Wilson was allowed to work 
+without restrictions; however there is a conflicting note indicating that Mr. Wilson was to 
+sit 90 percent of the time, and stand or walk with an assistive device 10 percent of the 
+time.  (JE 8:147).  Mr. Wilson expressed his frustration, stating, “…I was told by Lisa 
+that I would be receiving treatment at ORA the other day.  I didn’t [sic] receive any 
+
+WILSON V. ARCONIC, INC. 
+Page 11 
+ 
+treatment at my visit at ORA and I am needing some medication for pain at bedtime.  
+ORA would not prescribe and told me to consult Arconic Provider as the appointment 
+was only for causation.”  (JE 8:148).   
+ 
+Mr. Wilson visited Arconic medical on June 11, 2019, for continued complaints of 
+severe right knee and right shoulder pain.  (JE 8:167).  Mr. Wilson used crutches to 
+walk, but noted that this caused more pain in his right shoulder.  (JE 8:167).  Mr. Wilson 
+noted that he could not put his right foot down while walking.  (JE 8:167).  He was 
+educated on a proper technique to walk while using crutches in order to take strain off of 
+his shoulder.  (JE 8:167).   
+ 
+Dr. Hussain performed a records review dated June 13, 2019, at the request of a 
+claims adjuster from Helmsman Management Services, LLC.  (JE 3:66-68).  He 
+reviewed a number of records before answering several questions posed to him.  (JE 
+3:66-68).  Dr. Hussain diagnosed Mr. Wilson with a partial thickness undersurface tear 
+of his right supraspinatus along with subacromial impingement.  (JE 3:67).  He also 
+diagnosed him with a right medial meniscus tear in the right knee.  (JE 3:67).  Dr. 
+Hussain attributed both of the prior diagnoses to the February of 2019, work incident.  
+(JE 3:67).  Dr. Hussain continued by opining that the right shoulder and right knee 
+conditions were not temporary in nature, and required additional medical care.  (JE 
+3:67).  At the time of the records review, Dr. Hussain recommended work restrictions 
+including working light duty, lifting no more than 3 pounds and only performing overhead 
+activities on a rare basis.  (JE 3:67).  He also recommended no kneeling, no squatting, 
+focusing on seated duties, and performing walking, sitting, and standing for no more 
+than 30 minutes at a time.  (JE 3:67-68).  Dr. Hussain provided timelines for a return to 
+normal duty in the event that conservative treatment succeeded.  (JE 3:67-68).  More 
+specifically, Dr. Hussain felt that Mr. Wilson would achieve maximum medical 
+improvement (“MMI”) “…approximately 9 to 12 weeks after treatment.”  (JE 3:68).   
+ 
+Dr. Hussain recommended additional medical care, including a corticosteroid 
+injection to the right shoulder, as well as physical therapy 2 to 3 times per week.  (JE 
+3:68).  Dr. Hussain also recommended a follow-up with an orthopedic clinic in four 
+weeks.  (JE 3:68).  For his right knee, Dr. Hussain recommended an arthroscopic 
+surgery including a partial medial meniscectomy followed by light duty or seated duty for 
+a period.  (JE 3:68).  Dr. Hussain also included physical therapy following the surgical 
+procedure.  (JE 3:68).   
+ 
+On June 14, 2019, an Arconic medical provider visited with Mr. Wilson.  (JE 
+8:166).  Mr. Wilson continued to complain of severe pain in his right knee and right 
+shoulder.  (JE 8:166).  He used crutches while walking, though he noted that this 
+caused strain on his right shoulder.  (JE 8:166).  He was allowed to return to work while 
+sitting 90 percent of the time and standing 10 percent of the time.  (JE 8:166).  Mr. 
+Wilson complained that his pain levels aggravated his blood pressure; however, the 
+provider disagreed indicating that "...the B/P [blood pressure] issue is a personal 
+issue…”  (JE 8:166).   
+
+WILSON V. ARCONIC, INC. 
+Page 12 
+ 
+ 
+The claimant visited Arconic medical on June 19, 2019, for complaints of severe 
+pain in his right knee and right shoulder.  (JE 8:165).  He wore a soft knee sleeve, and 
+walked using crutches.  (JE 8:165).  Mr. Wilson told the provider that “…his tears aren’t 
+going to fix themselves, he has pressure all the time in the back of his knee, voice 
+sounding angry.”  (JE 8:165).  He was allowed to return to work with restrictions of 
+sitting 90 percent of the time and standing 10 percent of the time.  (JE 8:165).   
+ 
+On June 20, 2019, Mr. Wilson presented to the front gate at Arconic complaining 
+of severe knee and shoulder pain.  (JE 8:164).  He also expressed concern as an 
+elevator was out of service at the time.  (JE 8:164).  Mr. Wilson presented wearing a 
+knee sleeve.  (JE 8:164).  The provider noted that Mr. Wilson used his right arm with no 
+difficulty.  (JE 8:164).  He was told to return to work with restrictions of 90 percent sitting 
+duty and 10 percent standing with use of an assistive device.  (JE 8:164).   
+ 
+Mr. Wilson presented to Arconic medical on June 25, 2019, with continued 
+complaints regarding his right shoulder and right knee.  (JE 8:163). Mr. Wilson 
+requested “something stronger” for his pain due to difficulties sleeping.  (JE 8:163). 
+Restrictions were provided, including that Mr. Wilson should ambulate on crutches, 
+wear a knee sleeve, work while sitting 90 percent of the time and standing with crutches 
+10 percent of the time.  (JE 8:163).  He also was restricted from kneeling, squatting, 
+deep knee bends, and only walking, sitting, or standing, for 30 minutes at a time.  (JE 
+8:163).  He was told to work sedentary duty.  (JE 8:163).   
+ 
+On June 28, 2019, Mr. Wilson reported to ORA Orthopedics (“ORA”), where Dr. 
+Hussain examined him.  (JE 1:1-2).  He noted continued pain in his right shoulder and 
+right knee which limited his normal activities.  (JE 1:1).  He described his pain as 
+cramping in nature.  (JE 1:1).  The record noted that Mr. Wilson had no recent accidents 
+or injuries.  (JE 1:1).  Mr. Wilson displayed active forward flexion in his right shoulder to 
+120 degrees along with moderate tenderness to palpation.  (JE 1:1).  Dr. Hussain 
+opined that Mr. Wilson had right shoulder pain and a partial-thickness rotator cuff tear 
+and subacromial impingement.  (JE 1:1).  He also had right knee pain and a medial 
+meniscus tear.  (JE 1:1).  Dr. Hussain recommended a corticosteroid injection into the 
+claimant’s right shoulder and right knee.  (JE 1:1).  He also recommended rest, ice, 
+elevation, and compression.  (JE 1:1).  He provided the claimant with a hinged knee 
+brace and prescribed additional physical therapy for the claimant.  (JE 1:2).  Finally, Dr. 
+Hussain provided work restrictions of no kneeling or squatting.  (JE 1:3).   
+ 
+Mr. Wilson returned to Arconic medical on June 28, 2019.  (JE 8:161).  He noted 
+his previous appointment with Dr. Hussain and was allowed to return to work with 
+certain restrictions.  (JE 8:161).  Dr. Hussain also called Arconic medical and told them 
+that he wished to begin injections in the office.  (JE 8:161).   
+ 
+On July 3, 2019, Arconic medical saw Mr. Wilson again.  (JE 8:160).  He used 
+crutches to walk. (JE 8:160).  He continued to complain of pain in his right shoulder and 
+right knee.  (JE 8:160).  An Arconic employee called ORA, and the ORA employee told 
+the Arconic representative that Mr. Wilson visited with Dr. Hussain on June 28, 2019.  
+
+WILSON V. ARCONIC, INC. 
+Page 13 
+ 
+(JE 8:160).  Dr. Hussain provided the claimant with treatment during this visit.  (JE 
+8:160).  Mr. Wilson was allowed to return to work with some restrictions. (JE 8:160).   
+ 
+Mr. Wilson continued his care with Arconic medical on July 12, 2019.  (JE 8:159).  
+He indicated that he was running out of prescription medications, for which he was 
+referred to ORA.  (JE 8:159).  He continued to have shoulder pain which he rated 7 out 
+of 10 and right knee pain which he rated 8 out of 10.  (JE 8:159).  He wore a knee brace 
+on his right knee.  (JE 8:159).  He was allowed to return to work using crutches, and 
+under certain restrictions.  (JE 8:159).    
+ 
+On July 17, 2019, Mr. Wilson visited with Arconic medical.  (JE 8:158).  He used 
+crutches with ease, and wore a knee brace provided by ORA.  (JE 8:158).  The provider 
+continued to recommend Mr. Wilson continue to work with certain restrictions. (JE 
+8:158).   
+ 
+Mr. Wilson returned to Arconic medical for follow-up of his right shoulder and 
+right knee pain, which he rated 7 out of 10 and 8 out of 10, respectively, on July 18, 
+2019.  (JE 8:157).  Mr. Wilson was told to continue taking medication, use crutches to 
+ambulate, and to wear a knee brace.  (JE 8:157).  The provider allowed Mr. Wilson to 
+return to work with restrictions of sitting 90 percent of the time and standing with the use 
+of an assistive device 10 percent of the time.  (JE 8:157).  He also was told to avoid 
+kneeling, squatting, and deep knee bends.  (JE 8:157).  Finally, he was told to work 
+sedentary or light duty with lifting no more than 2 pounds.  (JE 8:157).     
+ 
+On July 22, 2019, Mr. Wilson continued his care with Arconic medical.  (JE 
+8:156).  He noted that he still took the recommended medications, and applied ice at 
+home.  (JE 8:156).  He continued to complain of pain in his right knee and right 
+shoulder.  (JE 8:156).  He was told to continue taking ibuprofen and over-the-counter 
+medications.  (JE 8:156).  The provider recommended that he return to work with 
+restrictions including sitting 90 percent of the time and standing 10 percent of the time 
+with the use of an assistive device.  (JE 8:156).  He was also told to avoid kneeling, 
+squatting, and deep knee bends.  (JE 8:156).  He could walk, sit, and stand normally for 
+periods of 30 minutes, but he was to be provided an allowance to sit, if needed.  (JE 
+8:156).  Finally, the provider told him to focus on seated duties or sedentary duty.  (JE 
+8:156).   
+ 
+Mr. Wilson returned to Arconic medical on July 23, 2019, for his continued right 
+knee and right shoulder complaints.  (JE 8:155).  Mr. Wilson continued to wear a right 
+knee brace and complained of pulling radiating pain down his right leg.  (JE 8:155).  He 
+rated his shoulder pain and his knee pain 9 out of 10.  (JE 8:155).  Mr. Wilson was told 
+to use crutches, his knee brace, and over-the-counter medications.  (JE 8:155).  Finally, 
+he was told to work light duty.  (JE 8:155).   
+ 
+On July 26, 2019, Mr. Wilson visited with Arconic medical for ongoing complaints 
+in his right knee, including a feeling of wringing or pulling.  (JE 8:154).  Mr. Wilson used 
+crutches to walk.  (JE 8:154).  He was again told to take over-the-counter medications, 
+and use rest, ice, and heat to treat his symptoms.  (JE 8:154).  He was provided with 
+
+WILSON V. ARCONIC, INC. 
+Page 14 
+ 
+restrictions, which included sitting 90 percent of the time and standing using an assistive 
+device 10 percent of the time.  (JE 8:154).   
+ 
+Mr. Wilson returned to Dr. Hussain’s office on July 30, 2019, with continued right 
+knee complaints.  (JE 1:4-6).  The previous injection only provided minimal relief.  (JE 
+1:4).  He also outlined pain, including a clicking and popping, in his right shoulder.  (JE 
+1:4).  Dr. Hussain observed that Mr. Wilson ambulated using crutches and with an 
+antalgic gait.  (JE 1:4).  On examination, Dr. Hussain noted that Mr. Wilson had mild 
+tenderness in his right knee with near full extension.  (JE 1:4).  Dr. Hussain’s diagnoses 
+remained unchanged.  (JE 1:4).  He recommended a right knee arthroscopy in order to 
+perform a partial medial meniscectomy.  (JE 1:4).  He also recommended continued 
+physical therapy.  (JE 1:4).  Dr. Hussain provided work restrictions of no kneeling or 
+squatting.  (JE 1:6).   
+On July 30, 2019, Arconic medical documented an appointment that Mr. Wilson 
+had with Dr. Hussain in which Dr. Hussain reiterated his previous restrictions.  (JE 
+8:153).  Mr. Wilson wished to have a doctor reevaluate his restrictions due to ongoing 
+pain and spasms.  (JE 8:153).   
+ 
+Arconic medical met with Mr. Wilson again on July 31, 2019, regarding his 
+ongoing right knee and right shoulder pain.  (JE 8:152).  Mr. Wilson used crutches to 
+walk, and wore a brace provided by ORA.  (JE 8:152).  Mr. Wilson rated his shoulder 
+pain 7 out of 10 and his right knee pain 8 out of 10.  (JE 8:152).  He was told to continue 
+taking over-the-counter medications and applying ice and heat.  (JE 8:152).  He was 
+allowed to return to work with restrictions including no kneeling, no squatting, no deep 
+knee bends, normal walking, sitting, or standing for 30 minutes with an allowance to sit 
+as needed.  (JE 8:152).  He also was told to work light duty.  (JE 8:152).   
+ 
+On August 1, 2019, Mr. Wilson returned to Arconic medical.  (JE 8:151).  Mr. 
+Wilson presented using crutches and wearing a brace provided by ORA.  (JE 8:151).  
+Mr. Wilson was told to continue using prescribed medications.  (JE 8:151).  Restrictions 
+were issued to include normal walking, sitting, and standing for 30 minutes with an 
+allowance to sit if needed.  (JE 8:151).  He was placed on light duty with restrictions on 
+his hours worked.  (JE 8:151).   
+ 
+Mr. Wilson reported to Concentra on August 5, 2019, for physical therapy as 
+ordered by Dr. Hussain. (JE 7:84-87).  Mr. Wilson described aching, shooting, tightness, 
+throbbing, and numbing pain in his right shoulder and right knee following a fall.  (JE 
+7:84).  Mr. Wilson rated his pain 10 out of 10.  (JE 7:85).  The plan was to complete 
+physical therapy three times per week. (JE 7:86).   
+ 
+Mr. Wilson also visited with Arconic medical on August 5, 2019.  (JE 8:180).  He 
+continued to complain of right shoulder and right knee pain, and noted that he took 
+Naproxen as prescribed.  (JE 8:180).  He also used ice to treat his ongoing issues.  (JE 
+8:180).  After providing treatment, Arconic medical allowed Mr. Wilson to return to work 
+under certain restrictions.  (JE 8:180).   
+
+WILSON V. ARCONIC, INC. 
+Page 15 
+ 
+ 
+On August 6, 2019, Mr. Wilson returned to Concentra for continued physical 
+therapy.  (JE 7:88-90).  He complained of stiffness in the back side of his right knee and 
+soreness in his shoulder.  (JE 7:88).  The therapist found that Mr. Wilson was not 
+progressing and that he could only tolerate low level range of motion interventions in his 
+knee and shoulder.  (JE 7:89).   
+ 
+After his physical therapy appointment, he visited with Arconic medical.  (JE 
+8:179).  He continued to complain of severe pain in his right shoulder and right knee.  
+(JE 8:179).  Arconic allowed him to return to work following his appointment under 
+certain restrictions.  (JE 8:179).   
+ 
+Mr. Wilson had physical therapy at Rock Valley Physical Therapy on August 14, 
+2019. (JE 8:93-95).  Portions of this record are difficult to read.  (JE 8:93).  The therapist 
+opined that Mr. Wilson presented with symptoms “consistent with movement 
+dysfunction about the cervical spine, right shoulder, and right knee following [a] work 
+related injury.”  (JE 8:94).  The therapist also noted that Mr. Wilson “was extremely 
+guarded with all movements, due to severely irritable symptoms.”  (JE 8:94).   
+ 
+Following his physical therapy appointment, Mr. Wilson visited with Arconic 
+medical.  (JE 8:178).  Mr. Wilson told Arconic that he was “more sore after the PT and 
+his shoulder and knee are both at a 10/10.”  (JE 8:178).  He used crutches to walk, and 
+wore a knee brace.  (JE 8:178).  He was allowed to return to work with certain 
+restrictions.  (JE 8:178).   
+ 
+On August 15, 2019, a provider from Arconic medical visited with Mr. Wilson.  
+(JE 8:177).  Mr. Wilson used crutches to walk and complained of ongoing right shoulder 
+and right knee pain.  (JE 8:177).  Mr. Wilson was allowed to return to work with 
+restrictions following his treatment.  (JE 8:177).   
+ 
+Mr. Wilson reported to Arconic medical for complaints of right shoulder and right 
+knee pain on August 19, 2019.  (JE 8:176).  He noted soreness in his muscles following 
+physical therapy.  (JE 8:176).  Mr. Wilson was allowed to return to work with certain 
+restrictions.  (JE 8:176).   
+ 
+On August 20, 2019, Mr. Wilson returned to Arconic medical for his continued 
+right shoulder and right knee pain.  (JE 8:175).  Mr. Wilson was provided certain care 
+and allowed to return to work with restrictions. (JE 8:175).   
+ 
+Mr. Wilson reported to Arconic medical on August 23, 2019, for his ongoing right 
+knee and right shoulder pain, which he described as “horrible” following physical 
+therapy.  (JE 8:174).  Mr. Wilson requested an attempt at heat treatment for the back of 
+his right knee in order to treat ongoing spasms and tightness.  (JE 8:174).  Mr. Wilson 
+was allowed to return to work with restrictions.  (JE 8:174).   
+On August 28, 2019, Mr. Wilson presented to Arconic medical for continued 
+follow-up care regarding his right shoulder and right knee. (JE 8:173).  Mr. Wilson 
+continued to use crutches and a knee brace.  (JE 8:173).  The provider noted that Mr. 
+
+WILSON V. ARCONIC, INC. 
+Page 16 
+ 
+Wilson reached with his right hand with no distress.  (JE 8:173).  He was allowed to 
+work with restrictions including: no kneeling, no squatting, no deep knee bends, normal 
+walking, sitting or standing for no more than 30 minutes, and a primary focus on 
+sedentary duty.  (JE 8:173).   
+ 
+On August 29, 2019, Mr. Wilson presented to Arconic medical for continued 
+follow-up care regarding his right shoulder and right knee. (JE 8:172).  Mr. Wilson 
+continued to use crutches and a knee brace.  (JE 8:172).  He had no change in his pain.  
+(JE 8:172).  He was allowed to work with restrictions including: no kneeling, no 
+squatting, no deep knee bends, normal walking, sitting or standing for no more than 30 
+minutes, and a primary focus on sedentary duty.  (JE 8:172).   
+ 
+Therapy continued on August 30, 2019, at Rock Valley Physical Therapy.  (JE 
+8:96-99).  Some of the therapy notes are illegible.  (JE 8:96-99).  Mr. Wilson 
+demonstrated some improvement in his range of motion.  (JE 8:99).   
+ 
+On September 3, 2019, Mr. Wilson reported to Dr. Hussain for an examination.  
+(JE 1:9-10).  Dr. Hussain recommended again that Mr. Wilson proceed with an 
+arthroscopic surgery to the right knee, including a partial medial meniscectomy.  (JE 
+1:10).  The surgery was scheduled for September 9, 2019, and Mr. Wilson was 
+instructed to complete post-operative physical therapy.  (JE 1:9-10).  Dr. Hussain made 
+no changes to his prior restrictions, except to include that Mr. Wilson was to no longer 
+work overtime.  (JE 1:11).   
+ 
+Mr. Wilson returned to Arconic medical on September 6, 2019, where he 
+complained of soreness in his right shoulder which “seems to get worse and worse.”  
+(JE 8:169).  Mr. Wilson expressed frustration at a lack of clarity as to his schedule.  (JE 
+8:169).   
+ 
+Mr. Wilson reported to Crow Valley Surgery Center on September 9, 2019, where 
+Dr. Hussain performed arthroscopic surgery on his right knee.  (JE 6:79-81).  More 
+specifically, Dr. Hussain performed a partial medial meniscectomy, a partial lateral 
+meniscectomy, and chondroplasty of the patella.  (JE 6:79).  Dr. Hussain’s diagnoses of 
+the claimant’s right knee were a medial meniscus tear, a lateral meniscus tear, and 
+primary osteoarthritis.  (JE 6:79).   
+ 
+On September 10 and 11, 2019, Mr. Wilson had conversations with Arconic 
+medical about his return to work following surgery.  (JE 8:168).  Mr. Wilson was allowed 
+to return to work on September 11, 2019, with restrictions of: “no overtime, sit down 
+duty only, no squatting, lifting, climbing, no driving, no operating mobile equipment, and 
+able to take pain meds as needed.  No driving while on pain medication or per 
+occupational health doctor.”  (JE 8:168).   
+ 
+On September 20, 2019, Mr. Wilson continued his care with Arconic medical.  
+(JE 8:187).  He expressed frustration with a lack of transportation to his physical therapy 
+appointments.  (JE 8:187).  He continued to have tightness in his posterior knee and 
+
+WILSON V. ARCONIC, INC. 
+Page 17 
+ 
+upper leg.  (JE 8:187).  Mr. Wilson was allowed to return to work with the 
+aforementioned restrictions.  (JE 8:187).   
+ 
+Mr. Wilson returned to ORA again on September 23, 2019, for ongoing post-
+surgical follow-up care.  (JE 1:12-13).  He demonstrated some moderate pain and 
+swelling, as well as difficulty with range of motion.  (JE 1:12).  The provider observed 
+that Mr. Wilson could actively extend his right knee to 5 degrees and flex his right knee 
+to 90 degrees.  (JE 1:12).  The provider recommended continued physical therapy, and 
+a return in four weeks for additional follow-up.  (JE 1:12).  Work restrictions were 
+provided indicating the claimant should not work overtime, should only work from a 
+seated position, and avoid squatting, lifting, climbing, driving, and operating mobile 
+equipment.  (JE 1:12).   
+ 
+The claimant followed-up with Arconic medical on September 25, 2019, for his 
+ongoing right shoulder and right knee pain.  (JE 8:186).  Mr. Wilson continued to use 
+crutches while walking.  (JE 8:186).  He described his knee pain as worse than before 
+his surgery.  (JE 8:186).  Mr. Wilson was allowed to return to work with certain 
+restrictions, including: “[n]o squatting, [n]o overtime, sit down duty only, [n]o lifting, [n]o 
+climbing, [n]o driving, [n]o operating mobile equipment, able to take pain meds as 
+needed and no driving while on pain medication.”  (JE 8:186).   
+ 
+On September 27, 2019, Mr. Wilson continued physical therapy at Rock Valley 
+Physical Therapy.  (JE 8:100-101).  Mr. Wilson complained of soreness in his right 
+shoulder.  (JE 8:100).  He ambulated with the assistance of crutches or a cane.  (JE 
+8:100).   
+ 
+On October 22, 2019, Mr. Wilson saw Dr. Hussain for additional post-surgical 
+follow-up care.  (JE 1:14-15).  Mr. Wilson complained of constant pain, mostly in the 
+posterior aspect of his right knee.  (JE 1:14).  Dr. Hussain recommended an injection 
+into Mr. Wilson’s right knee.  (JE 1:14).  He performed the same, and prescribed 
+medications, a brace, and physical therapy.  (JE 1:14).  Dr. Hussain allowed Mr. Wilson 
+to return to work with certain restrictions, including: no working overtime, sitting down 
+duty only, no squatting, no lifting, no climbing, and no driving.  (JE 1:14).   
+ 
+Dr. Hussain saw Mr. Wilson again on December 12, 2019.  (JE 1:17-18).  Mr. 
+Wilson complained of constant knee pain, which worsened with physical therapy.  (JE 
+1:17).  At times, his pain was so severe that it woke him from sleep.  (JE 1:17).  Mr. 
+Wilson noted that he worked 12 hours per day at the time of his appointment.  (JE 1:17).  
+Upon examination of Mr. Wilson’s knee, Dr. Hussain noted mild tenderness to palpation  
+in the right knee.  (JE 1:17).  Dr. Hussain recommended an MRI of the claimant’s right 
+knee for further evaluation of his ongoing right knee pain; however, he noted that if the 
+MRI were negative, he would have no further treatment recommendations for the 
+claimant.  (JE 1:17).  Dr. Hussain allowed the claimant to discontinue formal physical 
+therapy.  (JE 1:17).  He allowed the claimant to continue working with the same 
+restrictions as previously provided.  (JE 1:17).   
+
+WILSON V. ARCONIC, INC. 
+Page 18 
+ 
+ 
+Mr. Wilson had another MRI on his right knee on December 20, 2019.  (JE 2:62-
+63).  The MRI showed a partial medial meniscectomy with joint effusion.  (JE 2:63).   
+ 
+On December 26, 2019, Mr. Wilson returned to see Dr. Hussain in order to 
+review the results of his MRI.  (JE 1:19-20).  At the time of the appointment, he wore a 
+knee brace and walked with the assistance of a cane.  (JE 1:19).  Dr. Hussain outlined 
+his findings based upon the MRI, which included a “mild effusion and blunting of the 
+medial meniscus with no re-tears.”  (JE 1:19).  Dr. Hussain recommended a referral to 
+pain management, and allowed the claimant to return to work with his current 
+restrictions.  (JE 1:19).   
+ 
+Arconic re-evaluated Mr. Wilson’s work restrictions on December 27, 2019.  (JE 
+8:219).  Arconic opined that Mr. Wilson arrived to the appointment with a “defiant and 
+angry attitude, not wanting to give a history of his injury or treatment, [and] being terse 
+in his response.”  (JE 8:219).  The Arconic provider further opined that Mr. Wilson 
+“…was not forthcoming on his limitations in functions.”  (JE 8:219).  The Arconic 
+provider declined to provide “…any recommendations on work restrictions.”  (JE 8:219).  
+The restrictions noted in the record were: “[n]o overtime, sit down duty only, no 
+squatting, lifting, climbing, no driving, no operating mobile equipment, and able to take 
+pain meds as needed.  No driving while on pain medication or per occupational health 
+doctor.  The employee is limited to 12 hours worked in a day.  The employee is limited 
+to 36-48 hours worked in a week.  No forced overtime.”  (JE 8:220).   
+ 
+On January 2, 2020, Mr. Wilson continued treatment with Arconic medical, 
+including provision of ice and heat for his right shoulder and right knee.  (JE 8:219).  Mr. 
+Wilson indicated he was irritated by the lack of improvement in his injured body parts.  
+(JE 8:219).  Mr. Wilson also indicated irritation with a lack of authorization for certain 
+treatment.  (JE 8:219).  Arconic returned Mr. Wilson to work with certain restrictions.  
+(JE 8:219).   
+ 
+Mr. Wilson had more treatment with Arconic medical on January 6, 2020.  (JE 
+8:218).  Arconic provided the claimant with ice and heat for his ongoing right knee and 
+right shoulder complaints. (JE 8:218).  The record indicated that Mr. Wilson was “very 
+argumentative” with the Arconic provider, stating, “[i]f I have to lift with this shoulder 
+already torn I will definitely hurt myself.”  (JE 8:218).  He was returned to work with 
+restrictions.  (JE 8:218).   
+ 
+Mr. Wilson received more treatment from Arconic medical for his right shoulder 
+and right knee pain on January 7, 2020.  (JE 8:217).  Arconic provided the claimant with 
+ice and heat for his ongoing issues.  (JE 8:217).  He returned to work within his 
+previously provided restrictions.  (JE 8:217).   
+ 
+On January 10, 2020, the claimant received treatment in the form of ice and heat 
+from Arconic medical.  (JE 8:216).  He complained of pain of 9 out of 10 in his right knee 
+and 7 out of 10 in his right shoulder.  (JE 8:216).  He told the Arconic provider, “[i]t just 
+hurts I want it to stop.”  (JE 8:216).  Mr. Wilson was allowed to return to work within his 
+restrictions.  (JE 8:216).   
+
+WILSON V. ARCONIC, INC. 
+Page 19 
+ 
+ 
+Rock Valley Physical Therapy sent Arconic a note on January 14, 2020, 
+indicating that Mr. Wilson was not attending physical therapy.  (JE 8:216).  Arconic 
+noted that they would inform Mr. Wilson that he needed to attend the ordered physical 
+therapy.  (JE 8:216).   
+ 
+On January 15, 2020, Mr. Wilson had more ice and heat applied at Arconic 
+medical for his ongoing right knee and right shoulder complaints.  (JE 8:215).  He was 
+allowed to return to work with restrictions following treatment.  (JE 8:215).   
+ 
+Mr. Wilson had more treatment with Arconic medical on January 16, 2020.  (JE 
+8:215).  He was provided with ice and heat for his ongoing right shoulder and right knee 
+pain.  (JE 8:215).  He was allowed to return to work with restrictions.  (JE 8:215).   
+ 
+On January 21, 2020, Mr. Wilson had more treatment with Arconic medical for 
+his right knee and right shoulder.  (JE 8:214).  Arconic provided him with ice and heat 
+and allowed him to return to work with restrictions.  (JE 8:214).   
+ 
+Mr. Wilson returned to ORA on January 22, 2020, for an examination by Sanjay 
+Sundar, M.D.  (JE 1:21-22).  Mr. Wilson continued to complain of pain in his right 
+posterior thigh.  (JE 1:21).  Mr. Wilson recounted weakness in his arms and legs.  (JE 
+1:21).  Dr. Sundar was “suspicious” that Mr. Wilson had “…some neural impingement of 
+the S1 level,” and accordingly ordered a lumbar MRI.  (JE 1:22).  Dr. Sundar deferred to 
+Dr. Hussain’s work restrictions.  (JE 1:22).   
+ 
+Arconic medical provided treatment for Mr. Wilson on January 29, 2020, for his 
+right knee and right shoulder pain.  (JE 8:212).  Mr. Wilson rated his knee pain 10 out of 
+10 and his shoulder pain 8 out of 10.  (JE 8:212).  Arconic provided Mr. Wilson with ice 
+and heat, recommended that he continue to take his prescribed medications, and 
+released him to work with restrictions.  (JE 8:212).   
+ 
+Mr. Wilson reported to Arconic medical for treatment of his ongoing right shoulder 
+and right knee pain on January 30, 2020.  (JE 8:211).  Mr. Wilson walked with the 
+assistance of a cane.  (JE 8:211).  Mr. Wilson was given ice and heat, told to continue 
+taking his prescribed medications, and was returned to work with restrictions.  (JE 
+8:211).   
+ 
+On February 3, 2020, Mr. Wilson returned to Arconic medical for treatment of his 
+right knee and right shoulder pain.  (JE 8:211).  Mr. Wilson was provided ice and heat 
+for his right knee and right shoulder.  (JE 8:211).  He also was given a Salonpas patch 
+for pain.  (JE 8:211).  Finally, Mr. Wilson was allowed to return to work with certain 
+restrictions.  (JE 8:211).   
+ 
+Arconic medical providers visited with Mr. Wilson again on February 4, 2020.  (JE 
+8:210).  Mr. Wilson wore a new knee brace on his right knee and walked with a cane.  
+(JE 8:210).  He rated his right knee pain 10 out of 10 and described a feeling that his leg 
+was going to fall off.  (JE 8:210).  He rated his right shoulder pain 7 out of 10.  (JE 
+
+WILSON V. ARCONIC, INC. 
+Page 20 
+ 
+8:210).  The Arconic provider gave Mr. Wilson ice and applied heat to his injured areas.  
+(JE 8:210).  Mr. Wilson was allowed to return to work with no restrictions.  (JE 8:210).   
+ 
+On February 7, 2020, Arconic medical provided treatment to Mr. Wilson for his 
+ongoing right shoulder and right knee pain.  (JE 8:209).  He was given ice and heat and 
+returned to work with restrictions.  (JE 8:209).   
+ 
+Mr. Wilson presented to security at Arconic on February 9, 2020, reporting pain 
+in the back of his right quadricep and knee and right shoulder.  (JE 8:208).  Mr. Wilson 
+was provided ice and heat for his right knee.  (JE 8:208).  He was returned to work with 
+restrictions.  (JE 8:208).   
+ 
+On February 17, 2020, the claimant returned to Arconic medical for treatment of 
+his right shoulder and right knee.  (JE 8:208).  Arconic offered him ice and heat for his 
+right knee and right shoulder.  (JE 8:208).  He was allowed to return to work with 
+restrictions.  (JE 8:208).   
+ 
+Mr. Wilson continued his treatment at Arconic medical on February 18, 2020.  
+(JE 8:207).  Mr. Wilson complained of intermittently worsening right knee pain and 
+continuous right shoulder pain.  (JE 8:207).  He was provided with ice and heat and was 
+released to work within restrictions.  (JE 8:207).   
+ 
+On February 21, 2020, Mr. Wilson reported to Arconic medical for treatment of 
+his ongoing right shoulder and right knee issues.  (JE 8:206).  He was provided with ice 
+and Biofreeze and allowed to return to work within certain restrictions.  (JE 8:206).   
+ 
+Mr. Wilson visited with Arconic medical for treatment on February 26, 2020.  (JE 
+8:205).  He denied a change in condition. (JE 8:205).  Arconic provided the claimant 
+with treatment including heat and ice, and recommended that he continue to take 
+medications as prescribed.  (JE 8:205).  Mr. Wilson indicated that he lacked information 
+as to testing recommended by Dr. Sundar.  (JE 8:205).  Arconic returned Mr. Wilson to 
+his job within certain restrictions, and asked him to return for treatment on a weekly 
+basis.  (JE 8:205).   
+ 
+On March 3, 2020, the claimant returned to Arconic medical for treatment to his 
+right knee and right shoulder.  (JE 8:204).  Mr. Wilson rated his right knee and right 
+shoulder pain 10 out of 10.  (JE 8:204).  Arconic medical provided him with ice and heat, 
+and returned him to work with restrictions.  (JE 8:204).   
+ 
+Mr. Wilson reported to Arconic medical for treatment of his right shoulder and 
+right knee on March 12, 2020.  (JE 8:203).  Mr. Wilson was provided ice and heat, and 
+told to continue taking medications as prescribed.  (JE 8:203).  Mr. Wilson walked using 
+a cane and showed decreased range of motion in his right shoulder.  (JE 8:203).  Mr. 
+Wilson was returned to work following his treatment with restrictions.  (JE 8:203).   
+
+WILSON V. ARCONIC, INC. 
+Page 21 
+ 
+ 
+On March 16, 2020, the claimant continued his follow-up care with Arconic 
+medical.  (JE 8:202).  Mr. Wilson noted no change to his condition.  (JE 8:202).  He was 
+provided with ice and Biofreeze, and returned to work with restrictions.  (JE 8:202).    
+ 
+On March 20, 2020, Mr. Wilson continued his care with Arconic medical for his 
+right knee and right shoulder pain.  (JE 8:202).  He rated his right knee pain 7 to 8 out of 
+10, and right shoulder pain 8 out of 10.  (JE 8:202).  He was provided ice and heat and 
+told to continue medications at home.  (JE 8:202).  He was returned to work with certain 
+restrictions following his appointment.  (JE 8:202).   
+ 
+Mr. Wilson continued his follow-up with Arconic medical on March 25, 2020, for 
+his ongoing right shoulder and right knee complaints.  (JE 8:201).  Mr. Wilson wore a 
+knee brace outside of his jeans, and walked with a cane.  (JE 8:201).  The Arconic staff 
+provided Mr. Wilson with ice, heat, and Biofreeze.  (JE 8:201).  They recommended that 
+he continue to take his prescribed medication, over-the-counter medication, and use 
+heat and ice.  (JE 8:201).  The provider noted that Mr. Wilson could raise his right arm 
+to shoulder height and get in and out of a chair with no difficulty.  (JE 8:201).  Mr. Wilson 
+was returned to work with certain restrictions.  (JE 8:201).   
+ 
+On April 8, 2020, Mr. Wilson returned to Arconic medical for his ongoing right 
+knee and right shoulder issues.  (JE 8:201).  Mr. Wilson noted he took his prescribed 
+medications, but still had pain of 8 out of 10 in his right knee and 9 out of 10 in his right 
+shoulder.  (JE 8:201).  He also experienced numbness in his shoulder and hand.  (JE 
+8:201).  Mr. Wilson walked with a cane.  (JE 8:201).  The Arconic provider 
+recommended that Mr. Wilson continue using his prescribed medications and ice and 
+heat.  (JE 8:201).  Mr. Wilson was returned to work with restrictions.  (JE 8:201).   
+ 
+The claimant visited with Arconic medical on April 14, 2020, for his continued 
+right shoulder and right knee pain.  (JE 8:200).  The Arconic medical provider 
+recommended that Mr. Wilson continue to take his medications and apply ice and heat 
+as directed.  (JE 8:200).  During his visit, he was provided with ice, heat, and Biofreeze 
+for his ongoing pain.  (JE 8:200).   
+ 
+On May 6, 2020, Mr. Wilson had an MRI of his lumbar spine.  (JE 2:64-65).  The 
+MRI showed minimal loss of disc signal at L3-4.  (JE 2:65).  Otherwise, the examination 
+was considered to be normal.  (JE 2:65).   
+ 
+On June 3, 2020, Mr. Wilson reported to Arconic medical with complaints of “long 
+term pain associated with his [right] shoulder and [right] knee.”  (JE 8:193).  Mr. Wilson 
+took certain pain medications and operated under “…an extensive list of restrictions…”  
+(JE 8:193).  He used a cane to walk, and displayed a slightly antalgic gait.  (JE 8:193).  
+He was provided with additional prescriptions for pain medications, and was provided 
+Biofeeze before being returned to work.  (JE 8:193).   
+ 
+Mr. Wilson had additional treatment with Arconic medical on June 9, 2020, for his 
+ongoing right shoulder and right knee pain.  (JE 8:199).  He was provided with ice and 
+Biofreeze during this visit.  (JE 8:199).   
+
+WILSON V. ARCONIC, INC. 
+Page 22 
+ 
+ 
+On June 12, 2020, Mr. Wilson presented to Arconic medical for his ongoing right 
+shoulder and right knee pain.  (JE 8:199).  He was provided with ice to his right shoulder 
+and right knee.  (JE 8:199).   
+ 
+Mr. Wilson returned to Arconic medical on June 17, 2020, for his ongoing right 
+knee and right shoulder pain.  (JE 8:198).  Mr. Wilson continued to utilize a cane while 
+he walked.  (JE 8:198).  The provider opined that Mr. Wilson showed improved range of 
+motion. (JE 8:198).  It was recommended that Mr. Wilson have an evaluation with 
+physical therapy.  (JE 8:198).   
+ 
+Mr. Wilson had additional physical therapy at Rock Valley Physical Therapy on 
+July 6, 2020, for ongoing pain in the right knee.  (JE 8:91-92).  Mr. Wilson displayed a 
+“pronounced avoidance of weight bearing” on his right knee.  (JE 8:91).    
+ 
+Mr. Wilson visited with Theodore Koerner, M.D., at Arconic medical on November 
+10, 2020.  (DE B:15).  Dr. Koerner is the medical director at Arconic in Davenport.  (DE 
+B:15).  Dr. Koerner noted that the record for this date focused only on Mr. Wilson’s right 
+knee.  (DE B:15).  Dr. Koerner recounted the imaging showing a medial meniscal tear, a 
+small enchondroma of the distal femur, and minimal joint fluid.  (DE B:15).  Dr. Koerner 
+appears to have noted next to each diagnosis whether it was work related.  (DE B:15).  
+He opined that the medial meniscal tear and minimal joint fluid were “probably work-
+related.”  (DE B:15).  Dr. Koerner then reviewed Mr. Wilson’s medical treatment to date, 
+including his injection, surgery, and subsequent physical therapy.  (DE B:15).  Dr. 
+Koerner opined that Mr. Wilson was “not compliant” with physical therapy.  (DE B:15).  It 
+is unclear from where Dr. Koerner derives this opinion.  Dr. Koerner continued by noting 
+that Mr. Wilson continued to complain of pain following his course of treatment.  (DE 
+B:15).  To bolster this opinion, he cited to an MRI performed on December 20, 2019, 
+which he noted “…showed the surgery was successful and the medial meniscal tear 
+objectively resolved.  The study only showed mild effusion and blunting of the medial 
+meniscus with no re-tears.”  (DE B:15).  Dr. Koerner then noted Dr. Hussain’s 
+December 26, 2019, record in which he opined that Mr. Wilson’s injury objectively 
+resolved.  (DE B:15).  Dr. Koerner continued by noting that Dr. Sundar felt that Mr. 
+Wilson’s ongoing right knee pain was “mechanistically unrelated to the [employee’s] 
+injuries on [February 20, 2019].”  (DE B:15).  Dr. Koerner noted that he convinced Mr. 
+Wilson to attempt additional physical therapy, which ended on October 9, 2020, “due to 
+lack of functional progress and generalized worsening of [the] patient’s condition.”  (DE 
+B:15).  Dr. Koerner noted that Mr. Wilson worked under restrictions including: “[n]o 
+squatting, no climbing, no operating mobile equipment, no overtime, limited to 12 hrs. in 
+a day and 36-48 hrs. in a week, no lifting over 20 [pounds], no crawling, no kneeling, 
+may stand occasionally.”  (DE B:15).  Based upon the foregoing, Dr. Koerner concluded 
+that Mr. Wilson reached MMI as of November 10, 2020, as “[h]is symptoms are 
+essentially subjective, having had work-related objective lesions repaired.”  (DE B:15).   
+ 
+Dr. Hussain drafted another letter to an employee of Helmsman Management 
+Services dated November 19, 2020.  (JE 3:69; DE C:16).  In this letter, Dr. Hussain 
+
+WILSON V. ARCONIC, INC. 
+Page 23 
+ 
+opined that Mr. Wilson achieved MMI.  (JE 3:69; DE C:16).  Pursuant to Table 17-31 of 
+the AMA Guides to the Evaluation of Permanent Impairment, Fifth Edition, Dr. Hussain 
+provided the claimant with a 10 percent lower extremity impairment.  (JE 3:69; DE 
+C:16).  He converted this impairment rating to a 4 percent whole person impairment.  
+(JE 3:69; DE C:16).   
+ 
+On January 21, 2021, Dr. Hussain saw Mr. Wilson for ongoing right shoulder 
+complaints.  (JE 1:24-25).  Mr. Wilson noted pain, grinding, clicking, and a reduction in 
+range of motion in his right shoulder.  (JE 1:24).  He also outlined tingling and 
+numbness into the fingers of his right hand.  (JE 1:24).  Dr. Hussain observed that Mr. 
+Wilson ambulated with an antalgic gait and with the assistance of a cane.  (JE 1:24).  
+Dr. Hussain examined the claimant’s right shoulder and found him to have mild 
+tenderness to palpation, along with limited range of motion.  (JE 1:24).  Dr. Hussain 
+ordered x-rays, which he subsequently reviewed.  (JE 1:24).  He opined that there was 
+no evidence of fracture or dislocation in the right shoulder.  (JE 1:24).  Dr. Hussain 
+diagnosed Mr. Wilson as follows: 
+1. Chronic right shoulder pain with a partial thickness rotator cuff tear and 
+subacromial impingement with symptomatic acromioclavicular joint 
+primary osteoarthritis and subjectively with some right hand numbness 
+and tingling.   
+2. Right knee pain with distal, posterior, lateral thigh pain with hamstring 
+tendonitis, status post right knee arthroscopy, partial medial lateral 
+meniscectomy, chondroplasty of the patella on 09/09/2019. 
+ 
+(JE 1:24).  Based upon his diagnoses and examination of the claimant, Dr. Hussain 
+recommended a right shoulder arthroscopy with a rotator cuff debridement, subacromial 
+decompression, and acromioclavicular joint resection.  (JE 1:24).  Mr. Wilson expressed 
+a desire to proceed with the recommended surgery.  (JE 1:24).  Dr. Hussain provided a 
+work note indicating that Mr. Wilson could return to work with working light duty only 
+with his right hand, lifting less than two pounds, and no overhead work.  (JE 1:24).  
+Finally, Mr. Wilson requested a right knee brace, which Dr. Hussain prescribed.  (JE 
+1:24).   
+ 
+On February 19, 2021, Mr. Wilson reported to the Quad City Ambulatory Surgery 
+Center, where Dr. Hussain performed an arthroscopic surgery on his right shoulder. (JE 
+5:75-78).  More specifically, Dr. Hussain performed a rotator cuff debridement, a biceps 
+tenotomy with tenolysis, a superior labrum anterior posterior (“SLAP”) tear debridement, 
+a humeral head chondroplasty, a subacromial bursectomy, a subacromial 
+decompression, and an acromioclavicular joint resection with a distal clavicle excision.  
+(JE 5:75).  Dr. Hussain’s diagnoses after the surgery included a right shoulder partial-
+thickness rotator cuff tear, a SLAP tear, subacromial bursitis, subacromial impingement, 
+and symptomatic acromioclavicular joint primary osteoarthritis.  (JE 5:75).   
+                                                 
+1 Dr. Hussain subsequently corrected this to note that it should state Table 17-33 on page 546 of the 
+Guides.  See DE Q:128.   
+
+WILSON V. ARCONIC, INC. 
+Page 24 
+ 
+ 
+Mr. Wilson returned to ORA where Dr. Hussain examined him again on February 
+26, 2021.  (JE 1:26-27).  This was his first post-surgical visit following his February 19, 
+2021, surgery.  (JE 1:26).  Mr. Wilson noted that his right hand shook and that he 
+experienced shooting pains and numbness into his right hand.  (JE 1:26).  He denied 
+any “new accidents or injuries.”  (JE 1:26).  Dr. Hussain recommended continued 
+physical therapy and prescription medication management for Mr. Wilson’s pain. (JE 
+1:26).  Dr. Hussain provided restrictions of: no lifting greater than 5 pounds with the right 
+arm, no driving while in a sling, and no working more than six hours.  (JE 1:26).   
+ 
+On March 5, 2021, Mr. Wilson returned to ORA for continued post-surgical 
+follow-up care. (JE 1:28-29).  Mr. Wilson noted feeling better since the surgery, 
+including better sensation in his right hand.  (JE 1:28).  He continued to have some 
+intermittent numbness and tingling in his right hand despite the improvement.  (JE 1:28).  
+The provider recommended continued physical therapy and restated the previously 
+provided restrictions.  (JE 1:28).  Mr. Wilson was asked to return in four weeks.  (JE 
+1:28).   
+ 
+Mr. Wilson continued his post-surgical follow-up care with Dr. Hussain on April 9, 
+2021.  (JE 1:30-31).  He continued to complain of considerable pain in his right shoulder 
+with a feeling of his right hand periodically falling asleep.  (JE 1:30).  Upon examination, 
+Mr. Wilson displayed reduced range of motion in his left shoulder.  (JE 1:30).  After 
+considering Mr. Wilson’s symptoms and the results of his examination, Dr. Hussain 
+recommended an EMG of the claimant’s right upper extremity.  (JE 1:30).  He also 
+recommended that Mr. Wilson continue physical therapy and take prescription 
+medications to manage his pain.  (JE 1:30).  Dr. Hussain made no changes to the 
+previously provided work restrictions.  (JE 1:30).   
+ 
+Mr. Wilson had an EMG on April 29, 2021.  (JE 9:221).  According to Robert 
+Chesser, M.D., the EMG suggested “…slowing thru [sic] the right carpal tunnel…”  (JE 
+9:221-222).  Otherwise, the results of the examination were within normal limits.  (JE 
+9:222).   
+ 
+On May 18, 2021, Mr. Wilson returned to Dr. Hussain’s office with complaints of 
+ongoing right shoulder pain.  (JE 1:32-33).  Mr. Wilson indicated that he could barely lift 
+his right shoulder.  (JE 1:32).  Dr. Hussain found Mr. Wilson to have mild tenderness to 
+palpation and limited range of motion in his right shoulder.  (JE 1:32).  Dr. Hussain 
+recommended that the claimant continue physical therapy.  (JE 1:32).  Dr. Hussain 
+reviewed the results of a right upper extremity EMG and opined that they showed 
+“possible mild carpal tunnel syndrome.”  (JE 1:32).  Accordingly, Dr. Hussain 
+recommended a corticosteroid injection into the claimant’s right wrist and a 
+corticosteroid injection into the claimant’s right shoulder.  (JE 1:32-33).  Dr. Hussain 
+documented that “…according to [Mr. Wilson’s] work comp [sic] case manager the 
+carpal tunnel treatment is not approved at this time by workman’s [sic] comp.”  (JE 
+1:32).  Dr. Hussain administered the injection into the claimant’s right shoulder, and 
+reiterated his previously promulgated restrictions.  (JE 1:33).   
+
+WILSON V. ARCONIC, INC. 
+Page 25 
+ 
+ 
+Thomas Ebinger, M.D., issued an IME report on June 30, 2021, addressed to 
+Denise Wieberg of Helmsman Management Services.  (JE 11:232-240).  According to 
+the report, Dr. Ebinger is an orthopedic surgeon.  (JE 11:231).  In preparing his report, 
+Dr. Ebinger examined Mr. Wilson and reviewed a number of medical records.  (JE 
+11:232-237).  Mr. Wilson outlined his February of 2019 work injury, as well as a June of 
+2019 injury wherein he attempted to escape a fire.  (JE 11:232).  He told Dr. Ebinger 
+that he felt a pop in his right knee after pushing open a door while escaping the fire.  (JE 
+11:232).  Mr. Wilson noted that his right knee pain persisted following his right knee 
+surgery.  (JE 11:232).  Mr. Wilson complained of ongoing numbness and tingling in the 
+index and middle fingers of his right hand following his right shoulder surgery.  (JE 
+11:233).  Mr. Wilson told Dr. Ebinger that his right arm pain radiated up his arm into his 
+shoulder and neck, and that he experienced periodic numbness to his entire right arm.  
+(JE 11:233).  Mr. Wilson did not experience numbness or tingling to his right upper 
+extremity prior to his right shoulder surgery despite a medical record predating the 
+surgery outlining these symptoms.  (JE 11:233).   
+ 
+In examining Mr. Wilson, Dr. Ebinger observed that he had “generalized 
+tenderness with palpation around the trapezius, base of the neck common about the 
+shoulder…” along with pain with shoulder range of motion.  (JE 11:237).  Mr. Wilson 
+had a positive nerve compression test at the carpal tunnel.  (JE 11:237).  Based upon 
+his review of the medical records and his examination of Mr. Wilson, Dr. Ebinger 
+diagnosed Mr. Wilson with mild right carpal tunnel syndrome and chronic right shoulder 
+pain.  (JE 11:238).   
+ 
+Dr. Ebinger’s report continued with his opinions as to the claimant’s ongoing 
+conditions.  (JE 11:238-240).  He opined that Mr. Wilson’s right carpal tunnel syndrome 
+was “substantially aggravated” by his right shoulder arthroscopy and that the right 
+shoulder surgery was the result of his February 20, 2019, and June 1, 2019, work 
+injuries.  (JE 11:238).  Since his symptoms began after his surgery, Dr. Ebinger opined 
+that “…I would consider his current symptoms to be work related.”  (JE 11:238).  Dr. 
+Ebinger further opined that further medical treatment for Mr. Wilson’s right carpal tunnel 
+syndrome would be causally related to the work incident.  (JE 11:238-239).  Dr. Ebinger 
+deferred on any opinions concerning permanent impairment or work restrictions, as they 
+would depend on the outcome of treatment for his carpal tunnel syndrome.  (JE 11:239).  
+Dr. Ebinger recommended no new work restrictions, but deferred to Mr. Wilson’s 
+“current work restrictions relating to his right shoulder and right knee injury.”  (JE 
+11:239).  He further opined that Mr. Wilson had yet to achieve MMI for his right carpal 
+tunnel issues.  (JE 11:239).  Dr. Ebinger recommended that Mr. Wilson undergo a 
+corticosteroid injection into his carpal tunnel, as well as a brace to treat the ongoing 
+carpal tunnel syndrome.  (JE 11:239).  If these did not provide symptom relief, Dr. 
+Ebinger opined that a surgical release may be necessary.  (JE 11:239).   
+ 
+Dr. Hussain examined Mr. Wilson again on July 2, 2021.  (JE 1:35-37).  Mr. 
+Wilson reported that his pain slowly returned following his prior injection despite seeing 
+improvement with physical therapy.  (JE 1:35).  Mr. Wilson told Dr. Hussain that he 
+began experiencing “…a lot more issues with his right hand and recently was seen in 
+
+WILSON V. ARCONIC, INC. 
+Page 26 
+ 
+Iowa City to see a specialist there for the numbness and tingling in the right hand…”  
+(JE 1:35).  Dr. Hussain recommended that Mr. Wilson continue physical therapy and 
+taking prescription medications for his pain.  (JE 1:35).  Dr. Hussain finished his record 
+by restating his previously stated work restrictions, and requesting that Mr. Wilson 
+return in six-to-eight weeks for a repeat evaluation.  (JE 1:35).   
+ 
+On August 13, 2021, Mr. Wilson again visited with Dr. Hussain.  (JE 1:38-40).  
+Mr. Wilson complained of ongoing pain and numbness in his right hand, which caused 
+difficulty with his working activities.  (JE 1:38).  Upon examination, Mr. Wilson showed 
+tenderness to palpation and numbness along with issues with range of motion.  (JE 
+1:38).  Dr. Hussain reviewed the results of an April 29, 2021, right hand EMG, and 
+opined that Mr. Wilson had right-sided carpal tunnel syndrome.  (JE 1:38).  Dr. Hussain 
+thus recommended a corticosteroid injection into the claimant’s right hand carpal tunnel 
+region and right shoulder.  (JE 1:39).  He completed the injections during the 
+appointment.  (JE 1:39).  Finally, Dr. Hussain restated his previously issued work 
+restrictions.  (JE 1:39).   
+ 
+Dr. Hussain examined Mr. Wilson for continued follow-up care on September 24, 
+2021.  (JE 1:41-43).  He continued to experience stiffness in his right shoulder after the 
+previous injection.  (JE 1:41).  He also continued to have numbness and tingling in his 
+right hand, and felt that the prior injection did not provide him with long-term relief.  (JE 
+1:41).  Since he was not showing improvement, Dr. Hussain recommended a right hand 
+open carpal tunnel release.  (JE 1:41).  He continued to recommend physical therapy, 
+and provided him with a prescription for Ibuprofen.  (JE 1:42).  Finally, Dr. Hussain 
+reiterated his previously provided work restrictions.  (JE 1:42).   
+ 
+On November 19, 2021, Mr. Wilson reported to Crow Valley Surgery Center, 
+where Dr. Hussain performed a right hand open carpal tunnel release and median nerve 
+neurolysis on him.  (JE 6:82-83).  Dr. Hussain diagnosed Mr. Wilson with right hand 
+carpal tunnel syndrome.  (JE 6:82).   
+ 
+Mr. Wilson returned to ORA for a post-surgical follow-up visit on November 29, 
+2021.  (JE 1:44-46).  Mr. Wilson continued to complain of intermittent right shoulder 
+pain.  (JE 1:44).  He also had intermittent numbness and tingling in his right hand 
+following his surgery.  (JE 1:44).  Mr. Wilson asked for a corticosteroid injection for his 
+right shoulder.  (JE 1:44).  An injection was provided into the right subacromial space.  
+(JE 1:45).  The provider also recommended that Mr. Wilson continue performing his 
+home exercises for his right shoulder.  (JE 1:44).  Finally, the provider gave Mr. Wilson 
+a work note reiterating the prior restrictions and also restricting Mr. Wilson to only work 
+with his left arm.  (JE 1:44).   
+ 
+On January 7, 2022, Mr. Wilson returned to ORA to visit with Dr. Hussain.  (JE 
+1:47-50).  He continued to complain of right shoulder and right knee pain.  (JE 1:47).  
+Upon examination, Dr. Hussain found the claimant to have range of motion limitations in 
+his right hand.  (JE 1:47).  Dr. Hussain noted, “Jose is complaining of persistent right 
+knee pain and that he is requesting that we reinvestigate the right knee.”  (JE 1:47).  Dr. 
+Hussain recommended that Mr. Wilson return to occupational health in order for repeat 
+
+WILSON V. ARCONIC, INC. 
+Page 27 
+ 
+imaging to be conducted.   (JE 1:47).  Dr. Hussain recommended continued observation 
+of the claimant’s right shoulder, and physical therapy for the claimant’s right hand.  (JE 
+1:48).  Dr. Hussain reiterated his previously provided work restrictions.  (JE 1:48-49).   
+ 
+Dr. Hussain examined Mr. Wilson again on February 25, 2022.  (JE 1:51-54).  
+Mr. Wilson continued to experience numbness and tingling in his right hand, stiffness in 
+his right shoulder, and issues with his right knee.  (JE 1:51).  Mr. Wilson used a cane 
+while walking.  (JE 1:51).  Dr. Hussain recommended that Mr. Wilson continue physical 
+therapy, return to occupational health for his right knee, and undergo another 
+corticosteroid injection into the right shoulder.  (JE 1:51).  Dr. Hussain made no changes 
+to the claimant’s work restrictions.  (JE 1:52, 54).   
+ 
+On March 25, 2022, Mr. Wilson returned to see Dr. Hussain.  (JE 1:55-57).  Mr. 
+Wilson had improvement following physical therapy, though he experienced continued 
+numbness throughout his right hand.  (JE 1:55).  Dr. Hussain recommended a repeat 
+EMG of the right hand and continued physical therapy.  (JE 1:55).  Dr. Hussain made no 
+changes to his previously provided work restrictions.  (JE 1:57).   
+ 
+In a letter to defendants’ counsel dated June 21, 2022, Dr. Hussain outlined 
+additional opinions concerning Mr. Wilson.  (JE 3:70-73; DE C:17-20).  Dr. Hussain 
+indicated that Mr. Wilson’s recovery from his right knee, right shoulder and right hand 
+procedures were “not typical.”  (JE 3:70; DE C:17).  As it related to the right knee, Dr. 
+Hussain indicated that Mr. Wilson should have shown improvement after 12 weeks to 
+the point that he was working regular duty with no restrictions.  (JE 3:70; DE C:17).  As 
+it related to the right shoulder, Dr. Hussain felt that Mr. Wilson should have returned to 
+normal duty within four and six months of his surgery, with a recovery time of up to nine 
+months in the event of issues which slowed the recovery.  (JE 3:71; DE C:18).  For the 
+claimant’s right hand issues, Dr. Hussain indicated that a typical recovery would have 
+been six to nine weeks.  (JE 3:71; DE C:18).   
+ 
+Dr. Hussain’s letter continued by opining that Mr. Wilson’s ongoing right knee 
+and right shoulder issues were not due to any structural issues or abnormalities.  (JE 
+3:71; DE C:18).  Because of this, Dr. Hussain deferred to Dr. Koerner for any 
+permanent restrictions regarding Mr. Wilson’s right knee and right shoulder.  (JE 3:71; 
+DE C:18).  He also indicated that no further orthopedic treatment for the claimant’s right 
+shoulder or right knee was necessary.  (JE 3:71; DE C:18).  Likewise, Dr. Hussain 
+expressed a belief of a lack of structural or objective reason for Mr. Wilson’s continued 
+use of the need for a cane or walker.  (JE 3:72; DE C:19).  For the ongoing right hand 
+issues, Dr. Hussain offered the claimant another EMG. (JE 3:71; DE C:18).  Dr. Hussain 
+again deferred to Dr. Koerner for any permanent restrictions regarding Mr. Wilson’s right 
+hand.  (JE 3:71-72; DE C:18-19).   
+ 
+Dr. Hussain noted that any recommendation for additional physical therapy noted 
+in his March 25, 2022, record were due to a request from the claimant and did not stem 
+from any objective medical basis.  (JE 3:72; DE C:19).  Dr. Hussain reiterated his 10 
+percent permanent impairment rating to the right lower extremity.  (JE 3:72; DE C:19).  
+Dr. Hussain also deferred to Dr. Koerner for any indications as to MMI for the claimant’s 
+
+WILSON V. ARCONIC, INC. 
+Page 28 
+ 
+right shoulder.  (JE 3:72; DE C:19).  Finally, Dr. Hussain opined that Mr. Wilson required 
+no additional care for his right shoulder or right knee.  (JE 3:72; DE C:19).   
+ 
+At the request of the defendants, Rick Garrels, M.D. provided an IME report of 
+the claimant dated August 30, 2022.  (DE F:55-58; G:59-64).  In preparing his report, 
+Dr. Garrels performed an examination of the claimant and reviewed a number of 
+medical records.  (DE G:59-64).  Dr. Garrels outlined Mr. Wilson’s job responsibilities 
+and history of his medical treatment.  (DE G:60).  Mr. Wilson noted that surgery did not 
+change his symptom pattern in his hand, that his right shoulder is somewhat better, and 
+that his right knee has worsened since his injury.  (DE G:60).  At the time of his 
+examination, Mr. Wilson rated his right knee pain 8 out of 10.  (DE G:60).  Mr. Wilson 
+presented to the IME wearing a right knee sleeve, and also used a cane, which he used 
+to arise from a chair.  (DE G:61).  He also exhibited “moderate pain behaviors.”  (DE 
+G:61).  Upon examination, Mr. Wilson demonstrated range of motion to 90 degrees of 
+flexion and full extension.  (DE G:61).  Dr. Garrels found no ligament laxity or meniscal 
+impingement.  (DE G:61).  He noted tenderness to the patella femoral area.  (DE G:61).  
+Mr. Wilson could perform a partial squat.  (DE G:61).  Dr. Garrels found the claimant to 
+have full range of motion in his right shoulder.  (DE G:61).   
+ 
+Based upon his examination, Dr. Garrels felt that Mr. Wilson required permanent 
+restrictions as follows: “1) Rare partial squatting and 2) No kneeling on right knee.”  (DE 
+G:59).  Dr. Garrels related the need for these restrictions to the claimant’s work injury.  
+(DE G:59).  Since Mr. Wilson had a good outcome regarding his right shoulder, Dr. 
+Garrels recommended no permanent restrictions.  (DE G;59).  Finally, Dr. Garrels 
+opined as to Mr. Wilson’s right wrist issues.  (DE G:59).  He opined that “[t]he 
+examination findings associated with the right hand are non-pathologic and no 
+restrictions are indicated.”  (DE G:59).   
+ 
+In video surveillance dated August 6, 2022, August 26, 2022, and August 30, 
+2022, Mr. Wilson is seen ambulating without a cane or wearing a knee brace.  (DE H; 
+DE P:109-110). He testified in his deposition that he wore knee braces on a regular 
+basis.  (DE P:110).  Mr. Wilson noted that he used a cane when he walked long 
+distances, but did not use it for short distances.  (DE P:111-112).   
+ 
+On September 14, 2022, Dr. Hussain wrote another letter in response to 
+correspondence from defendants’ counsel.  (JE 3:74; DE C:21).  Dr. Hussain opined 
+that Mr. Wilson achieved MMI as of his February 25, 2022, visit.  (JE 3:74; DE C:21).  
+He used Table 16-3 and Figures 16-38, 16-40, 16-41, 16-43, 16-44, and 16-46 of the 
+Guides to provide a 9 percent upper extremity impairment rating.  (JE 3:74; DE C:21).  
+He translated this to a 5 percent whole person impairment.  (JE 3:74; DE C:21).   
+ 
+The defendants forwarded surveillance videos to Dr. Garrels, who reviewed them 
+and drafted a report dated October 11, 2022.  (DE H:66-69; DE I:70-72).  Based upon 
+his review of the video, Dr. Garrels altered his opinions.  (DE I:70).  He opined that Mr. 
+Wilson was “…malingering during my examination at the time of the IME.”  (DE I:70).  
+He felt that Mr. Wilson used his cane solely as a “…prop for the IME.”  (DE I:70).  Based 
+upon his observations, Dr. Garrels felt that Mr. Wilson required no permanent 
+
+WILSON V. ARCONIC, INC. 
+Page 29 
+ 
+restrictions for his right knee.  (DE I:70).  He allowed Mr. Wilson to return to “…full duty 
+work similar to the employment he was engaged in at the time of his initial February 20, 
+2019[,] injury.”  (DE I:71).   
+In early December of 2022, Mr. Wilson was suspended for an alleged violation of 
+a “code of conduct.”  (DE P:98).  He alleges that he was suspended because of conduct 
+seen on video surveillance.  (DE P:101).  Shortly after his suspension, on December 12, 
+2022, Arconic terminated Mr. Wilson via phone call.  (Testimony; DE P:102).  They 
+never offered him a chance to return to work.  (Testimony).  Mr. Wilson filed a grievance 
+through his labor union in an attempt to get his job back.  (DE P:102).  Eventually, it was 
+determined that he would get his job back pending a physical.  (DE P:103).  Mr. Wilson 
+testified in his deposition that no one from Arconic ever contacted him to complete a 
+physical to return him to employment.  (DE P:103-104).   
+On May 2, 2023, at the arrangement of claimant’s counsel, Mr. Wilson visited 
+Mark Taylor, M.D., M.P.H., C.I.M.E., F.A.C.O.E.M., for an IME.  (Claimant’s Exhibit 1:1-
+19).  Dr. Taylor is board certified in occupational and environmental medicine.  (CE 
+1:20-22).  Mr. Wilson recounted his IME with Dr. Taylor, and noted that he met with him 
+for about one and one-half to two hours.  (Testimony).  Dr. Taylor also reviewed a 
+number of medical records.  (CE 1:1-9).  Following his examination, interview, and 
+medical records review, Dr. Taylor prepared a report outlining the findings of his IME.  
+(CE 1:1-19).   
+ Dr. Taylor began his report with a discussion of Mr. Wilson’s employment with 
+Arconic.  (CE 1:1-2).  Mr. Wilson worked as an equipment operator on machines 
+forming coils of aluminum at Arconic’s factory.  (CE 1:1).  As an equipment operator, Mr. 
+Wilson handled waste ingots weighing 30 to 50 pounds.  (CE 1:1).  He also engaged in 
+a number of movements, including sitting, standing, walking, squatting, bending, 
+crawling, kneeling, climbing ladders, climbing stairs, gripping, grasping, and use of 
+vibratory tools.  (CE 1:1).   
+Mr. Wilson outlined his first injury of February 20, 2019, wherein he cleared a jam 
+on a shear machine.  (CE 1:2).  Following his clearance of the jam, Mr. Wilson tripped 
+on a piece of loose grating and fell.  (CE 1:2).  He experienced immediate pain in his 
+bilateral forearms and bilateral shoulders.  (CE 1:2).  He also experienced scraped 
+knees.  (CE 1:2).  Dr. Taylor’s report then outlined the claimant’s treatment until his 
+June 1, 2019, injury.  (CE 1:2-3).  On June 1, 2019, Mr. Wilson told Dr. Taylor about the 
+fire that developed on his machine, and him stepping down and feeling a “pop” in his 
+right knee as he attempted to escape the same.  (CE 1:3).  He also recounted pain in 
+his right knee after feeling the pop.  (CE 1:3).   
+The report continued by documenting Mr. Wilson’s complaints at the time of the 
+IME.  (CE 1:9).  Mr. Wilson rated his knee pain as 5 out of 10 when seated and 7 out of 
+10 on average.  (CE 1:9).  He also described periodic popping over the front of his knee 
+along with occasional posterior knee pain.  (CE 1:9).  He continued to have intermittent 
+numbness and tingling in his right hand.  (CE 1:9).  He also noted pain of 5 out of 10 in 
+his right shoulder following his surgery.  (CE 1:9).  Mr. Wilson told Dr. Taylor that he 
+
+WILSON V. ARCONIC, INC. 
+Page 30 
+ 
+experienced difficulty with traveling, standing, walking, using stairs, lifting, pushing, 
+pulling, carrying, squatting, intimacy, gripping, and grasping.  (CE 1:9).   
+Dr. Taylor evaluated Mr. Wilson’s range of motion in his shoulder and knee 
+during the IME.  (CE 1:10-11).  He observed that Mr. Wilson had right shoulder flexion 
+of 140 degrees, extension to 35 degrees, abduction to 125 degrees, adduction to 25 
+degrees, internal rotation to 60 degrees, and external rotation to 70 degrees.  (CE 1:10).  
+He also showed right wrist flexion to 63 degrees, extension to 55 degrees, radial 
+deviation of 13 degrees, and ulnar deviation of 30 degrees.  (CE 1:10).  Dr. Taylor 
+observed that Mr. Wilson had “mild asymmetry” of his right bicep when compared to his 
+left bicep.  (CE 1:10).  He displayed tenderness over the posterior glenohumeral joint, 
+scapular spine, supraspinatus, and upper trapezius.  (CE 1:10).  Dr. Taylor opined that 
+Mr. Wilson had “good strength of the shoulders and arms…”  (CE 1:10).  Dr. Taylor 
+observed Mr. Wilson to have a mild limp.  (CE 1:11).  He also had right knee flexion of 
+more than 110 degrees, which Dr. Taylor noted was “…the limit for a rating related to 
+losses of motion.”  (CE 1:11).  Dr. Taylor further observed tenderness over the 
+claimant’s medial and lateral joint lines in his right leg.  (CE 1:11).   
+Considering his examination and review of the medical records, Dr. Taylor 
+diagnosed Mr. Wilson as follows: 
+1. Right shoulder partial-thickness rotator cuff tear, superior labral (SLAP) 
+tear, subacromial bursitis and impingement, and symptomatic AC joint 
+arthritis. 
+2. Right knee medial and lateral meniscal tears and osteoarthritis. 
+… 
+5.  Right hand carpal tunnel syndrome. 
+… 
+7. Persistent right knee arthralgia and hamstring pain. 
+ 
+(CE 1:11).  Dr. Taylor recommended no further care for the right wrist and hand or the 
+right shoulder, except for a return visit to Dr. Hussain.  (CE 1:12).  He recommended a 
+second opinion regarding the claimant’s ongoing right knee issues in order to determine 
+if there were not other causes.  (CE 1:12).  Specifically, Dr. Taylor recommended 
+“…one of the sports medicine physiatrists at the University of Iowa.”  (CE 1:12).  If they 
+had nothing further to offer the claimant, then Dr. Taylor was satisfied that no further 
+treatment was needed regarding the claimant’s right knee.  (CE 1:12).   
+ 
+Dr. Taylor continued his report in opining that Mr. Wilson’s February of 2019 and 
+June of 2019 work injuries were “…significant contributing factors…” as they related to 
+the claimant’s right shoulder, right knee, and right hand conditions.  (CE 1:13).  Dr. 
+Taylor also made special mention of several delays in care provided by Arconic.  (CE 
+1:13).  Dr. Taylor continued by opining that Mr. Wilson’s right shoulder injury did not 
+“…extend to the whole person…”  (CE 1:13).   
+
+WILSON V. ARCONIC, INC. 
+Page 31 
+ 
+ 
+Dr. Taylor next addressed whether Mr. Wilson achieved MMI for his various 
+injuries, and whether he sustained any permanent impairment as a result of his work 
+injuries.  (CE 1:14).  Dr. Taylor placed Mr. Wilson at MMI for his right knee injury as of 
+November 19, 2020.  (CE 1:14).  He referenced Table 17-33 of the Guides in providing 
+Mr. Wilson with a 10 percent right lower extremity impairment due to his partial medial 
+and partial lateral meniscectomy.  (CE 1:14).  Dr. Taylor noted this amounted to a 4 
+percent whole person impairment.  (CE 1:14).   
+Turning to Mr. Wilson’s right shoulder, Dr. Taylor opined that he reached MMI as 
+of September 14, 2022.  (CE 1:14).  He then referenced Figures 16-40, 16-43, and 16-
+46, of the Guides in providing Mr. Wilson a 6 percent right upper extremity impairment 
+based upon loss of range of motion in his right shoulder.  (CE 1:14).  He added on 
+another 1 percent based upon Table 16-35 of the Guides due to a weakness of 
+supination, and 10 percent impairment due to a clavicle resection citing to Table 16-27 
+of the Guides in arriving at this opinion.  (CE 1:14).  In combining these impairments, Dr. 
+Taylor arrived at a 15 percent upper extremity impairment.  (CE 1:15).   
+In evaluating Mr. Wilson’s right carpal tunnel syndrome, Dr. Taylor opined that 
+Mr. Wilson achieved MMI as of September 14, 2022.  (CE 1:14).  He cited to page 495 
+of the Guides in opining that Mr. Wilson had a 3 percent impairment.  (CE 1:14).  He 
+arrived at this figure due to a lack of a postoperative EMG.  (CE 1:14).  Dr. Taylor then 
+discussed an alternative impairment rating for the right carpal tunnel based on a loss of 
+range of motion in the right wrist.  (CE 1:14).  He cited to Figures 16-28 and 16-31 of the 
+Guides.  (CE 1:14).  Using this method, Dr. Taylor recommended a 3 percent 
+impairment to the right upper extremity.  (CE 1:14).   
+Combining the right shoulder impairment rating with the right carpal tunnel 
+impairment rating, Dr. Taylor arrived at a 19 percent right upper extremity impairment 
+rating.  (CE 1:15).  This converted to an 11 percent whole person impairment rating 
+pursuant to Table 16-3 of the Guides.  (CE 1:15).  Dr. Taylor combined the 11 percent 
+whole person impairment rating and the 4 percent whole person impairment rating to 
+arrive at a 15 percent whole person impairment.  (CE 1:15).   
+Dr. Taylor’s report concluded with his opinions as to permanent work restrictions 
+required for Mr. Wilson.  (CE 1:15-16).  Dr. Taylor recommended that Mr. Wilson 
+perform only occasional overhead reaching with his right arm, and should only lift with 
+his right arm as close to his body as possible.  (CE 1:16).  Mr. Wilson should also limit 
+his carrying to no more than 30 to 40 pounds.  (CE 1:16).  Dr. Taylor recommended that 
+Mr. Wilson only use stairs and ladders occasionally and should avoid kneeling directly 
+on his right knee.  (CE 1:16).  
+In response to a letter from defendants’ counsel, Dr. Hussain wrote a letter 
+outlining his opinions as to Mr. Wilson’s condition.  (DE Q:127-128).  Dr. Hussain noted 
+that, in order for an impairment rating to be provided pursuant to Section 16.5d of the 
+Guides: 
+
+WILSON V. ARCONIC, INC. 
+Page 32 
+ 
+…one of two scenarios must occur: 1) a new, repeat EMG/NCV nerve 
+conduction study must be conducted after (post) surgical decompression 
+(after the carpal tunnel release procedure); which must be read as abnormal 
+so as to show the presence of residual carpal tunnel syndrome; or 2) with 
+positive clinical findings of median nerve dysfunction and electrical 
+conduction delay(s), a rating is arrived at according to the sensory and/or 
+motor deficits as described in the AMA [Guides]. 
+(DE Q:127).  Dr. Hussain continued, noting that Mr. Wilson had no repeat EMG 
+following his right carpal tunnel release.  (DE Q:127).  Without this, Dr. Hussain could 
+not provide an impairment rating pursuant to the Guides.  (DE Q:127).  Dr. Hussain also 
+reiterated his opinions from his June 21, 2022, letter.  (DE Q:128).  Dr. Hussain 
+provided opinions regarding the costs of an IME based upon his specialty.  (DE Q:128).   
+ 
+In a rebuttal report dated October 28, 2024, issued at the request of claimant’s 
+counsel, Dr. Taylor provided additional opinions regarding Mr. Wilson’s right carpal 
+tunnel.  (CE 4:34-37).  Dr. Taylor specifically addressed the opinions of Dr. Hussain.  
+(CE 4:34).  Dr. Taylor opined that he also referenced instructions on page 495 of the 
+Guides.  (CE 4:34).  Dr. Taylor noted: 
+For carpal tunnel syndrome, the ideal situation would be that the individual 
+undergoes additional neurodiagnostic studies at some point after a carpal 
+tunnel release procedure.  However, repeat testing after surgery is not 
+routinely indicated, and the testing can be expensive.  Furthermore, as it 
+pertains to Mr. Wilson, even his pre-operative EMG study was normal other 
+than possible slowing within the carpal tunnel.  Based on symptoms and 
+exam findings, as well as a favorable response to his steroid injection, he 
+was justifiably diagnosed with carpal tunnel syndrome despite a normal 
+EMG study (of note, the instructions on page 495 indicate that up to 5% of 
+individuals 
+with 
+carpal 
+tunnel 
+syndrome 
+may 
+have 
+normal 
+electrophysiologic studies).   
+(CE 4:34).  Dr. Taylor continued by opining that, “…this methodology to assign 
+impairment for carpal tunnel syndrome is unsuitable."  (CE 4:34).  Dr. Taylor continued 
+by opining that the Guides did not provide “…an exact methodology to assign 
+impairment…” for Mr. Wilson and thus he used “…his clinical judgment to assign 
+impairment."  (CE 4:35).  Since Mr. Wilson “demonstrated objectively, albeit mild, 
+decreased wrist range of motion, and he demonstrated symptoms with provocative 
+testing…” Dr. Taylor assigned a 3 percent right upper extremity impairment rating.  (CE 
+4:35).  Dr. Taylor opined, “…repeat neurodiagnostic studies would not likely prove 
+helpful, it was my opinion that the full 5% would not apply from page 495; therefore, I 
+recommended 3% which cannot be combined with a rating due to decreased range of 
+motion, which similarly resulted in 3%...”  (CE 4:35).   
+At the time of the hearing, Mr. Wilson continued to experience pain and soreness 
+in his right shoulder.  (Testimony).  In order to alleviate this, he takes warm showers and 
+tries not to overextend himself.  (Testimony).   
+
+WILSON V. ARCONIC, INC. 
+Page 33 
+ 
+In April of 2024, Mr. Wilson found a job with WestRock in Clinton, Iowa.  (DE 
+P:93).  He inspected packaging for brands.  (Testimony).  He had no problems 
+performing his job duties at WestRock, as it does not involve heavy lifting.  (Testimony; 
+DE P:93).  He worked 36 to 48 hours per week.  (DE P:94).  Mr. Wilson testified that he 
+earned less than he earned at Arconic.  (Testimony).  He also testified that he applied to 
+be a machine operator with WestRock shortly before his deposition in October of 2024.  
+(DE P:96).   
+I would also note that the defendants provided certain surveillance videos and a 
+surveillance report.  I found these reports and videos to be of little probative value in 
+arriving at my decision. (DE E, H).  The reports show Mr. Wilson walking without his 
+cane.  (DE E).  However, Mr. Wilson noted to Dr. Ebinger in his report that he only used 
+the cane to walk for long distances.  (JE 11).  He reiterated this during his deposition.  
+(DE P).   
+CONCLUSIONS OF LAW 
+The party who would suffer loss if an issue were not established has the burden 
+of proving that issue by a preponderance of the evidence.  Iowa Rule of Appellate 
+Procedure 6.904(3).   
+File No. 23700914.01 – Alleged Date of Injury: June 1, 2019 
+ 
+The claimant alleges that he injured his right hand, right arm, right knee and right 
+shoulder on June 1, 2019, as the result of a fall as he attempted to flee a fire at his 
+workstation.  In their posthearing brief, claimant’s counsel noted: 
+Claimant is in agreement with Defendant in that the June 1, 2019, work 
+injury was a temporary exacerbation.  Furthermore, claimant testified that 
+he only injured his right knee as a result of the June 1, 2019[,] work injury.  
+As such, claimant’s argument will be limited to the February 20, 2019[,] work 
+injury. 
+See Claimant’s Posthearing Brief, pages 9-10.  This does not amount to a waiver or 
+dismissal of the claimant’s allegations regarding the June 1, 2019, date of injury.  
+Therefore, I will take a brief moment to address the affirmative defense asserted by the 
+defendants.   
+ 
+Specifically, the defendants assert that the claimant’s allegations regarding the 
+June 1, 2019, work injury should be barred by the statute of limitations pursuant to Iowa 
+Code section 85.26.   
+Before engaging in any analysis as to any of the other disputed issues in this 
+claim, it is important to determine whether or not the claim can even stand based upon 
+an analysis of the facts and applicable law.  Therefore, I begin my review of this case 
+with an analysis of the defendants’ asserted affirmative defense.  The alleged date of 
+
+WILSON V. ARCONIC, INC. 
+Page 34 
+ 
+injury in this matter is June 1, 2019.  In 2017, significant changes were applied to Iowa 
+Code Chapter 85.  These changes became effective on July 1, 2017.   
+Iowa Code 85.26(1) states: 
+An original proceeding for benefits under chapter 10A, subchapter III, this 
+chapter, or chapter 85A or 85B, shall not be maintained in any contested 
+case unless the proceeding is commenced within two years from the date 
+of the occurrence of the injury for which benefits are claimed or, if weekly 
+compensation benefits are paid under section 10A.315, within three years 
+from the date of the last payment of weekly compensation benefits.  For 
+purposes of this section, “date of the occurrence of the injury” means the 
+date that the employee knew or should have known that the injury was work-
+related. 
+See Iowa Code section 85.26(1).  Prior to the 2017 statutory changes, the common law 
+discovery rule was often applied when analyzing an affirmative defense under Iowa 
+Code section 85.26.  The Iowa Supreme Court clarified the application of Iowa Code 
+section 85.26 in a recent case in noting that, “[t]he general assembly has chosen to limit 
+the discovery rule to knowledge that an injury is work-related, not to knowledge of the 
+compensable nature of the injury…”  Tweeten v. Tweeten, 999 N.W.2d 270, 281 (Iowa 
+2023).  Therefore, “[f]or purposes of section 85.26, the two-year statutory period begins 
+to run when the employee knows or should know that an injury is work-related, without 
+regard to whether the injury is also serious enough to be compensable.”  Id. at 282.   
+ 
+In this case, the claimant alleged that he was injured on June 1, 2019, when he 
+attempted to flee a fire at his workstation.  He noted that he used crutches at the time to 
+assist in ambulation.  An Arconic report of injury was completed on June 1, 2019, 
+indicating Mr. Wilson alleged that he reinjured his right shoulder and felt a pop in his 
+right knee.  Mr. Wilson then went to the emergency room at UnityPoint Health Trinity on 
+June 2, 2019, complaining of an injury to his right shoulder and right knee when he fled 
+a fire on a work machine.  On June 3, 2019, Arconic medical placed a phone call to Mr. 
+Wilson to check in on him following the June 1, 2019, incident.  On June 5, 2019, Mr. 
+Wilson told Dr. Chelli that he experienced severe pain in his right leg, and that he could 
+not perform the functions of his job.  Mr. Wilson continued to seek care for his right 
+knee. 
+ 
+During the hearing, I took judicial or administrative notice that the claimant filed 
+an original notice and petition alleging a June 1, 2019, date of injury on October 31, 
+2023.  As part of the agreed upon and approved hearing report in this matter, the 
+parties stipulated that the claimant was paid zero (0) weeks of benefits related to the 
+June 1, 2019, date of injury.  There is no evidence that the discovery rule as modified by 
+Tweeten applies in this case based upon the claimant’s immediate treatment and 
+knowledge of his work-related injury.   
+Considering the fact that the parties stipulated that no workers’ compensation 
+benefits were paid that were related to the June 1, 2019, date of injury, a two-year 
+
+WILSON V. ARCONIC, INC. 
+Page 35 
+ 
+statute of limitations would apply.  Two years from June 1, 2019, would be June 1, 
+2021.  The claimant did not file his original notice and petition relating to the June 1, 
+2019, work injury until October 31, 2023.  This is more than two years after the 
+expiration of the two-year statute of limitations.  Finally, no evidence was presented that 
+a condition existed to toll the statute of limitations.  Therefore, the claimant’s claim 
+related to the June 1, 2019, injury was barred by the statute of limitations imposed by 
+Iowa Code section 85.26(1).  The claimant shall take nothing regarding the June 1, 
+2019, date of injury.   
+File No. 19003589.03 
+Permanent Disability 
+There is a dispute as to whether or not the claimant’s right arm injury was a 
+cause of permanent disability or simply a temporary exacerbation.  More specifically, 
+the claimant alleges that his right carpal tunnel syndrome caused permanent disability 
+to his right arm.  The defendants dispute this issue.  There are also disputes as to the 
+extent of permanent disability, the potential application of Iowa Code section 85.34(2)(t), 
+and the commencement date for permanent partial disability benefits.   
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is 
+probable, rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 
+148, 153 (Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154, 156 (Iowa Ct. 
+App. 1997); Sanchez v. Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 
+1996).    
+A possibility of causation is not sufficient; a probability is necessary. Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 1996) (citing Holmes v. Bruce 
+Motor Freight, Inc., 215 N.W.2d 296, 297 (Iowa 1974)). 
+The question of causal connection is essentially within the domain of expert 
+testimony. The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question. The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances. The 
+expert opinion may be accepted or rejected, in whole or in part. IBP, Inc. v. Harpole, 
+621 N.W.2d 410, 420 (Iowa 2001); St. Luke’s Hosp. v. Gray, 604 N.W.2d 646, 652 
+(Iowa 2000); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845, 853 (Iowa 
+1995). Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 421 (Iowa 1994). Unrebutted 
+expert medical testimony cannot be summarily rejected. Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910, 911-12 (Iowa Ct. App. 1994). 
+
+WILSON V. ARCONIC, INC. 
+Page 36 
+ 
+Mr. Wilson fell on February 20, 2019, after clearing a jam on his machine while 
+working at Arconic.  He initially reported pain to his right knee, right leg, and right 
+shoulder.  He also had some abrasions on his right hand, which required bandaging.  
+He continued to complain of right shoulder and right knee pain following his fall.  There 
+is little-to-no mention of issues with his right hand or right carpal tunnel in his initial 
+treatment.  Mr. Wilson had diagnoses related to his right shoulder and right knee.  
+Eventually, Mr. Wilson underwent surgery to his right knee on September 9, 2019, to 
+repair a medial meniscus tear and a lateral meniscus tear.  He continued to treat and 
+complain of shoulder pain and knee pain following surgery and subsequent physical 
+therapy.   
+In January of 2021, Mr. Wilson began complaining of tingling and numbness into 
+the fingers of his right hand.  On February 19, 2021, Mr. Wilson had an arthroscopic 
+surgery performed on his right shoulder, which included a rotator cuff debridement, a 
+biceps tenotomy with tenolysis, a superior labrum anterior posterior (“SLAP”) tear 
+debridement, a humeral head chondroplasty, a subacromial bursectomy, a subacromial 
+decompression, and an acromioclavicular joint resection with a distal clavicle excision.  
+Mr. Wilson continued to complain about right hand numbness and tingling during his 
+first postsurgical follow-up visit.  These complaints continued during his follow-up visits 
+with Dr. Hussain through April of 2021.  Dr. Hussain ordered an EMG, which showed 
+“…slowing thru [sic] the right carpal tunnel…”  Dr. Ebinger performed an IME on the 
+claimant following the EMG, and opined that the claimant’s right shoulder surgery 
+resulting from the February 20, 2019, work injury, “substantially aggravated” the 
+claimant’s right carpal tunnel syndrome.  Dr. Ebinger recommended that Mr. Wilson 
+have a corticosteroid injection into his right carpal tunnel, and noted that a surgical 
+release may be necessary should the injection not provide relief.   
+Dr. Hussain provided the claimant with corticosteroid injections into the right wrist 
+carpal tunnel.  These did not provide substantial relief of the claimant’s symptoms.  
+Thus, in November of 2021, Mr. Wilson underwent a right hand open carpal tunnel 
+release. Following his surgery, Mr. Wilson continued to complain of some numbness 
+and tingling in his right hand.  In June of 2022, Dr. Hussain opined that Mr. Wilson’s 
+recovery from his carpal tunnel surgery was “not typical.”  Since Mr. Wilson continued to 
+complain of right carpal tunnel or right hand issues, Dr. Hussain offered a repeat EMG.   
+Mr. Wilson then had an IME with Dr. Taylor at the arrangement of his counsel.  
+Dr. Taylor opined that Mr. Wilson had right hand carpal tunnel syndrome.  He found Mr. 
+Wilson to have positive Tinel’s testing on his right side indicating numbness and tingling 
+extending into the mid and distal palm, but not the fingers.  Dr. Taylor also observed 
+positive Durkan’s testing on the right side “…in a median distribution.”  Other testing of 
+the right arm was negative.  Based upon his examination, Dr. Taylor recommended a 
+return to Dr. Hussain, but otherwise no treatment for the right arm.  Dr. Taylor placed 
+Mr. Wilson at MMI for his right hand condition as of September 14, 2022, and provided 
+him with an impairment rating of 3 percent based upon page 495 of the Guides.  Dr. 
+Taylor explained that this impairment was due to the lack of a postoperative EMG, and 
+further noted that his alternative impairment rating was due to a loss of range of motion 
+
+WILSON V. ARCONIC, INC. 
+Page 37 
+ 
+in the right wrist pursuant to Figures 16-28 and 16-31 of the Guides.  Dr. Taylor then 
+combined his right upper extremity impairment rating for the carpal tunnel with an 
+impairment rating provided for the claimant’s right shoulder.   
+Dr. Hussain then issued a letter outlining his opinions as to Mr. Wilson’s right 
+carpal tunnel syndrome.  He opined that, in order for an impairment rating to be 
+provided pursuant to Section 16.5d of the Guides: 
+…one of two scenarios must occur: 1) a new, repeat EMG/NCV nerve 
+conduction study must be conducted after (post) surgical decompression 
+(after the carpal tunnel release procedure); which must be read as abnormal 
+so as to show the presence of residual carpal tunnel syndrome; or 2) with 
+positive clinical findings of median nerve dysfunction and electrical 
+conduction delay(s), a rating is arrived at according to the sensory and/or 
+motor deficits as described in the AMA [Guides]. 
+(DE Q:127).  Since Mr. Wilson did not have a repeat EMG, Dr. Hussain opined that he 
+could not provide an impairment rating pursuant to the Guides.   
+ 
+Dr. Taylor provided rebuttal opinions to those of Dr. Hussain.  He noted that, like 
+Dr. Hussain, he used page 495 of the Guides.  He also opined that: 
+For carpal tunnel syndrome, the ideal situation would be that the individual 
+undergoes additional neurodiagnostic studies at some point after a carpal 
+tunnel release procedure.  However, repeat testing after surgery is not 
+routinely indicated, and the testing can be expensive.  Furthermore, as it 
+pertains to Mr. Wilson, even his pre-operative EMG study was normal other 
+than possible slowing within the carpal tunnel.  Based on symptoms and 
+exam findings, as well as a favorable response to his steroid injection, he 
+was justifiably diagnosed with carpal tunnel syndrome despite a normal 
+EMG study (of note, the instructions on page 495 indicate that up to 5% of 
+individuals 
+with 
+carpal 
+tunnel 
+syndrome 
+may 
+have 
+normal 
+electrophysiologic studies).   
+(CE 4:34).  Dr. Taylor was critical of the Guides.  Dr. Taylor further opined that using the 
+methodology prescribed by the Guides was “unsuitable” for Mr. Wilson’s case, as they 
+did not provide “…an exact methodology to assign impairment…” for Mr. Wilson.  
+Therefore, Dr. Taylor used his “…clinical judgment to assign impairment.”  Dr. Taylor 
+reiterated his 3 percent impairment rating for Mr. Wilson’s right carpal tunnel syndrome.  
+This was based upon his opinion that “…repeat neurodiagnostic studies would not likely 
+prove helpful…” for determining Mr. Wilson’s permanent impairment.   
+ 
+Iowa Code section 85.34(2)(x) requires use of the guides to the evaluation of 
+permanent impairment as published by the American Medical Association in evaluating 
+permanent partial disability as described in Iowa Code sections 85.34(2)(a)-(u) and (v).  
+The agency adopted the Fifth Edition of the Guides.  See 876 Iowa Administrative Code 
+
+WILSON V. ARCONIC, INC. 
+Page 38 
+ 
+2.4.   The Guides contains a discussion of carpal tunnel syndrome, and potential 
+impairment ratings, on page 495.  The Guides notes that “carpal tunnel syndrome … is 
+the most common of nerve compression lesions and involves the median nerve at the 
+volar aspect of the wrist.”  Guides, pg. 495.  The Guides go on to describe the signs and 
+symptoms of carpal tunnel syndrome.  Id.  Findings indicative of carpal tunnel syndrome 
+may include sensory or autonomic disturbances of the radial 3½ digits, a positive 
+percussion sign at the wrist, presence of Phalen’s sign, and “motor and sensory 
+electroneuromyographic abnormalities.”  Id.  The Guides also noted that “…5% of 
+individuals with [carpal tunnel syndrome] may have normal electrophysiologic studies.”  
+Id.   
+ 
+The Guides continues by providing three possible scenarios which include 
+recommendations for permanent impairment ratings in the event a person continues to 
+complain of pain, paresthesias, and/or difficulties in performing certain activities 
+following an optimal recovery time after a surgical decompression.  Id.  These possible 
+scenarios are: 
+1. Positive clinical findings of median nerve dysfunction and electrical 
+conduction delay(s): the impairment due to residual [carpal tunnel syndrome] 
+is rated according to the sensory and/or motor deficits as described earlier. 
+2. Normal sensibility and opposition strength with abnormal sensory and/or 
+motor latencies or abnormal EMG testing of the thenar muscles: a residual 
+CTS is still present, and an impairment rating not to exceed 5% of the upper 
+extremity may be justified.   
+3. Normal sensibility (two-point discrimination and Semmes-Weinstein 
+monofilament testing), opposition strength, and nerve conduction studies: 
+there is no objective basis for an impairment rating.   
+Id.   
+ 
+In this case, Dr. Hussain, the treating surgeon, opined that the claimant required 
+a repeat EMG in order to provide an impairment rating.  Since there was no repeat EMG 
+conducted following the claimant’s recovery from surgery, Dr. Hussain opined that no 
+impairment rating was appropriate pursuant to the Guides.   
+On the other hand, Dr. Taylor opined that using the rating methodology 
+prescribed by the Guides was “unsuitable” in Mr. Wilson’s case.  Instead he provided an 
+impairment rating based upon Figures 16-28 and 16-31 of the Guides.  He opined that 
+Mr. Wilson demonstrated mild decreased range of motion in his wrist and “…symptoms 
+with provocative testing…” thus providing him with a 3 percent permanent impairment to 
+the upper extremity.  Dr. Taylor noted that he reduced Mr. Wilson’s impairment from a 5 
+percent maximum rating.  It is unclear from where he draws the 5 percent figure.  If Dr. 
+Taylor is referring to the second criteria noted above in the quoted section of the 
+Guides, it casts serious doubt on his credibility in this matter as it relates to assessing 
+permanent impairment to Mr. Wilson’s wrist.   
+
+WILSON V. ARCONIC, INC. 
+Page 39 
+ 
+The second criteria notes that a 5 percent impairment “may be justified” if a 
+patient has normal sensibility and opposition strength with “abnormal sensory and/or 
+motor latencies or abnormal EMG testing of the thenar muscles…”  It is not clear from 
+Dr. Taylor’s opinions from where he draws justification for his 3 percent rating.  Stated 
+another way, Dr. Taylor does not indicate what “abnormal sensory and/or motor 
+latencies” Mr. Wilson displayed that led the doctor to assess a 3 percent impairment 
+pursuant to the second factor noted above.  He makes a conclusory statement that Mr. 
+Wilson had “…symptoms with provocative testing…”  It is unclear how these symptoms 
+comport with the standards applied by the Guides.   
+Dr. Taylor bases his impairment rating on Figures 16-28 and 16-31 of the 
+Guides.  In reviewing Figures 16-28 and 16-31 from the Guides it appears that these 
+are measurements used to provide an impairment based upon a measurement in range 
+of motion in the wrist.  It is unclear how these figures should or would be applied to a 
+case where a person had carpal tunnel syndrome, considering the reasoning outlined 
+on page 495 of the Guides.   
+Based on the foregoing, I find the opinions of Dr. Hussain to be more persuasive 
+as to this issue.  Therefore, I find that the claimant did not prove, by a preponderance of 
+the evidence, that his right carpal tunnel syndrome was a cause of permanent 
+impairment. 
+Next, I turn to the extent of permanent impairment related to the claimant’s right 
+knee and right shoulder injuries.  The claimant argues that he should be compensated 
+based upon the provisions of Iowa Code section 85.34(2)(t).  The defendants dispute 
+this contention.   
+Iowa Code section 85.34(2)(t) provides, in pertinent part: 
+…For all cases of permanent partial disability compensation shall be paid 
+as follows: 
+(t) The loss of both arms, or both hands, or both feet, or both legs, or both 
+eyes, or any two thereof, caused by a single accident, shall equal five 
+hundred weeks and shall be compensated as such… 
+See Iowa Code section 85.34(2).  I previously determined that the claimant did not 
+prove that the February 20, 2019, work injury to his right wrist caused permanent 
+disability to his right wrist or arm due to his carpal tunnel syndrome.  Therefore, the only 
+two body parts to which the claimant sustained permanent disability were his right knee 
+and right shoulder.  The shoulder is not listed as one of the body parts entitling up to 
+500 weeks of permanent disability benefits.  The statute only lists the arms, hands, feet, 
+legs, and eyes.  Since the shoulder is not listed, compensation is not appropriate 
+pursuant to Iowa Code section 85.34(2)(t).   
+
+WILSON V. ARCONIC, INC. 
+Page 40 
+ 
+Under the Iowa Workers’ Compensation Act, permanent partial disability is 
+compensated either for a loss of use of a scheduled member under Iowa Code 
+85.34(2)(a)-(u) or for loss of earning capacity under Iowa Code 85.34(2)(v).  The extent 
+of scheduled member disability benefits to which an injured worker is entitled is 
+determined by using the functional method.  Functional disability is “limited to the loss of 
+the physiological capacity of the body or body part.”  Mortimer v. Fruehauf Corp., 502 
+N.W.2d 12, 15 (Iowa 1993); Sherman v. Pella Corp., 576 N.W.2d 312 (Iowa 1998).   
+An injury to a scheduled member may, because of after effects or compensatory 
+change, result in permanent impairment of the body as a whole.  Such impairment may 
+in turn be the basis for a rating of industrial disability.  It is the anatomical situs of the 
+permanent injury or impairment which determines whether the schedules in Iowa Code 
+85.34(2)(a) – (u) are applied.  Lauhoff Grain Co. v. McIntosh, 395 N.W.2d 834, 835 
+(Iowa 1986); Blacksmith v. All-American, Inc., 290 N.W.2d 348 (Iowa 1980); Dailey v. 
+Pooley Lumber Co., 233 Iowa 758, 10 N.W.2d 569 (1943); Soukup v. Shores Co., 222 
+Iowa 272, 268 N.W. 598 (1936).  
+There is a question as to whether the claimant should be compensated for 
+permanent partial disability pursuant to an industrial disability analysis pursuant to Iowa 
+Code section 85.34(2)(v) or for each injury as a scheduled member.  In Bridgestone 
+Americas, Inc. v. Anderson, the Iowa Supreme Court confronted a similar issue and 
+provided valuable statutory interpretation that is helpful in this case.  Bridgestone 
+Americas, Inc. v. Anderson, 4 N.W.3d 676 (Iowa 2024).  In Anderson, the claimant 
+sustained an injury to his right shoulder and his right arm.  Id. at 680.  A deputy 
+commissioner determined that Mr. Anderson’s injuries to his right shoulder and right 
+arm should be treated as unscheduled injuries pursuant to Iowa Code section 
+85.34(2)(v).  Id.  The Commissioner affirmed the deputy’s decision, and the decision 
+was appealed to the Iowa Supreme Court.  Id.   
+The court held that Iowa Code section 85.34(2)(v) only applies to “…injuries 
+‘other than those … described or referred to in paragraphs ‘a’ through ‘u’.’”  Id. at 683.  
+Since Mr. Anderson’s injuries were to his shoulder and arm, body parts which are 
+“‘described or referred to in the schedule composed of ‘paragraphs ‘a’ through ‘u’…’” the 
+court determined that they should be considered scheduled injuries and not 
+unscheduled injuries.  Id. at 683.  The court reasoned further that “…paragraph (v) 
+generally doesn’t apply to injuries to fingers, arms, hands, shoulders, or other parts 
+‘described or referred to’ in the schedule.”  Id. at 685.   
+The facts of this case are similar in some respects to Anderson.  The claimant in 
+this case sustained injuries to his right shoulder and his right knee.  Both of these are 
+considered scheduled members under our workers’ compensation statute.  More 
+specifically, Iowa Code section 85.34(2)(n) provides for compensation for the loss of a 
+shoulder totaling 400 weeks.  Iowa Code section 85.34(2)(p) provides for compensation 
+for loss of the leg (or lower extremity) totaling 220 weeks.  Therefore, the claimant shall 
+be compensated based upon a scheduled member basis for each body part.   
+
+WILSON V. ARCONIC, INC. 
+Page 41 
+ 
+I next turn to the issue of the extent of the claimant’s permanent partial disability 
+to his right lower extremity and right shoulder.  There are a number of impairment 
+opinions to consider from various medical experts.   
+The weight to be given to an expert opinion is determined by the finder of fact 
+and may be affected by the accuracy of the facts the expert relied upon as well as other 
+surrounding circumstances. The expert opinion may be accepted or rejected, in whole 
+or in part. IBP, Inc. v. Harpole, 621 N.W.2d 410, 420 (Iowa 2001); St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646, 652 (Iowa 2000); Dunlavey v. Economy Fire and Cas. Co., 526 
+N.W.2d 845, 853 (Iowa 1995). Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 421 
+(Iowa 1994). Unrebutted expert medical testimony cannot be summarily rejected. Poula 
+v. Siouxland Wall & Ceiling, Inc., 516 N.W.2d 910, 911-12 (Iowa Ct. App. 1994). 
+As it relates to the claimant’s right lower extremity, the claimant underwent an 
+arthroscopic surgery in September of 2019, as performed by Dr. Hussain.  Dr. Hussain 
+performed a partial medial meniscectomy, a partial lateral meniscectomy, and 
+chondroplasty of the patella.  Mr. Wilson underwent a course of physical therapy, and 
+continued to complain of pain following his surgery.  On November 19, 2020, Dr. 
+Hussain issued a letter outlining his impairment opinion regarding Mr. Wilson’s right 
+lower extremity.  In referring to Table 17-33 of the Guides, Dr. Hussain provided the 
+claimant with a 10 percent lower extremity impairment.  In reviewing Table 17-33 in the 
+Guides it is clear from where Dr. Hussain derived his impairment rating, as Table 17-33 
+provides for a 10 percent lower extremity impairment in a case where the patient had a 
+partial medial and lateral meniscectomy.  The claimant’s expert, Dr. Taylor, provided the 
+same impairment rating for the claimant’s right lower extremity.  Therefore, I find that 
+the claimant sustained a 10 percent permanent impairment to his right lower extremity.  
+Based upon 220 weeks of compensation, the claimant would be entitled to 22 weeks of 
+compensation for this impairment.   
+As it pertains to the right shoulder, there is a bit more discrepancy between the 
+impairment ratings.   On February 19, 2021, Dr. Hussain performed an arthroscopic 
+surgery to the claimant’s right shoulder.  During the surgery, Dr. Hussain performed a 
+rotator cuff debridement, a biceps tenotomy with tenolysis, a SLAP tear debridement, a 
+humeral head chondroplasty, a subacromial bursectomy, a subacromial decompression, 
+and an acromioclavicular joint resection with a distal clavicle excision.  Following his 
+surgery, Mr. Wilson continued to complain of right shoulder pain.  Dr. Hussain 
+eventually administered an injection into the claimant’s right shoulder.   
+Dr. Hussain provided the claimant with a right shoulder impairment rating on 
+September 14, 2022.  He opined that the claimant achieved MMI for his right shoulder 
+as of February 25, 2022.   Dr. Hussain referred to Table 16-3 and Figures 16-38, 16-40, 
+16-41, 16-43, 16-44, and 16-46 of the Guides to arrive at a 9 percent upper extremity 
+impairment rating.  In reviewing the Guides, the Figures referenced by Dr. Hussain refer 
+to measurement of a loss of range of motion in the claimant’s shoulder and their 
+associated impairment ratings.   
+
+WILSON V. ARCONIC, INC. 
+Page 42 
+ 
+Dr. Taylor provided an impairment rating of 6 percent for the claimant’s right 
+shoulder, and referenced Figures 16-40, 16-43 and 16-46 of the Guides in arriving at 
+this conclusion.  Dr. Taylor then used Table 16-35 of the Guides to add an additional 1 
+percent impairment based upon a weakness of supination.  Finally, Dr. Taylor provided 
+the claimant with a 10 percent impairment due to the distal clavicle resection pursuant 
+to Table 16-27.  Dr. Taylor combined the impairment ratings to arrive at a 15 percent 
+upper extremity impairment.   
+The claimant urges the adoption of Dr. Taylor’s impairment rating.  The 
+defendants argue that Dr. Taylor’s impairment rating to the right shoulder does not 
+properly comply with the Guides.  More specifically, the defendants argue that Dr. 
+Taylor improperly assigned impairment due to a weakness in supination. 
+The Guides state that strength measurements are “influenced by subjective 
+factors,” and as such “further research is needed before loss of grip and pinch strength 
+is given a larger role in impairment evaluation.”  See Guides, page 507.  Further, 
+Section 16.8a of the Guides provides that it is only in a rare case that a loss of strength 
+represents an impairing factor.  See Guides, page 508.  Therefore, loss of strength 
+should only be considered if impairment has not been considered adequately by other 
+methods in the Guides.  Id.  Furthermore, strength should only be combined with other 
+impairments if it is based upon unrelated etiologic or pathomechanical causes, 
+“[o]therwise, the impairment ratings based on objective anatomic findings take 
+precedence.”  Id.  The Guides conclude that, “[d]ecreased strength cannot be rated in 
+the presence of decreased motion … that prevent effective application of maximal force 
+in the region being evaluated.”  Id. (emphasis in original).  Dr. Taylor does not provide 
+an explanation as to why permanent impairment based upon a loss of range of motion 
+is not adequate.  Therefore, I reject Dr. Taylor’s additional 1 percent impairment for 
+“mild weakness of supination” in the right shoulder. 
+Additionally, Dr. Taylor provided a 10 percent impairment based upon the distal 
+clavicle resection based upon Table 16-27 on page 506 of the Guides.  A distal clavicle 
+resection is listed under Section 16.7 of the Guides, which is titled, “Impairment of the 
+Upper Extremities Due to Other Disorders.”  The Guides notes that: 
+The criteria described in this section should be used only when the other 
+criteria have not adequately encompassed the extent of the impairments.  
+Some of the conditions described in this section can be concurrent with 
+each other and with decreased motion because they share overlapping 
+pathomechanics.  The evaluator must have good understanding of 
+pathomechanics of deformities and apply proper judgment to avoid 
+duplication of impairment ratings. 
+Guides, page 499.  Dr. Taylor did not indicate why impairment based solely on a loss of 
+range of motion did not adequately encompass the extent of Mr. Wilson’s impairment.  
+Additionally, the Guides provides that a 10 percent impairment for a distal clavicle 
+resection should be multiplied by a 25 percent maximum value noted in Table 16-18.  
+Dr. Taylor failed to do this in considering his impairment rating.  Based upon his 
+misapplication of the Guides, I find that Dr. Taylor’s impairment rating holds no value in 
+
+WILSON V. ARCONIC, INC. 
+Page 43 
+ 
+this case.  I find the impairment rating of Dr. Hussain to be more persuasive.  Therefore, 
+the claimant is entitled to 36 weeks of permanent partial disability benefits for the 
+impairment to his right shoulder (9 percent x 400 weeks = 36 weeks).     
+ 
+The parties stipulated that prior to the hearing the claimant was paid 22 weeks of 
+permanent impairment benefits for the claimant’s right knee based upon Dr. Hussain’s 
+impairment rating.  The parties also stipulated that the claimant was paid 36 weeks of 
+permanent partial disability benefits at the stipulated weekly rate of compensation 
+representing the 9 percent impairment rating provided by Dr. Hussain.  Therefore, the 
+claimant would be entitled to no further permanent partial impairment benefits.   
+ 
+Finally, the parties indicated that the commencement date for benefits was in 
+dispute.  The defendants contended that the proper commencement date for benefits 
+was September 14, 2022.  The claimant conceded in their posthearing brief that they 
+agreed that September 14, 2022, was the proper commencement date for permanent 
+partial disability benefits, should any be awarded.   
+IME Reimbursement Pursuant to Iowa Code section 85.39 
+Prior to the hearing, the defendants reimbursed the claimant four thousand and 
+00/100 dollars ($4,000.00) for the costs of Dr. Taylor’s IME.  The claimant requests an 
+order requiring the defendants to reimburse the claimant for the remainder of Dr. 
+Taylor’s IME fee, which amounts to two thousand three hundred twenty and 00/100 
+dollars ($2,320.00).   
+Iowa Code 85.39(2) states:   
+If an evaluation of permanent disability has been made by a 
+physician retained by the employer and the employee believes this 
+evaluation to be too low, the employee shall, upon application to the 
+commissioner and upon delivery of a copy of the application to the employer 
+and its insurance carrier, be reimbursed by the employer the reasonable fee 
+for a subsequent examination by a physician of the employee’s own choice, 
+and reasonably necessary transportation expenses incurred for the 
+examination.    . . .   An employer is only liable to reimburse an employee 
+for the cost of an examination conducted pursuant to this subsection if the 
+injury for which the employee is being examined is determined to be 
+compensable under this chapter or chapter 85A or 85B.  An employer is not 
+liable for the cost of such an examination if the injury for which the employee 
+is being examined is determined not to be a compensable injury.  A 
+determination of the reasonableness of a fee for an examination made 
+pursuant to this subsection shall be based on the typical fee charged by a 
+medical provider to perform an impairment rating in the local area where the 
+examination is conducted.     
+Iowa Code section 85.39(2).     
+
+WILSON V. ARCONIC, INC. 
+Page 44 
+ 
+The Iowa Supreme Court determined that an “examination” required “to perform 
+an impairment rating” must include certain steps as required under the AMA 
+Guides.  Mid American Construction, LLC, v. Sandlin, 2 N.W.3d 838 (Iowa 2024).  
+These steps include: determining whether an injured worker achieved MMI, reviewing 
+past medical records to ascertain knowledge as to any past injuries to the injured 
+worker, opining as to whether the work injury caused the impairment, conducting a 
+physical examination of the claimant in order “to assess the employee’s status and 
+perform accurate measurements…”, and determining a diagnosis.  Id.   
+Defendants are responsible only for reasonable fees associated with claimant’s 
+independent medical examination.  The claimant has the burden of proving the 
+reasonableness of the expenses incurred for the examination.  See Schintgen v. 
+Economy Fire & Casualty Co., File No. 855298 (App. April 26, 1991).  This burden may 
+be met either by “…evidence of the fees typically charged in that locality to support or 
+challenge the fee charged in a particular case…” or by agency expertise in adjudicating 
+claims in the local area where the examination was conducted.  Mid American 
+Construction, LLC v. Sandlin, 2 N.W.3d 838 (Iowa 2024).   
+An opinion finding a lack of causation is tantamount to a zero percent impairment 
+rating.  Kern v. Fenchel, Doster & Buck, P.L.C., 2021 WL 3890603 (Iowa App. 2021).     
+It is well accepted Iowa law that a claimant is only entitled to reimbursement for 
+one IME pursuant to Iowa Code section 85.39.  Larson Mfg. Co., Inc. v. Thorson, 763 
+N.W.2d 842, 861 (Iowa 2009).  
+The claimant argues that Dr. Taylor’s IME was not a “routine IME” insofar as Dr. 
+Taylor examined several of Mr. Wilson’s body parts, reviewed 348 pages of records, 
+and reviewed video surveillance.  The claimant also notes that Dr. Taylor took one hour 
+and 40 minutes in reviewing medical records and met with Mr. Wilson for two hours.  
+The claimant points to the IME fee for Dr. Ebinger’s IME as further proof that Dr. 
+Taylor’s IME fees were reasonable.  The defendants point to Dr. Hussain’s letter in 
+arguing that Dr. Taylor’s IME fees were not reasonable.  They also point to Dr. Garrels’ 
+IME fees of one thousand seven hundred fifty and 00/100 dollars ($1,750.00) as further 
+proof that Dr. Taylor’s IME fees were unreasonable.   
+The Iowa Supreme Court allows for the claimant to meet their burden of proving 
+the reasonableness of expenses through showing “…evidence of the fees typically 
+charged in that locality to support or challenge the fee charged in a particular case…” or 
+by agency expertise in adjudicating claims in the local area where the examination was 
+conducted.  Sandlin, 2 N.W.3d 838.  Based upon my experience adjudicating claims in 
+the local area where the examination was conducted, I find that both the claimant and 
+the defendants are correct.  The claimant has failed to prove that an IME fee of six 
+thousand three hundred twenty and 00/100 dollars was reasonable.  However, only 
+reimbursing the claimant four thousand dollars was not reasonable.  Dr. Taylor 
+performed an examination and provided impairment ratings for three body parts.  Dr. 
+Taylor reviewed over three hundred pages of medical records.  He also met with Mr. 
+
+WILSON V. ARCONIC, INC. 
+Page 45 
+ 
+Wilson for at least two hours.  I find that the defendants shall reimburse the claimant an 
+additional one thousand and 00/100 dollars ($1,000.00) for Dr. Taylor’s IME fees.   
+Costs 
+Claimant seeks an award of costs.  Costs are to be assessed at the discretion of 
+the deputy commissioner hearing the case.  See 876 Iowa Administrative Code 4.33; 
+Iowa Code 10A.328.  876 Iowa Administrative Code 4.33(86) provides:  
+[c]osts taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+reviewing health service disputes.   
+Pursuant to the holding in Des Moines Area Regional Transit Authority v. Young, 
+867 N.W.2d 839 (Iowa 2015), only the report of an IME physician, and not the 
+examination itself, can be taxed as a cost according to 876 IAC 4.33(6).  The Iowa 
+Supreme Court reasoned, “a physician’s report becomes a cost incurred in a hearing 
+because it is used as evidence in lieu of the doctor’s testimony,” while “[t]he underlying 
+medical expenses associated with the examination do not become costs of a report 
+needed for a hearing, just as they do not become costs of the testimony or 
+deposition.”  Id.  (noting additionally that “[i]n the context of the assessment of costs, the 
+expenses of the underlying medical treatment and examination are not part of the costs 
+of the report or deposition”).  The commissioner has found this rationale applicable to 
+expenses incurred by vocational experts.  See  Kirkendall v. Cargill Meat Solutions 
+Corp., File No. 5055494 (App. December 17, 2018); Voshell v. Compass Group, USA, 
+Inc., File No. 5056857 (App. September 27, 2019).   
+The claimant requests reimbursement of costs totaling one thousand seventeen 
+and 50/100 dollars ($1,017.50) in costs.  These include filing fees for both contested 
+cases and for the rebuttal report of Dr. Taylor.  Based upon my discretion, I award the 
+claimant one hundred twenty-eight and 75/100 dollars ($128.75) in costs.     
+ORDER 
+ 
+THEREFORE, IT IS ORDERED: 
+That the claimant’s claim related to the June 1, 2019, date of injury is barred by 
+the statute of limitations. 
+
+WILSON V. ARCONIC, INC. 
+Page 46 
+ 
+That the defendants shall pay the claimant 22 weeks of permanent partial 
+disability benefits for impairment to the right lower extremity at the stipulated rate of 
+compensation. 
+That the defendants shall pay the claimant 36 weeks of permanent partial 
+disability benefits for impairment to the right shoulder at the stipulated rate of 
+compensation. 
+That the defendants are entitled to credits as stipulated. 
+That the commencement date for permanent partial disability benefits is 
+September 14, 2022.   
+That the claimant is awarded one thousand and 00/100 dollars ($1,000.00) for 
+the cost of an IME pursuant to Iowa Code section 85.39.   
+That the defendants shall reimburse the claimant one hundred twenty-eight and 
+75/100 dollars ($128.75) for costs.   
+That the defendants shall pay accrued weekly benefits in a lump sum together 
+with interest.  All interest on past due weekly compensation benefits shall be payable at 
+an annual rate equal to the one-year treasury constant maturity published by the federal 
+reserve in the most recent H15 report settled as of the date of injury, plus two percent.  
+See Gamble v. AG Leader Technology, File No. 5054686 (App. Apr. 24, 2018).   
+That the defendants shall file subsequent reports of injury (SROI) as required by 
+this agency pursuant to 876 Iowa Administrative Code 3.1(2) and 876 Iowa 
+Administrative Code 11.7.   
+Signed and filed this __18th __ day of March, 2025. 
+ 
+ 
+The parties have been served, as follows: 
+Rocco Motto (via WCES) 
+Troy Howell (via WCES) 
+ 
+            ANDREW M. PHILLIPS 
+               DEPUTY WORKERS’ 
+     COMPENSATION COMMISSIONER 
+
+WILSON V. ARCONIC, INC. 
+Page 47 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Workers’ Compensation Division to file documents in paper form. If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Workers’ 
+Compensation Division, 6200 Park Ave., Suite 100, Des Moines, Iowa 50321. The notice of appeal must be received 
+by the Workers’ Compensation Division within 20 days from the date of the decision. The appeal period will be 
+extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,202 @@
+Case Number: 5057045
+Case Title:  THYGESEN, JIM V. CITY OF HARLAN
+Doc Type:    Decision - Court of Appeals
+Source:      Thygesen, Jim-5057045.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 21-0265 
+Filed March 30, 2022 
+ 
+ 
+CITY OF HARLAN, 
+ 
+Plaintiff-Appellee, 
+ 
+vs. 
+ 
+JIM THYGESEN, 
+ 
+Defendant-Appellant. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Heather Lauber, Judge. 
+ 
+Jim Thygesen appeals the district court’s ruling on judicial review reversing 
+the decision of the Iowa Workers’ Compensation Commissioner awarding 
+compensation benefits.  AFFIRMED. 
+ 
+ 
+ 
+Jason D. Neifert of Neifert, Byrne & Ozga, P.C., West Des Moines, for 
+appellant. 
+ 
+D. Brian Scieszinski of Bradshaw, Fowler, Proctor & Fairgrave, P.C., Des 
+Moines, for appellee. 
+ 
+ 
+Heard by Bower, C.J., and Vaitheswaran and Chicchelly, JJ.
+
+ 
+2
+VAITHESWARAN, Judge. 
+Jim Thygesen began working for the City of Harlan’s wastewater treatment 
+plant in 1981.  Over the years, he developed hearing loss and tinnitus.   
+ 
+Thygesen filed a claim for workers’ compensation benefits in 2016, alleging 
+he sustained his injuries on “December 17, 2014; February 4, 2015” due to 
+“[c]umulative impact of [his] exposure to noise in the work environment.”  He 
+alleged December 17, 2014, was the date he ‘was given audiogram results” and 
+February 4, 2015, was “the date assigned by the employer.”  The City responded 
+with two affirmative defenses: (1) Thygesen failed to timely notify it of the injury 
+and (2) Thygesen failed to timely file his claim.  A deputy workers’ compensation 
+commissioner rejected both affirmative defenses and awarded Thygesen 
+permanent partial disability benefits.  On intra-agency appeal, the workers’ 
+compensation commissioner affirmed the decision.       
+ 
+The City sought judicial review of the final agency decision.  The district 
+court reversed the decision.   
+On appeal, Thygesen contends the district court erred in “reaching different 
+factual conclusions than the commissioner with respect to the date of injury and 
+date of discovery” of his hearing loss and tinnitus.  In response, the City does not 
+challenge the commissioner’s fact findings but argues “the agency erred in 
+applying the law to the findings of fact” with respect to the timeliness of Thygesen’s 
+filing of his claim.1  The arguments implicate two standards of judicial review: 
+(1) whether the agency’s fact findings are supported by substantial evidence and 
+                                            
+1 The City focuses exclusively on the timeliness of Thygesen’s filing; it does not 
+reprise its assertion that Thygesen failed to provide timely notification of his injury.  
+
+ 
+3
+(2) whether the agency’s application of law to fact is irrational, illogical, or wholly 
+unjustifiable.  See Iowa Code § 17A.19(10)(f), (m) (2019).   
+ 
+The law is well established.  An employee must bring an original proceeding 
+for workers’ compensation benefits “within two years from the date of the 
+occurrence of the injury for which benefits are claimed.”  Id. § 85.26(1) (2016).2 
+“[W]hen the disability develops over a period of time[,] then the compensable injury 
+itself is held to occur at the later time.”  McKeever Custom Cabinets v. Smith, 379 
+N.W.2d 368, 373 (Iowa 1985).  This is known as the “cumulative injury rule.”  Id.  
+The cumulative injury rule is distinct from the discovery rule.  Id.  “[A]lthough an 
+injury may have occurred, the statute of limitations period does not commence until 
+the employee, acting as a reasonable person, recognizes its ‘nature, seriousness 
+and probable compensable character.’”  Herrera v. IBP, Inc., 633 N.W.2d 284, 287 
+(Iowa 2001) (quoting Orr v. Lewis Cent. Sch. Dist., 298 N.W.2d 256, 257 (Iowa 
+1980)).  In other words, “The preferred analysis is to first determine the date the 
+injury is deemed to have occurred . . . , and then to examine whether the statutory 
+period commenced on that date or whether it commenced upon a later date based 
+upon application of the discovery rule.”  Id. at 288.    
+ 
+The deputy commissioner, whose findings were affirmed by the 
+commissioner, found that Thygesen “knew he was having problems with his 
+hearing ten years ago” and “he thought his hearing problems were related to his 
+                                            
+2 The provision has been amended to state, “For the purposes of this section, ‘date 
+of the occurrence of the injury’ means the date that the employee knew or should 
+have known that the injury was work-related.”  2017 Iowa Acts ch. 23, § 3.  The 
+provision as amended applies to injuries occurring on or after July 1, 2017.  2017 
+Iowa Acts ch. 23, § 24.  Thygesen’s injury occurred before the effective date of the 
+amendment. 
+
+ 
+4
+work.”  These findings are supported by substantial evidence.  The findings answer 
+the first question—when the injury manifested itself.  See id. (“[A] cumulative injury 
+is manifested when the claimant, as a reasonable person, would be plainly aware 
+(1) that he or she suffers from a condition or injury, and (2) that this condition or 
+injury was caused by the claimant’s employment.”).  The findings establish that 
+Thygesen’s injuries “manifested” many years before the 2014 and 2015 dates 
+alleged in his workers’ compensation petition.  See id.   
+ 
+The cited findings do not answer the second question—when the statute of 
+limitations began to run in light of the discovery rule.  Id. (“[B]y virtue of the 
+discovery rule, the statute of limitations will not begin to run until the employee also 
+knows that the physical condition is serious enough to have a permanent adverse 
+impact on the claimant's employment or employability.”).  On that question, the 
+deputy commissioner found Thygesen “didn’t know then what the severity was.”  
+The deputy further found Thygesen’s testimony credible, a finding to which the 
+commissioner deferred.  Again, the deputy’s finding concerning Thygesen’s lack 
+of knowledge about the severity of his injury is supported by substantial evidence.  
+See Midwest Ambulance Serv. v. Ruud, 754 N.W.2d 860, 865 (Iowa 2008) (“The 
+question of whether a claimant knew, or should have known, of the nature, 
+seriousness, and probable compensability of her injury is a question of fact to be 
+determined by the commissioner.”).  We, too, give “deference to the credibility 
+determination[] of the presiding officer.”  Broadlawns Med. Ctr. v. Sanders, 792 
+N.W.2d 302, 306 (Iowa 2010). 
+ 
+But there is an additional component to application of the discovery rule—
+whether the claimant had “knowledge of facts sufficient to trigger a duty to 
+
+ 
+5
+investigate . . . the nature, seriousness, and probable compensable character of 
+the[] injury.”  Baker v. Bridgestone/Firestone, 872 N.W.2d 672, 683 (Iowa 2015) 
+(internal citation and quotations omitted).  The deputy commissioner found:  
+The record does not support Thygesen knew or in the exercise of 
+reasonable diligence should have recognized the seriousness and 
+probable compensable character of his hearing loss in June 2012. 
+The record does not support Thygesen recognized the seriousness 
+and probable compensable character of his hearing loss before the 
+City received actual notice of the injury during Thygesen’s 
+discussions with his supervisor [] and [] the administrator for the City, 
+six months before he filed the February 2015 employee work injury 
+report. 
+ 
+(Emphasis added.)  The commissioner affirmed the determination.  It was here that 
+the district court parted ways with the commissioner.  The court stated “[t]here is 
+no evidence in the record” Thygesen pursued his “duty to investigate his injury.”   
+ 
+Indeed, there was not.  It is undisputed that the City tested Thygesen’s 
+hearing from March 2, 1992, through September 2, 2015.  Thygesen did not 
+request written copies of the test results until October 2014 even though he was 
+verbally apprised well before that date that he had some hearing loss.  Thygesen 
+conceded he always thought his problems were work-related.  Although he claims 
+he did not learn of the compensable nature of the loss until he spoke to his 
+supervisor and city administrator in 2014, nothing prevented him from obtaining 
+that information when he learned his hearing loss was tied to his employment. See 
+Chapa v. John Deere Ottumwa Works, 652 N.W.2d 187, 190 (Iowa 2002) 
+(concluding a claimant had a duty to investigate the compensable nature of his 
+injury where he “realized the connection between the tinnitus and his work 
+environment in the mid-1980s”); see also Martin v. City of Harlan, No. 5057038, 
+2019 WL 4452349, at *6 (Iowa Workers’ Comp. Comm’n Aug. 26, 2019) (“I find the 
+
+ 
+6
+fact that claimant did not actually know until November 2014 that he could make a 
+claim makes no difference.  I find that because claimant recognized the nature, the 
+seriousness and the work-relatedness of his hearing loss and tinnitus, that 
+realization should have prompted claimant long before November 2014 to 
+investigate whether he had a compensable workers’ compensation claim.”); cf. Int’l 
+Paper Co., Inc. v. Bueker, No. 08-1536, 2009 WL 1218693, at *5 (Iowa Ct. App. 
+May 6, 2009) (concluding substantial evidence supported a finding that the 
+claimant did not know the probable compensable nature of his tinnitus before 2004, 
+as the employer claimed).    
+ 
+The absence of evidence to support a finding necessarily means the 
+absence of substantial evidence to support the finding.  We need not engage in a 
+forbidden “scrutinizing analysis of the commissioner’s finding” to make that 
+determination.  See Ruud, 754 N.W.2d at 866 (quoting Terwilliger v. Snap-On 
+Tools Corp., 529 N.W.2d 267, 272 (Iowa 1995)).  We simply need to apply the 
+statutory test as written, assessing “the quantity” of evidence “to establish the fact 
+at issue” as well as “the adequacy of the evidence in the record.”  Iowa Code 
+§ 17A.19(10)(f)(1), (3).  On our review of the record as a whole, we are persuaded 
+the record lacks substantial evidence to support the agency finding that Thygesen 
+“in the exercise of reasonable diligence,” could not “have recognized the . . . 
+probable compensable character of his hearing loss in June 2012.”   
+ 
+Even if substantial evidence supported the finding, we agree with the City 
+that the agency’s application of law to fact was “irrational, illogical, or wholly 
+unjustifiable.”  See Iowa Code § 17A.19(10)(m); Ruud, 754 N.W.2d at 865.  As 
+noted, substantial evidence supported the findings that Thygesen’s injury 
+
+ 
+7
+manifested a decade before he filed his claim and Thygesen knew the injury was 
+work-related.  Under the cited law, those two facts triggered a duty to investigate 
+the probable compensable nature of the claim.  As the district court concluded, the 
+agency’s contrary determination required reversal.  
+ 
+AFFIRMED. 

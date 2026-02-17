@@ -1,0 +1,509 @@
+Case Number: 5067475
+Case Title:  ANDERSON, CHARLES V. BRIDGESTONE AMERICAS, INC.
+Doc Type:    Decision - Supreme Court
+Source:      Bridgestone v Anderson.pdf
+========================================================================
+
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF IOWA 
+ 
+No. 22–1328 
+ 
+Submitted February 20, 2024—Filed March 29, 2024 
+ 
+ 
+BRIDGESTONE AMERICAS, INC., and OLD REPUBLIC INSURANCE COMPANY, 
+ 
+ 
+Appellants, 
+ 
+vs. 
+ 
+CHARLES ANDERSON, 
+ 
+ 
+Appellee. 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Celene Gogerty, 
+District Judge. 
+ 
+An employer appeals a district court order affirming a decision of the 
+workers’ compensation commissioner. AFFIRMED IN PART, REVERSED IN PART, 
+AND REMANDED WITH INSTRUCTIONS.  
+ 
+May, J., delivered the opinion of the court, in which all justices joined. 
+ 
+Alison E. Stewart (argued), Timothy W. Wegman, and Jordan R. Gehlhaar 
+(until withdrawal) of Peddicord Wharton, LLP, West Des Moines, for appellant. 
+ 
+Channing L. Dutton (argued) of Lawyer, Lawyer, Dutton, Drake & Conklin, 
+LLP, Urbandale, for appellee. 
+ 
+Terri C. Davis and Teresa B. Morio. Shuttleworth & Ingersoll, P.L.C., Cedar 
+Rapids, for amicus curiae The Iowa Association of Business and Industry. 
+ 
+ 
+ 
+
+ 
+2 
+22-1328 
+ 
+MAY, Justice. 
+ 
+After decades of hard manual labor, an employee reported a right shoulder 
+injury and a right arm injury to his employer. Then the employee pursued a 
+workers’ compensation action. The deputy workers’ compensation commissioner 
+awarded compensation, and the workers’ compensation commissioner affirmed 
+the award. The employer sought judicial review. The district court affirmed the 
+commissioner’s decision. The employer then filed this appeal. On appeal, the 
+employer poses three questions:  
+1.  
+Was the commissioner correct in finding that the injuries are 
+compensable? 
+2.  
+Was the commissioner correct in finding that the injuries should be 
+compensated as unscheduled injuries under Iowa Code section 
+85.34(2)(v) (2021)?  
+3.  
+Was the commissioner correct in calculating compensation? 
+ 
+We only reach the first two questions. We conclude: 
+ 
+1.  
+The injuries are compensable; but 
+2.  
+The injuries are scheduled injuries under Iowa Code section 
+85.34(2), paragraphs (m) and (n). 
+In light of these conclusions, we affirm in part, we reverse in part, and we  
+remand for determination of compensation for the employee’s scheduled injuries. 
+I. Factual and Procedural Background. 
+ 
+Charles Anderson was sixty-eight years old at the time of his workers’ 
+compensation hearing. He has spent most of his life working for Bridgestone. His 
+first day of work was March 1, 1974. His last day of work was October 31, 2018. 
+ 
+All of Anderson’s jobs at Bridgestone involved physical work. During his 
+last thirty-five years at Bridgestone, Anderson worked as a tire builder. Tire 
+
+ 
+3 
+22-1328 
+ 
+building is particularly difficult work. The deputy commissioner summarized the 
+evidence this way: 
+Bridgestone made tires which varied in size from passenger tires to 
+tractor tires. However, in the 1980’s they stopped making passenger 
+tires and since that time, have made all heavy-duty tractor tires. 
+Mr. Anderson testified that a tire builder had to be strong, have 
+strong hands, and had to constantly fight through problems. In his 
+job as a tire builder, he had to use both hands and both feet at the 
+same time. While performing his job, he had to put both arms up 
+approximately 7 feet and to tear ply both directions. Some plies tore 
+easily; some tore really hard; it depended on the gauge or thickness 
+of the ply. A tire builder had to hold his hands and arms out in front 
+of them to tear the plies. If the ply was too thick, then the builder 
+had to cut the material with a hot knife, which involved the same 
+motion of the upper extremities, but while holding a knife. 
+Mr. Anderson described work that involved intense use of his hands 
+and upper extremities and considerable hand and finger strength. 
+His work also involved the use of his hands and upper extremities 
+away from his torso.  
+ 
+Anderson’s decades of labor led to an injury to his right shoulder and an 
+injury to his right arm. Anderson brought these injuries to Bridgestone’s 
+attention on October 31, 2018. That day, Anderson saw the company doctor, 
+Dr. Troll. Dr. Troll noted “wear and tear degenerative changes” in Anderson’s 
+right shoulder. After a second visit, Dr. Troll suggested that Anderson should see 
+his own physician. 
+Anderson then saw his primary care physician, Dr. Harrison. Dr. Harrison 
+noted that although Anderson had suffered no acute injury, Anderson’s 
+symptoms could be the product of an overuse injury related to his occupation.  
+Dr. Harrison referred Anderson to Dr. Davick, an orthopedic specialist. 
+Dr. Davick ordered an MRI of Anderson’s right shoulder. The imaging revealed 
+muscle tearing, including a near-full-thickness tear to the rotator cuff. 
+Dr. Davick performed surgery on Anderson’s right shoulder in February 2019. It 
+
+ 
+4 
+22-1328 
+ 
+was Dr. Davick’s opinion that Anderson’s shoulder injury had been caused by 
+his work as a tire builder. 
+Anderson continued to have numbness and tingling in his right hand. So 
+Dr. Davick referred Anderson to Dr. Rodgers, who is also an orthopedic 
+specialist. In October 2019, Rodgers performed a carpal tunnel release and ulnar 
+nerve transposition on Anderson’s right arm. 
+ 
+Anderson brought a workers’ compensation action against Bridgestone. 
+Anderson alleged injuries to his “right arm and shoulder.” He stated that his 
+injury date was “10/31/18.” 
+Anderson’s attorney sent him to Dr. Stoken. In a written report, Dr. Stoken 
+tied Anderson’s injuries to his employment. 
+ 
+An arbitration hearing was held in 2021. The deputy concluded that 
+Anderson had suffered compensable permanent injuries to his right arm and 
+right shoulder. The deputy also concluded that Anderson’s injuries should be 
+treated as unscheduled injuries under Iowa Code section 85.34(2)(v) and that 
+Anderson’s compensation should be calculated based on his loss of future 
+earning capacity. Specifically, the deputy found that Anderson had sustained a 
+fifty percent loss of future earning capacity. The deputy awarded compensation 
+on that basis. 
+ 
+Bridgestone appealed to the commissioner. The commissioner affirmed the 
+deputy’s arbitration decision in its entirety. 
+ 
+Bridgestone then filed a petition for judicial review in the district court. 
+The district court affirmed the commissioner’s appeal decision. 
+ 
+Bridgestone then appealed to this court. We retained the appeal. Iowa R. 
+App. P. 6.1101(2); Iowa Ct. R. 21.21. 
+
+ 
+5 
+22-1328 
+ 
+II. Analysis. 
+ 
+A. Issues on Appeal. As mentioned, Bridgestone raises three issues on 
+appeal. First, Bridgestone contends that there was insufficient evidence to 
+support the commission’s finding that Anderson’s injuries were caused by his 
+employment and, therefore, compensable. Second, Bridgestone contends that 
+the commission erred in concluding that Anderson’s injuries should be 
+compensated as unscheduled injuries rather than scheduled injuries. Third, 
+Bridgestone contends that the commission’s award was excessive. We address 
+the issues in turn although, as mentioned, we only reach the first two.  
+ 
+B. Causal Relationship. The first issue is whether the commissioner erred 
+in determining that Anderson’s injuries were compensable. As to this issue, we 
+see no grounds to reverse the commissioner’s determinations. 
+Under our workers’ compensation statute, employers must pay 
+compensation to employees for “personal injuries . . . arising out of and in the 
+course of the employment.” Iowa Code § 85.3(1). This causal inquiry presents 
+questions of fact that are “vested in the discretion of the” commissioner. 
+Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 844–45 (Iowa 2011). 
+We affirm the commissioner’s factual findings if they are supported by 
+substantial evidence. Mid Am. Constr. LLC v. Sandlin, 2 N.W.3d 838, 846 (Iowa 
+2024). Note that evidence may be substantial even if “different conclusions may 
+be drawn from the evidence” and, indeed, even if “we may have drawn a different 
+conclusion as fact finder.” Pease, 807 N.W.2d at 845; accord Sandlin, 2 N.W.3d 
+at 846. “Our task, therefore, is not to determine whether the evidence supports 
+a different finding; rather, our task is to determine whether substantial evidence, 
+viewing the record as a whole, supports the findings actually made.” Pease, 
+807 N.W.2d at 845. 
+
+ 
+6 
+22-1328 
+ 
+ 
+Following our review of the record as a whole, we conclude that substantial 
+evidence supports the commissioner’s findings here. Dr. Troll, Dr. Harrison, 
+Dr. Stoken, and Dr. Davick all tied Anderson’s shoulder injury to Anderson’s 
+employment. And Dr. Stoken’s report can be interpreted as tying both injuries 
+to Anderson’s employment. These expert opinions provided substantial evidence 
+to support the commissioner’s finding that Anderson’s injuries were caused by 
+his employment. 
+Bridgestone points to inconsistencies in Anderson’s comments to treaters 
+and also in Anderson’s testimony. But “credibility determinations in workers’ 
+compensation claims are within the domain of the commissioner as trier of fact.” 
+Id. at 847. Moreover, “[m]edical causation ‘is essentially within the domain of 
+expert testimony’ ” and “[u]ltimately, . . . the determination of whether to accept 
+or reject an expert opinion is within the ‘peculiar province’ of the commissioner.” 
+Id. at 845 (first quoting Dunlavey v. Econ. Fire & Cas. Co., 526 N.W.2d 845, 853 
+(Iowa 1995); and then quoting Deaver v. Armstrong Rubber Co., 170 N.W.2d 455, 
+464 (Iowa 1969)). And here, at least, we see no grounds to second guess the 
+commissioner’s reliance on the expert opinions mentioned above. 
+ 
+Substantial evidence supports the commissioner’s findings of causation 
+and, therefore, compensability. The district court was correct to affirm those 
+findings. 
+ 
+C. Scheduled or Unscheduled. We now address the central issue in this 
+case: Was the commissioner correct in concluding that the injuries should be 
+compensated as unscheduled injuries under Iowa Code section 85.34(2), 
+paragraph (v)? Or should the commissioner have ruled that they are scheduled 
+injuries under Iowa Code section 85.34(2), paragraphs (m) and (n)? 
+ 
+1. Standard of review. Before diving into the merits, though, we note that 
+special standard-of-review issues arise when we consider an agency’s 
+
+ 
+7 
+22-1328 
+ 
+interpretation of a statute. If the legislature has clearly vested an agency with 
+interpretive authority over a provision of law, we defer to the agency’s 
+interpretation. Id. § 17A.19(10)(l). In those cases, we will reverse only if the 
+agency’s interpretation is “irrational, illogical, or wholly unjustifiable.” Id. But if 
+the legislature has not clearly vested an agency with interpretive authority, then 
+our review of the agency’s interpretation is for errors at law. Id. § 17A.19(10)(c).  
+We have concluded that the legislature did not vest the workers’ 
+compensation commissioner with interpretive authority over chapter 85 
+generally. P.M. Lattner Mfg. Co. v. Rife, 2 N.W.3d 859, 865 (Iowa 2024). And this 
+case does not involve the interpretation of terms uniquely within the subject 
+matter expertise of the agency. See Iowa Ins. Inst. v. Core Grp. of the Iowa Ass’n 
+for Just., 867 N.W.2d 58, 65 (Iowa 2015). So we review the commissioner’s 
+interpretation of section 85.34 for correction of errors at law. P.M. Lattner, 
+2 N.W.3d at 865. We do not “defer[] to the agency’s interpretation.” Id. (quoting 
+Brewer-Strong v. HNI Corp., 913 N.W.2d 235, 243 (Iowa 2018)). 
+ 
+2. Overview. Now we turn to the statute itself. Section 85.34(2) governs 
+compensation for permanent partial disabilities. Iowa Code § 85.34(2). The 
+method and extent of compensation depends in large part on whether the 
+employee’s injury is considered “scheduled” or “unscheduled.” Chavez v. 
+MS Tech. LLC, 972 N.W.2d 662, 666 (Iowa 2022). The scheduled injuries are 
+those described or referred to in paragraphs (a) through (u) of section 85.34(2). 
+Id. The unscheduled injuries are governed by paragraph (v) of section 85.34(2). 
+Id. An injury is unscheduled if it is an injury “other than those . . . described or 
+referred to in paragraphs ‘a’ through ‘u’ ” of section 85.34(2). Iowa Code 
+§ 85.34(2)(v) (emphasis added). 
+The distinction between scheduled and unscheduled injuries can make a 
+difference in how the employee is compensated. See Chavez, 972 N.W.2d at 
+
+ 
+8 
+22-1328 
+ 
+666–67. Scheduled injuries are generally compensated based on functional 
+impairment, that is, the extent to which a body part’s function has been 
+impaired. Id. at 669. For example, paragraph (a) of section 85.34(2) addresses 
+the first scheduled disability, “the loss of a thumb.” Iowa Code § 85.34(2)(a). More 
+specifically, paragraph (a) calls for “sixty weeks” of compensation “[f]or the loss 
+of a thumb.” Id. So, “[i]f an employee suffered a work injury resulting in a 10% 
+functional impairment to the thumb, the employee would be entitled to six weeks’ 
+compensation (10% of sixty weeks).” Loew v. Menard, Inc., 2 N.W.3d 880, 884 
+(Iowa 2024). The other paragraphs of the schedule require similar calculations 
+for other scheduled injuries, such as “loss of a hand” (190 weeks), “loss of an 
+eye” (140 weeks), and so on. Iowa Code § 85.34(2)(a)–(u). 
+Unscheduled injuries are sometimes compensated differently. Id. 
+§ 85.34(2)(v). Compensation for unscheduled injuries depends in part on 
+whether the employee returns to work after the injury. Id. If the employee returns 
+to work at the same or greater pay, then the functional impairment method still 
+applies. Id.; accord Chavez, 972 N.W.2d at 666–67. But if the employee does not 
+return to work at the same or greater pay, then a different method applies. Iowa 
+Code § 85.34(2)(v). In those cases, compensation is based on the employee’s loss 
+of earning capacity. Loew, 2 N.W.3d at 884. The loss-of-earning-capacity 
+calculation requires the commissioner to consider not only the employee’s 
+functional impairment but also the employee’s “age, education, work experience, 
+and adaptability to retraining, to the extent any of these factors affect the 
+employee’s prospects for relocation in the job market.” Id. (quoting Sherman v. 
+Pella Corp., 576 N.W.2d 312, 321 (Iowa 1998)). A reduction in an employee’s 
+earning capacity is sometimes called “industrial disability.” Id. 
+ 
+3. Application. With this background in mind, we now consider whether 
+Anderson’s shoulder injury and arm injury should have been treated as 
+
+ 
+9 
+22-1328 
+ 
+scheduled or unscheduled injuries under Iowa Code section 85.34(2). This is, of 
+course, essentially a question of statutory interpretation. And we note that both 
+Anderson and Bridgestone have asked us to interpret the workers’ compensation 
+statute according to its plain language. These requests are consistent with our 
+duty. “We are required to use the plain language of the statute when construing” 
+the workers’ compensation statute. Warren Props. v. Stewart, 864 N.W.2d 307, 
+315 (Iowa 2015); accord, e.g., Walker v. Mlakar, 489 N.W.2d 401, 405 (Iowa 1992) 
+(en banc) (“To require a coemployee to have actual knowledge of a hazard before 
+exposing him or her to tort liability is more consistent with the plain language of 
+section 85.20.”). To be sure, our cases acknowledge legislative purposes as well, 
+including the purpose of helping workers. Sandlin, 2 N.W.3d at 850. Even so, we 
+do not have “leave to ignore the plain language of the statute.” Hoyt v. Wendling 
+Quarries, No. 14–0800, 2015 WL 576174, at *2 (Iowa Ct. App. Feb. 11, 2015).  
+ 
+Following our study of the plain language of section 85.34, we conclude 
+that the commissioner erred by concluding that Anderson suffered an 
+unscheduled injury. As mentioned, an injury can be unscheduled only if it fits 
+in paragraph (v). Iowa Code § 85.34(2)(v). And by its plain terms, paragraph (v) 
+can only apply to injuries “other than those . . . described or referred to in 
+paragraphs ‘a’ through ‘u.’ ” Id. (emphasis added). But Anderson’s injuries are 
+not “other than those . . . described or referred to in paragraphs ‘a’ through ‘u.’ ” 
+Id. (emphasis added). Anderson’s injuries are to his shoulder and arm. Both are 
+“described or referred to” in the schedule composed of “paragraphs ‘a’ through 
+‘u.’ ” Id. § 85.34(2). Specifically, Anderson’s shoulder injury is “described or 
+referred to” in paragraph (n), which states: “n. For the loss of a shoulder, weekly 
+compensation during [a percentage of] four hundred weeks.” Id. § 85.34(2)(n). 
+And Anderson’s arm injury is “described or referred to” in paragraph (m), which 
+states: “m. The loss of two-thirds of that part of an arm between the shoulder 
+
+ 
+10 
+22-1328 
+ 
+joint and the elbow joint shall equal the loss of an arm and the compensation 
+therefor shall be weekly compensation during [a percentage of] two hundred fifty 
+weeks.” Id. § 85.34(2)(m). Because Anderson’s injuries are “described or referred 
+to” in scheduled paragraphs (m) and (n), paragraph (v) does not apply. Id. 
+§ 85.34(2). The injuries are scheduled, not unscheduled. 
+ 
+4. Counterarguments. 
+We 
+have 
+considered 
+all 
+of 
+Anderson’s 
+counterarguments. 
+Three 
+of 
+them 
+deserve 
+discussion 
+here, 
+namely: 
+(1) Anderson’s argument concerning the statute’s use of the singular and plural, 
+(2) Anderson’s argument concerning paragraph (t), and (3) Anderson’s argument 
+that our interpretation affords no meaning to paragraph (v).  
+a. Singular vs. plural. We begin with Anderson’s point about the singular 
+and the plural. Anderson notes that paragraph (n) describes compensation for “a 
+shoulder”—singular—and paragraph (m) describes compensation for “an arm”—
+also singular. Id. § 85.34(2)(m), (n). From this, Anderson infers that the schedule 
+cannot apply to him because his injuries include both “a shoulder” and “an arm.”  
+We disagree. To begin with, when we interpret statutes, we usually don’t 
+put too much weight on the use of “a” or “an” or to other uses of the singular or 
+plural. Id. § 4.1(17) (“Unless otherwise specifically provided by law the singular 
+includes the plural, and the plural includes the singular.”); see Little v. Davis, 
+974 N.W.2d 70, 75–76 (Iowa 2022) (applying Iowa Code section 4.1(17)); Porter 
+v. Harden, 891 N.W.2d 420, 426 (Iowa 2017) (observing that Iowa Code section 
+4.1(17) “should caution us against reading too much into the presence of the 
+words ‘a’ or ‘an’ in a statute depending on the context”); Sexton v. Lauman, 
+57 N.W.2d 200, 202 (Iowa 1953) (construing a singular term in a statute to 
+extend to the plural). 
+Moreover, the singular/plural distinction is not especially relevant here. 
+This is not a case of plural shoulder injuries or plural arm injuries. Rather, 
+
+ 
+11 
+22-1328 
+ 
+Anderson suffered injuries to “a shoulder” and “an arm.” Iowa Code 
+§ 85.34(2)(m), (n). So it makes sense to compensate Anderson under the 
+scheduled provisions for “a shoulder” and “an arm.” Id. 
+This view is supported by the narrow scope of paragraph (v), the provision 
+for unscheduled injuries. Paragraph (v) does not say that it applies unless a 
+patient’s injuries fit into only one of the paragraphs identified as (a), (b), (c), etc. 
+Id. § 85.34(2)(v). Rather, according to its plain text, paragraph (v) only applies to 
+injuries “other than those . . . described or referred to in paragraphs ‘a’ through 
+‘u.’ ” Id. And, as explained, Anderson’s injuries are “described or referred to in 
+paragraphs ‘a’ through ‘u.’ ” Id. (emphasis added). They are “described or referred 
+to” in paragraphs (n) and (m), both of which are part of the schedule composed 
+of “paragraphs ‘a’ through ‘u.’ ” Id. § 85.34(2). So paragraph (v) does not apply. 
+b. Paragraph (t). We turn now to Anderson’s arguments concerning 
+paragraph (t). Paragraph (t) states in relevant part: 
+t. The loss of both arms, or both hands, or both feet, or both 
+legs, or both eyes, or any two thereof, caused by a single accident, 
+shall equal five hundred weeks and shall be compensated as such 
+. . . . 
+Id. § 85.34(2)(t). 
+Anderson notes that paragraph (t) describes certain losses of multiple body 
+parts: “both arms,” “both hands,” and so on. Id. Anderson further notes that 
+“shoulder” is not mentioned in paragraph (t). Id. From this, Anderson infers that 
+the legislature excluded two-body-part losses from the schedule if one of those 
+body parts is a shoulder. 
+We disagree. To begin with, it is worth noting that paragraph (t) isn’t 
+relevant to Anderson. By its plain terms, paragraph (t) applies to some situations 
+in which multiple injuries are “caused by a single accident.” Id. That isn’t what 
+
+ 
+12 
+22-1328 
+ 
+happened to Anderson. His injuries are the result of decades of work-related 
+wear and tear.1  
+That aside, we think Anderson reads too much into paragraph (t). The most 
+natural reading of paragraph (t) is that it provides special compensation—500 
+weeks—for workers who suffer certain specified combinations of injuries in a 
+single accident. Id. But nothing in paragraph (t) precludes workers who suffer 
+other combinations of injuries from being compensated under other scheduled 
+paragraphs. See id. For example, paragraph (e) makes the loss of the fourth 
+finger—the “little finger”—a scheduled injury that requires twenty weeks of 
+compensation. Id. § 85.34(2)(e). If an employee lost both little fingers—in a single 
+accident or otherwise—the employee would be compensated for each little finger 
+under paragraph (e). Id. In other words, there would be two scheduled injuries. 
+There would not be an unscheduled injury. Because little fingers are “described 
+or referred to” in the schedule composed of “paragraphs ‘a’ through ‘u,’ ” the 
+worker who lost both little fingers would not fall into paragraph (v). Id. § 85.34(2).  
+Likewise, because Anderson’s shoulder and arm injuries are “described or 
+referred to” in the schedule composed of “paragraphs ‘a’ through ‘u,’ ” Anderson’s 
+injuries cannot fall into paragraph (v). Id. A different interpretation would ignore 
+the words of paragraph (v), which narrowly limit its scope to injuries that aren’t 
+“described” or even “referred to” on the schedule. Id. § 85.34(2)(v). We cannot 
+ignore those narrow limits. As Anderson reminds us in his brief:  
+ 
+1Although Anderson’s brief sometimes suggests that a single accident caused both 
+injuries, the record does not support that view. Indeed, in other parts of his brief, Anderson 
+admits the gradual nature of both injuries. For instance, on page twenty-five, Anderson 
+emphasizes “the causal connection between thirty-five years of tire building and [his] injuries.” 
+On page twenty-one, footnote four, Anderson notes that his 2018 right carpal tunnel injury was 
+the result of gradual, work-related wear and tear. Similarly, on page twenty-seven, footnote 
+seven, Anderson notes that “[f]rom the record it is apparent there was not a single trauma which 
+produced the shoulder complaint.”  
+
+ 
+13 
+22-1328 
+ 
+The role of this court is to apply the words “of a statute as written.” 
+“[W]e may not—under the guise of statutory construction—enlarge 
+or otherwise change the terms of a statute as the legislature adopted 
+it.” For us to interpret the statute to achieve some policy objective 
+found nowhere in the statute’s language . . . invades a sphere 
+reserved for the legislature.  
+(Alteration and omission in original) (citation omitted) (first quoting In re 
+Marshall, 805 N.W.2d 145, 160 (Iowa 2011); and then quoting State v. Miller, 590 
+N.W.2d 45, 47 (Iowa 1999)). 
+c. But does paragraph (v) retain any effect? Finally, we have considered 
+Anderson’s concern that our interpretation would leave paragraph (v) without 
+meaning. And, of course, it is true that we must give meaning to “every word” in 
+a statute. E.g., Maguire v. Fulton, 179 N.W.2d 508, 510 (Iowa 1970). “None 
+should be ignored. None should needlessly be given an interpretation that causes 
+it to . . . have no consequence.” Antonin Scalia & Bryan A. Garner, Reading Law: 
+The Interpretation of Legal Texts 174 (2012). 
+We think our interpretation honors these requirements. Our interpretation 
+does not strip paragraph (v) of meaning. Rather, we have clarified its meaning by 
+highlighting its outer boundaries. As explained, paragraph (v) does not apply to 
+injuries “described or referred to” in the schedule composed of “paragraphs ‘a’ 
+through ‘u.’ ” Iowa Code § 85.34(2). And so, paragraph (v) generally doesn’t apply 
+to injuries to fingers, arms, hands, shoulders, or other parts “described or 
+referred to” in the schedule. Id. Conversely, though, paragraph (v) certainly does 
+apply to injuries that aren’t “described or referred to” in the schedule. Id. For 
+instance, because back injuries aren’t “described or referred to” in the schedule, 
+back injuries are compensated under paragraph (v). Id. The same applies to neck 
+injuries, rib injuries, brain injuries, and so on. Id. Because they aren’t “described 
+or referred to” in the schedule, they are compensated under paragraph (v). Id. 
+Moreover, under our case law, “when there is injury to some scheduled member 
+
+ 
+14 
+22-1328 
+ 
+and also to parts of the body not included in the schedule, the resulting disability 
+is compensated on the basis of an unscheduled injury.” Mortimer v. Fruehauf 
+Corp., 502 N.W.2d 12, 16 (Iowa 1993). This is true regardless of “whether the 
+spill over effects for the scheduled injury are physical or mental.” Id. at 17. Either 
+way, the unscheduled injury requires compensation under paragraph (v). So 
+paragraph (v) continues to do important work. 
+III. Disposition. 
+ 
+The district court was correct to affirm the commissioner’s finding that 
+Anderson’s right shoulder injury and right arm injury are compensable. We 
+affirm that ruling of the district court. 
+ 
+The district court erred in affirming the commissioner’s finding that 
+Anderson’s right shoulder and right arm injuries should be compensated as 
+unscheduled injuries. We reverse that ruling of the district court. 
+ 
+Because we conclude that the commissioner erred in treating Anderson’s 
+injuries as unscheduled, we also conclude that the commissioner erred in 
+awarding compensation based on Anderson’s loss of earning capacity. Likewise, 
+the district court erred in affirming the award of compensation. We reverse that 
+ruling of the district court. We remand to the district court for entry of an order 
+remanding to the commissioner for further proceedings to determine 
+compensation for Anderson’s scheduled injuries. 
+AFFIRMED IN PART, REVERSED IN PART, AND REMANDED WITH 
+INSTRUCTIONS. 

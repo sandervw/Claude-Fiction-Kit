@@ -1,0 +1,707 @@
+Case Number: 21006767.02
+Case Title:  HOPPE, IMMANUEL V. KRAFT HEINZ COMPANY
+Doc Type:    Decision - Deputy
+Source:      Hoppe Immanuel-21006767.02d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+IMMANUEL HOPPE, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+File No. 21006767.02 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                  
+KRAFT HEINZ COMPANY, 
+  : 
+ 
+ 
+  :                ARBITRATION DECISION                  
+ 
+Employer, 
+  : 
+ 
+ 
+  :                         
+and 
+ 
+  : 
+ 
+ 
+  : 
+INDEMNITY INS. CO. OF N. AMERICA,   : 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  : 
+Head Notes:  1402.20, 1402.40, 1802,  
+ 
+Defendants. 
+  :                  1803, 1803.1, 2206, 2501, 2907 
+______________________________________________________________________ 
+ 
+STATEMENT OF THE CASE 
+ 
+Immanuel “Manny” Hoppe, claimant, filed a petition in arbitration seeking 
+workers’ compensation benefits against Kraft Heinz Company and Indemnity Insurance 
+Company of North America.  
+ 
+In accordance with agency scheduling procedures, a hearing occurred on July 
+12, 2024, via Zoom.  The case was considered fully submitted on September 6, 2024, 
+upon the filing of briefs. 
+ 
+The parties filed a hearing report at the commencement of the arbitration 
+hearing.  On the hearing report, the parties entered into various stipulations.  All of 
+those stipulations were accepted and are hereby incorporated into this arbitration 
+decision and no factual or legal issues relative to the parties' stipulations will be raised 
+or discussed in this decision.  The parties are now bound by their stipulations. 
+ 
+The evidentiary record consists of Joint Exhibits 1 through 13, Claimant’s 
+Exhibits 1 through 19, and Defendants’ Exhibits A through L.  Claimant testified on his 
+own behalf.  Rachel Ball testified on behalf of defendants. 
+ISSUES 
+1. Whether claimant is entitled to healing period benefits from June 15, 2023, 
+through March 1, 2024; 
+2. The nature and extent of claimant’s entitlement to permanent partial disability 
+benefits;  
+ELECTRONICALLY FILED     2025-Feb-28  15:38:06     DIVISION OF WORKERS' COMPENSATION
+
+HOPPE V. KRAFT HEINZ COMPANY 
+Page 2 
+ 
+3. The proper commencement date for permanent partial disability benefits;  
+4. Whether claimant is entitled to the payment of medical expenses; 
+5. Whether claimant is entitled to reimbursement for an independent medical 
+examination pursuant to Iowa Code section 85.39;  
+6. Whether claimant is entitled to alternate medical care under Iowa Code section 
+85.27; and 
+7. Costs. 
+FINDINGS OF FACT 
+ 
+The instant case stems from a stipulated work injury occurring on January 28, 
+2021.  The claimant at the center of this case is Immanuel “Manny” Hoppe.  At the time 
+of the evidentiary hearing that brought forth this claim, Hoppe was a 63-year-old 
+individual with a high school education.  The majority of Hoppe’s employment history 
+has involved manual labor.  Prior to working for the defendant employer, claimant 
+worked as a painter, highway technician, millhouse operator, and plumber. (Claimant’s 
+Exhibit 11, p. 54) 
+ 
+Hoppe’s relevant medical history includes a right biceps injury that occurred on 
+June 20, 2018. (Joint Exhibit 7, pp. 64-71)  He ultimately underwent a right distal biceps 
+tendon repair on September 20, 2018. (JE8, pp. 72-73)  Defendants paid Hoppe 25 
+weeks of permanent partial disability benefits for the 2018 right biceps injury. 
+(Defendants’ Exhibit L, p. 118)  Claimant testified that he was not experiencing right 
+shoulder pain prior to the January 28, 2021, work injury. (Hearing Transcript, p. 13) 
+ 
+Hoppe began working as a light factory worker for the defendant employer in 
+November 2016. (Hr. Tr., p. 12)  On the date of injury, Hoppe was working as a Line 
+Lead. (Id.)  As a line lead, Hoppe was expected to supervise and manage three 
+separate lines, oversee the shift-to-shift operations, coordinate with other departments, 
+train employees, and report to supervisors. (Ex. 19, Depo. p. 21)  According to the job 
+description in evidence, Hoppe was expected to repetitively lift between 12 and 50 
+pounds, with frequent bending and occasional stooping throughout the day. (Ex. G, p. 
+25) 
+ 
+On January 28, 2021, Hoppe was attempting to turn off a valve in a cloud of 
+steam when he tripped over some wires and landed on his right shoulder. (Hr. Tr., pp. 
+13-14) 
+Claimant presented to Camila Frederick, M.D. of Genesis Occupational Health 
+on February 1, 2021. (JE9, p. 74)  While explaining how he injured himself, claimant 
+mentioned to Dr. Frederick that he had previously sustained a right biceps tendon tear a 
+few years prior. (Id.)  Dr. Frederick diagnosed a strain of the rotator cuff and ordered an 
+x-ray of the right shoulder. (JE9, p. 76)  She also requested on-site therapy. (JE9, p. 77) 
+A February 22, 2021, MRI revealed a large SLAP tear, some low grade 
+undersurface tearing of the subscapularis, and a low-grade AC joint sprain. (JE6, p. 63; 
+
+HOPPE V. KRAFT HEINZ COMPANY 
+Page 3 
+ 
+See JE9, p. 84)  After reviewing the MRI results, Dr. Frederick referred claimant for an 
+orthopedic evaluation. (JE9, p. 87) 
+Claimant presented to Matthew Bollier, M.D. on March 5, 2021. (JE10, p. 118)   
+After reviewing the diagnostic imaging, Dr. Bollier opined claimant’s presentation was 
+consistent with a partial rotator cuff tear and SLAP tear. (JE10, p. 121)  Dr. Bollier 
+opined that the work injury was a significant factor in causation of claimant’s pain, 
+imaging findings, and pathology. (Id.)  Initially, Dr. Bollier recommended conservative 
+treatment, including physical therapy and corticosteroid injections. (Id.)  However, he 
+eventually recommended surgical intervention. 
+On May 19, 2021, Dr. Bollier performed an arthroscopic repair of the SLAP tear, 
+capsular release, biceps tenotomy, subacromial decompression, and distal clavicle 
+excision.  During surgery, Dr. Bollier noted claimant had a full-thickness humeral head 
+defect in the glenohumeral joint.  To address the same, Dr. Bollier performed a 
+microfracture/abrasion arthroplasty of the humeral head cartilage defect. (JE10, pp. 
+144-146) 
+Claimant presented for a follow-up appointment with Dr. Bollier on July 2, 2021. 
+(JE10, p. 154)  Claimant believed his discomfort and range of motion had plateaued or 
+even regressed over the past two weeks. (Id.)  Dr. Bollier explained to claimant that his 
+large humeral head cartilage defect was likely causing his feelings of anterior shoulder 
+discomfort and catching with overhead activity. (JE10, p. 157)  Following the 
+examination, Dr. Bollier ordered a corticosteroid and lidocaine injection and extended 
+claimant’s physical therapy. (Id.) 
+Claimant received the recommended injections on August 13, 2021. (JE10, pp. 
+162-164) 
+On September 10, 2021, claimant reported his pain was well controlled following 
+the August 13, 2021, injections.  He further reported that he was able to move his 
+shoulder well and he could lift more due to the reduction in his pain. (JE10, p. 170)  
+After the evaluation and a discussion with claimant, Dr. Bollier discontinued physical 
+therapy and recommended work restrictions of no pushing, pulling, or lifting greater than 
+20 pounds with the right arm until October 10, 2021, at which time claimant would be at 
+maximum medical improvement (MMI). (JE10, p. 170)   
+In the September 10, 2021, medical record, Dr. Bollier assigned 5 percent right 
+upper extremity or 3 percent whole person impairment according to the AMA Guides to 
+the Evaluation of Permanent Impairment, Fifth Edition. (Id.)  The rating was calculated 
+based on a loss of flexion, extension, abduction, adduction, and internal rotation. (Id.) 
+Following some repetitive reaching at work, claimant experienced an increase in 
+pain and returned to Dr. Bollier’s office on December 17, 2021. (JE10, p. 173)  Dr. 
+Bollier ordered an x-ray of the right shoulder and an additional corticosteroid injection. 
+(JE10, p. 176)  Dr. Bollier explained to claimant that the injections could only be 
+repeated one to two times per year. (Id.)  He then provided, “If these become less 
+effective for pain relief may consider referral to joint team for consideration of shoulder 
+
+HOPPE V. KRAFT HEINZ COMPANY 
+Page 4 
+ 
+arthroplasty.”  He further opined the “Need for arthroplasty is related to his initial work 
+injury.” (JE10, p. 176) 
+Claimant received the second set of injections on January 21, 2022. (JE10, pp. 
+179-180) 
+Claimant returned to Dr. Frederick on July 11, 2022, reporting that his right 
+shoulder continued to be sore. (JE9, p. 112)  He further reported that his right shoulder 
+soreness became “really bad” approximately one month prior.  The medical record 
+provides that UIHC was going to evaluate whether claimant should pursue another 
+injection or a total shoulder replacement.  Dr. Frederick opined that she would agree 
+with either treatment recommendation.    
+Defendants authorized Brendan Patterson, M.D. to conduct a second opinion 
+evaluation of claimant on July 27, 2022. (JE10, p. 182)  Updated x-rays of the right 
+shoulder revealed mild degenerative change of the glenohumeral joint without proximal 
+migration humeral head. (JE10, p. 184)  Following his examination, Dr. Patterson 
+discussed the possibility of a shoulder arthroplasty due to his progressive arthritis in the 
+shoulder following his arthroscopic operation. (Id.)  Dr. Patterson recommended 
+claimant undergo a glenohumeral joint injection with ultrasound guidance to determine if 
+a majority of his symptoms were driven by glenohumeral joint pain. (Id.)  Dr. Patterson 
+scheduled claimant to return for a follow-up evaluation and discussion of his treatment 
+options in three months. (Id.) 
+The guided injection occurred on August 5, 2022. (JE10, pp. 188-189)  Claimant 
+experienced significant improvement in his symptoms, but only for a couple of weeks. 
+(See JE10, p. 191) 
+On October 19, 2022, claimant returned to Dr. Patterson’s office and expressed 
+interest in proceeding with the previously discussed right shoulder arthroplasty. (JE10, 
+p. 193)  Prior to moving forward with surgery, Dr. Patterson told claimant he would need 
+to stop smoking and obtain clearance from his cardiology team. (Id.)  Dr. Patterson 
+opined that claimant was at MMI as of October 19, 2022, unless and until he met said 
+prerequisites. (Id.)  Dr. Patterson provided, “He will return to clinic once these are 
+obtained and we will plan to move forward with shoulder arthroplasty.” (Id.) 
+Dr. Patterson assigned 8 percent right upper extremity or 5 percent whole person 
+impairment for the right shoulder injury. (JE10, p. 193)  Dr. Patterson’s impairment 
+rating was based on claimant’s loss of flexion, extension, abduction, and internal 
+rotation. (Id.)  He released claimant with continued restrictions of no lifting, pushing, or 
+pulling greater than 20 pounds with the right arm. (JE10, p. 195) 
+On December 30, 2022, Dr. Bollier drafted an addendum to his December 17, 
+2021, medical record.  In the addendum, Dr. Bollier opined that claimant’s need for a 
+future shoulder replacement would not be related to the January 28, 2021 work injury. 
+(JE10, pp. 176-177)  He explained, “My initial causation opinion was based on the fact 
+that I thought he had a focal cartilage defect that was aggravated by the work injury.  
+However, on my review of imaging, work injury timeline, arthroscopy pictures, he had 
+shoulder arthritis that was pre-existing and degenerative." (JE10, p. 177)  Dr. Bollier 
+
+HOPPE V. KRAFT HEINZ COMPANY 
+Page 5 
+ 
+further opined that claimant would need a shoulder replacement in the future; however, 
+the need for surgery would be related to his degenerative condition and not the work 
+injury. (Id.) 
+In addition to the December 30, 2022, addendum, Dr. Bollier produced a letter to 
+defendants expanding upon his opinion. (Exhibit C, pp. 15-16)  The letter provides, “I 
+don’t think we can say that the moment pain develops in an arthritic shoulder (work 
+incident) is the cause of a material and permanent aggravation.” (Ex. C, p. 16)  He then 
+confirmed his opinion that the January 28, 2021, work injury is not the reason why 
+claimant needs a shoulder replacement. (Id.) 
+Defendants scheduled claimant for an independent medical examination with 
+Steven Aviles, M.D., a board-certified orthopedic surgeon. (Exhibit A)  The evaluation 
+occurred on January 9, 2023. (Ex. A, p. 1)  Dr. Aviles diagnosed claimant with mild 
+osteoarthritis of the right shoulder. (Ex. A, p. 9)  He opined the osteoarthritis was more 
+likely than not a personal and degenerative condition unrelated to the work injury. (Ex. 
+A, p. 10)  Dr. Aviles opined that claimant would likely require a total shoulder 
+replacement in the future; however, the need for said surgery would not be related to 
+the work injury. (Id.) 
+Based upon the opinions of Dr. Bollier and Dr. Aviles, defendants denied liability 
+for claimant’s degenerative osteoarthritis and the need for a right total shoulder 
+replacement. (Exhibit 13, pp. 66-67) 
+Claimant subsequently presented to Justin Munns, M.D. for a second opinion on 
+February 17, 2023. (JE12, p. 204)  The medical record provides that Dr. Munns was not 
+privy to all of claimant’s medical records at the time of the appointment. (Id.)  
+Nevertheless, he opined that the work injury represented an exacerbation of an 
+underlying condition of osteoarthritis, which likely expedited the need for a shoulder 
+replacement. (JE12, p. 205)  He further opined that it was reasonable to require 
+claimant to discontinue smoking for two weeks prior to surgery.  He relayed that it would 
+be reasonable to proceed with further care at UIHC, but he would be of assistance if 
+needed. (Id.) 
+Following an MR Arthrogram, Dr. Munns assessed claimant with right shoulder 
+glenohumeral joint osteoarthritis and rotator cuff tendinopathy with partial tearing of the 
+supraspinatus and subscapularis with supraspinatus atrophy. (JE12, p. 210) 
+Dr. Munns performed a right reverse total shoulder arthroplasty and right biceps 
+tenodesis on June 15, 2023. (JE11, pp. 198-201)  He has not returned to work for the 
+defendant employer since undergoing surgery. (Hr. Tr., pp. 18-19)  He testified the 
+defendant employer has not contacted him regarding a return to work. (Hr. Tr., p. 23) 
+On August 18, 2023, claimant was reportedly doing well with very minimal to no 
+pain. (JE12, p. 213)  Dr. Munns allowed claimant to return to light duty work on 
+September 5, 2023. (JE12, p. 215) 
+After reviewing claimant’s medical records, as well as the IME report of Dr. 
+Aviles, Dr. Munns opined that the January 28, 2021, work injury likely exacerbated 
+
+HOPPE V. KRAFT HEINZ COMPANY 
+Page 6 
+ 
+claimant’s osteoarthritis in his right shoulder and that the work injury was a substantial 
+contributing factor for him requiring a reverse total shoulder arthroplasty. (JE12, pp. 
+222-223)  He explained, 
+While his fall did not contribute to his underlying osteoarthritis, I do believe 
+it exacerbated the arthritis and led to a decreased functionality of the 
+shoulder, which failed nonsurgical treatment, and ultimately required a 
+shoulder replacement.  While the fall was not the only factor contributing 
+to his shoulder pain, it does appear to have been a contributing factor. 
+(JE12, p. 223)  Dr. Munns further opined that the care he provided was reasonable and 
+beneficial to treat claimant’s work injury. (Id.)  Dr. Munns placed claimant at MMI and 
+released him to return to work without restrictions following his March 1, 2024, 
+appointment. (JE12, pp. 227, 228) 
+Defendants deposed claimant on January 24, 2024. (Exhibit 19)  Claimant was 
+disappointed with the lack of improvement he experienced with the reverse total 
+shoulder replacement. (Ex. 19, Depo. pp. 24-25)  More specifically, claimant testified he 
+was hoping the surgery would improve his reach, but it did not.  Nevertheless, he 
+testified he was happy that the constant pain was gone. (Ex. 19, Depo. p. 24)  He was 
+no longer taking any medications – including over-the-counter pain medications – for his 
+right shoulder. (Ex. 19, Depo. p. 25)  Claimant believed he could return to work as a 
+lead with a 30-pound lifting restriction, if the defendant employer allowed him to use 
+discretion like he did following his May 19, 2021, surgery. (Ex. 19, Depo. p. 31) 
+The main issue to be decided is whether the stipulated January 28, 2021, work 
+injury permanently aggravated, accelerated, worsened, or lit up claimant’s right shoulder 
+osteoarthritis, requiring him to undergo a reverse total shoulder replacement.   
+In response to the opinions of Dr. Bollier and Dr. Aviles, claimant sought an 
+independent medical evaluation with Sunil Bansal, M.D., which he agreed to perform on 
+April 5, 2024. (Exhibit 10)  Claimant reported ongoing right shoulder pain and limited 
+range of motion. (Ex. 10, p. 45)  He relayed that he can lift a gallon of milk from the top 
+shelf of his refrigerator, but it is painful. (Id.)  He further reported he can lift 15 to 20 
+pounds from the floor to table height, but he feels a strain when doing so. (Id.)  Dr. 
+Bansal opined claimant’s right shoulder condition and need for the reverse total 
+shoulder replacement can be causally linked to the January 28, 2021, work injury.  He 
+also opined the mechanism of injury is consistent with the potential for significant acute 
+trauma and subsequent pathology. (Ex. 10, p. 48)  He explained the persistent pain and 
+dysfunction despite initial conservative measures and arthroscopic surgery support the 
+conclusion that the work injury caused a permanent aggravation and worsening of the 
+pre-existing degenerative condition. (Id.)  From a pathophysiological perspective, Dr. 
+Bansal explained the acute trauma likely caused direct articular cartilage damage and 
+inflammation, accelerating the progression of osteoarthritis. (Id.)  Dr. Bansal agreed with 
+Dr. Munns that claimant reached MMI on March 1, 2024. (Ex. 10, p. 50)   
+Utilizing the AMA Guides to the Evaluation of Permanent Impairment, Fifth 
+Edition, Dr. Bansal assigned 7 percent upper extremity impairment for loss of range of 
+motion, and 24 percent upper extremity impairment for the reverse total shoulder 
+
+HOPPE V. KRAFT HEINZ COMPANY 
+Page 7 
+ 
+replacement. (Ex. 10, p. 51)  Dr. Bansal assigned a combined impairment rating of 29 
+percent upper extremity impairment, or 24 percent whole person impairment. (Id.) 
+After reviewing all of the evidence in the record and comparing the competing 
+expert reports, I find the causation opinions of Dr. Munns and Dr. Bansal to be more 
+convincing than the opinions of Dr. Bollier and Dr. Aviles.  Dr. Bollier’s credibility in this 
+case is diminished by the abrupt change in his causation opinion.  I did not find his 
+explanation for the change in his opinion overly convincing.  In addition, both Dr. Bollier 
+and Dr. Aviles failed to adequately address the possibility of a permanent and material 
+aggravation of claimant’s pre-existing degenerative arthritis.  As such, I find the January 
+28, 2021, work injury and subsequent treatment permanently aggravated and/or 
+accelerated claimant’s underlying degenerative condition which ultimately required the 
+total shoulder replacement.  I similarly accept the 29 percent right upper extremity 
+impairment rating assigned to claimant by Dr. Bansal. 
+With respect to permanent restrictions, Hoppe presented for a functional capacity 
+evaluation with Daryl Short, DPT, on March 11, 2024. (Exhibit 4)  During testing, 
+claimant exhibited significant limitations lifting 35 pounds waist to/from floor, and lifting 
+15 pounds waist to/from crown. (Ex. 4, p. 18)  Due to his decreased functional strength 
+and endurance of his right shoulder, Mr. Short opined that claimant’s capabilities were 
+in the lower medium category of physical demand. (Ex. 4, p. 19)  Mr. Short noted that 
+claimant could lift up to 25 pounds on an occasional basis at waist level. (Id.)  He 
+recommended claimant limit elevated work and/or reaching to chest height and higher 
+to an occasional basis. (Id.) 
+Benjamin Pohl, PA-C, claimant’s primary care provider, endorsed the 
+recommendations of Mr. Short on March 20, 2024. (Ex. 6, p. 24)  Dr. Bansal also 
+endorsed the recommendations outlined in the March 11, 2024, FCE report. (Ex. 10, p. 
+50)  Claimant did not review his functional capacity evaluation with Dr. Munns. (Hr. Tr., 
+p. 25) 
+Curtis Witt, PT, performed a functional capacity evaluation of claimant on July 11, 
+2024. (JE13, p. 230)  According to Mr. Witt, the test results are a valid representation of 
+claimant’s functional abilities due to claimant demonstrating consistent effort throughout 
+the evaluation. (Id.)  Claimant demonstrated capabilities and functional tolerances to 
+function within “at least” the medium physical demand level. (Id.)  Claimant met 100 
+percent of the reported job demands required to function as a “Lead Line 1-3.” (Id.) 
+Although it is likely Hoppe requires some form of permanent work restrictions, I 
+decline the opportunity to adopt any specific recommendations.  This conclusion is 
+based on the fact Dr. Munns released claimant to return to work without restrictions, the 
+fact claimant did not review his FCE report(s) with Dr. Munns to obtain an updated 
+opinion, and the conflicting findings between the March 11, 2024, and July 11, 2024, 
+FCE reports.   
+Hoppe asserts his work injury extends beyond the right shoulder into the body as 
+a whole.  Specifically, claimant argues a right reverse total shoulder replacement 
+involves permanent disability to anatomical structures beyond those announced in 
+Chavez v. MS Technology, L.L.C., 972 N.W.2d 662 (Iowa 2022). 
+
+HOPPE V. KRAFT HEINZ COMPANY 
+Page 8 
+ 
+In his IME report, Dr. Bansal opined the total shoulder replacement permanently 
+affected anatomical structures beyond the immediate confines of the shoulder joint. (Ex. 
+1, pp. 49-50)  He opined the total shoulder replacement procedure significantly alters 
+the scapula, which is a key anatomical structure that influences function beyond just the 
+shoulder. (Id.) 
+Dr. Bollier opined the right shoulder injury is an isolated extremity injury.  He 
+explained, “Although Dr. Munn[s] placed a central peg into the glenoid (which connects 
+to the scapula) during right reverse total shoulder arthroplasty, this does not constitute a 
+whole body injury.  This is [a] routine part of every shoulder arthroplasty procedure and 
+is confined to the shoulder joint itself.” (Ex. D, p. 19)  He further opined the work injury 
+did not impact or impair any muscles of the neck or back. (Ex. D, p. 20)   
+While I find the injury did not result in permanent disability to the body as a 
+whole, the discussion regarding the same requires legal analysis.  As such, this 
+discussion, as well as any discussion relating to claimant’s request for reimbursement of 
+his independent medical examination under Iowa Code section 85.39,  will occur in the 
+Conclusions of Law section. 
+Lastly, claimant is seeking reimbursement of the medical expenses contained in 
+Claimant’s Exhibit 14.  Having found in claimant’s favor with respect to causation, I 
+similarly find claimant is entitled to reimbursement of the causally related medical 
+expenses contained in Claimant’s Exhibit 14.   
+Similarly, claimant is requesting payment for hyperbaric treatment sessions he 
+received following the recommendation of his sister.  He is also requesting that the 
+undersigned order defendants to authorize ongoing hyperbaric treatments.  Claimant 
+received hyperbaric therapy on 17 occasions with David Hartsuch, M.D. (Ex. 8, p. 27)  
+Dr. Hartsuch was asked to provide opinions in relation to hyperbaric treatments.  Dr. 
+Hartsuch opined that claimant would benefit from additional hyperbaric therapy and 
+recommended claimant resume treatments once per week for 15 weeks. (Ex. 8, p. 28)  
+He further opined that the charges per session are customary and reasonable. (Id.)   
+Dr. Bollier produced his final opinion on April 9, 2024. (Exhibit D)  He disagreed 
+the need for hyperbaric oxygen treatment is related to the right shoulder work injury, 
+opining, “There is no definitive evidence in the orthopaedic shoulder research that 
+hyperbaric oxygen treatment significantly improves right shoulder pain, especially after 
+having a right shoulder replacement.” (Ex. D, p. 18)   
+CONCLUSIONS OF LAW 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148, 153 
+(Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154, 156 (Iowa Ct. App. 
+1997); Sanchez v. Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 1996). 
+
+HOPPE V. KRAFT HEINZ COMPANY 
+Page 9 
+ 
+The question of causal connection is essentially within the domain of expert 
+testimony. The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability. 
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question. The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances. The 
+expert opinion may be accepted or rejected, in whole or in part. St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646, 652 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410, 420  
+(Iowa 2001); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845, 853 (Iowa 
+1995); Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 421 (Iowa 1994). 
+While a claimant is not entitled to compensation for the results of a preexisting 
+injury or disease, its mere existence at the time of a subsequent injury is not a defense. 
+Rose v. John Deere Ottumwa Works, 247 Iowa 900, 76 N.W.2d 756, 760-61 (1956). If 
+the claimant had a preexisting condition or disability that is materially aggravated, 
+accelerated, worsened or lighted-up so that it results in disability, claimant is entitled to 
+recover. Nicks v. Davenport Produce Co., 254 Iowa 130, 115 N.W.2d 812, 815 (1962); 
+Yeager v. Firestone Tire & Rubber Co., 253 Iowa 369, 112 N.W.2d 299, 302 (1961). 
+It is well-established in workers' compensation that “if a claimant had a 
+preexisting condition or disability, aggravated, accelerated, worsened, or “lighted up' by 
+an injury which arose out of and in the course of employment resulting in a disability 
+found to exist,” the claimant is entitled to compensation. Iowa Dep't of Transp. v. Van 
+Cannon, 459 N.W.2d 900, 904 (Iowa 1990). 
+Claimant’s pre-existing arthritis was not causing him problems prior to the 
+January 28, 2021, work injury.  Claimant sustained an acute injury on January 28, 2021, 
+which caused pain in the right shoulder and resulted in arthroscopic surgery.  His pain 
+did not resolve after the injury or arthroscopic surgery and, ultimately, he underwent a 
+total shoulder replacement.  In this case, I found the medical opinions of Dr. Bansal and 
+Dr. Munns to be the most convincing and credible evidence in the record as to 
+causation for the right total shoulder replacement.  As such, I find that the work injury 
+materially and substantially aggravated claimant's preexisting condition to the point 
+where he required a right total shoulder replacement. 
+With respect to permanent disability, I found Dr. Bansal’s impairment ratings to 
+be reasonable and reliable.  Under Iowa Code section 85.34(2)(n), compensation for the 
+loss of a shoulder is based on a percentage of 400 weeks of benefits.  Permanent 
+partial disability benefits for 29 percent right upper extremity impairment is equal to 116 
+weeks of benefits.   
+Compensation for permanent disability shall begin when it is medically indicated 
+that MMI from the injury has been achieved and the extent of loss or percentage of 
+permanent impairment can be determined by using the Guides. Iowa Code section 
+85.34(2). Based on the opinions of Dr. Munns and Dr. Bansal, I conclude the 
+appropriate date for commencement of permanent partial disability benefits is March 2, 
+2024. 
+
+HOPPE V. KRAFT HEINZ COMPANY 
+Page 10 
+ 
+Claimant asserts the reverse total shoulder replacement affects structures 
+outside of the glenohumeral joint and shoulder area. Specifically, claimant asserts the 
+right total shoulder replacement involves anatomic structures outside of, and beyond, 
+those considered in Chavez v. MS Technology, L.L.C., 972 N.W.2d 662 (Iowa 2022). 
+Therefore, claimant asserts his injury should convert from a right shoulder injury 
+compensated as a scheduled member injury into a body as a whole, unscheduled injury 
+compensated with industrial disability benefits pursuant to Iowa Code section 
+85.34(2)(v). 
+In 2017 the Iowa Legislature amended Iowa Code section 85.34. Before the 2017 
+changes, shoulder injuries were considered proximal to the arm and compensated as a 
+body as a whole injury, under Iowa Code section 85.34(2)(u). Prior to the 2017 
+changes, a shoulder injury was compensated as an unscheduled injury, and based on 
+industrial disability. See Alm v. Morris Barick Cattle Co., 240 Iowa 1174, 38 N.W.2d 161 
+(1949). Through the 2017 legislative changes, the legislature added the shoulder to the 
+list of scheduled members. Iowa Code section 85.34(2)(n) states: “[f]or the loss of a 
+shoulder, weekly compensation during four hundred weeks.” Iowa Code section 
+85.34(2)(n). This amendment went into effect on July 1, 2018. The legislature did not 
+define the term “shoulder.” 
+The Iowa Supreme Court in Chavez v. MS Tech. LLC, 972 N.W.2d 662 (Iowa 
+2022), and Deng v. Farmland Foods, Inc., 972 N.W.2d 727 (Iowa 2022), affirmed that 
+the shoulder was construed in a functional sense to include the glenohumeral joint as 
+well as all of the muscles, tendons, and ligaments that were essential for the shoulder to 
+function. The Iowa Supreme Court acknowledged that the rotator cuff tendons that were 
+injured and repaired in those cases attach proximally to the glenohumeral joint. 
+However, the fact that those tendons attached proximally to the joint was not the 
+controlling factor in determining if an injury is considered a “shoulder” injury.  Instead, 
+the Iowa Supreme Court fashioned a “functionality” test to determine whether an injury 
+is confined to the shoulder or extends beyond the shoulder. The Court held that 
+“Defining ‘shoulder’ in the functional sense under section 85.34(2)(n) best achieves the 
+statute's purpose.” Id. at 669. 
+In Ojeda v. Sivyer Holdings, File Nos. 20008020.01 and 21005432.01 (App. July 
+8, 2024), this agency addressed Hoppe’s argument and found a total shoulder 
+arthroplasty is to be compensated as a scheduled member under Iowa Code section 
+85.34(2)(n).  I find no reason to change the outcome for a reverse total shoulder 
+arthroplasty as both procedures involve surgical alteration of the glenoid. 
+In the present case, claimant failed to demonstrate by a preponderance of the 
+evidence that his January 28, 2021, injury extends beyond the right shoulder into the 
+body as a whole.  Considering and applying the Iowa Supreme Court's analysis and 
+functionality test, I find that the mere fact that a total shoulder replacement affects 
+structures outside of the glenohumeral joint is not controlling in defining whether the 
+injury is a shoulder injury. 
+Claimant asserts he is an odd-lot employee.  The agency previously held that an 
+odd-lot claim is only applicable in unscheduled, industrial disability claims. Cook v. 
+
+HOPPE V. KRAFT HEINZ COMPANY 
+Page 11 
+ 
+Newton Correctional Facility, File No. 5064180 (App. September 11, 2020). In fact, 
+when the Iowa Supreme Court adopted the odd-lot doctrine, it did so because the 
+“doctrine is implicit in the industrial disability standard.” Guyton v. Irving Jensen Co., 373 
+N.W.2d 101, 105 (Iowa 1985). Having determined that this claim involves only a 
+scheduled member, right shoulder injury, claimant's odd-lot claim fails as a matter of 
+law.  Pursuant to his testimony at the evidentiary hearing, I further find that claimant 
+could return to gainful employment. 
+In the Hearing Report, the parties dispute whether apportionment under Iowa 
+Code section 85.34(7) is applicable.  Defendants do not address the issue in their post-
+hearing brief.   
+Claimant sustained a prior work injury in 2018 to his right bicep.  The defendants 
+paid out a 10 percent right upper extremity impairment rating. (Ex. L)  Claimant asserts 
+the 2018 work injury affected only his right bicep and his impairment was paid out as an 
+injury to the right arm pursuant to Iowa Code section 85.34(2)(m).  The instant case 
+involves a shoulder injury under Iowa Code section 85.34(2)(n).  Dr. Bansal’s 
+impairment rating does not hold defendants liable for the pre-existing disability 
+stemming from the 2018 injury, but only holds defendants liable for new permanent 
+partial disability for the January 28, 2021, work injury.  I find defendants are not entitled 
+to apportionment for the 2018 right arm injury. 
+Claimant is seeking healing period benefits from June 15, 2023, through March 
+1, 2024.   
+Healing period compensation describes temporary workers' compensation 
+weekly benefits that precede an allowance of permanent partial disability benefits. 
+Ellingson v. Fleetguard, Inc., 599 N.W.2d 440 (Iowa 1999). Section 85.34(1) provides 
+that healing period benefits are payable to an injured worker who has suffered 
+permanent partial disability until the first to occur of three events. These are: (1) the 
+worker has returned to work; (2) the worker medically is capable of returning to 
+substantially similar employment; or (3) the worker has achieved maximum medical 
+recovery. Maximum medical recovery is achieved when healing is complete and the 
+extent of permanent disability can be determined. Armstrong Tire & Rubber Co. v. Kubli, 
+(Iowa Ct. App.) 312 N.W.2d 60 (1981). Neither maintenance medical care nor an 
+employee's continuing to have pain or other symptoms necessarily prolongs the healing 
+period. 
+The parties stipulate that claimant was off work during this period of time.  
+Claimant underwent a right total shoulder replacement procedure on June 15, 2023.  I 
+found the need for this procedure was causally related to the January 28, 2021, work 
+injury.  Dr. Munns and Dr. Bansal opined that claimant reached MMI on or about March 
+1, 2024.  Claimant has carried his burden of proving his entitlement to healing period 
+benefits from June 15, 2023, through March 1, 2024. 
+The parties stipulated that defendants are entitled to a credit under Iowa Code 
+section 85.38(2) for short-term disability benefits paid between June 15, 2023, and 
+December 22, 2023. (Hearing Report) 
+
+HOPPE V. KRAFT HEINZ COMPANY 
+Page 12 
+ 
+Claimant also seeks an award of past medical expenses related to treatment he 
+obtained for the January 28, 2021, work injury.   
+The employer shall furnish reasonable surgical, medical, dental, osteopathic, 
+chiropractic, podiatric, physical rehabilitation, nursing, ambulance, and hospital services 
+and supplies for all conditions compensable under the workers' compensation law. The 
+employer shall also allow reasonable and necessary transportation expenses incurred 
+for those services. The employer has the right to choose the provider of care, except 
+where the employer has denied liability for the injury. Section 85.27. Holbert v. 
+Townsend Engineering Co., Thirty-second Biennial Report of the Industrial 
+Commissioner 78 (Review-Reopening October 1975). 
+The claimed medical expenses in Exhibit 14 appear to be for medical services 
+provided to claimant by ORA Orthopedics. Defendants denied liability and declined to 
+authorize medical care as of March 7, 2023.  Having found the January 28, 2021, work 
+injury and subsequent medical treatment materially aggravated claimant’s arthritis and 
+accelerated the need for a total shoulder replacement, and that the medical expenses 
+for treatment of the same were reasonable and necessary, I conclude that claimant has 
+proven entitlement to satisfaction of his medical expenses contained in Exhibit 14. 
+Next, claimant seeks an order for alternate medical care.  First, he seeks ongoing 
+treatment of his right shoulder with Dr. Munns. 
+By challenging the employer's choice of treatment - and seeking alternate care - 
+claimant assumes the burden of proving the authorized care is unreasonable. See Long 
+v. Roberts Dairy Co., 528 N.W.2d 122, 123 (Iowa 1995). Determining what care is 
+reasonable under the statute is a question of fact. Id. The employer's obligation turns on 
+the question of reasonable necessity, not desirability. Id.; Harned v. Farmland Foods. 
+Inc., 331 N.W.2d 98, 101 (Iowa 1983). 
+An employer's statutory right is to select the providers of care and the employer 
+may consider cost and other pertinent factors when exercising its choice. Long, at 124. 
+An employer (typically) is not a licensed health care provider and does not possess 
+medical expertise. Accordingly, an employer does not have the right to control the 
+methods the providers choose to evaluate, diagnose and treat the injured employee. An 
+employer is not entitled to control a licensed health care provider's exercise of 
+professional judgment. Assman v. Blue Star Foods, File No. 866389 (Declaratory 
+Ruling, May 19, 1988). 
+In this instance, defendants disputed liability for claimant’s ongoing right shoulder 
+symptoms and need for the total right shoulder replacement.  “The statute contemplates 
+that an injured employee may select his or her own medical care when the employer 
+abandons the injured employee through the denial of compensability of the injury.” Bell 
+Bros. Heating & Air Conditioning v. Gwinn, 779 N.W.2d 193, 204 (Iowa 2010).  Given 
+defendants’ denial of liability for the ongoing right shoulder symptoms and shoulder 
+replacement recommendations, I conclude that the defendants have no right to assert 
+the authorization defense or challenge claimant’s assertion of a claim for alternate 
+medical care.   
+
+HOPPE V. KRAFT HEINZ COMPANY 
+Page 13 
+ 
+Claimant’s request for alternate medical care is reasonable.  Having found 
+claimant’s ongoing symptoms and treatment are causally related to the January 28, 
+2021, work injury, I conclude that claimant’s request for alternate medical care is 
+reasonable.  Defendants will be ordered to provide ongoing evaluation and treatment for 
+the right shoulder with Dr. Munns.   
+Second, claimant requests that the undersigned order defendants to authorize 
+the additional hyperbaric therapy treatments recommended by Dr. Hartsuch.  Outside of 
+claimant’s testimony, there is little evidence that the hyperbaric therapy treatments have 
+been reasonable and necessary.  Along the same lines, there is little evidence in the 
+record to establish that the treatments have objectively improved claimant’s condition.   
+Luxury-type items and treatments are viewed with skepticism, particularly when 
+the treatment was first the idea of the patient. See Stephenson v. Furnas Electric Co., 
+522 N.W.2d 828 (Iowa 1994). The only physicians to explore the necessity of the 
+hyperbaric treatment are Dr. Hartsuch and Dr. Bollier. 
+The fact that claimant has reportedly received relief due to the hyperbaric 
+treatments is fortunate to both the claimant personally, and likely to the defendants as 
+well.  However, as discussed by Dr. Bollier, there is no definitive evidence in the 
+orthopedic shoulder research literature that hyperbaric treatment significantly improves 
+shoulder pain.  In addition, although Dr. Hartsuch is now recommending ongoing 
+hyperbaric treatment, claimant first sought out the hyperbaric treatment on his own.  
+Without a recommendation for hyperbaric therapy treatments from one of claimant’s 
+treating physicians, I decline the opportunity to order this additional care. 
+Claimant next asserts he is entitled to reimbursement of his independent medical 
+evaluation.  Iowa Code section 85.39 permits an employee to be reimbursed for 
+subsequent examination by a physician of the employee's choice where an employer-
+retained physician has previously evaluated “permanent disability” and the employee 
+believes that the initial evaluation is too low. 
+Dr. Bollier, an authorized treating physician, rendered an impairment assessment 
+on September 10, 2021. (JE10, p. 170)  Dr. Patterson, another authorized treating 
+physician, rendered an impairment assessment on October 19, 2022. (JE10, p. 193)  
+Dr. Bansal examined claimant on April 5, 2024, well after the assessments of Dr. Bollier 
+and Dr. Patterson. (Ex. 10, p. 31)  I conclude the prerequisites of Iowa Code section 
+85.39 were met and defendants shall reimburse claimant for the reasonable costs of Dr. 
+Bansal’s IME in the amount of $4,471.00. 
+The final issue for determination is a specific taxation of costs pursuant to Iowa 
+Code section 10A.325 and rule 876 IAC 4.33. Claimant requests taxation of the cost of 
+the filing fee ($100.00) and service fee ($13.80).  He also requests taxation of the cost 
+of Dr. Munns’ report ($1,325.00) and the costs associated with the deposition transcript 
+($76.00). 
+The cost of the filing fee ($100.00) is appropriate and assessed pursuant to 876 
+IAC 4.33(7).  The cost of the service fee ($13.80) is appropriate and assessed pursuant 
+to 876 IAC 4.33(3).  The cost of Dr. Munns’ report ($1,325.00) is appropriate and 
+
+HOPPE V. KRAFT HEINZ COMPANY 
+Page 14 
+ 
+assessed pursuant to 876 IAC 4.33(6).  The cost of the deposition transcript ($76.00) is 
+a reasonable cost and assessed pursuant to 876 IAC 4.33(2). 
+ 
+ORDER 
+THEREFORE IT IS ORDERED: 
+Defendants shall pay to claimant one hundred sixteen (116) weeks of permanent 
+partial disability benefits at the rate of one thousand twenty-five and 38/100 dollars 
+($1,025.38) per week commencing on March 2, 2024. 
+Defendants shall pay interest on any accrued weekly benefits pursuant to Iowa 
+Code section 85.30 and shall be entitled to credit for all permanent partial disability 
+benefits paid to date. 
+Defendants shall reimburse claimant's independent medical evaluation totaling 
+four thousand four hundred seventy-one and 00/100 dollars ($4,471.00) pursuant to the 
+parties' stipulation on the hearing report. 
+Defendants shall reimburse claimant, reimburse any third-party payer, pay 
+directly to medical providers, or otherwise satisfy all of claimant's past medical 
+expenses as contained in Exhibit 14. 
+Defendants shall authorize and pay for all reasonable, necessary and causally 
+related medical treatment for claimant's right shoulder through and at the direction of 
+Justin Munns, M.D. 
+Defendants shall reimburse claimant's costs totaling one thousand five hundred 
+fourteen and 80/100 dollars ($1,514.80). 
+Defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1(2) and 876 IAC 11.7. 
+Signed and filed this ___28TH __ day of February, 2025. 
+ 
+ 
+ 
+                MICHAEL J. LUNN 
+ 
+ 
+ 
+ 
+ 
+ 
+                          DEPUTY WORKERS’ 
+ 
+ 
+ 
+ 
+ 
+             COMPENSATION COMMISSIONER 
+ 
+The parties have been served as follows: 
+Andrew Bribriesco (via WCES) 
+Peter Thill (via WCES) 
+
+HOPPE V. KRAFT HEINZ COMPANY 
+Page 15 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Division of Workers’ Compensation to file documents in paper form. If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa 
+Division of Workers’ Compensation, 6200 Park Ave., Des Moines, Iowa 50321. The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision. The appeal period 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+  
+ 
+ 
+ 
+  

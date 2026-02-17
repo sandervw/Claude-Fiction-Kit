@@ -1,0 +1,644 @@
+Case Number: 23010315.01
+Case Title:  CORNWELL, BOBBY V. ADP TOTALSOURCE GROUP, INC.
+Doc Type:    Decision - Deputy
+Source:      Cornwell Bobby-23010315.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+BOBBY CORNWELL, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+    File No. 23010315.01 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                  
+ADP TOTALSOURCE GROUP, INC., 
+  : 
+           ARBITRATION DECISION 
+ 
+ 
+  :                            
+ 
+Employer, 
+  : 
+ 
+ 
+ 
+  :                         
+and 
+ 
+  : 
+ 
+ 
+  : 
+NEW HAMPSHIRE INS. CO., 
+  : 
+ 
+ 
+  : 
+           Head Note Nos.: 1108, 1802 
+ 
+Insurance Carrier, 
+  : 
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+ 
+STATEMENT OF THE CASE 
+The claimant, Bobby Cornwell, filed a petition for arbitration and seeks workers’ 
+compensation benefits from ADP Totalsource Group, Inc., employer, and New 
+Hampshire Insurance Company, insurance carrier.  The claimant was represented by 
+James Ballard.  The defendants were represented by Aaron Oliver. 
+The matter came on for hearing on December 16, 2024, before deputy workers’ 
+compensation commissioner Joe Walsh in Des Moines, Iowa via Zoom.  The record in 
+the case consists of Joint Exhibits 1 through 12; Claimant’s Exhibits 1 through 11; and 
+Defense Exhibits A through P.   
+The claimant testified at hearing, in addition to Steve Deaton and Blake 
+Anderson.  Jane Weingart served as the court reporter.  The matter was fully submitted 
+on February 14, 2025. 
+ISSUES 
+The parties submitted the following issues for determination: 
+1. Whether the claimant sustained an injury which arose out of and in the course 
+of his employment on September 6, 2023.  Defendants contend that the 
+manifestation date of the alleged injury is also disputed. 
+2. Whether the alleged injury is a cause of any temporary disability during a 
+period of recovery. 
+ELECTRONICALLY FILED     2025-Aug-15  15:03:57     DIVISION OF WORKERS' COMPENSATION
+
+CORNWELL V. ADP TOTALSOURCE GROUP, INC. 
+Page 2 
+ 
+3. Whether the claimant is entitled to a running award of healing period benefits 
+from the date of injury through the date of hearing and continuing. 
+4. The defendants have asserted the affirmative defense of notice under Section 
+85.23 depending “on the date of injury chosen if found compensable.” 
+5. Whether the claimant is entitled to medical expenses set forth in Claimant’s 
+Exhibit 10. 
+6. Whether the claimant is entitled to IME expense under Section 85.39. 
+7. Whether the claimant is entitled to future medical treatment or alternate 
+medical care. 
+STIPULATIONS 
+Through the hearing report, the parties stipulated to the following: 
+1. The parties had an employer-employee relationship at least as of September 
+6, 2023. 
+2. The weekly rate of compensation is $525.20. 
+3. Defendants have paid and are entitled to a credit for group disability benefits 
+paid. 
+4. Affirmative defenses, other than notice, have been waived. 
+FINDINGS OF FACT 
+Claimant Bobby Cornwell was 49 years old as of the date of hearing.  He was 
+born and raised in Tennessee.  He graduated from high school in 1994 and worked a 
+variety of manual labor positions (construction and assembly) between 1994 and 2019.    
+(Defendants’ Exhibit A)  He and his family moved to Iowa in 2021.  He began working 
+for Library Binding Service (hereafter, LBS) on January 10, 2022.1 
+Mr. Cornwell testified live and under oath at the video hearing.  I find his 
+testimony to be generally credible. 
+Mr. Cornwell started working for LBS on or about January 10, 2022.  He was 
+hired as a machine operator.  (Defendants’ Exhibits C and D)  This job required Mr. 
+Cornwell to move large rolls of paper to cut them into smaller sizes.  The rolls of paper 
+ranged in size up to 2,500 pounds.  He testified he would place these into the machine 
+and cut them into smaller sizes, weighing anywhere between 5 and 75 pounds.  Mr. 
+Cornwell testified credibly that the physical demands of the job varied depending upon 
+the order of the customer.  (Transcript, pages 17-20)  He has alleged that this job is a 
+                                                 
+1 Mr. Cornw ell technically became an employee of ADP in August 2022, as a result of a contractual partnership betw een ADP and 
+Library Binding Service. 
+
+CORNWELL V. ADP TOTALSOURCE GROUP, INC. 
+Page 3 
+ 
+cause of an injury to his low back which manifested on or about September 6, 2023.   
+Mr. Cornwell conceded in his testimony that he had some low back pain prior to 
+September 6, 2023.  This is reflected in the medical records in evidence as well.  The 
+first reference to any back pain was in February 2022.  While treating for a work-related 
+finger injury, he acknowledged back pain to his doctor.  (Joint Exhibit 2, page 7)  There 
+is no other description of this problem other than “Confirms: Back Pain, Muscle 
+Cramps/Aches, Stiffness.”  (Jt. Ex. 2, p. 7)  There was no treatment for this condition or 
+any further mention of it. 
+In January 2023, he treated with his primary care clinic where he reported 
+muscle pain in his right thigh, greater than one year.  He was provided a muscle relaxer.  
+(Jt. Ex. 3, pp. 10-12)  He followed up with his primary care clinic in February and May 
+2023, continuing his complaint of right thigh pain.  (Jt. Ex. 3, pp. 13-19)  There is no real 
+discussion of the cause of this condition in these records.  Mr. Cornwell acknowledged 
+these appointments in his sworn testimony.  He generally testified that he did not 
+associate his symptoms with a low back problem or his work activities.  (Tr., pp. 22-26)  
+In May 2023, though, he was referred to an orthopedic specialist.  (Jt. Ex. 3, pp. 18-19)  
+Ian Lin, M.D., evaluated Mr. Cornwell on June 19, 2023.   
+Bobby Cornwell is a 48 year-old male who presents complaining of right 
+leg pain.  He has 2 different distributions of pain going on.  He has one 
+pain that starts in his buttock, goes down the posterior leg past the knee 
+into the calf with tingling and sort of burning sensations.  The other thing 
+he has going on is numbness and tingling in the anterolateral thigh.  He 
+gets tingling sensations in this distribution.  He is status-post right knee 
+arthroscopy.  He wears a belt.  He kind of has a right belt at the level of his 
+waist to keep his pants up.  They seem to be separate issues for him.  He 
+has tried anti-inflammatories in the past with no relief.   
+(Jt. Ex. 5, p. 32, emphasis added)  Dr. Lin performed x-rays and examined Mr. 
+Cornwell.  He diagnosed Meralgia paresthetica, which he attributed to bending and the 
+use of a tight belt.  He also diagnosed degenerative disc disease of the lumbar spine 
+with mild radiculopathy.  “He says it is a busy time for work and everything right now.  
+There is not much he can do in the meantime.  We will send diclofenac to the pharmacy 
+for him, …. Hopefully this helps with the radicular pain he is having.  If it gets worse he 
+will call us, and we can always order an MRI scan of his lumbar spine down the road.”  
+(Jt. Ex. 5, p. 33)  There was no discussion of the genesis of his low back condition.  
+Again, Mr. Cornwell acknowledged this evaluation.  He testified that Dr. Lin told him he 
+was wearing his belt too tight which was pinching a nerve in his back and recommended 
+suspenders.  (Tr., p. 28)  He testified he followed this advice and his symptoms did 
+improve some.  (Tr., p. 30)  He never returned to DMOS before his alleged injury. 
+On August 7, 2023, Mr. Cornwell returned to his family clinic and was instructed 
+that he would need an MRI eventually.  The working diagnosis was muscle spasm, 
+degenerative disc disease and mild radiculopathy.  (Jt. Ex. 3, pp. 21-22)  During this 
+entire time, Mr. Cornwell continued to perform all of his regular duties at LBS without 
+any accommodations or medical restrictions. 
+
+CORNWELL V. ADP TOTALSOURCE GROUP, INC. 
+Page 4 
+ 
+Mr. Cornwell testified that during the last week of August 2023, he was assigned 
+to work a Berryville job.  There was a great deal of testimony and evidence presented at 
+hearing regarding the “Berryville” jobs.  This reference is simply to a particular customer 
+whose order required harder, more physical labor.  The Berryville job required Mr. 
+Cornwell to stack five finished rolls of paper weighing 50 to 75 pounds on a pallet, and 
+then add a second layer of five additional rolls on top of the first layer.  (Tr., pp. 20-22)  
+He testified credibly that this work was significantly more physical than his regular job 
+duties.   
+Testimony from the employer’s witness confirms that Mr. Cornwell was assigned 
+a Berryville job during the last week of August 2023.  (Tr., pp. 93-99)  Mr. Cornwell 
+testified credibly that he usually had help for his work, but during this week he did not.  
+(Tr., p. 33)  He testified the work was very hard and by the end of the week he was quite 
+sore.  In fact, he testified that his symptoms worsened.  The numbness and tingling 
+were replaced with pain which went into his buttock and down his right leg into his foot.  
+(Tr., p. 34)  Mr. Cornwell testified that by the end of the week he was having difficulty 
+performing his job duties and even walking.  (Tr., p. 35)  Mr. Cornwell testified that he 
+did not report this as a work injury.  He simply thought he had some muscle spasms due 
+to overuse and did not view this as a “work injury.”  (Tr., p. 35) 
+The credible evidence in the record demonstrates that Mr. Cornwell was 
+performing this heavier “Berryville job” by himself from approximately August 23, 2023, 
+through the following week, September 1, 2023.  From September 2 through September 
+4, 2023, Mr. Cornwell was off work for Labor Day weekend.  He testified that he took it 
+easy on Saturday, September 2, 2023.  He further testified that his symptoms started 
+increasing on Sunday September 3, 2023, for no apparent reason.  Then on Monday 
+September 4, 2023, he and his wife attempted to paint the living room.  (Tr., p. 37)  He 
+testified that after attempting to go up and down the step stool 2 or 3 times, he could not 
+stand the pain any longer and had to stop.  (Tr., pp. 37-38)  He then testified that he 
+tried to go back to work on September 5, 2023, to complete the Berryville job.  After 
+working a full day on September 5, 2023, he was unable to do “much of anything.”  (Tr., 
+p. 39)  On September 6, 2023, he reported for work and began working but was unable 
+to complete his shift.  Once his doctor’s office opened, he called and made an 
+appointment.  He told his supervisor, Blake Anderson, that he was having leg problems 
+and needed the day off to see his doctor.  This was Mr. Cornwell’s first day of lost work. 
+On September 6, 2023, Mr. Cornwell was evaluated at his primary care clinic. 
+Bobby is here for evaluation of right leg pain.  He follows with DMOS for 
+right leg pain, last visit 6/19/23, diagnosed with meralgia paraesthetica 
+and was encouraged to wear his belt a little bit looser, otherwise not much 
+to do.  He was also diagnosed with degenerative disc disease lumbar 
+spine with mild radiculopathy.  He was given diclofenac but did not want to 
+do an MRI.  Wondering if massage or chiropractor would help his 
+symptoms. 
+He reports right leg muscle spasms started Sunday, Monday was worse 
+after painting and climbing up and down latter [sic].  … 
+
+CORNWELL V. ADP TOTALSOURCE GROUP, INC. 
+Page 5 
+ 
+(Jt. Ex. 3, p. 25)  Interestingly, his primary clinic did note both diagnoses and observed 
+that he “continues to report right leg pain, more musculoskeletal today.”  (Jt. Ex. 3, p. 
+26)  She ordered a lumbar MRI, and advised follow up with DMOS. 
+On September 7, 2023, his pain worsened and he went to the emergency room 
+at Mercy Hospital.  His chief complaint was right leg pain and right numb foot.  (Jt. Ex. 6, 
+p. 34)  He denied any specific injury but noted the pain had been ongoing for about 
+three months.  The diagnosis was right sided sciatica.  He was given a Toradol injection 
+for the pain and released.  (Jt. Ex. 6, p. 37) 
+On September 9, 2023, he returned to a different emergency room at Methodist 
+Hospital.  He told the providers at Methodist that his pain started “around 8/19/23.”  (Jt. 
+Ex. 7, p. 40) 
+He reports he has pain from his right hip to his right knee and numbness 
+from his right knee to his right foot.  He states he has trouble ambulating 
+and sitting on the toilet due to his back pain.  … He reports he had an MRI 
+approved by his PCP on 9/6/23 that hasn’t been scheduled yet, he is to 
+see the pain management clinic on 9/12/32 [sic]. 
+(Jt. Ex. 7, p. 40)   
+On September 12, 2023, Mr. Cornwell was seen by Ryan Birkland, D.O., at 
+Central States Pain Clinic.  Dr. Birkland documented a history of leg pain for six months 
+estimating an onset date of “2/1/23”.  (Jt. Ex. 8, p. 50)  Dr. Birkland diagnosed “chronic 
+progressive low back and right leg pain.”  (Jt. Ex. 8, p. 51)  Dr. Birkland ordered an MRI 
+and told him to follow up thereafter.   
+By this point, Mr. Cornwell had been off work since September 6, 2023.  He 
+testified he contacted the human resources department at LBS to ask about short term 
+disability benefits.  (Tr., p. 47)  He testified he spoke with Lori Baldwin.  He testified as 
+follows: 
+Q.  And tell me about the conversation.  Why did you call her? 
+ 
+A.  To try to get short-term disability. 
+ 
+Q.  Did you believe your condition was due to your work at the time you 
+made the call? 
+ 
+A.  Yes. 
+ 
+Q.  Why did you ask for short-term disability if you believed it was due to 
+work? 
+ 
+A.  I didn’t want to lose my job. 
+ 
+Q.  Why did you think you’d lose your job if you reported a work injury? 
+ 
+
+CORNWELL V. ADP TOTALSOURCE GROUP, INC. 
+Page 6 
+ 
+A.  Because they was, they informed us that they were shutting down 
+some of the company, and that they were going to get rid of some 
+people. 
+ 
+Q.  So in your mind, you thought if you reported it as work injury you might 
+be a target for being let go? 
+ 
+A.  Yes. 
+ 
+Q.  Okay.  Whether you were or not, that’s what you thought? 
+A.  Yes. 
+Q.  All right.  So tell us, tell more about the conversation you had with Ms. 
+Baldwin.  What was discussed? 
+A.  So when I called, I asked for the short-term disability, and then she 
+asked me where I got injured at, and I told her at work.   
+Q.  Okay. 
+A.  And she told me I could not file for the short-term disability, it had to be 
+workmen’s comp [sic].   
+(Tr., pp. 47-49)  Mr. Cornwell then testified that after he told Ms. Baldwin it was work-
+connected, the employer turned the claim into the insurance carrier who began 
+processing it as such. 
+On September 19, 2023, Mr. Cornwell underwent an MRI.  (Jt. Ex. 10, p. 90)  
+The MRI demonstrated multi-level mild spondylosis, most pronounced at L5-S1.  Mr. 
+Cornwell then followed up with Dr. Birkland on September 28, 2023, who reviewed the 
+MRI and interpreted it to show a disc protrusion at L5-S1.  (Jt. Ex. 8, p. 56) 
+He had an MRI of his lumbar spine on 9/19 that revealed a disc protrusion 
+at L5-S1 that in combination with bilateral endplate osteophytes, is 
+contributing to bilateral foraminal narrowing and mass effect on the 
+bilateral exiting L5 nerve roots (R>L). 
+(Jt. Ex. 8, p. 56)  The diagnosis at this visit was radiculopathy due to lumbar 
+intervertebral disc disorder.  Dr. Birkland recommended an epidural steroid injection 
+(ESI) which was performed on October 27, 2023.  On October 12, 2023, counsel for the 
+employer formally denied the workers’ compensation claim, providing a detailed 
+explanation for the denial.  Primarily, the denial discussed the fact that Mr. Cornwell had 
+not mentioned his work activities to any of his medical providers seen to date.  (Def. Ex. 
+L, p. 36)  On October 31, 2023, LBS laid off Mr. Cornwell and had him sign a Separation 
+Agreement and General Release in order to receive $1,471.20.  (Def. Ex. E, p. 5) 
+With his workers’ compensation claim denied and having been laid off, Mr. 
+Cornwell continued to seek treatment with Dr. Birkland as well as his primary clinic.  He 
+underwent another ESI in January 2024, which also produced no significant relief.  He 
+
+CORNWELL V. ADP TOTALSOURCE GROUP, INC. 
+Page 7 
+ 
+underwent some physical therapy.  After a third injection provided no relief, Dr. Birkland 
+recommended a surgical consultation.  Mr. Cornwell asked for referral to the University 
+of Iowa Hospitals and Clinics.  After undergoing additional diagnostic testing, Mr. 
+Cornwell was finally examined by Andrew Pugely, M.D. on July 9, 2024.  Dr. Pugely 
+opined that based upon Mr. Cornwell’s clinical symptoms and diagnostic testing, he 
+would benefit from an L5-S1 spinal fusion.  (Jt. Ex. 12, p. 116)  This surgery occurred on 
+September 10, 2024.  (Jt. Ex. 12, p. 116) 
+At the time of hearing, Mr. Cornwell was still off work recuperating from his spinal 
+fusion surgery.  After some delay, he had secured payments from the employer’s group 
+short-term disability plan.  The claimant has stipulated that the defendants are entitled 
+to a credit for these payments.  Mr. Cornwell, however, had not worked in any position 
+while he has been off work recuperating from his surgery. 
+Prior to hearing, both parties secured expert medical opinions from physicians.  
+The claimant secured expert opinions from Dr. Pugely, the treating surgeon, and John 
+Kuhnlein, D.O., a certified independent medical examiner in the Des Moines, area.  The 
+defendants secured an opinion from Joseph Chen, M.D. 
+Dr. Kuhnelin examined Mr. Cornwell on August 13, 2024.  He reviewed 
+appropriate records, medical and otherwise before thoroughly examining him.  Dr. 
+Kuhnlein diagnosed lumbar radiculopathy and opined the following on September 17, 
+2024:   
+With the lack of avocational risk factors and exposure to work related 
+lumbar risk factors, it is more likely than not that Mr. Cornwell’s workplace 
+exposures to lumbar stressors were substantial more than minor factors in 
+“lighting up” and making his previously asymptomatic lumbar degenerative 
+disc disease and disc osteophyte induced radiculopathy clinically 
+apparent. 
+(Cl. Ex. 1, p. 10)  Dr. Kuhnlein went on to provide opinions regarding impairment and 
+restrictions which are essentially irrelevant since Mr. Cornwell underwent surgery and 
+was in a period of recuperation at the time of hearing. 
+Dr. Pugely signed a check box opinion report written by claimant’s counsel on 
+counsel letterhead.  He agreed that claimant’s “work activities at ADP Totalsource 
+Group were a substantial contributing factor in materially aggravating and lighting up  
+his lumbar degenerative disc disease.”  He further agreed that the surgery he performed 
+on claimant was necessitated “by the material aggravation he sustained” due to his 
+work activities for the employer.  (Cl. Ex. 2, pp. 16-18) 
+Dr. Chen disagreed.  He prepared a report dated December 6, 2024, after 
+reviewing appropriate information and examining Mr. Cornwell.  He concluded that 
+claimant’s medical condition was a personal condition that progressed over time.  (Def. 
+Ex. O, p. 55)  When asked whether the work activities materially aggravated this 
+condition, he answered: 
+It is my medical opinion that these details do not indicate any specific work 
+
+CORNWELL V. ADP TOTALSOURCE GROUP, INC. 
+Page 8 
+ 
+injury or activity were recorded by any of his treating specialists in primary 
+care, emergency care, and specialty care.  The progressive escalation of 
+symptoms of neurogenic claudication and fragmentation of medical care 
+for desired treatments including opioid medications, spinal injections, and 
+lumbar surgery may be indicators of a poor long-term outcome even 
+despite a successful surgery to date. 
+It is my medical opinion that Mr. Cornwell’s pre-existing degenerative 
+lumbar spinal stenosis progressed to include right L5 radiculopathy after 
+Labor Day in September 2023 was not caused or materially aggravated by 
+his work activities at LBS. 
+Despite Mr. Cornwell’s description of needing to move large rolls of paper 
+may have required a temporary increase in physical effort, I do not believe 
+that this specific work activity appeared to be out of the range of expected 
+activities that he had performed in the past to cause a substantial 
+aggravation or led to an acceleration of his pre-existing degenerative 
+lumbar spinal stenosis condition.  The natural progression of degenerative 
+lumbar spinal stenosis typically does occur over months with episodes of 
+waxing and waning symptoms of indeterminate etiology as were clearly 
+documented in medical notes from February 2022 to April 2023 even 
+before his neurogenic claudication evolved into a predictable pattern. 
+(Def. Ex. O, p. 56)   
+The fighting issue in this case is whether Mr. Cornwell sustained a cumulative 
+work injury to his low back and right leg which manifested on or about September 6, 
+2023.  The burden lies squarely with Mr. Cornwell to prove this by a preponderance of 
+evidence.  I find that he met his burden.  Mr. Cornwell was clearly performing medium to 
+heavy labor for the employer.  Moreover, it was clearly the type of medium to heavy 
+work which could aggravate and light up the condition of degenerative disc disease.  All 
+of this is well-documented. 
+The primary weakness in claimant’s case has been highlighted extensively by the 
+defendants.  Mr. Cornwell did not complain at his contemporaneous medical visits in 
+2023, that his work activities were aggravating his low back condition.  When he first 
+sought treatment from his primary clinic in February and May 2023, he made no 
+mention of the heavy work he performed at LBS.  Mr. Cornwell testified that his problem 
+was primarily in his right leg, not his low back, and he did not believe at this time, that 
+he had an actual “work injury.”  Even after he saw Dr. Lin, who provided two distinct 
+diagnoses in June 2023, it is evident that Mr. Cornwell was still uncertain about the 
+exact nature of his condition, based upon his testimony.  I am unconcerned that Mr. 
+Cornwell did not report about his job duties to his medical providers during this time 
+period. 
+By late August 2023, however, his condition had progressed and worsened.  It is 
+evident that Mr. Cornwell knew his job was contributing to the symptoms in his right leg.  
+Specifically, he testified that after he started the “Berryville job” toward the end of 
+August 2023, his symptoms worsened substantially.  Not only did he not report an injury 
+
+CORNWELL V. ADP TOTALSOURCE GROUP, INC. 
+Page 9 
+ 
+to his employer, he continued to not report this potential cause to his medical providers 
+throughout September 2023.  Mr. Cornwell testified that he feared that if he complained 
+of a work injury, he would lose his job.  I believe him.  I find him credible.  After he had 
+been off work for approximately a week and having two visits to the emergency room 
+with significant symptoms, he called his employer’s human resources office to seek 
+short term disability benefits.  He was then asked by the human resources 
+representative what the cause of his injury was.  He told her he believed it was from his 
+work activities.  This testimony is unrebutted. 
+Moreover, I find that Dr. Kuhnlein’s expert medical opinion is more convincing 
+and believable.  It is bolstered by the opinion of the treating surgeon, as well as Mr. 
+Cornwell’s credible testimony. 
+CONCLUSIONS OF LAW 
+The primary question submitted is whether Mr. Cornwell sustained an injury 
+which arose out of and in the course of his employment which manifested on or about 
+September 6, 2023. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the alleged injury actually occurred and that it both arose out of and in the course of the 
+employment. Quaker Oats Co. v. Ciha, 552 N.W.2d 143, 150 (Iowa 1996); Miedema v. 
+Dial Corp., 551 N.W.2d 309, 311 (Iowa 1996). The words “arising out of” refer to the 
+cause or source of the injury. The words “in the course of” refer to the time, place, and 
+circumstances of the injury. 2800 Corp. v. Fernandez, 528 N.W.2d 124, 128 (Iowa 
+1995).  An injury arises out of the employment when a causal relationship exists 
+between the injury and the employment. Miedema, 551 N.W.2d at 311. The injury must 
+be a rational consequence of a hazard connected with the employment and not merely 
+incidental to the employment. Koehler Elec. v. Wills, 608 N.W.2d 1, 3 (Iowa 2000); 
+Miedema, 551 N.W.2d at 311. An injury occurs “in the course of” employment when it 
+happens within a period of employment at a place where the employee reasonably may 
+be when performing employment duties and while the employee is fulfilling those duties 
+or doing an activity incidental to them. Ciha, 552 N.W.2d at 150. 
+A personal injury contemplated by the workers’ compensation law means an 
+injury, the impairment of health or a disease resulting from an injury which comes about, 
+not through the natural building up and tearing down of the human body, but because of 
+trauma.  The injury must be something that acts extraneously to the natural processes 
+of nature and thereby impairs the health, interrupts or otherwise destroys or damages a 
+part or all of the body.  Although many injuries have a traumatic onset, there is no 
+requirement for a special incident or an unusual occurrence.  Injuries which result from 
+cumulative trauma are compensable.  Increased disability from a prior injury, even if 
+brought about by further work, does not constitute a new injury, however.  St. Luke’s 
+Hosp. v. Gray, 604 N.W.2d 646, 650-51 (Iowa 2000); Ellingson v. Fleetguard, Inc., 599 
+N.W.2d 440, 444 (Iowa 1999); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 
+845, 850-51 (Iowa 1995); McKeever Custom Cabinets v. Smith, 379 N.W.2d 368, 373-
+74 (Iowa 1985).  An occupational disease covered by chapter 85A is specifically 
+
+CORNWELL V. ADP TOTALSOURCE GROUP, INC. 
+Page 10 
+ 
+excluded from the definition of personal injury.  Iowa Code section 85.61(4)(b); Iowa 
+Code section 85A.8; Iowa Code section 85A.14. 
+When the injury develops gradually over time, the cumulative injury rule applies.  
+The date of injury for cumulative injury purposes is the date on which the disability 
+manifests.  Manifestation is best characterized as that date on which both the fact of 
+injury and the causal relationship of the injury to the claimant’s employment would be 
+plainly apparent to a reasonable person.  The date of manifestation inherently is a fact-
+based determination.  The fact finder is entitled to substantial latitude in making this 
+determination and may consider a variety of factors, none of which is necessarily 
+dispositive in establishing a manifestation date.  Among others, the factors may include 
+missing work when the condition prevents performing the job, or receiving significant 
+medical care for the condition.  For time limitation purposes, the discovery rule then 
+becomes pertinent so the statute of limitations does not begin to run until the employee, 
+as a reasonable person, knows or should know, that the cumulative injury condition is 
+serious enough to have a permanent, adverse impact on his or her employment.  
+Herrera v. IBP, Inc., 633 N.W.2d 284, 287-88 (Iowa 2001); Oscar Mayer Foods Corp. v. 
+Tasler, 483 N.W.2d 824, 829-30 (Iowa 1992); McKeever Custom Cabinets v. Smith, 379 
+N.W.2d 368, 374 (Iowa 1985). 
+In cumulative trauma injury cases, the issue of whether an injury arose out of and 
+in the course of employment is significantly intertwined with the issue of medical 
+causation. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148, 153 
+(Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154, 156 (Iowa Ct. App. 
+1997); Sanchez v. Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 1996). 
+ 
+A possibility of causation is not sufficient; a probability is necessary. Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 1996) (citing Holmes v. Bruce 
+Motor Freight, Inc., 215 N.W.2d 296, 297 (Iowa 1974)). 
+The question of causal connection is essentially within the domain of expert 
+testimony. The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question. The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances. The 
+expert opinion may be accepted or rejected, in whole or in part. IBP, Inc. v. Harpole, 
+621 N.W.2d 410, 420 (Iowa 2001); St. Luke’s Hosp. v. Gray, 604 N.W.2d 646, 652 
+(Iowa 2000); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845, 853 (Iowa 
+1995). Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 421 (Iowa 1994). Unrebutted 
+
+CORNWELL V. ADP TOTALSOURCE GROUP, INC. 
+Page 11 
+ 
+expert medical testimony cannot be summarily rejected. Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910, 911-12 (Iowa Ct. App. 1994). 
+For the reasons set forth in the findings of fact, I find that a greater weight of 
+evidence supports the finding that the claimant sustained a cumulative trauma injury 
+which arose out of and in the course of his employment and manifested on September 
+6, 2023.  Mr. Cornwell was definitely performing the type of work, lifting, pushing, pulling 
+and bending, often in awkward positions, which over time would be likely to light up or 
+materially aggravate an underlying degenerative condition such as degenerative disc 
+disease.  The fact that he was performing the heavier Berryville job at the end of August 
+2023, provides further support for this proposition. 
+I find that the most convincing opinion regarding injury and medical causation is 
+the opinion of Dr. Kuhnlein.  His opinion is more straightforward, understandable and 
+consistent with the underlying facts.  While Dr. Pugely’s expert opinion is merely a 
+check box report rather than narrative, it definitely bolsters Dr. Kuhnlein’s opinion.  Dr. 
+Kuhnlein was aware of all of the relevant underlying medical information.  Dr. Chen’s 
+opinion is confusing.  I am not entirely certain he used the correct legal standard to form 
+his opinion.  For example, part of his explanation included the following analysis:  
+“Despite Mr. Cornwell’s description of needing to move large rolls of paper may have 
+required a temporary increase in physical effort, I do not believe that this specific work 
+activity appeared to be out of the range of expected activities that he had performed in 
+the past to cause a substantial aggravation …”  (Def. Ex. O, p. 56)  He appears to be 
+offering the opinion that since Mr. Cornwell’s work activities on the “Berryville job” at the 
+end of August 2023, was comparable to the work he was always doing, it could not 
+have been a substantial aggravating factor.  There is no real analysis, however, of 
+whether lifting, pushing, pulling and awkwardly moving heavy rolls of paper could 
+aggravate, accelerate or light up an underlying degenerative condition.  Based upon the 
+record before me, it is evident that this is exactly the type of activities which would likely 
+aggravate such a condition. 
+Since I have found that the manifestation date is the claimant’s first day of lost 
+work, September 6, 2023, I reject the defendants’ notice defense under Section 85.23. 
+The next issue is whether claimant is entitled to a running award of healing 
+period benefits. 
+Healing period compensation describes temporary workers’ compensation 
+weekly benefits that precede an allowance of permanent partial disability benefits.  
+Ellingson v. Fleetguard, Inc., 599 N.W.2d 440, 446 (Iowa 1999).  Healing period benefits 
+are payable to an injured worker who has suffered permanent partial disability until the 
+first to occur of three events.  Iowa Code § 85.34(1) (2015).  These are:  (1) the worker 
+has returned to work; (2) the worker medically is capable of returning to substantially 
+similar employment; or (3) the worker has achieved maximum medical recovery.  Id.  
+Maximum medical recovery is achieved when healing is complete, and the extent of 
+permanent disability can be determined.  Armstrong Tire & Rubber Co. v. Kubli, 312 
+N.W.2d 60, 65 (Iowa Ct. App. 1981).  Neither maintenance medical care nor an 
+
+CORNWELL V. ADP TOTALSOURCE GROUP, INC. 
+Page 12 
+ 
+employee's continuing to have pain or other symptoms necessarily prolongs the healing 
+period.  Id. 
+I find that Mr. Cornwell is entitled to healing period benefits since he has gone off 
+work.  Moreover, none of the elements of section 85.34(1) have been met.  Mr. Cornwell 
+has not returned to work.  He is not capable of substantially similar employment.  He is 
+not at maximum medical improvement.  He just had surgery in September 2024, and 
+maximum medical improvement is projected for approximately one year from then.  
+Therefore, I conclude that Mr. Cornwell is entitled to healing period benefits from the 
+date of injury through the date of hearing and continuing until such time as the 
+requirements of Iowa Code Section 85.34(1) have been met.  Defendants are entitled to 
+a credit for the benefits paid both under workers’ compensation and under the group 
+disability plan as stipulated by the parties. 
+The next issue is medical expenses. 
+The employer shall furnish reasonable surgical, medical, dental, osteopathic, 
+chiropractic, podiatric, physical rehabilitation, nursing, ambulance, and hospital services 
+and supplies for all conditions compensable under the workers' compensation law.  The 
+employer shall also allow reasonable and necessary transportation expenses incurred 
+for those services.  The employer has the right to choose the provider of care, except 
+where the employer has denied liability for the injury.  Iowa Code section 85.27.  Holbert 
+v. Townsend Engineering Co., Thirty-second Biennial Report of the Industrial 
+Commissioner 78 (Review-Reopening October 1975). 
+I have reviewed claimant’s medical expenses set forth in Claimant’s Exhibit 10, 
+and I find that defendants are responsible for these expenses. 
+The next issue is whether the claimant is entitled to the IME expenses set forth in 
+Claimant’s Exhibit 11, page 45. 
+An employer is only liable to reimburse an employee for the cost of an 
+examination conducted pursuant to this subsection if the injury for which the employee 
+is being examined is determined to be compensable.  Iowa Code § 85.39(2) (2017).  
+“An employer is not liable for the cost of such examination if the injury for which the 
+employee is being examined is determined not to have a compensable injury. A 
+determination of the reasonableness of a fee for an examination made pursuant to this 
+subsection, shall be based on the typical fee charged by a medical provider to perform 
+an impairment rating in the local area where the examination is conducted.”  Iowa Code 
+§ 85.39(2); Tweeten v. Tweeten, 999 N.W.2d 270, 282 (Iowa 2023).   
+Having found that Mr. Cornwell’s claim resulted in a compensable injury, I find 
+that the defendants are responsible for the IME expense in the amount of $5,560.00. 
+ORDER 
+THEREFORE IT IS ORDERED: 
+Defendants shall pay a running award of healing period benefits from September 
+6, 2023, through the date of hearing and continuing until such time that an element of 
+
+CORNWELL V. ADP TOTALSOURCE GROUP, INC. 
+Page 13 
+ 
+Iowa Code Section 85.34(1) has been met at the rate stipulated by the parties. 
+Defendants shall pay accrued weekly benefits in a lump sum. 
+Defendants shall pay interest on unpaid weekly benefits awarded herein as set 
+forth in Iowa Code section 85.30. 
+Defendants are responsible for the medical expenses set forth in Claimant’s 
+Exhibit 10. 
+Defendants are entitled to a credit for group disability payments made. 
+Defendants are entitled to a credit for all weekly benefits paid. 
+Defendants are responsible for the IME expense and other costs set forth in 
+Claimant’s Exhibit 11. 
+ 
+Defendants shall file subsequent reports of injury as required by this agency 
+pursuant to rule 876 IAC 3.1(2). 
+Signed and filed this _15th _ day of August, 2025. 
+ 
+ 
+ 
+   __________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ JOSEPH L. WALSH 
+ 
+ 
+ 
+ 
+ 
+ 
+                      DEPUTY WORKERS’  
+ 
+ 
+ 
+ 
+ 
+ 
+COMPENSATION COMMISSIONER 
+ 
+The parties have been served, as follows: 
+ 
+ James Ballard  
+(via WCES) 
+ 
+Aaron Oliver   
+(via WCES) 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Workers’ Compensation Division to file documents in paper form. If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Workers’ 
+Compensation Division, 6200 Park Ave., Suite 100, Des Moines, Iowa 50321. The notice of appeal must be received 
+by the Workers’ Compensation Division within 20 days from the date of the decision. The appeal period will be 
+extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 

@@ -1,0 +1,1349 @@
+Case Number: 23000988.01
+Case Title:  BRACAMONTES, RAFAEL V. JUST-STAFFING LLC
+Doc Type:    Decision - Deputy
+Source:      Bracamontes Rafael-23000988.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+RAFAEL BRACAMONTES, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  :                       File No. 23000988.01 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                  
+JUST-STAFFING, LLC, 
+  : 
+ 
+ 
+  :                   ARBITRATION DECISION         
+ 
+Employer, 
+  : 
+ 
+ 
+  :                         
+and 
+ 
+  : 
+ 
+ 
+  : 
+HARTFORD UNDERWRITERS INS. CO.,: 
+ 
+ 
+  : 
+      Headnote Nos.: 1100, 1108, 1802, 
+ 
+Insurance Carrier, 
+  : 
+ 
+ 
+           1803, 3301, 4000 
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Claimant, Rafael Bracamontes, filed a petition in arbitration seeking workers’ 
+compensation benefits from Just-Staffing, LLC, employer, and Hartford Underwriters 
+Insurance Company, insurance carrier, both as defendants, as a result of an alleged 
+injury sustained on November 30, 2022.  This matter came on for hearing before Deputy 
+Workers’ Compensation Commissioner Erica J. Fitch on October 3, 2024, via 
+videoconference, using Zoom. The proceedings were interpreted by Spanish-language 
+interpreter, Alina Salvat. 
+At the commencement of hearing, the following exhibits were admitted into 
+evidence: joint exhibits 1 through 9, claimant’s exhibits 1 through 9, and defendants’ 
+exhibits A through L. During redirect, claimant moved to introduce rebuttal evidence in 
+the form of claimant’s exhibit 10. The exhibit was admitted into evidence. Due to 
+evidentiary questions raised at hearing, the record was left open for the potential 
+additional evidence from defendants regarding the unavailability of a witness due to 
+incarceration. Post-hearing, defendants’ offered exhibit M. Initial post-hearing briefs 
+were filed on November 8, 2024.  
+Following hearing and prior to issuance of a decision, on December 11, 2024, 
+defendants moved to introduce evidence regarding newly received and not previously 
+disclosed medical records. At hearing, claimant testified he had recently been 
+hospitalized, but suffered only ongoing eyesight issues relative to the hospitalization. 
+Following hearing, defendants ordered claimant’s medical records related to the recent 
+hospitalization; defendants represented over 700 pages of such records were received 
+ELECTRONICALLY FILED     2025-Sep-25  14:50:15     DIVISION OF WORKERS' COMPENSATION
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 2 
+ 
+on December 5, 2024. Defendants moved to admit 25 pages of the records, arguing the 
+hospitalization occurred after the close of discovery and was not disclosed prior to 
+hearing. Over claimant’s objection, the undersigned permitted defendants to introduce 
+25 pages of the previously unknown medical records as defendants’ exhibit N. The 
+parties were granted the ability to submit supplemental briefs, due January 31, 2025.  
+Accordingly, the record consists of joint exhibits 1 through 9, claimant’s exhibits 1 
+through 10, defendants’ exhibits A through N, and the testimony of the claimant and 
+Leanna Lloyd.  Following supplemental briefing, the matter was considered fully 
+submitted on January 31, 2025. 
+ISSUES 
+The parties submitted the following issues for determination: 
+ 
+1. Whether claimant sustained an injury on November 30, 2022 which arose 
+out of and in the course of his employment;  
+2. Whether the alleged injury is a cause of temporary disability, and if so, the 
+extent of claimant’s entitlement to temporary disability. Specifically, 
+claimant seeks a running award of temporary disability benefits;  
+3. Whether the alleged injury is a cause of permanent disability, including 
+whether the alleged work injury is a cause of claimant’s ongoing 
+complaints;  
+4. If the injury is a cause of permanent disability, the extent of claimant’s 
+industrial disability and the commencement date for permanent disability 
+benefits, if awarded; 
+5. The rate of compensation;  
+6. Whether defendants are responsible for claimed medical expenses found 
+in claimant’s exhibit 8;  
+7. Whether claimant is entitled to reimbursement of an independent medical 
+examination under Iowa Code section 85.39; 
+8. Whether claimant is entitled to an award of alternate medical care under 
+section 85.27;  
+9. Whether claimant is entitled to an award of penalty benefits; 
+10. Whether claimant is entitled to a specific taxation of costs, as found in 
+claimant’s exhibit 9; and  
+11. Whether defendants are entitled to a credit for alleged overpayment of 
+temporary total disability benefits. 
+The parties filed a hearing report at the commencement of the arbitration 
+hearing.  On the hearing report, the parties entered into various stipulations.  All of 
+those stipulations were accepted and are hereby incorporated into this arbitration 
+decision and no factual or legal issues relative to the parties’ stipulations will be raised 
+or discussed in this decision.  The parties are now bound by their stipulations. 
+ 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 3 
+ 
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+Claimant was 60 years of age at the time of hearing. Claimant is married and the 
+father of six children. As of the date of his injury, claimant claimed only one of these 
+children as a dependent. (Claimant’s testimony; Defendants’ Exhibit K, Tr. pp. 6-7) 
+Claimant’s formal education consists of attendance through the 6th grade in his native 
+Mexico, as well as limited English classes at Des Moines Area Community College. 
+(Claimant’s testimony; DEI, p. 27; DEK, Tr. pp. 10, 12) Claimant is not fluent in English. 
+Claimant testified he cannot write English, but he understands limited English, and 
+speaks and reads a little English. (Claimant’s testimony; DEK, Tr. pp. 9-10) 
+Claimant was born in Mexico and immigrated to the United States at the 
+approximate age of 12. He lived in California for 38 years. (DEK, Tr. p. 7) While in 
+California, claimant worked for 19 years as a truck driver. Claimant moved from 
+California to Iowa in 2012. He testified he was in search of work and had extended 
+family in Iowa. (DEI, p. 28; DEK, Tr. p. 8) In Iowa, claimant worked part time for one 
+year at Service Master, cleaning offices. He then worked full time packing meat at Swan 
+Packing. This employment lasted approximately 1.5 years. (Claimant’s testimony; DEI, 
+p. 28; DEK, Tr. p. 13) While at Swan Packing, claimant sustained a work injury to his 
+neck. (DEK, Tr. pp. 5, 13)  After the closure of Swan Packing, claimant worked at 
+Heritage, a cleaning company. He then spent a brief period roofing. Claimant has also 
+been self-employed in his own junk removal business. He estimated he earned $18,000 
+in 2022 in this role. (Claimant’s testimony; DEK, Tr. p. 14) The evidentiary record is 
+devoid of any records regarding claimant’s earnings in his self-employment.  
+In late 2021, claimant began working at defendant-employer in a part-time 
+capacity. Claimant was assigned to Lineage, a meat packing company. Claimant 
+indicated he packed meat and performed janitorial duties. (Claimant’s testimony; DEI, p. 
+28; DEK, Tr. p. 25) At his deposition, claimant testified his work hours varied and could 
+range from 14 to 40 hours per week. (DEK, p. 27) At evidentiary hearing, claimant 
+testified his hours varied considerably and ranged from 20 to 40 hours per week. 
+(Claimant’s testimony) He earned $14.00 per hour. (DEK, Tr. p. 27) Defendant-
+employer identified claimant’s position as that of janitor. The position was designated as 
+a medium physical demand position, with lifting and carrying up to 50 pounds, as well 
+as frequent standing, walking, twisting, stooping, bending, pushing, pulling, and 
+squatting. (DEA, p. 1) 
+Claimant’s relevant medical history includes treatment for multiple medical 
+conditions. In July 2017, claimant was evaluated for continued neck, thoracic, and low 
+back pain secondary to a work injury while pulling meat. Trevor Schmitz, M.D., noted 
+claimant had been appropriately treated with medication and physical therapy, as well 
+as permanent restrictions of a 15-pound lift. (Joint Exhibit 6, page 50) In November 
+2019, claimant sought evaluation for blood sugar and memory problems. The provider 
+assessed depression, insomnia, and diabetes mellitus type 2. Fluoxetine was 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 4 
+ 
+prescribed for claimant’s depression and a referral was made for mental health 
+evaluation. (JE8, pp. 88, 90, 92) In October 2020, claimant was evaluated for bilateral 
+knee pain of a three to four year duration. (JE6, p. 53) Craig Mahoney, M.D. assessed 
+bilateral osteoarthritis and performed cortisone injections. (JE6, p. 55) In January 2021, 
+claimant was hospitalized following development of stroke-like symptoms. (JE2, p. 15) 
+After evaluation with his primary care provider, claimant presented to the hospital with 
+headache, neck pain, chest pain, and stroke-like symptoms, including facial drooping. A 
+brain MRI revealed no evidence of stroke, but claimant was hospitalized for three days 
+for evaluation and treatment. Multiple conditions, including elevated blood pressure, 
+tension headache, and depression/anxiety were considered as potential causes. 
+Following release, claimant was directed to follow up with psychiatry. (JE2, p. 16) 
+Claimant alleges he sustained a work-related injury on November 30, 2022. At 
+his deposition, claimant testified he was cleaning the warehouse when the garbage cart 
+he was pushing was struck by a forklift. After the cart was struck, claimant stated the 
+cart was pushed into him, impacting his stomach area. (DEK, Tr. pp. 28-29) Claimant 
+testified he was pushed backwards into a stack of boxes and when the cart was moved 
+away, he then fell forward onto his knees. (DEK, Tr. p. 31) Claimant’s testimony at 
+evidentiary hearing was consistent with this mechanism of injury. (Claimant’s testimony)  
+Claimant testified he reported the injury and went home. (Claimant’s testimony) 
+Claimant testified he developed stomach pain shortly after the incident and then 
+developed back pain. (DEK, Tr. p. 32) He elected to see a doctor that same date. 
+(Claimant’s testimony)  
+Claimant was evaluated at DoctorsNow. Triage notes indicated claimant was hit 
+in the stomach by a forklift and developed mild stomach pain, moderate right hip pain, 
+and low back pain. Diagnoses included an abdominal strain, right hip pain, and low back 
+pain. Prescriptions for diclofenac sodium and methocarbamol were issued. Claimant 
+was released to light-duty work, with a maximum lift of 25 pounds, no heavy lifting, and 
+no strenuous activity. (JE1, pp. 1-3) 
+On December 7, 2022, claimant returned to DoctorsNow with continued 
+complaints of mild stomach pain, moderate right hip pain, and low back pain. Due to 
+progressive abdominal pain, claimant was advised to seek emergency evaluation. (JE1, 
+pp. 9-10)  
+Claimant presented to the emergency department at UnityPoint and reported he 
+had been struck with a forklift at work the prior week. He complained of right-sided hip, 
+abdomen, and back pain. (JE2, p. 21) Blood work was ordered, and a CT of claimant’s 
+abdomen and pelvis was completed to evaluate for potential traumatic abdominal injury. 
+(JE2, pp. 24-26) The CT did not reveal acute findings. A diagnosis of suspected 
+abdominal wall contusion was issued and claimant was advised to follow up with his 
+primary care provider. (JE2, p. 27)  
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 5 
+ 
+Claimant returned to DoctorsNow on December 15, 2022, with continued pain 
+complaints. Following evaluation, light duty restrictions were imposed, including no 
+lifting over 20 pounds, no strenuous activity, and no ladder climbing. (JE1, pp. 11-12) 
+Claimant returned to DoctorsNow on December 26, 2022 with complaints of 
+continued abdominal pain and development of a mass under his skin. Claimant was 
+referred to general surgery for evaluation of a potential inguinal hernia. (JE1, pp. 13-14)  
+Claimant worked part-time hours for defendant-employer into December 2022. 
+Earnings records revealed claimant worked 14.65 hours in the week ending December 
+4, 2022, with gross earnings of $205.10. He worked 5.12 hours in the week ending 
+December 11, 2022, earning $71.68. Claimant worked 36.48 hours during the week 
+ending December 25, 2022, with gross wages of $510.72. Finally, in the week ending 
+January 1, 2023, claimant worked 9.25 hours and earned $129.50. (DEC, p. 5)  
+Thereafter, claimant’s work placement ended and defendants commenced 
+payment of temporary total disability benefits. (DEE, p. 7; See Claimant’s Testimony; 
+Leanna Lloyd’s testimony) Benefit payment amounts varied, but were typically paid at a 
+weekly compensation rate of either $300.43 or $324.00. (DEE, p. 7) It is unclear based 
+on the evidentiary record why claimant’s placement ceased at the end of December 
+2022. However, he did not work for defendant-employer thereafter. Defendants 
+commenced temporary total disability benefits effective December 28, 2022. (DEE, p. 7) 
+In computing claimant’s rate, the parties reviewed claimant’s preinjury earnings. 
+ 
+Week Ending Date 
+Hours Worked 
+Gross Wages 
+August 28, 2022 
+23.97 
+$335.58 
+September 4, 2022 
+39.77 
+$556.78 
+September 11, 2022 
+11.95 
+$167.30 
+September 18, 2022 
+11.95 
+$167.30 
+September 25, 2022 
+27.90 
+$390.60 
+September 25, 2022 
+37.68 
+$527.52 
+October 2, 2022 
+38.00 
+$532.00 
+October 9, 2022 
+29.32 
+$410.48 
+October 16, 2022* 
+27.95 
+$391.30 
+October 23, 2022 
+31.43 
+$440.02 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 6 
+ 
+October 30, 2022 
+37.62 
+$526.68 
+November 6, 2022 
+35.75 
+$500.50 
+November 13, 2022 
+14.83 
+$207.62 
+November 20, 2022 
+0 
+0 
+November 27, 2022 
+22.38 
+$313.32 
+*This week’s wages were voided by the employer as incorrect. 
+(DEC, p. 5) 
+At evidentiary hearing, claimant argued a proposed weekly rate of $381.58. In 
+arriving at this computation, claimant utilized the weeks ending September 4, 2022 
+through November 27, 2022. Claimant’s computation does not list the week of 
+November 20, 2022; thus, I presume it was excluded as unrepresentative. Claimant 
+also excludes four additional weeks from the computation, that of September 11, 2022, 
+September 18, 2022, November 13, 2022, and November 27, 2022. Having excluded 
+these weeks, claimant found total hours of 305.42. Payable at an hourly rate of $14.00, 
+claimant’s gross earnings were computed as $4,275.88. After dividing this figure by the 
+8 weeks during which the sums were earned, claimant arrived at an average weekly 
+wage of $534.49. Utilizing a marital status of married with 3 exemptions, claimant 
+argues a weekly rate of $381.58. (CE4, p. 26) Claimant argues the weeks of September 
+11, 2022, and November 27, 2022, should be excluded due to inclusion of a holiday and 
+the remaining two weeks should be excluded due to the low number of hours worked.  
+At evidentiary hearing, defendants utilized the weeks ending August 28, 2022 
+through November 27, 2022. Defendants excluded the weeks of October 16, 2022, and 
+November 20, 2022, from its rate computation. On this basis, defendants found total 
+hours of 362.60 hours over the course of 13 weeks. Utilizing claimant’s hourly rate of 
+$14.00, defendants found total gross earnings of $5,076.40 over that 13-week period, 
+equal to an average weekly wage of $390.49. Given claimant’s married marital status, 
+defendants determined a weekly rate of $283.50 utilizing three exemptions. (DED, p. 6)  
+On January 18, 2023, claimant was evaluated by general surgeon, Christopher 
+Bell, M.D. Dr. Bell found no evidence of hernia and assessed an abdominal wall 
+contusion, from which claimant required additional time to heal. (JE3, p. 33) 
+On January 24, 2023, claimant was seen by general surgeon, Timothy Mayfield, 
+M.D. Claimant reported being injured at work when a forklift rammed a cart into his 
+abdomen, resulting in swelling of the abdomen and radiating pain down the leg. (JE4, p. 
+34) Dr. Mayfield assessed traumatized, painful, deep subcutaneous tissue. He 
+recommended use of a warm compress and Tylenol. (JE4, p. 35) Dr. Mayfield imposed 
+work restrictions of no lifting over 20 pounds, pushing, pulling, or twisting. (JE4, p. 36) 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 7 
+ 
+Due to continued symptoms, claimant followed up with Dr. Mayfield. Dr. Mayfield 
+performed a kenalog injection on February 7, 2023. (JE4, p. 38) The injection resulted in 
+improvement, but not resolution of symptoms. (JE4, p. 39) A repeat injection was 
+ordered and undergone on February 28, 2023. (JE4, pp. 40-41) Due to improvement, an 
+additional injection was performed in mid-March 2023. (JE4, pp. 41-42) 
+Claimant returned to Dr. Mayfield on March 21, 2023. At that visit, Dr. Mayfield 
+was able to appreciate a lipomatous mass and performed an excision. Claimant was 
+removed from work for one week. (JE4, pp. 44-45) 
+Following evaluation on March 28, 2023, Dr. Mayfield placed claimant at 
+maximum medical improvement (MMI) and released claimant to return to work without 
+restrictions. (JE4, p. 46)  
+On April 12, 2023, claimant presented to Kurt Smith, D.O., with complaints of 
+right lower lumbar pain and right hip pain. Claimant related his symptoms to a work 
+injury wherein he was struck by a forklift. (JE6, p. 56) Dr. Smith assessed a lumbar 
+strain. He prescribed ibuprofen, tizanidine, and physical therapy. Work restrictions were 
+imposed, including a 20-pound lift and avoidance of repetitive lifting, bending, and 
+twisting. (JE6, pp. 58-59)  
+On April 28, 2023, an individual named Daniel Rolon approached Leanna Lloyd, 
+president of defendant-employer. He signed a witness statement, wherein he stated 
+claimant did not sustain a work injury and the “forklift barely touched [claimant’s] feet.” 
+Mr. Rolon further stated claimant “used this same thing to sue” a former employer. 
+(DEB, p. 2) 
+Ms. Lloyd testified that Mr. Rolon, a former employee, entered her office on that 
+date and indicated claimant was not telling the truth regarding the work injury and was 
+trying to obtain money from defendant-employer, like he had with a previous employer. 
+On advice from defendant-insurance carrier, Ms. Lloyd requested Mr. Rolon complete a 
+witness statement. Ms. Lloyd wrote the statement based upon what Mr. Rolon stated, 
+he signed the statement, and Ms. Lloyd sent the statement to defendant-insurance 
+carrier. (Ms. Lloyd’s testimony) 
+Ms. Lloyd’s testimony at evidentiary hearing was clear and direct. Her demeanor 
+gave the undersigned no reason to doubt her veracity. Ms. Lloyd is found credible.   
+Claimant testified that Mr. Rolon is his stepson. Claimant testified Mr. Rolon was 
+not present at the time of his alleged injury and further, that claimant does not speak 
+with Mr. Rolon. Claimant explained that Mr. Bracamontes and his wife were forced to 
+ask Mr. Rolon to cease living with them due to concerns regarding theft. Claimant 
+denied fabricating the injuries at defendant-employer or at his former employer, Swan 
+Packing. (Claimant’s testimony) 
+Mr. Rolon did not testify at evidentiary hearing. Evidence reveals Mr. Rolon was 
+incarcerated and therefore, unavailable to testify. (CE10, pp. 50-51; DEM) 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 8 
+ 
+Claimant began physical therapy on May 2, 2023. The provider noted claimant 
+had been struck by a forklift, with immediate abdominal pain and subsequent back pain. 
+(JE7, p. 83) 
+Claimant returned to Dr. Smith on May 24, 2023 and reported improvement with 
+physical therapy. Dr. Smith ordered additional physical therapy, with increased weights. 
+He lessened claimant’s work restrictions to allow a 40-pound lift, with avoidance of 
+repetitive lifting, bending, and twisting. (JE6, pp. 67, 69-70) 
+On June 21, 2023, claimant returned to Dr. Smith and reported continued 
+improvement with physical therapy. (JE6, p. 72) Dr. Smith noted claimant was “[d]oing 
+odd jobs, [but] did not give specifics.” (JE6, p. 73) Dr. Smith renewed claimant’s 
+prescription for ibuprofen and ordered physical therapy, with work hardening. (JE6, p. 
+74) 
+At a physical therapy appointment on June 29, 2023, the therapist noted claimant 
+had made little progress toward goals and was discharged from acute therapy. The 
+provider noted they had contacted the insurance company for clarification regarding 
+work conditioning, but had not received a response. (JE7, p. 87)  
+Defendants secured surveillance of claimant on July 5, 2023, and July 8, 2023. 
+Surveillance records in evidence include a report and slightly over 13 minutes of video 
+surveillance. (DEH, pp. 15, 16; DEL) The report indicates that the intermittent video 
+demonstrated claimant: changing three wheels on a van; utilizing a lug wrench, impact 
+gun, and “heavy” floor jack; and leaning, squatting, and laying on the ground. (DEH, p. 
+15) The investigator opined claimant “appeared to make full use of his lower back in an 
+unrestricted manner.” (DEH, p. 16)  
+The undersigned reviewed two surveillance videos provided in defendants’ 
+exhibit L. The first video totals 2 minutes and 16 seconds; it is dated July 5, 2023. The 
+sole activity performed by claimant in this video is driving and operating an SUV. The 
+second video totals 10 minutes and 56 seconds; it is dated July 8, 2023. In this video, 
+claimant is seen performing several typical activities of daily living, such as driving, 
+walking around his yard/driveway, carrying what appear to be grocery-type items, and 
+sitting in a chair. The video also shows claimant performing tasks around a minivan; 
+these tasks are the most relevant in consideration of the issues presented for resolution 
+by this proceeding. The video contains several brief, limited clips taken from the 
+perspective of an individual driving past claimant’s home. In these brief clips, lasting 
+only a few seconds each, claimant is seen: crouched beside the minivan in proximity to 
+a car jack; sitting on the ground using what appears to be a lug wrench on a wheel; and 
+on two occasions, laying on his side upon the ground beside the vehicle. In a stationary 
+video clip, claimant is seen rising from sitting on the ground to standing, at which point 
+he bent over to pick up the jack and carried it out of frame. He was also observed 
+picking up handheld tools. Another stationary video depicts a very obscured view of 
+claimant, as he is seen in the space between the vehicle and the ground and further 
+obstructed by a grill. In this obstructed video, one can make out the top of claimant’s 
+head, as he appears to lay on the ground beside the vehicle. On occasion, one can see 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 9 
+ 
+him moving his arm on a pipe, which I presume is the handle on a jack. At no point is 
+claimant observed removing, carrying, lifting, or mounting tires on the vehicle.   
+Claimant testified that on the date in question, he was examining the brakes on 
+his vehicle. He denied lifting or changing tires. Claimant admitted to lifting and moving a 
+jack, but testified he did not personally use the jack to lift the vehicle. Claimant indicated 
+it was his son who performed these tasks. (DEK, Tr. pp. 46-50) Claimant denied 
+performing specific work on the car or looking under the vehicle. At the time of the 
+surveillance, claimant indicated he was under a 40-pound restriction and he did not 
+believe he performed any task beyond that restriction. (Claimant’s testimony) 
+Photographs of the jack utilized by claimant are in evidence. The identified 
+weight of the jack is 30.9 pounds. (CE5, pp. 28-29) 
+At a follow-up appointment with Dr. Smith on July 25, 2023, claimant reported 
+improvement, but that he had not yet begun work hardening. (JE6, p. 77) Dr. Smith 
+renewed his order for work hardening and left the 40-pound restriction in place. (JE6, 
+pp. 79-80) 
+On August 10, 2023, counsel for defendants met with Dr. Smith for review of the 
+surveillance video and report. (DEG, p. 11) Thereafter, Dr. Smith authored a report. 
+Therein, Dr. Smith indicated the video demonstrated claimant changing tires using a 
+jack, moving and carrying tires, stooping, bending, twisting, and getting under a vehicle, 
+all without evidence of acute distress. Dr. Smith opined claimant’s activities were 
+outside of the work restrictions imposed on claimant at the time, including a 40-pound 
+lift and occasional twisting. He also opined claimant’s activities were inconsistent with 
+the complaints claimant expressed to Dr. Smith. As a result, Dr. Smith placed claimant 
+at maximum medical improvement (MMI) as of the last office visit on July 25, 2023, 
+without further treatment recommended. (DEG, p. 13) Dr. Smith released claimant to full 
+duty without restrictions and without permanent impairment. (DEG, p. 14) 
+On August 10, 2023, Dr. Smith authored a separate note placing claimant at 
+maximum medical improvement and releasing him to return to work, without restrictions. 
+(JE6, p. 82) 
+Thereafter, defendants ceased payment of weekly indemnity benefits. (DEE, p. 7; 
+DEF, p. 9) Claimant testified he no longer received authorized medical treatment after 
+this date. (Claimant’s testimony) 
+On August 17, 2023, claimant presented to his primary care practice, Primary 
+Health Care. Claimant reported ongoing right-sided back pain, present for nine months. 
+Claimant reported he “got ran over by a forklift” on the right portion of his abdomen. 
+(JE8, p. 109) Lumbar back pain was assessed and cyclobenzaprine was prescribed. 
+(JE8, p. 111) 
+Thereafter, claimant participated in behavioral therapy. (JE8, p. 119) At a session 
+on August 30, 2023, claimant indicated he had not worked since his work injury. The 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 10 
+ 
+provider indicated claimant’s lack of work and ongoing recovery had a “devastating 
+effect” on claimant’s mental state. (JE8, p. 120) 
+At the referral of his counsel, on October 19, 2023, claimant presented to board-
+certified occupational medicine physician, Sunil Bansal, M.D., for an independent 
+medical examination (IME). Dr. Bansal issued a report containing his findings and 
+opinions dated January 10, 2024. (CE1, pp. 1, 15) Dr. Bansal performed a medical 
+records review. (CE1, pp. 2-9) Dr. Bansal noted the record also contained surveillance 
+videos and a report. He noted the surveillance report indicated claimant was observed 
+changing, moving and carrying car tires, stooping, bending, and getting under a vehicle. 
+Claimant denied changing or carrying tires, but indicated he did carry a jack and got 
+under the car to look for a water leak. (CE1, p. 10) Following his own review of the 
+videos, Dr. Bansal indicated he did not observe claimant change a tire. He did observe 
+claimant “intermittently working around a minivan” and operating a jack. He also 
+observed claimant bending infrequently, which fit the definition of occasional bending 
+and did not contradict claimant’s diagnoses or restrictions. (CE1, p. 14) 
+ 
+Dr. Bansal performed a physical examination. (CE1, pp. 11-12) Claimant 
+reported he continued to suffer with pain in his abdomen, particularly with squatting or 
+prolonged bending. Claimant also reported low back pain, with radiation down into his 
+bilateral legs and up into his neck. Claimant also reported numbness of the bilateral 
+legs. (CE1, p. 10) Claimant indicated he had struggled to find work. (CE1, p. 11) With 
+respect to the alleged injury, Dr. Bansal noted:  
+[Claimant] was moving his cleaning cart, when the cart was struck hard by 
+a forklift. He was not able to get out of the way in time, and when the cart 
+was struck it was forced directly into his abdomen. He was then knocked 
+down, falling backwards to the ground.   
+(CE1, p. 9) 
+ 
+Following records review, interview, and examination, Dr. Bansal assessed an 
+abdominal contusion/strain, development of a deep subcutaneous lipoma of the right 
+lower abdomen status post excision, and right sacroiliitis of the right back/hip. With 
+respect to causation of claimant’s abdomen injury, Dr. Bansal opined the forklift 
+impacting the cart back into claimant’s abdomen was consistent with the abdominal 
+contusion and subsequent development of a subcutaneous lipoma. With respect to the 
+right-sided back and hip complaints, Dr. Bansal related these complaints to a diagnosis 
+of sacroiliitis. (CE1, pp. 12-13) As to the question of causation of this condition, Dr. 
+Bansal opined:  
+Not only did the direct trauma to the abdomen cause acute injuries to that 
+region, but the impact would have also transmitted force to his lower back 
+and pelvis areas which are biomechanically linked to the abdomen. The 
+body’s natural response to such trauma is to engage in protective 
+posturing, often leading to an involuntary reflexive tightening of the 
+surrounding muscles.  
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 11 
+ 
+Following this abdominal impact, [claimant] experienced a secondary 
+trauma as he was knocked down, falling backwards to the ground. The 
+mechanism of injury in such a fall involves a sudden uncontrolled descent 
+in which the body’s full weight, as well as the additional force from the fall, 
+impacts the ground. The lower back and sacroiliac region includes the 
+sacroiliac joints which connect the spine to the pelvis, and are particularly 
+vulnerable in such falls. The backwards fall would have not only caused a 
+direct impact to this region, but would have resulted in a jarring or twisting 
+motion as the body hit the ground. Such a motion can lead to disruptions 
+or dysfunctions of the sacroiliac joints. 
+(CE1, pp. 13-14)   
+ 
+For the abdominal injury, Dr. Bansal agreed with Dr. Mayfield that claimant had 
+achieved MMI as of March 28, 2023. For the back injury and absent further treatment, 
+Dr. Bansal opined claimant had achieved MMI as of the date of his examination, 
+October 19, 2023. (CE1, p. 15) Dr. Bansal recommended permanent restrictions of no 
+lifting greater than 40 pounds and avoidance of prolonged bending and squatting. He 
+recommended intermittent right sacroiliac joint injections for ongoing back complaints. 
+(CE1, p. 14) Dr. Bansal opined claimant did not sustain ratable permanent impairment 
+as a result of the abdominal injury. With respect to claimant’s back, Dr. Bansal opined 
+claimant fell within DRE lumbar category II, with radicular pain, loss of range of motion, 
+and guarding. As a result, Dr. Bansal assigned a 5 percent whole person impairment. 
+(CE1, p. 15) 
+ 
+On November 9, 2023, claimant presented to Primary Health Care and was seen 
+by Maria Latoja-Lovan, ARNP. Claimant reported he had been run over by a forklift at 
+work and had been receiving workers’ compensation benefits, but those benefits were 
+“taken away because he was caught lifting a tire [weighing less than] 10 [pounds].” 
+(JE8, p. 125) Ms. Latoja-Lovan assessed chronic low back pain with right-sided sciatica. 
+She ordered Toradol injections and prescribed ibuprofen, gabapentin, and Voltaren gel. 
+(JE8, p. 126)   
+Following x-rays, claimant returned to Ms. Latoja-Lovan on November 15, 2023. 
+Ms. Latoja-Lovan opined the x-rays revealed mild diffuse lumbar spondylosis and mild 
+neural foraminal narrowing, right greater than left and more pronounced at levels L4 to 
+S1. (JE8, p. 133) Ms. Latoja-Lovan assessed neuroforaminal stenosis of the 
+lumbosacral spine and chronic low back pain with right-sided sciatica. She increased 
+claimant’s gabapentin and issued an orthopedic referral. (JE8, p. 134) 
+Claimant returned to Ms. Latoja-Lovan on November 28, 2023 for recheck of low 
+back pain and diabetes. Claimant also reported increased depressive symptoms, with 
+suicidal thoughts. Ms. Latoja-Lovan referred claimant for immediate mental health 
+evaluation. (JE8, pp. 141-142) 
+In February 2024, claimant’s counsel met with Dr. Smith to review and discuss 
+the surveillance video and Dr. Smith’s August 10, 2023 letter. Thereafter, claimant’s 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 12 
+ 
+counsel directed questions to Dr. Smith for his opinion, to which Dr. Smith responded on 
+March 1, 2024. By his responses, Dr. Smith indicated he did not observe claimant 
+carrying or moving tires on the surveillance video. (CE2, p. 20) In response to counsel’s 
+question regarding whether Dr. Smith observed claimant lift anything heavier than the 
+imposed 40-pound lift restriction, Dr. Smith replied yes and wrote:  
+Hydraulic car jack - aluminum can weigh up to 60 pounds [...] steel can 
+weigh 100 pounds 
+(CE2, p. 20)   
+ 
+Claimant’s counsel submitted claimant’s deposition transcript and photographs of 
+the jack to Dr. Bansal for review. Dr. Bansal issued a supplemental report dated June 
+18, 2024. By his supplemental report, Dr. Bansal indicated he stood by his prior 
+opinions. He did note a “slight discrepancy” with respect to claimant’s fall, with 
+claimant’s deposition testimony indicating claimant fell forward onto his knees rather 
+than backwards. (CE1, p. 16) Dr. Bansal opined the “fundamental biomechanical 
+principles outlined in my causation analysis remain applicable” as the forceful impact to 
+the abdomen would have still transmitted significant forces to the low back and pelvic 
+region, and a fall onto his knees would have caused sudden uncontrolled loading of the 
+spine and sacroiliac joints. (CE1, p. 17) Dr. Bansal continued:  
+The key point is that the powerful initial trauma to the abdomen, followed 
+by the sudden impact of the fall (whether backwards or forwards), 
+provides a clear biomechanical explanation for the diagnosed injuries to 
+[claimant’s] abdomen, lower back, and sacroiliac region. The specific 
+direction of the fall, while relevant for understanding the exact mechanism, 
+does not change the underlying causative factors identified in my original 
+analysis.  
+Moreover, the weight of the jack that [claimant] used was 27.5 pounds. 
+This weight was well within his restriction parameters.  
+In conclusion, the discrepancy in the description of the fall and the 
+clarification of the jack’s weight do not alter my fundamental causation 
+opinion. The abdominal trauma and subsequent fall, as described in the 
+deposition, still provide a medically probable and biomechanically 
+plausible explanation for the injuries sustained by [claimant] in the 
+November 30, 2022 work incident. 
+(CE1, p. 17)  
+On August 18, 2024, claimant was admitted to the hospital with complaints of 
+right-sided headache and left-sided blurry vision that started during dialysis. (DEN, p. 
+54) A CT scan showed subacute occipital infarction and a brain MRI revealed an acute 
+ischemic stroke with petechial hemorrhages. (DEN, p. 59) Records reveal a principal 
+diagnosis of occipital stroke. Additional active medical problems were identified: type II 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 13 
+ 
+diabetes mellitus; hyperlipidemia; right facial pain; coronary artery disease; normocytic 
+anemia; vision loss of the left eye; acute kidney injury superimposed on chronic kidney 
+disease; benign hypertension with chronic kidney disease, stage IV; dysphagia; and 
+impaired mobility and activities of daily living. He was discharged from the hospital on 
+August 27, 2024. (DEN, p. 40) 
+Claimant did not return to work for defendant-employer following his alleged 
+injury, beyond a limited time in December 2022. Claimant admits he did not request an 
+assignment from defendant-employer. Nor is there evidence that defendant-employer 
+offered additional work. (Claimant’s testimony; Ms. Lloyd’s testimony; DEK, Tr. pp. 41-
+42) Following the work injury, claimant indicated he attempted to work once as a 
+machine operator for a metal priming company. The employment lasted approximately 
+one week in 2024 and ended when claimant was unable to tolerate the bending 
+required.  (Claimant’s testimony; DEI, p. 29) Claimant denies telling Dr. Smith that he 
+was working odd jobs while receiving treatment. (DEK, Tr. pp. 42-43) He continued to 
+own his junk removal business following his injury, but testified he did not perform any 
+jobs post-injury and eventually closed his business. (Claimant’s testimony; DEI, p. 29; 
+DEK, Tr. p. 43)  
+Claimant testified he does not drive due to his current loss of vision tied to the 
+stroke he suffered in August 2024. He explained that the vision has not returned to his 
+left eye. He denied any other ongoing issues tied to the hospitalization. Claimant 
+continues to treat with his primary care provider for his diabetes and kidney disease. 
+(Claimant’s testimony)  
+Claimant continues to experience back complaints, which he believes worsened 
+slightly in the year preceding hearing. He believes he requires further treatment. 
+Following denial of his workers’ compensation claim, claimant testified he received 
+limited treatment with his personal physician but did not seek further care because he 
+does not have health insurance. Claimant clarified he does have insurance that is 
+designated for low income individuals. While unclear, the undersigned presumes this 
+insurance is provided through the State of Iowa. Claimant testified he continues to 
+experience stomach pain, but does not require additional treatment. Claimant testified 
+he has fallen into a depression following the injury and has sought care for his 
+symptoms. He did not claim a mental health injury related to his alleged work injury at 
+defendant-employer. (Claimant’s testimony)  
+CONCLUSIONS OF LAW 
+The first issue for determination is whether claimant sustained an injury on 
+November 30, 2022 which arose out of and in the course of his employment.  
+The party who would suffer loss if an issue were not established has the burden 
+of proving that issue by a preponderance of the evidence.  Iowa R. App. P. 6.904(3)(e). 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the alleged injury actually occurred and that it both arose out of and in the course of the 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 14 
+ 
+employment. Quaker Oats Co. v. Ciha, 552 N.W.2d 143, 150 (Iowa 1996); Miedema v. 
+Dial Corp., 551 N.W.2d 309, 311 (Iowa 1996). The words “arising out of” refer to the 
+cause or source of the injury. The words “in the course of” refer to the time, place, and 
+circumstances of the injury. 2800 Corp. v. Fernandez, 528 N.W.2d 124, 128 (Iowa 
+1995).  An injury arises out of the employment when a causal relationship exists 
+between the injury and the employment. Miedema, 551 N.W.2d at 311. The injury must 
+be a rational consequence of a hazard connected with the employment and not merely 
+incidental to the employment. Koehler Elec. v. Wills, 608 N.W.2d 1, 3 (Iowa 2000); 
+Miedema, 551 N.W.2d at 311. An injury occurs “in the course of” employment when it 
+happens within a period of employment at a place where the employee reasonably may 
+be when performing employment duties and while the employee is fulfilling those duties 
+or doing an activity incidental to them. Ciha, 552 N.W.2d at 150. 
+Defendants argue claimant is not a credible witness and therefore, his testimony 
+should not be entitled to any weight. Following review of the entirety of the record, I 
+disagree and find claimant is credible. Claimant’s testimony at deposition and 
+evidentiary hearing is consistent. While he did not provide verbatim testimony, I find the 
+variations are within the realm of what is reasonable and expected given claimant’s 
+English language skills and the use of interpreters. Defendants argue claimant’s 
+behavior at evidentiary hearing demonstrated he understood the questions posed prior 
+to completion of the translation; I did not observe such behavior. Rather, I noted that 
+claimant consistently waited for completion of an interpreted question before providing 
+an answer. Contrary to what was argued by defendants, I did not observe evasiveness 
+or deception. Rather, I find his behavior and answers to questions to be in line with that 
+one could expect from a 60-year-old man, with very limited education and lack of 
+English skills. While claimant did appear hesitant at times, I did not observe any signs of 
+deception, argumentativeness, or unwillingness to answer questions. Claimant was 
+observed twisting his upper body in an apparent attempt to stretch his back during the 
+course of his testimony. His demeanor gave the undersigned no compelling reason to 
+doubt his veracity.  
+The undersigned finds claimant was a credible witness. Claimant testified at 
+deposition and hearing that he sustained an injury on November 30, 2022, when a 
+forklift struck the cart he was pushing, causing the cart to strike his abdomen. He was 
+then positioned between the cart and a stack of boxes, at which point he moved the cart 
+forward and came down onto his knees. Claimant immediately reported the injury and 
+sought medical care the same day. He then received medical care on a consistent basis 
+thereafter.  
+Defendants highlight the variation in such medical records denoting the precise 
+mechanism of injury. While I agree that the accounts do vary and at times give the 
+impression that claimant was personally struck by the forklift, rather than the forklift 
+striking the cart into him, I do not find these variances sufficient to warrant discrediting 
+claimant’s testimony or nullifying his reports. Rather, I find that these variations are 
+more likely explained by claimant’s limited English skills and the use of various 
+interpreters. Further, I note that defendants accepted claimant’s injury and provided 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 15 
+ 
+medical care for a period of several months. At no point during this period does it 
+appear that defendants took issue with the perceived discrepancies in claimant’s 
+reported mechanism of injury.   
+ 
+Neither side presented evidence from potential witnesses to the incident itself; for 
+example, from the forklift driver and/or coworkers. No contemporaneous witness 
+statements were taken and entered into evidence in investigation of this reported injury.  
+The only witness statement in evidence pertains to the statement of Mr. Rolon, who was 
+not a witness to the incident. Rather, Mr. Rolon approached Ms. Lloyd approximately 
+five months later and reported claimant was lying about the injury. Mr. Rolon did not 
+personally author a statement; he endorsed what was recorded by Ms. Lloyd. Mr. Rolon 
+did not provide sworn testimony. Given claimant’s uncontradicted testimony regarding 
+the fraught nature of their familial relationship and the timing of Mr. Rolon’s statement, I 
+cannot award weight to Mr. Rolon’s statement.  
+Quite simply, there is no evidence in the record which convincingly contests 
+claimant’s version of events. Accordingly, I find that claimant has proven he sustained 
+an injury arising out of and in the course of his employment on November 30, 2022.  
+The next issue for determination is whether the work injury is a cause of 
+temporary disability, and if so, the extent of claimant’s entitlement to temporary 
+disability. Specifically, claimant seeks a running award of temporary disability benefits. 
+When an injured worker has been unable to work during a period of recuperation 
+from an injury that did not produce permanent disability, the worker is entitled to 
+temporary total disability benefits during the time the worker is disabled by the injury.  
+Iowa Code § 85.33(1) (2015).  Those benefits are payable until the employee has 
+returned to work or is medically capable of returning to work substantially similar to the 
+work performed at the time of injury.  Id.  
+Healing period compensation describes temporary workers’ compensation 
+weekly benefits that precede an allowance of permanent partial disability benefits.  
+Ellingson v. Fleetguard, Inc., 599 N.W.2d 440, 446 (Iowa 1999).  Healing period benefits 
+are payable to an injured worker who has suffered permanent partial disability until the 
+first to occur of three events.  Iowa Code § 85.34(1) (2015).  These are: (1) the worker 
+has returned to work; (2) the worker medically is capable of returning to substantially 
+similar employment; or (3) the worker has achieved maximum medical recovery.  Id.  
+Maximum medical recovery is achieved when healing is complete, and the extent of 
+permanent disability can be determined.  Armstrong Tire & Rubber Co. v. Kubli, 312 
+N.W.2d 60, 65 (Iowa Ct. App. 1981).  Neither maintenance medical care nor an 
+employee's continuing to have pain or other symptoms necessarily prolongs the healing 
+period.  Id. 
+An employee is entitled to appropriate temporary partial disability benefits during 
+those periods in which the employee is temporarily, partially disabled.  Iowa Code § 
+85.33(2) (2015).  An employee is temporarily, partially disabled when the employee is 
+not capable medically of returning to employment substantially similar to the 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 16 
+ 
+employment in which the employee was engaged at the time of the injury but is able to 
+perform other work consistent with the employee's disability.  Id.  Temporary partial 
+benefits are not payable upon termination of temporary disability, healing period, or 
+permanent partial disability simply because the employee is not able to secure work 
+paying weekly earnings equal to the employee's weekly earnings at the time of the 
+injury.  Id. 
+Following the established work injury on November 30, 2022, claimant obtained 
+authorized medical care, directed by defendants. Throughout the course of claimant’s 
+authorized medical care, no provider opined that claimant’s complaints were not 
+causally related to the work injury. Claimant obtained an independent medical 
+examination with Dr. Bansal, who opined claimant's abdomen and back/hip conditions 
+were causally related to the work injury. Defendants offered no medical opinion refuting 
+Dr. Bansal’s opinion. Defendants urge the undersigned to reject Dr. Bansal’s report 
+based on what they believe is an inaccurate history and unconvincing rationale. 
+However, I do not find this argument persuasive. On its face, Dr. Bansal’s report does 
+not contain any glaring errors which would warrant discrediting and rejecting the totality 
+of the report. Further, defendants offered no opinions to counter the opinions expressed 
+by Dr. Bansal. Therefore, the undersigned is left with an unrebutted causation opinion. 
+Accordingly, I find that claimant has proven by a preponderance of the evidence that the 
+work injury of November 30, 2022, is a cause of temporary disability.   
+Commencing on the date of injury, defendants directed claimant for medical care. 
+Claimant was placed under restrictions by DoctorsNow on November 30, 2022. These 
+restrictions prohibited claimant from meeting the physical requirements of his job 
+placement, which specifically required a 50-pound lift. Thereafter, the evidentiary record 
+demonstrates claimant worked part-time hours during the remainder of December 2022. 
+Details of the work assignments offered and work performed during this time are 
+extremely limited. However, to the extent that claimant’s earnings were limited during 
+the period he labored under work restrictions, but was able to perform work consistent 
+with his condition, claimant is entitled to temporary partial disability benefits.  
+At the end of December 2022, claimant’s placement ended. The evidentiary 
+record does not contain evidence that an offer of work was extended to claimant by 
+defendant-employer thereafter. At this time, claimant remained under work restrictions, 
+was not working, and had not achieved maximum medical improvement. Appropriately, 
+defendants commenced payment of temporary total disability benefits commencing 
+December 28, 2022. I therefore find claimant is eligible for temporary partial disability 
+benefits from November 30, 2022 through December 27, 2022, as applicable. 
+Having found claimant’s injury was a cause of temporary disability and that 
+claimant remained under restrictions, had not returned to work, and had not achieved 
+maximum medical improvement, claimant is entitled to an award of temporary total 
+disability/healing period benefits. The best evidence establishes claimant’s temporary 
+total disability period began on December 28, 2022, the date defendants commenced 
+payment of temporary disability benefits.         
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 17 
+ 
+Claimant argues he is entitled to a running award of temporary total 
+disability/healing period benefits. I do not find this argument convincing. Claimant is only 
+entitled to an award of such benefits for so long as he has not returned to work, was 
+medically incapable of returning to substantially similar work, and had not achieved 
+maximum medical recovery. In this instance, claimant has not returned to work and due 
+to ongoing limitations, is not able to return to substantially similar work. However, 
+claimant has been placed at maximum medical improvement by multiple providers. 
+Specifically, Drs. Mayfield and Bansal opined claimant had achieved MMI as of March 
+28, 2023 for his abdominal injury. Dr. Smith placed claimant at MMI for his back 
+complaints effective July 25, 2023. Dr. Bansal opined that absent further treatment, 
+claimant had achieved MMI for his back injury as of October 19, 2023. The only 
+treatment option raised by Dr. Bansal was intermittent right sacroiliac joint injections, 
+care that is maintenance in nature. Claimant did not obtain any significant treatment of 
+his complaints following Dr. Bansal’s examination; any care received reflected 
+symptomatic pain control only.  
+Accordingly, I find that claimant’s period of recuperation following the work injury 
+has terminated. Claimant achieved MMI for his abdominal injury on March 28, 2023. 
+Therefore, it must be determined how long claimant’s temporary disability period 
+extended thereafter. Dr. Smith opined an MMI date of July 25, 2023. He did so following 
+review of the July 2023 surveillance report and videos. Thereafter, Dr. Smith opined that 
+claimant demonstrated abilities that were beyond those which claimant reported on 
+examination and which were inconsistent with claimant’s restrictions. Initially, Dr. Smith 
+noted claimant was seen changing tires; he later indicated claimant was carrying a jack 
+with a weight exceeding his restrictions. Dr. Smith’s observations are incorrect. 
+Claimant did not change tires, and the jack he moved fell within the weight restriction 
+imposed by Dr. Smith. It therefore appears that Dr. Smith’s report was reflexive in 
+nature, rather than based upon claimant’s objectively observed abilities. I therefore do 
+not award Dr. Smith’s report any weight. Accordingly, I adopt the opinion of Dr. Bansal 
+with respect to the proper date of MMI for claimant’s back condition. 
+I therefore find the date of October 19, 2023, as the termination of claimant’s 
+temporary disability period. Claimant is therefore entitled to temporary total 
+disability/healing period benefits from December 28, 2022 through October 19, 2023.    
+ 
+The next issue for determination is whether the work injury is a cause of 
+permanent disability, including whether the injury is a cause of claimant’s ongoing 
+complaints. If the injury is a cause of permanent disability, the next issue for 
+determination is the extent of claimant’s industrial disability and the commencement 
+date for permanent disability benefits, if awarded. These issues will be considered 
+together.  
+ 
+As set forth supra, I adopted Dr. Bansal’s opinion causally relating claimant’s 
+abdominal and back/right hip conditions, including his ongoing complaints, to the work 
+injury of November 30, 2022. Accordingly, I find claimant has proven the work injury 
+was a cause of permanent disability.  
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 18 
+ 
+ 
+The next issue for determination is the extent of claimant’s permanent disability. 
+Under the Iowa Workers' Compensation Act, permanent partial disability is 
+compensated either for a loss or loss of use of a scheduled member under Iowa Code 
+section 85.34(2)(a)-(u) or as an unscheduled injury pursuant to the provisions of section 
+85.34(2)(v). The parties stipulated claimant’s permanent disability should be evaluated 
+industrially.  
+Since claimant has an impairment to the body as a whole, an industrial disability 
+has been sustained.  Industrial disability was defined in Diederich v. Tri-City Ry. Co. of 
+Iowa, 219 Iowa 587, 591, 258 N.W. 899, 902 (1935) as follows:  "It is therefore plain that 
+the Legislature intended the term 'disability' to mean 'industrial disability' or loss of 
+earning capacity and not a mere 'functional disability' to be computed in terms of 
+percentages of the total physical and mental ability of a normal man." 
+Functional impairment is an element to be considered in determining industrial 
+disability which is the reduction of earning capacity, but consideration must also be 
+given to the injured employee's age, education, qualifications, experience, motivation, 
+loss of earnings, severity and situs of the injury, work restrictions, inability to engage in 
+employment for which the employee is fitted and the employer's offer of work or failure 
+to so offer.  McSpadden v. Big Ben Coal Co., 288 N.W.2d 181, 192 (Iowa 1980); Olson 
+v. Goodyear Service Stores, 255 Iowa 1112, 1120, 125 N.W.2d 251, 256 (1963); Barton 
+v. Nevada Poultry Co., 253 Iowa 285, 110 N.W.2d 660, 663 (1961). 
+Compensation for permanent partial disability shall begin when it is medically 
+indicated that maximum medical improvement from the injury has been reached and 
+that the extent of loss or percentage of permanent impairment can be determined by the 
+use of the guides to the evaluation of permanent impairment, published by the American 
+Medical Association, as adopted by the Commissioner. Iowa Code section 85.34(2) 
+ 
+I first examine the medical opinions with respect to claimant’s functional 
+impairment and need for activity restrictions. No physician has opined claimant 
+sustained permanent disability relative to his abdominal injury. Dr. Bansal and Dr. Smith 
+offered competing opinions with respect to claimant’s back/right hip complaints.  
+ 
+Dr. Smith opined claimant did not sustain any permanent impairment and did not 
+require permanent restrictions. Although claimant had been undergoing treatment with 
+Dr. Smith, Dr. Smith issued his opinion upon review of surveillance evidence of 
+claimant. As set forth supra, Dr. Smith’s opinion misstated multiple facts about the 
+activities objectively performed and items handled by claimant in the surveillance 
+videos. I, therefore, decline to award any weight to Dr. Smith’s opinion.  
+ 
+Rather, I adopt the opinions of Dr. Bansal with respect to the extent of claimant’s 
+functional impairment and need for work restrictions. Dr. Bansal reviewed and 
+accurately summarized the activities performed by claimant on surveillance video. His 
+findings and opinions are also consistent with claimant’s ongoing complaints and 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 19 
+ 
+limitations. Dr. Bansal opined claimant sustained a 5 percent whole person impairment. 
+He also imposed permanent restrictions of a 40-pound maximum lift and avoidance of 
+prolonged bending and squatting. These restrictions are consistent with those imposed 
+by Dr. Smith prior to his abrupt release of claimant from care.  
+ 
+Claimant is a 60-year-old man, with very limited education and limited English 
+language skills. His work history is limited to unskilled manual labor. A 40-pound lifting 
+restriction impacts claimant’s ability to perform positions he held preinjury and limits his 
+access to the labor market. Although claimant has been physically limited due to the 
+work injury, claimant has not demonstrated motivation to continue employment. His 
+preinjury work history is sporadic, and since the work injury, claimant did not request 
+further assignments from defendant-employer, nor demonstrate more than a cursory 
+search for employment.  
+ 
+In light of the above and after consideration of all other relevant factors of 
+industrial disability, I find that claimant sustained a 15 percent industrial disability as a 
+result of the work injury of November 30, 2022. Such an award entitles claimant to 75 
+weeks of permanent partial disability benefits, commencing at the termination of 
+claimant’s healing period, October 20, 2023.  
+ 
+The next issue for consideration is the rate of compensation. 
+The basis of compensation is the weekly earnings of the employee at the time of 
+the injury.  Iowa Code § 85.36 (2015).  Weekly earnings are the gross salary, wages, or 
+earnings to which an employee would have been entitled had the employee worked the 
+customary hours for the full pay period in which the employee was injured as the 
+employer regularly required for the work or employment.  Id.  The various subsections of 
+section 85.36 set forth methods of computing weekly earnings depending upon the type 
+of earnings and employment.  Id. 
+If the employee is paid on a daily or hourly basis or by output, weekly earnings 
+are computed by dividing by thirteen the earnings over the thirteen-week period 
+immediately preceding the injury.  Iowa Code § 85.36(6) (2015).  Any week that does 
+not fairly reflect the employee’s customary earnings is excluded, however.  Id. 
+The undersigned computed claimant’s total hours worked as 362.55 over the 13-
+week period extending from the week ending August 28, 2022 through the week ending 
+November 27, 2022. This computation excludes the weeks ending October 16, 2022, as 
+inaccurate and November 20, 2022, as it includes zero earnings. I find both of these 
+weeks to be unrepresentative of claimant’s earnings.  
+I decline to exclude the other 4 weeks proposed by claimant as unrepresentative, 
+simply because they reflect weeks with lower hours and/or holidays. Claimant seeks to 
+exclude the weeks ending September 11, 2022 and November 27, 2022, as the weeks 
+included holidays. However, claimant testified his hours varied greatly, from 14 to 40 
+hours or more per week, and there is no evidence in the record regarding whether 
+claimant missed work opportunities due to the holidays. The simple presence of a 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 20 
+ 
+holiday during a work week does not warrant automatic exclusion of that week unless it 
+is shown that claimant lost earnings due to the holiday.  
+In two of the weeks excluded by claimant, he worked 11.95 hours. This number 
+of hours is slightly below the testified 14 to 40-hour range, but given he performed 
+approximately 12 hours of work during each of these two weeks, I find the weeks to be 
+representative of his customary earnings. I similarly find a week of 14.83 hours is 
+consistent with his demonstrated variable work hours and further, with the two weeks in 
+which claimant worked only 12 hours. Finally, I find that the week in which claimant 
+worked 22.38 hours is consistent with his history of variable work hours and is within the 
+range testified to by claimant.  
+I also note that in one identified week, that ending September 25, 2022, claimant 
+was paid for 65.58 hours. The payments were made via two separate checks, covering 
+two separate hour totals, dated September 22, 2022 and September 29, 2022; both 
+checks referenced the week ending September 25, 2022. This number of hours is 
+clearly outside of claimant’s typical range of hours worked per week. However, neither 
+claimant nor defendants excluded that week from their computation. I therefore find that 
+claimant’s hours varied widely, there is insufficient evidence to find that claimant lost 
+earnings due to holidays, and the 4 weeks proposed by claimant should not be 
+excluded as unrepresentative.    
+Utilizing claimant’s hourly rate of $14.00, these 362.55 hours correspond to gross 
+earnings of $5,075.70. Divided by the 13 weeks in which the sums were earned, it is 
+found that claimant’s gross average weekly wage was $390.44. The parties stipulated 
+claimant was married and entitled to 3 exemptions at the time of the work injury. 
+Accordingly, claimant’s rate of compensation is $283.50. 
+Having found claimant’s proper rate of compensation, further clarification can 
+now be provided regarding claimant’s entitlement to indemnity benefits. As set forth 
+supra, claimant is entitled to healing period benefits from December 28, 2022 through 
+October 19, 2023. These benefits are payable at the weekly rate of $283.50. As also set 
+forth supra, claimant was found to have sustained a 15 percent industrial disability as a 
+result of the work injury. Such an award entitles claimant to 75 weeks of permanent 
+partial disability benefits commencing October 20, 2023 and payable at the weekly rate 
+of $283.50. 
+Additionally, claimant was found to have a potential entitlement to temporary 
+partial disability benefits during the period he remained employed and working in a light 
+duty capacity, due to imposed restrictions, for defendant-employer. Temporary partial 
+disability benefits shall be 66 2/3 percent of the difference between the employee’s 
+weekly earnings at the time of injury and the employee’s actual gross weekly income 
+from employment during the period of temporary partial disability. Iowa Code section 
+85.33(4)  
+Claimant’s period of temporary partial disability benefits was found to extend 
+from claimant’s injury through December 27, 2022. Claimant earned the following gross 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 21 
+ 
+wages during these weeks worked post-injury: $205.10 during the week ending 
+December 4, 2022; $71.68 during the week ending December 11, 2022; $510.72 during 
+the week ending December 25, 2022; and $129.50 in the week ending January 1, 2023. 
+In all but one of these weeks, that ending December 25, 2022, claimant’s gross 
+earnings were less than his gross average weekly wage at the time of his injury, 
+$390.44.  
+ 
+Accordingly, claimant is entitled to temporary partial disability benefits in each of 
+these three weeks. During the week ending December 4, 2022, claimant’s earnings 
+were $140.34 less ($390.44 - $205.10), entitling claimant to $93.56 (66.67 percent x 
+$140.34) in temporary partial disability benefits. During the week ending December 11, 
+2022, claimant’s earnings were $318.76 less ($390.44 - $71.68), entitling claimant to 
+$212.52 (66.67 percent x $318.76) in temporary partial disability benefits. During the 
+week ending January 1, 2023, claimant’s earnings were $260.94 less ($390.44 - 
+$129.50), entitling claimant to $173.97 (66.67 percent x $260.94) in temporary partial 
+disability benefits. In total, claimant is entitled to $480.05 ($93.56 + $212.52 + $173.97) 
+in temporary partial disability benefits for the period extending from his injury through 
+December 27, 2022.  
+ 
+The next issue for determination is whether claimant is entitled to reimbursement 
+of an independent medical examination under Iowa Code section 85.39. 
+Iowa Code section 85.39 permits an employee to be reimbursed for subsequent 
+examination by a physician of the employee's choice where an employer-retained 
+physician has previously evaluated “permanent disability” and the employee believes 
+that the initial evaluation is too low.   Iowa Code § 85.39(2) (2023).  The section also 
+permits reimbursement for reasonably necessary transportation expenses incurred and 
+for any wage loss occasioned by the employee attending the subsequent examination.  
+Iowa Code § 85.39 (1), (2).   
+The Iowa Supreme Court has provided a literal interpretation of the plain 
+language of Iowa Code section 85.39, stating that section only allows the employee to 
+obtain an independent medical evaluation at the employer’s expense if an evaluation of 
+permanent disability has already been made by an employer retained physician.  Des 
+Moines Area Reg’l Transit Auth. v. Young, 867 N.W.2d 839, 847 (Iowa 2015). Under 
+the Young decision, an employee can only obtain an IME at the employer's expense if 
+an evaluation of permanent disability has been made by an employer-retained 
+physician. Id. 
+An employer is only liable to reimburse an employee for the cost of an 
+examination conducted pursuant to this subsection if the injury for which the employee 
+is being examined is determined to be compensable.  Iowa Code § 85.39(2) (2017).  
+“An employer is not liable for the cost of such examination if the injury for which the 
+employee is being examined is determined not to have a compensable injury. A 
+determination of the reasonableness of a fee for an examination made pursuant to this 
+subsection, shall be based on the typical fee charged by a medical provider to perform 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 22 
+ 
+an impairment rating in the local area where the examination is conducted.”  Iowa Code 
+§ 85.39(2); Tweeten v. Tweeten, 999 N.W.2d 270, 282 (Iowa 2023).   
+Claimant sustained a compensable work-related injury. Defendants’ chosen 
+physician, Dr. Smith, issued an opinion regarding the extent of claimant’s permanent 
+impairment. This opinion triggered claimant’s right to an independent medical 
+examination. Claimant procured the examination with Dr. Bansal, the cost of which was 
+$4,373.00. (CE1, p. 19) Claimant is entitled to reimbursement for this expense.  
+The next issue for determination is whether defendants are responsible for 
+claimed medical expenses found in Claimant’s Exhibit 8. 
+The employer shall furnish reasonable surgical, medical, dental, osteopathic, 
+chiropractic, podiatric, physical rehabilitation, nursing, ambulance, and hospital services 
+and supplies for all conditions compensable under the workers' compensation law.  The 
+employer shall also allow reasonable and necessary transportation expenses incurred 
+for those services.  The employer has the right to choose the provider of care, except 
+where the employer has denied liability for the injury.  Iowa Code section 85.27.  Holbert 
+v. Townsend Engineering Co., Thirty-second Biennial Report of the Industrial 
+Commissioner 78 (Review-Reopening October 1975). 
+Following defendants’ denial of care, claimant sought care from Primary Health 
+Care relative to his ongoing back complaints on November 9, 2023. He incurred out-of-
+pocket co-pay expenses as a result. (CE8, pp. 43-44) As these expenses were incurred 
+in treatment of work-related conditions and following defendants’ denial of care, 
+defendants should be held responsible for the cost associated with claimant’s care.  
+ 
+Claimant incurred mileage expenses related to authorized care and the IME with 
+Dr. Bansal. Defendants are held responsible for medical mileage expenses related to 
+causally related and authorized medical care, as well as for transportation expenses 
+related to claimant’s IME. (CE8, pp. 45-46) 
+ 
+The next issue for determination is whether claimant is entitled to an award of 
+alternate medical care under section 85.27. 
+ 
+Claimant has proven he sustained a compensable work-related injury. Despite 
+initially offering care, defendants subsequently denied liability for his claim and ceased 
+authorizing medical care. Claimant is entitled to ongoing medical care related to his 
+injuries; accordingly, claimant is entitled to an award of alternate medical care and may 
+choose his own provider to render care at defendants’ cost.  
+The next issue for determination is whether claimant is entitled to an award of 
+penalty benefits. 
+If weekly compensation benefits are not fully paid when due, section 10A.315(4) 
+requires that additional benefits be awarded unless the employer shows reasonable 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 23 
+ 
+cause or excuse for the delay or denial.  Iowa Code § 10A.315(4) (2023); Robbennolt v. 
+Snap-on Tools Corp., 555 N.W.2d 229, 236-37 (Iowa 1996).  
+“Benefits may be delayed, without penalty, during such time as an employer’s 
+liability is “fairly debatable”. Kiesecker v. Webster City Custom Meats, Inc., 528 N.W.2d 
+109, 111 (Iowa 1995).  A delay attributable to the time required to perform a reasonable 
+investigation is not unreasonable.  Id.  
+It also is not unreasonable to deny a claim when a good faith issue of law or fact 
+makes the employer’s liability fairly debatable.  Rodda v. Vermeer Mfg., 734 N.W.2d 
+480, 483 (Iowa 2007).  An issue of law is fairly debatable if viable arguments exist in 
+favor of each party.  Covia v. Robinson, 507 N.W.2d 411, 412 (Iowa 1993).  An issue of 
+fact is fairly debatable if substantial evidence exists which would support a finding 
+favorable to the employer.  Gilbert v. USF Holland, Inc., 637 N.W.2d 194, 199 (Iowa 
+2001).  
+“An employer’s bare assertion that a claim is ‘fairly debatable’ does not make it 
+so.”  Meyers v. Holiday Express Corp., 557 N.W.2d 502, 505 (Iowa 1996).  The 
+employer must assert facts upon which the commissioner could reasonably find that the 
+claim was “fairly debatable.”  Id.   
+If the employer fails to show reasonable cause or excuse for the delay or denial, 
+the commissioner shall impose a penalty in an amount up to 50 percent of the amount 
+unreasonably delayed or denied.  Christensen v. Snap-on Tools Corp., 554 N.W.2d 
+254, 259 (Iowa 1996).  The factors to be considered in determining the amount of the 
+penalty include the length of the delay, the number of delays, the information available 
+to the employer and the employer’s past record of penalties.  Robbennolt, 555 N.W.2d 
+at 238. 
+An employer may not unilaterally decide to deny, delay, or terminate benefits 
+without adhering to section 10A.315. Iowa Code § 10A.315 (2023).  Section 
+10A.315(4)(c) creates a mandatory timeline for the employer to follow, to show the 
+employer met its burden of a “reasonable or probable cause or excuse” for denial, 
+delay, or termination of benefits.  Iowa Code § 10A.315(4)(c)(1)-(3).   First, the 
+employer’s excuse must be preceded by a reasonable investigation and evaluation into 
+whether the benefits were owed.  Iowa Code § 10A.315(4)(c)(1); Baker v. 
+Bridgestone/Firestone & Old Republic Inc., 872 N.W.2d 672, 678 (Iowa 2015).  Second, 
+the results of the reasonable investigation were “the actual basis . . . 
+contemporaneously” relied on by the employer for the denial, delay or termination of the 
+benefits.  Iowa Code § 10A.315(4)(c)(2).   Third, the employer “contemporaneously 
+conveyed the basis for the denial, delay in payment or termination of benefits to the 
+employee at the time of their denial, delay or termination.”  Iowa Code § 
+10A.315(4)(c)(3).  An employer cannot unilaterally decide to terminate benefits without 
+adhering to section 10A.315.   Iowa Code § 10A.315.  
+ 
+Following the work injury, claimant returned to work at defendant-employer until 
+late December 2022. The record is largely devoid of evidence and argument regarding 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 24 
+ 
+the work performed by claimant during this period, any offer of work by defendants, or 
+any rejection of work by claimant. However, the record does demonstrate that claimant 
+was laboring under work restrictions imposed by an authorized physician and that 
+claimant’s earnings were less than his gross average weekly wage during three of the 
+weeks that he worked post-injury. During these weeks, claimant was found entitled to 
+$480.05 in temporary partial disability benefits. There is no evidence that claimant’s 
+entitlement to such benefits was promptly investigated and defendants’ own rate 
+calculation found a gross average weekly wage higher than that earned by claimant 
+during these weeks in question. I find no fairly debatable basis for denial of temporary 
+disability benefits during this period. 
+ 
+By this decision, claimant was found entitled to healing period benefits from 
+December 28, 2022 through October 19, 2023, payable at the rate of $283.50. 
+Defendants commenced payment of healing period benefits promptly on December 28, 
+2022. Benefits were regularly paid at a higher rate, typically $300.43 or $324.00, 
+through August 16, 2023. As benefits were timely paid during this period, at a rate 
+higher than that to which claimant was entitled, I find no basis for an award of penalty 
+benefits on the healing period benefits paid from December 28, 2022 through August 
+16, 2023. 
+ 
+Relying upon Dr. Smith’s August 10, 2023 report, defendants terminated 
+claimant’s healing period benefits effective August 16, 2023. While defendants argue 
+claimant’s entitlement to benefits at this time was a fairly debatable issue, defendants 
+failed to provide claimant with a 30-day notice of termination of his benefits and abruptly 
+ceased payment. Defendants maintained this denial of benefits and do not appear to 
+have reevaluated the denial, despite obvious inaccuracies in the basis of Dr. Smith’s 
+report. Reliance upon a medical opinion that is based upon an obvious error in the 
+physician’s opinion, in this case whether claimant had personally manipulated tires on a 
+vehicle, does not render a claim fairly debatable. As benefits were denied without 
+written notice, based upon a questionable medical report, and not later reevaluated, I 
+find an award of penalty benefits is warranted for the period of August 17, 2023 through 
+October 19, 2023. This period totals 9.143 weeks of benefits, payable at a weekly rate 
+of $283.50. Accordingly, the value of benefits denied is $2,592.04.  
+ 
+However, it should be noted that defendants overpaid claimant’s healing period 
+benefits from December 28, 2022 through August 16, 2023. Claimant’s award of healing 
+period benefits from December 28, 2022 through August 16, 2023 entitles claimant to 
+healing period benefits for 33.143 weeks, totaling $9,396.04 (33.143 x $283.50). 
+Defendants demonstrated payment of $9,766.33 in benefits. Defendants, therefore, 
+overpaid such benefits in the amount of $370.29. 
+ 
+Finally, claimant seeks penalty benefits for defendants’ failure to pay permanent 
+partial disability benefits. Claimant relies upon Dr. Bansal’s rating of 5 percent 
+permanent partial impairment and imposition of work restrictions. Defendants rely upon 
+the reports of Dr. Smith, opining claimant did not sustain permanent impairment or 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 25 
+ 
+require work restrictions. On this basis, defendants argue claimant’s entitlement to 
+permanent partial disability benefits was fairly debatable.  
+ 
+Defendants performed a contemporaneous investigation into claimant’s 
+entitlement to permanent partial disability benefits. Defendants obtained surveillance 
+evidence of claimant’s activities and secured a medical opinion from Dr. Smith. While a 
+medical opinion is often sufficient to support a denial of benefits and thus render a claim 
+fairly debatable, I find Dr. Smith’s opinion insufficient in this case. Despite providing 
+claimant ongoing care and having the personal opportunity to observe and evaluate 
+claimant, Dr. Smith abruptly found claimant did not sustain permanent impairment or 
+require permanent restrictions. His basis for the opinion was claimant’s purported 
+performance of activities such as changing, moving, and carrying tires. However, none 
+of these activities was specifically observable on video surveillance. When claimant’s 
+counsel reviewed the video evidence personally with Dr. Smith, Dr. Smith admitted 
+these activities were not visible. He then based his opinion upon claimant’s movement 
+of a jack, stating jacks could weigh 60 to 100 pounds. Claimant provided evidence the 
+jack used by claimant weighed approximately 30 pounds. Despite Dr. Smith’s 
+inaccuracies and with full knowledge of the video contents and weight of the jack, 
+defendants do not appear to have reevaluated the claim.  
+ 
+I find that defendants did not have a fairly debatable basis to deny payment of 
+permanent partial disability benefits. By this decision, claimant was found to have 
+suffered a 15 percent industrial disability, entitling claimant to 75 weeks of permanent 
+partial disability benefits. This award entitles claimant to $21,262.50 in permanent 
+partial disability benefits (75 weeks x $283.50). Dr. Bansal’s unrebutted 5 percent whole 
+person impairment rating alone would entitle claimant to $7,087.50 (25 weeks x 
+$283.50).      
+ 
+Following consideration of the above, I award claimant $4,000.00 in penalty 
+benefits based upon defendants’ denial of temporary partial, healing period, and 
+permanent partial disability benefits. Defendants investigated the claim, promptly began 
+payment of healing period benefits, and overpaid such benefits. However, defendants 
+did not pay temporary partial disability benefits, based their subsequent denial of the 
+claim upon an inaccurate medical opinion, did not provide claimant written notice of the 
+denial of further benefits, and failed to reevaluate the denial despite knowledge of the 
+inaccuracies relied upon by Dr. Smith. On these facts, an award of penalty benefits is 
+warranted. 
+ 
+The next issue for determination is whether defendants are entitled to a credit for 
+alleged overpayment of temporary total disability benefits. 
+ 
+As set forth supra, claimant’s rate of compensation was determined to be 
+$283.50. To the extent applicable, claimant is entitled to temporary partial disability 
+benefits from November 30, 2022 through December 27, 2022. Claimant is also entitled 
+to healing period benefits from December 28, 2022 through October 19, 2023. 
+Defendants are entitled to a credit for any temporary disability benefits paid as against 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 26 
+ 
+this award. If further clarification is required, the parties may move for rehearing as to 
+the extent of defendants’ credit.   
+ 
+The final issue for determination is whether claimant is entitled to a specific 
+taxation of costs, as found in claimant’s exhibit 9. 
+ 
+“All costs incurred in the hearing before the commissioner shall be taxed in the 
+discretion of the commissioner.”  Iowa Code § 10A.328(2023).  Iowa Administrative 
+Rule 876—4.33(86) outlines what costs may be assessed at hearing. It states as 
+follows:  
+Costs taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+reviewing health service disputes. Costs of service of notice and subpoenas 
+shall be paid initially to the serving person or agency by the party utilizing 
+the service. Expenses and fees of witnesses or of obtaining doctors’ or 
+practitioners’ reports initially shall be paid to the witnesses, doctors or 
+practitioners by the party on whose behalf the witness is called or by whom 
+the report is requested. Witness fees shall be paid in accordance with Iowa 
+Code section 622.74. Proof of payment of any cost shall be filed with the 
+workers’ compensation commissioner before costs are taxed. The party 
+initially paying the expense shall be reimbursed by the party taxed with the 
+cost. If the expense is unpaid, it shall be paid by the party taxed with the 
+cost. Costs are to be assessed at the discretion of the deputy workers’ 
+compensation commissioner or workers’ compensation commissioner 
+hearing the case unless otherwise required by the Iowa Rules of Civil 
+Procedure governing discovery.  
+Iowa Admin. Code r. 876—4.33(86). 
+ 
+Claimant prevailed in his claim for benefits. Claimant seeks taxation of the costs 
+of filing and convenience fee in the amount of $128.75. (CE9, p. 47) These are 
+allowable costs and are taxed to defendants. Claimant also seeks taxation of the costs 
+associated with a conference and report by Dr. Smith in response to Dr. Smith’s August 
+10, 2023 report, totaling $350.00. (CE9, p. 48) Finally, claimant  seeks taxation of the 
+cost associated with the addendum report of Dr. Bansal in the amount of $196.00. 
+(CE9, p. 49) The cost of obtaining two practitioner’s reports are allowable costs and are 
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 27 
+ 
+taxed to defendants. All requested costs set forth in claimant’s exhibit 9 are taxed to 
+defendants. 
+ORDER 
+THEREFORE, IT IS ORDERED: 
+The parties are ordered to comply with all stipulations that have been accepted 
+by this agency. 
+Defendants shall pay unto claimant temporary partial disability benefits in the 
+amount of four hundred eighty and 05/100 dollars ($480.05) for the period of November 
+30, 2022 through December 27, 2022. 
+Defendants shall pay unto claimant healing period benefits at the weekly rate of 
+two hundred eighty-three and 50/100 dollars ($283.50) for the period of December 28, 
+2022 through October 19, 2023. 
+Defendants shall pay unto claimant seventy-five (75) weeks of permanent partial 
+disability benefits commencing October 20, 2023 at the weekly rate of two hundred 
+eighty-three and 50/100 dollars ($283.50).  
+Defendants shall pay claimant’s prior medical expenses submitted by claimant at 
+the hearing as set forth in the decision.  
+Defendants shall pay penalty benefits in the amount of four thousand and 00/100 
+dollars($4,000.00). 
+Defendants shall pay interest on the penalty benefits from the date of this 
+decision.  See Schadendorf v. Snap-On Tools Corp., 757 N.W.2d 330, 339 (Iowa 2008). 
+ 
+Defendants shall pay accrued weekly benefits in a lump sum together with 
+interest at an annual rate equal to the one-year treasury constant maturity published by 
+the federal reserve in the most recent H15 report settled as of the date of injury, plus 
+two percent. See Gamble v. AG Leader Technology, File No. 5054686 (App. Apr. 24, 
+2018).  
+Defendants shall receive credit for benefits paid. 
+Defendants shall reimburse claimant for Dr. Bansal’s independent medical 
+examination as set forth in the decision. 
+Defendants shall file subsequent reports of injury as required by this agency 
+pursuant to rule 876 IAC 3.1(2). 
+Costs are taxed to defendants pursuant to 876 IAC 4.33 as set forth in the 
+decision.   
+
+BRACAMONTES V. JUST-STAFFING, LLC 
+Page 28 
+ 
+Signed and filed this ___25th __ day of September, 2025. 
+ 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                 ERICA J. FITCH            
+ 
+ 
+ 
+ 
+ 
+                       DEPUTY WORKERS’ 
+ 
+ 
+ 
+ 
+ 
+            COMPENSATION COMMISSIONER 
+ 
+ 
+The parties have been served as follows: 
+ 
+Nick Platt (via WCES) 
+ 
+Aaron Oliver (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Workers’ Compensation Division to file documents in paper form. If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Workers’ 
+Compensation Division, 6200 Park Ave., Suite 100, Des Moines, Iowa 50321. The notice of appeal must be received 
+by the Workers’ Compensation Division within 20 days from the date of the decision. The appeal period will be 
+extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+  
+ 

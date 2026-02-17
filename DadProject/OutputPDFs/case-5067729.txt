@@ -1,0 +1,867 @@
+Case Number: 5067729
+Case Title:  BLINKS, DAN V. OGDEN & ADAMS LUMBER
+Doc Type:    Decision - Deputy
+Source:      Blinks Dan-5067729d.pdf
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+DAN BLINKS, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  :                     File No. 5067729 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :  
+OGDEN AND ADAMS LUMBER, 
+  : 
+       ARBITRATION DECISION 
+ 
+ 
+  :  
+ 
+Employer, 
+  : 
+ 
+ 
+  :  
+and 
+ 
+  : 
+ 
+ 
+  : 
+SECURA INSURANCE COMPANIES, 
+  :            Head Note Nos.:  1400, 1402.40,  
+ 
+ 
+  :  
+ 
+ 
+ 
+1800, 1803, 3000, 
+ 
+Insurance Carrier, 
+  :  
+ 
+ 
+ 
+3002 
+ 
+Defendants. 
+  :  
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+ 
+The claimant, Dan Blinks, filed a petition for arbitration and seeks workers’ 
+compensation benefits from Ogden and Adams Lumber, as the employer, and Secura 
+Insurance Companies, as the insurance carrier.  The claimant was represented by 
+Casey Steadman.  The defendants were represented by M. Anne McAtee.   
+ 
+The matter came on for hearing on April 15, 2020, before Deputy Workers’ 
+Compensation Commissioner Heather Palmer remotely via CourtCall due to an order of 
+the Commissioner.  The evidentiary record closed upon receipt of post-hearing briefs on 
+May 22, 2020.  The hearing transcript was filed with the Iowa Division of Workers’ 
+Compensation on May 7, 2020.  Post-hearing briefs were filed on May 22, 2020.  The 
+case was deemed fully submitted to Deputy Palmer on that date.   
+ 
+The record in this case consists of Joint Exhibits 1-9, Claimant’s Exhibits 1-8, and 
+Defendants’ Exhibits A-G.  Testimony under oath was also taken from the claimant, Dan 
+Blinks.  Cheyanna Lambert was appointed the official reporter and custodian of the 
+notes of the proceeding.  The exhibits were accepted without objection.     
+ 
+Deputy Commissioner Palmer was unavailable to the agency.  Pursuant to Iowa 
+Code 17A.15(2), Commissioner Cortese delegated this file to the undersigned for 
+preparation and filing of an arbitration decision.   
+ELECTRONICALLY FILED     2020-Aug-10  15:37:45     DIVISION OF WORKERS' COMPENSATION
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 2 
+ 
+ 
+ 
+Pursuant to Iowa Code 17A.15(2), the undersigned inquired of the parties 
+whether they believed demeanor of a witness is a substantial factor in the case.  The 
+undersigned offered to hear those portions of the testimony again for which demeanor 
+was considered a substantial factor.  The undersigned inquired via e-mail, and 
+requested that the parties reply via e-mail if additional follow-up was necessary.  The 
+undersigned has received no response from the parties indicating any objection to the 
+undersigned proceeding to write this arbitration decision without rehearing all or portions 
+of the testimony to assess witness demeanor.  Therefore, pursuant to Iowa Code 
+17A.15(2) and the Commissioner’s Order of Delegation filed on May 13, 2020, the 
+undersigned performs a review of the evidentiary record in this case and issues this 
+arbitration decision at the direction of the Commissioner.   
+STIPULATIONS 
+ 
+Through the hearing report, the parties stipulated and/or established the 
+following: 
+1. There was an existence of an employer-employee relationship at the time of the 
+alleged injury. 
+  
+2. The claimant sustained an injury, which arose out of and in the course of 
+employment on December 19, 2016.   
+ 
+3. The alleged injury is a cause of temporary disability during a period of recovery. 
+ 
+4. If the injury is found to be a cause of permanent disability, the disability is an 
+industrial disability, and the commencement date for permanent partial disability 
+benefits, if any are awarded, is February 12, 2017.   
+ 
+5. The claimant is single and entitled to one exemption. 
+ 
+6. Medical benefits are no longer in dispute and the defendants will pay the IME 
+expenses. 
+ 
+7. Prior to the hearing, the claimant was paid $1,775.17 in temporary total disability, 
+and $1,123.51 in temporary partial disability benefits at the rate of $414.17 per 
+week from December 23, 2016 through February 11, 2017.   
+ 
+8. No permanent partial disability has been paid. 
+ 
+9. If the back and left leg claims are found to be causally connected to the 
+December 19, 2016, work injury, Iowa Code section 85.27 medical benefits will 
+continue with authorized treating physicians. 
+ 
+10. Costs listed in claimant’s exhibit 8 have been paid. 
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 3 
+ 
+ 
+Additionally, there was no dispute as to the entitlement for temporary disability and/or 
+healing period benefits.  Defendants waived their affirmative defenses. 
+The parties are now bound by their stipulations. 
+ISSUES 
+The parties submitted the following issues for determination: 
+1. The alleged injury is a cause of permanent disability. 
+  
+2. The extent of permanent disability.   
+ 
+3. The appropriate rate of weekly workers’ compensation benefits.   
+ 
+4. Whether the claimant is entitled to the difference between the rate paid and 
+the rate alleged to be appropriate by the claimant. 
+ 
+5. Assessment of costs. 
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+Dan Blinks is a 62-year old male who currently lives in Center Point, Iowa.  At the 
+time of the incident, Mr. Adams was single.  He later married on September 8, 2018.  At 
+the time of the alleged injury, Mr. Blinks was an employee of Ogden & Adams Lumber.  
+Mr. Blinks graduated from high school in 1976.  (Cl. Ex. 5).  He attended the University 
+of Wisconsin-Platteville and the University of Wisconsin-River Falls, but did not earn a 
+degree.  In 2010, he returned to Kirkwood Community College, where he took a class in 
+beginning electrical.  (Cl. Ex. 5).  The beginning electrical class was required by the City 
+of Cedar Rapids for homeowners who wished to make electrical modifications to their 
+homes.  (Testimony).   
+Mr. Blinks worked for a concrete injection company, and various dairy farms in 
+Wisconsin prior to moving to Iowa and working on receiving/loading trucks.  (Cl Ex. 5; 
+Testimony).  He then moved to Ogden & Adams Lumber.  (Cl. Ex. 5).  He worked in the 
+lumber yard.  On December 19, 2016, Mr. Blinks was making a delivery when halfway 
+through unloading a boom truck, he felt acute pain in his lower left side.  (Cl. Ex. 2:19).  
+Mr. Blinks reported this incident to his employer and their insurer.  There was no 
+mention of any injury or pain to his back or foot in these reports.  (Cl. Ex. 2).  Ogden & 
+Adams Lumber was sold on February 28, 2019.  (Defendants’ Exhibit C:17).  At the time 
+of the sale, all employees, including Mr. Blinks, were terminated.  (Def. Ex. C:17).  
+Employees could reapply for their jobs, but the new owner was not comfortable rehiring 
+Mr. Blinks due to his active search for alternative, non-heavy lifting jobs.  (Testimony).  
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 4 
+ 
+ 
+At the time of the hearing, Mr. Blinks worked for USDA NASDA as a part-time 
+contractor.  (Cl. Ex. 5).  In 2019, Mr. Blinks made $5,000.00.  (Testimony).  Mr. Blinks 
+opined that he could not perform a number of his previous jobs, due to their physical 
+nature, but also due to the fact that they were “young man’s jobs.”  (Testimony).   
+Mr. Blinks’ job description involved delivering material on a boom truck.  (Cl. Ex. 
+3).  The boom truck was a flatbed truck on which lumber or other building materials 
+were loaded.  (Cl. Ex. 3).  The driver would transport the materials to a job site, unstrap 
+them, and begin the unloading process.  (Cl. Ex. 3).  The unloading process included 
+climbing a truck mounted ladder about eight feet to twelve feet to the top of a seat 
+mounted platform and then operate the controls of the boom to remove the materials 
+from the flatbed.  (Cl. Ex. 3; Testimony).  While working around the lumber yard, Mr. 
+Blinks would also break apart bunks of two-by-four lumber and restack them.  
+(Testimony).  This involved lifting, and moving large pieces of wood including large 
+sheets of plywood weighing upwards of 80-pounds.  (Testimony). 
+On July 22, 2013, Mr. Blinks was at work when he lifted some lumber.  When he 
+lifted the lumber, he reported feeling something pop in the left lower side of his back.  
+On that same day, he reported to Mercy Medical Center in Cedar Rapids, Iowa, where 
+he was seen by Katie C. Wilcox, A.R.N.P.  (Joint Exhibit 1:1-2).  He reported severe 
+pain aggravated by bending and standing.  (JE 1:1).  Mr. Blinks also complained of leg 
+pain.  (JE 1:1).  He noted never having back problems in the past.  (JE 1:1).  Ms. Wilcox 
+diagnosed Mr. Blinks with back pain and muscle strain.  (JE 1:2).  He was prescribed 
+cyclobenzaprine, and told to have plenty of fluids with rest.  (JE 1:2).  Ms. Wilcox noted 
+that Mr. Blinks was not to return to work until a secondary evaluation on the subsequent 
+Thursday.  (JE 1:2).  Mr. Blinks testified that this injury occurred during a busy time of 
+year at the lumber yard.  (Testimony).  He further testified that he recovered from this 
+incident and when he came back, he was “back full force doing exactly the same thing” 
+he was doing prior to that with no pain.  (Testimony).  Mr. Blinks continued this until his 
+alleged 2016 injury.  (Testimony).   
+Mr. Blinks followed-up on July 25, 2013, with Rebecca Lynn White, PA-C, at 
+Mercy Medical Center.  (JE 1:4-6).  The record noted a history of acute back strain after 
+lifting and twisting a heavy plank at work.  (JE 1:4).  Mr. Blinks reported feeling better, 
+but was not prepared to return to work due to the physical nature of his job.  (JE 1:4).  
+Mr. Blinks was diagnosed with back pain, told to continue on home rest and add in slow 
+stretches.  (JE 1:6).  It was noted that he could return to work on July 29, 2013 with no 
+restrictions after a recheck in the clinic.  (JE 1:6).   
+On December 11, 2013, Jeffrey Jones, M.D., examined Mr. Blinks at Mercy 
+Medical Center.  (JE 1:7-8).  Mr. Blinks reported pain in the sacro-iliac joint that radiates 
+to his left foot.  (JE 1:7).  Dr. Jones’ record indicated that Mr. Blinks was to be off of 
+work through December 16, 2013, at which point it was noted he could return to work 
+without restrictions.  (JE 1:8).  If he was not 100 percent better by that time, he was told 
+to return to care.  (JE 1:8).   
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 5 
+ 
+ 
+Mr. Blinks returned to Mercy Medical Center on December 16, 2013, to visit Dr. 
+Jones. (JE 1:9-11).  Mr. Blinks had no improvement from the prior week.  (JE 1:9).  His 
+pain medications were helping.  (JE 1:9).  His pain remained on the left side of the 
+sacro-iliac, and radiated to the left buttocks and leg.  (JE 1:9).  The pain was moderate.  
+(JE 1:9).  Dr. Jones’ diagnosis was back pain, but more of an SI joint strain.  (JE 1:10).  
+Dr. Jones noted he would set up physical therapy and continue Nabumetone.  (JE 
+1:10).  Dr. Jones issued a work restriction through December 20, 2013.  (JE 1:11).   
+On December 20, 2013, Dr. Jones examined Mr. Blinks for a follow-up visit.  (JE 
+1:12-13).  Mr. Blinks’ problem was rapidly improving.  (JE 1:12).  Mr. Blinks continued to 
+have radiation into his left leg, including pins and needles feelings.  (JE 1:12).  The 
+claimant was to return to work without restrictions effective December 23, 2013.  (JE 
+1:13).   
+Paul Thomas, D.O., examined Mr. Blinks on October 27, 2014, for an annual 
+physical examination.  (JE 2:15-18).  Mr. Blinks had left lower quadrant/inguinal pain 
+with coughing over the last month or so.  (JE 2:15).  This reminded Mr. Blinks of the 
+hernia previously repaired on the right-hand side.  (JE 2:15).  Mr. Blinks reported one 
+severe flare-up of lower back pain, but no recent complaints.  (JE 2:15).  Dr. Thomas 
+could not recreate the left inguinal pain.  (JE 2:16).  The visit diagnoses included groin 
+pain to the left lower quadrant, but it was noted that Dr. Thomas could not feel a hernia.  
+(JE 2:18).  
+Dr. Jones examined Mr. Blinks again on January 23, 2015 at Mercy Medical 
+Center.  (JE 1:14).  Dr. Jones’s diagnosis was a left inguinal hernia.  (JE 1:14).  Mr. 
+Blinks noted acute left groin pain after lifting at work.  (JE 1:14).  Mr. Blinks had a history 
+of a right inguinal hernia repair 14 years prior.  (JE 1:14).  Dr. Jones referred Mr. Blinks 
+to a surgeon and kept him off work until the surgical appointment.  (JE 1:14).   
+Mr. Blinks returned to Mercy Medical Center to visit Dr. Thomas again on 
+December 15, 2016.  (JE 2:19-20).  It was noted that Mr. Blinks lost 11 pounds from his 
+previous visit, but was also having impaired fasting glucose.  (JE 2:20).  There was no 
+mention of hernias or low back pain.   
+On December 19, 2016, Mr. Blinks was unloading a truck at a delivery site.  
+(Testimony).  Mr. Blinks testified it was ten-degrees below zero for a temperature.  
+(Testimony).  He climbed the ladder multiple times to warm up the hydraulic systems.  
+(Testimony).  As he was unloading the truck, he began to get “real serious pain in” his 
+lower stomach.  (Testimony).  Mr. Blinks finished unloading the flatbed since the 
+hydraulic system was warm.  (Testimony).  Upon his return to Ogden and Adams, Mr. 
+Blinks could no longer walk.  (Testimony).   
+Subsequently, Mr. Blinks reported to the Work Well Clinic at UnityPoint Health St. 
+Luke’s Hospital, where Ann C. McKinstry, M.D., examined him.  (JE 3:47-53).  As a new 
+patient, he filled out a questionnaire indicating he had acute pain that he first noticed on 
+the same day.  (JE 3:47).  He noted it felt like muscle cramps that were worsening.  (JE 
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 6 
+ 
+ 
+3:47).  On the same report, Mr. Blinks noted that he had back spasms and low back 
+pain for about one month. (JE 3:48).  He reported acute left-sided abdominal pain after 
+sitting in the chair on top of his work truck.  (JE 3:51).  Mr. Blinks denied back pain or 
+groin pain.  (JE 3:51).  His previous workers’ compensation claim facts were noted 
+including an episode of low back pain; however, it was noted that there was no 
+impairment rating or permanent restrictions stemming from that incident.  (JE 3:51).  
+During his examination, Mr. Blinks appeared “very uncomfortable” and in significant pain 
+when standing up or lying down.  (JE 3:52).  Dr. McKinstry noted her impression was 
+that he had acute abdominal pain and unlikely to be work related.  (JE 3:52).  His 
+coworker was to take him to the emergency room for further evaluation and treatment.  
+(JE 3:52).  Dr. McKinstry indicated if there is a work injury, Mr. Blinks could be seen by 
+her clinic.  (JE 3:52).   
+Pursuant to Dr. McKinstry’s recommendation, Mr. Blinks reported to the 
+emergency room.  (JE 4:73-78).  Mr. Blinks complained of pain developing in the left 
+flank after landing into his truck.  (JE 4:73).  A CT scan of the abdomen and pelvis was 
+done, which showed a fusiform ovoid intramuscular mass in the lower left rectus 
+abdominis muscle.  (JE 4:78).  The diagnosis was a traumatic rectus hematoma, which 
+the emergency room doctor indicated was consistent with the CT scan results.  (JE 
+4:76).   
+Mr. Blinks returned to the Work Well Clinic at UnityPoint Health St. Luke’s 
+Hospital on December 22, 2016.  (JE 3:54-55).  Shirley Pospisil, M.D., M.P.H. examined 
+Mr. Blinks.  (JE 3:54-55).  Dr. Pospisil noted Mr. Blinks past visit, and his subsequent 
+ER examination.  (JE 3:54).  Mr. Blinks had an intramuscular mass in the lower left 
+rectus abdominis muscle, which the radiologist believed was an intramuscular 
+hematoma.  (JE 3:54).  Standing too long continued to be a bother for Mr. Blinks.  (JE 
+3:54).  His pain was worse below the belt line.  (JE 3:54).  Dr. Pospisil limited his lifting 
+and carrying to 10 pounds, and indicated he could only do a sitting job with alternating 
+sitting, standing, and walking as tolerated for comfort.  (JE 3:54).  Dr. Pospisil ordered 
+him to return in one-week.  (JE 3:55).   
+On December 29, 2016, Mr. Blinks returned to the Work Well Clinic at UnityPoint 
+Health St. Luke’s Hospital.  (JE 3:56-57).  Mr. Blinks reported experiencing continued 
+pain, but noted that he was feeling better.  (JE 3:56).  He tried not to “push it,” and if he 
+felt pain he would “back off.”  (JE 3:56).  He took Norco to sleep.  (JE 3:56).  He 
+received a refill on Norco, and his work restrictions remained unchanged.  (JE 3:56).  
+Mr. Blinks returned to the Work Well Clinic at UnityPoint Health St. Luke’s 
+Hospital to see Dr. Pospisil on January 19, 2017.  (JE 3:59-60).  Mr. Blinks reported his 
+pain was resolving, but has moved to the lower part of his abdomen rather than the 
+whole left side.  (JE 3:59).  He experienced pain while attempting to stretch, but had not 
+attended physical therapy.  (JE 3:59).  The plan from Dr. Pospisil was to commence 
+physical therapy, and change his work restrictions to: lifting up to 15 pounds, no 
+climbing ladders, alternate walking/standing/sitting as tolerated for comfort, increase 
+weight tolerance as able.  (JE 3:59-60).   
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 7 
+ 
+ 
+Mr. Blinks reported to CRS Therapy Plus Downtown PT for physical therapy on 
+January 20, 2017, pursuant to the recommendation of Dr. Pospisil.  (JE 5:79-80).  The 
+diagnosis noted was an abdominal muscle tear with abdominal weakness, pain and a 
+hematoma.  (JE 5:79).  He was given restrictive duty with a 15 pound weight limit and 
+no climbing.  (JE 5:79).  Mr. Blinks noted pain to the left lower abdomen.  (JE 5:80).   
+CRS Therapy Plus Downtown PT provided a follow-up progress examination and 
+note on February 6, 2017.  (JE 5:81-82).  Mr. Blinks had six sessions of therapy since 
+January 20, 2017.  (JE 5:81).  His therapy consisted of therapeutic exercise, manual 
+therapy, home exercise program, and patient education.  (JE 5:81).  Mr. Blinks reported 
+stiffness after previous therapy sessions, but noted that his pain was not increased.  (JE 
+5:82).  His abdominal muscles did not feel poorly.  (JE 5:82).  Mr. Blinks was near 100 
+percent improved since his initial evaluation.  (JE 5:82).  Due to symptom improvement, 
+discharge was considered.  (JE 5:82).   
+On February 9, 2017, Mr. Blinks followed-up with Dr. Pospisil at the Work Well 
+Clinic at UnityPoint Health St. Luke’s Hospital.  (JE 3:61).  The abdominal muscle tear 
+was resolving, and the doctor noted it was only aching in a small area.  (JE 3:61).  Mr. 
+Blinks indicated he wanted to start working more than he previously was.  (JE 3:61).  Dr. 
+Pospisil discharged Mr. Blinks with the following restrictions: lifting up to 30 pounds, 
+alternate walking/standing/sitting as tolerated for comfort until February 13, 2017 when 
+he was to return to regular duty.  (JE 3:61). Dr. Pospisil ordered Mr. Blinks discharged 
+from physical therapy, as well.  (JE 3:61).   
+On March 30, 2017, Mr. Blinks visited Dr. Thomas for a follow-up of an 
+abdominal muscle tear.  (JE 2:21-23).  His left lower quadrant pain began to occur 
+suddenly after landing into his truck.  (JE 2:22).  A CT scan showed a hematoma and 
+rectus abdominal muscle wall tear.  (JE 2:22).  He was off of work for some time, but at 
+home was performing home exercises.  (JE 2:22).  He returned to work, but started to 
+get some muscle soreness in the right low back area late into the week.  (JE 2:22).  
+Rest relieved the pain.  (JE 2:22).  Dr. Thomas assessed Mr. Blinks with hemorrhoids, 
+rectal bleeding, acute right-sided low back pain without sciatica, and abdominal wall 
+pain.  (JE 2:23).  Dr. Thomas noted that it sounded like the original abdominal wall injury 
+resolved.  (JE 2:23).   
+Mr. Blinks followed-up with Dr. Thomas again on June 22, 2017.  (JE 2:24-27).  
+Dr. Thomas noted deep muscle tearing on the left side of the abdomen that occurred in 
+December above the hernia repair in 2015.  (JE 2:24).  His physical therapy ended in 
+February, and Mr. Blinks took ibuprofen in order to sleep.  (JE 2:24).  His back hurt after 
+four days of work, and he complained about being sore every day.  (JE 2:24).  Dr. 
+Thomas’s diagnoses were chronic pain of both knees, elevated blood pressure, and 
+hyperlipidemia.  (JE 2:25).  X-rays of the knees showed moderate bilateral 
+tricompartmental osteoarthritis, and moderate joint effusion.  (JE 2:27).  Sometime 
+during the summer of 2017, Mr. Blinks’s toe drag and foot drop worsened.  (Testimony).  
+He would take personal days on Fridays of Mondays in order to give himself three days 
+of rest.  (Testimony).   
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 8 
+ 
+ 
+Dr. Thomas examined Mr. Blinks again on October 4, 2017.  (JE 2:28-33).  Mr. 
+Blinks reported chronic pain to his left shoulder.  (JE 2:29).  This pain occurred for 
+several years, but was out of control for the last few months prior to this examination. 
+(JE 2:29).  The left shoulder showed no appreciable effusion, but did have a soft tissue 
+deformity from a previous biceps tear.  (JE 2:30).  X-rays of the left shoulder showed no 
+acute fracture or dislocation, but showed arthritic changes to the left acromioclavicular 
+joint.  (JE 2:30).  Dr. Thomas diagnosed Mr. Blinks with chronic left shoulder pain.  (JE 
+2:31).  Dr. Thomas prescribed Tramadol for pain relief, and ordered a follow-up in two 
+months.  (JE 2:31).   
+On December 6, 2017, Dr. Thomas performed another examination on Mr. 
+Blinks.  (JE 2:34-36).  Mr. Blinks’ previous examination showed severe arthritis in the 
+acromioclavicular joint.  (JE 2:34).  He took some of the Tramadol, but he noted not 
+needing it very often.  (JE 2:34).  Mr. Blinks reported continued back spasms if he 
+exerts himself and “overdoes things.”  (JE 2:34).   
+Mr. Blinks commenced treatment with Wickwire Chiropractic and Wellness on 
+January 16, 2018.  (JE 6:84-85).  Mr. Blinks found the chiropractor’s office while walking 
+through an agricultural show.  (Testimony).  He was given an exam at the agricultural 
+show, and then a follow-up was scheduled.  (Testimony).  The notes from his initial visit 
+discussed his torn abdominal muscle, and back spasms which began over the summer.  
+(JE 6:83).  Mr. Blinks noted that the pain “gets unbearable” and caused him to drop to 
+his knees.  (JE 6:83).  The chiropractor diagnosed Mr. Blinks with segmental and 
+somatic dysfunction of the cervical region, cervicalgia, segmental and somatic 
+dysfunction of the lumbar region, and low back pain.  (JE 6:84).   
+Mr. Blinks returned to Mercy Medical Center for another examination by Dr. 
+Thomas on May 8, 2018.  (JE 2:37-39).  Mr. Blinks noted a persistent cough during this 
+visit.  (JE 2:37).  He complained of low back spasms starting after an injury 14-months 
+prior.  (JE 2:37).  Mr. Blinks reported being pain free upon waking, but that by the end of 
+the day he has intense back spasms. (JE 2:37).   
+Dr. Thomas re-examined Mr. Blinks on June 13, 2018.  (JE 2:40-42).  The visit 
+was for hypertension follow-up.  (JE 2:40).  Mr. Blinks noted that when his back started 
+hurting, his blood pressure was better.  (JE 2:40).  His back hurt on a “frequent if not 
+daily basis from work,” and that he relaxed at home.  (JE 2:40).  He would feel better by 
+the next morning.  (JE 2:40).  Mr. Blinks was actively looking for different work since his 
+current work aggravated his low back pain.  (JE 2:42).  Dr. Thomas noted that Mr. 
+Blinks was carrying a lot of extra weight, and that losing that weight may help with his 
+back pain.  (JE 2:42).   
+On July 30, 2018, Mr. Blinks requested a reduction from full-time work to part-
+time work due to his back pain.  (Cl. Ex. 6:36).  This was at the behest of Mr. Blinks, and 
+not on the orders of a medical provider.  (Testimony).   
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 9 
+ 
+ 
+Dr. Pospisil re-examined Mr. Blinks on October 2, 2018. (JE 3:62).  Mr. Blinks 
+continued to have a hard mass where the hematoma was located.  (JE 3:62).  The 
+mass causes him to walk in an awkward manner and lean towards the right as the day 
+goes on.  (JE 3:62).  He reported seeing a chiropractor two times per week due to his 
+pain and abnormal gait.  (JE 3:62).  He also worked half days rather than full days.  (JE 
+3:62).  Dr. Pospisil could not feel the hard area left following the hematoma.  (JE 3:62).  
+Dr. Pospisil could not state that Mr. Blinks’s low back pain was due to the abdominal 
+wall tear.  (JE 3:62).  Dr. Pospisil noted that Mr. Blinks was overweight, which could be 
+a cause of back pain.  (JE 3:62).  Dr. Pospisil could not make a causal connection 
+between Mr. Blinks’ current complaints and the work incident.  (JE 3:62).   
+Dr. Pospisil followed this appointment with a letter to “Kaylee G., RN Workers 
+Comp (sic) Representative.”  (JE 3:63-64).  Dr. Pospisil diagnosed Mr. Blinks with low 
+back pain and an abdominal rectus tear.  (JE 3:63).  Mr. Blinks complained of back pain 
+at his initial examination and that it started one month prior to his injury on the initial 
+report.  (JE 3:63).  Dr. Pospisil stated, “[d]ue to the duration since his injury it cannot be 
+stated with the degree of medical certainty that the clinical symptoms are causally 
+related to the injury of 12/19/2016.”  (JE 3:63).  Dr. Pospisil noted that it was plausible 
+that, due to consistent pain complaints, that the back pain was exacerbated by the 
+incident.  (JE 3:63).  Since he had significant back pain prior to the injury, permanent 
+partial disability was not applicable.  (JE 3:63).  However, Dr. Pospisil closed her letter 
+indicating that if Mr. Blinks’ pain increased since the injury, then he would not be at 
+MMI, and he should seek another short course of physical therapy.  (JE 3:63-64).   
+Mr. Blinks returned to Dr. Pospisil’s office on October 23, 2018, for re-evaluation 
+of his back pain. (JE 3:65).  Mr. Blinks attended physical therapy.  During his physical 
+therapy, it was noted that he experienced foot drop, which concerned the therapist.  (JE 
+3:65).  Mr. Blinks self-reduced his working hours to four hours per day, but indicated his 
+desire to work an eight hour day.  (JE 3:65).  Dr. Pospisil noted, “Mr. Blinks clearly has a 
+conundrum of issues.  We were going to continue physical therapy initially however he 
+then started talking about his foot drop and has a difficult time thinking that he may be 
+okay.”  (JE 3:65).  Dr. Pospisil ordered an MRI of the lumbar spine, and gave work 
+restrictions of lifting and carrying up to 50 pounds.  (JE 3:65).  The MRI did not occur 
+due to a BB in Mr. Blinks’ tongue.  (JE 3:66).  Due to the impossibility of an MRI, Dr. 
+Pospisil referred the claimant to a neurosurgeon.  (JE 3:66).   
+On October 23, 2018, Mr. Blinks began physical therapy with Ability Physical 
+Therapy.  (JE 7:85).  Mr. Blinks reported needing 20 minutes of stretching in the 
+morning in order to be able to function.  (JE 7:85).  He denied increased lower back 
+pain.  (JE 7:85).  He continued to claim intermittent foot drop and right sided lower back 
+pain and spasms.  (JE 7:85).  Mr. Blinks had follow-up physical therapy sessions on 
+October 25, 2018, October 30, 2018, and November 1, 2018.  (JE 7:85).  During these 
+sessions, he noted that lifting at work was exacerbating his chronic low back pain.  (JE 
+7:85). 
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 10 
+ 
+ 
+Mr. Blinks was discharged from Ability Physical Therapy on November 6, 2018.  
+(JE 7:86).  The discharge notes indicated that Mr. Blinks was unsure of the specific 
+incident underlying his current pain, but that he had significant left sided abdominal pain 
+during the day while at work.  (JE 7:86).  Mr. Blinks was only working half-days due to 
+increased lower back pain over the past month.  (JE 7:86).  He continued working 
+normal job duties during his half-days, which included driving a truck and lifting heavy 
+lumber.  (JE 7:86).  He was discharged due to lack of progress with pain reports.  (JE 
+7:88).  The therapist instructed him to continue with his home exercise plan on an 
+independent basis.  (JE 7:88).   
+On orders from Dr. Pospisil, Mr. Blinks visited Chad D. Abernathey, M.D., on 
+December 3, 2018.  (JE 8:89).  Dr. Abernathey recounted Mr. Blinks’ history of chronic 
+low back pain and an abdominal wall tear.  (JE 8:89).  Mr. Blinks attributed the low back 
+pain to his work activities.  (JE 8:89).  Due to the presence of a BB in Mr. Blinks’ tongue, 
+he could not have an MRI, which Dr. Abernathey recommended.  (JE 8:89).  Mr. Blinks 
+noted that Der. Abernathey only examined him for five-minutes, and never laid his 
+hands on him to examine him.  (Testimony).   
+Dr. Abernathey followed-up the December 3, 2018, examination with a letter to 
+Secura Insurance dated January 14, 2019.  (JE 8:90).  Dr. Abernathey opined that Mr. 
+Blinks’ subjective complaints were related to low back pain, which was present prior to 
+December 19, 2016.  (JE 8:90).  There was no connection between subjective 
+complaints and objective clinical findings.  (JE 8:90).  Dr. Abernathey did not believe 
+that further medical management would benefit the claimant, nor would the claimant 
+need any restrictions or an impairment rating.  (JE 8:90).  Dr. Abernathey considered 
+Mr. Blinks at maximum medical improvement (MMI) six months from date of injury, 
+which was June 19, 2017.  (JE 8:90).   
+On January 16, 2019, Mr. Blinks returned to Dr. Pospisil’s office for re-evaluation 
+of his back strain.  (JE 3:67).  Mr. Blinks continued to complain of dragging his left toe, 
+along with low back pain that radiates down into his right leg.  (JE 3:67).  Mr. Blinks was 
+going to have the BB removed from his tongue so that the MRI could proceed.  (JE 
+3:67).  His work restrictions were modified to lifting and carrying up to 30 pounds.  (JE 
+3:67).  He also should avoid prolonged walking, mostly sit, and alternate 
+sitting/standing/walking as tolerated.  (JE 3:67).  Dr. Pospisil gave Mr. Blinks an off of 
+work note for the remainder of the day due to complaints of pain.  (JE 3:67).   
+Effective January 17, 2019, Ogden & Adams through their insurer, Secura 
+Insurance, denied Mr. Blinks’s workers’ compensation claim.  (Def. Ex. C:13).   
+Mr. Blinks followed-up in an emergency room visit on February 11, 2019, with Dr. 
+Thomas on February 13, 2019.  (JE 2:43-46).  Mr. Blinks slipped on ice and landed 
+straight on his bent elbow.  (JE 2:43).  Mr. Blinks had pain around his right shoulder, 
+aggravated by any shoulder motion.  (JE 2:43).  He was unable to do his job with a 
+limitation of range of shoulder motion.  (JE 2:43).  X-rays were negative.  (JE 2:43).  Dr. 
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 11 
+ 
+ 
+Thomas offered an orthopedic referral, but Mr. Blinks indicated he would like to wait a 
+week to see how it progresses.  (JE 2:45).   
+Mr. Blinks returned to the Work Well Clinic at St. Luke’s Hospital on November 8, 
+2019.  (JE 3:69-70).  Ignatius Brady, M.D., M.P.H., examined Mr. Blinks noting 
+complaints of improved back pain and continued back pain.  (JE 3:69).  Dr. Brady noted 
+that a letter from Secura ANA instructed him to examine Mr. Blinks for left-sided 
+abdominal wall complaints, but not the back issues.  (JE 3:69).  Mr. Blinks complained 
+of a “sense of a foreign presence” in the left upper abdominal area.  (JE 3:69).  There 
+was a noticeable defect when Mr. Blinks was in a seated position.  (JE 3:69-70).  Dr. 
+Brady diagnosed him with an abdominal wall injury with rectus abdominis defect.  (JE 
+3:70).  The best way to think of Mr. Blinks’ injury, according to Dr. Brady is as an 
+abdominal wall hernia.  (JE 3:70).  Dr. Brady recommended a CT scan of the abdomen.  
+(JE 3:70).   
+Mr. Blinks had an MRI of his pelvis performed on December 10, 2019, at Corridor 
+Radiology.  (JE 9:91).  The MRI was normal with no evidence of residual tearing, 
+hematoma or mass.  (JE 9:91).   
+On December 20, 2019, Mr. Blinks followed up with Dr. Brady for a recheck of his 
+abdominal wall injury.  (JE 3:71).  Dr. Brady reviewed the MRI and CT results and noted 
+that no hematoma, mass, or abdominal wall defect was noted that would correlate with 
+any abdominal consult.  (JE 3:71).  Dr. Brady reassured Mr. Blinks that there was 
+nothing wrong with his abdomen that needed to be fixed.  (JE 3:71).  Mr. Blinks asked 
+again about his low back pain and left leg weakness that have persisted for several 
+years.  (JE 3:71).  Back pain limited his activities.  (JE 3:71).  Dr. Brady concluded his 
+examination note by stating that Mr. Blinks required no additional care for his abdominal 
+wall injury.  (JE 3:71).  Dr. Brady drafted a letter to Secura Insurance suggesting that 
+they authorize an MRI in order to address Mr. Blinks’ back and left leg complaints.  (JE 
+3:72).   
+Farid Manshadi, M.D., FAAPM&R, examined Mr. Blinks for an independent 
+medical examination (IME) on March 3, 2020.  (Claimant Exhibit 1:1-6).  Dr. Manshadi 
+noted the claimant’s history of back pain dating to July of 2013, which was noted to 
+have resolved by December of 2013.  (Cl. Ex. 1:1).  Mr. Blinks reported to Dr. Manshadi 
+that his job was physical in nature, required lifting of several hundred pounds, and that 
+he usually lifted 100 to 150 pounds by himself.  (Cl. Ex. 1:1-2).  Mr. Blinks reported to 
+Dr. Manshadi that on December 19, 2016, he was unloading a boom truck when he had 
+a sudden onset of abdominal pain.  (Cl. Ex. 1:2).  Dr. Manshadi noted that Mr. Blinks 
+complained of intermittent abdominal pain and discomfort along with a defect in the left 
+lower ribcage and abdominal region.  (Cl. Ex. 1:4).  Mr. Blinks continued to report right 
+low back spasms and left foot drop, but denied numbness and tingling.  (Cl. Ex. 1:4).  
+Dr. Manshadi noted in a gait evaluation that Mr. Blinks’ left leg dropped during the mid-
+stance phase.  (Cl. Ex. 1:5).   
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 12 
+ 
+ 
+Dr. Manshadi opined that Mr. Blinks sustained a tear of the left rectus abdominis 
+muscle, and a back injury with right sacroiliac joint strain with left ankle plantar flexion 
+contraction.  (Cl. Ex. 1:5).  Dr. Manshadi further noted that the sacroiliac joint strain, as 
+well as the left foot plantar flexion contraction are a result of Mr. Blinks’ abnormal gait 
+while suffering from the abdominal muscle tear and hematoma.  (Cl. Ex. 1:5).  Dr. 
+Manshadi cited to Dr. Pospisil’s October 2, 2018, note that Mr. Blinks was leaned to the 
+right as the day progressed and walked “funny.”  (Cl. Ex. 1:5).  Mr. Blinks also reported 
+abnormal wearing of his shoes.  (Cl. Ex. 1:5).  Based on the foregoing, Dr. Manshadi 
+opined that the low back issues and the left ankle plantar flexion contraction are a result 
+of the December 19, 2016 work injury.  (Cl. Ex. 1:5).  Dr. Manshadi noted that Mr. Blinks 
+achieved MMI for the abdominal injury, but not for the low back injury and left foot drop.  
+(Cl. Ex. 1:5).  Dr. Manshadi recommended a lumbar MRI.  (Cl. Ex. 1:5).  If the MRI does 
+not show any irregularities, then Dr. Manshadi recommended physical therapy to stretch 
+the plantar flexors on the left side along with strengthening the muscles, and an 
+injection to the right SI joint.  (Cl. Ex. 1:5).  If no further treatment is provided for the 
+claimant’s back, Dr. Manshadi provided a 5 percent impairment of the whole person 
+based on the American Medical Association’s Guides to the Evaluation of Impairment, 
+Fifth Edition.  (Cl. Ex. 1:5).  Based on the abdominal wall tear, Dr. Manshadi provided a 
+3 percent impairment of the whole person.  (Cl. Ex. 1:5).  For the left foot drop, Dr. 
+Manshadi provided a 7 percent impairment of the left lower extremity or 3 percent 
+impairment of the whole person.  (Cl. Ex. 1:5).  For permanent restrictions related to the 
+abdominal wall tear, Dr. Manshadi indicated no lifting of more than 50 pounds.  (Cl. Ex. 
+1:5).  For lower back injuries, Dr. Manshadi provided a temporary restriction of no lifting 
+more than 30 pounds and avoidance of any activity requiring excessive bending or 
+twisting at the waist.  (Cl. Ex. 1:5).  For the left foot drop, Dr. Manshadi recommended 
+avoiding activity requiring balancing, ladders, and uneven surfaces.  (Cl. Ex. 1:6).   
+Mr. Blinks testified that he currently drags his left foot and toe.  (Testimony).  He 
+also gets pain in his right leg due to compensating for the left foot and toe dragging.  
+(Testimony).  He claims that he can only work a half day before needing to rest.  
+(Testimony).  Before leaving the employer, Mr. Blinks worked half days based on his 
+own self-imposed restrictions.  (Testimony).  Mr. Blinks testified that he had no 
+permanent restrictions from any doctors. (Testimony).   
+The pain also causes him to walk in a crooked pattern.  (Testimony).  His back 
+spasms prevent him from lifting much.  (Testimony).  Mr. Blinks stretches every morning 
+until his pain dissipates.  (Testimony).  If he walks a lot during the day, his pain 
+intensifies in his right lower back, causing him to stop and rest.  (Testimony).  Generally, 
+the pain reaches its peak intensity requiring rest around mid-afternoon.  (Testimony).   
+Mr. Blinks worked for the USDA, but sought no other employment in 2019, due to 
+suffering a non-work-related shoulder injury when he slipped and fell on his own 
+property.  (Def. Ex. D:22-23).  Additionally, Mr. Blinks was not looking for employment 
+due to his wife’s pending hip surgery.  (Def. Ex. D:24).  He also testified in his 
+deposition that he was looking for a job that would allow him to have less physical wear 
+and tear on his body as he aged.  (Def. Ex. D:23).   
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 13 
+ 
+ 
+CONCLUSIONS OF LAW 
+ 
+The party who would suffer loss if an issue were not established has the burden 
+of proving that issue by a preponderance of the evidence.  Iowa. R. App. P. 6.14(6).   
+Permanency 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is 
+probable, rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 
+148 (Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); 
+Sanchez v. Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996).   
+ 
+The question of medical causation is “essentially within the domain of expert 
+testimony.”  Cedar Rapids Community School Dist. v. Pease, 807 N.W.2d 839, 844-45 
+(Iowa 2011).  The commissioner, as the trier of fact, must “weigh the evidence and 
+measure the credibility of witnesses.”  Id.  The trier of fact may accept or reject expert 
+testimony, even if uncontroverted, in whole or in part.  Frye, 569 N.W.2d at 156.  When 
+considering the weight of an expert opinion, the fact-finder may consider whether the 
+examination occurred shortly after the claimant was injured, the compensation 
+arrangement, the nature and extent of the examination, the expert’s education, 
+experience, training, and practice, and “all other factors which bear upon the weight and 
+value” of the opinion.  Rockwell Graphic Systems, Inc. v. Prince, 366 N.W.2d 187, 192 
+(Iowa 1985).  Unrebutted expert medical testimony cannot be summarily rejected.  
+Poula v. Siouxland Wall & Ceiling, Inc., 516 N.W.2d 910 (Iowa App. 1994).  Supportive 
+lay testimony may be used to buttress expert testimony, and therefore is also relevant 
+and material to the causation question.   
+ 
+When an injury occurs in the course of employment, the employer is liable for all 
+of the consequences that “naturally and proximately flow from the accident.”  Iowa 
+Workers’ Compensation Law and Practice, Lawyer and Higgs, Section 4-4.  The 
+Supreme Court has stated, “[i]f the employee suffers a compensable injury and 
+thereafter suffers further disability which is the proximate result of the original injury, 
+such further disability is compensable.”  Oldham v. Scofield & Welch, 222 Iowa 764, 
+767, 266 N.W.480, 481 (1936).  The court in Oldham opined that a claimant must 
+present sufficient evidence that the disability was naturally and proximately related to 
+the original work injury.  Id.   
+Since claimant has an impairment to the body as a whole, an industrial disability 
+has been sustained.  Industrial disability was defined Diederich v. Tri-City Ry. Co. of 
+Iowa, 219 Iowa 587, 258 N.W. 899 (1935) as follows: “[i]t is therefore plain that the 
+Legislature intended the term ‘disability’ to mean ‘industrial disability’ or loss of earning 
+capacity and not a mere ‘functional disability’ to be computed in terms of percentages of 
+the total physical and mental ability of a normal man.”   
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 14 
+ 
+ 
+ 
+Functional impairment is an element to be considered in determining industrial 
+disability which is the reduction of earning capacity, but consideration must also be 
+given to the injured employee’s age, education, qualifications, experience, motivation, 
+loss of earnings, severity and situs of the injury, work restrictions, inability to engage in 
+employment for which the employee is fitted, and the employer’s offer of work or failure 
+to so offer.  McSpadden v. Big Ben Coal Co., 288 N.W.2d 181 (Iowa 1980); Olson v. 
+Goodyear Service Stores, 255 Iowa 1112, 125 N.S.2d 251 (1963); Barton v. Nevada 
+Poultry Co., 253 Iowa 285, 110 N.W.2d 660 (1961).  
+ 
+In assessing an unscheduled, whole-body injury case, the claimant’s loss of 
+earning capacity is determined as of the time of the hearing based upon industrial 
+disability factors then existing.  The commissioner does not determine permanent 
+disability, or industrial disability, based upon anticipated future developments.  Kohlhaas 
+v. Hog Slat, Inc., 777 N.W.2d 387, 392 (Iowa 2009).    
+ 
+A loss of earning capacity due to voluntary choice or lack of motivation to return 
+to work is not compensable.  Malget v. John Deere Waterloo Works, File No. 5048441 
+(Remand May 23, 2018); Rus v. Bradley Puhrmann, File No. 5037928 (App. December 
+16, 2014); Gaffney v. Nordstrom, File No. 5026533 (App. September 1, 2011); Snow v. 
+Chevron Phillips Chemical Co., File No. 5016619 (App. October 25, 2007); Copeland v. 
+Boone’s Book and Bible Store, File No. 1059319 (App. November 6, 1997).  See also 
+Brown v. Nissen Corp., 89-90 IAWC 56, 62 (App. 1989)(no prima facie showing that 
+claimant is unemployable when claimant did not make an attempt for vocational 
+rehabilitation).   
+ 
+Compensation for permanent partial disability shall begin at the termination of the 
+healing period.  Compensation shall be paid in relation to 500 weeks as the disability 
+bears to the body as a whole.  Iowa Code section 85.34.   
+ 
+Mr. Blinks sustained a work related abdominal injury on December 19, 2016.  He 
+continued to complain of pain and some deformity to his abdomen through 2019.  Mr. 
+Blinks’ pain complaints evolved to include his lower back during the summer of 2017, 
+about six months after the date of injury.  Around this time, Mr. Blinks also began to 
+report left foot drop while walking.  Dr. Manshadi performed an IME of Mr. Blinks and 
+opined that the left rectus abdominal tear sustained by Mr. Blinks caused him to have 
+an abnormal gait.  This abnormal gait caused a sacroiliac strain and a left foot drop.  It 
+was noted by Dr. Pospisil that Mr. Blinks had significant, abnormal wearing on his shoes 
+in 2018.   
+ 
+Dr. Abernathey could not opine as to Mr. Blinks’ back complaints without 
+reviewing an MRI.  The MRI could not be completed due to a pre-existing piece of metal 
+in Mr. Blinks’ tongue.  Additionally, Dr. Pospisil, a treating physician, noted that it was 
+plausible that, due to consistent pain complaints, that the back pain was exacerbated by 
+the incident.  Finally, Dr. Brady, in his December 20, 2019, record noted that Mr. Blinks 
+would benefit from an MRI of his lower back in order to help diagnose his lower back 
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 15 
+ 
+ 
+complaints.  However, Dr. Brady noted that he was not allowed to request one from the 
+defendants.  Dr. Manshadi recommended the same MRI.   
+ 
+Without the MRI or a reasonable differing opinion, I find the opinions offered by 
+Dr. Manshadi to be the most persuasive.  Even the opinions that may seem to favor the 
+defendants, those of Dr. Abernathey and Dr. Pospisil, are unpersuasive.  For example, 
+Dr. Pospisil says that it is plausible that the incident exacerbated Mr. Blinks’ back pain.  
+Dr. Abernathey’s opinions are unpersuasive because he required an MRI, which was 
+not completed.  
+Therefore, the undersigned finds that the claimant has satisfied their burden of 
+proof that the abdominal injury, lower back injury, and foot drop, are causally connected 
+to the December 19, 2016, work injury, and are a cause of permanent disability for Mr. 
+Blinks.  
+Mr. Blinks is a 62-year old man.  He earned a high school diploma, and attended 
+some college courses in the University of Wisconsin system.  He also attended a 
+subsequent community college class on electrical repairs, in order to perform repairs at 
+his own home.  Prior to his employment with Ogden & Adams, he worked for a concrete 
+injection company, several dairy farms, and in receiving and unloading of trucks.  Mr. 
+Blinks opined that he could no longer work any of his previous jobs due to them being 
+“young man’s jobs.”  The last permanent restrictions imposed by Dr. Manshadi were no 
+lifting more than 50-pounds for his abdominal injury, and no lifting more than 30-pounds 
+for his back injury.  He was also to avoid any activity requiring excessive bending or 
+twisting at the waist.  Due to his left foot drop, Dr. Manshadi recommended avoiding 
+activity requiring balancing, ladders, and uneven surfaces.  
+The only impairment ratings provided were from Dr. Manshadi, which correlated 
+to 5 percent body as a whole for the low back injury, 3 percent body as a whole for the 
+abdominal injury, and a 7 percent left lower extremity or 3 percent body as a whole 
+injury for the left foot drop.  When using the combined values chart found in the 
+American Medical Association’s Guides to the Evaluation of Impairment, Fifth Edition, 
+the combined body as a whole impairment ratings equate to 11 percent body as a 
+whole.  Mr. Blinks reported self-limiting at Ogden & Adams by taking half days.  These 
+were not prescribed or recommended by any provider.  Mr. Blinks complains of pain that 
+progresses throughout the day, peaking at about midday and requiring him to only work 
+half days.  Mr. Blinks was looking for alternate work when Ogden & Adams was sold.  
+This work was to include less heavy lifting.  Eventually, Mr. Blinks found part time work 
+with the USDA performing interviews.  This work provided a significant drop in income 
+when compared to his pre-injury status.  However, Mr. Blinks testified that he was 
+holding off on finding additional employment due to his wife needing hip surgery.  He 
+also noted self-limiting due to a non-work-related shoulder injury that he suffered after 
+slipping and falling on his own driveway.   
+I am concerned about Mr. Blinks’ motivation to find or return to work based on 
+the foregoing evidence.  Additionally, there is little medical support for a significant 
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 16 
+ 
+ 
+industrial disability rating.  Mr. Blinks’ stated goals of finding a job that presents him with 
+less wear and tear and waiting to find a job until his wife has hip surgery are significant 
+self-limiting factors.  I find that the claimant has sustained a 15 percent disability.   
+Rate / Underpayment of Temporary Benefits 
+ 
+Iowa Code 85.36 states that the bases of compensation is the weekly earnings of 
+the employee at the time of the injury.  The section defines weekly earnings as the 
+gross salary, wages, or earnings to which an employee would have been entitled had 
+the employee worked the customary hours for the full pay period in which the employee 
+was injured as the employer regularly scheduled for the work or employment.  The 
+various subsections of 85.36 set forth methods of computing weekly earnings 
+depending upon the type of earnings and employment.   
+ 
+If the employee is paid on a daily or hourly basis, or by output, the weekly 
+earnings are computed by dividing by 13 the earnings over the 13-week period 
+immediately preceding the injury.  Any week that does not fairly reflect the employee’s 
+customary earnings is excluded.   
+ 
+The parties stipulated to the claimant being single and entitled to one exemption 
+at the outset of the hearing.  I find the documentation provided by the claimant to be a 
+more credible representation of the claimant’s wages.  The documentation produced by 
+the defendants appeared to have been produced solely in anticipation of litigation, while 
+the documentation produced by the claimant included detailed information concerning 
+taxes and withheld wages.  Therefore, I find the claimant’s average weekly wage to be 
+$723.64, which translates to a rate of $444.75.   
+ 
+The parties stipulated that the claimant was paid temporary total disability and 
+temporary partial disability from December 23, 2016, through February 11, 2017.  The 
+claimant was paid at a rate of $414.17 per week during this span.  The parties stipulated 
+that the claimant was paid $1,775.17 in temporary total disability benefits and $1,123.51 
+in temporary partial disability benefits.   
+ 
+Based upon the above decision that the claimant’s average weekly wage is 
+properly $723.64, with a rate of $444.75, there is an underpayment of $30.58 per week 
+from December 23, 2016, through February 11, 2017.   
+Costs 
+Claimant seeks the award of costs as outlined in Claimant’s Exhibit 8.  Costs are 
+to be assessed at the discretion of the deputy commissioner hearing the case.  See 876 
+Iowa Administrative Code 4.33; Iowa Code 86.40.  876 Iowa Administrative Code 
+4.33(6) provides:  
+[c]osts taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 17 
+ 
+ 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+reviewing health service disputes.   
+The administrative rule expressly allows taxation of costs for transcriptions, the costs of 
+service, and the costs of filing fees.     
+ 
+Pursuant to the holding in Des Moines Area Reg’l Transit Auth. v. Young, 867 
+N.W.2d 839, (Iowa 2015), only the report of an IME physician, and not the examination 
+itself, can be taxed as a cost according to 876 IAC 4.33(6).  The Iowa Supreme Court 
+reasoned, “a physician’s report becomes a cost incurred in a hearing because it is used 
+as evidence in lieu of the doctor’s testimony,” while “[t]he underlying medical expenses 
+associated with the examination do not become costs of a report needed for a hearing, 
+just as they do not become costs of the testimony or deposition.”  Id.  (nothing 
+additionally that “[i]n the context of the assessment of costs, the expenses of the 
+underlying medical treatment and examination are not part of the costs of the report or 
+deposition”).   
+ 
+The undersigned held that the claimant suffered some permanent disability.  
+Therefore, it is appropriate to award some costs based upon my discretion.  I award the 
+claimant the requested fees for deposition transactions, service charges, and filing fees, 
+amounting to $169.80.  Pursuant to the holding in Young, I award the claimant 
+$1,600.00 for Dr. Manshadi’s record review and report.  The total costs awarded to the 
+claimant are $1,769.80 in costs as represented in Claimant’s Exhibit 8.   
+ORDER 
+IT IS THEREFORE ORDERED: 
+That defendants are to pay unto claimant seventy-five (75) weeks of permanent 
+partial disability benefits at the rate of four hundred forty-four and 75/100 dollars 
+($444.75) per week from the stipulated commencement date of February 12, 2017. 
+That defendants are to pay unto claimant the underpayment of temporary partial 
+disability and temporary total disability benefits of thirty and 58/100 dollars ($30.58) per 
+week from December 23, 2016, through February 11, 2017.   
+ 
+ 
+
+BLINKS V. OGDEN AND ADAMS LUMBER 
+Page 18 
+ 
+Right to Appeal: This decision shall become final unless you or another interested party appeals within 
+20 days from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The 
+notice of appeal must be filed via Workers’ Compensation Electronic System (WCES) unless the filing 
+party has been granted permission by the Division of Workers’ Compensation to file documents in paper 
+form.  If such permission has been granted, the notice of appeal must be filed at the following address: 
+Workers’ Compensation Commissioner, Iowa Division of Workers’ Compensation, 150 Des Moines 
+Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be received by the Division of 
+Workers’ Compensation within 20 days from the date of the decision.  The appeal period will be 
+extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+That defendants shall pay interest on unpaid weekly benefits awarded herein as 
+set forth in Iowa Code 85.30.  Defendants shall pay accrued weekly benefits in a lump 
+sum together with interest at the rate of ten percent for all weekly benefits in a lump sum 
+together with interest at the rate of ten percent for all weekly benefits payable and not 
+paid when due which accrued before July 1, 2017, and all interest on past due weekly 
+compensation benefits accruing on or after July 1, 2017, shall be payable at an annual 
+rate equal to the one-year treasury constant maturity published by the federal reserve in 
+the most recent H15 report settled as of the date of injury, plus two percent.  See 
+Gamble v. AG Leader Technology, File No. 5054686 (App. Apr. 24, 2018).   
+That defendants shall be given credit for benefits previously paid. 
+That defendants shall reimburse claimant for costs totaling one thousand seven-
+hundred and sixty-nine and 80/100 dollars ($1,769.80).   
+That defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to 876 IAC 3.1(2) and 876 IAC 11.7.   
+Signed and filed this __10th ____ day of August, 2020. 
+The parties have been served, as follows: 
+Casey Steadman (via WCES) 
+Nate Willems (via WCES) 
+M. Anne McAtee (via WCES) 
+   ANDREW M. PHILLIPS 
+               DEPUTY WORKERS’ 
+     COMPENSATION COMMISSIONER 

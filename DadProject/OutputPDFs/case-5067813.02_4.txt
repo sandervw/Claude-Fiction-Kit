@@ -1,0 +1,389 @@
+Case Number: 5067813.02
+Case Title:  WILLIAMS, RICHIE V. ARCHER DANIELS MIDLAND
+Doc Type:    Decision - Court of Appeals
+Source:      Williams, Richie-5067813.02.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 22-2075 
+Filed December 20, 2023 
+ 
+ 
+ARCHER DANIELS MIDLAND, 
+ 
+Petitioner-Appellant/Cross-Appellee, 
+ 
+vs. 
+ 
+RICHIE WILLIAMS, 
+ 
+Respondent-Appellee/Cross-Appellant. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Joseph W. Seidlin, 
+Judge. 
+ 
+ 
+An employer appeals the district court’s ruling on judicial review of the 
+workers’ compensation commissioner decision.  An employee cross-appeals the 
+district court’s ruling affirming that he is not entitled to healing period benefits.  
+REVERSED AND REMANDED ON APPEAL; AFFIRMED ON CROSS-APPEAL.  
+ 
+ 
+Peter J. Thill and Brandon W. Lobberecht of Betty, Neuman & McMahon, 
+P.L.C., Davenport, for appellant/cross-appellee. 
+ 
+Andrew M. Giller of Rush & Nicholson, P.L.C., Cedar Rapids, for 
+appellee/cross-appellant. 
+ 
+ 
+Considered by Ahlers, P.J., Badding, J., and Danilson, S.J.* 
+ 
+*Senior judge assigned by order pursuant to Iowa Code section 602.9206 
+(2023). 
+
+ 
+2
+AHLERS, Presiding Judge. 
+In 2018, while working at Archer Daniels Midland (ADM), Richie Williams 
+fell on his right side and sustained an injury.  Williams eventually underwent 
+surgery to his right shoulder.  After recovering from surgery, Williams returned to 
+work without restrictions. 
+ 
+Williams filed a claim for workers’ compensation benefits for his injury.  He 
+sought industrial disability benefits based on a claim that his injuries occurred 
+proximal to the glenohumeral joint, so the injury was to his body as a whole rather 
+than a scheduled shoulder injury under Iowa Code section 85.34(2)(n) (2018).  He 
+also sought healing period benefits for days he called in sick to work before his 
+surgery.  Following a hearing, the deputy workers’ compensation commissioner 
+found that the injury was to a scheduled member (i.e., the shoulder) rather than to 
+Williams’s whole body and he was not entitled to healing period benefits for days 
+when he called in sick to work.1  Both parties appealed to the workers’ 
+compensation commissioner on multiple issues, and the commissioner affirmed 
+the deputy commissioner’s decision.   
+ 
+Both parties sought judicial review of the commissioner’s decision through 
+Iowa Code chapter 17A.2  Williams sought reversal of the commissioner’s decision 
+that his injury was limited to a scheduled shoulder injury and that he was not 
+entitled to healing period benefits.  ADM argued that Williams failed to preserve 
+ 
+1 The hearing involved other issues that were resolved by the deputy 
+commissioner, but we confine our discussion to the issues that are raised on 
+appeal. 
+2 The parties raised several issues, but we again confine our discussion to the 
+issues raised on appeal. 
+
+ 
+3
+error on his challenge to the scheduled nature of his injury because he took a 
+different tack on judicial review when claiming his injury extended to his whole 
+body.  The district court determined the issue was preserved and reversed the 
+commissioner, remanding to the agency to make further disability findings as to all 
+body parts affected.  The district court affirmed the commissioner’s decision 
+denying Williams’s claim for healing period benefits for his sick days.   
+ 
+ADM appeals, arguing Williams failed to preserve error on the issue of 
+whether the injury extended to his whole body.  Williams cross-appeals, arguing 
+the district court erred by failing to reverse the commissioner’s decision denying 
+him healing period benefits. 
+ 
+Iowa Code chapter 17A guides our review of agency decision-making.  
+Chavez v. M.S. Tech. LLC, 972 N.W.2d 662, 666 (Iowa 2022).  We assess whether 
+we come to the same conclusions as the district court.  Id.  When reviewing 
+decisions of the workers’ compensation commissioner interpreting Iowa Code 
+chapter 85, we review for correction of errors at law rather than deferring to the 
+agency’s interpretation “because the legislature has not clearly vested the 
+commissioner with authority to interpret that chapter.”  Id.  That said, “[w]e accept 
+the commissioner’s factual findings when supported by substantial evidence.”  Id. 
+(quoting Gumm v. Easter Seal Soc’y of Iowa, 943 N.W.2d 23, 28 (Iowa 2020)).  
+“Evidence is substantial if a reasonable mind would find it adequate to reach the 
+same conclusion.”  Evenson v. Winnebago Indus., Inc., 881 N.W.2d 360, 366 (Iowa 
+2016) (quoting Coffey v. Mid Seven Transp. Co., 831 N.W.2d 81, 89 (Iowa 2013)).  
+Evidence is not insubstantial just because it could lead reasonable minds to 
+different conclusions.  Id. 
+
+ 
+4
+I. 
+Error Preservation 
+ 
+We begin with ADM’s claim that Williams did not preserve error on his 
+argument that he is entitled to body-as-a-whole benefits because he suffered 
+injuries to his shoulder and arm.  This issue stems from the differences in 
+compensation for injuries to scheduled body parts and unscheduled body parts.  
+Iowa Code section 85.34(2)(a)‒(u) provides a schedule of injuries to specified body 
+parts and how they are compensated, while section 85.34(2)(v) covers injuries that 
+do not fall under the scheduled-member subsections.3  See Chavez, 972 N.W.2d 
+at 666–67 (describing the difference between scheduled injuries and unscheduled 
+injuries).  In addition to providing a greater potential number of weekly benefits 
+than any scheduled injury, section 85.34(2)(v) also calls for disability to be based 
+on the worker’s industrial disability, which is based on loss of earning capacity 
+rather than strictly functional impairment.  Id. 
+ 
+To better understand the issue over error preservation, a timeline in the 
+development of this case, legislative amendments, and interpretation of those 
+amendments is useful.  Prior to 2017, shoulder injuries were considered 
+unscheduled injuries to the body as a whole.  See Second Inj. Fund v. Nelson, 544 
+N.W.2d 258, 269 (Iowa 1995) (“We have previously held that an injury to a joint 
+such as a hip or shoulder should be treated as an injury to the body as a whole, 
+not as a scheduled injury.”).  However, “[i]n 2017, the legislature amended 
+ 
+3 Iowa Code section 85.34(2)(n) provides: “For the loss of a shoulder, weekly 
+compensation during four hundred weeks.”  And Iowa Code section 85.34(2)(v) 
+provides: “In all cases of permanent partial disability other than those [previously 
+described,] the compensation shall be paid during the number of weeks in relation 
+to five hundred weeks . . . .” 
+
+ 
+5
+section 85.34(2) to add ‘shoulder’ to the list of scheduled injuries and set the 
+benefits schedule for ‘the loss of a shoulder’ to ‘weekly compensation during four 
+hundred weeks.’”  Chavez, 972 N.W.2d at 667 (citation omitted).  But the legislation 
+did not define “shoulder.”  Id.   
+The lack of definition in the new legislation led to legal tussles over what 
+constitutes a “shoulder.”  Resolution of those tussles started to shape the definition 
+of the term, beginning with two decisions by the workers’ compensation 
+commissioner in Deng v. Farmland Foods, Inc., File No. 5061883, 2020 WL 
+5893577 (Iowa Workers’ Comp. Comm’n Sept. 29, 2020), and Chavez v. MS 
+Technology, LLC, File No. 5066270, 2020 WL 6037534 (Iowa Workers’ Comp. 
+Comm’n Sept. 30, 2020).  In Deng, the commissioner determined that the term 
+“shoulder” in section 85.34(2)(n) is not limited to the glenohumeral joint but also 
+includes the muscles that make up the rotator cuff.  Deng, 2020 WL 5893577, 
+at *10.  In Chavez, the commissioner built on the foundation laid in Deng and 
+concluded that a labral tear, a subacromial decompression, or both would be 
+injuries to the “shoulder.”  Chavez, 2020 WL 6037534, at *3–4. 
+The commissioner’s decision in Chavez posed a problem for Williams, 
+because, as he admitted in his brief to the deputy, the injured parts of his body “fall 
+within the [c]ommissioner’s definition of the shoulder [the commissioner] 
+articulated in Chavez.”  Of course, having the same injury that was found to be a 
+shoulder injury in Chavez hampered Williams’s ability to argue before the agency 
+that his injuries were unscheduled injuries to his body as a whole.  To try to 
+overcome that problem, Williams took one and only one tack.  He argued the 
+commissioner’s Chavez decision on the issue of what body parts constitute the 
+
+ 
+6
+shoulder was “wrongly decided” and he “hereby preserves this issue for appeal.”  
+After losing this argument before the deputy due to the commissioner’s Chavez 
+decision, Williams appealed to the commissioner and repeated his argument on 
+this issue verbatim. 
+After briefs were submitted to the commissioner on intra-agency appeal, the 
+supreme court filed its decision ruling on the commissioner’s interpretation of the 
+term “shoulder” in Chavez.  972 N.W.2d at 667–68.  The supreme court agreed 
+with the commissioner’s interpretation and held that “shoulder” is not limited to the 
+glenohumeral joint but also includes “all of the muscles, tendons, and ligaments 
+that are essential for the shoulder to function.”  Id. at 668.  In Williams’s case, the 
+commissioner affirmed the deputy’s decision limiting Williams to benefits from a 
+scheduled shoulder injury. 
+As Williams pursued judicial review of the commissioner’s ruling, his entire 
+argument before the agency on the extent of his injury—that the commissioner’s 
+Chavez decision was wrongly decided—was dead in the water due to the supreme 
+court’s decision on judicial review.  So, Williams charted an entirely new course.  
+He argued that he sustained an injury to both his shoulder and his arm.  This new 
+argument triggered the error-preservation issue here. 
+The district court found that Williams preserved this issue for judicial review 
+because the parties have always disputed whether Williams’s injury qualified as a 
+scheduled-member shoulder injury or a body-as-a-whole industrial disability.  We 
+respectfully disagree.  “[J]udicial review of administrative action is limited to 
+questions considered by the agency.”  Pruss v. Cedar Rapids/Hiawatha 
+Annexation Special Loc. Comm., 687 N.W.2d 275, 285 (Iowa 2004).  To preserve 
+
+ 
+7
+error on an issue, Williams needed to raise the issue during the agency 
+proceedings and not for the first time during judicial review.  Staff Mgmt. v. 
+Jimenez, 839 N.W.2d 640, 647 (Iowa 2013) (“We have held a party preserves error 
+on an issue before an agency if a party raises the issue in the agency proceeding 
+before the agency issues a final decision and both sides have had an opportunity 
+to address the issue.”).  The question is whether Williams’s argument that the injury 
+extends to the body as a whole because he suffered impairment in both his arm 
+and shoulder is a wholly new argument or simply “additional ammunition for the 
+same argument.”  See JBS Swift & Co. v. Ochoa, 888 N.W.2d 887, 893 (Iowa 
+2016). 
+ 
+Neither party introduced evidence to support or rebut the contention that the 
+elbow/arm impairment was separate from the shoulder impairment, nor did either 
+party make any arguments before the agency to support or rebut the contention 
+that the elbow/arm impairment should cause the injury to be classified as an 
+industrial disability.  See Jimenez, 839 N.W.2d at 647 (recognizing error is 
+preserved if there is a final ruling and both sides have been able to address the 
+issue).  The argument must be made specifically enough “to alert the court and 
+opposing counsel to the claims he now raises.”  Pharaoh-Carlson v. Hy-Vee, Inc., 
+No. 13-1446, 2015 WL 566666, at *4 (Iowa Ct. App. Feb. 11, 2015).  The specifics 
+of Williams’s argument are factually different such that neither the agency nor ADM 
+were alerted to it until it was raised on judicial review.  On judicial review, the district 
+court found error on an issue the agency never actually considered.  And even if 
+that was a mistake on the part of the agency, it was Williams’s responsibility to 
+obtain a ruling on the issue.  See KFC Corp. v. Iowa Dep’t of Revenue, 792 N.W.2d 
+
+ 
+8
+308, 329 (Iowa 2010) (“When an agency fails to address an issue in its ruling and 
+a party fails to point out the issue in a motion for rehearing, we find that error on 
+these issues has not been preserved.”). 
+ 
+This is not an instance where Williams clearly made the argument but 
+simply failed to cite a specific legal authority.  See Ochoa, 888 N.W.2d at 893.  Nor 
+is it a case where it is clear that he was arguing the issue but did not specifically 
+name the theory upon which he relied.  See Off. of Consumer Advoc. v. Iowa State 
+Com. Comm’n, 465 N.W.2d 280, 283‒84 (Iowa 1991) (finding error was preserved 
+when a party raised a Fourteenth Amendment due process claim even though it 
+never specifically mentioned the due process clause because it could not have 
+been arguing anything other than procedural unfairness).  Rather, it is a case of 
+Williams finding an alternative way to make his case late in the process and trying 
+to dress it up as a preserved issue.  We are not persuaded that Williams raised 
+this issue before the agency.  Thus, we find the district court erred in deciding the 
+issue was preserved for judicial review.  Cf. Schoenberger v. Acuity, No. 22-1613, 
+2023 WL 2908622, at *2–3 (Iowa Ct. App. Apr. 12, 2023) (finding error preserved 
+where claimant raised his industrial disability argument based on the combination 
+of shoulder and arm injuries on appeal to the commissioner).  As a result, we 
+reverse on ADM’s appeal and remand for entry of an order denying Williams’s 
+petition for judicial review as it relates to challenging the commissioner’s ruling that 
+his injury is limited to a scheduled shoulder injury. 
+II. 
+Healing Period Benefits 
+ 
+Williams called in sick from work several times due to his shoulder pain and 
+sought healing period benefits for those days.  The commissioner denied his 
+
+ 
+9
+request, and Williams seeks reversal of the commissioner’s decision denying him 
+healing period benefits. 
+ 
+From the date Williams injured his shoulder until he underwent surgery for 
+the injury, Williams worked at ADM under restrictions.  The deputy commissioner 
+found that ADM did not provide a formal or written offer of suitable work but instead 
+simply had Williams find work to do within his restrictions.  At least once, Williams 
+was reprimanded for not working when he was unable to find something he could 
+do.  During this period when Williams had returned to work under restrictions, he 
+experienced shoulder pain and called in sick, resulting in him missing fifty-two days 
+of work.   
+ 
+The commissioner4 found the work ADM provided to Williams suitable and 
+that Williams “does not have license to just call in when his injured body part is 
+particularly sore and then later claim healing period for those dates.”  The 
+commissioner also addressed ADM’s failure to put the offer of work in writing.  The 
+commissioner determined that, in an instance where the employee returned to 
+work, the failure to provide a written offer of work does not give the employee the 
+option to collect healing period benefits for days the employee does not feel well 
+enough to come in.   
+ 
+Williams insists ADM did not meet its responsibility to offer him suitable work 
+for two reasons.  First, he claims the work was not suitable because it is not clear 
+ 
+4 Because the commissioner adopted the deputy commissioner’s proposed ruling, 
+we treat the two decisions as one and refer to them collectively as the 
+commissioner’s ruling.  See Schutjer v. Algona Manor Care Ctr., 780 N.W.2d 549, 
+556 n.2 (Iowa 2010) (following the same method for referencing the two decisions 
+of the agency). 
+
+ 
+10 
+from the record that Williams was able to avoid work outside his restrictions.  
+Second, he points out that the offer was not in writing, as required by 
+section 85.33(3)(b).  As part of his argument, he contends his return to work should 
+not preclude him from collecting healing period benefits for his sick days.   
+ 
+As to Williams’s first argument, substantial evidence supports the 
+commissioner’s finding that the work offered to Williams was suitable.  See Neal 
+v. Annett Holdings, Inc., 814 N.W.2d 512, 519, 524 (Iowa 2012) (noting that the 
+question whether an employer offered suitable work is ordinarily a fact question, 
+the resolution of which must be affirmed if supported by substantial evidence).  
+ADM allowed Williams to return to work while only working within his restrictions.  
+Williams’s supervisor, whom the commissioner found credible, explained the light-
+duty jobs given to Williams during this time.  Williams argues that the reprimand 
+he received for sitting around when he couldn’t find a task to do raises the question 
+of whether he was allowed to avoid work outside his restrictions.  But nothing in 
+the record suggests ADM ever asked Williams to do anything outside his 
+restrictions.  We cannot find lack of substantial evidence that Williams was offered 
+suitable work simply because one could look at the reprimand and perhaps 
+conclude that the work offered to Williams was not within his restrictions.  See 
+Evenson, 881 N.W.2d at 366 (“An agency’s decision does not lack substantial 
+evidence because inconsistent conclusions may be drawn from the same 
+evidence.” (quoting Coffey, 831 N.W.2d at 89)).  The evidence in the record is 
+sufficient to allow a reasonable factfinder to conclude that ADM offered Williams 
+suitable work.  See id.   
+
+ 
+11 
+ 
+We also do not find it appropriate to permit ADM’s failure to put the offer of 
+work in writing to lead to the extreme result Williams requests.  Section 85.33(3)(a) 
+precludes an employee from receiving healing period benefits if the employer 
+offers suitable work and the employee refuses.  Under section 85.33(3)(b), the 
+offer of work must be in writing.  The employee’s refusal must also be in writing.  
+Iowa Code § 85.33(3)(b).  Williams suggests that because the offer was not in 
+writing, ADM cannot now argue that it offered suitable work.  He reasons that 
+because the offer of work was not in writing, it is not necessary to address whether 
+he refused the work and we should reverse the denial of healing period benefits.  
+But we find this section simply adds a hurdle to an employer’s defense—a defense 
+not applicable here due to Williams’s acceptance of the work.  See Cent. Iowa 
+Fencing, Ltd. v. Hays, No. 21-1530, 2022 WL 2826011, at *6 (Iowa Ct. App. July 
+20, 2022) (holding that an employer may not defend against a claim for healing 
+period benefits by asserting that the employee refused work when the offer of work 
+was not in writing).  Because ADM is not claiming Williams refused work, it is not 
+defending his claim for healing period benefits on that basis.  Williams’s undisputed 
+return to work made any failure to put the offer of work in writing inconsequential.  
+The writing requirement does not independently create grounds for an employee 
+to recover healing period benefits, as Williams’s argument suggests.   
+ 
+Regardless, Williams is only entitled to benefits for the days he did not work 
+if we find he was otherwise eligible to receive them.  But Williams returned to work, 
+and, under section 85.34(1), doing so cuts off his entitlement to healing period 
+
+ 
+12 
+benefits.5  Williams urges us not to use his return to work as a barrier to granting 
+him healing period benefits.  He suggests that to find his return to work 
+discontinued his healing period would create unfair results by punishing employees 
+who accept unsuitable work and allow employers to act unscrupulously.  But the 
+statute is clear that an employee is entitled to healing period benefits only until the 
+employee returns to work.6  We cannot read in an exception to the statute to avoid 
+potential undesirable outcomes.  See Goche v. WMG, L.C., 970 N.W.2d 860, 866 
+(Iowa 2022) (“[I]t is not our role to rewrite the Iowa statute in the guise of 
+interpretation.”).  We come to the same conclusion as the commissioner that, upon 
+returning to work, Williams no longer qualified for healing period benefits. 
+ 
+Because substantial evidence supports the finding that ADM offered 
+Williams suitable work, Williams accepted that work, and Williams returned to 
+work, he cannot now argue for healing period benefits for the days he called in sick 
+following his return to work.  Therefore, on cross-appeal, we affirm the district 
+court’s decision denying Williams’s petition for judicial review of the 
+commissioner’s decision denying additional healing period benefits. 
+ 
+5 Iowa Code section 85.34(1) states: 
+ 
+If an employee has suffered a personal injury causing 
+permanent partial disability for which compensation is payable as 
+provided in subsection 2 of this section, the employer shall pay to the 
+employee compensation for a healing period, as provided in section 
+85.37, beginning on the first day of disability after the injury, and until 
+the employee has returned to work or it is medically indicated that 
+significant improvement from the injury is not anticipated or until the 
+employee is medically capable of returning to employment 
+substantially similar to the employment in which the employee was 
+engaged at the time of the injury, whichever occurs first. 
+6 Of course, a new healing period as a result of additional treatment or 
+reaggravating the injury is not precluded.  See Waldinger Corp. v. Mettler, 817 
+N.W.2d 1, 8 (Iowa 2012). 
+
+ 
+13 
+III. 
+Conclusion 
+ 
+On ADM’s appeal issue, we reverse and remand.  We reverse that part of 
+the district court’s decision granting Williams’s petition for judicial review 
+challenging the commissioner’s decision to compensate Williams for a scheduled 
+shoulder injury only.  We remand to the district court to issue an order denying 
+Williams’s petition for judicial review on that issue. 
+ 
+As to Williams’s cross-appeal, we affirm the district court’s decision denying 
+Williams’s petition for judicial review challenging the commissioner’s decision to 
+deny additional healing period benefits.  Costs on appeal are assessed to Williams. 
+ 
+REVERSED AND REMANDED ON APPEAL; AFFIRMED ON CROSS-
+APPEAL. 

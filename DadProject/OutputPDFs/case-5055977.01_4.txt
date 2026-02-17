@@ -1,0 +1,276 @@
+Case Number: 5055977.01
+Case Title:  BARRY, BRIAN V. JOHN DEERE DUBUQUE WORKS
+Doc Type:    Decision - Court of Appeals
+Source:      Barry, Brian-5055977.01.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 22-1000 
+Filed May 24, 2023 
+ 
+ 
+BRIAN BARRY, 
+ 
+Plaintiff-Appellant, 
+ 
+vs. 
+ 
+JOHN DEERE DUBUQUE WORKS OF DEERE & COMPANY, 
+ 
+Defendant-Appellee. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Heather L. Lauber, 
+Judge. 
+ 
+ 
+Brian Barry appeals from judicial review affirming the denial of his review-
+reopening petition before the Iowa Workers’ Compensation Commissioner.  
+AFFIRMED. 
+ 
+ 
+Thomas M. Wertz and Mindi M. Vervaecke of Wertz Law Firm, Cedar 
+Rapids, for appellant. 
+ 
+Dirk J. Hamel of Gilloon, Wright & Hamel, P.C., Dubuque, for appellee. 
+ 
+ 
+Considered by Bower, C.J., and Badding and Buller, JJ.
+
+ 
+2
+BULLER, Judge. 
+ 
+Brian Barry appeals from a judicial-review proceeding affirming denial of a 
+review-reopening petition before the Iowa Workers’ Compensation Commissioner.  
+After reviewing the legal questions presented and affording appropriate deference 
+to the commissioner’s factual findings, we affirm. 
+I. 
+Background Facts and Proceedings 
+ 
+This appeal relates to Barry’s attempt to reopen an award from a 2017 
+arbitration decision.  During the arbitration hearing, Barry testified he developed 
+carpal tunnel syndrome while working for John Deere Dubuque Works of Deere & 
+Co., leading to surgery and ongoing difficulty with “gripping, grasping, pushing, 
+[and] pulling.”  In the arbitration decision, a deputy workers’ compensation 
+commissioner found Barry sustained a work-related injury resulting in bilateral 
+injuries to both arms and causing permanent partial disability of 11% to the body 
+as a whole.  The deputy relied on the report and disability rating of Dr. Robin 
+Sassman, who opined: “At first glance, this number appears high; however, given 
+that [Barry] still has significant residual symptoms even after surgery, and it has 
+impacted both of his upper extremities, this appears reasonable.”   
+ 
+In 2018, Barry saw multiple physicians who documented his symptoms and 
+recommended he continue to work without restrictions.  Barry first reported he was 
+able to do his job without restrictions but with pain.  Toward the middle of 2018, 
+Barry reported less pain but now had a work restriction.  Barry reported the primary 
+pain during this time was in his shoulders, which caused him to wake up five times 
+per night.  By September 2018, Barry changed jobs within his employer and 
+reported improvement in the use of his hands with an increased range of motion.  
+
+ 
+3
+But one month later, Barry reported to a different physician that he had tingling in 
+his hands, and an MRI showed problems with his shoulders.  Barry was cleared to 
+return to work without additional restrictions.   
+ 
+From December 2018 to February 2020, Barry began to see a nurse 
+practitioner for the shoulder pain.  During this time, Barry reported tingling in his 
+hands and fingers, along with the shoulder issues.  By March 2020, Barry reported 
+to another physician that his wrists “do ok” if he follows his restrictions but they 
+swell up if he does too much. 
+ 
+In 2019, Barry filed a review-reopening petition alleging his bilateral carpal 
+tunnel had worsened since the original award.  In October 2020, Barry saw             
+Dr. Stanley Mathew for an independent medical evaluation.  Dr. Mathew noted 
+Barry “rates his discomfort at about a 6/10 most significantly in his shoulders, 
+wrists, forearms, and hands.”  Dr. Mathew diagnosed Barry with “[b]ilateral carpal 
+tunnel syndrome,” “[s]tatus post bilateral carpal tunnel decompression surgery,” 
+“[b]ilateral forearm tendinitis,” “[b]ilateral multidigit trigger finger,” “[b]ilateral rotator 
+cuff tendonitis,” “[b]ilateral upper extremity weakness,” and “[c]hronic pain in 
+[b]ilateral upper extremities.”  Dr. Mathew noted that “Barry continues to have 
+worsening forearm pain, stiffness, weakness, numbness, and tingling that have 
+progressively gotten worse” since the 2017 arbitration decision.  Using Table 16-18 
+of the American Medical Association’s Guides to the Evaluation of Permanent 
+Impairment (5th Ed.) [hereinafter, “AMA Guides”], Dr. Mathew rated Barry’s 
+permanent impairment at “a 10% upper extremity rating to each of his elbows, a 
+15% upper extremity impairment to his wrists, and a 15% impairment rating as a 
+result of loss of function of his finger joints.”  Of these impairments, Dr. Mathew 
+
+ 
+4
+opined that Barry’s shoulder complaints were new and separate from the wrist, 
+hand, finger, and forearm diagnoses.  Dr. Mathew also reported that Barry’s 
+“chronic pain and weakness” were not adequately considered by the AMA Guides, 
+and he added further permanent restrictions.   
+ 
+A contested review-reopening hearing was held, during which Barry 
+testified he was living in Florida and not working due the COVID-19 pandemic; he 
+had neither formally retired nor made definite plans to return to work.  Another 
+deputy workers’ compensation commissioner denied the petition, finding that Barry 
+had not met his burden to prove a change in the condition of his work-related injury.  
+The deputy commissioner specifically found the report of Barry’s expert, Dr. 
+Mathew, not credible in part because it was based on “incorrect” sections of the 
+AMA Guides.  
+ 
+Barry appealed the deputy’s decision to the Workers’ Compensation 
+Commissioner, who affirmed and adopted the deputy’s decision in its entirety.  
+Barry then petitioned for judicial review, and the district court affirmed.  Barry 
+appealed to the supreme court, which transferred the case to our court. 
+II. 
+Standard of Review 
+This appeal comes before us under Iowa Code chapter 17A, the Iowa 
+Administrative Procedure Act.  See Iowa Code § 86.26 (2019).  Under chapter 
+17A, we may only interfere with an agency decision if it is erroneous under one of 
+the grounds enumerated in the statute and a party’s substantial rights have been 
+prejudiced.  Id. § 17A.19(10).  For example, we must reverse if the agency’s 
+decision was “unreasonable, arbitrary, capricious, or an abuse of discretion.”  Id. 
+§ 17A.19(10)(n). 
+
+ 
+5
+ 
+To the extent that our review turns on interpretation of the workers’ 
+compensation statute, interpretation has not been vested with the agency and we 
+do not defer to the agency’s legal conclusions.  See id. § 17A.19(10)(c), (11)(b); 
+Ramirez-Trujillo v. Quality Egg, L.L.C., 878 N.W.2d 759, 769 (Iowa 2016). 
+ 
+Our review of the facts is limited to review for substantial evidence.  See 
+Iowa Code § 17A.19(10)(f); Meyer v. IBP, Inc., 710 N.W.2d 213, 218 (Iowa 2006).  
+“Substantial evidence” is “the quantity and quality of evidence that would be 
+deemed sufficient by a neutral, detached, and reasonable person, to establish the 
+fact at issue when the consequences resulting from the establishment of that fact 
+are understood to be serious and of great importance.”  Iowa Code 
+§ 17A.19(10)(f)(3). 
+III. 
+Discussion 
+ 
+Barry filed a review-reopening petition under Iowa Code section 86.14, 
+which authorizes the commissioner “to ‘reopen an award for payments or 
+agreement for settlement . . . [to inquire] into whether or not the condition of the 
+employee warrants an end to, diminishment of, or increase of compensation so 
+awarded or agreed upon.’”  Kohlhaas v. Hog Slat, Inc., 777 N.W.2d 387, 391 (Iowa 
+2009) (alterations in original) (quoting Iowa Code § 86.14(2)).  When a claimant 
+seeks an increase in benefits, the claimant must establish “by a preponderance of 
+the evidence that, subsequent to the date of the award under review, he or she 
+has suffered an impairment or lessening of earning capacity proximately caused 
+by the original injury.”  E.N.T. Assocs. v. Collentine, 525 N.W.2d 827, 829 (Iowa 
+1994).  
+
+ 
+6
+ 
+Barry challenges the commissioner’s rejection of his expert’s opinion as an 
+abuse of discretion.  He also challenges whether sufficient evidence supports the 
+commissioner’s decision.  We affirm. 
+ 
+ 
+A.  Weight Assigned to Barry’s Expert  
+ 
+Barry’s first contention is that the commissioner abused his discretion in 
+rejecting Dr. Mathew’s medical opinion, which Barry calls “the only expert medical 
+opinion in the record.”  Barry’s characterization of the record is not quite correct, 
+as the evidence in the review-reopening proceeding included extensive medical 
+records as well as the opinions of Barry’s own expert in the original proceeding 
+and other treating providers.  But even if Dr. Mathew were the only expert before 
+the agency, “[e]xpert opinion testimony, even if uncontroverted, may be accepted 
+or rejected in whole or in part by the trier of fact.”  Sanchez v. Blue Bird Midwest, 
+554 N.W.2d 283, 285 (Iowa Ct. App. 1996). 
+ 
+Looking at Barry’s claim more broadly, we affirm the district court’s judicial-
+review ruling, as “credibility determinations in workers’ compensation claims are 
+within the domain of the commissioner as trier of fact.”  Cedar Rapids Cmty. Sch. 
+Dist. v. Pease, 807 N.W.2d 839, 847 (Iowa 2011).  In finding Dr. Mathew’s report 
+not “persuasive,” the commissioner found that Dr. Mathew’s opinion lacked support 
+based on objective evidence, that Barry’s descriptions of his injuries at both the 
+original and review-reopening hearings were quite similar, that Barry “sought little 
+treatment” for injuries that he claimed were worsening (particularly when 
+contrasted with the prompt medical attention he sought for his shoulders), and that 
+Dr. Mathew misapplied the AMA Guides.  All of these considerations are proper 
+
+ 
+7
+for a fact-finder to consider when determining what weight to assign evidence.  See 
+id.  We find no abuse of discretion in rejecting Dr. Mathew’s expert opinion. 
+B. Agency Consideration of the AMA Guides 
+ 
+Next, Barry challenges the commissioner’s reference to the AMA Guides 
+when weighing his expert’s credibility.  Iowa Code section 85.34(2)(x) provides: 
+ 
+In all cases of permanent partial disability described in 
+paragraphs “a” through “u”, or paragraph “v” when determining 
+functional disability and not loss of earning capacity, the extent of 
+loss or percentage of permanent impairment shall be determined 
+solely by utilizing the [AMA Guides], as adopted by the workers’ 
+compensation commissioner by rule pursuant to chapter 17A.  Lay 
+testimony or agency expertise shall not be utilized in determining loss 
+or percentage of permanent impairment pursuant to paragraphs “a” 
+through “u”, or paragraph “v” when determining functional disability 
+and not loss of earning capacity. 
+ 
+Barry contends this language prohibits the commissioner from finding Dr. Mathew 
+misapplied the AMA Guides when weighing credibility and that the commissioner 
+abused his discretion by using the AMA Guides.  We disagree. 
+ 
+We observe that the commissioner’s finding that Dr. Mathew applied “an 
+incorrect section of the [AMA] Guides” was made in the context of Dr. Sassman’s 
+conflicting application of the AMA Guides.  Dr. Sassman provided a detailed 
+explanation for how he used the AMA Guides to calculate that Barry’s carpal tunnel 
+syndrome resulted in 11% whole person impairment, using the section that 
+specifically discusses carpal tunnel syndrome and tracing the impairment ratings 
+from Table 16-15 to Table 16-10.  By contrast, Dr. Mathew opined as to upper 
+extremity impairment ratings of 10% for each elbow, 15% for each wrist, and 15% 
+for finger joints—all with little explanation beyond noting he relied on Table 16-18 
+located in Section 16.7 of the AMA Guides.  Even Barry’s appellate brief provides 
+
+ 
+8
+little in the way of explanation.  Overall, we find hardly any support for Dr. Mathew’s 
+reliance on Section 16.7, as the section itself indicates it should only be used for 
+hand and upper extremity “[c]onditions not previously described” in the AMA 
+Guides.  Faced with this irreconcilable difference in how the experts applied the 
+AMA Guides, the commissioner was authorized to evaluate the experts’ competing 
+rating methods and conclude that Dr. Mathew “based his rating off an incorrect 
+section of the [AMA] Guides” when weighing witness credibility.  See Pease, 807 
+N.W.2d at 847.   
+ 
+Contrary to Barry’s claim, the commissioner weighed expert credibility 
+without running afoul of the statutory prohibition on determining “the extent of loss 
+or percentage of permanent impairment.”  See Iowa Code § 85.34(2)(x).  The 
+commissioner did not abuse his discretion. 
+C.  Sufficiency of the Evidence 
+ 
+Barry’s final challenge is to the commissioner’s conclusion that he did not 
+carry his burden to prove a change in his condition.  We find the commissioner’s 
+decision was supported by substantial evidence.  At the time of the initial award, 
+Dr. Sassman opined that Barry’s 11% permanent impairment rating appeared 
+“high” but was “reasonable” since Barry “has significant residual symptoms even 
+after surgery” that have “impacted both of his upper extremities.”  In the review-
+reopening proceeding, the commissioner correctly summarized the evidence, 
+noting the lack of objective support for Barry’s claim, that the subjective evidence 
+appeared to describe the same or very similar limitations as the original hearing, 
+and that much of the additional treatment sought by Barry related to his shoulders 
+rather than the original carpal tunnel injury.  The commissioner also properly 
+
+ 
+9
+exercised his discretion in rejecting Dr. Mathew’s testimony for the reasons set 
+forth earlier in this opinion.  Last, while Barry presented evidence about his new 
+shoulder injury, new injuries cannot increase the original impairment rating and are 
+correctly pursued in a separate proceeding.  See id. § 86.14(2); Blacksmith v. All-
+Am., Inc., 290 N.W.2d 348, 352 (Iowa 1980). 
+IV. 
+Disposition. 
+ 
+The commissioner did not abuse his discretion in rejecting the opinion of 
+Barry’s expert or in evaluating the expert’s use of the AMA Guides when weighing 
+credibility.  Substantial evidence supports the commissioner’s conclusion that 
+Barry failed to carry his burden to prove his current condition warranted reopening 
+his earlier disability award. 
+ 
+AFFIRMED. 
+ 
+ 
+ 

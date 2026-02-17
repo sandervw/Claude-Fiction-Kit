@@ -1,0 +1,587 @@
+Case Number: 5053002
+Case Title:  TILTON, TERRY V. HJ HEINZ CO
+Doc Type:    Decision - Court of Appeals
+Source:      Tilton - COA Decision - 12 18 24.PDF
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 24-0236 
+Filed December 18, 2024 
+ 
+ 
+H.J. HEINZ COMPANY and LIBERTY MUTUAL INSURANCE CO., 
+ 
+Petitioners-Appellants, 
+ 
+vs. 
+ 
+TERRY TILTON, 
+ 
+Respondent-Appellee. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, David Nelmark, Judge. 
+ 
+ 
+An employer and its insurer appeal from the district court’s ruling denying 
+their petition for judicial review of the Iowa Workers’ Compensation 
+Commissioner’s remand decision.  AFFIRMED.   
+ 
+ 
+Nathan R. McConkey of Huber, Book, Lanz & McConkey, PLLC, West Des 
+Moines, for appellants. 
+ 
+Thomas M. Wertz and Mindi M. Vervaecke of Wertz Law Firm, Cedar 
+Rapids, for appellee. 
+ 
+ 
+Considered by Tabor, C.J., and Chicchelly and Sandy, JJ.
+1 of 19
+ELECTRONICALLY FILED            DEC 18, 2024            CLERK OF SUPREME COURT
+ELECTRONICALLY FILED     2024-Dec-18  14:36:40     DIVISION OF WORKERS' COMPENSATION
+
+ 
+2
+SANDY, Judge. 
+ 
+H.J. Heinz Company (Heinz) and Liberty Mutual Insurance Company 
+(Liberty) appeal from the district court’s ruling denying their petition for judicial 
+review 
+of 
+the 
+Iowa 
+Deputy 
+Workers’ 
+Compensation 
+Commissioner’s 
+(Commissioner) remand decision.  They argue the Commissioner erred by: 
+(1) failing to make explicit findings on Terry Tilton’s credibility; (2) determining the 
+discovery rule date to be April 15, 2013; (3) determining Tilton’s low back and 
+mental conditions were causally related to and permanently aggravated by her 
+employment with Heinz and caused her to be permanently and totally disabled; 
+and (4) determining Tilton was entitled to penalty benefits.  We affirm, discerning 
+no errors of law and finding substantial evidence supports all the Commissioner’s 
+factual findings and determinations.   
+I. 
+Background Facts and Proceedings 
+ 
+Tilton began working for Heinz in 1999 and continued her employment there 
+until resigning based on disability on April 15, 2013.  She held several positions 
+during her career at Heinz, but her time serving in the “Clean As You Go” position 
+at the company is the period of her employment most relevant here.  Around 2009 
+or 2010 she bid into the “Clean As You Go” position—which both her testimony 
+and official job description described as a very physically demanding position.   
+ 
+While in that position, Tilton was working on her feet for the entire day.  She 
+filled and transported barrels of chlorine that weighed up to 100 pounds, cleaned 
+up messes on the jobsite by pulling spilled food product with a squeegee, used a 
+shovel to lift that squeegeed product about waist high and dump it into garbage 
+cans, and pushed those garbage cans up a ramp.  She testified that the trash cans 
+2 of 19
+
+ 
+3
+were heavy because the food product inside was very wet.  She also stacked 
+pallets weighing up to twenty-five pounds ten levels high, which required her to 
+use her back and stomach.  She often crouched and crawled to clean drains, 
+moved barrels of food product, and attended to other cleaning duties.  Heinz’s 
+official job description confirmed that this position requires frequent or occasional 
+bending, twisting, squatting, kneeling, and reaching.  The job description also 
+indicated “yes” next to the requirements of “repetitive motion,” “pushing/pulling,” 
+“fine manipulation,” and “simple grasping.”  In 2013, Tilton’s wage for this position 
+was $15.13 per hour.   
+ 
+Tilton first began treatment with a chiropractor in 2000.  She later started 
+treatment for low back and left leg pain with Dr. Matthew Gray in November 2004.  
+On December 1, 2004, Tilton had a magnetic resonance imaging scan (MRI) which 
+showed a small focal disc herniation on the left side at L4-5.  A second MRI 
+conducted on July 30, 2005, showed no significant change at L4-5 from the prior 
+MRI, and mild-moderate degenerative changes in the facets were noted at L3-4 
+through L5-S1, which were also noted to have no significant progression from the 
+prior MRI.   
+ 
+On August 24, 2005, Tilton was evaluated by neurosurgeon Dr. Chad 
+Abernathey.  After reviewing her prior MRIs, Dr. Abernathey opined Tilton’s neural 
+elements were well decompressed, and he did not recommend surgery “due to a 
+paucity of clinical and radiographic findings.”  From February 16, 2006, to about 
+March 27, 2006, Tilton’s chiropractor provided a note excusing her from work 
+because of low back pain.  Her chiropractor noted she was working on spinal 
+strengthening to allow her to return to work. 
+3 of 19
+
+ 
+4
+ 
+On August 12, 2007, Tilton had another MRI.  This scan also showed a disk 
+protrusion at L4-5.  A large focal spur on the right facet joint at L5-S1 was identified 
+as abutting the right S1 nerve root. 
+ 
+On July 8, 2008, Tilton returned to Dr. Gray.  She told him that she had been 
+moving boxes after she and her son had lost their homes due to flooding.  Dr. Gray 
+noted that Tilton “[did] not remember any specific accident but about a week ago 
+she started getting this left lower back pain,” and that she was on disability from 
+work “because she has a fairly heavy job of lifting.”  On July 14, 2008, Tilton had 
+an MRI which revealed no changes from her August 2007 MRI.  On July 31, 2008, 
+she began treatment with Dr. Farid Manshadi.  He performed an adjustment of her 
+SI joint, “and after that she did feel a lot better.”  He recommended 
+electromyography (EMG) testing.  That testing came back normal with no evidence 
+of lumbosacral radiculopathy.   
+ 
+On February 4, 2010, Tilton’s chiropractor completed a form that asked 
+whether Tilton’s condition made her “unable to perform any of [her] job functions,” 
+to which he responded, “No.”  He stated that, barring surgery, her disc bulges and 
+bone spur were permanent and would be a source of flare-ups in the future that 
+could cause her to miss work.  He wrote that Tilton was “not currently” 
+incapacitated, “but it is possible/probable over the course of the year,” and that 
+Tilton may need to miss work for medical treatment.  In his opinion it would be 
+impossible to know how long future flare-ups might last. 
+ 
+On March 22, 2010, Tilton began treating with Dr. Stanley Mathew.  He 
+recorded, “The patient has a history of chronic low back pain for the last 3 weeks.  
+She denies any accident, injury, or fall, but says she has been doing a lot of 
+4 of 19
+
+ 
+5
+bending and lifting at work . . . .”  Dr. Mathew also noted, “The patient has a 
+previous history of similar symptoms 2 years ago.  She said physical therapy 
+helped resolve her pain.”  On July 7, 2010, Dr. Mathew provided Tilton a note 
+indicating she could return to work “[w]ithout any restriction” on July 12, 2010.  
+Tilton tried to return to work as planned on July 12 but was unable to do so.  On 
+July 13, Tilton reported to Dr. Mathew that the Voltaren gel and cyclobenzaprine 
+he prescribed seemed to help the pain.  A new MRI showed a “new tiny right 
+posterior disc protrusion at L1-2,” a “new mild broad-based left far-lateral disc 
+protrusion at L2-3,” a “mild broad-based left lateral and far-lateral disc protrusion 
+at L3-4 and L4-5,” and “[u]nchanged right facet arthropathy.” 
+ 
+On August 10, 2010, Tilton returned to Dr. Mathew.  He reported that, on 
+that day, she “describe[d] no pain.”  Dr. Mathew continued, “She had an epidural 
+steroid injection 2 weeks ago.  She says she has been pain-free for the last 2 
+weeks and would like to do 2 weeks of physical therapy before returning to work.  
+Again today she denies any pain in her low back or hips.” 
+ 
+On September 1, 2010, Tilton returned to Dr. Mathew.  He reported: 
+She is doing very well.  The patient recently received a 
+transforaminal epidural steroid injection, which she says has 
+improved her symptoms.  She feels very good.  She denies minimal 
+pain, 1 [out of] 10.  Denies any pain radiating into her legs, localized 
+to her back, aggravated by activity, better with rest . . . .  [T]he 
+combination [of the gel and medication] has been covering her pain 
+very well.  She is able to walk independently four to five blocks, 
+independent with all activities of daily living.   
+ 
+Dr. Mathew’s examination revealed the range of motion in Tilton’s lumbar spine 
+was “full and pain-free.”  Tilton was released to “work full duty” and “[w]ithout any 
+restriction” effective September 8, 2010.   
+5 of 19
+
+ 
+6
+ 
+At an October 6, 2010, appointment, Dr. Mathew noted Tilton had returned 
+to work and was “overall doing well.”  He wrote that Tilton “[d]oes complain of aches 
+and pains, but is tolerating it.”  In December, he noted that she was “[o]verall doing 
+much better.”   
+ 
+Tilton left Heinz on disability on April 15, 2013, and did not return.  She had 
+been working Clean As You Go for over three years at that time.  Tilton testified 
+that on April 15, 2013, she reported to work and shortly after “the pain was just so 
+unbearable that I just said I just can’t do this no more.”  Dr. Mathew testified he felt 
+it was appropriate for Tilton to have stopped working on April 15, 2013.   
+ 
+At the time of her 2016 hearing with the Iowa Deputy Iowa Workers’ 
+Compensation 
+Commissioner, 
+Tilton 
+was 
+under permanent 
+restrictions 
+established by Dr. Mathew in 2015.  She was to “avoid prolonged standing, 
+walking, sitting, repetitive bending, squatting, lifting of more than 15 pounds.”  
+Dr. Mathew diagnosed her with “chronic low back pain, sacroiliitis, enthesopathy 
+of hips, [and] DJD L-S radiculopathy,” which was permanently aggravated by the 
+cumulative trauma from her work.  He also opined that she was not capable of full-
+time employment based on twenty percent whole-person impairment.   
+ 
+In his testimony, Dr. Mathew stated Tilton's condition is “extremely” painful, 
+and she worked until the “pain got so unbearable.”  He also testified that continued 
+work would be dangerous to Tilton and would result in “intractable pain,” 
+“worsening degeneration of her spine,” “risk of further degeneration of her hips, 
+knees, low back,” and “possible impingement of nerves.”   
+ 
+tDr. Marc Hines concurred, confirming Tilton suffered a cumulative trauma 
+injury related to her work at Heinz.  Dr. Hines opined that Tilton’s work at Heinz, 
+6 of 19
+
+ 
+7
+and in particular in the Clean As You Go position, had been a substantial 
+contributing factor in causing her low back condition to progress.  He also found 
+her to be at fourteen percent whole-person impairment and that she has “multilevel 
+disk disease and facet arthropathy in her lumbar spine . . . motion multilevel facet 
+arthropathy, multilevel lumbar disk disease and multilevel lumbar disk osteophyte 
+complexes, which have also contributed to sacroiliitis and greater trochanteric 
+bursitis.”  Dr. Hines opined these problems “ha[d] an etiology in work at H.J. Heinz.”   
+ 
+Dr. Bradley echoed the opinions of Dr. Mathew and Dr. Hines, stating that 
+“prolonged standing, bending, [and] lifting” have “place[d] increased pressure on 
+the discs and joints of [Tilton’s] lumbar spine” and prevent her from seeking full-
+time, gainful employment.  Vocational rehabilitation specialist Barbara Laughlin 
+stated that even sedentary work would be impossible for Tilton, “as she is not able 
+to perform prolonged sitting required in sedentary occupations.”   
+ 
+Tilton filed her arbitration petition against Heinz and Liberty in March 2015.  
+The hearing was held in March 2016, and the deputy commissioner issued a 
+decision on July 1, 2016.  The deputy commissioner concluded Tilton was aware 
+“by 2011 that her condition was work related, serious, and potentially 
+compensable” and, because “she did not provide notice to her employer until May 
+of 2013 . . . and did not file a petition for benefits until 2015,” her claim for benefits 
+was barred by Iowa Code sections 85.23 and 85.26(1) (2015).  Tilton appealed the 
+decision.  In his appeal decision, the commissioner’s designee found her claim for 
+benefits was barred by Iowa Code section 85.23.   
+ 
+In 2018, Tilton petitioned for judicial review of the agency’s decision in the 
+district court.  The district court concluded the agency applied an incorrect legal 
+7 of 19
+
+ 
+8
+standard; substantial evidence did not support the agency decision; and therefore 
+the decision was irrational, illogical, and wholly unjustifiable.  The district court 
+remanded the matter to the agency for further proceedings.  Heinz and Liberty 
+appealed that decision, and we affirmed the district court’s remand but reversed 
+its independent findings.  See Tilton v. H.J. Heinz Co. (Heinz I), No. 18-1629, 2019 
+WL 3317393 (Iowa Ct. App. July 24, 2019).   
+ 
+On remand, the deputy commissioner determined Tilton knew or 
+reasonably should have known her back injury would have a permanent adverse 
+impact on her employment on February 4, 2010, and so her claim was time barred 
+by Iowa Code section 85.23.  Tilton petitioned for judicial review, and the district 
+court found that the deputy commissioner’s discovery rule date determination was 
+irrational, illogical, and wholly unjustifiable, and not supported by substantial 
+evidence.  The district court again remanded the matter to the agency for further 
+proceedings.  Heinz and Liberty again appealed that decision, and we affirmed the 
+district court’s remand to the deputy commissioner.  See Tilton v. H.J. Heinz Co. 
+(Heinz II), No. 21-1777, 2022 WL 2824290 (July 20, 2022).   
+ 
+On remand, the deputy commissioner voluntarily recused himself.  The 
+Commissioner issued the remand decision on May 22, 2023, concluding that (1) in 
+relation to the discovery rule, notice and statute of limitations requirements 
+concerning Tilton’s work injury were tolled until April 15, 2013; (2) Tilton’s health 
+condition was caused, and permanently aggravated, by her April 15, 2013, work 
+injury; (3) Tilton’s work for Heinz caused and permanently aggravated, lit-up, or 
+accelerated her lumbar spine condition and chronic pain; (4) Tilton was entitled to 
+permanent total disability benefits from the date of injury of April 15, 2013; and 
+8 of 19
+
+ 
+9
+(5) Tilton  was entitled to $20,000 in penalty benefits.  Heinz and Liberty petitioned 
+for judicial review and the district court denied that petition and affirmed the 
+Commissioner’s findings on January 12, 2024.  Heinz and Liberty now appeal to 
+our court.   
+II. 
+Standard of Review 
+ 
+The first issue raised by Heinz and Liberty alleges the Commissioner made 
+an error of law.  The remaining issues allege the Commissioner made erroneous 
+factual findings.  The Iowa Administrative Procedure Act, Iowa Code chapter 17A, 
+governs judicial review of workers’ compensation cases.  Iowa Code § 10A.322 
+(2024).  If the claim of error lies with the agency’s findings of fact, we ask whether 
+substantial evidence supports those findings of fact.  Meyer v. IBP, Inc., 710 
+N.W.2d 213, 219 (Iowa 2006).  We are bound by the Commissioner’s findings of 
+fact as long as they are supported by substantial evidence in the record taken as 
+a whole.  Id. at 218.   
+ 
+Substantial evidence is “the quantity and quality of evidence that would be 
+deemed sufficient by a neutral, detached, and reasonable person, to establish the 
+fact at issue when the consequences resulting from the establishment of that fact 
+are understood to be serious and of great importance.”  Iowa Code 
+§ 17A.19(10)(f)(1).  “The question on appeal is not whether the evidence supports 
+a different finding than the finding made by the commissioner, but whether the 
+evidence supports the findings actually made.”  Meyer, 710 N.W.2d at 218 
+(cleaned up).   
+ 
+If “the claim of error lies with the agency’s interpretation of the law, the 
+question on review is whether the agency’s interpretation was erroneous, and we 
+9 of 19
+
+ 
+10 
+may substitute our interpretation for the agency’s.”  Id. at 219.  And if “the claim of 
+error lies with the ultimate conclusion reached [by the agency], then the challenge 
+is to the agency’s application of the law to the facts . . . .”  Id.  The question on 
+judicial review then becomes “whether the agency abused its discretion by, for 
+example, employing wholly irrational reasoning or ignoring important and relevant 
+evidence.”  Id.  “An agency’s application of the law to the facts can only be reversed 
+if we determine such an application was ‘irrational, illogical, or wholly unjustifiable.’”  
+Mycogen Seeds v. Sands, 686 N.W. 2d 457, 465 (Iowa 2004) (quoting Iowa Code 
+§ 17A.19(10)(m)).  If agency rules and precedent are ignored, or if the agency’s 
+decision disregards a relevant and important matter, reversal by the reviewing 
+court is appropriate.  Iowa Code § 17A.19(10)(g), (h), (j). 
+ 
+With these principles in mind, we consider the issues before us. 
+III. 
+Discussion 
+ 
+Heinz and Liberty argue the Commissioner erred in (1) failing to make 
+explicit findings on Terry Tilton’s credibility; (2) determining the discovery rule date 
+to be April 15, 2013; (3) determining Tilton’s low back and mental conditions were 
+causally related to and permanently aggravated by her employment with Heinz and 
+caused her to be permanently and totally disabled; and (4) determining Tilton was 
+entitled to penalty benefits. 
+A. Tilton’s Credibility 
+ 
+Heinz and Liberty allege the Commissioner committed an error of law in not 
+including express findings on Tilton’s credibility.  In their view, the Commissioner 
+had a duty to explicitly state, “I find Tilton to [be/not be] credible.”  Heinz and Liberty 
+10 of 19
+
+ 
+11 
+cite McDowell v. Town of Clarksville, 241 N.W.2d 904 (Iowa 1976), and Arndt v. 
+City of Le Claire, 728 N.W.2d 389 (Iowa 2007), to support this argument.   
+ 
+Both cases support the proposition that the Commissioner needed to 
+determine credibility.  See Arndt, 729 N.W.2d at 394–95 (“It is the commissioner's 
+duty as the trier of fact to determine the credibility of the witnesses, weigh the 
+evidence, and decide the facts in issue.” (emphasis added)); McDowell, 241 
+N.W.2d at 908 (“[T]he fact finder must not ‘arbitrarily or totally reject’ testimony; ‘he 
+has the duty to weigh it and determine its credibility.’” (emphasis added) (citation 
+omitted)).  But in its thoughtful and well-reasoned ruling, the district court explained 
+that these cases do not support Heinz and Liberty’s argument that the 
+Commissioner was required to explicitly state her credibility findings: 
+The Court finds a distinction between the duty to determine 
+credibility and a requirement to write the credibility findings into the 
+decision.  While Arndt and McDowell expressly emphasize the duty 
+of the commissioner to weigh and determine credibility findings, the 
+Court finds no language or implication in either case which mandates 
+that credibility determinations be stated in the decision as findings.  
+There is also no indication that a lack of written credibility findings 
+constitutes an error of law which necessitates reversal.  The Court 
+finds [Heinz and Liberty’s] reliance on McDowell and Arndt 
+misplaced as neither case supports [Heinz and Liberty’s] contention.  
+The Commissioner may properly fulfill the duty of determining 
+credibility without including the credibility findings in the written 
+decision. 
+Heinz and Liberty’s sole response to the district court’s reasoning is to argue that 
+“[Tilton] was not credible given inconsistencies and fabrications in her testimony at 
+hearing.”  But that is not an argument relating whether the Commissioner did or 
+was required to make explicit credibility findings—it is an argument relating to how 
+Heinz and Liberty believe the Commissioner should have weighed Tilton’s 
+credibility.   
+11 of 19
+
+ 
+12 
+ 
+And there are examples of the Commissioner taking Tilton at her word by 
+expressing her statements or opinions as it findings, such as Commissioner’s 
+statement that “[t]he record supports Tilton's preexisting chronic low back pain 
+became worse over time while she was working for Heinz until she could no longer 
+tolerate the pain.”  Relatedly, the Commissioner made no statements expressing 
+skepticism or doubt as to any of Tilton’s statements or claims.   
+ 
+It is clear that the Commissioner implicitly found Tilton credible and her 
+choice to not write such finding into the remand decision was not in error.   
+B. Discovery Rule Date 
+ 
+The date of occurrence for cumulative injuries is the date on which the 
+cumulative injury “manifests” itself.  Oscar Mayer Foods Corp. v. Tasler, 483 
+N.W.2d 824, 829 (Iowa 1992).  A cumulative injury is manifested when the worker, 
+as a reasonable person, would be plainly aware that (1) she suffers from a 
+condition or injury, and (2) such condition or injury was caused by her employment.  
+Herrera v. IBP, Inc., 633 N.W.2d 284, 288 (Iowa 2001).   
+ 
+Further, the statute of limitations does not begin to run on such injuries until 
+“the employee also knows that the physical condition is serious enough to have a 
+permanent adverse impact on the claimant's employment or employability.”  Id.  
+This is known as the discovery date rule and helps ensure that the clock does not 
+begin running until “the claimant knows or should know the ‘nature, seriousness, 
+and probable compensable character’ of his injury or condition.”  Id. (citation 
+omitted).  “The question of whether a claimant knew, or should have known, of the 
+nature, seriousness, and probable compensability of her injury is a question of fact 
+to be determined by the commissioner.”  Midwest Ambulance Serv. v. Ruud, 754 
+12 of 19
+
+ 
+13 
+N.W.2d 860, 865 (Iowa 2008).  Whether the claimant should have known the 
+nature of her injury is an objective standard requiring the claimant to exercise the 
+awareness of a reasonable person.  See Herrera, 633 N.W.2d at 288–89.   
+ 
+Heinz and Liberty contend that the Commissioner erred by finding the 
+discovery date to be April 15, 2013.  They claim that the discovery date should 
+have been set in 2011.  Heinz and Liberty provide a few flawed arguments in 
+support of that claim.   
+ 
+First, they point out that Tilton agreed that she changed the way she worked 
+at Heinz within a year of the time she started the Clean As You Go position.  They 
+argue that “[a]ltering the way she performed her job duties in 2011 demonstrated 
+a specific time where her ability to work was seriously affected by her back 
+condition.”  While it may be true that altering the way she worked could indicate 
+her back condition was seriously affecting her work, it is not necessarily true that 
+such alterations reflected her back condition would permanently affect her work.  
+And Heinz and Liberty provide no evidence that Tilton’s 2011 actions indicate 
+awareness of her injury’s permanence.  We do not agree that accommodating her 
+injury is indicative of an injury’s permanence.  Indeed, almost any moderate-to-
+severe injury would require work accommodations for the injured employee.  But 
+we can find no case law supporting the assertion that accommodations for injury 
+can serve as the sole basis for a finding of permanence. 
+ 
+Next, Heinz and Liberty insist that 2010 was the year Tilton should have 
+reasonably been aware of the permanent nature of her injuries.  Specifically, they 
+point to the exhibit in which her “chiropractor noted that [Tilton] had a permanent 
+condition concerning her low back in [February] 2010.” 
+13 of 19
+
+ 
+14 
+ 
+But we have already—twice—held that Tilton did not know and should not 
+have reasonably known on September 8, 2010, or earlier that her injuries were 
+permanent.  See Heinz I, 2019 WL 3317393, at *5; Heinz II, 2022 WL 2824290, 
+at *3.  And we considered—and rejected—this exact argument when Heinz and 
+Liberty made it before us the last time we heard an appeal in this case.  See Heinz 
+II, 2022 WL 2824290, at *3.  Heinz and Liberty provide us with no reason to depart 
+from our previous holding on this same argument.  “It is irrational and illogical to 
+find that Tilton's injury had a permanent adverse impact on her employment” in 
+February 2010, which is “seven months prior to the date that this court found Tilton 
+was not suffering from such an injury.”  Id.   
+ 
+Lastly, Heinz and Liberty argue that the discovery rule date should be set, 
+at the latest, to January 23, 2013.  They highlight an FMLA certification provided 
+by Dr. Gray which “would require her to attend appointments and work part-time 
+or on a reduced schedule two to three times a month.”  They contend that this 
+certification evidences the doctor’s opinion that her injuries were permanent.  But 
+this argument ignores the fact that this doctor’s opinion was offered in support of 
+a period of FMLA leave.  The medical questions asked in the form are only meant 
+to inform the U.S. Department of Labor whether the employee will be eligible for 
+FMLA protections during the period of requested leave.  In fact, the form itself 
+explains that a term “such as ‘lifetime’ . . . may not be sufficient to determine FMLA 
+coverage.”  Thus, an FMLA certification form does not necessarily provide 
+persuasive value on whether an injury is permanent beyond the FMLA leave period 
+being sought.  And in any event, the information provided by Dr. Gray in this 
+certification cuts against Heinz and Liberty’s argument.  Dr. Gray provided a 
+14 of 19
+
+ 
+15 
+general approximation that the duration of Tilton’s injury would be “one year?”  Dr. 
+Gray’s words there expressly opined that her injury would not be permanent.   
+ 
+Thus, there is insufficient evidence in the record to set the discovery rule 
+date at any date before April 15, 2013.  And there is no dispute that Tilton’s 
+resignation based on injury had a “permanent adverse impact on [Tilton]’s 
+employment.”  Herrera, 633 N.W.2d at 288.  Accordingly, we find substantial 
+evidence supports a discovery rule date of April 15, 2013.   
+C. Cause/Aggravation of Injuries and Disability Status 
+ 
+Heinz and Liberty next argue that substantial evidence did not support the 
+Commissioner’s determination that Tilton’s low back and mental conditions are 
+causally related to and permanently aggravated by her employment with Heinz.  
+To support their insufficient evidence argument, Heinz and Liberty primarily focus 
+establishing that Tilton’s complaints relating to her work injuries were not credible.  
+They argue “the opinions of Dr. Mathew, Dr. Bradley and Dr. Hines were solely 
+contingent upon [Tilton]’s subjective complaints, which should not be believed 
+given her lack of credibility.”  But this is not a de novo review, and, as we already 
+confirmed, the Commissioner found Tilton to be credible.  Tilton provided extensive 
+evidence of the Clean As You Go position’s extreme physical demands.  Her safety 
+manager confirmed that “what [Tilton] stated was very representative of what a day 
+would be.”   
+ 
+And we are persuaded that the expert testimony of three doctors provided 
+the Commissioner with substantial evidence in support of her determination about 
+the cause and subsequent aggravation of Tilton’s conditions.  See Cedar Rapids 
+Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 845 (Iowa 2011) (“Medical causation 
+15 of 19
+
+ 
+16 
+‘is essentially within the domain of expert testimony’” and “the determination of 
+whether to accept or reject an expert opinion is within the ‘peculiar province’ of the 
+commissioner.” (citations omitted)). 
+ 
+Lastly, Heinz and Liberty claim that Tilton’s failure to seek other employment 
+indicates that her resignation was voluntary and that her injuries are not permanent 
+and total.  We fail to see how that would be damaging to Tilton on whether she is 
+permanently disabled—there would be little reason for her to seek employment if 
+her doctor did, in fact, opine that she is totally disabled.  And the Commissioner 
+did not err by deferring to the opinion of three doctors who have recently evaluated 
+Tilton over that of Dr. Abernathey who has not evaluated Tilton since 2005—many 
+years before her injuries became permanent. 
+ 
+We hold that substantial evidence supports the Commissioner’s findings 
+relating to the causes, aggravations, and status of Tilton’s injuries. 
+D. Penalty Benefits  
+ 
+Under Iowa Code section 86.13 (2001), a delay in commencement of 
+benefits without reasonable or probable cause or excuse results in an award of 
+penalty benefits, up to fifty percent of the amount of benefits that were 
+unreasonably delayed or denied.   
+ 
+Heinz and Liberty assert that the 2001 version of section 86.13 does not 
+require them to have conducted a reasonable investigation into Tilton’s 
+investigation claim.  But the then-effective language did require them to have 
+“reasonable or probable cause or excuse” for delays in commencement or 
+termination of benefits.  Id.  “A reasonable cause or excuse exists if either (1) the 
+delay was necessary for the insurer to investigate the claim or (2) the employer 
+16 of 19
+
+ 
+17 
+had a reasonable basis to contest the employee’s entitlement to benefits.  A 
+‘reasonable basis’ for denial of the claim exists if the claim is ‘fairly debatable.’”  
+Christensen v. Snap-On Tools Corp., 554 N.W.2d 254, 260 (Iowa 1996).  “Whether 
+the issue was fairly debatable turns on whether there was a disputed factual issue 
+that, if resolved in favor of the employer, would have supported the employer's 
+denial of compensability.”  Gilbert v. USF Holland, Inc., 637 N.W.2d 194, 199 (Iowa 
+2001).   
+ 
+Heinz and Liberty argue that the previous 2016, 2018, and 2021 Iowa 
+Workers’ Compensation Deputy Commissioner decisions provide a reasonable 
+basis for their delay of benefits to Tilton.  But Liberty first officially denied Tilton’s 
+claim on August 28, 2014.  And Liberty falsely told Tilton’s counsel on October 17, 
+2013, that Liberty had “nothing to show an injury at work occurred,” and that any 
+such injury had not been reported to Heinz.  Yet Tilton formally provided Heinz 
+notice of a work injury in May 2013, and on September 10, 2013, Dr. Mathew 
+provided Liberty with a report stating, “I do believe the patient’s current low back, 
+hip pain, DID, sacroiliitis and trochanteric bursitis is a condition due to work-related 
+injury to a reasonable degree of medical certainty.”  This was a report that the 
+Liberty case manager had expressly requested.  Then, after waiting nearly one 
+year, Liberty finally sought the opinion of Dr. Abernathey and stacked the deck 
+when obtaining such opinion.  Dr. Abernathey did not evaluate Tilton during that 
+review, had not seen Tilton since 2005, was not provided with Dr. Mathew’s report, 
+and was provided with an inaccurate job description for the Clean As You Go 
+position.   
+17 of 19
+
+ 
+18 
+ 
+Liberty’s delay after receiving a medical opinion supporting Tilton’s 
+entitlement to benefits, conveyance of false information, and failure to be 
+transparent with Tilton, her counsel, and Dr. Abernathy, collectively provided 
+substantial evidence for the Commissioner’s determination that Tilton was entitled 
+to penalty benefits.   
+IV. 
+Conclusion 
+ 
+The Commissioner committed no errors of law, and her factual findings and 
+determinations were supported by substantial evidence.  In the words of the district 
+court, Heinz and Liberty “request [our] court to use its own judgment to replace the 
+Commissioner’s credibility findings and the applicable discovery date.  On judicial 
+review, [our] court is concerned with substantial evidence and errors of law.”  
+Accordingly, we affirm.   
+AFFIRMED.   
+18 of 19
+
+State of Iowa Courts
+Case Number
+Case Title
+24-0236
+HJ Heinz Company v. Tilton
+Electronically signed on 2024-12-18 08:10:50
+19 of 19

@@ -1,0 +1,1458 @@
+Case Number: 20700462.01
+Case Title:  HINES, MICHAEL V. TYSON FOODS
+Doc Type:    Decision - Deputy
+Source:      Hines Michael-20700462.01D.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+MICHAEL HINES, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+File No. 20700462.01 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+       ARBITRATION DECISION 
+ 
+ 
+  :                  
+TYSON FOODS, INC., 
+  : 
+ 
+ 
+  :                            
+ 
+Employer, 
+  : 
+  Headnotes: 1402.30, 1402.40, 1701,  
+ 
+Self-Insured, 
+  : 
+1802, 1803, 2206, 2501, 2907, 4000.2 
+ 
+Defendant. 
+  : 
+______________________________________________________________________ 
+ 
+Claimant Michael Hines filed a petition in arbitration on May 19, 2020, alleging he 
+sustained an injury to his back from performing repetitive work for Defendant Tyson 
+Foods, Inc. (“Tyson”) on March 2, 2020.  Tyson filed an answer on June 29, 2020. 
+ 
+An arbitration hearing was held via CourtCall video conference on July 14, 2021.  
+Attorney Joseph Powell represented Hines.  Hines appeared and testified.  Attorney 
+Chris Scheldrup represented Tyson.  Lee Avina appeared and testified on behalf of 
+Tyson.  Joint Exhibits (“JE”) 1 through 8, and Exhibits 1 through 6 and A through K were 
+admitted into the record.  The record was held open through August 16, 2021, for the 
+receipt of post-hearing briefs.  The briefs were received and the record was closed. 
+ 
+The parties submitted a Hearing Report, listing stipulations and issues to be 
+decided.  The Hearing Report was approved at the conclusion of the hearing.  Tyson 
+waived all affirmative defenses. 
+STIPULATIONS 
+ 
+1. 
+An employer-employee relationship existed between Tyson and Hines at 
+the time of the alleged injury. 
+ 
+2. 
+Although entitlement to temporary benefits cannot be stipulated, Hines 
+was off work from April 28, 2020, through April 19, 2021. 
+ 
+3. 
+The commencement date for permanent partial disability benefits, if any 
+are awarded, if April 20, 2021. 
+ 
+4. 
+At the time of the alleged injury Hines’s gross earnings were $1,082.72 
+per week, he was single and entitled to one exemption, and the parties believe his 
+weekly rate is $660.35.   
+ 
+5. 
+Costs have been paid. 
+ 
+ELECTRONICALLY FILED     2022-Jan-18  15:24:09     DIVISION OF WORKERS' COMPENSATION
+
+HINES V. TYSON FOODS, INC. 
+Page 2 
+ 
+ISSUES 
+ 
+1. 
+Did Hines sustain an injury, which arose out of and in the course of his 
+employment with Tyson, on March 2, 2020? 
+ 
+2. 
+Is the alleged injury a cause of temporary disability during a period of 
+recovery? 
+ 
+3. 
+Is Hines entitled to temporary benefits from April 28, 2020, through April 
+19, 2021? 
+ 
+4. 
+What is the nature of the injury? 
+ 
+5. 
+Is the alleged injury a cause of permanent disability? 
+ 
+6. 
+If the injury is found to be a cause of permanent disability, what is the 
+extent of disability? 
+ 
+7. 
+Is Hines entitled to payment of medical expenses set forth in Exhibit 5? 
+ 
+8. 
+Is Hines entitled to recover the cost of the independent medical 
+examination? 
+ 
+9. 
+Is Tyson entitled to a credit for short-term disability benefits paid to Hines 
+for the week beginning on April 13, 2020, 60 percent of wages, the week beginning April 
+20, 2020, 90 percent of wages, and from May 11, 2020, through July 20, 2020, 12 
+weeks paid at 90 percent of wages, for a total of $11,288.40? 
+ 
+10. 
+Is Tyson entitled to a credit for long-term disability benefits paid to Hines 
+from July 28, 2020, through the present? 
+ 
+11. 
+Is Tyson entitled to a credit for paid guaranteed wages during a company 
+shutdown on April 27, 2020 ($891.00) and May 4, 2020 ($891.00), for a total of 
+$1,782.00? 
+ 
+12. 
+Is Tyson entitled to a credit for medical/hospitalization expenses set forth 
+in Exhibit 5? 
+ 
+13. 
+Is Hines entitled to an award of penalty benefits for wrongful denial of the 
+claim and subsequent failure to pay healing period and permanent partial disability 
+benefits? 
+ 
+14. 
+Should costs be assessed against either party? 
+FINDINGS OF FACT 
+ 
+ 
+Hines is single and lives in Waterloo.  (Exhibit H, page 2; Transcript, p. 13)  In 
+1981 Hines graduated from high school.  (Ex. H, p. 3; Tr., p. 14)  After graduating 
+from high school he obtained a welding degree from Hawkeye Community College.  
+(Ex. H, p. 3; Tr., p. 14)  Hines does not know how to use a computer.  (Tr., pp. 14-15)  
+At the time of the hearing he was 58.  (Tr., p. 13)   
+ 
+
+HINES V. TYSON FOODS, INC. 
+Page 3 
+ 
+ 
+After obtaining his welding degree, Hines briefly worked as a laborer in Florida 
+before returning to Iowa.  (Ex. H, p. 4)  In 1988, Hines commenced employment with 
+Tyson’s predecessor, IBP, and worked for Tyson until April 2020.  (Ex. H, p. 4)  Hines 
+was receiving disability benefits and he remained an employee of Tyson at the time 
+of the hearing.  (Ex. H, p. 4)   
+ 
+ 
+When IBP hired Hines it did not have a plant in Waterloo.  (Tr., p. 16)  IBP 
+hired Hines to help build the plant, which took almost three years to complete.  (Tr., 
+p. 16)  After the plant was built, IBP offered Hines a transfer to a full-time general 
+mechanic position in the maintenance department.  (Tr., pp. 16-17)   
+ 
+ 
+As a general mechanic Hines went to the floor and worked on equipment.  
+(Tr., p. 17)  Hines worked as a general mechanic for 10 or 11 years.  (Tr., p. 18)  
+Hines bid on and received a rebuild mechanic position, rebuilding gearboxes, pumps, 
+and hydraulic cylinders when the mechanics replaced the parts.  (Tr., p. 17)  Hines 
+worked in his own shop rebuilding the equipment.  (Tr., p, 17).  Hines has worked for 
+IBP and Tyson for 34 years. 
+ 
+During the night shift, the general mechanics would change out the gearboxes, 
+pumps, and cylinders that needed to be repaired and put the parts in a rebuild or junk 
+pile in Hines’s work area.  (Tr., p. 18)  Hines would come in and pick through the 
+parts.  (Tr., p. 18)  When he worked on a gearbox, Hines would take the gearbox 
+apart, clean it, install new bearings and seals, and when he was through he would 
+put the gearbox back in the supply room so it could be reused.  (Tr., p. 19)   
+ 
+Most of the augers and conveyors in the plant are powered by motors.  (Tr., p. 
+19)  Hines would repair the motors when the general mechanics replaced them.  (Tr., 
+p. 19)  The smaller motors weighed 30 to 40 pounds and the larger ones weighed 
+over 500 pounds.  (Tr., pp. 19-20)  Hines moved most of the gearboxes onto pallets 
+by himself, but if he needed help, he could ask someone for help.  (Tr., p. 20)  Hines 
+used an electric hoist to lift the equipment up off a pallet to set on his workbench.  
+(Tr., p. 21)  When he opened the gearboxes, some of the individual parts weighed 60 
+to 70 pounds each.  (Tr., p. 22)  Hines also repaired the power tools and other 
+mechanical items in the plant that needed to be repaired.  (Tr., p. 23)   
+ 
+For the first eight or nine years Hines worked as a rebuild mechanic he worked 
+with a helper.  (Tr., p. 22)  Tyson pulled Hines’s helper to work on a different job and 
+from that time he worked alone.  (Tr., p. 22)   
+ 
+Hines testified that when he worked as a general mechanic and later as a 
+rebuild mechanic he did not have any problems lifting and moving the parts around at 
+Tyson.  (Tr., p. 24)  Hines reported he regularly worked with 100 pound boxes all day 
+at work, often straining or hurting his back, but his back always healed and after two 
+or three days or a week his back would feel fine again.  (Tr., pp. 26, 37)  Hines 
+received some treatment for his low back before 2020.   
+
+HINES V. TYSON FOODS, INC. 
+Page 4 
+ 
+On December 23, 2009, Hines received lumbosacral spine x-rays.  (JE 2, p. 3)  
+The reviewing radiologist listed findings of mild convex left curvature, pedicles intact, 
+lumbar vertebral body heights preserved, minimal anterior wedging, T12 and L1, mild 
+disc space narrowing, L1-2 and L2-3, with no evidence of spondylosis.  (JE 2, p. 3)  
+Hines testified after the x-rays he received muscle relaxers and his back pain and 
+problems went away.  (Tr., p. 47)  
+ 
+Hines has been diagnosed with acromegaly, which is a condition where the 
+body produces too much growth hormone causing the tissues and bones to grow 
+more quickly.  (Tr., pp. 50-51)  Hines has been treating for the condition since at least 
+April 8, 2010, with Chitravathi Yerrapareddy, M.D., an endocrinologist.  (JE 1, p. 1)   
+ 
+On January 4, 2010, Hines underwent an abdomen/pelvis computerized 
+tomography scan.  (JE 2, p. 1)  The reviewing radiologist listed a finding of a 1.8 
+centimeter simple cyst in the superior right kidney, smaller cysts in the upper pole of 
+each kidney with no solid mass or hydronephrosis or calcifications, degenerative disc 
+disease throughout the lumbar spine, and osteoarthritis in both SI joints and hip 
+joints.  (JE 2, pp. 1-2)   
+ 
+Deborah Van Dyke, ARNP, with UnityPoint Clinic Endocrinology & Diabetes is 
+Hines’s treating medical provider.  Hines testified he had treated with Van Dyke for 
+14 or 15 years and she was familiar with his job duties at Tyson.  (Tr., p. 27)  During 
+an appointment in April 2019, Van Dyke excused Hines from work from April 15, 
+2019, through April 18, 2019, due to intractable back pain and released him to return 
+to work on April 22, 2019.  (JE 3, p. 1)   
+ 
+On January 7, 2020, Hines attended an appointment with Van Dyke, 
+complaining of sciatic pain that felt like a shock down his left leg without weakness 
+when he would make “a weird move,” and reporting he felt the worst when lying down 
+and sitting in a chair and better when he was up moving and walking.  (JE 3, p. 2)  
+Hines relayed the shock was “unbelievable” and the day before he picked up a pump 
+and nearly dropped it and almost crushed his foot, noting, “I just lose control of that 
+leg.”  (JE 3, p. 2)  Hines reported he had his last Sandostatin injection for his 
+acromegaly five weeks before his appointment and he had been experiencing pain 
+since then.  (JE 3, p. 2)  Van Dyke assessed Hines with sciatica of the left side, 
+ordered an x-ray of his back and hip, prescribed Flexeril, and referred him to Dr. 
+Roswell Johnston for consideration of a steroid injection.  (JE 3, pp. 4-5)  Hines 
+underwent imaging and the reviewing radiologist listed findings of mild retrolisthesis 
+of L2 over L3 of 3 millimeters, mild decrease in disc space at L2-3 and L4-5, facet 
+joint degenerative changes at L4-5 and L5-S1.  (JE 3, p. 6) 
+ 
+Hines testified he went to Van Dyke as opposed to going to see a Tyson 
+physician because he was not sure what was going on with his back.  (Tr., p. 28)  
+Hines relayed he told Van Dyke unlike his prior back issues, his back had not healed, 
+so she sent him for imaging.  (Tr., p. 28)   
+
+HINES V. TYSON FOODS, INC. 
+Page 5 
+ 
+Hines returned to Van Dyke on February 12, 2020, complaining of horrible left 
+hip pain, occasional shooting pain causing him to almost fall, throbbing in his foot, 
+difficulty sleeping, and reporting he had been off work all week.  (JE 3, p. 7)  Van 
+Dyke diagnosed Hines with acute, midline low back pain with left-sided sciatica, 
+prescribed Flexeril for muscle spasms, and Norco for pain, and recommended 
+magnetic resonance imaging and a referral to a neurosurgeon.  (JE 3, pp. 7-9)   
+ 
+On February 14, 2020, Hines underwent lumbar spine magnetic resonance 
+imaging.  (JE 3, p. 10)  The reviewing radiologist found he had a mild disc bulge with 
+small left paracentral and subarticular zone disc protrusion, small endplate 
+osteophytes at L1-L2, a mild diffuse disc bulge with small endplate osteophytes, 
+bilateral facet joint degenerative changes and ligamentum flavum thickening, mild 
+spinal canal stenosis and bilateral subarticular stenosis with mild foraminal narrowing 
+at L2-L3, mild diffuse disc bulge with small central disc protrusion and minimal 
+superior migration, bilateral facet joint degenerative changes and ligamentum flavum 
+thickening, mild spinal canal stenosis, moderate right and moderate to severe left 
+subarticular stenosis, and mild bilateral neural foraminal narrowing at L3-L4, and disc 
+desiccation changes and a diffuse disc bulge at L4-L5.  (JE 3, p. 11) 
+ 
+Hines attended a consultation with Blake Randolph, ARNP, with UnityPoint 
+Health Neurosurgery Clinic on February 27, 2020, complaining of low back and left 
+leg pain.  (JE 5, p. 1)  Randolph examined Hines, noted his pain was mostly in the 
+left buttock and hip to his left posterior and lateral leg and to his left lateral foot, and 
+he complained of a sharp, stabbing pain in the left leg that has been ongoing for four 
+months.  (JE 5, p. 5)  Randolph diagnosed Hines with Tarlov cysts, spinal stenosis of 
+the lumbar region with neurogenic claudication, degeneration of lumbar or 
+lumbosacral intervertebral disc, and L4-L5 disc bulge, referred Hines to the pain clinic 
+at Allen for evaluation of an injection of the left L4-L5 level, and noted if the injection 
+did not provide relief he should be referred to the University of Iowa Hospitals and 
+Clinics (“UIHC”) for a neurosurgical consultation.  (JE 5, pp. 5, 7)  Hines testified he 
+asked Randolph what he believed caused his back problems and Randolph stated he 
+believed Hines’s years of work at Tyson caused his back problems.  (Tr., p. 29)    
+ 
+Hines testified in the years leading up to March 2020, “I had no idea what was 
+going on with my back, you know.  I was trying to determine what was going on.  It 
+seemed like back problems came more frequently as time went on, but it always went 
+away; that was the big deal, it always got better.”  (Tr., p. 54)   
+ 
+On March 9, 2020, Hines attended an appointment with Ashar Afzal, M.D., a 
+pain specialist, complaining of lower back pain.  (JE 6, p. 1)  Dr. Afzal examined 
+Hines, noted he had mild to moderate trouble trying to stand up from a seated 
+position, he had a markedly antalgic gait, and a severe limitation of lumbar spine 
+flexion, up to 30 degrees and extension less than 5 degrees, slight exaggeration of 
+thoracic kyphosis, marked spasm of the paraspinal muscles, and tenderness over the 
+lumbar facets and sacroiliac joints.  (JE 6, p. 2)  Dr. Afzal reviewed Hines’s imaging, 
+
+HINES V. TYSON FOODS, INC. 
+Page 6 
+ 
+listed an impression of left-sided L5 radiculopathy, and recommended a 
+transforaminal epidural injection on the left at L4-L5.  (JE 6, p. 2)   
+ 
+Tyson arranged an appointment for Hines at Tyson with the plant physician, 
+Robert Gordon, M.D., on March 17, 2020.  (JE 4, p. 1)  Dr. Gordon documented 
+Hines told him he started noticing consistent pain in his lumbar region and left leg for 
+the past four months, and that he first attributed his symptoms to a Sandostatin 
+injection.  (JE 4, p. 1)  Dr. Gordon examined Hines, listed an impression of left leg 
+lumbar radiculopathy, noting magnetic resonance imaging showed: 
+ 
+. . . at the L4-L5 level to be disc desiccation, diffuse disc bulge asymmetric 
+to the left with superimposed left paracentral subarticular zone disc 
+herniation causing indentation of the thecal sac, severe left lateral recess 
+narrowing and indentation of the left L5 nerve root, bilateral facet joint 
+degenerative changes.  At L5-S1, there is noted to be disc desiccation, 
+mild diffuse disc bulge with small central disc protrusion; bilateral facet 
+joint degenerative changes. 
+ 
+(JE 4, pp. 2-3)  Dr. Gordon imposed restrictions of no lifting, pulling, or pushing over 
+25 pounds and no bending at the waist greater than occasionally, and recommended 
+a referral to a neurosurgeon.  (JE 4, p. 3)   
+ 
+On March 24, 2020, Hines returned to Dr. Gordon.  (JE 4, p. 4)  Dr. Gordon 
+examined Hines, prescribed Voltaren, continued his gabapentin and Flexeril, and 
+continued his restrictions.  (JE 4, p. 4)  Hines reported Dr. Gordon saw him three 
+times and on his third visit, he referred him to Chad Abernathey, M.D., a 
+neurosurgeon.  (Tr., p. 30)   
+ 
+Hines attended an appointment with Dr. Abernathey on April 20, 2020.  (JE 7)  
+Dr. Abernathey noted Hines had a history of chronic, intermittent back pain causing 
+difficulty for several years, that his symptoms had progressed over time, and he could 
+not recall any specific injury date or date of onset.  (JE 7, p. 1)  Dr. Abernathey 
+examined Hines, noted he had a chronic lumbosacral strain, which had been 
+persistent and progressive over the years, noted he was not interested in his 
+neurosurgical opinion regarding treatment options, and stated he did not have much 
+to offer to Hines.  (JE 7, p. 2)   
+ 
+Jennifer Thompson, a claims examiner for Tyson sent Dr. Abernathey a 
+check-the-box letter, providing a brief history of Hines’s history, and asking for his 
+opinion.  (Ex. C)  On April 28, 2020, Dr. Abernathey responded, agreeing based on 
+his history and treatment of Hines he did not believe Hines’s current low back 
+condition was causally related to his employment with Tyson.  (Ex. C, p. 2)  When 
+questioned whether Hines’s work for Tyson aggravated the underlying condition, Dr. 
+Abernathey wrote “NO SPECIFIC WORK INJURY HAS BEEN IDENTIFIED.”  (Ex. C, p. 
+2)   
+
+HINES V. TYSON FOODS, INC. 
+Page 7 
+ 
+On May 5, 2020, Thompson sent Hines’s counsel a letter stating on April 28, 
+2020, Dr. Abernathey had opined his current low back condition was not caused or 
+aggravated by his work at Tyson, and therefore, Tyson was denying his claim 
+effective the date of the letter.  (Exs. 2, p. 45; B, p. 1)  The letter advised Hines he 
+could apply for short-term disability benefits and that his subsequent medical bills 
+could be processed under his group health policy.  (Exs. 2, p. 45, B, p. 1)   
+ 
+Hines received lumbar spine magnetic resonance imaging at the UIHC on May 
+12, 2020.  (JE 8, p. 1)  The reviewing radiologist listed an impression of “[m]ultilevel 
+degenerative changes including mild to moderate thecal sac effacement throughout 
+the lumbar spine as well as asymmetric effacement of the descending left L4 nerve 
+root,” and multiple bilateral perineural sleeve cysts.  (JE 8, p. 2) 
+ 
+On May 15, 2020, Hines attended an appointment with Hiroto Kawasaki, M.D., 
+a neurosurgeon, at the UIHC.  (JE 8, p. 3)  Dr. Kawasaki examined Hines, noted his 
+magnetic resonance imaging revealed a paracentral disc bulge at L4-L5 on the left 
+with associated foraminal stenosis, assessed him with lumbar radiculopathy, L4-L5 
+distribution, and noted he could be a candidate for neurosurgical intervention, but he 
+had not completed a trial of conservative measures.  (JE 8, p. 4)  Dr. Kawasaki 
+recommended physical therapy, a referral to a pain clinic for epidural steroid 
+injections at L4-L5 on the left, and noted if his symptoms did not abate he would 
+discuss surgical options with Hines.  (JE 8, p. 4)   
+ 
+Hines returned to Dr. Afzal on May 28, 2020, complaining of low back pain 
+radiating into his left leg.  (JE 6, p. 3)  Dr. Afzal recommended and performed an 
+epidural injection at L5-S1.  (JE 6, p. 4)   
+ 
+On July 1, 2020, Hines attended a follow-up appointment with Dr. Afzal, 
+reporting he did not receive much relief from the transforaminal epidural steroid 
+injection performed on May 28, 2020.  (JE 6, p. 5)  Hines complained of pain across 
+his back, radiating into his left leg that is worse with standing, walking, and activities.  
+(JE 6, p. 5)  Dr. Afzal recommended and performed an interlaminar approach to the 
+epidural injection on the left side at L4-L5.  (JE 6, p. 6)   
+ 
+After his injection, Hines contacted the UIHC on July 8, 2020 and reported he 
+was experiencing immense pain after completing two rounds of injections.  (JE 8, p. 
+8)  Dr. Kawasaki issued a note on July 14, 2020, stating Hines would need to 
+continue to be off work due to his medical condition, noting Hines would be returning 
+for an appointment in August to determine if surgery is appropriate and, if surgery 
+were appropriate, Hines would need to be off work for four to six months, including 
+the preoperative period.  (JE 8, pp. 24-25)   
+ 
+On July 28, 2020, Hines received a lumbar spine computerized tomography 
+exam.  (JE 8, p. 9)  The reviewing radiologist listed an impression of no acute fracture 
+or subluxation and degenerative changes with mild spinal canal stenosis at L4-L5.  
+(JE 8, p. 9)   
+
+HINES V. TYSON FOODS, INC. 
+Page 8 
+ 
+Hines spoke with Dr. Kawasaki over the telephone on August 14, 2020.  (JE 8, 
+p. 10)  Dr. Kawasaki documented Hines had tried physical therapy and he had 
+received epidural steroid injections, but he continued to have pain in his low back 
+radiating into his left lower extremity.  (JE 8, p. 10)  Dr. Kawasaki noted the magnetic 
+resonance imaging and computerized tomography scan showed a paracentral disc 
+bulge and associated foraminal stenosis at L4-L5, and recommended Hines follow up 
+in the clinic to discuss surgical options.  (JE 8, p. 10)  Dr. Kawasaki issued another 
+note, stating Hines would need to remain off work and that he was scheduled for 
+preoperative testing on September 25, 2020.  (JE 8, p. 25)   
+ 
+On September 25, 2020, Hines returned to Dr. Kawasaki, reporting he 
+continued to have back pain radiating into his left posterior thigh and calf muscle, 
+down into his left foot.  (JE 8, p. 11)  Dr. Kawasaki diagnosed Hines with lumbar 
+radiculopathy, noted his magnetic resonance imaging showed a left L4-5 paracentral 
+disc herniation to the left causing compression of the left L4 nerve root, and 
+recommended a left L4-L5 discectomy.  (JE 8, p. 15)    
+ 
+On October 19, 2020, Dr. Kawasaki performed a left L4-L5 hemilaminotomy 
+and discectomy on Hines.  (JE 8, p. 17; Tr., p. 35)  Following surgery Dr. Kawasaki 
+imposed restrictions, including a 10-pound lifting restriction and to minimize bending, 
+twisting, and lifting.  (JE 8, p. 19)  Dr. Kawasaki assessed Hines with lumbar region 
+spinal stenosis with neurogenic claudication and referred Hines for physical therapy.  
+(JE 8, pp. 23-24)  On December 4, 2020, Hines attended an appointment with Dr. 
+Kawasaki, reporting his left lower extremity radicular pain was “much improved,” 
+noting he had some numbness and tingling of the dorsal left foot and anterior calf.  
+(JE 8, p. 21) 
+ 
+Dr. Kawasaki issued a note on February 19, 2021, noting Hines underwent a 
+laminectomy and discectomy of his lumbar spine in October 2020, he experienced 
+some improvement since surgery, but due to his continued neurological deficits, he 
+was not ready to return to work, and stating he would reassess the restrictions during 
+his appointment on June 4, 2021.  (JE 8, p. 26)    
+ 
+On May 15, 2021, David Segal, M.D., a neurosurgeon, conducted an 
+independent medical examination for Hines and issued a very detailed report on 
+June 14, 2021.  (Ex. 1)  Dr. Segal examined Hines and reviewed his medical records.  
+(Ex. 1)  During his examination, Hines reported he was experiencing back pain, 
+numbness and tingling in his left leg to the front half and entire bottom of his left foot 
+and all toes, noting the numbness on the bottom of his foot was new since his 
+surgery.  (Ex. 1, p. 4)  Hines relayed when the numbness is bad he cannot feel his 
+toes on the ground, and that he has had near falls due to the numbness and tingling 
+in his foot and believed he could not work due to his foot symptoms.  (Ex. 1, p. 4)   
+ 
+Dr. Segal made detailed findings on exam in his report.  (Ex. 1, p. 8)  Dr. Segal 
+opined Hines’s work at Tyson was physically demanding and a substantial cause of 
+his lumbar mechanical and radicular symptoms and need for treatment, including 
+
+HINES V. TYSON FOODS, INC. 
+Page 9 
+ 
+surgery and continued impairment, and that while Hines believed his acromegaly 
+medication injection was the cause of his radicular pain that began in December 
+2019, that was not the case.  (Ex. 1, pp. 10-11)  Dr. Segal further opined: 
+ 
+[s]ome of the findings on imaging may appear to be chronic, or 
+degenerative; however, these findings have as one contributing factor Mr. 
+Hines’s work duties at Tyson.  The work duties at Tyson “lit up” these 
+degenerative changes, permanently aggravated those degenerative 
+changes and accelerated the development of those degenerative 
+changes.  Mr. Hines has other risk factors for developing mechanical and 
+radicular lumbar spine conditions, including general aging process, 
+obesity, and acromegaly and its sequelae, but his work duties at Tyson 
+were also a substantial factor in both the development of the mechanical 
+low back and the lumbar radicular pain.   
+ 
+It is likely that about December 2019, Mr. Hines developed the disc 
+herniation at L4-L5 on the left when his radicular symptoms began.  There 
+may have been one specific event that caused the herniation at L4-L5, or 
+alternatively it was the work duties in general that caused the herniation. 
+ 
+(Ex. 1, p. 11)  Dr. Segal noted there was a gradual progression in Hines’s lumbar 
+symptoms over the years he worked at Tyson, but his “symptoms and ability to work 
+were drastically different before and after the period of time on or about the March 2, 
+2020, work injury compared with his pre-injury state,” finding the worst period of 
+aggravation of his lumbar condition was between December 2019 and March 2020.  
+(Ex. 1, p. 11)   
+ 
+Dr. Segal discussed the issue of Hines’s Tarlov cysts, which are cysts formed 
+within the nerve root sheath at the dorsal root ganglion.  (Ex. 1, p. 11)  Dr. Segal noted 
+the etiology of the cysts is not well understood and that current theories, which have not 
+been tested or challenged, include increased pressure in cerebral spinal fluid, filling of 
+congenital cysts with one-way valves, and inflammation in response to trauma or 
+disease, and noted the discectomy improved Hines’s radicular pain, which proves his 
+radicular pain was from the disc herniation and not from the Tarlov cysts.  (Ex. 1, p. 11) 
+ 
+Dr. Segal diagnosed Hines with left L5 radiculopathy, disc herniation at L4-L5, 
+mild to moderate right and severe left lateral recess stenosis and moderate left neural 
+foraminal narrowing at L4-L5, lumbar facet arthropathy and mechanical low back pain, 
+left SI joint arthropathy, gait disturbance, and status post left L4-L5 discectomy.  (Ex. 1, 
+p. 15)  Dr. Segal opined Hines’s lumbar disc bulges, degenerative changes and the 
+herniation at L4-L5 were likely caused or permanently aggravated by his cumulative 
+work injury.  (Ex. 1, p. 26)   
+ 
+Dr. Segal found Hines reached maximum medical improvement on April 20, 
+2021.  (Ex.1, p. 28)  Using the Guides to the Evaluation of Permanent Impairment (AMA 
+Press, 5th Ed. 2001) (“AMA Guides”), Dr. Segal found Hines falls within DRE Lumbar 
+
+HINES V. TYSON FOODS, INC. 
+Page 10 
+ 
+Category III and he assigned Hines a 13 percent whole person impairment.  (Ex. 1, p. 
+29)  Dr. Segal assigned an additional 3 percent permanent impairment for pain from the 
+facet joint injury and an additional 3 percent for left SI joint pain not accounted for in 
+DRE Category III, which he found added to the degree of dysfunction, for a combined 
+19 percent whole person impairment.  (Ex. 1, p. 29)  Dr. Segal noted Hines may need 
+future treatment, including imaging, medication, exams, injections, and therapy.  (Ex. 1, 
+pp. 31-33)   
+ 
+Dr. Segal recommended permanent restrictions of sitting up to 30 minutes, with 
+a 10 minute break for a total of 4 hours per day, standing up to 15 minutes, with a 
+15 minute break for a total of 3 hours per day, walking up to 15 minutes with a 15 
+minute break for a total of 3 hours per day, one bend occasionally, no repetitive 
+bending, occasional overhead reaching, rarely lift or carry over 21 pounds, 
+occasionally lift or carry up to 20 pounds, and frequently lift or carry up to 10 
+pounds, push or pull up to 25 pounds occasionally, climb 1 flight of stairs 
+occasionally, climb 2 or more flights of stairs rarely, occasionally kneel, rarely 
+crouch or squat, and use ladders occasionally.  (Ex. 1, p. 34)  
+ 
+On June 23, 2021, Dr. Abernathey responded to a request for information 
+from Tyson’s counsel, as follows: 
+ 
+[t]his letter is in reference to your request for information regarding 
+Michael Hines.  It appears that the primary issue in this case involves 
+causation.  Frankly, I am not aware of any specific documented event 
+which caused the patient’s clinical presentation.  It appears from the 
+record and Dr. Segal’s recent IME that the case is being made for a 
+cumulative work injury to explain his presentation.  Disc degeneration 
+is a natural progression of the aging process.  Any and all daily 
+activities would contribute to the development of anatomic and 
+radiographic degenerative findings.  It is much easier to attribute 
+causation to his work activities if there was a singular event. 
+To summarize, the degenerative changes demonstrated on MRI 
+are consistent with age which is an accumulation of all aspects of daily 
+life; of which, work activities are a component. 
+(Ex. D)   
+On June 24, 2021, Dr. Gordon sent a letter to Tyson after reviewing Dr. Segal’s 
+report.  (Ex. E)  With respect to Hines’s left lower extremity radiculopathy, Dr. 
+Gordon noted that when he examined Hines, Hines did not recall anything specific 
+that brought about his symptoms, and that Dr. Abernathey had opined he did not 
+believe his condition was related to his employment with Tyson.  (Ex. E, p. 2)  Dr. 
+Gordon stated the cumulative trauma model for a lumbar disc disorder with 
+associated radiculopathy has not been substantiated or validated in the medical 
+literature with certainty, without citing to any authority to support his assertion.  (Ex. 
+E, p. 2)  Dr. Gordon noted regardless of causation, Dr. Segal’s impairment rating of 
+
+HINES V. TYSON FOODS, INC. 
+Page 11 
+ 
+13 percent is reasonable if what Dr. Segal documented regarding Hines’s current 
+condition is accurate.  (Ex. E, p. 2)   
+ 
+Dr. Gordon noted the cumulative trauma model for a lumbar disc disorder with 
+associated radiculopathy and SI joint arthritis or dysfunction has not been substantiated or 
+validated in the literature, without citing to any authority.  (Ex. E, pp. 2, 4)  He then noted 
+while Hines’s magnetic resonance imaging reveals facet arthropathy, “[t]his is indeed a 
+change of maturation and is found in nearly 100% of individuals Mr. Hines’ age.  It cannot be 
+substantiated or verified that he had/has a symptomatic condition due to these 
+changes of maturation that were noted on MRI.” (Ex. E, p. 2)   
+ 
+Dr. Gordon opined Dr. Segal engaged in “double dipping” by assigning 
+additional impairments under Chapter 18 involving pain.  (Ex. E, p. 3)  Dr. Gordon 
+noted in A Medical-Legal Companion to the AMA Guides Fifth, as published by the 
+AMA from pages 188-89, the editors noted a 3 percent increase in the rating under 
+Chapter 18 involving pain is disallowed because unlike the earlier version, the AMA 
+Guides allowed for the examiner to account for the resolution or continuation of 
+symptoms and their effect to perform activities of daily living under Chapter 15 
+involving the spine.  (Ex. E, pp. 2-3)   
+ 
+Hines has not been back to work at Tyson since April 2020, but he remains 
+an employee of Tyson.  (Tr., p. 38)  Hines reported he received short-term disability 
+benefits for a period of time, then he transferred to long-term disability benefits, and 
+he later filed for Social Security Disability Insurance (“SSDI”) benefits.  (Tr., p. 40)  
+On March 9, 2021, the Social Security Administration approved Hines’s application, 
+finding he was entitled to $1,981 per month in SSDI benefits beginning in September 
+2020.  (Ex. 3; Tr., p. 40)   
+ 
+Hines testified he does not believe he could return to a mechanic position at 
+Tyson, noting that he wanted to continue to work at Tyson, stating “[w]ith 34 years, I 
+didn’t have much time left in me, I would like to have retired,” from Tyson.  (Tr., p. 
+44)  Hines reported he only had a couple more years left until retirement.  (Tr., p. 
+59)  Since his work injury Hines has not looked for another job because he believed 
+he could not work “anywhere.”  (Tr., p. 61)   
+ 
+Hines reported no one from Tyson has asked him to return to work and that 
+Tyson told him Tyson had denied his claim and that he could not return to work until 
+he was released to return to work.  (Tr., pp. 38-39)   
+ 
+Avina, with human resources at Tyson, reported in February 2021, Tyson 
+sent Hines two letters of correspondence by certified mail regarding returning to 
+work.  (Tr., p 74)  One of the letters was returned and the other was signed for.  
+(Tr., p. 74)  Avina relayed the letter informed Hines that his approved leave of 
+absence had “either expired or was going to expire and encouraged him to follow 
+up” with Tyson.  (Tr., p. 75)  The letters were not submitted into evidence at 
+hearing.  Avina relayed there were several managerial positions that have opened 
+
+HINES V. TYSON FOODS, INC. 
+Page 12 
+ 
+at Tyson he could have applied for.  (Tr., p. 77)  Avina did not testify regarding any 
+specific positions, the qualifications for those positions, or the exact pay of the 
+positions.  There was no evidence presented Tyson offered Hines a position. 
+ 
+Tyson’s attorney inquired about accommodations, and Avina responded, as 
+follows: 
+ 
+ 
+Q. 
+Would Tyson be able to accommodate his return to some 
+modified type of mechanic rebuild position even with the restrictions 
+that Dr. Segal proposed? 
+ 
+ 
+A. 
+Yeah.  As I stated, I do believe that would be a strong 
+possibility in examining his shop and examining the tools that he used; 
+possibilities may include an adjustable work station, different hoist 
+capabilities, maybe different tools or the layout of tools that he uses 
+possibly providing him with another area for the washout, assistance 
+as needed, proposing different rules as far as how those pieces are 
+brought out to him at the shop, rather than just dropped off, there could 
+be, you know, a designated area or way to provide those to him.  So I 
+do think that there is opportunity to examine that and try to 
+accommodate his current position. 
+ 
+(Tr., p. 79)   
+Hines testified he continues to have constant left foot and back pain, which 
+interferes with his ability to sleep.  (Tr., pp. 36, 41, 44-45, 68)  Moving, twisting, and 
+carrying weight make his pain worse.  (Tr., p. 41)  Hines explained, “[i]t’s like I’m 
+carrying extra weight.  It’s like I have got a 50-pound weight on my back and it’s just 
+straining my back, and the longer I stay up and doing the more pain I get, where it 
+gets almost unbearable if I really push the limit.”  (Tr., p. 41)  Hines reported he did 
+not have any numbness in his foot until the day after Dr. Kawasaki performed the 
+surgery on him.  (Tr., p. 45)   
+ 
+Hines relayed he could not recall a specific incident at Tyson where he hurt 
+his back.  (Tr., pp. 52-53)  Hines reported he would go home from work at night and 
+his back would be sore, and he would take a hot shower and lie down.  (Tr., p. 53)   
+ 
+Prior to his work injury Hines shoveled snow and performed his own lawn 
+work, noting he is an outdoor person.  (Tr., p. 43)  Hines enjoyed fishing and 
+hunting.  (Tr., p. 48)  Hines would engage in activities that involved bending, 
+twisting, and lifting.  (Tr., p. 48)  Hines testified since his work injury he cannot tie 
+his shoes in the morning or put his socks on.  (Tr., pp. 55-56)   
+ 
+Hines reported since his work injury he cannot shovel show or use a push 
+mower.  (Tr., p. 43)  Hines lives alone and he purchased a riding lawn mower, but 
+when he mows the lawn, “then my back is just killing me,” and he has to go and sit 
+
+HINES V. TYSON FOODS, INC. 
+Page 13 
+ 
+in his house for two to three hours before he returns to “normal.”  (Tr., p. 43)  
+Driving a vehicle is also difficult for Hines.  (Tr., p. 44)  Hines reported he drove 
+from Waterloo to Des Moines for the hearing, and during the trip he had to stop 
+twice because his back was “killing” him and he had to get out and walk around.  
+(Tr., p. 44)  Hines noted when he has gone to Iowa City from Waterloo, he would 
+have to stop his car and lie down in the grass and he had a rough time returning 
+home.  (Tr., p. 43)   
+ 
+Tyson submitted surveillance at hearing, the majority of which shows Hines 
+smoking, briefly driving his truck, and living a sedentary lifestyle.  (Ex. K)  Hines 
+lives alone in a home.  The video surveillance shows Hines lifting small items, 
+rolling and briefly lifting an empty metal toolbox, weeding an elevated planter, 
+obtaining water from an outdoor faucet, and moving what appear to be light objects 
+in a wheelbarrow.  (Ex. K)   
+ 
+Hines relayed during his last appointment with Dr. Kawasaki, Dr. Kawasaki 
+told him there was nothing more he could do for his back.  (Tr., pp. 36-37, 57)  At 
+the time of the hearing Hines was not receiving any treatment for his back or taking 
+any pain medication.  (Tr., pp. 37, 57)  Hines agreed he had not taken pain 
+medication since November 2020.  (Tr., pp. 56-57)   
+ 
+CONCLUSIONS OF LAW 
+ 
+I. 
+Applicable Law 
+ 
+This case involves the issues of arising out of and in the course of employment, 
+nature and extent of disability, temporary benefits, credits, recovery of medical bills, 
+entitlement to penalty benefits, and recovery of costs.  In 2017, the Iowa Legislature 
+enacted changes to Iowa Code chapters 85, 86, and 535 effecting workers’ 
+compensation cases.  2017 Iowa Acts chapter 23 (amending Iowa Code sections 85.16, 
+85.18, 85.23, 85.26, 85.33, 85.34, 85.39, 85.45, 85.70, 85.71, 86.26, 86.39, 86.42, and 
+535.3).  Under 2017 Iowa Acts chapter 23 section 24, the changes to Iowa Code 
+sections 85.16, 85.18, 85.23, 85.26, 85.33, 85.34, 85.39, 85.71, 86.26, 86.39, and 86.42 
+apply to injuries occurring on or after the effective date of the Act.  This case involves an 
+injury occurring after July 1, 2017, therefore, the provisions of the new statute involving 
+the nature and extent of disability, temporary benefits and recovery to the cost of the 
+independent medical examination under Iowa Code sections 85.33, 85.34, and 85.39 
+apply to this case.   
+ 
+The calculation of interest is governed by Deciga-Sanchez v. Tyson Foods, File 
+No. 5052008 (Ruling on Defendant’s Motion to Enlarge, Reconsider, or Amend Appeal 
+Decision Re: Interest Rate Issue), which holds interest for all weekly benefits payable 
+and not paid when due which accrued before July 1, 2017, is payable at the rate of ten 
+percent; all interest on past due weekly compensation benefits accruing on or after July 
+1, 2017, is payable at an annual rate equal to the one-year treasury constant maturity 
+published by the federal reserve in the most recent H15 report settled as of the date of 
+
+HINES V. TYSON FOODS, INC. 
+Page 14 
+ 
+injury, plus two percent.  Again, given this case concerns an injury occurring after July 
+1, 2017, the new provision on interest applies to this case. 
+ 
+II. 
+Arising Out of and in the Course of Employment 
+ 
+To receive workers’ compensation benefits, an injured employee must prove, by 
+a preponderance of the evidence, the employee’s injuries arose out of and in the course 
+of the employee’s employment with the employer.  2800 Corp. v. Fernandez, 528 
+N.W.2d 124, 128 (Iowa 1995).  An injury arises out of employment when a causal 
+relationship exists between the employment and the injury.  Quaker Oats Co. v. Ciha, 
+552 N.W.2d 143, 151 (Iowa 1996).  The injury must be a rational consequence of a 
+hazard connected with the employment, and not merely incidental to the employment.  
+Koehler Elec. v. Wills, 608 N.W.2d 1, 3 (Iowa 2000).  The Iowa Supreme Court has 
+held, an injury occurs “in the course of employment” when: 
+ 
+. . . it is within the period of employment at a place where the employee 
+reasonably may be in performing his duties, and while he is fulfilling those 
+duties or engaged in doing something incidental thereto.  An injury in the 
+course of employment embraces all injuries received while employed in 
+furthering the employer’s business and injuries received on the employer’s 
+premises, provided that the employee’s presence must ordinarily be 
+required at the place of the injury, or, if not so required, employee’s 
+departure from the usual place of employment must not amount to an 
+abandonment of employment or be an act wholly foreign to his usual work.  
+An employee does not cease to be in the course of his employment 
+merely because he is not actually engaged in doing some specifically 
+prescribed task, if, in the course of his employment, he does some act 
+which he deems necessary for the benefit or interest of his employer. 
+Farmers Elevator Co., Kingsley v. Manning, 286 N.W.2d 174, 177 (Iowa 1979).   
+ 
+Whether a claimant’s injury arises out of the claimant’s employment is a “mixed 
+question of law and fact.”  Lakeside Casino v. Blue, 743 N.W.2d 169, 173 (Iowa 2007).  
+The Iowa Supreme Court has held, 
+ 
+[t]he factual aspect of this decision requires the [trier of fact] to determine 
+“the operative events that [gave] rise to the injury.”  Meyer v. IBP, Inc., 710 
+N.W.2d 213, 218 (Iowa 2006).  Once the facts are determined, a legal 
+question remains:  “[W]hether the facts, as determined, support a 
+conclusion that the injury ‘arose out of . . . [the] employment,’ under our 
+workers’ compensation statute.”   
+Id.   
+The claimant bears the burden of proving the claimant’s work-related injury is a 
+proximate cause of the claimant’s disability and need for medical care.  Ayers v. D & N 
+Fence Co., Inc., 731 N.W.2d 11, 17 (Iowa 2007); George A. Hormel & Co. v. Jordan, 
+
+HINES V. TYSON FOODS, INC. 
+Page 15 
+ 
+569 N.W.2d 148, 153 (Iowa 1997).  “In order for a cause to be proximate, it must be a 
+‘substantial factor.’”  Ayers, 731 N.W.2d at 17.  A probability of causation must exist, a 
+mere possibility of causation is insufficient.  Frye v. Smith-Doyle Contractors, 569 
+N.W.2d 154, 156 (Iowa Ct. App. 1997).  The cause does not need to be the only cause, 
+“[i]t only needs to be one cause.”  Armstrong Tire & Rubber Co. v. Kubli, 312 N.W.2d 
+60, 64 (Iowa 1981). 
+The question of medical causation is “essentially within the domain of expert 
+testimony.”  Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 844-45 (Iowa 
+2011).  The commissioner, as the trier of fact, must “weigh the evidence and measure 
+the credibility of witnesses.”  Id.  The trier of fact may accept or reject expert testimony, 
+even if uncontroverted, in whole or in part.  Frye v. Smith-Doyle Contractors, 569 
+N.W.2d 154, 156 (Iowa Ct. App. 1997).  When considering the weight of an expert 
+opinion, the fact-finder may consider whether the examination occurred shortly after the 
+claimant was injured, the compensation arrangement, the nature and extent of the 
+examination, the expert’s education, experience, training, and practice, and “all other 
+factors which bear upon the weight and value” of the opinion.  Rockwell Graphic Sys., 
+Inc. v. Prince, 366 N.W.2d 187, 192 (Iowa 1985). 
+It is well established in workers’ compensation that “if a claimant had a 
+preexisting condition or disability, aggravated, accelerated, worsened, or ‘lighted up’ by 
+an injury which arose out of and in the course of employment resulting in a disability is 
+found to exist,” the claimant is entitled to compensation.  Iowa Dep’t of Transp. v. Van 
+Cannon, 459 N.W.2d 900, 904 (Iowa 1990).  The Iowa Supreme Court has held, 
+[a] disease which under any rational work is likely to progress so as to 
+finally disable an employee does not become a “personal injury” under our 
+Workmen’s Compensation Act merely because it reaches a point of 
+disablement while work for an employer is being pursued.  It is only when 
+there is a direct causal connection between exertion of the employment 
+and the injury that a compensation award can be made.  The question is 
+whether the diseased condition was the cause, or whether the 
+employment was a proximate contributing cause. 
+Musselman v. Cent. Tel. Co., 261 Iowa 352, 359-60, 154 N.W.2d 128, 132 (1967). 
+ 
+Hines alleges he sustained a cumulative injury to his low back while working for 
+Tyson, which manifested in March 2020.  Tyson alleges Hines’s injuries were not 
+caused by his employment with Tyson. 
+A cumulative injury is an occupational disease that develops over time, resulting 
+from cumulative trauma in the workplace.  Baker v. Bridgestone/Firestone, 872 N.W.2d 
+672, 681 (Iowa 2015); Larson Mfg. Co., Inc. v. Thorson, 763 N.W.2d 842, 851 (Iowa 
+2009); McKeever Custom Cabinets v. Smith, 379 N.W.2d 368, 372-74 (Iowa 1985).  “A 
+cumulative injury is deemed to have occurred when it manifests – and ‘manifestation’ is 
+that point in time when ‘both the fact of the injury and the causal relationship of the 
+injury to the claimant’s employment would have become plainly apparent to a 
+reasonable person.’”  Baker, 872 N.W.2d at 681.  The Iowa Supreme Court has held, 
+
+HINES V. TYSON FOODS, INC. 
+Page 16 
+ 
+[a] cumulative injury is manifested when the claimant, as a reasonable 
+person, would be plainly aware (1) that he or she suffers from a condition 
+or injury, and (2) that this condition or injury was caused by the claimant’s 
+employment.  Upon the occurrence of these two circumstances, the injury 
+is deemed to have occurred. 
+Herrera v. IBP, Inc., 633 N.W.2d 284, 288 (Iowa 2001). 
+ 
+Hines testified he sustained many injuries to his back during the 34 years he has 
+worked for Tyson.  The difference was in 2020 his back did not heal after a period of a 
+few days to a week.  During the hearing I assessed Hines’s credibility by considering 
+whether his testimony was reasonable and consistent with other evidence I believe, 
+whether he made inconsistent statements, his “appearance, conduct, memory and 
+knowledge of the facts,” and his interest in the case.  State v. Frake, 450 N.W.2d 817, 
+819 (Iowa 1990).  During the hearing Hines engaged in direct eye contact, he did not 
+engage in furtive movements, and I found his testimony to be reasonable and consistent 
+with the other evidence I believe.  I believe Hines did not believe his employment had 
+caused him to sustain a permanent low back condition until 2020. 
+ 
+Three physicians have provided causation opinions in this case, Dr. Abernathey, 
+a treating neurosurgeon, Dr. Gordon, an occupational medicine physician who works for 
+Tyson in the plant, and Dr. Segal, a neurosurgeon who performed an independent 
+medical examination for Hines.  Dr. Abernathey found no causation.  Dr. Gordon relied 
+on Dr. Abernathey’s conclusions and stated he could not substantiate or verify whether 
+Hines’s facet arthropathy was caused by age.  Dr. Segal opined Hines’s lumbar disc 
+bulges, degenerative changes and the herniation at L4-L5 were likely caused or 
+permanently aggravated by his cumulative work injury.  I find Dr. Segal’s opinion to be 
+the most persuasive. 
+ 
+Dr. Segal and Dr. Abernathey have superior training to Dr. Gordon.  Dr. Segal’s 
+opinion is very thorough and contains detailed physical findings on exam.  He also cites to 
+the literature throughout his opinion to support his causation finding.  Dr. Segal diagnosed 
+Hines with left L5 radiculopathy, disc herniation at L4-L5, mild to moderate right and 
+severe left lateral recess stenosis and moderate left neural foraminal narrowing at L4-
+L5, lumbar facet arthropathy and mechanical low back pain, left SI joint arthropathy, gait 
+disturbance, and status post left L4-L5 discectomy.  (Ex. 1, p. 15)  Based on his 
+examination, experience, and the literature, Dr. Segal opined Hines’s lumbar disc 
+bulges, degenerative changes and the herniation at L4-L5 were likely caused or 
+permanently aggravated by his cumulative work injury.  (Ex. 1)   
+Dr. Abernathey’s treatment note from April 20, 2020 is limited, and provides 
+Hines presented with a chronic lumbosacral strain that had been persistent and 
+progressive over the years.  (JE 7)  He did not provide any measurements or other 
+findings in his treatment record.  In responding to a check-the-box letter from Tyson, Dr. 
+Abernathey opined Hines’s “low back condition” is not causally related to his 
+employment and was not aggravated by his employment.  (Ex. C)  When questioned 
+about whether Hines’s work at Tyson aggravated the underlying condition, Dr. 
+Abernathey wrote, “NO SPECIFIC WORK INJURY HAS BEEN IDENTIFIED.”  (Ex. C, p. 2)  
+
+HINES V. TYSON FOODS, INC. 
+Page 17 
+ 
+Dr. Abernathey did not provide a diagnosis or identify what condition or conditions Hines 
+has.  Nor did he state that the “condition” could only be caused by a specific, traumatic 
+event.   
+On June 23, 2021, pursuant to an inquiry from Tyson, Dr. Abernathey opined that 
+disc degeneration is a natural progression of the aging process and that “degenerative 
+changes demonstrated on MRI are consistent with age which is an accumulation of all 
+aspects of daily life; of which work activities are a component.”  (Ex. D)  In this opinion Dr. 
+Abernathey retreated from his earlier opinion.  He did not reject Dr. Segal’s opinion that 
+Hines’s condition could have been caused by a cumulative work injury.   
+Dr. Gordon responded to Dr. Segal’s opinion in June 2021.  Dr. Gordon did not 
+challenge Dr. Segal’s diagnoses or provide his own diagnosis or diagnoses.  (Ex. E)  During 
+his original exam in March 2020, Dr. Gordon listed a diagnostic impression of “[l]eft leg 
+lumbar radiculopathy.”  (JE 4, p. 2)  Dr. Gordon noted during his 2020 examination, Hines 
+could not recall anything specific that brought about his symptoms and that Dr. Abernathey 
+did not believe Hines’s condition was related to his employment with Tyson.  (Ex. E, p. 2)  
+Dr. Gordon stated the cumulative trauma model for a lumbar disc disorder with associated 
+radiculopathy and SI joint arthritis or dysfunction has not been substantiated or validated in 
+the literature, without citing to any authority.  (Ex. E, pp. 2, 4)  He then noted while Hines’s 
+magnetic resonance imaging reveals facet arthropathy, “[t]his is indeed a change of 
+maturation and is found in nearly 100% of individuals Mr. Hines’ age.  It cannot be 
+substantiated or verified that he had/has a symptomatic condition due to these 
+changes of maturation that were noted on MRI.” (Ex. E, p. 2)   
+The record evidence supports Hines engaged in heavy, repetitive lifting over his 
+34 years with Tyson, and that his work for Tyson caused or permanently aggravated his 
+lumbar disc bulges, degenerative changes, and the herniation at L4-L5.  I find Hines has 
+established he sustained a permanent cumulative injury to his low back caused by his 
+work at Tyson. 
+ 
+III. 
+Extent of Disability 
+ 
+ 
+Hines seeks industrial disability benefits for his permanent work injury.  
+Tyson avers Hines is only entitled to recover for his functional loss in this case.  
+Iowa Code section 85.34(2) governs compensation for permanent partial 
+disabilities.  The law distinguishes between scheduled and unscheduled disabilities.  
+The Division of Workers Compensation evaluates disability using two methods, 
+functional and industrial.  Simbro v. Delong’s Sportswear, 332 N.W.2d 886, 887 (Iowa 
+1983).   
+The Division applies the functional method for a scheduled injury to each part of 
+the body listed in the statute, including:  (1) a thumb; (2) a first finger; (3) a second 
+finger; (4) a third finger; (5) a fourth finger; (6) a first or distal phalange of the thumb or 
+any finger; (7) loss of more than one phalange of the thumb or a finger; (8) a great toe; 
+(9) one of the toes other than the great toe; (10) a first phalange of any toe; (11) loss of 
+more than one phalange of any toe; (12) a hand; (13) an arm; (14) a shoulder (added in 
+
+HINES V. TYSON FOODS, INC. 
+Page 18 
+ 
+2017); (15) a foot; (16) a leg; (17) an eye; (18) “loss of an eye, the other eye having 
+been lost prior to the injury;” (19) hearing, other than occupational loss; (20) 
+occupational hearing loss; (21) “loss of both arms, or both hands, or both feet, or both 
+legs, or both eyes, or any two thereof, caused by a single accident;” and (22) 
+disfigurement of the face or head.  Iowa Code § 85.34(a)-(u); Westling v. Hormel Foods 
+Corp., 810 N.W.2d 247, 252 (Iowa 2012).  Each of these subsections provides a 
+maximum number of weeks of compensation for the complete loss of a scheduled 
+member or body part.  Since 2017, compensation or functional loss for scheduled 
+injuries is determined by taking the number of weeks allowed for a complete loss of the 
+body part or scheduled member, multiplied by a percentage of impairment determined 
+using the AMA Guides.  Iowa Code § 85.34(2)(x).   
+ 
+The statute also requires compensation be awarded for functional loss when an 
+employee returns to work or is offered work, as follows: 
+ 
+[i]f an employee who is eligible for compensation under this paragraph 
+returns to work or is offered work for which the employee receives or 
+would receive the same or greater salary, wages, or earnings than the 
+employee received at the time of the injury, the employee shall be 
+compensated based only upon the employee’s functional impairment 
+rating resulting from the injury, and not in relation to the employee’s 
+earning capacity.  Notwithstanding section 85.26, subsection 2, if an 
+employee who is eligible for compensation under this paragraph returns to 
+work with the same employer and is compensated based only upon the 
+employee’s functional impairment resulting from the injury as provided in 
+this paragraph and is terminated from employment by that employer, the 
+award or agreement for settlement of benefits under this chapter shall be 
+reviewed upon commencement of reopening proceedings by the 
+employee for a determination of any reduction in the employee’s earning 
+capacity caused by the employee’s permanent partial disability. 
+ 
+Id. § 85.34(2)(v). 
+ 
+The Division uses the industrial method for “all cases of permanent partial 
+disability other than those” set forth in Iowa Code section 85.34(2)(a) through (u).  Id.  
+All other cases are classified as “unscheduled injuries.”  Westling, 810 N.W.2d at 252-
+53.  Compensation for unscheduled injuries is determined examining the reduction of 
+earning capacity.  Id. at 53.   
+ 
+ 
+At the time of the hearing Hines was not working.  While he remains an 
+employee of Tyson, he has not physically worked at the Tyson plant since April 
+2020.  The only wages he has received were during a company shutdown due to 
+Covid-19 when Tyson paid all employees wages.  During an appointment on 
+February 19, 2021, Dr. Kawasaki restricted Hines from working and noted he would 
+reassess the restriction during his appointment on June 4, 2021.  (JE 8, p. 26)    
+
+HINES V. TYSON FOODS, INC. 
+Page 19 
+ 
+Tyson did not submit a letter showing it offered Hines work at his same or 
+greater salary than he received at the time of the injury following his surgery.  Avina 
+did not identify any specific jobs Tyson offered Hines or the salaries or hourly rates 
+of the jobs.  Tyson’s argument lacks merit.  Hines sustained a work injury to his low 
+back and underwent surgery.  The surgery caused Hines to develop additional 
+symptoms of numbness in his left foot, which has affected his functioning 
+permanently.  He was in a healing period prior to the time he reached maximum 
+medical improvement in April 2021.  The proper analysis for determining Hines’s 
+disability is the industrial disability analysis.  Iowa Code § 85.34(2)(v). 
+ 
+“Industrial disability is determined by an evaluation of the employee’s earning 
+capacity.”  Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 852 (Iowa 2011).  
+In considering the employee’s earning capacity, the deputy commissioner evaluates 
+several factors, including “consideration of not only the claimant’s functional disability, 
+but also [his] age, education, qualifications, experience, and ability to engage in similar 
+employment.”  Swiss Colony, Inc. v. Deutmeyer, 789 N.W.2d 129, 137-38 (Iowa 2010).  
+The inquiry focuses on the injured employee’s “ability to be gainfully employed.”  Id. at 
+138.  
+ 
+The determination of the extent of disability is a mixed issue of law and fact.  
+Neal v. Annett Holdings, Inc., 814 N.W.2d 512, 525 (Iowa 2012).  Compensation for 
+permanent partial disability shall begin at the termination of the healing period.  Iowa 
+Code § 85.34(2).  Compensation shall be paid in relation to 500 weeks as the disability 
+bears to the body as a whole.  Id. § 85.34(2)(v).   
+ 
+Dr. Segal found under Table 15-3, Hines falls in DRE Lumbar Category III with 
+significant signs of radiculopathy and he has a history of a herniated disc on the side of 
+the radiculopathy, and remains symptomatic after surgery, and he assigned Hines a 13 
+percent whole person impairment.  (Ex. 1, p. 29)  To his credit, Dr. Gordon agreed with 
+Dr. Segal’s impairment rating, if what he documented regarding Hines’s current 
+condition was accurate, given Dr. Gordon had not recently examined Hines.  (Ex. E, p. 
+2)   
+ 
+Dr. Gordon attacked the additional 3 percent Dr. Segal assigned for his facet 
+arthropathy using Chapter 18 of the AMA Guides, which is for pain, and the additional 3 
+percent Dr. Segal assigned for left SI joint pain.  (Ex. E, pp. 3-4)  Dr. Segal cited to 
+published authority to support his assertion that Dr. Segal was “double dipping,” by 
+assigning the additional six percent using the pain chapter and not the spine chapter of 
+the AMA Guides.  Dr. Segal did not provide a rebuttal opinion to Dr. Gordon’s opinion 
+challenging his methodology and I do not find that portion of his opinion assigning an 
+additional six percent permanent impairment for pain persuasive.   
+ 
+Dr. Segal recommended permanent restrictions sitting up to 30 minutes, with a 
+10 minute break for a total of 4 hours per day, standing up to 15 minutes, with a 15 
+minute break for a total of 3 hours per day, walking up to 15 minutes with a 15 
+minute break for a total of 3 hours per day, one bend occasionally, no repetitive 
+
+HINES V. TYSON FOODS, INC. 
+Page 20 
+ 
+bending, occasional overhead reaching, rarely lift or carry over 21 pounds, 
+occasionally lift or carry up to 20 pounds, and frequently lift or carry up to 10 
+pounds, push or pull up to 25 pounds occasionally, climb 1 flight of stairs 
+occasionally, climb 2 or more flights of stairs rarely, occasionally kneel, rarely 
+crouch or squat, and use ladders occasionally.  (Ex. 1, p. 34)   
+ 
+Dr. Gordon found Dr. Segal assigned “arbitrary permanent restrictions,” and 
+noted it would be appropriate for Hines to undergo a functional capacity evaluation.  
+(Ex. E, p. 5)  It does not appear Tyson ordered a functional capacity evaluation.  Dr. 
+Segal most recently examined Hines and his physical findings on exam are detailed in 
+his report.  I adopt Dr. Segal’s restrictions as Hines’s current restrictions. 
+ 
+This is a denied claim.  Hines has not returned to work since April 2020, but 
+he continues to be an employee of Tyson.  Tyson has paid a portion of his health 
+insurance since he has been off work. 
+ 
+At hearing, Avina testified Tyson recently sent Hines a letter by certified mail 
+regarding returning to work.  The letter was not submitted as part of the record.  
+Avina also testified there are positions at Tyson Hines would be capable of 
+engaging in, given his restrictions.  Hines has not contacted Tyson to state that he 
+wants to return to work.  Tyson did not offer Hines any specific position prior to 
+hearing.  Hines has not applied for any work outside of Tyson.  I do not find he is 
+motivated to work. 
+ 
+Hines is a high school graduate.  Following high school, he obtained a 
+welding certificate.  Hines has worked for Tyson as a mechanic for more than 30 
+years.  Hines is a valued employee of Tyson.  At the time of the hearing he was 58.  
+During the hearing I found Hines to be articulate.  Avina testified there are 
+supervisory positions Hines could perform with his years of experience at Tyson.  
+Hines did not obtain an opinion from a vocational expert in this case to support he is 
+incapable of working.  No physician has opined he is incapable of working.  Based 
+on all of the factors of industrial disability, I find Hines has sustained an 80 percent 
+industrial disability at this time, entitling Hines to 400 weeks of permanent partial 
+disability benefits, at the stipulated rate of $660.35, commencing on the stipulated 
+commencement date of April 20, 2021.   
+ 
+IV. 
+Temporary Benefits and Credits 
+ 
+Hines seeks temporary benefits from April 28, 2020, through April 19, 2021.  
+While the parties did not stipulate Hines is entitled to temporary benefits, they stipulated 
+Hines was off work from April 28, 2020, through April 19, 2021. 
+ 
+Iowa Code section 85.33 governs temporary disability benefits, and Iowa Code 
+section 85.34 governs healing period and permanent disability benefits.  Dunlap v. 
+Action Warehouse, 824 N.W.2d 545, 556 (Iowa Ct. App. 2012).   
+
+HINES V. TYSON FOODS, INC. 
+Page 21 
+ 
+An employee has a temporary partial disability when because of the employee’s 
+medical condition, “it is medically indicated that the employee is not capable of returning 
+to employment substantially similar to the employment in which the employee was 
+engaged at the time of the injury, but is able to perform other work consistent with the 
+employee’s disability.”  Iowa Code § 85.33(2).  Temporary partial disability benefits are 
+payable, in lieu of temporary total disability and healing period benefits, due to the 
+reduction in earning ability as a result of the employee’s temporary partial disability, and 
+“shall not be considered benefits payable to an employee, upon termination of 
+temporary partial or temporary total disability, the healing period, or permanent partial 
+disability, because the employee is not able to secure work paying weekly earnings 
+equal to the employee’s weekly earnings at the time of the injury.”  Id.   
+ 
+As a general rule, “temporary total disability compensation benefits and healing-
+period compensation benefits refer to the same condition.”  Clark v. Vicorp Rest., Inc., 
+696 N.W.2d 596, 604 (Iowa 2005).  The purpose of temporary total disability benefits 
+and healing period benefits is to “partially reimburse the employee for the loss of 
+earnings” during a period of recovery from the condition.  Id.  Temporary total, 
+temporary partial, and healing period benefits can be interrupted or intermittent.  Teel v. 
+McCord, 394 N.W.2d 405 (Iowa 1986); Stourac-Floyd v. MDF Endeavors, File No. 
+5053328 (App. Sept. 11, 2018); Stevens v. Eastern Star Masonic Home, File No. 
+5049776 (App. Dec. Mar. 14, 2018).  The appropriate type of benefit depends on 
+whether or not the employee has a permanent disability.  Dunlap, 824 N.W.2d at 556.  I 
+found Hines sustained a permanent impairment to his low back caused by his work for 
+Tyson, therefore, if he is entitled to temporary benefits, he is entitled to healing period 
+benefits.   
+ 
+Hines was restricted from working from April 28, 2020.  He had not returned to 
+work at the time he reached maximum medical improvement.  I find Hines is entitled to 
+healing period benefits beginning on April 20, 2020. 
+ 
+Tyson avers it is entitled to a credit for wages paid to all employees, including 
+Hines, during the plant shutdown due to Covid-19, for the weeks beginning April 27, 
+2020 and May 4, 2020.  Avina testified during the shutdown, all employees of Tyson 
+were paid wages during the shutdown period.  (Tr., p. 84)  Exhibit G documents the 
+wages paid to Hines for these two weeks.  I find Hines is entitled to healing period 
+benefits for the week of April 20, 2020, and from May 11, 2020 through April 19, 
+2021, at the stipulated rate of $660.35. 
+ 
+V. 
+Credit for Short-Term Disability Benefits  
+ 
+Tyson seeks a credit for short-term disability payments made to Hines.  
+Hines alleges Tyson is not entitled to a credit because Tyson has failed to establish 
+entitlement to a credit in this case. 
+ 
+ 
+ 
+
+HINES V. TYSON FOODS, INC. 
+Page 22 
+ 
+Iowa Code section 85.38(2) provides:  
+2.  Benefits paid under group plans. 
+a.  In the event the employee with a disability shall receive any 
+benefits, including medical, surgical, or hospital benefits, under any group 
+plan covering nonoccupational disabilities contributed to wholly or partially 
+by the employer, which benefits should not have been paid or payable if 
+any rights of recovery existed under this chapter, chapter 85A, or chapter 
+85B, then the amounts so paid to the employee from the group plan shall 
+be credited to or against any compensation payments, including medical, 
+surgical, or hospital, made or to be made under this chapter, chapter 85A, 
+or chapter 85B.  The amounts so credited shall be deducted from the 
+payments made under these chapters.  Any nonoccupational plan shall be 
+reimbursed in the amount deducted.  This section shall not apply to 
+payments made under any group plan which would have been payable 
+even though there was an injury under this chapter or an occupational 
+disease under chapter 85A or an occupational hearing loss under chapter 
+85B.  
+The Iowa Supreme Court has held that the purpose of Iowa Code section 85.38(2) is to 
+preclude an employee with a disability from receiving a double recovery of workers’ 
+compensation benefits and group disability plan benefits provided by the employer.  
+State v. Erbe, 519 N.W.2d 812, 815 (Iowa 1994). 
+ 
+An employer seeking the credit bears the burden of proving entitlement to the 
+credit.  Miller v. Maintainer Corp. of Iowa, Inc., File No. 5020192 (App. Dec. 2, 2009).  
+To meet this burden, Tyson must prove:  (1) the benefits were received under a group 
+plan; (2) contribution to the plan was made by the employer; (3) the benefits should not 
+have been paid if workers’ compensation benefits were received; and (4) the amount to 
+be credited or deducted from payments made or owed under Iowa Code chapter 85.  Id. 
+ 
+Hines testified he received short-term disability benefits from Tyson for a period 
+of time.  Exhibit G is a short-term disability log Tyson prepared for Hines.  Exhibit G 
+provides a listing of payments made by week, and that Hines was paid a total of 
+$11,288.40 in hourly short-term disability benefits as of the October 1, 2020 payroll 
+date.  (Ex. G)   
+ 
+ 
+Tyson did not produce a copy of the plan documents at hearing.  A copy of 
+the plan is necessary to determine whether short-term disability benefits should not 
+be paid if workers’ compensation benefits are received under the plan.  Due to this 
+failure, I have nothing to review.  Tyson is not entitled to a credit for short-term 
+disability benefits paid to Hines. 
+ 
+ 
+ 
+
+HINES V. TYSON FOODS, INC. 
+Page 23 
+ 
+VI. 
+Penalty Benefits 
+ 
+ 
+Hines seeks an award of penalty benefits in this case, given Tyson denied 
+his claim and refused to pay him healing period and permanency benefits.  Tyson 
+avers no penalty benefits should be awarded because it relied on Dr. Abernathey’s 
+opinion in denying his claim.   
+ 
+Iowa Code section 86.13 governs compensation payments.  Under the statute’s 
+plain language, if there is a delay in payment absent “a reasonable or probable cause or 
+excuse,” the employee is entitled to penalty benefits, of up to fifty percent of the amount 
+of benefits that were denied, delayed, or terminated without reasonable or probable 
+cause or excuse.  Iowa Code § 86.13(4); see also Christensen v. Snap-On Tools Corp., 
+554 N.W.2d 254, 260 (Iowa 1996) (citing earlier version of the statute).  “The application 
+of the penalty provision does not turn on the length of the delay in making the correct 
+compensation payment.”  Robbennolt v. Snap-On Tools Corp., 555 N.W.2d 229, 236 
+(Iowa 1996).  If a delay occurs without a reasonable excuse, the commissioner is 
+required to award penalty benefits in some amount to the employee.  Id.   
+ 
+The statute requires the employer or insurance company to conduct a 
+“reasonable investigation and evaluation” into whether benefits are owed to the 
+employee, the results of the investigation and evaluation must be the “actual basis” 
+relied on by the employer or insurance company to deny, delay, or terminate benefits, 
+and the employer or insurance company must contemporaneously convey the basis for 
+the denial, delay, or termination of benefits to the employee at the time of the denial, 
+delay, or termination of benefits.  Iowa Code § 86.13(4).  An employer may establish a 
+“reasonable cause or excuse” if “the delay was necessary for the insurer to investigate 
+the claim,” or if “the employer had a reasonable basis to contest the employee’s 
+entitlement to benefits.”  Christensen, 554 N.W.2d at 260.  “A ‘reasonable basis’ for 
+denial of the claim exists if the claim is ‘fairly debatable.’”  Burton v. Hilltop Care Ctr., 
+813 N.W.2d 250, 267 (Iowa 2012).  “Whether a claim is ‘fairly debatable’ can generally 
+be determined by the court as a matter of law.”  Id.  The issue is whether the employer 
+had a reasonable basis to believe no benefits were owed to the claimant.  Id.  “If there 
+was no reasonable basis for the employer to have denied the employee's benefits, then 
+the court must ‘determine if the defendant knew, or should have known, that the basis 
+for denying the employee's claim was unreasonable.’”  Id. 
+ 
+Benefits must be paid beginning on the eleventh day after the injury, and “each 
+week thereafter during the period for which compensation is payable, and if not paid 
+when due,” interest will be imposed.  Iowa Code § 85.30.  In Robbennolt, the Iowa 
+Supreme Court noted, “[i]f the required weekly compensation is timely paid at the end of 
+the compensation week, no interest will be imposed . . . . As an example, if Monday is 
+the first day of the compensation week, full payment of the weekly compensation is due 
+the following Monday.”  Robbennolt, 555 N.W.2d at 235.  A payment is “made” when the 
+check addressed to the claimant is mailed, or personally delivered to the claimant.  
+Meyers v. Holiday Express Corp., 557 N.W.2d 502, 505 (Iowa 1996) (abrogated by 
+Keystone Nursing Care Ctr. v. Craddock, 705 N.W.2d 299 (Iowa 2005) (concluding the 
+
+HINES V. TYSON FOODS, INC. 
+Page 24 
+ 
+employer’s failure to explain to the claimant why it would not pay permanent benefits 
+upon the termination of healing period benefits did not support the commissioner’s 
+award of penalty benefits)). 
+ 
+When considering an award of penalty benefits, the commissioner considers “the 
+length of the delay, the number of the delays, the information available to the employer 
+regarding the employee’s injuries and wages, and the prior penalties imposed against 
+the employer under section 86.13.”  Schadendorf v. Snap-On Tools Corp., 757 N.W.2d 
+330, 336 (Iowa 2008).  The purposes of the statute are to punish the employer and 
+insurance company and to deter employers and insurance companies from delaying 
+payments.  Robbennolt, 555 N.W.2d at 237.   
+ 
+Tyson initially denied Hines’s claim on May 5, 2020, after receiving Dr. 
+Abernathey’s opinion on April 28, 2020, stating he did not believe Hines’s current low 
+back condition was causally related to his employment.  (Exs. 2, p. 45; B, p. 1)  Hines 
+did not obtain a contrary opinion from a physician until Dr. Segal issued his opinion on 
+June 14, 2021.  (Ex. 1)  Dr. Segal opined Hines had sustained a permanent cumulative 
+injury to his low back caused by work at Tyson.  (Ex. 1)  Tyson requested an opinion 
+from Dr. Abernathey regarding Dr. Segal’s contention that Hines’s condition was the 
+result of a cumulative work injury.  On June 23, 2021, Dr. Abernathey responded,  
+ 
+[t]his letter is in reference to your request for information regarding 
+Michael Hines.  It appears that the primary issue in this case involves 
+causation.  Frankly, I am not aware of any specific documented event 
+which caused the patient’s clinical presentation.  It appears from the 
+record and Dr. Segal’s recent IME that the case is being made for a 
+cumulative work injury to explain his presentation.  Disc degeneration 
+is a natural progression of the aging process.  Any and all daily 
+activities would contribute to the development of anatomic and 
+radiographic degenerative findings.  It is much easier to attribute 
+causation to his work activities if there was a singular event. 
+ 
+ 
+To summarize, the degenerative changes demonstrated on MRI 
+are consistent with age which is an accumulation of all aspects of daily 
+life; of which, work activities are a component. 
+ 
+(Ex. D)   
+ 
+ 
+Tyson did not commence any additional investigation after receiving Dr. 
+Abernathey’s opinion and went forward to hearing on July 14, 2021.  Until a month 
+before the hearing no physician had opined Hines’s low back condition was due to a 
+cumulative work injury.  After receiving Dr. Segal’s report, Tyson conducted 
+additional investigation with Dr. Abernathey.  I find his claim to benefits was fairly 
+debatable until June 23, 2021, three weeks before the hearing.  At that time, Tyson 
+should have commenced paying at least temporary benefits.  Hines is awarded 
+$500.00 in penalty benefits.   
+
+HINES V. TYSON FOODS, INC. 
+Page 25 
+ 
+VII. 
+Out-of-Pocket Medical Bills 
+ 
+ 
+Hines seeks to recover out-of-pocket medical bills he paid from May 12, 2020, 
+through June 4, 2021, totaling $807.05, and pending medical bills submitted to his 
+insurance carrier through Tyson totaling $833.00.  (Ex. 5)   
+ 
+An employer is required to furnish reasonable surgical, medical, dental, 
+osteopathic, chiropractic, podiatric, physical rehabilitation, nursing, ambulance, hospital 
+services and supplies, and transportation expenses for all conditions compensable 
+under the workers’ compensation law.  Iowa Code § 85.27(1).  The employer has the 
+right to choose the provider of care, except when the employer has denied liability for 
+the injury.  Id.  “The treatment must be offered promptly and be reasonably suited to 
+treat the injury without undue inconvenience to the employee.”  Id. § 85.27(4).  If the 
+employee is dissatisfied with the care, the employee should communicate the basis for 
+the dissatisfaction to the employer.  Id.  If the employer and employee cannot agree on 
+alternate care, the commissioner “may, upon application and reasonable proofs of the 
+necessity therefor, allow and order other care.”  Id.  The statute requires the employer to 
+furnish reasonable medical care.  Id. § 85.27(4); Long v. Roberts Dairy Co., 528 N.W.2d 
+122, 124 (Iowa 1995) (noting “[t]he employer’s obligation under the statute turns on the 
+question of reasonable necessity, not desirability”).  The Iowa Supreme Court has held 
+the employer has the right to choose the provider of care, except when the employer 
+has denied liability for the injury, or has abandoned care.  Iowa Code § 85.27(4); Bell 
+Bros. Heating & Air Conditioning v. Gwinn, 779 N.W.2d 193, 204 (Iowa 2010).   
+ 
+This is a denied claim.  Hines received medical treatment using his group health 
+insurance for Tyson.  The bills Hines seeks to recover are for out-of-pocket expenses 
+he incurred that were not covered by insurance.  I find the treatment Hines received was 
+reasonable and necessary for his work injury.  Tyson is responsible for the cost of all 
+causally-connected medical care Hines has received and may need in the future, 
+including the outstanding bills in Exhibit 5.  Tyson is entitled to a credit for all bills paid 
+through its group health insurance plan. 
+ 
+VIII. 
+Recovery of the Cost of the Independent Medical Examination 
+ 
+Hines seeks to recover the $4,500.00 for Dr. Segal’s independent medical 
+examination.  (Ex. 6)  Tyson alleges Hines is not entitled to recover the cost of the 
+independent medical examination because no physician retained by Tyson provided an 
+impairment rating before Dr. Segal performed his independent medical examination. 
+ 
+Iowa Code section 85.39, provides, in part: 
+[a]fter an injury, the employee, if requested by the employer, shall submit 
+for examination at some reasonable time and place and as often as 
+reasonably requested, to a physician or physicians authorized to practice 
+under the laws of this state or another state, without cost to the employee; 
+but if the employee requests, the employee, at the employee’s own cost, 
+
+HINES V. TYSON FOODS, INC. 
+Page 26 
+ 
+is entitled to have a physician or physicians of the employee’s own 
+selection present to participate in the examination.  If an employee is 
+required to leave work for which the employee is being paid wages to 
+attend the requested examination, the employee shall be compensated at 
+the employee’s regular rate for the time the employee is required to leave 
+work, and the employee shall be furnished transportation to and from the 
+place of examination, or the employer may elect to pay the employee the 
+reasonable cost of the transportation. . . . If an evaluation of permanent 
+disability has been made by a physician retained by the employer and the 
+employee believes this evaluation to be too low, the employee shall, upon 
+application to the commissioner and upon delivery of a copy of the 
+application to the employer and its insurance carrier, be reimbursed by the 
+employer the reasonable fee for a subsequent examination by a physician 
+of the employee’s own choice, and reasonably necessary transportation 
+expenses incurred for the examination. . . . 
+The Iowa Court of Appeals recently addressed this issue in Kern v. Fenchel, Doster & 
+Buck, P.L.C., No. 20-1206, 2021 WL 3890603 (Iowa Ct. App. Sept. 1, 2021).  In Kern, 
+the defendants’ expert found there was no causation.  Kern disagreed with the opinion 
+and sought an independent medical examination at the defendants’ expense.  The 
+Commissioner found Kern was not entitled to recover the cost of an independent 
+medical examination.  The Court of Appeals reversed, finding the “opinion on lack of 
+causation was tantamount to a zero percent impairment rating,” which is reimbursable 
+under Iowa Code section 85.39.  Dr. Abernathey found Hines did not sustain a 
+permanent impairment to his low back or aggravation of a preexisting condition to his 
+low back caused by his work activities at Tyson.  Hines disagreed and sought an 
+independent medical examination with Dr. Segal, which occurred after Dr. Abernathey 
+issued his opinion.  Under Kern, I find Hines is entitled to recover the $4,500.00 cost of 
+Dr. Segal’s independent medical examination. 
+ 
+IX. 
+Costs 
+ 
+ 
+Hines seeks to recover the $103.00 cost of the filing fee, the $6.90 cost of 
+service, and the $94.50 cost of Hines’s deposition transcript.  (Ex. 6)  Iowa Code section 
+86.40, provides, “[a]ll costs incurred in the hearing before the commissioner shall be 
+taxed in the discretion of the commissioner.”  Rule 876 Iowa Administrative Code 4.33, 
+provides costs may be taxed by the deputy workers’ compensation commissioner for:  
+(1) the attendance of a certificated shorthand reporter for hearings and depositions; (2) 
+transcription costs; (3) the cost of service of the original notice and subpoenas; (4) 
+witness fees and expenses; (5) the cost of doctors’ and practitioner’s deposition 
+testimony; (6) the reasonable cost of obtaining no more than two doctors’ or 
+practitioners’ reports; (7) filing fees; and (8) the cost of persons reviewing health service 
+disputes.  I found Hines was successful in proving his case.  Therefore, using my 
+discretion I find Hines should be awarded the $103.00 cost of the filing fee, the $6.90 
+cost of service, and the $94.50 cost of his deposition transcript.    
+ 
+
+HINES V. TYSON FOODS, INC. 
+Page 27 
+ 
+ORDER 
+IT IS THEREFORE ORDERED, THAT: 
+Defendant shall pay Claimant four hundred (400) weeks of permanent partial 
+disability benefits at the stipulated rate of six hundred sixty and 35/100 dollars 
+($660.35), commencing on the stipulated commencement date of April 20, 2021.  
+Defendant shall pay Claimant healing period benefits for the week of April 20, 
+2020, and from May 11, 2020 through April 19, 2021, at the stipulated rate of six 
+hundred sixty and 35/100 dollars ($660.35). 
+Defendant shall pay accrued weekly benefits in a lump sum together with interest 
+at the rate of ten percent for all weekly benefits payable and not paid when due which 
+accrued before July 1, 2017, and all interest on past due weekly compensation benefits 
+accruing on or after July 1, 2017, shall be payable at an annual rate equal to the 
+one-year treasury constant maturity published by the federal reserve in the most recent 
+H15 report settled as of the date of injury, plus two percent.  Deciga-Sanchez v. Tyson 
+Foods, File No. 5052008 (Apr. 23, 2018 Ruling on Defendant’s Motion to Enlarge, 
+Reconsider, or Amend Appeal Decision Re:  Interest Rate Issue). 
+Defendant shall pay Claimant five hundred and 00/100 dollars ($500.00) in 
+penalty benefits.   
+Defendant is responsible for the cost of all causally-connected medical care 
+Hines has received and may need in the future, including the outstanding bills in Exhibit 
+5.   
+Defendant shall reimburse Claimant four thousand five hundred and 00/100 
+dollars ($4,500.00) for the cost of Dr. Segal’s independent medical examination.   
+Defendant shall reimburse Claimant one hundred three and 00/100 dollars 
+($103.00) for cost of the filing fee, six and 90/100 dollars ($6.90) for the cost of service, 
+and ninety-four and 50/100 dollars ($94.50) for the cost of the deposition transcript.   
+Defendant shall file subsequent reports of injury as required by this agency 
+pursuant to rules 876 IAC 3.1(2) and 876 IAC 11.7. 
+Signed and filed this ___18th ___ day of January, 2022. 
+ 
+ 
+______________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+           HEATHER L. PALMER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEPUTY WORKERS’  
+ 
+ 
+ 
+ 
+ 
+ 
+  COMPENSATION COMMISSIONER 
+ 
+ 
+
+HINES V. TYSON FOODS, INC. 
+Page 28 
+ 
+ 
+The parties have been served as follows: 
+ 
+Joseph Powell (via WCES) 
+ 
+Jason Wiltfang (via WCES) 
+ 
+Chris Scheldrup (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal period 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 

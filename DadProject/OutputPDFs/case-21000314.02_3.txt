@@ -1,0 +1,252 @@
+Case Number: 21000314.02
+Case Title:  NEWBURRY, MICHAEL V. THE LUTHERAN HOME FOR THE AGED ASSOCIATION
+Doc Type:    Decision - District Court
+Source:      Newburry, Michael-21000314.02.District Court Decision.PDF
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+LUTHERAN HOME FOR THE AGED 
+ASSOCIATION – EAST and ACCIDENT 
+FUND GENERAL INSURANCE 
+COMPANY, 
+ 
+         Petitioners, 
+v. 
+ 
+MICHAEL NEWBURRY, 
+ 
+         Respondent. 
+ 
+Case No. CVCV065456 
+ 
+ 
+ 
+RULING ON 
+PETITION FOR JUDICIAL REVIEW 
+   
+The above-captioned matter came before this Court for hearing on September 22, 2023, 
+following a petition from Lutheran Home for the Aged Association – East (“Lutheran”) and 
+Accident Fund General Insurance Company (collectively, “Petitioners”) for judicial review of the 
+Iowa Workers’ Compensation Commissioner’s Decision awarding benefits to Michael Newburry 
+(“Respondent”). Petitioners were represented by Attorney Laura J. Ostrander, and Respondent was 
+represented by Attorney Connor Mulholland. After hearing the arguments of counsel and 
+reviewing the court file, including the briefings and Certified Administrative Record, the Court 
+now enters the following ruling.  
+FACTUAL BACKGROUND 
+ 
+Respondent, a former employee of Lutheran, filed Petitions for Workers’ Compensation 
+on July 2 and October 31, 2020, alleging that he suffered injuries “to the back and body as a whole 
+as a result of transferring a resident.” Pet’rs’ Br. 1. Lutheran accepted liability for the October 
+injury but denied any liability for the July injury. Just before the Arbitration Hearing held on 
+August 1, 2022, Respondent waived his July 2, 2020, claim. 
+ 
+There were several contested issues at the Arbitration Hearing, including the nature and 
+extent of permanency benefits Respondent is entitled to, the appropriate weekly workers’ 
+E-FILED                    CVCV065456 - 2023 NOV 15 11:29 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 8
+
+2 
+ 
+compensation rate, underpayment by Petitioner of healing period benefits stemming from the rate 
+dispute, past medical expenses, and the cost of an independent medical examination.  
+Deputy Workers’ Compensation Commissioner Erin Pals ruled that Respondent was 
+entitled to a weekly permanent partial disability benefit rate of $682.21 for 300 weeks, 
+commencing on September 3, 2021.1 In doing so, she found that Respondent was entitled to an 
+award of industrial disability and rejected Petitioners’ argument that Respondent’s compensation 
+was limited by his functional impairment rating. Deputy Commissioner Pals also held that while 
+Respondent was not entitled to recover any past medical expenses, Petitioners were required to 
+reimburse Respondent for the costs associated with his independent medical examination. 
+Petitioners appealed the decision.  
+The appeal was heard by Workers’ Compensation Commissioner Joseph Cortese, who 
+largely affirmed Deputy Commissioner Pals’ ruling. The only issue which he reversed was the 
+issue of how much weekly compensation was owed, decreasing it from $682.21 to $669.81 per 
+week. Petitioners now seek judicial review of Commissioner Cortese’s Appeal Decision.  
+SCOPE AND STANDARD OF REVIEW 
+The appropriate standard of review is largely uncontested by the parties. In this 
+administrative proceeding, the Court’s review is governed by Iowa Code section 17A.19. A party 
+challenging agency action bears the burden of demonstrating the action's invalidity and resulting 
+prejudice. Iowa Code § 17A.19(8)(a). This can be shown in a number of ways, including proof the 
+action was ultra vires; legally erroneous; unsupported by substantial evidence in the record when 
+that record is viewed as a whole; or otherwise unreasonable, arbitrary, capricious, or an abuse of 
+discretion. See id. § 17A.19(10).  
+                                                          
+1 This included a requirement that Petitioners pay Respondent the amount of underpaid benefits plus interest. 
+E-FILED                    CVCV065456 - 2023 NOV 15 11:29 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 8
+
+3 
+ 
+The district court acts in an appellate capacity to correct errors of law on the part of the 
+agency. Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002). Where the issue is 
+one of fact, the Court must accept the agency’s factual findings unless they are “not supported by 
+substantial evidence in the record before the court when that record is viewed as a whole.” Iowa 
+Code § 17A.19(10)(f); see also Mycogen Seeds v. Sands, 686 N.W.2d 457, 464-465 (Iowa 2004). 
+When applying the law to facts, an agency may be given deference if the “legislature clearly vested 
+authority to interpret the provision with the agency.” Iowa Dental Ass’n v. Iowa Insurance 
+Division, 831 N.W.2d 138, 143 (Iowa 2013) (citing Iowa Code § 17A.19(10)(c)). If the agency 
+has not been given such authority, then its application of law to facts is reviewed de novo. 
+Bearinger v. Iowa Dept. of Transp., 844 N.W.2d 104, 106 (Iowa 2014). “The interpretation of 
+workers’ compensation statutes and related case law has not been clearly vested by a provision of 
+law in the discretion of the agency.” Schadendorf v. Snap-On Tools Corp., 757 N.W.2d 330, 334 
+(Iowa 2008). Thus, any application of law to facts in this case is reviewed de novo.  
+MERITS 
+ 
+Petitioners take issue with several conclusions reached by the Commissioner: 
+The Petitioners respectfully request that the District Court reverse the 
+Commissioner’s Appeal Decision and find the Claimant is entitled to permanent 
+partial disability benefits of 7% to the body as a whole with benefits commencing 
+on September 3, 2021, at the rate calculated by the Petitioners taking into account 
+a credit for the overpayment. The District Court should also find the Claimant is 
+not entitled to full reimbursement of the costs of his expert reports or 
+reimbursement for unauthorized medical treatment. 
+ 
+Pet’rs’ Br. 19-20. The Court will address each of these issues in turn. 
+A. The Uncontested Findings 
+All parties agree Deputy Director Pals and Commissioner Cortese correctly determined 
+two issues: 1) that Respondent reached maximum medical improvement on September 3, 2021 
+E-FILED                    CVCV065456 - 2023 NOV 15 11:29 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 8
+
+4 
+ 
+and 2) that Petitioners were not responsible for Respondent’s past medical expenses. Pet’rs’ Br. 
+12, 19; Resp’t’s Br. 8, 14-15. The Court sees no reason to further investigate these matters nor 
+overturn the Commissioner’s decision on these issues.  
+B. The Rate Calculation 
+Iowa Code Section 85.36 sets out the rules for the Basis of Computation for workers’ 
+compensation: 
+The basis of compensation shall be the weekly earnings of the injured employee at 
+the time of the injury. Weekly earnings means gross salary, wages, or earnings of 
+an employee to which such employee would have been entitled had the employee 
+worked the customary hours for the full pay period in which the employee was 
+injured, as regularly required by the employee’s employer for the work or 
+employment for which the employee was employed, computed or determined as 
+follows and then rounded to the nearest dollar[.] 
+ 
+Iowa Code § 85.36. The section continues by listing various calculations to be used depending on 
+the circumstances of the employee: 
+In the case of an employee who is paid on a daily or hourly basis, or by the output 
+of the employee, the weekly earnings shall be computed by dividing by thirteen the 
+earnings, including shift differential pay but not including overtime or premium 
+pay, of the employee earned in the employ of the employer in the last completed 
+period of thirteen consecutive calendar weeks immediately preceding the injury. If 
+the employee was absent from employment for reasons personal to the employee 
+during part of the thirteen calendar weeks preceding the injury, the employee’s 
+weekly earnings shall be the amount the employee would have earned had the 
+employee worked when work was available to other employees of the employer in 
+a similar occupation. A week which does not fairly reflect the employee’s 
+customary earnings shall be replaced by the closest previous week with earnings 
+that fairly represent the employee’s customary earnings. 
+ 
+Iowa Code § 85.36(6). Using that calculation method, Deputy Commissioner Pals concluded that 
+the correct rate is $682.21. However, in doing so, she excluded two pay periods. She excluded the 
+period of August 11 to August 25, 2020 for having too few hours, and she excluded October 11 to 
+October 25, 2020 for having too many hours. On appeal Commissioner Cortese agreed with 
+excluding the period in August but disagreed with excluding the October period. He also found 
+E-FILED                    CVCV065456 - 2023 NOV 15 11:29 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 8
+
+5 
+ 
+that Deputy Commissioner Pals had incorrectly calculated Respondent’s pay by compensating his 
+overtime hours at a higher rate than his normal hourly wage. Even though this is what Respondent 
+was actually paid at the time, Commissioner Cortese noted that Iowa Code section 85.36 does not 
+take extra overtime pay into account. After making these changes, Commissioner Cortese 
+calculated a new weekly rate of $669.81. 
+Petitioners argue that both Deputy Director Pals and Commissioner Cortese incorrectly 
+calculated the weekly rate and that this Court should instead adopt an adjusted rate $641.78. 
+Petitioners contend that the Commissioner erred by excluding the pay period of August 11 to 
+August 25, 2020, and by committing “an obvious math error.” Pet’rs’ Br. 14. The Court fails to 
+see where the obvious math error in the Commissioner’s calculation lies, and agrees with the 
+Respondent that:  
+In calculating Mr. Newburry’s benefit rate, Commissioner Cortese excluded the 
+pay period spanning from August 11, 2020, through August 25, 2020, because Mr. 
+Newburry only worked for 72.50 hours that pay period when he typically works 80 
+hours or more in a pay period. [App. Dec. 4.] Commissioner Cortese determined 
+this period constituted 107 days, or 15.29 weeks, and Mr. Newburry made 
+$15,283.07. Id. at 6. Commissioner Cortese then divided $15,283.07 by 15.29 
+which equals an average weekly wage for Mr. Newburry of $999.55 and 
+Commissioner Cortese rounded this figure to $1000.00. Id. Prior to the initial 
+hearing before the deputy commissioner, the parties stipulated that at the time of 
+the injury Mr. Newburry was married and entitled to four exemptions. Id. 
+Commissioner Cortese turned to the Rate Book in effect at the time of Mr. 
+Newburry’s injury and determined the proper weekly benefit rate for Mr. Newburry 
+to be $669.81. Id. 
+ 
+Resp’t’s Br. 9. The weekly pay rate calculated by the Commissioner is based on substantial 
+evidence in the record regarding the Respondent’s pay, and appears to be in accord with the 
+directions contained within section 85.36. It should not be disturbed. 
+C. The Finding That Respondent Was Not Offered Suitable Work at His Pre-Injury 
+Earnings 
+E-FILED                    CVCV065456 - 2023 NOV 15 11:29 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 8
+
+6 
+ 
+Petitioners assert that the proper award of permanent disability benefits must be limited to 
+the impairment ratings, because they had offered Respondent full-time work in the same position 
+he worked in prior to his injury at equal or better pay. Arb. Dec. 8. Upon review of the statutory 
+language, Deputy Commissioner Pals determined that the position offered by Petitioners did not 
+constitute an actual offer of a job of equal or better pay, because it was impossible for Respondent 
+to work in that position in light of his injury. Id. She then correctly followed the guidelines set out 
+by the Supreme Court in determining whether to award industrial disability to Respondent, 
+including factors such as “functional disability … age, education, qualifications, experience, and 
+inability to engage in similar employment.” Neal v. Annett Holdings, Inc., 814 N.W.2d 512, 526 
+(Iowa 2012). Commissioner Cortese agreed with this determination. Petitioners argue that the 
+Commissioner erred in finding that Respondent was unable to physically meet the demands of the 
+position offered by Petitioners and not finding the Respondent’s use of a cane as probative of 
+Respondent lying about the state of his health. Pet’rs’ Br. 16. They also disagree with the weight 
+given to the expert testimony presented by Respondent. Id. These are issues of fact, and the Court 
+finds there is substantial evidence in the record to support the Commissioner’s findings, see Iowa 
+Code § 17A.19(10)(f). The Commissioner’s decision awarding an industrial disability should also 
+not be disturbed.  
+D. The Award of Reimbursement for an Independent Medical Evaluation 
+Iowa Code section 85.39 governs the examination of injured employees. The relevant 
+portion states: 
+If an evaluation of permanent disability has been made by a physician retained by 
+the employer and the employee believes this evaluation to be too low, the employee 
+shall, upon application to the commissioner and upon delivery of a copy of the 
+application to the commissioner and upon delivery of a copy of the application to 
+the employer and its insurance carrier, be reimbursed by the employer the 
+reasonable fee for a subsequent examination by a physician of the employee’s own 
+E-FILED                    CVCV065456 - 2023 NOV 15 11:29 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 8
+
+7 
+ 
+choice, and reasonably necessary transportation expenses incurred for the 
+examination. The physician chosen by the employee has the right to confer with 
+and obtain from the employer-retained physician sufficient history of the injury to 
+make a proper examination. 
+ 
+Iowa Code § 85.39(2). Deputy Commissioner Pals found that the prerequisites of Iowa Code 
+section 85.39 were met because “in the hearing report[,] the defendants stipulated that medical 
+providers would testify to the reasonableness of their fees and that defendants were not offering 
+any contrary evidence.” Arb. Dec. 16. Petitioners had the opportunity to address the reasonableness 
+of Petitioner’s IME fees at the hearing. They failed to do so, and the Commissioner correctly 
+rejected their argument.  
+Further, neither the Deputy Commissioner nor Commissioner addressed the Petitioners’ 
+request for reimbursement of the cost of the FCE conducted by Mr. Short. The issue, therefore, 
+has not been preserved. See, Meads v. Iowa Dep't of Social Servs., 366 N.W.2d 555, 559 (Iowa 
+1985) (“The district court may only review issues considered and decided by the agency.”). 
+ 
+IT IS THE ORDER OF THIS COURT that the Order of the Workers’ Compensation 
+Commission is AFFIRMED. 
+E-FILED                    CVCV065456 - 2023 NOV 15 11:29 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 8
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV065456
+LUTHERAN HOME FOR THE AGED ASSOC ET AL VS
+MICHAEL NEWBURRY
+Type:
+ORDER FOR JUDGMENT
+So Ordered
+Electronically signed on 2023-11-15 11:29:11
+E-FILED                    CVCV065456 - 2023 NOV 15 11:29 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 8

@@ -1,0 +1,1383 @@
+Case Number: 5063852.01
+Case Title:  PAZZI, TONY V. EFCO FORMS-CONSTRUCTION
+Doc Type:    Decision - Deputy
+Source:      Pazzi Tony-5053306.01d.pdf
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+TONY PAZZI, 
+  : 
+ 
+ 
+  : 
+    File Nos.  5053306.01, 5063852.01  
+ 
+Claimant, 
+  : 
+ 
+     
+ 
+ 
+  : 
+ 
+    
+vs. 
+ 
+  : 
+ 
+ REVIEW-REOPENING    
+ 
+ 
+  :                 
+EFCO/CPI  
+  : 
+                    DECISION 
+ 
+ 
+  :                  
+ 
+Employer, 
+  : 
+ 
+ 
+  : 
+ 
+and 
+ 
+  : 
+ 
+                   
+ 
+ 
+  : 
+ 
+TRAVELERS INDEMNITY CO. OF CT.,   : 
+ 
+ 
+  : 
+SENTRY INSURANCE COMPANY, 
+  :        Head Note Nos.:   1402.40, 1802, 1804, 
+ 
+ 
+  : 
+ 
+                  2501, 2905, 2907, 
+ 
+Insurance Carriers, 
+  : 
+ 
+  
+        4000.2, 4200 
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Tony Pazzi, claimant, filed two review-reopening petitions against EFCO/CPI 
+(hereinafter referred to as “EFCO”), as the employer.  The first petition, which is agency 
+File No. 5053306.01, alleges a February 24, 2012 injury date and names Travelers 
+Indemnity Company of Connecticut (hereinafter referred to as “Travelers”), as the 
+insurance carrier.  The second petition, which is agency File No. 5063852.01, alleges a 
+June 13, 2017 injury date and names Sentry Insurance Company (hereinafter referred 
+to as “Sentry”), as the insurance carrier.   
+This case came before the undersigned for a review-reopening hearing on 
+October 20, 2020.  The parties filed a hearing report in each file prior to the 
+commencement of the hearing.  On the hearing reports, the parties entered into 
+numerous stipulations.  Those stipulations were accepted and no factual or legal issues 
+relative to the parties’ stipulations will be made or discussed.  The parties are now 
+bound by their stipulations. 
+The evidentiary record includes Joint Exhibits 1 through 6, Claimant’s Exhibits 1 
+through 13, Travelers’ Exhibits A through C, including selected portions of the prior 
+March 28, 2019, hearing transcript filed close in time to the hearing as an addition to 
+Travelers’ Exhibit A (pages 38A through 38E), and Sentry’s Exhibits AA through LL.  All 
+exhibits were received at the time of hearing with the exception of Claimant’s Exhibit 3, 
+pages 7 through 9, which is an October 1, 2020, supplemental report prepared by Phil 
+Davis, M.S.  I took Sentry’s objection to the supplemental report of Mr. Davis under 
+ELECTRONICALLY FILED     2021-Apr-06  15:22:30     DIVISION OF WORKERS' COMPENSATION
+
+PAZZI V. EFCO/CPI 
+Page 2 
+ 
+ 
+advisement at the time of hearing.  I deal with the evidentiary objection to Mr. Davis’ 
+supplemental report below and admit only those portions of the report as detailed 
+below. 
+Claimant testified on his own behalf.  No other witnesses testified at trial.  The 
+evidentiary record was suspended at the conclusion of the arbitration hearing pending 
+later receipt of supplemental exhibits from Defendant Travelers, which included 
+transcripts of prior hearings that were administratively noticed at the time of the October 
+20, 2020, review-reopening hearing.  The evidentiary record closed upon receipt of the 
+additional transcripts.   
+However, counsel for the parties requested an opportunity to file post-hearing 
+briefs.  This request was granted and all parties filed briefs simultaneously on 
+December 11, 2020.  The case was considered fully submitted to the undersigned on 
+that date. 
+ISSUES 
+In File No. 5053306.01, the parties submitted the following disputed issues for 
+resolution: 
+1. 
+Whether claimant is entitled to temporary total disability, temporary partial 
+disability, or healing period benefits from April 23, 2019 through July 7, 
+2020. 
+2. 
+Whether claimant has proven a substantial change in condition to justify a 
+review-reopening of the prior permanent disability award of this agency. 
+3. 
+Proper apportionment and indemnity between insurance carriers for 
+benefits paid and payable to claimant pursuant to Iowa Code section 
+85.21. 
+4. 
+Whether claimant is entitled to payment of past medical expenses 
+contained at Claimant’s Exhibit 11 and, if so, which carrier is responsible 
+for the expenses. 
+5. 
+Whether claimant is entitled to reimbursement for his independent medical 
+evaluation pursuant to Iowa Code section 85.39. 
+6. 
+Defendants’ entitlement to credit for past benefits paid to claimant. 
+7. 
+Whether penalty benefits should be awarded to claimant for unreasonable 
+delay or denial of weekly benefits. 
+8. 
+Whether costs should be assessed and, if so, in what amount. 
+In File No. 5063852.01, the parties submitted the following disputed issues for 
+resolution: 
+
+PAZZI V. EFCO/CPI 
+Page 3 
+ 
+ 
+1. 
+Whether the untimely served supplemental vocational report of Phil Davis 
+(Claimant’s Exhibit 3, pages 7-9) should be excluded pursuant to the 
+objection of EFCO and Sentry Insurance. 
+2. 
+Whether claimant is entitled to temporary total disability, temporary partial 
+disability, or healing period benefits from April 23, 2019 through July 7, 
+2020. 
+3. 
+Whether claimant has proven a substantial change in condition to justify a 
+review-reopening of the prior permanent disability award of this agency, 
+including a challenge by defendants as to whether the claimant’s current 
+condition is causally related to the initial June 13, 2017 work injury.  
+4. 
+The extent of claimant’s entitlement to additional permanent disability on 
+review-reopening, if any. 
+5. 
+The proper commencement date for any additional permanent disability 
+awarded. 
+6. 
+Apportionment and indemnity between insurance carriers pursuant to Iowa 
+Code section 85.21 for benefits paid from April 26, 2019 through 
+December 12, 2019. 
+7. 
+Whether the past medical expenses sought by claimant are causally 
+connected to the initial June 13, 2017 work injury and allocation of liability 
+for said expenses between the competing insurance carriers. 
+8. 
+Whether claimant has established entitlement to reimbursement of his 
+independent medical evaluation pursuant to Iowa Code section 85.39. 
+9. 
+Defendants’ entitlement to credit for benefits paid to date. 
+10. 
+Whether claimant should be awarded penalty benefits for unreasonable 
+delay or denial of weekly benefits. 
+11. 
+Whether costs should be assessed and, if so, in what amount. 
+EVIDENTIARY RULING 
+At the commencement of hearing, defendants, EFCO and Sentry Insurance, 
+objected to the introduction of a supplemental report prepared by claimant’s vocational 
+expert, Phil Davis.  Mr. Davis’ report is dated October 1, 2020 and is contained at 
+Claimant’s Exhibit 3, pages 7-9.   
+Defendants, EFCO and Sentry, object to the report as untimely.  The report 
+clearly was produced after the 30-day deadline for exchange of exhibits.  Defendants 
+assert that Mr. Davis reviewed additional medical records prior to preparing this report, 
+which could have been provided to, reviewed, and commented upon by Mr. Davis prior 
+
+PAZZI V. EFCO/CPI 
+Page 4 
+ 
+ 
+to the 30-day deadline.  EFCO and Sentry contend that introduction of the supplemental 
+report is prejudicial to defendants and should be excluded. 
+In response to the objection, claimant concedes that Mr. Davis’ report was 
+produced after the 30-day deadline for exchange of evidence.  Claimant also concedes 
+that Mr. Davis reviewed additional evidence, including new medical records, before 
+authoring the supplemental report at issue.  Claimant asserts, however, that Mr. Davis’ 
+report is rebuttal to Sentry’s vocational expert and should be admitted. 
+Review of Mr. Davis’ supplemental report discloses that he reviewed a significant 
+amount of new materials in preparation for drafting the supplemental report.  He 
+references review of additional opinions from Steven Quam, D.O., rendered on July 8, 
+2020, opinions from Janae Brown, ARNP, rendered on June 24, 2020 and August 21, 
+2020, opinions from Chris Stalvey, D.O., offered on July 14, 2020, and letters from 
+James Gallagher, M.D., on July 1, 2020, July 13, 2020, and July 17, 2020.  In 
+preparation for his supplemental report, Mr. Davis was also provided and reviewed a 
+progress note from David Berg, D.O., dated April 25, 2019, a supplemental report from 
+Dr. Stalvey dated September 21, 2020, and the independent medical evaluation 
+performed by John Kuhnlein, M.D., and report dated September 15, 2020.   
+Obviously, many of these reports were known to claimant months prior to the 
+evidentiary deadline.  If claimant had desired for Mr. Davis to review these documents in 
+advance of the evidentiary deadline and offer his analysis and opinion, claimant could 
+have provided those and solicited a timely supplemental report.  Instead, it appears that 
+claimant waited to receive the vocational reports from defense vocational experts, Rene 
+Haigh and Vanessa May.   
+I conclude that it was fair and reasonable for claimant to offer rebuttal evidence 
+from his vocational expert in response to the reports and opinions of Ms. Haigh and Ms. 
+May.  However, claimant went much further than simply soliciting a review and rebuttal 
+to those vocational opinions.  Claimant sought to provide his vocational expert 
+significant new medical opinions and evidence not previously reviewed by Mr. Davis.  In 
+this sense, claimant waited to marshal his evidence until after the evidentiary deadline. 
+I conclude that the critique offered by Mr. Davis of Ms. Haigh’s vocational 
+opinions offered in the first two paragraphs of the “Vocational” section of his report at 
+Claimant’s Exhibit 3, page 8 is a reasonable rebuttal effort and should be admitted.  I 
+conclude that the third and fourth paragraphs of the “Vocational” section of Mr. Davis’ 
+report are reasonable rebuttal and should be admitted.  Similarly, I believe the first three 
+sentences of paragraph five of the “Vocational” section of Mr. Davis’ report is 
+reasonable rebuttal.  Thereafter, in the remainder of the fifth and in the sixth paragraph 
+Mr. Davis begins a review and commentary on evidence not provided to him prior to the 
+evidentiary deadline or previously considered.  I find it is prejudicial to defendants to 
+allow claimant to produce additional evidence to his vocational expert and solicit a 
+supplemental report commenting on the additional evidence after the evidentiary 
+disclosure deadline passes.  Therefore, I exclude those discussions that involve 
+
+PAZZI V. EFCO/CPI 
+Page 5 
+ 
+ 
+evidence not previously reviewed by Mr. Davis, which could have been provided timely 
+to him. 
+Paragraphs seven and eight of the “Vocational” section and everything after the 
+first sentence in the “Conclusion” section are reasonable rebuttal efforts.  I conclude 
+those should be admitted and cause no significant prejudice to defendants.  For clarity 
+sake, I admit only those opinions contained in Mr. Davis’ supplemental report at 
+Claimant’s Exhibit 3, pages 7 through 9 that are specifically received in this section of 
+the decision.  All other portions of the October 1, 2020 report are excluded. 
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+This is a review-reopening decision following two prior arbitration hearings.  
+Claimant alleges two dates of injury.  The first, February 24, 2012, resulted in an 
+arbitration hearing on February 6, 2018 and an arbitration decision filed on April 19, 
+2018.  The undersigned awarded claimant a 45 percent industrial disability as a result of 
+the February 24, 2012 low back and thoracic injury.  (Travelers’ Exhibit A, pages 1-8)   
+The second injury date is December 27, 2017.  That case proceeded to an 
+arbitration hearing on March 28, 2019.  In an arbitration decision filed April 23, 2019, 
+another deputy commissioner found that claimant proved a cumulative neck injury and 
+resulting headaches for the December 27, 2017 injury date.  The April 23, 2019 
+arbitration decision awarded claimant an additional five percent industrial disability as a 
+result of the December 27, 2017 work injury.  (Travelers’ Exhibit A, pp. 9-20)  A May 17, 
+2019 ruling on rehearing granted a request for alternate medical care.   
+Neither arbitration decision nor the May 17, 2019 ruling on rehearing were 
+appealed.  Both decisions and the ruling on rehearing became final agency action.  Both 
+arbitration decisions contain detailed findings of fact that are now established fact and 
+will not be reiterated, but those findings of fact are considered and relied upon in this 
+review-reopening decision. 
+Claimant asserts that he sustained a substantial change in condition since both 
+of the prior arbitration hearings.  He asserts he sustained a substantial economic 
+change of condition as well as a substantial physical change in condition since the prior 
+hearings and decisions. 
+The initial review-reopening claim focuses on and alleges a substantial economic 
+change in condition.  Mr. Pazzi is now 52 years of age.  (Transcript, p. 28)  He has not 
+obtained additional educational training and has no additional employment since the 
+prior arbitration hearings.  Following issuance of the April 23, 2019 arbitration decision, 
+Mr. Pazzi was terminated by the employer.  He testified that he last worked for the 
+employer in April 2019.  (Tr., pp. 33) 
+
+PAZZI V. EFCO/CPI 
+Page 6 
+ 
+ 
+In fact, EFCO was concerned about claimant’s physical condition and sought an 
+evaluation of his capacity to work given the side effects of his medications.  (Tr., p. 41)  
+Claimant testified that the employer sought a fitness-for-duty evaluation performed by 
+David T. Berg, D.O. on April 25, 2019.  (Joint Ex. 2, pp. 16-17)  Ultimately, following 
+receipt of Dr. Berg’s report, the employer terminated Mr. Pazzi because he was not able 
+to safely perform his job at EFCO.  (Tr., pp. 40-41)  The employer terminated Mr. Pazzi 
+officially on April 24, 2020 noting, “it is apparent that you are going to be unable to 
+perform any available full-time jobs.”  (Claimant’s Ex. 12, p. 1)   
+The employer clearly considered there to be a change in claimant’s physical 
+condition, which will be discussed below.  More importantly, the employer terminated 
+Mr. Pazzi, which resulted in a substantial change in his economic condition.  Rather 
+than having a steady, full-time job with the employer, Mr. Pazzi is left without a position 
+and significant work restrictions that will be discussed below.  I find that Mr. Pazzi 
+experienced a significant and substantial change in his economic condition when the 
+employer terminated him after the April 2019 arbitration decision.  The economic 
+change in condition is attributable and the result of both the February 24, 2012 and the 
+December 17, 2017 work injuries.  I find that claimant has proven a substantial change 
+in condition resulting from an economic change as a result of both the February 24, 
+2012 and the December 17, 2017 work injuries. 
+Claimant also asserts he sustained a substantial physical change in condition 
+since the prior arbitration hearings.  Defendants EFCO and Travelers acknowledge 
+causation as to the low back condition, which is reasonable given the prior arbitration 
+decision findings of fact.  Defendants EFCO and Sentry assert causation challenges to 
+claimant’s current headache and neck conditions.  Sentry contends that there is no 
+causal connection between the current neck condition and headaches and the 
+December 27, 2017 work injury.  Of course, the previous findings are final agency 
+action and cannot be challenged or re-litigated. 
+Sentry relies upon the medical opinions of William Boulden, M.D. to challenge 
+current causal connection.  Dr. Boulden performed an independent medical evaluation 
+on Mr. Pazzi on May 19, 2020.  His evaluation was limited to the neck condition 
+asserted by claimant.  Dr. Boulden opined: 
+I did not find proper correlation to the cumulative injury that has been 
+stated as the cause of the patient’s problem with his cervical spine.  The 
+mechanism that he described to me in what he was doing with these work 
+restrictions from the FCE of 30 pounds would not correlate from a 
+biomechanical standpoint as causing him to have neck problems.  Once 
+again, there is no evidence of any significant neck pathology at all that 
+would be related to a work-related injury. 
+(Sentry Ex. EE, p. 4) 
+In his deposition, Sentry again asked Dr. Boulden to comment on causation 
+issues.  Dr. Boulden opined, “I didn’t find anything biomechanically that I could correlate 
+
+PAZZI V. EFCO/CPI 
+Page 7 
+ 
+ 
+with his subjective complaints of increasing neck pain based on the 30-pound weight 
+limit.”  (Sentry Ex. KK, p. 7)  Dr. Boulden further clarified, “the restrictions at his job did 
+not entail enough stress on his neck to cause him to have neck problems.”  (Sentry Ex. 
+KK, p. 11)  Yet, these were the very issues tried and decided by the April 2019 
+arbitration decision.  It was definitively found that claimant did prove a cumulative neck 
+injury in that decision.  The fact that Dr. Boulden disagrees with that finding is irrelevant 
+as that finding is already final agency action and is now binding. 
+Dr. Boulden concedes that he believes claimant has subjective neck pain.  
+(Sentry Ex. KK, p. 16)  Dr. Boulden concedes that he found no reason during his 
+evaluation to disbelieve claimant’s report of symptoms.  (Sentry Ex. KK, p. 25)  He also 
+concedes that claimant’s subjective neck symptoms had worsened since 2017.  (Sentry 
+Ex. KK, p. 28)  
+However, neither Sentry nor Dr. Boulden identifies any intervening or traumatic 
+events since the December 27, 2017 work injury that would terminate or end the causal 
+connection of claimant’s current neck condition and headaches.  Dr. Boulden testified 
+that there is no causal connection between claimant’s work activities and his neck injury 
+claim.  (Sentry Ex. KK, pp. 7, 11)  However, Dr. Boulden concedes he also does not 
+know what is causing claimant’s current neck pain.  (Sentry Ex. KK, p. 13)   
+Realistically, Dr. Boulden’s opinion contradicts the prior factual findings of the 
+April 23, 2019 arbitration decision.  Dr. Boulden does not opine that claimant’s neck and 
+headache conditions were related to work, but that something changed and broke, 
+interrupted, or superseded that causal connection since the April 23, 2019 arbitration 
+decision.  Instead, Dr. Boulden opines that there is not a causal connection between the 
+claimant’s work activities at EFCO and his neck condition and headaches.  Again, this 
+contradicts the prior factual findings and that opinion is rejected.   
+However, to the extent that Dr. Boulden’s opinions should be considered as 
+addressing only issues arising or conditions since the April 23, 2019 arbitration decision, 
+I do not find his opinion convincing.  Claimant has had symptoms and ongoing 
+treatment since the March 28, 2019 arbitration hearing and subsequent arbitration 
+decision.  There is no evidence of subsequent traumatic events or injuries to claimant’s 
+neck or different causes of the current neck symptoms or headaches. 
+I reject the causation opinions of Dr. Boulden as contrary to the prior factual 
+findings of this agency and as not supported by the evidence in this case.  I find that 
+there were not subsequent injuries, traumatic events, or causes of claimant’s ongoing 
+neck symptoms and headaches.  Instead, I find that claimant’s ongoing neck symptoms 
+and headaches remain causally related to the December 27, 2017 work injury. 
+Since the April 19, 2018 arbitration decision, Mr. Pazzi has obtained consistent 
+and ongoing treatment for his low back.  He testified that he feels as though his low 
+back condition continues to worsen.  (Tr., p. 32)  He testified that his low back pain 
+continues to radiate to his legs and that no physician has told him there is treatment 
+
+PAZZI V. EFCO/CPI 
+Page 8 
+ 
+ 
+anticipated in the future that will be able to change his low back condition measurably.  
+(Tr., pp. 32, 35)   
+I accept Mr. Pazzi’s testimony and find that he continues to experience significant 
+low back pain that radiates into his legs.  I further find that there is not likely to be any 
+improvement in his low back condition moving forward.  Claimant experiences 
+significant symptoms as a result of the 2012 low back injury, it has worsened since the 
+prior arbitration hearing, and causes additional permanent disability. 
+Mr. Pazzi testified that he feels like his neck symptoms and headaches are worse 
+since the 2019 hearing.  (Tr., p. 37)  He also noted that he has better control of his 
+headaches with the use of medications since the 2019 hearing.  However, claimant 
+noted that if he does not catch a headache and use medication in time, the headaches 
+are now much worse than in 2019.  (Tr., p. 38)  Since the April 23, 2019 arbitration 
+decision for the neck and headache conditions, Mr. Pazzi has continued to receive 
+treatment for his headaches and neck condition.  The treatment modalities attempted 
+include surgical consultation to rule out surgery as well as pain management 
+consultation.  (Joint Ex. 3, p. 2; Joint Ex. 5)   
+Claimant has commenced the use of additional medications since the 2019 
+arbitration hearing, including the additional of Ajovy as a medication for claimant’s neck 
+injury, as well as carbamazepine and topiramate for migraine headaches.  (Claimant’s 
+Ex. 4, p.1)  Mr. Pazzi testified that there is not likely to be any changes in his treatment 
+or improvement in his neck and headache conditions moving forward.  (Tr., p. 38) 
+Again, I accept Mr. Pazzi’s testimony about his ongoing headaches and neck 
+pain as credible and convincing.  I find that he has proven his headaches are managed 
+better at the present time.  However, I also find that if claimant is not able to medicate in 
+a timely manner, his headaches are worse now than they were at the time of the 2019 
+arbitration hearing.  I also accept Mr. Pazzi’s testimony that his neck pain radiates into 
+his arms and limits his driving at the present time.  (Tr., p. 39)  I specifically find that 
+claimant has proven his neck and headache conditions are substantially worse than at 
+the time of the 2019 arbitration hearing and that the current condition related to his 
+headaches and neck symptoms remain causally related to the 2017 work injury.  
+Therefore, I find that claimant has proven a substantial change in condition as a result 
+of the 2017 work injury since the time of the 2019 arbitration hearing. 
+Having found that Mr. Pazzi proved a substantial change in condition resulting 
+from both injury dates, the question then posed is the extent of disability caused by 
+each injury.  This is a difficult question in this case because the effects of the injuries 
+become intermingled and compound upon each other to increase claimant’s disability. 
+First, I will begin with an analysis of claimant’s current permanent disability.  
+Although Dr. Boulden believes claimant’s reports of subjective symptoms, he opines 
+that claimant has no permanent impairment for his neck condition.  This directly 
+contradicts the findings of the prior arbitration decision.  Dr. Boulden’s opinion is 
+
+PAZZI V. EFCO/CPI 
+Page 9 
+ 
+ 
+rejected as contrary to the prior decision and contrary to the actual symptoms and 
+difficulties claimant testified he has as a result of his neck symptoms and headaches. 
+Since the 2019 arbitration hearing, the employer terminated claimant.  Claimant 
+testified that at the time he last worked for EFCO, he worked under a 10-pound lifting 
+restriction.  He also testified that he was having difficulties with forgetfulness, 
+concentration and nodding off during work as a result of medication side effects from his 
+injuries.  (Tr., pp. 44-45, 48)  I accept Mr. Pazzi’s testimony in both of these respects. 
+In a fitness for duty evaluation requested by the employer, David T. Berg, D.O., 
+noted that the employer was concerned about claimant’s ability to continue working 
+safely because claimant seemed disoriented at work.  (Joint Ex. 2, p. 16)  Dr. Berg 
+noted that claimant was cognitively impaired, sleepy, slurred his speech and was 
+lethargic.  (Joint Ex. 2, p. 16)  Dr. Berg recommended removal of claimant from work at 
+least temporarily as a result of these concerns and symptoms.  (Joint Ex. 2, p. 17)  Dr. 
+Berg also noted that claimant concurred with these assessments.  (Joint Ex. 2, p. 16)  
+Dr. Berg has not released claimant to return to work since his evaluation in April 2019. 
+Pain specialist, Steven Quam, D.O., opined that claimant reached maximum 
+medical improvement for his neck on June 14, 2019.  (Joint Ex. 1, p. 60)  In November 
+2019, Dr. Quam opined that claimant was not capable of working at that time.  (Joint Ex. 
+5, p. 1)  In fact, Dr. Quam opined that it would be difficult, if not impossible, for Mr. Pazzi 
+to maintain full-time work in his current condition.  (Claimant’s Ex. 6, p. 4) 
+Claimant’s personal medical provider, Janae D. Brown, ARNP, opined in August 
+2019 that claimant should be off work until they were able to get claimant’s pain and 
+medications managed.  (Joint Ex. 2, p. 21)  Ms. Brown later opined that claimant is not 
+capable of performing consistent, full-time work.  (Claimant’s Ex. 4, p. 1)  Ms. Brown 
+has not released Mr. Pazzi to return to gainful employment as of the date of the review-
+reopening hearing. 
+Another of claimant’s treating physicians, Christopher Stalvey, D.O., opines that 
+claimant cannot perform even the limited or accommodated duties he was performing at 
+EFCO or similar industrial work for another employer.  (Claimant’s Ex. 5, p. 2)  In June 
+2020, Dr. Stalvey also made it clear that any work above the sedentary level will 
+aggravate claimant’s condition, worsen his symptoms in the low back and neck, and 
+likely lead to the necessity for additional medical treatment.  (Claimant’s Ex. 5, p. 3) 
+Mr. Pazzi obtained an independent medical evaluation performed by John 
+Kuhnlein, D.O.  Dr. Kuhnlein concurred with the declaration of maximum medical 
+improvement for the neck in June 2019.  He opined that claimant qualifies for an eight 
+percent permanent impairment for his neck condition as well as an additional two 
+percent permanent impairment of the whole person as a result of the headaches.  He 
+confirmed that claimant continues to qualify for a 22 percent permanent impairment 
+resulting from the low back, similar to what claimant had at the time of the prior 
+arbitration hearing.  (Claimant’s Ex. 1, pp. 15-16)   
+
+PAZZI V. EFCO/CPI 
+Page 10 
+ 
+ 
+Dr. Kuhnlein noted that claimant has a spinal cord stimulator for the low back 
+symptoms and that ongoing treatment will be required for the stimulator and that such 
+treatment is exclusive to the 2012 low back injury.  Similarly, Dr. Kuhnlein noted that 
+claimant is now taking medications exclusively for his neck and headache conditions 
+and that the medications noted above are specifically attributable to the headaches and 
+neck conditions.  (Claimant’s Ex. 1, pp. 14, 16) 
+When addressing the issue of permanent restrictions, Dr. Kuhnlein opines that 
+the restrictions cannot be separated between the two dates of injury.  Rather, “the 
+effects of each injury are, to some effect, synergistic with each other.”  (Joint Ex. 1, p. 
+16)  Dr. Kuhnlein explained why a functional capacity evaluation (FCE) performed in 
+May 2020, which demonstrated medium work capabilities, is not realistic.  (Joint Ex. 1, 
+p. 16)  Dr. Kuhnlein acknowledged a separate FCE performed in August 2019.  
+(Claimant’s Ex. 2)  However, Dr. Kuhnlein did not permit a return to work even within the 
+restrictions outlined by the August 2019 FCE.  Instead, Dr. Kuhnlein opines that Mr. 
+Pazzi is not capable of performing full-time employment within the American economy.  
+Dr. Kuhnlein opines, “Mr. Pazzi would represent a risk of harm to himself or others” if he 
+returned to the employment setting.  (Claimant’s Ex. 1, p. 20) 
+Dr. Quam also considered the 2020 FCE.  He rejected the 2020 FCE findings 
+and opined that claimant cannot perform physical employment at the levels documented 
+in that FCE.  Instead, Dr. Quam recommended a lifting limit of 10 pounds occasionally 
+and a 15-pound maximum lift.  He recommended that claimant avoid repetitive bending, 
+twisting, front reaching, and overhead reaching.  (Claimant’s Ex. 6, p. 3)  However, he 
+continued to recommend against claimant pursuing or performing full-time employment 
+activities even at those levels.  (Claimant’s Ex. 6, p. 4) 
+In his independent medical evaluation report, Dr. Kuhnlein also noted that 
+claimant has experienced psychological symptoms and required treatment by a 
+psychiatrist since the prior arbitration hearings.  In fact, claimant has developed 
+psychological difficulties resulting from his pain and symptoms since the 2019 
+arbitration hearing.  He now seeks treatment from a psychiatrist, James L. Gallagher, 
+M.D.   
+Dr. Gallagher offers insight into the interaction of the two work injuries and the 
+ability to separate out the disability caused by each injury.  Dr. Gallagher opines that the 
+pain treatments claimant received since the 2019 arbitration hearing provide relief for 
+the full constellation of symptoms.  (Travelers Ex. A, p. 35)  Dr. Gallagher opines that it 
+would be an act of sophistry to try to separate the various treatments and resulting 
+disabilities from each injury.  He refers to the intellectual struggles that would result in 
+trying to unwind the interaction and ultimate proportional disability of the two injuries as 
+a Gordian knot.  (Travelers’ Ex. A, p. 33) 
+Dr. Gallagher also provides unequivocal and unrebutted psychiatric opinions 
+about claimant’s ability to return to work.  Dr. Gallagher opines that claimant is very 
+close to maximum medical improvement from a psychiatric vantage point, “if not already 
+there.”  He opined that no further improvement is anticipated.  (Joint Ex. 4, p. 33)  Dr. 
+
+PAZZI V. EFCO/CPI 
+Page 11 
+ 
+ 
+Gallagher further opines, “I don’t think that Mr. Pazzi is in the physical or mental 
+condition to return to work of any type on a full-time basis now.  In fact, I don’t anticipate 
+this at any time in the future.”  (Joint Ex. 4, p. 33)  Continuing his explanation, Dr. 
+Gallagher explained, “I don’t think he will ever have the psychological resiliency to 
+safely return to full-time work for any length of time” and that he believes it “highly 
+unlikely” that claimant will ever return to “meaningful competitive employment.”  (Joint 
+Ex. 4, p. 34)  I find that, without expectation of further improvement, claimant is at 
+maximum medical improvement for the low back, neck, headaches, and psychiatric 
+conditions. 
+Considering all of the medical and psychiatric opinions on claimant’s residual 
+abilities, I find that Mr. Pazzi has proven he is permanently and totally disabled.  His 
+employer had legitimate concerns about his ability to continue working safely.  They 
+sought a medical evaluation, which confirmed that claimant should not be working at 
+EFCO.  Since that point, claimant has not returned to work.  Mr. Pazzi has applied for 
+two alternate jobs since his termination.  However, he testified that he does not believe 
+he could perform those jobs.  Instead, he applied for the jobs just because he feels like 
+he should be working.  (Tr., pp. 49-50) 
+I do not find either of the FCEs introduced as definitive or convincing.  Neither of 
+the FCEs can or does consider claimant’s psychological functioning.  In fact, Dr. 
+Gallagher is the only mental health specialist offering an opinion about claimant’s 
+cognitive functioning and psychological capabilities.  Ultimately, I find that the opinions 
+of Dr. Berg, Dr. Quam, Dr. Stalvey, Ms. Brown, Dr. Gallagher, and Dr. Kuhnlein are all 
+convincing and substantially challenge whether claimant is capable of returning to work 
+in any capacity. 
+Ultimately, my analysis concurs with Dr. Gallagher when he opined, “I think it is 
+overreaching to think that he is suddenly going to become competitively employed at 
+age 52.”  (Joint Ex. 4, p. 36)  Claimant has sufficient symptoms at this juncture that he is 
+not likely to be capable of full-time, competitive employment in any well-known branch 
+of the labor market.  His medication side effects make him cognitively slow and unable 
+to perform more sedentary tasks that require cognitive abilities.  He is not realistically 
+going to perform manual labor at this juncture.   
+There are competing vocational reports in this record.  The opinions offered by 
+Sentry’s vocational expert are not realistic or convincing.  She opines, “It is this 
+consultant’s opinion … that Mr. Pazzi currently possesses the residual functional 
+capacity to maintain employment in the labor market in occupations up to and including 
+the heavy physical demand level.”  She further opines that claimant has experienced 
+only a 1.3 percent loss of access to the labor market when only considering the neck 
+issues.  This is a lesser percentage than the prior industrial disability award for the neck.  
+Claimant’s condition has worsened since the prior industrial disability award.  Sentry’s 
+vocational expert’s opinion is absurd, contrary to the vast majority of the evidence, 
+certainly not the most convincing vocational evidence in this record, and is rejected. 
+
+PAZZI V. EFCO/CPI 
+Page 12 
+ 
+ 
+Travelers introduces a more reasonable vocational expert opinion.  Travelers’ 
+expert acknowledges the opinions of the various treating providers, including those of 
+the unrebutted psychiatrist, Dr. Gallagher.  Travelers’ vocational expert opines that 
+claimant remains capable of performing sedentary work duties and recommends a 
+work-at-home job.  (Travelers’ Ex. C, pp. 80-81)  Again, this is a much more reasonable 
+vocational opinion and assessment.  However, I do not find it entirely convincing.  Dr. 
+Gallagher, Dr. Kuhnlein, Dr. Berg, Dr. Quam, and Ms. Brown have all essentially opined 
+that a return to work is not realistically medically feasible at this point in time.  Dr. 
+Stalvey, Dr. Quam, Dr. Kuhnlein, and Dr. Gallagher all appear to specifically reject even 
+a return to work at the sedentary work level. 
+Claimant introduced a third vocational opinion, which opines that claimant lost 
+100 percent of his prior job opportunities and greater than 90 percent access to all 
+available jobs in the labor market.  Claimant’s vocational expert opines that realistically 
+claimant is not employable at this time.  (Claimant’s Ex. 3, p. 5)  While I received 
+portions of claimant’s vocational rebuttal report over Sentry’s evidentiary objection, I 
+really do not rely upon the additional portions accepted.  I find that claimant has proven 
+he is permanently and totally disabled with or without a vocational opinion in this case. 
+Having determined and found that Mr. Pazzi is now permanently and totally 
+disabled, the parties ask me to determine how that disability is to be apportioned 
+between the work injuries.  Mr. Pazzi testified that he cannot say whether his low back 
+or his neck and headaches cause him more disability at this point in time.  Instead, it 
+depends on the day and each condition causes him difficulties of greater degree on 
+certain days.  (Tr., pp. 54, 82)   
+However, one thing that did increase after developing neck symptoms and 
+headaches was claimant’s medication usage.  Mr. Pazzi now has difficulties with the 
+side effects of all his medications.  However, claimant remains in need of medications 
+for his low back as well as for his neck and headaches.  It is difficult to impossible to 
+differentiate the effects of pain medications on claimant’s injuries.  Similarly, it is difficult 
+to impossible to ascribe medication side effects to either specific injury or medications 
+used. 
+Dr. Boulden acknowledged that the pain medications claimant uses are systemic 
+and assist with his pain symptoms resulting from the low back, neck, and headaches. 
+(Sentry Ex. KK, p. 18)  Ms. Brown separated the use of Ajovy as for claimant’s neck 
+injury and the use of carbamazepine and topiramate for migraine headaches.  
+Claimant’s spinal cord stimulator is clearly for his low back, and any treatment or 
+adjustments for the spinal cord stimulator are related to the 2012 low back injury.  
+However, it is difficult in this record to differentiate the effects of the 2012 injury and the 
+2017 injury as portions or identifiable parts of claimant’s current disability. 
+Dr. Gallagher referred to it as an act of sophistry to try to delineate or separate 
+the various treatments and resulting disability from each injury date at this point in time.  
+(Travelers Ex. A, p. 33)  Dr. Kuhnlein opined that claimant’s restrictions for the injuries 
+cannot be separated at this time.  Rather, “the effects of each injury are, to some effect, 
+
+PAZZI V. EFCO/CPI 
+Page 13 
+ 
+ 
+synergistic with each other.”  (Claimant’s Ex. 1, p. 16)  I concur with Dr. Gallagher and 
+Dr. Kuhnlein.   
+Claimant has significant injuries, worsening conditions, and significant medication 
+side effects since the 2019 arbitration hearing.  Adding new medications as a result of 
+the 2017 work injury, coupled with the underlying pain medications for the low back 
+result in a meshing of the conditions and resulting medication side effects.  If claimant 
+could resolve and heal his low back condition, the residual effects of the neck and 
+headaches could be assessed individually.  However, claimant’s low back condition is 
+not resolved and is not going to resolve. 
+Similarly, if claimant’s neck and headache conditions were to resolve, it would be 
+possible to assess the total disability resulting from solely the 2012 low back injury.  
+However, the neck and headache conditions are not resolved and are not likely to 
+resolve.  The combination of these injuries and the medications used to treat both 
+injuries has resulted in significant side effects and physical limitations.  The combination 
+of these injuries has also resulted in significant cognitive and psychological limitations.  
+The unrebutted psychiatrist has opined that these are intertwined and cannot be 
+separated for purposes of assessing the disability attributable to each injury.  I accept 
+and concur with Dr. Gallagher’s opinion, as well as the opinion of Dr. Kuhnlein.  I find 
+that it is the combination of both injury dates that results in claimant’s current condition 
+and his permanent total disability.  I find that it is impossible to delineate or separate the 
+disability attributable to each injury date at this time.  Instead, the two injuries have 
+combined, worsened, and caused permanent and total disability. 
+The parties also dispute which medical treatment is attributable to which injury 
+date.  Pain medications alleviate and treat the conditions related to both injury dates.  
+Claimant’s spinal cord stimulator and any treatment or adjustments necessary to that 
+appliance are clearly attributable to the 2012 injury date.  Ajovy is a medication that was 
+added specifically for the neck and is attributable to the 2017 injury date.  
+Carbamazepine and topiramate are medication treatments for migraine headaches and 
+attributable to the 2017 injury date. Dr. Gallagher’s mental health and cognitive health 
+treatment is attributable to both injury dates. 
+Dr. Berg opined on April 25, 2019, that claimant was not medically fit to return to 
+work.  (Joint Ex. 2, pp. 16-17)  He has not been released to return to work since that 
+date by the employer’s chosen physician.  Although it took time for treatment of the 
+various conditions to achieve maximum medical improvement for the neck and later 
+from a psychological standpoint, I find that claimant has not been capable of performing 
+gainful employment in a realistic and competitive branch of the labor market since Dr. 
+Berg took him off work on April 25, 2019.  Therefore, I find that claimant has proven that 
+he has been permanently and totally disabled since April 25, 2019. 
+Sentry paid Mr. Pazzi weekly benefits at the rate of $505.44 from April 25, 2019 
+through December 12, 2019.  After giving notice of their intention to terminate weekly 
+benefits, Travelers filed an application for a consent order to pay weekly benefits to 
+claimant.  Travelers filed that application on December 6, 2019 and obtained an order 
+
+PAZZI V. EFCO/CPI 
+Page 14 
+ 
+ 
+from the undersigned permitting the voluntary payment of benefits without prejudice on 
+December 9, 2019.  Travelers commenced weekly benefits at the rate of $569.82 on 
+December 13, 2019 and continued paying weekly benefits through June 5, 2020.  
+(Travelers’ Ex. B, p. 39) 
+Claimant contends that penalty benefits should be assessed against defendants 
+for unreasonable denial or delay in benefits.  However, the record demonstrates that 
+Travelers commenced payment of weekly benefits immediately upon Sentry’s 
+termination of weekly benefits.  It was not unreasonable for Travelers to not pay weekly 
+benefits while Sentry volunteered benefits.  Sentry’s denial was unreasonable because 
+it relied upon the opinions of Dr. Boulden, which disputed causation of the underlying 
+injury rather than providing evidence of some intervening cause to break causal 
+connection to the 2017 injury date.  Regardless, Travelers immediately commenced 
+payment of weekly benefits and paid at a higher weekly rate than was owed by Sentry.  
+Therefore, claimant was paid in full for all weeks after Sentry’s denial of liability and 
+Sentry benefits from Travelers’ voluntary payment of weekly benefits through June 5, 
+2020.   
+I find that claimant was underpaid weekly benefits from April 25, 2019 through 
+December 12, 2019.  However, Sentry was voluntarily paying weekly benefits during 
+this period of time and it was not unreasonable for Travelers to believe Sentry was 
+admitting liability.  I find it was reasonable for Travelers to believe liability rested with 
+Sentry during this period and justified Travelers not paying additional benefits from April 
+25, 2019 through December 12, 2019.  Once Travelers picked up the voluntary benefits 
+on December 13, 2019, claimant was paid in full and he cannot prove any delay or 
+denial of benefits through June 5, 2020.  Rather, he received his full benefits from 
+December 13, 2019 through June 5, 2020.  Therefore, I find no unreasonable conduct 
+justifying a penalty against either Travelers or Sentry during this period of time. 
+However, I find it was unreasonable to terminate weekly benefits on June 5, 
+2020.  The evidence in this case, including several physicians’ opinions and an 
+unrebutted psychiatric opinion suggested claimant had a much worse industrial 
+disability than was awarded in either prior arbitration decision.  Though the disability 
+appeared significant, including the removal from work through an employer-driven 
+fitness for duty evaluation, neither carrier voluntarily paid weekly benefits to claimant 
+from June 6, 2020, through the date of the hearing, a period of 19 weeks.  I find the 
+denial of benefits during this period of time was unreasonable and both carriers bear 
+responsibility for that denial. 
+I accept Travelers’ Exhibit B, pages 39-40, as accurate and find that Travelers 
+made the payments documented therein to claimant.  With regard to medical expenses, 
+I again accept Travelers’ Exhibit B, pages 41-44 as accurate and as payments made by 
+Travelers for claimant’s medical expenses.   
+I note Travelers’ Exhibit B documents payments for medications related to both 
+injury dates on December 17, 2019, January 14, 2020, January 21, 2020, February 4, 
+2020, February 11, 2020, February 25, 2020, March 3, 2020, March 10, 2020, March 
+
+PAZZI V. EFCO/CPI 
+Page 15 
+ 
+ 
+31, 2020, April 7, 2020, May 5, 2020, May 26, 2020, June 2, 2020, June 9, 2020, June 
+23, 2020, July 7, 23020, July 14, 2020, August 4, 2020, and September 1, 2020.  In 
+total, Travelers documents that it paid $6,047.45.  Sentry should have paid one-half of 
+these expenses and will be ordered to reimburse Travelers in the amount of $3,023.72 
+in prescription medication expenses. 
+In addition, Travelers documents payment of charges for Dr. Gallagher’s mental 
+health services for treatment on March 20, 2020, April 10, 2020, June 12, 2020, and 
+August 7, 2020.  All of Dr. Gallagher’s treatment is related to both injury dates.  
+Travelers documents payment of $1,317.18 in fees to Dr. Gallagher for his treatments.  
+Sentry is obligated to share this expense and will be ordered to reimburse Travelers in 
+the amount of $658.59 for Dr. Gallagher’s treatment. 
+Travelers’ Exhibit B documents payments made to Metro Anesthesia for 
+treatment with Dr. Quam on December 23, 2019.  That treatment notes suggests that 
+the primary evaluation and treatment on that date was for claimant’s low back.  
+Although Dr. Quam renewed medications and added Tramadol on that date, the primary 
+treatment rendered was for the low back.  I find that Sentry should not share in the 
+December 23, 2019, expense because neither the headaches nor the cervical spine 
+were primary emphasis points during this evaluation.  (Joint Ex. 1, pp. 93-99) 
+Similarly, on March 16, 2020 and July 1, 2020, Dr. Quam provided claimant care.  
+Although the neck issues are mentioned as problems for claimant, the primary care 
+offered at each of these evaluations was for Mr. Pazzi’s low back.  I find that neither the 
+March 16, 2020 nor the July 1, 2020 evaluation were for treatment of the neck and no 
+reimbursement is due from Sentry to Travelers for these treatments. 
+Travelers also documents payment of medical expenses for “rehabilitation.”  I 
+cannot ascertain whether those payments are for treatment related to specifically the 
+low back or also include treatment for the neck.  No reimbursement will be ordered for 
+these expenses. 
+Finally, claimant seeks payment or reimbursement for certain past medical 
+expenses contained at Claimant’s Exhibit 11.  Among the items requested in Claimant’s 
+Exhibit 11 are medications.  I find that the medications Ajovy, carbamazepine, and 
+topiramate are all related to treatment of claimant’s neck injury or resulting headaches 
+and are the responsibility of Sentry.  Claimant seeks payment of the expense of 
+sumatriptan and propranolol, which are medications for the treatment of headaches, 
+and are also the responsibility of Sentry. 
+Claimant seeks payment of vitamin D, though I find no evidence this is 
+prescribed specific to either injury.  It was prescribed during a general health evaluation 
+on April 15, 2019.  Accordingly, I find claimant failed to prove entitlement to payment or 
+reimbursement for vitamin D. 
+The remaining medications, including duloxetine, Tramadol, bupropion, Lyrica, 
+pregabalin, zaleplon, meloxicam, metaxalone and zolpidem, are all medications to treat 
+
+PAZZI V. EFCO/CPI 
+Page 16 
+ 
+ 
+pain, sleep difficulties from pain, anti-inflammatories, or for mental health purposes.  
+These medications are the result of and treat both the low back and the neck conditions 
+and should be borne equally by Travelers and Sentry. 
+In addition, claimant submits a medical charge from Des Moines Orthopaedic 
+Surgeons for services rendered on August 20, 2018.  This treatment was for claimant’s 
+neck condition and should be paid by Sentry. 
+Claimant also seeks charges for treatment at Metro Anesthesia on March 18, 
+2019, including a $50.00 co-pay.  This treatment was primarily for the low back and 
+should be the responsibility of Travelers. 
+Claimant seeks payment of medical expenses for treatment with Unity Point 
+Family Medicine Clinic (Todd Janus, M.D. and Janae D. Brown, ARNP).  Ms. Brown 
+evaluated claimant on January 16, 2019.  The corresponding medical record details that 
+treatment on that date revolved around claimant’s neck and migraine injury.  Joint Ex. 2, 
+p. 2)  The co-pay associated with this treatment should be reimbursed to claimant by 
+Sentry.  (Claimant’s Ex. 11, p. 6) 
+The treatment rendered by Dr. Janus on January 29, 2019 appears related 
+primarily to claimant’s low back injury in 2012.  (Joint Ex. 2, p. 5)  The charges related to 
+this injury appear to be related to Travelers’ date of injury.  (Claimant’s Ex. 11, p. 7)  
+Travelers should reimburse claimant for the co-pay related to this treatment. 
+Medical records from Unity Point Family Medical Clinic for treatment on April 17, 
+2019 suggest that visit was for general wellness checks, including discussion of pre-
+hypertension issues, diet, and other general medical health issues, and trigeminal 
+neuralgia, which was previously determined to be not related to either work injury.  I find 
+that the treatment rendered on April 17, 2019 is not the responsibility of either insurance 
+carrier.  (Joint Ex. 2, pp. 11-15). 
+CONCLUSIONS OF LAW 
+ 
+Mr. Pazzi filed review-reopening petitions against the employer and its respective 
+insurance carriers for his prior February 24, 2012 low back injury and his June 13, 2017 
+neck injury.  These cases involve claims for review-reopening and an increase in 
+permanent disability benefits by claimant.  Specifically, Mr. Pazzi asserts that his 
+condition has worsened and he has experienced a significant change in his condition 
+since both of the prior arbitration hearings.  Mr. Pazzi now asserts a claim for 
+permanent total disability benefits. 
+ 
+In File No. 5053306.01, the employer and Travelers dispute whether claimant 
+has proven a change in condition that is casually related to the February 24, 2012 work 
+injury.  Instead, Travelers contends that claimant’s treatment, including medication 
+increases and additions resulting from claimant’s neck injury and unrelated trigeminal 
+neuralgia, are the cause of claimant’s loss of employment and any increase in 
+
+PAZZI V. EFCO/CPI 
+Page 17 
+ 
+ 
+permanent disability.  In addition, Travelers challenges the extent of claimant's 
+entitlement to additional permanent disability benefits, if any. 
+ 
+In File No. 5063852.01, the employer and Sentry Insurance challenge whether 
+claimant’s current neck and headache conditions are causally related to the June 13, 
+2017 work injury previously established.  Sentry further challenges whether any change 
+in condition has resulted since the prior arbitration hearing.  Finally, Sentry challenges 
+whether claimant is entitled to any additional permanent disability as a result of the June 
+13, 2017 work injury. 
+Upon review-reopening, claimant has the burden to show a change in condition 
+related to the original injury since the original award or settlement was made.  The 
+change may be either economic or physical.  Blacksmith v. All-American, Inc., 290 
+N.W.2d 348 (Iowa 1980); Henderson v. Iles, 250 Iowa 787, 96 N.W.2d 321 (1959).  A 
+mere difference of opinion of experts as to the percentage of disability arising from an 
+original injury is not sufficient to justify a different determination on a petition for review-
+reopening.  Rather, claimant's condition must have worsened or deteriorated in a 
+substantial and discernible manner since the initial award or settlement.  Bousfield v. 
+Sisters of Mercy, 249 Iowa 64, 86 N.W.2d 109 (1957).  However, it makes no difference 
+whether the change in condition since the arbitration hearing was anticipated or 
+unanticipated at the time of the initial award.  Kohlhaas v. Hog Slat, Inc., 777 N.W.2d 
+387, 391-392 (Iowa 2009).  Instead, the question in this review-reopening proceeding is 
+whether there has been a substantial change in condition since the arbitration hearing 
+that remains causally related to the initial work injury.  Id. at 392.  Of course, none of the 
+parties may not re-litigate facts that were known or knowable at the time of the 
+arbitration hearing. Id. at 393. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995).  Miller v. 
+Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 1994).  Unrebutted expert medical 
+
+PAZZI V. EFCO/CPI 
+Page 18 
+ 
+ 
+testimony cannot be summarily rejected.  Poula v. Siouxland Wall & Ceiling, Inc., 516 
+N.W.2d 910 (Iowa App. 1994). 
+Therefore, claimant bears the burden to prove both that he has experienced a 
+significant change in condition since one or both of the prior arbitration hearings and 
+that his current condition remains causally related to the initial work injury or injuries.  In 
+these cases, I found that Mr. Pazzi proved a substantial change in condition after both 
+prior arbitration hearings and that his current condition is causally related to both prior 
+injuries.  Although Sentry challenged causal connection of the current condition, it 
+introduced evidence from Dr. Boulden that really challenged whether the underlying 
+condition is causally related to the work activities.  In other words, Sentry was 
+essentially attempting to re-try the underlying causation issue.  Dr. Boulden’s opinions 
+were not limited to developments since the prior arbitration hearing.  Moreover, there is 
+no evidence that claimant sustained any intervening injuries or conditions that likely 
+broke the causal connection between claimant’s current neck and headache conditions 
+and the 2017 work injury.  Having found that claimant’s low back, neck, and headache 
+conditions have substantially changed since the prior arbitration hearings and that Dr. 
+Boulden’s opinions are contrary to the prior arbitration decision findings and not 
+convincing in this situation, I conclude that Mr. Pazzi proved substantial changes in 
+condition related to both prior work injuries. 
+Having found substantial changes in condition related to both injury dates, the 
+next question to be addressed is the extent of additional permanent disability 
+attributable to each injury, if any, and whether claimant is entitled to additional 
+permanent disability resulting from either injury.  Both injuries are unscheduled injuries 
+and were determined to be compensable with industrial disability in the underlying 
+arbitration decisions.  Therefore, the question to be determined is claimant’s current 
+industrial disability as a result of the 2012 and/or 2017 work injuries.   
+Since claimant has an impairment to the body as a whole, an industrial disability 
+has been sustained.  Industrial disability was defined in Diederich v. Tri-City Ry. Co. of 
+Iowa, 219 Iowa 587, 258 N.W. 899 (1935) as follows:  "It is therefore plain that the 
+Legislature intended the term 'disability' to mean 'industrial disability' or loss of earning 
+capacity and not a mere 'functional disability' to be computed in terms of percentages of 
+the total physical and mental ability of a normal man." 
+Functional impairment is an element to be considered in determining industrial 
+disability which is the reduction of earning capacity, but consideration must also be 
+given to the injured employee's age, education, qualifications, experience, motivation, 
+loss of earnings, severity and situs of the injury, work restrictions, inability to engage in 
+employment for which the employee is fitted and the employer's offer of work or failure 
+to so offer.  McSpadden v. Big Ben Coal Co., 288 N.W.2d 181 (Iowa 1980); Olson v. 
+Goodyear Service Stores, 255 Iowa 1112, 125 N.W.2d 251 (1963); Barton v. Nevada 
+Poultry Co., 253 Iowa 285, 110 N.W.2d 660 (1961). 
+
+PAZZI V. EFCO/CPI 
+Page 19 
+ 
+ 
+Compensation for permanent partial disability shall begin at the termination of the 
+healing period.  Compensation shall be paid in relation to 500 weeks as the disability 
+bears to the body as a whole.  Section 85.34. 
+I considered all of the relevant, available factors outlined by the Iowa Supreme 
+Court to assess industrial disability.  Having accepted the opinions of Dr. Kuhnlein, Dr. 
+Stalvey, and Dr. Gallagher, I found that Mr. Pazzi is permanently and totally disabled.  
+Accordingly, I conclude that claimant is entitled to a review-reopening award that results 
+in a permanent total disability award pursuant to Iowa Code section 85.34(3).  Claimant 
+became permanently and totally disabled after the fitness for duty evaluation by Dr. 
+Berg and once he was removed from his employment by the employer on April 25, 
+2019.  Therefore, I conclude that permanent total disability benefits are payable to 
+claimant commencing on April 25, 2019, continuing through the date of the review-
+reopening hearing and into the future until Mr. Pazzi is no longer permanently and 
+totally disabled.  Iowa Code section 85.34(3)(a). 
+The next question is which carrier should be ordered to pay the permanent total 
+disability benefits to Mr. Pazzi.  This case presents a unique situation that apparently 
+has not presented itself to this agency frequently.  The undersigned was unable to 
+identify a prior case that dealt with the same or similar facts presented in this case.   
+However, the undersigned ultimately found that both the 2012 injury and the 
+2017 injury were significant contributing factors that brought about claimant’s permanent 
+total disability.  The undersigned concurred with Dr. Gallagher and Dr. Kuhnlein that it is 
+not realistic or possible to delineate what portion of claimant’s current disability should 
+be allocated to the 2012 injury versus the 2017 injury.  Instead, it is the combination of 
+the effects and worsening of both injuries since their original arbitration hearings that 
+has led claimant to his current condition and his permanent total disability.  Accordingly, 
+I conclude that both injury dates and both carriers should share the responsibility of 
+paying for Mr. Pazzi’s permanent total disability. 
+Having reached this conclusion, the undersigned is faced with yet another 
+practical dilemma.  The stipulated weekly rate in File No. 5053306.01 is $569.82.  
+However, the stipulated weekly rate in File No. 5063852.01 is $505.44.  Certainly, 
+claimant should receive the highest weekly rate given that the purpose of the workers’ 
+compensation statutes is for the benefit of the injured worker.  Therefore, weekly 
+benefits for the permanent total disability award will be payable at the weekly rate of 
+$569.82.   
+The most equitable means of dividing those weekly benefits between the 
+competing carriers is proportionally to their potential risk and weekly rate.  A 
+proportional assessment results in Travelers being responsible for paying $302.00 per 
+week and Sentry paying $267.82 per week. This provides claimant a full weekly benefit 
+of $569.82 and a proportional obligation by each carrier. 
+In File No. 5053306.01, Travelers filed agency form number 14-0037, an 
+application and consent order for payment of benefits under Iowa Code section 85.21, 
+
+PAZZI V. EFCO/CPI 
+Page 20 
+ 
+ 
+on December 6, 2019.  The undersigned approved the consent order on December 9, 
+2019.  Travelers commenced weekly benefits pursuant to the consent order on 
+December 13, 2019.  Travelers now seeks reimbursement from Sentry for the benefits 
+paid pursuant to the consent order. 
+Having determined that the insurance carriers in each file should share 
+proportionally in payment of the permanent total disability award, I conclude that 
+Travelers appropriately filed the application and consent order for payment of benefits 
+under Iowa Code section 85.21.  Travelers has successfully proven that Sentry is 
+obligated to pay $267.82 per week towards the weekly benefits paid to claimant from 
+December 13, 2019, through June 5, 2020.  Therefore, Sentry will be ordered to 
+reimburse and indemnify Travelers for these benefits.  Iowa Code section 85.21(1). 
+Travelers documented payment of 25 weeks of permanent disability benefits 
+between December 13, 2019 and June 5, 2020.  Sentry is obligated to pay $267.82 per 
+week under this decision.  Accordingly, Travelers has proven entitlement to 
+reimbursement from Sentry in the amount of $6,695.50 toward weekly benefits paid 
+from December 13, 2019 through June 5, 2020. 
+In File No. 5063852.01, Sentry also asserts a right to indemnification and 
+apportionment pursuant to Iowa Code section 85.21.  Sentry asserts that it paid weekly 
+benefits that should have been paid to claimant by Travelers.  However, review of File 
+No. 5063852.01 demonstrates that Sentry did not avail itself of the protections of an 
+application and consent order pursuant to Iowa Code section 85.21.  Rather, Sentry 
+paid some voluntary benefits to claimant and subsequently elected to terminate those 
+benefits without obtaining any orders from the agency or otherwise protecting its 
+potential rights under Iowa Code section 85.21. 
+Iowa Code section 85.21 provides: 
+The workers’ compensation commissioner may order any number or 
+combination of alleged workers’ compensation insurance carriers and 
+alleged employers, which are parties to a contested case or to a dispute 
+which could culminate in a contested case, to pay all or part of the benefits 
+due to an employee or an employee’s dependent or legal representative if 
+any of the carriers or employers agree, or the commissioner determines 
+after an evidentiary hearing, that one or more of the carriers or employers 
+is liable to the employee or to the employee’s dependent or legal 
+representative for benefits under this chapter or under chapter 85A or 
+85B, but the carriers or employers cannot agree, or the commissioner has 
+not determined which carriers or employers are liable. 
+ 
+The agency has enacted an administrative rule, providing for the use of a specific 
+form, Form 14-0037, for the preservation and assertion of a right to reimbursement 
+under Iowa Code section 85.21.  The rule states: 
+ 
+
+PAZZI V. EFCO/CPI 
+Page 21 
+ 
+ 
+This form is the application and consent order for payment of benefits 
+under Iowa Code section 85.21 which is used by an employer or an 
+insurance carrier to pay weekly and medical benefits without admitting 
+liability and to be able to seek reimbursement from another carrier or 
+employer.  
+ 
+Agency rule 876 IAC 3.1(11). 
+Agency precedent has clearly delineated that the use of Form 14-0037 is 
+required to preserve any claim for indemnification or reimbursement under Iowa Code 
+section 85.21.  Zurich American v. Allied Mutual Insurance, File Nos. 101165, 1059572, 
+1059573, 1059574 (Appeal June 1998); Bromert v. Trausch Co., File No. 788831 
+(Appeal June 1996); Barglof v. G. W. Pete Howe, Inc., File Nos. 872409, 840249 
+(Appeal Nov. 1996).  In Employers Mutual Cas. Co. v. Vanwyngarden & Abrahamson, 
+File Nos. 1059572, 1059573, 1059574, 1011165 (Appeal June 1998), the commissioner 
+held: 
+Where a petitioner for reimbursement has sought an order pursuant to 
+Iowa Code section 85.21 prior to the evidentiary hearing, reimbursement 
+may include payments made both before and after the order was issued.  
+But where no order under 85.21 issues before the evidentiary hearing in a 
+case, reimbursement will not be ordered. 
+In File No. 5063852.01, Sentry failed to file an application and consent order for 
+the payment of weekly benefits (Form 14-0037) prior to the evidentiary hearing.  
+Accordingly, Sentry has no claim for reimbursement against Travelers pursuant to Iowa 
+Code section 85.21.  Claimant has been paid in full (at Sentry’s weekly benefit rate) for 
+the weeks paid by Sentry.  Sentry is not due any reimbursement pursuant to Iowa Code 
+section 85.21, given their failure to preserve their claim prior to the evidentiary hearing.  
+However, Travelers’ weekly rate exceeds Sentry’s weekly rate by $64.38 per week.  
+Claimant is owed the additional $64.38 per week from April 25, 2019 through December 
+12, 2019.  Travelers will be ordered to satisfy this amount with interest given that Sentry 
+has already paid the lion’s share of these weekly benefits.  Iowa Code section 85.30. 
+Claimant asserts a claim for penalty benefits against both insurance carriers.  
+Iowa Code section 86.13(4) provides: 
+a.       If a denial, a delay in payment, or a termination of benefits 
+occurs without reasonable or probable cause or excuse known to the 
+employer or insurance carrier at the time of the denial, delay in payment, 
+or termination of benefits, the workers’ compensation commissioner shall 
+award benefits in addition to those benefits payable under this chapter, or 
+chapter 85, 85A, or 85B, up to fifty percent of the amount of benefits that 
+were denied, delayed, or terminated without reasonable or probable cause 
+or excuse. 
+
+PAZZI V. EFCO/CPI 
+Page 22 
+ 
+ 
+b.       The workers’ compensation commissioner shall award 
+benefits under this subsection if the commissioner finds both of the 
+following facts: 
+(1)         The employee has demonstrated a denial, delay in 
+payment, or termination in benefits. 
+(2)          The employer has failed to prove a reasonable or 
+probable cause or excuse for the denial, delay in payment, or 
+termination of benefits. 
+In Christensen v. Snap-on Tools Corp., 554 N.W.2d 254 (Iowa 1996), 
+and Robbennolt v. Snap-on Tools Corp., 555 N.W.2d 229 (Iowa 1996), the supreme 
+court said: 
+Based on the plain language of section 86.13, we hold an employee is 
+entitled to penalty benefits if there has been a delay in payment unless the 
+employer proves a reasonable cause or excuse.  A reasonable cause or 
+excuse exists if either (1) the delay was necessary for the insurer to 
+investigate the claim or (2) the employer had a reasonable basis to 
+contest the employee’s entitlement to benefits.  A “reasonable basis” for 
+denial of the claim exists if the claim is “fairly debatable.” 
+Christensen, 554 N.W.2d at 260. 
+The supreme court has stated: 
+      (1) If the employer has a reason for the delay and conveys that reason 
+to the employee contemporaneously with the beginning of the delay, no 
+penalty will be imposed if the reason is of such character that a 
+reasonable fact-finder could conclude that it is a "reasonable or probable 
+cause or excuse" under Iowa Code section 86.13.  In that case, we will 
+defer to the decision of the commissioner.  See Christensen, 554 N.W.2d 
+at 260 (substantial evidence found to support commissioner’s finding of 
+legitimate reason for delay pending receipt of medical report); Robbennolt, 
+555 N.W.2d at 236. 
+      (2) If no reason is given for the delay or if the “reason” is not one that a 
+reasonable fact-finder could accept, we will hold that no such cause or 
+excuse exists and remand to the commissioner for the sole purpose of 
+assessing penalties under section 86.13.  See Christensen, 554 N.W.2d at 
+261. 
+      (3) Reasonable causes or excuses include (a) a delay for the 
+employer to investigate the claim, Christensen, 554 N.W.2d at 
+260; Kiesecker v. Webster City Meats, Inc., 528 N.W.2d at 109, 111 (Iowa 
+1995); or (b) the employer had a reasonable basis to contest the 
+
+PAZZI V. EFCO/CPI 
+Page 23 
+ 
+ 
+claimthe “fairly debatable” basis for delay.  See Christensen, 554 N.W.2d 
+at 260 (holding two-month delay to obtain employer’s own medical report 
+reasonable under the circumstances). 
+      (4) For the purpose of applying section 86.13, the benefits that 
+are underpaid as well as late-paid benefits are subject to penalties, unless 
+the employer establishes reasonable and probable cause or 
+excuse.  Robbennolt, 555 N.W.2d at 237 (underpayment resulting from 
+application of wrong wage base; in absence of excuse, commissioner 
+required to apply penalty). 
+   If we were to construe [section 86.13] to permit the 
+avoidance of penalty if any amount of compensation benefits 
+are paid, the purpose of the penalty statute would be 
+frustrated.  For these reasons, we conclude section 86.13 is 
+applicable when payment of compensation is not timely . . . 
+or when the full amount of compensation is not paid. 
+Id. 
+      (5) For purposes of determining whether there has been a delay, 
+payments are “made” when (a) the check addressed to a claimant is 
+mailed (Robbennolt, 555 N.W.2d at 236; Kiesecker, 528 N.W.2d at 112), 
+or (b) the check is delivered personally to the claimant by the employer or 
+its workers’ compensation insurer.  Robbennolt, 555 N.W.2d at 235.  
+      (6) In determining the amount of penalty, the commissioner is to 
+consider factors such as the length of the delay, the number of delays, the 
+information available to the employer regarding the employee’s injury and 
+wages, and the employer’s past record of penalties.  Robbennolt, 555 
+N.W.2d at 238. 
+      (7) An employer’s bare assertion that a claim is “fairly debatable” does 
+not make it so.  A fair reading of Christensen and Robbennolt, makes it 
+clear that the employer must assert facts upon which the commissioner 
+could reasonably find that the claim was “fairly 
+debatable.”  See Christensen, 554 N.W.2d at 260. 
+Meyers v. Holiday Express Corp., 557 N.W.2d 502 (Iowa 1996).  
+Weekly compensation payments are due at the end of the compensation 
+week.  Robbennolt, 555 N.W.2d 229, 235. 
+Penalty is not imposed for delayed interest payments.  Davidson v. Bruce, 594 
+N.W.2d 833, 840 (Iowa App. 1999).  Schadendorf v. Snap-On Tools Corp., 757 N.W.2d 
+330, 338 (Iowa 2008).  
+
+PAZZI V. EFCO/CPI 
+Page 24 
+ 
+ 
+When an employee’s claim for benefits is fairly debatable based on a good faith 
+dispute over the employee’s factual or legal entitlement to benefits, an award of penalty 
+benefits is not appropriate under the statute.  Whether the issue was fairly debatable 
+turns on whether there was a disputed factual dispute that, if resolved in favor of the 
+employer, would have supported the employer's denial of compensability.  Gilbert v. 
+USF Holland, Inc., 637 N.W.2d 194 (Iowa 2001). 
+Having found that there was an underpayment of weekly benefits from April 25, 
+2019 through December 12, 2019, I also found that it was reasonable for Travelers to 
+believe Sentry was accepting liability during that period of time and that it did not owe 
+additional benefits.  Therefore, I found no factual basis for a penalty award or 
+unreasonable conduct between April 25, 2019 and December 12, 2019. 
+I found that Sentry’s denial of liability was unreasonable and that its termination 
+of weekly benefits on December 12, 2019 was unreasonable.  However, I also found 
+that claimant was paid in full by Travelers commencing on December 13, 2019 through 
+June 5, 2020.  Therefore, there was no actual delay or denial of benefits to claimant 
+from December 13, 2019 through June 5, 2020 upon which a penalty benefit award can 
+or should be made.  Iowa Code section 86.13(4). 
+Neither insurance carrier paid weekly benefits to Mr. Pazzi between June 5, 2020 
+and October 20, 2020.  In spite of obtaining an order for payment of benefits, Travelers 
+never sought to terminate that order before actually terminating benefits to claimant.  
+Sentry attempted to re-litigate the underlying causation issue and ignored claimant’s 
+increased disability.  Neither position was reasonable. 
+Realistically, the employer had removed claimant from work based upon a report 
+from its own evaluator, Dr. Berg, documenting that claimant was not fit to return to work.  
+It should have been apparent to each insurance carrier that claimant sustained 
+significant additional industrial disability and that this claim potentially represented a 
+permanent total disability situation.  Yet, neither carrier stepped forward to pay claimant 
+weekly benefits after June 5, 2020.  I conclude that the carriers’ conduct was 
+unreasonable and that a penalty is appropriate under the circumstances. 
+The purpose of penalty benefits is both punitive and to encourage a correction of 
+conduct into the future.  In this instance, one or both of the carriers should have stepped 
+forward to ensure that claimant received payment of weekly benefits.  Iowa Code 
+section 85.21 is specifically in place to permit one carrier to pay the benefits and seek 
+reimbursement from another carrier.  Travelers did so for a period of time after Sentry 
+terminated benefits.  Yet, claimant was left without benefits from June 6, 2020 through 
+the review-reopening hearing.  This is a period of 19 weeks.  Claimant was 
+unreasonably denied weekly benefits amounting to $10,826.58.  I conclude that a 
+penalty totaling $5,000.00 is appropriate under the circumstances and should serve as 
+both a penalty and a deterrent to future similar conduct by either carrier.   
+Having found that both carriers conduct was unreasonable during the period of 
+time after June 5, 2020, I conclude that each carrier should bear a portion of the 
+
+PAZZI V. EFCO/CPI 
+Page 25 
+ 
+ 
+penalty.  I conclude that the penalty should be borne in proportion to the carrier’s liability 
+for weekly benefits.  Travelers bears 53 percent of the weekly rate burden given its 
+higher weekly rate.  Accordingly, I conclude that Travelers should be assessed a 
+penalty of $2,650.00 and that Sentry should bear the remaining $2,350.00 of the penalty 
+assessed. 
+The insurance carriers assert claims against each other pursuant to Iowa Code 
+section 85.21 seeking reimbursement for past medical expenses each has paid.  Once 
+again, Sentry has not preserved its claim for reimbursement.  Travelers did preserve its 
+claim as noted above. 
+Having found that Travelers proved claimant’s various prescription medications 
+were beneficial for and provided treatment for both the low back as well as the cervical 
+and headache conditions, I also found that Travelers proved it had paid $6,047.45 for 
+medications that were efficacious and necessary for both injuries.  Therefore, I conclude 
+that Sentry should be ordered to reimburse Travelers $3,023.72 in prescription charges 
+identified in Travelers’ Exhibit B.  I further conclude that the carriers should equally split 
+all prescription charges after the date of the review-reopening hearing and moving 
+forward for all prescriptions to include Cymbalta, Skelaxin, Lyrica, Ambien, Tramadol, or 
+other medications subsequently prescribed by the treating physicians related to pain 
+management that are not specific to either the headaches, neck, or low back.  I 
+specifically found that Ajovy, carbamazepine, topiramate, sumatriptan, and propranolol 
+are the responsibility of Sentry moving forward.  Similarly, I found that any treatment 
+necessary for adjustment, programming, removal, or repair of the spinal cord stimulator 
+in claimant’s low back is the responsibility of Travelers. 
+I found that the mental health treatment provided by Dr. Gallagher is beneficial 
+and necessitated by the combination of the injuries.  I found that Travelers proved it 
+paid $1,317.18 in charges for treatment provided by Dr. Gallagher.  I conclude that 
+Sentry should be ordered to reimburse Travelers in the amount of $658.59 for these 
+medical expenses. 
+I found no other medical expenses paid by Travelers were proven to be related to 
+the headaches or neck injury.  Therefore, I conclude that none of the other medical 
+expenses included in Travelers’ Exhibit B should be ordered to be reimbursed. 
+Claimant’s Exhibit 11 includes past medical expenses.  I set forth specific 
+findings of fact pertaining to those medical expenses, finding some related to treatment 
+for Travelers’ date of injury, some related to the date of injury for which Sentry is 
+responsible, some medications related to both dates of injury to be borne jointly, and 
+some expenses not proven related to either date of injury.  The specific findings of fact 
+are incorporated herein and I conclude that each defendant should be ordered to pay 
+for the expenses related to their date of injury or jointly as the case may be.  Iowa Code 
+section 85.21; Iowa Code section 85.27. 
+Mr. Pazzi also asserts a claim for reimbursement of his independent medical 
+evaluation pursuant to Iowa Code section 85.39.   
+
+PAZZI V. EFCO/CPI 
+Page 26 
+ 
+ 
+Section 85.39 permits an employee to be reimbursed for subsequent 
+examination by a physician of the employee's choice where an employer-retained 
+physician has previously evaluated “permanent disability” and the employee believes 
+that the initial evaluation is too low.  The section also permits reimbursement for 
+reasonably necessary transportation expenses incurred and for any wage loss 
+occasioned by the employee attending the subsequent examination. 
+Defendants are responsible only for reasonable fees associated with claimant's 
+independent medical examination.  Claimant has the burden of proving the 
+reasonableness of the expenses incurred for the examination.  See Schintgen v. 
+Economy Fire & Casualty Co., File No. 855298 (App. April 26, 1991).  Claimant need 
+not ultimately prove the injury arose out of and in the course of employment to qualify 
+for reimbursement under section 85.39.  See Dodd v. Fleetguard, Inc., 759 N.W.2d 133, 
+140 (Iowa App. 2008). 
+Amendments to Iowa Code section 85.39 in 2017 now require that claimant 
+prove the compensability of the injury before recovering reimbursement of his IME.  In 
+this instance, the compensability of the injury was established by agency decision in the 
+underlying arbitration proceedings.  Accordingly, claimant need only prove that his 
+impairment rating was preceded by a prior evaluation of permanent disability by a 
+physician selected by defendants on one or both of these files and that the fee charged 
+by his evaluator was reasonable.  Iowa Code section 85.39 (2017). 
+Review of the evidentiary record demonstrates that Travelers did not solicit a 
+permanent impairment rating from any of its authorized treating physicians or seek an 
+alternate evaluation to secure a permanent impairment rating.  Claimant cannot 
+demonstrate that he met the prerequisites of Iowa Code section 85.39 to obtain 
+reimbursement of his IME from Travelers. 
+However, Sentry did obtain an independent medical evaluation, performed by Dr. 
+Boulden.  Dr. Boulden performed his evaluation on May 19, 2020, and opined that 
+claimant “would not have a permanent impairment rating to his cervical spine based on 
+any work-related injury.”  (Sentry Ex. EE, p. 5)  Claimant subsequently obtained an IME 
+with Dr. Kuhnlein in July 2020.  Claimant can establish the prerequisites of Iowa Code 
+section 85.39 were met in the Sentry file prior to Dr. Kuhnlein’s evaluation.  Accordingly, 
+I conclude that claimant established entitlement to reimbursement of his IME from 
+Sentry.  Given the amount of medical evidence and the complexity of the facts and 
+issues in this case, I consider the $3,700.00 paid to Dr. Kuhnlein to be reasonable in 
+this case.  Therefore, I conclude that Sentry should be ordered to reimburse claimant for 
+his $3,700.00 IME charges pursuant to Iowa Code section 85.39. 
+Mr. Pazzi also seeks reimbursement of costs from each of the files.  Costs are 
+assessed at the discretion of the agency.  Iowa Code section 86.40.   
+Claimant has prevailed against the defendants in both files.  I conclude it is 
+reasonable to assess costs in some amount against each defendant insurance carrier. 
+
+PAZZI V. EFCO/CPI 
+Page 27 
+ 
+ 
+Mr. Pazzi seeks assessment of his filing fees in each file.  This is a reasonable 
+request and an allowable cost pursuant to 876 IAC 4.33(7).  Travelers and Sentry will 
+each be ordered to reimburse claimant $100.00 representing claimant’s filing fee in 
+each file. 
+Claimant also seeks the cost ($350.00) of his functional capacity evaluation 
+report written by Short Physical Therapy on August 9, 2019. However, I did not find that 
+FCE to be convincing or rely upon it in rendering this decision.  Therefore, exercising 
+the agency’s discretion, I do not assess this as a cost against either defendant carrier. 
+Claimant also seeks assessment of the cost of his vocational expert’s report.  
+The Iowa Supreme Court has made it clear that only the expense of drafting the 
+expert’s report is a taxable cost pursuant to 876 IAC 4.33(6).  See Des Moines Area 
+Regional Transit Authority v. Young, 867 N.W.2d 839 (Iowa 2015).  In this case, Mr. 
+Davis provided an itemized billing statement that includes charges for file review, a 
+vocational interview, and then lumps in charges for “Vocational research, file review, 
+and vocational report.”  (Claimant’s Ex. 13, p. 4)  Mr. Davis’ time spent for research and 
+file review are not taxable costs pursuant to Des Moines Area Regional Transit Authority 
+v. Young, 867 N.W.2d 839 (Iowa 2015).  It is impossible to ascertain the amount of time 
+Mr. Davis spent specifically drafting a report.  The undersigned is not willing to 
+speculate or estimate these charges.  Therefore, none of Mr. Davis’ charges are taxed 
+as costs. 
+Mr. Pazzi also seeks costs for conferences his counsel attended with Dr. 
+Gallagher and Dr. Quam.  (Claimant’s Ex. 13, pp. 5-11)  However, once again, these 
+billing statements do not break down the charges and specify the amount charged for 
+just drafting a report for this case in lieu of testimony.  Again, the statements suggest 
+the charges are for attendance at an attorney conference, file review, and/or report 
+preparations.  Once again, the undersigned is not willing to speculate on the charges 
+specifically made for report preparation.  Therefore, I decline to assess any of these 
+expenses as costs.  Des Moines Area Regional Transit Authority v. Young, 867 N.W.2d 
+839 (Iowa 2015). 
+ORDER 
+THEREFORE, IT IS ORDERED: 
+Defendants shall pay claimant permanent total disability benefits commencing on 
+April 25, 2019 and continuing through the present and into the future until claimant is no 
+longer permanently and totally disabled. 
+Defendants EFCO and Travelers shall pay claimant sixty-four and 38/100 dollars 
+($64.38) per week from April 25, 2019 through December 12, 2019, representing the 
+additional owed on permanent total disability benefits. 
+
+PAZZI V. EFCO/CPI 
+Page 28 
+ 
+ 
+Defendants EFCO and Travelers shall pay claimant permanent total disability 
+benefits commencing on December 13, 2019 at the weekly rate of three hundred two 
+and 00/100 dollars ($302.00). 
+Defendants EFCO and Sentry shall pay claimant permanent total disability 
+benefits commencing on April 25, 2019 at the weekly rate of two hundred sixty-seven 
+and 82/100 dollars ($267.82). 
+Defendants shall pay accrued weekly benefits in a lump sum together with 
+interest payable at an annual rate equal to the one-year treasury constant maturity 
+published by the federal reserve in the most recent H15 report settled as of the date of 
+injury, plus two percent, as required by Iowa Code section 85.30. 
+Defendants shall be entitled to a credit for all benefits paid to date against this 
+award. 
+Defendant Travelers shall pay claimant penalty benefits in the amount of two 
+thousand six hundred fifty and 00/100 dollars ($2,650.00). 
+Defendant Sentry shall pay claimant penalty benefits in the amount of two 
+thousand three hundred fifty and 00/100 dollars ($2,350.00). 
+Pursuant to Iowa Code section 85.21, Sentry shall reimburse Travelers in the 
+amount of six thousand six hundred ninety-five and 50/100 dollars ($6,695.50), 
+representing its share of weekly benefits paid by Travelers to claimant from December 
+13, 2019 through June 5, 2020. 
+Defendants EFCO and Travelers are responsible for payment for any treatment, 
+modifications, or procedures related to claimant’s spinal cord stimulator or specific to 
+the low back injury, as more specifically set forth in the body of this decision. 
+Defendants EFCO and Sentry are responsible for payment of the medications 
+Ajovy, carbamazepine, topiramate, sumatriptan, and propranolol, as well as any 
+treatment specific to claimant’s neck or headaches, all as more specifically set forth in 
+the body of this decision.   
+Travelers and Sentry shall equally share the expense of all other medications 
+and for treatment rendered by Dr. Gallagher since the date of the review-reopening 
+hearing and moving forward. 
+Sentry shall reimburse Travelers for past medical expenses in the amount of 
+three thousand six hundred eighty-two and 31/100 dollars ($3,682.31). 
+Sentry shall reimburse claimant’s independent medical evaluation fee in the 
+amount of three thousand seven hundred and 00/100 dollars ($3,700.00). 
+Travelers shall reimburse claimant’s costs in the amount of one hundred dollars 
+($100.00). 
+
+PAZZI V. EFCO/CPI 
+Page 29 
+ 
+ 
+Sentry shall reimburse claimant’s costs in the amount of one hundred dollars 
+($100.00). 
+Defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1(2) and 876 IAC 11.7. 
+Signed and filed this ___6th __ day of April, 2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      WILLIAM H. GRELL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                           DEPUTY WORKERS’  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     COMPENSATION COMMISSIONER 
+ 
+The parties have been served, as follows: 
+Nick Platt (via WCES) 
+John Swanson (via WCES) 
+William Scherle (via WCES) 
+Michael Roling (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals w ithin 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iow a Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the follow ing address: Workers’ Compensation Commissioner, Iow a Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iow a 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation w ithin 20 days from the date of the decision.  The appeal period 
+w ill be extended to the next business day if the last day to appeal falls on a w eekend or legal holiday. 

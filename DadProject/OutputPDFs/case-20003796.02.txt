@@ -1,0 +1,365 @@
+Case Number: 20003796.02
+Case Title:  TUTTLE, MICHELLE V. ARCHER DANIELS MIDLAND COMPANY
+Doc Type:    Decision - Court of Appeals
+Source:      231941_Tuttle_v_Archers_Daniels_Mid_22F3CEBECD00C.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 23-1941 
+Filed January 9, 2025 
+ 
+ 
+MICHELLE TUTTLE, 
+ 
+Petitioner-Appellant, 
+ 
+vs. 
+ 
+ARCHER DANIELS MIDLAND CO., 
+ 
+Respondent-Appellee. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Patrick D. Smith, 
+Judge. 
+ 
+ 
+A claimant appeals the dismissal of her judicial review action to overrule an 
+order of the deputy workers’ compensation commissioner imposing a sanction for 
+service of a subpoena.  AFFIRMED. 
+ 
+ 
+William Dennis Currell of Currell Law Firm, Cedar Rapids, for appellant. 
+ 
+Brandon W. Lobberecht and Peter J. Thill of Betty, Neuman & McMahon, 
+P.L.C., Davenport, for appellee. 
+ 
+ 
+Heard by Tabor, C.J., and Ahlers and Sandy, JJ. 
+ 
+
+ 
+2 
+TABOR, Chief Judge. 
+ 
+A deputy workers’ compensation commissioner ordered claimant Michelle 
+Tuttle to reimburse her employer, Archer Daniels Midland Company (ADM), $3900 
+as a sanction for allegedly harassing conduct in the service of a subpoena on its 
+expert Dr. Chad Abernathey.  Tuttle contends that the deputy’s order was a nullity 
+because the agency lacked jurisdiction to “adjudicate subpoenas.”  Tuttle’s 
+contention has faced procedural hurdles and continues to do so. 
+ 
+This appeal is Tuttle’s second trip to our court.  The first time around, we 
+reversed the district court’s dismissal of her challenge—holding that her petition 
+for writ of certiorari could be considered a petition for judicial review.  Tuttle v. Iowa 
+Workers’ Comp. Comm’r, No. 21-1246, 2023 WL 4105478, at *5 (Iowa Ct. App. 
+Jan. 25, 2023).  We remanded and directed Tuttle to recast her petition, which she 
+did.  We also advised the district court that since Tuttle was seeking judicial review 
+of intermediate agency action, she had to make two showings under Iowa Code 
+section 17A.19(1) (2020): (1) all adequate administrative remedies had been 
+exhausted and (2) review of the final agency action would not provide an adequate 
+remedy.  Id.  Only if both requirements were met could the court consider the merits 
+of her claim. 
+ 
+After reviewing those requirements, the district court ruled: “The 
+administrative remedies available to Tuttle in this case are adequate, and she is 
+required to exhaust such remedies before seeking review in this court.”  The court 
+explained that if the deputy was wrong in imposing the sanction, the commissioner 
+could correct that wrong on intra-agency review or the court could correct it on 
+judicial review from final agency action.  Unhappy with that decision, Tuttle again 
+
+ 
+3 
+appeals.  She argues not only that no remedy exists at the agency level, but that 
+the judicial review decision violated her due process rights. 
+ 
+Because Tuttle did not secure a decision from the commissioner on the 
+deputy’s statutory authority to impose the sanction, there’s an adequate agency 
+remedy that she has yet to exhaust.  And her constitutional claim is unpreserved.  
+We thus affirm the district court’s decision. 
+I. 
+Facts and Prior Proceedings 
+In the first appeal, we set out this factual background: 
+ 
+Tuttle had multiple workers’ compensation claims arising from 
+her employment with [ADM].  During discovery, Tuttle requested, 
+“[c]omplete copies of all photographs, surveillance films and/or 
+videotapes that Employer and insurance carrier have of [Tuttle], in or 
+at the factory or adjacent parking lots.”  ADM’s response to this 
+particular discovery request was “none.”  ADM did not update its 
+discovery responses. 
+ 
+ADM requested an independent medical examination (IME) 
+with Dr. Chad Abernathey.  The materials ADM submitted to 
+Dr. Abernathey included a statement from ADM’s counsel: “Visual 
+images exist at ADM that display [Tuttle] walking as she arrives to 
+work at the beginning of her shift, and leaves work at the end of her 
+shift, on her last date worked, March 19, 2020, with no visual signs 
+of injury or altered gait/limp.” 
+ 
+After Dr. Abernathey issued a final IME report, Tuttle served 
+Dr. Abernathey with a subpoena at his home, requesting documents 
+supporting the report, including the visual images ADM offered to 
+Dr. Abernathey.  Dr. Abernathey provided the information requested 
+in the subpoena. 
+ 
+Id. at *1. 
+ 
+ 
+Tuttle’s method of serving the subpoena on its expert drew ADM’s ire when 
+Dr. Abernathy withdrew from serving as its expert.  So it sought sanctions against 
+Tuttle.  Tuttle resisted, arguing that the workers’ compensation commissioner did 
+not have “jurisdiction” to impose sanctions.  Instead, Tuttle asserted, ADM needed 
+to seek relief in district court.  Without holding a hearing, a deputy commissioner 
+
+ 
+4 
+sanctioned Tuttle for her counsel’s conduct in serving the subpoena.  The deputy 
+wrote: 
+ 
+In this case, counsel for the claimant purposefully served 
+Dr. Abernathey, a well-known physician, with a subpoena at his 
+home, after business hours.  As evidenced by his unannounced, 
+uninvited visit to Dr. Abernathey’s office, claimant’s attorney clearly 
+knew that Dr. Abernathey had a place of business.  A conscious 
+choice was made that appears to have the intent to harass a 
+defendant’s expert witness both at his business and also outside of 
+business hours, at his home address.  Additionally, by serving a 
+subpoena, rather than the appropriate discovery motion, the claimant 
+appears to have caused an unnecessary delay or expense in this 
+litigation.  Whether that was the intent of the claimant is irrelevant. 
+ 
+The deputy determined that Tuttle should reimburse ADM for Dr. Abernathey’s 
+fees, which were $3900.  The deputy then denied Tuttle’s motion to reconsider. 
+ 
+As her next step, Tuttle applied for interlocutory appeal to the workers’ 
+compensation commissioner.  The commissioner denied that request.  Tuttle then 
+petitioned for writ of certiorari in district court, claiming the deputy lacked 
+jurisdiction to issue the sanction.  The commissioner moved to dismiss on the 
+grounds that (1) judicial review under Iowa Code chapter 17A was the exclusive 
+means to challenge the agency decision and (2) Tuttle was required to exhaust 
+administrative remedies.  Tuttle resisted the motion to dismiss.  The court granted 
+the commissioner’s motion to dismiss the petition because Tuttle sought the wrong 
+form of relief.  Our court found that even though Tuttle used the wrong vehicle—
+certiorari—the court could treat the case as a “proper chapter 17A appeal if the 
+situation merits.”  Id. at *4 (citation omitted). 
+ 
+Finding that Tuttle’s filing could be treated as a petition for judicial review, 
+we reversed and remanded.  We instructed Tuttle to file a “recast petition for 
+judicial review” that named the employer, ADM, as the respondent rather than the 
+
+ 
+5 
+commissioner.  Id. at *5.  In her amended petition, Tuttle asserted that the agency 
+“lacked jurisdiction regarding the ability to adjudicate contests to its subpoenas,” 
+“lacked legal authority to enter adjudications arising out of contests to its 
+subpoenas,” and “denied [Tuttle’s] constitutional right to Procedural Due Process.” 
+ 
+The district court held a hearing on the new petition in August 2023.1  After 
+discussing Tuttle’s sanction challenge and the remand order in depth with counsel, 
+the district court dismissed the petition for judicial review.  The court clarified that 
+it was only addressing the exhaustion questions set out in our earlier decision.  See 
+id.2  The district court found, “There is no doubt Tuttle has available to her 
+administrative remedies, which, if exhausted, would permit the same questions 
+presented in her [amended petition for judicial review] to be presented to the court 
+at a later time, once there is a final agency adjudication of her workers’ 
+compensation claim.”  So, following our instructions, the district court declined to 
+consider the merits of Tuttle’s claim that the agency lacked subject matter 
+jurisdiction or authority to adjudicate subpoenas. 
+ 
+1 Two months earlier, the deputy held a hearing on Tuttle’s underlying workers’ 
+compensation claims.  As part of that agency hearing, Tuttle urged the sanction 
+claim.  While assessing this appeal for mootness, we confirmed that the deputy 
+did not rule on the sanction claim because it was still pending in the district court.  
+See Tuttle v. Archer Daniels Midland, Iowa Workers’ Comp. Comm’n Nos. 
+21011951.02, 20003796.03, 22700262.01, 2023 WL 7476353 (Nov. 6, 2023). 
+2 At oral argument, Tuttle highlighted ADM’s agreement at the remand hearing that 
+she had exhausted her administrative remedies.  True, when the court asked if 
+“the adequate administrative remedies have been exhausted,” ADM’s counsel 
+said: “That is correct.”  But later, ADM’s counsel noted that final agency action 
+“hadn’t been rendered yet” and a question remained what the court could do upon 
+final agency action: “Will that not provide an adequate remedy?”  And in its 
+appellee’s brief, ADM defended the district court’s ruling that Tuttle failed to 
+exhaust administrative remedies. 
+
+ 
+6 
+ 
+Addressing Tuttle’s argument that the administrative remedies were not 
+adequate because the deputy lacked “subject matter jurisdiction” to “adjudicate 
+contested subpoenas,” the court sought to clarify the terminology: “this case does 
+not present a question of subject matter jurisdiction,” but one of statutory authority.  
+The court then reasoned that even if Tuttle is correct about the lack of authority, 
+that doesn’t mean there is no adequate agency remedy—the commissioner could 
+vacate the deputy’s order in a final agency action.  And because Tuttle alleged 
+only monetary losses, that final agency action would provide an adequate remedy.  
+The court concluded that Tuttle was required to exhaust administrative remedies 
+before seeking judicial review.  Tuttle again appeals. 
+II. 
+Standards of Review 
+ 
+“We review a district court’s dismissal of a petition for judicial review for 
+correction of errors at law.”  Irland v. Iowa Bd. of Med., 939 N.W.2d 85, 89 
+(Iowa 2020).  We likewise review the district court’s statutory interpretation for legal 
+error.  Bank of the W. v. Kline, 782 N.W.2d 453, 457 (Iowa 2010).  And we review 
+constitutional claims de novo.  Gluba v. State Objection Panel, 11 N.W.3d 459, 
+464 (Iowa 2024). 
+III. 
+Discussion 
+ 
+Tuttle raises two issues.  First, she reprises her contention that the agency 
+lacks “subject matter jurisdiction” to “adjudicate subpoenas.”  Second, she 
+contends the deputy’s decision violated her due process rights.  We will consider 
+each issue in turn.   
+
+ 
+7 
+ 
+A.  Does the commissioner lack authority to adjudicate subpoenas? 
+ 
+Iowa Code section 17A.13(1) governs discovery for agencies. 
+ 
+Agencies have all subpoena powers conferred upon them by 
+their enabling acts or other statutes.  In addition, prior to the 
+commencement of a contested case by the notice referred to in 
+section 17A.12, subsection 1, an agency having power to decide 
+contested cases may subpoena books, papers, records, and any 
+other real evidence necessary for the agency to determine whether 
+it should institute a contested case proceeding.  After the 
+commencement of a contested case, each agency having power to 
+decide contested cases may administer oaths and issue subpoenas 
+in those cases.  Discovery procedures applicable to civil actions are 
+available to all parties in contested cases before an agency.  
+Evidence obtained in discovery may be used in the hearing before 
+the agency if that evidence would otherwise be admissible in the 
+agency hearing.  Agency subpoenas shall be issued to a party on 
+request. 
+ 
+The second part of this subsection is at issue.  It provides: 
+On contest, the court shall sustain the subpoena or similar process 
+or demand to the extent that it is found to be in accordance with the 
+law applicable to the issuance of subpoenas or discovery in civil 
+actions.  In proceedings for enforcement, the court shall issue an 
+order requiring the appearance of the witness or the production of 
+the evidence or data within a reasonable time under penalty of 
+punishment for contempt in cases of willful failure to comply. 
+ 
+Iowa Code § 17A.13(1) (emphasis added).  Tuttle’s position is that the statute 
+gives the ability to entertain “contest[s]” and “proceedings for enforcement” to the 
+court, thus depriving the agency of that power.  Tuttle describes that power as 
+“subject matter jurisdiction.”  “Subject matter jurisdiction is the power of a court to 
+hear and determine cases of the general class to which the proceedings in 
+question belong, not merely the particular case then occupying the court’s 
+attention.”  De Stefano v. Apts. Downtown, Inc., 879 N.W.2d 155, 164 (Iowa 2016) 
+(cleaned up).  And although many appellate cases use jurisdiction informally to 
+describe agency powers, it is different from the subject matter jurisdiction of courts.  
+
+ 
+8 
+We agree with the district court that what is in dispute is the agency’s statutory 
+authority.3  
+ 
+Thus, the question Tuttle pursues is whether the deputy commissioner had 
+the statutory authority to “adjudicate subpoenas,” a term Tuttle uses as shorthand 
+for issuing orders involving the subpoenas such as protective orders and 
+sanctions.4  Tuttle cites Dunlap v. Action Warehouse, 824 N.W.2d 545, 558–59 
+(Iowa Ct. App. 2012), where we found the “express grant of powers to the workers’ 
+compensation commissioner” did not include “the power to deem a party in 
+contempt for failure to comply with a subpoena.”5 
+ 
+The commissioner declined interlocutory review of Tuttle’s question.  So 
+Tuttle leapfrogged the commissioner, asked the district court, and now asks us to 
+address it.  In doing so, she expects us to ignore the purpose of our remand—to 
+determine whether her claim was “immediately reviewable.”  Our prior panel 
+charged the district court with deciding whether Tuttle satisfied the two 
+requirements under section 17A.19(1) for intermediate agency action.6  Tuttle, 
+2023 WL 4105478, at *5. 
+ 
+3 Asserting a lack of subject matter jurisdiction is key to Tuttle’s argument that our 
+court can address her sanction claim directly without remand because defects in 
+subject matter jurisdiction can be raised at any time.  Roland v. Annett Holdings, 
+Inc., 940 N.W.2d 752, 757 (Iowa 2020). 
+4 Although the deputy also issued a protective order as part of his decision on 
+ADM’s motion to quash, at oral argument, Tuttle’s counsel agreed that the subject 
+of this appeal is the sanction only. 
+5 This is not a contempt action but arose from ADM’s motion to quash and for 
+sanctions.  ADM does not address Dunlap in its brief. 
+6 See Wal-Mart Stores, Inc. v. Iowa C.R. Comm’n, No. 15-1697, 2016 
+WL 7403726, at *1 (Iowa Ct. App. Dec. 21, 2016) (“A party seeking judicial review 
+of non-final agency action, as here, must show that (1) adequate administrative 
+remedies have been exhausted and (2) review of the final agency action would not 
+provide an adequate remedy.  Because ‘both requirements must be satisfied 
+
+ 
+9 
+ 
+In doing so, we relied on Christensen v. Iowa Civil Rights Commission, 292 
+N.W.2d 429, 431 (Iowa 1980), and Cheng v. Stanley, No. 08-0737, 2009 
+WL 3337636, at *1 (Iowa Ct. App. Oct. 7, 2009).  In Christensen, the supreme court 
+found that section 17A.13 does not “give nonagency parties a right of immediate 
+recourse to the court” to settle discovery disputes.  292 N.W.2d at 431.  The court 
+recognized the profound “disrupt[ion]” and “difficult additional burden” it would 
+cause both agencies and courts “[i]f parties were able to interrupt agency 
+proceedings by bringing original district court actions . . . [for] every discovery 
+problem which conceivably might arise.”  Id.  In Cheng, the petitioner, Cheng, 
+sought to enforce a subpoena duces tecum in a matter pending before the 
+department of human services and alleged noncompliance.  2009 WL 3337636, 
+at *1.  When Cheng filed a rule to show cause, the district court found that she 
+failed to exhaust her administrative remedies.  Id.  Our court agreed, reasoning 
+Cheng did not obtain a “final agency decision,” and “should have sought 
+enforcement through the” agency before filing for judicial review.  Id. at *2. 
+ 
+Returning to that rationale here, we reiterate that there is no final agency 
+decision on the statutory authority to sanction Tuttle.  The deputy believed it was 
+within his authority, but the commissioner refused to take up the matter before 
+Tuttle’s underlying workers’ compensation claims were decided.  Rather than wait, 
+Tuttle sought court review.  Although there was a circuitous route to the judicial 
+review decision, the district court’s November 2023 ruling found that immediate 
+ 
+before intermediate judicial review is permitted, the failure to meet one requirement 
+disposes of the issue.’” (quoting Richards v. Iowa State Com. Comm’n, 270 
+N.W.2d 616, 620 (Iowa 1978))).   
+
+ 
+10
+review of the intermediate agency action was not proper under section 17A.19(1).  
+We find no error in the district court’s ruling. 
+ 
+Tuttle’s appellate briefing focuses on the merits of her claim.  She contends 
+the agency lacked statutory authority under section 17A.13(1) to issue the 
+sanction.  And that the deputy’s ruling violated her right to due process.  Tuttle 
+maintains that the district court has jurisdiction to decide subpoena contests in the 
+first instance, and that we can decide that the deputy exceeded his statutory 
+authority when he ordered the sanction.  But Christensen and Cheng caution 
+against that piecemeal approach. 
+ 
+The proper route is the one identified on judicial review.  As the district court 
+correctly ruled, Tuttle has an adequate remedy that she has not exhausted.  She 
+can ask the commissioner whether the deputy erred in imposing the sanction.  If 
+the commissioner agrees with Tuttle and finds that the deputy lacked authority to 
+impose a sanction or violated Tuttle’s due process rights in doing so, or that the 
+sanction was unwarranted under the circumstances, then Tuttle receives an 
+adequate remedy.  If the commissioner agrees with the deputy, Tuttle has a final 
+agency decision she can challenge on judicial review under section 17A.19.  In 
+sum, we agree with the district court’s dismissal of the petition. 
+ 
+B.  Did the agency deny Tuttle’s right to due process? 
+ 
+Tuttle next contends the deputy’s imposition of the sanctions violated her 
+due process rights under article I, section 9 of the Iowa Constitution.  Tuttle asserts 
+she preserved error by raising this constitutional claim in several petitions and 
+briefs and at the district court hearing.  ADM argues error is not preserved because 
+Tuttle did not obtain a ruling. 
+
+ 
+11
+ 
+It is fundamental to our review that an issue be both raised and decided 
+before we rule on it.  Meier v. Senecaut, 641 N.W.2d 532, 537 (Iowa 2002).  Tuttle 
+did not secure a ruling from either the agency or the district court on whether the 
+deputy’s decision violated her due process rights, so she has relinquished that 
+ground for appellate review. 
+ 
+AFFIRMED. 

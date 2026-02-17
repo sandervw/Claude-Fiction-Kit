@@ -1,0 +1,193 @@
+Case Number: 5064976.01
+Case Title:  IVESTER, CRAIG V. XPO LOGISTICS FREIGHT
+Doc Type:    Decision - Court of Appeals
+Source:      231357_XPO_Logistics_v_Ivester_51B907E6BCDC3.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 23-1357 
+Filed August 21, 2024 
+ 
+ 
+XPO LOGISTICS and INDEMNITY INSURANCE GROUP COMPANY OF 
+NORTH AMERICA, 
+ 
+Plaintiffs-Appellants, 
+ 
+vs. 
+ 
+CRAIG IVESTER, 
+ 
+Defendant-Appellee. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Heather Lauber, Judge. 
+ 
+ 
+An employer appeals the district court’s ruling on judicial review of agency 
+action.  AFFIRMED. 
+ 
+ 
+Timothy W. Wegman, Jordan R. Reed (until withdrawal), and Morgan R. 
+Todd Borron of Peddicord Wharton, LLP, West Des Moines, for appellant. 
+ 
+Darin Luneckas of Luneckas Law, P.C., Cedar Rapids, for appellee. 
+ 
+ 
+Considered by Badding, P.J., Langholz, J., and Bower, S.J.* 
+ 
+*Senior judge assigned by order pursuant to Iowa Code section 602.9206 
+(2024). 
+ 
+.
+
+ 
+2
+BADDING, Presiding Judge. 
+ 
+XPO Logistics1 appeals a district court ruling on judicial review affirming a 
+workers’ compensation decision that awarded Craig Ivester permanent total 
+disability benefits.2  The only question before us is whether the commission’s fact-
+findings 
+are 
+supported 
+by 
+substantial 
+evidence. 
+ 
+See 
+Iowa 
+Code 
+§ 17A.19(10)(f) (2022); Brakke v. Iowa Dep’t of Nat. Res., 897 N.W.2d 522, 530 
+(Iowa 2017) (outlining the standard for judicial review of agency decisions).  We 
+conclude they are and affirm the district court.  
+ 
+On June 8, 2016, Ivester felt his back pop while helping another driver off 
+load some weight from a tractor trailer at a weigh station.  An MRI showed a disc 
+protrusion at the L5–S1, with the protrusion displacing the left descending sacral 
+nerve root and extending across midline and abutting the right sacral nerve root.  
+Ivester underwent surgery—a left L5–S1 diskectomy—in October.  After the 
+surgery, Ivester’s left-side symptoms improved.  But he almost immediately started 
+experiencing numbness, pain, and weakness on his right side.  Those symptoms 
+got progressively worse over the next few years.   
+ 
+Ivester has not worked since May 2019.  He applied for workers’ 
+compensation benefits in September for his lower back.  XPO stipulated that 
+Ivester’s herniated disc was a work-related injury but argued that his ongoing right-
+side symptoms were unrelated to that injury.  In a thorough arbitration decision, a 
+ 
+1 This litigation also involves XPO’s insurance carrier, Indemnity Insurance 
+Company of North America, collectively XPO.   
+2 The proceedings combined two claims from two injuries, one to Ivester’s lower 
+back in June 2016 and one to his left shoulder in April 2018.  This appeal only 
+concerns the back injury. 
+
+ 
+3
+deputy commissioner rejected that argument, as did the commissioner on intra-
+agency appeal and the district court on judicial review.  The deputy relied on the 
+unrefuted opinions of two experts—Dr. Stanley Mathew and Dr. David Segal—
+“who opined that [Ivester’s] ongoing low back and lower extremity symptoms, 
+including his right-side symptoms, are related to the work injury of June 8, 2016.”   
+ 
+Dr. Mathew, who provided Ivester with pain management for his lower back, 
+performed an electrodiagnostic study in May 2019 that was “consistent with a right 
+S1 radiculopathy.”  After reviewing Ivester’s medical records, including his three 
+MRIs, Dr. Mathew noted the “initial injury caused a massive herniated disc which 
+irritated multiple levels and bilateral S1 nerve roots.”  He concluded that Ivester’s 
+“most significant symptoms after his June 8, 2016 work injury were on the left side 
+though surgery did improve his symptoms.  He has now progressed to have more 
+radicular pain on the right side.  This happens quite often after surgical revision of 
+the spine.”   
+ 
+Dr. David Segal, a neurosurgeon, agreed with Dr. Mathew after performing 
+an independent medical examination of Ivester in August 2020: 
+The bilateral radiculopathies were caused by the disc herniation, the 
+pressure, and the inflammatory process.  The left side resolved with 
+surgery; the right side continued.  However, the right-sided 
+radiculopathy is clearly caused by the work injury.  Were it not for the 
+work injury, Mr. Ivester would not have had the right S1 
+radiculopathy.  There was no intraoperative complication or incident 
+that caused this. . . .  [T]he act of decompressing the right S1 nerve 
+[during surgery] could have caused increased symptomatology and 
+autonomic and sympathetic injury.  There is no other likely cause of 
+the progression of the right S1 radiculopathy—the right S1 symptoms 
+represent progression of the work injury of June 8, 2016. 
+ 
+In plainer terms, Dr. Segal stated: “[T]he fact that Mr. Ivester’s right S1 
+radiculopathy appeared worse following the surgery and continued to progress is 
+
+ 
+4
+not a medical mystery—it is clearly understood from this injury, and the sequence 
+of events are the type seen in a neurosurgical practice.” 
+ 
+On appeal, XPO resurrects the argument it made at the agency level—that, 
+since the surgery following the injury was to address a left lumbar disc herniation 
+and symptoms to the left lower extremity resolved, then symptoms to the right 
+lower extremity with no “immediate onset” cannot be causally related to the injury.  
+But “[m]edical causation presents a question of fact that is vested in the discretion 
+of the workers’ compensation commission.”  Cedar Rapids Cmnty. Sch. Dist. v. 
+Pease, 807 N.W.2d 839, 845 (Iowa 2011).  And that issue “is essentially within the 
+domain of expert testimony,” which the commission is free to accept or reject.  Id. 
+(citation omitted).  XPO presented no medical evidence that was contrary to the 
+causation opinions of Drs. Mathew and Segal, and the remaining evidence in the 
+record was consistent with their opinions, despite XPO’s claims to the contrary on 
+appeal.  See id. at 845–49 (finding substantial evidence to support causation 
+based on expert opinion consistent with remaining evidence).     
+ 
+Yet XPO contends that because Ivester went from January 2017 through 
+April 2018 without treatment for his right-side symptoms, the agency’s decision is 
+not supported by substantial evidence.  But during that period, Ivester did seek 
+treatment, only to be rebuffed by XPO and its insurance carrier.  He ended up 
+having to obtain his own independent treatment, which targeted his ongoing back 
+pain.  While Ivester was working for XPO without restrictions during that stretch, 
+his job was modified to suit his abilities given his symptoms.       
+ 
+“Evidence is not insubstantial merely because different conclusions may be 
+drawn from the evidence.”  Id. at 845.  Because the evidence supports the findings 
+
+ 
+5
+actually made, see id., we agree with the district court that the commissioner’s 
+finding on causation is supported by substantial evidence.  
+ 
+XPO alternatively challenges the commission’s finding that Ivester had 
+reached maximum medical improvement “because there were anticipated future 
+treatments beyond pain management, which could affect his functional 
+impairment.”  “[A] claim for permanent disability benefits is not ripe until maximum 
+medical improvement has been achieved.”  Bell Bros. Heating & Air Conditioning 
+v. Gwinn, 779 N.W.2d 193, 201 (Iowa 2010).  An individual reaches maximum 
+medical improvement when “it is medically indicated that significant improvement 
+from the injury is not anticipated.”  See Broadlawns Med. Ctr. v. Sanders, 792 
+N.W.2d 302, 307 (Iowa 2010) (citation omitted).   
+ 
+The “anticipated future treatments” that XPO argues negate maximum 
+medical improvement are trigger-point injections, fusion surgery, and “the 
+possibility of a spinal stimulator.”  The record, however, shows the injections were 
+intended to manage Ivester’s pain and would not result in remission of his 
+condition.  See Wal-Mart Stores, Inc. v. Fulk, No. 01-1782, 2002 WL 1758267, 
+at *1 (Iowa Ct. App. July 31, 2002) (finding pain management treatment did not 
+negate maximum medical improvement because it was “not likely that further 
+treatment of continuing pain . . . will decrease the extent of permanent industrial 
+disability”).  As for the fusion surgery, a neurosurgeon that Ivester saw for a second 
+opinion only said that before surgery was possible, Ivester would need to lose 
+weight.  Even then, the neurosurgeon concluded surgery would not be beneficial.  
+With respect to the spinal stimulator, Ivester agreed with XPO’s counsel that “no 
+one’s recommended that at this point in time.”  Because these treatments were 
+
+ 
+6
+either limited to pain management or not anticipated, we agree with the district 
+court that the commissioner’s finding on maximum medical improvement is 
+supported by substantial evidence.   
+ 
+For these reasons, we affirm the district court’s conclusions that the 
+challenged findings are supported by substantial evidence. 
+ 
+AFFIRMED. 
+ 
+ 
+ 

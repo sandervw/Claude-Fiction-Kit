@@ -1,0 +1,493 @@
+Case Number: 1665279.01
+Case Title:  HOWARD, NAZARETH V. PRESTAGE FOODS OF IOWA
+Doc Type:    Decision - Deputy
+Source:      Howard Nazareth-1665279.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+NAZARETH HOWARD, 
+  : 
+ 
+ 
+  :                    File No. 1665279.01 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :  
+PRESTAGE FOODS OF IOWA, LLC, 
+  : 
+ 
+ 
+  :   
+ 
+Employer, 
+  : 
+        ARBITRATION DECISION 
+ 
+ 
+  :   
+and 
+ 
+  : 
+ 
+ 
+  : 
+SAFETY NATIONAL CASUALTY CORP., : 
+ 
+ 
+  :     Head Note Nos.:  1402.40, 1403.20, 
+ 
+Insurance Carrier, 
+  : 
+ 
+ 
+    1703, 1803.1, 2907 
+ 
+Defendants. 
+  :   
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Claimant Nazareth Howard filed a petition in arbitration seeking workers’ 
+compensation benefits from defendants Prestage Foods of Iowa, LLC, employer, and 
+Safety National Casualty Corporation, insurer. The hearing occurred before the 
+undersigned on January 20, 2021, via CourtCall video conference.  
+The parties filed a hearing report at the commencement of the arbitration 
+hearing.  In the hearing report, the parties entered into various stipulations.  All of those 
+stipulations were accepted and are hereby incorporated into this arbitration decision, 
+and no factual or legal issues relative to the parties’ stipulations will be raised or 
+discussed in this decision.  The parties are now bound by their stipulations. 
+The evidentiary record consists of: Joint Exhibits 1 through 10, Claimant’s 
+Exhibits 1 through 9, and Defendants’ Exhibits A through J. Claimant testified on his 
+own behalf. Andrea Jondle also testified. The evidentiary record was closed at the end 
+of the hearing, and the case was considered fully submitted upon receipt of the parties’ 
+briefs on February 15, 2021. 
+ISSUES 
+The parties submitted the following disputed issues for resolution: 
+1. Whether claimant sustained a work-related neck/cervical spine injury. 
+2. Whether claimant’s injury was limited to his right shoulder or extended into 
+the body as a whole. 
+3. Whether permanency is ripe for determination, and if so, the extent of 
+claimant’s permanent disability. 
+4. Whether claimant is entitled to additional temporary benefits. 
+5. Claimant’s rate. 
+ELECTRONICALLY FILED     2021-Apr-14  15:27:56     DIVISION OF WORKERS' COMPENSATION
+
+HOWARD V. PRESTAGE FOODS OF IOWA, LLC 
+Page 2 
+6. Whether claimant is entitled to additional medical care for his neck. 
+7. Whether claimant is entitled to reimbursement for his independent medical 
+examination (IME) pursuant to Iowa Code section 85.39. 
+8. Costs. 
+FINDINGS OF FACT 
+The parties agree claimant sustained a work-related injury on May 1, 2019 when 
+he slipped and fell and landed on the right side of his body. (Hearing Report; Hrg. 
+Transcript, p. 20) There is no dispute that claimant injured his right shoulder as a result 
+of this slip and fall, but defendants dispute whether claimant’s injury extends beyond his 
+right shoulder into the body and whether claimant injured his neck/cervical spine during 
+the incident.  
+After the fall, claimant was immediately evaluated in defendant-employer’s 
+nurse’s office before being sent to an occupational medicine clinic. (Tr., pp. 20-21) 
+When conservative treatment, including physical therapy, failed, claimant was referred 
+to Mark Palit, M.D., an orthopedist, for his right shoulder. (JE 1, p. 7)  
+Notably, the records from claimant’s treatment at the occupational medicine clinic 
+are devoid of any mentions of neck pain. (JE 1)  Claimant similarly did not mention his 
+neck on his medical history questionnaire that he completed prior to initiating physical 
+therapy. (JE 6, p. 79) 
+Claimant likewise did not represent neck pain at his first appointment with Dr. 
+Palit. Instead, he complained only of right shoulder pain, for which Dr. Palit 
+recommended surgery. (JE 3, pp. 22-23) That surgery—a right shoulder arthroscopy 
+rotator cuff repair with labral debridement and subacromial decompression—was 
+performed on June 19, 2019. (JE 3, p. 27) 
+Claimant continued to report significant right shoulder symptoms during his follow 
+ups with Dr. Palit in June, July and August of 2019, but Dr. Palit’s notes make no 
+mention of neck pain until an appointment on September 17, 2019. (JE 3, p. 36) Dr. 
+Palit diagnosed claimant with cervical radiculopathy and recommended an MRI. (JE 3, 
+p. 37)   
+Dr. Palit indicated the MRI revealed significant stenosis at C4-C5 and C5-C6 for 
+which he recommended a cervical epidural steroid injection (ESI). (JE 3, p. 42) Dr. Palit 
+also stated, “This is work comp related.” (JE 3, p. 42) He restricted claimant from 
+returning to work until the ESI was performed. (JE 3, p. 42) 
+Defendants then scheduled claimant for another cervical MRI for purposes of a 
+second opinion. (See JE 3, p. 43)  
+In the meantime, defendants authorized Dr. Palit’s recommendation for a cervical 
+ESI. The ESI was performed by John Rayburn, M.D., a pain management specialist, 
+who also prescribed claimant gabapentin and recommended an EMG. Notably, that 
+EMG was negative for cervical radiculopathy. (JE 5, p. 74) 
+
+HOWARD V. PRESTAGE FOODS OF IOWA, LLC 
+Page 3 
+Unfortunately, Dr. Rayburn’s ESI provided only brief relief. (JE 4, p. 50) As a 
+result, claimant was referred to spine surgeon Trevor Schmitz, M.D. (JE 4, p. 52) In the 
+interim, Dr. Rayburn recommended continued use of the gabapentin. (JE 4, p. 52) 
+After his initial evaluation of claimant on December 11, 2019, Dr. Schmitz 
+recommended a nerve block to diagnose whether claimant had a radicular component 
+to his pain. (JE 4, p. 58) When the nerve block provided claimant no relief, Dr. Schmitz 
+offered the following opinion: “I think his shoulder symptoms are likely stemming from 
+the shoulder. There is nothing further to offer from his neck. He points directly over his 
+shoulder as the source of his symptoms.” (JE 4, p. 60) Dr. Schmitz then released 
+claimant from his care. 
+In a January 23, 2020 letter to defendants’ counsel, Dr. Schmitz opined 
+claimant’s May 1, 2019 work injury did not cause, materially aggravate, or accelerate 
+claimant’s neck condition. (Defendants’ Ex. A, pp. 1-2) Dr. Schmitz later reaffirmed this 
+opinion in an April 6, 2020 check-the-box style letter. (Def. Ex. A, pp. 5-6) 
+On April 23, 2020, Dr. Palit authored a letter to claimant’s counsel in which he 
+opined that claimant’s cervical spine complaints were caused by the May 1, 2019 work 
+injury and that further treatment, including surgical consultation, was appropriate. (Cl. 
+Ex. 3, p. 19) 
+Claimant continued to report shoulder pain during his treatment with Dr. Rayburn 
+and Dr. Schmitz. As a result, defendants authorized treatment with Kyle Galles, M.D.  
+Claimant was first seen by Dr. Galles on April 1, 2020. Dr. Galles was concerned that 
+claimant’s rotator cuff failed to heal, so he recommended another MRI and placed 
+claimant on work restrictions. (JE 4, p. 64) 
+On April 2, 2020, defendants’ counsel penned a letter to claimant’s counsel 
+indicating defendant-employer had work available within Dr. Galles’ restrictions. (Ex. D, 
+p. 21) The letter included details of lodging, meals, and transportation and 
+communicated to claimant that if he refused the offer, he must do so in writing and 
+would not be entitled to temporary benefits during the refusal. (Ex. D, p. 21)  
+Dr. Galles’ April 1, 2020 restrictions remained in place until he performed surgery 
+on claimant on April 27, 2020. The surgery consisted of a right shoulder manipulation 
+under anesthesia, arthroscopic acromioplasty and extensive arthroscopic debridement. 
+(JE 4, p. 66) Dr. Galles later opined that this surgery was limited to the right shoulder 
+“and did not extend into the body.” (Def. Ex. B, p. 12) 
+Dr. Galles maintained claimant’s lifting restrictions during his post-operative 
+treatment, including when he released claimant from surgical care on August 27, 2020 
+and referred claimant back to Dr. Rayburn for pain management. (JE 4, p. 73) 
+Dr. Galles clarified in a September 10, 2020 check-the-box style letter that the 
+restrictions he assigned were temporary until claimant underwent pain management. 
+(Def. Ex. B, p. 12) He also clarified that the pain management sessions were to 
+determine if additional treatment was necessary or claimant had reached maximum 
+medical improvement (MMI). (Def. Ex. B, p. 12) 
+
+HOWARD V. PRESTAGE FOODS OF IOWA, LLC 
+Page 4 
+As a result, claimant returned to Dr. Rayburn on September 16, 2020. Claimant 
+was “adamant” to Dr. Rayburn that he was interested in any additional injections or 
+surgeries. (JE 4, p. 74) Because claimant failed gabapentin, Dr. Rayburn indicated 
+opioid pain medications were not appropriate and he had nothing else to offer. (JE 4, p. 
+74) As such, he placed claimant at MMI and released him from his care. (JE 4, p. 74) 
+On November 16, 2020, Dr. Galles authored a letter indicating claimant reached 
+MMI as of August 27, 2020. He assigned a 13 percent upper extremity impairment 
+rating based on claimant’s range of motion deficits. (Def. Ex. B, p. 14a) 
+Claimant underwent an IME with Charles Wenzel, M.D., in July of 2020 before he 
+was released from Dr. Galles’ care. In his August 27, 2020 report, Dr. Wenzel opined 
+claimant sustained an aggravation/acceleration of his pre-existing cervical degeneration 
+as a result of his May 1, 2019 work injury. (Claimant’s Ex. 1, p. 9) Dr. Wenzel disputed 
+Dr. Schmitz’s concern that claimant did not immediately note neck pain or a radicular 
+component to his pain; Dr. Wenzel pointed to claimant’s treatment records from May 5, 
+2019, in which claimant reported pain and numbness down his arm. (Cl. Ex. 1, p. 10)  
+Dr. Wenzel opined claimant was not at MMI for either his neck condition or his 
+right shoulder condition. He recommended a second opinion for the neck and physical 
+therapy for the shoulder. (Cl. Ex. 1, p. 10) He opined that claimant’s right shoulder 
+condition extended into the body as a whole because claimant had surgery on the “torso 
+side of the body.” (Cl. Ex. 1, p. 13) Dr. Wenzel also provided provisional impairment 
+ratings of 5 percent whole percent impairment for loss of range of motion in claimant’s 
+neck and 17 percent upper extremity impairment for loss of range of motion in 
+claimant’s shoulder. (Cl. Ex. 1, p. 14) 
+Claimant testified he went back to work with Dr. Galles’ restrictions in April of 
+2020 and was “wiping tables,” but he was at times unable to continue the work due to 
+pain. (Tr., pp. 43-44) He acknowledged, however, that no doctor restricted him from 
+working entirely, that he notified defendant-employer via phone call only, and that 
+defendant-employer always had light-duty work available to him. (Tr., pp. 86, 88) 
+Claimant worked at least some days in April, May, June, July, August and September, 
+and he last appeared for work on September 10, 2020. (See Tr., pp. 95, 10) At the time 
+of the hearing, defendant-employer was still offering claimant work within his 
+restrictions, but claimant was calling in daily indicating he was unable to work due to 
+pain. (Tr., pp. 100-101) 
+Turning first to the nature of claimant’s injuries, I am not persuaded by claimant’s 
+testimony that he experienced and reported neck pain in the immediate aftermath of his 
+slip and fall. As discussed above, there is no notation of neck pain in any of the 
+treatment records until months after the May 1, 2019 incident. Claimant did not even 
+identify his neck as an injured body part in his answers to defendants’ interrogatories in 
+September of 2019. (Def. Ex. I, pp. 50-51) 
+I acknowledge Dr. Palit’s statement in his record from claimant’s September 16, 
+2019 appointment that claimant’s neck condition “is work comp related” and his 
+subsequent letter on April 23, 2020 in which he opined that claimant’s cervical spine 
+condition was related to the May 1, 2019 injury, but Dr. Palit failed to offer any 
+
+HOWARD V. PRESTAGE FOODS OF IOWA, LLC 
+Page 5 
+explanation regarding claimant’s delayed reporting of his neck pain. It is also unclear 
+whether Dr. Palit reviewed claimant’s negative EMG or any of Dr. Schmitz’s or Dr. 
+Rayburn’s treatment records prior to offering his April 23, 2020 opinion. 
+I likewise acknowledge Dr. Wenzel’s opinion that the May 1, 2019 slip and fall 
+aggravated claimant’s pre-existing neck condition. Dr. Wenzel, however, was seemingly 
+under the impression that claimant was experiencing and reported neck and radicular 
+symptoms immediately after the injury. Dr. Wenzel also failed to address claimant’s 
+negative EMG and failure to respond to the nerve block.  
+Dr. Schmitz, on the other hand, treated claimant’s neck condition, evaluated 
+claimant after he received no relief from his nerve block injection, and observed 
+claimant point directly over his shoulder as the source of his symptoms. Given 
+claimant’s delayed reporting of his neck symptoms and his failed response to the nerve 
+block injection, I find Dr. Schmitz’s opinion most convincing. I therefore find insufficient 
+evidence that claimant sustained a neck injury as a result of his May 1, 2019 slip and 
+fall. 
+With respect to claimant’s right shoulder, I find claimant reached MMI on August 
+27, 2020, as indicated by Dr. Galles. At that point, Dr. Galles recommended one to two 
+pain management visits, which claimant pursued, but Dr. Rayburn had nothing further to 
+offer.  
+Dr. Wenzel opined that claimant had not yet reached MMI because he “should 
+complete physical therapy and any other treatment recommended by Dr. Galles.” (Cl. 
+Ex. 1, p. 10) In his November 16, 2020 letter, however, Dr. Galles confirmed he had no 
+additional treatment recommendations.  
+Using the measurements taken in claimant’s IME with Dr. Wenzel, Dr. Galles 
+assigned a 13 percent upper extremity impairment rating. Unlike Dr. Wenzel, however, 
+Dr. Galles did not include impairment’s for claimant’s loss of extension or adduction. Dr. 
+Galles failed to explain why he did not include these measurements in his rating. I 
+therefore find Dr. Wenzel’s rating to be most persuasive. I find claimant sustained a 17 
+percent right upper extremity impairment for range of motion deficits. 
+Turning to claimant’s rate, claimant’s calculation assumes claimant worked a set 
+45 hours per week every week. Claimant, however, testified his hours varied. (Tr., p. 54) 
+In fact, claimant’s wage records indicate claimant, during his short tenure with 
+defendant-employer, never worked 45 hours. (See Def. Ex. C) Defendants’ rate 
+calculation is based on claimant’s actual hours worked and corresponding wage 
+records. I therefore find it more persuasive. I adopt defendants’ rate calculation and find 
+claimant’s average weekly wage to be $650.48.   
+CONCLUSIONS OF LAW 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+
+HOWARD V. PRESTAGE FOODS OF IOWA, LLC 
+Page 6 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995).  Miller v. 
+Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 1994).  Unrebutted expert medical 
+testimony cannot be summarily rejected.  Poula v. Siouxland Wall & Ceiling, Inc., 516 
+N.W.2d 910 (Iowa App. 1994). 
+As discussed above, considering claimant’s delayed reporting, failure to respond 
+to a nerve block and the opinions of Dr. Schmitz, among other facts, I found insufficient 
+evidence that claimant sustained a neck injury resulting from his work-related slip and 
+fall on May 1, 2019. I therefore conclude claimant failed to satisfy his burden to prove he 
+sustained a work-related injury to his neck or cervical spine. 
+Having determined claimant failed to prove causation with respect to his neck or 
+cervical spine, I conclude claimant failed to prove his entitlement to additional medical 
+care for his neck. 
+Claimant did, however, sustain a stipulated injury to his right shoulder. The 
+question is whether that injury is limited to a scheduled “shoulder” under the 
+legislature’s 2017 amendments to Iowa Code section 85.34 or extends into claimant’s 
+body as a whole. 
+The Iowa legislature modified section 85.34 in 2017 by adding the shoulder to the 
+list of scheduled members. The new subsection states, in its entirety: “For the loss of a 
+shoulder, weekly compensation during four hundred weeks.” Iowa Code § 85.34(2)(n). 
+In Deng v. Farmland Foods, Inc., File No. 5061883 (App. September 29, 2020) 
+and Chavez v. MS Technology, LLC, File No. 5066270 (App. September 30, 2020), the 
+Commissioner addressed what constitutes “shoulder” under the law. In Deng, the 
+Commissioner determined the muscles that make up the rotator cuff are included within 
+the definition of “shoulder” under section 85.34(2)(n). In Chavez, the Commissioner 
+determined both the labrum and the acromion are likewise included in the definition. 
+In this case, claimant underwent a right shoulder arthroscopy rotator cuff repair 
+with labral debridement and subacromial decompression followed by a subsequent 
+arthroscopic acromioplasty with extensive arthroscopic debridement. As discussed, the 
+rotator cuff, labrum and acromion have all been deemed by the Commissioner to be 
+injuries to the scheduled member shoulder. In fact, like claimant in this case, the 
+
+HOWARD V. PRESTAGE FOODS OF IOWA, LLC 
+Page 7 
+claimant in Chavez similarly underwent a rotator cuff repair, along with debridement of 
+the labrum and a subacromial decompression. Thus, I conclude claimant’s injury is 
+limited to the “shoulder” under section 85.34(2)(n) and does not extend into the body as 
+a whole.  
+Claimant asserts the extent of his entitlement to permanent partial disability 
+(PPD) benefits is not ripe for determination. As discussed, however, I found claimant 
+reached MMI on August 27, 2020. Iowa Code section 85.34(2), as amended by the 
+legislature in 2017, provides that “[c]ompensation for permanent partial disability shall 
+begin when it is medically indicated that maximum medical improvement from the injury 
+has been reached . . . . “Iowa Code § 85.34(2). Having found claimant reached MMI, I 
+conclude the extent of claimant’s permanency is ripe for determination and that 
+claimant’s PPD benefits should commence on August 27, 2020. 
+Permanent partial disability compensation for the shoulder shall be paid based 
+on a maximum of 400 weeks. Iowa Code § 85.34(2)(n). Having adopted Dr. Wenzel’s 
+17 percent right upper extremity impairment for range of motion deficits, I conclude 
+claimant is entitled to 68 weeks of permanent partial disability (PPD) benefits. 
+Claimant asserts he is entitled to a running award of temporary benefits. Iowa 
+Code section 85.33, as amended in 2017, states: 
+3.a. If an employee is temporarily, partially disabled and the employer 
+for whom the employee was working at the time of injury offers to the 
+employee suitable work consistent with the employee's disability the 
+employee shall accept the suitable work, and be compensated with 
+temporary partial benefits. If the employer offers the employee suitable 
+work and the employee refuses to accept the suitable work offered by the 
+employer, the employee shall not be compensated with temporary partial, 
+temporary total, or healing period benefits during the period of the 
+refusal. . . . 
+b. The employer shall communicate an offer of temporary work to the 
+employee in writing, including details of lodging, meals, and transportation, 
+and shall communicate to the employee that if the employee refuses the 
+offer of temporary work, the employee shall communicate the refusal and 
+the reason for the refusal to the employer in writing and that during the 
+period of the refusal the employee will not be compensated with temporary 
+partial, temporary total, or healing period benefits, unless the work refused 
+is not suitable.  If the employee refuses the offer of temporary work on the 
+grounds that the work is not suitable, the employee shall communicate the 
+refusal, along with the reason for the refusal, to the employer in writing at 
+the time the offer of work is refused. Failure to communicate the reason 
+for the refusal in this manner precludes the employee from raising 
+suitability of the work as the reason for the refusal until such time as the 
+reason for the refusal is communicated in writing to the employer. 
+Iowa Code § 85.33(3) (emphasis added). 
+
+HOWARD V. PRESTAGE FOODS OF IOWA, LLC 
+Page 8 
+The statute first requires defendants to communicate their offer of temporary 
+work in writing. The offer in question in this case occurred on April 2, 2020, in writing, 
+and I found it included all of the details required in section 85.33(b). 
+As discussed in the findings of fact, claimant admitted there were many days 
+during which he failed to show up for work despite defendant-employer’s offer of 
+suitable work. While claimant testified he notified defendant-employer via phone call, 
+the statute requires (“shall”) claimants to communicate such refusals in writing.  
+The legislature set forth specifically what occurs if a claimant fails to comply with 
+the statutory requirements when refusing an offer of temporary work: “[D]uring the 
+period of the refusal the employee will not be compensated with temporary partial, 
+temporary total, or healing period benefits, unless the work refused is not suitable.”  
+Iowa Code § 85.33(3)(b).  
+In this case, claimant testified he was unable to perform the work offered to him 
+due to pain, but claimant failed to assert the work was not suitable in writing as required 
+by the statute. As such, the statute indicates he is unable to claim suitably of the work 
+as the reason for his refusal. Iowa Code § 85.33(3)(b). I therefore conclude claimant 
+should not be compensated with temporary benefits on any of the days after April 2, 
+2020 when he failed to appear for work through the date of the hearing.1 
+With respect to claimant’s rate, Iowa Code section 85.36(6) provides that if an 
+employee is paid on a daily or hourly basis or by output, weekly earnings are computed 
+by dividing by 13 the earnings over the 13-week period immediately preceding the 
+injury. In this case, however, claimant worked for defendant-employer less than 13 
+calendar weeks immediately preceding his injury. As such, section 85.36(7) indicates 
+the rate is supposed to be determined by looking at the earnings of other similarly 
+situated employees. The parties, however, neglected to include any such evidence.  
+As such, the best evidence available in this case is claimant’s earnings in the 
+weeks preceding his injury, even though the full 13 weeks are not available. I found 
+defendants’ rate calculation to be post persuasive because it relies on claimant’s actual 
+hours worked and wage records. Defendants also excluded a week that did not reflect 
+claimant’s customary earnings, as required by section 85.36(6). Thus, I adopt 
+defendants’ rate calculation and found claimant’s average weekly wage to be $650.48. 
+Relying on the parties’ stipulations, claimant was single and entitled to two 
+exemptions at the time of his injury. Using the rate book in effect at the time of 
+claimant’s injury (July 1, 2018 through June 30, 2019), I conclude claimant’s rate is 
+$423.22.  
+Per the stipulations in the hearing report, defendants paid some of claimant’s 
+benefits at an inflated rate. Iowa Code section 85.34(5), as amended in 2017, indicates 
+that defendants are entitled to a credit for those overpayments against “any future 
+                                                 
+1 Claimant sought a running award of temporary benefits starting on September 26, 2019. Per the parties’ stipulation 
+on the hearing report, however, claimant was already paid temporary benefits from June 19, 2019 (the date of his first 
+right shoulder surgery) through April 5, 2020. Thus, to the extent claimant was entitled to temporary benefits before 
+April 2, 2020, he has already received them.  
+
+HOWARD V. PRESTAGE FOODS OF IOWA, LLC 
+Page 9 
+weekly benefits due pursuant to subsection 2 [relating to permanent partial disabilities], 
+for any current or subsequent injury.” Thus, defendants are entitled to a credit for their 
+overpayment against any outstanding PPD benefits.  
+Claimant also seeks reimbursement for his IME with Dr. Wenzel and his costs. 
+Turning first to the IME, the reimbursement provisions of Iowa Code section 85.39 are 
+not triggered until “an evaluation of permanent disability ha[s] been made by a physician 
+retained by the employer.” Iowa Code § 85.39(2). In this case, Dr. Wenzel issued his 
+report on August 27, 2020. At that point, no physician retained by the employer had 
+performed an evaluation of permanent disability; Dr. Galles did not issue his rating until 
+November of 2020. I therefore conclude claimant is not entitled to reimbursement under 
+Iowa Code section 85.39. 
+Per the Iowa Supreme Court’s holding in Des Moines Area Regional Transit 
+Authority v. Young, (hereinafter “DART”), however, claimant still may be able to recover 
+the costs of the IME report under the administrative rules. 867 N.W.2d 839, 846-47 
+(Iowa 2015); 876 IAC 4.33(5). 
+Per a health insurance claim form provided by claimant, Dr. Wenzel charged 
+$1,299.00 for his IME examination and $2,641.50 for the report itself. (Cl. Ex. 8, p. 32a). 
+Under DART, I conclude claimant is entitled to reimbursement in the amount of 
+$2,641.50. 
+Claimant is also seeking reimbursement for $350.00 for Dr. Palit’s “medical 
+conference and report.” (Cl. Ex. 8, p. 32) Per DART, however, only the cost of the report 
+itself can be assessed. Dr. Palit charged $200.00 for his conference and $150.00 for the 
+letter containing his opinions. As such, I conclude claimant is only entitled to a cost 
+assessment in the amount of $150.00. 
+Claimant is also seeking reimbursement for his filing fee, which defendant does 
+not dispute. Defendants are therefore taxed $100.00 for claimant’s filing fee. 876 IAC 
+4.33(7). 
+Lastly, claimant seeks an assessment in the amount of $79.00 for obtaining 
+copies of medical records. This is not an allowable cost under the rules.  
+In total, defendants are assessed with $2,891.50. 
+ORDER 
+THEREFORE, IT IS ORDERED: 
+Defendants shall pay claimant sixty-eight (68) weeks of permanent partial 
+disability benefits commencing on August 27, 2020, at the rate of four hundred twenty-
+three dollars and 22/100 ($423.22) per week. 
+ 
+ 
+
+HOWARD V. PRESTAGE FOODS OF IOWA, LLC 
+Page 10 
+Defendants shall pay accrued weekly benefits in a lump sum together with 
+interest at an annual rate equal to the one-year treasury constant maturity published by 
+the federal reserve in the most recent H15 report settled as of the date of injury, plus 
+two percent. 
+Defendants are entitled to a credit for their overpayment of benefits against any 
+outstanding permanency benefits.  
+Pursuant to rule 876 IAC 4.33, defendants shall reimburse claimant’s costs in the 
+amount of two thousand eight hundred ninety-one and 50/100 dollars ($2,891.50). 
+Defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1(2) and 876 IAC 11.7.   
+Signed and filed this _14th _ day of April, 2021. 
+ 
+______________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+         STEPHANIE J. COPLEY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEPUTY WORKERS’  
+ 
+ 
+ 
+ 
+ 
+ 
+  COMPENSATION COMMISSIONER 
+The parties have been served, as follows: 
+Robert Gainer (via WCES) 
+Jennifer Clendenin (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following addres s:  Workers’ Compensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal period 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 

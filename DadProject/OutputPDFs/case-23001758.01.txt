@@ -1,0 +1,619 @@
+Case Number: 23001758.01
+Case Title:  BELL, DANIEL V. A TO Z DRYING, INC.
+Doc Type:    Decision - Deputy
+Source:      Bell Daniel-23001758.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+DANIEL BELL, 
+No. 23001758.01 
+ 
+Claimant, 
+vs. 
+ 
+ 
+A TO Z DRYING, INC., 
+ARBITRATION DECISION 
+ 
+Employer, 
+ACCIDENT FUND GENERAL 
+INSURANCE CO., 
+Headnotes:  1108.50 
+ 
+Insurance Carrier, 
+ 
+Defendants. 
+I.  
+STATEMEN T OF TH E C AS E. 
+Claimant Daniel Bell seeks workers’ compensation benefits from the defendants, 
+employer A to Z Drying, Inc. (A to Z) and insurance carrier Accident Fund General 
+Insurance Co. (Accident Fund). The undersigned presided over an arbitration hearing 
+on July 23, 2024. Bell participated personally and through attorney Nicholas L. Shaull. 
+The defendants participated by and through attorney Andrew Portis. Alyssa Slaichert 
+served as the representative for A to Z. After full submission of the case, Laura 
+Ostrander appeared on behalf of the defendants and Portis withdrew. 
+Bell alleges he developed testicular cancer in the form of pure seminoma due to 
+exposure to insecticide while working at A to Z. Bell’s coworker Tracy Levendusky 
+developed the same type of cancer close in time and has initiated his own case before 
+the agency, Iowa Workers’ Compensation Commissioner No. 23700547.01. The two 
+men received care from some of the same doctors and expert witnesses considered 
+both men’s conditions when opining on each case. While there is a degree of crossover 
+between the two cases with respect to some facts, this decision is focused on Bell’s 
+case. 
+II.  
+ISSU ES . 
+Under Iowa Administrative Code rule 876—4.19(3)(f), the parties jointly 
+submitted a hearing report defining the claims, defenses, and issues submitted to the 
+presiding deputy commissioner. The hearing report was approved and entered into the 
+record via an order because it is a correct representation of the disputed issues and 
+ELECTRONICALLY FILED     2025-Apr-30  10:44:43     DIVISION OF WORKERS' COMPENSATION
+
+BELL V. A TO Z DRYING, INC. 
+Page 2 
+ 
+stipulations in this case. The parties identified the following disputed issues in the 
+hearing report: 
+1) Did Bell sustain an injury arising out of and in the course of his employment 
+with A to Z? 
+2) Did Bell give timely notice of the alleged injury? 
+3) Is Bell entitled to temporary total disability (TTD) or healing period (HP) 
+benefits? 
+4) What is the nature and extent of permanent disability, if any, caused by the 
+alleged injury? 
+5) Is Bell entitled to payment of medical expenses? 
+6) Is Bell entitled to alternate care? 
+7) Is Bell entitled to recover the cost of an independent medical examination 
+(IME) under Iowa Code section 85.39? 
+8) Is Bell entitled to taxation of the costs against the defendants? 
+III .  
+STIP U LATION S. 
+ 
+In the hearing report, the parties entered into the following stipulations: 
+1) An employer-employee relationship existed between Bell and A to Z at the 
+time of the alleged injury. 
+2) If Bell’s cancer is found to arise out of and in the course of his employment 
+with A to Z, any permanent disability it is found to have caused is industrial in 
+nature. 
+3) If Bell’s cancer is found to arise out of and in the course of his employment 
+with A to Z, the commencement date for permanency benefits, if any are 
+awarded, is May 3, 2024. 
+4) At the time of the stipulated injury: 
+a) Bell’s gross earnings were one thousand five hundred five and 40/100 
+($1,505.40) per week. 
+b) Bell was single. 
+c) Bell was entitled to one exemption. 
+
+BELL V. A TO Z DRYING, INC. 
+Page 3 
+ 
+The parties’ stipulations in the hearing report are accepted and incorporated into 
+this arbitration decision. The parties are bound by their stipulations. This decision 
+contains no discussion of any factual or legal issues relative to the parties’ stipulations 
+except as necessary for clarity with respect to disputed factual and legal issues. 
+IV.  
+FIN D IN GS OF FAC T . 
+The evidentiary record in this case consists of: 
+ 
+Claimant’s Exhibits 1 through 22; 
+ 
+Defendants’ Exhibits B through D; 
+ 
+Joint Exhibits JE1 through JE9; and 
+ 
+Hearing testimony by Bell and Slaichert. 
+After careful consideration of the evidence and the parties’ post-hearing briefs—
+excluding any assertions based on documents or webpages not in evidence—the 
+undersigned makes the following findings of fact. 
+A .  
+A t o  Z.  
+A to Z is a company located in Osage, Iowa  (Hr’g Tr. p. 34) A to Z makes 
+chemical compounds such as insecticides primarily for use in agriculture. (Hr’g Tr. pp. 
+32–33) During the time relevant to this case, A to Z had between 150 and 200 
+employees, about 30 to 40 of which were women. (Hr’g Tr. p. 34) Among those 
+employees were Bell and Levendusky. A to Z hired Levendusky in April 2014. 
+(Levendusky Hr’g Tr. p. 41) And it hired Bell in November 2022. (Hr’g Tr. p. 32) 
+B . 
+S a f e t y  D a t a  S h e e t s  ( S D S s ) .  
+A to Z uses Safety Data Sheets (SDS) when determining what personal protective 
+equipment (PPE) its employees wear when handling a specific chemical as well as the 
+procedures to follow when handling and disposing of it. (Ex. D, p. 67, Levendusky Hr’g Tr. p. 73) 
+At hearing, during direct examination on how A to Z uses an SDS in its operation, defense 
+counsel (Q) and Nicholas Harbach (A) engaged in the following exchange: 
+Q.     
+And how influential is the SDS when designing a safety program or protocol or 
+something like that? 
+A.     
+ It’s everything, really. We do extensive training on that, and so much of the 
+worldwide, they call it global harmonized system, is based on what’s provided on the 
+SDS, so it’s ultimately incredibly important. 
+(Ex. D, p. 67, Levendusky Hr’g Tr. p. 73) 
+Federal regulations promulgated by the federal Occupational Safety and Health 
+Administration (OSHA) govern hazard communication. See 29 CFR § 1910.1200. 
+
+BELL V. A TO Z DRYING, INC. 
+Page 4 
+ 
+OSHA promulgated these rules “to ensure that the hazards of all chemicals produced or 
+imported are classified, and that information concerning the classified hazards is 
+transmitted to employers and employees” with the intent to impose standards 
+“consistent with the provisions of the United Nations Globally Harmonized System of 
+Classification and Labeling of Chemicals (GHS).” Id., at § 1910.1200(a)(1). “The 
+transmittal of information is to be accomplished by means of comprehensive hazard 
+communication programs, which are to include container labeling and other forms of 
+warning, safety data sheets and employee training.” Id. The standard “is intended to 
+address comprehensively the issue of classifying the potential hazards of chemicals, 
+and communicating information concerning hazards and appropriate protective 
+measures to employees, and to preempt any legislative or regulatory enactments of a 
+state, or political subdivision of a state, pertaining to” hazard communication. Id., at § 
+1910.1200(a)(2). 
+The OSHA hazard communication standard “requires chemical manufacturers or 
+importers to classify the hazards of chemicals which they produce or import, and all 
+employers to provide information to their employees about the hazardous chemicals to 
+which they are exposed, by means of a hazard communication program, labels and 
+other forms of warning, safety data sheets, and information and training.” Id., § 
+1910.1200(b)(1). As well, it “requires distributors to transmit the required information to 
+employers.” Id. The hazard communication standard “applies to any chemical which is 
+known to be present in the workplace in such a manner that employees may be 
+exposed under normal conditions of use or in a foreseeable emergency.” Id., § 
+1910.1200(b)(2). 
+Under 29 CFR section 1910.1200(c)(iii), “Safety data sheet (SDS) means written 
+or printed material concerning a hazardous chemical that is prepared in accordance 
+with paragraph (g) of this section.” Section 1910.1200(g)(1) provides, “Chemical 
+manufacturers and importers shall obtain or develop a safety data sheet for each 
+hazardous chemical they produce or import. Employers shall have a safety data sheet 
+in the workplace for each hazardous chemical which they use.” Each SDS must be in 
+English.” Id., at § 1910.1200(g)(2). The regulations set forth the section titles and 
+numbering that must be used in each SDS. Id., at §§ 1910.1200(g)(2)(i)–(xvi). 
+The chemical manufacturer, importer or employer preparing the safety 
+data sheet shall ensure that the information provided accurately reflects 
+the scientific evidence used in making the hazard classification. If the 
+chemical manufacturer, importer or employer preparing the safety data 
+sheet becomes newly aware of any significant information regarding the 
+hazards of a chemical, or ways to protect against the hazards, this new 
+information shall be added to the safety data sheet within three months. If 
+the chemical is not currently being produced or imported, the chemical 
+manufacturer or importer shall add the information to the safety data sheet 
+before the chemical is introduced into the workplace again. 
+Id., at § 1910.1200(g)(5). 
+
+BELL V. A TO Z DRYING, INC. 
+Page 5 
+ 
+Appendix D to section 1910.1200 identifies the mandatory contents of SDSs and 
+states, “While each section of the SDS must contain all of the specified information, 
+preparers of safety data sheets are not required to present the information in any 
+particular order within each section. If no relevant information is found for any given 
+subheading within a section, the SDS shall clearly indicate that no applicable 
+information is available. Sections 12–15 may be included in the SDS, but are not 
+mandatory.” 
+Pertinent to this case are the portions of “Table D.1—Minimum Information for an 
+SDS” that address carcinogens. Under the table, Section 11 must contain certain 
+toxicological information. And section 11(f) must provide “[w]hether the hazardous 
+chemical is listed in the National Toxicology Program (NTP) Report on Carcinogens 
+(latest edition) or has been found to be a potential carcinogen in the International 
+Agency for Research on Cancer (IARC) Monographs (latest edition), or by OSHA.” 
+C . 
+M i m i c  &  Te b u f e n oz i d e .  
+One of the products that Levendusky and Bell worked on during their time at A to 
+Z was Mimic 2LV (Mimic). The primary active ingredient in Mimic is Tebufenozide. 
+Mimic is an insecticide used primarily in forestry to target gypsy moths. Mimic kills gypsy 
+moths by targeting the endocrine system. 
+The SDS for Tebufenozide and the one for Mimic section 2.2 includes the hazard 
+statement, “May cause damage to organs (Blood system, liver, kidney) through 
+prolonged or repeated exposure,” and, “Very toxic to aquatic life with long lasting 
+effects.” (Ex. 2, p. 4; Ex. 3, p. 17) The precautionary statement under section 2.3 of the 
+Mimic SDS advises: 
+Do not breathe mist/vapors/spray 
+Wash hands and face thoroughly after handling 
+Do not eat, drink or smoke when using this product 
+Avoid release to the environment 
+(Ex. 2, p. 4) The Tebufenozide SDS advises not to breathe dust and avoid release to the 
+environment. (Ex. 3, p. 17) 
+Section 11 of each SDS contains toxicological information in accordance with Table D.1 
+of 29 CFR 1910.1200. Under the subheading “Carcinogenicity – Active Ingredient,” the Mimic 
+SDS states: 
+Negative (rat) 
+Negative (mouse) 
+NTP: not listed 
+
+BELL V. A TO Z DRYING, INC. 
+Page 6 
+ 
+IARC Monograph: not listed 
+ACGIH Regulated: not listed 
+Tebufenozide and glycerin did not cause cancer in laboratory animals. 
+(Ex. 2, p. 9) Similarly, the Tebufenozide SDS states under the subheading, “Carcinogenicity,” 
+that it was negative for rat and mouse and not listed in the NTP, IARC Monograph, or ACGIH 
+Regulated. (Ex. 3, p. 21) 
+The weight of the evidence establishes that the SDSs for Tebufenozide and 
+Mimic comply with applicable OSHA regulations and therefore the United Nations 
+Globally Harmonized System of Classification and Labeling of Chemicals (GHS). There 
+is no indication in the record that either Tebufenozide or Mimic have ever been listed as 
+a potential carcinogen in the NTP Report on Carcinogens, the IARC Monograph, or by 
+OSHA. Rather, the evidence shows it is more likely than not that neither Tebufenozide 
+nor Mimic has been identified as a potential carcinogen by the NTP, IARC, or OSHA. 
+This fact is compelling because it shows it is more likely than not that the international 
+community has not discovered a link between cancer and Tebufenozide or Mimic that is 
+strong enough to merit NTP, IARC, or OSHA identifying either as a potential 
+carcinogen. 
+D . 
+B e l l .  
+Bell was 29 years of age at the time of hearing. (Hr’g Tr. p. 24) He graduated 
+from Iowa State University with a Bachelor of Science degree in chemical engineering in 
+2018. (Hr’g Tr. p. 32; Ex. 20, p. 227) A to Z hired Bell shortly after he graduated from 
+college and he was excited for the opportunity. (Hr’g Tr. p. 32) 
+A to Z hired Bell to work as a dryer supervisor. (Hr’g Tr. p. 35) Bell quickly 
+worked his way up the corporate ladder with promotions to dryer manager and process 
+engineer manager in April 2022. (Hr’g Tr. pp. 35–36) With this last promotion, Bell’s 
+office moved to the ESD building, where A to Z formulated Mimic. (Hr’g Tr. p. 36) His 
+job duties as process engineer manager included overseeing equipment, managing a 
+team of employees, planning and scheduling production, standardizing procedures, and 
+helping to determine how to formulate new products. (Hr’g Tr. p. 37)  
+Bell participated in the formulation of Mimic on one occasion during his 
+employment with A to Z. (Hr’g Tr. p. 40) A to Z typically formulated Mimic once annually, 
+creating multiple batches over a period of about two weeks. (Hr’g Tr. p. 40) Because of 
+Bell’s participation, he had firsthand knowledge of the personal protective equipment 
+(PPE) A to Z workers wore while formulating the product: 
+ Full body suits; 
+ Gloves; 
+ Anti-static booties over their footwear; and 
+ Forced air respirators. (Hr’g Tr. pp. 40–41) 
+
+BELL V. A TO Z DRYING, INC. 
+Page 7 
+ 
+Bell personally took the additional precaution of using tape to create a seal between his 
+gloves and body suit as well as his anti-static booties and body suit. (Hr’g Tr. pp. 40–41) 
+A to Z only required PPE during the formulation of Mimic. (Hr’g Tr. p. 41) Even 
+though Tebufenozide stuck to surfaces throughout the formulation area, A to Z did not 
+require PPE for workers in the ESD building. (Hr’g Tr. pp. 41–43; Ex. 20, p. 233 (Depo. 
+Tr. pp. 33–34)) And A to Z did not require PPE for handling the final product of Mimic in 
+its liquid form. (Hr’g Tr. p. 41)  
+After the completion of Mimic formulation, A to Z cleaned the ESD building in 
+May 2021. (Hr’g Tr. p. 43–44) As discussed above, Mimic and Tebufenozide pose a 
+serious risk to aquatic life, which precludes simply washing the formulation process 
+remnants down a drain. (Hr’g Tr. p. 45) Rather, A to Z workers washed off the 
+equipment and sprayed the waste material into 50-gallon drums held beneath the floor. 
+(Hr’g Tr. p. 45)  The process took a couple of weeks. (Hr’g Tr. p. 47) The cleanup 
+focused on the equipment and not on other places where the tacky Tebufenozide 
+powder had stuck. 
+During this post-production cleanup process, Bell worked in his ESD building 
+office. (Hr’g Tr. p. 43–44) At one point, vapor from the cleanup seeped into his office, 
+causing him to feel dizzy and nauseous. (Hr’g Tr. pp. 43–44) His symptoms were 
+severe enough to necessitate steadying himself using his desk and a nearby wall. (Hr’g 
+Tr. pp. 43–44)  
+Bell later discussed the experience with Halbach and George Weber, a vice 
+president at A to Z. (Hr’g Tr. p. 44) He requested that he be excused from formulating 
+Mimic in the future. (Hr’g Tr. p. 44) A to Z granted his request. (Hr’g Tr. p. 44)  
+There is no indication in the record that Bell experienced dizziness or nausea in 
+his ESD building office during the formulation of Mimic. The weight of the evidence 
+establishes that he did not experience such symptoms until the post-production 
+cleanup. There is an insufficient basis in the evidence from which to conclude that 
+Tebufenozide or Mimic caused Bell’s symptoms as opposed to the compounds used to 
+clean or a combination of those compounds and Mimic or one of its components. The 
+timing of the onset of Bell’s symptoms suggests that the most likely cause was the 
+equipment cleaning process. 
+Bell described the storage arrangement for Mimic and its post-production waste. 
+The post-production waste would stay in drums in the ESD building until A to Z had 
+workers available to use a sump pump to move it into totes that are white plastic and 
+square in shape. (Hr’g Tr. pp. 45, 47, 53; Ex. 5, p. 32) Then the totes would sit in the 
+ESD building for weeks or months until they could be transported for incineration. (Hr’g 
+Tr. pp. 45, 47) Bell’s testimony indicated that A to Z moved the totes of Mimic post-
+production waste for storage within the ESD building but did not describe where this 
+storage area was located relative to his office there. (Hr’g Tr. pp. 47–54) 
+
+BELL V. A TO Z DRYING, INC. 
+Page 8 
+ 
+In or around October of 2022, Bell fainted at home. (Hr’g Tr. p. 55) He then 
+scheduled an appointment to see his personal physician. (Hr’g Tr. p. 55) At the time, 
+Bell was experiencing groin pain and his right testicle was unusually firm. (Hr’g Tr. pp. 
+55–56) After an ultrasound, Bell was diagnosed with testicular cancer and referred to 
+Christopher Adams, M.D., an urologist. (Hr’g Tr. p. 56; Ex. JE 1, p. 3; Ex. JE2, p. 10) Dr. 
+Adams performed surgery to remove Bell’s right testicle. (Hr’g Tr. p. 56; Ex. JE2, p. 10) 
+After the surgery, Dr. Adams referred Bell to oncology. (Ex. JE6, pp. 88–89, 97) 
+Bell had a port implanted in his chest for chemotherapy. (Hr’g Tr. pp. 56–57; Ex. JE 6, 
+pp. 102–04) From February to April in 2023, Bell was off work while undergoing a nine-
+week chemotherapy cycle. (Hr’g Tr. pp. 58–59; Ex. JE6, pp. 105–22) During the 
+chemotherapy cycle, Bell experienced fatigue, nausea, vomiting, gastrointestinal issues, 
+bone pain, ringing in his ears, and fever. (Hr’g Tr. p. 58) Chemotherapy also caused 
+neuropathy in his hands and toes. (Hr’g Tr. p. 58) Bell gained approximately 50 pounds 
+due to inactivity during the chemotherapy cycle. (Hr’g Tr. p. 60) 
+Doctors ultimately found Bell to be cancer free. (Hr’g Tr. p. 59) Nonetheless, he 
+must continue oncological care to ensure the cancer does not return. (Hr’g Tr. pp. 66–
+68) His ongoing care consists of regular checkups, imaging, and testing that will 
+gradually reduce in frequency if he remains cancer free. (Hr’g Tr. p. 67) 
+After the conclusion of chemotherapy, he has continued to experience ringing in 
+his ears, neuropathy, tinnitus, anxiety, and depression. (Hr’g Tr. pp. 59–60; Ex. JE8, p. 
+154) Post-chemotherapy, Bell also experienced an exponential increase in symptoms in 
+his right arm, which he fractured while wrestling in 2019. (Hr’g Tr. p. 60) Moreover, Bell 
+developed back pain, the cause of which doctors identified as a bulging disc. (Hr’g Tr. p. 
+60) 
+After extended discussions regarding A to Z’s ability to accommodate Bell’s work 
+restrictions, he returned to work on June 21, 2023. (Hr’g Tr. pp. 71) A to Z moved Bell’s 
+office from the ESD building in order to accommodate the restriction that he not work in 
+proximity to Mimic. (Hr’g Tr. pp. 71–72) Bell testified credibly that A to Z significantly 
+changed his job duties after his return from leave—specifically, after Bell attempted to 
+perform the job duties he had performed before his cancer diagnosis and treatment, 
+Jason Penfold, A to Z president, instructed him “to stop right away and that there were 
+many other people ahead of him to do the job.” (Ex. 20, p. 235, Depo. Tr. p. 41) This 
+dynamic was the result of A to Z hiring three new engineers while Bell was on leave. 
+(Hr’g Tr. pp. 72, 112–13) Bell had so little to do that he felt compelled to make work for 
+himself. (Hr’g Tr. pp. 73–74; Ex. 20, p. 235, Depo. Tr. p. 41) In addition to limiting Bell’s 
+job duties, A to Z also reassigned the on-call duties he had prior to his cancer diagnosis 
+and treatment, which resulted in reduced pay. (Hr’g Tr. pp. 74–75) Ultimately, Bell 
+submitted a letter of resignation on July 31, 2023, and his last day of employment with A 
+to Z was August 11, 2023. (Hr’g Tr. pp. 73–74, 116–17; Ex. 15, p. 131) 
+
+BELL V. A TO Z DRYING, INC. 
+Page 9 
+ 
+E . 
+L e v e n d us k y.  
+Levendusky was one of Bell’s coworkers at A to Z. (Hr’g Tr. p. 68) He worked in 
+the formulation of pesticides, including Mimic. (Hr’g Tr. p. 68) Six months prior to Bell’s 
+diagnosis of Pure Seminoma, Levendusky was diagnosed with the same testicular 
+cancer. (Hr’g Tr. pp. 67–68)  
+F .  
+C a u s a t i o n .  
+On March 6, 2023, claimant’s counsel conferenced with Rodrigo Erlick, M.D., an 
+oncologist with MercyOne North Iowa Medical Center. (Ex. 9, p. 45) Claimant’s counsel 
+sent Dr. Erlich a letter dated March 7, 2023, stating his understanding of Dr. Erlich’s 
+opinions based on their conversation. (Ex. 9, p. 45) Dr. Erlich signed a letter indicating 
+that he agreed with the following with respect to Bell’s cancer: 
+Bell worked as a chemical engineer at A to Z Drying. You had also been 
+provided with a copy of the Safety Data Sheet (SDS) for Mimic 2LV 
+Insecticide. Having had the opportunity to review that SDS, you are aware 
+that this chemical contains a Hazard Identification for “Specific Target 
+Organ Toxicity (Repeated Exposure),” and that it is hazardous to aquatic 
+life (Page 1 of 14). The SDS for the chemical also contains a Hazard 
+Statement that it: “May cause damage to organs (Blood system, liver, 
+kidney) through prolonged or repeated exposure” and further cautions to 
+“not breath [sic] mist/vapors/spray” and “[a]void release to the 
+environment.” (page 2 [o]f 14). Finally, the chemical’s active ingredient, 
+Tebufenozide, is a known endocrine disrupting chemical. 
+With further regard to the above, you are aware that studies have shown 
+prevalence and risk in humans of developing testicular dysfunction or 
+cancer in areas with distinct exposure to pesticides, which have endocrine 
+disrupting properties. Moreover, occupational exposure to pesticides have 
+been identified as a major trigger of the development of cancer, causing 
+intoxication in the individuals who manipulate them through either 
+inhalation, ingestion, or dermal contact. Stated plainly, you explained that 
+the endocrine system is a system of glands; that testicles are glands; and 
+that pesticides like Mimic can affect the health and function of the testicle 
+(i.e., male gonads). 
+Based on the foregoing, you believe it is more likely than not (51% or 
+greater) that Mr. Bell’s exposure to Mimic 2LV Insecticide while working at 
+A to Z Drying resulted in the development of his Stage IIC seminoma 
+testicular cancer. 
+(Ex. 9, p. 45)  
+Claimant’s counsel then conferenced with Dr. Adams on April 12, 2023, and sent a letter 
+dated that same day summarizing his understanding of the doctor’s opinions. (Ex. 10, p. 47) On 
+
+BELL V. A TO Z DRYING, INC. 
+Page 10 
+ 
+April 15, 2023, Dr. Adams signed a letter authored by Bell’s attorney in which he expressed his 
+agreement with the contents of the letter signed by Dr. Erlich. (Ex. 10, pp. 47–48) The letter also 
+stated that two employees working for the same employer, which has between 150 and 200 
+employees, developing the type of testicular cancer with which Bell and Levendusky were 
+diagnosed would be “exceedingly rare.” (Ex. 10, p. 47) Based on Dr. Erlich’s opinion and the low 
+probability of two coworkers developing the testicular cancer with which Bell and Levendusky 
+were diagnosed so close in time, Dr. Adams opined it is more likely than not the work 
+environment at A to Z was a cause of their cancer. (Ex. 10, pp. 47–48) 
+Claimant’s counsel arranged for Bell to undergo an IME with Paul Conte, M.D., on May 
+2, 2024. (Ex. 12, p. 52) The IME included a review of Bell’s medical records, a review of articles 
+relating to pesticides causing cancer, a history with Bell, and in-person physical examination. 
+(Ex. 12, pp. 52–55) On the question of causation, Dr. Conte opined: 
+Mr. Bell had substantial exposure to Mimic 2LV insecticide for the gypsy 
+moth larvae and while he did wear PPE while he was directly working with 
+it, he had a continual exposure to it at other times just during his office 
+work as his office was in the area and there was a persistent exposure 
+that would be implicated as being a substantially causal factor in the 
+development of his right testicular seminoma. While Mimic 2LV has not 
+been shown to be a direct testicular cancer causing agent on the SDS, 
+this data is incomplete and Mr. Bell’s testicular cancer is a very unusual 
+cancer with the incidence of 5 cases in 100,000 population of men age 20-
+40. Given that there have been 2 cases of testicular seminoma in 
+employees exposed to the agent while working at A to Z Drying, the 
+statistical probability of it occurring from simply random chance is unlikely 
+and it is more likely a statistical and scientific basis to be related to his 
+exposure to Mimic 2LV. Therefore, within a reasonable degree of medical 
+certainty, his exposure while working at A to Z Drying to Mimic 2LV was a 
+substantial causal contributing or aggravating factor to his development of 
+testicular seminoma. 
+(Ex. 12, p. 56) Dr. Conte further elaborated that “based on evaluation of the scientific 
+literature that suggests that Mimic 2LV does have endocrine disrupting behaviors when 
+organisms are exposed to it in animal studies.” (Ex. 12, p. 56)  
+Dr. Conte’s opinion is based primarily on the low level of statistical probability 
+that two coworkers would be diagnosed within six months of one another with testicular 
+seminoma. He recognizes that Mimic “has not been shown to be a direct testicular 
+cancer causing agent on the SDS” and then makes the conclusory assertion that “the 
+data is incomplete” without elaborating as to why it is incomplete before further stating 
+that Mimic has “endocrine disrupting behaviors when organisms are exposed to it in 
+animal studies.” (Ex. 12, p. 56) Dr. Conte’s report reflects what the totality of the 
+evidence in this case establishes: There is no scientific evidence establishing a link 
+between Tebufenozide or Mimic and cancer in animals or humans. Showing that 
+Tebufenozide and Mimic disrupt the endocrine system in some organisms is not enough 
+to establish a causal link between either substance and the development of testicular 
+seminoma in humans. 
+
+BELL V. A TO Z DRYING, INC. 
+Page 11 
+ 
+ Defense counsel arranged for Paul Gellahus, M.D., to perform a review of Bell’s 
+records and issue a report. (Ex. B, pp. 20–21) Dr. Gellhaus provided his opinion in a 
+report dated May 17, 2023. (Ex. B, pp. 22–25) On causation, Dr. Gellhaus opined: 
+To the nearest degree of medical certainty, the alleged employment 
+related exposure to Mimic 2LV (Tebufenozide) Insecticide did not cause 
+his testicular seminoma. This opinion is based on several factors: 
+ Mimic 2LV is not a known testicular carcinogenic agent per SDS. 
+ He appeared to wear proper protective equipment include PPE, 
+respirator, etc. per nonmedical documentation. 
+ No other symptoms/signs of exposure from pesticides per medical 
+records. 
+ Semen analysis AFTER orchiectomy had some lower values 
+but normal overall counts and morphology and without 
+significant ‘testicular endocrine dysfunction’. 
+ Testicular cancer is uncommon in the general population, but its 
+highest prevalence is in 20-40 year olds and white men, which I 
+assume describes the place of employment. This assumes the 
+majority of the employees are between 20-50 years old and has 
+similar ethnical background to the general population in Iowa 
+(~90% white). 
+ While having two men develop this cancer in the same work place 
+is unlikely it would not be described as “exceedingly rare” given the 
+age, gender, race under the above mentioned assumptions. 
+(Ex. B, pp. 24) 
+Because Dr. Erlich, Dr. Adams, and Dr. Conte’s opinions do not address the fact 
+that the SDSs for Tebufenozide and Mimic state they have not been identified as a 
+possible carcinogen by NTP, IARC, or OSHA, or the lack of other signs or symptoms of 
+pesticide exposure, their opinions are unpersuasive. Dr. Gellhaus’s opinion, which 
+reflects a more complete understanding of the SDSs on whether Tebufenozide or Mimic 
+is a possible carcinogen and Bell’s lack of signs or symptoms of pesticide exposure, is 
+more persuasive.  Bell has failed to meet his burden of proof. There is an insufficient 
+basis in the evidence from which to conclude Bell’s work at A to Z was a causal factor in 
+his development of testicular cancer. 
+V. 
+C ON C LU SION S OF LAW. 
+The legislature enacted the Iowa Workers’ Compensation Act, Iowa Code 
+chapter 85, for injuries arising out of and in the course of employment. It passed the 
+
+BELL V. A TO Z DRYING, INC. 
+Page 12 
+ 
+Iowa Occupational Disease Law, Iowa Code chapter 85A, to govern occupational 
+diseases. Both statutory schemes are enforced by the agency. See Iowa Code § 86.8. 
+The laws present an either-or proposition for compensation. See IBP, Inc. v. 
+Burress, 779 N.W.2d 210, 214 (Iowa 2010). The statutory definition of “injury” or 
+“personal injury” under chapter 85 excludes occupational diseases under chapter 85A. 
+Iowa Code § 85.61(4)(b). Section 85A.8 defines “occupational disease” as follows: 
+Occupational diseases shall be only those diseases which arise out of and 
+in the course of the employee’s employment. Such diseases shall have a 
+direct causal connection with the employment and must have followed as 
+a natural incident thereto from injurious exposure occasioned by the 
+nature of the employment. Such disease must be incidental to the 
+character of the business, occupation or process in which the employee 
+was employed and not independent of the employment. Such disease 
+need not have been foreseen or expected but after its contraction it must 
+appear to have had its origin in a risk connected with the employment and 
+to have resulted from that source as an incident and rational 
+consequence. A disease which follows from a hazard to which an 
+employee has or would have been equally exposed outside of said 
+occupation is not compensable as an occupational disease. 
+Iowa Code § 85A.8. 
+With respect to this definition, the Iowa Supreme Court has held, “The term 
+‘exposure’ indicates a passive relationship between the worker and his work 
+environment rather than an event or occurrence, or series of occurrences, which 
+constitute injury under the Worker's Compensation Act.” Burress, 779 N.W.2d at 215 
+(quoting Noble v. Lamoni Prods., 512 N.W.2d 290, 295 (Iowa 1994). 
+“[A]n ‘injury’ is distinguished from a ‘disease’ by virtue of the fact that an 
+injury has its origin in a specific identifiable trauma or physical occurrence 
+or, in the case of repetitive trauma, a series of such occurrences. A 
+disease, on the other hand, originates from a source that is neither 
+traumatic nor physical....” 
+Id. at 215 (quoting Noble, 512 N.W.2d at 295). 
+Despite the differences in applicability, both chapter 85 and 85A include the 
+express textual requirement that, in order to be compensable under the law, an 
+employee’s injury, condition, or disease must arise: 
+1) Out of the claimant’s employment; and 
+ 
+2) In the course of the claimant’s employment. Iowa Code §§ 85.3(1), 85A.8; 
+see also St. Luke’s Hosp. v. Gray, 604 N.W.2d 646, 652 (Iowa 2000); 
+Burress, 779 N.W.2d at 214.  
+
+BELL V. A TO Z DRYING, INC. 
+Page 13 
+ 
+ “‘The two tests are separate and distinct.’” Lakeside Casino v. Blue, 743 N.W.2d 
+169, 174 (Iowa 2007) (quoting Miedema v. Dial Corp., 551 N.W.2d 309, 311 (Iowa 
+1996)). Under Iowa law, “‘both must be satisfied in order for an injury to be deemed 
+compensable.’” Id. (quoting Miedema, 551 N.W.2d at 311). In this case, the parties 
+dispute whether the injury arose out of employment. 
+A disease arises out of employment if there is a causal connection between it 
+and the employment. Iowa Code § 85A.8. “‘In other words, the injury must not have 
+coincidentally occurred while at work, but must in some way be caused by or related to 
+the working environment or the conditions of [the] employment.’” Blue, 743 N.W.2d at 
+174. (quoting Miedema, 551 N.W.2d at 311). “When one speaks of an event “arising out 
+of employment,” the initiative, the moving force, is something other than the 
+employment; the employment is thought of more as a condition out of which the event 
+arises than as the force producing the event in affirmative fashion.” Meyer v. IBP, Inc., 
+710 N.W.2d 213, 223 (Iowa 2006) (quoting 1 Arthur Larson & Lex K. Larson, Larson’s 
+Workers’ Compensation Law (2005) § 3.06, at 3-7 to 3-8 (emphasis in original)). 
+“Medical causation presents a question of fact.” Cedar Rapids Cmty. Sch. Dist. v. 
+Pease, 807 N.W2d 839, 844 (Iowa 2011). The answer to this question lies “‘essentially 
+within the domain of expert testimony.’” Id. at 845 (quoting Dunlavey v. Econ. Fire. & 
+Cas. Co., 526 N.W.2d 845, 853 (Iowa 1995)). The agency may accept or reject an 
+expert opinion in whole or in part. Schutjer v. Algona Manor Care Ctr., 780 N.W.2d 549, 
+560 (Iowa 2010) (quoting Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 752 
+(Iowa 2002)). In doing so, the agency “has the duty to determine the credibility of the 
+witnesses and to weigh the evidence, together with the other disclosed facts and 
+circumstances, and then to accept or reject the opinion.” Dunlavey, 526 N.W.2d at 853. 
+The agency determines the weight to give an expert opinion based on consideration of: 
+1) “[T]he accuracy of the facts relied upon by the expert,” Schutjer, 780 N.W.2d 
+at 560 (quoting Grundmeyer, 649 N.W.2d at 752); 
+ 
+2) “[T]he completeness of the premise given the expert,” Dunlavey, 526 N.W.2d 
+at 853; and 
+3) “[O]ther surrounding circumstances,” id. 
+Medical causation disputes can take two forms under Iowa workers’ 
+compensation law. One is whether the injury arises out of an actual risk of the 
+claimant’s employment. See Bluml v. Dee Jay’s Inc., 920 N.W.2d 82, 85–86 (Iowa 
+2018); see also Lakeside Casino v. Blue, 743 N.W.2d 169, 173–74 (Iowa 2007); Meyer 
+v. IBP, Inc., 710 N.W.2d 213, 223 (Iowa 2006); Almquist v. Shenandoah Nurseries, 254 
+N.W. 35 (Iowa 1934). The other is whether the injury caused a compensable disability. 
+See Schutjer, 780 N.W.2d at 560 (quoting Grundmeyer, 649 N.W.2d at 752). In this 
+case, the parties dispute medical causation—specifically, whether Bell’s testicular 
+cancer arose out of his employment with A to Z. 
+
+BELL V. A TO Z DRYING, INC. 
+Page 14 
+ 
+ “A possibility of causation is not sufficient; a probability is necessary.” Frye v. 
+Smith-Doyle Contractors, 569 N.W.2d 154, 156 (Iowa App. 1997) (citing Schofield v. 
+White, 250 Iowa 571, 95 N.W.2d 40 (Iowa 1959) and Holmes v. Bruce Motor Freight, 
+Inc., 215 N.W.2d 296, 297 (Iowa 1974)). The claimant must prove by a preponderance 
+of the evidence that the employment in question was a substantial factor in bringing 
+about the injury or condition alleged in the petition. See Armstrong Tire & Rubber Co. v. 
+Kubli, 312 N.W.2d 60, 64 (Iowa 1981). To be a substantial factor, employment need 
+only be one cause—not the only cause—of the alleged injury or condition. See id. 
+It is possible that Bell’s testicular cancer arose out of his employment with A to Z, 
+but that is not the standard governing causation in this case. Bell has the burden to 
+prove by a preponderance of the evidence that exposure during his employment with A 
+to Z caused his cancer. As found above, he failed to meet this burden. There is an 
+insufficient basis in the evidence from which to conclude Bell’s cancer was caused by 
+exposure during his employment with A to Z. 
+Causation is a threshold question in workers’ compensation cases. The 
+causation conclusion is dispositive on the other disputed issues in this case. Because 
+Bell failed to meet his burden of proof on causation, this decision does not address 
+those issues.  
+VI.  
+OR D ER . 
+Based on the above findings of fact and conclusions of law, it is ordered: 
+1) Bell shall take nothing more from this case. 
+2) The parties shall be responsible for paying their own hearing costs. Each 
+party shall pay an equal share of the cost of the transcript.  
+Signed and filed this 30th day of April, 2025. 
+ 
+ 
+ 
+BENJAMIN G. HUMPHREY 
+Deputy Workers’ Compensation Commissioner 
+ 
+Served via the Workers’ Compensation Electronic System (WCES): 
+Nicholas Shaull, Attorney for Claimant 
+Laura Ostrander, Attorney for Defendants 
+
+BELL V. A TO Z DRYING, INC. 
+Page 15 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Workers’ Compensation Division to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Workers’ 
+Compenation Division, 6200 Park Avenue, Suite 100, Des Moines, Iowa 50321.  The notice of appeal must be 
+received by the Workers’ Compensation Divisionwithin 20 days from the date of the decision.  The appeal period will 
+be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+ 

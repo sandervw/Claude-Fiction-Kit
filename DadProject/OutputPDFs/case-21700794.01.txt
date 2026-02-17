@@ -1,0 +1,569 @@
+Case Number: 21700794.01
+Case Title:  MILLER, FRED V. LENNOX INDUSTRIES, INC.
+Doc Type:    Decision - Deputy
+Source:      Miller Fred-20006056.01D.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+FRED MILLER, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  :         File Nos. 20006056.01, 21700794.01 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :  
+LENNOX INDUSTRIES, INC., 
+  : 
+       ARBITRATION DECISION 
+ 
+ 
+  :  
+ 
+Employer, 
+  : 
+ 
+ 
+  : 
+INDEMNITY INSURANCE COMPANY 
+  : 
+OF NORTH AMERICA, 
+  :       Head Note Nos.:   1402.40, 1802, 1803, 
+ 
+ 
+  : 
+ 
+ 
+        2206, 2501, 2907 
+ 
+Insurance Carrier, 
+  : 
+ 
+Defendant. 
+  :  
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Fred Miller, claimant, filed two petitions for arbitration against Lennox Industries, 
+Inc., as the employer and Indemnity Insurance Company of North America, as the 
+insurance carrier.  The first petition (File No. 20006056.01) alleges a left knee injury 
+occurring on April 20, 2020.  Claimant’s second petition (File No. 21700794.01) alleges 
+a left shoulder injury as a result of a work injury on June 14, 2021. 
+ This case came before the undersigned for an arbitration hearing on June 6, 
+2022.  Pursuant to an order from the Iowa Workers’ Compensation Commissioner, this 
+case was heard via videoconference using Zoom.  All participants appeared remotely. 
+The parties filed a hearing report prior to the commencement of the hearing.  On 
+the hearing report, the parties entered into numerous stipulations.  Those stipulations 
+were accepted and no factual or legal issues relative to the parties’ stipulations will be 
+made or discussed.  The parties are now bound by their stipulations.   
+The written evidentiary record includes Joint Exhibits 1 through 8, Claimant’s 
+Exhibits 1 through 6, and Defendants’ Exhibits A through D.  All exhibits were received 
+without objection.   
+Claimant testified on his own behalf.  No other witnesses testified live at the 
+hearing.  The evidentiary record closed at the conclusion of the arbitration hearing.   
+However, counsel for the parties requested an opportunity to file post-hearing 
+briefs.  This request was granted and both parties filed briefs simultaneously on July 1, 
+2022.  The case was considered fully submitted to the undersigned on that date. 
+ELECTRONICALLY FILED     2022-Oct-18  08:58:13     DIVISION OF WORKERS' COMPENSATION
+
+MILLER V. LENNOX INDUSTRIES, INC. 
+Page 2 
+ISSUES 
+In File No. 20006056.01, the parties submitted the following disputed issues for 
+resolution: 
+1. 
+Whether claimant’s left total knee replacement is causally related to the 
+April 20, 2020 work injury. 
+2. 
+Whether claimant is entitled to an award of healing period benefits from 
+August 24, 2021 through February 21, 2022. 
+3. 
+The extent of claimant’s entitlement to permanent partial disability 
+benefits. 
+4. 
+Whether claimant is entitled to payment or reimbursement for past medical 
+expenses. 
+5. 
+Whether claimant is entitled to reimbursement for an independent medical 
+evaluation. 
+6. 
+Whether costs should be assessed against either party and, if so, in what 
+amount. 
+In File No. 21700794.01, the parties submitted the following disputed issues for 
+resolution: 
+1. 
+Whether claimant sustained permanent disability as a result of the June 
+14, 2021 work injury and, if so, the extent of claimant’s entitlement to 
+permanent disability benefits. 
+ 
+2. 
+Whether claimant is entitled to reimbursement for an independent medical 
+evaluation. 
+ 
+3. 
+Whether costs should be assessed against either party and, if so, in what 
+amount. 
+At the commencement of the hearing, defendants acknowledged liability for the 
+requested independent medical evaluation (IME) and consented to an order requiring 
+reimbursement of that IME.  This concession resolved the IME request in both files and 
+the undersigned entered an oral order requiring defendants to reimburse the claimant’s 
+IME.  No further findings or conclusions will be entered regarding the IME issue. 
+FINDINGS OF FACT 
+The undersigned, having considered all the evidence and testimony in the 
+record, finds: 
+
+MILLER V. LENNOX INDUSTRIES, INC. 
+Page 3 
+Fred Miller, claimant, is a 63-year-old gentleman, who lives in Marshalltown, 
+Iowa.  Mr. Miller commenced working for Lennox Industries, Inc. (hereinafter “Lennox”) 
+in 1998 and continues to work for the employer at the time of hearing.  Claimant worked 
+in a variety of positions for Lennox.  At the time of both injuries alleged in this case, Mr. 
+Miller was working as a trades helper, operating a forklift, for Lennox. 
+On April 20, 2020, claimant was operating a forklift and noticed a shelf full of 
+motors was about to collapse.  Claimant attempted to raise his truck forks to stabilize 
+the shelf.  In the process, the motors fell off the shelf, striking claimant in the chest, 
+abdomen, and left knee.  Claimant experienced chest pain, left knee pain and could not 
+breathe well or walk after the accident.  (Claimant’s testimony) 
+Lennox transported claimant to the emergency room in Marshalltown on April 20, 
+2020.  On the date of the injury, the emergency room physician diagnosed claimant with 
+a chest wall contusion status post trauma but released him the same day.  (Joint Ex. 3) 
+Lennox authorized further care through an occupational medicine physician, 
+Sherman Jew, D.O.  Dr. Jew evaluated claimant virtually due to the Covid-19 pandemic 
+a few times over the next few months.  Ultimately, Dr. Jew ordered an MRI of claimant’s 
+left knee and referred him to an orthopaedic surgeon, Timothy R. Vinyard, M.D.  (Joint 
+Ex. 4) 
+Dr. Vinyard evaluated claimant and recommended arthroscopic surgery on 
+claimant’s left knee.  Mr. Miller consented to the recommended surgery, and Dr. Vinyard 
+performed a left knee arthroscopic partial lateral meniscectomy and chondroplasty of 
+the medial, lateral, and patellofemoral compartments on January 12, 2021.  (Joint Ex. 5, 
+p. 53)  Unfortunately, claimant testified that the surgery did not significantly improve his 
+knee symptoms. 
+By March 22, 2021, Dr. Vinyard opined, “he is doing well.  He does continue to 
+have some mild to moderate symptoms.  I think he has fully recovered as it relates to 
+his work injury.  He does have some osteoarthritis and I think that explains his current 
+symptoms.”  (Joint Ex. 5, p. 60)  Dr. Vinyard released claimant without restrictions at 
+that time, but recommended he not work overtime.  Dr. Vinyard also predicted claimant 
+would require a future left knee replacement, but opined, “that should be covered under 
+his personal insurance.”  (Joint Ex. 5, p. 60) 
+In a formal report dated March 31, 2021, Dr. Vinyard confirmed maximum 
+medical improvement occurred and that claimant was released to return to work without 
+restrictions.  He reiterated that claimant was likely to require a knee replacement in the 
+future but that it “should be covered under his personal insurance.”  Dr. Vinyard 
+assigned a two percent permanent impairment rating of the left lower extremity pursuant 
+to Table 17-33 of the AMA Guides to the Evaluation of Permanent Impairment, Fifth 
+Edition.  (Joint Ex. 5, p. 62)  Dr. Vinyard re-evaluated claimant one additional time on 
+April 26, 2021 but made no substantive changes to his opinions or recommendations. I 
+acknowledge that there is mention of a potential subsequent injury occurring in the April 
+26, 2021 office note.  However, neither Dr. Vinyard nor any other physician suggests 
+
+MILLER V. LENNOX INDUSTRIES, INC. 
+Page 4 
+this potential injury caused a substantial and material aggravation of claimant’s left knee 
+condition or resulted in an injury that could interrupt the causal connection or chain of 
+events leading to claimant’s left total knee replacement. (Joint Ex. 5, pp. 63-64) 
+Mr. Miller sought additional evaluation of his left knee on August 9, 2021 through 
+Arnold E. Delbridge, M.D., an orthopaedic surgeon.  Dr. Delbridge noted claimant’s prior 
+injury and recommended a left total knee replacement.  (Joint Ex. 8, p. 80)  Claimant 
+consented to the recommended knee replacement and Dr. Delbridge took claimant to 
+surgery to perform the left total knee replacement on August 24, 2021.  (Joint Ex. 8, p. 
+83) 
+Claimant’s attorney asked Dr. Delbridge about whether the work injury at Lennox 
+was a materially contributing factor to his left knee replacement.  Dr. Delbridge provided 
+an October 4, 2021, hand-written note in response that opines, “It is my conclusion, that 
+the work incident was a materially aggravating factor of his left knee condition.”  (Joint 
+Ex. 8, p. 91) 
+Mr. Miller also sought an independent medical evaluation, performed by Mark 
+Kirkland, D.O., an orthopaedic surgeon.  Dr. Kirkland evaluated claimant on April 8, 
+2022.  He noted the mechanism of injury, appears to have reviewed pertinent medical 
+information relative to the left knee injury, and performed a thorough physical 
+examination of claimant’s left knee.  Dr. Kirkland concluded, “the April 20, 2020 work 
+injury was more likely than not a substantial factor in materially aggravating and 
+worsening Mr. Miller’s preexisting left knee condition which resulted in left knee 
+arthroscopy and eventually left total knee arthroplasty.”  (Claimant’s Ex. 1, p. 7)   
+Dr. Kirkland opined that claimant achieved MMI for his knee injury on February 
+21, 2022, after Dr. Delbridge released claimant.  He opined that claimant sustained a 37 
+percent permanent impairment as a result of the left knee injury occurring on April 20, 
+2020 and as a result of the total knee replacement.  (Claimant’s Ex. 1, p. 7) 
+The initial factual dispute presented to the undersigned is whether the claimant’s 
+left knee replacement is causally related to the April 20, 2020 work injury.  The parties 
+present conflicting evidence on this issue.  Considering each of the medical 
+professionals’ opinions on the issue, I note that Dr. Vinyard was claimant’s treating 
+surgeon.  He evaluated claimant on multiple occasions.  He had the opportunity to 
+inspect claimant’s knee joint intra-operatively, and he evaluated claimant closest in time 
+to his injury.  His opinions are entitled to significant consideration. 
+Dr. Delbridge similarly served as a treating surgeon.  He is the surgeon that 
+performed the total knee replacement, which is at issue.  Again, Dr. Delbridge had the 
+advantage of evaluating claimant multiple times, as well as viewing claimant’s knee joint 
+intra-operatively.  Dr. Delbridge’s opinions are also entitled to significant consideration. 
+Dr. Kirkland evaluated claimant only once at the request of claimant’s attorney.  
+The advantage enjoyed by Dr. Kirkland is that he was able to review all of the pertinent 
+
+MILLER V. LENNOX INDUSTRIES, INC. 
+Page 5 
+medical evidence in reaching his opinions.  However, he did not have the advantage of 
+viewing claimant’s knee intra-operatively. 
+When I consider each of the physician’s opinions, I find those of Dr. Vinyard to 
+lack any explanation of why claimant’s left knee was asymptomatic before the April 20, 
+2020 date of injury and then required a left knee replacement shortly after his work 
+injury.  Dr. Vinyard’s explanation that claimant had pre-existing osteoarthritis makes 
+sense but does not explain why that arthritis became symptomatic and worsened 
+immediately after the work injury. 
+Dr. Delbridge offers a feasible explanation but provides only minimal, handwritten 
+analysis.  Dr. Delbridge explains that the work accident was a materially aggravating 
+factor for claimant’s left knee.  However, he does not clarify whether it caused the total 
+knee replacement specifically. 
+Dr. Kirkland’s opinions provided a cogent and realistic explanation of how and 
+why claimant’s left knee osteoarthritis became symptomatic and worsened to the point 
+of needing a total knee replacement.  He appears to have been able to evaluate the 
+medical records of both Dr. Vinyard and Dr. Delbridge, as well as taking a history from 
+claimant and conducting his evaluation.  I find Dr. Kirkland’s opinions to be most 
+credible and convincing in this evidentiary record.  To the extent that his opinion 
+supports Dr. Kirkland’s conclusion, I also accept the causation opinion of Dr. Delbridge.  
+Having reached these findings, I also find that claimant has proven that the April 20, 
+2020 work accident caused a material aggravation and worsening of his underlying 
+osteoarthritis such that it caused and resulted in claimant’s need for a left knee 
+replacement.   
+Having reached this finding, I also find that the medical expenses contained in 
+Claimant’s Exhibit 5 are related to that left knee replacement and are causally related to 
+the April 20, 2020 work accident.  I also find that claimant was off work for his total left 
+knee replacement as of August 24, 2021 and continued off work through February 21, 
+2022, when he achieved maximum medical improvement (MMI).  Dr. Kirkland also 
+provides the only permanent impairment rating related to claimant’s left total knee 
+replacement.  I accept that impairment rating and find that claimant has proven a 37 
+percent permanent functional impairment of his left leg as a result of the April 20, 2020 
+work injury.  (Claimant’s Ex. 1, p. 7) 
+The second injury involves a left shoulder injury occurring at Lennox on June 14, 
+2021.  Defendants stipulate that claimant sustained a left shoulder injury.  The primary 
+dispute submitted to me is whether the June 14, 2021 injury caused permanent 
+disability and, if so, the extent of claimant’s entitlement to permanent disability benefits. 
+On June 14, 2021, claimant was performing his job duties when he lifted a 100-
+pound spool of wire.  As he lifted it onto the left shoulder, he experienced a sharp pain 
+in the top of his left shoulder.  Claimant acknowledges a prior left shoulder injury. 
+
+MILLER V. LENNOX INDUSTRIES, INC. 
+Page 6 
+However, Mr. Miller testified that his prior left shoulder symptoms resolved prior 
+to the June 14, 2021 injury.  He also testified that his left shoulder injury in 2019 
+resulted in symptoms in the back of his shoulder as opposed to the top of his shoulder 
+after the 2021 incident.  He sought no medical care for his shoulder between his 
+symptoms resolving in 2019 and the June 14, 2021 work injury.  (Hearing Transcript, 
+pages 40-48) 
+Claimant testifies that he still experiences his shoulder “sticking” and he testified 
+that he has to be careful when lifting since the 2021 work injury.  (Tr., p. 53)  
+Defendants authorized care through Steven A. Aviles, M.D.  Dr. Aviles obtained a left 
+shoulder MRI, which was unremarkable.  (Joint Ex. 7, pp. 75-76) 
+Dr. Aviles provided only conservative care but reported that claimant indicated 
+his shoulder felt great by September 21, 2021.  He placed claimant at MMI at that point 
+and released him from further care without permanent medical restrictions related to the 
+left shoulder.  (Joint Ex. 6, pp. 72-74)  Dr. Aviles further opined that claimant had a zero 
+percent permanent impairment resulting from the June 14, 2021 left shoulder injury.  
+(Joint Ex. 6, p. 74) 
+Claimant sought no additional medical care for his left shoulder after Dr. Aviles 
+released him.  However, he did seek an independent medical evaluation performed by 
+Dr. Kirkland at the same time he evaluated claimant’s left knee.  Dr. Kirkland concurred 
+with Dr. Aviles that MMI occurred on September 21, 2021.  (Claimant’s Ex. 1, p. 8)  
+However, he opined that claimant may require additional physical therapy and/or an 
+arthroscopy of the left shoulder.  Claimant has not pursued either since his evaluation 
+by Dr. Kirkland. 
+Dr. Kirkland identified reduced range of motion in claimant’s left shoulder.  As a 
+result of the reduced range of motion, Dr. Kirkland opines that Mr. Miller sustained an 
+11 percent permanent impairment of the left upper extremity as a result of the June 14, 
+2021 left shoulder injury.  (Claimant’s Ex. 1, p. 8)  Dr. Kirkland’s impairment is drawn 
+from Figures 16-40, 16-43, and 16-46 of the AMA Guides to the Evaluation of 
+Permanent Impairment, Fifth Edition.   
+Notably, Dr. Aviles describes claimant as doing “great” at his September 21, 
+2021 office visit.  Yet, Dr. Aviles’ September 21, 2021 evaluation demonstrated both 
+painful active and passive range of motion in the left shoulder.  He details claimant’s 
+passive range of motion measurements but does not document active range of motion 
+measurements.  (Joint Ex. 6, p. 73) 
+Dr. Kirkland documents in his report that he obtained active range of motion 
+measurements using a goniometer.  (Claimant’s Ex. 1, p. 6)  Claimant confirmed this 
+during his testimony, explaining that Dr. Kirkland used the goniometer to measure active 
+range of motion of his left shoulder.  Mr. Miller testified that Dr. Aviles did not use a 
+goniometer to measure range of motion in his shoulder, and Dr. Aviles’ September 21, 
+2021 office note makes no reference to the use of a goniometer and provides no active 
+range of motion measurements.  (Tr., p. 50) 
+
+MILLER V. LENNOX INDUSTRIES, INC. 
+Page 7 
+Section 16.4i on page 475 of the AMA Guides to the Evaluation of Permanent 
+Impairment, Fifth Edition, instructs a medical evaluator to “[m]easure the maximum 
+active shoulder flexion and extension” to determine permanent impairment.  That same 
+section of the AMA Guides, on page 476, also instructs an evaluating physician to 
+“[m]easure the maximum active shoulder abduction and adduction” when determining 
+permanent impairment under the range of motion methodology. 
+I find that Dr. Kirkland followed the specific instructions of the AMA Guides, Fifth 
+Edition, when measuring claimant’s left shoulder range of motion.  Dr. Kirkland also 
+used a goniometer to ensure the accuracy of his measurements.  Dr. Aviles did not 
+record or rely upon active range of motion measurements or use a goniometer when 
+measuring claimant’s range of motion to determine permanent impairment.  I find that 
+Dr. Kirkland’s measurements and corresponding permanent impairment are in 
+compliance with the AMA Guides, Fifth Edition, requirements.  Therefore, I accept Dr. 
+Kirkland’s measurements as accurate and find that claimant has proven he sustained 
+an 11 percent permanent functional impairment of the left arm as a result of the June 
+14, 2021 left shoulder injury. 
+CONCLUSIONS OF LAW 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the alleged injury actually occurred and that it both arose out of and in the course of the 
+employment.  Quaker Oats Co. v. Ciha, 552 N.W.2d 143 (Iowa 1996); Miedema v. Dial 
+Corp., 551 N.W.2d 309 (Iowa 1996).  The words “arising out of” refer to the cause or 
+source of the injury.  The words “in the course of” refer to the time, place, and 
+circumstances of the injury.  2800 Corp. v. Fernandez, 528 N.W.2d 124 (Iowa 1995).  
+An injury arises out of the employment when a causal relationship exists between the 
+injury and the employment.  Miedema, 551 N.W.2d 309.  The injury must be a rational 
+consequence of a hazard connected with the employment and not merely incidental to 
+the employment.  Koehler Elec. v. Wills, 608 N.W.2d 1 (Iowa 2000); Miedema, 551 
+N.W.2d 309.  An injury occurs “in the course of” employment when it happens within a 
+period of employment at a place where the employee reasonably may be when 
+performing employment duties and while the employee is fulfilling those duties or doing 
+an activity incidental to them.  Ciha, 552 N.W.2d 143. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+
+MILLER V. LENNOX INDUSTRIES, INC. 
+Page 8 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995).  Miller v. 
+Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 1994).  Unrebutted expert medical 
+testimony cannot be summarily rejected.  Poula v. Siouxland Wall & Ceiling, Inc., 516 
+N.W.2d 910 (Iowa App. 1994). 
+While a claimant is not entitled to compensation for the results of a preexisting 
+injury or disease, its mere existence at the time of a subsequent injury is not a defense.  
+Rose v. John Deere Ottumwa Works, 247 Iowa 900, 76 N.W.2d 756 (1956).  If the 
+claimant had a preexisting condition or disability that is materially aggravated, 
+accelerated, worsened or lighted up so that it results in disability, claimant is entitled to 
+recover.  Nicks v. Davenport Produce Co., 254 Iowa 130, 115 N.W.2d 812 (1962); 
+Yeager v. Firestone Tire & Rubber Co., 253 Iowa 369, 112 N.W.2d 299 (1961). 
+I found that claimant proved by a preponderance of the evidence that the April 
+20, 2020 work injury materially and substantially aggravated his left knee osteoarthritis 
+and led to his need for a left knee replacement.  Accordingly, I conclude claimant 
+carried his burden of proof to establish a causal connection between the work injury and 
+the subsequent left total knee replacement. 
+Mr. Miller seeks an award of additional healing period benefits for that time 
+period after his left knee replacement.  Specifically, claimant asserts a claim for healing 
+period benefits from August 24, 2021 (the date of his left total knee replacement) until 
+February 21, 2022 (the date of MMI). 
+Section 85.34(1) provides that healing period benefits are payable to an injured 
+worker who has suffered permanent partial disability until (1) the worker has returned to 
+work; (2) the worker is medically capable of returning to substantially similar 
+employment; or (3) the worker has achieved maximum medical recovery.  The healing 
+period can be considered the period during which there is a reasonable expectation of 
+improvement of the disabling condition.  See Armstrong Tire & Rubber Co. v. Kubli, 312 
+N.W.2d 60 (Iowa App. 1981).  Healing period benefits can be interrupted or intermittent.  
+Teel v. McCord, 394 N.W.2d 405 (Iowa 1986). 
+I found that claimant was off work under medical restrictions after his left total 
+knee replacement on August 24, 2021, and that he remained off work and unable to 
+perform substantially similar employment until he achieved MMI on February 21, 2022.  
+Therefore, I conclude that claimant has proven by a preponderance of the evidence that 
+he is entitled to an award of additional healing period benefits from August 24, 2021 to 
+February 21, 2022.  Iowa Code section 85.34(1).  Having found that claimant achieved 
+MMI on February 21, 2022, his healing period benefits terminate on that date. 
+
+MILLER V. LENNOX INDUSTRIES, INC. 
+Page 9 
+Claimant also requests an award of permanent partial disability benefits for the 
+April 20, 2020 injury date.  I accepted the opinions, including the permanent impairment 
+rating, of Dr. Kirkland as most credible and convincing.  Dr. Kirkland’s measurements 
+and permanent impairment rating were found to be in compliance with the AMA Guides, 
+Fifth Edition.  Therefore, I also found that claimant proved he sustained a 37 percent 
+permanent impairment of the left leg as a result of the April 20, 2020 injury.   
+Under the Iowa Workers' Compensation Act, permanent partial disability is 
+compensated either for a loss or loss of use of a scheduled member under Iowa Code 
+section 85.34(2)(a)-(t) or for loss of earning capacity under section 85.34(2)(u).  The 
+extent of scheduled member disability benefits to which an injured worker is entitled is 
+determined by using the functional method.  Functional disability is "limited to the loss of 
+the physiological capacity of the body or body part.”  Mortimer v. Fruehauf Corp., 
+502 N.W.2d 12, 15 (Iowa 1993); Sherman v. Pella Corp., 576 N.W.2d 312 (Iowa 1998).    
+In determining the extent of permanent disability sustained in a scheduled member 
+injury, “the extent of loss or percentage of permanent impairment shall be determined 
+solely by utilizing the guides to the evaluation of permanent impairment.”  Iowa Code 
+section 85.34(2)(x).  Moreover, “Lay testimony or agency expertise shall not be utilized 
+in determining loss or percentage of permanent impairment … when determining 
+functional disability.”  Iowa Code section 85.34(2)(x).   
+The leg is specifically noted as a scheduled member injury in Iowa Code section 
+(2)(p).  According to the statute, the leg is compensated on a 220-week schedule.  Iowa 
+Code section 85.34(2)(p).  Having found claimant proved a 37 percent permanent 
+impairment of the left leg, I conclude claimant is entitled to an award of 81.4 weeks of 
+permanent partial disability benefits.  Iowa Code section 85.34(2)(p), (w). 
+Claimant also seeks award of past medical expenses in this case.  The medical 
+expenses are included at Claimant’s Exhibit 5.  The employer shall furnish reasonable 
+surgical, medical, dental, osteopathic, chiropractic, podiatric, physical rehabilitation, 
+nursing, ambulance, and hospital services and supplies for all conditions compensable 
+under the workers' compensation law.  The employer shall also allow reasonable and 
+necessary transportation expenses incurred for those services.  The employer has the 
+right to choose the provider of care, except where the employer has denied liability for 
+the injury.  Section 85.27.  Holbert v. Townsend Engineering Co., Thirty-second Biennial 
+Report of the Industrial Commissioner 78 (Review-Reopening October 1975). 
+Having found that claimant proved a causal connection between the April 20, 
+2020 work injury and claimant’s subsequent left total knee replacement, I conclude that 
+claimant is entitled to payment, reimbursement, or an order requiring defendants to hold 
+him harmless for all medical expenses contained in Claimant’s Exhibit 5. 
+Regarding the second injury date of June 14, 2021, Mr. Miller again carries the 
+burden of proof to establish a causal connection between the alleged injury and his 
+claimed disability.  Claimant asserts he sustained permanent disability as a result of the 
+June 14, 2021 left shoulder injury.  Ultimately, I accepted the opinions of Dr. Kirkland as 
+most credible and convincing with respect to the shoulder injury.  In this instance, Dr. 
+
+MILLER V. LENNOX INDUSTRIES, INC. 
+Page 10 
+Kirkland’s impairment rating is the rating that is in compliance with and accurately 
+applies the AMA Guides.  Accordingly, I found that claimant proved permanent disability 
+resulting from his left shoulder injury and proved he sustained an 11 percent permanent 
+impairment of the left arm as a result of the June 14, 2021 injury date. 
+Since a 2017 statutory amendment, the shoulder is compensated as a scheduled 
+member injury on a 400-week schedule.  (Iowa Code section 85.34(2)(n).  Having found 
+claimant proved an 11 percent permanent functional impairment of the left arm as a 
+result of the June 14, 2021 left shoulder injury, I conclude claimant is entitled to an 
+award of 44 weeks of permanent partial disability benefits for the June 14, 2021 injury 
+date.  Iowa Code section 85.34(2)(n), (w). 
+The final disputed issue in each file is whether costs should be assessed against 
+either party.  Costs are assessed at the discretion of the agency.  Iowa Code section 
+86.40.  Claimant has prevailed on the disputed issues submitted for resolution.  
+Therefore, I conclude it is appropriate to assess claimant’s costs against defendants in 
+some amount. 
+Mr. Miller submits a request for two filing fees, one for each file.  Filing fees are 
+reasonable and appropriate costs pursuant to 876 IAC 4.33(7).  I conclude it is 
+reasonable to assess both filing fees in the amount of $206.00.  He also seeks a service 
+fee ($6.96) for service of the original notice and petition.  Again, this is a reasonable 
+request and is assessed pursuant to 876 IAC 4.33(3). 
+Claimant’s statement of costs seeks award of Dr. Kirkland’s IME. However, 
+defendants acknowledged liability for that IME at the commencement of hearing and a 
+verbal order was entered for defendants to reimburse that fee pursuant to Iowa Code 
+section 85.39.  Since the issue was resolved via section 85.39, it will not also be 
+considered as a cost. 
+Finally, claimant seeks assessment of the cost of obtaining the October 4, 2021 
+report from Dr. Delbridge.  I ultimately accepted Dr. Delbridge’s opinions to the extent 
+they supported those offered by Dr. Kirkland.  It was reasonable for claimant to solicit a 
+causation opinion from Dr. Delbridge as a treating surgeon.  Therefore, I conclude it is 
+reasonable to assess Dr. Delbridge’s $125.00 report fee as a cost.  876 IAC 4.33(6).  In 
+total, I conclude that defendants should be assessed and reimburse costs totaling 
+$337.96. 
+ORDER 
+THEREFORE, IT IS ORDERED: 
+In File No. 20006056.01: 
+Defendants shall pay claimant healing period benefits from August 24, 2021 
+through February 21, 2022. 
+
+MILLER V. LENNOX INDUSTRIES, INC. 
+Page 11 
+Defendants shall pay claimant eight-one point four (81.4) weeks of permanent 
+partial disability benefits commencing on February 22, 2022. 
+All weekly benefits shall be payable at the stipulated weekly rate of five hundred 
+fifty and 02/100 dollars ($550.02) per week. 
+Defendants are entitled to the stipulated credit for both short-term disability and 
+prior payment of permanent partial disability benefits. 
+Defendants shall pay for, reimburse claimant or any third-party payor, and hold 
+claimant harmless for all medical expenses included and submitted in Claimant’s Exhibit 
+5. 
+In File No. 21700794.01: 
+Defendants shall pay claimant forty-four (44) weeks of permanent partial 
+disability benefits commencing on September 22, 2021. 
+Defendants shall pay all weekly benefits at the stipulated weekly rate of five 
+hundred seventeen and 80/100 dollars ($517.80) per week. 
+In both files: 
+Interest on any late paid weekly benefits shall be payable at an annual rate equal 
+to the one-year treasury constant maturity published by the federal reserve in the most 
+recent H15 report settled as of the date of injury, plus two percent. See Gamble v. AG 
+Leader Technology File No. 5054686 (App. Apr. 24, 2018). 
+Defendants shall reimburse Dr. Kirkland’s independent medical evaluation fees 
+totaling four thousand eight hundred thirty and 00/100 dollars ($4,830.00). 
+Defendants shall reimburse claimant’s costs in the amount of three hundred 
+thirty-seven and 96/100 dollars ($337.96). 
+Defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1(2) and 876 IAC 11.7. 
+Signed and filed this ___18th __ day of October 2022. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      WILLIAM H. GRELL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                           DEPUTY WORKERS’  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     COMPENSATION COMMISSIONER 
+
+MILLER V. LENNOX INDUSTRIES, INC. 
+Page 12 
+The parties have been served, as follows:  
+James Ballard (via WCES) 
+Alison Stewart (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address:  Workers’ Com pensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal pe riod 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 

@@ -1,0 +1,740 @@
+Case Number: 1623473.01
+Case Title:  BRYAN, TRAVIS V. HY-VEE
+Doc Type:    Decision - Deputy
+Source:      Bryan Travis-1623473.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+TRAVIS BRYAN, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  :                     File No. 1623473.01 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :  
+HY-VEE, INC., 
+  : 
+       ARBITRATION DECISION 
+ 
+ 
+  :  
+ 
+Employer, 
+  : 
+ 
+ 
+  :  
+and 
+ 
+  : 
+ 
+ 
+  : 
+EMC PROPERTY & CASUALTY CO., 
+  :                 Head Note Nos.:  1803 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  : 
+ 
+Defendants. 
+  :  
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Bryan seeks workers’ compensation benefits from the defendants, employer 
+Hy-Vee, Inc. (Hy-Vee) and insurance carrier EMC Property and Casualty Co. (EMC). 
+The undersigned presided over an arbitration hearing on September 28, 2021, held by 
+internet-based video under order of the Commissioner. Bryan participated personally 
+and through attorney Randall P. Schueller. The defendants participated by and through 
+attorney Lindsey E. Mills. 
+ISSUES 
+Under rule 876 IAC 4.149(3)(f), the parties jointly submitted a hearing report 
+defining the claims, defenses, and issues submitted to the presiding deputy 
+commissioner. The hearing report was approved and entered into the record via an 
+order because it is a correct representation of the disputed issues and stipulations in 
+this case. The parties identified the following disputed issues in the hearing report: 
+1) What is the extent of industrial disability caused by the alleged injury? 
+2) If permanent partial disability (PPD) benefits are awarded, what is the 
+commencement date? 
+3) Is Bryan entitled to recover the cost of an independent medical examination 
+(IME)? 
+4) Are the defendants entitled to a credit for one hundred seventy weeks of 
+PPD benefits paid at the rate of one thousand one hundred one and 29/100 
+($1,151.29) per week? 
+ELECTRONICALLY FILED     2022-May-09  11:24:09     DIVISION OF WORKERS' COMPENSATION
+
+BRYAN V. HY-VEE, INC. 
+Page 2 
+5) Is Bryan entitled to a penalty against the defendants? 
+STIPULATIONS 
+ 
+In the hearing report, the parties entered into the following stipulations: 
+1) An employer-employee relationship existed between Bryan and Hy-Vee at 
+the time of the stipulated injury. 
+2) Bryan sustained an injury on October 8, 2016, which arose out of and in the 
+course of his employment with Hy-Vee. 
+3) The stipulated injury is a cause of temporary disability during a period of 
+recovery, but Bryan’s entitlement to temporary or healing period benefits is 
+no longer in dispute. 
+4) The alleged injury is a cause of industrial disability. 
+5) At the time of the stipulated injury: 
+a) Bryan’s gross earnings were one thousand eight hundred seventy-four 
+and 47/100 dollars ($1,874.47) per week. 
+b) Bryan was married. 
+c) Bryan was entitled to five exemptions. 
+The parties’ stipulations in the hearing report are accepted and incorporated into 
+this arbitration decision. The parties are bound by their stipulations. This decision 
+contains no discussion of any factual or legal issues relative to the parties’ stipulations 
+except as necessary for clarity with respect to disputed factual and legal issues. 
+FINDINGS OF FACTS 
+The evidentiary record in this case consists of the following:  
+ Joint Exhibits (Jt. Ex.) 1 through 11; 
+ Claimant’s Exhibits (Cl. Ex.) 1 through 7;  
+ Defendants’ Exhibits (Def. Ex.) A through I; and 
+ Hearing testimony by Bryan.  
+After careful consideration of the evidence and the parties’ post-hearing briefs, the 
+undersigned enters the following findings of fact. 
+Bryan was 34 years of age at the time of hearing. He graduated from Melcher 
+Dallas High School in 2006. He has obtained two postsecondary degrees from Indian 
+Hills Community College. (Testimony) 
+
+BRYAN V. HY-VEE, INC. 
+Page 3 
+Bryan has worked in a meat locker and wood shop. (Cl. Ex. 5, p. 13) He started 
+employment with Hy-Vee in June of 2006, shortly after graduating from high school. (Cl. 
+Ex. 5, p. 13) Bryan worked exclusively for Hy-Vee during the 15 years prior to hearing. 
+(Cl. Ex. 5, pp. 13–14; Testimony) 
+At Hy-Vee, Bryan started out as an order selector. He would load product onto 
+pallets, lifting 50 to 100 pounds throughout the shift. Bryan then worked in receiving, 
+where he would check the quality of product from other vendors and stock product. In 
+receiving, he had to engage in heavy lifting on most loads. (Testimony) 
+Bryan sustained an injury to his lower back in 2013 while playing with his children 
+at home. He decided to change jobs to put less strain on his body with the hope to 
+improve his long-term quality of life. In 2015, Bryan started driving a truck for Hy-Vee. 
+As a truck driver for Hy-Vee, Bryan performs a “pre-trip” of the tractor and trailer to 
+ensure everything is in order. After that, he loads the truck using a power jack or manual 
+jack to drop off loads. (Testimony)  
+On October 8, 2016, Bryan was making a delivery for Hy-Vee. (Testimony) He 
+went to pull off a pallet, slipped, fell into the side of the trailer, and then to the floor. (Jt. 
+Ex. 1, p. 1; Testimony) He continued to work that day and the following workday despite 
+the injury, which caused weakness in his left arm and pain in his left elbow, left 
+shoulder, and neck. (Testimony; Jt. Ex. 1, p. 1; Cl. Ex. 5, p. 15) 
+Bryan notified his supervisor. The defendants accepted Bryan’s injury as arising 
+out of and in the course of employment. They directed care for his injury under Iowa 
+Code section 85.27. Bryan was off work from on or about October 12, 2016, through 
+August 10, 2017. (Testimony) 
+The defendants first chose Lucas County Health Center to provide care for 
+Bryan’s injuries. (Ex. 1, p. 1) Bryan received conservative treatment, including physical 
+therapy, injections, and medication. (Jt. Ex. 1, pp. 1–11; Jt. Ex. 2, pp. 12–35) After 
+magnetic resonance imaging (MRI) on November 4, 2016, showed compression of the 
+cervical cord at C5-6, Greg Cohen, D.O., referred him to an orthopedic specialist. (Jt. 
+Ex. 2, pp. 30, 36) 
+Richard Holt, D.O., saw Bryan at Iowa Ortho on November 17, 2016. (Jt. Ex. 5, 
+pp. 40–44) He recommended cervical epidural steroid injections. (Jt. Ex. 5, p. 44) These 
+provided pain relief, but Bryan also experienced numbness in his left arm, hand, and 
+fingers. (Jt. Ex. 5, p. 47) Because of Bryan’s numbness, Dr. Holt ordered 
+electromyograph (EMG) and nerve conduction velocity (NCV) testing that came back 
+normal. (Jt. Ex. 4, pp. 47, 50, Jt. Ex. 6, p. 68)  
+Dr. Holt administered a third epidural steroid injection on February 6, 2017, which 
+provided pain relief for a couple of days. (Jt. Ex. 5, pp. 57–58) On February 22, 2017, 
+Bryan complained of “very severe” neck pain that limited his everyday function. (Jt. Ex. 
+5, p. 58) Dr. Holt recommended left C3-C6 medial branch nerve blocks to address 
+Bryan’s ongoing pain and performed the procedure on March 20, 2017. (Jt. Ex. 5, pp. 
+61–62) During Bryan’s follow-up appointment with Dr. Holt on March 22, 2017, he 
+reported no relief, increased pain, and swelling. (Jt. Ex. 5, p. 63) Consequently, Dr. Holt 
+
+BRYAN V. HY-VEE, INC. 
+Page 4 
+had no additional care to offer Bryan and referred him for evaluation by a surgeon. (Jt. 
+Ex. 5, p. 66) 
+On April 17, 2017, Bryan then saw Todd Harbach, M.D., at Iowa Ortho. (Jt. Ex. 7, 
+p. 78) Dr. Harbach noted: 
+The severity of the problem is moderate. The frequency of pain is 
+constant. Location of pain is left lateral neck and left posterior neck. There 
+is radiation of pain to the left upper arm, left elbow, left forearm, left 
+interscapular, left hand, left thumb, left index finger, and left 5th finger. The 
+patient describes the pain as aching, stabbing, tingling and numbness. 
+(Jt. Ex. 7, p. 78) 
+Dr. Harbach found Bryan “fairly normal” at C4-C5, had “severe stenosis at C5-
+C6,” “a herniated distal left at C6-C7,” and “stenosis at C3-C4 and a congenitally narrow 
+canal.” (Jt. Ex. 7, p. 81) They scheduled surgery, though Dr. Harbach wanted to discuss 
+with another doctor the type of procedure. (Jt. Ex. 7, p. 81) On May 17, 2017, Dr. 
+Harbach performed C5-6 and C6-7 anterior cervical decompression, diskectomy, and 
+fusion. (Jt. Ex. 7, pp. 83–86)  
+Bryan followed up with Dr. Harbach and rehabilitated after the surgery. (Jt. Ex. 7, 
+pp. 87–114) During his recovery, Bryan returned to work at Hy-Vee on August 11, 2017. 
+(Testimony) On October 5, 2017, Dr. Harbach noted, “For work, I am going to put him 
+on a lifting restriction of 50 pounds which in my opinion should be permanent after 
+fusion anyway.” (Jt. Ex. 7, p. 107) Dr. Harbach found Bryan at maximum medical 
+improvement (MMI) on November 30, 2017, and released him from care despite 
+ongoing pain complaints. (Jt. Ex. 7, pp. 107, 111, 113)  
+The defendants paid Bryan healing period (HP) benefits1 from October 15, 2016, 
+through August 10, 2017, the day before he returned to work as a truck driver for 
+Hy-Vee. (Def. Ex. E, pp. 9–12) From August 11, 2017, through October 19, 2017, they 
+paid Bryan eleven weeks of PPD benefits. (Def. Ex. E, p. 12) They stopped paying 
+Bryan PPD benefits effective October 20, 2017. (Def. Ex. E, p. 12) It is unclear why. 
+EMC sent a letter dated December 4, 2017, to Dr. Harbach, with five questions 
+about Bryan’s injury and permanent impairment. (Def. Ex. A, p. 1) Dr. Harbach 
+responded with a letter dated December 8, 2017. (Def. Ex. A) In it, he stated Bryan 
+reached MMI on November 30, 2017, he should not require any additional care, and he 
+did not have any permanent work restrictions. (Def. Ex. A, p. 1–2) On the question of 
+permanent functional impairment, Dr. Harbach used the Fifth Edition of the American 
+Medical Association (AMA) Guides to the Evaluation of Permanent Impairment (Guides) 
+to opine: 
+                                                 
+1 The exhibits show EMC classified these benefits at the time they were paid as temporary total 
+disability (TTD) benefits. These benefits became HP benefits when Dr. Harbach determined the work 
+injury had caused permanent disability. Bell Bros. Heating & Air Conditioning v. Gwinn, 779 N.W.2d 193, 
+200 (Iowa 2010) (citing Clark v. Vicorp Rests., Inc., 696 N.W.2d 596, 604–05 (Iowa 2005)). For clarity, 
+this decision refers to them only as HP benefits. 
+
+BRYAN V. HY-VEE, INC. 
+Page 5 
+[Bryan] fits into DRE Cervical Category IV, which is found on Table 15-5 
+on page 392 of the [Guides]. In that category, he should receive a 28% 
+permanent partial impairment of the whole person. He fits into that 
+category, because he had a successful surgical arthrodesis at two 
+separate cervical levels, which is a definite alteration in the structural 
+integrity/motion of the level. 
+(Def. Ex. A, p. 1) 
+The defendants issued Bryan a payment of $15,160.01 for PPD benefits on 
+January 23, 2018. (Def. Ex. E, p. 12) The payment was for thirteen weeks of benefits, 
+from October 20, 2017, through January 18, 2018. (Def. Ex. A, p. 12) The defendants 
+then resumed paying Bryan weekly PPD benefits with a check dated January 26, 2018, 
+for the time period from January 19, 2018, through January 25, 2018. (Def. Ex. A, p. 13) 
+On May 31, 2018, Bryan went to Iowa Ortho for a follow-up examination. (Jt. Ex. 
+7, pp. 117–19) Dr. Harbach noted he had kyphosis from C2 through the C4-5 level. (Jt. 
+Ex. 7, p. 118) He also noted Bryan complained of intermittent right upper extremity pain 
+and intractable cervical pain. (Jt. Ex. 7, p. 118) Dr. Harbach prescribed a different 
+nonsteroidal anti-inflammatory drug (NSAID) and directed Bryan to follow-up yearly or 
+sooner if his neck pain does not improve. (Jt. Ex. 7, p. 118)  
+Bryan went back to Iowa Ortho on September 14, 2018, complaining of pain in 
+his neck that radiated into his left shoulder and in his left arm. (Jt. Ex. 7, pp. 120–21) Dr. 
+Harbach noted that, “if anything, [Bryan’s symptoms] were worsening with time” and 
+ordered an updated MRI and CMG and CVC testing. (Jt. Ex. 7, p. 121) After reviewing 
+the updated MRI and testing, Dr. Harbach stated: 
+He does have a nice wide open canal at C5-C6 and C6-C7 in the face of 
+congenital cervical stenosis. The cord at those levels, however, do[es] 
+have cerebrospinal fluid all of the way around it. At C3-C4 and C4-C5 
+above there are disk bulges/mild herniations that results in moderate 
+central stenosis with deformation of the spinal cord slightly worse on the 
+LEFT side which corresponds with the symptoms in his LEFT arm. His 
+EMG/nerve conduction test came back as normal, however. 
+(Jt. Ex. 7, p. 124) They discussed surgical options with Dr. Harbach cautioning they may 
+not eliminate all of Bryan’s symptoms. (Jt. Ex. 7, p. 124) 
+EMC requested an explanation from Dr. Harbach about Bryan’s ongoing care. 
+(Jt. Ex. 7, p. 126) In a letter dated October 22, 2018, Dr. Harbach confirmed that Bryan 
+sustained a cervical injury when he fell on October 8, 2016, and provided the requested 
+information regarding his ongoing symptoms and need for care: 
+He has a congenitally narrow cervical spinal canal, and on top of that he 
+had a herniated disc at C5-C6 and C6-C7. I felt, at that time, that even 
+though he had a congenitally narrow canal we could get adequate 
+decompression of the levels going anteriorly. However, I discussed with 
+the patient from the first day that if we did not get enough decompression 
+anteriorly that we may have to come back and do a second surgery which 
+
+BRYAN V. HY-VEE, INC. 
+Page 6 
+would be a laminectomy or potentially a corpectomy from the front. After 
+the patient’s surgery, he has continued to have cervical pain and pain that 
+radiates down his arm off and on for the entire first year after his surgery. 
+He thought he was well enough that he could return to work and, in fact, 
+as you know, he has done so. However, he continues to have symptoms 
+and his symptoms have made him rather uncomfortable and made life 
+very difficult for him. Therefore, because of his continued pain and the 
+continued stenosis which was aggravated or irritated by his work-related 
+injury, I have recommended a second surgery as described. 
+(Jt. Ex. 7, p. 126) 
+On November 28, 2018, Dr. Harbach performed a C3 through C6 posterior 
+instrumented spinal fusion and a complete laminectomy for decompression of the spinal 
+cord at the C3-4, C4-5, and C5-6 levels. (Jt. Ex. 7, p. 127–31) The defendants stopped 
+PPD benefits effective November 30, 2018. (Def. Ex. E, p. 16) Instead, they began 
+paying him HP benefits for the week of November 30, 2018, through December 6, 2018. 
+(Def. Ex. E, p. 16) 
+Bryan participated in post-surgery rehabilitation, including physical therapy and 
+follow-ups with Dr. Harbach. (Jt. Ex. 7, pp. 132–50) His symptoms improved with time. 
+(Jt. Ex. 7, pp. 134, 136, 138, 142, 147, 150) Bryan returned to work part time and the 
+defendants stopped paying him HP benefits effective March 10, 2019, and began to pay 
+him temporary partial disability (TPD) benefits effective March 11, 2019, and through 
+March 28, 2019. (Def. Ex. E, p. 17) 
+On March 29, 2019, Dr. Harbach authorized Bryan to return to work with 
+restrictions. (Jt. Ex. 7, p. 147) The defendants stopped paying Bryan TPD benefits 
+effective March 28, 2019. (Def. Ex. E, p. 17) They resumed paying Bryan PPD benefits 
+with a check dated April 8, 2019, for time period from March 29, 2019, through April 7, 
+2019. (Def. Ex. E, p. 17) 
+Dr. Harbach released Bryan to work full duty as a truck driver on April 22, 2019. 
+(Jt. Ex. 7, p. 150) Dr. Harbach noted, “I encouraged him to continue to stay aerobically 
+fit and to try to avoid heavy work.” (Jt. Ex. 7, p. 157) Dr. Harbach did not explain what 
+type of heavy work Bryan should avoid or assign specific work restrictions. (Jt. Ex. 7, 
+pp. 155–57)  
+EMC requested a second impairment rating from Dr. Harbach. (Def. Ex. B, p. 3) 
+In a letter dated May 13, 2019, Dr. Harbach responded to the questions EMC posed to 
+him regarding Bryan’s injury and disability. (Def. Ex. B, p. 3) He opined Bryan did not 
+require additional care, did not need any permanent work restrictions, and had reached 
+MMI on April 22, 2019. (Def. Ex. B, pp. 3–4) Dr. Harbach did not mention his opinion 
+from about six weeks earlier that Bryan needed to avoid heavy work. (Def. Ex. B, pp. 3–
+4) Dr. Harbach used the Guides to opine: 
+I believe he still fits into DRE cervical category #4 which is found on Table 
+15-5 on page 392 of the book. Last time I put him at 28% permanent 
+partial impairment of the whole person and I believe he still fits into that 
+category and does not warrant any additional impairment. 
+
+BRYAN V. HY-VEE, INC. 
+Page 7 
+As far as apportionment, some of his problem is definitely related to his 
+pre-existing congenital stenosis at this level. I believe that he more than 
+likely would have had some issues throughout his life because of his 
+congenitally-narrow canal and would feel that 50% of his total impairment 
+or problems are related to this congenitally-narrow canal that he was born 
+with. 
+(Def. Ex. A, p. 4) 
+After issuing Bryan a check dated July 22, 2019, the defendants ceased payment 
+of PPD benefits. (Def. Ex. E, p. 18) EMC sent Bryan a letter dated July 26, 2019, stating 
+the defendants would not pay Dr. Harbach’s full impairment rating of twenty-eight 
+percent because he attributed fifty percent of that rating to Bryan’s pre-existing narrow 
+canals. (Def. Ex. I, p. 32) Consequently, according to the EMC letter, the defendants 
+were ending payment of PPD benefits because EMC determined that Bryan had been 
+paid in full for industrial disability based on Dr. Harbach’s reports. (Def. Ex. I, p. 32)  
+EMC’s letter caused Bryan to obtain representation from an attorney. Claimant’s 
+counsel sent EMC an email and letter of representation dated August 14, 2019, 
+requesting information regarding Bryan’s claim, and asking whether the defendants 
+intended to pay Dr. Harbach’s permanent impairment rating of 28 percent in full. (Cl. Ex. 
+1, p. 1; Cl. Ex. 3, p. 7) After not hearing back from EMC, claimant’s counsel sent a 
+follow-up email and letter on August 27, 2019. (Cl. Ex. 2, p. 6; Cl. Ex. 3, p. 8–9) EMC 
+provided the requested medical records but did not respond to claimant’s counsel’s 
+inquiry regarding payment of permanent PPD benefits for Dr. Harbach’s rating, so 
+claimant’s counsel sent a follow-up email on September 3, 2019, about the unpaid 
+benefits. (Cl. Ex. 3, p. 10)  
+On September 11, 2019, EMC emailed claimant’s counsel, informing him that 
+they would be paying the full 28 percent functional impairment rating. (Cl. Ex. 4, p. 12) 
+That same day, EMC issued Bryan a check for PPD benefits in the amount of $8,059.03 
+for seven weeks of PPD benefits from July 22, 2019, through September 8, 2019. (Cl. 
+Ex. 6, p. 17)  
+Bryan had a follow-up exam with Dr. Harbach on November 8, 2019. (Jt. Ex. 7, p. 
+154–57) He reported some on-and-off pain and an inability to look down. (Jt. Ex. 7, pp. 
+154, 157) Bryan also shared he could move his head about forty-five degrees from side 
+to side. (Jt. Ex. 7, p. 157) 
+Bryan saw Sunil Bansal, D.O., on July 27, 2021, for an IME arranged by his 
+attorney. (Jt. Ex.11)  Dr. Bansal reviewed Bryan’s records and performed an 
+examination of him. (Jt. Ex. 11, pp. 168–81) On causation, Dr. Bansal opined that 
+Bryan’s fall at work and immediate clinical presentation are “consistent with his cervical 
+disc herniation at C6-C7 and aggravation of cervical spondylosis.” (Jt. Ex. 11, p. 182) 
+He agreed with Dr. Harbach that Bryan reached MMI on April 22, 2019. (Jt. Ex. 11, p. 
+182)  
+However, Dr. Bansal disagreed with Dr. Harbach’s permanent impairment ratings 
+because he used the DRE method. (Jt. Ex. 11, p. 183) He opined: 
+
+BRYAN V. HY-VEE, INC. 
+Page 8 
+Bryan presents with multi-level involvement in the same spinal region 
+(cervical). In addition, he has had two surgeries involving fusions to that 
+area. The [Guides] have two main methods for rating impairments of the 
+spine, the DRE classification method and the range of motion method. 
+The appropriate method in this case would be the range of motion 
+method. To further clarify, I call attention to Section 15-2 of the [Guides] 
+(Determining the Appropriate Method for Assessment). Under criteria #2, 
+multi-level involvement clearly disqualifies the CRE Category from being 
+used. 
+(Jt. Ex. 11, p. 183) 
+On the question of the extent of Bryan’s permanent functional impairment, Dr. 
+Bansal discussed the range of motion deficits of the spine he measured using 
+inclinometers and used Tables 15-12, 15-13, and 15-14 to finding an eight percent 
+whole-person impairment. (Jt. Ex. 11, p. 183) He then used Table 15-7 and concluded 
+Bryan had a fifteen percent whole person impairment because he underwent a single-
+level cervical fusion with residual symptoms, had three additional levels fused, and 
+underwent a second surgery. (Jt. Ex. 11, p. 184) Dr. Bansal then found a fifteen percent 
+whole person impairment using Tables 15-15, 15-16, and 15-18 of the Guides due to his 
+sensory and motor deficits. (Jt. Ex. 11, p. 184) Lastly, Dr. Bansal used the Combined 
+Values Chart in the Guides to assign a thirty-four percent whole person impairment. (Jt. 
+Ex. 11, p. 184) 
+Defense counsel wrote a letter to Dr. Harbach with questions regarding Dr. 
+Bansal’s IME report. (Def. Ex. C, p. 6) In a letter dated August 30, 2021, Dr. Harbach 
+responded. (Def. Ex. C) He reiterated his opinion on MMI and Bryan not needing more 
+care. (Def. Ex. C, p. 6) With respect to Dr. Bansal’s opinion on Bryan’s permanent 
+functional impairment, Dr. Harbach stated: 
+I believe that the way Dr. Bansal calculated the impairment rating is 
+correct. I recently went to the American Academy of Independent Medical 
+Examiners and took an extensive course on using the [Guides] and he is 
+correct that once there is no more than 1 level fused, we need to do the 
+range of motion method. I followed through his calculations and they are 
+correct, so I would agree that the proper rating for this patient is 34% 
+permanent partial impairment of the whole person instead of the 28% I 
+used from a DRE category as previously. Using the DRE category was 
+incorrect on my part in the past. 
+(Ex. C, p. 6) After receipt of Dr. Harbach’s letter dated August 30, 2021, in which he 
+adopted Dr. Bansal’s opinion regarding Bryan’s permanent functional impairment, EMC 
+issued Bryan a second check in the amount of $35,241.63, dated September 3, 2021, 
+for thirty weeks of PPD benefits from August 14, 2020, through March 11, 2021. (Cl. Ex. 
+7, p. 18).  
+Thus, the evidence shows Dr. Harbach used the incorrect method for 
+determining Bryan’s functional impairment. After that, he opined in conclusory fashion 
+that fifty percent of that incorrect functional impairment rating was attributable to Bryan’s 
+congenitally narrow central cervical neural canal. Dr. Harbach did not explain how, if at 
+
+BRYAN V. HY-VEE, INC. 
+Page 9 
+all, Bryan’s congenital condition related to Dr. Bansal’s impairment rating, which was 
+based on Bryan’s work injury and the surgery to address it. Consequently, Dr. Bansal’s 
+permanent impairment rating is most persuasive. The weight of the evidence shows 
+Bryan sustained a thirty-four percent permanent functional impairment resulting from the 
+stipulated work injury. 
+In Dr. Bansal’s IME report, he assigned Bryan permanent work restrictions. (Jt. 
+Ex. 11, p. 184) He noted that after Bryan’s first surgery, Dr. Harbach assigned a 
+permanent lifting restriction of fifty pounds and noted, “in my opinion, [it] should be 
+permanent after a fusion anyway.” (Jt. Ex. 11, p. 184; Jt. Ex. 7, p. 107) Dr. Bansal then 
+opined: 
+I am not sure why Dr. Harbach assigned no restrictions after the second 
+surgery, even though a multi-level fusion was performed at the time rather 
+than a single level after the first surgery. However, it would be even more 
+important after this with the predilection for adjacent segment disease as a 
+consideration. 
+(Jt. Ex. 11, p. 184) Dr. Bansal assigned Bryan permanent work restrictions of no lifting 
+more than fifty pounds, no lifting overhead greater than twenty pounds, avoiding work 
+activities that require repeated neck motion or him to put his neck in a posturally flexed 
+position for greater than fifteen minutes. (Jt. Ex. 11, p. 184) 
+Dr. Harbach disagreed with Dr. Bansal’s opinion regarding Bryan’s ability to work 
+and reiterated his earlier assessment that he could do so without restrictions: 
+I do not know or understand how any physician can look at a patient and 
+determine what they can or cannot do based on how they look. There are 
+or have been players in the NFL with 2-level cervical fusions. The patient 
+drives trucks and should be able to perform all the activities required of 
+that job. If he cannot, the only objective way of determining what the 
+patient is capable of doing on a regular basis is to obtain a functional 
+capacity evaluation. 
+(Def. Ex. C, p. 6) 
+Dr. Harbach initially assigned a permanent work restriction of no lifting over fifty 
+pounds as a post-fusion requirement. He then released Bryan to full-duty work after his 
+second surgery without explaining why the fifty-pound lifting restriction no longer 
+applied. The fact that unnamed NFL players may have returned to playing football is a 
+non sequitur with respect to the question of why he opined a fifty-pound restriction 
+should be imposed after spinal fusion but then released Bryan to full duty after his 
+second surgery.  
+The rationale behind Dr. Bansal imposing permanent lifting restrictions is the risk 
+of adjacent segment disease not physical ability. Dr. Harbach did not address this risk in 
+his opinion. Instead, he opined that a functional capacity examination (FCE) would be 
+required to objectively determine what Bryan is physically capable of doing. This misses 
+the point. While an FCE is a tool used to measure a patient’s functional capacity, the 
+risk Bryan lives with after undergoing two surgeries is the primary reason Dr. Bansal 
+
+BRYAN V. HY-VEE, INC. 
+Page 10 
+assigned lifting restrictions, not the limits of Bryan’s physical ability. Put otherwise, Dr. 
+Bansal’s work restrictions are based on the increase in risk Bryan would cause by 
+performing activities outside of them. Dr. Bansal’s opinion on the risk that necessitates 
+permanent work restrictions is compelling because Dr. Harbach did not refute it. 
+Therefore, Dr. Bansal’s opinion on permanent work restrictions is more persuasive in 
+this case. 
+The record establishes Bryan returned to work as a truck driver for Hy-Vee after 
+his first surgery and while subject to Dr. Harbach’s initial assigned work restriction of no 
+lifting over fifty pounds. (Testimony) It also shows that at the time of hearing, Bryan had 
+not requested a reasonable accommodation from Hy-Vee that it allow him to work within 
+Dr. Bansal’s work restrictions. (Testimony) These two facts make it more likely than not 
+Bryan is able to perform his duties as a truck driver within Dr. Bansal’s work restrictions 
+and without needing a reasonable accommodation. At the time of hearing, Bryan was 
+earning more per mile in his truck driver job with Hy-Vee than he was earning at the 
+time of the injury. (Testimony) 
+Bryan has experienced headaches due to the work injury. He would average 
+between three and five per week before the 2017 surgery. After that procedure, Bryan 
+experienced headaches less often. At the time of hearing, Bryan credibly testified he 
+experiences two headaches per week on average, depending on how the week goes. 
+(Testimony) 
+CONCLUSIONS OF LAW 
+In 2017, the Iowa legislature amended the Iowa Workers’ Compensation Act. 
+See 2017 Iowa Acts, ch. 23. The 2017 amendments apply to cases in which the date of 
+an alleged injury is on or after July 1, 2017. Id. at § 24(1); see also Iowa Code § 3.7(1). 
+Because the injury at issue in this case occurred before July 1, 2017, the Iowa Workers’ 
+Compensation Act in effect before the 2017 amendments applies. See Smidt v. JKB 
+Restaurants, LC, File No. 5067766 (App. Dec. 11, 2020); but see (holding that the 2017 
+amendments apply to interest accrued on or after July 1, 2017, regardless of the date of 
+injury). 
+1 .  
+P e r m a n e n t  D i s a b i l i t y.  
+The parties agree Bryan sustained industrial disability but dispute the extent. 
+“The amount of compensation for an unscheduled injury resulting in permanent partial 
+disability is based on the employee's earning capacity.” Neal v. Annett Holdings, Inc., 
+814 N.W.2d 512, 526 (Iowa 2012) (citing Broadlawns Med. Ctr. v. Sanders, 792 N.W.2d 
+302, 306 (Iowa 2010)). The assessment of a claimant’s earning capacity is based on 
+multiple factors: functional disability, age, education, qualifications, work experience, 
+inability to engage in similar employment, earnings before and after the injury, 
+motivation to work, personal characteristics of the claimant, the claimant’s inability, 
+because of the injury to engage in employment for which the claimant is fitted, and the 
+employer’s inability to accommodate the claimant’s functional limitations. Id.; IBP, Inc. v. 
+Al-Gharib, 604 N.W.2d 621, 632–33 (Iowa 2000); Ehlinger v. State, 237 N.W.2d 784, 
+792 (Iowa 1976). 
+ 
+ 
+
+BRYAN V. HY-VEE, INC. 
+Page 11 
+As found above, the weight of the evidence establishes the stipulated work injury 
+caused a permanent functional impairment of thirty-four percent. Dr. Bansal’s opinion on 
+permanent work restrictions are adopted. They impact the type of work he can 
+physically perform. 
+Bryan was thirty-four years of age at the time of hearing. At his young age, he 
+does not have a lot of professional experience. He has had success in postsecondary 
+education, including obtaining a diesel mechanic certificate. There is an insufficient 
+basis in the evidence from which to conclude he would be physically unable to perform 
+work in this field because of functional limitations caused by the work injury.  
+It is unlikely Bryan could return to his first job at Hy-Vee because of his 
+restrictions or other work with similar or greater physical demands. However, he has 
+returned to his job as a truck driver without issue. At the time of hearing, was earning 
+more than he was on the date of injury. 
+Based on consideration of the factors for determining the extent of lost earning 
+capacity under the Iowa Workers’ Compensation Act, Bryan has sustained an industrial 
+disability of forty-five percent. Five hundred weeks multiplied by forty-five percent equals 
+two hundred and twenty-five weeks. Bryan is entitled to two hundred and twenty-five 
+weeks of PPD benefits. 
+2 .  
+R a t e .  
+The parties stipulated Bryan’s gross earnings on the stipulated injury date were 
+one thousand eight hundred seventy-four and 47/100 dollars ($1,874.47) per week. 
+They also stipulated he was married and entitled to five exemptions at the time. Based 
+on the parties’ stipulations, Bryan’s workers’ compensation rate is one thousand one 
+hundred fifty-one and 29/100 dollars ($1,151.29) per week. 
+3 .  
+C o m m e n c e m en t  D a t e .  
+The parties dispute the commencement date for Bryan’s PPD benefits because 
+Dr. Harbach found him at MMI and rated his permanent impairment after his first 
+surgery only for him to require a second procedure. The defendants believe the proper 
+commencement date is August 11, 2017, the date Dr. Harbach found him at MMI after 
+his first surgery. Bryan contends the proper commencement date is April 22, 2019, the 
+date he reached MMI following his second surgery. 
+Iowa Code section 85.34(1) provides “alternative markers of the end of the 
+healing period.” Waldinger Corp. v. Mettler, 817 N.W.2d 1, 9 (Iowa 2012); see also 
+Evenson v. Winnebago Indus., 881 N.W.2d 360, 372 (Iowa 2016). The alternative 
+markers are when the injured employee: 
+ 
+1) Returns to work; 
+2) Reaches maximum medical improvement (MMI) for the injury; or 
+
+BRYAN V. HY-VEE, INC. 
+Page 12 
+3) Is medically capable of returning to employment substantially similar to that 
+which the employee was engaged at the time of injury. Iowa Code § 85.34(1); 
+Evenson, 881 N.W.2d at 372. 
+The first of the alternative markers to occur ends a healing period. Id.; Evenson, 
+881 N.W.2d at 372 (Iowa 2012); Crabtree v. Tri-City Elec. Co., File No. 5059572 (App., 
+Mar. 20, 2020). PPD benefits “begin at the termination of the healing period.” Id. at § 
+85.34(2); Evenson, 881 N.W.2d at 372. Under Iowa Code section 85.34(2), PPD 
+benefits must commence at the end of the first healing period if the employee’s injury 
+has caused more than one healing period. Evenson, 881 N.W.2d at 372; Crabtree File 
+No. 5059572 (App., Mar. 20, 2020). Consequently, the commencement date in this case 
+is August 11, 2017. 
+4 .  
+C r e d i t .  
+The parties agree the defendants are entitled to a credit for PPD benefits paid 
+but disagree as to the amount. The defendants argue they are entitled to a credit equal 
+to one hundred seventy weeks worth of PPD benefits. Bryan contends that all benefits 
+paid before the second MMI date of April 22, 2019, should be considered HP benefits 
+and the defendants are entitled to a credit only for PPD benefits paid after that date. 
+An injured employee is entitled to HP benefits when the employee is unable to 
+work during a period of convalescence caused by a work injury. Iowa Code §§ 85.33(1), 
+85.34(1); see also Evenson, 881 N.W.2d at 373. Temporary benefits compensate an 
+employee for lost wages until the employee is able to return to work. Mannes v. 
+Fleetguard, Travelers Ins. Co., 770 N.W.2d 826, 830 (Iowa 2009). The evidence shows 
+Bryan returned to work after his first surgery, so the PPD benefits the defendants paid 
+to him between surgeries based on Dr. Harbach’s permanent impairment rating do not 
+qualify as HP or HP benefits. 
+Further, as found above, the commencement date for PPD benefits is August 11, 
+2017. The defendants are consequently entitled to a credit for all PPD benefits paid 
+after that date. Therefore, the defendants are entitled to a credit for 170 weeks of PPD 
+benefits paid since Bryan first reached MMI. 
+5 .  
+P e n a l t y.  
+“Because penalty benefits are a creature of statute, our discussion begins with 
+an examination of the statutory parameters for such benefits.” Keystone Nursing Care 
+Ctr. v. Craddock, 705 N.W.2d 299, 307 (Iowa 2005). Under Iowa Code section 
+86.13(4)(a) 
+If a denial, a delay in payment, or a termination of benefits occurs without 
+reasonable or probable cause or excuse known to the employer or 
+insurance carrier at the time of the denial, delay in payment, or termination 
+of benefits, the workers' compensation commissioner shall award benefits 
+in addition to those benefits payable under this chapter, or chapter 85, 
+85A, or 85B, up to fifty percent of the amount of benefits that were denied, 
+delayed, or terminated without reasonable or probable cause or excuse. 
+
+BRYAN V. HY-VEE, INC. 
+Page 13 
+This provision “codifies, in the workers’ compensation insurance context, the common 
+law rule that insurers with good faith disputes over the legal or factual validity of claims 
+can challenge them, if their arguments for doing so present fairly debatable issues.” 
+Covia v. Robinson, 507 N.W.2d 411, 412 (Iowa 1993) (citing Dirks v. Farm Bureau Mut. 
+Ins. Co., 465 N.W.2d 857, 861 (Iowa 1991) and Dolan v. Aid Ins. Co., 431 N.W.2d 790, 
+794 (Iowa 1988)). “The purpose or goal of the statute is both punishment and 
+deterrence.” Robbennolt v. Snap-On Tools Corp., 555 N.W.2d 229, 237 (Iowa 1996). 
+The legislature established in Iowa Code section 86.13(4)(b) a burden-shifting 
+framework for determining whether penalty benefits must be awarded in a workers’ 
+compensation case. See 2009 Iowa Acts ch. 179, § 110 (codified at Iowa Code 
+§ 86.13(4)(b)); see also Pettengill v. Am. Blue Ribbon Holdings, LLC, 875 N.W.2d 740, 
+746–47 (Iowa App. 2015) as amended (Feb. 16, 2016) (discussing the burden-shifting 
+required by the two-factor statutory test). The employee bears the burden to establish a 
+prima facie case for penalty benefits by establishing a denial, delay in payment, or 
+termination of workers’ compensation benefits. Iowa Code § 86.13(4)(b)(1). If the 
+employee fails to prove a denial, delay, or termination, there can be no award of penalty 
+benefits and the analysis stops. See id. at § 86.13(4)(b); see also Pettengill, 875 
+N.W.2d at 747. However, if the employee makes the requisite showing, the burden of 
+proof shifts to the employer. See id. at § 86.13(4)(b); see also Pettengill, 875 N.W.2d at 
+747. 
+The evidence establishes the defendants paid Bryan PPD benefits after they 
+were due. The defendants do not dispute that they did so. They contend the delays 
+were reasonable under Iowa law and a penalty is therefore inappropriate. Bryan 
+disagrees. 
+To avoid an award of penalty benefits, the employer must “prove a reasonable or 
+probable cause or excuse for the denial, delay in payment, or termination of benefits.” 
+Iowa Code § 86.13(4)(b)(2). An excuse must meet all of the following criteria to be “a 
+reasonable or probable cause or excuse” under the statute: 
+(1) The excuse was preceded by a reasonable investigation and 
+evaluation by the employer or insurance carrier into whether benefits were 
+owed to the employee. 
+(2) The results of the reasonable investigation and evaluation were the 
+actual basis upon which the employer or insurance carrier 
+contemporaneously relied to deny, delay payment of, or terminate 
+benefits. 
+(3) The employer or insurance carrier contemporaneously conveyed the 
+basis for the denial, delay in payment, or termination of benefits to the 
+employee at the time of the denial, delay, or termination of benefits. 
+Id. § 86.13(4)(c).  
+This paragraph creates a mandatory timeline for the employer to follow in 
+showing it had a “reasonable or probable cause or excuse” for the 
+termination of benefits. Iowa Code § 86.13(4)(c)(1)-(3). First, the 
+
+BRYAN V. HY-VEE, INC. 
+Page 14 
+employer's excuse for the termination must have been preceded by an 
+investigation. Id. § 86.13(4)(c)(1). Second, the results of the investigation 
+were “the actual basis ... contemporaneously ” relied on by the employer 
+in terminating the benefits. Third, the employer “contemporaneously 
+conveyed the basis for the ... termination of benefits to the employee at 
+the time of the ... termination.” Id. § 86.13(4)(c)(3) 
+Pettengill, 875 N.W.2d at 747. “An employer cannot unilaterally decide to terminate an 
+employee's benefits without adhering to Iowa Code section 86.13; to allow otherwise 
+would contradict the language of that section.” Id. 
+“A ‘reasonable basis’ for denial of the claim exists if the claim is ‘fairly 
+debatable.’” Keystone Nursing Care Ctr., 705 N.W.2d at 307 (quoting Christensen v. 
+Snap-On Tools Corp., 554 N.W.2d 254, 260 (Iowa 1996)). A claim may be fairly 
+debatable because of a good faith legal or factual dispute. See Covia, 507 N.W.2d at 
+416 (finding a jurisdictional issue fairly debatable because there were “viable arguments 
+in favor of either party”).  “[T]he reasonableness of the employer’s denial or termination 
+of benefits does not turn on whether the employer was right. The issue is whether there 
+was a reasonable basis for the employer’s position that no benefits were owing.” 
+Keystone Nursing Care Ctr., 705 N.W.2d at 307–08.  
+The first delay occurred when the defendants paid Bryan on September 11, 
+2019, PPD benefits for the time period from July 22, 2019, through September 8, 2019. 
+EMC sent a letter to Bryan at the time of the denial of timely payment, stating it was 
+based on Dr. Harbach’s opinion that fifty percent of Bryan’s permanent disability was 
+attributable to a personal condition.  
+The defendants argue EMC based the denial on their interpretation of Iowa Code 
+section 85.34(7)(a), which states in pertinent part, “An employer is not liable for 
+compensating an employee’s preexisting disability that arose . . . from causes unrelated 
+to employment.” (Def. Post-Hearing Brief, p. 14) They state they agreed to pay Dr. 
+Harbach’s full impairment rating “[a]fter additional investigation and consideration of 
+applicable [a]gency case law and interpretation of [section] 85.34(7).” (Def. Post-
+Hearing Brief, p. 14) However, it is unreasonable to deny timely payment of benefits to a 
+claimant based on a reading of a statutory provision without considering the caselaw 
+construing it. Bryan is therefore entitled to a penalty for the late payment of these 
+benefits. 
+If the employer establishes a “reasonable or probable cause or excuse,” no 
+penalty benefits are awarded. However, if the employer fails to meet its burden of proof, 
+penalty benefits must be awarded. The following factors are used in determining the 
+amount of penalty benefits: 
+ The length of the delay; 
+ The number of the delays; 
+ The information available to the employer regarding the employee's injuries 
+and wages; and  
+
+BRYAN V. HY-VEE, INC. 
+Page 15 
+ The prior penalties imposed against the employer under section 86.13. 
+Robbennolt v. Snap-On Tools Corp., 555 N.W.2d at 238. 
+Bryan has presented no evidence of prior penalties against Hy-Vee. The 
+defendants could have obtained a legal opinion from a lawyer versed in Iowa workers’ 
+compensation law but did not do so before ceasing the payment of Bryan’s benefits. 
+The decision to stop paying Bryan workers’ compensation to which he was entitled led 
+to a delay in paying him over eight thousand dollars in PPD benefits. A penalty of two 
+thousand dollars is appropriate under the law. 
+The second delay for which Bryan seeks a penalty is between Dr. Bansal’s 
+opinion on his impairment rating and their payment of benefits. Before Dr. Bansal’s 
+opinion, the defendants had obtained an opinion from Dr. Harbach. The difference 
+between Dr. Harbach’s initial rating and Dr. Bansal’s rating made the extent of Bryan’s 
+permanent functional impairment fairly debatable at the time Dr. Bansal issued his 
+opinion. 
+After receiving Dr. Bansal’s report, the defendants sought Dr. Harbach’s 
+assessment of it. Dr. Harbach issued a letter dated August 30, 2021, in which he agreed 
+with Dr. Bansal’s methodology and adopted the same impairment rating. The 
+defendants responded by paying the benefits for the difference between Dr. Harbach’s 
+initial rating and Dr. Bansal’s rating within three days of receiving Dr. Harbach’s opinion 
+agreeing with Dr. Bansal’s impairment rating. Their actions were reasonable and a 
+penalty is not due for this second lump sum payment of benefits. 
+ORDER 
+Based on the above findings of fact and conclusions of law, it is ordered: 
+1) The defendants shall pay to Bryan two hundred and twenty-five (225) weeks 
+of permanent partial disability benefits at the rate of one thousand one 
+hundred fifty-one and 29/100 dollars ($1,151.29) per week from the 
+commencement date of August 11, 2017. 
+2) The defendants shall pay accrued weekly benefits in a lump sum. 
+3) The defendants shall pay interest on unpaid weekly benefits awarded herein 
+as set forth in Iowa Code section 85.30. 
+4) The defendants shall be given credit for one hundred seventy (170) weeks of 
+benefits previously paid at the rate of one thousand one hundred fifty-one and 
+29/100 dollars ($1,151.29) per week. 
+5) The defendants shall pay Bryan a penalty of two thousand and 00/100 dollars 
+($2,000.00). 
+6) The defendants shall file subsequent reports of injury as required by Rule 876 
+IAC 3.1(2). 
+ 
+ 
+
+BRYAN V. HY-VEE, INC. 
+Page 16 
+7) The parties shall be responsible for paying their own hearing costs.  
+Signed and filed this 9th  day of May, 2022. 
+ 
+ 
+ 
+                       BEN HUMPHREY 
+Deputy Workers’ Compensation Commissioner 
+ 
+The parties have been served, as follows: 
+ 
+Randall P. Schueller (via WCES) 
+ 
+Lindsey E. Mills (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal period 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 

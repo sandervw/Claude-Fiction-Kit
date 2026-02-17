@@ -1,0 +1,918 @@
+Case Number: 21005432.01
+Case Title:  OJEDA, ARMANDO V. SIVYER STEEL CASTINGS LLC
+Doc Type:    Decision - Deputy
+Source:      Ojeda Armando-21005432.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+ARMANDO OJEDA, 
+  : 
+ 
+ 
+  : 
+ 
+   File No. 20008020.01 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                 
+SIVYER HOLDINGS, LLC/SIVYER  
+  : 
+ 
+ARBITRATION DECISION 
+STEEL CASTINGS, 
+  : 
+ 
+ 
+  :                            
+ 
+Employer, 
+  : 
+ 
+ 
+  :                         
+and 
+ 
+  : 
+ 
+ 
+  : 
+QBE INSURANCE CORPORATION, 
+  : 
+ 
+ 
+  : 
+     Head Note Nos: 1108.50, 1402.40,  
+ 
+Insurance Carrier, 
+  : 
+               1803.01, 2502, 2907 
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+ 
+ 
+  : 
+ARMANDO OJEDA, 
+  : 
+ 
+ 
+  : 
+ 
+  File No. 21005432.01 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                 
+SIVYER STEEL CASTINGS, LLC 
+  : 
+ 
+ARBITRATION DECISION 
+ 
+ 
+  :                            
+ 
+Employer, 
+  : 
+ 
+ 
+  :                         
+and 
+ 
+  : 
+ 
+ 
+  : 
+REDWOOD FIRE AND CASUALTY 
+  : 
+INSURANCE CO., 
+  : 
+ 
+ 
+  : 
+     Head Note Nos: 1108.50, 1402.40,  
+ 
+Insurance Carrier, 
+  : 
+         1803.01, 2502, 4000.2, 2907 
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+ 
+STATEMENT OF THE CASE 
+Armando Ojeda, claimant, filed two petitions in arbitration seeking workers’ 
+compensation benefits from Sivyer Steel Castings, LLC, employer.  The employer’s 
+workers’ compensation carrier for the November 27, 2019 injury is QBE Insurance 
+Corporation.  The employer’s workers’ compensation carrier for the May 6, 2020 injury 
+is Redwood Fire and Casualty Insurance Company.  Hearing was held via Zoom 
+videoconference. The case originally proceeded to hearing on August 29, 2023.  
+However, very early in claimant’s testimony it because apparent that there was a 
+ELECTRONICALLY FILED     2024-Feb-19  14:47:15     DIVISION OF WORKERS' COMPENSATION
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 2 
+ 
+communication issue with a translator, so the hearing was stopped and held in recess.  
+The hearing resumed, with different translators, on September 27, 2023.       
+The parties filed a hearing report for each file at the commencement of the 
+arbitration hearing.  On the hearing reports, the parties entered into various stipulations.  
+All of those stipulations were accepted and are hereby incorporated into this arbitration 
+decision and no factual or legal issues relative to the parties’ stipulations will be raised 
+or discussed in this decision.  The parties are now bound by their stipulations.  
+Armando Ojeda was the only witness to testify live at trial.  He testified via 
+interpreters, Steven Rhodes and Suzanne Wedeking.  The evidentiary record also 
+includes Joint Exhibits 1-3, Claimant’s Exhibits 1-17, and Defendants’ Exhibits A-F. 
+Defendants, Sivyer Steel Corporation and Redwood Fire and Casualty Insurance 
+Company, objected to Claimant’s Exhibit 3, pages 36 through 38, as untimely and 
+beyond the scope of rebuttal.  The objection was overruled but the record was left open 
+for 30 days after the August 29, 2023 hearing for submission of rebuttal evidence.  
+Defendants submitted their rebuttal evidence, labeled as Defendants’ Exhibit F, on 
+September 27, 2023.  All other exhibits were received without objection.    
+The parties submitted post-hearing briefs on October 26 and 27, 2023.  On 
+November 1, 2023, defendants filed a motion to strike a portion of claimant’s post-
+hearing brief.  On November 3, 2023, claimant filed a resistance to the motion.  The 
+filings are considered. 
+Defendants Sivyer Steel Corporation, employer, and Redwood Fire and Casualty 
+Insurance Company, insurer, seek to strike a portion of claimant’s brief that referenced 
+a presentation given by Justin Khoriaty, M.D. at the 45th Iowa Association of Workers’ 
+Compensation Lawyers.  The presentation was made after the hearing, but before the 
+post-hearing briefs were due.  The presentation included a visual of a total shoulder and 
+reverse total shoulder arthroplasty procedure, and provided a link to a YouTube video 
+entitled, “Total Shoulder Replacement with Arthrex Univers II.”  (Claimant’s Post-
+Hearing Brief, p. 8) In his brief, claimant asserted the pictures, videos, and link might be 
+helpful in understanding the surgeries.  Defendants argue that the presentation and the 
+YouTube video are not part of the evidentiary record in this case and therefore should 
+be stricken from the record.  In his resistance claimant stated he is not attempting to 
+make Dr. Khoriaty’s PowerPoint presentation and the YouTube clips part of the record.  
+Rather, claimant asserts they are merely arguments he has set forth before this agency.  
+Claimant is correct that these items are not in evidence as post-hearing briefs are 
+merely arguments.  Defendants’ motion to strike is denied.  However, for the reasons 
+set forth by defendants, I give the material that defendants move to strike no weight.  
+See Iowa Code sections 17A.12(6) and 17A.14.   
+ISSUES 
+The parties submitted the following issues for resolution: 
+ 
+ 
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 3 
+ 
+File No. 20008020.01 (DOI:  11-27-19) 
+1. The amount, if any, of permanent disability claimant sustained as the result of 
+the stipulated November 27, 2019 injury. 
+ 
+2. Whether claimant is entitled to reimbursement for an IME pursuant to Iowa 
+Code section 85.39. 
+ 
+3. Whether an assessment of costs against the defendants is appropriate. 
+File No. 21005432.01 (DOI:  05-06-20) 
+1. The nature and extent of permanent partial disability claimant is entitled to 
+receive as the result of the stipulated May 6, 2020 injury.  Claimant’s claim for 
+permanency benefits includes a claim for odd-lot benefits.  
+ 
+2. Whether claimant is entitled to reimbursement for an IME pursuant to Iowa 
+Code section 85.39. 
+ 
+3. Whether penalty benefits should be awarded for an unreasonable delay or 
+denial of permanent partial disability benefits between April 17, 2023 through 
+August 2, 2023. 
+ 
+4. Costs 
+ 
+FINDINGS OF FACT 
+ 
+The undersigned, having considered all the evidence and testimony in the 
+record, finds: 
+ 
+Claimant, Armando Ojeda, was 60 years old at the time of the hearing.  He 
+began working for the defendant-employer, Sivyer Steel Castings, LLC, in May 2015.  
+At the time of the stipulated November 27, 2019 work injury Mr. Ojeda was working in 
+the checkout position.  His job duties included overseeing crane operations in the 
+movement of boxes.  He was responsible for grabbing boxes and using a crane and 
+chains to move the box to checkout or open the box.  A crane, which was attached to 
+the ceiling, moved forwards or backwards along rails.  Mr. Ojeda worked on the floor, 
+while another employee worked above operating the crane.  Mr. Ojeda was to ensure 
+that the box was correctly secured to the chain with a hook on the crane and help the 
+crane operator connect the boxes to the machinery.  (Claimant’s Exhibit 2, page 29)    
+ 
+On November 27, 2019, Mr. Ojeda was performing his normal work duties when 
+he was struck on the left side of his head, near his ear, with a chain after it was raised 
+too fast.  He had a laceration behind his left ear.  (Joint Exhibit 1, pages 4-7; Cl. Ex. 8, 
+p. 66) 
+ 
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 4 
+ 
+Following the injury Mr. Ojeda received treatment from Camilla J. Frederick, M.D. 
+at Occupational Medicine Clinic.  On December 2, 2019, he denied a loss of 
+consciousness, but admitted he did have a headache.  He also reported that his ear felt 
+full on the left side, and he felt tired.  Additionally, he reported constant left lateral head 
+pain.  He was taking Meclizine 25 mg three times per day.  The pills put him to sleep but 
+helped with his dizziness.  Dr. Frederick noted Mr. Ojeda’s primary problem was pain 
+located in the left ear which was made worse by applying pressure.  His secondary 
+problem was fullness located in the left ear.  His tertiary problem was pain located in the 
+TMJ which was made worse with side-to-side movement of his lower jaw.  His fourth 
+problem was dizziness which was made worse by standing up.  The diagnoses were 
+head laceration without loss of consciousness and concussion without loss of 
+consciousness.  (JE1, pp. 4-7)   
+ 
+Mr. Ojeda continued to follow-up at the Genesis Occupational Health Clinic.  In 
+April he reported to Dr. Frederick that he had pain in the temporomandibular joint (TMJ) 
+which he described as popping.  His pain was made worse by chewing foods.  He 
+described the pain as 4 out of 10.  Mr. Ojeda reported that therapy was helping a little 
+bit but then he also reported that he was worse.  Dr. Frederick did not feel additional 
+therapy was likely to help because Mr. Ojeda said he was worse. Dr. Frederick stated 
+that Mr. Ojeda presented a confusing picture of his condition.  For example, he told the 
+nurse that he was better, but reported to Dr. Frederick that he was worse.  Dr. Frederick 
+felt that if Ear, Nose, and Throat (ENT) did not have anything to recommend for 
+treatment she would place him at maximum medical improvement (MMI). (JE1, pp. 9-
+11) 
+ 
+On May 5, 2020, Mr. Ojeda saw Marlan R. Hansen, M.D. at the University of 
+Iowa Hospitals and Clinics (UIHC).  Mr. Ojeda reported left ear pain and left hearing 
+loss since a work accident in November 2019.  He reported fullness and tinnitus in his 
+left ear.  He also reported imbalance and dizziness after the accident that had since 
+subsided.  He had ongoing headaches on the left side since the accident.  Dr. Hansen’s 
+assessment was ear pain and headaches after a left-sided ear injury.  His hearing test 
+was consistent with noise-induced hearing loss.  There was no organic evidence of 
+trauma-induced hearing loss.  Dr. Hansen encouraged Mr. Ojeda to wear hearing 
+protection. (JE2, pp. 32-35) 
+ 
+Mr. Ojeda sustained a second work injury on May 6, 2020 that does not involve 
+his head.  That second injury will be discussed in more detail below.  He continued to 
+treat with Dr. Frederick.  On June 2, 2020, Mr. Ojeda reported that he had mild pain 
+located in the TMJ.  He described it as popping and grinding and the pain was made 
+worse by chewing foods.  He was unable to chew due to pain.  Dr. Frederick noted that 
+he was not tender over the TMJ.  Dr. Frederick’s diagnoses included contusion of scalp, 
+subsequent encounter and temporomandibular joint disorder, unspecified.  Dr. Frederick 
+recommended regular work duty.  She recommended a home exercise program for his 
+jaw three days per week.  Dr. Frederick noted that ENT had nothing else to offer Mr. 
+Ojeda.  She placed him at MMI and instructed him to follow up as needed.  After 
+treating Mr. Ojeda for several months Dr. Frederick opined that he had 0 percent 
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 5 
+ 
+permanent impairment in accordance with the AMA Guides, 5th Edition.  (JE1, pp. 20-
+22) 
+ 
+At the request of his attorney, Mr. Ojeda underwent an independent medical 
+examination (IME) with Sunil Bansal, M.D. on May 12, 2023.  In addition to examining 
+Mr. Ojeda, Dr. Bansal also reviewed the medical records that were provided to him.  Dr. 
+Bansal issued his IME report on June 22, 2023.  He noted that Mr. Ojeda had a 
+“peculiar sensation in his jaw, and with chewing or talking his jaw will pop.  He report 
+[sic] that chewing cause discomfort, making it difficult [sic] fully solid foods.” (Cl. Ex. 2, 
+pp. 28-29) Dr. Bansal opined that being struck on the left side of his head with a large 
+hook on a chain was consistent with Mr. Ojeda’s concussion, left scalp laceration, and 
+the development of temporomandibular joint disorder.  He did not recommend any 
+permanent restrictions due to the November 27, 2019 work injury.  Dr. Bansal assigned 
+5 percent whole person impairment per Table 11-7 of The Guides.  (Cl. Ex. 2, p. 32) 
+Table 11-7 of The Guides is entitled, “Relationship of Dietary Restrictions to Permanent 
+Impairment.”  (The Guides, p. 262) The table indicates that 5-19 percent whole person 
+impairment is appropriate for someone who has restrictions which limit their diet to 
+semisolid or soft foods.  (Id.)       
+ 
+At the arbitration hearing, Mr. Ojeda was asked about the history he provided to 
+Dr. Bansal.  The attorney asked, “When you spoke with Dr. Bansal about this injury, did 
+you have any discussion about food that you were able to eat or not able to eat?”  (Tr. 
+p. 61, lines 3-6) Mr. Ojeda responded, “No.  We didn’t talk about that.”  (Id., line 7)   Mr. 
+Ojeda testified that no medical professional has recommended dietary changes as the 
+result of his 2019 injury.  (Tr. p. 65)  The evidentiary record indicates Mr. Ojeda has 
+difficulty eating ice and ice cream due to cold sensitivity.  (Cl. Ex. 17, July 20, 2023 
+depo. pp. 42, 45-46)  In his report Dr. Bansal stated, “making it difficult [sic] fully solid 
+foods.”  (Cl. Ex. 2, p. 29)  It is unclear to the undersigned where Dr. Bansal obtained the 
+history regarding solid foods.  Dr. Bansal’s report contains his review of the medical 
+records provided to him.  In the medical records portion of Dr. Bansal’s report there is 
+mention of jaw pain and grinding teeth at night, but there is no mention of solid foods.  
+(Cl. Ex. 1, pp. 13-27)  Mr. Ojeda testified that he and Dr. Bansal did not talk about food 
+that he was able to eat or not eat.  Prior to the IME, claimant’s counsel sent a nine-page 
+letter to Dr. Bansal setting forth background, records for review, and questions 
+regarding Mr. Ojeda.  There is no mention in that letter of solid food.  (Cl. Ex. 1, pp. 1-9) 
+I find Dr. Bansal’s history regarding solid food is inaccurate.         
+ 
+The first issue to be addressed regarding the November 27, 2019 work injury is 
+whether Mr. Ojeda sustained any permanent partial impairment.  Both Dr. Frederick and 
+Dr. Bansal have rendered their opinions regarding permanent impairment and both 
+doctors reference the AMA Guides to the Evaluation of Permanent Impairment, Fifth 
+Edition.  I find Dr. Bansal’s opinion regarding permanent impairment is based on an 
+inaccurate history and thus cannot be relied on.  I find that the opinion of Dr. Frederick 
+carries greater weight than that of Dr. Bansal.  Thus, I find that claimant failed to 
+demonstrate that he sustained any percent of permanent partial impairment as the 
+result of the November 27, 2019 work injury.  (JE1, pp. 20-22).      
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 6 
+ 
+ 
+Mr. Ojeda is seeking reimbursement for the IME conducted by Dr. Bansal for his 
+November 27, 2019 injury.  I find that Dr. Bansal conducted the examination on May 12, 
+2023.  (Cl. Ex. 2, p. 13)  I find Dr. Frederick was a physician retained by the employer 
+and Dr. Frederick rendered an opinion regarding permanent impairment on June 2, 
+2020.  Thus, I find claimant has demonstrated entitlement to reimbursement for the IME 
+of Dr. Bansal as it relates to the November 27, 2019 injury.  I find that approximately 
+one-third of the report was spent on the November 27, 2019 date of injury.  Dr. Bansal’s 
+total charge for the initial IME report was $4,647.00.  (Cl. Ex. 13, p. 86)  Thus, I find 
+claimant has demonstrated that he is entitled to be reimbursed in the amount of 
+$1,550.00 for the IME related to the November 27, 2019 date of injury.   
+ 
+Claimant is seeking an assessment of costs for his November 27, 2019 work 
+injury.  Costs are to be assessed at the discretion of the Iowa Workers’ Compensation 
+Commissioner or the deputy hearing the case.  I find that claimant was generally not 
+successful in his case, and therefore I exercise my discretion and do not assess costs 
+against the defendants.  Each party shall bear their own costs.   
+ 
+We now turn to the second injury sustained by Mr. Ojeda.  Defendants stipulated 
+that Mr. Ojeda sustained an injury arising out of and in the course of his employment on 
+May 6, 2020.  The central dispute surrounding this injury is the nature and extent of the 
+permanent disability he sustained.  On May 6, 2020, Mr. Ojeda began feeling pain in his 
+right shoulder after pulling on heavy chains at work.  (Cl. Ex. 17, depo. p. 36; JE1, pp. 
+12, 15)  
+ 
+Mr. Ojeda went to the Occupational Medicine Clinic on May 28, 2020.  He 
+reported that he had to pull very heavy and large chains that hang above to maneuver 
+them around.  He noticed pain in his right shoulder on May 6, 2020, but he was able to 
+continue working.  He had been working regular duty, but his shoulder pain kept getting 
+worse.  He denied any prior right shoulder injuries and denied any prior treatment.  The 
+location of his pain was over the anterior right shoulder.  The diagnoses were pain in 
+right shoulder, strain of rotator cuff, and osteoarthritis right shoulder.  He was to 
+continue with regular duties and return in 1 week or sooner if needed.  (JE1, pp. 12-18)   
+ 
+On August 27, 2020, Mr. Ojeda returned to the Occupational Medicine Clinic with 
+continued right shoulder pain.  An MRI revealed a SLAP tear of the biceps labral 
+complex, as well as extensive tearing of the anterior and posterior glenoid labrum.  The 
+diagnoses were superior glenoid labrum lesion of the right shoulder and osteoarthritis, 
+right shoulder.  Mr. Ojeda was instructed to take Tylenol and use ice.  He was referred 
+to an orthopedic surgeon.  Mr. Ojeda was to return after he saw an orthopedic surgeon.  
+(JE1, pp. 24-27) 
+ 
+Mr. Ojeda saw Justin Munns, M.D. at ORA Orthopedics on October 28, 2020. 
+(JE3, pp. 40-41)  Dr. Munns recommended conservative treatment, including cortisone 
+injections in October 2020 and January 2021.  Unfortunately, Mr. Ojeda’s pain relief 
+from the injections did not last long.  On April 27, 2021, Dr. Munns performed a right 
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 7 
+ 
+shoulder arthroscopy, labral debridement, chondroplasty, subacromial bursectomy, and 
+open subpectoral biceps tenodesis.  (JE3, pp. 40-53)  
+ 
+After surgery Mr. Ojeda continued to treat with ORA Orthopedics.  Due to 
+continued pain Dr. Munns ordered another MRI which was performed on September 29, 
+2021.  The MRI demonstrated findings consistent with a partial thickness tear of the 
+distal infraspinatus at the insertion, degenerative changes at the glenohumeral and 
+acromioclavicular joint, and the proximal biceps tendon appeared to be disrupted.  
+There were also findings which suggested an intra-articular loose body.  Ultimately, Dr. 
+Munns recommended a second surgery.  The surgery was postponed for approximately 
+six months due to cardiac and diabetic complications.  (JE3, pp. 55-77)  On September 
+1, 2022, Dr. Munns performed a right total shoulder arthroplasty.  (JE3, pp. 81-83)  
+ 
+Mr. Ojeda’s condition improved following the right total shoulder arthroplasty.  
+(JE3, pp. 86-93)  On January 10, 2023, Dr. Munns noted that overall Mr. Ojeda was 
+doing well.  Mr. Ojeda felt he was able to return to normal work responsibilities without 
+concern.  Dr. Munns recommended increasing activities with anticipated return to full 
+duty at the next visit.  He recommended gradual return to normal activities as tolerated 
+with no overhead activities greater than 20 pounds with his right upper extremity.  (JE3, 
+pp. 86-87)  In February Dr. Munns recommended right shoulder physical therapy 2 to 3 
+times per week for 4 to 6 weeks.  (JE3, pp. 88-91)  
+ 
+Mr. Ojeda returned to Dr. Munns on April 17, 2023.  He finished physical therapy.  
+He reported some occasional pain and clicking of his shoulder with full abduction of the 
+shoulder.  He had no numbness or tingling.  He felt he made 60 to 70 percent pain 
+improvement now compared to before surgery.  Dr. Munns’ impression was right 
+shoulder pain with glenohumeral joint osteoarthritis status post total shoulder 
+arthroplasty.  He noted a little bit of residual weakness.  Dr. Munns placed him at MMI 
+with a return to full-duty work.  Dr. Munns noted that depending on his prior work 
+restrictions, Mr. Ojeda might not be able to complete all of the work that he was able to 
+previously perform.  Dr. Munns felt a functional capacity examination may need to be 
+ordered depending on the employment situation.  (JE3, pp. 92-96)   
+ 
+On June 12, 2023, Mr. Ojeda returned to Dr. Munns for an impairment rating.  
+Mr. Ojeda reported pain with moderate activities including raising his arm above his 
+head, but no pain at rest.  He noted significant improvement in his pain compared to 
+prior to the first surgery.  He was able to perform normal activities of daily living but did 
+have some pain with overhead activities and some steady baseline pain with lifting.  He 
+noted no numbness or tingling.  Dr. Munns noted the range of motion measurements for 
+the right shoulder.  Dr. Munns utilized the AMA Guides to the Evaluation of Permanent 
+Impairment, Fifth Edition.  He noted Mr. Ojeda’s primary deficit was related to restricted 
+range of motion.  He cited Figure 16-40, 16-43, 16-46 and Table 16-3.  Dr. Munns 
+assigned 5 percent whole person impairment related to his shoulder injury.  (JE3, pp. 
+99-100) 
+ 
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 8 
+ 
+During Dr. Bansal’s May 12, 2023 IME he addressed both dates of injury.  As the 
+result of that IME, Dr. Bansal issued a report dated June 22, 2023.  Dr. Bansal opined 
+that Mr. Ojeda sustained an injury to his right shoulder on May 6, 2020.  He noted Mr. 
+Ojeda experienced an acute aggravation of a chronic injury to his right shoulder on May 
+6, 2020.  He noted the incident occurred within the context of his work duties which 
+triggered a sequence of events that ultimately necessitated a shoulder replacement.  
+(Cl. Ex. 2, pp. 32-33)  Dr. Bansal placed him at MMI for the May 6, 2020 work injury as 
+of September 1, 2023.  He cautioned against Mr. Ojeda resuming his prior work routine.  
+He noted that the artificial joint lacks the robustness or strength inherent in a healthy, 
+unaltered, organic joint.  He assigned the following permanent restrictions:  no lifting 
+greater than 10 pounds with the right arm, no over shoulder lifting with the right arm, 
+and avoid forceful or frequent pushing, pulling with the right arm.  (Cl. Ex. 2, p. 34)   Dr. 
+Bansal also offered his opinion regarding permanent impairment.  He cited the AMA 
+Guides, Fifth Edition, specifically Figures 16-40 through 16-46.  He set forth his range of 
+motion measurements.  He arrived at a combined range of motion impairment which 
+amounted to 10 percent upper extremity impairment.  Dr. Bansal cited Table 16-27 and 
+assigned 24 percent upper extremity impairment for his implant arthroplasty.  He opined 
+that he sustained total combined impairment equal to 19 percent impairment of the body 
+as a whole.  (Cl. Ex. 2, p. 35)  I find that throughout Dr. Bansal’s report he consistently 
+referenced Mr. Ojeda’s injury as a shoulder injury.  Additionally, I find his physical 
+examination did not extend to the neck, upper back, or torso.  (Cl. Ex. 2, pp. 29-30)     
+ 
+At the request of the defendants, Rick Garrels, M.D. conducted an IME on July 7, 
+2023.  (Def. Ex. A)  Dr. Garrels diagnoses were: right shoulder strain May 6, 2020; 
+SLAP tear of the biceps labral complex with extensive tearing of the anterior and 
+posterior glenohumeral labrum; status post right shoulder arthroscopic labral 
+debridement, chondroplasty, extensive debridement and subacromial bursectomy and 
+an open subpectoral biceps tenodesis April 27, 2021; pre-existing degenerative 
+osteoarthritis of the glenohumeral and subacromial joints, and status post right shoulder 
+arthroplasty.  Dr. Garrels felt that the work event of May 6, 2020 resulted in the right 
+shoulder labral tears.  Additionally, he felt there was a material aggravation of the pre-
+existing glenohumeral osteoarthritis.  He stated, “[t]he injury has only involved the right 
+shoulder.  I have completed two separate visits with the claimant and reviewed the 
+orthopedic medical records and he has only reported an injury involving the right 
+shoulder.”  (Def. Ex. A, p. 1)  He placed Mr. Ojeda at MMI for his right shoulder as of 
+April 17, 2023.  Dr. Garrels cited the AMA Guides, Fifth Edition, specifically Figures 16-
+40, 16-43 and 16-46 and assigned a total of 7 percent right upper extremity impairment 
+for range of motion.  He cited Table 16-27 and assigned 24 percent right upper 
+extremity impairment for an implant arthroplasty.  He noted that the two impairments 
+combined to a final 29 percent right upper extremity impairment.  He recommended the 
+following permanent restrictions:  no work above chest level with the right arm; limit 
+lifting to 25 pounds 2-handed and 10 pounds with the right arm on an occasional basis; 
+limit push/pull to 50 pounds 2-handed and 20 pounds with the right arm on an 
+occasional basis.  (Def. Ex. A, p. 2)   
+ 
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 9 
+ 
+On August 14, 2023, Dr. Bansal issued a report in response to the IME report 
+from Dr. Garrels.  Dr. Bansal stated that Dr. Garrels’ IME report did not change the 
+opinions he provided in his original IME report dated June 22, 2023.  Dr. Bansal 
+addressed how a total shoulder replacement procedure affects structures beyond the 
+shoulder, similar to that of a reverse total shoulder replacement.  He stated: 
+ 
+Yes. The shoulder is fundamentally the glenohumeral joint, where the 
+humerus or the arm bone, interfaces with the scapula which is commonly 
+known as the shoulder blade.  During a traditional total shoulder 
+replacement, the humeral head (essentially the “ball” of the joint) gets 
+replaced, and the glenoid (the “socket” on the scapula) is resurfaced.  This 
+means that the procedure is not just limited to the humerus, but it also 
+substantially engages the scapula. 
+Furthermore, the scapular is deeply tethered to a collection of muscle 
+groups, often termed the periscapular musculature.  These muscles 
+include the serratus anterior, levator scapulae, rhomboids, and particularly 
+the trapezius, and are pivotal for shoulder movements and overall stability.  
+Notably, muscles like the trapezius have their origins and terminations 
+spanning areas far removed from the immediate vicinity of the shoulder.  
+This indicates that any procedure impinging on the scapula has a 
+secondary effect on these associated muscles. 
+(Cl. Ex. 3, p. 37) 
+ 
+Dr. Bansal went on to discuss the parallels involved in the procedures of 
+traditional and reverse total shoulder arthroplasty.  He stated both the traditional and 
+reverse total shoulder arthroplasty “interventions stretch beyond the humerus to 
+encompass the scapula and the muscles that envelop it.”  (Cl. Ex. 3, p. 37) Dr. Bansal 
+noted that a traditional total shoulder replacement “extends beyond the boundaries of 
+the immediate glenohumeral joint, impacting an array of structures in and around the 
+shoulder.”  (Id.)   
+ 
+Dr. Bansal was asked, in the context of both a traditional and reverse total 
+shoulder replacement, if there were “structures involved in those procedures, though 
+while not directly impacting the primary function of the shoulder, are still affected by the 
+surgeries?”  (Cl. Ex. 3, p. 37) He replied: 
+Yes.  The scapula is a key bone for the shoulder joint’s operation.  It 
+provides a stable base for shoulder movement, and is integrated into a 
+system that supports the upper back and connects the arm to the chest.  
+Some muscles attached to the scapula, such as the rhomboids and 
+trapezius, are not solely focused on moving the shoulder.  For example, 
+the trapezius spans from the base of the skull to the mid-back.  It primarily 
+manages neck movement and scapular positioning, with shoulder 
+movement being a secondary function.  
+(Cl. Ex. 3, p. 37) 
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 10 
+ 
+ 
+Dr. Bansal stated that there are structures that do not control the shoulder joint’s 
+main movement that are affected by traditional and reverse total shoulder replacements.  
+He also noted that by changing a shoulder’s biomechanics, the surgeries could 
+indirectly change the stress or demands on nearby structures.  (Cl. Ex. 3, pp. 37-38)  He 
+summarized by stating, “while the primary aim of these surgeries is to improve shoulder 
+function, their impact is broader and affects structures with roles beyond just the 
+shoulder’s basic movements.”  (Cl. Ex. 3, p. 38)  Notably, Dr. Bansal’s opinions 
+regarding traditional and reverse total shoulder arthroplasties were not regarding Mr. 
+Ojeda.  Rather, his opinions were rendered regarding these procedures in general and 
+what affect these procedures could have.  Dr. Bansal did not indicate that the 
+arthroplasty performed on Mr. Ojeda affected his neck, upper back, torso, or otherwise.     
+  
+In light of Dr. Bansal’s August 2023 report, Dr. Garrels responded to a series of 
+questions posed to him by defense counsel about the total shoulder arthroplasty that 
+Mr. Ojeda underwent.  (Def. Ex. F)  With regard to Mr. Ojeda’s surgery, Dr. Garrels 
+stated that the “purpose of the total shoulder arthroplasty was to improve/maintain 
+function associated with the glenohumeral joint due to expected progression of 
+osteoarthritis over time.”  (Def. Ex. F, p. 2)  Dr. Garrels also stated the impairment 
+resulting from the total shoulder arthroplasty is limited only to his right shoulder.  
+Additionally, Dr. Garrels noted the permanent restrictions he recommended for Mr. 
+Ojeda were based solely on the right shoulder condition.  Dr. Garrels stated Mr. Ojeda 
+did not require restrictions of any type related to his neck, upper back, or torso.  (Def. 
+Ex. F, p. 3) 
+ 
+Throughout this case Mr. Ojeda has consistently reported his May 6, 2020 injury 
+as a right shoulder injury.  For example, in his May 16, 2022 deposition he testified that 
+the only part of his body that hurt because of the May 6, 2020 injury was his right 
+shoulder.  (Cl. Ex. 17, p. 39)  Similarly, in his July 20, 2023 deposition he testified that 
+he did not have symptoms in any body part other than his right shoulder due to the May 
+6, 2020 injury.  (Def. Ex. D, p. 19)   
+ 
+Mr. Ojeda’s medical records support defendants’ argument that his injury is a 
+“shoulder” issue.  For example, when he was seen at Occupational Medicine on May 
+28, 2020, the location of his pain was over the anterior right shoulder.  The diagnoses 
+were pain in right shoulder, strain of rotator cuff, and osteoarthritis right shoulder.  (JE1, 
+pp. 12-18)  When he initially met with the orthopedic surgeon, he presented with right 
+shoulder pain.  An MRI arthrogram of the right shoulder was performed which led to the 
+impression of SLAP tear of the biceps [labral] complex as well as extensive tearing of 
+the anterior and posterior glenoid labrum and chondromalacia of the glenohumeral joint 
+with marginal osteophyte formation of the humeral head.  (JE3, p. 36)  Mr. Ojeda 
+underwent two surgeries.  The first surgery was performed in April 2021 and the 
+procedure was noted as: right shoulder arthroscopic labral debridement, right shoulder 
+arthroscopic chondroplasty, right shoulder arthroscopic extensive debridement [of] 
+synovitis, right shoulder subacromial bursectomy, and right shoulder open subpectoral 
+biceps tenodesis.  (JE3, pp. 51-53)  The second surgery was performed in September 
+2022 and the procedure was noted as right total shoulder arthroplasty.  (JE3, pp. 81-83) 
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 11 
+ 
+ 
+Additionally, even the doctor who claimant selected to perform his IME, Dr. 
+Bansal, opined that the injury Mr. Ojeda sustained as the result of the May 6, 2020 work 
+injury was to his right shoulder.  Specifically, “[r]ight shoulder labral tear, glenohumeral 
+joint chondromalacia, bicipital tendinitis, and synovitis” and “[a]ggravation of right 
+shoulder osteoarthritis.”  (Cl. Ex. 2, p. 32)   
+ 
+I find that Mr. Ojeda’s medical records consistently show that the physicians who 
+treated or assessed his May 6, 2020 injury considered his injury to be a shoulder injury.  
+I further find the preponderance of the evidence demonstrates Mr. Ojeda’s injury is to 
+his right shoulder. 
+ 
+We now turn to the issue of permanent impairment.  There are three physicians 
+who have rendered their opinions regarding permanent functional impairment.   
+On June 12, 2023, the treating physician, Dr. Munns, cited the American Medical 
+Association Guides to the Evaluation of Permanent Impairment, Fifth Edition.  Based 
+solely on range of motion, according to Figures 16-40, 16-43, and 16-46 and Table 16-
+3, Dr. Munns assigned 9 percent upper extremity impairment related to the shoulder 
+injury.  Dr. Munns did not assign any impairment for the total shoulder arthropathy.  
+(JE3, pp. 99-100)   
+On May 12, 2023, Dr. Bansal performed his IME and measured Mr. Ojeda’s 
+range of motion for his right shoulder.  Based on the AMA Guides, Fifth Edition, Figures 
+16-40 through 16-46, Dr. Bansal assigned 10 percent upper extremity impairment for 
+the right shoulder injury.  Additionally, per Table 16-27, Dr. Bansal assigned 24 percent 
+upper extremity impairment for the implant arthroplasty.  This resulted in a combined 
+total of 32 percent upper extremity impairment for the right shoulder injury.  (Cl. Ex. 2, p. 
+35). 
+   
+ On July 7, 2023, Dr. Garrels performed his IME and measured Mr. Ojeda’s 
+range of motion for his right shoulder.  Based on the AMA Guides, Fifth Edition, Figures 
+16-40, 16-43, and 16-46, he assigned 7 percent upper extremity impairment based on 
+range of motion.  Additionally, per Table 16-27, he assigned 24 percent right upper 
+extremity impairment.  Dr. Garrels assigned a combined total of 29 percent right upper 
+extremity impairment for the shoulder injury.  (Def. Ex. A, p. 2) 
+Dr. Bansal examined Mr. Ojeda one month before Dr. Garrels examined him.  It 
+appears Mr. Ojeda’s range of motion continued to improve over that one-month period.  
+Dr. Garrels saw Mr. Ojeda closer in time to the hearing than Dr. Bansal.  I find the 
+impairment opinion of Dr. Garrels carries the greatest weight in this case.  Thus, I find 
+Mr. Ojeda sustained 29 percent right upper extremity impairment for his right shoulder 
+injury.     
+ 
+Mr. Ojeda is seeking reimbursement for the IME conducted by Dr. Bansal for his 
+right shoulder injury.  Claimant’s counsel authored a missive to Dr. Bansal dated May 8, 
+2023, wherein he thanked Dr. Bansal for agreeing to conduct an independent medical 
+examination.  (Cl. Ex. 1, pp. 1-9)  Dr. Bansal conducted his examination of Mr. Ojeda on 
+May 12, 2023.  (Cl. Ex. 2, p. 13)  The record demonstrates that Dr. Munns, a physician 
+retained by the employer, rendered his opinion on permanent impairment on June 12, 
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 12 
+ 
+2023.  (JE3, pp. 99-100)  Dr. Garrels rendered his opinion regarding impairment on July 
+7, 2023.  (Def. Ex. A)  Although Dr. Bansal did not issue his report until June 22, 2023, I 
+find the evaluation took place on May 8, 2023, which was prior to any evaluation of 
+impairment by an employer-chosen physician.  Thus, I find claimant failed to carry his 
+burden of proof to demonstrate by a preponderance of the evidence that he is entitled to 
+reimbursement for an IME as it relates to his right shoulder injury.      
+ 
+Mr. Ojeda is seeking penalty benefits for an unreasonable delay of permanent 
+partial disability benefits from April 17, 2023 to August 2, 2023.  In support of his 
+contention, Mr. Ojeda points to a Redwood Fire and Casualty Insurance Company 
+check dated August 2, 2023, in the amount of six thousand four hundred eleven and 
+30/100 dollars ($6,411.30).  The check states the payment was for PPD from April 17, 
+2023, through July 31, 2023.  (Cl. Ex. 15, p. 89)   
+Defendants contend there was no denial, delay, or termination of benefits from 
+April 17, 2023 to August 2, 2023.  Defendants state they were continuing to pay weekly 
+benefits.  In support of their contention, defendants point to the payment detail which is 
+a printout of the payments made in the May 6, 2020 work injury.  (Def. Ex. E)  A review 
+of the payment detail demonstrates that weekly payments began on January 5, 2021, 
+and continued through May 21, 2023.  These benefits were paid at the incorrect rate of 
+$427.42 per week rather than the stipulated weekly rate of $393.22 per week.  Thus, 
+each week defendants were issuing an overpayment of $34.20.  (Def. Ex. E, pp. 44-48)  
+There were two gaps in payments during the timeframe of January 5, 2021, through 
+May 21, 2023.  There was a three-day gap from October 8, 2022, through October 10, 
+2022.  (Def. Ex. E, p. 47)  There was a one-day gap on March 21, 2023.  (Id.)  January 
+5, 2021, through May 21, 2023, consists of 123.857 weeks.  The payment detail 
+demonstrates that during this timeframe defendants paid Mr. Ojeda $53,305.99.  At the 
+stipulated rate of $393.22, Mr. Ojeda was owed $48,703.05 for those 123.857 weeks.  
+Thus, as of May 21, 2023, Mr. Ojeda had received approximately $4,602.94 more in 
+weekly benefits than he was owed.  Based on the evidence in the record I cannot find 
+that claimant has demonstrated by a preponderance of the evidence that benefits were 
+delayed between April 17, 2023, through August 2, 2023.   
+The payment detail does not extend beyond May 2023.  The payment detail does 
+not include the August 2, 2023, check in the amount of $6,411.30.  There is no evidence 
+that any payments were made to Mr. Ojeda from May 22, 2023, through August 1, 
+2023, a period of 10.286 weeks.  At the stipulated rate of $393.22, 10.286 weeks 
+amounts to $4,044.66.  The amount he was owed from May 22, 2023, through August 
+1, 2023, is less than the overpayment he had already received due to the weekly 
+overpayments of $34.20.  Thus, I find claimant has failed to demonstrate by a 
+preponderance of the evidence that any weekly benefits were delayed or denied.    
+It should be noted that defendants argued that penalty benefits are not 
+appropriate between the time period of May 22, 2023, to June 16, 2023, because Dr. 
+Munns did not assign permanent impairment until June 12, 2023.  The doctor’s report 
+has a June 16, 2023, fax timestamp.  Defendants contend permanency benefits should 
+not commence until June 16, 2023.  However, defendants’ argument fails because 
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 13 
+ 
+defendants stipulated that the commencement date for any permanency benefits in this 
+case is April 18, 2023.  (Hearing Report, numbered paragraph 5(d)) 
+   
+Finally, claimant is seeking an assessment of costs for his May 6, 2020, work 
+injury.  I find that claimant was somewhat successful in his claim.  I exercise my 
+discretion and find that an assessment against the defendants is appropriate.   
+CONCLUSIONS OF LAW 
+The party who would suffer loss if an issue were not established ordinarily has 
+the burden of proving that issue by a preponderance of the evidence.  Iowa R. App. P. 
+6.904(3)(e). 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995).  Miller v. 
+Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 1994).  Unrebutted expert medical 
+testimony cannot be summarily rejected.  Poula v. Siouxland Wall & Ceiling, Inc., 516 
+N.W.2d 910 (Iowa App. 1994).   
+The well-established law is clear, however, that an expert's opinion is not 
+necessarily binding when it is based on an incomplete or inaccurate history. Dunlavey v. 
+Economy Fire & Cas. Co., 526 N.W.2d 845, 853 (Iowa 1995) (citing Bodish v. Fischer. 
+Inc., 133 N.W.2d 867, 870 (1965)). 
+Based on the above findings of fact, I conclude that claimant failed to carry his 
+burden of proof to demonstrate by a preponderance of the evidence that he sustained 
+any permanent partial disability as the result of the November 27, 2019, injury.  I found 
+the opinion of Dr. Frederick to carry greater weight than that of Dr. Bansal.  Thus, I 
+conclude claimant has failed to demonstrate entitlement to any permanent partial 
+disability benefits as the result of the November 27, 2019, injury.   
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 14 
+ 
+We now turn to the nature and extent of permanent disability claimant sustained 
+as the result of the May 6, 2020, work injury.  Claimant contends the injury extends 
+beyond the shoulder and into the body as a whole and thus should be compensated 
+under Iowa Code section 85.34(2)(v).  Defendants contend the injury is limited to the 
+shoulder and should be compensated based under Iowa Code section 85.34(2)(n). 
+In 2017 the Iowa Legislature amended Iowa Code section 85.34.  Before the 
+2017 changes, shoulder injuries were considered proximal to the arm and compensated 
+as a body as a whole injury, under Iowa Code section 85.34(2)(u).  Prior to the 2017 
+changes, a shoulder injury was compensated as an unscheduled injury, and based on 
+industrial disability.  See Alm v. Morris Barick Cattle Co., 240 Iowa 1174, 38 N.W.2d 161 
+(1949).  Through the 2017 legislative changes, the legislature added the shoulder to the 
+list of scheduled members.  Iowa Code section 85.34(2)(n) states: “[f]or the loss of a 
+shoulder, weekly compensation during four hundred weeks.”  Iowa Code section 
+85.34(2)(n).  This amendment went into effect on July 1, 2018.  The legislature did not 
+define the term “shoulder.” 
+The Iowa Supreme Court in Chavez v. MS Tech. LLC, 972 N.W.2d 662 (Iowa 
+Apr. 1, 2022), and Deng v. Farmland Foods, Inc., 972 N.W.2d 727 (Iowa Apr. 1, 2022), 
+affirmed that the shoulder was construed in a functional sense to include the 
+glenohumeral joint as well as all of the muscles, tendons, and ligaments that were 
+essential for the shoulder to function.  The Court stated, “[d]efining ‘shoulder’ in the 
+functional sense under section 85.34(2)(n) best achieves the statues’ purpose.”  
+Chavez, at 669.  In Chavez the Court also noted that throughout her medical records 
+the physicians who treated or assessed the injury considered it to be a shoulder injury.  
+Chavez, at 670.   
+In the present case, claimant failed to demonstrate by a preponderance of the 
+evidence that his May 6, 2020, injury extends beyond the right shoulder.  I conclude the 
+evidence demonstrates that claimant’s injury is contained to the shoulder in the 
+functional sense.  See Chavez.   
+The Iowa Supreme Court stated,  
+Chavez cites prior Iowa caselaw that looked to “the proximal point of the 
+joint to classify an injury under the workers’ compensation statues” to treat 
+“shoulder” injuries as unscheduled whole body injuries, but that caselaw 
+developed before the legislature amended the statutory scheme to add 
+shoulder injuries to the list of scheduled member injuries under section 
+85.34(2).   
+Id. at 670 (citations omitted). 
+Thus, claimant’s arguments pertaining to symptoms extending into areas 
+proximal to the glenohumeral joint are not persuasive.    
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 15 
+ 
+   Furthermore, based on the above findings of fact, I conclude that claimant’s 
+“medical records consistently show that the physicians who treated or assessed” his 
+May 6, 2020, injury considered his injury to be a shoulder injury.  See Chavez, 972 
+N.W.2d at 670.  Thus, like in Chavez, the claimant’s own medical records support the 
+conclusion that his injury is a “shoulder” injury.         
+We now turn to the extent of permanent disability claimant sustained as the result 
+of his right shoulder injury.   
+A disability to the shoulder is classified as a scheduled member disability.  Iowa 
+Code section 85.34(2)(n).  Under the schedule, 400 weeks is the maximum number of 
+weeks of compensation for loss of a shoulder.  Id.  Iowa Code states,  
+x. In all cases of permanent partial disability described in paragraphs “a” 
+through “u”, or paragraph “v” when determining functional disability and 
+not loss of earning capacity, the extent of loss or percentage of permanent 
+impairment shall be determined solely by utilizing the guides to the 
+evaluation of permanent impairment, published by the American medical 
+association, as adopted by the workers' compensation commissioner by 
+rule pursuant to chapter 17A. Lay testimony or agency expertise shall not 
+be utilized in determining loss or percentage of permanent impairment 
+pursuant to paragraphs “a” through “u”, or paragraph “v” when determining 
+functional disability and not loss of earning capacity. 
+Iowa Code Section 85.34(2)(x).   
+The Commissioner has adopted the Guides to the Evaluation of Permanent 
+Impairment (AMA Press, 5th Ed. 2001). 876 IAC 2.4.   With regard to section 
+85.34(2)(x), the Iowa Workers’ Compensation Commissioner has stated: 
+Thus, the law, as written, is not concerned with an injured worker's actual 
+functional loss or disability as determined by the evidence, but rather the 
+impairment rating as assigned by the adopted version of The AMA 
+Guides. The only function of the agency is to determine which impairment 
+rating should be utilized. 
+Merlyn Brown, Jr., Claimant, File No. 5067998, 2021 WL 5575264, at *8 (Nov. 23, 
+2021). 
+Based on the above findings of fact, I found the opinion of Dr. Garrels to carry 
+greater weight than that of Dr. Bansal or Dr. Munns.  Dr. Garrels assigned 29 percent 
+permanent impairment of the upper extremity as the result of the work injury.  Thus, I 
+conclude claimant has demonstrated entitlement to 116 weeks of permanent partial 
+disability benefits (29 percent x 400 weeks).  The parties have stipulated the 
+commencement date for permanent partial disability benefits is April 18, 2023.  (Hearing 
+Report, numbered paragraph 5(d)).     
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 16 
+ 
+Claimant has alleged that the odd-lot doctrine applies to him with regard to the 
+May 6, 2020 work injury. The odd-lot doctrine only applies in unscheduled, industrial 
+disability claims. Vithayasab v. IBP, Inc., File No. 1052966 (Arbitration 1995); Cook v. 
+Newton Correctional Facility, File No. 5064180, 2020 WL 5629625 (App. Sept. 11, 
+2020).  Given my findings and conclusions that this case is limited to a scheduled 
+member injury, I conclude that the odd-lot doctrine is not applicable. Claimant's 
+assertion of odd-lot employee status legally fails. 
+Claimant is seeking reimbursement for the IME of Dr. Bansal.  Section 85.39 
+permits an employee to be reimbursed for subsequent examination by a physician of 
+the employee's choice where an employer-retained physician has previously evaluated 
+“permanent disability” and the employee believes that the initial evaluation is too low. 
+Mr. Ojeda is seeking reimbursement for the IME conducted by Dr. Bansal for his 
+November 27, 2019 injury.  Based on the above findings of fact, I conclude the 
+prerequisites of Iowa Code section 85.39 were met as it pertains to the November 27, 
+2019 work injury.  The claimant has demonstrated that he is entitled to reimbursement 
+in the amount of $1,550.00 for the IME as it related to the November 27, 2019, date of 
+injury.  See Fuller v. Bimbo Bakery, U.S.A., File No. 20012896.01, 2023 WL 6140681 
+(App. Sept. 12, 2023). 
+Claimant is also seeking reimbursement for the IME of Dr. Bansal in connection 
+with the May 6, 2020, date of injury.  Based on the above findings of fact, I conclude 
+that the prerequisites of Iowa Code section 85.39 were not met.  Specifically, Dr. 
+Bansal’s examination was not subsequent to an employer-retained physicians’ rating for 
+the May 6, 2020, date of injury.  Thus, I conclude claimant has failed to demonstrate 
+entitlement to reimbursement for the IME related to the May 6, 2020, work injury.   
+Claimant is also seeking penalty benefits for his right shoulder case for 
+unreasonable delay of permanent partial disability benefits from April 17, 2023 to 
+August 2, 2023.   
+Under Iowa law, if a denial, a delay in payment, or a termination of benefits 
+occurs without reasonable or probable cause or excuse known to the employer or 
+insurance carrier at the time of the denial, delay in payment, or termination of benefits, 
+the workers' compensation commissioner shall award benefits in addition to those 
+benefits payable under this chapter, or chapter 85, 85A, or 85B, up to fifty percent of the 
+amount of benefits that were denied, delayed, or terminated without reasonable or 
+probable cause or excuse.  See Iowa Code section 10A.315. 
+Based on the above findings of fact, I conclude that claimant failed to carry his 
+burden of proof to demonstrate by a preponderance of the evidence that defendants 
+delayed weekly payments to him.  Thus, I conclude penalty benefits are not appropriate 
+in this case. 
+Finally, claimant is seeking an assessment of costs as set forth in his exhibit 16.  
+Costs are to be assessed at the discretion of the Iowa Workers’ Compensation 
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 17 
+ 
+Commissioner or the deputy hearing the case.  876 IAC 4.33.  Based on the above 
+findings of fact I concluded that an assessment of costs against defendants Sivyer Steel 
+Corporation and Redwood Fire and Casualty Insurance Company is appropriate.   
+First, claimant is seeking an assessment of $100.00 for the filing fee for his 
+petition.  I find this is an appropriate cost under 876 IAC 4.33(7).  Second, claimant is 
+seeking costs in the amount of $20.01 for certified mail.  I find this is an appropriate cost 
+under 876 IAC 4.33(3).  Third, claimant is seeking costs in the amount of $3,562.50 for 
+a vocational report.  Because claimant failed to prove entitlement to industrial disability 
+benefits, I find that this report was irrelevant and exercise my discretion to not award 
+this as an appropriate cost.  Fourth, claimant is seeking costs in the amount of $107.50 
+for the transcript of his May 16, 2022 deposition.  I find this is an appropriate cost under 
+876 IAC 4.33(2).  Fifth, claimant is seeking costs in the amount of $137.50 for the 
+transcript of the July 20, 2023 transcript.  I find this is an appropriate cost under 876 IAC 
+4.33(2).  Sixth, claimant lists the hearing transcript as a cost with no dollar amount.  I 
+exercise my discretion and do not assess the cost of the hearing transcript.  Thus, 
+defendants are assessed costs totaling $365.01.   
+ORDER 
+THEREFORE, IT IS ORDERED: 
+File No. 20008020.01 (DOI:  11-27-19)  
+Claimant shall take no weekly benefits as the result of this hearing due to the 
+November 27, 2019 work injury. 
+Defendants shall reimburse claimant for IME expenses in the amount of one 
+thousand five hundred fifty and no/100 dollars ($1,550.00). 
+Each party shall bear their own costs. 
+Defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1 (2) and 876 IAC 11.7. 
+ 
+File No. 21005432.01 (DOI:  05-06-20) 
+All weekly benefits shall be paid at the stipulated rate of three hundred ninety-
+three and 22/100 dollars ($393.22).   
+Defendants shall pay one hundred sixteen (116) weeks of permanent partial 
+disability benefits commencing on the stipulated commencement date of April 18, 2023.  
+Defendants shall be entitled to credit for all weekly benefits paid to date.    
+Defendants shall pay accrued weekly benefits in a lump sum together with 
+interest at an annual rate equal to the one-year treasury constant maturity published by 
+
+OJEDA V. SIVYER HOLDINGS, LLC/SIVYER STEEL CASTINGS, LLC 
+Page 18 
+ 
+the federal reserve in the most recent H15 report settled as of the date of injury, plus 
+two percent.    
+Defendants shall reimburse claimant costs totaling three hundred sixty-five and 
+01/100 dollars ($365.01). 
+Defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1 (2) and 876 IAC 11.7. 
+Signed and filed this __19th _ day of February, 2024. 
+ 
+ 
+ 
+ 
+The parties have been served, as follows: 
+Andrew Bribriesco (via WCES) 
+Robert Gainer (via WCES) 
+Kathryn Johnson (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code.  The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Com pensation Commissioner, Iowa 
+Division of Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal 
+must be received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal 
+period will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+  
+                ERIN Q. PALS 
+             DEPUTY WORKERS’ 
+   COMPENSATION COMMISSIONER 

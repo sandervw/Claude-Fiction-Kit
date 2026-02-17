@@ -1,0 +1,320 @@
+Case Number: 1649999.01
+Case Title:  OPPMAN, RAY V. EATON CORPORATION/2ND INJ-FUND
+Doc Type:    Decision - District Court
+Source:      Oppman, Ray-164999.01.District Court Decision.PDF
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+EATON CORPORATION and 
+OLD REPUBLIC INS. CO., 
+ 
+     Petitioners, 
+ 
+vs. 
+ 
+RAY P. OPPMAN and 
+SECOND INJURY FUND OF IOWA, 
+ 
+     Respondents. 
+ 
+ 
+ 
+Case No. CVCV065676 
+ 
+ 
+RULING ON PETITION FOR JUDICIAL 
+REVIEW 
+ 
+On November 3, 2023, the above-captioned matter came before this Court for 
+hearing. Petitioners Eaton Corporation (“Eaton”) and Old Republic Insurance 
+Company were represented by attorney Kent Smith. Respondent Ray Oppman 
+(“Oppman”) appeared through attorney James Fitzsimmons, and the Second Injury 
+Fund of Iowa was represented by Jonathan Bergman. After hearing the arguments of 
+Counsel and reviewing the court file, including the briefs filed by the parties and the 
+Certified Administrative Record (“Cert. Rec.”), the Court enters this Ruling.  
+I. 
+BACKGROUND FACTS. 
+Oppman began working for Eaton in 1994 at its plant in Belmond, Iowa. At 
+issue in this particular case is an injury he sustained on January 23, 2018. While 
+working on some equipment, Oppman stepped on a slippery patch on the floor, 
+causing him to fall and injure his right knee. He was immediately taken to a doctor, 
+who gave Oppman a knee brace, crutches, and a recommendation that he limit 
+ambulation at work. Cert. Rec. 428-29. An MRI later revealed that Oppman had torn 
+several ligaments and his meniscus. Id. at 434. Following his knee injury and the 
+resulting surgery on May 2, 2018, medical professionals continued to note Oppman’s 
+E-FILED                    CVCV065676 - 2023 DEC 05 03:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 9
+
+2 
+ 
+antalgic1 gait. Id. at 31-32. Shortly after his surgery, Oppman’s doctors and physical 
+therapist made notes regarding Oppman's worsening lower back pain. Id. On or 
+around September 25, 2018, an MRI of Oppman’s lower back indicated degenerative 
+changes throughout his lumbar spine, including a diffuse disc bulge and severe 
+central canal narrowing. Id. at 547. Oppman has since had many doctor visits and 
+procedures related to the pain in his lower back. On October 15, 2018, Oppman was 
+terminated by Eaton for excessive absences following the exhaustion of his FMLA 
+leave. Id. at 311. 
+While Eaton has agreed that Oppman’s knee injury was work-related, they deny 
+that the back injury was also work-related. On November 9, 2022, Deputy Workers’ 
+Compensation Commissioner Joseph Walsh issued an Arbitration Decision that 
+concluded that the back injury was a sequela condition for which Eaton must 
+compensate Oppman. Oppman was awarded permanent total disability benefits as 
+well as the cost of any future medical treatment for his knee and back conditions. On 
+appeal, Workers’ Compensation Commissioner Joseph Cortese affirmed the Deputy 
+Commissioner’s findings with some substituted analysis, the specifics of which will be 
+discussed below as necessary. Ultimately Commissioner Cortese agreed that the back 
+condition was a sequela injury and also that Oppman was permanently and totally 
+disabled. This decision constituted final agency action. Eaton now petitions this court 
+for judicial review of Commissioner Cortese’s decision. 
+II. 
+STANDARD OF REVIEW. 
+ 
+In an administrative proceeding, the Court’s review is governed by Iowa Code 
+section 17A.19. A party challenging agency action bears the burden of demonstrating 
+                                                          
+1 Antalgic means “marked by or being an unnatural position or movement assumed by someone to minimize or 
+alleviate pain or discomfort (as in the leg or back).” Antalgic, MERRIAM-WEBSTER MEDICAL DICTIONARY, available 
+at https://www.merriam-webster.com/medical/antalgic. 
+Commented [SW1]: You can remove this if you like, 
+but I had to look up what this word means. 
+E-FILED                    CVCV065676 - 2023 DEC 05 03:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 9
+
+3 
+ 
+the action's invalidity and resulting prejudice. Iowa Code § 17A.19(8)(a). This can be 
+shown in a number of ways, including proof the action was ultra vires; legally 
+erroneous; unsupported by substantial evidence in the record when that record is 
+viewed as a whole; or otherwise unreasonable, arbitrary, capricious, or an abuse of 
+discretion. See id. § 17A.19(10).  
+The district court acts in an appellate capacity to correct errors of law on the 
+part of the agency. Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 
+2002). Where the issue is one of fact, the Court must accept the agency’s factual 
+findings unless they are “not supported by substantial evidence in the record before 
+the court when that record is viewed as a whole.” Iowa Code § 17A.19(10)(f); see also 
+Mycogen Seeds v. Sands, 686 N.W.2d 457, 464-465 (Iowa 2004). 
+III. 
+ANALYSIS. 
+Eaton challenges the agency’s decision on two grounds. First, they argue that 
+the finding of a sequela injury is not supported by substantial evidence. Second, they 
+claim the finding of total and permanent disability is irrational, illogical, or wholly 
+unjustifiable. 
+A. Sequela Injury 
+Eaton first challenges the finding that Oppman’s back injury was causally 
+related to the knee injury. “Medical causation presents a question of fact that is vested 
+in the discretion of the workers' compensation commission.” Cedar Rapids Cmty. Sch. 
+Dist. v. Pease, 807 N.W.2d 839, 844-45 (Iowa 2011) (citing Dunlavey v. Econ. Fire & 
+Cas. Co., 526 N.W.2d 845, 853 (Iowa 1995)). A determination of fact can only be 
+overturned on judicial review if it “is not supported by substantial evidence in the 
+record before the court when that record is viewed as a whole.” Iowa Code § 
+17A.19(10)(f). “‘Substantial evidence’ means the quantity and quality of evidence that 
+E-FILED                    CVCV065676 - 2023 DEC 05 03:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 9
+
+4 
+ 
+would be deemed sufficient by a neutral, detached, and reasonable person, to 
+establish the fact at issue when the consequences resulting from the establishment of 
+that fact are understood to be serious and of great importance.” Id. § 17A.19(10)(f)(1). 
+Deputy Commissioner Walsh weighed the evidence, including expert testimony, 
+provided by both parties. 
+Having reviewed the entire record as a whole, I find that a greater weight 
+of evidence supports a finding that Mr. Oppman did sustain a functional 
+impairment in his low back which resulted from his original work injury. 
+This is based upon Dr. Kuhnlein’s expert opinion, Dr. Baker’s opinion as 
+a treating physician, combined with Mr. Oppman’s credible testimony, as 
+well as relevant treatment records. I reject the opinion of [Eaton’s expert] 
+Dr. Chen . . . this opinion is simply not believable in light of the 
+treatment records and opinions of Dr. Baker. 
+ 
+Id. at 36. On appeal, Eaton presented an additional expert opinion, that of Dr. Bollier, 
+which Commissioner Cortese did not find persuasive.  
+When claimant reported his back pain to Dr. Bollier during treatment, 
+Dr. Bollier documented, “[w]e explained that per work comp rules, the 
+back pain is not considered a work injury” and he directed claimant to 
+follow up with his primary care provider. . . Dr. Bollier cited to no specific 
+“work comp rules” supporting his assertion. He later agreed with Dr. 
+Chen’s opinions and provided no analysis to explain his bare 
+conclusions. I do not find Dr. Bollier’s opinion persuasive. 
+ 
+Id. at 23-24 (alteration in original). Commissioner Cortese also agreed with Deputy 
+Commissioner Walsh that Oppman’s experts were more persuasive.  
+As the finder of fact, the agency determines the weight to assign an expert 
+opinion, assessing the accuracy of the facts provided to the expert as well as other 
+surrounding circumstances. Sherman v. Pella Corp., 576 N.W.2d 312, 321 (Iowa 1998). 
+The agency may reject or accept the expert evidence entirely or in part.  Pease, 807 
+N.W.2d at 850. In our appellate posture, we “are not at liberty to accept contradictory 
+opinions of other experts in order to reject the finding of the 
+commissioner.” Id. (citation omitted).  
+In sum, the law is clear; the Court cannot reweigh the evidence in this case. 
+E-FILED                    CVCV065676 - 2023 DEC 05 03:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 9
+
+5 
+ 
+Both the Deputy Commissioner and the Commissioner found Oppman’s experts were 
+stronger than Eaton’s and therefore agreed that the back injury was caused by the 
+knee injury. There is substantial evidence in the form of multiple expert opinions that 
+support this finding. The Commission’s finding on this issue is affirmed.2 
+B. Total and Permanent Disability 
+Eaton also contends that the Commission incorrectly awarded industrial 
+disability based on the conclusion that Oppman was totally and permanently disabled 
+as a result of his work injury. They note that none of the doctors who evaluated 
+Oppman found that he was totally disabled. Furthermore, Eaton argues that even if 
+Oppman is totally and permanently disabled, it is due to health concerns that were 
+diagnosed after his work injury and Eaton is therefore not liable. The determination of 
+industrial disability is an application of law to the facts; therefore, the Court must 
+consider if the decision reached was “irrational, illogical, or wholly unjustifiable.” 
+Larson Mfg. Co. v. Thorson, 763 N.W.2d 842, 857 (Iowa 2009). 
+There are two ways that a claimant can show total and permanent disability. 
+Michael Eberhart Const. v. Curtin, 674 N.W.2d 123, 126 (Iowa 2004). The first is to 
+show that the claimant’s “medical impairment together with the nonmedical factors 
+total 100%.” Id. (quoting Boley v. Indus. Special Indem. Fund, 939 P.2d 854, 857 
+(Idaho 1997)). The second is to show that the claimant is an “odd-lot” worker. Id.  
+[A] worker becomes an odd-lot employee when an injury makes the 
+worker incapable of obtaining employment in any well-known branch of 
+the labor market. An odd-lot worker is thus totally disabled if the only 
+services the worker can perform are “so limited in quality, dependability, 
+or quantity that a reasonably stable market for them does not exist[.]” . . 
+. 
+ 
+We therefore hold that when a worker makes a prima facie case of total 
+disability by producing substantial evidence that the worker is not 
+                                                          
+2 Because of this, the finding that the Second Injury Fund is not liable for Oppman’s injury is also affirmed. See 
+Cert. Rec. 11, 36. 
+E-FILED                    CVCV065676 - 2023 DEC 05 03:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 9
+
+6 
+ 
+employable in the competitive labor market, the burden to produce 
+evidence of suitable employment shifts to the employer. If the employer 
+fails to produce such evidence and the trier of fact finds the worker does 
+fall in the odd-lot category, the worker is entitled to a finding of total 
+disability. 
+ 
+Guyton v. Irving Jensen Co., 373 N.W.2d 101, 105-107 (Iowa 1985) (quoting Lee v. 
+Minneapolis St. Ry. Co., 41 N.W.2d 433, 436 (Minn. 1950)).  Oppman argues that he is 
+an odd-lot worker, because he has spent the entirety of his twenty-four-year career 
+working for Eaton in manufacturing and is unable to continue his work there given his 
+limitations. Cert. Rec. 274.  
+Though Deputy Commissioner Walsh did not explicitly address if Oppman was 
+an odd-lot worker, he did conclude that there was no meaningful employment 
+available for Oppman at Eaton. Referring to the recommendation from multiple 
+doctors that Oppman avoid working on slippery surfaces, the Deputy Commissioner 
+stated, “While the stated reason for his termination appears to be excessive 
+absenteeism, the reality is there was no gainful work that Mr. Oppman could perform 
+for Eaton because of the slippery surfaces.” Id. at 38. Deputy Commissioner Walsh 
+then acknowledged Oppman’s many other health conditions. 
+I agree that claimant has numerous health concerns which are not 
+related to his work injury, however, the facts demonstrate convincingly 
+that Mr. Oppman has had these conditions for some time and he was 
+always able to work with these conditions. In fact, he not only worked 
+but he was highly productive and valuable. He was able to perform all of 
+the tasks in a fairly heavy work environment with minimal limitations. 
+He is now unable to work because of a combination of all of these 
+conditions – both work related and non-work related. The employer is 
+required to “take the injured worker as it finds him.” Given the serious 
+conditions in his right knee and back, I have found he is no longer able 
+to perform any meaningful work in the competitive job market. 
+ 
+Id.  
+ 
+On appeal, Commissioner Cortese disagreed with the determination that there 
+was no meaningful employment available for Oppman at Eaton at the time that 
+E-FILED                    CVCV065676 - 2023 DEC 05 03:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 9
+
+7 
+ 
+Oppman was released to return to work following his injury. Id. at 25. He did find that 
+at the time of the hearing, Oppman would not be able to return to work at Eaton 
+“given his current permanent restrictions.” Id. The Commissioner then concluded his 
+analysis with the following: 
+Claimant has a number of serious medical conditions that either 
+preexisted or developed after he injured his right knee and low back. 
+Claimant has a history of asthma dating back to childhood and morbid 
+obesity. At the time of his first appointment with Dr. Bollier on April 5, 
+2018, claimant had been taking prednisone daily to manage his asthma 
+for at least three years. He was short of breath and had a history of sleep 
+apnea and used a CPAP at night. After Dr. Bollier released him from care 
+claimant was diagnosed with lymphedema, lower extremity edema, left 
+lower extremity cellulitis and necrosis of muscle, chronic right-sided 
+heart failure, chronic heart failure with preserved injection fracture, 
+chronic obstructive pulmonary disease, nocturnal hypoxemia, pulmonary 
+hypertension, cor pulmonale, uncontrolled diabetes type 2, and drug-
+induced hypokalemia. 
+ 
+Claimant is a seriously ill, morbidly obese man. I do not find the work 
+injury caused or materially aggravated, accelerated or “lit up” his 
+pulmonary, cardiac, or other health conditions. The work injury caused 
+claimant’s right knee condition and materially aggravated, accelerated, 
+and “lit up” his low back condition, and he now requires permanent work 
+restrictions. As correctly noted by the deputy commissioner, despite his 
+personal comorbidities and another prior work injury he worked full-time 
+for defendant-employer for 20 years. Claimant was a motivated worker, 
+despite his breathing problems and large size. Following his termination 
+claimant applied for work but was not hired before the Social Security 
+Administration found he was permanently and totally disabled. 
+Considering all the factors of industrial disability, I find claimant has 
+established he is permanently and totally disabled under the statute. 
+ 
+Id. at 26 (internal citations omitted). 
+ 
+The Court has three main concerns regarding the Commissioners’ industrial 
+disability analysis. First, there seems to be a contradiction between the finding that 
+Eaton had suitable employment for Oppman after his injury and the finding of 
+permanent and total disability. Second, it seems to equate conditions that Oppman 
+had before his injury and conditions that were diagnosed after. Finally, it does not 
+engage in the burden-shifting analysis prescribed by Iowa courts in Guyton and 
+E-FILED                    CVCV065676 - 2023 DEC 05 03:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 9
+
+8 
+ 
+similar cases, which is to say there is no discussion of whether there is suitable 
+employment available elsewhere in the market. This does not mean that the 
+Commissioner’s conclusion is necessarily incorrect; rather, it is impossible with the 
+record before the Court to determine if the Commissioner’s decision was irrational, 
+illogical, or wholly unjustifiable.  
+The Court therefore remands this case to the Commissioner for a more specific 
+finding on Oppman’s industrial disability that the Court can review. The record before 
+the Court contains little evidence regarding Oppman's employability3; therefore, on 
+remand both parties should be given the opportunity to present evidence regarding 
+whether Oppman was an odd-lot worker. The agency should then make a specific 
+finding on this issue when considering only the limitations created by Oppman’s work 
+injury and the conditions that preexisted the injury so that the Court can conduct a 
+more intelligent review, if necessary, of the agency’s findings.  
+IV. 
+DISPOSITION. 
+IT IS THE ORDER OF THE COURT that Decision of the Workers’ 
+Compensation Commission is AFFIRMED with regard to the designation of the 
+sequela injury of the lower back.  Court costs are taxed to Petitioner. 
+IT IS FURTHER ORDERED that the Decision is REMANDED to the agency for 
+the limited purpose of conducting a more specific finding and analysis regarding the 
+designation of permanent and total disability in accordance with this decision. 
+                                                          
+3 Oppman noted at the agency hearing that he had applied for employment at “a couple of places” following his 
+termination. Cert. Rec. 357. It is unclear from the record if he was rejected, and he stopped his search all together 
+once he was approved for SSDI benefits. Id. That said, rejected job applications are not the only way to demonstrate 
+a prima facie case of permanent and total disability. Second Inj. Fund of Iowa v. Nelson, 544 N.W.2d 258, 267 (Iowa 
+1995). 
+E-FILED                    CVCV065676 - 2023 DEC 05 03:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 9
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV065676
+EASTON CORPORATION ET AL VS RAY P OPPMAN ET AL
+Type:
+ORDER FOR JUDGMENT
+So Ordered
+Electronically signed on 2023-12-05 15:20:13
+E-FILED                    CVCV065676 - 2023 DEC 05 03:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 9

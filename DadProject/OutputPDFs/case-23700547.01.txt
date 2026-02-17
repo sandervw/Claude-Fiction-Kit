@@ -1,0 +1,635 @@
+Case Number: 23700547.01
+Case Title:  LEVENDUSKY, TRACY V. A TO Z DRYING, INC.
+Doc Type:    Decision - Deputy
+Source:      Levendusky Tracy - 23700547.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+TRACY LEVENDUSKY, 
+No. 23700547.01 
+ 
+Claimant, 
+vs. 
+ 
+ 
+A TO Z DRYING, INC., 
+ARBITRATION DECISION 
+ 
+Employer, 
+ACCIDENT FUND GENERAL 
+INSURANCE CO., 
+Headnotes:  1108.50 
+ 
+Insurance Carrier, 
+ 
+Defendants. 
+I.  
+STATEMEN T OF TH E C AS E 
+Claimant Tracy Levendusky seeks workers’ compensation benefits from the 
+defendants, employer A to Z Drying, Inc. (A to Z) and insurance carrier Accident Fund 
+General Insurance Co. (Accident Fund). The undersigned presided over an arbitration 
+hearing on July 10, 2024. Levendusky participated personally and through attorney 
+MaKayla J. Augustine. The defendants participated by and through attorney Andrew 
+Portis. Nicholas Halbach served as the representative for A to Z. After full submission of 
+the case, Laura Ostrander appeared on behalf of the defendants and Portis withdrew. 
+Levendusky alleges he developed testicular cancer in the form of pure seminoma 
+due to exposure to insecticide while working at A to Z. Levendusky’s coworker Daniel 
+Bell developed the same type of cancer close in time and has initiated his own case 
+before the agency, Iowa Workers’ Compensation Commissioner No. 23001758.01. The 
+two men received care from some of the same providers and expert witnesses 
+considered both men’s conditions when opining on each case. While there is a degree 
+of crossover between the two cases with respect to some facts, this decision is focused 
+on Levendusky’s case. 
+II.  
+ISSU ES  
+Under Iowa Administrative Code rule 876—4.19(3)(f), the parties jointly 
+submitted a hearing report defining the claims, defenses, and issues submitted to the 
+presiding deputy commissioner. The hearing report was approved and entered into the 
+record via an order because it is a correct representation of the disputed issues and 
+ELECTRONICALLY FILED     2025-Apr-30  09:47:17     DIVISION OF WORKERS' COMPENSATION
+
+LEVENDUSKY V. A TO Z DRYING, INC. 
+Page 2 
+ 
+stipulations in this case. The parties identified the following disputed issues in the 
+hearing report: 
+1) Did Levendusky sustain an injury arising out of and in the course of his 
+employment with A to Z? 
+2) Did Levendusky give timely notice of the alleged injury? 
+3) Is Levendusky entitled to temporary total disability (TTD) or healing period 
+(HP) benefits? 
+4) What is the nature and extent of permanent disability, if any, caused by the 
+alleged injury? 
+5) What is the commencement date for permanent partial disability benefits, if 
+any are awarded? 
+6) Is Levendusky entitled to payment of medical expenses? 
+7) Is Levendusky entitled to alternate care? 
+8) Is Levendusky entitled to recover the cost of an independent medical 
+examination (IME) under Iowa Code section 85.39? 
+9) Is Levendusky entitled to taxation of the costs against the defendants? 
+III .  
+STIP U LATION S 
+ 
+In the hearing report, the parties entered into the following stipulations: 
+1) An employer-employee relationship existed between Levendusky and A to Z 
+at the time of the alleged injury. 
+2) At the time of the stipulated injury: 
+a) Levendusky’s gross earnings were one thousand one hundred eleven 
+and 33/100 dollars ($1,111.33) per week. 
+b) Levendusky was single. 
+c) Levendusky was entitled to one exemption. 
+The parties’ stipulations in the hearing report are accepted and incorporated into 
+this arbitration decision. The parties are bound by their stipulations. This decision 
+contains no discussion of any factual or legal issues relative to the parties’ stipulations 
+except as necessary for clarity with respect to disputed factual and legal issues. 
+
+LEVENDUSKY V. A TO Z DRYING, INC. 
+Page 3 
+ 
+IV.  
+FIN D IN GS OF FAC T  
+The evidentiary record in this case consists of: 
+ Claimant’s Exhibits 1 through 13; 
+ Defendants’ Exhibits B, C, and E; 
+ Joint Exhibits JE1 through JE4;1 and 
+ Hearing testimony by Levendusky and Halbach. 
+After careful consideration of the evidence and the parties’ post-hearing briefs—
+excluding any assertions based on documents or webpages not in evidence—the 
+undersigned makes the following findings of fact. 
+Levendusky has no family history of testicular cancer. (Hearing Transcript, pp. 
+52–53) After his high school graduation, he attended the University of Minnesota from 
+which he graduated in 1991 with a degree in mortuary sciences. (Hr’g Tr. p. 22) 
+Levendusky worked as a funeral director from 1991 through 2012. (Hr’g Tr. p. 22) 
+A to Z is a business specializing in insecticides. (Hr’g Tr. pp. 69–70) In April 
+2014, A to Z hired Levendusky to work for the corporation. (Hr’g Tr. p. 41) Levendusky 
+worked primarily as a formulations operator and driver. (Hr’g Tr. pp. 23–24) Before the 
+date of hearing, A to Z also assigned Levendusky to work packaging and running a 
+dryer on an as needed basis. (Hr’g Tr. pp. 23–24)  
+The majority of Levendusky’s job duties with A to Z involved working on the 
+formulations of the insecticides DiPel, which is powder-based, and the bacteria-based 
+VectoBac and Foray. (Hr’g Tr. pp. 23–24) On occasion from 2015 through 2022, A to Z 
+assigned Levendusky the task of formulating Mimic 2LV (Mimic) and participating in 
+post-formulation cleanup. (Hr’g Tr. pp. 29, 32, 42–43) Levendusky testified that between 
+2015 and the alleged injury date, he worked on the formulation of Mimic 10 to 15 times. 
+(Hr’g Tr. p. 30) 
+Mimic kills moths by targeting their reproductive organs. (Hr’g Tr. p. 29; Ex. 4, p. 
+10) The active ingredient in Mimic is Tebufenozide. (Hr’g Tr. p. 30; Ex. 4, p. 11) 
+Tebufenozide is a sticky white powder, which made the Mimic formulation process in 
+which Levendusky participated messy. (Hr’g Tr. p. 29–30) Tebufenozide would stick to 
+pretty much everything in the room where Mimic was formulated—including the floor, 
+walls, ceiling, forklift, pallets, and workers. (Hr’g Tr. pp. 31–32) When working on Mimic 
+formulation, the sticky white power of Tebufenozide was unavoidable, causing workers 
+such as Levendusky to regularly come into contact with it while performing job duties 
+when they were not wearing protective gear. (Hr’g Tr. p. 33) 
+                                                 
+1 After the hearing and before the deadline for post-hearing briefs, the parties moved to reopen 
+the record in order to include a supplemental joint exhibit, JE4, and the undersigned granted the motion. 
+
+LEVENDUSKY V. A TO Z DRYING, INC. 
+Page 4 
+ 
+Some of Levensky’s coworkers in maintenance warned him about the 
+Tebufenozide. (Hrg’ Tr. p. 32) At one point, Levendusky voiced concern to Halbach and 
+his assistant, Skyler. (Hr’g Tr. p. 32) He requested cleanup of the forklift, which A to Z 
+performed. (Hr’g Tr. p. 32) 
+But it was not just the Tebufenozide to which Levendusky was exposed at A to Z. 
+After formulation, Mimic is a liquid. (Hr’g Tr. pp. 32, 44) A to Z stored it in open totes that 
+were not sealed before destroying it. (Hr’g Tr. pp. 47, 58–59) This arrangement caused 
+the presence in ESD of vapors from Mimic. (Hr’g Tr. pp. 58–59) And on at least one 
+occasion, Mimic leaked so that it was all over the floor in ESD and even seeped into the 
+walls of ESD. (Hr’g Tr. p. 32) 
+On May 13, 2022, Levendusky noticed that his left testicle was larger than his 
+right. (Hr’g Tr. pp. 24–25) Concerned, Levendusky scheduled an appointment at 
+Mitchell County Regional Health Center St. Ansgar Clinic, where Callie White, ARNP, 
+examined him. (Ex. JE 1, p. 1) After White’s examination and an ultrasound, she 
+referred Levendusky to Christopher Adams, M.D., a urologist. (Ex. JE1, p. 4) 
+Dr. Adams examined Levendusky and ordered CT scans of his abdomen, pelvis, 
+and chest. (Ex. JE 1, pp. 5–6) He then diagnosed Levendusky with a left testicular mass 
+suggestive of malignancy. (Ex. JE1, p. 5; Ex. JE2, p. 37) On May 24, 2025, Dr. Adams 
+performed surgery to remove Levendusky’s left testicle. (Ex. JE2, pp. 37–39) After 
+pathology testing, Levendusky was diagnosed with stage II, pure seminoma of the left 
+testicle and referred to Mercy Medical Center – North Iowa for possible further 
+treatment. (Ex. JE2, pp. 44–46) 
+Levendusky was prescribed four cycles of Cisplatin/VP16. (Ex. JE2, pp. 44–46) 
+Levendusky had a venous access port implanted in his chest for the chemotherapy. (Ex. 
+JE2, pp. 52–54) Levendusky underwent chemotherapy treatment for five consecutive 
+days every twenty-one days. (Ex. JE2, pp. 49–68) On August 26, 2022, Levendusky 
+completed chemotherapy and has been in remission since. (Ex. JE2, pp. 68, 74–96) 
+Nonetheless, Levendusky has had to follow up periodically to ensure the cancer has not 
+returned and will continue to do so for two to three years. (Ex. JE2, p. 96) 
+The chemotherapy caused Levendusky to develop severe peripheral neuropathy 
+that is particularly bad in his feet. (Ex. JE1, p. 9; Ex. 7, p. 36) Moreover, he has 
+developed fatigue, tinnitus, and cold intolerance. (Ex. JE1, p. 30; JE3, p. 97; Hr’g Tr. p. 
+40) After experiencing side effects from Gabapentin and Cymbalta, he has tried an 
+alternative approach of natural supplements, electrical stimulation, and a foot massager. 
+(Ex. JE3, p. 97; Hr’g Tr. p. 35) 
+A to Z uses Safety Data Sheets (SDS) when determining what personal 
+protective equipment (PPE) its employees wear when handling a specific chemical as 
+well as the procedures to follow when handling and disposing of it. (Hr’g Tr. p. 73) At 
+hearing, during direct examination on how A to Z uses an SDS in its operation, defense 
+counsel (Q) and Harbach (A) engaged in the following exchange: 
+
+LEVENDUSKY V. A TO Z DRYING, INC. 
+Page 5 
+ 
+Q.     And how influential is the SDS when designing a safety program or 
+protocol or something like that? 
+A.      It’s everything, really. We do extensive training on that, and so much of 
+the worldwide, they call it global harmonized system, is based on what’s provided 
+on the SDS, so it’s ultimately incredibly important. 
+(Hr’g Tr. p. 73) 
+The record is devoid of any evidence regarding the development of an SDS. 
+What entity creates an SDS for a chemical? What is the process used? How long is an 
+SDS in effect? What is the process for reviewing an SDS? When was the 
+experimentation on mice or rats performed to determine whether a chemical increases 
+the risk of cancer? None of this information is in the evidentiary record. But it is outlined 
+with federal regulations promulgated by the federal Occupational Safety and Health 
+Administration (OSHA), which provide a useful backdrop to the fighting issues in this 
+case. 
+Among the occupational safety and health standards adopted by OSHA are 
+regulations governing hazard communication. See 29 CFR § 1910.1200. OSHA 
+promulgated these rules “to ensure that the hazards of all chemicals produced or 
+imported are classified, and that information concerning the classified hazards is 
+transmitted to employers and employees” with the intent to impose standards 
+“consistent with the provisions of the United Nations Globally Harmonized System of 
+Classification and Labeling of Chemicals (GHS).” Id., at § 1910.1200(a)(1). “The 
+transmittal of information is to be accomplished by means of comprehensive hazard 
+communication programs, which are to include container labeling and other forms of 
+warning, safety data sheets and employee training.” Id. The standard “is intended to 
+address comprehensively the issue of classifying the potential hazards of chemicals, 
+and communicating information concerning hazards and appropriate protective 
+measures to employees, and to preempt any legislative or regulatory enactments of a 
+state, or political subdivision of a state, pertaining to” hazard communication. Id., at § 
+1910.1200(a)(2). 
+The hazard communication standard “requires chemical manufacturers or 
+importers to classify the hazards of chemicals which they produce or import, and all 
+employers to provide information to their employees about the hazardous chemicals to 
+which they are exposed, by means of a hazard communication program, labels and 
+other forms of warning, safety data sheets, and information and training.” Id., § 
+1910.1200(b)(1). As well, it “requires distributors to transmit the required information to 
+employers.” Id. The hazard communication standard “applies to any chemical which is 
+known to be present in the workplace in such a manner that employees may be 
+exposed under normal conditions of use or in a foreseeable emergency.” Id., § 
+1910.1200(b)(2). 
+Under 29 CFR section 1910.1200(c)(iii), “Safety data sheet (SDS) means written 
+or printed material concerning a hazardous chemical that is prepared in accordance 
+
+LEVENDUSKY V. A TO Z DRYING, INC. 
+Page 6 
+ 
+with paragraph (g) of this section.” Section 1910.1200(g)(1) provides, “Chemical 
+manufacturers and importers shall obtain or develop a safety data sheet for each 
+hazardous chemical they produce or import. Employers shall have a safety data sheet 
+in the workplace for each hazardous chemical which they use.” Each SDS must be in 
+English.” Id., at § 1910.1200(g)(2). The regulations set forth the section titles and 
+numbering that must be used in each SDS. Id., at §§ 1910.1200(g)(2)(i)–(xvi). 
+The chemical manufacturer, importer or employer preparing the safety 
+data sheet shall ensure that the information provided accurately reflects 
+the scientific evidence used in making the hazard classification. If the 
+chemical manufacturer, importer or employer preparing the safety data 
+sheet becomes newly aware of any significant information regarding the 
+hazards of a chemical, or ways to protect against the hazards, this new 
+information shall be added to the safety data sheet within three months. If 
+the chemical is not currently being produced or imported, the chemical 
+manufacturer or importer shall add the information to the safety data sheet 
+before the chemical is introduced into the workplace again. 
+Id., at § 1910.1200(g)(5). 
+Appendix D to section 1910.1200 identifies the mandatory contents of SDSs and 
+states, “While each section of the SDS must contain all of the specified information, 
+preparers of safety data sheets are not required to present the information in any 
+particular order within each section. If no relevant information is found for any given 
+subheading within a section, the SDS shall clearly indicate that no applicable 
+information is available. Sections 12–15 may be included in the SDS, but are not 
+mandatory.” 
+Pertinent to this case are the portions of “Table D.1—Minimum Information for an 
+SDS” that address carcinogens. Under the table, Section 11 must contain certain 
+toxicological information. And section 11(f) must provide “[w]hether the hazardous 
+chemical is listed in the National Toxicology Program (NTP) Report on Carcinogens 
+(latest edition) or has been found to be a potential carcinogen in the International 
+Agency for Research on Cancer (IARC) Monographs (latest edition), or by OSHA.” 
+The SDS for Tebufenozide and the one for Mimic section 2.2 includes the hazard 
+statement, “May cause damage to organs (Blood system, liver, kidney) through 
+prolonged or repeated exposure” and, “Very toxic to aquatic life with long lasting 
+effects.” (Ex. 4, p. 11; Ex. 5, p. 24) The precautionary statement under section 2.3 of the 
+Mimic SDS advises: 
+Do not breathe mist/vapors/spray 
+Wash hands and face thoroughly after handling 
+Do not eat, drink or smoke when using this product 
+
+LEVENDUSKY V. A TO Z DRYING, INC. 
+Page 7 
+ 
+Avoid release to the environment 
+(Ex. 4, p. 11) The Tebufenozide SDS advises not to breathe dust and avoid release to 
+the environment. (Ex. 5, p. 24) 
+Section 11 of each SDS contains toxicological information in accordance with 
+Table D.1 of 29 CFR 1910.1200. Under the subheading “Carcinogenicity – Active 
+Ingredient,” the Mimic SDS states: 
+Negative (rat) 
+Negative (mouse) 
+NTP: not listed 
+IARC Monograph: not listed 
+ACGIH Regulated: not listed 
+Tebufenozide and glycerin did not cause cancer in laboratory animals. 
+(Ex. 4, p. 16) Similarly, the Tebufenozide SDS states under the subheading, 
+“Carcinogenicity,” that it was negative for rat and mouse and not listed in the NTP, IARC 
+Monograph, or ACGIH Regulated. (Ex. 5, p. 28) 
+The weight of the evidence establishes that the SDSs for Tebufenozide and 
+Mimic comply with applicable OSHA regulations and therefore the United Nations 
+Globally Harmonized System of Classification and Labeling of Chemicals (GHS). There 
+is no indication in the record that either Tebufenozide or Mimic have ever been listed as 
+a potential carcinogen in the NTP Report on Carcinogens, the IARC Monograph, or by 
+OSHA. Rather, the evidence shows it is more likely than not that neither Tebufenozide 
+nor Mimic has been identified as a potential carcinogen by the NTP, IARC, or OSHA. 
+This fact is compelling because it shows it is more likely than not that the international 
+community has not discovered a link between cancer and Tebufenozide or Mimic that is 
+strong enough to merit NTP, IARC, or OSHA identifying either as a potential 
+carcinogen. 
+Against this backdrop stand the expert opinions on causation. 
+On November 21, 2023, claimant’s counsel spoke with Dr. Adams about 
+Levendusky’s cancer. (Ex. 6, p. 32) After their conversation, claimant’s counsel wrote a 
+letter dated November 21, 2023, summarizing Dr. Adams’s opinions and sent it to Dr. 
+Adams with the request that he review the letter and sign it if it accurately reflected the 
+same. (Ex. 6, pp. 32–33) The letter documents that claimant’s counsel provided Dr. 
+Adams with the SDSs for Mimic and Tebufenozide and he reviewed them prior to their 
+conversation. (Ex. 6, p. 32) With respect to the SDSs, the letter states: 
+
+LEVENDUSKY V. A TO Z DRYING, INC. 
+Page 8 
+ 
+Having had the opportunity to review the SDS, you are aware that the 
+SDS for Mimic 2LV contains a hazard statement asserting the potential for 
+Mimic 2LV to cause damage to organs (blood system, liver, kidney) 
+through prolonged or repeated exposure, and that Mimic 2LV’s active 
+ingredient is Tebufenozide, which is a known endocrine disrupting 
+chemical. 
+(Ex. 6, p. 32) However, the letter makes no reference to the fact that the SDSs state 
+that neither NTP, IARC, or OSHA have identified either Tebufenozide or Mimic as a 
+potential carcinogen. (Ex. 6, pp. 32–33) The letter goes on to state in pertinent part: 
+With regard to testicular cancer, you explained that it is “very rare” and 
+that, having two individuals at the same place of employment like A to Z 
+Drying—which employs approximately 150–200 people—diagnosed with 
+the same testicular cancer, would be “exceedingly rare” and not 
+something that you would expect. Consequently, you confirmed that you 
+believe that Mr. Levendusky’s exposure to mimic 2LV while working at A 
+to Z Drying more likely than not (51% or greater) represented a substantial 
+causal, contributing, or aggravating factor in the development of his left 
+testicular cancer with which he was diagnosed following an ultrasound on 
+5/20/2022. 
+(Ex. 6, p. 32) On December 1, 2023, Dr. Adams signed the letter, indicating that he 
+agreed its substance matched his opinions. (Ex. 6, p. 33) 
+Thus, Dr. Adams does not explain the significance, if any, of Tebufenozide 
+causing endocrine disruption to his opinion on causation. Nor does he address how 
+Mimic’s ability to damage the blood system, liver, or kidneys through prolonged or 
+repeated exposure impacted his causation opinion. The letter also does not contain any 
+rationale for Dr. Adams discounting the SDSs’ statements that neither Tebufenozide nor 
+Mimic has been identified as a potential carcinogen by NTP, IARC, or OSHA with 
+respect to the causation question. In contrast, the letter directly states that the basis of 
+Dr. Adams’s opinion on causation is based on the fact that both Levendusky and Bell 
+contracted the same type of testicular cancer close in time while working for A to Z. 
+Claimant’s counsel also arranged for Paul Conte, M.D., to conduct an IME of 
+Levendusky on January 11, 2024, including a records review of 499 pages and an in-
+person examination of Levendusky. (Ex. 7, p. 34) Based on the information gleaned 
+from the IME, Dr. Conte authored an IME report dated February 11, 2024, containing 
+information regarding Levendusky’s medical history, in-person examination, and 
+opinions. (Ex. 7) 
+In response to the question of whether the work Levendusky performed at A to Z 
+or the environment to which he was exposed while working there was a substantial 
+causal, contributing, or aggravating factor in causing his cancer, Dr. Conte opined: 
+
+LEVENDUSKY V. A TO Z DRYING, INC. 
+Page 9 
+ 
+Malignant seminoma is a relatively rare malignancy, and thus it is an 
+unusual occurrence that he would have a testicular seminoma, and it 
+raises the issue of whether exposure at work contributed to this. Mr. 
+Levendusky did have exposure to dust and chemicals as part of his work 
+at A to Z, specifically the gypsy moth endocrine disrupting compound 
+tebufenozide which does have the ability to cause damage to the blood 
+system, the liver, and the kidney based on its MDS [sic] statement. It has 
+been evaluated for toxicity to mammalian and fish and other vertebrates, 
+and the toxicity is less so than it is for the targeted organism, the gypsy 
+moth. However, other organohalide compounds such as pesticides and 
+solvents have been known to cause increased risk for seminoma. The 
+main endocrine disruptors that have been found to cause increased risk of 
+testicular cancer in the literature are phthalates which are plasticizers in 
+packaging and other industrial processes. Also polychlorinated biphenyls 
+which were used as dielectric fluid, plasticizers and flame retardants. In 
+addition, pesticides including organochlorine-containing compounds have 
+all been shown to have endocrine disrupting abilities and have increased 
+risk for testicular cancer. Mr. Levendusky’s 14-year career at A to Z Drying 
+with his exposures on a daily basis to the different pesticides and 
+compounds more likely than not served as a substantial causal factor, or 
+was a cumulative risk factor in his testicular cancer. Furthermore, I agree 
+with the opinions of Dr. Adams, as Mr. Levendusky’s treating Urologist, on 
+work related occupational exposure. 
+(Ex. 7, pp. 37–38) Dr. Conte further elaborated: 
+As I stated in my earlier responses, seminomas are relatively unusual 
+malignancies in a man of his age. Mr. Levendusky’s position at A to Z 
+Drying is the only known risk factor for this testicular malignancy, and 
+given that there is another case in the same factory which has a 
+population of only 200 individuals makes this more likely than not a risk 
+factor for developing seminoma that was higher than the general 
+population. 
+(Ex. 7, p. 38) 
+As with Dr. Adams, Dr. Conte does not expressly identify a causal link between 
+Mimic or Tebufenozide and Levendusky’s cancer. Instead, Dr. Conte notes that the 
+toxicity for both is less for mammals and other vertebrates than it is for the gypsy moth. 
+Dr. Conte’s opinion, as articulated in his IME report, does not support the findings of a 
+causal link between Mimic or Tebufenozide and Levendusky’s testicular cancer. 
+Dr. Conte’s opinion discusses other possible causes. He discusses how “other 
+organohalide compounds such as pesticides and solvents have been known to cause 
+increased risk for seminoma” and that “[t]he main endocrine disruptors that have been 
+found to cause increased risk of testicular cancer in the literature are phthalates which 
+are plasticizers in packaging and other industrial process” as well as “polychlorinated 
+
+LEVENDUSKY V. A TO Z DRYING, INC. 
+Page 10 
+ 
+biphenyls which were used as dielectric fluid, plasticizers and flame retardants” and 
+“pesticides including organochlorine-containing compounds.” (Ex. 7, p. 38; Ex. 11, pp. 
+62–63) But there is insufficient evidence from which to conclude that Levendusky was 
+exposed to organhalide compounds, polychlorinated biphenyls, or organochlorine-
+containing compounds during his time at A to Z. The record contains only evidence that 
+he worked primarily on DiPel, VectoBac, and Foray—in addition to occasionally working 
+with Tebufenozide and Mimic—and there is no indication that any of them have been 
+identified as a potential carcinogen by NTP, IARC, or OSHA. 
+On March 23, 2023, Dr. Erlich signed a letter indicated that he agreed with the 
+following with respect to Bell’s cancer: 
+Bell worked as a chemical engineer at A to Z Drying. You had also been 
+provided with a copy of the Safety Data Sheet (SDS) for Mimic 2LV 
+Insecticide. Having had the opportunity to review that SDS, you are aware 
+that this chemical contains a Hazard Identification for “Specific Target 
+Organ Toxicity (Repeated Exposure),” and that it is hazardous to aquatic 
+life (Page 1 of 14). The SDS for the chemical also contains a Hazard 
+Statement that it: “May cause damage to organs (Blood system, liver, 
+kidney) through prolonged or repeated exposure” and further cautions to 
+“not breathe mist/vapors/spray” and “[a]void release to the environment.” 
+(page 2 [o]f 14). Finally, the chemical’s active ingredient, Tebufenozide, is 
+a known endocrine disrupting chemical. 
+With further regard to the above, you are aware that studies have shown 
+prevalence and risk in humans of developing testicular dysfunction or 
+cancer in areas with distinct exposure to pesticides, which have endocrine 
+disrupting properties. Moreover, occupational exposure to pesticides have 
+been identified as a major trigger of the development of cancer, causing 
+intoxication in the individuals who manipulate them through either 
+inhalation, ingestion, or dermal contact. Stated plainly, you explained that 
+the endocrine system is a stem of glands; that testicles are glands; and 
+that pesticides like mimic can affect the health and function of the testicle 
+(i.e., male gonads). 
+Based on the foregoing, you believe it is more likely than not (51% or 
+greater) that Mr. Bell’s exposure to Mimic 2LV Insecticide while working at 
+A to Z Drying resulted in the development of his Stage IIC seminoma 
+testicular cancer. 
+(Ex. 9, p. 43) On April 15, 2023, Dr. Adams signed a letter authored by Bell’s attorney in 
+which he expressed his agreement with the contents of the letter signed by Dr. Erlich. 
+(Ex. 10, pp. 45–46) 
+ Defense counsel arranged for Paul Gellhaus, M.D., to perform a review of 
+Levendusky’s records and issue a report. (Ex. B, pp. 3–4) Dr. Gellhaus provided his 
+
+LEVENDUSKY V. A TO Z DRYING, INC. 
+Page 11 
+ 
+opinion in a report dated February 26, 2024. (Ex. B, pp. 3–6)[1] On causation, Dr. 
+Gellhaus opined: 
+To the nearest degree of medical certainty, the alleged employment related 
+exposure to Mimic 2LV (Tebufenozide) Insecticide did not cause his testicular 
+seminoma. This opinion is based on several factors: 
+ Mimic 2LV is not a known testicular carcinogenic agent per SDS. 
+ It was reported the he wore proper protective equipment include [sic] PPE 
+per nonmedical documentation. 
+ No other symptoms/signs of exposure from pesticides per medical 
+records. 
+ Testicular cancer is uncommon (1/250) in the general population, but its 
+highest prevalence is in 20-40 year old [sic] but can happen at any age. 
+Also it is most common in white men which I assume describes the 
+majority of workforce in the place of employment given the race 
+background to the general population in Iowa (~90% white). 
+ While having two men develop this cancer in the same work place is 
+unlikely it would not be described as “exceedingly rare” given the age, 
+gender, race under the above mentioned assumptions. 
+(Ex. B, pp. 4–5, Report pp. 2–3) 
+After reviewing the letter signed by Dr. Erlich, Dr. Gellhaus expanded on his 
+causation opinion in pertinent part as follows: 
+□ While what is stated about other organohalide is true, Mimic 2LV 
+(tebufenozide), which is specifically being claimed to be the cause, is 
+not a known testicular carcinogenic agent per SDS. 
+□ Additionally, it was reported that he wore proper protective equipment 
+include [sic] PPE per non-medical documentation. This should have 
+ameliorated or significantly reduced his exposure risk. 
+□ Also, if he had this exposure (chronically or acutely), it would be 
+expected to have other problems such as testicular endocrine 
+dysfunction or other known problems as he listed “blood system, the 
+liver and the kidney based on its MDS statement.” 
+ Dr. Conte reported in his Independent Medical Examination that “<Mr. 
+Levendusky> had a normal active sexual life with his girlfriend and there 
+was no injury that occurred on a personal level that made him suspect 
+anything was wrong.” This suggests no testicular dysfunction had resulted. 
+
+LEVENDUSKY V. A TO Z DRYING, INC. 
+Page 12 
+ 
+ Furthermore, no other symptoms/signs of exposure from pesticides per 
+the medical records reviewed. 
+ In other words, his testicular seminoma was the only problem to occur and 
+not the collection of problems that would occur with exposure. This cancer 
+occurrence was isolated and did not have any other medical issues to 
+support this claim. 
+(Ex. C, p. 3) 
+The record shows that Levendusky typically wore PPE while handling 
+Tebufenozide during the formulation of Mimic, but that he did not always wear PPE—
+especially after the formulation. Thus, Dr. Gellhaus has an incorrect understanding of 
+Levendusky’s use of PPE while handling Tebufenozide and Mimic. But Dr. Gellhaus 
+does have an accurate understanding of the SDSs. None of the causation opinions from 
+Dr. Erlich, Dr. Adams, or Dr. Conte discuss the fact that the SDSs state neither 
+Tebufenozide nor Mimic have been identified as a potential carcinogen by NTP, IARC, 
+or OSHA. Further, Dr. Gellhaus makes the uncontroverted assertion that Levendusky 
+did not experience any signs or symptoms of potential pesticide exposure, which would 
+be atypical if pesticide exposure was a causal factor in the development of his cancer. 
+Because Dr. Erlich, Dr. Adams, and Dr. Conte’s opinions do not address the fact 
+that the SDSs for Tebufenozide and Mimic state they have not been identified as a 
+possible carcinogen by NTP, IARC, or OSHA, or the lack of other signs or symptoms of 
+pesticide exposure, their opinions are unpersuasive. Dr. Gellhaus’s opinion, which 
+reflects a more complete understanding of the SDSs on whether Tebufenozide or Mimic 
+is a possible carcinogen and Levendusky’s lack of signs or symptoms of pesticide 
+exposure, is more persuasive. Levendusky has failed to meet his burden of proof. There 
+is an insufficient basis in the evidence from which to conclude Levendusky’s work at A 
+to Z was a causal factor in his development of testicular cancer. 
+V. 
+C ON C LU SION S OF LAW 
+The legislature enacted the Iowa Workers’ Compensation Act, Iowa Code 
+chapter 85, for injuries arising out of and in the course of employment. It passed the 
+Iowa Occupational Disease Law, Iowa Code chapter 85A, to govern occupational 
+diseases. Both statutory schemes are enforced by the agency. See Iowa Code § 86.8. 
+The laws present an either-or proposition for compensation. See IBP, Inc. v. 
+Burress, 779 N.W.2d 210, 214 (Iowa 2010). The statutory definition of “injury” or 
+“personal injury” under chapter 85 excludes occupational diseases under chapter 85A. 
+Iowa Code § 85.61(4)(b). Section 85A.8 defines “occupational disease” as follows: 
+Occupational diseases shall be only those diseases which arise out of and 
+in the course of the employee’s employment. Such diseases shall have a 
+direct causal connection with the employment and must have followed as 
+a natural incident thereto from injurious exposure occasioned by the 
+
+LEVENDUSKY V. A TO Z DRYING, INC. 
+Page 13 
+ 
+nature of the employment. Such disease must be incidental to the 
+character of the business, occupation or process in which the employee 
+was employed and not independent of the employment. Such disease 
+need not have been foreseen or expected but after its contraction it must 
+appear to have had its origin in a risk connected with the employment and 
+to have resulted from that source as an incident and rational 
+consequence. A disease which follows from a hazard to which an 
+employee has or would have been equally exposed outside of said 
+occupation is not compensable as an occupational disease. 
+Iowa Code § 85A.8. 
+With respect to this definition, the Iowa Supreme Court has held, “The term 
+‘exposure’ indicates a passive relationship between the worker and his work 
+environment rather than an event or occurrence, or series of occurrences, which 
+constitute injury under the Worker's Compensation Act.” Burress, 779 N.W.2d at 215 
+(quoting Noble v. Lamoni Prods., 512 N.W.2d 290, 295 (Iowa 1994). 
+“[A]n ‘injury’ is distinguished from a ‘disease’ by virtue of the fact that an 
+injury has its origin in a specific identifiable trauma or physical occurrence 
+or, in the case of repetitive trauma, a series of such occurrences. A 
+disease, on the other hand, originates from a source that is neither 
+traumatic nor physical....” 
+Id. at 215 (quoting Noble, 512 N.W.2d at 295). 
+Despite the differences in applicability, both chapter 85 and 85A include the 
+express textual requirement that, in order to be compensable under the law, an 
+employee’s injury, condition, or disease must arise: 
+1) Out of the claimant’s employment; and 
+ 
+2) In the course of the claimant’s employment. Iowa Code §§ 85.3(1), 85A.8; 
+see also St. Luke’s Hosp. v. Gray, 604 N.W.2d 646, 652 (Iowa 2000); 
+Burress, 779 N.W.2d at 214.  
+ “‘The two tests are separate and distinct.’” Lakeside Casino v. Blue, 743 N.W.2d 
+169, 174 (Iowa 2007) (quoting Miedema v. Dial Corp., 551 N.W.2d 309, 311 (Iowa 
+1996)). Under Iowa law, “‘both must be satisfied in order for an injury to be deemed 
+compensable.’” Id. (quoting Miedema, 551 N.W.2d at 311). In this case, the parties 
+dispute whether the injury arose out of employment. 
+A disease arises out of employment if there is a causal connection between it 
+and the employment. Iowa Code § 85A.8. “‘In other words, the injury must not have 
+coincidentally occurred while at work, but must in some way be caused by or related to 
+the working environment or the conditions of [the] employment.’” Blue, 743 N.W.2d at 
+174. (quoting Miedema, 551 N.W.2d at 311). “When one speaks of an event “arising out 
+
+LEVENDUSKY V. A TO Z DRYING, INC. 
+Page 14 
+ 
+of employment,” the initiative, the moving force, is something other than the 
+employment; the employment is thought of more as a condition out of which the event 
+arises than as the force producing the event in affirmative fashion.” Meyer v. IBP, Inc., 
+710 N.W.2d 213, 223 (Iowa 2006) (quoting 1 Arthur Larson & Lex K. Larson, Larson’s 
+Workers’ Compensation Law (2005) § 3.06, at 3-7 to 3-8 (emphasis in original)). 
+“Medical causation presents a question of fact.” Cedar Rapids Cmty. Sch. Dist. v. 
+Pease, 807 N.W.2d 839, 844 (Iowa 2011). The answer to this question lies “‘essentially 
+within the domain of expert testimony.’” Id. at 845 (quoting Dunlavey v. Econ. Fire. & 
+Cas. Co., 526 N.W.2d 845, 853 (Iowa 1995)). The agency may accept or reject an 
+expert opinion in whole or in part. Schutjer v. Algona Manor Care Ctr., 780 N.W.2d 549, 
+560 (Iowa 2010) (quoting Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 752 
+(Iowa 2002)). In doing so, the agency “has the duty to determine the credibility of the 
+witnesses and to weigh the evidence, together with the other disclosed facts and 
+circumstances, and then to accept or reject the opinion.” Dunlavey, 526 N.W.2d at 853. 
+The agency determines the weight to give an expert opinion based on consideration of: 
+1) “[T]he accuracy of the facts relied upon by the expert,” Schutjer, 780 N.W.2d 
+at 560 (quoting Grundmeyer, 649 N.W.2d at 752); 
+ 
+2) “[T]he completeness of the premise given the expert,” Dunlavey, 526 N.W.2d 
+at 853; and 
+3) “[O]ther surrounding circumstances,” id. 
+Medical causation disputes can take two forms under Iowa workers’ 
+compensation law. One is whether the injury arises out of an actual risk of the 
+claimant’s employment. See Bluml v. Dee Jay’s Inc., 920 N.W.2d 82, 85–86 (Iowa 
+2018); see also Lakeside Casino v. Blue, 743 N.W.2d 169, 173–74 (Iowa 2007); Meyer 
+v. IBP, Inc., 710 N.W.2d 213, 223 (Iowa 2006); Almquist v. Shenandoah Nurseries, 254 
+N.W. 35 (Iowa 1934). The other is whether the injury caused a compensable disability. 
+See Schutjer, 780 N.W.2d at 560 (quoting Grundmeyer, 649 N.W.2d at 752). In this 
+case, the parties dispute medical causation—specifically, whether Bell’s testicular 
+cancer arose out of his employment with A to Z. 
+ “A possibility of causation is not sufficient; a probability is necessary.” Frye v. 
+Smith-Doyle Contractors, 569 N.W.2d 154, 156 (Iowa App. 1997) (citing Schofield v. 
+White, 250 Iowa 571, 95 N.W.2d 40 (Iowa 1959) and Holmes v. Bruce Motor Freight, 
+Inc., 215 N.W.2d 296, 297 (Iowa 1974)). The claimant must prove by a preponderance 
+of the evidence that the employment in question was a substantial factor in bringing 
+about the injury or condition alleged in the petition. See Armstrong Tire & Rubber Co. v. 
+Kubli, 312 N.W.2d 60, 64 (Iowa 1981). To be a substantial factor, employment need 
+only be one cause—not the only cause—of the alleged injury or condition. See id. 
+As found above, Levendusky has failed to meet his burden of proof on causation. Dr. 
+Gellhaus’s expert opinion is most persuasive because he accurately recites the 
+contents of the SDSs for Tebufenozide and Mimic on whether the ATP, IARC, or OSHA 
+
+LEVENDUSKY V. A TO Z DRYING, INC. 
+Page 15 
+ 
+has identified them as possible carcinogens. There is an insufficient basis in the 
+evidence from which to find a causal link between Levendusky’s employment at A to Z 
+and his testicular cancer. Because Levendusky has failed to prove by a preponderance 
+of the evidence that his cancer and sequela neuropathy arose out of and in the course 
+of his employment with A to Z, this decision does not address the other disputed issues. 
+VI.  
+OR D ER  
+Based on the above findings of fact and conclusions of law, it is ordered: 
+1) Levendusky shall take nothing more from this case. 
+2) The parties shall be responsible for paying their own hearing costs. Each 
+party shall pay an equal share of the cost of the transcript.  
+Signed and filed this 30th day of April, 2025. 
+ 
+ 
+ 
+BENJAMIN G. HUMPHREY 
+Deputy Workers’ Compensation Commissioner 
+ 
+Served via the Workers’ Compensation Electronic System (WCES): 
+MaKayla J. Augustine, Attorney for Claimant 
+Laura Ostrander, Attorney for Defendants 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 
+days from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of 
+appeal must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Workers’ Compensation Division to file documents in paper form. If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Workers’ 
+Compensation Division, 6200 Park Avenue, Suite 100, Des Moines, Iowa 50321. The notice of appeal must be 
+received by the Workers’ Compensation Division within 20 days from the date of the decision. The appeal period will 
+be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+ 
+ 

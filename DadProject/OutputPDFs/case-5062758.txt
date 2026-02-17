@@ -1,0 +1,618 @@
+Case Number: 5062758
+Case Title:  BENNING V. CLIMATE ENGINEERS
+Doc Type:    Decision - District Court
+Source:      Benning, Luke-5062758.District Court Decision.pdf
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT IN AND FOR LINN COUNTY 
+Luke Benning, 
+ 
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+ 
+ 
+ 
+Petitioner, 
+ 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+No. CVCV093906 
+vs. 
+ 
+ 
+ 
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+RULING ON JUDICIAL REVIEW 
+Climate Engineers, Inc. and Climate 
+) 
+River Valley, Inc., 
+ 
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+ 
+ 
+ 
+Respondents.  
+) 
+ 
+ 
+On this date, the above-captioned matter came before the undersigned for review of 
+Petitioner’s Petition for Judicial Review.  The Court finds a hearing on the Petition is 
+unnecessary.  Having considered the file, relevant case law, and written arguments of counsel, 
+the Court hereby enters the following ruling: 
+ 
+FACTUAL AND PROCEDURAL BACKGROUND 
+ 
+ 
+Petitioner Luke Benning filed a petition in arbitration with the Iowa Workers’ 
+Compensation Commissioner, and a hearing took place before Deputy Workers’ Compensation 
+Commissioner Erin Q. Pals on October 11, 2017.  References to “Claimant” in the procedural 
+history of this Ruling are to Petitioner, as the agency referred to Petitioner as Claimant in the 
+underlying proceedings.  References to “Defendants” in the procedural history of this Ruling are 
+to Respondents, as the agency referred to Respondents as Defendants in the underlying 
+proceedings. 
+ 
+Petitioner sought workers’ compensation benefits from the Respondents and Twin City 
+Fire Insurance Company, the insurance carrier.  Petitioner, Bill Holst, Erik Lewis, and Pete 
+Watson testified at the hearing, and Joint Exhibits JE1-JE5, Claimant’s Exhibits 1-8, and 
+Defendants’ Exhibits A-F were admitted at hearing.  In an Arbitration Decision issued February 
+16, 2018, Deputy Commissioner Pals noted that the following issues had been submitted for 
+resolution: 
+ 
+1. 
+Whether Petitioner sustained an injury on January 5, 2015, which arose out of and 
+in the course of employment? 
+ 
+2. 
+Whether Petitioner’s claim is barred by operation of Iowa Code § 85.23 for failure 
+to provide timely notice of his injury? 
+ 
+3. 
+The nature and extent of permanent disability, if any, Petitioner sustained as a 
+result of the January 5, 2015 work injury? 
+ 
+4. 
+Whether Petitioner is entitled to past medical benefits? 
+ 
+E-FILED  2020 FEB 23 11:28 AM LINN - CLERK OF DISTRICT COURT
+
+2 
+ 
+5. 
+Whether Petitioner is entitled to an independent medical evaluation under Iowa 
+Code § 85.39? 
+ 
+6. 
+Assessment of costs. 
+ 
+ 
+Deputy Commissioner Pals made the following factual findings and conclusions 
+(citations to the agency exhibits are omitted): 
+ 
+Mr. Benning testified that his back began to bother him in August and September of 
+2014.  He noticed the pain was worse with extended forklift operation, bending, twisting, 
+and lifting heavier items.  Mr. Benning sought treatment with Gordon B. Urbi, M.D. on 
+September 23, 2014.  Mr. Benning reported a 6 day history of back pain which was 
+getting worse.  He had pain in his legs when he twists around.  He reported he did a lot of 
+twisting and lifting at work and that he drove a forklift.  The doctor’s assessment was 
+back pain, most likely muscular strain.  He was given muscle relaxers, anti-
+inflammatories, and allowed to return to work on September 25, 2014. 
+ 
+Mr. Benning testified that he mentioned his back pain to his supervisor, Bill Holst, in 
+September of 2014.  At hearing, Mr. Benning said that he told his supervisor he thought 
+his back pain was probably from bouncing around on the forklift.  According to Mr. 
+Benning, Mr. Holst told him something to the effect that the pain would go away or deal 
+with it.  Mr. Benning testified that his pain progressed and became more continuous and 
+sharp and eventually went down his leg. 
+ 
+Mr. Benning went to see his primary care physician, Savita V. Hegde, M.D. on January 5, 
+2015.  By this point, his pain was affecting his activity level and made it hard for him to 
+get out of bed.  Dr. Hegde informed Mr. Benning that he was probably going to require 
+surgery.  He was eventually referred to Kevin Eck, M.D. 
+ 
+Dr. Eck performed a left micro-hemilaminectomy with discectomy at L4-L5 on April 22, 
+2015.  Mr. Benning continued to follow-up with Dr. Eck and recovered well.  Dr. Eck 
+placed Mr. Benning at maximum medical improvement (MMI) as of June 30, 2016. 
+ 
+On October 4, 2016, Mr. Benning was riding a motorcycle when he was involved in a 
+motor vehicle accident.  He was treated at UnityPoint where they noted pain and swelling 
+in his low back. 
+ 
+The first issue to be determined is whether claimant sustained an injury which arose out 
+of and in the course of employment.  There are several physicians in this case who have 
+rendered their opinions regarding causation.  The surgeon, Dr. Eck, stated: 
+ 
+The pain form lumbar spondylosis and the paracentral disc herniation at 
+L4-5 that resulted in left lower extremity radiculopathy necessitating surgery was 
+more likely than not exacerbated by his manual work duties including driving a 
+forklift.  It is possible the herniation necessitating surgery was directly related to 
+an injury he sustained at work. 
+E-FILED  2020 FEB 23 11:28 AM LINN - CLERK OF DISTRICT COURT
+
+3 
+ 
+ 
+Defendants argue Dr. Eck’s opinion should be rejected because they believe he provided 
+a contradictory opinion.  I do not find Defendants’ argument to be persuasive. 
+ 
+At the request of his attorney, Mr. Benning underwent an independent medical 
+examination (IME) with Robin Sassman, M.D. on April 17, 2017.  Dr. Sassman opined 
+that the work activities were a substantial factor in the development of his low back pain, 
+radicular symptoms, his need for surgery, and his ongoing symptoms.  Defendants argue 
+that her opinion must be rejected because it is based on an incomplete history.  However, 
+I do not find this argument to be persuasive.  A review of the entire IME report reveals 
+that she did have and considered a complete history including the prior accidents and the 
+subsequent motorcycle accident. 
+ 
+At the defendants’ request claimant underwent an IME with Chad Abernathey, M.D. on 
+September 8, 2017.  Dr. Abernathey stated that the patient did not have a singular event 
+which would have caused a small disc protrusion.  He opined that the chronic low back 
+pain was related to multiple injuries and degenerative changes of his lumbar spine.  He 
+felt there was no objective evidence to support a specific work accident.  I do not find the 
+opinions of Dr. Abernathey to be persuasive.  His report is not well-reasoned.  
+Furthermore, his report fails to take an exacerbation or aggravation into account. 
+ 
+I find the opinions of Dr. Eck and Dr. Sassman to carry greater weight in this case.  I 
+further find that Mr. Benning has shown by a preponderance of the evidence that he 
+sustained an injury to his back which arose out of and in the course of his employment 
+with the defendant employer. 
+ 
+The next issue to address is whether Mr. Benning gave timely notice of his injury to the 
+defendants. 
+ 
+Claimant contends that he told Bill Holst and others at work, at least in passing, that his 
+back pain was related to bouncing around on the forklift.  Mr. Benning testified that when 
+he told Mr. Holst about the forklift causing pain, Mr. Holst told him to just deal with it.  
+In later testimony, Mr. Benning stated that when he told Mr. Holst about the forklift 
+causing back pain, Mr. Holst said he did not have to complete an injury report because 
+there was no specific date of injury.  Mr. Holst denies that Mr. Benning ever told him that 
+the forklift was causing him pain.  Mr. Holst also testified that if Mr. Benning had said 
+the back pain was related to the job, then he would have sent him to the safety director, 
+Erik Lewis, to have him complete an injury report. 
+ 
+After the January 5, 2015, medical appointment, Mr. Benning met with Peter Watson, the 
+President of Climate Engineers.  Mr. Benning testified that he told Mr. Watson he was 
+going to have back surgery.  According to Mr. Benning, Mr. Watson was not interested in 
+the cause of his back pain.  Mr. Watson decided to lay off Mr. Benning so Mr. Benning 
+could collect unemployment benefits.  Mr. Benning understood that once he was cleared 
+to return to work after the surgery, then the defendant employer would have a position for 
+him.  Mr. Benning testified that it was only he and Mr. Watson at that meeting.  Mr. 
+E-FILED  2020 FEB 23 11:28 AM LINN - CLERK OF DISTRICT COURT
+
+4 
+ 
+Benning admitted that he never directly told Mr. Watson that his back pain was from 
+operating the forklift.  Mr. Benning said that he told Mr. Holst and Mr. Watson, so he 
+figured the chain of communications gave the information to Mr. Watson.  After the 
+January 5, 2015 meeting, the only Climate employees that Mr. Benning spoke with were 
+Pete or an office lady transferring him to talk to Pete. 
+ 
+However, during a later part of his testimony under direct examination, Mr. Benning 
+testified that Mr. Watson asked him if the back pain happened at home and Mr. Benning 
+said no.  Mr. Benning testified that he might have also told Mr. Watson that bouncing 
+around on the forklift caused his back pain.  Mr. Watson admitted that Mr. Benning never 
+told him that his back pain was work-related. 
+ 
+Mr. Benning also testified that he did not complete an injury report for his January 5, 
+2015 back injury.  From prior experience, he knew it was Climate’s policy that when you 
+were hurt at work you were to report the injury to your immediate supervisor and then 
+complete an accident or near-miss accident report.  Mr. Benning had completed accident 
+reports on two prior occasions due to other work-related injuries.  However, Mr. Benning 
+did not complete a report for his back injury because Mr. Holst told him he did not need 
+to complete a report because there was not a specific incident or specific date of an 
+accident.  Mr. Benning testified that after he was laid off he probably told Mr. Holst, Mr. 
+Watson, and Mr. Lewis in one of the messages he sent them, that his back pain was 
+probably from bouncing around on the forklift. 
+ 
+The undersigned notes that there is conflicting evidence and testimony from both sides.  
+Because of the conflicting evidence, the issue of notice is a close call.  However, I find 
+that defendants have demonstrated by a preponderance of the evidence that claimant 
+failed to provide timely notice.  All three of defendants’ witnesses testified that they did 
+not receive notice from the claimant.  Further, Mr. Benning testified that in the fall of 
+2014, he told Mr. Holst and others at work that his pain was related to driving the forklift; 
+however, this testimony conflicts with his own testimony.  On March 3, 2015, Mr. 
+Benning completed a patient questionnaire.  On that form he indicated that his back pain 
+was not a workers’ compensation claim.  When asked about this at the hearing, Mr. 
+Benning said that he checked no “[b]ecause at that time workmen’s (sic) comp was not 
+discussed, it was not offered, it wasn’t even on my radar.  It wasn’t until later on that it 
+became on my radar.”  I find that this action is not consistent with the actions of an 
+employee who had reported a work injury to his employer.  There are simply too many 
+inconsistencies in Mr. Benning’s account of how and when he provided notice to the 
+defendants.  Thus, I find that claimant failed to provide notice of his work injury to the 
+defendants within 90 days of the injury.  As such, claimant’s claim is barred by operation 
+of Iowa Code section 85.23. 
+ 
+Because claimant was not successful in his claim I exercise my discretion and do not 
+assess costs in this matter.  Each party shall bear their own costs. 
+ 
+All other issues are rendered moot. 
+ 
+E-FILED  2020 FEB 23 11:28 AM LINN - CLERK OF DISTRICT COURT
+
+5 
+ 
+See Arbitration Decision, pp. 2-5.   
+ 
+ 
+Deputy Commissioner Pals then cited to the applicable legal authorities, and entered the 
+following additional conclusions: 
+ 
+Based on the above findings of fact, I conclude that claimant did sustain an injury to his 
+back that arose out of and in the course of his employment with the defendant employer. 
+ 
+However, I find that claimant’s claim is barred by operation of Iowa Code section 85.23.  
+The Iowa Workers’ Compensation Act imposes time limits on injured employees both as 
+to when they must notify their employers of injuries and as to when injury claims must be 
+filed.  Iowa Code section 85.23 requires an employee to give notice of the occurrence of 
+an injury to the employer within 90 days of the date of the occurrence, unless the 
+employer has actual knowledge of the occurrence of the injury. 
+ 
+ 
+… 
+ 
+Based on the above findings of fact, I conclude that the defendants have shown by a 
+preponderance of the evidence that the claimant failed to provide timely notice of his 
+work injury. 
+ 
+… 
+ 
+All other issues are rendered moot because claimant’s claim is barred by operation of 
+Iowa Code section 85.23. 
+ 
+See Arbitration Decision, p. 6. 
+ 
+ 
+Petitioner appealed to the Iowa Workers’ Compensation Commissioner, Joseph S. 
+Cortese II, who entered his Appeal Decision on August 30, 2019.  Commissioner Cortese 
+adopted the findings, conclusions, and analysis of Deputy Commissioner Pals.  See Appeal 
+Decision, pp. 1-3. 
+ 
+ 
+The pending Petition for Judicial Review followed.  In support of his brief on appeal, 
+Petitioner has filed a transcript of the proceedings before Deputy Commissioner Pals.  See 
+Exhibit 1.  By way of background facts, and relying on the transcript of proceedings before 
+Deputy Commissioner Pals, Petitioner states that Climate Engineers, Inc. is a company involved 
+in the installation and demolishing of HVAC systems and ductwork and the manufacture of sheet 
+metal.  Petitioner states he was hired on May 5, 2013 as a pre-apprentice, earning $10/hour, and 
+he understood that he eventually would take on the role of apprentice.  Petitioner further states he 
+received regular raises over the course of his employment, and when his employment was 
+terminated, he was nearly thirty years old. 
+ 
+Petitioner claims his work at Climate involves driving and operating a forklift on a daily 
+basis; frequently lifting and moving up to fifty pounds; and occasionally lifting up to seventy 
+pounds.  Petitioner also claims he spent most of his day on a forklift, which lacked suspension, 
+E-FILED  2020 FEB 23 11:28 AM LINN - CLERK OF DISTRICT COURT
+
+6 
+ 
+moving heavy items around the warehouse and across rocky terrain in all types of weather 
+conditions, including rain and snow.  Petitioner asserts that starting in the summer of 2014, he 
+began experiencing back pain arising out of his job duties, and the injury eventually worsened to 
+the point of requiring surgery.  Petitioner further asserts that on January 5, 2015, his pain 
+increased in severity and he sought further medical treatment on that date.  Petitioner states he 
+was informed by his physician that he might need surgery, and he claims he relayed that 
+information to Climate on January 5, 2015.  Petitioner also claims that, upon learning of 
+Petitioner’s need for surgery, Climate immediately terminated Petitioner’s employment. 
+ 
+Petitioner first argues that Commissioner Cortese erred in affirming the arbitration 
+decision that concluded Petitioner did not give timely notice of his injury.  Petitioner claims is it 
+undisputed that from September 18, 2014 through January 5, 2015, Climate had actual 
+knowledge that Petitioner had a back injury, which provided the basis for his termination.  
+Petitioner points to his employment file, which contains a document citing “back troubles” as the 
+reason for termination.  Petitioner contends he reported his back injury to the employer on 
+several occasions, and the knowledge the employer had was sufficient to alert Climate of a 
+potential claim, and that the injury may have been work related.  Petitioner relies on his 
+conversations with Mr. Holst and Mr. Lewis, the meeting he had with Mr. Watson, and his 
+medical records as bases for establishing that the employer had timely notice of Petitioner’s 
+injury. 
+ 
+With respect to Respondents’ statement that Petitioner did not complete a written 
+accident report for the back injury, as he had with other unrelated work injuries, Petitioner 
+asserts that Mr. Holst told him not to complete an accident report because he could not pinpoint 
+the specific incident or date for the injury.  Petitioner argues his testimony on this issue is 
+consistent with the accident report form, which calls for the location, date, and time of the 
+incident, and is consistent with Petitioner describing his injury as progressive and cumulative.  
+Petitioner further argues any inconsistencies in his testimony are irrelevant to the analysis of 
+whether Climate was on notice of the potential for a workers’ compensation claim.  Petitioner 
+claims that Commissioner Cortese’s statement that Deputy Commissioner Pals expressly found 
+Climate representatives to be more credible that Petitioner is incorrect, and neither the 
+Commissioner nor the Deputy Commissioner addressed the inconsistences in the testimony of 
+Climate’s representatives.  Petitioner contends the inconsistences in Respondents’ 
+representatives’ testimony reflect a lack of credibility. 
+ 
+Petitioner asserts that the Court should modify and reverse the agency decision because it 
+was based on an erroneous interpretation of the law and improper decision-making; lacks 
+substantial evidentiary support; is inconsistent with agency rules, practices, and precedent; and is 
+the product of a decision-making process that improperly applied law to fact.  Petitioner further 
+asserts Respondents’ actions violate concepts of fundamental fairness. 
+ 
+Petitioner’s next argument is that the Commissioner erred in failing to award disability 
+benefits.  Petitioner contends that, as a direct result of his work-related injury, Petitioner became 
+unable to carry on the type of work he has performed his whole adult life, or to earn anywhere 
+near the amount he has earned in the past.  Petitioner states he has ongoing back pain and 
+numbness, and significant work restrictions.  Petitioner claims he has attempted other 
+E-FILED  2020 FEB 23 11:28 AM LINN - CLERK OF DISTRICT COURT
+
+7 
+ 
+employment but has struggled to perform his work-related duties, and he can no longer compete 
+for the jobs his experience, training, intelligence, and physical capacities would otherwise permit 
+him to perform.  Petitioner also claims his physical activity in his personal life has been affected 
+by his injury.   
+ 
+Petitioner acknowledges that he is attending college courses, but argues that the course 
+work is necessary because he receives lower pay and is no longer able to perform the only type 
+of employment he has ever had, and he has established evidence of industrial disability.  
+Petitioner asserts it is unclear whether his efforts in education will continue successfully or yield 
+employment, particularly given the physical nature of some jobs.  Petitioner contends he 
+sustained a substantial industrial disability because of his inability to perform physical job duties, 
+combined with his level of education, and an award for body as a whole industrial disability of 
+not less than 50% under § 85.34(2) should be made on that basis and based upon the greater 
+weight of the evidence.  Petitioner also seeks permanent partial disability benefits of at least 
+75%. 
+ 
+Petitioner requests the following relief on judicial review: 
+ 
+1. 
+A finding that Respondents failed to meet their burden of proof in establishing 
+that Petitioner failed to timely report his work-related injury and that he is entitled to 
+disability benefits as a result; 
+ 
+2. 
+Petitioner is entitled to temporary total disability benefits from the date of his 
+injury through at least October 1, 2015; 
+ 
+3. 
+Because of ongoing permanence, Petitioner is entitled to permanent partial 
+disability benefits from the date he reached MMI, on June 30, 2016; and 
+ 
+4. 
+Petitioner is entitled to recovery of the expenses identified in the Parties’ Hearing 
+Report. 
+ 
+ 
+Respondents resist the relief sought by Petitioner on judicial review.  Respondents’ first 
+argument is that the Commissioner did not err in affirming the Arbitration Decision that 
+concluded Petitioner did not give timely notice of his injury.  Respondents contend they were 
+unaware of a work-related, low back injury; Petitioner’s medical records do not support his claim 
+of timely notice; Petitioner failed to file an incident report as per employer policy; and deference 
+should be provided to Deputy Commissioner’s Pals’ determination of credibility.   
+ 
+ 
+Respondents also argue that the Commissioner did not err in failing to award disability 
+benefits.  Respondents contend that an industrial disability analysis was not required as both 
+Deputy Commissioner Pals and Commissioner Cortese found Petitioner failed to provide notice 
+of his injury to his employer.  Respondents argue that if the Court finds otherwise, the industrial 
+disability determination should be remanded to the Commissioner. 
+ 
+E-FILED  2020 FEB 23 11:28 AM LINN - CLERK OF DISTRICT COURT
+
+8 
+ 
+ 
+Respondents contend Petitioner has not suffered any industrial disability, and he is well-
+educated and holds numerous qualifications.  Respondents also contend Petitioner has been 
+released to work with no restrictions. 
+ 
+ 
+Petitioner has not filed a reply to Respondents’ resistance. 
+ 
+CONCLUSIONS OF LAW 
+ 
+Petitioner is entitled to judicial review of this action pursuant to Iowa Code § 17A.19 
+(2019).  “A person or party who has exhausted all adequate administrative remedies and who is 
+aggrieved or adversely affected by any final agency action is entitled to judicial review thereof 
+under this chapter.”  Iowa Code § 17A.19(1) (2019).  “Iowa Code section 17A.19(8)(g) 
+authorizes relief from agency action that is ‘unreasonable, arbitrary or capricious or 
+characterized by an abuse of discretion or a clearly unwarranted exercise of discretion.’”  Dico, 
+Inc. v. Emp. Appeal Bd., 576 N.W.2d 352, 355 (Iowa 1998).  “These terms have established 
+meanings:  ‘An agency’s action is “arbitrary” or “capricious” when it is taken without regard to 
+the law or facts of the case…Agency action is “unreasonable” when it is “clearly against reason 
+and evidence.”’”  Id. (citing Soo Line R.R. v. Iowa Dep’t of Transp., 521 N.W.2d 685, 688-89 
+(Iowa 1994)).  “An abuse of discretion occurs when the agency action ‘rests on grounds or 
+reasons clearly untenable or unreasonable.’”  Id. (citing Schoenfeld v. FDL Foods, Inc., 560 
+N.W.2d 595, 598 (Iowa 1997)).  The Iowa Supreme Court has stated that an “abuse of discretion 
+is synonymous with unreasonableness, and involves a lack of rationality, focusing on whether 
+the agency has made a decision clearly against reason and evidence.”  Id. (citing Schoenfeld, 560 
+N.W.2d at 598).   
+“Section 17A.19[10] provides that a party may successfully challenge an agency decision 
+when the party’s substantial rights have been prejudiced because the agency action ‘is 
+unsupported by substantial evidence’ or ‘is affected by other error of law.’”  Titan Tire Corp. v. 
+Emp. Appeal Bd., 641 N.W.2d 752, 754 (Iowa 2003).  Factual findings are reversed “only if they 
+are unsupported by substantial evidence in the record made before the agency when the record is 
+viewed as a whole.”  Loeb v. Emp. Appeal Bd., 530 N.W.2d 450, 451 (Iowa 1995).  “Evidence is 
+substantial if a reasonable mind would find it adequate to reach the same conclusion.  Id. (citing 
+Dunlavey v. Economy Fire & Casualty Co., 526 N.W.2d 845, 849 (Iowa 1995)).  “The agency’s 
+decision does not lack substantial evidence because inconsistent conclusions may be drawn from 
+the same evidence.”  Id. (citing Dunlavey, 526 N.W.2d at 849). 
+“Substantial evidence is ‘the quantity and quality of evidence that would be deemed 
+sufficient by a neutral, detached, and reasonable person, to establish the fact at issue when the 
+consequences resulting from the establishment of that fact are understood to be serious and of 
+great importance.’”  University of Iowa Hospitals and Clinics v. Waters, 674 N.W.2d 92, 95 
+(Iowa 2004).  “‘While “courts must not simply rubber stamp the agency fact finding without 
+engaging in a fairly intensive review of the record to ensure that the fact finding is itself 
+reasonable ··· evidence is not insubstantial merely because it would have supported contrary 
+inferences.’”  Id.  “‘The substantial evidence rule requires to review the record as a whole to 
+determine whether there is sufficient evidence to support the decision the commission made.’”  
+Stark Const. v. Lauterwasser, No. 13-0609, 2014 WL 1495479, *8 (Iowa Ct. App. 2014) (citing 
+Woodbury Cnty. v. Iowa Civil Rights Comm’n, 335 N.W.2d 161, 164 (Iowa 1983)).   
+E-FILED  2020 FEB 23 11:28 AM LINN - CLERK OF DISTRICT COURT
+
+9 
+ 
+ 
+“[T]he agency is not required to mention each item of evidence in its decision and 
+explain why it found the evidence persuasive or not persuasive.”  Keystone Nursing Care Center 
+v. Craddock, 705 N.W.2d 299, 305 (Iowa 2005).  “While it is true that the commissioner’s 
+decision must be ‘sufficiently detailed to show the path he has taken through conflicting 
+evidence,’…the law does not require the commissioner to discuss each and every fact in the 
+record and explain why or why not he has rejected it.”  Terwilliger v. Snap-On Tools Corp., 529 
+N.W.2d 267, 274 (Iowa 1995).  “Such a requirement would be unnecessary and burdensome.”  
+Id. 
+ 
+ 
+If a “claim of error lies with the agency’s interpretation of the law, the question on review 
+is whether the agency’s interpretation was erroneous, and we may substitute our interpretation 
+for the agency’s.”  Meyer v. IBP, Inc., 710 N.W.2d 213, 219 (Iowa 2006).  “Still, if there is no 
+challenge to the agency’s findings of fact or interpretation of the law, but the claim of error lies 
+with the ultimate conclusion reached, then the challenge is to the agency’s application of the law 
+to the facts, and the question on review is whether the agency abused its discretion by, for 
+example, employing wholly irrational reasoning or ignoring important and relevant evidence.”  
+Id.  “In sum, when an agency decision on appeal involves mixed questions of law and fact, care 
+must be taken to articulate the proper inquiry for review instead of lumping the fact, law, and 
+application questions together within the umbrella of a substantial-evidence issue.”  Id. 
+ 
+ 
+Iowa Code § 85.23 provides: 
+ 
+Unless the employer or the employer's representative shall have actual knowledge of the 
+occurrence of an injury received within ninety days from the date of the occurrence of the 
+injury, or unless the employee or someone on the employee's behalf or a dependent or 
+someone on the dependent's behalf shall give notice thereof to the employer within ninety 
+days from the date of the occurrence of the injury, no compensation shall be allowed. For 
+the purposes of this section, “date of the occurrence of the injury” means the date that the 
+employee knew or should have known that the injury was work-related. 
+ 
+Iowa Code § 85.23 (2019).  “No particular form of notice shall be required….”  Iowa Code § 
+85.24(1) (2019).   
+ 
+ 
+“The workers’ compensation law should be liberally construed to accomplish the object 
+and purpose of the legislation:  to benefit the worker and his dependents.”  Dillinger v. City of 
+Sioux City, 368 N.W.2d 176, 180 (Iowa 1985).  The Iowa Supreme Court has applied the 
+discovery rule to the notice provision of § 85.23.  Id.  “While the discovery rule aids the 
+employee by preventing the limitation period from commencing until the claimant knows of his 
+injury and its probable compensable nature…the notice requirement of section 85.23 protects the 
+employer by insuring he is alerted ‘to the possibility of a claim so that an investigation can be 
+made while the information is fresh.’”  Id. (citing Robinson v. Dept. of Transp., 296 N.W.2d 
+809, 811 (Iowa 1980)).  “[W]here the employer or the employer’s representative has actual 
+knowledge of the occurrence, notice from the employee to the employer is not required.”  
+Johnson v. International Paper Co., 530 N.W.2d 475, 477 (Iowa Ct. App. 1995).  “Actual 
+knowledge must include information that the injury might be work-connected.”  Id.  “It requires 
+more than the fact that the employer was aware of any employee’s illness.”  Id.  “A statement to 
+E-FILED  2020 FEB 23 11:28 AM LINN - CLERK OF DISTRICT COURT
+
+10 
+ 
+an employer that an employee is ill, without more, does not satisfy the actual knowledge 
+requirement of Iowa Code section 85.23.”  Id.  In Johnson, the Court of Appeals held that where 
+the deputy made a finding of fact that the employee failed to give the required statutory notice of 
+a work-connected injury, the Court of Appeals was bound by the finding because it was 
+supported by substantial evidence.  Id.   
+ 
+ 
+The Court concludes it was proper for the agency to deny workers’ compensation 
+benefits to Petitioner, due to his failure to provide notice to the employer of the work-related 
+injury pursuant to § 85.23.  The Court agrees with Deputy Commissioner Pals’ assessment that 
+the notice issue is a close call.  However, there is substantial evidence to support the finding that 
+Petitioner failed to give the required statutory notice of the work-connected injury.  Further, the 
+Court is not persuaded that the agency committed an error of law in so finding, applied wholly 
+irrational reasoning, or ignored important and relevant evidence. 
+ 
+ 
+Mr. Holst, Mr. Lewis, and Mr. Watson (the Court will refer to these individuals 
+collectively as Petitioner’s supervisors) all testified that Petitioner never reported a work-related 
+injury to them, and Petitioner has testified that he did not file an incident report for the alleged 
+low back injury.  Mr. Holst testified that while he had a conversation with Petitioner in 
+September, 2014, he did not remember specifics about the conversation, and recalled that 
+Petitioner told him the back injury was personal and not related to work.  There are also records 
+in Petitioner’s personnel files stating that Petitioner had a personal back injury that was not 
+work-related, and that he was being treated by a chiropractor.  Petitioner also offered testimony 
+that in September, 2014, he was unaware of the cause of his injury.  While at times Petitioner’s 
+supervisors may have confused dates as to when certain conversations with Petitioner occurred, 
+it is clear that the general timeframe for the discussions that the supervisors had with Petitioner 
+was from September 18, 2014 through September 22, 2014.  Thus, the Court does not find any 
+credibility problems with any of the supervisors having testified about a date a conversation took 
+place that later was shown to be off by a day or two. 
+ 
+Further, Petitioner’s own testimony providing conflicting information as to when he 
+allegedly provided notice to the employer, including that he did not provide details about a back-
+related injury, or say anything about the forklift.  Much of Petitioner’s testimony regarding his 
+conversations with his supervisors was that he “probably,” “may have,” or was “pretty sure” that 
+he provided the necessary information to the employer about his injury in order to comply with § 
+85.32.  Petitioner’s medical records also include inconsistent dates pertaining to the injury.  
+Petitioner’s supervisors were specific in their testimony that Petitioner failed to report a work-
+related injury to them, and it was not inappropriate for the agency to rely on the testimony of the 
+supervisors as being more reliable and credible than that offered by Petitioner.  The agency did 
+not commit an error of law in its application of § 85.23, did not apply wholly irrational reasoning 
+on the issue of notice, and did not ignore important and relevant evidence on the issue of the 
+notice allegedly provided by Petitioner. 
+ 
+ 
+With respect to Petitioner’s first argument on judicial review, the Court concludes that 
+the Commissioner did not err in affirming the arbitration decision that concluded Petitioner did 
+not give timely notice of his injury. 
+ 
+E-FILED  2020 FEB 23 11:28 AM LINN - CLERK OF DISTRICT COURT
+
+11 
+ 
+ 
+Petitioner’s second argument is that the Commissioner erred in failing to award disability 
+benefits.  Because the Court has concluded that the Commissioner properly found that Petitioner 
+did not give timely notice of his injury, the Commissioner did not err in failing to award 
+disability benefits.  If the Court were to have found that Petitioner gave timely notice of his 
+injury, the Court would have remanded the case to the agency for further fact-finding and 
+conclusions on the question of disability benefits; the Court would not have engaged in making 
+the initial fact-finding and conclusions on the disability benefits issue.  However, based on the 
+Court’s conclusion that the agency did not err in finding that Petitioner did not give timely notice 
+of his injury, the Court concludes the agency also did not err in failing to award disability 
+benefits. 
+ 
+ 
+The agency’s decision should be affirmed on judicial review, and Petitioner’s request for 
+relief on judicial review should be denied. 
+ 
+RULING 
+ 
+ 
+IT IS THEREFORE ORDERED that Petitioner’s request for relief on judicial review is 
+DENIED.  The agency’s decision is affirmed.  If there are costs to be assessed, they are assessed 
+to Petitioner. 
+ 
+Clerk to notify. 
+E-FILED  2020 FEB 23 11:28 AM LINN - CLERK OF DISTRICT COURT
+
+State of Iowa Courts
+Type:
+OTHER ORDER
+Case Number
+Case Title
+CVCV093906
+LUKE BENNING VS CLIMATE ENGINEERS INC ETAL
+So Ordered
+Electronically signed on 2020-02-23 11:28:33     page 12 of 12
+E-FILED  2020 FEB 23 11:28 AM LINN - CLERK OF DISTRICT COURT

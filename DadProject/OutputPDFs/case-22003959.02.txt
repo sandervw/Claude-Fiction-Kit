@@ -1,0 +1,1119 @@
+Case Number: 22003959.02
+Case Title:  CURETTE, TYBOIS V. AAA AIRPORTER SERVICES INC
+Doc Type:    Decision - Deputy
+Source:      Curette Tybois-22003959.02d.PDF
+========================================================================
+
+ BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+TYBOIS CURETTE, 
+  : 
+ 
+ 
+  : 
+ 
+File No. 22003959.02 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                  
+AAA AIRPORTER SERVICES, 
+  : 
+ 
+ 
+  : 
+ 
+ 
+  :                 ARBITRATION DECISION 
+ 
+Employer, 
+  : 
+ 
+ 
+  :                   
+and 
+ 
+  : 
+ 
+ 
+  : 
+    
+UNITED WISCONSIN INSURANCE CO., : 
+   Head Notes:  1108.20; 1803.1; 2204; 
+ 
+  
+  : 
+ 
+ 
+    3000 
+ 
+Insurance Carrier, 
+  : 
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+ 
+Tybois Curette, claimant, filed a petition in arbitration seeking workers’ 
+compensation benefits from AAA Airporter Services, employer, and United Wisconsin 
+Insurance Co., as defendants.  The hearing was held on March 26, 2025.  Pursuant to 
+an order from the Iowa Workers’ Compensation Commissioner, this case was heard via 
+videoconference using Zoom with all parties and the court reporter appearing remotely.   
+The parties filed a hearing report at the commencement of the arbitration 
+hearing.  On the hearing report, the parties entered into various stipulations.  Those 
+stipulations were accepted and are hereby incorporated into this arbitration decision and 
+no factual or legal issues relative to the parties’ stipulations will be raised or discussed 
+in this decision.  The parties are now bound by their stipulations.  
+On March 25, 2025, claimant’s counsel objected to Defendants’ Exhibit E and 
+moved to exclude it from the record, as well as moved for an order from the Agency 
+declaring that defendants may not assert an unauthorized treatment defense at hearing 
+or assert any other claims or defenses not documented on the previously filed hearing 
+report.  According to the file, defendants originally filed proposed exhibits on March 13, 
+2025, one day after the 14-day deadline.  Defendants then filed proposed amended 
+exhibits on March 25, 2025. The late-filed exhibits contained two new exhibits—1) 
+several pages of correspondence between the parties’ attorneys, and 2) a benefit 
+payment log.  Claimant’s motion only moved to exclude Exhibit E from the hearing 
+ELECTRONICALLY FILED     2025-Sep-05  15:15:13     DIVISION OF WORKERS' COMPENSATION
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 2 
+record.  As rationale for the request to exclude, claimant’s counsel stated that the newly 
+proposed exhibit was untimely, violated the exhibit deadlines established by the 
+Agency, and that is was unduly prejudicial.  
+At the start of the hearing, the parties provided additional argument on claimant’s 
+Motion to Exclude. (Hearing Transcript, pages 11-17).  Claimant’s counsel reiterated the 
+arguments made in his Motion to Exclude. (Id.).  Defendants’ counsel argued that the 
+correspondence contained in Exhibit E was over two years old and had been in 
+claimant’s possession since its creation. (Id. at 13-14).  Given this, defendants argued 
+there was no unfair surprise or undue prejudice to claimant if the correspondence was 
+included in the hearing record. (Id.).  Additionally, defendants indicated that claimant 
+was seeking the payment of medical expenses in this action, so he should have known 
+that defendants’ prior authorization, or lack thereof, would be an issue at hearing. (Id.). 
+Lastly, defendants’ counsel indicated they had no objections to keep the record open for 
+rebuttal evidence from the claimant. (Id.).  In reply, claimant’s counsel clarified that the 
+correspondence was with claimant’s former attorney, and she was not aware of its 
+existence until defendants served the Amended Exhibits. (Id. at 16-17).   
+ 
+The undersigned reserved ruling on the objection until issuance of the decision, 
+but instructed claimant to file any potential rebuttal evidence within the next two weeks 
+in light of defendants’ agreement to keep the record open. (Tr., pp. 17-18).  On April 2, 
+2025, claimant filed Exhibit 7. (See Claimant’s Second Amended Exhibits). Exhibit 7 
+includes a copy of defendants’ Answer to claimant’s Alternate Care Petition, wherein 
+defendants deny liability for claimant’s alleged mental sequela, as well as two pages of 
+emails exchanged between the parties’ attorneys confirming the denial. (Cl Ex. 7, pp. 
+49-52).  Additionally, both parties addressed claimant’s Motion to Exclude in their post-
+hearing briefs. (See Claimant’s Post-Hearing Brief, pp. 16-18; Defendants’ Post-Hearing 
+Brief, pp. 13-14).  In his brief, in addition to his previous arguments, claimant alleged 
+defendants’ late service of Exhibit E demonstrated a pattern of disregard for the 
+Agency’s rules, and admittance of the late exhibit was highly prejudicial because those 
+emails had not been previously disclosed to claimant’s current counsel. (Claimant’s 
+Post-Hearing Brief, p. 17).  Defendants argued that claimant was aware that medical 
+expenses were a disputed issue prior to the exchange of the defendants’ amended 
+exhibits and that claimant failed to demonstrate unfair prejudice from admittance of the 
+emails. (Defendants’ Post-Hearing Brief, pp. 13-14).   
+ 
+After reviewing the arguments made by the parties, I overrule claimant’s Motion 
+to Exclude Exhibit E.  As defendants indicated at hearing, the correspondence they 
+sought to introduce was over two years old and was with claimant’s prior counsel. 
+Additionally, claimant knew ahead of time that he was seeking medical expenses in this 
+action and that there would be evidence submitted on this issue.  Ultimately, however, I 
+find that inclusion of Exhibit E is not unfairly prejudicial to claimant because the defense 
+defendants seek to bolster with this evidence, a lack of authorization defense, is not 
+available to them in this proceeding.  In the alternate care proceeding, defendants filed 
+an answer denying liability for claimant’s mental health condition. (See Claimant’s 
+Exhibit 7).  Under prior Iowa Supreme Court precedent, “[T]he employer has no right to 
+choose the medical care when compensability is contested.”  Bell Bros. Heating and Air 
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 3 
+Conditioning v. Gwinn, 779 N.W.2d 193, 204 (Iowa 2010).  Defendants are precluded 
+from asserting an authorization defense as to any treatment received during their period 
+of denial.  Brewer-Strong v. HNI Corp., 913 N.W.2d 235, 244 (Iowa 2018).  Defendants 
+filed an answer denying liability for claimant’s mental health sequela on January 18, 
+2023. (Cl Ex. 7, pp. 49-50).  They have never amended that answer.  On the hearing 
+report, defendants again disputed liability for claimant’s alleged mental health condition. 
+(Hearing Report).  Given this, an authorization defense is not available to them.  
+Claimant’s Motion to Exclude is denied.  Exhibit E is not unduly prejudicial to claimant 
+because defendants are not entitled to utilize an authorization defense in this 
+proceeding.  
+Tybois Curette was the only witness to testify live at the trial.  The admitted 
+evidentiary record also consists of Joint Exhibits 1-4; Claimant’s Second Amended 
+Exhibits 1-7; and Defendants’ Amended Exhibits A-F.  On April 23, 2025, the parties 
+submitted post-hearing briefs, at which time the case was fully submitted to the 
+undersigned.  
+ISSUES 
+ 
+The parties identified the following disputed issues on the hearing report: 
+1. The nature and extent of claimant’s entitlement to permanent disability 
+benefits.   
+2. The commencement date for permanent partial disability benefits, if any are 
+awarded. 
+3. Whether claimant is entitled to additional healing period benefits.   
+4. Claimant’s weekly rate. 
+ 
+5. Whether claimant is entitled to payment of the medical expenses in Claimant’s 
+Exhibit 4. 
+6. Whether claimant is entitled to alternate medical care. 
+7. Whether claimant is entitled to reimbursement for an independent medical 
+examination pursuant to Iowa Code section 85.39. 
+8. Assessment of costs.  
+FINDINGS OF FACT 
+The undersigned, having considered all the evidence and testimony in the 
+record, finds as follows: 
+At the time of the hearing, Tybois Curette (hereinafter “Curette”) was 38 years 
+old. (Hearing Transcript, p. 21).  Curette attended North Central High School in Lebeau, 
+Louisiana, graduating in 2006. (Id. at 22).  After high school, Curette attended the 
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 4 
+Universal Technical Institute (UTI) for one semester. (Id. at 23).  He studied gas 
+automotive technology. (Id.).  He did not obtain a degree or certificate from UTI. (Id.).   
+After leaving UTI, Curette worked at Force Corporation doing railroad construction from 
+2010-2012.  (Claimant’s Exhibit 2, p. 26). Curette then took a job with Pointer Smith 
+Corporation. (Id.).  At Pointer, he worked as a foreman and equipment operator. (Id.).  
+Both Force and Pointer Smith specialize in rehabilitating railroad track, changing out 
+cross ties. (Ex. A, depo. pp. 9-10).  He worked for Pointer Smith from 2012 through 
+2018. (Cl Ex. 2, p. 26).   
+Curette started working for AAA Airporter Services (hereinafter “AAA”), in 2018.1 
+(Cl Ex. 2, p. 26). AAA is a temporary staffing agency. (Tr., p. 26).  At the time of his 
+injury, AAA had placed Curette in a chipping and grinding position at a John Deere 
+Plant in Waterloo, Iowa. (Id. at 27).  At the hearing, Curette testified that this position 
+required him to take metal tractor parts out of molds and then use air tools, such as 
+chipping hammers, to remove excess metal from the part. (Id. at 28).  After Curette was 
+finished, the part was sandblasted and sent to be painted. (Id.).  Curette testified that 
+the parts came in containers. (Id. at 29).  They could weigh up to 1,000 pounds. (Id.).  
+Before Curette could perform his work, the parts had to be lifted up out of the containers 
+with a chain harness and set on the floor. (Id.).  Curette testified he made $20.00 an 
+hour and worked approximately 60 hours per week. (Id.).   
+Curette was injured on February 21, 2022. (See Hearing Report).  He testified 
+that he was lifting a part out of the container with the chain harness, when another part 
+in the box fell and struck the part loaded in the harness. (Tr., p. 30).  This caused the 
+part to rock and fall from the harness. (Id.).  Curette stated the part looked like it was 
+going to fall on top of him, so he reached out to push it away. (Id.).  He testified the part 
+was a tractor axel housing and was very heaving, weighing more than 1,000 pounds. 
+(Id.).  The part caught Curette’s fingers as it fell back into the container, severing the 
+tips of his left pinky and ring fingers. (Id. at 32).  Mr. Curette is left-hand dominant. (Id. at 
+21; Cl Ex. 1, p. 5).   
+According to the medical records, after the accident Curette was taken to the 
+emergency room at Allen Hospital. (Joint Exhibit 1, p. 1).  He was treated by attending 
+physician Paul McCaughey, D.O. (Id.).  Dr. McCaughey’s treatment note states Curette 
+was injured when a cast iron engine block weighing approximately 200 pounds fell on 
+his fingers at work. (Id.).  Dr. McCaughey diagnosed fifth finger distal phalanx 
+amputation and almost complete fourth finger distal phalanx amputation. (Id. at 4).  Dr. 
+McCaughey referred Curette to Todd Johnson, M.D., in orthopedics. (Id. at 5).  Dr. 
+Johnson performed a revision amputation of his left 4th and 5th fingers with skin graft 
+that day. (Id. at 8-10).  Curette was taken off work after the surgery. (Tr., p. 35).   
+Curette received follow-up care from Dr. Johnson. (See JE 2, pp. 11-22). He saw 
+Dr. Johnson on March 3, 2022; March 31, 2022; and April 28, 2024. (Id.).   Dr. Johnson 
+prescribed occupational therapy, work restrictions, and pain medication. (Id. at 12-13; 
+JE 3, pp. 24-47).  On March 31, 2022, Curette was released to return to work with 
+restrictions of no use of his left 4th and 5th fingers. (JE 2, p.18).  On April 28, 2022, Dr. 
+Johnson placed him at maximum medical improvement (MMI) for the February 21, 2022 
+                                                                 
+1 At the hearing, Curette testified that AAA is also known as Madi Corporation. (Tr., p. 26).   
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 5 
+work injury. (Id. at 13).  Dr. Johnson’s treatment note indicates that Curette’s finger 
+movement was improving but he was still experiencing soreness. (Id. at 12).  Dr. 
+Johnson told Curette that he might have soreness and achiness for up to a year after 
+the injury. (Id. at 13).  Curette was discharged from occupational therapy on May 19, 
+2022. (JE 3, p. 46).  The discharge papers mention that he was still experiencing 
+stiffness in his fingers and sleep issues. (Id.).  
+On June 12, 2022, Dr. Johnson issued a report assigning Curette 9 percent 
+permanent impairment of his left hand as a result of the work injury. (JE 2, p. 23).  This 
+was broken down as 4 percent of the hand for the amputation of his 5th finger through 
+the DIP joint, under Figure 16-5 of the AMA Guides to the Evaluation of Permanent 
+Impairment, Fifth Edition, and 5 percent of the hand for the amputation of his 4th finger 
+through the DIP joint, again under Figure 16-5 of the AMA Guides. (Id.).  Dr. Johnson 
+indicated Curette could continue to work full duty and did not need any permanent work 
+restrictions for his work injury. (Id.).  
+In addition to his finger amputations, Curette is alleging a mental health sequela 
+as a result of the February 21, 2022 work injury. (See Petition).  According to the 
+hearing evidence, on December 14, 2022, Curette’s counsel sent defendants an email 
+asking them to approve mental health treatment, that he alleged was necessary 
+because of the work injury. (Cl Ex. 7, pp. 51-52).  The email indicated that if the request 
+was not granted by December 21, 2022, Curette would file an application for alternate 
+medical care. (Id.). Curette filed an application for alternate medical care on January 4, 
+2023, requesting an evaluation and treatment for an alleged mental condition. (See 
+Petition for Alternate Care, File No. 22003959.01). On January 18, 2023, defendants’ 
+counsel responded, indicating that Curette was welcome to return to Dr. Johnson and 
+request a referral to a mental health specialist, but defendants did not have sufficient 
+information to approve treatment for a causally related mental injury.2 (Cl Ex. 7, p. 51).  
+That same day, defendants filed an answer denying liability for claimant’s alleged 
+mental sequela.  (Id. at 49-50).   
+According to the medical records, Curette presented to the Cottonport Family 
+Clinic on February 27, 2023. (JE 4, p. 65).  He was first evaluated by Shannon Rozas, 
+FNP-C. (Id.).  He complained of anxiety and depression symptoms, as well as 
+nightmares and flashbacks of the injury. (Id. at 66).  Ms. Rozas diagnosed panic 
+                                                                 
+2Defendants’ exhibits contain further correspondence between the parties. (See Ex. E, pp. 53-56).  
+According to the correspondence, on January 18, 2023, defendants’ counsel sent an email indicating they had 
+insufficient information to accept claimant’s alleged mental claim at that time but offered to send the claimant back 
+to Dr. Johnson and see if Dr. Johnson thought he needed a referral to a mental health profes sional. (Id. at 53).  
+Claimant’s then counsel, responded by stating “OK well if you are denying liability for the mental health condition, 
+then he is free to see any provider he wants without the potential for an authorization defense, so that won’t be 
+necessary.” (Id. at 54).  Defendants’ counsel wrote back indicating he hadn’t even been diagnosed with a mental 
+condition. (Id.).  On March 30, 2023, defendants’ counsel sent a new email indicating that Curette had requested 
+treatment from Nurse Rozas on February 27, 2023, but she refused because she does not provide care in litigated 
+cases. (Id. at 55).  Defendants’ counsel then asked if claimant was seeking unauthorized care anywhere else.  (Id.).  
+Claimant’s counsel replied that he was seeking mental health treatment, which defendants had denied, but did not 
+answer defendants’ question about the provider or location of that treatment. (Id.).  Defendants’ counsel wrote back 
+arguing defendants had not denied liability, they had offered a return visit to Dr. Johnson to see if he thought 
+Curette’s mental complaints were causally related to the injury date. (Id. at 56).   
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 6 
+disorder, nightmares, and mixed anxiety and depressive disorder. (Id. at 66-67).  She 
+prescribed Prazosin and Paroxetine and referred Curette to another office for treatment 
+because her office does not handle litigated claims. (Id. at 67).  That same day, 
+February 27, 2023, Curette presented to Angela Huval, LCSW, at the Cottonport Psych 
+Clinic. (Id. at 61).  Ms. Huval diagnosed mixed anxiety and depressive disorder.  (Id. at 
+62).  She recommended weekly psychotherapy and medication. (Id.).   
+The next treatment record is from the Palmetto Family Clinic.  (JE 4, p. 57).  It is 
+dated April 14, 2023. (Id.).  On that date, Curette sought treatment with Shannon Rozas, 
+FNP-C. (Id.).  According to the treatment note, Curette stopped taking both the Prazosin 
+and Paroxetine because they made him feel sluggish. (Id. at 58).  He, however, 
+reported that he was still having some issues with anxiety, depression and nightmares, 
+but indicated they did not interfere with his activities of daily living. (Id.).  The treatment 
+note stated he was having trouble falling asleep and staying asleep at night. (Id.).  He 
+reported getting approximately four hours of sleep per night, but did not want to try any 
+new medications. (Id. at 58-59).  Ms. Rozas recommended counseling with Angela 
+Huval, LCSW. (Id. at 58-59).   
+Curette saw Ms. Huval on April 25, 2023. (Id. at 54).  He told her that the prior 
+medication made him feel weird and made it hard to wake up for work. (Id. at 55).  He 
+stated that he was using THC daily and it had increased his appetite and improved his 
+mood overall. (Id.).  Curette requested a medical marijuana card. (Id.).  Huval 
+recommended he try Buspar, an anxiety medication, as needed. (Id.).  The treatment 
+note indicates Curette was “working daily and enjoys the wor[k].” (Id. at 55).  The last 
+treatment note in the hearing record is also dated April 25, 2023. (JE 4, p. 50).  It is from 
+Shannon Rozas, FNP-C. (Id.).  The note indicates that Ms. Rozas changed Curette’s 
+diagnosis to anxiety disorder and prescribed buspirone as needed. (Id. at 51). Ms. 
+Rozas indicated he was going to pursue a medical marijuana card on his own. (Id.).3 4  
+At his attorney’s request, Curette attended an independent medical exam (IME) 
+with Kunal K. Patra, M.D., on July 3, 2024. (Cl Ex. 1, p. 1).  According to Dr. Patra’s 
+report, Curette told him that whenever he hears a loud noise at work, it reminds him of 
+his injury, and then his heart starts to race and he becomes jumpy. (Id. at 5).  He stated 
+that he preferred not to think about his injury.  (Id.).  Curette also stated that his 
+therapist thought he had PTSD. (Id.).  Curette said his left hand makes him feel 
+disfigured, self-conscious and embarrassed. (Id.).  He indicated he tries to keep his left 
+hand in his pocket. (Id.).  Curette stated he was not taking any prescription medication 
+for his mental complaints because of the side-effects, but did use medicinal marijuana. 
+(Id. at 5-6).  He thought therapy with Ms. Huval helped with his symptoms, but found it 
+difficult to attend his appointments because of his work schedule. (Id.).  Curette also 
+described having difficulty with daily activities such as holding dishes, driving his car, 
+using his cell phone, writing, laundry, cleaning, cooking, mowing the lawn, using 
+equipment at work, and playing sports. (Id. at 6).  Curette indicated that his primary care 
+provider thought he was starting to get an overuse injury to his right elbow because of 
+                                                                 
+3 The treatment note indicates Curette was scheduled to follow-up with Angela Huval, LCSW, on May 9, 
+2023. (JE 4, p. 52).  There, however, is no treatment note from this visit in the hearing record. (Id.).   
+4 During his deposition Curette testified that he was able to get a prescription for medical marijuana from 
+Dr. McCulloch. (Ex. B, p. 10).   
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 7 
+increased demands. (Id.).  Curette told Dr. Patra that he was still experiencing 
+nightmares five to six times a month. (Id. at 7-8).  He also described incidents of 
+hypervigilance, frustration, and depression. (Id. at 8).   
+Dr. Patra administered a health questionnaire, the generalized anxiety disorder 
+item scale, and post-traumatic stress disorder (PTSD) checklist for DSM-5. (Cl Ex. 1, p. 
+10).  Dr. Patra diagnosed Curette with chronic PTSD, which he causally related to the 
+February 21, 2022 work injury. (Id. at 14-17).  Dr. Patra placed Curette at MMI for this 
+mental health condition on July 3, 2024. (Id. at 19).  He opined that Curette would 
+continue to experience PTSD symptoms despite undergoing counseling, medication 
+trials, and use of medical marijuana, but indicated that Curette was successfully 
+managing his symptoms with occasional counseling and medical marijuana. (Id.).   Dr. 
+Patra opined that Curette had suffered permanent impairment because of his mental 
+condition. (Id.).  Dr. Patra assigned him 30 percent whole person impairment based 
+upon his espoused difficulty with household chores, driving, recreational activities, work 
+duties, as well as issues with social isolation. (Id. at 20).  As support for this rating, Dr. 
+Patra cited to the AMA Guides to the Evaluation of Permanent Impairment, Second 
+Edition, because the AMA Guides, Fifth Edition, does not provide numerical 
+impairments. (Id.).  Dr. Patra thought it was unlikely that Curette could return to factory 
+work like he did at John Deere. (Id.).  Dr. Patra indicated that Curette will likely continue 
+struggling with adapting to work environments, as well as have issues with sustained 
+concentration and persistence, social interactions, and work-related stressors. (Id. at 
+21).   
+On January 28, 2025, Curette attended a second IME with Terry A. Davis, M.D., 
+at defendants’ request via Zoom. (Ex. B).    Prior to issuing his IME, Dr. Davis reviewed 
+Curette’s medical records, his deposition transcript, as well as interviewed him and sent 
+him to Rosanna Jones-Thurman, Ph.D, for psychological testing, including the MMPI-3 
+and the MCMI-IV. (Id. at 2, 14, 20). Dr. Jones-Thurman found Curette’s responses 
+inconsistent and suggestive of malingering and somatic symptom disorder, as well as 
+possibly generalized anxiety, depression and PTSD. (Id. at 20).   
+Dr. Davis’ IME report indicates that Curette had several additional visits with Ms. 
+Rozas and Ms. Huval that were not submitted into the hearing record. (See Ex B, p. 9).  
+He saw Ms. Rozas for gastritis and abdominal pain on September 29, 2023 and 
+November 2, 2023. (Id.).  He saw her again on February 5, 2024, and April 18, 2024. 
+(Id.).  A sleep study was ordered on the first visit. (Id.).  After the second appointment, 
+Curette was diagnosed with obstructive sleep apnea and given a CPAP machine. (Id.).  
+His annual physical exam took place on May 23, 2024, with Ms. Rozas. (Id.).  Curette 
+also saw Ms. Huval on May 23, 2024. (Id.).  At that appointment, she diagnosed him 
+with acute reaction to stress, and ruled out PTSD. (Id.).  She recommended 
+psychotherapy once a week for the next 4-6 weeks. (Id.).  Curette returned to Ms. 
+Rozas on December 11, 2024. (Id. at 10).  At that time, he reported difficulty with 
+GERD, anxiety about his grades and trouble focusing in school. (Id.).  Curette was 
+prescribed Wellbutrin and referred for an evaluation for a possible learning disorder. 
+(Id.).   
+Curette told Dr. Davis that he was sleeping okay and was getting 5-6 hours of 
+sleep per night. (Ex. B, p. 5). He also stated that he stopped using THC because of 
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 8 
+work. (Id.).  He denied having issues concentrating or with his energy levels. (Id.). He, 
+however, indicated that his mood was down and he felt bad because he had difficulty 
+performing activities at work and school. (Id.).  Curette thought he was significantly 
+depressed and described crying because of his hand pain. (Id.).   Dr. Davis diagnosed 
+resolved adjustment disorder with mixed anxiety and depression and malingering. (Id. at 
+21).  Dr. Davis stated that adjustment disorder is a temporary maladaptive reaction to 
+an identifiable stressor. (Id. at 22).  He did not think that Curette qualified for a diagnosis 
+of PTSD because he questioned whether the work incident was traumatic enough to 
+qualify under the criteria. (Id. at 24).  Dr. Davis placed Curette at MMI for his adjustment 
+disorder on April 25, 2023. (Id.).  He did not think Curette had any permanent 
+impairment from his mental condition, nor did he believe he required any permanent 
+work restrictions for his mental condition. (Id. at 25).  He also did not recommend any 
+future treatment for his diagnosed mental condition. (Id.).   
+The record contains several different opinions addressing Curette’s alleged 
+mental injury.  There are opinions from Shannon Rozas, FNP-C, Angela Huval, LCSW, 
+Kunal K. Patra, M.D., Terry A. Davis, M.D., and Rosanna Jones-Thurman, Ph.D.  Of 
+these, I find Curette's treaters, Shannon Rozas, FNP-C, and Angela Huval, LCSW, the 
+most credible and the most persuasive.  The opinions of Dr. Patra and Dr. Davis are 
+polar opposites.  Dr. Patra opined that Curette has causally related PTSD and suffered 
+a 30 percent whole person impairment due to ongoing difficulties with household 
+chores, driving, recreational activities, work duties, and socializing. (Cl Ex. 1, p. 20). He 
+recommended a return to mental health counseling and medication management or 
+non-medication biological treatment. (Id.).  In contrast, Dr. Davis diagnosed resolved 
+adjustment disorder with mixed anxiety and depressed mood, and malingering. (Ex. B, 
+p. 21).  He did not think that Curette qualified for a diagnosis of PTSD because he 
+questioned whether the work incident was traumatic enough to qualify under the criteria. 
+(Id. at 24).  Dr. Davis did not believe Curette had any permanent impairment from his 
+mental condition, nor did he believe Curette required any permanent work restrictions 
+for his mental health. (Id. at 25).  He also did not recommend any future treatment. (Id.).  
+Based upon Curette’s treatment records, however, I think his mental condition and its 
+affects lies somewhere in between these two extremes.   
+In February 2023, Curette sought treatment for anxiety, nightmares and 
+flashbacks. (JE 4, pp. 65-66).  At that time, he was prescribed anxiety medication and 
+psychotherapy. (Id. at 61-67).  Curette has continued to seek intermittent treatment for 
+anxiety issues since that time.  (See id. at 51-67; Ex. B, pp. 9-10).  He has received 
+psychotherapy from Ms. Huval, and been prescribed a number of different medications 
+by Ms. Rozas.  (Id.).  While his adherence to the recommended treatment plans was 
+less than stellar, his symptoms are well documented. To address these symptoms, he 
+sought out medical marijuana, with a self-proclaimed benefit. (Id.).  Curette’s last 
+recorded appointment with Ms. Huval was on May 23, 2024. (Ex. B, p. 9).  At that 
+appointment, Huval diagnosed an acute reaction to stress; she ruled out PTSD. (Id.). 
+She recommended psychotherapy once a week for another 4-6 weeks. (Id.). Curette’s 
+last documented appointment with Ms. Rozas was on December 11, 2024. (Id. at 10).  
+During that appointment, he espoused anxiety and was prescribed Wellbutrin. (Id.).  
+These records show that Curette did suffer a mental condition as a result of the work 
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 9 
+injury on February 21, 2022.  While that condition might not be PTSD, it exists and has 
+affected Curette’s functionality.5 
+ 
+After Curette was released by Dr. Johnson, he obtained a job with a door 
+company in Mason City, Iowa, picking parts off the assembly line. (Tr., pp. 56-57).  He 
+did that job for three months before he decided to move back to Louisiana. (Id. at 57).  
+In Louisiana, Curette took a job as a foreman/operator with Pointer Smith Construction. 
+(Id.).  Pointer Smith is a company that builds and maintains railroad tracks. (Id.).  He 
+made $23.40 an hour and worked full time with optional overtime. (Ex. A, depo p. 10). In 
+October 2024, Curette quit his job at Pointer Smith because they refused to give him a 
+raise. (Tr., p. 59).   Shortly after that, he got a job with Coastal Bridge Construction as a 
+laborer building bridges. (Id. at 59-60).   Curette worked full time and earned $17 an 
+hour with an $80 a day per diem, (Id. at 61).  He worked there until December 2024, 
+when he was eligible to attend school. (Id. at 59, 61).   
+Curette testified that construction jobs hurt his left hand—causing him to have 
+more nerve pain, swelling, locking, and shaking. (Id. at 44-45; 59-60).  He also stated 
+that he struggled will loss of grip strength and range of motion in his hand and had to 
+learn to write with his right hand. (Id.).  Curette estimated that he could only lift and hold 
+5 pounds with his left hand. (Id. at 45).  Curette also stated that the noise of construction 
+sites increased his mental health symptoms. (Id. at 58-60).  Loud booms and/or falling 
+metal sounds cause him anxiety and panic attacks. (Id. at 48).  He testified that he 
+continues to experience monthly nightmares and has trouble sleeping. (Id. at 48-49).   
+In January 2025, Curette enrolled at Southern Louisiana Community College to 
+obtain a certification as a heavy equipment operator. (Tr., p. 23).  He graduated from 
+that program on March 13, 2025. (Id.).  At the time of the hearing, he was looking for a 
+new job as a heavy equipment operator. (Id. at 62).  Curette testified that he expects to 
+make around $25 or more an hour as a heavy equipment operator. (Id.).   
+The parties have a rate disagreement.  They agree Curette was single and 
+earning $1,098.57 per week at the time of the injury but disagree on the number of 
+exemptions he is entitled to claim. (Hearing Report).  On the hearing report, Curette 
+claims entitlement to four exemptions. (Id.).  Defendants, however, contend he is only 
+entitled to one exemption. (Id.).  The crux of the parties’ dispute is whether Curette is 
+entitled to claim his three children as dependents.  Curette did not submit any tax 
+returns into the hearing record.  He was asked about dependents during both his 
+deposition and during the hearing. (Ex. A, depo p. 24; Tr., pp. 65-66).  His testimony is 
+confusing and inconsistent. During his deposition, Curette stated that he does not have 
+custody of his children; all three live with their mothers, and he only pays child support 
+for his oldest child. (Ex. A, depo. pp. 24-25).  However, he thought he might have 
+claimed two of them as dependents in 2022. (Id. at 24).  In contrast, during the hearing, 
+Curette made three different and contradictory statements about his dependents for 
+                                                                 
+5 In his report, Dr. Davis asserts that Curette does not qualify for a diagnosis of PTSD because the work 
+incident on February 21, 2022 was not traumatic enough. (See Ex. B, p. 24).  The undersigned does not find this 
+rationale persuasive.  While it is questionable whether Curette meets all seven of the criteria for PTSD set forth in 
+the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5), the undersigned does not question 
+the traumatic nature of his injury.  (See, e.g., Cl Ex. 1, pp. 16-17).   
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 10 
+taxes. (Tr., p. 65).  First, he testified that he could not remember if he claimed any of 
+them as dependents in 2022. (Id.).  Then, he testified that he claimed one of his children 
+as a dependent on his taxes, but did not remember which one. (Id.).  Still later, he 
+stated that the child’s mother claimed her on her taxes. (Id. at 66).  Additionally, in his 
+post-hearing brief, Curette points to his 2021 employee withholding certificate as proof 
+that he is entitled to claim all three of his children as exemptions.  (See Claimant’s Post-
+Hearing Brief, p. 6).  The undersigned, however, notes that Curette claimed 6 
+exemptions on this certificate.  (See Cl Ex. 3, p. 31).  Given this confusion and the lack 
+of objective evidence in the record, I find Curette failed to prove he was entitled to claim 
+his three children as dependents in 2022.  He is entitled to one exemption for the 
+February 21, 2022 date of injury; his weekly rate is $674.92.   
+Curette alleges entitlement to additional healing period benefits due to an 
+underpayment. (See Hearing Report).  According to defendants’ exhibits, Curette was 
+paid $6,757.20 in healing period benefits from February 22, 2022, through May 2, 2022. 
+(Ex. F, p. 57).  Curette agrees with the payment dates but claims the benefits should 
+have been paid at a higher rate.  Under Iowa law, Curette’s weekly rate for the February 
+21, 2022 date of injury is $674.92.  Defendants did not underpay his healing period 
+benefits.  
+CONCLUSIONS OF LAW 
+The party who would suffer loss if an issue were not established ordinarily has 
+the burden of proving that issue by a preponderance of the evidence.  Iowa R. App. P. 
+6.904(3)(e). 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the alleged injury occurred and that it both arose out of and in the course of the 
+employment.  Quaker Oats Co. v. Ciha, 552 N.W.2d 143, 150 (Iowa 1996); Miedema v. 
+Dial Corp., 551 N.W.2d 309, 311 (Iowa 1996).  The words “arising out of” refer to the 
+cause or source of the injury.  The words “in the course of” refer to the time, place, and 
+circumstances of the injury.  2800 Corp. v. Fernandez, 528 N.W.2d 124, 128 (Iowa 
+1995).  An injury arises out of employment when a causal relationship exists between 
+the injury and the employment.  Miedema, 551 N.W.2d at 311.  The injury must be a 
+rational consequence of a hazard connected with the employment and not merely 
+incidental to the employment.  Koehler Electric v. Wills, 608 N.W.2d 1, 3 (Iowa 2000); 
+Miedema, 551 N.W.2d at 311.  An injury occurs “in the course of” employment when it 
+happens within a period of employment at a place where the employee reasonably may 
+be when performing employment duties and while the employee is fulfilling those duties 
+or doing an activity incidental to them.  Ciha, 552 N.W.2d at 150. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148, 153 
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 11 
+(Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154, 156 (Iowa Ct. App. 
+1997); Sanchez v. Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  Expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646, 652 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410, 420 
+(Iowa 2001); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845, 853 (Iowa 
+1995).  Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 421 (Iowa 1994).  Unrebutted 
+expert medical testimony cannot be summarily rejected.  Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910, 911-92 (Iowa Ct. App. 1994). 
+When an expert's opinion is based upon an incomplete or incorrect history, it is 
+not necessarily binding on the commissioner or the court. It is then to be weighed, 
+together with other facts and circumstances, the ultimate conclusion being for the finder 
+of the fact.  Musselman v. Central Telephone Company, 261 Iowa 352, 360, 154 
+N.W.2d 128, 133 (1967); Bodish v. Fischer, Inc., 257 Iowa 516, 522, 133 N.W.2d 867, 
+870 (1965).  The commissioner as trier of fact has the duty to determine the credibility of 
+the witnesses and to weigh the evidence, together with the other disclosed facts and 
+circumstances, and then to accept or reject the opinion.  Dunlavey, 526 N.W.2d at 853. 
+Curette is alleging a work-related injury to his left hand on February 21, 2022, 
+and a mental health sequela. (See Petition).  Defendants admit that he sustained a 
+work-related injury to his left hand and have paid Dr. Johnson’s impairment rating.6 (See 
+Ex. F, p. 57).  They, however, dispute whether Curette sustained a mental health 
+sequela. (See Defendants’ Post-Hearing Brief, pp. 6-7).   
+“[W]here an accident occurs to an employee in the usual course of his 
+employment, the employer is liable for all consequences that naturally and proximately 
+flow from the accident.” Oldham v. Scofield & Welch, 222 Iowa 764, 266 N.W. 480, 482 
+(1936).  For example, an employer may be liable for a sequela of an original work injury 
+if the employee sustained a compensable injury and later sustained further disability 
+that is a proximate result of the original injury. Mallory v. Mercy Medical Center, File No. 
+5029834 (App., February 15, 2012).  
+A sequela can be an after-effect or secondary effect of an injury. Lewis v. Dee 
+Zee Manufacturing, File No. 797154 (Arb., September 11, 1989). One form of sequela is 
+an adverse effect from medical treatment for the original injury. Where treatment 
+rendered with respect to a compensable injury itself causes further injury, the 
+subsequent injury is also compensable. Young v. United Fire & Casualty Co., 256 Iowa 
+813, 817, 129 N.W.2d 75, 77 (1964). For example, the death of a claimant who died on 
+                                                                 
+6 This is the only proposed rating for Curette’s left hand in the hearing record.  
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 12 
+the operating table during surgery for a work injury may be compensable, since the 
+injury caused the need for surgery. Breeden v. Firestone Tire, File No. 966020 (Arb., 
+February 27, 1992). As another example, a claimant who fell as a result of dizziness 
+from medication he was taking to treat a work injury was compensated for both the 
+original injury and the resulting fall as a sequela of the injury. Hamilton v. Combined Ins. 
+of America, File Nos. 854465, 877068 (Arb., February 21, 1991). 
+ 
+A sequela can also take the form of a secondary effect on the claimant's body 
+stemming from the original injury. For example, where a leg injury causing shortening of 
+the leg in turn alters the claimant's gait, causing mechanical back pain, the back 
+condition can be found to be a sequela of the leg injury. Fridlington v. 3M, File No. 
+788758 (Arb., November 15, 1991). A sequela can also take the form of a later injury 
+that is caused by the original injury. For example, where a leg injury leads to the 
+claimant's knee giving out in a grocery store, the resulting fall is compensable as a 
+sequela of the leg injury. Taylor v. Oscar Mayer & Co., Ill Iowa Ind. Comm. Rep. 257, 
+258 (1982). 
+ 
+Defendants have stipulated that Curette suffered a work-related injury to his left 
+hand on February 21, 2022, but dispute whether he sustained a compensable sequela 
+to his mental health as a result of that injury. (See Hearing Report; Defendants’ Post-
+Hearing Brief, pp. 6-8).  Above, I found the opinions of Curette’s treaters, Shannon 
+Rozas, FNP-C, and Angela Huval, LCSW, persuasive and adopted them.  According to 
+their treatment records, Curette has sought intermittent treatment for anxiety, 
+flashbacks, and nightmares since February 2023.7  At the time of the hearing, more 
+than two years after the injury date, he testified that he was still experiencing 
+nightmares and panic attacks at work when there are loud unexpected noises. (Tr., pp. 
+48-51). In their Post-Hearing Brief, defendants acknowledge that Curette needed to 
+seek mental health treatment after his traumatic work injury, but argue that he has not 
+established a permanent mental impairment as a result of the work injury. (Defendants’ 
+Post-Hearing Brief, pp. 6-9).  As justification for this assertion, defendants point to Dr. 
+Davis’ expert report. (Id.).  Dr. Davis’ findings, however, do not support this argument.  
+ 
+According to his report, Dr. Davis diagnosed causally related resolved 
+adjustment disorder with mixed anxiety, depression and malingering. (Ex. B, p. 21).  Dr. 
+Davis placed Curette at MMI for his related adjustment disorder on April 25, 2023. (Id. at 
+24). According to the medical records, on that day, Curette saw Ms. Huval and Ms. 
+Rozas for anxiety. (JE 4, pp. 50-55).    Ms. Rozas diagnosed him with an anxiety 
+disorder and prescribed buspirone. (Id. at 51).  Thus, the medical records support Dr. 
+Davis’ causally related anxiety diagnosis, but they do not support his assertion that the 
+disorder was resolved as of April 25, 2023.  According to Dr. Davis’ own report, Curette 
+continued to seek treatment for anxiety through at least December 11, 2024, and still 
+espoused anxiety symptoms at the hearing in March 2025.  Curette’s treatment records 
+and Dr. Davis’ report are substantial evidence that Curette has anxiety as a result of the 
+work injury on February 21, 2022.  In their Post-Hearing Brief, defendants appear to 
+acknowledge this, but argue Curette still has not met his burden to prove permanent 
+impairment from the mental health condition. (Defendants’ Post-Hearing Brief, pp. 8-9). 
+                                                                 
+7 He, however, first requested mental health treatment back in December 2022. (See Cl Ex. 7, pp. 51-52).   
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 13 
+They assert Curette’s mental permanency claim is solely based upon Dr. Patra’s report, 
+which they label fatally flawed due to its reliance on subjective factors and an 
+impairment rating that cites to the AMA Guides to the Evaluation of Permanent 
+Impairment, Second Edition. (Id.).  However, the Commissioner has previously held that 
+a numerical impairment rating is not necessary to prove permanent impairment for a 
+mental condition.  
+ 
+In Garcia v. Smithfield Foods, Inc., File No. 1657969.01, 2022 WL 17170655 
+(App., Oct. 28, 2022), the Commissioner was tasked with deciding whether a specific 
+numerical rating was necessary to prove permanent impairment from a mental injury 
+under the AMA Guides, Fifth Edition.  (Id.).  He determined it was not.  (Id.).  Ratings for 
+mental injuries are covered by Chapter 14 of the AMA Guides, Fifth Edition.   See AMA 
+Guides, p. 357.  According to the Commissioner, this Chapter 
+ 
+[D]irects the examiner to assess and record the extent of function for 
+activities of daily living, social functioning, concentration, and adaptation. 
+After assessing and recording the extent of function, the AMA Guides direct 
+the examiner to assign a class of impairment, from Class 1, no impairment, 
+to Class 5, an extreme impairment precluding useful functioning. Id. at 363. 
+The categories recommended as “anchors for the categories of the scale,” 
+are: 
+1. None means no impairment is noted in the function. 
+  
+2. Mild implies that any discerned impairment is compatible with most useful 
+functioning. 
+  
+3. Moderate means that the identified impairments are compatible with 
+some, but not all, useful functioning. 
+  
+4. Marked is a level of impairment that significantly impedes useful 
+functioning. Taken alone, a marked impairment would not completely 
+preclude functioning, but together with marked limitation in another class, it 
+might limit useful functioning. 
+  
+5. Extreme means that the impairment or limitation is not compatible with 
+useful function. Extreme impairment in carrying out activities of daily living 
+implies complete dependency on another person for care. In the sphere of 
+social functioning, extreme impairment implies that the individual engages 
+in no meaningful social contact, as with a person who is in a withdrawn, 
+catatonic state. An extreme limitation in concentration, persistence, and 
+pace means that the individual cannot attend to a conversation or any 
+productive task; this might be seen in a person who is in an acute 
+confusional state or a person with a complete loss of short-term memory. 
+  
+A person who cannot tolerate any change at all in routines or in the 
+environment, or one who cannot function and who decompensates when 
+schedules change in an otherwise structured environment, has an extreme 
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 14 
+limitation of adaptive functioning and an extreme psychiatric impairment. 
+Such an individual might, for example, experience a psychotic episode if a 
+meal is not served on time or might have a panic attack if left without a 
+companion in any situation. 
+  
+When assessing the severity of impairment, the AMA Guides direct the 
+examiner to examine: (1) the effects of treatment; (2) the effects of 
+structured settings; (3) the variability of mental disorders; (4) an assessment 
+of workplace function; and (5) the effects of common mental and behavioral 
+conditions. Id. at 364-365. 
+ 
+. . . . 
+ 
+Translating these guidelines for rating individual impairment on ordinal 
+scales into a method for assigning percentage of impairments, as if valid 
+estimates could be made on precisely measured interval scales, cannot be 
+done reliably. One cannot be certain that the difference in impairment 
+between a rating of mild and moderate is of the same magnitude as the 
+difference between moderate and marked. Furthermore, a moderate 
+impairment does not imply a 50% limitation in useful functioning, and an 
+estimate of moderate impairment in all four categories does not imply a 50% 
+impairment of the whole person. Id. at 364. 
+ 
+Id at *12-14.  The Commissioner found that under the AMA Guides, Fifth Edition, a 
+claimant provided proof of impairment when there was expert testimony assessing and 
+observing his or her ability to function under each of the listed impairment 
+classifications. Id. at *14.   
+ 
+ 
+In his report, Dr. Patra provides a proposed numerical impairment rating under 
+the AMA Guides, Second Edition, but he also goes through each of the four categories 
+listed on Table 14-1 of the AMA Guides, Fifth Edition, and assigns Curette a 
+classification. (Cl Ex. 1, p. 19).  His report reads as follows: 
+ 
+ 
+Using the AMA Guides to the Evaluation of Permanent Impairment, 
+Fifth Edition, with regards to Mr. Curette’s diagnosis of PTSD, I would 
+assign him class 2 on activities of daily living; class 3 on social functioning; 
+class 3 on concentration, persistence, and pace; and class 3 on adaption to 
+a competitive and dynamic work environment.  
+ 
+It is my opinion, based upon a reasonable degree of medical and psychiatric 
+certainty, that pursuant to Table 14-1 of the AMA Guides to the Evaluation 
+of Permanent Impairment, Fifth Edition, Mr. Curette’s Impairment Level from 
+the above-diagnosed PTSD would fall at the Moderate Level of Impairment. 
+This is based on Mr. Curette’s narrative, where he mentions difficulty doing 
+household chores, difficulty managing grocery shopping, difficulty driving, 
+difficulty engaging in lifestyle and recreational activities, social isolation, and 
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 15 
+difficulty managing work responsibilities at his current work, making railway 
+tracks, among others.  
+ 
+The AMA Guides to the Evaluation of Permanent Impairment, Fifth Edition 
+does not provide numerical impairment, but if one were to look at AMA 
+Guides to the Evaluation of Permanent Impairment, Second Edition, the 
+corresponding impairment rating for Moderate Level of Impairment would 
+fall between 25% and 50%. Based on Mr. Curette’s current presentation 
+with PTSD, this evaluator assigns him a 30% permanent impairment of the 
+Whole Person. This impairment rating is related to Mr. Curette’s work injury 
+date of February 21, 2022. 
+ 
+(Id.at 19-20). Contrary to defendants’ assertion, Dr. Patra’s impairment opinion complies 
+with the requirements of the AMA Guides, Fifth Edition. While his PTSD diagnosis might 
+not have robust support in Curette’s treatment records, there is no reliable evidence in 
+the hearing record countering his opinion that Curette’s mental health symptoms/work 
+induced anxiety attacks are permanent.  Curette has met his burden to prove 
+permanent impairment from his causally-related mental health condition.  
+ 
+In Iowa, when physical trauma causes a mental condition (physical-mental) 
+which increases or prolongs disability, the whole disability, including the effects of the 
+nervous disorder, is compensable. Gosek v. Garmer and Stiles Co., 158 N.W.2d 731, 
+733 (Iowa 1968). Curette has suffered a mental injury, which is an impairment to the 
+body as a whole, therefore his claim will be adjudicated under Iowa Code section 
+85.34(2)(v).  Iowa Code section 85.34(2)(v) (2022) states as follows: 
+ In all cases of permanent partial disability other than those described 
+or referred to in paragraphs “a” through “u”, the compensation shall be paid 
+during the number of weeks in relation to five hundred weeks as the 
+reduction in the employee’s earning capacity caused by the disability bears 
+in relation to the earning capacity that the employee possessed when the 
+injury occurred. A determination of the reduction in the employee’s earning 
+capacity caused by the disability shall take into account the permanent 
+partial disability of the employee and the number of years in the future it 
+was reasonably anticipated that the employee would work at the time of the 
+injury. If an employee who is eligible for compensation under this paragraph 
+returns to work or is offered work for which the employee receives or would 
+receive the same or greater salary, wages, or earnings than the employee 
+received at the time of the injury, the employee shall be compensated based 
+only upon the employee’s functional impairment resulting from the injury, 
+and not in relation to the employee’s earning capacity. Notwithstanding 
+section 85.26, subsection 2, if an employee who is eligible for compensation 
+under this paragraph returns to work with the same employer and is 
+compensated based only upon the employee’s functional impairment 
+resulting from the injury as provided in this paragraph and is terminated from 
+employment by that employer, the award or agreement for settlement for 
+benefits under this chapter shall be reviewed upon commencement of 
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 16 
+reopening proceedings by the employee for a determination of any 
+reduction in the employee’s earning capacity caused by the employee’s 
+permanent partial disability. 
+Id.  Curette did not return to work for the defendants after the February 21, 2022 injury 
+date, nor is there any evidence in the record that defendants offered him work at the 
+same or greater wages after the injury. Under the language of Iowa Code section 
+85.34(2)(v), Curette should be compensated industrially.  
+Industrial disability was defined in Diederich v. Tri-City Ry. Co. of Iowa, 219 Iowa 
+587, 591, 258 N.W. 899, 902 (1935) as follows:  "It is therefore plain that the Legislature 
+intended the term 'disability' to mean 'industrial disability' or loss of earning capacity and 
+not a mere 'functional disability' to be computed in terms of percentages of the total 
+physical and mental ability of a normal man." 
+Functional impairment is an element to be considered in determining industrial 
+disability which is the reduction of earning capacity, but consideration must also be 
+given to the injured employee's age, education, qualifications, experience, motivation, 
+loss of earnings, severity and situs of the injury, work restrictions, inability to engage in 
+employment for which the employee is fitted and the employer's offer of work or failure 
+to so offer.  McSpadden v. Big Ben Coal Co., 288 N.W.2d 181, 192 (Iowa 1980); Olson 
+v. Goodyear Service Stores, 255 Iowa 1112, 1120, 125 N.W.2d 251, 256 (1963). There 
+are no weighting guidelines that indicate how each of the factors is to be considered. 
+See Christensen v. Hagen, Inc., Vol. 1 No. 3 Industrial Commissioner Decisions, 529 
+(App., March 26, 1985). Industrial disability can be equal to, less than, or greater than 
+functional impairment. Taylor v. Hummel Insurance Agency, Inc., 2-2, Iowa Industrial 
+Comm’r Dec. 736 (1985); Kroll v. Iowa Southern Utilities, 1-4, Iowa Industrial Comm’r 
+Dec. 937 (App., 1985); Birmingham v. Firestone Tire & Rubber Company, II, Iowa 
+Industrial Comm’r Rep., 39 (App., 1981).  Compensation for permanent partial disability 
+shall begin at the termination of the healing period. Compensation shall be paid in 
+relation to 500 weeks as the disability bears to the body as a whole. Iowa Code § 85.34.  
+Curette is 38 years old.  He graduated from high school in 2006, and has taken 
+courses in automotive technology at UTI.  In January 2025, Curette obtained his heavy 
+equipment operator certification from Southern Louisiana Community College.  Prior to 
+his injury, he worked in railroad construction, as a laborer, a foreman and an equipment 
+operator.  At the time of his injury, Curette was working for a staffing agency in a 
+manufacturing plant.  Since being released by Dr. Johnson, Curette worked briefly on 
+an assembly line before returning to railroad construction work as a foreman/operator, 
+making more per hour than he did working for the defendants.  At the time of the 
+hearing, Curette was not working, however, he had just completed his training program 
+at Southern Louisiana Community College and was looking for a new job as a heavy 
+equipment operator.  Curette expects to make around $25 or more an hour as a heavy 
+equipment operator. Based on his hearing testimony, it appears that Curette can 
+physically perform the work of a railroad construction foreman, but struggles mentally 
+with the noise of that environment, which can cause him to have panic attacks. Curette 
+indicated he also expected to have some issues with performing the work of a heavy 
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 17 
+equipment operator, due to the joystick and setting, but sought further training in this 
+area because it is the type of work he knows.  It is, however, noted that Curette was 
+able to successfully complete the hands-on portion of the heavy equipment operator 
+certification.   
+Considering all the relevant factors for determining the extent of lost earning 
+capacity under the Iowa Workers’ Compensation Act, Curette has sustained an 
+industrial disability of 20 percent as a result of the February 21, 2022 work injury.8  Five 
+hundred weeks multiplied by 20 percent equals 100 weeks.  Curette is entitled to 100 
+weeks of permanent partial disability benefits. According to defendant’s payment report, 
+prior to hearing Curette was paid $11,541.13 in permanency benefits. (Ex. F, p. 57).  
+Defendants are entitled to credit for these prior paid benefits, as well as credit for any 
+permanency benefits paid since the hearing.  
+The parties have a dispute as to the proper commencement date of Curette’s 
+permanent partial benefits.  Defendants believe the commencement date should be 
+April 28, 2022, the date Dr. Johnson placed Curette at MMI for his finger amputations.  
+Curette alleges the commencement date is July 3, 2024, the date of his evaluation with 
+Dr. Patra. (See Hearing Report).  Iowa Code section 85.34(2) states, “compensation for 
+permanent partial disability shall begin when it is medically indicated that maximum 
+medical improvement from the injury has been reached and that the extent of loss or 
+percentage of permanent impairment can be determined.”  Curette’s anxiety is causally 
+related to the February 21, 2022 work injury.  Curette sought treatment for anxiety after 
+April 28, 2022.  Under the language of Iowa Code section 85.34, that is not the proper 
+commencement date.  The records show Curette continued to seek mental health 
+treatment until through at least the summer of 2024.  Given this, the undersigned 
+accepts Curette’s proposed commencement date of July 3, 2024, as the proper 
+commencement date for his permanent partial disability benefits.      
+The next issue to be addressed is Curette’s entitlement to tax exemptions.  
+Curette alleges he is entitled to four exemptions. Defendants contend he is only entitled 
+to one exemption. The agency has long established precedent that the actual 
+dependents claimed on the workers’ income tax return controls when determining how 
+many exemptions a claimant is entitled to claim for purposes of the weekly 
+compensation rate. Webber v. West Side Transport, Inc., 1278549 (App., December 20, 
+2002); DeRaad v. Fred's Plumbing and Heating, No. 1134532 (App., January 16, 
+2002), Rhoades v. Torgerson Construction Co., No. 1012085 (App., January 31, 
+1995), Keeling v. Cedar Rapids Community Schools, No. 891809 (App., February 26, 
+1993). The number of exemptions claimed is based upon tax law because tax law is 
+what is utilized to calculate the claimant’s spendable weekly earnings. See Iowa Code § 
+                                                                 
+8 The undersigned acknowledges that this figure is less than the functional impairment provided by Dr. 
+Patra.  Functional impairment is just one element considered in determining an individual’s industrial disability; it is 
+not the equivalent of industrial disability.  Even though Curette continues to suffer from anxiety and situational panic 
+attacks, he was able to return to full time railroad work after the injury, making more than he did at the time of the 
+injury.  He has also successfully obtained a certificate to work as a heavy equipment operator, a job he can physically 
+perform that makes around $25.00 an hour.  This evidence shows that he retains the qualifications, skills and ability 
+to find suitable work after the injury.  
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 18 
+85.61(6)(a)(b) and (9).  This presumption is rebuttable.  However, the party seeking to 
+overcome the presumption must present sufficient evidence at hearing to rebut the 
+presumption.  Curette did not submit his 2022 tax returns into evidence.  Thus, the 
+presumption does not apply and it is Curette’s burden to show that he could legally 
+claim his three children as dependents on his 2022 tax returns.   
+At the hearing, Curette’s testimony was contradictory.  During his deposition, he 
+stated that he does not have custody of his children; all three live with their mothers, 
+and he only pays child support for his oldest child. (Ex. A, depo. pp. 24-25).  However, 
+he thought he might have claimed two of them as dependents in 2022. (Id. at 24).  In 
+contrast, during the hearing, Curette made three different and contradictory statements 
+about his dependents for taxes. (Tr., p. 65).  First, he testified that he could not 
+remember if he claimed any of them as dependents in 2022. (Id.).  Then, he testified 
+that he claimed one of his children as a dependent on his taxes, but did not remember 
+which one. (Id.).  Still later, he stated that the child’s mother claimed her on her taxes. 
+(Id. at 66).  Given this testimony, Curette is not entitled to claim exemptions for any of 
+his children.  According to the Internal Revenue Service, both Curette and the children’s 
+mother cannot simultaneously claim them as dependents in the same tax year.  See 
+U.S. Department of the Treasury. Internal Revenue Service (2022). Publication 501: 
+Dependents, Standard Deduction, and Filing Information (Cat. No. 15000U). Retrieved 
+from https://www.irs.gov/pub/irs-prior/p501--2022.pdf.  Additionally, in order for Curette’s 
+children to qualify as dependents for tax purposes, he must show the following: (1) the 
+child was a student under twenty-four years of age, (2) the child lived with Curette for 
+more than half the year, (3) the child did not provide more than half his or her own 
+support for the year, and (4) the child did not file a joint tax return for the year.  See id. 
+(emphasis added).  Based on his prior testimony, the children live with their mothers. 
+Curette has not met his burden to prove he is entitled to exemptions for his three 
+children.  Curette is entitled to one exemption and his weekly rate is $674.92.   
+Curette seeks payment of the medical expenses listed in Claimant’s Exhibit 4. 
+For all compensable injuries under Iowa Code chapter 85 or 85A, the employer must 
+“furnish reasonable surgical, medical, dental, osteopathic, chiropractic, podiatric, 
+physical rehabilitation, nursing, ambulance, and hospital services and supplies therefor 
+and shall allow reasonably necessary transportation expenses incurred for such 
+services.” Iowa Code § 85.27(1).  
+Claimant’s Exhibit 4 shows Curette received bills from Allen Memorial Hospital 
+and Cedar Valley Medical Specialists for treatment on February 21, 2021; Mercy 
+Physical Therapy for treatment dates from April 5, 2022 through May 19, 2022, and 
+Louisiana Health Care Practitioners for visits on February 27, 2023; April 14, 2023; April 
+25, 2023; and May 23, 2024. (Cl Ex. 4, p. 38). Above I determined that Curette suffered 
+a mental health sequela as a result of the February 21, 2022 work injury.  The treatment 
+Curette received at Allen Memorial Hospital, Cedar Valley Medical Specialists, and 
+Mercy Physical Therapy was for his left-hand injury. Additionally, on the above listed 
+dates he received care for his causally-related mental health condition.  The listed 
+medical visits were causally related and necessitated by the February 21, 2022 date of 
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 19 
+injury.9 It appears that most of the bills listed in Claimant’s Exhibit 4 have already been 
+paid. (Id. at 38-43).  Curette is entitled to an order of reimbursement only if he has paid 
+the treatment costs; otherwise, he is entitled to an order directing the responsible 
+defendants to make payments to the provider. See, Krohn v. State, 420 N.W.2d 463, 
+464-465 (Iowa 1988).   
+Curette is also asserting a claim for alternate medical care. (See Hearing 
+Report).  In his Post-Hearing Brief, Curette requests counseling and medication 
+management for his causally-related mental health condition. (Claimant’s Post-Hearing 
+Brief, p. 15).  He also requests treatment for his left hand, if it worsens in the future. 
+(Id.). Iowa Code section 85.27(4) provides, in relevant part: 
+ 
+For purposes of this section, the employer is obliged to furnish reasonable 
+services and supplies to treat an injured employee, and has the right to 
+choose the care .... The treatment must be offered promptly and be 
+reasonably suited to treat the injury without undue inconvenience to the 
+employee. If the employee has reason to be dissatisfied with the care 
+offered, the employee should communicate the basis of such dissatisfaction 
+to the employer, in writing if requested, following which the employer and 
+the employee may agree to alternate care reasonably suited to treat the 
+injury. If the employer and employee cannot agree on such alternate care, 
+the commissioner may, upon application and reasonable proofs of the 
+necessity therefor, allow and order other care. 
+Id.; see also, Pirelli-Armstrong Tire Co. v. Reynolds, 562 N.W.2d 433, 436-37 (Iowa 
+1997). 
+“Iowa Code section 85.27(4) affords an employer who does not contest the 
+compensability of a workplace injury a qualified statutory right to control the medical 
+care provided to an injured employee.” Ramirez-Trujillo v. Quality Egg, L.L.C., 878 
+N.W.2d 759, 769 (Iowa 2016) (citing R.R. Donnelly & Sons v. Barnett, 670 N.W.2d 190, 
+195-97 (Iowa 2003)). “In enacting the right-to-choose provision in section 85.27(4), our 
+legislature sought to balance the interests of injured employees against the competing 
+                                                                 
+9 In their Post-Hearing Brief, defendants also argue that Curette is not entitled to reimbursement for his 
+treatment at Louisiana Health Care Practitioners because it was unauthorized.  (Defendants’ Post-Hearing Brief, p. 
+15).  As stated above, this defense is no longer available to defendants. On January 18, 2023, defendants filed an 
+official answer with this Agency denying liability for Curette’s mental health sequela.  (See Cl Ex. 7).  Apparently, 
+defendant’s counsel also emailed Curette’s counsel on the same day stating they were not actually denying his 
+mental health sequela and offering a return visit to Dr. Johnson, his hand surgeon. (See Ex. E, p. 53).  Defendants do 
+not get to talk out of both sides of their mouth.  They do not get to file a denial with the Agency and thereby avoid 
+an official decision addressing the merits of Curette’s request for mental health care, while also insisting they are 
+not denying liability for the condition behind the scenes and attempting to keep control of his care for that condition.  
+It is notable that defendants did not actually make an appointment for Curette with Dr. Johnson to request a referral 
+for mental health care.  Nor have they scheduled care with any other provider or filed an Amended Answer to 
+Curette’s Alternate Care Petition.  In short, the evidence shows that they have never wavered from their initial 
+liability denial.  Given this, a lack of authorization defense is not available to them.  
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 20 
+interests of their employers.” Ramirez, 878 N.W.2d at 770-71 (citing Bell Bros. Heating 
+and Air Conditioning v. Gwinn, 779 N.W.2d 193, 202, 207 (Iowa 2010); IBP v. Harker, 
+633 N.W.2d 322, 326-27 (Iowa 2001)).  
+The employer has the right to choose the provider of care, except where the 
+employer has denied liability for the injury. Iowa Code § 85.27; Holbert v. Townsend 
+Engineering Co., Thirty-second Biennial Report of the Industrial Commissioner 78 
+(Review-Reopening, October 16, 1975). An employer’s right to select the provider of 
+medical treatment to an injured worker does not include the right to determine how an 
+injured worker should be diagnosed, evaluated, treated, or other matters of professional 
+medical judgment. Assmann v. Blue Star Foods, File No. 866389 (Declaratory Ruling, 
+May 18, 1988). Reasonable care includes care necessary to diagnose the condition, 
+and defendants are not entitled to interfere with the medical judgment of its own treating 
+physician. Pote v. Mickow Corp., File No. 694639 (Review-Reopening, June 17, 1986). 
+The employer must furnish “reasonable medical services and supplies and 
+reasonable and necessary appliances to treat an injured employee.” Stone Container 
+Corp. v. Castle, 657 N.W.2d 485, 490 (Iowa 2003) (emphasis in original). Such 
+employer-provided care “must be offered promptly and be reasonably suited to treat the 
+injury without undue inconvenience to the employee.” Iowa Code § 85.27(4). 
+By challenging the employer’s choice of treatment - and seeking alternate care - 
+claimant assumes the burden of proving the authorized care is unreasonable. See e.g., 
+Iowa R. App. P. 14(f)(5); Gwinn, 779 N.W.2d at 209; Long v. Roberts Dairy Co., 528 
+N.W.2d 122, 124 (Iowa 1995). An injured employee dissatisfied with the employer-
+furnished care (or lack thereof) may share the employee’s discontent with the employer 
+and if the parties cannot reach an agreement on alternate care, “the commissioner may, 
+upon application and reasonable proofs of the necessity therefor, allow and order the 
+care.” Iowa Code § 85.27(4). “Determining what care is reasonable under the statute is 
+a question of fact.” Long, 528 N.W.2d at 123; see also Reynolds, 562 N.W.2d at 436. As 
+the party seeking relief in the form of alternate care, the employee bears the burden of 
+proving that the authorized care is unreasonable. Long, 528 N.W.2d at 124; Gwinn, 779 
+N.W.2d at 209; Reynolds, 562 N.W.2d at 436. Because “the employer’s obligation under 
+the statute turns on the question of reasonable necessity, not desirability,” an injured 
+employee’s dissatisfaction with employer-provided care, standing alone, is not enough 
+to find such care unreasonable. Long, 528 N.W.2d at 124. 
+Curette is seeking ongoing mental health treatment with a doctor and/or a 
+therapist in Louisiana near his home, including counseling and medication management 
+as recommended by Dr. Patra.10 (Claimant’s Post-Hearing Brief, p. 15). In this case, 
+                                                                 
+10In his Post-Hearing Brief, Curette also requests future treatment for his left hand. (Claimant’s Post-Hearing 
+Brief, p. 15).  A review of the hearing record does not reveal any treatment recommendations from Dr. Johnson that 
+still need to be completed.  Given this, a determination for future medical care is not ripe.  Curette’s request for 
+alternate medical care for his left hand is denied at this time.  This determination does not change defendants’ future 
+responsibility for medical care.  Defendants remain liable for all future care reasonably necessary because of the 
+February 21, 2022 injury date.  
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 21 
+Curette’s anxiety symptoms are causally related to the work injury on February 21, 
+2022.  At his last appointments, Ms. Rozas prescribed Wellbutrin and Ms. Huval 
+recommended a course of psychotherapy.  These recommendations echo Dr. Patra’s 
+suggested future care. The need for this care is related to the work injury.  
+Curette has established by a preponderance of the evidence that there is 
+reasonable and necessary treatment that can and should be offered to him.  Curette 
+has proven he is entitled to alternate care, specifically treatment for his anxiety.  
+Defendants shall designate a treater near Curette’s residence in Louisiana to provide 
+that care. 
+Curette requests reimbursement for the IME performed by Dr. Patra.  Iowa Code 
+section 85.39 permits an employee to be reimbursed for a subsequent examination by a 
+physician of the employee's choice where an employer-retained physician has 
+previously evaluated “permanent disability” and the employee believes that the initial 
+evaluation is too low. The Iowa Supreme Court has provided a literal interpretation of 
+the plain language of Iowa Code section 85.39, stating that section only allows the 
+employee to obtain an independent medical evaluation at the employer’s expense if an 
+evaluation of permanent disability has already been made by an employer retained 
+physician.  Des Moines Area Reg’l Transit Auth. v. Young, 867 N.W.2d 839, 847 (Iowa 
+2015). Dr. Patra performed his IME exam on July 3, 2024. (Cl Ex. 1).  His report was 
+issued on January 30, 2025. (Id.).  Dr. Davis, defendants’ expert, however, did not 
+physically evaluate Curette for permanent mental impairment until January 28, 2025, 
+and his report was not issued until February 24, 2025.  Given this, Curette is not entitled 
+to reimbursement of Dr. Patra’s IME report under Iowa Code section 85.39.  
+In Young, the Supreme Court noted that in cases where Iowa Code section 85.39 
+is not triggered to allow for IME reimbursement, a claimant can still be reimbursed 
+expenses associated with the preparation of a written report as a cost under 
+administrative rule 876 IAC 4.33 because the report is used as evidence in lieu of the 
+doctor’s testimony.  Young, 867 N.W.2d at 846-47.  However, only the cost of the report 
+can be assessed, not the underlying exam or treatment. Id. 
+Iowa Administrative Rule 876-4.33 outlines what costs may be assessed at 
+hearing. It provides, as follows:  
+Costs taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 22 
+reviewing health service disputes. 
+876 IAC 4.33; see also Iowa Code § 10A.328. Under the language of the rule, costs are 
+assessed at the deputy’s discretion. 876 IAC 4.33 
+ 
+Curette provided a breakdown of Dr. Patra’s IME bill in his exhibits.  According to 
+that breakdown, Dr. Patra charged $2,790.00 for drafting his IME report. (Cl Ex. 5, p. 
+45).  Curette was successful in this action—he was awarded additional permanent 
+indemnity benefits.  I conclude it is reasonable to assess the cost of Dr. Patra’s IME 
+report.  Curette also incurred costs of $125.00 for the filing fee of his petition and $85.25 
+for his deposition transcript. (Id. at 44, 46).  I conclude it is reasonable to assess his 
+filing fee pursuant to 876 IAC 4.33(7).  I found Curette’s deposition transcript helpful and 
+cited to it in this decision. Given this, it is appropriate to assess the cost of Curette’s 
+deposition transcript pursuant to 876 IAC 4.33(2). 
+ 
+I assess costs totaling $3,000.25.   
+ORDER 
+THEREFORE, IT IS ORDERED: 
+ 
+Defendants shall pay claimant one hundred (100) weeks of permanent partial 
+disability benefits at the rate of six hundred seventy-four and 92/100 dollars ($674.92) 
+per week commencing on July 3, 2024.  Defendants are entitled to a credit for all prior 
+paid permanency benefits.   
+Defendants shall pay accrued weekly benefits in a lump sum together with 
+interest at an annual rate equal to the one-year treasury constant maturity published by 
+the federal reserve in the most recent H15 report settled as of the date of injury, plus 
+two percent.    
+If claimant has paid for the medical expenses listed in Claimant’s Exhibit 4, he is 
+entitled to reimbursement of those expenses.  If he has not paid the expenses listed in 
+Claimant’s Exhibit 4, defendants are ordered to pay the listed providers directly. 
+Defendants shall promptly select and authorize a local medical provider to furnish 
+claimant treatment for his causally related anxiety, including therapy and medication 
+management.  Defendants shall retain the right to select and authorize a medical 
+provider of their choosing to provide the above ordered medical care provided 
+defendants authorize this care promptly. 
+Defendants shall pay costs of three thousand and 25/100 dollars ($3,000.25).  
+Defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1(2) and 876 IAC 11.7. 
+ 
+ 
+ 
+
+CURETTE V. AAA AIRPORTER SERVICES 
+Page 23 
+Signed and filed this __5th __ day of September, 2025. 
+ 
+ 
+   
+__________________________ 
+         AMANDA R. RUTHERFORD 
+              DEPUTY WORKERS’  
+    COMPENSATION COMMISSIONER 
+ 
+The parties have been served, as follows:  
+Rachael Neff  
+(via WCES) 
+Caitlin Kilburg 
+(via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Workers’ Compensation Division to file documents in paper form. If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Workers’ 
+Compensation Division, 6200 Park Ave., Suite 100, Des Moines, Iowa 50321. The notice of appeal must be received 
+by the Workers’ Compensation Division within 20 days from the date of the decision. The appeal period will be 
+extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+ 
+ 

@@ -1,0 +1,1142 @@
+Case Number: 20700416.01
+Case Title:  MOHAMED, RAWDA V. ATRIUM HOLDING CO.
+Doc Type:    Decision - Deputy
+Source:      Mohamed Rawda-20700416.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+RAWDA MOHAMED, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  :                   File No. 20700416.01 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :  
+ATRIUM HOLDING COMPANY, 
+  : 
+       ARBITRATION DECISION 
+ 
+ 
+  :  
+ 
+Employer, 
+  : 
+ 
+ 
+  :  
+and 
+ 
+  : 
+ 
+ 
+  : 
+SOMPO/GALLAGHER BASSETT, 
+  :    Head Note Nos.:  1402, 1402.40, 1800, 
+ 
+ 
+  : 
+ 
+ 
+1801, 1802, 1803, 1804, 
+ 
+Insurance Carrier, 
+  : 
+ 
+ 
+2500, 2700, 4100 
+ 
+Defendants. 
+  :  
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+ 
+The claimant, Rawda Mohamed, filed a petition for arbitration seeking workers’ 
+compensation benefits from Atrium Holding Company (“Atrium”), and its insurer 
+Gallagher Bassett/SOMPO.  Samuel Aden appeared on behalf of the claimant.  William 
+Scherle appeared on behalf of the defendants.   
+ 
+The matter came on for hearing on June 29, 2021, before Deputy Workers’ 
+Compensation Commissioner Andrew M. Phillips.  Pursuant to an order of the Iowa 
+Workers’ Compensation Commissioner related to the COVID-19 pandemic, the hearing 
+occurred via CourtCall.  The hearing proceeded without significant difficulty.  
+The record in this case consists of Joint Exhibits 1-7, Claimant’s Exhibit 1-12, 
+and Defendants’ Exhibits 1-7.  The claimant testified on her own behalf via interpreter 
+Bagad Aguak.  Nibrar Abdalla and Brandon Danner also provided testimony under oath.  
+Kira Stover was appointed the official reporter and custodian of the notes of the 
+proceeding.  The evidentiary record closed at the end of the hearing, and the matter 
+was fully submitted on August 20, 2021, after briefing by the parties.     
+At the outset of the hearing, the employer was asked to file a first report of injury 
+(“FROI”).  As of the date of this decision, no FROI was on record.   
+ 
+ELECTRONICALLY FILED     2021-Oct-08  10:09:26     DIVISION OF WORKERS' COMPENSATION
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 2 
+STIPULATIONS 
+ 
+Through the hearing report, as reviewed at the commencement of the hearing, 
+the parties stipulated and/or established the following: 
+1. There was an employer-employee relationship at the time of the alleged 
+injury. 
+  
+2. The claimant sustained an injury arising out of, and in the course of, 
+employment, on June 7, 2019.   
+ 
+3. Although entitlement to temporary disability and/or healing period benefits 
+cannot be stipulated, the claimant was off work from August 24, 2020, to the 
+present, and ongoing. 
+ 
+4. The claimant’s gross earnings were five hundred and 21/100 dollars 
+($500.21) per week, she was single, and entitled to 2 exemptions.  This 
+resulted in a weekly compensation rate of three hundred thirty-three and 
+72/100 dollars ($333.72).     
+ 
+5. The costs requested by claimant have been paid.   
+The defendants waived their affirmative defenses.  Whether the defendants are 
+entitled to any credits is no longer in dispute.  Additionally, the hearing report indicates 
+that the claimant is seeking reimbursement for an independent medical examination 
+(“IME”) pursuant to Iowa Code section 85.39.  At the outset of the hearing, on the 
+record, the defendants indicated that they would stipulate to paying for the IME pursuant 
+to Iowa Code section 85.39.   
+The parties are now bound by their stipulations. 
+ISSUES 
+The parties submitted the following issues for determination: 
+1. Whether the alleged injury is a cause of temporary disability during a period of 
+recovery. 
+  
+2. Whether the alleged injury is a cause of permanent disability. 
+ 
+3. Whether the claimant is entitled to temporary total disability, temporary partial 
+disability, or healing period benefits from August 24, 2020, to the present and 
+ongoing. 
+  
+4. The extent of permanent partial disability benefits, if any are awarded.   
+ 
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 3 
+5. Whether the disability is an industrial disability. 
+ 
+6. The commencement date for permanent partial disability benefits, if any are 
+awarded.   
+ 
+7. Whether the claimant is entitled to alternate care pursuant to Iowa Code 
+section 85.27.   
+ 
+8. Whether the claimant is entitled to a specific taxation of costs.   
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+Rawda Mohamed, the claimant was 51 years old at the time of the hearing.  
+(Testimony).  She is single.  (Testimony).  She currently resides in Des Moines, Iowa, 
+with her two daughters.  (Testimony).  Ms. Mohamed is originally from Sudan.  
+(Testimony).  She lived in Sudan until she was 21 years old.  (Testimony).  She 
+graduated high school in 1991 in Madani, Sudan.  (Testimony; Claimant’s Exhibit 6:17).  
+She also attended one year of college in Sudan.  (Testimony).  After leaving Sudan, she 
+moved to Syria for about 12 years.  (Testimony).  After leaving Syria in 2007 she 
+immigrated to Des Moines, Iowa.  (Testimony).   
+Ms. Mohamed testified with the assistance of an interpreter.  Ms. Mohamed’s 
+native language is Arabic.  (Testimony).  She speaks and understands some English 
+thanks to an ESL class at Des Moines Area Community College.  (Testimony).  
+However, she is not fluent, and cannot read or write in English.  (Testimony).  Ms. 
+Mohamed can use a computer, but only if it displays in Arabic.  (Testimony).  She does 
+not know how to use programs like Microsoft Word or Excel.  (Testimony).   
+While in Sudan and Syria, Ms. Mohamed did not work.  (Testimony).  Upon 
+arriving in Des Moines, Ms. Mohamed obtained a job working in housekeeping at the 
+Sheraton in West Des Moines, Iowa.  (Testimony).  The Sheraton in West Des Moines 
+is owned and operated by Atrium.  She worked in housekeeping for about one year 
+before moving to Tyson.  (Testimony).   
+At Tyson, Ms. Mohamed cut and packaged meat on a production line in Perry, 
+Iowa, from 2009 to 2010.  (Testimony).  She stood and sat, at this job, and also needed 
+to bend and twist on a routine basis.  (Testimony).   
+In 2010, Ms. Mohamed left Tyson and opened an in home daycare.  (Testimony).  
+She provided care for children ranging from two months old to nine years old.  
+(Testimony).  She performed the tasks that one would expect of a daycare provider, 
+such as: changing diapers, feeding children, playing with children, picking children up, 
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 4 
+bathing children, and supervising them on the playground.  (Testimony).  She worked 
+about six days per week running the daycare.  (Testimony).   
+From 2014 to 2015, Ms. Mohamed worked as a janitorial worker at Service 
+Master Cleaning.  (CE 6:18).  It was unclear from the testimony provided at hearing 
+what Ms. Mohamed did from 2015 to 2017, but the evidence in the record shows a gap 
+in employment between 2015 and 2017.  Ms. Mohamed testified that she always 
+maintained a job, and had no gaps in employment.  (Testimony).   
+From 2017 to 2018, the claimant worked at Drake University in the dining 
+department.  (Testimony; CE 6:18).  She worked in the kitchen and assisted the chef by 
+cutting meats and vegetables, carried items from storage to the kitchen, and assisted 
+with preparation of food.  (Testimony; CE 6:18).  This job entailed heavy lifting, 
+standing, and using stairs on a regular basis.  (Testimony).  ‘ 
+In 2018, Ms. Mohamed returned to employment with the Sheraton and Atrium.  
+(Testimony).  She worked in housekeeping.  (Testimony; CE 6:18).  She worked full 
+time, and often worked six to seven days a week.  (Testimony).  During a normal day, 
+she vacuumed, made beds, changed linens, removed trash, and cleaned bathrooms.  
+(Testimony).  This job required her to be on her feet all day, lifting mattresses, pushing a 
+heavy housekeeping cart, bending, and twisting.  (Testimony).  She cleaned at least 17 
+rooms, but sometimes it could be up to 22 rooms.  (Testimony).  She worked for Atrium 
+until her termination on October 31, 2020.  (Testimony).   
+Ms. Mohamed’s job description included a requirement to completely clean and 
+maintain hotel guest rooms and public areas within the hotel.  (CE 4:6; Defendants’ 
+Exhibit 1:1).  This included making beds, cleaning bathrooms, replenishing all paper 
+items, replacing soiled linens, cleaning glass and mirrors, replenishing supplies, 
+replacing burnt out lightbulbs, emptying wastebaskets, and cleaning rugs using a 
+vacuum cleaner.  (CE 4:6; DE 1:1).  Ms. Mohamed also needed to maintain cleanliness 
+and organization in all applicable work areas.  (CE 4:6; DE 1:1).  Of note, there are no 
+weight or lifting requirements listed in her job description from Atrium.   
+On June 7, 2019, Ms. Mohamed picked up towels and a replacement shower 
+curtain in the laundry area at the Sheraton.  (Testimony).  The floor in the laundry area 
+was wet, and there were bags of dirty laundry or trash in the area.  (Testimony).  Ms. 
+Mohamed testified that she tripped over a bag and fell forwards.  (Testimony).  She then 
+tried to get up, but her foot remained stuck in the bag.  (Testimony).  This caused her to 
+fall again onto her back.  (Testimony).  She felt immediate pain and a coworker arrived 
+to help her up.  (Testimony).  The claimant alleges that her knees immediately began to 
+swell, and upon arrival at the office of her supervisor, ice was placed on her knees and 
+back.  (Testimony).  Someone called Ms. Mohamed’s daughter, and she came to take 
+her to the doctor.  (Testimony).   
+Of note, the claimant’s exhibits contain photographs of the area in which Ms. 
+Mohamed allegedly fell.  (CE 1:1-3).  It is unclear what these photos represent exactly, 
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 5 
+when they were taken, and whether they indicate the specific conditions when Ms. 
+Mohamed fell.  I reviewed the photos, but they had no relevance to my decision.    
+Ms. Mohamed reported to Concentra for treatment to her back and left leg.    
+(Testimony; Joint Exhibit 1:1-8).  Richard Bratkiewicz, M.D., examined Ms. Mohamed.  
+(JE 1:1-5).  In her description of the injury, Ms. Mohamed indicated that she fell on her 
+hands and knees and fell a second time on her back.  (JE 1:3).  Upon physical 
+examination, Dr. Bratkiewicz noted joint pain, back pain, and joint stiffness.  (JE 1:4).  
+Ms. Mohamed also displayed bilateral muscle spasms in her lumbosacral spine.  (JE 
+1:4).  Dr. Bratkiewicz diagnosed Ms. Mohamed with a strain of her lumbar paraspinal 
+muscles.  (JE 1:4).  He recommended that she start ibuprofen and metaxalone.  (JE 
+1:4).  He also referred her to physical therapy three times per week for two weeks.  (JE 
+1:4).   Dr. Bratkiewicz promulgated restrictions including: lifting up to 5 pounds 
+occasionally, bending, standing, walking, and rotating her trunk occasionally.  (JE 1:5).  
+She may also bear weight as tolerated.  (JE 1:5).  Dr. Bratkiewicz told Ms. Mohamed 
+not to squat, kneel, or climb ladders.  (JE 1:5).  He also indicated that she could return 
+to modified duty that same day.  (JE 1:5).   
+Ms. Mohamed started physical therapy on June 7, 2019, at Concentra.  (JE 1:6-
+8).  She rated her pain 8 out of 10.  (JE 1:6).  She denied any radiation down her legs, 
+and noted the pain was to her lower back.  (JE 1:6).   
+On June 10, 2019, Dr. Bratkiewicz examined Ms. Mohamed again.  (JE 1:9-10).  
+Ms. Mohamed indicated that her two sessions of physical therapy helped, and that she 
+had no sciatic issues.  (JE 1:9).  Upon physical examination, Dr. Bratkiewicz observed 
+tenderness in the left paraspinal and right paraspinal areas.  (JE 1:9).  Ms. Mohamed 
+also displayed a limited range of motion in her lumbosacral spine.  (JE 1:9).  Dr. 
+Bratkiewicz again diagnosed Ms. Mohamed with a strain of her lumbar paraspinal 
+muscles.  (JE 1:10).  He opined that she was “approximately 25% of the way toward 
+meeting the physical requirements of her job.”  (JE 1:10).  The doctor recommended 
+four more sessions of physical therapy and a home exercise plan.  (JE 1:10).  Dr. 
+Bratkiewicz indicated that Ms. Mohamed could return to modified duty work on the same 
+day.  (JE 1:10).  The doctor provided the following restrictions: lifting up to 5 pounds 
+occasionally, pushing/pulling up to 5 pounds occasionally, and no squatting, kneeling or 
+climbing ladders.  (JE 1:10).   
+Ms. Mohamed had her fourth physical therapy visit at Concentra on June 14, 
+2019.  (JE 1:11-13).  She complained of increased low back pain since her previous 
+visit.  (JE 1:11).  She especially noted pain when she rose from the toilet.  (JE 1:11).  
+She further mentioned that her feet would swell after working.  (JE 1:11).  Ms. Mohamed 
+had difficulty completing certain physical therapy activities due to her pain.  (JE 1:11).  
+The therapist also observed Ms. Mohamed with significantly reduced gait speed and an 
+antalgic gait.  (JE 1:11).  The therapist opined that Ms. Mohamed was progressing 
+slower than expected, and that she also had difficulty tolerating light exercise.  (JE 
+1:12).  The therapist also noted that tracking Ms. Mohamed’s progress across visits was 
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 6 
+difficult.  (JE 1:12).  During her prior visit, Ms. Mohamed completed exercises with no 
+issues, and then would suddenly begin crying in pain.  (JE 1:12).   
+On June 18, 2019, Ms. Mohamed returned to Concentra for her fifth physical 
+therapy visit.  (JE 1:14-16).  Ms. Mohamed told the therapist that she felt better after her 
+last session and did not have any low back pain.  (JE 1:14).  She also performed her 
+home exercise program on a daily basis.  (JE 1:14).  Her main complaint surrounded 
+low back pain while folding laundry, pushing carts and bending over.  (JE 1:15).   
+Afeera Aabida, M.D., examined Ms. Mohamed at Concentra on June 20, 2019, 
+for continued follow up care.  (JE 1:17-19).  Ms. Mohamed indicated that she felt better, 
+but that she had pain in her right knee.  (JE 1:17).  She also complained of swelling in 
+her ankles.  (JE 1:17).  With regard to her lower back pain, Ms. Mohamed told Dr. 
+Aabida that she had no radiation, but that her pain was constantly dull and aching.  (JE 
+1:17).  She described her pain as “mild.”  (JE 1:17).  She described her right knee pain 
+as sharp and moderate.  (JE 1:18).  Upon physical examination, Dr. Aabida found a full 
+range of motion to the right knee with some pain.  (JE 1:18).  Dr. Aabida also found no 
+tenderness, muscle spasms, or range of motion issues in the low back.  (JE 1:18).  Dr. 
+Aabida opined that Ms. Mohamed had a strain of her lumbar paraspinal muscle, and 
+pain in her right knee.  (JE 1:18).  The doctor felt that Ms. Mohamed was at about 50 
+percent of her anticipated healing.  (JE 1:18).  Dr. Aabida recommended physical 
+therapy for her right knee three times per week for two weeks.  (JE 1:19).  Dr. Aabida 
+allowed Ms. Mohamed to return to full work activity.  (JE 1:20).   
+During her physical therapy on June 20, 2019, Ms. Mohamed told the therapist 
+that she had no low back pain, and could perform all of her work duties.  (JE 1:21).  She 
+could perform activities of daily living independently, and performed her home exercise 
+program on a daily basis.  (JE 1:21).  The plan was to discharge Ms. Mohamed from 
+therapy.  (JE 1:22).   
+Ms. Mohamed continued her care with Concentra on June 27, 2019.  (JE 1:25-
+28).  She reported to Dr. Aabida that her back pain worsened, but that the pain in her 
+right knee improved.  (JE 1:25).  Ms. Mohamed indicated that physical therapy helped 
+alleviate her complaints.  (JE 1:25).  She told Dr. Aabida that she had significant 
+difficulties with the physical requirements of her job.  (JE 1:25).  Dr. Aabida diagnosed 
+Ms. Mohamed with right knee pain, back pain with radiation, and a strain of the lumbar 
+paraspinal muscles.  (JE 1:26).  Dr. Aabida ordered an MRI of the lumber spine and 
+recommended that Ms. Mohamed pause her physical therapy.  (JE 1:26).  Dr. Aabida 
+allowed Ms. Mohamed to return to work with no restrictions.  (JE 1:27-28).   
+Ms. Mohamed had another visit of physical therapy on June 27, 2019.  (JE 1:29-
+31).  It is unclear if this therapy occurred prior to, or subsequent to her visit with Dr. 
+Aabida.  Ms. Mohamed reported feeling slight low back pain after work that day.  (JE 
+1:29).   
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 7 
+On July 5, 2019, Dr. Aabida at Concentra reexamined Ms. Mohamed.  (JE 1:32-
+34).  Ms. Mohamed reported that physical therapy helped, but continued to report 
+worsening back pain.  (JE 1:32).  She also noted that her knee pain was better.  (JE 
+1:32).  Upon physical examination, Dr. Aabida found issues with the right knee and 
+lumbosacral spine.  (JE 1:33).  Dr. Aabida opined that Ms. Mohamed had roughly 50 
+percent healing.  (JE 1:33).  Dr. Aabida recommended that Ms. Mohamed continue to 
+pause physical therapy, and ordered an MRI.  (JE 1:33).  Dr. Aabida gave Ms. 
+Mohamed some restrictions including that she could only work 6 hours per day.  (JE 
+1:34).  Ms. Mohamed could also occasionally do the following: lift up to 10 pounds, 
+push/pull up to 10 pounds, bend, stand, and rotate her trunk.  (JE 1:34).   
+Ms. Mohamed had an MRI of her lumbar spine on July 10, 2019, at Alliance 
+Healthcare Radiology.  (JE 2:38).  George Brown, M.D., interpreted the MRI results.  
+(JE 2:38).  The MRI showed no fractures.  (JE 2:38).  The L5-S1 level showed 
+advanced internal derangement on the right that minimally contacted both the right S1 
+nerve root sleeves and the exiting right L5 nerve root within the neural foramina.  (JE 
+2:38).  The L3-4 level showed minimal right far lateral disc bulging with annular tearing 
+that “very mildly’ narrowed the right sided neural foramina.  (JE 2:38).  There was 
+minimal disc bulging at L4-5.  (JE 2:38).  There was mild left greater than right 
+degenerative joint disease at L2-3.  (JE 2:38).  L1-2 was normal.  (JE 2:38).  Dr. Brown 
+concluded that there were spondylitic changes, which were age indeterminate.  (JE 
+2:38).   
+Ms. Mohamed returned to Concentra on July 12, 2019.  (JE 1:35-37).  Dr. Aabida 
+examined Ms. Mohamed.  (JE 1:35-37).  Ms. Mohamed reported worsening back pain, 
+and continued pain in her right knee.  (JE 1:35).  Dr. Aabida noted that Ms. Mohamed 
+was not demonstrating functional improvement.  (JE 1:35).  Dr. Aabida diagnosed Ms. 
+Mohamed with back pain with radiation and lumbar disc herniation.  (JE 1:36).  Dr. 
+Aabida referred Ms. Mohamed to a neurosurgeon.  (JE 1:36).  Her work restrictions 
+remained unchanged.  (JE 1:37).   
+On July 31, 2019, Ms. Mohamed reported to the Iowa Clinic where David Boarini, 
+M.D., examined her.  (JE 3:39-44).  Ms. Mohamed complained of back pain with 
+radiation down her left leg.  (JE 3:39).  She also had left leg weakness.  (JE 3:39).  Dr. 
+Boarini diagnosed Ms. Mohamed with acute midline low back pain without sciatica.  (JE 
+3:40).  Dr. Boarini then issued a letter stating that Ms. Mohamed “really mainly has axial 
+back pain and very little leg pain.”  (JE 3:41).  Dr. Boarini observed that Ms. Mohamed 
+walked slowly, but had no focal weakness.  (JE 3:41).  Dr. Boarini reviewed the MRI and 
+opined that it was “really quite unremarkable.”  (JE 3:41).  Dr. Boarini recommended 
+physical therapy, anti-inflammatories, and muscle relaxants.  (JE 3:41).  He felt that 
+there was no need for surgery.  (JE 3:41).  Dr. Boarini allowed Ms. Mohamed to return 
+to light duty work.  (JE 3:41).   
+Ms. Mohamed returned to Dr. Boarini’s office on August 21, 2019.  (JE 3:45-49).  
+Ms. Mohamed complained of back pain to her bilateral hips.  (JE 3:45).  She also 
+complained that her right leg was weak.  (JE 3:45).  Ms. Mohamed alleged that no one 
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 8 
+contacted her for physical therapy, so she had not had any.  (JE 3:45).  She was eager 
+to start physical therapy, as she felt she would benefit from it.  (JE 3:45).  Dr. Boarini 
+kept Ms. Mohamed on light duty.  (JE 3:47).   
+The claimant commenced physical therapy at Select Physical Therapy on 
+September 27, 2019.  (JE 4:59-62).  Ms. Mohamed’s daughter, Nibras, attended the 
+appointment in order to translate for her mother.  (JE 4:59).  Ms. Mohamed had low 
+back pain with radiculopathy ongoing for four months.  (JE 4:59).  She indicated that this 
+pain was worse on the left than the right.  (DE 6:29).  The therapist observed that Ms. 
+Mohamed ambulated slowly with decreased trunk motion.  (JE 4:60).  She could squat, 
+twist, bend, lift from the floor, and stand or walk frequently, but was currently allowed to 
+sit at work every hour for a short rest break.  (JE 4:60).   
+Ms. Mohamed had another therapy appointment with Select Physical Therapy on 
+October 10, 2019.  (JE 4:63-66).  She reported low back pain, and radicular pain into 
+the left lower extremity.  (JE 4:63).  The therapist opined that the claimant’s condition 
+improved overall.  (JE 4:63).  Ms. Mohamed tolerated the therapy appointment with mild 
+complaints of pain.  (JE 4:65).  She also showed a “fair perception of appropriate self-
+exertion levels.”  (JE 4:65).   
+On November 1, 2019, the claimant attended her tenth physical therapy visit at 
+Select Physical Therapy.  (JE 4:67-70).  She felt stiff and sore, and opined that her pain 
+increased.  (JE 4:67).  She continued to ambulate slowly with decreased trunk motion.  
+(JE 4:68).  The therapist reported that Ms. Mohamed had “a few good days a couple 
+weeks ago,” but that she “appeared to have a setback” causing her to be hesitant with 
+movement since.  (JE 4:68).  Ms. Mohamed could lift 20 pounds from the floor, but 
+displayed a poor technique in doing so.  (JE 4:68).  Ms. Mohamed demonstrated a 40 
+percent improvement in her symptoms.  (JE 4:70).  The therapist planned to move Ms. 
+Mohamed to independence or discharge over the next week.  (JE 4:70).  The therapist 
+told the claimant to contact her doctor for a follow-up appointment due to her continued 
+severity of pain complaints.  (JE 4:70).  Ms. Mohamed expressed concerns about 
+ceasing therapy.  (JE 4:70).   
+Ms. Mohamed continued her therapy with Select Physical Therapy on November 
+8, 2019.  (JE 4:71-74).  This was her twelfth physical therapy visit.  (JE 4:71).  Overall, 
+Ms. Mohamed’s condition remained unchanged, and she complained of increased pain 
+and falls over the previous two weeks.  (JE 4:71).  Additionally, she complained that 
+“[a]ny lifting, pushing/pulling has led to worsened symptoms.”  (JE 4:71).  The therapist 
+observed that Ms. Mohamed continued to ambulate in a slow fashion.  (JE 4:72).  The 
+therapist continued to opine that Ms. Mohamed’s prognosis was poor.  (JE 4:73).  As of 
+the end of this visit, Ms. Mohamed was discharged from physical therapy.  (JE 4:74).   
+On November 13, 2019, Ms. Mohamed followed up with Dr. Boarini at the Iowa 
+Clinic.  (JE 3:50-55).  Ms. Mohamed complained of back pain with radiation down her 
+right leg.  (JE 3:50).  She also complained of right buttock pain, right inner thigh muscle 
+spasm causing a loss of bladder control, and right leg weakness.  (JE 3:50).  She 
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 9 
+indicated that four weeks of physical therapy have provided no relief of symptoms.  (JE 
+3:50).  Dr. Boarini opined that Ms. Mohamed had “a fairly unremarkable physical 
+examination and MRI.”  (JE 3:51).  He noted that she improved with physical therapy 
+and walked normally.  (JE 3:51).  Dr. Boarini maintained the light duty restrictions for 
+four weeks while Ms. Mohamed finished physical therapy and work hardening.  (JE 
+3:51).  After that time, she was to return to regular duty with no restrictions.  (JE 3:51-
+52).   
+Ms. Mohamed returned to Select Physical Therapy on December 17, 2019.  (JE 
+4:75-77).  She recalled completing physical therapy, and indicated that it provided 
+improvement.  (JE 4:75).  However, she returned to work and continued to have pain 
+lifting and pushing.  (JE 4:75).  The therapist observed that Ms. Mohamed was eager to 
+get better, and did not want to complain.  (JE 4:75).  The claimant rated her pain 1 out 
+of 10 at the time of the appointment, and 0 out of 10 at the best.  (JE 4:75).  She could 
+lift up to 10 pounds, and push up to 50 pounds.  (JE 4:75).  Ms. Mohamed told the 
+therapist that she could perform most of the tasks of her job, except for lifting a case of 
+water from floor to waist, pushing a heavy cart, and performing sustained bending while 
+cleaning bathtubs.  (JE 4:76).  Since she worked, but had pain, the therapist 
+recommended physical therapy rather than work conditioning.  (JE 4:76).   
+By January 20, 2020, Ms. Mohamed completed her tenth visit with Select 
+Physical Therapy since restarting therapy in December of 2019.  (JE 4:78-80).  She 
+reported pain of 1 out of 10 during the visit, 2 out of 10 at its best and 8 out of 10 at its 
+worst.  (JE 4:78).  Ms. Mohamed was discharged from therapy due to a denial of 
+authorization.  (JE 4:80).   
+On March 12, 2020, Ms. Mohamed reported for an IME arranged for by 
+defendants with William R. Boulden, M.D., F.A.A.O.S., at Capital Orthopaedics & Sports 
+Medicine.  (DE 5:23-28).  He issued a report dictating his findings on March 13, 2020.  
+(DE 5:23-28).  An interpreter was used during the IME.  (DE 5:23).  Ms. Mohamed 
+related how the work injury allegedly occurred.  (DE 5:23).  Her chief complaint was low 
+back pain, which at its worst causes numbness and tingling in the buttocks through the 
+thigh into the foot.  (DE 5:23).  Dr. Boulden indicated that he could not identify a 
+dermatomal pattern in her description of the pain.  (DE 5:23).  Dr. Boulden reviewed Ms. 
+Mohamed’s medical treatment.  (DE 5:23-25).  Dr. Boulden reviewed the home exercise 
+plan with Ms. Mohamed.  (DE 5:25).  Ms. Mohamed performed mild stretching 
+exercises, but did not perform stabilization exercises.  (DE 5:25).  As of the time of the 
+examination, Ms. Mohamed was performing her normal work, but noted problems 
+performing her work on an every day basis.  (DE 5:25).   
+Ms. Mohamed told Dr. Boulden that bending, twisting, lifting, and pushing or 
+pulling the supply cart aggravated her symptoms.  (DE 5:25).  By midday, her pain 
+would begin to increase.  (DE 5:25).  By the end of the day, she has “a lot of pain and is 
+worn out.”  (DE 5:25).  She reported difficulty driving home.  (DE 5:25).  At times, she is 
+moved from her normal job to the laundry area, which is not as physically demanding.  
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 10 
+(DE 5:25).  Ms. Mohamed found relief from her pain by moving around and flexing her 
+hip and knee.  (DE 5:25).   
+Upon physical examination, Dr. Boulden observed that Ms. Mohamed stands in a 
+flexed position with her spine.  (DE 5:26).  When she extended her low back, her pain 
+increased.  (DE 5:26).  Dr. Boulden reviewed lumbar spine x-rays and an MRI.  (DE 
+5:26).  Dr. Boulden opined that Ms. Mohamed has degenerative disc disease “up and 
+down” her lumbar spine.  (DE 5:26).  She also has facet degenerative changes.  (DE 
+5:26).  Dr. Boulden did not see herniated discs in the lumbar spine, but saw disc bulging 
+at L5-S1.  (DE 5:26).  There also was no impingement of the L5 nerve root.  (DE 5:26).  
+Dr. Boulden opined that the findings are “all chronic in nature and are not related to the 
+alleged injury” described by Ms. Mohamed.  (DE 5:26).  Dr. Boulden further noted that 
+there were no clinical objective findings showing pathological changes.  (DE 5:26).  He 
+opined that she had mechanical back pain, and may have had a contusion to her back 
+or a lumbosacral strain.  (DE 5:27).  Ms. Mohamed could not describe how she fell, 
+which caused Dr. Boulden difficulty as he found no objective evidence of an injury.  (DE 
+5:27).  Dr. Boulden opined that Ms. Mohamed’s symptoms were subjective.  (DE 5:27).  
+While Ms. Mohamed had increased symptoms, Dr. Boulden concluded that Ms. 
+Mohamed did not materially aggravate her pre-existing back issues.  (DE 5:27).  Dr. 
+Boulden recommended a better rehabilitation program to relieve Ms. Mohamed’s 
+temporary aggravation.  (DE 5:27).  This program would include a strengthening-type 
+exercise program.  (DE 5:27).  Dr. Boulden declined to provide any work restrictions.  
+(DE 5:28).  Upon finishing proper instruction in a stabilization program, Dr. Boulden 
+would place Ms. Mohamed at maximum medical improvement (“MMI”).  (DE 5:28).  Dr. 
+Boulden finished his report by declining to provide an impairment rating due to the lack 
+of objective findings.  (DE 5:28).   
+On April 9, 2020, the claimant began another round of physical therapy for lower 
+back pain.  (JE 4:81-84).  The therapist noted that her pain improved with physical 
+therapy, but “significantly worsens with work.”  (JE 4:81).  She was transferred to the 
+laundry room due to her lower back pain, and found it less taxing on her back.  (JE 
+4:81).  At the time of her appointment, she was laid off due to COVID-19, and indicated 
+that being off work improved her back pain.  (JE 4:81).  Ms. Mohamed continued to 
+display an antalgic gait with decreased time standing on her left lower extremity.  (JE 
+4:82).  The therapist concluded their evaluation by recommending that Ms. Mohamed 
+have physical therapy three times per week for three weeks.  (JE 4:82).   
+By April 27, 2020, Ms. Mohamed attended her eighth visit of physical therapy at 
+Select Physical Therapy.  (JE 4:85-88).  She reported pain of 0 out of 10 at its best and 
+1 out of 10 at its worst.  (JE 4:85).  This represented a significant improvement over her 
+first visit on April 9, 2020.  (JE 4:85).  Ms. Mohamed told the therapist that she was able 
+to take many long walks with her daughter with “very little pain.”  (JE 4:86).  She 
+reported nervousness that her pain would return when she returned to work.  (JE 4:86).  
+Overall, Ms. Mohamed perceived her improvement as 90 percent.  (JE 4:86).  The 
+therapist found no tenderness over much of the claimant’s back.  (JE 4:86).  At the time 
+of discharge, the therapist opined that Ms. Mohamed had a good prognosis.  (JE 4:88).  
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 11 
+The therapist again noted that Ms. Mohamed had poor lifting mechanics and needed 
+frequent cueing to maintain mechanics.  (JE 4:88).  The therapist recommended that the 
+claimant continue her home exercises, and incorporate a walking program into her daily 
+routine.  (JE 4:88).     
+Dr. Boarini again examined Ms. Mohamed on August 24, 2020.  (JE 3:56-58).  
+She complained of back pain, left leg issues, bilateral leg weakness and difficulties 
+going from a sitting to standing position.  (JE 3:56).  Ms. Mohamed told Dr. Boarini that 
+she was not working at the time due to her symptoms.  (JE 3:56).  Dr. Boarini diagnosed 
+Ms. Mohamed with acute midline low back pain without sciatica.  (JE 3:57).  Dr. Boarini 
+recommended a physical therapy consultation and evaluation.  (JE 3:57).  Dr. Boarini 
+noted that the MRI was unremarkable and that it was unchanged from her previous 
+examination.  (JE 3:57).  Dr. Boarini wrote, “[t]his patient has myofascial back pain, and 
+I recommended a functional capacity evaluation to see what sort of work limitations she 
+needs.”  (JE 3:57-58).   
+On October 26, 2020, the claimant established care at Jordan Creek Family 
+Medicine Clinic, P.C., with Basil Hassan, M.D.  (JE 5:89-92).  Ms. Mohamed complained 
+of anterior chest wall pain with respiration, fatigue, hypertension and being overweight.  
+(JE 5:89).  Ms. Mohamed needed her blood pressure medication filled, and complained 
+of a “bump” on her chest that was growing for two years.  (JE 5:89).  She reported no 
+trauma or injury to her chest.  (JE 5:90).  She reported no muscle aches or localized 
+joint pains.  (JE 5:91).  Dr. Hassan instructed Ms. Mohamed to lose weight, provided a 
+prescription for Losatran-Potassium, and referred Ms. Mohamed for an x-ray due to 
+midsternal pain and protrusion.  (JE 5:91).   
+Ms. Mohamed attended a functional capacity evaluation (“FCE”) at E3 Work 
+Therapy Services on November 17, 2020.  (JE 6:98-108).  Kara Campbell, P.T.A., and 
+Aaron Timm, D.P.T. performed the testing on Ms. Mohamed.  (JE 6:98-108).  The 
+examiners opined that Ms. Mohamed’s overall effort was “equivocal” due to Ms. 
+Mohamed “performing indistinctly during a repeated measures protocol.”  (JE 6:98).  
+Ms. Mohamed could lift up to 36.37 pounds from 10 inches to the waist, and 37.27 
+pounds from 20 inches to the waist.  (JE 6:99).  She displayed frequent and extreme 
+overt pain behaviors during the FCE.  (JE 6:100).  Her pain questionnaires were low for 
+subjective pain reports and behaviors.  (JE 6:100).  The examiners found that benign 
+testing was positive for possible over-reporting of symptoms.  (JE 6:101).  The 
+examiners also recommended medical correlation.  (JE 6:101).  Based upon the results, 
+the examiners concluded that Ms. Mohamed met the material handling demands for a 
+medium demand vocation.  (JE 6:98).   
+At the direction of claimant’s counsel, Ms. Mohamed reported to Mid-Iowa 
+Independent Medical Evaluations for an IME performed by Jeffrey A. Pederson, D.O., 
+F.A.A.P.M.R., C.I.M.E., on December 9, 2020.  (CE 8:21-26).  Dr. Pederson issued a 
+report based upon his examination on December 11, 2020.  (CE 8:21-26).  Dr. 
+Pederson is a diplomate of the American Board of Physical Medicine and Rehabilitation.  
+(CE 9:27).  Ms. Mohamed related the facts of the initial work incident to Dr. Pederson.  
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 12 
+(CE 8:21-22).  Ms. Mohamed complained of pain at 7 out of 10.  (CE 8:22).  Lifting 
+anything over 15 pounds, sitting or standing for extended periods of time, and working 
+increased Ms. Mohamed’s back pain.  (CE 8:22).  She also complained of pain radiating 
+to the posterior right thigh.  (CE 8:22).  Dr. Pederson observed that Ms. Mohamed was 
+teary during the examination, and noted that her daughter opined that Ms. Mohamed 
+was depressed because she could not work or enjoy activities.  (CE 8:23).  Dr. 
+Pederson reviewed Ms. Mohamed’s medical treatment to date.  (CE 8:23-25).   
+Dr. Pederson examined Ms. Mohamed and found that she ambulated with a cane 
+and a flexed forward posture at the waist.  (CE 8:25).  Dr. Pederson found no pain with 
+passive rotation of the upper body as a unit.  (CE 8:25).  Ms. Mohamed could not touch 
+her toes on forward flexion.  (CE 8:25).  Dr. Pederson observed tenderness with 
+palpation over bilateral lumbar paraspinal muscles, sacroiliac joints, gluteal muscles, 
+and the greater trochanter region.  (CE 8:25).  Dr. Pederson also noted mild tightness in 
+the lumbar paraspinal muscles and quadratus lumborum.  (CE 8:25).  Dr. Pederson did 
+not find tenderness in the thoracic paraspinal muscles.  (CE 8:25).  Dr. Pederson 
+diagnosed Ms. Mohamed with right lumbar radiculopathy “likely S1 but unconfirmed,” 
+aggravation of pre-existing lumbar degenerative disc disease and facet arthropathy, 
+bilateral knee pain, and myofascial low back pain.  (CE 8:26).  Dr. Pederson opined that 
+the MRI showed degenerative changes with an annular tear, and further noted that this 
+“may cause a chemical radiculopathy.”  (CE 8:26).  Dr. Pederson stated, “[i]t is 
+reasonable the fall backwards caused or substantially aggravated the annular tear 
+and/or disc bulging causing radicular symptoms.”  (CE 8:26).  Since Ms. Mohamed had 
+a positive Kemp test and a reduction in symptoms while flexing forward, the involvement 
+of the lumbar facet joints after a traumatic fall should be considered.  (CE 8:26).  Dr. 
+Pederson opined that Ms. Mohamed had not reached maximum medical improvement 
+(“MMI”).  (CE 8:26).  He recommended a diagnostic workup with an electrodiagnostic 
+test of the right lower extremity and a transforaminal epidural steroid injection at S1 or 
+L5.  (CE 8:26).  He also noted that Ms. Mohamed could be a candidate for trigger point 
+injections.  (CE 8:26).   
+If Ms. Mohamed decided to forego further diagnostic or treatment options, Dr. 
+Pederson opined that Ms. Mohamed sustained a Category II lumbar impairment that 
+equated to 8 percent of the whole person.  (CE 8:26).  This is based upon Table 15-3 on 
+page 384 of the AMA Guides to the Evaluation of Permanent Impairment, Fifth Edition.  
+(CE 8:26).  For permanent restrictions, Dr. Pederson indicated that Ms. Mohamed 
+should lift no more than 30 pounds from the floor to the waist.  (CE 8:26).  She also 
+should avoid repetitive twisting and bending, and have the ability to change positions 
+frequently.  (CE 8:26).   
+Dr. Hassan examined Ms. Mohamed again on January 6, 2021.  (JE 5:93-97).  
+She complained of low back pain after a work injury in 2019.  (JE 5:93).  Her back pain 
+persisted for six days.  (JE 5:93).  She denied leg pain, numbness, or tingling.  (JE 
+5:93).  She told Dr. Hassan that she could feel her blood pressure go up when her pain 
+increased.  (JE 5:93).  Dr. Hassan recommended that Ms. Mohamed avoid lifting more 
+than 10 pounds and consider additional physical therapy if she was not improving.  (JE 
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 13 
+5:95).  Dr. Hassan also recommended that Ms. Mohamed lose weight.  (JE 5:95).  He 
+prescribed the claimant with Tizanidine and Aspercreme with lidocaine.  (JE 5:96).   
+On April 7, 2021, Ms. Mohamed reported to Iowa Ortho for an examination by 
+Trevor Schmitz, M.D.  (JE 7:109-111).  She reported her pain as 5 out of 10.  (JE 
+7:109).  She complained that her pain was persistent and worsening.  (JE 7:109).  
+Laying on her bed, or sitting for too long worsened her pain.  (JE 7:109).  Ms. Mohamed 
+related that previous physical therapy provided some help.  (JE 7:109).  She 
+complained of falling due to her low back pain.  (JE 7:109).  Dr. Schmitz noted Ms. 
+Mohamed’s antalgic gait and that she ambulated with a cane.  (JE 7:110).  Physical 
+examination of the claimant’s back showed normal alignment, a functional range of 
+motion, and tenderness to palpation at L5-S1.  (JE 7:110).  Left knee range of motion 
+examination caused pain, as well.  (JE 7:110).  Dr. Schmitz noted normal motor strength 
+at the hips, knees, ankles, and feet.  (JE 7:110).  Dr. Schmitz recommended dietary 
+counseling and surveillance.  (JE 7:110).   
+Vanessa May, M.S., C.R.C., of Disability Resource Consulting Services, LLC, 
+issued a vocational report on May 26, 2021, in response to a request from defendants’ 
+counsel.  (DE 4:14-19).  In preparing her report, Ms. May reviewed Ms. Mohamed’s job 
+description, employment history, and medical records.  (DE 4:14-16).  Ms. May noted 
+that Ms. Mohamed worked primarily as an unskilled laborer since arriving in the United 
+States of America.  (DE 4:16).  Despite being an unskilled laborer, Ms. May opined that 
+Ms. Mohamed had an excellent work history, which would provide her with some 
+advantage in the labor market.  (DE 4:16).  Ms. May noted that Dr. Boulden and Dr. 
+Schmitz opined that Ms. Mohamed retained the ability to meet the demands of medium 
+work as defined in the Dictionary of Occupational Titles.  (DE 4:17).  Ms. May opined 
+that Ms. Mohamed worked in medium work as a janitor, production helper, and child 
+care monitor.  (DE 4:17).  Ms. Mohamed worked in light work as a housekeeper.  (DE 
+4:17).   
+Ms. May performed a labor market survey using “mostly Light work demands, 
+with some falling within the Dictionary of Occupational Titles Medium level, but 
+presumably are within her restrictions based on the description given in the job posting.”  
+(DE 4:17).  Ms. May further opined that sedentary jobs were not included in her review, 
+but that Ms. Mohamed could perform unskilled sedentary occupations within her 
+restrictions.  (DE 4:17).  In performing her labor market survey, Ms. May identified 
+openings as a laundry worker, assembler of small products, cashier, housekeeper, 
+dietary aide, and kitchen helper.  (DE 4:17-19).  Within these categories, Ms. May 
+identified a number of open positions.  (DE 4:17-19).  Ms. May opined, “[b]ased on the 
+above findings, there are many current openings in the Des Moines, Iowa area that are 
+commensurate with Ms. Mohamed’s work abilities as found in the Functional Capacity 
+Evaluation.”  (DE 4:19).  She concluded that the labor market was “extremely friendly for 
+an applicant such as Ms. Mohamed. . . .”  (DE 4:19).   
+In response to a request from claimant’s counsel, Phil Davis, M.S., issued a 
+vocational report on May 31, 2021.  (CE 10:29-34).  As a part of this report, Mr. Davis 
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 14 
+interviewed the claimant on May 21, 2021, which was translated by the claimant’s 
+daughter, Nibras.  (CE 10:29).  Mr. Davis also reviewed the claimant’s medical records.  
+(CE 10:29).  During her interview, Ms. Mohamed indicated that she understood spoken 
+English on a scale of 5 out of 10, her ability to speak English as a 2-3 out of 10, and her 
+ability to speak English as 1 out of 10.  (CE 10:30).  She cannot write in English.  (CE 
+10:30).  After reviewing Ms. Mohamed’s previous employment, Mr. Davis opined that 
+Ms. Mohamed’s job required her to perform work within the medium physical demand 
+level.  (CE 10:33).  This was because she needed to lift in excess of 40 pounds on an 
+occasional basis, repetitively push and pull, squat, kneel, bend, twist, and stoop.  (CE 
+10:33).  She also was required to constantly walk throughout the course of her workday.  
+(CE 10:33).  Mr. Davis noted that a medium category job, as defined by the U.S. 
+Department of Labor, requires 50 pounds of maximum lifting with frequent lifting or 
+carrying of up to 25 pounds.  (CE 10:32).   
+Based upon the restrictions of Dr. Pederson, Mr. Davis opined that Ms. 
+Mohamed’s physical lifting abilities were within the light physical demand category.  (CE 
+10:33).  Mr. Davis further opined that Ms. Mohamed fell within the sedentary to limited 
+aspects of a light physical demand level.  (CE 10:33).  The light physical demand 
+category is defined as 20 pounds of maximum lifting with frequent lifting and carrying up 
+to 10 pounds.  (CE 10:32).  It is also defined as light “if less lifting is involved but 
+significant walking/standing is done or if done mostly sitting, but requires push/pull on 
+arm or leg controls.”  (CE 10:32).  Mr. Davis stated further, “I would opine that the 
+restrictions set forth by Dr. Pederson would preclude Ms. Mohamed from performing all 
+of the essential functions of any of her past employment activities.”  (CE 10:33).  He 
+continued that Ms. Mohamed had limited transferable skills based upon her employment 
+history.  (CE 10:33).  Mr. Davis concluded his report by opining that, based upon Dr. 
+Pederson’s restrictions, Ms. Mohamed is now 100 percent precluded in her ability to 
+perform any of her past employment activities without significant accommodations 
+provided by an employer.  (CE 10:33).   
+There are some questions about her termination, as she was initially furloughed 
+in March of 2020 due to a decrease in business caused by the COVID-19 pandemic.  
+(Testimony).  Mr. Danner testified that Ms. Mohamed was not furloughed due to her 
+restrictions.  (Testimony).  She returned to work for four days in July of 2020, but 
+indicated that her pain increased.  (Testimony).  Her furlough was reinstated.  
+(Testimony).  She never provided Atrium with any restrictions.  (Testimony).  On 
+October 30, 2020, Atrium terminated any employee that remained on furlough.  
+(Testimony).  Mr. Danner testified that he eventually reviewed the results of the FCE, 
+and that Ms. Mohamed could return to her housekeeping position with Atrium based 
+upon the position description.  (Testimony).  Mr. Danner indicated that Ms. Mohamed 
+would be able to stock her cleaning cart in a lighter fashion in order to avoid heavy lifting 
+or pushing.  (Testimony).   
+Ms. Mohamed testified that she continues to have low back pain on a daily basis.  
+(Testimony).  She cannot sit for long, and cannot sleep on one side for a long time.  
+(Testimony).  She can no longer clean her house, cut the grass, cook, or do laundry.  
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 15 
+(Testimony).  Her daughter testified that she and her sister help Ms. Mohamed maintain 
+her house.  (Testimony).  Ms. Mohamed also testified that she has difficulty ascending 
+or descending stairs.  (Testimony).  Thus, she established a new bedroom in her 
+kitchen rather than on the second floor of her home.  (Testimony).   
+Ms. Mohamed applied for jobs in November and December of 2020 at DeeZee, 
+the Mailbox, and Anderson Windows.  (Testimony).  She indicated that she failed a 
+physical examination at DeeZee.  (Testimony).  Upon providing the Mailbox with her 
+restrictions, they did not return her calls.  (Testimony).  Anderson Windows also 
+declined to offer her employment.  (Testimony).  She found out about these jobs from 
+family and friends.  (Testimony).  She did not apply for any other jobs until one week 
+prior to the hearing when she sought assistance from a state vocational rehabilitation 
+office.  (Testimony).  Ms. Mohamed indicated that she collected unemployment.  
+(Testimony).  This would indicate that she was ready, willing, and able, to work.  
+(Testimony).  Ms. Mohamed testified that she would be willing to work in a job that 
+complied with the restrictions of the FCE or Dr. Pederson.  (Testimony).   
+CONCLUSIONS OF LAW 
+ 
+The party who would suffer loss if an issue were not established has the 
+burden of proving that issue by a preponderance of the evidence.  Iowa R. App. 
+P. 6.904(3).   
+Temporary Total Disability/Temporary Partial Disability/Healing Period 
+Benefits 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is 
+probable, rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 
+148 (Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); 
+Sanchez v. Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996).   
+ 
+The question of medical causation is “essentially within the domain of expert 
+testimony.”  Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 844-45 (Iowa 
+2011).  The commissioner, as the trier of fact, must “weigh the evidence and measure 
+the credibility of witnesses.”  Id.  The trier of fact may accept or reject expert testimony, 
+even if uncontroverted, in whole or in part.  Frye, 569 N.W.2d at 156.  When considering 
+the weight of an expert opinion, the fact-finder may consider whether the examination 
+occurred shortly after the claimant was injured, the compensation arrangement, the 
+nature and extent of the examination, the expert’s education, experience, training, and 
+practice, and “all other factors which bear upon the weight and value” of the opinion.  
+Rockwell Graphic Sys., Inc. v. Prince, 366 N.W.2d 187, 192 (Iowa 1985).  Unrebutted 
+expert medical testimony cannot be summarily rejected.  Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910 (Iowa App. 1994).  Supportive lay testimony may be used 
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 16 
+to buttress expert testimony, and therefore is also relevant and material to the causation 
+question.   
+Iowa employers take an employee subject to any active or dormant health 
+problems, and must exercise care to avoid injury to both the weak and infirm and the 
+strong and healthy.  Hanson v. Dickinson, 188 Iowa 728, 176 N.W. 823 (1920).  While a 
+claimant must show that the injury proximately caused the medical condition sought to 
+be compensable, it is well established that a cause is “proximate” when it is a 
+substantial factor, or even the primary or most substantial cause to be compensable 
+under the Iowa workers’ compensation system.  Miller v. Lauridsen Foods, Inc., 525 
+N.W.2d 417 (Iowa 1994); Blacksmith v. All-American, Inc., 290 N.W.2d 348 (Iowa 
+1980).   
+The first question to consider in this matter is whether Ms. Mohamed’s work 
+injury on June 7, 2019, was a cause of temporary disability during a period of recovery.  
+In this case, the claimant was allowed to return to full duty work by Dr. Aabida in June of 
+2019.  There is no question that the claimant sustained a temporary disability during 
+several time periods in 2019, and early 2020.  During these times, several doctors either 
+excused her from work, or placed her on modified duty.  Both Dr. Pederson and Dr. 
+Boulden seem to agree that Ms. Mohamed had at the least, a temporary aggravation of 
+chronic back issues, and/or entitlement to temporary disability benefits.   
+As a general rule, “temporary total disability compensation benefits and healing-
+period compensation benefits refer to the same condition.”  Clark v. Vicorp Rest., Inc., 
+696 N.W.2d 596 604 (Iowa 2005).  The purpose of temporary total disability benefits 
+and healing period benefits is to “partially reimburse the employee for the loss of 
+earnings” during a period of recovery from the condition.  Id.  The appropriate type of 
+benefits depends on whether or not the employee has a permanent disability.  Dunlap v. 
+Action Warehouse, 824 N.W.2d 545, 556 (Iowa Ct. App. 2012).   
+When an injured worker has been unable to work during a period of recuperation 
+from an injury that did not produce permanent disability, the worker is entitled to 
+temporary total disability benefits during the time the worker is disabled by the injury.   
+Iowa Code 85.33(1) provides: 
+[t]he employer shall pay to an employee for injury producing temporary total 
+disability weekly compensation benefits, as provided in section 85.32, until 
+the employee has returned to work or is medically capable of returning to 
+employment substantially similar to the first employment in which the 
+employee was engaged at the time of injury, whichever occurs first.   
+Temporary total disability benefits cease when the employee returns to work, or is 
+medically capable of returning to substantially similar employment. 
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 17 
+ 
+Iowa Code 85.33(1) provides that healing period benefits are payable to an 
+injured worker who has suffered permanent partial disability until: (1) the worker has 
+returned to work; (2) the worker is medically capable of returning to substantially similar 
+employment; or, (3) the worker has achieved maximum medical recovery.  The first of 
+the three items to occur ends a healing period.  See Waldinger Corp. v. Mettler, 817 
+N.W.2d 1 (Iowa 2012); Evenson v. Winnebago Indus., 881 N.W.2d 360 (Iowa 2012); 
+Crabtree v. Tri-City Elec. Co., File No. 5059572 (App., Mar. 20, 2020).  The healing 
+period can be considered the period during which there is a reasonable expectation of 
+improvement of the disabling condition.  See Armstrong Tire & Rubber Co. v. Kubli, 312 
+N.W.2d 60 (Iowa App. 1981).  Healing period benefits can be interrupted or intermittent.  
+Teel v. McCord, 394 N.W.2d 405 (Iowa 1986).  Compensation for permanent partial 
+disability shall begin at the termination of the healing period.  Id.   
+ 
+An employee has a temporary partial disability when, because of the employee’s 
+medical condition, “it is medically indicated that the employee is not capable of returning 
+to employment substantially similar to the employment in which the employee was 
+engaged at the time of the injury, but is able to perform other work consistent with the 
+employee’s disability.”  Iowa Code 85.33(2).  Temporary partial disability benefits are 
+payable in lieu of temporary total disability and healing period benefits, due to the 
+reduction in earning ability as a result of the employee’s temporary partial disability, and 
+“shall not be considered benefits payable to an employee, upon termination of 
+temporary partial or temporary total disability, the healing period, or permanent partial 
+disability, because the employee is not able to secure work paying weekly earnings 
+equal to the employee’s weekly earnings at the time of the injury.”  Id. 
+ 
+Additionally, Iowa Code 85.33(3) provides in pertinent part: 
+If an employee is temporarily, partially disabled and the employer for whom 
+the employee was working at the time of the injury offers to the employee 
+suitable work consistent with the employee’s disability the employee shall 
+accept the suitable work, and be compensated with temporary partial 
+benefits.  If the employer offers the employee suitable work and the 
+employee refuses to accept the suitable work with the same employer, the 
+employee shall not be compensated with temporary partial, temporary total, 
+or healing period benefits during the period of the refusal.   
+Iowa Code 85.33(3).     
+ 
+The Iowa Supreme Court held that there is a two-part test to determine eligibility 
+under Iowa Code 85.33(3): “(1) whether the employee was offered suitable work, (2) 
+which the employee refused.  If so, benefits cannot be awarded, as provided in section 
+85.33(3).”  Schutler v. Algona Manor Care Center, 780 N.W.2d 549, 559 (Iowa 2010).  
+“If the employer fails to offer suitable work, the employee will not be disqualified from 
+receiving benefits regardless of the employee’s motive for refusing the unsuitable work.”  
+Neal v. Annett Holdings, Inc., 814 N.W.2d 512, 519 (Iowa 2012).  If an employee 
+refuses an offer of temporary work by claiming that the work is not suitable, the 
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 18 
+employee must communicate the refusal, and reasons for refusal, to the employer in 
+writing when the offer of work is refused.  Iowa Code section 85.33(3)(b).  If an 
+employee does not communicate the reason for a refusal in writing, the employee is 
+precluded from raising suitability of the work as the reason for refusal until the reason 
+for the refusal is communicated in writing to the employer.  Id.   
+Compensation for permanent partial disability shall begin at the termination of the 
+healing period.   
+The claimant suggests that she is entitled to temporary disability benefits from 
+August 24, 2020, to the present and ongoing.  On August 24, 2020, Ms. Mohamed 
+visited Dr. Boarini.  Dr. Boarini noted that the results of a recent MRI were “quite 
+unremarkable,” and diagnosed Ms. Mohamed with myofascial back pain.  He 
+recommended a FCE to provide work restrictions.  A FCE was performed on November 
+17, 2020.  The FCE concluded that Ms. Mohamed met the material handling demands 
+for a medium demand vocation, according to the Dictionary of Occupational Titles.  The 
+Dictionary of Occupational Titles defines medium work as “[e]xerting 20 to 50 pounds of 
+force occasionally, and/or 10 to 25 pounds of force frequently, and/or greater than 
+negligible up to 10 pounds of force constantly to move objects.  Physical Demand 
+requirements are in excess of those for Light Work.”  Dictionary of Occupational Titles – 
+Appendix C, http://www.dol.gov/agencies/oalj/PUBLIC/DOT/REFERENCES/DOTAPPC 
+(last visited August 13, 2021).  Dr. Schmitz later examined Ms. Mohamed and made no 
+mention of any restrictions or long term issues.  Dr. Schmitz’s plan was simply to 
+recommend dietary counseling and surveillance.  Vanessa May noted that Dr. Boulden 
+and Dr. Schmitz opined that Ms. Mohamed retained the ability to meet the demands of 
+medium work as defined in the Dictionary of Occupational Titles.  Ms. Mohamed 
+previously worked in medium work as a janitor, production helper, and child care 
+monitor, and in light work as a housekeeper.   
+Ms. Mohamed later had an IME with Dr. Pederson.  Dr. Pederson recommended 
+additional treatment, but also provided his own restrictions.  These restrictions included 
+no lifting more than 30 pounds from the floor to waist, and avoiding repetitive twisting 
+and bending.  Dr. Pederson also recommended that Ms. Mohamed be allowed to 
+change positions frequently.  Phil Davis opined that these restrictions precluded Ms. 
+Mohamed from working in her past jobs, as she could only work within the light physical 
+demand area.  The Dictionary of Occupational Titles defines light work as: 
+Exerting up to 20 pounds of force occasionally, and/or up to 10 pounds of 
+force frequently, and/or a negligible amount of force constantly (Constantly: 
+activity or condition exists 2/3 or more of the time) to move objects. Physical 
+demand requirements are in excess of those for Sedentary Work. Even 
+though the weight lifted may be only a negligible amount, a job should be 
+rated Light Work: (1) when it requires walking or standing to a significant 
+degree; or (2) when it requires sitting most of the time but entails pushing 
+and/or pulling of arm or leg controls; and/or (3) when the job requires 
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 19 
+working at a production rate pace entailing the constant pushing and/or 
+pulling of materials even though the weight of those materials is negligible.  
+Id.   
+ 
+Based upon my review of the evidence in the record, I find that Ms. Mohamed 
+was medically capable of returning to substantially similar employment as of the FCE on 
+November 17, 2020.   This is based upon the opinions of Dr. Boarini, Dr. Boulden, Dr. 
+Schmitz, and Ms. May, which I find to be more persuasive than the opinions of Dr. 
+Pederson and Mr. Davis.  Mr. Danner also testified that Ms. Mohamed could perform 
+her job with Atrium within the restrictions or weight limits as noted in the FCE despite 
+the job description not containing any weight requirements.  He also testified that Ms. 
+Mohamed could perform her position within the restrictions of Dr. Pederson.  I 
+determined that Ms. Mohamed was medically capable of returning to substantially 
+similar employment as of the FCE on November 17, 2020.  This predates Dr. 
+Pederson’s IME.  Therefore, I find that Ms. Mohamed is entitled to temporary disability 
+or healing period benefits from August 24, 2020, to November 17, 2020.   
+Permanent Disability 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is 
+probable, rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 
+148 (Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); 
+Sanchez v. Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996).   
+ 
+The question of medical causation is “essentially within the domain of expert 
+testimony.”  Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 844-45 (Iowa 
+2011).  The commissioner, as the trier of fact, must “weigh the evidence and measure 
+the credibility of witnesses.”  Id.  The trier of fact may accept or reject expert testimony, 
+even if uncontroverted, in whole or in part.  Frye, 569 N.W.2d at 156.  When considering 
+the weight of an expert opinion, the fact-finder may consider whether the examination 
+occurred shortly after the claimant was injured, the compensation arrangement, the 
+nature and extent of the examination, the expert’s education, experience, training, and 
+practice, and “all other factors which bear upon the weight and value” of the opinion.  
+Rockwell Graphic Sys., Inc. v. Prince, 366 N.W.2d 187, 192 (Iowa 1985).  Unrebutted 
+expert medical testimony cannot be summarily rejected.  Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910 (Iowa App. 1994).  Supportive lay testimony may be used 
+to buttress expert testimony, and therefore is also relevant and material to the causation 
+question.   
+While a claimant is not entitled to compensation for the results of a preexisting 
+disease, its mere existence at the time of a subsequent injury is not a defense.  Rose v. 
+John Deere Ottumwa Works, 247 Iowa 900, 76 N.W.2d 756 (1956).  It is well 
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 20 
+established in workers’ compensation that “if a claimant had a preexisting condition or 
+disability, aggravated, accelerated, worsened, or ‘lighted up’ by an injury which arose 
+out of and in the course of employment resulting in a disability found to exist,” the 
+claimant is entitled to compensation.  Iowa Dep’t of Transp. v. Van Cannon, 459 N.W.2d 
+900, 904 (Iowa 1990).  The Iowa Supreme Court has held,  
+a disease which under any rational work is likely to progress so as to finally 
+disable an employee does not become a “personal injury” under our 
+Workmen’s Compensation Act merely because it reaches a point of 
+disablement while work for an employer is being pursued.  It is only when 
+there is a direct causal connection between exertion of the employment and 
+the injury that a compensation award can be made.  The question is whether 
+the diseased condition was the cause, or whether the employment was a 
+proximate contributing cause.   
+Musselman v. Cent. Tel. Co., 261 Iowa 352, 359-60, 154 N.W.2d 128, 132 (1967).   
+ 
+Much like with the analysis regarding temporary disability above, the first 
+question to examine with regard to Ms. Mohamed’s claim for permanent disability 
+benefits is whether or not the alleged injury of June 9, 2019, is a cause of permanent 
+disability.  In this matter, as in many, there are conflicting opinions between medical 
+providers and examiners.   
+On July 10, 2019, after several rounds of physical therapy, Ms. Mohamed had an 
+MRI.  The MRI showed age indeterminate spondylitic changes to the lumbar spine, 
+other degenerative joint disease, and minimal contact at L5-S1 to the S1 nerve root 
+sleeves and the exiting L5 nerve root.  Dr. Boarini examined Ms. Mohamed and 
+reviewed the MRI.  He opined that Ms. Mohamed’s MRI results were unremarkable.  He 
+also opined that his physical examination of Ms. Mohamed was unremarkable.  He 
+reiterated this opinion in November of 2019.  He recommended that Ms. Mohamed 
+complete another round of physical therapy.  When she began physical therapy in 
+December of 2019, she reported pain of 0 to 1 out of 10.  Dr. Boarini eventually 
+recommended a FCE.  This was performed in November of 2019.  The FCE concluded 
+that Ms. Mohamed met material handling demands for a medium demand vocation.  Dr. 
+Schmitz also examined Ms. Mohamed.  He noted her complaints, but provided no 
+opinion as to whether they resulted in a permanent impairment.  He recommended that 
+Ms. Mohamed have dietary counseling and surveillance.   
+ 
+Dr. Boulden, the defense retained IME doctor, found that Ms. Mohamed had 
+degenerative disc disease up and down her spine.  He opined that the MRI of July 10, 
+2019, was “over read” and that it failed to show actual nerve impingement.  This was 
+chronic in nature, and Dr. Boulden found no objective evidence of injury upon reviewing 
+the MRI.  Dr. Boulden opined that Ms. Mohamed had chronic issues with her spine, and 
+that her increased subjective complaints were not evidence of a material aggravation of 
+these issues.  Based upon his examination of the claimant and review of the records, 
+Dr. Boulden declined to provide a permanent impairment rating.   
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 21 
+ 
+Dr. Pederson, the claimant retained IME doctor, recommended additional 
+treatment and diagnostics.  He opined that Ms. Mohamed’s fall caused, or aggravated 
+Ms. Mohamed’s annular tear and/or disc bulging which caused radicular symptoms.  He 
+also provided permanent restrictions and an impairment rating if Ms. Mohamed did not 
+choose to undergo additional treatment.  It is unclear from his report whether Dr. 
+Pederson reviewed the actual MRI or just the report.   
+ 
+Based upon the testimony of Ms. Mohamed and her daughter in this case, it is 
+clear that Ms. Mohamed has subjective complaints of pain.  She also claimed physical 
+limitations now, which she did not have prior to the work incident.  However, I find the 
+medical evidence from Dr. Boarini, Dr. Boulden, and Dr. Schmitz to be most persuasive 
+when compared to the opinion of Dr. Pederson.   
+ 
+Dr. Boarini, a treating physician, indicated that Ms. Mohamed’s examination and 
+MRI were unremarkable.  Dr. Schmitz examined Ms. Mohamed and made no treatment 
+recommendations with regard to Ms. Mohamed’s back, outside of dietary counseling 
+and surveillance.  Finally, Dr. Boulden, even though he was retained by defendants, 
+provided a clear opinion as to this being a chronic condition of Ms. Mohamed with no 
+evidence of an acute injury.  Dr. Boulden and Dr. Boarini both reviewed the MRI of Ms. 
+Mohamed.  It is unclear whether Dr. Pederson did.  Therefore, I conclude that the 
+claimant failed to prove, by a preponderance of the evidence, that the work injury of 
+June 7, 2019, was a cause of permanent disability.  Considering the foregoing, there is 
+no need to engage in an analysis as to whether or not the claimant sustained an 
+industrial disability, nor is there a need to determine the extent of permanent disability.   
+Ms. Mohamed alleges in her post-hearing briefing that she is permanently and 
+totally disabled under the statute and common law odd-lot doctrine.   
+ 
+In Iowa, a claimant may establish permanent total disability under the statute, or 
+through the common law odd-lot doctrine.  Michael Eberhart Constr. v. Curtin, 674 
+N.W.2d 123, 126 (Iowa 2004)(discussing both theories of permanent total disability 
+under Idaho law and concluding the deputy’s ruling was not based on both theories 
+rather, it was only based on the odd-lot doctrine).  Under the statute, the claimant may 
+establish that they are totally and permanently disabled if the claimant’s medical 
+impairment, taken together with nonmedical factors totals 100-percent.  Id.  The odd-lot 
+doctrine applies when the claimant has established the claimant has sustained 
+something less than 100-percent disability, but is so injured that the claimant is “unable 
+to perform services other than ‘those which are so limited in quality, dependability or 
+quantity that a reasonably stable market for them does not exist.’”  Id.  (quoting Boley v. 
+Indus. Special Indem. Fund, 130 Idaho 278, 281, 939 P.2d 854, 857 (1997)).   
+ 
+“Total disability does not mean a state of absolute helplessness.”  Walmart 
+Stores, Inc. v. Caselman, 657 N.W.2d 493, 501 (Iowa 2003)(quoting IBP, Inc. v. Al-
+Gharib, 604 N.W.2d 621, 633 (Iowa 2000)).  Total disability occurs when the injury 
+wholly disables the employee from performing work that the employee’s experience, 
+training, intelligence, and physical capacities would otherwise permit the employee to 
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 22 
+perform.”  IBP, Inc., 604 N.W.2d at 633. However, finding that the claimant could 
+perform some work despite claimant’s physical and educational limitations does not 
+foreclose a finding of permanent total disability.   See Chamberlin v. Ralston Purina, File 
+No. 661698 (App. October 1987); Eastman v. Westway Trading Corp., II Iowa Industrial 
+Commissioner Report 134 (App. May 1982).   
+ 
+In Guyton v. Irving Jensen, Co., the Iowa Supreme Court formally adopted the 
+“odd-lot doctrine.”  373 N.W.2d 101 (Iowa 1985).  Under that doctrine, a worker 
+becomes an odd-lot employee when an injury makes the worker incapable of obtaining 
+employment in any well-known branch of the labor market.  An odd-lot worker is thus 
+totally disabled if the only services the worker can perform are “so limited in quality, 
+dependability, or quantity that a reasonably stable market for them does not exist.”  Id., 
+at 105.   
+ 
+Under the odd-lot doctrine, the burden of persuasion on the issue of industrial 
+disability always remains with the worker.  Nevertheless, when a worker makes a prima 
+facie case of total disability by producing substantial evidence that the worker is not 
+employable in the competitive labor market, the burden to provide evidence showing 
+availability of suitable employment shifts to the employer.  If the employer fails to 
+produce such evidence and the trier of fact finds the worker does fall in the odd-lot 
+category, then the worker is entitled to a finding of total disability.  Guyton, 373 N.W.2d 
+at 106.  Factors to be considered in determining whether a worker is an odd-lot 
+employee include: the worker’s reasonable but unsuccessful effort to find steady 
+employment, vocational or other expert evidence demonstrating suitable work is not 
+available for the worker, the extent of the worker’s physical impairment, intelligence, 
+education, age, training, and potential for retraining.  No factor is necessarily dispositive 
+on the issue.  Second Injury Fund of Iowa v. Nelson, 544 N.W.2d 258 (Iowa 1995).  
+Even under the odd-lot doctrine, the trier of fact is free to determine the weight and 
+credibility of evidence in determining whether the worker’s burden of persuasion has 
+been carried, and only in an exceptional case would evidence be sufficiently strong as 
+to compel a finding of total disability as a matter of law.  Guyton, 373 N.W.2d at 106.   
+ 
+I previously found that the claimant failed to prove, by a preponderance of the 
+evidence, that the work injury of June 7, 2019, was a cause of permanent disability.  For 
+the same reasons, the claimant failed to prove that she is permanently and totally 
+disabled.   
+Alternate Care pursuant to Iowa Code section 85.27 
+Iowa Code section 85.27(4) provides, in relevant part: 
+For purposes of this section, the employer is obliged to furnish reasonable 
+services and supplies to treat an injured employee, and has the right to 
+choose the care….  The treatment must be offered promptly and be 
+reasonably suited to treat the injury without undue inconvenience to the 
+employee.  If the employee has reason to be dissatisfied with the care 
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 23 
+offered, the employee should communicate the basis of such dissatisfaction 
+to the employer, in writing if requested, following which the employer and 
+the employee may agree to alternate care reasonably suited to treat the 
+injury.  If the employer and employee cannot agree on such alternate care, 
+the commissioner may, upon application and reasonable proofs of the 
+necessity therefor, allow and order other care.   
+Iowa Code section 85.27(4).  
+ 
+The employer has the right to choose the provider of care, except where the 
+employer has denied liability for the injury.  Iowa Code section 85.27.  Holbert v. 
+Townsend Engineering Co., Thirty-second Biennial Report of the Industrial 
+Commissioner 78 (Review-Reopening, October 16, 1975).  An employer’s right to select 
+the provider of medical treatment to an injured worker does not include the right to 
+determine how an injured worker should be diagnosed, evaluated, treated, or other 
+matters of professional medical judgment.  Assmann v. Blue Star Foods, File No. 
+866389 (Declaratory Ruling, May 19, 1988).  Reasonable care includes care necessary 
+to diagnose the condition and defendants are not entitled to interfere with the medical 
+judgment of its own treating physician.  Pote v. Mickow Corp., File No. 694639 (Review-
+Reopening, June 17, 1986).   
+ 
+By challenging the employer’s choice of treatment - and seeking alternate care – 
+claimant assumes the burden of proving the authorized care is unreasonable.  See e.g. 
+Iowa R. App. P. 14(f)(5); Bell Bros. Heating and Air Conditioning v. Gwinn, 779 N.W.2d 
+193, 209 (Iowa 2010); Long v. Roberts Dairy Co., 528 N.W.2d 122 (Iowa 1995).  
+Determining what care is reasonable under the statute is a question of fact.  Long v. 
+Roberts Dairy Co., 528 N.W.2d 122 (Iowa 1995). 
+ 
+An application for alternate medical care is not automatically sustained because 
+claimant is dissatisfied with the care she has been receiving.  Mere dissatisfaction with 
+the medical care is not ample grounds for granting an application for alternate medical 
+care.  Rather, the claimant must show that the care was not offered promptly, was not 
+reasonably suited to treat the injury, or that care was unduly inconvenient for the 
+claimant.  Id.  Because “the employer’s obligation under the statute turns on the 
+question of reasonable necessity, not desirability,” and injured employee’s 
+dissatisfaction with employer-provided care, standing alone, is not enough to find such 
+care unreasonable.  Id.  Reasonable care includes care necessary to diagnose the 
+condition, and defendants are not entitled to interfere with the medical judgement of its 
+own treating physician.  Pote v. Mickow Corp., File No. 694639 (Review-Reopening, 
+June 17, 1986). 
+ 
+In this case, the claimant seeks alternate care by way of an EMG and “other 
+injection/medication modalities” as recommended by Dr. Pederson in December of 
+2020.   
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 24 
+ 
+I previously found that Ms. Mohamed did not incur a permanent disability, and 
+that her healing period ended on November 17, 2020.  Therefore, ordering the 
+defendants to provide additional treatment is not appropriate.  The request for alternate 
+medical care is denied. 
+Costs 
+Claimant seeks the award of costs as outlined in Claimant’s Exhibit 12.  Costs 
+are to be assessed at the discretion of the deputy commissioner hearing the case.  See 
+876 Iowa Administrative Code 4.33; Iowa Code 86.40.  876 Iowa Administrative Code 
+4.33(6) provides:  
+Costs taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+reviewing health service disputes.   
+The claimant seeks an award of one hundred and 30/100 dollars ($100.30) for filing 
+fees.  In my discretion, I award the claimant one hundred and 30/100 dollars ($100.30) 
+for the filing fee.   
+ORDER 
+ 
+THEREFORE, IT IS ORDERED: 
+The defendants shall pay claimant healing period benefits from August 24, 2020, 
+to November 17, 2020.   
+The claimant shall take nothing with regard to permanent disability benefits. 
+The claimant’s request for alternate medical care is denied. 
+The defendants shall reimburse the claimant one hundred and 30/100 dollars 
+($100.30) for costs incurred. 
+Pursuant to the agreement of the parties at the outset of the arbitration hearing, 
+the defendants shall reimburse the claimant for the reasonable costs of the IME 
+pursuant to Iowa Code section 85.39. 
+
+MOHAMED V. SOMPO/GALLAGHER BASSETT 
+Page 25 
+The defendants shall pay accrued weekly benefits in a lump sum together with 
+interest.  All interest on past due weekly compensation benefits shall be payable at an 
+annual rate equal to the one-year treasury constant maturity published by the federal 
+reserve in the most recent H15 report settled as of the date of injury, plus two percent.  
+See Gamble v. AG Leader Technology, File No. 5054686 (App. Apr. 24, 2018).   
+The defendant shall file a first report of injury (FROI) as required by this agency 
+pursuant to 876 IAC 3.1(1) and 876 IAC 11.7.   The FROI shall be filed within fifteen 
+(15) days of the date of this order. 
+The defendant shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to 876 IAC 3.1(2) and 876 IAC 11.7.   
+Signed and filed this __8th ___ day of October, 2021. 
+The parties have been served, as follows: 
+Samuel Aden (via WCES) 
+William Scherle (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address:  Workers’ Com pensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal pe riod 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+   ANDREW M. PHILLIPS 
+               DEPUTY WORKERS’ 
+     COMPENSATION COMMISSIONER 

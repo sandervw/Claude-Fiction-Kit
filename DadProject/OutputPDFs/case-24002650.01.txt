@@ -1,0 +1,369 @@
+Case Number: 24002650.01
+Case Title:  DYER, PAUL V. UNITED PARCEL SERVICE
+Doc Type:    Decision - Alternate Medical Care
+Source:      Dyer Paul-24002650.01m.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+PAUL DYER, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+File No. 24002650.01 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                           
+UNITED PARCEL SERVICE, 
+  : 
+    ALTERNATE MEDICAL CARE 
+ 
+ 
+  :                           DECISION 
+ 
+Employer, 
+  : 
+ 
+ 
+  :                           
+and 
+ 
+  : 
+ 
+ 
+  : 
+LIBERTY MUTUAL INS. CORP.,  
+  : 
+ 
+ 
+  : 
+             Head Note:  2701 
+ 
+Insurance Carrier, 
+  : 
+ 
+Defendants. 
+  :                 
+ 
+STATEMENT OF THE CASE   
+This is a contested case proceeding under Iowa Code chapters 85 and 17A. The 
+expedited procedure of rule 876 IAC 4.48 is invoked by claimant, Paul Dyer. Claimant 
+appeared telephonically and through his attorney, Jenna Cruise. Defendants appeared 
+through their attorney, Colin Lane.  
+The alternate medical care claim came on for hearing on June 17, 2025. The 
+proceedings were digitally recorded. That recording constitutes the official record of this 
+proceeding. Pursuant to the Commissioner’s July 21, 2023 Order, the undersigned has 
+been delegated authority to issue a final agency decision in this alternate medical care 
+proceeding. Therefore, this ruling is designated final agency action and any appeal of 
+the decision would be to the Iowa District Court pursuant to Iowa Code section 17A. 
+Claimant testified on his own behalf. His wife, Charity Dyer, also testified. Both 
+parties filed motions to exceed the 10-page limitation on exhibits, and given neither 
+party objected, the motions were granted. The record consists of Claimant’s Exhibits 1 
+through 6, consisting of 13 pages, and Defendants’ Exhibits A through G, consisting of 
+18 pages.  
+ISSUE 
+The issue presented for resolution is whether the claimant is entitled to alternate 
+medical care consisting of: 
+1. Authorization and payment for a SAVI Dual Migraine Therapy Device. 
+ELECTRONICALLY FILED     2025-Jun-17  14:00:42     DIVISION OF WORKERS' COMPENSATION
+
+DYER V. UNITED PARCEL SERVICE 
+Page 2 
+ 
+ 
+2. Authorization for in-person mental health counseling. 
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence in the record, finds: 
+Claimant sustained a work-related injury on February 29, 2024. (See Petition; 
+Claimant’s Testimony) He sustained injuries including to his head and brain, and is left 
+with chronic migraine headaches and some cognitive deficits. Defendants have 
+accepted liability for the injuries.  
+Claimant has received authorized medical treatment from Chia-Chun Chiang, 
+M.D., at the Mayo Clinic’s Department of Neurology. In March of 2025, he had a 
+comprehensive visit in the neurology department to address his chronic migraine 
+symptoms. (Claimant’s Exhibits 3-4) In addition to Dr. Chiang, he also saw Thomas 
+Bergquist, Ph.D., for a neuropsychological consultation. (Cl. Ex. 4) 
+First, with respect to claimant’s migraines, he testified that he takes several 
+medications for his migraines, and has tried a device called “HeadaTerm,” which is 
+essentially a TENS unit that is worn on the forehead and provides electrical shocks. He 
+testified that it felt like bee stings, and the device actually amplified his migraines rather 
+than helping. It was provided through a different treatment provider he saw at the 
+University of Iowa. Claimant’s wife also testified that the HeadaTerm device did not help 
+claimant, and if it is not used at precisely the right time, it causes a spike in the migraine 
+pain. 
+Both claimant and his wife testified that they discussed several neuromodulation 
+treatment devices for claimant’s chronic migraines with Dr. Chiang. Her record indicates 
+that claimant was interested in the SAVI Dual eNeura, which provides transcranial 
+magnetic stimulation (TMS). (Cl. Ex. 3) Her record indicates it is an FDA approved 
+central neuromodulation therapy that was developed to treat acute attacks and prevent 
+future migraines. The device delivers “single low frequency electromagnetic fields that 
+pass through bone and tissue.” Dr. Chiang wrote a prescription for the eNeura SAVI 
+device on March 24, 2025. (Cl. Ex. 1, p. 2) 
+On March 25, 2025, claimant received an email from eNeura regarding his 
+prescription. The email outlines the cost of the device and notes that eNeura is unable 
+to “verify benefits/check coverage, process claims, or make/receive payments” as they 
+are an out-of-network provider for many insurance plans. 
+Liberty Mutual referred the prescription for the eNeura device to Optum, an 
+outside vendor. (Cl. Ex. 2, p. 1) It is unclear when Optum was retained to secure the 
+device, but on April 30, 2025, the Optum representative emailed the insurance adjustor 
+regarding the device. (Defendants’ Exhibit D, p. 5) The email notes that Optum had 
+never processed the particular eNeura device before, but had processed Cefaly 
+devices, which are for purchase. The eNeura device is an ongoing subscription that is 
+charged to a credit card on file monthly. The first order is a minimum of three months. 
+
+DYER V. UNITED PARCEL SERVICE 
+Page 3 
+ 
+ 
+The Optum representative asked if they would be able to provide the Cefaly device 
+instead, or if Liberty would want to purchase the eNeura device. 
+The adjuster replied on May 3, 2025, asking how much it would cost to purchase 
+the eNeura device rather than renting it. (Def. Ex. D, p. 4) She followed up on May 6. 
+(Def. Ex. D, p. 3) On May 7, Optum replied they were waiting on a call from a 
+manufacturer about pricing. That same day, Kara Shorb from eNeura emailed the 
+Optum representative with additional details about the device, and noted that eNeura is 
+the sole manufacturer of the device, and they do not offer the ability to purchase the 
+device. (Def. Ex. C) She explained that they assume all costs of repair as the sole 
+manufacturer, and if a patient purchased the device, there would be no way to facilitate 
+a repair. There is no mention of payment via credit card in the email, but it states that 
+the initial three months can be paid at once or in monthly installments. 
+On May 9, the Optum representative advised that eNeura does not offer a 
+purchase option, and they require a monthly fee on a credit card for leasing the device. 
+(Def. Ex. D, p. 2) She advised that Optum was unable to do a credit card payment, and 
+offered to forward the contact information to the adjuster to work with eNeura directly. 
+She noted that another option would be to ask the prescribing provider if another 
+comparable device could be purchased. The adjuster replied and said “Yes, please 
+reach out to Enerua [sic] directly.”  
+On May 20, 2025, the Optum representative emailed the adjuster again, and 
+indicated she had been trying to assist with the referral, but per her leadership she was 
+unable to process. (Def. Ex. D, p. 1) She provided email information obtained from the 
+manufacturer, and noted that it had been determined “not a billable service” through 
+Optum. 
+On May 21, 2025, the claims adjuster emailed Barb Schweiss at the Mayo Clinic, 
+and noted that the order for the neuromodulation device was authorized. (Def. Ex. B) 
+The adjuster said they had tried to dispense through one of Liberty’s vendors, but were 
+unable to do so. Barb replied later that day and said she advised the doctor that they 
+could dispense the neuromodulation device for claimant because Liberty was not able 
+to get one, noting “Hopefully they can get that for the patient soon.”  
+Claimant filed the petition for alternate medical care on June 5, 2025. On June 
+11, 2025, the adjuster emailed Barb again asking about the status of the 
+neuromodulation device, as claimant had not yet received one. (Def. Ex. F, p. 5) Barb 
+replied later that day and indicated claimant’s chart did not show any device had been 
+sent to him, so she sent another message to the doctor to get one ordered from one of 
+their vendors. On June 13, 2025, the adjuster contacted Barb again seeking an update. 
+(Def. Ex. F, p. 4) Barb replied on June 16, 2025, and advised that the device must be 
+dispensed directly from eNeura. She noted that Mayo Clinic could not dispense the 
+item, and eNeura was waiting for authorization from Liberty Mutual to dispense it. She 
+attached a letter from Dr. Chiang, dated June 16, 2025, that confirmed that Mayo Clinic 
+does not sell any device like the eNeura device, and it must be obtained through 
+eNeura. (Def. Ex. G, p. 3)  
+
+DYER V. UNITED PARCEL SERVICE 
+Page 4 
+ 
+ 
+Later on June 16, defense counsel replied to Barb and explained that Optum had 
+been working on obtaining the device on behalf of Liberty, and the issue with the 
+requirement of a credit card purchase. (Def. Ex. F, p. 3) She asked if there was a 
+comparable device that would work that could be purchased. Barb replied that she 
+would check with the doctor. Later that day defense counsel asked specifically why the 
+prescription had to be for the eNeura device, when there were other neuromodulation 
+devices available for purchase, giving the Cefaly device as an example. (Def. Ex. F, p. 
+1) Barb replied later that day with a response from Dr. Chiang that states: 
+When I discussed the options of neuromodulation devices with the 
+patient during our appointment, they are most interested in eNeura, and 
+thus I sent the prescription for that. If there is significant difficulty obtaining 
+eNeura, then I think Cefaly would be a reasonable alternative as well. It 
+does not require a prescription.  
+(Def. Ex. G, p. 1) 
+Upon receipt of the last email from Barb, defense counsel emailed claimant’s 
+attorney and indicated Liberty would purchase the Cefaly device for claimant. (Def. Ex. 
+F, p. 1) Claimant’s attorney then emailed Kara Shorb at eNeura and asked if they would 
+be able to invoice workers’ compensation on a monthly basis if the device was 
+approved, as opposed to requiring a credit card for payment. (Cl. Ex. 5, p. 2) Kara 
+replied at 11:41 p.m. on June 16, 2025, and said they can accept payment via credit 
+card or via check. (Cl. Ex. 5, p. 1) She noted the initial prescription is for three months, 
+and they can invoice but not monthly; rather, patients who are invoiced pay in three-
+month increments. She also explained that they require payment up front prior to 
+sending the device as they have had issues obtaining workers’ compensation payments 
+in the past.  
+At hearing, both claimant and his wife testified that their understanding based on 
+their conversation with Dr. Chiang is that the Cefaly device is the same or similar to the 
+HeadaTerm device that claimant has already tried. Claimant testified that he specifically 
+wanted to try the eNeura device because it does not use electrical shocks, which make 
+the migraines worse. His wife testified her understanding that the Cefaly device is 
+essentially a TENS unit, while the eNeura device is a TMS device, which is different. 
+Both recognize that Dr. Chiang stated the Cefaly would be a reasonable alternative “if 
+there is significant difficulty” obtaining the eNeura device, but both believe the Cefaly 
+device will not work given claimant’s prior experience with the HeadaTerm device. 
+Claimant’s attorney argued that Liberty Mutual has not made a reasonable effort 
+to obtain the eNeura device, as there is no evidence anyone from Liberty actually 
+contacted eNeura directly to ask about billing options. Given that claimant’s attorney 
+was able to email eNeura directly and received a response about billing in less than 
+three hours, I agree. Dr. Chiang opined the Cefaly would be a reasonable alternative “if 
+there is significant difficulty” in obtaining the eNeura device. However, eNeura has now 
+clarified that they do accept payment by check, and are able to invoice in three-month 
+increments. As such, there should not be any difficulty in obtaining the device since the 
+
+DYER V. UNITED PARCEL SERVICE 
+Page 5 
+ 
+ 
+only issue was the inability to pay via credit card. Therefore, I find claimant is entitled to 
+alternate medical care with respect to the SAVI Dual Migraine Therapy Device. 
+Moving on to the counseling, claimant saw Dr. Bergquist on March 27, 2025. (Cl. 
+Ex. 4, p. 1) Dr. Bergquist opined that claimant needs a skilled mental health provider, 
+preferably one who is accustomed to dealing with persons with chronic symptoms such 
+as chronic pain. (Cl. Ex. 4, p. 3) He wrote a prescription, dated April 11, 2025, for 
+“mental health counseling for Brain Injury by provider with BI experience.” (Cl. Ex. 4, p. 
+4) 
+Defense counsel represented that the counseling was authorized on June 2, 
+2025. There is an email from Gail McGaughy at On With Life, where claimant receives 
+treatment, indicating that the cost for virtual counseling is the same as the cost for in-
+person counseling. (Def. Ex. A) The adjuster replied on June 4, 2025, indicating that 6 
+virtual sessions were authorized. 
+Both claimant and his wife testified that due to his injury, he has difficulty with 
+communication via telephone. They both agreed he does better in-person, and would 
+prefer to have in-person counseling. His wife testified that it is difficult to keep him 
+focused, and it is easier to get him back on track in-person. Claimant’s wife testified that 
+when On With Life called her to schedule the virtual counseling, she said she would get 
+back to them because claimant had an appointment with Dr. Bergquist coming up and 
+she wanted clarification regarding in-person versus virtual counseling.  
+At that appointment, she testified that Dr. Bergquist agreed it would be better for 
+claimant to have in-person counseling at this time, although in the future he may be able 
+to move to a virtual format. This was confirmed via email from Kari Bottemiller at Mayo 
+Clinic, dated June 12, 2025. (Cl. Ex. 6) The updated order states claimant should be 
+referred for ongoing in-person counseling. Some of the words are cut-off in the exhibit, 
+but it states “appointments are not appropriate at this time-sessions must be conducted 
+in person.” It is assumed the cut-off portion of that sentence should say “virtual 
+appointments” or something similar. In any event, it is clear that the order for counseling 
+has been clarified and updated to reflect that the authorized counseling must be in-
+person at this time. As such, claimant is also entitled to alternate care with respect to 
+the in-person mental health counseling.  
+REASONING AND CONCLUSIONS OF LAW 
+Iowa Code section 85.27(4) provides, in relevant part: 
+For purposes of this section, the employer is obliged to furnish 
+reasonable services and supplies to treat an injured employee, and has the 
+right to choose the care. . . .  The treatment must be offered promptly and 
+be reasonably suited to treat the injury without undue inconvenience to the 
+employee. If the employee has reason to be dissatisfied with the care 
+offered, the employee should communicate the basis of such dissatisfaction 
+to the employer, in writing if requested, following which the employer and 
+
+DYER V. UNITED PARCEL SERVICE 
+Page 6 
+ 
+ 
+the employee may agree to alternate care reasonably suited to treat the 
+injury. If the employer and employee cannot agree on such alternate care, 
+the commissioner may, upon application and reasonable proofs of the 
+necessity therefor, allow and order other care. 
+Iowa Code § 85.27(4). 
+Defendants’ “obligation under the statute is confined to reasonable care for the 
+diagnosis and treatment of work-related injuries.” Long v. Roberts Dairy Co., 528 
+N.W.2d 122, 124 (Iowa 1995) (emphasis in original). In other words, the “obligation 
+under the statute turns on the question of reasonable necessity, not desirability.” Id. 
+Similarly, an application for alternate medical care is not automatically sustained 
+because claimant is dissatisfied with the care he has been receiving. Mere 
+dissatisfaction with the medical care is not ample grounds for granting an application for 
+alternate medical care. Rather, the claimant must show that the care was not offered 
+promptly, was not reasonably suited to treat the injury, or that the care was unduly 
+inconvenient for the claimant. See Iowa Code § 85.27(4). Thus, by challenging the 
+employer’s choice of treatment and seeking alternate care, claimant assumes the 
+burden of proving the authorized care is unreasonable. See Iowa R. App. P 14(f)(5); 
+Long, 528 N.W.2d at 124.   
+The commissioner is justified in ordering alternate care when employer - 
+authorized care has not been effective and evidence shows that such care is “inferior or 
+less extensive” care than other available care requested by the employee. Long, 528 
+N.W.2d at 124; Pirelli-Armstrong Tire Co. v. Reynolds, 562 N.W.2d at 437.    
+Reasonable care includes care necessary to diagnose the condition and 
+defendants are not entitled to interfere with the medical judgment of its own treating 
+physician. Pote v. Mickow Corp., File No. 694639 (Review-Reopening, June 17, 1986).   
+Ultimately, determining whether care is reasonable under the statute is a 
+question of fact. Long, 528 N.W.2d at 123. In this case, claimant has met his burden to 
+prove that the care offered by defendants is unreasonable. Defendants have offered to 
+purchase a neuromodulation device that is not the same as the one initially prescribed 
+by the authorized treating physician. The doctor did say the alternative Cefaly device 
+would be a reasonable alternative, but that was only if there is “significant difficulty” in 
+obtaining the eNeura device. Based on the evidence in the record, the difficulty and 
+delay in obtaining the eNeura device was largely due to poor communication. It has now 
+been clarified that eNeura will accept payment via check, and will provide billing via 
+three-month invoicing. As such, there should be no “significant difficulty” in obtaining the 
+eNeura device, and claimant has met his burden to prove offering an alternative device 
+is unreasonable. Additionally, the fact that claimant has already tried a similar device 
+with no success makes the Cefaly an inferior treatment option. As such, claimant is 
+entitled to alternate medical care with respect to the SAVI Dual neuromodulation device. 
+
+DYER V. UNITED PARCEL SERVICE 
+Page 7 
+ 
+ 
+Claimant has also met his burden to prove the care offered by defendants is 
+unreasonable with respect to the mental health counseling. Claimant and his wife both 
+provided testimony explaining his difficulties with virtual/telephone communication at 
+this time. While the original order from Dr. Bergquist did not specify whether the 
+counseling was to be in-person, the order has since been updated to reflect the 
+sessions “must be conducted in person.” (Cl. Ex. 6) Defendants are not entitled to 
+interfere with the medical judgment of the authorized treating physician. As such, 
+claimant is entitled to alternate medical care with respect to the mental health 
+counseling as well.  
+The evidence demonstrates that defendants are not meeting their obligation to 
+provide reasonable care for the work-related injury. As such, claimant is entitled to 
+alternate care. The petition is granted. 
+ORDER 
+THEREFORE IT IS ORDERED: 
+The claimant's petition for alternate medical care is granted. 
+Defendants shall immediately authorize and pay for the eNeura SAVI Dual 
+Migraine Therapy Device, as prescribed by Dr. Chiang on March 24, 2025. 
+Defendants shall immediately authorize and pay for in-person mental health 
+counseling as initially prescribed by Dr. Bergquist and clarified in the updated Mayo 
+Clinic order dated June 12, 2025. 
+Failure to comply with this order may result in the termination of defendants’ 
+ability to direct care for the work injury. 
+Signed and filed this ____17th ___ day of June, 2025. 
+ 
+ 
+______________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+         JESSICA L. CLEEREMAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEPUTY WORKERS’  
+ 
+ 
+ 
+ 
+ 
+ 
+  COMPENSATION COMMISSIONER 
+ 
+The parties have been served, as follows: 
+ 
+Jenna Cruise (via WCES) 
+ 
+Lara Plaisance (via WCES) 
+ 

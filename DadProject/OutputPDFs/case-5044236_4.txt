@@ -1,0 +1,704 @@
+Case Number: 5044236
+Case Title:  BLASDELL, HEATHER (DEC) V. LINNHAVEN, INC.
+Doc Type:    Decision - Supreme Court
+Source:      Blasdell, Heather-5044236.SC Decision.pdf
+========================================================================
+
+IN THE SUPREME COURT OF IOWA 
+ 
+No. 21–1968 
+ 
+Submitted January 19, 2023—Filed April 7, 2023 
+ 
+ 
+ROGER BLASDELL, 
+ 
+ 
+Appellee, 
+ 
+vs. 
+ 
+LINNHAVEN, INC. and ACCIDENT FUND NATIONAL INSURANCE 
+COMPANY/UNITED HEARTLAND, 
+ 
+ 
+Appellants. 
+ 
+ 
+On review from the Iowa Court of Appeals. 
+ 
+Appeal from the Iowa District Court for Polk County, Celene Gogerty, 
+Judge. 
+An employer seeks further review from a court of appeals decision that 
+affirmed the district court’s ruling in favor of the claimant in a workers’ 
+compensation proceeding. DECISION OF COURT OF APPEALS AND DISTRICT 
+COURT JUDGMENT AFFIRMED. 
+ 
+Christensen, C.J., delivered the opinion of the court, in which Waterman, 
+Mansfield, and McDermott, JJ., joined. McDonald, J., filed a dissenting opinion, 
+in which Oxley, J., joined. May, J., took no part in the consideration or decision 
+of the case. 
+ 
+Laura Ostrander, Lansing, Michigan, for appellants. 
+
+ 
+2 
+ 
+ 
+Thomas M. Wertz and Mindi M. Vervaecke of Wertz Law Firm, Cedar 
+Rapids, for appellees. 
+
+ 
+3 
+ 
+CHRISTENSEN, Chief Justice.  
+We must decide when a married couple’s separation results in spousal 
+desertion within the meaning of Iowa Code section 85.42(1)(a) (2017). Almost two 
+and a half years into their marriage, the wife in this case left the marital home 
+in Delhi in search of employment elsewhere. She ultimately accepted a position 
+in Cedar Rapids and moved in with a family friend. Meanwhile, the husband and 
+the wife’s son from a previous relationship moved for financial reasons to 
+Manchester, where the husband worked. The husband and wife never lived 
+together again, but they remained in contact, supported each other financially, 
+and never sought a divorce.  
+A year after her move, the wife was permanently and totally disabled as a 
+result of a work injury and was awarded workers’ compensation benefits. She 
+passed away from an overdose of prescription medication approximately four 
+years later. When the husband filed a claim for burial expenses and death 
+benefits as the surviving spouse, his wife’s employer and her insurer claimed he 
+was not entitled to those benefits under Iowa Code section 85.42(1)(a) because 
+he had willfully deserted his wife without any fault by her. The workers’ 
+compensation commissioner agreed.  
+On judicial review, the district court reversed the workers’ compensation 
+commissioner’s decision, concluding it was not supported by substantial 
+evidence. The court of appeals affirmed the district court, and we granted the 
+employer’s application for further review. For the reasons explained below, we 
+affirm the district court decision that there was not substantial evidence to 
+
+ 
+4 
+ 
+support a finding that the husband deserted his wife without fault by her under 
+Iowa Code section 85.42(1)(a). 
+I. Background Facts and Proceedings. 
+Roger and Heather Blasdell long held a nontraditional relationship that 
+dates back to at least 1998. In March 1999, Heather gave birth to their daughter, 
+whom Heather and Roger placed in a guardianship with a maternal relative who 
+they felt was better able to address their daughter’s needs, including special 
+health issues. They eventually married on August 23, 2008, and lived together 
+with Heather’s teenage son from a previous relationship until January 2011, 
+when they separated largely for financial reasons. Heather had just lost her job, 
+and Roger could not afford their rent alone in Delhi. Unable to find another job 
+in the area, Heather moved to Clinton for a few months with only her clothes and 
+vehicle. Shortly thereafter, she moved in with a family friend in Cedar Rapids 
+and started a position there with Linnhaven, Inc., as a direct care provider. Roger 
+stayed in the Delhi home with Heather’s son for three to four months after 
+Heather left, but he could not afford to continue paying the rent. Consequently, 
+Heather’s son moved with Roger to Manchester, where Roger worked. 
+Roger began dating another woman, Angela, in Manchester, and Heather’s 
+son later moved in with Heather in Cedar Rapids but continued to commute with 
+an uncle to attend school in Manchester. In 2011 and 2012, Roger filed his taxes 
+as “married filing separately.” He did not list Heather as a spouse on his 2012 
+Iowa return and listed himself as single on a W-4 form in 2011 and 2015.  
+
+ 
+5 
+ 
+On November 5, 2012, Heather sustained an injury while working at 
+Linnhaven, Inc., and sought workers’ compensation benefits from Linnhaven, 
+Inc., and its insurer, Accident Fund National Insurance Company/United 
+Heartland (collectively Linnhaven). Heather’s marital status was not an issue in 
+the workers’ compensation proceedings, but she stated during a January 21, 
+2014 deposition that she was legally married to Roger. However, she explained 
+that the pair were separated and had not divorced because of “money.” A deputy 
+workers’ compensation commissioner ultimately determined Heather was 
+permanently disabled as a result of the work injury and awarded Heather 
+workers’ compensation benefits for as long as she remained permanently and 
+totally disabled. The workers’ compensation commissioner delegated a deputy 
+workers’ compensation commissioner with the authority to issue a final agency 
+decision, which subsequently affirmed the prior decision.  
+On September 9, 2016, Heather died from an overdose of a mix of 
+prescription medications quetiapine (Seroquel) and zolpidem (Ambien).1 Roger 
+filed a claim for death benefits as Heather’s surviving spouse and sought 
+reimbursement for Heather’s burial expenses, which he had paid. Linnhaven 
+asserted that Roger was barred from receiving death benefits under Iowa Code 
+section 85.42(1)(a), which states: “When it is shown that at the time of the injury 
+the surviving spouse had willfully deserted the deceased without fault of the 
+ 
+1Whether Heather’s death was accidental or intentional is not an issue in this appeal. 
+
+ 
+6 
+ 
+deceased, then the surviving spouse shall not be considered as dependent in any 
+degree.”  
+In a deposition on April 3, 2018, Roger stated that Heather was listed as 
+his emergency contact at work, the beneficiary of his life insurance policy, and 
+as a driver on his car insurance for two vehicles at the time of her 2012 injury. 
+He described his relationship with Heather as “kind of on and off.” According to 
+Roger, Heather would stay with him occasionally, and they continued to see each 
+other “[a]lmost weekly” even though they did not have a sexual relationship.  
+Roger’s former girlfriend, Angela, was deposed on the same day. Angela 
+reported that she had dated Roger from July 2011 until July 2017 and lived with 
+him in a home they rented together from around 2015 until they ended their 
+relationship. She knew Roger was still legally married to Heather and continued 
+to communicate with Heather throughout her relationship with Roger. When 
+asked how often Roger would communicate with Heather, Angela stated, “It 
+didn’t come up too much, so I -- I would say maybe like once a month.” Angela 
+was not aware of any financial support that Roger may have provided to Heather.  
+Roger’s claim went to hearing on May 15, 2018. Roger’s testimony was 
+similar to his deposition testimony. He reiterated that he and Heather separated 
+in January 2011 primarily for financial reasons but remained in contact. When 
+asked whether he recalled providing Heather with financial assistance after her 
+injury, Roger testified that he “would give her money almost weekly, anywhere 
+from 50- to 100-dollars.” In contrast, he rarely received financial assistance from 
+Heather.  
+
+ 
+7 
+ 
+Heather’s son testified next. He lived with Heather at the time of her injury 
+and recalled Heather and Roger maintaining “frequent conversations throughout 
+the week” during that time period. He elaborated that he did not “necessarily 
+know what they talked about” but knew “that they were in contact with each 
+other.” He continued, “And throughout -- after her injury, I had been present a 
+few different times when they had met up with each other.” When they met up, 
+Heather’s son recalled, “Sometimes it was just a -- have a conversation and check 
+up and see how everybody was doing. Sometimes it was Roger loaning my mom 
+money to help out with bills.” 
+The deputy workers’ compensation commissioner who presided over the 
+hearing became unavailable before issuing a decision, so the workers’ 
+compensation commissioner authorized another deputy to issue a proposed 
+decision. This deputy relied on the record and posthearing briefs in concluding 
+that “Roger had willfully deserted Heather without fault by Heather as of 2011—
+before her underlying work-related injury”—and was thus not entitled to death 
+benefits under Iowa Code section 85.42(1)(a). Roger requested a rehearing based 
+on the change in deputy commissioners after his hearing, arguing witness 
+demeanor was a substantial factor in the case. A deputy commissioner acting 
+with authorization from the commissioner granted this request “in an effort to 
+maintain the integrity of the contested case process before the agency.”  
+The deputy who issued the first proposed decision presided over Roger’s 
+new hearing in July 2020. No new exhibits were permitted, and only Roger 
+testified, repeating much of what he had already stated in his deposition and the 
+
+ 
+8 
+ 
+first hearing. The deputy found Roger “to be a generally credible witness” but 
+again determined that Roger was not entitled to death benefits because he 
+willfully deserted Heather. On appeal, a deputy commissioner acting with the 
+commissioner’s authorization agreed. The deputy bolstered this final agency 
+decision with the following summary: 
+The record indicates that Roger and Heather intended to 
+terminate their marriage relationship in January 2011. The record 
+indicates Heather moved out of the house she shared with Roger at 
+that time. Shortly after that in early 2011, Roger began a 
+relationship with [Angela]. This was a relationship that lasted at 
+least five years and included several years of cohabitation. The 
+record reflects that after January 2011, Roger and Heather never 
+lived together or had any sexual relationship. Given this record, it is 
+found that Heather and Roger ended their marital relationship in 
+January 2011. It is also found that Roger willfully and intentionally 
+separated from Heather at that time. 
+As noted in the record, the separation between Heather and 
+Roger occurred due to financial reasons. Given this fact, it is found 
+that Roger’s willful separation from Heather was without the fault of 
+Heather. 
+Roger petitioned for judicial review before the district court. The district 
+court reversed the agency’s decision, noting the agency’s “finding that both 
+parties intended to end the marriage suggests that Heather is not without fault.” 
+The district court remarked that both parties and the deputy commissioner 
+“seem to treat the questions of whether [Roger] and Heather were married at the 
+time of injury and whether [Roger] abandoned Heather as one in the same[;] 
+[t]hey are not.” (Footnote omitted.)  
+In concluding Roger lacked the requisite intent to desert Heather, the 
+district court cited the following facts: 
+
+ 
+9 
+ 
+Claimant remained in the marital home with Heather’s child. 
+Additionally, according to unrefuted testimony, Claimant attempted 
+to contact Heather several times. Heather’s son testified that 
+Claimant was successful, while [Angela] stated Claimant was 
+unsuccessful in contacting Heather. Finally, while true that 
+Claimant listed himself as single on his 2011 W4 form, Claimant 
+stated on his 2011 and 2012 taxes that his marital status was 
+“married fil[ing] separately.”  
+(Citations omitted.)  
+The district court remanded the case to the commissioner for a ruling on 
+whether Heather’s death met the willful-injury exception under Iowa Code 
+section 85.16 to bar Roger from recovering survivor’s benefits. See Iowa Code 
+§ 85.16. Linnhaven appealed, and we transferred the case to the court of appeals, 
+which affirmed the district court’s ruling. We subsequently granted Linnhaven’s 
+application for further review.  
+II. Standard of Review. 
+Iowa Code chapter 17A guides our judicial review of agency 
+decision-making to determine whether we reach the same result as the district 
+court. Chavez v. MS Tech., LLC, 972 N.W.2d 662, 666 (Iowa 2022). In this case, 
+we are asked to determine whether the commissioner erred in concluding that 
+Roger deserted Heather without fault on Heather’s part under Iowa Code section 
+85.42(1)(a). This issue presents a mixed question of law and fact: the operative 
+facts that gave rise to the desertion claim present a question of fact, while the 
+question of law is inherent in the commissioner’s decision on whether those facts 
+support a conclusion that Roger “had willfully deserted [Heather] without fault 
+of [Heather]” at the time of her injury. Iowa Code § 85.42(1)(a); see Meyer v. IBP, 
+Inc., 710 N.W.2d 213, 218 (Iowa 2006).  
+
+ 
+10 
+ 
+We “are bound by the commissioner’s resolution of the first question—
+finding the operative facts from the evidence presented—if supported by 
+substantial evidence in the record as a whole.” Meyer, 710 N.W.2d at 218. In 
+contrast, “the application of the law to the facts . . . can be affected by other 
+grounds of error such as erroneous interpretation of law; irrational reasoning; 
+failure to consider relevant facts; or irrational, illogical, or wholly unjustifiable 
+application of law to the facts.” Id. Accordingly, “[w]hen the agency exercises its 
+discretion based on an erroneous interpretation of the law, we are not bound by 
+those ‘legal conclusions but may correct misapplications of the law.’ ” Id. at 219 
+(quoting Stroup v. Reno, 530 N.W.2d 441, 443 (Iowa 1995) (en banc)). 
+III. Analysis. 
+In addition to arguing the district court erred in finding Roger did not 
+desert Heather, Linnhaven maintains: (1) we should affirm the district court’s 
+conclusion that the commissioner’s designee could issue the final agency 
+decision, and (2) we should find the doctrine of estoppel does not bar Linnhaven 
+from raising the defense of spousal desertion. Neither of those requests is 
+properly before us. Roger did not cross-appeal the district court’s conclusion that 
+the commissioner’s designee could issue the final agency decision, so there is no 
+dispute over this matter for us to resolve. Likewise, Roger is not claiming 
+Linnhaven is estopped from raising the spousal desertion defense, and the 
+district court declined to address the issue. Accordingly, we only address 
+whether the district court erred by finding Roger did not desert Heather. 
+
+ 
+11 
+ 
+In relevant part, Iowa Code section 85.31(1)(a) states, “When death results 
+from the [workplace] injury, the employer shall pay the dependents who were 
+wholly dependent on the earnings of the employee for support at the time of the 
+injury.” Iowa Code section 85.42(1)(a) establishes that a surviving spouse “shall 
+be conclusively presumed to be wholly dependent upon the deceased employee” 
+unless “it is shown that at the time of the injury the surviving spouse had 
+willfully deserted the deceased without fault of the deceased, then the surviving 
+spouse shall not be considered as dependent in any degree.” Here, neither party 
+disputes that Roger and Heather were still legally married at the time of Heather’s 
+injury. Additionally, Iowa does not recognize common law divorce. See In re Est. 
+of Weems’, 139 N.W.2d 922, 924 (Iowa 1966) (“[W]e know of no such thing as a 
+common law divorce, or divorce resting on nothing more secure than bigamy.”). 
+See generally Iowa Code ch. 598 (governing the dissolution of marriage). So, the 
+only question here is whether Roger willfully deserted Heather without fault by 
+her. See Iowa Code § 85.42(1)(a).  
+We have seldom had the opportunity to examine the spousal desertion 
+exception. In fact, the pertinent Iowa precedent analyzing spousal desertion in 
+workers’ compensation proceedings is from over a hundred years ago in James 
+Black Dry Goods Co. v. Iowa Indus. Com’r, 173 N.W. 23, 24 (Iowa 1919). There, 
+the husband left the marital residence after years of marriage due to “serious 
+financial difficulty” and traveled to find work. Id. Yet the husband and wife met 
+periodically, and the husband mailed money to the wife. Id. at 25.  
+
+ 
+12 
+ 
+We borrowed from fault divorce cases in concluding that the following 
+elements must exist to show desertion: (1) “the cessation of the marriage 
+relations,” (2) “the intent to desert,” (3) “a continuance of the desertion during 
+the statutory period,” and (4) “the absence of consent or misconduct of the party 
+alleged to have been deserted.” Id. at 24. In considering these elements, we held 
+that the wife had not deserted her husband simply because the parties agreed 
+to live apart. Id. at 25. As we explained, “[S]eparation and desertion are not 
+synonymous.” Id. Rather,  
+the act [of desertion] is willful when there is a design to forsake the 
+other spouse willfully or without cause, and thereby break up the 
+marital union, deliberate intent to cease living with the other as 
+spouse, abnegation of all duties of the marriage relations, the actual 
+ceasing of cohabitation, and the intent to desert.  
+Id. Perhaps most importantly, we approvingly cited Iowa caselaw for the principle 
+that “if plaintiff consented to defendant living apart from him, there was no 
+desertion.” Id.; see also Day v. Day, 50 N.W. 979, 980 (Iowa 1892) (“If the 
+separation was by mutual agreement, there could have been no willful desertion, 
+and hence no divorce on that ground.”).  
+With that legal background in mind, the district court correctly determined 
+Roger did not intend to desert Heather—especially without fault on Heather’s 
+part—under Iowa Code section 85.42(1)(a). Just as the husband in James Black 
+Dry Goods Co. left the marital residence due to “serious financial difficulty” and 
+traveled to find work, Heather left the Delhi residence that she shared with Roger 
+and her son to find work. See James Black Dry Goods Co., 173 N.W. at 25. Like 
+the husband and wife in James Black Dry Goods Co., Heather and Roger, too, 
+
+ 
+13 
+ 
+maintained contact and helped each other financially. See id. at 24–25. Although 
+Roger engaged in a romantic relationship with another woman during this time, 
+there is no exception under the statute precluding a surviving spouse from 
+receiving workers’ compensation benefits for adultery. See Iowa Code § 85.42(1). 
+Nor is it within our authority to create such an exception. See The Federalist 
+No. 78, at 402 (Alexander Hamilton) (George W. Carey & James McClellan eds., 
+Gideon ed. 2001) (“[Courts] may truly be said to have neither force nor will, but 
+merely judgment.”). Significantly, Roger started this relationship months after 
+Heather chose to leave the marital home and move to Clinton and then Cedar 
+Rapids. 
+Linnhaven argues this case is distinguishable because the couple in James 
+Black Dry Goods Co. exchanged “a number of letters and postcards,” while Roger 
+“was only able to produce a single page of messages from [Heather].” It also 
+argues there is not substantial evidence that Roger gave Heather money. True, 
+Roger only produced a single page of electronic messages from Heather. But 
+unlike the husband and wife in the 1919 James Black Dry Goods Co. case, Roger 
+and Heather had various means to interact beyond paper mailing—be it by 
+phone, text message, social media updates, and the like. They also were able to 
+travel to see each other by vehicle frequently and with relative ease, which was 
+not the case in the early 1900s when the husband and wife in James Black Dry 
+Goods Co. lived apart in different regions of the country. Anyway, Linnhaven’s 
+criticism of Roger for not providing more documentation to support his claims 
+about his relationship with Heather is misplaced because Roger has the 
+
+ 
+14 
+ 
+statutory benefit of being presumed wholly dependent upon Heather as her 
+surviving spouse. See Iowa Code § 85.42(1)(a).  
+Further, despite Linnhaven’s many attempts to cast doubt on the 
+credibility of Roger’s testimony in its appellate brief, the deputy commissioner’s 
+rehearing decision specifically addressed Roger’s credibility. As the decision 
+summarized, 
+Ultimately, given Roger’s consistent testimony throughout the 
+entirety of the case, I find Roger’s behavior and outward manner to 
+be forthcoming and straightforward. At no point on rehearing was I 
+given the impression that he was attempting to conceal information. 
+I therefore find him to be a generally credible witness and I find his 
+demeanor reflects positively on his case. 
+“It is the commissioner’s duty as the trier of fact to determine the credibility of 
+the witnesses, weigh the evidence, and decide the facts in issue.” Arndt v. City of 
+Le Claire, 728 N.W.2d 389, 394–95 (Iowa 2007). The deputy commissioner was 
+certainly in a better position to judge Roger’s credibility by participating in the 
+hearing and observing Roger’s testimony live than we are in our review of the 
+transcript and record as a whole.  
+Notably, Linnhaven did not argue in its appellate brief that we should 
+apply a standard other than that set forth in James Black Dry Goods Co. to 
+determine whether Roger deserted Heather under Iowa Code section 85.42(1)(a). 
+Nor does it argue that the statutory spousal desertion exception allows for the 
+deprivation of death benefits in cases of mutual abandonment between spouses. 
+Instead, Linnhaven only sought to differentiate this case factually from James 
+Black Dry Goods Co.  
+
+ 
+15 
+ 
+Now, Linnhaven tries to take a different route in its application for further 
+review by arguing that “the Iowa Court of Appeals erred in finding the appellee 
+did not abandon his spouse because the legal principles of spousal abandonment 
+have changed since the James Black Dry Goods Co. case was issued during a 
+time where at fault divorce was the legal standard in Iowa.” However, Linnhaven 
+does not elaborate on this claim further. In any event, it is well established that 
+“[w]e generally will not consider issues raised for the first time in a reply brief in 
+an appeal, let alone in an application for further review.” State v. Warren, 
+955 N.W.2d 848, 867 (Iowa 2021) (quoting State v. Shackford, 952 N.W.2d 141, 
+147–48 (Iowa 2020)).  
+Moreover, although our laws governing marriage have since changed, it 
+still generally remains the case in workers’ compensation cases that “[m]ere 
+separation of a husband and wife, by itself, has not affected the right of a 
+surviving spouse to workers’ compensation benefits.” 82 Am. Jur. 2d Workers’ 
+Compensation § 166, at 192–93 (2013). Many states continue to examine the 
+same elements set forth in James Black Dry Goods Co. to determine whether the 
+surviving spouse willfully deserted the decedent. See, e.g., Robinson Foundry, 
+Inc. v. Moon, 503 So. 2d 863, 865 (Ala. Civ. App. 1987) (“If a wife is living apart 
+from her husband and if this separation is a result of the husband’s deserting 
+the wife, she may still be constructively living with him and entitled to benefits.”); 
+Morrison ex rel. Bryant v. Indus. Comm’n, No. 1 CA–IC 09–0021, 2009 
+WL 4547027, at *3 (Ariz. Ct. App. Dec. 3, 2009) (“Voluntary abandonment is 
+based on the surviving wife’s state of mind and is a question of fact to be 
+
+ 
+16 
+ 
+determined by the ALJ from the wife’s ‘testimony coupled with the surrounding 
+circumstances and past history of the parties.’ ” (quoting Clark v. Indus. Comm’n, 
+460 P.2d 22, 25 (Ariz. Ct. App. 1969))); Midway Landfill, Inc. v. Indus. Comm’n, 
+304 N.E.2d 607, 609 (Ill. 1973) (“Here, although the husband had knowledge of 
+his wife’s adultery, nonetheless he visited her, had marital relations with her, 
+referred to her as his wife, discussed reconciliation with her, corresponded with 
+her, and at no time sought to institute divorce proceedings to terminate the 
+marriage relationship. In addition, the [wife] had not secured a divorce, had not 
+remarried and was not living with [her paramour] at the time of her husband’s 
+death.”); In re Way v. J & J Log & Lumber Corp., 797 N.Y.S.2d 186, 186 (App. 
+Div. 2005) (“[A]bandonment in th[e workers’ compensation] context requires 
+proof that the separation was voluntary, unjustified, nonconsensual and 
+intended to be permanent.”); Rogers v. Univ. Motor Inn, 405 S.E.2d 770, 773 
+(N.C. Ct. App. 1991) (“By the time of his death, the deceased had not stopped 
+drinking. It would defy justice to require that the appellant endlessly subject 
+herself to her husband’s violent behavior and alcoholism in order to qualify as a 
+widow under the Workers’ Compensation Act.”); Tatum v. Tatum, 736 P.2d 506, 
+509 (Okla. 1982) (“Although [the wife] didn’t know why [her husband] left, she 
+made it clear that he was always welcome home. . . . In the meantime, she 
+maintained the home they previously occupied together and kept her job as a 
+means of providing herself with a livelihood. She had not initiated a divorce suit 
+nor, to her knowledge, had he brought one against her.”). 
+
+ 
+17 
+ 
+For example, the Oklahoma Supreme Court rejected claims that a wife lost 
+her statutory status as the surviving spouse and thus could not receive her 
+husband’s death benefits “because she failed either to pursue her husband with 
+a view to bringing him back home or failed to follow him in his travels” after he 
+left the marital home. Tatum, 736 P.2d at 508. Comparable to Heather’s moves 
+to establish employment in this case, the husband in Tatum “revealed a 
+predisposition to wandering, short-term employment, discontent with jobs and 
+instability.” Id. Relevantly, the court observed, “The law would indeed be both 
+[naïve] and unrealistic if it expected a wife to abandon her only precious 
+possessions in a fruitless quest after an errant husband who had given no 
+indication of his desire to return and stay.” Id. In holding the wife was entitled 
+to the deceased husband’s death benefits as his statutory surviving spouse, the 
+court cited facts similar to this case. Id. at 508–09.  
+Like the contact between Heather and Roger, the husband in Tatum 
+“communicated with [his wife] several times. He even returned to see her on 
+several occasions, but never to stay.” Id. at 509. Likewise, neither of them ever 
+sought a divorce. Id. Nevertheless, the husband entered into a relationship with 
+another woman, Gloria, established a common household with Gloria and two of 
+her children from another marriage, had a child with Gloria, and held himself 
+out as Gloria’s husband despite no legal marriage. Id. at 507. Yet the court 
+rejected Gloria’s claim that the wife was not entitled to the deceased husband’s 
+death benefits as his surviving spouse and remarked that the wife’s “status as a 
+
+ 
+18 
+ 
+deserted spouse was not lost either by inaction or non-pursuit.” Id. at 508–09. 
+That is also the case here. 
+We acknowledge that much of the caselaw nationally analyzing the 
+deserted spouse exception is based on an outdated view of marital relationships. 
+By all appearances, Roger and Heather made a mutual decision to live apart and 
+had an unconventional marriage at the time of Heather’s 2012 injury. But the 
+statutory language of Iowa Code section 85.42(1)(a) is clear that the spousal 
+desertion exception only applies if at the time of Heather’s injury, Roger had 
+willfully deserted Heather without fault by Heather. This is where the dissent is 
+misguided in accusing us of “go[ing] out of [our] way to defeat rather than uphold 
+the agency’s decision.”  
+The agency’s determination that Roger deserted Heather is not purely a 
+factual finding in which we must only decide whether that decision was 
+supported by substantial evidence. Rather, we must decide whether the agency 
+correctly applied those facts to the law, which specifically asks whether Roger, 
+as the surviving spouse, “willfully deserted [Heather] without fault of [Heather]” 
+at the time of her injury. Iowa Code § 85.42(1)(a) (emphasis added). “When the 
+agency exercises its discretion based on an erroneous interpretation of the law, 
+we are not bound by those ‘legal conclusions but may correct misapplications of 
+the law.’ ” Meyer, 710 N.W.2d at 219 (quoting Stroup, 530 N.W.2d at 443). Here, 
+the commissioner erroneously interpreted the law by conflating separation with 
+desertion and ignoring Heather’s fault in that separation. It is our job to correct 
+that misapplication of the law.  
+
+ 
+19 
+ 
+The district court aptly summarized how the statute operates, explaining, 
+“If Heather deserted [Roger], [Roger] would still be eligible for survivor’s benefits. 
+Likewise, if neither party deserted one another, [Roger] is eligible for survivor’s 
+benefits. If both parties deserted the marriage, then it cannot be said Heather is 
+without fault, so [Roger] would still collect.”  
+Based on the facts before us, we cannot say that Roger intended to desert 
+Heather or that Heather is without fault for their separation. This is especially 
+so considering Heather initiated the separation through her choice to leave Roger 
+and her son in their marital home in pursuit of work in a different part of the 
+state. “The law would indeed be both [naïve] and unrealistic if it expected [Roger] 
+to abandon” his employment and home to follow Heather through multiple cities 
+in her quest for work. Tatum, 736 P.2d at 508. Other facts supporting our 
+conclusion include Heather and Roger’s continued contact after Heather left, 
+Roger’s 2011 and 2012 tax filings that list his marital status as “married filing 
+separately,” and Roger’s continued financial support of Heather at the time of 
+her injury.  
+Accordingly, we agree with the district court that there is not substantial 
+evidence to support the commissioner’s finding that Roger deserted Heather 
+without fault by her under section 85.42(1)(a). Because the final agency ruling 
+concluded that Roger was not entitled to benefits under Iowa Code section 
+85.31(1)(a), it did not address Linnhaven’s claim that the willful injury exception 
+under Iowa Code section 85.16 bars Roger’s recovery of the benefits. Thus, we 
+
+ 
+20 
+ 
+also agree with the district court’s determination that remand is appropriate for 
+the commissioner to make the factual findings necessary to decide this issue.  
+IV. Conclusion. 
+We affirm the district court’s ruling and remand to the workers’ 
+compensation commission to determine whether the willful injury exception 
+applies. 
+DECISION OF COURT OF APPEALS AND DISTRICT COURT JUDGMENT 
+AFFIRMED. 
+Waterman, Mansfield, and McDermott, JJ., join this opinion. McDonald, 
+J., files a dissenting opinion, in which Oxley, J., joins. May, J., takes no part. 
+ 
+ 
+
+ 
+21 
+ 
+ 
+#21–1968, Blasdell v. Linnhaven, Inc. 
+McDONALD, Justice (dissenting). 
+Under the Iowa Administrative Procedure Act (IAPA), this court “must 
+‘broadly and liberally’ apply the agency findings in order to uphold, rather than 
+defeat, the agency’s decision.” Stephenson v. Furnas Elec. Co., 522 N.W.2d 828, 
+831 (Iowa 1994) (quoting Ward v. Iowa Dep’t of Transp., 304 N.W.2d 236, 237 
+(Iowa 1981)). Contrary to the IAPA and our longstanding precedents interpreting 
+the same, the majority seeks to defeat rather than uphold the agency’s decision. 
+The majority applies the incorrect standard of review and then compounds the 
+error by incorrectly applying the incorrect standard of review. I respectfully 
+dissent. I would vacate the decisions of the court of appeals and the district court 
+and would affirm the agency’s decision. 
+I. 
+The majority’s first error is that it applies the wrong standard of review. 
+See generally Ripperger v. Iowa Pub. Info. Bd., 967 N.W.2d 540, 555 (Iowa 2021) 
+(Mansfield, J., concurring in part and dissenting in part) (dissenting on ground 
+that “[t]he majority has applied the wrong standard of review”). The majority 
+states that desertion is a mixed question of law and fact, but the majority cites 
+no authority for that proposition. There is a good reason for the majority’s 
+omission: the majority’s statement regarding the standard of review is directly 
+contrary to controlling and persuasive authority holding that desertion is solely 
+a question of fact left to the finder of fact.  
+
+ 
+22 
+ 
+In the controlling case of James Black Dry Goods Co. v. Iowa Industrial 
+Com’r, which the majority discusses at length, this court stated desertion is a 
+“question[] of fact.” 173 N.W. 23, 24 (Iowa 1919). James Black Dry Goods Co. 
+went on to explain that in reviewing an administrative proceeding, this court 
+does “not pass upon questions of fact,” and if “the commissioner could have 
+found, under the evidence, even though there was a conflict therein,” desertion 
+or no desertion, “then there is no question for this court to pass upon.” Id.  
+The conclusion that desertion is a question of fact makes sense because 
+desertion is a question of intent. “Desertion consists in the actual ceasing of 
+cohabitation and the intent in the mind of the offending party to desert the 
+other.” Nelson v. Nelson, 68 N.W.2d 746, 748 (Iowa 1955) (quoting Parker v. 
+Parker, 55 N.W.2d 183, 185 (Iowa 1952)). Desertion can be shown by “intent to 
+cease living with the other as spouse,” “abnegation of all duties of the marriage 
+relation,” and an intent “not to return.” Parker, 55 N.W.2d at 185 (quoting 
+Tipton v. Tipton, 151 N.W. 90, 92 (Iowa 1915)). As a question of intent, desertion 
+“is a question of fact.” Conlin v. Conlin, 144 N.W. 1005, 1008 (Iowa 1914). 
+James Black Dry Goods Co., Nelson, Parker, and Conlin are not outliers. 
+Other courts also hold desertion is a question of fact left to the discretion of the 
+agency or the finder of fact. See, e.g., Blache v. Blache, 160 P.2d 136, 144 (Cal. 
+Dist. Ct. App. 1945) (stating desertion “is entirely a question of fact”); Casale v. 
+Casale, 86 A.2d 568, 570 (Conn. 1952) (stating desertion is intent to cease 
+cohabitation with no mind to renew and “the question of intent is always a 
+question of fact” (quoting Bennett v. Bennett, 43 Conn. 313, 318 (1876))); Stark v. 
+
+ 
+23 
+ 
+State Indus. Acc. Comm’n, 204 P. 151, 158 (Or. 1922) (stating question of 
+desertion for compensation benefits “was a question of fact”); Roanoke Belt, 
+Inc. v. Mroczkowski, 455 S.E.2d 267, 271 (Va. Ct. App. 1995) (citing Kelly v. 
+Pendleton Constr. Co., 28 S.E.2d 621, 623 (Va. 1944), for the proposition that 
+“determination of wife’s desertion of marriage abrogating dependency . . . was 
+question of fact”); Barker v. Dayton, 28 Wis. 367, 376 (1871) (stating desertion 
+“was a question of fact”). 
+Because desertion is a question of fact, the correct standard of review 
+under the IAPA is substantial evidence review. The legislature has “vested the 
+commissioner with the discretion to make factual determinations.” Mike Brooks, 
+Inc. v. House, 843 N.W.2d 885, 889 (Iowa 2014). Courts are bound by these 
+factual determinations “if they are supported by ‘substantial evidence in the 
+record before the court when that record is viewed as a whole.’ ” Id. (quoting Iowa 
+Code § 17A.19(10)(f) (2009)). Substantial evidence is “the quantity and quality of 
+evidence that would be deemed sufficient by a neutral, detached, and reasonable 
+person, to establish the fact at issue when the consequences resulting from the 
+establishment of that fact are understood to be serious and of great importance.” 
+Iowa Code § 17A.19(10)(f)(1) (2017). “Evidence is not insubstantial merely 
+because different conclusions may be drawn from the evidence.” Cedar Rapids 
+Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 845 (Iowa 2011). So long as there is 
+some evidence to support the finding actually made, a reviewing court must 
+affirm the agency’s finding of fact “even though [the court] may have drawn a 
+different conclusion as fact finder.” Id.  
+
+ 
+24 
+ 
+The agency’s finding that Roger deserted Heather is supported by 
+substantial evidence and should be affirmed. The agency found that Heather 
+moved and Roger did not follow her. After Roger decided to not move with 
+Heather, Roger began a relationship with another woman “that lasted at least 
+five years and included several years of cohabitation.” Roger and Heather never 
+had a sexual relationship after they ceased living together, and there is no 
+evidence in the record of his intent to resume a marital relationship with 
+Heather. It is well established that a person who ceases cohabitation with his or 
+her spouse and cohabits with another has objectively demonstrated an intent to 
+desert the marital relationship. See, e.g., Redditt v. McDonald’s Rest., 990 P.2d 
+759, 762 (Kan. Ct. App. 1999) (“[C]ohabitation with another may be indicative of 
+a changed character in the spousal relationship.” (quoting Tatum v. Tatum, 736 
+P.2d 506, 509 (Okla. 1982))); Tatum, 736 P.2d at 509 (stating “cohabitation with 
+another” is “outward recognition that the marriage relationship had come to an 
+end”); In re Est. of Talerico, 137 A.3d 577, 582 (Pa. Super. Ct. 2016) (recognizing 
+state supreme court had held wife’s cohabitation with another man constituted 
+“open disregard” of marital relationship and thus constituted desertion) (quoting 
+In re Crater’s Est., 93 A.2d 475, 477 (Pa. 1953)); Petachenko v. Petachenko, 350 
+S.E.2d 600, 602 (Va. 1986) (discussing lack of cohabitation and desertion).   
+II. 
+The majority’s second error is that it incorrectly applies the incorrect 
+standard of review. Even if desertion constituted an application of law to facts, 
+as the majority contends, this court is still required to afford the agency great 
+
+ 
+25 
+ 
+deference in reviewing its application of law to facts. But the majority affords the 
+agency no such deference here. 
+“The legislature clearly vested the agency with the application of the law 
+to the facts.” Drake Univ. v. Davis, 769 N.W.2d 176, 183 (Iowa 2009) (citing Iowa 
+Code §§ 86.14–.24 (2003)). Our review of an agency’s application of law to facts 
+is thus incredibly deferential. “We are required to give the agency appropriate 
+deference.” Id. (citing Iowa Code § 17A.19(11)(c)). When a party “challenges the 
+agency’s application of law to facts, we will not disrupt the agency’s decision 
+unless it is ‘irrational, illogical, or wholly unjustifiable.’ ” Neal v. Annett Holdings, 
+Inc., 814 N.W.2d 512, 526 (Iowa 2012) (quoting Larson Mfg. Co. v. Thorson, 763 
+N.W.2d 842, 857 (Iowa 2009)).  
+A decision is “irrational” when it is “not governed by or 
+according to reason.” Webster’s Third New International Dictionary 
+1195. A decision is “illogical” when it is “contrary to or devoid of 
+logic.” Id. at 1127. A decision is “unjustifiable” when it has no 
+foundation in fact or reason. See id. at 2502 (defining “unjustifiable” 
+as “lacking in . . . justice”); id. at 1228 (defining “justice” as “the 
+quality or characteristic of being just, impartial or fair”); id. (defining 
+“just” as “conforming to fact and reason”). 
+Sherwin-Williams Co. v. Iowa Dep’t of Revenue, 789 N.W.2d 417, 432 (Iowa 2010). 
+The drafter and leading expert on the IAPA, Professor Bonfield, explained that 
+this standard of review is essentially an arbitrary-and-capricious standard of 
+review. Id.; cf. Iowa Farm Bureau v. Env’t Prot. Comm’n, 850 N.W.2d 403, 432 
+(Iowa 2014) (discussing Professor Bonfield’s work in this area and describing him 
+as the “leading authority on administrative procedure law”). 
+The agency’s determination that Roger deserted Heather and was not 
+entitled to death benefits was not wholly arbitrary and capricious. The limits of 
+
+ 
+26 
+ 
+reasoned judgment are determined by the purpose of the statute at issue. This 
+statute was intended to provide death benefits to “dependents who were wholly 
+dependent” upon the wage earner. Iowa Code § 85.31(1)(a) (2017). Included 
+among these wholly dependent persons is the nondeserting “surviving spouse” 
+of the wage earner. Iowa Code § 85.42(1)(a). The agency’s determination that 
+Roger—a working man, who was in no way financially dependent on his spouse, 
+who was not cohabiting with his spouse, and who was instead living with another 
+woman—was not a wholly dependent spouse entitled to spousal death benefits 
+is rational and reasonable. Indeed, the agency’s determination that a financially 
+independent man who was living with another woman was not a wholly 
+dependent spouse is better reasoned and better supported by the controlling and 
+persuasive precedents than the majority’s contrary conclusion.   
+III. 
+“The administrative process presupposes judgment calls are to be left to 
+the agency. Nearly all disputes are won or lost there.” Sellers v. Emp. Appeal Bd., 
+531 N.W.2d 645, 646 (Iowa Ct. App. 1995) (citation omitted). This court is “not 
+free to interfere with any agency finding where there is a conflict in the evidence 
+or when reasonable minds might disagree about the inference to be drawn from 
+the evidence, whether it is disputed or not.” Stephenson, 522 N.W.2d at 831. 
+Instead, this court “must ‘broadly and liberally’ apply the agency findings in 
+order to uphold, rather than defeat, the agency’s decision.” Id. (quoting Ward, 
+304 N.W.2d at 237). The majority goes out of its way to defeat rather than uphold 
+
+ 
+27 
+ 
+the agency’s decision. The majority’s approach is contrary to statute, controlling 
+precedents, and persuasive precedents. I respectfully dissent.   
+Oxley, J., joins this dissent. 
+ 

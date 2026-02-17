@@ -1,0 +1,798 @@
+Case Number: 19007252.01
+Case Title:  FLEMING, CRAIG V. GNA TRUCKING LLC
+Doc Type:    Decision - Deputy
+Source:      Fleming Craig-19007252.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+CRAIG FLEMING, 
+File No. 19007252.01 
+ 
+Claimant, 
+vs. 
+ 
+ 
+GNA TRUCKING, LLC, 
+ ARBITRATION D EC ISION 
+ 
+Employer, 
+FIRSTCOMP INSURANCE COMPANY, 
+Headnotes:  1803 
+ 
+Insurance Carrier, 
+ 
+Defendants. 
+I.  
+STATEMEN T OF TH E C AS E. 
+Claimant Craig Fleming seeks workers’ compensation benefits from the 
+defendants, employer GNA Trucking, LLC (GNA) and insurance carrier FirstComp 
+Insurance Company (FirstComp). The undersigned presided over an arbitration hearing 
+held on January 25, 2023. Fleming participated personally and through attorney John 
+Lawyer. The defendants participated by and through attorney Timothy W. Wegman. The 
+case was fully submitted on February 27, 2023, with the filing of the parties’ post-
+hearing briefs. 
+II.  
+ISSU ES . 
+Under Iowa Administrative Code rule 876—4.19(3)(f), the parties jointly 
+submitted a hearing report defining the claims, defenses, and issues submitted to the 
+presiding deputy commissioner. The hearing report was approved and entered into the 
+record via an order because it is a correct representation of the disputed issues and 
+stipulations in this case. The parties identified the following disputed issues in the 
+hearing report: 
+1) What is the nature and extent of permanent disability caused by the alleged 
+injury under Iowa Code section 85.34? 
+2) What is the commencement date for permanent disability benefits under 
+Iowa Code section 85.34? 
+ELECTRONICALLY FILED     2023-Aug-04  10:52:00     DIVISION OF WORKERS' COMPENSATION
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 2 
+ 
+3) Is Fleming entitled to recover the cost of an independent medical 
+examination (IME) under Iowa Code section 85.39? 
+4) Is Fleming entitled to taxation of the costs against the defendants under Iowa 
+Code section 86.40 and Iowa Administrative Code rule 876—4.33? 
+III .  
+STIP U LATION S. 
+ 
+In the hearing report, the parties entered into the following stipulations: 
+1) An employer-employee relationship existed between Fleming and GNA at the 
+time of the stipulated injury. 
+2) Fleming sustained an injury on December 9, 2019, which arose out of and in 
+the course of his employment with GNA. 
+3) The alleged injury is a cause of temporary disability during a period of 
+recovery, but Fleming’s entitlement to temporary or healing period benefits is 
+no longer in dispute. 
+4) The alleged injury is a cause of permanent disability. 
+5) At the time of the stipulated injury, Fleming: 
+a) Had gross earnings of $926.54 per week. 
+b) Was married. 
+c) Was entitled to five exemptions. 
+6) From December 10, 2019, and continuing, the defendants paid to Fleming 
+weekly compensation. 
+The parties’ stipulations in the hearing report are accepted and incorporated into 
+this arbitration decision. The parties are bound by their stipulations. This decision 
+contains no discussion of any factual or legal issues relative to the parties’ stipulations 
+except as necessary for clarity with respect to disputed factual and legal issues. 
+IV.  
+FIN D IN GS OF FAC T . 
+The evidentiary record in this case consists of the following:  
+ Joint Exhibits JE-1 through JE-4; 
+ Claimant’s Exhibits 1 through 2;  
+ Defendants’ Exhibits A through D; and 
+ Hearing testimony by Fleming.  
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 3 
+ 
+After careful consideration of the evidence and the parties’ post-hearing briefs, 
+the undersigned enters the following findings of fact.  
+At the time of hearing, Fleming was 63 years of age. (Hrg. Tr. p. 31) Fleming 
+earned his diploma from Abraham Lincoln High School in Des Moines, Iowa. (Hrg. Tr. p. 
+10) Fleming attended the Lincoln Technical Institute, an automotive school, and 
+obtained a certificate. (Hrg. Tr. pp. 10–11) Fleming then enlisted in the Marine Corps 
+where he worked as a mechanic. (Hrg. Tr. p. 11) 
+After Fleming’s honorable discharge from the Marine Corps, he worked various 
+warehouse jobs. (Hrg. Tr. p. 32) Fleming worked for a chemical company for a few 
+years. (Hrg. Tr. p. 32) He worked at the Iowa State Fair, cooking in the grandstand, a 
+couple of times. (Hrg. Tr. p. 32) Fleming also performed odd jobs. (Hrg. Tr. p. 33) It is 
+more likely than not based on the totality of the evidence Fleming is physically unable to 
+return to warehouse jobs, working for the chemical company, or performing odd jobs 
+due to the work injury and the disability it caused. 
+Fleming worked at Liberty Hardwoods for about nine years. (Hrg. Tr. p. 12) He 
+worked in the warehouse where he moved lumber by hand and using a forklift. (Hrg. Tr. 
+p. 12) His job duties required operating a forklift, lifting, pushing, and pulling. (Hrg. Tr. p. 
+12) Fleming estimated he had to lift as much as seventy pounds in that job. (Hrg. Tr. p. 
+12) He credibly testified at hearing that he would be unable to perform the job due to the 
+stipulated work injury and resulting disability limiting his physical ability to perform the 
+job duties. (Hrg. Tr. pp. 12–13) The weight of the evidence establishes Fleming could 
+not return to this job because of the functional limitations caused by the stipulated work 
+injury. 
+Fleming next worked as a bus driver for about a year for Durham Schools, a 
+company with which the Waukee Community School District contracted. (Hrg. Tr. p. 13) 
+He drove a school bus for about a year, transporting children to and from school. (Hrg. 
+Tr. p. 13) A part of that job included being able to evacuate the children from the bus if 
+needed. (Hrg. Tr. pp. 13–14) It is more likely than not that Fleming’s permanent 
+functional limitations caused by the stipulated work injury would prevent him from 
+returning to this job. 
+JMT hired Fleming as a dump truck driver. (Hrg. Tr. p. 14) He drove the truck, 
+picked up materials, sometimes used a shovel, and cleaned out the truck. (Hrg. Tr. p. 
+14) Fleming estimated that he had to lift as much as fifty pounds in that job. (Hrg. Tr. p. 
+14) JMT discharged Fleming after he backed into another vehicle because it was 
+company policy to terminate the employment of any employee whose negligence 
+caused an accident. (Hrg. Tr. p. 15) Because of the functional limitations caused by the 
+stipulated work injury, Fleming was unable to perform this job at the time of hearing. 
+After JMT, Fleming obtained employment driving a cement truck at CTI Concrete, 
+where he worked for about two years. (Hrg. Tr. p. 15) The job duties were more 
+physically demanding than driving a dump truck and he made more money. (Hrg. Tr. p. 
+15) For example, Fleming had to perform more lifting at CTI. (Hrg. Tr. p. 15)  
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 4 
+ 
+While working for CTI, Fleming had a truck stolen and was struck by a vehicle 
+while attempting to chase down the culprit. (Hrg. Tr. p. 26) The incident caused an injury 
+to Fleming’s knee that prevented him from being able to perform his job duties at CTI 
+and while he was willing to work, CTI did not have work that he could perform given his 
+limitations due to the injury. (Hrg. Tr. pp. 26–27) Fleming’s boss advised him to file a 
+claim with the Division of Unemployment Insurance Services at Iowa Workforce 
+Development (IWD) for unemployment insurance (UI) benefits and Fleming did so. (Hrg. 
+Tr. p. 26)  
+On the claim form, Fleming indicated he was able and available for work. (Hrg. 
+Tr. p. 26) The agency initially awarded him UI benefits, but ultimately reversed its 
+decision and concluded it had overpaid him benefits because he was not able and 
+available for work. (Hrg. Tr. pp. 26–27) Fleming believes, and the record shows it is 
+more likely than not, that he could perform some work at that time, just not all of the job 
+duties he was performing before his injury. (Hrg. Tr. p. 27)  
+Nonetheless, IWD recommended Fleming for prosecution based on the 
+allegation he made a misrepresentation on his claim for UI benefits and he ultimately 
+entered a guilty plea. (Hrg. Tr. p. 27) At the time of hearing, he had paid about 
+$10,000.00 in restitution to IWD. (Hrg. Tr. p. 27) The undersigned concludes Fleming 
+believed in good faith that he was eligible for UI benefits at the time he filed his claim 
+because his boss advised him to apply and he was able to perform some work despite 
+his injury, and he did not intend to receive benefits to which he was not entitled. The 
+undersigned draws no negative inference with respect to Fleming’s credibility from this 
+incident. 
+Later in Fleming’s tenure with CTI, he injured his back. (Hrg. Tr. p. 16) Because 
+of the pain, Fleming took two pills of Vicodin he had from an old prescription on a Friday 
+night after work to help alleviate his pain and then tested positive for Vicodin on the 
+following Monday on a random drug test. (Hrg. Tr. pp. 16–17) CTI discharged Fleming 
+because of the positive drug test. (Hrg. Tr. pp. 16–17) Fleming was physically incapable 
+of performing the duties of a CTI cement truck driver at the time of hearing because of 
+the functional limitations caused by the stipulated work injury. 
+GNA hired Fleming as a truck driver. (Hrg. Tr. p. 17) On December 9, 2019, a 
+winter storm came through the Des Moines metro area. (Hrg. Tr. p. 17) Fleming’s boss 
+instructed him to return to the shop because the weather was too bad to drive. (Hrg. Tr. 
+p. 17) Fleming’s next memory is waking up at the hospital. (Hrg. Tr. p. 17)  
+Fleming was involved in a multiple-vehicle car crash on the interstate near 
+Mitchellville, Iowa. (Ex. JE-2, p. 24) Fleming was transported to the Mercy Hospital and 
+when he woke up there, he could not move anything. (Hrg. Tr. p. 18; Ex. JE-2, p. 24) 
+Fleming was diagnosed with a spinal cord injury at C5-6, a traumatic disk injury at C7-
+T1, and facial lacerations. (Ex. JE-2, pp. 23–29). Because of Fleming’s severe spinal 
+cord injury, he underwent emergency surgery on his back consisting of anterior cervical 
+discectomy and arthrodesis at C5-C6 and C7-T1, placement of intervertebral 
+biomechanical devices at C5-C6 and C7-T1, anterior cervical plating between C5 and 
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 5 
+ 
+T1, and use of morselized allograft. (Ex. JE-2, pp. 23–26). Fleming also underwent 
+surgery to repair his facial lacerations. (Ex. JE-2, pp. 27–29) 
+Ultimately, providers transferred Fleming to a rehabilitation hospital by 
+ambulance. (Hrg. Tr. p. 18) While at the facility, he participated in physical therapy and 
+occupational therapy for several hours daily. (Hrg. Tr. p. 18–19) Fleming found the 
+intensive therapy regimen there very helpful. (Hrg. Tr. p. 19) 
+The defendants arranged for Fleming to undergo an independent medical 
+examination (IME) with Robert Broghammer, M.D., on May 17, 2021. (Ex. JE-3, p. 36) 
+Dr. Broghammer performed a records review and examination of Fleming, then issued 
+an IME report dated May 21, 2021. (Ex. JE-3, pp. 36–43) Dr. Broghammer opined on 
+multiple questions probative in reaching a determination of the issues disputed between 
+the parties. (Ex. JE-3, pp. 43–47) 
+On the question of maximum medical improvement (MMI), Dr. Broghammer 
+opined that Fleming reached MMI on December 17, 2020, because that “is the point in 
+time when the worker followed up with [Ai Huong Phu, D.O.] with a recent MRI showing 
+essentially normal findings without any evidence of hydronephrosis or nephrology 
+disease” and it was “the point in time that the worker’s back pain had gotten 
+substantially better, and he was sleeping throughout the night without waking up as 
+often.” (Ex. JE-3, p. 44) Fleming credibly testified that he had plateaued in terms of his 
+recovery about a year out from his December 9, 2019 surgery. (Hrg. Tr. pp. 35–36) The 
+weight of the evidence establishes that Fleming reached MMI on December 17, 2020. 
+Dr. Broghammer opined that Fleming sustained a permanent partial impairment 
+(PPI) from the stipulated work injury and used the Fifth Edition of the American Medical 
+Association’s Guides to the Evaluation of Permanent Impairment (Guides)1 to opine as 
+to its extent. (Ex. JE-3, p. 44) He used Table 13-15, “Criteria for Rating Impairments due 
+to Station and Gait Disorders,” to place Fleming into Class 3 because Fleming can rise 
+and maintain standing position with difficulty but cannot walk without assistance. (Ex. 
+JE-3, p. 44; Guides, p. 336) According to the table, the range of PPI for an individual in 
+Class 3 is 20 to 39 percent and Dr. Broghammer assigned Fleming a 30 percent 
+impairment of the whole person under the table. (Ex. JE-3, p. 44; Guides, p. 336) 
+Dr. Broghammer then consulted Table 13-17, “Criteria for Rating Impairments of 
+Two Upper Extremities,” to place Fleming in Class 2, for individuals that can use both 
+upper extremities for self-care and can grasp and hold objects with difficulty but has no 
+digital dexterity. (Ex. JE-3, p. 44; Guides, p. 340) Under the table, Class 2 has a PPI 
+                                                 
+1 In 2017, the legislature amended the Iowa Workers’ Compensation Act to require, under Iowa 
+Code section 85.34(2)(x), “In all cases of permanent partial disability described in paragraphs “a” through 
+“u”, or paragraph “v” when determining functional disability and not loss of earning capacity, the extent of 
+loss or percentage of permanent impairment shall be determined solely by utilizing the [Guides], 
+published by the American medical association, as adopted by the workers’ compensation commissioner 
+by rule pursuant to chapter 17A.” Iowa Administrative Code rule 876—2.4 adopts the Fifth Edition of the 
+Guides for use in workers’ compensation cases. In this decision, all references to the Guides are to the 
+Fifth Edition unless otherwise noted. 
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 6 
+ 
+range between 20 and 39 percent to the whole person. (Ex. JE-3, p. 44; Guides, p. 340) 
+Because Fleming demonstrated difficulty in range of motion of the left shoulder on 
+examination, Dr. Broghammer assigned him a 39 percent impairment to the whole body. 
+(Ex. JE-3, p. 44) 
+Section 13.7 of the Guides, “Criteria for Rating Spinal Cord and Related 
+Impairments,” addresses the respiratory, anorectal, urinary, and sexual systems. (Ex. 
+JE-3, p. 45; Guides, pp. 340–42) Dr. Broghammer noted Fleming had no issue with his 
+bladder and no troubles with respiration, so he opined Fleming had no PPI under the 
+table. (Ex. JE-3, p. 45) Using Table 13-20, “Criteria for Rating Neurologic Anorectal 
+Impairment,” Dr. Broghammer placed Fleming in Class 1 and assigned him a 10 percent 
+whole person impairment because he had “some reflex regulation but only limited 
+voluntary control.” (Ex. JE-3, p. 45) Using Table 13-21, “Criteria for Rating Neurologic 
+Sexual Impairment,” Dr. Broghammer placed Fleming in Class 3 and assigned a 20 
+percent PPI to the whole person because has no sexual function. (Ex. JE-3, p. 45) 
+Dr. Broghammer then used the Combined Values Chart on pages 604 and 605 of 
+the Guides to combine the values of the multiple PPI ratings: 
+39% upper extremity impairment related to neurologic disorders combined 
+with 30% for lower extremity impairment related to his neurologic 
+disorders would equate to a 57% whole person impairment. A 57% whole 
+person impairment combined with 20% impairment for sexual functioning 
+yields a 66% whole person impairment. A 66% whole person impairment 
+combined with 10% whole person impairment for the worker’s anorectal 
+impairment yields a 69% whole person impairment. 
+(Ex. JE-3, p. 45) 
+Dr. Broghammer opined on permanent work restrictions thusly: 
+Mr. Fleming would have extensive work restrictions. Given his age and 
+education, I am not sure what gainful employment Mr. Fleming could 
+complete. He cannot use his hands for writing or typing or any fine motor 
+control. He can only use them on in gross manner. He is limited in his left 
+upper extremity use, and so he could not do any at or above shoulder 
+level work. He has weakness in all four extremities due to his cervical cord 
+injury, and I do not think he could reasonably lift more than 10 pounds in a 
+work setting. He certainly cannot stand or walk to any degree for work 
+because he requires assistance from an individual as well as the use of a 
+cane. He would be confined to his motorized wheelchair. He cannot write. 
+He cannot balance. He cannot stoop, squat, crawl, crouch, or kneel. He 
+cannot climb ladders. He cannot climb stairs. He cannot do any pushing or 
+pulling to any significant degree. 
+In my medical opinion, if Mr. Fleming were trained as a psychiatrist or an 
+attorney or had some type of training such as a motivational speaker, he 
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 7 
+ 
+may be able to return to some type of speaking work. In my medical 
+opinion, this is likely the only gainful employment activity that Mr. Fleming 
+could do, and that would be talking. He is so physically debilitated from 
+this injury that I do not think there is anything physical that he could 
+reasonably do from a gainful employment perspective, and I highly doubt 
+he would be able to find work in a competitive workforce. Again, if Mr. 
+Fleming could work in a capacity with speaking, he might be able to do 
+this, but this is the only gainful employment activity that I think he could 
+reasonably complete given his significant injuries. As noted previously, 
+unfortunately, he does not have formal training in psychology, psychiatry, 
+law or any other field that would require . . . the use of his mind, and I 
+highly doubt he would find anything in the competitive workforce. 
+(Ex. JE-3, pp. 46–47) 
+With respect to future care, Dr. Broghammer recommended Fleming continue 
+care with Dr. Phu “for ongoing pain management to include but not necessarily limited 
+to his baclofen as well as his chemodenervation with Botox up to four times yearly.” (Ex. 
+JE-3, p. 46) He also recommended supplies and equipment for anorectal dysfunction, 
+bracing devices as needed, and additional home equipment such as a bed with an 
+adjustable mattress or mechanical lift to help with transfers. (Ex. JE-3, p. 46) Dr. 
+Broghammer made clear that these are foreseeable needs and other needs may arise. 
+(Ex. JE-3, p. 46) 
+Claimant’s counsel arranged for Fleming to undergo an IME with Sunil Bansal, 
+M.D., an occupational medicine specialist, on August 5, 2022, in Urbandale, Iowa. (Ex. 
+JE-1, p. 1) Dr. Bansal performed a records review and in-person examination, then 
+issued a report dated October 27, 2022, in which he answered multiple questions posed 
+by claimant’s counsel. (Ex. JE-1) Dr. Bansal agreed with the diagnoses Fleming 
+received from his care providers and Dr. Broghammer. (Ex. JE-1, pp. 18–19) 
+On the question of PPI to Fleming’s face, Dr. Bansal opined, “With reference to 
+[the Guides], Fifth Edition, specifically Table 8.2, Mr. Fleming meets the criteria of a 
+Class 1 impairment. For his facial scarring he is assigned a 5% whole person 
+impairment.” (Ex. JE-1, p. 20; Guides, p. 178)  
+Dr. Bansal addressed PPI in activities of daily living (excluding work) to the rest 
+of Fleming’s body as follows: 
+Mr. Fleming has corticospinal tract impairment from his cervical spine 
+condition related to his December 9, 2019 injury. Guidance for this 
+condition is provided per the [Guides], Fifth Edition, Section 15.7. 
+For Mr. Fleming, six rating categories are combined for the total 
+impairment. 
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 8 
+ 
+First is the DRE Category per Table 15-5. With reference to the [Guides], 
+Fifth Edition, specifically Table 15-5, we find that Mr. Fleming meets 
+criteria from DRE Category IV. He is status post anterior cervical 
+discectomy and arthrodesis at C5-C6 and C7-T1, placement of 
+intervertebral biomechanical devices at C5-C6 and C7-T1, anterior 
+cervical plating between C5 and T1, and use of morselized allograft. He 
+has been left with spastic quadriplegia and limited use of his upper and 
+lower extremities. He is assigned a 28% whole person impairment[.] 
+(Ex. JE-1, pp. 20–21) 
+The legislature has mandated use of the Guides when determining the extent of 
+loss or percentage of permanent impairment. This makes the Guides dispositive on the 
+question of permanent impairment when determining the extent of disability and 
+entitlement to benefits for such. In Section 15.6, “DRE: Cervical Spine,” the Guides 
+explain how to use Table 15-5 when evaluating permanent impairment, stating, “If the 
+cervical spine problem is due to corticospinal tract involvement, use Table 15-6 alone.” 
+Guides, p. 392.  
+Dr. Bansal states, “Fleming has corticospinal tract impairment from his cervical 
+spine condition related to his December 9, 2019 injury.” (Ex. JE-1, p. 20) He then uses 
+Table 15-5, “Criteria for Rating Impairment Due to Cervical Disorders,” in addition to 
+Table 15-6. This is contrary to the directive in the Guides to “use Table 15-6 alone” if the 
+individual’s “cervical spine problem is due to corticospinal tract involvement.” Guides, p. 
+392. Therefore, the portion of Dr. Bansal’s permanent impairment rating using Table 15-
+5 is rejected because it does not adhere to the Guides. 
+Dr. Bansal assigned Fleming the following PPI ratings using Table 15-6: 
+For his upper extremity dysfunction, per Table 15-6b he meets the criteria 
+of a Class 3 impairment as he has no functional use of his upper 
+extremities and is assigned a 79% whole person impairment. 
+For his station and gait disorder, per Table 15-6c we find that he meets 
+the criteria for Class 3 impairment, as he utilizes a wheelchair and cane 
+for ambulation. Therefore, I assign a 39% whole person impairment rating. 
+For his neurological bladder, per 15[-]6d he meets the criteria for a Class 1 
+impairment, as he has intermittent incontinence and does require periodic 
+catheterization. He is assigned a 9% whole person impairment.  
+For his neurogenic bowel, per 15[-]6e he meets the criteria for a Class 1 
+impairment, but he does require frequent enemas. He is assigned a 19% 
+whole person impairment. 
+For his sexual impairment, per 15[-]6f he is assigned a 20% impairment of 
+the body as a whole for having no sexual function. 
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 9 
+ 
+(Ex. JE-1, p. 21)  
+Dr. Bansal offered the following assessment in response to questions about what 
+activities Fleming should avoid and whether he has the ability to work: 
+Mr. Fleming has no practical function of his hands, and markedly restricted 
+ambulation. In this case, rather than enumerating a list of activities that Mr. 
+Fleming should avoid, the list of activities that he is able to perform is far 
+shorter, and in this case no practical function is noted. 
+**** 
+Mr. Fleming does not have the ability to be gainfully employed. He lacks 
+functionality of his hands, and has markedly limited ambulatory ability. He 
+has frequent bowel incontinence. It would not be practical or feasible for 
+Mr. Fleming to be employed. 
+(Ex. JE-1, pp. 21–22) 
+At the time of hearing, Fleming was receiving ongoing care. Dr. Phu manages 
+Fleming’s prescription medications and administers Botox injections, which help loosen 
+up Fleming’s muscles. (Hrg. Tr. pp. 20–21) Dan Moyse, M.D., a pain management 
+specialist, administers trigger point injections in his lower back to stimulate the muscles 
+and reduce his pain. (Hrg. Tr. p. 22; Ex. JE-3, pp. 49–57) 
+Before the stipulated work injury, Fleming’s wife, Rhonda, was working as a 
+dispatcher for a towing company in Des Moines. (Hrg. Tr. p. 19) The crash and resulting 
+disability caused her to quit her job and become his primary caretaker. (Hrg. Tr. p. 19) 
+She helps Fleming get in and out of his wheelchair, bathe, get dressed, complete 
+personal care activities, use the restroom, with his medication, and to prepare his 
+meals. (Hrg. Tr. pp. 19–20, 30–31) They also periodically have a caretaker help Rhonda 
+out with Fleming’s needs. (Hrg. Tr. pp. 25–26) The Flemings’ grandchildren assist him 
+as well. (Hrg. Tr. pp. 29–30) 
+In the week before hearing, Fleming was hospitalized because doctors thought 
+he was having a stroke. (Hrg. Tr. p. 22) However, it turned out he was just experiencing 
+a bad migraine, was dehydrated, and his blood pressure was low. (Hrg. Tr. pp. 22–23) 
+Migraines are a common and random occurrence in Fleming’s life after the crash. (Hrg. 
+Tr. p. 23) 
+Before the crash, Fleming had no issues with body temperature regulation. (Hrg. 
+Tr. p. 24) Since the crash, Fleming feels cold all of the time. (Hrg. Tr. p. 24) He needs a 
+blanket even when the temperature is in the 90s. (Hrg. Tr. p. 24) Fleming’s muscles 
+tighten when they get cold. (Hrg. Tr. p. 24) His hands are regularly tight; however, when 
+cold, his hands tighten into an extremely tight fist. (Hrg. Tr. p. 25)  
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 10 
+ 
+At the time of hearing, Fleming had a valid driver’s license. (Hrg. Tr. p. 33) He 
+attended school to learn how to drive with hand controls and his vehicle is equipped 
+with them. (Hrg. Tr. p. 33) No doctor has told Fleming that he is physically incapable for 
+driving. (Hrg. Tr. p. 33) 
+Fleming primarily uses an electric wheelchair for mobility. (Hrg. Tr. p. 35) He 
+uses it when he leaves his residence. (Hrg. Tr. p. 35) Around the house, Fleming walks 
+with a cane and his wife’s assistance. (Hrg. Tr. p. 35) 
+At the time of hearing, Fleming would have good days and bad days with respect 
+to his physical capabilities. (Hrg. Tr. p. 29) Some days, he spends the majority of his 
+waking time in bed. (Hrg. Tr. p. 29) This worsens his depression. (Hrg. Tr. p. 29) 
+Fleming did not look for work between the date of the stipulated work injury and 
+the 2022 Iowa State Fair. (Hrg. Tr. pp. 33–34) Fleming saw a job listing online for the 
+State Fair, applied, and got the job. (Hrg. Tr. p. 34–35) During the State Fair, Fleming 
+could not use the scanner to scan tickets because he was physically incapable of 
+pulling the trigger to activate the scanner, so they assigned him to work at the gate 
+stamping fairgoers hands if they wanted re-entry. (Hrg. Tr. p. 34, 36–37) The State Fair 
+effectively accommodated Fleming by eliminating the requirement that he scan tickets 
+and allowing him to only stamp fairgoers as they exited.  
+Fleming credibly testified that he never intended to go without a job and that he 
+would love to work despite his disability. (Hrg. Tr. p. 28) Fleming also credibly testified 
+that, before the stipulated work injury, he intended to work until he was 70 or could no 
+longer work. (Hrg. Tr. p. 28) If he would have been capable of working past the age of 
+70, he would have. (Hrg. Tr. pp. 28–29) 
+In the determination of the extent of permanent impairment, the disfigurement of 
+Fleming’s face must be considered. Section 8.2 of the Guides, entitled “Disfigurement,” 
+defines “skin disfigurement” for its purposes to mean, 
+an altered or abnormal appearance that may be an alteration of color, 
+shape, or structure, or a combination of these. Disfigurement may be a 
+residual of injury or disease, or it may accompany a recurrent or ongoing 
+disorder. Examples of disfigurement include giant pigmented nevi, nevus 
+flammeus, cavernous hemangioma, and pigmentation alteration. 
+Disfigurement usually has no effect on body function and may have little or 
+no effect on the ability to perform activities of daily living, except if the 
+disfigurement causes social rejection or an unfavorable self-image with 
+self-imposed isolation, lifestyle alteration, or other behavioral changes. 
+Guides, pp. 175–76.  
+The Guides direct an evaluator of permanent impairment to use Table 8-2, 
+“Criteria for Rating Permanent Impairment Due to Skin Disorders,” when rating the 
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 11 
+ 
+impairment caused by disfigurement. Id. at pp. 176, 178. When using Table 8-2, the 
+Guides instruct: 
+The signs and symptoms of disorders in classes 1, 2, and 3 may be 
+intermittent and not present at the time of examination. Consider the 
+impact of the skin disorder on the ability to perform activities of daily living 
+(see Table 1-2) in determining the class of impairment. Consider the 
+frequency and intensity of signs and symptoms (i.e., severity) and the 
+frequency and complexity of medical treatment when selecting an 
+appropriate impairment percentage and estimate within any class (see 
+Introduction). 
+Id. at 178 (Table 8-2 Asterisk). 
+Class 1 on the table is used when the following criteria are met: 
+Skin disorder signs and symptoms present or intermittently present 
+and 
+no or few limitations in performance of activities of daily living; exposure to 
+certain chemical or physical agents may temporarily increase limitation 
+and 
+requires no or intermittent treatment 
+Id. at p. 178 (bold-face and italics used in original). 
+Dr. Broghammer did not assign Fleming an impairment rating for the 
+disfigurement of his face caused by the vehicle crash. Neither did any of Fleming’s 
+treating physicians. However, none of these doctors opined Fleming did not sustain a 
+permanent impairment under Table 8-2. The undersigned finds Dr. Bansal’s opinion on 
+permanent impairment for the facial disfigurement persuasive because Fleming meets 
+the criteria set forth in the Guides, Table 8-2, for Class 1. It is more likely than not 
+Fleming sustained a permanent impairment of 5 percent to the whole body due to the 
+facial disfigurement caused by the stipulated work injury. 
+Moving to Fleming’s spinal cord injury, when comparing Dr. Bansal’s opinion on 
+PPI to that of Dr. Broghammer, the notable difference is the former uses Table 15-6 and 
+the latter uses tables in Chapter 13. The cause for their different references is 
+discussed in the Guides: 
+In prior editions of the Guides, rating spinal cord injury was done either 
+through a combination of DRE categories or in the nervous system 
+chapter. It was decided in this edition to evaluate spinal cord injuries 
+based on the criteria in the nervous system chapter (Chapter 13). These 
+criteria are repeated in this section. For bilateral neurologic or 
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 12 
+ 
+corticospinal tract damage, consultation with a spinal cord injury specialist 
+and review of Chapter 13, The Central and Peripheral Nervous System, is 
+recommended. Thus, for an individual with a spinal cord injury affecting 
+the upper extremities, use Table 15-6 and the appropriate impairment 
+rating for impairment of one or both upper extremities. For impairments 
+involving the loss of use of the lower extremities, use the section in Table 
+15-6 pertaining to station and gait impairment. If there is additional bowel 
+or bladder dysfunction, combine the upper extremity or lower extremity 
+loss with impairments in bladder, anorectal, and/or neurologic sexual 
+impairment as warranted. 
+Once a class has been selected, the exact value is obtained by combining 
+the value with the corresponding additional impairment from DRE 
+categories II through V for cervical lumbar impairment and DRE categories 
+II through IV for thoracic impairment. An exact value is determined based 
+on degree of impairment of [activities of daily living]. 
+Guides, p. 396. Example 15-17 provides an illustrative example of a man who sustained 
+a vertebral fracture with corticospinal tract involvement, which means “he should be 
+rated using the neurology tables.” Id. at 397. 
+Thus, Dr. Bansal did not use the neurology tables, as the Guides instruct, and Dr. 
+Broghammer did. Nonetheless, their ratings largely used the same standards because 
+the Guides published them in both Chapter 13 and Chapter 15. Thus, the two experts 
+used the same guidelines in their opinions, even if they are found in different chapters 
+and tables of the Guides. 
+The duo’s opinions diverge most widely on the question of permanent impairment 
+to the upper extremities. While both doctors placed Fleming in Class 3, “Individual can 
+use both upper extremities but has difficulty with self-care,” Dr. Bansal concluded 
+Fleming had “no functional use of his upper extremities,” which seems more in line with 
+Class 4, “Individual cannot use upper extremities,” and assigned him a 79 percent 
+impairment rate. In contrast, Dr. Broghammer placed Fleming in Class 2, “Individual can 
+use both upper extremities for self-care, can grasp and hold objects with difficulty, but 
+has no digital dexterity,” and assigned him 39 percent permanent impairment, the 
+highest allowed in this category.  
+The evidence shows that Fleming is properly categorized in Class 3, as Dr. 
+Bansal opined, because while “he can use both upper extremities,” he nonetheless “has 
+difficulty with self-care activities.” Fleming’s difficulty is such that he requires assistance 
+from family members, and occasionally a professional, with self-care activities. 
+Therefore, Dr. Bansal’s 79 percent impairment rating is adopted because it is supported 
+by the weight of the evidence in the record. 
+With respect to Fleming’s station and gait disorder, Dr. Bansal placed him in 
+Class 3, “Rises and maintains standing position with difficulty; cannot walk without 
+assistance,” and assigned him a 39 percent whole person impairment rating, the highest 
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 13 
+ 
+allowed in that class under the tables. Dr. Broghammer similarly placed Fleming in 
+Class 3, but opined his impairment rating was 30 percent. The evidence here shows 
+that while Fleming can stand, he rarely walks, even with assistance, outside the home. 
+His primary means of getting around is using his electronic wheelchair. Consequently, 
+Dr. Bansal’s opinion is more persuasive and is adopted. It is more likely than not 
+Fleming sustained a 39 percent whole person impairment for the station and gait 
+disorder caused by the stipulated work injury. 
+On the neurologic impairment of Fleming’s bladder, Dr. Bansal opined Fleming 
+had a 9 percent impairment because of “intermittent incontinence” and “periodic 
+catheterization” occurring approximately once every six months. In contrast, Dr. 
+Broghammer assigned an impairment rating of zero percent because he had no issue 
+with his bladder or respiration. Requiring periodic catheterization, even once every six 
+months on average, shows Dr. Broghammer’s assessment that he has no issue with his 
+bladder is incorrect. Fleming has “intermittent incontinence,” which means Dr. Bansal 
+properly categorized him in Class 1. Dr. Bansal’s 9 percent impairment rating is 
+adopted. 
+Both experts classified Fleming’s neurologic anorectal impairment as falling 
+under Class 1, for individuals with “reflex regulation but only limited voluntary control.” 
+Dr. Bansal assigned a 19 percent whole person impairment because Fleming requires 
+frequent enemas. Dr. Broghammer opined Fleming had a 10 percent impairment 
+without explanation. Dr. Bansal’s reasoning based on Fleming requiring enemas is more 
+persuasive. Dr. Bansal’s impairment rating is adopted. 
+On the question of neurologic sexual impairment, the experts agreed. Both 
+assigned Fleming a 20 percent whole body impairment because has no sexual function. 
+Their consensus impairment rating is adopted. 
+The Guides include the Combined Values Chart on pages 604 and 605 for 
+combining different impairment ratings into one. Doing so here, we start with 79 percent 
+impairment to the upper extremities and combine it with 39 percent for station and gait, 
+which combine for 87 percent on the Chart. 87 percent combines with Fleming’s 20 
+percent neurologic sexual impairment for 90 percent. That combines with 19 percent for 
+his neurologic anorectal impairment to equal 92 percent, which combines with the 9 
+percent impairment to his bladder for 93 percent. And 93 percent combines with the 5 
+percent impairment for his facial disfigurement for 93 percent. Thus, the stipulated work 
+injury has caused Fleming to sustain a 93 percent permanent impairment in activities of 
+daily living excluding work under the Guides. 
+Further, Dr. Broghammer and Dr. Bansal also articulated similar opinions with 
+respect to permanent work restrictions. Dr. Broghammer opined that Fleming might be 
+able to return to work if he had education, training, and experience as an attorney, 
+therapist, or speaker; however, because he does not, “[h]e is so physically debilitated 
+from this injury that I do not think there is anything physical that he could reasonably do 
+from a gainful employment perspective, and I highly doubt he would be able to find work 
+in a competitive workforce.” Dr. Bansal opined that “[i]t would not be practical or feasible 
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 14 
+ 
+for Mr. Fleming to be employed.” The undersigned finds the opinions of both doctors 
+persuasive with respect to Fleming’s ability to work given the physical limitations caused 
+by the stipulated work injury and adopts them. 
+V. 
+C ON C LU SION S OF LAW. 
+In 2017, the Iowa legislature amended the Iowa Workers’ Compensation Act. 
+See 2017 Iowa Acts, ch. 23. The 2017 amendments took effect on July 1, 2017. See id. 
+at § 24(1); see also Iowa Code § 3.7(1). Because the injury at issue in this case 
+occurred after July 1, 2017, the Iowa Workers’ Compensation Act, as amended in 2017, 
+applies. See Stiles v. Annett Holdings, Inc., No. 5064673, 2020 WL 6037539 *2 (Iowa 
+Work. Comp. Comm’r, App., Oct. 2, 2020). 
+A .  
+P e r m a n e n t  D i s a b i l i t y.  
+Iowa Code section 85.34(3) is entitled, “Permanent total disability,” but does not 
+define the term or contain a framework for determining whether an injured employee is 
+permanently and totally disabled due to a work injury. The Iowa Supreme Court has 
+held the factors used to evaluate industrial disability under what is now section 
+85.34(2)(v) are also used to determine whether a work injury has caused permanent 
+total disability under section 85.34(3). See Wal-Mart Stores, Inc. v. Caselman, 657 
+N.W.2d 493, 495 (Iowa 2003) (quoting Guyton v. Irving Jensen Co., 373 N.W.2d 101, 
+103 (Iowa 1985)). The extent of an injured employee’s industrial disability is based on 
+consideration of the following factors: functional disability, age, education, qualifications, 
+work experience, inability to engage in similar employment, earnings before and after 
+the injury, motivation to work, personal characteristics, and the employer’s inability to 
+accommodate the injured employee’s functional limitations. See Neal v. Annett 
+Holdings, Inc., 814 N.W.2d 512, 526 (Iowa 2012); IBP, Inc. v. Al-Gharib, 604 N.W.2d 
+621, 632–33 (Iowa 2000); E.N.T. Assoc. v. Collentine, 525 N.W.2d 827, 830 (Iowa 
+1994); Ehlinger v. State, 237 N.W.2d 784, 792 (Iowa 1976).  
+The Iowa Supreme Court has quoted the Commissioner with approval for the 
+principle that under the Iowa Workers’ Compensation Act, “‘[t]otal disability does not 
+mean a state of absolute helplessness.’” Caselman, 657 N.W.2d at 501 (quoting Al-
+Gharib, 604 N.W.2d at 633). “Such disability occurs when the injury wholly disables the 
+employee from performing work that the employee's experience, training, intelligence, 
+and physical capacities would otherwise permit the employee to perform.” Al-Gharib, 
+604 N.W.2d at 633 (citing Diederich v. Tri–City Ry., 219 Iowa 587, 593–94, 258 N.W. 
+899, 902 (1935)). A finding that claimant could perform some work despite claimant's 
+physical and educational limitations does not foreclose a finding of permanent total 
+disability.  See Chamberlin v. Ralston Purina, File No. 661698 (App. October 1987); 
+Eastman v. Westway Trading Corp., II Iowa Industrial Commissioner Report 134 (App. 
+May 1982). “Simply put, the question is this: Are there jobs in the community that the 
+employee can do for which the employee can realistically compete?” Second Injury 
+Fund of Iowa v. Shank, 516 N.W.2d 808, 815 (Iowa 1994) (citing Guyton v. Irving 
+Jensen Co., 373 N.W.2d 101, 103, 104 (Iowa 1985)). 
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 15 
+ 
+Permanent impairment is one factor considered when determining permanent 
+disability. As found above, the stipulated work injury caused Fleming to sustain a 93 
+permanent impairment to the whole body. This is a significant permanent impairment. 
+Fleming was 63 years of age at the time of hearing. He had achieved a high 
+school diploma and certificate as a mechanic. Given his age, educational background, 
+and physical limitations, he is a poor candidate for retraining and education. 
+Another factor that must be considered is the injured employee’s work history. 
+Fleming has been motivated to work throughout his adult life. He has consistently 
+sought out employment, typically with demanding job duties. Fleming’s training and 
+experience are in jobs that require physical labor. The physical limitations caused by the 
+stipulated work injury prevent him from returning to these types of jobs. 
+Fleming is no longer able to perform the job he held at GNA at the time of injury. 
+He could not perform the ancillary duties relating to driving a cement truck such as 
+shoveling and cleaning the truck. Further, while Fleming has learned to drive a car using 
+only his hands with special attachments, the weight of the evidence in this case shows 
+he could not physically drive a cement truck for GNA, which is a more physically 
+demanding endeavor. 
+Evidence of Fleming’s motivation to work is found in him applying and getting 
+hired to work at the gate of the Iowa State Fair. Fleming’s disability, caused by the 
+stipulated work injury, prevented him from being able to use the ticket scanner because 
+he lacks the dexterity in his hands to do so. This demonstrates the extent of Fleming’s 
+physical limitations, which the State Fair accommodated by eliminating a primary job 
+duty of his position—scanning tickets—and allowing him to only stamp fairgoers’ hands 
+as they left.  
+Further, when asked about whether Fleming could return to work, both expert 
+witnesses opined that they did not see how he could return to the competitive labor 
+market because of the physical limitations caused by the stipulated work injury. Dr. 
+Broghammer opined that he does not think there is anything physical that Fleming could 
+reasonably do from a gainful employment perspective. Dr. Bansal stated it is not 
+feasible for Fleming to be employed. The record shows there is little reason to believe 
+Fleming can find job on the open labor market, regardless of how hard he looked. 
+Fleming has no income from work. He receives disability benefits. The stipulated 
+work injury and resulting disability have had a significant negative impact on his 
+earnings. 
+Fleming has met his burden of proof. The weight of the evidence shows there are 
+no jobs in the community that he can do for which he can realistically compete. The 
+stipulated work injury has left Fleming permanently and totally disabled under Iowa 
+Code section 85.34(3). 
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 16 
+ 
+B . 
+C o m m e n c e m en t  D a t e .  
+Iowa Code section 85.34 provides, “Compensation for permanent disabilities and 
+during a healing period for permanent partial disabilities shall be payable to an 
+employee as provided in this section.” Under section 85.34(1), an injured employee is 
+entitled to healing period benefits “beginning on the first day of disability after the injury, 
+and until the employee has returned to work or it is medically indicated that significant 
+improvement from the injury is not anticipated or it is medically capable of returning to 
+employment substantially similar to the employment in which the employee was 
+engaged at the time of injury, whichever occurs first.” And section 85.34(2) states, 
+“Compensation for permanent partial disability shall begin when it is medically indicated 
+that maximum medical improvement from the injury has been reached and that the 
+extent of loss or percentage of permanent impairment can be determined by use of the 
+[Guides] . . . .”  
+Thus, the statute uses the term “maximum medical improvement” and ties it to 
+the ability to evaluate permanent impairment using the Guides. Id. The Guides use the 
+term “maximal medical improvement.” Guides, p. 19. While the terminology between the 
+two is different, the substantive meaning of the two terms, as fleshed out in the Guides 
+and Iowa Supreme Court precedent pre-dating the 2017 amendments, is largely similar.  
+The Guides provide, “An impairment should not be considered permanent until 
+the clinical findings indicate that the medical condition is static and well stabilized.” See 
+id. “Maximal medical improvement refers to the date from which further recovery or 
+deterioration is not anticipated, although over time there may be some expected 
+changes. Once an impairment has reached [maximal medical improvement], a 
+permanent impairment rating may be performed.” Id.  
+The Iowa Supreme Court has held “a claim for permanent disability benefits is 
+not ripe until maximum medical improvement has been achieved.” Bell Bros. Heating 
+and Air Conditioning v. Gwinn, 779 N.W.2d 193, (Iowa 2010) (citing 4 Arthur Larson & 
+Lex K. Larson, Larson’s Workers’ Compensation Law § 80.03D[3] n. 10, at D80–43 to 
+D80–48.2 (2009)). “[A] claimant is entitled to PPD benefits upon proof that ‘it is 
+medically indicated that significant improvement from the injury is not anticipated.’” 
+Broadlawns Med. Ctr. v. Sanders, 792 N.W.2d 302, 307 (Iowa 2010) (quoting Iowa 
+Code § 85.34(1)) (emphasis in opinion). “Any disability that remains after stabilization of 
+the condition will support an award of [PPD] benefits to the extent the residual 
+impairment decreases the claimant's earning capacity.” Id.  
+As found above, Dr. Broghammer’s opinion on the date of MMI is most 
+persuasive. It is supported by Fleming’s testimony with respect to when his recovery 
+plateaued. The weight of the evidence establishes that Fleming reached MMI on 
+December 17, 2020. This is the proper commencement date for permanent disability 
+benefits. 
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 17 
+ 
+C . 
+R a t e .  
+The parties stipulated Fleming’s gross earnings on the stipulated injury date were 
+gross earnings were $926.54 per week. They also stipulated he was married and 
+entitled to five exemptions at the time. Based on the parties’ stipulations and the rate 
+spreadsheet issued by the agency for work injuries sustained between July 1, 2019 and 
+June 30, 2020, Fleming’s workers’ compensation rate is $630.15 per week. 
+D . 
+I M E  R e i m b u r s em e nt .  
+The parties identified IME reimbursement as a disputed issue in the hearing 
+report. (Hrg. Rpt. § 8) They agreed that this was a disputed issue at the time of hearing. 
+(Hrg. Tr. p. 5) In Fleming’s post-hearing brief, he argues he is entitled to $577.00 for the 
+cost of Dr. Bansal’s examination under section 85.39(2) and $3,912.00 for the cost of 
+his report under section 86.40 and Iowa Administrative Code rule 876—4.33(6). 
+In the 2017 amendments, the legislature mandated use of the Guides for the 
+determination of functional impairment. As their title would suggest, the Guides contain 
+clear instructions for the steps a physician should take when evaluating permanent 
+impairment. Guides, chs. 1–2. The evaluation process is inextricably intertwined with 
+the impairment rating because the former is the end result of the latter. See id. The 
+legislature would not codify a requirement to use only the Guides when determining 
+permanent impairment in Iowa Code section 85.34(2)(v) if section 85.39(2) does not 
+allow for reimbursement relating to an examination that complies with that which the 
+Guides expressly direct a physician to include as part of the evaluation of permanent 
+impairment, including the evaluation and report. See Guides, pp. 17–24.  
+Dr. Bansal’s report reflects that he performed the examination of Fleming in 
+accordance with the Guides, which means Fleming is entitled to reimbursement for the 
+cost of the examination. The undersigned finds that Fleming is entitled to 
+reimbursement for the full cost of Dr. Bansal’s examination and report under Iowa Code 
+section 85.34(2) because they comply with Chapter 2 of the Guides. The defendants 
+shall pay to Fleming $4,489.00, the reasonable cost of Dr. Bansal’s examination. 
+E . 
+C o s t s .  
+“All costs incurred in the hearing before the commissioner shall be taxed in the 
+discretion of the commission.” Iowa Code § 86.40. “Fee-shifting statutes using ‘all costs’ 
+language have been construed ‘to limit reimbursement for litigation expenses to those 
+allowed as taxable court costs.’” Des Moines Area Reg'l Transit Auth. v. Young, 867 
+N.W.2d 839, 846 (Iowa 2015) (quoting Riverdale v. Diercks, 806 N.W.2d 643, 660 (Iowa 
+2011)). Statutes and administrative rules providing for recovery of costs are strictly 
+construed. Id. (quoting Hughes v. Burlington N. R.R., 545 N.W.2d 318, 321 (Iowa 
+1996)).  
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 18 
+ 
+Because Fleming prevailed on the disputed issue of the extent of permanent 
+disability caused by the work injury, the following costs are taxed against the defendants 
+under Iowa Code section 86.40 and Iowa Administrative Code rule 876—4.33: 
+ $14.66 for the original notice cost of service; and 
+ $103.00 for the cost of the filing fee and convenience fee incurred by using 
+the payment gateway on the Workers’ Compensation Electronic System 
+(WCES). 
+VI.  
+OR D ER . 
+Based on the above findings of fact and conclusions of law, it is ordered: 
+1) The defendants shall pay to Fleming permanent total disability benefits at the 
+rate of six hundred thirty and 15/100 dollars ($630.15) per week from the 
+commencement date of December 17, 2020. 
+2) The defendants shall pay accrued weekly benefits in a lump sum. 
+3) The defendants shall pay interest on unpaid weekly benefits awarded herein 
+as set forth in Iowa Code section 85.30. 
+4) The defendants are to be given the credit for benefits previously paid for the 
+stipulated amount. 
+5) The defendants shall file subsequent reports of injury as required by Rule 876 
+IAC 3.1(2). 
+6) The defendants shall pay Fleming four thousand four hundred eighty-nine and 
+00/100 dollars ($4,489.00) for Dr. Bansal’s examination under Iowa Code 
+section 85.39. 
+7) The defendants shall pay to Fleming the following amounts for the following 
+costs: 
+a. One hundred three and 00/100 dollars ($103.00) for the filing fee; 
+b. Fourteen and 66/100 dollars ($14.66) for the original notice cost of 
+service; 
+8) The parties shall be responsible for paying their own hearing costs. Each 
+party shall pay an equal share of the cost of the transcript.  
+Signed and filed this    4th    day of August, 2023. 
+
+FLEMING V. GNA TRUCKING, LLC 
+Page 19 
+ 
+ 
+ 
+ 
+BEN HUMPHREY 
+Deputy Workers’ Compensation Commissioner 
+ 
+The parties have been served, as follows: 
+John Lawyer (via WCES) 
+Timothy W. Wegman (via WCES) 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code.  The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa 
+Division of Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal 
+must be received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal 
+period will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+ 

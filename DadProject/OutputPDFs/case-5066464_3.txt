@@ -1,0 +1,229 @@
+Case Number: 5066464
+Case Title:  KNAEBLE, DAVID V. JOHN DEERE DUBUQUE WORKS/2ND INJ-FUND
+Doc Type:    Decision - Court of Appeals
+Source:      Knaeble, David-5066464-Court of Appeals.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 21-1934 
+Filed November 17, 2022 
+ 
+ 
+DAVID KNAEBLE, 
+ 
+Petitioner-Appellant, 
+ 
+vs. 
+ 
+JOHN DEERE DUBUQUE WORKS, 
+ 
+Respondent-Appellee. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Jeffrey D. Farrell, 
+Judge. 
+ 
+ 
+David Knaeble appeals from a district court order affirming the Iowa 
+Workers’ Compensation Commission’s award of disability benefits.  AFFIRMED. 
+ 
+ 
+ 
+Zeke R. McCartney and Mark J. Sullivan of Reynolds & Kenline, L.L.P., 
+Dubuque, for appellant. 
+ 
+Dirk J. Hamel of Gilloon, Wright & Hamel, P.C., Dubuque, for appellee. 
+ 
+ 
+ 
+Heard by Vaitheswaran, P.J., and Greer and Schumacher, JJ.
+
+ 
+2
+VAITHESWARAN, Presiding Judge. 
+ 
+This appeal from a workers’ compensation decision raises issues relating 
+to an award for successive disabilities. 
+ 
+David Knaeble sustained three employment-related injuries while working 
+for John Deere Dubuque Works of Deere & Company: one to his right leg and left 
+foot in 2014, a second to his hands and finger in 2017, and a third to his shoulder 
+also in 2017.  He filed three petitions for workers’ compensation benefits.  
+ 
+On the first petition, a deputy commissioner assigned Knaeble thirty-percent 
+industrial disability.  See generally Knaeble v. John Deere Dubuque Works, Iowa 
+Workers’ Comp. Comm’n No. 5055713, 2019 WL 6358888, at *1 (Sept. 20, 2019).  
+The record reveals no appeal of that decision.  
+ 
+The second petition named the Second Injury Fund of Iowa and John Deere 
+as defendants.  See Iowa Code § 85.64 (2017).  That petition was consolidated 
+with the third petition.  A deputy commissioner determined Knaeble’s industrial loss 
+for the first and second injuries was eighty-five percent and the industrial loss for 
+the third injury was five percent.  The deputy initially determined the industrial 
+disability for all three injuries was ninety-two percent.  See Knaeble v. John Deere 
+Dubuque Works, Iowa Workers’ Comp. Comm’n Nos. 5066463, 5066464, 2020 
+WL 8297395, at *10 (Nov. 30, 2020).  On rehearing, the deputy clarified that the 
+ninety-two percent figure was a “reduction in earning capacity” based on “the 
+combined disability of claimant’s” 2014 leg injury “and his left shoulder” injury.  Id.  
+The deputy also clarified the credit owing to John Deere for previously paid 
+benefits.  Id. 
+
+ 
+3
+On intra-agency appeal, the commissioner declined to revisit the deputy’s 
+eighty-five percent industrial disability determination for the first two injuries.  That 
+award was to be paid by the Second Injury Fund.  See Knaeble v. John Deere 
+Dubuque Works, Iowa Workers’ Comp. Comm’n Nos. 5066463, 5066464, 2021 
+WL 2624582, at *3 (May 10, 2021).  As for the ninety-two percent figure, the 
+commissioner noted that the deputy “did not specifically set forth how she arrived 
+at” that figure.  Id.  After surmising she used a specified methodology that 
+incorporated the eighty-five percent industrial disability determination, the 
+commissioner stated: 
+[T]hough [Knaeble’s] combined industrial disability may have been 
+92 percent after his left shoulder injury, claimant’s left shoulder injury 
+only caused an additional five percent loss of earning capacity.  
+Thus, without a credit or accounting for the 85 percent industrial 
+disability caused by the two qualifying members, claimant is 
+receiving the 85 percent industrial disability award twice—once from 
+the Fund in the 85 percent award and once from Deere in the 92 
+percent award.  As such, an award of 85 percent industrial disability 
+from the Fund and an award of 92 percent industrial disability from 
+John Deere results in a double recovery. . . .   
+ 
+. . . To avoid such a double recovery in this case, I find Deere 
+is responsible only for a five percent loss of earning capacity as a 
+result of the left shoulder injury . . . .   
+ 
+. . . I find Deere is responsible for a combined disability of 35 
+percent.  The deputy commissioner’s finding that Deere is 
+responsible for a combined 92 percent disability is therefore 
+modified. 
+ 
+Id. at *5–6.  On judicial review, the district court affirmed the commissioner’s 
+decision.  Knaeble appealed. 
+Successive disabilities are governed by Iowa Code section 85.34(7) (2017).  
+The version in effect at the time of Knaeble’s injury stated in pertinent part:  
+ 
+(1) If an injured employee has a preexisting disability that was 
+caused by a prior injury arising out of and in the course of 
+employment with the same employer, and the preexisting disability 
+
+ 
+4
+was compensable under the same paragraph of subsection 2 as the 
+employee’s present injury, the employer is liable for the combined 
+disability that is caused by the injuries, measured in relation to the 
+employee’s condition immediately prior to the first injury.  In this 
+instance, the employer’s liability for the combined disability shall be 
+considered to be already partially satisfied to the extent of the 
+percentage of disability for which the employee was previously 
+compensated by the employer. 
+ 
+(2) If, however, an employer is liable to an employee for a 
+combined disability that is payable under subsection 2, paragraph 
+“u”, and the employee has a preexisting disability that causes the 
+employee’s earnings to be less at the time of the present injury than 
+if the prior injury had not occurred, the employer’s liability for the 
+combined disability shall be considered to be already partially 
+satisfied to the extent of the percentage of disability for which the 
+employee was previously compensated by the employer minus the 
+percentage that the employee’s earnings are less at the time of the 
+present injury than if the prior injury had not occurred.  
+ 
+Iowa Code § 85.34(7)(b).  Iowa Code section 85.34(2)(u), in turn, stated:  
+ 
+In all cases of permanent partial disability other than those 
+hereinabove described or referred to in paragraphs “a” through “t” 
+hereof, the compensation shall be paid during the number of weeks 
+in relation to five hundred weeks as the reduction in the employee’s 
+earning capacity caused by the disability bears in relation to the 
+earning capacity that the employee possessed when the injury 
+occurred. 
+ 
+Knaeble argues the commissioner “grossly under compensate[d]” him “for 
+his successive injuries.”  He asserts, “The plain language of section 85.34(7)(b)(1) 
+limits its application to successive disabilities with the same employer 
+compensable under the same paragraph of [section] 85.34(2).”  In his view, the 
+deputy correctly applied the provision to find that his 2014 injury and 2017 shoulder 
+injury 
+resulted 
+in 
+ninety-two-percent 
+industrial 
+disability, 
+whereas 
+the 
+commissioner incorrectly applied the provision by “simply adding” five percent for 
+the shoulder injury “to the 30% previously awarded for the . . . 2014 injury.”    
+
+ 
+5
+Knaeble’s argument is facially appealing.  But the issue is not whether the 
+2014 injury and the 2017 shoulder injury were both compensable under 
+section 85.34(2) but the effect of the intervening 2017 hand/finger injury.  The 
+commissioner essentially determined the deputy’s ninety-two percent industrial 
+disability figure—even if it putatively encompassed only the leg and shoulder 
+injuries—had to account for the reduced use of Knaeble’s hands and finger.  In 
+other words, the deputy could not ignore the loss of earning capacity associated 
+with the hand/finger injury in assessing the later shoulder injury.  Because Knaeble 
+was compensated for the hand/finger injury through the Second Injury Fund by 
+virtue of the eighty-five-percent industrial disability finding, the commissioner 
+determined the ninety-two-percent finding would result in double-recovery.  See 
+Warren Props. v. Stewart, 864 N.W.2d 307, 315–16 (Iowa 2015) (“When a 
+successive injury increases a preexisting permanent disability to the body as a 
+whole, the benefits provided for the successive injury must not include a double 
+recovery for the first disability or a double reduction for the first disability.”). 
+We conclude the commissioner did not err in interpreting Iowa Code 
+section 85.34.  See Roberts Dairy v. Billick, 861 N.W.2d 814, 817 (Iowa 2015) 
+(stating “the legislature did not clearly vest the commissioner with authority to 
+interpret the subsections of Iowa Code section 85.34 at issue in this case” and, 
+“[a]ccordingly, our review of the commissioner’s interpretation . . . is for correction 
+of errors at law” (final alteration in original) (citation omitted)).  As for the 
+commissioner’s application of law to fact, we are persuaded the determination that 
+“an award of 85 percent industrial disability from the Fund and an award of 92 
+percent industrial disability from John Deere results in a double recovery” was not 
+
+ 
+6
+irrational, illogical, or wholly unjustifiable.  See Neal v. Annett Holdings, Inc., 814 
+N.W.2d 512, 526 (Iowa 2012) (“Because the challenge to the agency’s industrial 
+disability determination challenges the agency’s application of law to facts, we will 
+not disrupt the agency’s decision unless it is “irrational, illogical, or wholly 
+unjustifiable.”).  
+ 
+We turn to the credit granted John Deere.  The commissioner subtracted 
+“the percentage of industrial disability attributable to the first [] injury (30 percent) 
+from [Knaeble’s] combined industrial disability after his left shoulder injury (35 
+percent)” and concluded Knaeble was “due an additional five percent of industrial 
+disability.”  Knaeble argues, “The Commissioner realized that he could not give the 
+employer credit for the award on the Second Injury Fund claim” and, for that 
+reason, “substantially reduced the amount of the industrial disability awarded by 
+the deputy.”  In his view, Deere was “not entitled to credit for any payments for the 
+scheduled member injury to the bilateral upper extremities, nor [was] it entitled to 
+any credit for the compensation that the Fund paid under Iowa Code § 85.64.”  
+Again, Knaeble’s argument carries some appeal.  But the commissioner’s 
+understandable concern with double-recovery as proscribed by Warren Properties 
+leads us to conclude the commissioner’s application of law to fact was not 
+irrational, illogical, or wholly unjustifiable. 
+Finally, Knaeble contends the commissioner’s “award of just 35% industrial 
+disability for the [] 2017 left shoulder injury is inadequate and not supported by 
+substantial evidence.”  To be clear, the commissioner affirmed the deputy 
+commissioner’s finding that the left shoulder injury resulted in five—rather than 
+thirty-five—percent industrial disability.  The commissioner then determined 
+
+ 
+7
+Knaeble sustained “combined disability of 35 percent,” calculated by taking “30 
+percent for the prior 2014 injury and an additional five percent for the left shoulder 
+injury.”  We read Knaeble’s argument as a challenge to the commissioner’s 
+combined industrial disability figure of thirty-five percent.  “[W]e accept the 
+commissioner’s factual findings when supported by substantial evidence.  See 
+Chavez v. MS Tech. LLC, 972 N.W.2d 662, 666 (Iowa 2022) (citation omitted); see 
+also Warren Props., 864 N.W.2d at 311 (“We are bound by the agency’s findings 
+of fact unless they are not supported by substantial evidence.”).  Suffice it to say, 
+that figure is supported by substantial evidence.  See Mike Brooks, Inc. v. House, 
+843 N.W.2d 865, 889 (Iowa 2014). 
+ 
+AFFIRMED. 

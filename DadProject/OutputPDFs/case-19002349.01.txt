@@ -1,0 +1,904 @@
+Case Number: 19002349.01
+Case Title:  ROGERS, LARRY V. TPI COMPOSITES, INC/2ND INJ-FUND
+Doc Type:    Decision - Deputy
+Source:      Rogers Larry-19002349.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+LARRY ROGERS, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                      File No. 19002349.01 
+TPI COMPOSITES, INC., 
+  : 
+ 
+ 
+  :                         
+ 
+Employer, 
+  : 
+ 
+ 
+  :                   ARBITRATION DECISION 
+and 
+ 
+  : 
+ 
+ 
+  : 
+NEW HAMPSHIRE INSURANCE CO.,   : 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  : 
+ 
+ 
+  : 
+and 
+ 
+  : 
+ 
+ 
+  :    Head Note Nos.: 1801, 1803, 2401, 2800, 
+SECOND INJURY FUND OF IOWA, 
+  : 
+    1802, 2500, 2502, 2907, 2700, 3200 
+ 
+Defendants. 
+  :                  
+______________________________________________________________________ 
+ 
+STATEMENT OF THE CASE 
+ 
+Claimant, Larry Rogers, has filed a petition for arbitration seeking workers’ 
+compensation benefits against TPI Composites, Inc., employer, and New Hampshire 
+Insurance Company, insurer carrier, and the Second Injury Fund of Iowa, as 
+defendants.   
+ 
+ 
+In accordance with agency scheduling procedures and pursuant to the Order of 
+the Commissioner in the matter of the Coronavirus/COVID-19 Impact on Hearings, the 
+hearing was held on January 25, 2021, via Court Call. The case was considered fully 
+submitted on March 8, 2021, upon the simultaneous filing of briefs.  
+ 
+ 
+The record consists of Joint Exhibits 1-6, Claimant’s Exhibits 1-8, Defendants’ 
+Exhibits A-G, Fund Exhibits AA-BB, and the testimony of claimant. 
+ISSUES 
+ 
+1. Entitlement to temporary benefits from August 6, 2019, to October 15, 2019, and 
+then again on January 29, 2020, through July 29, 2020; 
+ 
+ELECTRONICALLY FILED     2021-Jul-23  14:28:53     DIVISION OF WORKERS' COMPENSATION
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 2 
+ 
+2. Nature and extent of permanent disability;  
+3. Commencement date of PPD benefits, if any are awarded;  
+4. Lack of timely notice under Iowa Code Section 85.23; 
+5. Reimbursement of medical expenses itemized in Exhibit 6; 
+6. Reimbursement of IME under Iowa Code Section 85.39; 
+7. Right of alternate care;  
+8. Credit of $6,242.23;  
+9. Entitlement to benefits from the Second Injury Fund of Iowa with a first qualifying 
+loss to the upper right extremity on August 11, 2018; and a second qualifying 
+loss to the right lower extremity on August 6, 2019;  
+ 
+10. Penalty. 
+STIPULATIONS 
+ 
+ 
+The parties filed a hearing report at the commencement of the arbitration 
+hearing. On the hearing report, the parties entered into various stipulations. All of those 
+stipulations were accepted and are hereby incorporated into this arbitration decision and 
+no factual or legal issues relative to the parties’ stipulations will be raised or discussed 
+in this decision. The parties are now bound by their stipulations.  
+ 
+The parties stipulate claimant sustained an injury arising out of and in the course 
+of his employment on August 6, 2019. They further agree that claimant’s average 
+weekly wage as of August 6, 2019, was $838.65 per week. He was single and entitled 
+to three exemptions. Based on the foregoing, claimant’s weekly benefit rate is $546.66. 
+ 
+While they dispute entitlement to further temporary benefits, the parties will agree 
+that claimant was off work from August 6, 2019, through October 15, 2019, and January 
+29, 2020, through July 29, 2020. This is the agreement made by the parties during the 
+hearing. (See Transcript pp. 8-9)  
+ 
+ 
+The parties dispute entitlement to medical benefit reimbursement, but will 
+stipulate that the fees and prices charged by the providers were fair and reasonable, the 
+treatment was reasonable and necessary, the medical providers would testify to the 
+reasonableness of their fees and treatments set forth in the list of expenses in Exhibit 6 
+and defendants will not offer contrary evidence. 
+ 
+ 
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 3 
+ 
+FINDINGS OF FACT 
+ 
+Claimant was a 33-year-old person at the time of the hearing. At all times 
+material hereto, he was single with one dependent child. His educational history 
+includes graduation from high school along with training and certification of crane 
+operation and JLG. JLG certified means he is authorized to operate machinery with 
+occupied lift baskets. The certification required passing a written and driving test. His 
+grades were slightly above average.  
+ 
+His work history includes building windows, building windmill blades, working as 
+a cook, and sandblasting and painting. (CE 4:8-9) He testified that sandblasting was the 
+hardest work he performed in his past. Claimant was terminated from Packaging 
+Corporation of America approximately August 23, 2020, and has not returned to work 
+since. (CE 4:9, DE G:3)  
+ 
+His past medical history includes a shoulder injury approximately seven years 
+prior which was treated with a cortisone injection. (DE B:7) He reinjured the same 
+shoulder in approximately 2014 or 2015 and was treated with pain medication and a 
+sling. He also suffered an injury to his back with corresponding hip pain. On November 
+11, 2017, claimant took himself to the UnityPoint Clinic where he was seen in the 
+emergency room by Pascuala Reyes, D.O. (JE 1:1) He complained of significant pain 
+after “jumping off a roof about four days ago.” Id. X-rays of the hip, spine and tibia/fibula 
+were unremarkable for fracture or traumatic injury. (JE 1:5-7) He was released but had 
+continued pain. (JE 1:8) Due to insurance issues, he returned to the ER on November 
+14 and November 24, 2017. (JE 1:9, JE 1:12) He was advised to follow-up with a 
+primary care physician as emergency rooms are not equipped to treat chronic pain. (JE 
+1:14) On November 29, 2017, claimant followed up with Sarah Schaff, ARNP, for his 
+pain in the left buttock radiating to the left leg. (JE 2:2) On July 5, 2018, he underwent a 
+lumbar spine MRI which showed a large central dorsal disc protrusion and lipping of the 
+endplates. There were active endplate degenerative findings at L4-S1. (JE 1:19) Dr. 
+Delbridge suggested a possible epidural. (JE 1:26) Claimant opted against the shot and 
+claimant testified that he was able to recover from the pain with exercises.    
+ 
+On August 11, 2018, he presented to the emergency room for evaluation of the 
+right hand injury suffered at the Iowa State Fair when he got angry and punched a 
+machine. (JE 1:20) X-rays showed a comminuted intra-articular fracture at the base of 
+the right 4th and 5th metacarpal bones. (JE 1:24) During this visit, claimant’s low back 
+pain was mentioned as an ongoing issue. (JE 1:26) Arnold Delbridge, M.D., reviewed 
+the July 2018 MRI as claimant was requesting an epidural. (JE 1:26) On examination, 
+he had some pulling in his leg with the straight leg raise test and the dorsal flexors of his 
+toes were weaker on the left. (JE 1:26)  Dr. Delbridge scheduled claimant for surgical 
+repair of the hand and tabled the back issue. (JE 1:26-27) Open reduction and internal 
+fixation was conducted on August 13, 2018, with an extensor tendon repair on 
+September 12, 2018, and the hardware was removed on October 4, 2018. (JE 1:28-29, 
+37-38, 31-32)  
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 4 
+ 
+ 
+John Kuhnlein, D.O., conducted an IME on September 8, 2020, and noted 
+claimant had normal wrist and normal digital motor strength in his right hand with normal 
+reflexes bilaterally. (CE 1:15) Claimant was anesthetic to pinprick and light touch 
+sensation in the right small finger’s ulnar aspect. (CE 1:15) Dr. Kuhnlein assessed a 
+10% right upper extremity impairment based on reduced range of motion on the right as 
+compared to the left and digital impairment of the right small finger. (CE 1:19) Dr. 
+Kuhnlein recommended restrictions for the right hand that included occasional work at 
+or above shoulder height, occasional grip or grasp with the right, occasional use of hand 
+and power tools with the right but no limitations on the left hand. (CE 1:19-20)  
+ 
+ 
+Claimant underwent an IME with Peter G. Matos, D.O., on November 20, 2020. 
+(DE A:3) Dr. Matos’s IME report noted normal range of motion in both wrists, 5/5 grip 
+strength, intact sensation and distal pulses, and negative Phalen’s, Finkelstein’s, 
+Tinel’s, and cubital tunnel tests. (DE A:4) 
+ 
+ 
+On August 6, 2019, claimant was working at TPI moving a root stand which he 
+estimated weighed approximately 250 kg. His right foot got caught under the root stand. 
+He felt immediate pain and removed his shoe to find that he was bleeding. He called his 
+supervisor over to help him. An accident report was filed, and claimant was provided 
+access with Care OnSite Services. (JE 3:1) A follow-up telemedicine visit was 
+scheduled for August 7, 2019. (JE 3:1) He was returned to work full duty and instructed 
+to avoid aggravation at work and home. Id. Claimant continued to have pain and 
+requested an x-ray. (JE 3:3) An x-ray on August 14, 2019, revealed no fracture. (JE 4:1)  
+ 
+ 
+On August 20, 2019, claimant sought out care from his primary care doctor, 
+George Gura, D.O. (JE 2:17) He reported pain in the right foot while walking and 
+bending his toes. Dr. Gura referred claimant to podiatrist Kevin Mulvey, D.P.M., whom 
+claimant saw on August 20, 2019. (JE 5:1) Claimant’s musculoskeletal examination 
+included back pain, difficulty walking, and foot pain. (JE 5:1) Dr. Mulvey took x-rays 
+which suggested a nondisplaced cuneiform and suggested additional tests. (JE 5:2) 
+Claimant was given an orthotic or CAM boot as well. Id. Dr. Mulvey took claimant off 
+work for at least three weeks beginning on August 21, 2019. (JE 5:4) When claimant 
+informed defendant employer of his work restrictions, he was told they would not be 
+accommodated because he sought treatment on his own.  
+ 
+ 
+On August 27, 2019, an MRI of the right foot was conducted which showed 
+nonspecific edema involving the lateral cuneiform distally which could be indicative of a 
+bone contusion. (JE 1:35)  
+ 
+ 
+Claimant was released to return to work on September 10, 2019, based on a 
+record review conducted by Christopher M. Tang, M.D., in Long Beach, California, but 
+no physical visit was authorized. (JE 3:6)  On September 10, 2019, Dr. Mulvey also 
+returned claimant to work on the following Sunday, September 15, 2019,  but on 
+September 18, 2019, an addendum to the medical record was added to note that 
+claimant was not able to return to work due to continued pain. (JE 5:10, 9)  
+Dr. Mulvey kept claimant off work for an additional three weeks. (JE 5:9, 11)  
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 5 
+ 
+ 
+On October 10, 2019, Dr. Delbridge returned claimant to work full duty with no 
+restrictions. (JE 1:39)  
+ 
+When claimant returned on October 15, 2019, he reported his right foot pain was 
+gone “aside from an occasional dull ache up the anterior leg.” (JE 5:13) Dr. Mulvey took 
+additional x-rays, which found no fractures or other bony anomalies, gave Rogers 
+stretching and range of motion exercises, and instructed him to follow up as needed. 
+(Id.)  
+ 
+Dr. Mulvey responded to a form request letter confirming that claimant’s 
+treatment between August 2019 and October 15, 2019, was consistent with a heavy 
+object falling on his foot. (CE 5:16) He agreed claimant could return to work as of 
+October 15, 2019 without restrictions and the claimant had reached maximum medical 
+improvement for the right foot injury as of that date. (CE 5:17) He further opined 
+claimant did not sustain any functional impairment as a result of the August 6, 2019 
+right foot injury at TPI. (Id. at 17-18)  
+ 
+Dr. Kuhnlein agreed with Dr. Mulvey on causation of the foot injury. (CE 1:16) He 
+recommended a second opinion for his chronic foot pain. (CE 1:17) Dr. Kuhnlein did not 
+believe Mr. Rogers had reached MMI for his foot, but noted if further interventions were 
+denied, MMI date would be October 15, 2019. (CE 1:18) He rated impairment at 2% of 
+the right lower extremity. (CE 1-18) Dr. Kuhnlein recommended restrictions for claimant 
+of occasional stooping or squatting, crawling, working on ladders and climbing stairs 
+due to his foot injury. (CE 1:19-20) Dr. Matos opined claimant suffered a bone contusion 
+to his right foot as a result of the work incident on August 6, 2019, however this injury 
+resulted in zero percent functional impairment. (DE A:6)  
+ 
+Claimant testified that the treatment from Dr. Mulvey was helpful, but that 
+claimant is not pain free. He continues to have dull and aching pain in his foot that 
+occasionally shoots up his shin. (Tr. p. 34) He also will get a sharp pain in his foot with 
+an extended stride or stretching of the foot, lifting heavy weight, walking too much and 
+standing too long. (Tr. pp. 34-35)  
+ 
+Claimant also maintains he suffered a back injury as a result of his work and that 
+these back issues started shortly after beginning to work for defendant employer. (Tr. p. 
+36) He said the pains in his back were sharp pains when he would bend and twist his 
+back. (Tr. pp. 36-37) He testified that he thinks he injured his back by yanking the heavy 
+root stand off his foot. (Tr. p. 37) He also testified that he was uncertain but thought the 
+pain in his back got worse when he was in the walking boot. (DE E:11; Depo. pp. 43-44) 
+He said that the prior back issues he had were more like a charley horse whereas his 
+back pain after his work injury was like a stabbing pain radiating into his left leg. (Tr. p. 
+40) He said that sneezing or coughing would almost take him to the ground and 
+sometimes he could not get back up after being bent over. (DE E:11; Depo. p. 44) He 
+testified that as the injury progressed, he lost strength in his left leg and had urinary 
+incontinence. (Tr. p. 40) 
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 6 
+ 
+ 
+Claimant’s first documented back pain was during the August 20, 2019, visit with 
+Dr. Mulvey. (JE 5:1) It was noted again on September 3, 2019, visit with Dr. Mulvey. (JE 
+5-5) Claimant reported back pain to his personal physician, Dr. Gura, on September 5, 
+2019, and again on October 29, 2019. (JE 2:23, 28) Claimant reported back pain during 
+a September 12, 2019, visit with Dr. Delbridge when claimant was treating for his right-
+hand injury. (CE 3-2) The pain was radiating down both legs, left greater than right, and 
+Dr. Delbridge suggested an MRI. (CE 3:2) 
+ 
+On January 7, 2020, his personal physician, Dr. Delbridge, diagnosed him with 
+chronic bilateral low back pain with bilateral sciatica. (JE 1-40) An MRI was performed 
+on January 7, 2020, which revealed: 
+L3-4: Mild broad-based disc bulge. Facet arthrosis ligamentum flavum 
+infolding. 
+L4-5: Disc desiccation and a broad-based disc bulge noted. 
+Superimposed central disc extrusion with inferior migration of disc 
+material. Resulting contact and compression of the transiting nerve roots 
+bilaterally. Facet arthrosis ligamentum flavum infolding. Mild canal 
+stenosis. Mild bilateral neural foraminal narrowing with contact of the 
+exiting nerve roots bilaterally. 
+L5-S1: Disc desiccation and a broad-based disc bulge noted. 
+Superimposed right paracentral disc extrusion with slight inferior migration 
+of disc material. Contact and deflection of the transiting right-sided nerve 
+root. Facet arthrosis ligamentum flavum infolding. Moderate bilateral 
+neural foraminal narrowing with contact and slight compression of the 
+exiting nerve roots bilaterally. 
+ 
+(JE 1:41) 
+ 
+ 
+This MRI showed degenerative changes most pronounced at L4 to S1. (JE 1:41) 
+Dr. Delbridge noted that that there were urinary problems and increased weakness 
+when he saw his nurse practitioner on January 20, 2020. (CE 3:2) Dr. Delbridge 
+performed a laminectomy L4-5 with foraminal enlargement at L4 nerve root and partial 
+disc excision lumbar four five on the left on January 30, 2020. (JE 6:2) The 
+postoperative diagnosis was herniated lumbar disc L4 on the left with impingement of 
+L5 and S1 nerve root with foraminal stenosis on L4 nerve root. (JE 6-2) 
+ 
+ 
+During the February 6, 2020, visit with Dr. Delbridge, claimant reported 
+decreasing pain in the back and resolution of the thigh pain issues as well as the urinary 
+incontinence issues. (CE 3:3) Dr. Delbridge placed claimant at MMI as of July 29, 2020. 
+(CE 3:5)  
+ 
+ 
+Claimant was released to return to work with no restrictions. Claimant testified 
+that he needed to return to work because of income issues. He returned to the crane job 
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 7 
+ 
+for a few months and then was transferred to a mold position. Claimant characterized 
+this as a demotion as it resulted in a pay decrease. The mold job required heavy lifting 
+above his head for which he received assistance. He was subsequently terminated for 
+absences, some of which he attributed to his time off for his injuries.   
+ 
+ 
+Dr. Delbridge opined on November 30, 2020, that claimant’s current low back 
+pain was the result of moving the root stand off of claimant’s own foot on August 6, 
+2019, and through the use of the CAM boot, which created a leg length discrepancy. 
+(CE 3:3)  
+ 
+ 
+ 
+These two incidents aggravated claimant’s low back condition to the point that 
+claimant needed surgery. (CE 3:3) Dr. Delbridge concluded claimant sustained a 13 
+percent whole person impairment but assigned no permanent restrictions as claimant 
+needed further treatment. (CE 3:6) 
+ 
+ 
+Dr. Kuhnlein evaluated claimant for his back injury and also opined that the back 
+injury was causally related to his injury at work but associated the cause to the gait 
+changes associated with wearing the brace and CAM boot for the foot condition, opining 
+that the treatment “lit up” 1  and materially aggravated the pre-existing low back 
+condition. (CE 1:16) Dr. Kuhnlein prescribed a consult with a spine surgeon for the 
+work-related condition. (CE 1:18) If that recommendation was not followed, he stated 
+that Mr. Rogers would have been at MMI on July 29, 2020. (CE 1:18) Dr. Kuhnlein rated 
+permanent impairment for the back injury to be 13 percent BAW. (CE 1:19) He 
+restricted material handling to 40 pounds from floor to waist, 40 pounds occasionally 
+from waist to shoulder, and 20 pounds occasionally over the shoulder. (CE 1:19) He 
+also recommended that claimant be allowed to change positions as necessary. (CE 
+1:19)  The over the shoulder restrictions were due to a combination of the “moment 
+arm” phenomena in the lumbar spine with material handling functions, along with safety 
+concerns due to claimant’s right hand dysfunction. Id. Non-material handling restrictions 
+would include sitting, standing, or walking on an as needed basis with the ability to 
+change positions for comfort. (CE 1:19) For stooping, squatting, and crawling, Dr. 
+Kuhnlein recommended these activities be done only occasionally. (CE 1:19)  
+ 
+ 
+During Dr. Matos’s examination, claimant complained of low back pain that 
+radiated into his feet which ranged from seven on a ten scale with hydrocodone, to ten 
+out of ten. (DE A:3)  He described pain in his right foot at seven to eight on a ten scale 
+at worst and five to six at best with hydrocodone and stretching. (DE A:3)  During 
+examination he had normal gait and station, normal flexion and extension in the wrists, 
+full flexion and extension with no tenderness to palpation in the lumbar region. (DE A:4)  
+                                                 
+1 Dr. Kuhnlein disagreed with Dr. Delbridge’s opinion that claimant’s back pain was directly caused by the work injury 
+as there was a lack of back pain complaints in the medical records for five months following the August 6, 2019, 
+incident. “I did not find evidence in the record that Mr. Rogers immediately sustained back pain after the work-related 
+August 6, 2019 injury, with no mention of back pain for approximately five months, during which his gait would have 
+been altered by the use of the CAM boot, as I discussed above,” Dr. Kuhnlein wrote. (CE 1:17)  
+ 
+ 
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 8 
+ 
+ 
+ 
+Dr. Matos concluded claimant did not sustain an injury to his low back as a result 
+of the August 6, 2019 injury. (DE A:5) There is no description of a mechanism that 
+would cause back pain, according to Dr. Matos. (DE A:5) The MRI of 2018 showed 
+degenerative disc disease which Dr. Matos observed could have been the result of 
+claimant’s jumping from a roof in November 2017 and June 2018. (DE A:5)  
+ 
+According to the work releases of Dr. Delbridge and Dr. Mulvey, claimant was 
+kept off work from August 6, 2019, to October 15, 2019, and then again from January 
+29, 2020, until sometime in June 2020. The record is not clear as to when claimant 
+returned to work, but the parties agree that it was at least by June 1, 2020. Defendants 
+argue in their brief that claimant returned to work at least by May 6, 2020.   
+ 
+Per the defendants’ exhibits, claimant received short term disability benefits from 
+February 12, 2020, through May 5, 2020. (DE F:4) He returned to employment with 
+defendant employer on May 5, 2020, in the crane position. The claim was closed on 
+May 6, 2020, because “RTW-Own ER.” (DE F:3) He applied for a position through 
+Manpower and was hired sometime before June 14, 2020. (DE E:2-3) In his 
+supplemental answers to interrogatories, he also indicates that his return to new 
+employment with PCA Conrad through Manpower, a temporary agency, was in June 
+2020. (CE 4:9)  
+ 
+Based on the foregoing, it is determined claimant returned to work on May 6, 
+2020.  
+ 
+ 
+At PCA he worked on combos, running a box through a machine that puts bands 
+around the boxes. The job involved twisting and bending and lifting up to thirty pounds 
+but mostly between five to ten pounds. He earned approximately $14.00 per hour. He 
+was terminated due to someone else punching in with his timecard which PCA viewed 
+as inappropriate. He has not worked since leaving PCA.  
+ 
+CONCLUSIONS OF LAW 
+ 
+ 
+The party who would suffer loss if an issue were not established has the burden 
+of proving that issue by a preponderance of the evidence.  Iowa R. App. P. 6.904(3). 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the alleged injury actually occurred and that it both arose out of and in the course of the 
+employment.  Quaker Oats Co. v. Ciha, 552 N.W.2d 143 (Iowa 1996); Miedema v. Dial 
+Corp., 551 N.W.2d 309 (Iowa 1996).  The words “arising out of” refer to the cause or 
+source of the injury.  The words “in the course of” refer to the time, place, and 
+circumstances of the injury.  2800 Corp. v. Fernandez, 528 N.W.2d 124 (Iowa 1995).  
+An injury arises out of the employment when a causal relationship exists between the 
+injury and the employment.  Miedema, 551 N.W.2d 309.  The injury must be a rational 
+consequence of a hazard connected with the employment and not merely incidental to 
+the employment.  Koehler Elec. v. Wills, 608 N.W.2d 1 (Iowa 2000); Miedema, 551 
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 9 
+ 
+N.W.2d 309.  An injury occurs “in the course of” employment when it happens within a 
+period of employment at a place where the employee reasonably may be when 
+performing employment duties and while the employee is fulfilling those duties or doing 
+an activity incidental to them.  Ciha, 552 N.W.2d 143. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony. The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question. The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part. St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995). Miller v. 
+Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 1994). Unrebutted expert medical 
+testimony cannot be summarily rejected.  Poula v. Siouxland Wall & Ceiling, Inc., 516 
+N.W.2d 910 (Iowa App. 1994). 
+A personal injury contemplated by the workers’ compensation law means an 
+injury, the impairment of health or a disease resulting from an injury which comes about, 
+not through the natural building up and tearing down of the human body, but because of 
+trauma. The injury must be something that acts extraneously to the natural processes of 
+nature and thereby impairs the health, interrupts or otherwise destroys or damages a 
+part or all of the body. Although many injuries have a traumatic onset, there is no 
+requirement for a special incident or an unusual occurrence. Injuries which result from 
+cumulative trauma are compensable. Increased disability from a prior injury, even if 
+brought about by further work, does not constitute a new injury, however. St. Luke’s 
+Hosp. v. Gray, 604 N.W.2d 646 (Iowa 2000); Ellingson v. Fleetguard, Inc., 599 N.W.2d 
+440 (Iowa 1999); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 
+1995); McKeever Custom Cabinets v. Smith, 379 N.W.2d 368 (Iowa 1985). An 
+occupational disease covered by chapter 85A is specifically excluded from the definition 
+of personal injury. Iowa Code section 85.61(4)(b); Iowa Code section 85A.8; Iowa Code 
+section 85A.14. 
+When the injury develops gradually over time, the cumulative injury rule applies.  
+The date of injury for cumulative injury purposes is the date on which the disability 
+manifests. Manifestation is best characterized as that date on which both the fact of 
+injury and the causal relationship of the injury to the claimant’s employment would be 
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 10 
+ 
+plainly apparent to a reasonable person. The date of manifestation inherently is a fact 
+based determination. The fact-finder is entitled to substantial latitude in making this 
+determination and may consider a variety of factors, none of which is necessarily 
+dispositive in establishing a manifestation date.  Among others, the factors may include 
+missing work when the condition prevents performing the job, or receiving significant 
+medical care for the condition.  For time limitation purposes, the discovery rule then 
+becomes pertinent so the statute of limitations does not begin to run until the employee, 
+as a reasonable person, knows or should know, that the cumulative injury condition is 
+serious enough to have a permanent, adverse impact on his or her employment.  
+Herrera v. IBP, Inc., 633 N.W.2d 284 (Iowa 2001); Oscar Mayer Foods Corp. v. Tasler, 
+483 N.W.2d 824 (Iowa 1992); McKeever Custom Cabinets v. Smith, 379 N.W.2d 368 
+(Iowa 1985). 
+While a claimant is not entitled to compensation for the results of a preexisting 
+injury or disease, its mere existence at the time of a subsequent injury is not a defense.  
+Rose v. John Deere Ottumwa Works, 247 Iowa 900, 76 N.W.2d 756 (1956).  If the 
+claimant had a preexisting condition or disability that is materially aggravated, 
+accelerated, worsened or lighted up so that it results in disability, claimant is entitled to 
+recover.  Nicks v. Davenport Produce Co., 254 Iowa 130, 115 N.W.2d 812 (1962); 
+Yeager v. Firestone Tire & Rubber Co., 253 Iowa 369, 112 N.W.2d 299 (1961). 
+There are two work related injuries at issue. The first is an accepted work injury 
+to the foot on August 6, 2019, and the second is an alleged work injury to the back 
+suffered in part directly due to the August 6, 2019, injury and in part due to sequelae 
+from the August 6, 2019, injury.  
+The claimant argues that if the back issues are unrelated to the work injury, 
+claimant is entitled to benefits from the Second Injury Fund of Iowa.  
+Claimant has a degenerative condition in his back. It may or may not have been 
+incited by a trauma which occurred in November 2017 when he jumped off a roof. He 
+received treatment for back pain following that incident from November 2017 and into 
+2018. Claimant testified that he healed through exercising.  
+He was working full duty without restrictions for defendant employer beginning in 
+June 2019 and had had no treatment for his back injury since July 2018. Dr. Delbridge 
+treated claimant for his back complaints in 2017 and 2018 and then again in 2019 and 
+2020. There is no expert in the record with more personal experience in regard to 
+claimant’s back than Dr. Delbridge. Dr. Delbridge opined claimant sustained an 
+aggravation to a pre-existing back condition when claimant had a root stand pin his foot 
+to the ground. This was the result of both a direct twisting action in removing the stand 
+as well as wearing the CAM boot. While Dr. Kuhnlein disagreed that there was a direct 
+trauma to claimant’s back, he did agree that claimant’s pre-existing condition was lit up 
+by the right foot injury and subsequent treatment.  
+Dr. Matos opined differently, but his opinion is less reasoned and Dr. Matos is 
+less familiar with claimant, having only examined claimant once. 
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 11 
+ 
+Defendants argue that it was an incident in December 2019 which was the cause 
+of claimant’s flare-up of back pain, but there is no expert opinion supporting this 
+argument. Dr. Matos opined claimant’s back pain was associated with claimant’s 
+degenerative condition that could have been triggered by a 2017 incident. Even if the 
+December 2019 incident contributed to claimant’s back pain, the standard here is 
+whether the work injury was a substantial contributing factor, not the only contributing 
+factor.  
+Based upon the opinions of Dr. Delbridge and Dr. Kuhnlein, it is determined 
+claimant’s pre-existing degenerative condition was lit up or aggravated by the August 6, 
+2019, foot injury.  
+Because of the foregoing, claimant is not entitled to benefits from the Second 
+Injury Fund of Iowa.  
+The next question is whether claimant gave proper notice of a back injury to 
+defendant employer.  
+Iowa Code section 85.23 requires an employee to give notice of the occurrence 
+of an injury to the employer within 90 days from the date of the occurrence, unless the 
+employer has actual knowledge of the occurrence of the injury. 
+The purpose of the 90-day notice or actual knowledge requirement is to give the 
+employer an opportunity to timely investigate the facts surrounding the injury.  The 
+actual knowledge alternative to notice is met when the employer, as a reasonably 
+conscientious manager, is alerted to the possibility of a potential compensation claim 
+through information which makes the employer aware that the injury occurred and that it 
+may be work related.  Dillinger v. City of Sioux City, 368 N.W.2d 176 (Iowa 1985); 
+Robinson v. Department of Transp., 296 N.W.2d 809 (Iowa 1980). 
+Failure to give notice is an affirmative defense which the employer must prove by 
+a preponderance of the evidence.  DeLong v. Iowa State Highway Commission, 229 
+Iowa 700, 295 N.W. 91 (1940). 
+Claimant provided notice of the right foot injury and it was the right foot injury 
+which led to the back injury. Claimant argues that the Commissioner’s decision in 
+Conner v. United Parcel Service, File No. 5051783, (App. Dec. February 15, 2019) is on 
+all fours with this case and therefore binding precedent. In Conner, the claimant 
+developed left arm CTS as sequela to the original right shoulder injury and the 
+Commisioner held the 90-day notice provision does not apply to sequela injuries. Even 
+if they did, when claimant applied for short term disability for his back surgery, the 
+defendants should have known that there was the possibility of a potential 
+compensation claim and therefore, claimant gave proper notice. 
+Defendants argue that they were unaware of claimant’s ongoing right foot 
+problems, but this is due to their lack of investigation and not claimant’s lack of 
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 12 
+ 
+communication. It is the defendant that has the ongoing duty of investigation while 
+claimant need only provide notice once within 90 days of the occurrence of an injury.    
+Claimant is entitled to medical bills that were incurred for treatment to his right 
+foot, ankle and low back.  
+The employer shall furnish reasonable surgical, medical, dental, osteopathic, 
+chiropractic, podiatric, physical rehabilitation, nursing, ambulance, and hospital services 
+and supplies for all conditions compensable under the workers' compensation law.  The 
+employer shall also allow reasonable and necessary transportation expenses incurred 
+for those services.  The employer has the right to choose the provider of care, except 
+where the employer has denied liability for the injury.  Section 85.27.  Holbert v. 
+Townsend Engineering Co., Thirty-second Biennial Report of the Industrial 
+Commissioner 78 (Review-Reopening October 1975). 
+Claimant also seeks alternate care.  
+Iowa Code section 85.27(4) provides, in relevant part: 
+For purposes of this section, the employer is obliged to furnish 
+reasonable services and supplies to treat an injured employee, and has 
+the right to choose the care. . . .  The treatment must be offered promptly 
+and be reasonably suited to treat the injury without undue inconvenience 
+to the employee.  If the employee has reason to be dissatisfied with the 
+care offered, the employee should communicate the basis of such 
+dissatisfaction to the employer, in writing if requested, following which the 
+employer and the employee may agree to alternate care reasonably suited 
+to treat the injury.  If the employer and employee cannot agree on such 
+alternate care, the commissioner may, upon application and reasonable 
+proofs of the necessity therefor, allow and order other care. 
+The employer has the right to choose the provider of care, except where the 
+employer has denied liability for the injury.  Section 85.27; Holbert v. Townsend 
+Engineering Co., Thirty-second Biennial Report of the Industrial Commissioner, 78 
+(Review-Reopening 1975).   
+Defendants accepted liability for the right ankle, but required claimant to return to 
+work without restrictions on September 10, 201, after the report of Dr. Tang. After this, 
+claimant was not offered additional care from defendants and the failure to provide 
+additional care was not reasonable.  
+Therefore, claimant was, and is, entitled to care related to his right ankle and 
+right foot injury. He is entitled to seek out the care on his own due to defendants’ refusal 
+to provide care and he is entitled to reimbursement of that care.  
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 13 
+ 
+Claimant is also entitled to reimbursement and continued care for his low back as 
+it is determined to be a work-related injury, however, defendants are entitled to direct 
+that care.   
+Under the Iowa Workers' Compensation Act, permanent partial disability is 
+compensated either for a loss or loss of use of a scheduled member under Iowa Code 
+section 85.34(2)(a)-(t) or for loss of earning capacity under section 85.34(2)(u).  The 
+extent of scheduled member disability benefits to which an injured worker is entitled is 
+determined by using the functional method.  Functional disability is "limited to the loss of 
+the physiological capacity of the body or body part.”  Mortimer v. Fruehauf Corp., 
+502 N.W.2d 12, 15 (Iowa 1993); Sherman v. Pella Corp., 576 N.W.2d 312 (Iowa 1998).  
+The fact finder must consider both medical and lay evidence relating to the extent of the 
+functional loss in determining permanent disability resulting from an injury to a 
+scheduled member.  Terwilliger v. Snap-On Tools Corp., 529 N.W.2d 267, 272-273 
+(Iowa 1995); Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 420 (Iowa 1994).  
+ 
+Dr. Mulvey and Delbridge returned claimant to work with no restrictions based on 
+the foot injury and opined claimant suffered no permanent impairment. Dr. Matos 
+agreed. Dr. Kuhnlein assessed a 2 percent lower extremity impairment rating with 
+restrictions of only occasional stooping, squatting, crawling, working on ladders or 
+climbing stairs. Based on the two treating physicians’ opinions, it is determined claimant 
+is not entitled to any permanent benefits arising from his right foot injury.  
+ 
+Since claimant has an impairment to the body as a whole, an industrial disability 
+has been sustained. Industrial disability was defined in Diederich v. Tri-City Ry. Co. of 
+Iowa, 219 Iowa 587, 258 N.W. 899 (1935) as follows: "It is therefore plain that the 
+Legislature intended the term 'disability' to mean 'industrial disability' or loss of earning 
+capacity and not a mere 'functional disability' to be computed in terms of percentages of 
+the total physical and mental ability of a normal man." 
+ 
+Functional impairment is an element to be considered in determining industrial 
+disability which is the reduction of earning capacity, but consideration must also be 
+given to the injured employee's age, education, qualifications, experience, motivation, 
+loss of earnings, severity and situs of the injury, work restrictions, inability to engage in 
+employment for which the employee is fitted and the employer's offer of work or failure 
+to so offer. McSpadden v. Big Ben Coal Co., 288 N.W.2d 181 (Iowa 1980); Olson v. 
+Goodyear Service Stores, 255 Iowa 1112, 125 N.W.2d 251 (1963); Barton v. Nevada 
+Poultry Co., 253 Iowa 285, 110 N.W.2d 660 (1961). 
+Compensation for permanent partial disability shall begin at the termination of the 
+healing period. Compensation shall be paid in relation to 500 weeks as the disability 
+bears to the body as a whole. Section 85.34. 
+ 
+Only Dr. Kuhnlein has issued restrictions based on the back injury, although he 
+and Dr. Delbridge both believe it is premature as claimant has not had proper treatment 
+for the low back. Dr. Kuhnlein rated permanent impairment for the back injury to be 13 
+percent BAW as did Dr. Delbridge.  
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 14 
+ 
+ 
+Claimant is a younger worker with a high school education. He has the ability to 
+study and pass tests. He has been certified to use heavy equipment in the past. He has 
+exhibited varying motivations in regard to returning to work. He found a new job with 
+Manpower soon after being terminated from defendant employer. However, since his 
+termination from Manpower, claimant’s search for new employment appears lackluster. 
+It is a pandemic, however, which may have attributed to it, but his testimony regarding 
+post-termination work was vague. He stated that he was looking but could not find a job 
+he liked. (TR p. 54) His physical condition was not such that it prevented him from 
+obtaining new employment with Manpower.  
+ 
+It is found claimant has sustained a 13 percent industrial loss as a result of the 
+back injury.  
+ 
+Section 85.34(1) provides that healing period benefits are payable to an injured 
+worker who has suffered permanent partial disability until (1) the worker has returned to 
+work; (2) the worker is medically capable of returning to substantially similar 
+employment; or (3) the worker has achieved maximum medical recovery. The healing 
+period can be considered the period during which there is a reasonable expectation of 
+improvement of the disabling condition. See Armstrong Tire & Rubber Co. v. Kubli, 312 
+N.W.2d 60 (Iowa App. 1981). Healing period benefits can be interrupted or intermittent.  
+Teel v. McCord, 394 N.W.2d 405 (Iowa 1986). 
+ 
+It was previously found claimant was off work from August 6, 2019, to October 
+15, 2019, for his foot and from January 29, 2020, through May 5, 2020, for his back. He 
+is entitled to temporary benefits for those periods.  
+Defendants paid short term disability and to the extent those disability benefits 
+were paid during claimant’s time off of work from August 6, 2019, to October 15, 2019, 
+and from January 29, 2020, through May 5, 2020, defendants would be entitled to a 
+credit against temporary benefits owed. Iowa Code section 85.38(2).  
+Claimant seeks reimbursement for an independent medical examination. Section 
+85.39 permits an employee to be reimbursed for subsequent examination by a 
+physician of the employee's choice where an employer-retained physician has 
+previously evaluated “permanent disability” and the employee believes that the initial 
+evaluation is too low.  The section also permits reimbursement for reasonably 
+necessary transportation expenses incurred and for any wage loss occasioned by the 
+employee attending the subsequent examination. 
+Dr. Matos issued a zero percent impairment rating on November 20, 2020. 
+Claimant argues that Dr. Kuhnlein’s report was issued on December 24, 2020, however, 
+per the report, the examination took place on September 8, 2020. Thus, Dr. Matos’s 
+opinion was not conducted prior to the examination conducted by Dr. Kuhnlein. 
+Claimant is not entitled to reimbursement of IME of Dr. Kuhnlein.  
+Claimant also seeks a finding of penalty.  
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 15 
+ 
+In Christensen v. Snap-on Tools Corp., 554 N.W.2d 254 (Iowa 1996), and 
+Robbennolt v. Snap-on Tools Corp., 555 N.W.2d 229 (Iowa 1996), the supreme court 
+said: 
+Based on the plain language of section 86.13, we hold an employee is entitled to 
+penalty benefits if there has been a delay in payment unless the employer proves 
+a reasonable cause or excuse. A reasonable cause or excuse exists if either (1) 
+the delay was necessary for the insurer to investigate the claim or (2) the 
+employer had a reasonable basis to contest the employee’s entitlement to 
+benefits. A “reasonable basis” for denial of the claim exists if the claim is “fairly 
+debatable.” 
+Christensen, 554 N.W.2d at 260. 
+The supreme court has stated: 
+ 
+(1) If the employer has a reason for the delay and conveys that reason to 
+the employee contemporaneously with the beginning of the delay, no penalty will 
+be imposed if the reason is of such character that a reasonable fact-finder could 
+conclude that it is a "reasonable or probable cause or excuse" under Iowa Code 
+section 86.13. In that case, we will defer to the decision of the commissioner.  
+See Christensen, 554 N.W.2d at 260 (substantial evidence found to support 
+commissioner’s finding of legitimate reason for delay pending receipt of medical 
+report); Robbennolt, 555 N.W.2d at 236. 
+ 
+(2) If no reason is given for the delay or if the “reason” is not one that a 
+reasonable fact-finder could accept, we will hold that no such cause or excuse 
+exists and remand to the commissioner for the sole purpose of assessing 
+penalties under section 86.13. See Christensen, 554 N.W.2d at 261. 
+ 
+(3) Reasonable causes or excuses include (a) a delay for the employer to 
+investigate the claim, Christensen, 554 N.W.2d at 260; Kiesecker v. Webster City 
+Custom Meats, Inc., 528 N.W.2d at 109, 111 (Iowa 1995); or (b) the employer 
+had a reasonable basis to contest the claim the “fairly debatable” basis for delay.  
+See Christensen, 554 N.W.2d at 260 (holding two-month delay to obtain 
+employer’s own medical report reasonable under the circumstances).  
+ 
+(4) For the purpose of applying section 86.13, the benefits that are 
+underpaid as well as late-paid benefits are subject to penalties, unless the 
+employer establishes reasonable and probable cause or excuse. Robbennolt, 
+555 N.W.2d at 237 (underpayment resulting from application of wrong wage 
+base; in absence of excuse, commissioner required to apply penalty). 
+   If we were to construe [section 86.13] to permit the avoidance of 
+penalty if any amount of compensation benefits are paid, the 
+purpose of the penalty statute would be frustrated. For these 
+reasons, we conclude section 86.13 is applicable when payment of 
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 16 
+ 
+compensation is not timely . . . or when the full amount of 
+compensation is not paid. 
+Id. 
+ 
+(5) For purposes of determining whether there has been a delay, 
+payments are “made” when (a) the check addressed to a claimant is mailed 
+(Robbennolt, 555 N.W.2d at 236; Kiesecker, 528 N.W.2d at 112), or (b) the 
+check is delivered personally to the claimant by the employer or its workers’ 
+compensation insurer. Robbennolt, 555 N.W.2d at 235.   
+ 
+(6) In determining the amount of penalty, the commissioner is to consider 
+factors such as the length of the delay, the number of delays, the information 
+available to the employer regarding the employee’s injury and wages, and the 
+employer’s past record of penalties. Robbennolt, 555 N.W.2d at 238. 
+ 
+(7) An employer’s bare assertion that a claim is “fairly debatable” does not 
+make it so. A fair reading of Christensen and Robbennolt, makes it clear that the 
+employer must assert facts upon which the commissioner could reasonably find 
+that the claim was “fairly debatable.” See Christensen, 554 N.W.2d at 260. 
+Meyers v. Holiday Express Corp., 557 N.W.2d 502 (Iowa 1996).   
+Weekly compensation payments are due at the end of the compensation week.  
+Robbennolt, 555 N.W.2d 229, 235. 
+Defendants denied the claim for the low back injury and closed the file for the 
+ankle injury on September 10, 2019, based on a record review conducted by Dr. Tang. 
+Claimant did return to work with no restrictions and sought out treatment on his own. 
+The defendants appear to argue that the liability for these injuries is “fairly debatable” 
+based on the records review of Dr. Tang and claimant’s return to work without 
+restrictions. Dr. Delbridge also returned claimant to work on October 10, 2019, with no 
+restrictions. Dr. Mulvey returned claimant to work with no restrictions as of October 15, 
+2019. In the meantime, claimant received short term disability for the period of time 
+which he was off work for his ankle.  
+Defendants conducted no investigation as to whether claimant’s back pain was 
+related to the work injury. They argue that they did not have proper notice, but they also 
+did not follow up with claimant’s continued treatment for his right foot injury. The athletic 
+trainer on site never asked claimant whether his foot had recovered. When claimant 
+filed for short term disability, there were no questions by the defendant employer as to 
+whether this was work related. Claimant testified that he informed the defendants of his 
+work-related foot injury, but was told it could not be accommodated due to claimant 
+seeking treatment on his own.  
+It is found that defendant made a bare assertion that the claim was fairly 
+debatable. There was little investigation in the beginning and no continuing investigation 
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 17 
+ 
+as is required by statute. Thus, claimant is entitled to penalty benefits. It is found that 
+claimant is entitled to 25 percent penalty benefits of all late paid benefits due to the lack 
+of a quality investigation and ongoing investigation.  
+Claimant seeks the award of costs. While Dr. Kuhnlein’s examination is not 
+recoverable under Iowa Code section 85.39, the report fee can be awarded as a cost. 
+Additionally, the report costs of Dr. Delbridge can also be awarded under 876 IAC 4.33. 
+The transcript and filing fee are also allowable costs pursuant to 876 IAC 4.33.  
+ORDER 
+THEREFORE, it is ordered: 
+That defendants are to pay unto claimant sixty-five (65) weeks of permanent 
+partial disability benefits at the rate of five hundred forty-six and 66/100 dollars 
+($546.66) per week from May 6, 2020.  
+ 
+That defendants are to pay unto claimant temporary benefits from August 6, 
+2019, to October 15, 2019, for his foot and from January 29, 2020, to May 5, 2020.  
+That defendants are entitled to credit for the short term disability paid during 
+claimant’s time off of work from August 6, 2019, to October 15, 2019, and from January 
+29, 2020, to May 5, 2020. 
+That defendants shall pay accrued weekly benefits in a lump sum. 
+That defendants shall pay interest on unpaid weekly benefits awarded herein as 
+set forth in Iowa Code section 85.30. 
+That claimant is entitled to reimbursement of medical bills associated with his 
+foot and ankle injury and the low back pain.  
+That claimant is entitled to penalty benefits of twenty-five (25) percent on all late 
+paid benefits.  
+That claimant is awarded the report costs of Dr. Delbridge and Dr. Kuhnlein, the 
+costs of the transcript and the filing fee.  
+That claimant is entitled to alternate care with the providers of his choosing for 
+his right foot injury and that claimant is entitled to future medical care for his back injury 
+directed by the defendants.  
+Signed and filed this _____23rd ___ day of July, 2021. 
+ 
+   ________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ JENNIFER S. GERRISH-LAMPE  
+ 
+ 
+ 
+ 
+ 
+                   DEPUTY WORKERS’  
+ 
+ 
+ 
+ 
+ 
+         COMPENSATION COMMISSIONER 
+
+ROGERS V. TPI COMPOSITES, INC./SECOND INJURY FUND OF IOWA 
+Page 18 
+ 
+ 
+The parties have been served, as follows: 
+Nick Platt (via WCES) 
+Timothy Wegman (via WCES) 
+Meredith Cooney (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal period 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+  
+ 

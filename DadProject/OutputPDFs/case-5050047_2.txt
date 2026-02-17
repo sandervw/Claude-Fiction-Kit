@@ -1,0 +1,983 @@
+Case Number: 5050047
+Case Title:  SANDS, RANDY ALLEN V. SIOUX CITY, CITY OF
+Doc Type:    Decision - District Court
+Source:      Sands, Randy-5050047.District Court Decision.pdf
+========================================================================
+
+1 
+ 
+ 
+IN THE IOWA DISTRICT COURT FOR WOODBURY COUNTY 
+  
+CITY OF SIOUX CITY, IOWA, 
+                    
+                   Petitioner, 
+ 
+vs. 
+ 
+RANDY A. SANDS, 
+ 
+                    Respondent.                    
+ 
+ 
+ 
+CVCV190717 
+ 
+ 
+ 
+RULING ON PETITION FOR JUDICIAL 
+REVIEW 
+ 
+ 
+This matter comes before the Court on Petition for Judicial Review filed by 
+Petitioner, City of Sioux City, Iowa, on February 5, 2020.  Respondent, Randy Sands, 
+timely filed an Answer to the Petition on February 21, 2020.  Each party has filed a brief 
+in support of their position (“City’s Brief” and “Respondent’s Brief”) and Petitioner has filed 
+a brief in reply (“City’s Reply Brief”).  Oral arguments were heard telephonically in this 
+matter on April 20, 2020, at which time Petitioner appeared telephonically through counsel 
+of record, Connie Anstey, and Respondent appeared telephonically through counsel of 
+record, Dennis Mahr.  The proceeding was formally reported by Kara Holland. 
+ 
+The Court, having heard arguments of the parties, reviewed the briefs and filings 
+herein, reviewed the administrative record, and considered applicable law, now enters 
+the following ruling. 
+PROCEDURAL HISTORY 
+ 
+On December 20, 2016, Randy Sands (Respondent herein) received an arbitration 
+award which found him to be totally and permanently disabled and awarded him benefits 
+from and after October 5, 2013.  Respondent’s employer, City of Sioux City (Petitioner 
+herein), applied for and was granted a rehearing, from which a ruling was issued on 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+2 
+ 
+January 31, 2017, which ruling clarified an issue regarding medical bills but did not disturb 
+the underlying award of benefits for total and permanent disability.  No appeal was taken 
+of the arbitration award. 
+ 
+On February 13, 2017, Respondent filed a petition for partial commutation of his 
+disability benefits seeking a lump-sum payout for all but the final month of his benefit 
+period. 
+ 
+On May 29, 2018, a contested hearing was held on Respondent’s petition for 
+partial commutation.  The hearing was held before Deputy Workers’ Compensation 
+Commissioner Jennifer S. Gerrish-Lampe, who issued a “Partial Commutation Decision” 
+on August 7, 2018, which granted Respondent’s petition for partial commutation (Partial 
+Commutation Decision, p. 8). 
+ 
+On August 22, 2018, Petitioner filed Notice of Appeal to the Workers’ 
+Compensation Commissioner.  On appeal, Petitioner raised four issues, as follows: 
+1. Whether Claimant’s Petition for Partial Commutation should have been granted. 
+2. Whether the order for commutation violates the provisions of the Iowa Constitution. 
+3. Whether the commutated portion of the award should be limited to work life vs. 
+calculated life expectance. 
+4. Whether the mortality table adopted by rule is the appropriate table for use in 
+determining present value. 
+On January 17, 2020, Workers’ Compensation Commissioner Joseph S. Cortese 
+II issued an “Appeal Decision,” in which he affirmed the Partial Commutation Decision in 
+its entirety (Appeal Decision, p. 3). 
+Petitioner now seeks judicial review of the agency decision pursuant to Iowa Code 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+3 
+ 
+§§ 86.26 and 17A.19.  Petitioner herein identifies six issues for judicial review, as follows: 
+1. Whether Claimant’s Petition for Partial Commutation should have been granted. 
+2. Whether the initial decision of the deputy should have been affirmed by the 
+Commissioner. 
+3. Whether the order for partial commutation violates the provisions of the Iowa 
+Constitution. 
+4. Whether the commutated portion of the award should be limited to work life vs. 
+calculated life expectance. 
+5. Whether the mortality table adopted by rule is the appropriate table for use in 
+determining present value. 
+6. Whether the agency decisions are fatally flawed for failure to include citation to the 
+correct partial commutation versus full commutation section and for failure to 
+comply with the express provisions of Iowa Code Section 85.48. 
+LEGAL STANDARDS 
+ 
+Review of decisions of the workers’ compensation commissioner was outlined in 
+the case of Neal v. Annett Holdings, Inc., 814 N.W.2d 512 (Iowa 2012).  Judicial review 
+of such decisions is governed by Iowa Code Chapter 17A and is generally limited to 
+correction of errors at law.  Iowa Code Section 17A.19; Neal, 814 N.W.2d at 518.  See 
+also, Hager v. Iowa Department of Transportation, 687 N.W.2d 106, 108 (Iowa App. 
+2004); Lee v. Employment Appeals Board, 616 N.W.2d 661, 664 (Iowa 2000).  The District 
+Court may affirm the decision of the workers’ compensation commissioner or remand the 
+case to the commissioner for further proceedings; and shall reverse, modify, or grant 
+other appropriate relief from the commissioner’s decision if the Court determines that 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+4 
+ 
+substantial rights of the person seeking judicial relief have been prejudiced because the 
+commissioner’s decision is any one of the characterizations enumerated in Iowa Code 
+Section 17A.19(10)(a)-(n).   
+ 
+The District Court acts in an appellate capacity when exercising its authority to 
+review such an agency decision.  Neal, 814 N.W.2d at 518; Hager, 687 N.W.2d at 108. 
+ 
+Review of a decision of the workers’ compensation commissioner varies 
+depending on the type of error alleged.  If the error alleged is one of fact, this Court is 
+bound by the findings of fact made by the commissioner if they are supported by 
+substantial evidence in the record as a whole.  Iowa Code Section 17A.19(10)(f); Neal, 
+814 N.W.2d at 518.  See also, Gaborit v. Employment Appeal Board, 743 N.W.2d 554, 
+556 – 557 (Iowa App. 2007); Meyer v. IBP, Inc., 710 N.W.2d 213, 219 (Iowa 2006).  In 
+determining whether substantial evidence supports the commissioner’s factual findings, 
+the District Court engages in a fairly intensive review of the record to make sure the factual 
+findings are reasonable; however, the District Court does not engage in a scrutinizing 
+analysis.  Neal, 814 N.W.2d at 525.  The question also is not whether the evidence in the 
+record as a whole supports a different finding or whether the District Court would make a 
+different finding; but, rather, whether the evidence in the record as a whole supports the 
+findings actually made.  Neal, 814 N.W.2d at 527.  See also, Grant v. Iowa Department 
+of Human Services, 722 N.W.2d 169 (Iowa 2006); Hy-Vee, Inc. v. Employment Appeal 
+Board, 710 N.W.2d 1, 3 – 4 (Iowa 2005) (noting that the court must not reassess the 
+weight to be accorded various items of evidence which remains within the agency’s 
+exclusive domain).   
+ 
+If the alleged error challenges the commissioner’s application of law to facts when 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+5 
+ 
+such application has clearly been vested by a provision of law in the discretion of the 
+commissioner, such application will not be disturbed unless it is “irrational, illogical, or 
+wholly unjustifiable.”  Iowa Code Section 17A.19(10)(m); Neal, 814 N.W.2d at 518, 526.  
+See also, Meyer, 710 N.W.2d at 219.   
+ 
+Finally, if the alleged error challenges the commissioner’s interpretation of law, the 
+District Court will give deference to the commissioner’s interpretation if the commissioner 
+has clearly been vested with the discretionary authority to interpret the specific provision 
+in question.  If the commissioner has not clearly been vested with such discretion, the 
+District Court will substitute its judgment and interpretation of the statutory provision in 
+question for that of the commissioner’s if the Court concludes the commissioner made an 
+error of law.  Iowa Code Section 17A.19(10)(c), (l); Neal, 814 N.W.2d at 518.  See also, 
+Gaborit, 743 N.W.2d at 556-557; Meyer, 710 N.W.2d at 219.   
+ 
+Determination of whether an agency such as the workers’ compensation 
+commissioner has been delegated the authority to interpret a provision of law was clarified 
+in the case of Renda v. Iowa Civil Rights Commission, 784 N.W.2d 8, (Iowa 2010).  In 
+making such determination, the Court looks carefully at the specific language or statutory 
+provision that the commissioner has interpreted as well as the specific duties and 
+authority given to the commissioner with respect to enforcing the particular statute.  
+Renda, 784 N.W.2d at 13.  See also, Neal, 814 N.W.2d at 518 (citing Renda).  Factors or 
+indications considered by the Court in determining whether the legislature has clearly 
+vested interpretive authority to the commissioner include rule-making authority, decision-
+making or enforcement authority that requires the commissioner to interpret the statutory 
+language, and the commissioner’s expertise on the subject or on the term to be 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+6 
+ 
+interpreted.  Neal, 814 N.W.2d at 518-519 (citations omitted).   If the Court determines 
+such interpretive authority has clearly been vested in the commissioner, deference to that 
+interpretation is given, and the commissioner’s interpretation will be affirmed by the Court 
+unless it is “based upon an irrational, illogical, or wholly unjustifiable interpretation.”  Iowa 
+Code Section 17A.19(10)(l).   
+ 
+Interconnected findings of fact, interpretations of law, and applications of law to 
+fact pose a uniquely difficult problem on judicial review: 
+[t]hese different approaches to our review of mixed questions of law 
+and fact make it essential for counsel to search for and pinpoint the 
+precise claim of error on appeal.  If the claim of error lies with the 
+agency’s findings of fact, the proper question on review is whether 
+substantial evidence supports those findings of fact.  If the findings 
+of fact are not challenged, but the claim of error lies with the agency’s 
+interpretation of the law, the question on review is whether the 
+agency’s interpretation was erroneous, and we may substitute our 
+interpretation for the agency’s.  Still, if there is no challenge to the 
+agency’s findings of fact or interpretation of the law, but the claim of 
+error lies with the ultimate conclusion reached, then the challenge is 
+to the agency’s application of the law to the facts, and the question 
+on review is whether the agency abused its discretion by, for 
+example, employing wholly irrational reasoning or ignoring important 
+and relevant evidence.  In sum, when an agency decision on appeal 
+involves mixed questions of law and fact, care must be taken to 
+articulate the proper inquiry for review instead of lumping the fact, 
+law, and application questions together within the umbrella of a 
+substantial-evidence issue. 
+Burton v. Hilltop Care Center, 813 N.W.2d 250, 259 (Iowa 2012), 
+citing Meyer v. IBP, Inc., 710 N.W.2d 213, 219 (Iowa 2006) 
+ 
+ 
+The commissioner need not discuss every evidentiary fact and the basis for 
+its acceptance or rejection so long as the commissioner’s analytical process can 
+be followed on appeal… the commissioner’s duty to furnish a reasoned opinion is 
+satisfied if “it is possible to work backward… and to deduce what must have been 
+[the agency’s] legal conclusions and [its] findings of fact.”  Id., at 260, citing 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+7 
+ 
+Bridgestone/Firestone v. Accordino, 561 N.W.2d 60, 62 (Iowa 1997). 
+When a constitutional issue is raised in a petition for judicial review, the district 
+court performs a de novo review.  Office of Consumer Advocate v. Iowa State Commerce 
+Commission, 465 N.W.2d 280, 281 (Iowa 1991); Silva v. Employment Appeal Bd., 547 
+N.W.2d 232, 234 (Iowa Ct. App. 1996).  No deference is given to the view of the agency 
+with respect to the constitutionality of a statute or administrative rule because it is 
+exclusively up to the judiciary to determine the constitutionality of legislation and rules 
+enacted by the other branches of the government.  ABC Disposal Systems, Inc. v. 
+Department of Natural Resources, 681 N.W.2d 596, 605 (Iowa 2004).  Statutes are 
+cloaked with a presumption of constitutionality.  The challenger bears a heavy burden 
+because it must prove the unconstitutionality beyond a reasonable doubt.  Moreover, the 
+challenger must refute every reasonable basis upon which the statute could be found to 
+be constitutional.  City of Eagle Grove v. Cahalan Investments, LLC, 904 N.W.2d 552, 
+559 (Iowa 2017) citing State v. Hernandez-Lopez, 639 N.W.2d 226, 233 (Iowa 2002); See 
+also State v. Thompson, 836 N.W.2d 470, 483 (Iowa 2013). 
+“The district court shall reverse, modify, or grant other appropriate relief from 
+agency action… if it determines that substantial rights of the person seeking judicial relief 
+have been prejudiced because the action is… unconstitutional on its face or as applied…”  
+Iowa Code §17A.19(10)(a). 
+FINDINGS AND CONCLUSIONS 
+1. 
+Whether Claimant’s Petition for Partial Commutation should have 
+been granted. 
+ 
+Iowa Code §85.45 sets forth the conditions under which commutation of benefits 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+8 
+ 
+may be granted by the agency.  The provisions of that section applicable to this review 
+are: 1) When the period during which compensation is payable can be definitely 
+determined; and 2) When it shall be shown to the satisfaction of the workers’ 
+compensation commissioner that such commutation will be for the best interest of the 
+person or persons entitled to the compensation.  Iowa Code §85.45. 
+Preliminarily, the Court notes that Petitioner urges consideration of a recent 
+amendment to this statute which now requires consent of all parties to a proposed 
+commutation before it may be granted.  Petitioner argues that although the amendment 
+was not effective until after the agency decision, the amendment had been passed by the 
+legislature at the time and that, therefore, the Court should consider the “legislative intent” 
+regarding commutations as expressed by the amendment (City’s Brief, pp. 13-14).  The 
+Court rejects this argument and finds that the matter should be decided upon the law in 
+effect at the time of the agency decision, which is the law of this case. 
+Petitioner’s primary contention on judicial review is that the agency’s decision was 
+not supported by substantial evidence in the record, particularly with regard to whether it 
+was in Respondent’s best interest.  In Petitioner’s claims of error, the Court finds some 
+interplay as between findings of fact and application of law to fact, as discussed in Burton 
+v. Hilltop Care Center, above.  This interplay is illustrated by Petitioner’s assertion that 
+“[s]ubstantial evidence does not exist to support the initial decision or the finding by the 
+commissioner that substantial evidence support [sic] the decision regarding partial 
+commutation.” (City’s Brief, p. 11).  The “ultimate conclusion” of the agency in granting 
+the partial commutation is a matter of the application of law to fact, which, as set forth in 
+Burton, does not implicate a “substantial evidence” analysis as Petitioner suggests, but 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+9 
+ 
+rather an analysis of whether the decision was irrational, illogical, or wholly unjustifiable.  
+The Court will evaluate this claim of error under that standard.  On the other hand, the 
+agency’s finding that the commutation was in Respondent’s “best interest” is a finding of 
+fact, which is properly analyzed under a “substantial evidence” inquiry. 
+The Court first addresses Petitioner’s assertion that the agency’s finding, that 
+commutation was in the best interest of Respondent, was not supported by substantial 
+evidence in the record as a whole.  Petitioner quite properly frames this issue in light of 
+the factors for determining “best interest” as set forth by the Iowa Supreme Court in 
+Dameron v Neumann Bros., Inc., 339 N.W.2d 160, 165 (Iowa 1983), which are: 
+1. The worker’s age, education, mental and physical condition, and 
+actual life expectancy (as contrasted with information provided by 
+actuarial tables). 
+2. The worker’s family circumstances, living arrangements, and 
+responsibilities to dependents. 
+3. The worker’s financial condition, including all sources of income, 
+debts and living expenses. 
+4. The reasonableness of the worker’s plan for investing the lump sum 
+proceeds and the worker’s ability to manage invested funds or 
+arrange for management by others (for example, by a trustee or 
+conservator). 
+ 
+As set forth above, this Court is bound by the findings of fact made by the 
+commissioner if they are supported by substantial evidence in the record as a whole, and 
+the question is not whether the evidence in the record as a whole supports a different 
+finding or whether the District Court would make a different finding; but, rather, whether 
+the evidence in the record as a whole supports the findings actually made. 
+With regard to the first Dameron factor, Petitioner points to Respondent’s 
+advanced age, limited educational background, difficulty with concentration, difficulty 
+performing simple arithmetic, deteriorating overall health, and decreased life expectancy, 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+10 
+ 
+particularly as contrasted with that provided by actuarial tables.  However, Petitioner 
+offers no explanation as to why these facts mitigate against Respondent’s best interest 
+under this prong of the analysis, arguing only that these facts make Respondent less 
+likely to be able to effectively manage the funds of a commuted lump-sum payment, which 
+is more appropriately applied under the fourth Dameron factor.  Respondent, on the other 
+hand, argues that these factors mitigate in favor of commutation and offers some authority 
+in support of this argument in the form of a citation to a treatise (Respondent’s Brief, p. 
+27, citing J. Lawyer, Worker’s Compensation, §27.9 (2017-2018): “If the claimant has a 
+shortened life expectancy, an argument can be made that it is better for him to collect a 
+reduced lump sum before he dies than never to realize the full value of his claim”).  The 
+Court tends to agree, and can see a reasonable argument that all of the factors raised by 
+Plaintiff may be viewed as evidence that a commutation would, in fact, be in Respondent’s 
+best interest under this prong of the Dameron analysis.  In any event, the facts raised by 
+Petitioner were clearly considered by the agency, being referenced throughout the Partial 
+Commutation Decision (Partial Commutation Decision, pp. 3, 4, 7), and the Court, having 
+examined the record itself, finds substantial evidence for the agency to have determined 
+that this Dameron factor weighs in favor of Respondent’s best interest. 
+As to the second Dameron factor, “the worker’s family circumstances, living 
+arrangements, and responsibilities to dependents,” Petitioner lumps this factor together 
+with factor number three (“the worker’s financial condition, including all sources of income, 
+debts and living expenses”), and argues primarily that Petitioner’s financial condition does 
+not indicate that commutation in his best interest.  Petitioner does emphasize that 
+Respondent has very limited retirement planning and insurance options for the future, 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+11 
+ 
+including a lack of long-term care insurance or life insurance.  Again, however, unless 
+viewed through the lens of the fourth Dameron factor, as implicating Respondent’s ability 
+to manage funds, these facts may reasonably be viewed as mitigating in favor of a 
+commutation so that the funds may be invested, as proposed by Respondent, to supply 
+the long-term security for him and his spouse which he currently lacks.  The agency 
+addressed Respondent’s family circumstances, living arrangements, and responsibilities 
+to dependents at some length, including the fact that he is married; that his wife is 65 
+years old; that he and his wife live in a condominium which they purchased with funds 
+from the sale of their home and rental property and which they own outright; that they 
+plan to move to Florida upon her retirement; that he is not responsible for money-
+management in the household; that he is currently covered by his wife’s health insurance 
+policy; and that he likely will be unable to obtain private health insurance coverage after 
+she retires.  (See Partial Commutation Decision, pp. 2, 3, 5, 7).  The Court, considering 
+the facts addressed by the agency and also having examined the record itself, finds 
+substantial evidence for the agency to have determined that this Dameron factor weighs 
+in favor of Respondent’s best interest. 
+As to the third factor under Dameron, “the worker’s financial condition, including 
+all sources of income, debts and living expenses,” the agency found Respondent and his 
+wife to be in sound financial condition, stating, for example, “[t]hey live in the condominium 
+that they have purchased with the proceeds from the sale of a rental property and their 
+personal home.  They are debt free and can cover all living expenses with the current 
+stream of income including her salary, and benefits from Social Security” (Partial 
+Commutation Decision, p. 7).  The agency, in determining whether commutation was in 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+12 
+ 
+Respondent’s best interest, clearly looked with favor upon the facts demonstrating his 
+sound financial condition. 
+Petitioner herein cites these same facts and others indicating Respondent’s sound 
+financial condition (such as his purchase of a time-share and a classic car) to argue 
+against the commutation award, stating, “[u]nlike the individuals in many of the cases 
+where commutations have been found to be in the best interest of the Claimant, Mr. Sands 
+did not have any high interest or other debt that it would be beneficial for him to retire to 
+increase his financial security” (City’s Brief, p. 8).  Petitioner similarly argues, without 
+providing authority, that “[t]he intent of the legislature in this area is to provide for medical 
+treatment and to provide for replacement of lost wages in order to provide the essentials 
+of food, clothing and shelter; not to provide an individual windfall or legacy to offset the 
+lack of retirement and estate planning by an individual” (City’s Brief, p. 13). 
+Petitioner’s argument in this regard is that, because Respondent’s financial 
+condition is sound, Respondent does not need a commutation of benefits.  The Court 
+certainly understands why an employer, and particularly a self-insured one, would take 
+this position.  But necessity is not the standard for commutation.  “Best interest” is the 
+standard, which may be shown or not shown irrespective of any necessity or lack thereof.  
+The Court, considering the facts noted by the agency and those noted by Plaintiff, and 
+having examined the record itself, finds that the record contains substantial evidence for 
+the agency to have determined that this Dameron factor weighs in favor of Respondent’s 
+best interest. 
+As to the fourth and final factor under Dameron, “the reasonableness of the 
+worker’s plan for investing the lump sum proceeds and the worker’s ability to manage 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+13 
+ 
+invested funds or arrange for management by others (for example, by a trustee or 
+conservator),” this is perhaps the hardest fought issue on judicial review. 
+First, Petitioner takes issue with the investment plans that were proposed by 
+Respondent at hearing before the agency, arguing that they are not in Respondent’s best 
+interest because they do not allow sufficient liquidity without penalty or loss of earnings; 
+because monies ultimately realized from the proposed investments would be fully taxable, 
+as opposed to monthly payments which are not; because the lump-sum payment would 
+render Respondent more susceptible to garnishment; and because the financial experts 
+who advocated for these particular investment plans were not privy to all pertinent 
+information, including Respondent’s impulsivity, lack of money-management ability, and 
+other issues, when they determined these investment plans were appropriate for 
+Respondent (City’s Brief, pp. 9-11). 
+The agency expressly weighed these facts in determining whether commutation 
+was in Respondent’s best interest.  The agency described in some detail the investment 
+plans proposed by Respondent (Partial Commutation Decision, pp. 4-5) and determined 
+that “[t]he plan set forth wherein the claimant would purchase an annuity and allow his 
+funds to remain untouched and grow exponentially is reasonable” (Partial Commutation 
+Decision, p. 7).  The agency then considered the “potential detriments,” which include 
+many of the issues raised by Petitioner here, and found that despite these shortcomings, 
+Respondent and his wife had consolidated real estate holdings to buy an unencumbered 
+home, that Respondent had conserved the majority of his prior lump sum payout in 
+annuities, and that Respondent and his wife had approximately $40,000.00 in liquid 
+assets available. (Partial Commutation Decision, p. 7).  And as for such liquidity and the 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+14 
+ 
+potential loss of funds under the proposed annuity plan in the event of a future need, the 
+agency specifically considered this issue and noted that under the “present system” (of 
+monthly payments), Respondent would be “unable to access any large lump sums from 
+his workers’ compensation benefits” (Partial Commutation Decision, p. 7), thus rendering 
+the commutation in Respondent’s best interest even in regard to liquidity. 
+Next, Petitioner strenuously argues that the facts in this case demonstrate that 
+Respondent is not sufficiently capable of properly managing the funds that would be paid 
+under a commutation award, citing his purchase of a classic car; his purchase of a time-
+share in Branson, Missouri; his previous investments of funds in a manner that does not 
+provide liquidity in the event of emergency or declining health; the results of his 
+psychological examination that showed poor impulse control and incapability of managing 
+his own money; his failure to obtain life and health insurance; and others. 
+Again, the agency expressly weighed these factors in finding “best interest,” stating: 
+“Based on the Dameron test, it is found that the greater weight of the 
+evidence supports an order granting partial commutation.  While 
+claimant has made a few unwise and impulsive decisions with his 
+money, and he has been found to be incapable of managing his own 
+money by the Social Security administration, his overall financial 
+picture is healthy.  He has no debt.  He owns his condominium 
+outright.  He has sufficient monthly income to meet all of his monthly 
+bills.  He is covered by his wife’s health insurance.  Between the two 
+of them they have nearly $100,000.00 in savings.  In addition, his 
+wife has a pension plan of $145,000.00. 
+ 
+Claimant has made some frivolous decisions in the past with his 
+money – purchasing the time share, buying a classic car when he 
+already owns two other functional vehicles.  However, none of these 
+actions imperiled his financial standing.  It is in claimant’s best 
+interests to grant a partial commutation of his award.”  
+(Partial Commutation Decision, p. 8). 
+ 
+The Court, having considered the facts referenced in the agency decision and 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+15 
+ 
+those raised by Plaintiff, and having examined the record itself, finds in the record 
+substantial evidence for the agency to have determined that this Dameron factor weighs 
+in favor of Respondent’s best interest.  Having found substantial evidence in support of 
+the agency’s decision on all four of the Dameron factors, the Court accordingly finds that 
+the agency’s finding of fact, that a partial commutation was in the “best interest” of 
+Respondent, is supported by substantial evidence in the record when viewed as a whole. 
+Next, Petitioner argues that there is “no guarantee, given Mr. Sands’ history of 
+classic car and time-share purchases, that he would retain ownership of the annuity and 
+not cash it out as soon as possible even if it was established in the first place” (City’s 
+Brief, p. 10).  The agency expressly considered this possibility, stating, “[t]here is no 
+guarantee that the claimant will purchase the annuity once the commutation is granted, 
+but the aforementioned plan is a careful and considered one.”  The Court, having 
+examined the record and the evidence therein, finds this conclusion to be reasonable, or 
+at least not irrational, illogical, or wholly unjustified.  The Court also looks with favor upon 
+the point advanced by Defendant in this regard from an administrative decision in 
+Bajramovic v. Deerfield Retirement Community, File No. 5026550 (App. Dec. April 15, 
+2013), to wit:  “… it is a reasonable expectation that claimant will follow the advice of the 
+financial planner hired to work on [his] behalf” (Defendant’s Brief, p. 26, quoting 
+Bajramovic at p. 6). 
+Next, Petitioner contends that the partial commutation should not have been 
+awarded because it was sought by Respondent for the purpose of providing a “nest egg” 
+for his wife after his demise by leaving her either a considerable sum of money or a stream 
+of additional income (City’s Brief, p. 12).  Petitioner argues that this purpose is an 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+16 
+ 
+improper basis for commutation of benefits, citing the former administrative decision in 
+Mahaffey v. Cardinal Cleaners (Iowa Industrial Commissioner, April 8, 1974) for the 
+proposition that “the purpose of leaving an estate… does not fall within the purposes of 
+commutation or the Iowa Workman’s Compensation Law” (City’s Brief, p. 12, quoting 
+Mahaffey).  The Court finds this argument is without merit.  Even if enhancing 
+Respondent’s estate after his death were the only basis asserted in this case as to why 
+partial commutation was in Respondent’s best interest, which this Court finds it was not, 
+Defendant correctly counters that the precedent set in Mahaffey on this issue was 
+reconsidered and expressly rejected by the Commissioner in the later decision of 
+Sporleder v. Crouse Cartage Company, File Number 1254033 (Workers’ Compensation 
+Commissioner 2011).  In Sporleder, the Commissioner found that “[t]he agency’s analysis 
+in Mahaffey is not legally sound under the Iowa Supreme Court’s prior guidance in 
+Diamond v. Parsons or the later Dameron case.”  Sporleder, at p. 2 (citation omitted).  
+The Court agrees with this statement regarding Diamond and Dameron, finding that 
+adoption of the rule espoused by Mahaffey opens a pandora’s box with regard to analysis 
+of best interest and that rejection of such a rule was proper by the Commissioner under 
+the law as interpreted by the Iowa Supreme Court.  Petitioner asserts that such precedent 
+is “a creature of expansive court action” (City’s Reply Brief, p. 10).  Whether such is the 
+case or not is not the purview of this Court to determine, whose duty it is to apply the law 
+as it exists. 
+Next, Petitioner contends that because Respondent’s original award of disability 
+benefits was based in large part upon health conditions that were unrelated to his work 
+injury, and because those non-injury-related health conditions decrease his life 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+17 
+ 
+expectancy, the commutation should not have been awarded.  Respondent argues that 
+Respondent’s reduction in life expectancy “is not the fault of the employer,” and that 
+“[r]equiring the employer, whether a public or private employer, to compensate the 
+Claimant for lost income/earning capacity beyond that which he would have is not the 
+purpose or intent of the workers’ compensation laws…” (City’s Brief, p. 13).  In this regard, 
+Petitioner also claims the partial commutation will result in unjust enrichment of 
+respondent for the same reason (Petition, para. 11).  Petitioner attempts to cast this issue 
+as determinative of Respondent’s “best interest” (City’s Brief, p. 13), but the Court does 
+not agree.  This argument clearly goes to the best interest of the employer.  Fairness to 
+the employer, or best interest of the employer, is not the relevant standard in a 
+commutation decision.  Best interest of the Claimant is.  See French & Hecht v. Arlingdale, 
+432 N.W.2d 705, 707 (Iowa 1988), citing Dameron, 339 N.W.2d 160 at 165 (“It has 
+already been established that commutation turns on what is in the best interest of the 
+worker, not on what is in the best interest of the employer or insurance carrier).  The Court 
+also notes that this argument is in large part analogous to that addressed in section (4), 
+below, regarding “work-life expectancy.”  Petitioner’s argument is essentially the same, 
+which is that under a partial commutation, the City would pay benefits that it otherwise 
+would not have paid, or would pay benefits to replace income that Respondent otherwise 
+would not have earned.  The Court finds that the analysis of this argument under the law 
+is also essentially the same as that set forth in section (4) below, including that Petitioner’s 
+contention in this regard would more properly be directed toward the original decision 
+fixing the extent and duration of benefits, rather than the commutation decision, as the 
+original award is determinative of the commutation award (see section (4), infra).   
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+18 
+ 
+Finally, the Court must address Petitioner’s assignment of error as to the “ultimate 
+conclusion” that the partial commutation should not have been awarded in this case 
+because of the above arguments.  The Court finds that the agency’s finding that 
+commutation was in the best interest of Respondent is supported by substantial evidence 
+in the record when viewed as a whole.  The Court finds that the agency’s interpretation 
+of its own rules, particularly that the use of life expectancy tables as adopted in 876 IAC 
+6.3 renders the period during which compensation is payable “definitely determinable,” is 
+not irrational, illogical, or wholly unjustifiable.  The Court further considers Petitioner’s 
+arguments regarding improper purpose under Mahaffey, decrease in life expectancy due 
+to non-work-related injuries, unfairness to the employer, and unjust enrichment, and finds 
+that the agency’s decision to award partial commutation in this case was not irrational, 
+illogical, or wholly unjustifiable. 
+The Court finds that the decision of the Iowa Workers’ Compensation 
+Commissioner should be affirmed on this issue. 
+2. 
+Whether the initial decision of the deputy should have been affirmed 
+by the Commissioner. 
+ 
+The Court finds this “issue” raised by Petitioner on appeal to be surplusage 
+because: 1) It is merely a restatement of issue number (1), above, as to whether the 
+partial commutation should have been granted by the agency, as the Commissioner’s 
+affirmance of the Deputy Commissioner’s decision is the final agency decision scrutinized 
+here on judicial review; and 2) It is merely a restatement of the ultimate question 
+embodied in the other issues asserted, to wit:  If the Court affirms the agency’s decision 
+on all of the other issues raised, the answer to this question is “yes.”  If the Court does 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+19 
+ 
+not affirm the agency’s decision on any of the other issues raised, the answer to this 
+question is “no.”  Thus, the Court finds that any separate analysis of this “issue” for review 
+is neither necessary nor appropriate. 
+3. 
+Whether the order for partial commutation violates the provisions of 
+the Iowa Constitution. 
+ 
+Petitioner alleges that because it is a self-insured municipality, rather than a private 
+employer, a commutation in this case represents a potential violation of Article III, Section 
+31, of the Iowa Constitution, which provides, in pertinent part, that “… no public money or 
+property shall be appropriated for local, or private purposes, unless such appropriation, 
+compensation or claim, be allowed by two thirds of the members elected to each branch 
+of the general assembly.” IA Const. art. III, §31. 
+In this case, Petitioner concedes that pursuant to the December 20, 2016, award 
+of benefits to Respondent, the City is “obligated as a matter of law and public policy to 
+make payments from public funds during the life of the [Respondent]” (City’s Brief, p. 14), 
+and that Petitioner is “not exempt from compliance with workers’ compensation statutes” 
+(City’s Reply Brief, p. 15).  The Court agrees.  Under the Iowa Worker’s Compensation 
+Act, an “employer” is defined as “a person, firm, association, or corporation, state, county, 
+municipal corporation, school corporation…” (Iowa Code §85.61(2)(a) (emphasis 
+supplied).  Municipal corporations are not exempt from workers’ compensation statutes.  
+They are expressly subject to them. 
+ Petitioner argues, however, that “it is medically clear that [Respondent] will not 
+meet or exceed the projected life expectancy… provisions found in IAC 8746-6.3(1)” 
+(City’s Brief, pp. 15-16), and therefore a commutation award would “almost certainly” 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+20 
+ 
+result in the expenditure of public funds for a private purpose (Id., p. 14).  The logic is that 
+if Respondent should die before his projected life expectancy, upon which the award is 
+based, then Petitioner will have pre-paid benefits under the commutation order that would 
+be in excess of those required by periodic payments without commutation.  These excess 
+amounts, Petitioner alleges, would presumably be used to provide security for 
+Respondent’s spouse, which would constitute the appropriation of public funds for a 
+“private purpose.” 
+This issue was raised by Petitioner on appeal to the Commissioner, who declined 
+to make any constitutional determinations, citing lack of authority to do so.  (Appeal 
+Decision, p. 3). 
+A party challenging the use of public funds on the ground that they are being used 
+to support private purposes, in violation of the Iowa Constitution, has the burden to show 
+that “there is an absence of all public interest in the purposes for which the appropriation 
+is made.”  McMurry v. City council of City of West Des Moines, 642 N.W.2d 273, 283 
+(Iowa 2002), citing Richards v. City of Muscatine, 237 N.W.2d 48, 61 (Iowa 1975).  See 
+also Dickinson v. Porter, 35 N.W.2d 88, 81 (Iowa 148). 
+The purpose of workers’ compensation statutes in Iowa has been stated as follows: 
+The fundamental reason for the enactment of this legislation is to 
+avoid litigation, lessen the expense incident thereto, minimize 
+appeals, and afford a speedy tribunal to determine and award 
+compensation under the terms of this act.” 
+Zomer v. West River Farms, Inc., 666 N.W.2d 130, 133 (Iowa 2003) 
+(distinguished on other grounds), citing Flint v. City of Eldon, 183 
+N.W. 344, 345 (Iowa 1921). 
+ 
+Also, “[t]he primary purpose of the workers’ compensation statute is to benefit the 
+worker and the worker’s dependents insofar as the statute permits,” and “the statute is 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+21 
+ 
+intended to cast upon the industry in which the worker is employed a share of the burden 
+resulting from industrial accidents.”  Caterpillar Tractor Co. v. Shook, 313 N.W.2d 503 
+(Iowa 1981) (internal citations omitted). 
+Specifically with regard to commutation of benefits, the “fundamental touchstone” 
+set forth by Iowa Legislature is the “best interest of the claimant.”  Dameron v. Neumann 
+Brothers, Inc., 339 N.W.160, 165 (Iowa 1983) (discussing and reaffirming the principles 
+of Diamond v. Parsons Co., 129 N.W.2d 608 (Iowa 1964)).   The Court further finds that 
+the statutes governing commutation further the public policy objectives of the Workers’ 
+Compensation Act in general, and that the statutes and administrative rules governing 
+commutation at the time of Respondent’s award were enacted in the public interest, 
+including the statutes and rules related to calculation of the period of commuted benefits. 
+The Court finds that the Iowa Workers’ Compensation Act, specifically including 
+the provisions for commutation which were in effect at the time of the Commissioner’s 
+decision in this case, was and is based upon sound principles of public policy and that 
+Petitioner herein does not meet its burden of demonstrating an “absence of all public 
+interest in the purposes for which the appropriation is made.” 
+Additionally, the Court acknowledges but disagrees with Petitioner’s attempt to 
+distinguish this case from other commutations involving public employers simply because 
+in this case Respondent’s life expectancy is more questionable than usual.  Put simply, 
+in every commutation case there is the possibility that the claimant will not live to his or 
+her life expectancy.  A perfectly healthy claimant could be awarded a commutation and 
+then be killed in an automobile accident the next day.  If Petitioner’s logic is accepted that 
+payment of commuted benefits for a claimant’s life expectancy represents a violation of 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+22 
+ 
+the Iowa Constitution if the claimant does not live to his or her life expectancy, then every 
+commutation involving a public employer is subject to the same peril.   
+This leads to another, more fatal flaw in Petitioner’s argument as to 
+constitutionality, which is reasonable doubt.  Even if Petitioner’s argument were to be 
+accepted regarding the constitutionality of commutated benefits given a reduced life 
+expectancy, all that would exist at present would be a potential for future violation of the 
+Iowa Constitution under the facts of this case.  The Court need look no further than 
+Petitioner’s own assertion that this commutation would “almost certainly” result in the 
+expenditure of public funds for a private purpose.  Despite Petitioner’s assertion that “it is 
+medically clear” that Respondent will not live to the life expectancy adopted for him by the 
+Commissioner, the fact is that nobody knows exactly how long Petitioner will live, such 
+fact being unknowable.  And despite Petitioner’s conviction that Respondent in this case 
+would use any excess funds for the support of his wife, such use is also an uncertainty.  
+There is admittedly evidence in the record to support both assertions, but both remain 
+uncertainties, which leaves reasonable doubt as to any violation under the facts of this 
+case.  To find a violation of the Iowa Constitution, beyond a reasonable doubt, based 
+solely upon the hypothetical possibility that such may occur in the future, would be 
+untenable.   
+The Court finds no violation of the Iowa Constitution by the agency decision 
+granting partial commutation in this case. 
+4. Whether the commutated portion of the award should be limited to work life 
+vs. calculated life expectance. 
+ 
+This issue calls into question the commissioner’s interpretation of law, specifically 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+23 
+ 
+of Iowa Code §85.34(3)(a), §85.48, and relevant case law, in deciding whether the 
+commuted portion of the award should be based upon Respondent’s total life expectancy 
+or upon his “work life” expectancy. 
+Historically speaking, the interpretation of statutes and case law is not found to be 
+vested in the discretion of the agency.  See, e.g., Finch v. Schneider Specialized Carriers, 
+Inc., 700 N.W.2d 328, 330 (Iowa 2005) and Mycogen Seeds v. Sands, 686 N.W.2d 457, 
+464 (Iowa 2004).  However, the analytical framework provided by Renda v. Iowa Civil 
+Rights Commission, as discussed above, requires a more thorough examination of the 
+particular provision(s) to be interpreted.  Applying the Renda framework, the Court 
+considers the specific language or statutory provision(s) that the commissioner has 
+interpreted as well as the specific duties and authority given to the commissioner with 
+respect to enforcing the particular statute.  In making such a determination, the Court 
+considers the factors from Neal v. Annett Holdings, Inc., which are rule-making authority, 
+decision-making or enforcement authority that requires the commissioner to interpret the 
+statutory language, and the commissioner’s expertise on the subject or on the term to be 
+interpreted.   
+Applying this analysis to the instant case, particularly considering the 
+commissioner’s expertise on the subject and the authority that requires the commissioner 
+to interpret the statutory language, the Court acknowledges a colorable argument that 
+interpretive authority regarding this particular issue may be vested in the discretion of the 
+workers’ compensation commissioner.  However, the Court is not sufficiently persuaded 
+to give deference to the Commissioner’s decision in this particular matter, especially in 
+light of the case law surrounding such interpretation, in which the Iowa Supreme Court 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+24 
+ 
+has interpreted the law on this issue without providing deference to the agency (see 
+discussion, infra).  Thus, the Court finds that this particular matter has not been clearly 
+vested by a provision of law in the discretion of the agency.  Therefore, the Court does 
+not give deference to the commissioner’s interpretation, but rather reviews the 
+commissioner’s interpretation for correction of errors at law and accordingly will substitute 
+its judgment and interpretation of the statutory provision in question for that of the 
+commissioner’s if the Court concludes the commissioner made an error of law.  Iowa 
+Code Section 17A.19(10)(c), (l); Neal, 814 N.W.2d at 518.  See also, Gaborit, 743 N.W.2d 
+at 556-557; Meyer, 710 N.W.2d at 219. 
+Iowa Code §85.34(3)(a) provides that under the circumstance of permanent total 
+disability, compensation is “payable until the employee is no longer permanently and 
+totally disabled.”  In Sidles Distributing Co. v. Heath, 366 N.W.2d 1 (Iowa 1985), a case 
+directly on point with the present case with regard to this issue, the Iowa Supreme Court 
+clearly and unambiguously determined that an award of permanent total disability is 
+payable for the injured employee’s life expectancy and that a commutation of such an 
+award is likewise based upon the employee’s life expectancy.  Id, at 2-4. The Court, in 
+Sidles, also unequivocally rejected the argument that a commutation of permanent 
+disability benefits should be limited to the employees “work life,” as was proposed by the 
+appellant therein and likewise by Petitioner herein.  Id.   
+The Sidles court also expressly rejected the argument that Iowa Code 
+§85.45(1)(d), which was then codified in slightly different form at §85.45(4), limits a partial 
+commutation of permanent disability benefits to “work life” expectancy, explaining: 
+Prior to [the statute’s] enactment, we had suggested in [Diamond v. 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+25 
+ 
+Parsons Co., 129 N.W.2d 608, 613 (Iowa 1964)] that, where weekly 
+disability payments have been ordered for a fixed period of time, that 
+period shall be used to compute the lump sum award in commutation 
+cases even in those instances where life expectancy tables indicate 
+that the claimant will not live to the end of the benefit period.  We 
+believe that subsection 4 of section 85.45, enacted in 1973, is aimed 
+at reversing the import of the Diamond decision in situations where 
+it is probable that death or remarriage will shorten the length of the 
+time benefits are payable.  This statute does not purport to establish 
+the criteria under which the length of the benefit period is to be fixed 
+in the first instance nor do we believe that it suggests, even by 
+implication, a legislative recognition of appellants’ “work-life” theory. 
+Sidles, 366 N.W.2d at 3-4 (emphasis added). 
+ 
+Of consequence to the instant case, the Iowa Supreme Court, in Sidles, also found 
+that in a commutation action, the issue of the duration of disability payments was 
+“governed by the earlier decision fixing the extent and duration of the employee’s 
+benefits,” and that the payments ordered by the earlier decision in that case were ordered 
+payable “during the period of the employee’s disability,” and that the length of the period 
+of disability as previously ordered is a “determinative factor in computing the proper 
+amount of the lump sum commutation award.”  Id., at 2-3 (internal citations omitted).   
+This exact chain of reasoning, which this Court finds cogent and entirely applicable 
+to the case at hand, was echoed by the Commissioner in this case in support of  his 
+affirmation of the Partial Commutation Decision (Appeal Decision, p. 2). 
+Finally, the Sidles Court expressly acknowledged the legislature’s approval of the 
+use of mortality tables in making determinations of a person’s life expectancy. Sidles, 366 
+N.W.2d 1, at 4.  
+In short, this Court finds no error at law on this issue and is in full agreement with 
+the analysis set forth in the Appeal Decision by the commissioner, to wit:  1) the underlying 
+arbitration decision ordered payments “during the period of employee’s disability”; 2) that 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+26 
+ 
+language is properly construed under the law to mean that the duration of benefits is for 
+the employee’s life expectancy and specifically does not mean “work life” expectancy; 3) 
+the length of the period of disability, as determined in that underlying arbitration decision, 
+is a determinative factor in computing the proper amount of the lump sum commutation 
+award; and 4) Petitioners did not appeal the original arbitration decision and cannot now 
+seek to overturn it under the guise of a commutation argument. 
+The Court finds that the decision of the Iowa Workers’ Compensation 
+Commissioner should be affirmed on this issue. 
+5. Whether the mortality table adopted by rule is the appropriate table for use 
+in determining present value. 
+ 
+This alleged error requires examination from two different viewpoints.  First, on the 
+face of this particular agency action, the decision by the agency in this case to apply the 
+life expectancy table cannot be said to have erroneously interpreted existing law or to 
+have erroneously applied existing law to the facts of this case, as the life expectancy table 
+that was used by the Deputy Commissioner, and expressly affirmed by the 
+Commissioner, is found in 876 IAC 6.3, along with the direction that, “[t]he following tables 
+are to be used in determining the sum to be paid in appropriate commutation 
+proceedings.”  The agency followed existing law when utilizing the life expectancy table, 
+and the table was correctly applied to the facts of this case. 
+The other viewpoint, however, is that Petitioner’s assignment of error intends to 
+question the agency’s adoption of this particular life expectancy table in the first place, 
+which viewpoint is borne out by the Petitioner’s language used in framing of the issue 
+(“Whether the mortality table adopted by rule is the appropriate table…”). 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+27 
+ 
+Iowa Code Section 86.8 vests the commissioner with the broad authority to “adopt 
+and enforce rules necessary to implement [Chapter 86] and Chapters 85, 85A, 85B, and 
+87.”  Additionally, Iowa Code §85.45(1)(d) provides that “when a person seeking a 
+commutation is… an employee with a permanent and total disability… the future 
+payments which may be commuted shall not exceed the number of weeks which shall be 
+indicated by probability tables designated by the workers’ compensation commissioner 
+for death and remarriage, subject to the provisions of Chapter 17A” (emphasis supplied). 
+ 
+The Court finds that this particular matter (i.e., the designation of life expectancy 
+tables to be used in computing commutations) has been clearly vested by a provision of 
+law in the discretion of the agency, and therefore the action of the commissioner should 
+not be disturbed unless it is irrational, illogical, or wholly unjustified, or it is otherwise 
+unreasonable, arbitrary, capricious, or an abuse of discretion.  Iowa Code §17A.19(10)(l, 
+n). 
+Petitioner argues that the current life expectancy table adopted by rule does not 
+identify the date or source of the table, does not distinguish between males and females 
+in projecting life expectancies, and leads to disparities and inequities under the law, 
+particularly citing the difference in life expectancies computed for workers’ compensation 
+claimants (using the commissioner’s table) versus the life expectancies computed for 
+Petitioners in tort actions for damages (which utilize the 2001 CS.O Mortality Tables). 
+The Court cannot disagree that Petitioner’s contentions may be persuasive 
+arguments for the use of a different table in computing workers’ compensation benefits, 
+but they fall far short, in the view of the Court, of demonstrating that the commissioner’s 
+adoption of the table contained in 876 IAC 6.3 was irrational, illogical, wholly unjustified, 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+28 
+ 
+or otherwise arbitrary, capricious, or an abuse of discretion.   
+In so finding, the Court also acknowledges Defendant’s argument that 876 IAC 6.3 
+was duly adopted under the Administrative Procedures Act and “is currently the law of the 
+land,” and that Petitioner’s arguments as to its suitability for use in the calculation of 
+workers’ compensation benefits would have been more properly raised during the rule-
+making process. 
+Petitioner, in response, concedes that “… the ability of the City to object to the 
+adoption of the rule appears to have passed…” (City’s Reply Brief, p. 17), but asserts that 
+“the Petitioner is not estopped from raising the issue of the inequity of the application of 
+the rule to this case.” (Id.) 
+With regard to the application of the agency rule to this case, the Court finds that 
+tdhis application of law to fact has been clearly vested by a provision of law in the 
+discretion of the agency, and therefore reviews the decision under the “irrational, illogical, 
+or wholly unjustified” standard. 
+The Court cannot find that the agency’s application of the rule to this case was 
+irrational, illogical, or wholly unjustified, nor does the Court find that such application was 
+even “inequitable,” as it is the rule applied to every case in which the commuted value of 
+workers’ compensation benefits is calculated.   
+Although not specifically identified as such, Petitioner’s allegation of “inequity in 
+the application of the rule to this case,” and the arguments offered in support of such 
+argument, are akin to a claim of denial of Equal Protection under the law.  Petitioner 
+makes no specific Equal Protection claim under either the United States Constitution or 
+the Iowa Constitution, nor was any such issue raised before the agency below, so this 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+29 
+ 
+Court does not engage in an analysis of Equal Protection on this issue.  However, the 
+analogy of Petitioner’s argument to an Equal Protection claim is illuminating to a portion 
+of the Court’s reasoning herein.  Broadly speaking, a violation of Equal Protection occurs 
+when similarly situated persons receive disparate treatment under the law.  Petitioner’s 
+arguments regarding the inequity of using the life expectancy table in IAC 876-6.3 for 
+workers’ compensation cases, while using the C.S.O Mortality Table for Petitioners in tort 
+cases, misses the mark in large part because Petitioners in tort cases are not similarly 
+situated to workers’ compensation claimants.  There may be many reasons why different 
+calculations might be made under those very different circumstances, and the 
+Commissioner’s act of adopting the life expectancy table he has adopted, under the 
+discretion vested in him by law, cannot be said to be irrational, illogical, or wholly 
+unjustified simply because it leads to a different result than that reached in tort cases. 
+The Court finds that the decision of the Iowa Workers’ Compensation 
+Commissioner should be affirmed on this issue. 
+In the interest of thoroughness, the Court notes that Petitioner also uses language 
+in its brief that appears to be an attempt to raise a Due Process claim (See, e.g., 
+Petitioner’s Brief in Support of Petition for Judicial Review, pp. 17-18, stating, “[t]he use 
+of the unsourced table as the method for determining the amount to be awarded… denies 
+the City due process to challenge the table without knowing its origin or accuracy”).  Like 
+the Equal Protection issue, no express claim is made of any violation of Due Process 
+under either the United States Constitution or the Iowa Constitution, but this language 
+even more directly implicates due process than did the language analogous to Equal 
+Protection. 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+30 
+ 
+A party is precluded from raising issues in the district court that were not raised 
+and litigated before the agency.  Interstate Power Co. v. Iowa State Commerce Comm’n, 
+463 N.W.2d 69, 701 (Iowa 1990).  Even constitutional issues must be raised at the agency 
+level to be preserved for judicial review.  Garwick v. Iowa Dep’t of Transp., 611 N.W.2d 
+286, 288-89 (Iowa 2000).   
+No claim of denial of Due Process, by use of the life expectancy table contained in 
+IAC 876-6.3, was raised either at hearing before the deputy commissioner or in 
+Petitioner’s appeal to the Commissioner, thus Petitioner is precluded from asserting such 
+arguments upon judicial review.  The same analysis applies to any assertion of an Equal 
+Protection claim that might be construed from Petitioner’s briefs, as discussed supra. 
+6. Whether the agency decisions are fatally flawed for failure to include citation 
+to the correct partial commutation versus full commutation section and for 
+failure to comply with the express provisions of Iowa Code Section 85.48. 
+ 
+This issue for judicial review, as stated by Petitioner, is really two issues: 1) 
+incorrect citation by the agency to Iowa Code §85.47, rather than §853.48; and 2) alleged 
+failure to comply with §85.48 by failing to fix the lump sum to be paid.  
+A party is precluded from raising issues in the district court that were not litigated 
+before the agency.  Neither of these issues was raised at the agency level, including on 
+appeal to the commissioner (the same alleged errors having been present in the deputy 
+commissioner’s Partial Commutation Decision), thus Petitioner is precluded from raising 
+them on judicial review. 
+For this reason, the Court finds that the decision of the Iowa Workers’ 
+Compensation Commissioner should be affirmed on this issue. 
+Having so found on the basis of failure to preserve error, the Court includes the 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+31 
+ 
+following remarks in the interest of clarity only:  
+1. With regard to the agency’s incorrect citation to §85.47 rather than §85.48: 
+a. Having examined the Appeal Order and the statutes in question, the Court 
+agrees with Petitioner that as between §85.47 and §85.48, the latter is the 
+applicable statute for a partial commutation and the agency incorrectly cited 
+the former in the “Order” sections of its decisions. 
+b. The agency only cited §85.47 for one purpose: as authority for its order that 
+“Defendant shall be entitled to a discount rate on the commuted benefits 
+pursuant to Iowa Code section 85.47 and Iowa Code Section 535.3.”  In this 
+regard, Sections 85.47 and 58.48 contain identical language regarding the 
+application of interest pursuant to §535.3, which is that future payments 
+shall be “capitalized at their present value and upon the basis of interest at 
+the rate provided in section 535.3 for court judgments and decrees.” Iowa 
+Code §§ 85.47 and 85.48. 
+c. The agency correctly cited to §85.48 in the body of its Partial Commutation 
+Decision, as affirmed by the Commissioner on appeal (Partial Commutation 
+Decision, p. 5). 
+d. There is evidence that the incorrect citation to §85.47 was merely a 
+typographical error and not an error at law, which is that the remainder of 
+the Appeal Decision complies with §85.48 and the agency correctly cited 
+§85.48 in the body of its Partial Commutation Decision.  However, even if 
+the incorrect citation was not a typographical error, but was in fact an error 
+at law by the agency, it cannot be found to be anything other than a 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+32 
+ 
+harmless error, as both statutes require, in identical language, the 
+application of an interest rate as provided in §535.3, which is precisely what 
+the agency ordered.  
+e. For these reasons, even if this issue could be raised by Petitioner in this 
+judicial review action, the Court affirms the agency decision, finding that 
+pursuant to Iowa Code §17A.19(10), the substantial rights of Petitioner have 
+not been prejudiced by the agency action in citing the incorrect statute.  
+Indeed, there has been no prejudice at all. 
+2. With regard to alleged non-compliance with §85.48 by failing to fix the lump sum 
+to be paid: 
+a. This Court has previously expressed misgivings as to the language used by 
+the agency to “fix the lump sum to be paid” as required by §85.48 (See 
+“Ruling on Respondent’s Request for Judgment Entry and Petitioner’s 
+Motion For Stay,” filed in this matter on March 17, 2020). 
+b. This concern by the Court, however, was expressed in the context of 
+determining whether a sum certain existed upon which to enter judgment 
+pursuant to the court’s “ministerial function” under Iowa Code §86.42.  The 
+Court found on that question that the manner in which the agency “fixed” 
+the sum had not, at that time, adequately determined a sum certain because 
+under the terms set forth in the agency decisions, the process established 
+for calculating such sum had not been completed.   
+c. That is a different question from the one which would be before the Court 
+now, if this matter were properly raised on judicial review.  In this context, 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+33 
+ 
+the Court finds that the agency has complied with §86.42 by adequately 
+“fixing” the lump sum to be paid, but in so doing, established a process by 
+which to compute the final dollar amount.  “Fixing” the lump sum to be paid 
+is distinguishable from calculating the dollar amount that has been fixed, 
+and it is only the latter which remained uncompleted at the time of the 
+Court’s ruling on entry of judgment.  To the Court’s knowledge, such 
+computation has not been completed to date.   
+d. For this reason, the Court finds that this matter, although affirmed in all 
+respects, should be remanded to the agency for computation of the final 
+dollar amount of the commutation award, either pursuant to the procedure 
+set forth in the Appeal Decision (appointment of a financial expert), or by 
+the agency itself.  
+ORDER 
+WHEREFORE IT IS ORDERED AS FOLLOWS: 
+1. For the reasons set forth herein, the Appeal Decision of the Iowa Workers’ 
+Compensation Commissioner is AFFIRMED in all respects. 
+2. This matter is REMANDED to the Iowa Workers’ Compensation Commissioner for 
+computation of the precise dollar amount of the commuted lump-sum payment, 
+either through the process established by the agency (appointment of a financial 
+expert), or by the agency itself. 
+3. Costs of this Judicial Review action are assessed to Petitioner. 
+SO ORDERED. 
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT
+
+State of Iowa Courts
+Type:
+OTHER ORDER
+Case Number
+Case Title
+CVCV190717
+CITY OF SIOUX CITY VS. SANDS, RANDY A
+So Ordered
+Electronically signed on 2020-05-12 16:42:32     page 34 of 34
+E-FILED  2020 MAY 12 4:42 PM WOODBURY - CLERK OF DISTRICT COURT

@@ -1,0 +1,392 @@
+Case Number: 1645503.02
+Case Title:  DAGUE, RICHARD V. UNISYS CORPORATION
+Doc Type:    Decision - Deputy
+Source:      Dague Richard-1645503.02d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+RICHARD M. DAGUE, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  :                  File No. 1645503.02 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :  
+UNISYS CORPORATION, 
+  : 
+       ARBITRATION DECISION 
+ 
+ 
+  :  
+ 
+Employer, 
+  : 
+ 
+ 
+  :  
+and 
+ 
+  : 
+ 
+ 
+  : 
+INDEMNITY INSURANCE COMPANY 
+  :            Head Note Nos.:  1803, 2907 
+OF NORTH AMERICA, 
+  : 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  : 
+ 
+Defendants. 
+  :  
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Richard Dague, claimant, filed a petition for arbitration against Unisys 
+Corporation, as the employer and Indemnity Insurance Company of North America, as 
+the insurance carrier.  This case came before the undersigned for an arbitration hearing 
+on November 15, 2021.   
+Pursuant to an order from the Iowa Workers’ Compensation Commissioner, this 
+case was heard via videoconference using CourtCall.  All participants appeared 
+remotely via CourtCall. 
+The parties filed a hearing report prior to the commencement of the hearing.  On 
+the hearing report, the parties entered into numerous stipulations.  Those stipulations 
+were accepted and no factual or legal issues relative to the parties’ stipulations will be 
+made or discussed.  The parties are now bound by their stipulations. 
+The evidentiary record includes Joint Exhibits 1 through 11, including 
+supplemental exhibits to be included as Joint Exhibits 10, pages 117A and 117B.  All 
+exhibits were received without objection.  Claimant testified on his own behalf.  No other 
+witnesses testified live at the hearing.  The evidentiary record closed at the conclusion 
+of the arbitration hearing.   
+However, counsel for the parties requested an opportunity to file post-hearing 
+briefs.  This request was granted and both parties filed briefs on or before December 
+17, 2021.  The case was considered fully submitted to the undersigned on that date. 
+ 
+ 
+ELECTRONICALLY FILED     2022-Mar-28  09:07:36     DIVISION OF WORKERS' COMPENSATION
+
+DAGUE V. UNISYS CORPORATION 
+Page 2 
+ISSUES 
+The parties submitted the following disputed issues for resolution: 
+1. 
+Whether claimant’s recovery of permanent disability benefits is limited to 
+the applicable permanent functional impairment rating or whether the 
+injury should be compensated with industrial disability benefits. 
+2. 
+The extent of claimant’s entitlement to permanent disability benefits. 
+3. 
+Whether costs should be assessed against either party and, if so, in what 
+amount. 
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+Richard Dague was 62 years old at the time of hearing.  He is a high school 
+graduate and possesses additional college training.  (Transcript, pp. 11-12)  He studied 
+agri-business at Iowa State University and English at the University of Iowa but did not 
+receive a degree from either institution.  (Joint Ex. 11, deposition p. 7)   
+Claimant worked most of his career setting up computer network systems.  He 
+described this as setting up the “back end” of the computer systems, including stringing 
+and pulling cable, installing servers, and similar work.  He is capable of assisting the 
+end user on a personal computer or laptop, but most of his work throughout the years 
+has been the “back end” hardware and cabling work.  (Tr., pp. 13-14) 
+Mr. Dague started with this employer, Unisys Corporation, in 2014.  He had no 
+permanent work restrictions when he started with Unisys.  (Tr., p. 18) On February 10, 
+2018, claimant experienced an admitted low back injury moving computer equipment 
+while performing job duties for Unisys.  He reported the injury and the employer 
+provided necessary care. 
+Unfortunately, conservative care failed, and claimant was referred to a back 
+surgeon, Todd J. Harbach, M.D.  Dr. Harbach evaluated claimant on February 13, 2018.  
+He noted that claimant had low back pain, which radiated to both thighs.  (Joint Exhibit 
+3, p. 11)   
+Dr. Harbach opined that claimant had pre-existing stenosis and degenerative 
+disc disease.  However, he also opined that claimant sustained a new disc herniation in 
+his lumbar spine as a result of the work injury.  (Joint Ex. 3, p. 31, 33)   He 
+recommended surgical intervention after attempts at steroid injections failed to resolve 
+claimant’s symptoms on a long-standing basis.  Dr. Harbach took claimant to surgery in 
+November 2020.  (Joint Ex. 3, p. 53)  At his one-month post-operative follow-up, 
+claimant reported he had no back or hip pain.  However, Mr. Dague reported pain in his 
+buttocks and hip pain continuing after surgery.  (Joint Ex. 3, p. 53)   
+
+DAGUE V. UNISYS CORPORATION 
+Page 3 
+Dr. Harbach declared maximum medical improvement (MMI) on January 22, 
+2021.  He released claimant to return to work without restrictions but assigned a 13 
+percent permanent functional impairment of the whole person as a result of the two-
+level lumbar decompression he performed on claimant.  (Joint Ex. 3, p. 61) 
+Claimant sought an independent medical evaluation performed by John D. 
+Kuhnlein, D.O., on April 21, 2020.  (Joint Ex. 6)  Dr. Kuhnlein agreed with the MMI date 
+designated by Dr. Harbach.  However, Dr. Kuhnlein opined that claimant sustained a 23 
+percent permanent functional impairment of the whole person as a result of the two-
+level lumbar decompression performed by Dr. Harbach.  (Joint Ex. 6, p. 69)  Dr. 
+Kuhnlein also recommended permanent work restrictions as a result of the work injury.  
+Specifically, Dr. Kuhnlein recommended claimant not lift more than 20 pounds on an 
+occasional basis.  He also recommended that claimant be permitted to sit, stand, and 
+walk as needed for comfort, and recommended that he rarely stoop, squat, or bend.  Dr. 
+Kuhnlein also recommended that claimant only rarely crawl, kneel, or walk stairs.  
+Finally, Dr. Kuhnlein recommended claimant never work at heights. (Joint Ex. 6, p. 80) 
+Following the initial conservative care, claimant returned to work for the employer 
+in his usual job.  Again, after the low back surgery, claimant returned to work without 
+restrictions for Unisys.  (Tr., pp. 41-42)  Mr. Dague earned the same or more wages 
+upon his return to work for Unisys after surgery.  He continued to work for Unisys until 
+he was involuntarily laid-off from his employment on September 3, 2018.  (Joint Ex. 8, p. 
+90) 
+After his lay-off, claimant was off work for a period of time and performed some 
+work through his own business until he could find new employment.  Mr. Dague started 
+new employment as a computer system administrator with Perfection Learning in April 
+2019.  (Tr., p. 32)  Mr. Dague worked for Perfection Learning without restrictions and 
+earned the same or more in wages than he did at the time of his work injury in February 
+2018.  He voluntarily resigned his employment with Perfection Learning on November 7, 
+2021, shortly before trial.  (Tr., pp. 33-34; Joint Ex. 10, pp. 117A-117B) 
+Claimant testified that he has applied at approximately 100 different employers 
+since quitting at Perfection Learning and that he has already received 30 virtual 
+interviews and 5 in-person interviews.  (Tr., p. 35)  He anticipates returning to work as a 
+computer system administrator and testified that he intends to work as long as possible 
+and does not have an anticipated retirement date at this time.  (Tr., p. 37)  That being 
+said, claimant is approaching the typical retirement age. 
+Mr. Dague testified that he has ongoing symptoms as a result of the February 10 
+2018 low back injury.  He testified that he has difficulties transitioning from sitting to 
+standing and walking.  He testified that he often has to stand for a minute before he can 
+actually start walking.  He testified that he currently experiences symptoms into his leg 
+and has difficulties walking great distances.  He perceives weakness in his legs.  (Tr, p. 
+27) 
+
+DAGUE V. UNISYS CORPORATION 
+Page 4 
+I found Mr. Dague to be a credible witness.  I accept his testimony about his 
+ongoing symptoms and find that claimant at least perceives weakness in his legs, has 
+difficulties transitioning from sit to stand and walk, and that he has symptoms in his legs 
+and difficulties walking great distances.  Having found Mr. Dague credible on this issue, 
+I find that the full duty release by Dr. Harbach is likely too optimistic.  Claimant likely can 
+perform most of his required job duties but will have difficulties if he attempts to return to 
+network installations that require him to lift large computer equipment. 
+Instead, I find the restrictions offered by Dr. Kuhnlein to be more persuasive and 
+accurate in this situation.  Claimant likely can find jobs in the computer field within these 
+restrictions, but these restrictions also preclude claimant from working in positions 
+where he has to install and move larger computer equipment.  These restrictions would 
+preclude claimant from returning to some of his prior employment opportunities without 
+accommodations by the employer.  In fact, claimant credibly testified that he is avoiding 
+applying for jobs that will require him to work on ladders, involve physical work stringing 
+cable, or that require crawling or awkward positions.  (Tr., pp. 35-36) 
+Both Dr. Harbach and Dr. Kuhnlein explain how and why they reach their opinion 
+of permanent impairment.  Both apply the AMA Guides to the Evaluation of Permanent 
+Impairment, Fifth Edition.  Dr. Kuhnlein adds additional impairment for loss of range of 
+motion not considered by Dr. Harbach.  In fact, Dr. Harbach’s medical records 
+document pain with active range of motion of the lumbar spine.  (Joint Ex. 3, p. 55)  The 
+records do not provide specific measurements or declare the range of motion to be 
+normal. 
+By contrast, Dr. Kuhnlein used an inclinometer to measure claimant’s lumbar 
+range of motion.  Dr. Kuhnlein recorded specific lumbar flexion, extension, and side 
+bending measurements.  His evaluation, measurements, and impairment rating appear 
+to be more thorough in this evidentiary record.  (Joint Ex. 6, p. 77)  I accept Dr. 
+Kuhnlein’s impairment rating as most convincing and find that claimant has proven he 
+sustained a 23 percent permanent functional impairment of the whole person as a result 
+of the February 10, 2018 low back injury. 
+Considering claimant’s age, proximity to retirement, his educational and 
+employment background, his ability to return to work, his permanent functional 
+impairment, as well as his permanent restrictions, motivation, and all other factors of 
+industrial disability identified by the Iowa Supreme Court, I find that claimant has proven 
+he sustained a 35 percent loss of future earning capacity as a result of the February 10, 
+2018 work injury at Unisys. 
+CONCLUSIONS OF LAW 
+The initial dispute between the parties is whether claimant should be 
+compensated with permanent disability benefits based upon the functional impairment 
+methodology or via an industrial disability analysis.  Claimant contends that he was 
+involuntarily separated from the employer via a lay-off and that the separation of his 
+employment from the employer triggers the industrial disability analysis.  Defendants 
+
+DAGUE V. UNISYS CORPORATION 
+Page 5 
+contend that claimant does not qualify for the industrial disability analysis and that his 
+compensation should be limited to permanent disability benefits utilizing the functional 
+impairment methodology.  Defendants assert that claimant found work for a subsequent 
+employer and that he earns wages at the same or higher rate than what he earned on 
+the date of injury.   
+The applicable statutory provision that governs this issue is Iowa Code section 
+85.35(2)(v) (2017).  This statute was modified in 2017 and introduced a new concept 
+into the worker’s compensation analysis of unscheduled injuries.  Section 85.34(2)(v) 
+provides: 
+If an employee who is eligible for compensation under this paragraph 
+returns to work or is offered work for which the employee receives or 
+would receive the same or greater salary, wages, or earnings than the 
+employee received at the time of the injury, the employee shall be 
+compensated based on upon the employee’s functional impairment rating 
+from the injury, and not in relation to the employee’s earning capacity.  
+Notwithstanding section 85.26, subsection 2, if an employee who is 
+eligible for compensation under this paragraph returns to work with the 
+same employer and is compensated based only upon the employee’s 
+functional impairment resulting from the injury as provided in this 
+paragraph and is terminated from employment by that employer, the 
+award or agreement for settlement for benefits under this chapter shall be 
+reviewed upon commencement of reopening proceedings by the 
+employee for a determination of any reduction in the employee’s earning 
+capacity caused by the employee’s permanent partial disability. 
+In this case, the employee returned to work at the same or higher wages for the 
+same employer.  He was subsequently terminated by the employer.  Claimant found 
+subsequent employment again paying the same or more than he earned on the date of 
+injury.  The question argued by the parties is how the above statutory language should 
+be applied in claimant’s situation and whether he should be compensated with 
+permanent disability benefits limited to the functional impairment rating or whether the 
+permanent disability should be assessed through an industrial disability analysis. 
+The Iowa Workers’ Compensation Commissioner has addressed this issue in a 
+similar case.  In Martinez v. Pavlich, Inc., File No. 5063900 (Appeal July 2020), at *5, 
+the Commissioner held, “Thus, though claimant in this case was earning greater wages 
+at the time of hearing than he was when he was injured, I conclude his earlier voluntary 
+separation from defendant-employer removed claimant from the functional impairment 
+analysis and triggered his entitlement to benefits using the industrial disability analysis.” 
+Defendants point out that judicial review was taken from the Commissioner’s 
+Martinez decision.  Defendants assert that the Iowa District Court disagreed with the 
+Commissioner’s interpretation of Iowa Code section 85.34(2)(v) and held that claimant 
+should only be compensated under the functional impairment methodology because the 
+claimant was earning the same or greater wages at the time of the arbitration hearing, 
+
+DAGUE V. UNISYS CORPORATION 
+Page 6 
+even if through a subsequent employer.  The Iowa Supreme Court or Court of Appeals 
+have not yet provided a definitive interpretation of this statutory provision. 
+Three other deputy commissioners have analyzed the issue with mixed results.  
+In Carte v. Whirlpool, File Nos. 1643167.01, 1656980.01, and 19700417.01, the deputy 
+commissioner accepted the Commissioner’s interpretation in Martinez as the binding 
+authority and applied the industrial disability analysis.  In Raley v. Securitas Security 
+Services of USA, File No. 5067169 (Arbitration March 2021), the deputy commissioner 
+concluded that the industrial disability analysis applies in similar circumstances.  
+However, in DeMoss v. Buesing & Associates, File No. 5068006 (Arbitration Decision 
+(2020), the deputy commissioner concluded that the industrial disability analysis should 
+not apply because the claimant was terminated after returning to work for the employer 
+for reasons unrelated to the work injury. 
+The facts of this case seem to fit within the statutory framework set forth in Iowa 
+Code section 85.34(2)(v).  Claimant returned to work earning the same or greater 
+wages for the employer and was subsequently terminated by the employer from that 
+employment.  Pursuant to the Commissioner’s decision in Martinez, this is a situation in 
+which claimant’s permanent disability should be compensated with the industrial 
+disability analysis.  While I acknowledge the contrary authority of another deputy 
+commissioner and the defendants’ argument that the Iowa District Court disagreed with 
+the Commissioner’s analysis, until a definitive interpretation is provided by the Iowa 
+appellate courts, I am bound by the precedent of this agency found in Martinez.  I 
+conclude that claimant’s injury should be compensated using the industrial disability 
+analysis because claimant was terminated by the employer after the injury and after he 
+returned to work.  Iowa Code section 85.34(2)(v); Martinez v. Pavlich, Inc., File No. 
+5063900 (Appeal July 30, 2020).   
+Since claimant has an impairment to the body as a whole, an industrial disability 
+has been sustained.  Industrial disability was defined in Diederich v. Tri-City Ry. Co., 
+219 Iowa 587, 258 N.W. 899 (1935) as follows:  "It is therefore plain that the Legislature 
+intended the term 'disability' to mean 'industrial disability' or loss of earning capacity and 
+not a mere 'functional disability' to be computed in terms of percentages of the total 
+physical and mental ability of a normal man." 
+Functional impairment is an element to be considered in determining industrial 
+disability which is the reduction of earning capacity, but consideration must also be 
+given to the injured employee's age, education, qualifications, experience, motivation, 
+loss of earnings, severity and situs of the injury, work restrictions, inability to engage in 
+employment for which the employee is fitted and the employer's offer of work or failure 
+to so offer.  McSpadden v. Big Ben Coal Co., 288 N.W.2d 181 (Iowa 1980); Olson v. 
+Goodyear Service Stores, 255 Iowa 1112, 125 N.W.2d 251 (1963); Barton v. Nevada 
+Poultry Co., 253 Iowa 285, 110 N.W.2d 660 (1961). 
+Compensation for permanent partial disability shall begin at the termination of the 
+healing period.  Compensation shall be paid in relation to 500 weeks as the disability 
+bears to the body as a whole.  Section 85.34. 
+
+DAGUE V. UNISYS CORPORATION 
+Page 7 
+Having considered claimant’s age, proximity to retirement, educational 
+background, employment history, ability to return to work or retrain, permanent 
+impairment rating, permanent restrictions, motivation, and all other factors of industrial 
+disability identified by the Iowa Supreme Court, I found that claimant proved a 35 
+percent loss of future earning capacity as a result of the February 10, 2018 work injury.  
+This is equivalent to a 35 percent industrial disability.  Industrial disability benefits are 
+paid as a percentage of 500 weeks.  Iowa code section 85.34(2)(v).  Therefore, I 
+conclude claimant is entitled to an award of 175 weeks of permanent partial disability 
+benefits. 
+The final disputed issue is whether costs should be assessed against either 
+party.  Costs are assessed at the discretion of the agency.  Iowa Code section 86.40.  In 
+this case, claimant recovers an award of permanent disability benefits.  Exercising the 
+agency’s discretion, I conclude that claimant’s costs should be assessed.  Claimant 
+requests assessment of his filing fee ($100.00) and service fees ($6.80).  Defendants 
+conceded those were reasonable and paid at the commencement of the hearing.  Tr., p. 
+8.  Both expenses are assessed as costs against defendants pursuant to 876 IAC 
+4.33(3) and (7). 
+ORDER 
+THEREFORE, IT IS ORDERED: 
+Defendant shall pay claimant one hundred seventy-five (175) weeks of 
+permanent partial disability benefits commencing on January 26, 2021 at the stipulated 
+weekly rate of six hundred fifty-four and 05/100 dollars ($654.05) per week. 
+Defendants shall reimburse claimant’s costs in the amount of one hundred six 
+and 80/100 dollars ($106.80). 
+Defendant shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1(2) and 876 IAC 11.7. 
+Signed and filed this __28th __ day of March, 2022. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      WILLIAM H. GRELL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                           DEPUTY WORKERS’  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     COMPENSATION COMMISSIONER 
+ 
+ 
+
+DAGUE V. UNISYS CORPORATION 
+Page 8 
+The parties have been served, as follows:  
+Stephanie Techau (via WCES) 
+Jason Neifert (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address:  Workers’ Compensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal period 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 

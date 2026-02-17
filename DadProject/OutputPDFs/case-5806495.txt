@@ -1,0 +1,719 @@
+Case Number: 5806495
+Case Title:  SANDLIN, MARSHALL V. MID AMERICA CONSTRUCTION
+Doc Type:    Decision - Supreme Court
+Source:      Sandlin, Marshall-5806495.Supreme Court Decision.pdf
+========================================================================
+
+ 
+ 
+ 
+IN THE SUPREME COURT OF IOWA 
+ 
+No. 22–0471 
+ 
+Submitted December 14, 2023—Filed February 9, 2024 
+ 
+ 
+MID AMERICAN CONSTRUCTION LLC and GRINNELL MUTUAL, 
+ 
+ 
+Resisters, 
+ 
+vs. 
+ 
+MARSHALL SANDLIN, 
+ 
+ 
+Applicant. 
+ 
+ 
+On review from the Iowa Court of Appeals. 
+ 
+Appeal from the Iowa District Court for Polk County, Scott D. Rosenberg, 
+Judge. 
+ 
+An employee seeks further review of court of appeals decision that limited 
+his reimbursement for an independent medical examination under the 2017 
+amendment to Iowa Code section 85.39(2). DECISION OF COURT OF APPEALS 
+AFFIRMED IN PART AND VACATED IN PART; DISTRICT COURT JUDGMENT 
+AFFIRMED IN PART, REVERSED IN PART, AND REMANDED WITH INSTRUCTIONS. 
+ 
+Waterman, J., delivered the opinion of the court, in which all justices 
+joined. 
+ 
+Stephen W. Spencer and Christopher S. Spencer of Peddicord 
+Wharton, LLP, West Des Moines, for appellants. 
+ 
+Zeke R. McCartney of Reyolds & Kenline, LLP, Dubuque, for appellee. 
+ 
+ 
+
+ 
+2 
+  
+WATERMAN, Justice. 
+In this appeal, we must determine whether the court of appeals correctly 
+applied Iowa Code section 85.39, as amended in 2017, to limit an employee’s 
+reimbursement for an independent medical examination (IME). The workers’ 
+compensation commissioner awarded the full $2,020 charged by the physician, 
+who opined that his own charge was reasonable. The district court affirmed, and 
+we transferred the employer’s appeal to the court of appeals, which reduced the 
+reimbursement to $500 based on its interpretation of the amendment as limiting 
+reimbursement to the impairment rating alone without the accompanying 
+examination. We granted the employee’s application for further review. 
+On our review, we hold that the employee is entitled to the reasonable cost 
+of the examination accompanying the physician’s determination of the 
+impairment rating, not merely the component cost of the impairment rating 
+itself. Under the 2017 amendment, reasonableness is to be based on the typical 
+fee charged in the locale where the examination is performed. To determine the 
+rating, the physician in this case examined and tested the claimant and reviewed 
+records. Section 85.39, as amended, continues to allow reimbursement for the 
+complete “examination” to ascertain the impairment rating, including these 
+activities. The employee bears the burden to prove the reasonableness of the fee. 
+Whether the fee is reasonable is a question of fact, and the commissioner’s 
+finding of reasonableness is to be affirmed if supported by substantial evidence. 
+Here, however, the commissioner failed to make a finding required under the 
+2017 amendment as to the fee typically charged in that locale. Accordingly, we 
+affirm in part and remand the case for the commissioner to conduct further 
+fact-finding on that issue. 
+
+ 
+3 
+  
+I. Background Facts and Proceedings. 
+Marshall Sandlin, then age 42, began working at Mid American 
+Construction LLC as a laborer in May 2017. On September 6, Sandlin was 
+working in Dubuque on a two-story deck removing rotten boards. He was 
+standing on a step ladder removing a trim board about ten feet off the ground 
+when the ladder gave way. As he fell onto the concrete floor, his left foot caught 
+on the ladder. Sandlin’s foot hurt, but he tried to “walk it off.” When he remained 
+unable to put any weight on his foot without pain, he called his boss, who told 
+him to come see him. His boss looked at Sandlin’s foot and told him to “go home 
+and put ice on it.”  
+Sandlin stayed home for a few days, but his pain persisted. His boss told 
+him to “[j]ust give it more time [and] just stay off work.” Frustrated, Sandlin told 
+his employer he needed to see a doctor. On Saturday, September 9, Sandlin, on 
+his own initiative, saw Dr. Frederick Isaak at Medical Associates Clinic—his 
+primary physician and the only clinic open that weekend. Dr. Isaak ordered 
+X-rays that showed a possible fracture in Sandlin’s fifth metatarsal. Dr. Isaak 
+advised him to keep his foot elevated, use ice, and take ibuprofen for pain.  
+Dr. Isaak referred Sandlin to a podiatrist, Dr. Tracy Hughes, at Medical 
+Associates Podiatry. Sandlin saw Dr. Hughes on September 13. She noted 
+Sandlin’s continued reports of pain and ordered Sandlin to wear a boot and use 
+crutches. Sandlin returned to see Dr. Hughes the next month. Dr. Hughes 
+observed that Sandlin’s foot was improving and advised that he could return to 
+work “full time without restrictions in 1 week.” 
+On December 14, Sandlin underwent an IME by Dr. Erin Kennedy at 
+Tri-State Occupational Health. The parties dispute how this IME was set. 
+Sandlin later testified that Mid American’s insurance carrier, Grinnell Mutual, 
+had its medical case manager schedule the examination and directed Sandlin to 
+
+ 
+4 
+  
+see Dr. Kennedy; the insurer argues that Dr. Hughes referred Sandlin to 
+Dr. Kennedy. Regardless, Dr. Kennedy performed the examination in under 
+thirty minutes and determined that Sandlin had reached maximum medical 
+improvement. She assigned Sandlin a 0% impairment rating. Dr. Kennedy did 
+note, however, that Sandlin continued to experience minor symptoms resulting 
+from the fracture. The examination fee totaled $174.25. Other records show 
+Dr. Kennedy regularly performs examinations for employers’ insurers, including 
+Grinnell Mutual. 
+In June 2018, Sandlin’s counsel arranged for another IME by Dr. Mark 
+Taylor at Medix Occupational Health Clinic in Cedar Rapids. Dr. Taylor spent 
+more time examining Sandlin than Dr. Kennedy, spending about one hour with 
+Sandlin. Unlike Dr. Kennedy, Dr. Taylor used instruments to test Sandlin’s 
+range of motion in his foot and ankle. He also made Sandlin perform walking 
+and stretching exercises to determine Sandlin’s discomfort in his foot, and he 
+spent time reviewing Sandlin’s medical history and records. Dr. Taylor diagnosed 
+Sandlin’s injury and assigned a 2% impairment rating to Sandlin’s left foot for 
+his work injury. Dr. Taylor also prepared a report outlining his findings, 
+concluding with the following statement on his fees: 
+The fees for this examination are reasonable based upon my 
+training and certification in performing such examinations as a 
+Board Certified specialist in Occupational and Environmental 
+Medicine, as well as certification as an Independent Medical 
+Examiner by the American Board of Independent Medical 
+Examiners[,] the time spent with the examinee obtaining the history 
+and performing the examination, the time spent in preparing this 
+report, [and] the time spent by my staff preparing the file for use in 
+preparing this report.  
+Dr. Taylor sent an invoice to Sandlin’s counsel for $2,020. The invoice provided 
+the following fee breakdown: 
+• IME Exam 1st Hour: $700  
+
+ 
+5 
+  
+• IME Exam time greater than 1 hour: $209  
+• IME Report 1st hour: $700 
+• IME Report time greater than 1 hour: $411 
+Neither the invoice nor Dr. Taylor’s report addressed the fees typically charged 
+in the Cedar Rapids area for impairment ratings.  
+Sandlin sought reimbursement from Grinnell Mutual under Iowa Code 
+section 85.39 (2018). Grinnell Mutual responded that it “will not be paying out 
+the 2% rating assessed by Dr. Taylor” and “will not be reimbursing [Sandlin] for 
+the IME report.” Grinnell Mutual claimed that Sandlin was only “entitled to 
+reimbursement of a reasonable fee for another impairment rating, not a full 
+blown [IME].”  
+Sandlin filed a petition for arbitration seeking compensation benefits and 
+full reimbursement for Dr. Taylor’s examination. The parties stipulated that 
+Sandlin “suffered an injury to his left foot which arose out of and in the course 
+of employment on September 6, 2017.” But Mid American disputed whether 
+Sandlin suffered a permanent disability, the extent of any disability, and his 
+eligibility to get his IME expense reimbursed.  
+A deputy workers’ compensation commissioner conducted an evidentiary 
+hearing. Sandlin testified that he “has a dull, throbbing pain in the mid to side 
+of [his] foot” and that he is unable to engage in hobbies “as much as he did 
+before” the injury. The deputy found Sandlin’s testimony “believable.” Exhibits 
+introduced into evidence included Dr. Hughes’s report, Dr. Taylor’s report and 
+invoice for his IME, and the letter from Grinnell Mutual denying reimbursement. 
+Mid American introduced Dr. Kennedy’s IME report and invoice as well as a 
+separate document from Dr. Taylor’s office, Medix, entitled “Examination Fees 
+7/1/2015–Present” setting forth the following fee schedule:   
+
+ 
+6 
+  
+Independent Medical Exam 
+Physician time billed at $95 per 
+15-minute increment. 
+$1400 Base Fee 
+Rush IME Report 
+Inside of 1-week from appt 
+date/Inside of 3-weeks from appt 
+date. 
+$750/$600 
+Impairment Rating/Restrictions 
+Exam 
+Includes cost for one body part. 
+Additional $150 per addit body part. 
+$500 Flat Fee 
+Rush IR Report 
+Inside of 3-weeks from appt date. 
+$300 
+File Review  
+$95 per ¼ hour 
+Phone Conference  
+$95 per ¼ hour 
+Letter Fee 
+$95 per ¼ hour 
+IME Cancel Fee 
+Less than 2-weeks notice 
+$500 
+Impairment Rating Cancel Fee  
+Less than 2-weeks notice 
+$250 
+IME No-Show Fee  
+$750 
+Impairment Rating No-Show Fee 
+$300 
+The deputy’s arbitration decision found Sandlin suffered a 2% impairment 
+rating to his left leg and ruled that Sandlin qualified for reimbursement under 
+Iowa Code section 85.39. The deputy ordered Mid American to reimburse 
+Sandlin for his IME costs in the full amount of $2,020. The arbitration decision 
+was silent as to the fee typically charged in Cedar Rapids for an IME. 
+Mid American filed a motion for rehearing, arguing that it did not “retain” 
+Dr. Kennedy to evaluate Sandlin’s impairment; therefore, he was ineligible for 
+reimbursement for the IME by Dr. Taylor under Iowa Code section 85.39(2). 
+Mid American alternatively argued that it only owed the cost of Dr. Taylor’s 
+impairment rating, not the rest of the examination charges, and that his charges 
+
+ 
+7 
+  
+were unreasonable. Finally, Mid American requested modification of the deputy’s 
+arbitration decision based on the parties’ stipulation that Sandlin had injured 
+his foot, not his leg. The deputy modified the decision to refer to the foot. But the 
+deputy disagreed with Mid American about the IME costs. The deputy 
+determined that Sandlin “was directed to see Dr. Kennedy by the insurance 
+carrier,” meaning that Mid American “retained” Dr. Kennedy. The deputy left the 
+reimbursement award of $2,020 intact, without addressing what fees are 
+typically charged in the Cedar Rapids area. 
+Mid American appealed to the Workers’ Compensation Commissioner. The 
+commissioner affirmed the deputy’s finding that Sandlin suffered a 2% 
+impairment rating and affirmed the deputy’s award of the full $2,020 cost of 
+Dr. Taylor’s IME. The commissioner found that Grinnell Mutual’s medical case 
+manager sought out “the appointment with Dr. Kennedy for the purposes of 
+obtaining an impairment rating” and concluded that Mid American thereby 
+“retained” Dr. Kennedy. The commissioner also found the costs of the IME were 
+reasonable. The commissioner placed little weight on the bill for Dr. Kennedy of 
+$174.25 without any breakdown or explanation of the charges or any disclosure 
+of a fee-reduction agreement with the insurer. The commissioner found 
+Dr. Taylor’s explanation of the IME costs persuasive, however, and determined 
+that Dr. Taylor’s bill was reasonable. The commissioner addressed the Medix fee 
+schedule and stated that “[p]resumably, this would be a case in which the less 
+expensive impairment rating/restrictions exam would be appropriate.” But the 
+commissioner found that this “presumption” was “outweighed by Dr. Taylor’s 
+statement that his fees . . . are reasonable.” The commissioner ordered 
+Mid American to reimburse Sandlin $2,020—the full amount charged for the 
+IME. The commissioner made no finding as to the amount typically charged in 
+that locality. 
+
+ 
+8 
+  
+Mid American filed this action for judicial review. The district court 
+affirmed the commissioner’s findings, including the impairment finding and the 
+IME reimbursement of $2,020. Specifically, the district court reasoned: 
+Therefore, while the legislature amended the law so that a 
+reasonableness determination must address impairment ratings, it 
+did not go so far as grant reimbursement solely for impairment 
+ratings. As Petitioners point out, IMEs can have components beyond 
+impairment ratings. They may also have opinions on causation, 
+permanent restrictions, additional treatment, and maximum 
+medical improvement for example. . . . Additionally, the amendment 
+added a point of reference for reasonability comparisons, which is 
+“based on a typical fee charged by a medical provider in the local 
+area where the examination is conducted.” Iowa Code § 89.39(2). 
+The Commissioner applied facts to law when he determined that Dr. 
+Kennedy’s fee breakdown is not an appropriate comparison to Dr. 
+Taylor. He found that Petitioners did not indicate whether Dr. 
+Kennedy had fee-reduction agreements in place, which resulted in 
+an incomplete picture of her fees and thus not a proper point of 
+comparison to Dr. Taylor. On the other hand, the Commissioner 
+found Dr. Taylor’s fee statement reasonable, including the time 
+spent on the report and time spent reviewing Sandlin’s records. The 
+Commissioner committed no error of law when he found that Dr. 
+Taylor’s full IME charge is allowable under Iowa Code section 85.39. 
+Likewise, the Commissioner’s findings of fact and application of law 
+to facts are supported by substantial evidence and are not irrational. 
+(Citations omitted.) 
+Mid American appealed. Without challenging the 2% impairment rating, 
+Mid American argued that “Sandlin was not entitled to reimbursement for the 
+IME, and if he was, the amount was unreasonable.” Mid American reiterated that 
+it did not retain Dr. Kennedy to perform an examination to determine an 
+impairment rating under section 85.39(2), and so Sandlin was ineligible for 
+reimbursement for another IME by his chosen physician. Alternatively, 
+Mid American argued that even if Sandlin was entitled to reimbursement for 
+Dr. Taylor’s IME expense, Mid American should only reimburse Sandlin the 
+reasonable cost of the impairment rating itself, not any “additional costs to 
+provide other opinions beyond impairment or even necessitate reviewing a great 
+
+ 
+9 
+  
+deal of records.” Sandlin countered that Mid American’s insurer had scheduled 
+the appointment with Dr. Kennedy and thereby “retained” her within the 
+meaning of section 85.39(2). Sandlin also argued that section 85.39(2) requires 
+reimbursement of the reasonable fee for the “examination,” not just the 
+impairment rating, and that substantial evidence supported the commissioner’s 
+finding that Dr. Taylor’s IME fee was reasonable.  
+We transferred this case to the court of appeals. The court of appeals 
+affirmed the district court’s conclusion that “substantial evidence support[ed] 
+the commissioner’s determination that the employer and insurer, via the medical 
+case manager, chose Dr. Kennedy to perform the examination.” But the court of 
+appeals reversed on the reasonableness of the IME costs, finding that 
+section 85.39(2) provides for the “reasonableness of a fee” to be “based on the 
+typical fee charged by a medical provider to perform an impairment rating.” The 
+court of appeals found that the 2017 amendment to section 85.39(2) “only allows 
+for reimbursement of an examination based on the typical fee charged for an 
+impairment rating, not the extent of information a full IME entails” and reduced 
+the award to the $500 flat fee for an impairment rating.  
+We granted Sandlin’s application for further review. 
+II. Standard of Review. 
+We review the commissioner’s “legal interpretations of Iowa Code 
+chapter 85 for errors at law rather than giving deference to those 
+interpretations.” Gumm v. Easter Seal Soc’y of Iowa, Inc., 943 N.W.2d 23, 28 
+(Iowa 2020). “[W]e accept the commissioner’s factual findings when supported 
+by substantial evidence.” Id. (alteration in original) (quoting Bluml v. Dee Jay’s 
+Inc., 920 N.W.2d 82, 84 (Iowa 2018)). Substantial evidence means that “we must 
+affirm [the commissioner] if there is enough evidence to support the finding,” 
+IBP, Inc. v. Harpole, 621 N.W.2d 410, 420 (Iowa 2001) (en banc), even if “we may 
+
+ 
+10 
+  
+draw different conclusions from the record.” Coffey v. Mid Seven Transp. Co., 831 
+N.W.2d 81, 89 (Iowa 2013). “Under [Iowa Code] section 17A.19(10)(f), we may 
+reverse, modify, or grant other appropriate relief when important findings of a 
+workers’ compensation decision were not supported by substantial evidence.” 
+Bell Bros. Heating & Air Conditioning v. Gwinn, 779 N.W.2d 193, 209 (Iowa 2010). 
+It is a “well-established rule that chapter 85 is liberally construed in favor of the 
+employee, with any doubt in its construction being resolved in the employee’s 
+favor.” Larson Mfg. Co. v. Thorson, 763 N.W.2d 842, 859 (Iowa 2009). 
+III. Analysis. 
+We must decide whether the court of appeals erred in interpreting 
+section 85.39(2) to limit the IME reimbursement to $500. First, we must 
+determine the meaning of Iowa Code section 85.39(2) as amended in 2017. We 
+hold that section 85.39(2) provides for reimbursement of the reasonable cost of 
+the examination to determine the impairment rating, and the examination 
+encompasses the records review, the physical examination and testing, and a 
+written report. The court of appeals erred by limiting reimbursement to the 
+impairment rating alone, without including the accompanying examination, and 
+we vacate that part of the court of appeals decision.  
+Second, we must determine whether the district court erred in upholding 
+the commissioner’s award for the full $2,020 charged by Dr. Taylor for his IME. 
+The commissioner failed to make a finding of fact necessary under the 2017 
+amendment: the fee typically charged in that local area. We reverse the district 
+court on that issue and remand the case for further factfinding by the 
+commissioner.  
+A. The Meaning of Iowa Code Section 85.39(2) as Amended in 2017. 
+Sandlin argues that the district court and commissioner correctly interpreted 
+section 85.39 to provide for reimbursements for the full examination and should 
+
+ 
+11 
+  
+not be limited to only reimbursement for the impairment rating. Sandlin argues 
+that the physician must review medical records and conduct a full examination 
+to avoid “pulling a number out of thin air.” Mid American argues section 85.39, 
+as amended, limits reimbursement to the impairment rating component of the 
+examination, as the court of appeals held.  
+We begin our analysis with the text of the statute. We quote in full Iowa 
+Code section 85.39 as amended in 2017, with the language added that year in 
+bold: 
+1. After an injury, the employee, if requested by the employer, 
+shall submit for examination at some reasonable time and place and 
+as often as reasonably requested, to a physician or physicians 
+authorized to practice under the laws of this state or another state, 
+without cost to the employee; but if the employee requests, the 
+employee, at the employee’s own cost, is entitled to have a physician 
+or physicians of the employee’s own selection present to participate 
+in the examination. If an employee is required to leave work for which 
+the employee is being paid wages to attend the requested 
+examination, the employee shall be compensated at the employee’s 
+regular rate for the time the employee is required to leave work, and 
+the employee shall be furnished transportation to and from the place 
+of examination, or the employer may elect to pay the employee the 
+reasonable cost of the transportation. The refusal of the employee to 
+submit to the examination shall forfeit the employee’s right to any 
+compensation for the period of the refusal. Compensation shall not 
+be payable for the period of refusal. 
+2. If an evaluation of permanent disability has been made by 
+a physician retained by the employer and the employee believes this 
+evaluation to be too low, the employee shall, upon application to the 
+commissioner and upon delivery of a copy of the application to the 
+employer and its insurance carrier, be reimbursed by the employer 
+the reasonable fee for a subsequent examination by a physician of 
+the employee’s own choice, and reasonably necessary transportation 
+expenses incurred for the examination. The physician chosen by the 
+employee has the right to confer with and obtain from the 
+employer-retained physician sufficient history of the injury to make 
+a proper examination. An employer is only liable to reimburse an 
+employee for the cost of an examination conducted pursuant to 
+this subsection if the injury for which the employee is being 
+examined is determined to be compensable under this chapter 
+or chapter 85A or 85B. An employer is not liable for the cost of 
+such an examination if the injury for which the employee is 
+
+ 
+12 
+  
+being examined is determined not to be a compensable injury. 
+A determination of the reasonableness of a fee for an 
+examination made pursuant to this subsection, shall be based 
+on the typical fee charged by a medical provider to perform an 
+impairment rating in the local area where the examination is 
+conducted. 
+2017 Iowa Acts ch. 23, § 15 (codified at Iowa Code § 85.39 (2018)) 
+(emphasis added). 
+Section 85.39 “is devoted to the examination of an injured worker for the 
+purpose of ascertaining ‘the extent and character of the injury’ for purposes of 
+paying benefits in the event of a disability resulting from the injury.” Des Moines 
+Area Reg’l Transit Auth. v. Young, 867 N.W.2d 839, 843 (Iowa 2015) (quoting 
+Daugherty v. Scandia Coal Co., 219 N.W. 65, 67 (Iowa 1928)). In subsection 1, 
+the employer may request the employee submit to an examination that is 
+conducted by a physician of the employer’s choice, and the employee must 
+attend the examination or forfeit their right to any compensation “for the period 
+of refusal.” Iowa Code § 85.39(1). We conclude that substantial evidence 
+supports the commissioner’s finding that Dr. Kennedy was chosen by the 
+employer’s insurer to conduct that examination of Sandlin, and we affirm the 
+court of appeals decision and district court ruling on that disputed issue. 
+In subsection 2, the legislature leveled the playing field between the 
+employer and the employee. See id. § 85.39(2); Young, 867 N.W.2d at 844 (“The 
+statutory process balances the competing interests of the employer and employee 
+and permits the employee to obtain an independent medical examination at the 
+employer’s expense.”). Subsection 2 entitles the employee to receive an 
+examination if the employee believes the evaluation made by the employer’s 
+physician was too low. Iowa Code § 85.39(2); Young, 867 N.W.2d at 844. The 
+employee’s own examination “is known as an IME because the examination is 
+independent of the examination done by the physician selected by the employer.” 
+
+ 
+13 
+  
+Young, 867 N.W.2d at 843–44. Here, Dr. Kennedy found zero impairment, which 
+Sandlin believed was too low, triggering his statutory right to an IME by a 
+physician of his choosing—Dr. Taylor. 
+Subsection 2, as amended in 2017, continues to expressly require the 
+employer to reimburse the employee for the “reasonable fee for a subsequent 
+examination by a physician of the employee’s own choice.” Iowa Code § 85.39(2) 
+(emphasis added). This “is consistent with the overall approach under the 
+workers’ compensation statute that makes the employer responsible for the 
+medical care of an employee.” Young, 867 N.W.2d at 846; see Iowa Code 
+§ 85.27(1) (“The employer, for all injuries compensable under this chapter or 
+chapter 85A, shall furnish reasonable surgical, medical, dental, osteopathic, 
+chiropractic, podiatric, physical rehabilitation, nursing, ambulance, and 
+hospital services and supplies therefor and shall allow reasonably necessary 
+transportation expenses incurred for such services.”). 
+The 2017 amendment added three sentences to the end of subsection 2. 
+2017 Iowa Acts ch. 23, § 15 (codified at Iowa Code § 85.39 (2018)). The first two 
+sentences bar an employee from reimbursement if their injury is not 
+compensable. Id.; Tweeten v. Tweeten, 999 N.W.2d 270, 282 (Iowa 2023). 
+Today’s case turns on the third sentence: “A determination of the reasonableness 
+of a fee for an examination made pursuant to this subsection, shall be based on 
+the typical fee charged by a medical provider to perform an impairment rating in 
+the local area where the examination is conducted.” 2017 Iowa Acts ch. 23, § 15 
+(codified at Iowa Code § 85.39 (2018)). The fighting issue in this case is whether 
+the amendment narrowed the scope of reimbursement from the reasonable cost 
+of the examination to the reasonable cost of the impairment rating alone. As the 
+district court correctly concluded, “[T]he amendment added a point of reference 
+for reasonability comparisons, which is ‘based on a typical fee charged by a 
+
+ 
+14 
+  
+medical provider in the local area where the examination is conducted.’ ” 
+(Quoting Iowa Code § 85.39(2).) 
+Mid American argued, and the court of appeals agreed, that Sandlin 
+should only be reimbursed for the cost of an impairment rating listed on the 
+Medix fee schedule as $500, not the accompanying examination. We disagree. In 
+our view, the commissioner and district court correctly interpreted the statute to 
+allow the cost of the accompanying examination. 
+When determining the meaning of a statute, a core canon of statutory 
+interpretation requires us to construe the statute as a whole. See Iowa Ins. 
+Inst. v. Core Grp. of Iowa Ass’n for Just., 867 N.W.2d 58, 72 (Iowa 2015); Antonin 
+Scalia & Bryan A. Garner, Reading Law: The Interpretation of Legal Texts 167–69 
+(2012) [hereinafter Scalia & Garner, Reading Law] (stating that this canon “calls 
+on the judicial interpreter to consider the entire text, in view of its structure and 
+of the physical and logical relation of its many parts”). Throughout section 85.39, 
+the term “examination” is used twelve times—five times in subsection 1 and 
+seven times in subsection 2. See Iowa Code § 85.39. Subsection 2 states that the 
+employee shall “be reimbursed by the employer the reasonable fee for a 
+subsequent examination by a physician of the employee’s own choice, and 
+reasonably necessary transportation expenses incurred for the examination.” Id. 
+§ 85.39(2) (emphasis added). Under the 2017 amendment, the employer must 
+reimburse the employee “for the cost of such an examination [only] if the injury 
+. . . is determined . . . to be a compensable injury.” 2017 Iowa Acts ch. 23, § 15 
+(codified at Iowa Code § 85.39 (2018)) (emphasis added). Finally, the last 
+sentence added in 2017 again refers to “the reasonableness of a fee for an 
+examination.” Id. (emphasis added). Read as a whole, the statute still allows for 
+the employee with a compensable injury to be reimbursed for the reasonable cost 
+of the “examination.” See Iowa Code § 85.39. The legislature did not change the 
+
+ 
+15 
+  
+target of the fee reimbursement—i.e., the examination—when it amended the 
+statute. The legislature instead defined how “the reasonable fee for a subsequent 
+examination” would be determined—i.e., “based on the typical fee charged by a 
+medical provider to perform an impairment rating in the local area.” Id. 
+§ 85.39(2). Under our “whole text” analysis, reimbursement is not limited to the 
+impairment rating but includes the accompanying examination. 
+The 2017 amendment effectively necessitates fact-finding by the 
+commissioner on the fees typically charged in the local area where the 
+examination is performed. Parties may offer evidence of the fees typically charged 
+in that locality to support or challenge the fee charged in a particular case. And 
+the amendment allows consideration of the agency’s own experience adjudicating 
+IME reimbursement claims in the local area where the examination is performed. 
+In Nguyen v. Hy-Vee, Inc., the commissioner observed that “many IMEs come 
+before the agency, which allows the [commissioner] to use agency experience and 
+expertise to conclude that [the physician’s] charges are in line with those of an 
+occupational medicine doctor with a practice in the . . . [local] area performing 
+an evaluation of permanent impairment in accordance with the [AMA] Guides.” 
+Iowa Workers’ Comp. Comm’n, No. 21003118.03, 2023 WL 7128682, at *32 
+(Oct. 20, 2023). We agree. 
+Under section 85.39, the Iowa Workers’ Compensation Commission “has 
+long awarded the full cost of an independent medical evaluation, including 
+review of medical records and opinions pertaining to causation, restrictions, and 
+future medical care.” Rekic v. Seehase Masonry, Iowa Workers’ Comp. Comm’n 
+No. 5059846, 2019 WL 1326344, at *12 (Mar. 19, 2019); see, e.g., Eisenbacher v. 
+United 
+Parcel 
+Serv., 
+Iowa 
+Workers’ 
+Comp. 
+Comm’n 
+No. 979203, 
+1993 WL 13021569, at *3, *6 (Feb. 9, 1993) (awarding the employee the full cost 
+of the IME, which was “conducted for purposes of litigation in order to obtain a 
+
+ 
+16 
+  
+rating of impairment”); Spike v. AALFS Mfg., Iowa Workers’ Comp. Comm’n 
+No. 913731, 1993 WL 13016106, at *5, *7 (Jan. 29, 1993) (awarding the 
+employee the full cost of the IME and travel expenses). If the legislature wanted 
+to change this practice, it could have amended the language allowing “the 
+reasonable fee for a subsequent examination” to instead say that an employee 
+could be reimbursed “the reasonable fee for an impairment rating.” But it chose 
+not to. “[W]e look to the language chosen by the legislature and not what the 
+legislature might have said.” Ramirez-Trujillo v. Quality Egg, LLC, 878 N.W.2d 
+759, 770 (Iowa 2016). 
+Other canons support our interpretation. A statute is to be “liberally 
+construed with a view to promote its objects.” Iowa Code § 4.2. We have stated 
+that section 85.39 “should be accorded a logical, sensible construction which 
+gives harmonious meaning to related sections and accomplishes the legislative 
+purpose.” IBP, Inc. v. Harker, 633 N.W.2d 322, 325 (Iowa 2001) (quoting 
+McSpadden v. Big Ben Coal Co., 288 N.W.2d 181, 188 (Iowa 1980)); see Scalia & 
+Garner, Reading Law 63 (“A textually permissible interpretation that furthers 
+rather than obstructs the document’s purpose should be favored.”). And when 
+ambiguity arises in chapter 85, we liberally construe the statute in favor of the 
+employee. Thorson, 763 N.W.2d at 859–60; see also Bluml, 920 N.W.2d at 91 
+(stating that “we have long applied the workers’ compensation statute ‘broadly 
+and liberally in keeping with its humanitarian objective’ ” (quoting Xenia Rural 
+Water Dist. v. Vegors, 786 N.W.2d 250, 257 (Iowa 2010))). 
+“The primary purpose of the workers’ compensation statute is to benefit 
+the worker and his or her dependents, insofar as statutory requirements permit.” 
+Harker, 633 N.W.2d at 325 (quoting McSpadden, 288 N.W.2d at 188); see also 
+Young, 867 N.W.2d at 846 (stating that “the overall approach under the workers’ 
+compensation statute [is to] make[] the employer responsible for the medical care 
+
+ 
+17 
+  
+of an employee”). The purpose of section 85.39(2) is to “balance[] the competing 
+interests of the employer and employee and permit[] the employee to obtain an 
+independent medical examination at the employer’s expense.” Young, 867 
+N.W.2d at 844. Reading the amended statute to continue requiring the 
+reimbursement of the subsequent examination while clarifying how the 
+reasonable fee is to be determined is a logical and sensible reading that furthers 
+the purpose of the workers’ compensation statute. See Bluml, 920 N.W.2d at 91.  
+Next, we construe the phrase “to perform an impairment rating.” Iowa 
+Code § 85.39(2). “Perform” is a key word in the last sentence of section 85.39(2). 
+“Perform” does work. “Canons of statutory interpretation require that every word 
+and every provision in a statute is to be given effect, if possible, and not deemed 
+mere surplusage.” Vroegh v. Iowa Dep’t of Corr., 972 N.W.2d 686, 703 (Iowa 
+2022) (emphasis in original); Scalia & Garner, Reading Law 174. Thus, we must 
+determine what it means “to perform an impairment rating” as a physician. Iowa 
+Code § 85.39(2) (emphasis added). We interpret this language in context with a 
+related amendment that added a new subsection to section 85.34. See Scalia & 
+Garner, Reading Law 252 (describing the “Related-Statutes Canon” as 
+encouraging “laws dealing with the same subject . . . [to] be interpreted 
+harmoniously”). This new subsection requires that “the extent of loss or 
+percentage of permanent impairment” be “determined solely by utilizing the 
+guides to the evaluation of permanent impairment, published by the American 
+medical association,” otherwise known as the AMA Guides. Iowa Code 
+§ 85.34(2)(x). Prior to 2017, “the [AMA] Guides were a tool the agency could use 
+when determining the extent of permanent disability caused by an employee’s 
+work injury,” but use of the guides was not required by statute. Nguyen, Iowa 
+Workers’ Comp. Comm’n, 2023 WL 7128682, at *27. “The [AMA] Guides contain 
+a process for physicians to use when evaluating permanent impairment[,] with 
+
+ 
+18 
+  
+the impairment rating punctuating that process.” Id. (“Under the [AMA] Guides, 
+the evaluation of permanent impairment is inextricably intertwined with 
+assigning an impairment rating.”). Thus, the commission has repeatedly found 
+a physician’s impairment rating to be unpersuasive when they do not use the 
+AMA Guides. 15 John Lawyer & James R. Lawyer, Iowa Practice Series Workers’ 
+Compensation § 15.3, at 228 (2022–2023 ed. 2022); see also Shrum v. Boldt Grp., 
+Inc., Iowa Workers’ Comp. Comm’n No. 5067317, 2020 WL 7338305, at *3 
+(Dec. 7, 2020).  
+The AMA Guides direct the physician to conduct various tasks to 
+determine an impairment rating. The physician should determine whether the 
+employee is at maximal medical improvement. Linda Cocchiarella & Gunnar 
+B. J. Andersson, AMA Guides to the Evaluation of Permanent Impairment 19 (5th 
+ed. 2001) [hereinafter AMA Guides]. The physician should know about any past 
+injuries to the employee, and they do this by reviewing past medical records. Id. 
+at 11–12. The physician should determine whether the work injury caused the 
+impairment. Id. at 11; see also Kern v. Fenchel, Doster & Buck, No. 20–1206, 
+2021 WL 3890603, at *4 (Iowa Ct. App. Sep. 1, 2021) (finding that “there can be 
+no disability determination arising out of a disability evaluation without a 
+determination there was causation”). The physician should conduct a physical 
+examination 
+to 
+assess 
+the 
+employee’s 
+status 
+and 
+perform 
+accurate 
+measurements. AMA Guides 21. The physician should determine a diagnosis. Id. 
+at 22. Under the AMA Guides, a physician is to conduct multiple tasks to perform 
+an employee’s impairment rating. We construe section 85.39 together with 
+section 85.34 to conclude that the “examination” required “to perform an 
+impairment rating” must include the foregoing steps required under the AMA 
+Guides. 
+
+ 
+19 
+  
+This reading of the statute is bolstered by language used earlier in 
+section 85.39(2). There, the legislature recognized there must be more to perform 
+an impairment rating than simply giving a percentage. For example, 
+section 85.39(2) allows “[t]he physician chosen by the employee . . . the right to 
+confer with and obtain from the employer-retained physician sufficient history 
+of the injury to make a proper examination.” Iowa Code § 85.39(2). It would be 
+nonsensical to give the employee’s chosen physician the right to confer with the 
+employer’s chosen physician and obtain and review records but then deny 
+reimbursement for that part of the IME. 
+We construe section 85.39(2) as amended in 2017 to require the employer 
+to reimburse the reasonable cost of the examination that is conducted by a 
+physician of the employee’s own choosing. The reasonableness of the fees will be 
+analyzed based on what physicians in that area typically charge to perform the 
+impairment rating examination—which may include “the costs of reviewing 
+medical records, conducting a physical examination, opining on causation, 
+assessing permanent impairment, assigning restrictions, and addressing further 
+treatment recommendations.” Turner v. NCI Bldg. Sys., Inc., Iowa Workers’ Comp. 
+Comm’n No. 1652235.01, 2022 WL 1787301, at *26 (Feb. 24, 2022). The court 
+of appeals erred by basing the award on the impairment rating alone, without 
+including the accompanying examination. 
+B. The Reasonableness of Dr. Taylor’s IME Fee. We turn now to the 
+commissioner’s finding that Dr. Taylor’s $2,020 IME fee was reasonable. We hold 
+that the burden is on the claimant to show the reasonableness of his chosen 
+physician’s IME fee. See Iowa R. App. P. 6.904(3)(e) (“Ordinarily, the burden of 
+proof on an issue is upon the party who would suffer loss if the issue were not 
+established.”); see also Pexa v. Auto Owners Ins., 686 N.W.2d 150, 156 (Iowa 
+2004) (stating “the plaintiff has the burden to prove the reasonable value of the 
+
+ 
+20 
+  
+[medical] services rendered”). The reasonableness of Dr. Taylor’s fee is a question 
+of fact to be decided by the commissioner. See Quaker Oats Co. v. Ciha, 
+552 N.W.2d 143, 154 (Iowa 1996). The commissioner’s factual findings are 
+binding on appeal if supported by substantial evidence. Gumm, 943 N.W.2d at 
+28.  
+The district court ruled that substantial evidence supported the 
+commissioner’s finding that Dr. Taylor’s $2,020 IME fee was reasonable. An 
+appellate court cannot substitute its judgment for the factfinder and find the 
+facts anew. See Harpole, 621 N.W.2d at 418. The court of appeals erred by 
+resetting the reimbursement amount to $500 based on a schedule of what 
+Dr. Taylor apparently charges for an impairment rating alone. But we are unable 
+to affirm the commissioner’s $2,020 award because in our view, the 
+commissioner’s analysis and factfinding were incomplete considering the 2017 
+amendment to section 85.39(2). 
+We agree the commissioner properly considered Dr. Taylor’s written 
+opinion that “his fees, including the time spent with claimant, the time spent on 
+the report[,] and the time spent reviewing claimant’s records, are reasonable.” 
+See Pexa, 686 N.W.2d at 156 (“The reasonable value of medical services can be 
+shown by evidence of the amount paid for such services or through the testimony 
+of a qualified expert witness.”). But in our view, under the 2017 amendment, an 
+additional step is required in the agency factfinding: the reasonableness finding 
+is to be “based on the typical fee charged by a medical provider to perform an 
+impairment rating in the local area where the examination is conducted.” Iowa 
+Code § 85.39(2). That step is missing in the commissioner’s decision. Sandlin 
+offered no evidence as to what fees are typically charged in the Cedar Rapids 
+area, and the commissioner made no finding on that issue. Today’s opinion in 
+this case is our first to clarify the meaning of the final sentence added in the 
+
+ 
+21 
+  
+2017 amendment to section 85.39(2). Under analogous circumstances, we have 
+remanded the case to reopen the evidentiary record for additional agency 
+fact-finding. See Gwinn, 779 N.W.2d at 209 (remanding the case “for additional 
+evidence to allow for a full and complete resolution of the issues presented under 
+the legal standards clarified in this decision”). We take the same approach today. 
+On remand, the parties may introduce additional evidence, and the 
+commissioner shall make the reasonableness finding as provided under section 
+85.39(2) “based on the typical fee charged by a medical provider to perform an 
+impairment rating in the local area where the examination is conducted.” Iowa 
+Code § 85.39(2). The commissioner should then award a reasonable fee for 
+Dr. Taylor’s examination.  
+IV. Disposition. 
+For these reasons, we affirm the decision of the court of appeals and the 
+district court judgment that Dr. Kennedy was chosen by the employer’s insurer 
+to conduct that examination of Sandlin. We vacate the court of appeals decision 
+that reduced Dr. Taylor’s IME fee award to $500, and we reverse the district 
+court ruling that awarded $2,020. We remand the case to the district court for 
+entry of an order of remand for further proceedings before the workers’ 
+compensation commissioner consistent with this opinion. 
+DECISION OF COURT OF APPEALS AFFIRMED IN PART AND VACATED IN 
+PART; DISTRICT COURT JUDGMENT AFFIRMED IN PART, REVERSED IN PART, 
+AND REMANDED WITH INSTRUCTIONS. 

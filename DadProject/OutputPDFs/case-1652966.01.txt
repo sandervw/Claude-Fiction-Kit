@@ -1,0 +1,475 @@
+Case Number: 1652966.01
+Case Title:  LOEW, JUSTIN V. MENARD, INC.
+Doc Type:    Decision - Supreme Court
+Source:      Loew, Justin-20700736.01.Supreme Court Decision.pdf
+========================================================================
+
+ 
+ 
+ 
+IN THE SUPREME COURT OF IOWA 
+ 
+No. 22–1894 
+ 
+Submitted November 16, 2023—Filed February 9, 2024 
+ 
+ 
+JUSTIN LOEW, 
+ 
+ 
+Appellant, 
+ 
+vs. 
+ 
+MENARD, INC. and XL INSURANCE AMERICA, 
+ 
+ 
+Appellees. 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Samantha 
+Gronewald, Judge. 
+ 
+A workers’ compensation claimant appeals the district court’s order 
+denying his petition for judicial review of agency decision denying his claim for 
+workers’ compensation benefits. DISTRICT COURT JUDGMENT REVERSED AND 
+REMANDED WITH INSTRUCTIONS. 
+ 
+McDonald, J., delivered the opinion of the court, in which all participating 
+justices joined. May, J., took no part in the consideration or decision of the case.  
+ 
+Paul Thune of Thune Law Firm, West Des Moines, for appellant. 
+ 
+Kent Smith and Rachael D. Neff (until withdrawal) of Smith Mills Law, P.C., 
+Cedar Rapids, for appellees. 
+ 
+ 
+
+ 
+2 
+  
+MCDONALD, Justice. 
+Justin Loew suffered two lower back injuries in the course of his 
+employment with Menard, Inc. With respect to the first injury, Loew filed a 
+petition for workers’ compensation benefits, and the commissioner found the 
+injury caused 20% functional impairment to Loew’s lower back. Loew received 
+compensation for that injury based on a 30% reduction in his earning capacity. 
+With respect to the second, later injury, the commissioner found the injury 
+caused an 8% functional impairment to Loew’s lower back, increasing his 
+functional impairment from 20–28%. Based on statute, Loew was entitled to 
+compensation for this new injury based “upon [his] functional impairment 
+resulting from the injury, and not in relation to [his] earning capacity.” Iowa Code 
+§ 85.34(2)(v) (2018). The commissioner concluded, however, that Menard was 
+not required to pay compensation in this case. The commissioner reasoned 
+Menard was entitled to an offsetting credit because the 30% reduction in Loew’s 
+earning capacity was greater than the 28% functional impairment to Loew’s 
+back. The commissioner erred in crediting Menard in this case for its prior 
+payment. Compensation based on loss of earning capacity and compensation 
+based on functional impairment are incommensurables; offsetting one against 
+the other is like determining “whether a particular line is longer than a particular 
+rock is heavy.” Bendix Autolite Corp. v. Midwesco Enters., Inc., 486 U.S. 888, 897 
+(1988) (Scalia, J., concurring in the judgment).  
+I. 
+Iowa’s workers’ compensation system dates to 1913. See 1913 Iowa Acts 
+ch. 147; Baker v. Bridgestone/Firestone, 872 N.W.2d 672, 676 (Iowa 2015). The 
+principles and purposes of the workers’ compensation system are well 
+understood. See Baker, 872 N.W.2d at 676. Generally, the workers’ 
+compensation system rests on the policy judgment “that the disability of a 
+
+ 
+3 
+  
+work[er] resulting from an injury arising out of and in the course of his [or her] 
+employment is a loss that should be borne by the industry itself . . . and not 
+suffered alone by the work[er] or the employer.” Id. (alterations and omission in 
+original) (quoting Tunnicliff v. Bettendorf, 214 N.W. 516, 517–18 (Iowa 1927)). 
+The system imposes a series of tradeoffs on employers and employees. “In the 
+grand bargain removing workers’ compensation matters from the civil justice 
+system, employers receive immunity from potentially large tort lawsuits . . . on 
+the condition that they pay compensation benefits for injuries arising out of and 
+in the course of employment without regard to fault.” Id. at 676–77. Under this 
+system, employers have an “obligation to pay compensation benefits in the 
+correct amount promptly when they are owed to injured employees.” Id. at 678. 
+To that end, it is “a rule of statutory interpretation deeply embedded throughout 
+our caselaw” that “[w]e liberally construe workers’ compensation statutes in 
+claimants’ favor to effectuate the statute’s humanitarian and beneficent 
+purpose.” Id. 
+Under Iowa law, “[e]very employer . . . shall provide, secure, and pay 
+compensation according to the [Code] for any and all personal injuries sustained 
+by an employee arising out of and in the course of the employment.” Iowa Code 
+§ 85.3(1). Compensation for an injury resulting in any permanent disability 
+“shall be payable to an employee” pursuant to Iowa Code section 85.34. 
+Compensation for an injury resulting in a permanent partial disability, 
+specifically, is governed by section 85.34(2). When an employee suffers a 
+permanent partial disability, the employee’s “compensation shall be based upon 
+the extent of the disability and upon the basis of eighty percent per week of the 
+employee’s average spendable weekly earnings.” Id. § 85.34(2). “For all cases of 
+permanent partial disability[,] compensation shall be paid” in one of two ways. 
+Id. 
+
+ 
+4 
+  
+First, in certain cases, compensation for permanent partial disability shall 
+be based on functional impairment to the injured body part and limited to the 
+percentage loss of the physiological capacity of the injured body part based on a 
+set number of weeks. See id. § 85.34(2)(a)–(v); Chavez v. MS Tech. LLC, 972 
+N.W.2d 662, 667 (Iowa 2022); Second Inj. Fund of Iowa v. Bergeson, 526 N.W.2d 
+543, 547 (Iowa 1995). In these cases, the “extent of loss or percentage of 
+permanent impairment shall be determined solely by utilizing the guides to the 
+evaluation of permanent impairment, published by the American medical 
+association, as adopted by the workers’ compensation commissioner.” Iowa Code 
+§ 85.34(2)(x). Iowa Code section 85.34(2)(a)–(u) lists different body parts and the 
+corresponding weeks of compensation that must be paid for an impairment to 
+the scheduled body part. To illustrate, section 85.34(2)(a) provides that for the 
+loss of a thumb, an employee is entitled to compensation for sixty weeks. Id. 
+§ 85.34(2)(a). If an employee suffered a work injury resulting in a 10% functional 
+impairment to the thumb, the employee would be entitled to six weeks’ 
+compensation (10% of sixty weeks). Permanent partial disabilities compensated 
+pursuant to paragraphs (a)–(u) are referred to as scheduled injuries.  
+Second, in “all cases of permanent partial disability other than those . . . 
+described or referred to in paragraphs ‘a’ through ‘u’ . . . , the compensation shall 
+be paid” based on “the number of weeks in relation to five hundred weeks as the 
+reduction in the employee’s earning capacity caused by the disability.” Id. 
+§ 85.34(2)(v). Determining an injured employee’s compensation based on the 
+employee’s reduction in earning capacity is known as the industrial method. See 
+Mortimer v. Fruehauf Corp., 502 N.W.2d 12, 14–15 (Iowa 1993) (stating the 
+industrial method measures “the loss to the employee’s earning capacity”). 
+Functional impairment to the body is only one of many factors considered in 
+measuring an employee’s reduction in earning capacity. See Sherman v. Pella 
+
+ 
+5 
+  
+Corp., 576 N.W.2d 312, 321 (Iowa 1998). “Measuring the employee’s loss of 
+earning capacity requires the commissioner to consider the employee’s 
+functional impairment, age, education, work experience, and adaptability to 
+retraining, to the extent any of these factors affect the employee’s prospects for 
+relocation in the job market.” Id. Our caselaw calls a permanent partial disability 
+compensated on the reduction in the employee’s earning capacity an “industrial 
+disability.” See id. at 320–21 (“[U]nscheduled injuries are compensated by 
+determining the employee’s industrial disability. One arrives at industrial 
+disability by determining the loss to the employee’s earning capacity.”); Second 
+Inj. Fund of Iowa v. Shank, 516 N.W.2d 808, 813 (Iowa 1994) (“Industrial 
+disability goes beyond body impairment and measures the extent to which the 
+injury impairs the employee’s earning capacity.”). 
+Until 2017, all nonscheduled injuries were compensated using the 
+industrial method. In 2017, the general assembly changed the method for 
+determining compensation for nonscheduled injuries. 2017 Iowa Acts ch. 23, § 8 
+(codified at Iowa Code § 85.34(2)(u) (2018)). When an employee suffers a 
+nonscheduled injury that results in a permanent partial disability and does not 
+return to work or does not return to work at the same or greater compensation, 
+the employee’s compensation is determined by the industrial method based on 
+the reduction in the employee’s earning capacity. See id. When an employee 
+suffers a nonscheduled injury that results in a permanent partial disability, 
+returns to work after the injury, and receives at least the same compensation, 
+the “employee shall be compensated” for the injury “based only upon the 
+employee’s functional impairment resulting from the injury, and not in relation 
+to the employee’s earning capacity.” Iowa Code § 85.34(2)(v). 
+When an employee suffers from a second injury with the same employer 
+resulting in a new disability, the Code makes sure that the employer pays 
+
+ 
+6 
+  
+compensation only for the second injury resulting in a disability and does not 
+pay compensation for the first injury twice. Iowa Code § 85.34(7). 
+Section 85.34(7) provides that an “employer is not liable for compensating an 
+employee’s preexisting disability that arose out of and in the course of 
+employment from a prior injury with the employer, to the extent that the 
+employee’s preexisting disability has already been compensated.” Id. The 
+legislature’s stated purpose in enacting section 85.34(7) was to “prevent all 
+double recoveries and all double reductions in workers’ compensation benefits 
+for permanent partial disability.” 2004 Iowa Acts 1st Extraordinary Sess. 
+ch. 1001, § 20. “The general assembly intend[ed] that an employer shall fully 
+compensate all of an injured employee’s disability that is caused by work-related 
+injuries with the employer without compensating the same disability more than 
+once.” Id.  
+II. 
+With that background, we turn to the facts of this case. Loew has worked 
+for Menard, a home improvement store, since 2008. In March 2015, Loew 
+sustained a lower back injury arising out of and in the course of his employment 
+while unloading patio chairs from the back of a truck. He underwent therapy, 
+work hardening, and two surgeries to try and resolve the pain and other 
+symptoms associated with the injury.  
+In January 2017, Loew filed a petition for workers’ compensation benefits 
+against Menard and its insurance carrier, XL Insurance America, for his 2015 
+lower back injury. Loew suffered a 20% functional impairment to his lower back. 
+Because this was a nonscheduled injury, the commissioner calculated Loew’s 
+compensation using the industrial method under a prior version of the law. See 
+Iowa Code § 85.34(2)(u) (2015). After considering all the relevant factors, 
+including, but not limited to Loew’s functional impairment, the commissioner 
+
+ 
+7 
+  
+found Loew suffered a 30% reduction in earning capacity and was entitled to 
+compensation for the same.  
+In July and August of 2020, Loew filed two new petitions for workers’ 
+compensation benefits for new injuries arising out of and in the course of his 
+employment with Menard. In the petitions, Loew alleged he suffered an injury to 
+his lower back on August 13, 2018, and sustained a cumulative injury to his 
+lower back, right leg, and right foot on March 13, 2019. The petitions were 
+consolidated. The parties agreed that the above-discussed 2017 amendments to 
+section 85.34(2)(v) were applicable. Pursuant to this provision, the parties 
+stipulated that “[i]f the alleged injury is found to be a cause of permanent 
+disability, Loew [was] only entitled to recover the functional impairment rating 
+since he returned to work at the same or greater salary, wages, or earnings.”  
+After the arbitration hearing, the deputy commissioner found that Loew 
+sustained a new injury to his lumbar spine on August 13, 2018. The deputy 
+commissioner found the injury caused an 8% permanent functional impairment 
+to Loew’s lower back, increasing his functional impairment from 20% to 28%. 
+The deputy commissioner concluded, however, that Loew was not entitled to 
+compensation 
+for 
+his 
+new 
+permanent 
+partial 
+disability. 
+Relying 
+on 
+section 85.34(7), deputy the commissioner reasoned: 
+This case involves a new injury Loew sustained to his lumber spine 
+. . . while working for Menards. Under the 2017 changes to the 
+statute, Loew is only entitled to functional loss in this case because 
+he remains employed by Menards and he is earning greater wages 
+. . . . Loew’s total functional loss for his combined injuries while 
+working for Mendards is 28 percent, which is less than the prior 30 
+percent award he received . . . following the 2015 work injury. Under 
+the plain meaning of Iowa Code section 85.34(7), Menards is entitled 
+to a credit for the prior award and Loew is entitled to no additional 
+benefits for the 2018 work injury at this time. 
+
+ 
+8 
+  
+Loew filed an intra-agency appeal. The commissioner affirmed the “finding 
+that claimant sustained permanent functional impairment of eight percent of the 
+body as a whole as a result of the August 13, 2018, work injury.” The 
+commissioner affirmed that Menard was entitled to a credit. The commissioner 
+reasoned “that because claimant was awarded 30 percent industrial disability 
+for the 2015 work injury, and because claimant’s total functional impairment for 
+the 2015 and 2018 injuries is 28 percent, . . . [the] defendants are entitled to a 
+credit for the prior 30 percent award.” Thus, according to the commissioner, 
+Loew was “not entitled to receive any additional benefits for the eight percent 
+functional impairment sustained by claimant as a result of the August 13, 2018, 
+work injury.” 
+Loew filed a petition for judicial review of the commissioner’s decision. He 
+argued that the commissioner erred in crediting Menard for the 30% industrial 
+disability payment. In Loew’s view, section 85.34(7) did not apply here because 
+he did not seek compensation for a preexisting disability. Instead, he sought 
+compensation only for a new permanent partial disability, to wit, the 8% increase 
+in functional impairment caused by his new injury. Further, Loew argued, the 
+commissioner’s application of section 85.34(7) did not make sense here. The 
+commissioner 
+compared 
+incommensurables: 
+Loew’s 
+prior 
+injury 
+was 
+compensated in apples of reduced earning capacity, but his current injury was 
+to be compensated in oranges of increased functional impairment. The parties 
+also stipulated that compensation was to be based on functional impairment 
+rating. The district court rejected Loew’s arguments and affirmed the 
+commissioner’s decision.  
+III. 
+“An individual adversely affected by an action of the workers’ 
+compensation commissioner is entitled to judicial review under the Iowa 
+
+ 
+9 
+  
+Administrative Procedures Act (IAPA).” Coffey v. Mid Seven Transp. Co., 831 
+N.W.2d 81, 88 (Iowa 2013). Iowa Code section 17A.19(10) “governs judicial review 
+of administrative agency decisions.” Id. Our review of the commissioner’s 
+interpretation of statutes is contingent. If “the legislature clearly vested the 
+agency with the authority to interpret the statute at issue,” we give deference to 
+the agency’s interpretation and will reverse the agency’s decision only when its 
+interpretation is “irrational, illogical, or wholly unjustifiable.” NextEra Energy 
+Res. LLC v. Iowa Utils. Bd., 815 N.W.2d 30, 36–37 (Iowa 2012) (quoting Doe v. 
+Iowa Dep’t of Hum. Servs., 786 N.W.2d 853, 857 (Iowa 2010)). If the legislature 
+did not clearly vest the agency with interpretive authority over the statute at 
+issue, we review the agency’s decision for the correction of errors at law. Id. at 37. 
+We have previously concluded the legislature has not vested the workers’ 
+compensation commissioner with interpretive authority regarding Iowa Code 
+chapter 85. Waldinger Corp. v. Mettler, 817 N.W.2d 1, 4–5 (Iowa 2012). Therefore, 
+we “review the commissioner’s interpretation of Iowa Code chapter 85 for 
+correction of errors at law instead of deferring to the agency’s interpretation.” 
+Brewer-Strong v. HNI Corp., 913 N.W.2d 235, 243 (Iowa 2018).  
+We first address Loew’s entitlement to compensation under Iowa Code 
+section 85.34(2)(v) (2018). Section 85.34(2)(v) provides two methods for 
+calculating compensation for a nonscheduled permanent partial disability. 
+Compensation shall be paid using the industrial method based on “the reduction 
+in the employee’s earning capacity caused by the disability.” Id. However, when 
+an employee returns to work at the “same or greater salary, wages, or earnings 
+than the employee received at the time of the injury,” then “the employee shall 
+be compensated based only upon the employee’s functional impairment resulting 
+from the injury, and not in relation to the employee’s earning capacity.” Id. Here, 
+Loew suffered a nonscheduled injury to his lower back, and he returned to work 
+
+ 
+10 
+  
+at the same or greater compensation. Because Loew returned to work at the 
+same or greater compensation, he was entitled to compensation “based only 
+upon [his] functional impairment resulting from the injury.” Id. The 
+commissioner found the August 13, 2018 work injury caused an 8% permanent 
+functional impairment to his lower back. Pursuant to the plain language of the 
+statute, Loew “shall be compensated” for the additional 8% functional 
+impairment “resulting from the injury.” Id. That equates to forty weeks’ 
+compensation (8% of 500 weeks).  
+We conclude the commissioner erred in interpreting section 85.34(7) to 
+preclude compensation for this new permanent partial disability. The statute 
+does not establish a credit system where an employer gets to avoid paying for a 
+new disability. Rather, the statutory text limits an employer’s liability for 
+preexisting disabilities: the employer “is not liable for compensating an 
+employee’s preexisting disability” but only “to the extent that the employee’s 
+preexisting disability has already been compensated under this chapter.” Id. 
+§ 85.34(7). Loew does not seek to hold Menard liable for a preexisting disability. 
+Instead, Loew seeks to hold Menard liable for a new permanent partial disability: 
+his work injury of August 2018 that resulted in an 8% functional impairment to 
+his lumbar spine. See Warren Props. v. Stewart, 864 N.W.2d 307, 320 (Iowa 
+2015) (“A new or additional permanent impairment must be established for an 
+impairment to be the sole basis of a new award.”); Reeves v. Plymouth Cnty. Solid 
+Waste, Iowa Workers’ Comp. Comm’n No. 21006846.02, 2023 WL 6953980, at 
+*28 (Oct. 16, 2023) (concluding that employer is liable only for the increased 
+functional impairment). Loew has not been compensated for this permanent 
+partial disability. Menard is thus liable for the same. The commissioner erred in 
+concluding otherwise. 
+
+ 
+11 
+  
+Our interpretation of the statute is consistent with the general assembly’s 
+stated purpose in enacting section 85.34(7). The purpose of section 85.34(7) was 
+to “prevent all double recoveries and all double reductions in workers’ 
+compensation benefits for permanent partial disability.” 2004 Iowa Acts 1st 
+Extraordinary Sess. ch. 1001, § 20. This case is not a double recovery case. Loew 
+suffered an injury in 2015, resulting in a 20% functional impairment to his lower 
+back and a permanent partial disability. The commissioner found Loew suffered 
+a new injury in August 2018, resulting in a new permanent partial disability, 
+and Loew has not been compensated for his new permanent partial disability. 
+There is no risk of double recovery here. 
+Our conclusion that Iowa Code section 85.34(7) does not preclude 
+compensation here is bolstered by another consideration: the offset of a 30% 
+industrial disability makes no sense under the circumstances presented. Loew’s 
+prior permanent partial disability was compensated based on the reduction in 
+his earning capacity, but his new permanent partial disability must be 
+compensated based on his loss of functional impairment. These are 
+incommensurable, and it makes no logical sense to use one award to offset the 
+other. If Loew had sought compensation for his preexisting functional disability 
+by seeking to be compensated for more than an 8% functional impairment, then 
+section 85.34(7) would apply to limit Loew’s compensation for just an 8% 
+functional impairment.  
+The workers’ compensation commissioner reached a similar conclusion in 
+an analogous case. Prior to 2017, injuries to the shoulder were categorized as 
+nonscheduled and based on the reduction in the employee’s earning capacity. 
+See Chavez, 972 N.W.2d at 667. In 2017, the legislature changed the law and 
+made shoulder injuries scheduled member injuries compensated based on loss 
+of functional impairment. In Rife v. P.M. Lattner Manufacturing Co., a claimant 
+
+ 
+12 
+  
+suffered a shoulder injury under the prior law and was compensated using the 
+industrial method, and he then suffered a subsequent shoulder injury to be 
+compensated based on loss of functional impairment. Iowa Workers’ Comp. 
+Comm’n No. 1652412.02, 2022 WL 265661, at *2 (Jan. 21, 2022). The employer 
+claimed it was entitled to credit for payment of the prior permanent partial 
+disability. Id. The commissioner rejected that argument, concluding that 
+offsetting compensation based on functional impairment by a prior payment 
+based on a reduction in earning capacity was comparing apples to oranges. Id. 
+We quote the commissioner’s decision at length: 
+Not only is there no mechanism in the statute for apportioning 
+past compensation for industrial disability against compensation for 
+a scheduled member, . . . but the statute, as amended, does not 
+support such an apportionment. . . .  
+Because claimant’s prior shoulder injury occurred before the 
+legislature’s 2017 overhaul of chapter 85, it was not compensated 
+as a scheduled member. Instead, claimant’s pre-existing disability 
+was compensated under former Iowa Code section 85.34(2)(u) (now 
+subsection (2)(v)), which is the section for unscheduled losses that 
+provides compensation based on a reduction in earning capacity. 
+In determining a claimant’s reduction of earning capacity, 
+functional impairment is an element to be considered, but 
+consideration must also be given to the injured employee’s age, 
+education, qualifications, experience, motivation, loss of earnings, 
+severity and situs of the injury, work restrictions, inability to engage 
+in employment for which the employee is fitted and the employer’s 
+offer of work or failure to so offer. Before the 2017 amendments, this 
+agency stated in countless decisions over several decades that 
+“[t]here are no weighting guidelines that indicate how each of the 
+industrial disability factors is to be considered.”  
+In this case, the parties agreed upon a settlement for 
+claimant’s prior right shoulder injury. While part of the settlement 
+was certainly for claimant’s functional impairment, the agreed-upon 
+compensation exceeded what would have been payable for 
+claimant’s functional impairment alone. In other words, the parties 
+considered other industrial disability factors when arriving at their 
+settlement. 
+
+ 
+13 
+  
+Claimant’s current right shoulder injury, however, is a 
+scheduled member under the newly added Iowa Code section 
+85.34(2)(n). Claimant’s compensation under this section is limited 
+only to the extent of loss or permanent impairment of the shoulder 
+itself. . . . 
+Thus, if defendants in this case were entitled to a credit for the 
+entirety of their settlement, which was for industrial disability, 
+against claimant’s current scheduled member injury, they would 
+receive an unfair excess credit for considerations and factors that are 
+not applicable to claimant’s current injury. Put differently, their credit 
+would be for apples against an award for oranges. 
+I agree with the deputy commissioner that defendants could 
+arguably be entitled to a credit based solely upon the functional 
+impairment attributable to claimant’s preexisting shoulder injury—a 
+credit for oranges against an award for oranges. 
+Id. at *1–*2 (alteration in original) (emphasis added) (citations omitted).  
+The commissioner’s interpretation of § 85.34(7) set forth in Rife was 
+correct, and the same reasoning applies in this case. As the commissioner 
+explained in Rife, the application of the apportionment statute under these 
+circumstances could result in the employer receiving an excess credit. In 
+addition, application of the apportionment statute under these circumstances 
+could also result in the employer receiving insufficient credit. “A claimant may 
+suffer a functional disability but have no industrial disability if the functional 
+disability does not impede his ability to perform the duties of his employment.” 
+Whiddon v. S. Concrete Pumping, LLC, 114 So. 3d 18, 22 (Miss. Ct. App. 2013). 
+A claimant’s industrial disability can thus be lower than the claimant’s 
+functional impairment. See Cowell v. All-American, Inc., 308 N.W.2d 92, 95–96 
+(Iowa 1981) (holding that it was error to hold as a matter of law that industrial 
+disability had to be greater than or equal to functional impairment); 15 John 
+Lawyer & James R. Lawyer, Iowa Practice Series Workers’ Compensation § 13:6, 
+at 175 (2022–2023 ed. 2022) (“There is a common misconception that industrial 
+disability is greater than functional impairment and is an add-on, i.e., something 
+
+ 
+14 
+  
+to be examined on top of functional impairment, but such is not the case. 
+Industrial disability can be equal to, less than, or greater than functional 
+impairment.” (footnotes omitted)). Imagine if Loew suffered a 20% functional 
+impairment due to his 2015 lower back injury but was found to have only a 10% 
+loss of earning capacity. Under Menard’s interpretation of the statute, would 
+Loew now be entitled to 18% permanent partial disability benefits? We do not 
+think so. Either case—excess liability or insufficient liability—demonstrates the 
+error in the commissioner’s decision to interpret section 85.34(7) to require a 
+credit for incommensurables rather than as a statute that merely precludes 
+double liability for a permanent partial disability.  
+IV. 
+For these reasons, we reverse the judgment of the district court and 
+remand this case with instructions to remand this matter to the workers’ 
+compensation commissioner for further proceedings consistent with this 
+opinion. 
+DISTRICT 
+COURT 
+JUDGMENT 
+REVERSED 
+AND 
+REMANDED 
+WITH 
+INSTRUCTIONS. 
+All justices concur except May, J., who takes no part. 

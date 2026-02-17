@@ -1,0 +1,726 @@
+Case Number: 23006099.01
+Case Title:  SWICK, ROBIN V. HY-VEE INC.
+Doc Type:    Decision - Deputy
+Source:      Swick Robin-23006099.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+ROBIN SWICK, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+   File No. 23006099.01 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                  
+HY-VEE, INC., 
+  : 
+ 
+ARBITRATION DECISION 
+ 
+ 
+  :                            
+ 
+Employer, 
+  : 
+ 
+ 
+  :                         
+and 
+ 
+  : 
+ 
+ 
+  : 
+UNION INS. CO. OF PROVIDENCE, 
+  : 
+ 
+ 
+  : 
+     Head Notes: 1400; 1402.40; 1801; 
+ 
+Insurance Carrier, 
+  : 
+ 
+ 
+     1801.1; 1803 
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+ 
+The claimant, Robin Swick, filed a petition for arbitration seeking workers’ 
+compensation benefits from employer Hy-Vee, Inc. (“Hy-Vee”) and its insurer, Union 
+Insurance Company of Providence.  Marvin Miller appeared on behalf of the claimant.  
+Lindsey Mills appeared on behalf of the defendants.  Also present was a member of 
+defendants’ counsel’s office, Austin Lower, and Hy-Vee’s representative, Jamie 
+Renken. 
+ 
+The matter came on for hearing on May 21, 2025, before Deputy Workers’ 
+Compensation Commissioner Andrew M. Phillips.  Pursuant to an order of the Iowa 
+Workers’ Compensation Commissioner, the hearing occurred electronically via Zoom.  
+The hearing proceeded without difficulty.  
+ 
+The record in this case consists of Joint Exhibits 1-7, and Defendants’ Exhibit A-
+J.  During the hearing, the claimant attempted to offer several exhibits.  Claimant’s 
+counsel was informed of the requirements of 876 Iowa Administrative Code 4.19(3)(d) 
+as well as the Hearing Assignment Order to file proposed exhibits at least 14 days in 
+advance of the hearing date.  Thus, the exhibits offered by claimant were not included in 
+the record.   
+ 
+The claimant testified on her own behalf.  The claimant’s husband, Kelly Swick, 
+also testified on behalf of the claimant.  Janis Lavorato was appointed the official 
+reporter and custodian of the notes of the proceeding.  The matter was considered fully 
+submitted following briefing by the parties on June 20, 2025.     
+ELECTRONICALLY FILED     2025-Jul-01  14:30:59     DIVISION OF WORKERS' COMPENSATION
+
+SWICK V. HY-VEE, INC. 
+Page 2 
+ 
+STIPULATIONS 
+ 
+Through the hearing report, as reviewed at the commencement of the hearing, 
+the parties stipulated and/or established the following: 
+1. There was an employer-employee relationship at the time of the alleged injury. 
+  
+2. That the claimant sustained an injury which arose out of, and in the course of, 
+her employment on September 8, 2022. 
+  
+3. That the claimant’s gross earnings were seven hundred ninety-one and 00/100 
+dollars ($791.00) per week, that the claimant was married and entitled to two 
+exemptions, providing a weekly rate of compensation of five hundred thirty-two 
+and 59/100 dollars ($532.59).   
+ 
+4. That, prior to the hearing, the claimant was paid six thousand eight hundred 
+twenty-nine and 70/100 dollars ($6,829.70) in weekly benefits. 
+ 
+5. That the claimant was paid sick pay or disability income in the amount of six 
+thousand sixteen and 92/100 dollars ($6,016.92), and that the defendants are 
+entitled to a credit pursuant to Iowa Code section 85.38(2).  
+ 
+The parties indicated that entitlement to temporary disability and/or healing period 
+benefits and entitlement to permanent partial disability benefits were not in dispute.  
+Medical benefits were also no longer in dispute. 
+The parties are now bound by their stipulations. 
+ISSUES 
+The parties submitted the following issues for determination: 
+1. Whether the alleged injury is a cause of temporary disability during a period of 
+recovery. 
+  
+2. Whether the alleged injury is a cause of permanent disability. 
+ 
+3. Whether the defendants proved an affirmative defense pursuant to Iowa Code 
+section 85.16. 
+ 
+4. Whether the defendants proved an affirmative defense of lack of timely notice 
+pursuant to Iowa Code section 85.23. 
+ 
+5. Whether the defendants proved an affirmative defense of untimely claim 
+pursuant to Iowa Code section 85.26. 
+ 
+
+SWICK V. HY-VEE, INC. 
+Page 3 
+ 
+6. Whether the defendants are entitled to reimbursement of the no-show fee for 
+the claimant’s failure to attend an independent medical examination (“IME”) 
+pursuant to Iowa Code section 85.39.   
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+Robin Swick, the claimant, is married with three adult children.  (Testimony).   
+Ms. Swick worked for a time helping her husband on their farm.  (Testimony).  
+She also worked at a nursing home.  (Testimony).  She then made hats and shirts at 
+Kay Products.  (Testimony).  She next cleaned rooms at a motel.  (Testimony).  She has 
+worked at Hy-Vee since March of 2004.  (Testimony).   
+At Hy-Vee, Ms. Swick initially worked in a warehouse as a picker.  (Testimony).  
+She loaded products onto pallets for delivery to Hy-Vee stores.  (Testimony).  She 
+characterized this as heavy work, including the need to lift 10 pounds to 80 pounds.  
+(Testimony).  She later took a role in housekeeping.  (Testimony).  She cleaned the 
+warehouse and kept aisles clear.  (Testimony).  She then moved to a position in 
+“reclaim” where she put products back on shelves.  (Testimony).  If she could not save 
+the products, she would set them aside for donation or to be put in the trash.  
+(Testimony).  This included lifting and moving heavy items like dog food, bags of flour, 
+and bags of sugar.  (Testimony).  She also attempted to restore and save displays.  
+(Testimony).   
+On May 25, 2021, Ms. Swick had an MRI of her lumbar spine.  (Joint Exhibit 1:1-
+2).  The MRI showed central stenosis at L3-4 and L4-5.  (JE 1:2).  A provider called Ms. 
+Swick to let her know that she had “quite a bit of arthritis in her back L3-L5…” in addition 
+to a small disc bulge at L1-2.  (JE 1:2).  Ms. Swick indicated that she wished to have 
+injections from the pain clinic, as the provider indicated that her issues were not surgical 
+in nature.  (JE 1:2).   
+Ms. Swick visited with Matthew Johnson, M.D., on July 21, 2021, for complaints 
+to her lumbar spine, which began four months earlier.  (JE 2:3-5).  She located her pain 
+in her low back and upper buttocks area.  (JE 2:3).  The record noted two previous 
+epidural steroid injections into the low back.  (JE 2:3).  The first injection helped improve 
+her pain and symptoms to her legs, but the second injection seemed to provide no 
+relief.  (JE 2:3).  Dr. Johnson reviewed the results of the March 25, 2021, MRI.  (JE 2:4).  
+Based upon his examination and the results of her treatment to date, Dr. Johnson 
+recommended a decompressive lumbar laminectomy from L3 to L5.  (JE 2:5).   
+In September of 2021, Ms. Swick experienced back pain.  (Testimony).  She 
+initially let this pain go, but began experiencing leg weakness.  (Testimony).  She went 
+to a doctor on her own volition and made no workers’ compensation claim.  (Testimony).  
+She ended up having a bone spur in her back, for which she required surgery.  
+
+SWICK V. HY-VEE, INC. 
+Page 4 
+ 
+(Testimony).  This surgery was on September 23, 2021, and consisted of an L3-4 and 
+L4-5 decompressive laminectomy with bilateral medial facetectomies and 
+foraminotomies.  (JE 3:10-11).  After her surgery and a recovery period, she felt fine 
+and returned to work.  (Testimony).   
+On November 17, 2021, Ms. Swick visited with a physician’s assistant as a 
+follow-up to her surgery.  (JE 2:6-9).  Her leg symptoms improved, but she still 
+experienced periodic pain into her right buttock area.  (JE 2:6).  She felt that her main 
+issues remained low back tightness.  (JE 2:6).  The provider indicated that Ms. Swick 
+should return on an as-needed basis.  (JE 2:7).  The provider recommended physical 
+therapy.  (JE 2:7).  They also recommended that she remain off of work until December 
+20, 2021.  (JE 2:7).   
+On September 8, 2022, Ms. Swick was preparing a box of diapers for delivery to 
+a store in Sioux City, Iowa.  (Testimony).  She rode on a standing jack, and was set to 
+take a break.  (Testimony).  She proceeded down an aisle toward the “speed aisle” 
+when another employee came from a front dock area on a standing jack.  (Testimony).  
+The second employee struck her standing jack and she fell off of the equipment.  
+(Testimony).  She struck her head and was unconscious for five-to-seven minutes.  
+(Testimony).  She also had her knee pinned under the jack.  (Testimony).  She noted 
+that there were many employees around, including supervisors from Hy-Vee.  
+(Testimony).   
+After the incident, an ambulance was called.  (Testimony).  Ms. Swick 
+complained of pain in her right hip, low back, right hand, and to the right side of her 
+head.  (JE 4:12; Testimony).  The ambulance report also noted that Ms. Swick had a 
+questionable history of a loss of consciousness.  (JE 4:12).  The ambulance took her to 
+the hospital.  (Testimony).   
+Nurse Practitioner Doyle Kruger examined Ms. Swick upon her arrival to the 
+emergency room.  (JE 4:15-24).  Ms. Swick reported pain to her right hand and wrist, 
+right elbow, thoracic back, lumbar back, and right hip.  (JE 4:15).  She denied neck pain 
+or a head injury.  (JE 4:15).  A CT scan of the lumbar spine showed no acute findings.  
+(JE 4:19).  X-rays of the right wrist, elbow, hip, and pelvis, showed no fractures.  (JE 
+4:19).  The provider gave Ms. Swick Tylenol and ibuprofen, and diagnosed her with 
+sprains and contusions.  (JE 4:20).  She was given a wrist splint, and told to continue 
+using Tylenol and ibuprofen for her pain.  (JE 4:21).   
+ 
+Ms. Swick’s supervisor picked her up from the hospital and returned her to the 
+warehouse.  (Testimony).  She was shown footage of the incident, given her keys, and 
+told to return home.  (Testimony).   
+ 
+Ms. Swick made an appointment with her primary care provider.  (Testimony).   
+ 
+On September 12, 2022, Ms. Swick visited with Chris VandeLune, D.O.  (JE 
+5:50-51).  She complained of pain in her left ankle, left arm, right foot, right knee, right 
+thigh, right hand, neck, low back, and a headache, following her work incident.  (JE 
+
+SWICK V. HY-VEE, INC. 
+Page 5 
+ 
+5:50).  She rated her pain 7 out of 10.  (JE 5:50).  Ms. Swick noted that ibuprofen 
+provided her with considerable relief.  (JE 5:51).  Dr. VandeLune allowed her to return to 
+light duty work with restrictions including: limited use of the right wrist, restricted lifting, 
+and no pushing or pulling.  (JE 5:51).   
+ 
+Ms. Swick saw Dr. VandeLune again on September 26, 2022.  (JE 5:52-53).  She 
+continued to have soreness in her left arm, right ribs, right hip, and right thigh.  (JE 
+5:52).  She also had stiffness in her neck.  (JE 5:52).  She rated her pain 6 to 7 out of 
+10.  (JE 5:52).  She took Tylenol to help control her pain.  (JE 5:52).  Ms. Swick told the 
+doctor she felt 50 percent improved.  (JE 5:53).  The doctor encouraged her to use ice 
+and heat, and allowed her to remain on light duty for another week.  (JE 5:53).   
+ 
+On October 3, 2022, Ms. Swick returned to see Dr. VandeLune.  (JE 5:54-55).  
+She complained of ongoing right rib pain, mid back pain, left heel pain, and neck 
+stiffness.  (JE 5:54).  She rated her back pain 8 out of 10.  (JE 5:54).  Dr. VandeLune 
+indicated that her new left heel tenderness was due to “acute on chronic” Achilles’ 
+tendonitis.  (JE 5:55).  The doctor recommended stretching exercises for Ms. Swick’s 
+low back pain.  (JE 5:55).   
+ 
+Dr. VandeLune examined Ms. Swick again on October 17, 2022.  (JE 5:56-57).  
+Ms. Swick complained of ongoing back and rib pain.  (JE 5:56).  She tolerated light duty 
+well.  (JE 5:57).  The doctor recommended that she continue to take medication and 
+that she use gentle range of motion exercises.  (JE 5:57).  He also recommended that 
+she use over-the-counter Aspercreme with lidocaine.  (JE 5:57).  Finally, the doctor 
+indicated that she should remain on light duty.  (JE 5:57).   
+ 
+On October 31, 2022, Ms. Swick continued her care with Dr. VandeLune.  (JE 
+5:58-59).  Ms. Swick complained of back pain and pain in her inner thighs.  (JE 5:58).  
+She also experienced a feeling of numbness or burning in her right outer thigh.  (JE 
+5:58).  Ms. Swick opined that her back was worsening.  (JE 5:58).  Dr. VandeLune 
+recommended physical therapy for her low back injury.  (JE 5:59).  He recommended 
+she continue with her restrictions and light duty for two more weeks.  (JE 5:59).   
+ 
+Ms. Swick visited with Dr. VandeLune again on November 14, 2022.  (JE 5:60-
+61).  She complained of pain in her right leg, pain in the right side of her lower back, and 
+pain in her right hip.  (JE 5:60).  Dr. VandeLune discussed Ms. Swick’s injury and 
+symptoms with her and opined that Ms. Swick’s pain presentation was “disproportionate 
+to the injury mechanism.”  (JE 5:61).  He recommended that she continue physical 
+therapy.  (JE 5:61).  She was allowed to return to restricted duty with restrictions of no 
+kneeling or squatting and no lifting over 20 pounds.  (JE 5:62).   
+ 
+On December 15, 2022, Dr. VandeLune again examined Ms. Swick.  (JE 5:63-
+64).  Ms. Swick complained that physical therapy provided her with no help.  (JE 5:63).  
+Dr. VandeLune recommended that Ms. Swick have a positive attitude and work with the 
+physical therapist, including performing home exercises.  (JE 5:64).  Again, Dr. 
+VandeLune opined that Ms. Swick’s pain was disproportionate to what would be 
+
+SWICK V. HY-VEE, INC. 
+Page 6 
+ 
+expected following her injury.  (JE 5:64).  He recommended she consult with Dr. 
+Schumacher and then follow-up with him as needed.  (JE 5:64).   
+ 
+Ms. Swick had additional physical therapy on December 19, 2022.  (JE 6:65).  
+She was supposed to have a functional lifting test during this visit, but she could not 
+complete this test due to her claimed pain level.  (JE 6:55).   
+ 
+The claimant visited with Grant Shumaker, M.D., at CNOS in Dakota Dunes, 
+South Dakota, on February 9, 2023.  (JE 7:66-68).  Ms. Swick noted that she did well 
+following her prior surgery until a work injury in September of 2022.  (JE 7:66).  After 
+that, she complained of persistent low back pain.  (JE 7:66).  She noted that physical 
+therapy did not help improve her complaints.  (JE 7:66).  Dr. Shumaker reviewed the 
+previous CT scan completed in September of 2022.  (JE 7:67).  He diagnosed Ms. 
+Swick with midlumbar and left buttock pain with significant facet arthropathy at L3-4 and 
+L4-5.  (JE 7:68).  Dr. Shumaker recommended an MRI of the lumbar spine, and also 
+diagnostic bilateral SI joint nerve blocks.  (JE 7:68).  If the nerve blocks were 
+unsuccessful, Dr. Shumaker recommended medial branch blocks at L3-4 and L4-5.  (JE 
+7:68).  Dr. Shumaker allowed Ms. Swick to work with no restrictions.  (JE 7:68).   
+ 
+On February 22, 2023, Ms. Swick had an MRI at CNOS.  (JE 7:69-70).  The MRI 
+showed no compressive disc disease [or] canal stenosis, mild L4-5 anterolisthesis, and 
+degenerative changes.  (JE 7:70).   
+ 
+On May 16, 2023, Ms. Swick followed-up with her primary care provider Nurse 
+Practitioner Rebecca Mogensen-Kruger.  (JE 4:25-29).  She complained of chronic neck 
+pain for “well over a year” with no memory of an “inciting injury.”  (JE 4:25).  She also 
+complained of pain in her bilateral hips, low back, and left lateral leg.  (JE 4:25).  Ms. 
+Swick noted that she had physical therapy for these areas following an injury while at 
+work.  (JE 4:25).  Ms. Mogensen-Kruger diagnosed Ms. Swick with cervical radicular 
+pain, bursitis of both hips, and “lt band syndrome” on the left side.  (JE 4:28-29).  She 
+recommended that Ms. Swick have an MRI of her cervical spine and prescribed certain 
+medications.  (JE 4:29).  The provider opined further that Ms. Swick’s bursitis was not 
+related to a work injury.  (JE 4:29).   
+ 
+Ms. Swick returned to see Ms. Mogensen-Kruger on June 6, 2023, for a “well 
+woman” visit.  (JE 4:30-34).  Ms. Swick had a number of chronic issues.  (JE 4:30).  She 
+complained of neck pain, frequent headaches, low back pain, left hip pain, and left leg 
+pain.  (JE 4:30).  Ms. Swick told the provider that she suffered from the aforementioned 
+issues since her September 8, 2022, work incident.  (JE 4:30).  The provider made 
+some changes to medications.  (JE 4:33).   
+ 
+On June 8, 2023, Ms. Swick had an MRI of her cervical spine.  (JE 4:35-38).  The 
+MRI showed moderate chronic “spondylo degenerative” changes.  (JE 4:36).  The report 
+outlined various disc protrusions from C3 to T1.  (JE 4:36).  These were all considered 
+chronic in nature.  (JE 4:36).   
+
+SWICK V. HY-VEE, INC. 
+Page 7 
+ 
+ 
+In a letter dated September 28, 2023, Dr. Shumaker provided his opinions on Ms. 
+Swick’s condition.  (Defendants’ Exhibit C:24).  Dr. Shumaker noted that Ms. Swick had 
+an invalid functional capacity evaluation (“FCE”).  (DE C:24).  Based upon Ms. Swick’s 
+performance, Dr. Shumaker placed her into a category of medium demand vocation.  
+(DE C:24).  He assigned these as permanent limitations and placed her at MMI as of 
+May 9, 2023.  (DE C:24).  He then noted that Ms. Swick had no permanent impairment 
+as a result of the September 2, 2022, incident1.  (DE C:25).   
+Eventually Ms. Swick was returned to full duty with Hy-Vee.  (Testimony).  She 
+confirmed on cross-examination that the aforementioned providers returned her to work 
+with no restrictions.  (Testimony).   
+Ms. Swick went out on leave for a right knee issue on November 27, 2023.  
+(Testimony).  She attempted to attribute this issue to her September 8, 2022, injury, 
+indicating that her knee hurt and then “finally popped.”  (Testimony).  She eventually 
+had surgery for this issue.  (Testimony).   
+In a letter dated January 29, 2024, addressed to an individual at EMC Risk 
+Services, LLC, Douglas Martin, M.D., F.A.C.O.E.M., F.I.A.I.M.E., F.A.A.F.P., outlined 
+the findings from an IME conducted on Ms. Swick on the same date.  (DE A:1-7).  Dr. 
+Martin reviewed a number of medical records in preparing his report.  (DE A:1-2).  Dr. 
+Martin began his report by reviewing Ms. Swick’s medical history following her work 
+incident.  (DE A:2-3).  Ms. Swick told Dr. Martin that she continued to get headaches 
+and neck pain.  (DE A:3).  She also experienced a burning sensation in her right thigh.  
+(DE A:3).  Dr. Martin conducted certain testing, including a straight leg raise and 
+crossed straight leg raise test, which were both negative.  (DE A:4).  Upon palpation, 
+Ms. Swick complained of pain in her right parathoracic muscles.  (DE A:5).  Dr. Martin 
+diagnosed Ms. Swick with a prior lumbar surgery, a prior spinal contusion or strain, 
+multilevel cervical degenerative disc disease, headaches, and right knee pain.  (DE 
+A:5).  He felt her prognosis was good, and had no recommendations for additional care.  
+(DE A:5-6).  She also required no work restrictions.  (DE A:7).   
+Dr. Martin then engaged in a discussion outlining his opinions on causation for 
+Ms. Swick’s issues.  (DE A:6).  He noted that Ms. Swick had a work incident in 
+September of 2022, which “likely caused a contusion or strain impact injury to the spine 
+with a brief loss of consciousness.”  (DE A:6).  According to Dr. Martin, appropriate care 
+was provided for these injuries.  (DE A:6).  He concluded that Ms. Swick’s pain was due 
+to degenerative processes and prior problems with her lumbar spine, and not related to 
+the September of 2022 work incident.  (DE A:6).  He assigned her a 0 percent 
+permanent impairment based upon the AMA Guides to the Evaluation of Permanent 
+Impairment, Fifth Edition.  (DE A:6).   
+On January 30, 2024, an individual from EMC Risk Services sent Ms. Swick a 
+letter indicating that Dr. Shumaker placed her at MMI as of May 9, 2023, and that she 
+                                                 
+1 It should be noted that Dr. Shumaker’s letter appears to contain a scrivener’s error in containing a 
+reference to a September 2, 2022, incident, rather than the accepted September 8, 2022, incident. 
+
+SWICK V. HY-VEE, INC. 
+Page 8 
+ 
+had no permanent impairment according to Dr. Martin.  (DE J:42).  They indicated that 
+they would pay the billing for a final visit and then close the file.  (DE J:42).   
+On February 26, 2024, EMC wrote Ms. Swick a letter denying liability for any 
+injuries related to her alleged injury on November 15, 2023, based upon the opinions of 
+Dr. Meis.  (DE J:43).   
+On May 6, 2024, Ms. Swick had an MRI of her lumbar spine.  (JE 4:39-41).  The 
+MRI showed the results of her previous surgery with no significant interval changes.  
+(JE 4:40).  It also showed some degenerated discs with encroachment along the lateral 
+foramina.  (JE 4:40).  The provider also opined that Ms. Swick had spondylo-
+degenerative changes with facet joint arthropathy.  (JE 4:40).   
+Ms. Swick saw Ms. Mogensen-Kruger again on September 4, 2024, for her 
+ongoing complaints of back pain.  (JE 4:42-47).  Ms. Swick wanted a work note to keep 
+her off of work.  (JE 4:42).  She told the provider that she was “taken off of work on 
+[February] 27th for her back and then returned on light duty and [then] had a [right] knee 
+surgery in April.”  (JE 4:42).  She complained of severe pain in her back, for which she 
+treated with a pain specialist.  (JE 4:42).  She awaited a nerve ablation, but she could 
+not afford it.  (JE 4:42).  The provider gave her medications for her issues.  (JE 4:45).  
+She reviewed the results of the MRI and opined that Ms. Swick had “fairly severe 
+degenerative disc disease with neuroforaminal stenosis.”  (JE 4:45).  Ms. Mogensen-
+Kruger then issued a work note opining that Ms. Swick had chronic back pain and 
+indicating that Ms. Swick wished to use “her FMLA for her back pain.”  (JE 4:47).   
+On October 8, 2024, Ms. Mogensen-Kruger issued another note opining that Ms. 
+Swick could return to light duty immediately.  (JE 4:48).  She noted restrictions including 
+no lifting more than 20 pounds, and no working for more than six hours per day.  (JE 
+4:48).   
+On January 13, 2025, Ms. Mogensen-Kruger issued another letter opining that 
+Ms. Swick could return to light duty work.  (JE 4:49).  She recommended restrictions of 
+no lifting more than 20 pounds.  (JE 4:49).  She allowed her to work up to eight hours 
+per workday.  (JE 4:49).   
+The claimant testified that she missed a scheduled IME in March of 2025, as she 
+was not aware of the appointment.  (Testimony).  The scheduled IME was only brought 
+to her attention on the date of the appointment.  (Testimony).   
+Defendants’ counsel sent a letter to claimant’s counsel on April 3, 2025, 
+indicating that the defendants previously sent him a letter requesting that the claimant 
+attend an IME pursuant to Iowa Code section 85.39.  (DE J:44).  The letter indicates 
+that prior notice was sent on February 25, 2025, and that it contained the date, location, 
+and purpose of the evaluation.  (DE J:44).  The letter also noted that defendants 
+followed-up with claimant’s counsel on several occasions seeking confirmation that the 
+claimant would attend the scheduled IME; however, claimant’s counsel did not respond 
+until March 21, 2025, the date of the scheduled IME, indicating that the claimant would 
+
+SWICK V. HY-VEE, INC. 
+Page 9 
+ 
+not attend.  (DE J:44).  Defendants’ counsel indicated that the defendants incurred a 
+nine hundred and 00/100 dollar ($900.00) fee for the claimant’s failure to attend the 
+IME, and that the defendants would seek reimbursement for the IME fee in the 
+arbitration proceeding.  (DE J:44).   
+Dr. Martin issued another report on April 29, 2025.  (DE A:8-12).  He noted that 
+Ms. Swick missed a scheduled IME set for March 21, 2025.  (DE A:8).  Thus, Dr. Martin 
+completed a records review including records of Ms. Swick’s recent treatment.  (DE A:8-
+12).  Dr. Martin noted Ms. Swick’s prior low back issues, and noted, “[i]t continues to be 
+my opinion that with respect to the September 8, 2022[,] accident that this was a lumbar 
+contusion/strain.”  (DE A:10).  He continued by opining that Ms. Swick’s current 
+complaints were related to her degenerative conditions, and that her lumbar contusion 
+would have resolved within weeks of the September 8, 2022, incident.  (DE A:10-11).  
+He continued, “[h]er current complaints have nothing to do and have no relationship with 
+the September 8, 2022, incident.  The degeneration that you see are [sic] due to a 
+combination of age, genetics, and answer for morphing factors.”  (DE A:11).  He again 
+recommended no additional care.  (DE A:11).  He noted that Ms. Swick’s right knee 
+issues were not related to the September 8, 2022, work incident.  (DE A:11-12).  Finally, 
+Dr. Martin opined that Ms. Swick’s neck issues were not related to the September 8, 
+2022, incident, as these would have resolved within short order.  (DE A:12).   
+On May 9, 2025, claimant’s counsel emailed defendants’ counsel providing an 
+explanation for why his client missed the previously scheduled IME.  (DE J:46).  He 
+noted that it was “very busy” in his office at that time of year, as his practice included 
+filing income tax returns.  (DE J:46).  He noted that he received a reminder via email of 
+Ms. Swick’s scheduled examination on March 19, 2025, but that he did not see the 
+email reminder until March 21, 2025, at 10:30 a.m.  (DE J:46).  He also claimed in this 
+email that this was the first time that he was aware of the appointment, despite 
+acknowledging that he received an email “during the tax rush” on February 25, 2025, 
+with the information regarding the proposed IME.  (DE J:46).   
+Ms. Swick testified that she continued to be in pain, and that this pain prevented 
+her from working.  (Testimony).  She expressed a desire to get rid of her pain so that 
+she could return to work, as she was still employed by Hy-Vee.  (Testimony).  Ms. Swick 
+testified that she felt as though she was disabled.  (Testimony).   
+Ms. Swick indicated that she could not help around her home or do dishes 
+anymore without needing to sit down to rest after 10-to-15 minutes.  (Testimony).  She 
+also could not help tend to her flock of chickens.  (Testimony).  Kelly Swick, the 
+claimant’s husband, testified that Ms. Swick had a lot of pain since her September 8, 
+2022, injury, and that she could not get around well at home.  (Testimony).   
+Hy-Vee included videos of the claimant working on unknown dates.  (DE D).  The 
+claimant is seen stacking plastic trays, including above the level of her head and 
+shoulders.  (DE D).  Stacking trays required her to bend all the way to the floor.  (DE D).  
+She also moves stacks of plastic trays, pushing and pulling them with and without the 
+
+SWICK V. HY-VEE, INC. 
+Page 10 
+ 
+assistance of a pallet jack.  (DE D).  She did not appear to have any difficulty performing 
+this work.  (DE D).   
+CONCLUSIONS OF LAW 
+The party who would suffer loss if an issue were not established has the burden 
+of proving that issue by a preponderance of the evidence.  Iowa Rule of Appellate 
+Procedure 6.904(3).   
+Affirmative Defenses 
+ 
+ 
+The hearing report indicates that the defendants asserted a number of affirmative 
+defenses.  However, the defendants made no mention of these affirmative defenses in 
+their posthearing brief.  I also find no evidence in the record that would be adequate to 
+support their claims.  Therefore, I find that the defendants’ affirmative defenses fail. 
+Temporary Disability 
+There is a dispute as to whether or not the claimant’s September 8, 2022, work 
+injury was a cause of temporary disability.  However, entitlement to temporary disability 
+benefits was not in dispute. 
+As a general rule, “temporary total disability compensation benefits and healing-
+period compensation benefits refer to the same condition.”  Clark v. Vicorp Rest., Inc., 
+696 N.W.2d 596 604 (Iowa 2005).  The purpose of temporary total disability benefits 
+and healing period benefits is to “partially reimburse the employee for the loss of 
+earnings” during a period of recovery from the condition.  Id.  The appropriate type of 
+benefits depends on whether or not the employee has a permanent disability.  Dunlap v. 
+Action Warehouse, 824 N.W.2d 545, 556 (Iowa Ct. App. 2012).   
+When an injured worker has been unable to work during a period of recuperation 
+from an injury that did not produce permanent disability, the worker is entitled to 
+temporary total disability benefits during the time the worker is disabled by the injury.   
+Iowa Code 85.33(1) provides 
+...the employer shall pay to an employee for injury producing temporary 
+total disability weekly compensation benefits, as provided in section 85.32, 
+until the employee has returned to work or is medically capable of returning 
+to employment substantially similar to the first employment in which the 
+employee was engaged at the time of injury, whichever occurs first.   
+Temporary total disability benefits cease when the employee returns to work, or 
+is medically capable of returning to substantially similar employment. 
+Healing period compensation describes temporary workers’ compensation 
+weekly benefits that precede an allowance of permanent partial disability benefits.  
+
+SWICK V. HY-VEE, INC. 
+Page 11 
+ 
+Ellingson v. Fleetguard, Inc., 599 N.W.2d 440, 446 (Iowa 1999).  Healing period benefits 
+are payable to an injured worker who has suffered permanent partial disability until the 
+first to occur of three events.  Iowa Code § 85.34(1) (2015).  These are:  (1) the worker 
+has returned to work; (2) the worker medically is capable of returning to substantially 
+similar employment; or (3) the worker has achieved maximum medical recovery.  Id.  
+Maximum medical recovery is achieved when healing is complete, and the extent of 
+permanent disability can be determined.  Armstrong Tire & Rubber Co. v. Kubli, 312 
+N.W.2d 60, 65 (Iowa Ct. App. 1981).  Neither maintenance medical care nor an 
+employee continuing to have pain or other symptoms necessarily prolongs the healing 
+period.  Id. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is 
+probable, rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 
+148, 153 (Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154, 156 (Iowa Ct. 
+App. 1997); Sanchez v. Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 
+1996).    
+A possibility of causation is not sufficient; a probability is necessary. Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 1996) (citing Holmes v. Bruce 
+Motor Freight, Inc., 215 N.W.2d 296, 297 (Iowa 1974)). 
+The question of causal connection is essentially within the domain of expert 
+testimony. The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question. The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances. The 
+expert opinion may be accepted or rejected, in whole or in part. IBP, Inc. v. Harpole, 
+621 N.W.2d 410, 420 (Iowa 2001); St. Luke’s Hosp. v. Gray, 604 N.W.2d 646, 652 
+(Iowa 2000); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845, 853 (Iowa 
+1995). Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 421 (Iowa 1994). Unrebutted 
+expert medical testimony cannot be summarily rejected. Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910, 911-12 (Iowa Ct. App. 1994). 
+Ms. Swick fell after being struck by a standing jack.  She felt pain in her low back 
+and may have been unconscious for a time.  She appears to have been off of work for a 
+brief period of time following the initial incident.  Dr. VandeLune then returned her to 
+light duty work on September 12, 2022.  She continued working light duty until Dr. 
+Shumaker allowed her to return to full-duty work on February 9, 2023.  Ms. Swick was 
+considered to have achieved MMI as of May 9, 2023, according to Dr. Shumaker.   
+According to some of the defendants’ exhibits, Ms. Swick was paid temporary 
+partial disability for a time.  It appears that she was kept off of work for only three days 
+
+SWICK V. HY-VEE, INC. 
+Page 12 
+ 
+following her injury before she was returned to light duty.  She worked light duty until 
+being allowed to return to full-duty work on February 9, 2023.  Ms. Swick later injured 
+her right knee.  There is insufficient information in the record to consider whether her 
+right knee injury was a result of the September 8, 2022, date of injury, as there are no 
+treatment records relating to this date of injury.  There are also no records in evidence 
+showing the hours worked by Ms. Swick following her return to light duty; however, the 
+defendants paid her temporary partial disability benefits from February of 2023 through 
+November of 2023.  It is apparent that there was some cause of temporary disability 
+based upon Ms. Swick’s work injury.  Therefore, I find that the claimant’s injury was a 
+cause of temporary disability during a period of recovery.  Ms. Swick was paid 
+temporary partial disability benefits until November 13, 2023.  It is unclear why benefits 
+stopped at that time, but it also appears that she would not have been owed temporary 
+disability benefits, as Dr. Shumaker released her to work with no restrictions in February 
+of 2023.  Drs. Martin and Shumaker also found that Ms. Swick achieved MMI on May 9, 
+2023.  Based upon the foregoing, the claimant had entitlement to temporary disability, 
+but the period ended either when Dr. Shumaker released her to work in February of 
+2023 or when she achieved MMI on May 9, 2023.   
+Permanent Disability 
+Ms. Swick alleges that the September 8, 2022, work injury was a cause of 
+permanent disability.  The defendants disagree. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is 
+probable, rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 
+148, 153 (Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154, 156 (Iowa Ct. 
+App. 1997); Sanchez v. Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 
+1996).    
+A possibility of causation is not sufficient; a probability is necessary. Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 1996) (citing Holmes v. Bruce 
+Motor Freight, Inc., 215 N.W.2d 296, 297 (Iowa 1974)). 
+The question of causal connection is essentially within the domain of expert 
+testimony. The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question. The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances. The 
+expert opinion may be accepted or rejected, in whole or in part. IBP, Inc. v. Harpole, 
+621 N.W.2d 410, 420 (Iowa 2001); St. Luke’s Hosp. v. Gray, 604 N.W.2d 646, 652 
+(Iowa 2000); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845, 853 (Iowa 
+1995). Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 421 (Iowa 1994). Unrebutted 
+
+SWICK V. HY-VEE, INC. 
+Page 13 
+ 
+expert medical testimony cannot be summarily rejected. Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910, 911-12 (Iowa Ct. App. 1994). 
+As noted above, Ms. Swick was operating a standing jack on September 8, 2022.  
+A coworker, also operating a standing jack, ran into her, causing her to fall and possibly 
+lose consciousness.  She reported to the emergency room.  She then had some follow-
+up care, including physical therapy.  Eventually, Dr. Shumaker, a treating doctor, opined 
+that Ms. Swick had no permanent impairment as a result of the September 8, 2022, 
+incident.  Dr. Martin, an IME physician retained by the defendants, also opined that Ms. 
+Swick had no permanent impairment as a result of the September 8, 2022, work 
+incident.  Rather, Dr. Martin concluded that Ms. Swick’s pain was due to degenerative 
+processes and her previous spinal problems.   
+ 
+Ms. Swick presented no evidence that she sustained a permanent impairment as 
+a result of the September 8, 2022, work incident.  Therefore, Ms. Swick failed to meet 
+her burden to prove that the September 8, 2022, work incident was a cause of 
+permanent disability. 
+Reimbursement of No-Show Fee for IME 
+ 
+The defendants seek reimbursement for an IME no-show fee due to Ms. Swick’s 
+failure to attend the March 25, 2025, IME with Dr. Martin.  The defendants argue that 
+Ms. Swick was provided with adequate notice of the IME, yet failed to attend due to her 
+counsel failing to advise her of the IME appointment.   The claimant offers no argument 
+as to this point outside of a poor excuse that claimant’s counsel failed to monitor their 
+email. 
+The undersigned could not find explicit justification in statute or the rules to 
+assess a no-show fee.  The defendants provided no legal justification for their 
+argument.  The closest corollary would be to assess this no-show fee as a cost against 
+the claimant.  Costs are to be assessed at the discretion of the deputy commissioner 
+hearing the case.  See 876 Iowa Administrative Code 4.33; Iowa Code section 
+10A.328.  876 Iowa Administrative Code 4.33(86) provides:  
+[c]osts taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+reviewing health service disputes.   
+
+SWICK V. HY-VEE, INC. 
+Page 14 
+ 
+Pursuant to the holding in Des Moines Area Regional Transit Authority v. Young, 867 
+N.W.2d 839 (Iowa 2015), only the report of an IME physician, and not the examination 
+itself, can be taxed as a cost according to 876 IAC 4.33(6).  The Iowa Supreme Court 
+reasoned, “a physician’s report becomes a cost incurred in a hearing because it is used 
+as evidence in lieu of the doctor’s testimony,” while “[t]he underlying medical expenses 
+associated with the examination do not become costs of a report needed for a hearing, 
+just as they do not become costs of the testimony or deposition.”  Id.  (noting 
+additionally that “[i]n the context of the assessment of costs, the expenses of the 
+underlying medical treatment and examination are not part of the costs of the report or 
+deposition”).  The commissioner has found this rationale applicable to expenses 
+incurred by vocational experts.  See Kirkendall v. Cargill Meat Solutions Corp., File No. 
+5055494 (App. December 17, 2018); Voshell v. Compass Group, USA, Inc., File No. 
+5056857 (App. September 27, 2019).   
+ 
+The costs for the no-show fee do not fall under any of the eight categories 
+contemplated by 876 Iowa Administrative Code 4.33.  The no-show fee is not the 
+equivalent to a witness fee or the costs of a doctor’s deposition testimony.   
+ 
+Another possible avenue is a sanction pursuant to 876 Iowa Administrative Code 
+4.36, which states: 
+If any party to a contested case or an attorney representing such party shall 
+fail to comply with these rules or any order of a deputy workers’ 
+compensation commissioner or the workers’ compensation commissioner, 
+the deputy workers’ compensation commissioner or the workers’ 
+compensation commissioner may impose sanctions which may include 
+dismissing the action without prejudice, excluding or limiting evidence, 
+assessing costs or expenses, and closing the record in whole or in part to 
+further activity by the party. 
+See 876 Iowa Administrative Code 4.36.  In failing to attend the scheduled IME, the 
+claimant failed to comply with Iowa Code section 85.39(1).  This is not a failure to abide 
+by the “rules” referenced by 876 Iowa Administrative Code 4.36.  The scenario where 
+this rule may apply would involve the defendants seeking (and being granted) an order 
+to compel the claimant to attend the IME pursuant to Iowa Code section 85.39(1).  If the 
+claimant failed to attend the IME following the issuance of an order to compel the 
+claimant to attend the IME, then sanction pursuant to 876 Iowa Administrative Code 
+4.36 may be appropriate.  However, the defendants neither sought, nor obtained, an 
+order to compel the claimant to attend the IME.   
+ 
+Iowa Code section 85.39(1) provides that when an employee refuses to submit to 
+an IME pursuant to Iowa Code section 85.39(1), the employee forfeits their right to any 
+compensation for the period of the refusal.  See Iowa Code section 85.39(1).  This is the 
+consequence or sanction of the failure to comply with the statute.  There is no other 
+avenue for recovery of the no-show fee for the defendants in this case.   
+
+SWICK V. HY-VEE, INC. 
+Page 15 
+ 
+ 
+Therefore, I find that the claimant is not responsible to reimburse the no-show fee 
+to the defendants. 
+ORDER 
+ 
+THEREFORE, IT IS ORDERED: 
+That the claimant shall take nothing. 
+That the defendants shall file subsequent reports of injury (SROI) as required by 
+this agency pursuant to 876 Iowa Administrative Code 3.1(2) and 876 Iowa 
+Administrative Code 11.7.   
+Signed and filed this ___1st __ day of July, 2025. 
+ 
+ 
+The parties have been served, as follows: 
+Marvin Miller (via WCES) 
+Lindsey Mills (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Workers’ Compensation Division to file documents in paper form. If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Workers’ 
+Compensation Division, 6200 Park Ave., Suite 100, Des Moines, Iowa 50321. The notice of appeal must be received 
+by the Workers’ Compensation Division within 20 days from the date of the decision. The appeal period will be 
+extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+            ANDREW M. PHILLIPS 
+               DEPUTY WORKERS’ 
+     COMPENSATION COMMISSIONER 

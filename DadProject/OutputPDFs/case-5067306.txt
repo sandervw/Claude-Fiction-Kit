@@ -1,0 +1,462 @@
+Case Number: 5067306
+Case Title:  OXLEY, ANTHONY V. LENNOX MANUFACTURING
+Doc Type:    Decision - Deputy
+Source:      Oxley Anthony-5067306d.pdf
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+ANTHONY OXLEY, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                          File No. 5067306 
+LENNOX INDUSTRIES, 
+  : 
+ 
+ 
+  :   
+ 
+Employer, 
+  : 
+           ARBITRATION DECISION  
+ 
+ 
+  :   
+and 
+ 
+  : 
+ 
+ 
+  : 
+INDEMNITY INSURANCE COMPANY   : 
+  Head Note Nos.: 1100, 1801, 1800, 
+OF NORTH AMERICA, 
+  : 
+ 
+1803, 3000, 2700, 2500, 2501 
+ 
+ 
+  :  
+ 
+Insurance Carrier, 
+  : 
+ 
+Defendants. 
+  :  
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Claimant, Anthony Oxley, filed a petition on January 24, 2019, seeking workers’ 
+compensation benefits against Lennox Industries, Inc., employer, and Indemnity 
+Insurance Co. of America, insurer, both as defendants, for an alleged work injury dated 
+October 8, 2018.  
+The record consists of claimant’s testimony and joint exhibits (JE) 1-5, claimant’s 
+exhibits (CE)1-6, and defendant exhibits (DE) A-F.  
+The matter was heard in Des Moines, Iowa, on January 16, 2020 and considered 
+fully submitted upon the simultaneous filing of briefs on January 30, 2020. 
+ISSUES 
+1. Whether claimant sustained an injury arising out of and in the course of 
+employment on October 8, 2018;  
+2. Whether claimant is entitled to temporary benefits from November 21, 2018 
+through January 7, 2019; 
+3. Whether claimant has sustained a permanent, disabling loss and if so, the 
+extent of said loss; 
+4. The appropriate rate; 
+5. Whether claimant is entitled to repayment of medical expenses in Claimant’s 
+Exhibit 3; 
+6. Whether claimant is entitled to future medical care; 
+7. Assessment of costs.  
+ELECTRONICALLY FILED     2020-Mar-18  14:01:35     DIVISION OF WORKERS' COMPENSATION
+
+OXLEY V. LENNOX INDUSTRIES 
+Page 2 
+ 
+ 
+STIPULATIONS 
+The parties agree that at all times material hereto, claimant was an employee of 
+the defendant employer. During the period of November 21, 2018, through January 7, 
+2019, claimant was off work and if it is determined that defendants are liable for the 
+alleged injury, claimant is entitled to benefits for this period of time. If there is an award 
+of benefits, defendants are entitled to a credit of $2,096.17 for short-term disability 
+benefits paid from November 21, 2018, through January 7, 2019. 
+While the parties disagree as to the causal connection between the medical bills 
+itemized in Exhibit 3, they do agree that the fees or prices charged are fair and 
+reasonable, the treatment was reasonable and necessary, that the listed expenses are 
+causally connected to the medical condition upon which the claim of injury is based. 
+The parties agree claimant’s disputed injury has resulted in a disability that is 
+industrial in nature. At all times material hereto, claimant was married and entitled to 
+three exemptions.  
+FINDINGS OF FACT 
+At the time of the hearing, claimant was a 60-year-old person. His past 
+educational history includes a GED obtained in 1978 and an Associate’s Degree in 
+1987. He began working for defendant employer in the early 1990s. At all times material 
+hereto, claimant was married with one dependent son.  
+Claimant’s past medical history is significant for skull fracture, crush injury to left 
+leg, bilateral lateral epicondylitis, bilateral shoulder pain, right knee pain and right third 
+ring trigger finger. (DE C:13)  
+On or about October 2018, claimant was a Replacement Operator. As a 
+Replacement Operator, he would float from station to station and fill in for the operators 
+while they were on vacation or out ill. It was not a physically demanding position until a 
+tornado caused damage to the plant in July 2018. After a work stoppage, claimant was 
+assigned to deliver product to different stations. He was required to push a cart through 
+the plant. When empty the cart weighed several hundred pounds and when full, 
+exceeded five hundred (500) pounds. The condition of the plant made it difficult to 
+maneuver as there were many cables, hoses and other obstacles on the floor. At times, 
+he and a co-worker would have to lift the cart over obstacles to navigate the work 
+environment. Besides pushing and lifting the cart, he would be required to load and 
+unload the product.  
+Claimant testified that he was averaging 60-70 hours a week. This is not born out 
+by the payment records. In the wage calculation of the claimant, he worked 23.7 hours 
+on the low end and 53.5 hours on the high end. (CE 2:2) Most of the weeks were 
+between 37 to 42 hours with some outliers. (CE 2:2) To the extent that claimant’s 
+testimony differs from his time sheets, the time sheets are relied upon. It is found that 
+claimant worked around 40 hours per week in the 13 weeks preceding the work injury 
+including the time period after the plant damage in July 2018.  
+
+OXLEY V. LENNOX INDUSTRIES 
+Page 3 
+ 
+ 
+Claimant was seen for chronic neck pain. (JE 2:4) At that time, he reported a 
+fever, muscle aches and joint pain but no abdominal pain. (JE 2:4) He was prescribed 
+hydrocodone 10 mg along with acetaminophen. (JE 2:5)  
+On or about September 2018, claimant testified he developed a burning 
+sensation on the right-side of his abdomen and a bulge. A co-worker suggested that 
+claimant may have a hernia. Claimant scheduled an appointment with his primary care 
+provider, Steven Scurr, D.O. (JE 2:6)  
+Prior to his appointment with Dr. Scurr, claimant saw the plant nurse who 
+scheduled him for an appointment at Ankeny Iowa Ortho office. (JE 1:2) There was no 
+mention of the groin pain to the company nurse.  
+On October 9, 2018, claimant saw Dr. Scurr who diagnosed claimant with an 
+inguinal hernia, however, Dr. Scurr was uncertain as to the origin of the hernia. (JE 2:6) 
+He wrote,  
+He is here today has had some pain in the right groin down in the inguinal 
+ligament down into the proximal Estilinguinal ligament on physical exam 
+he certainly has a inguinal hernia on this side but I think that has been 
+there for a while tenderness is described as some sharp or stabbing 
+discomfort in inguinal region worse when he flexes at the hip is been a lot 
+more lifting at work. 
+(JE 2:6) Dr. Scurr prescribed claimant a trial of meloxicam and instructed claimant to 
+practice good lifting techniques and proper back etiquette. (JE 2:7)  
+Claimant returned to the company nurse and informed RN Cline of the hernia. 
+“He believes that the hernia has been caused by lifting top caps and occurred at the 
+same time he injured his knee,” RN Cline documented. (JE 1:2)  Since the orthopaedic 
+visit was already scheduled, a request was made that claimant’s hernia condition be 
+examined at the same time. Id. 
+On October 12, 2018, claimant was seen by KellyJo Balignasay ARNP regarding 
+the inguinal hernia. (JE 3:14) She referred him to a general surgeon. (JE 3:14) Nurse 
+Practitioner Balignasay felt that the cause of the hernia was most “likely due to a 
+combination of muscle wall weakness and increased ultra-abdominal pressure from 
+recurrent strenuous events (repetitive heavy lifting).” (JE 3:14) The surgeon, Steven F. 
+Van Buren, saw claimant on October 29, 2018. (JE4:18) Dr. Van Buren noted claimant 
+had been working hard and that he should undergo surgery to repair the hernia.  
+On November 6, 2018, the insurer sought out clarification from Dr. Van Buren to 
+determine whether the hernia was work related. (JE 4:22) Dr. Van Buren asked claimant 
+to return for an evaluation. In the meantime, claimant sought out care from his personal 
+physician due to the delay in the approval and the pain. Dr. Scurr referred claimant to 
+John McCune M.D., who performed the repair on November 21, 2018. (JE 5:26, 29) 
+During the initial examination, claimant reported that he had been engaged in a lot of 
+heavy lifting at work but denied that it was a worker’s compensation matter. (JE 5:26) 
+
+OXLEY V. LENNOX INDUSTRIES 
+Page 4 
+ 
+ 
+One month following the surgery, claimant returned to Dr. McCune’s office and reported 
+normal bowel movements, regular diet and no pain. (JE 5:32)    
+In Dr. Van Buren’s medical records, it was noted that claimant was doing well 
+after the surgery. (JE 4:24)  
+On October 8, 2018, Paul A Conte, M.D., issued an opinion that while claimant 
+did have an inguinal hernia when he was evaluated on October 8, 2018, Dr. Conte felt 
+that it was a long-standing one. “He had a complete loss of integrity of his inguinal floor 
+as well as an indirect hernia. This is not the sort of hernia that occurs through a sudden 
+injury, but it is a chronic wear-and-tear type of hernia that is caused by breakdown of 
+the normal tissues as well as progressive and prolonged use.” (DE A:4) Dr. Conte felt 
+that claimant’s outside activity such as chopping wood for his furnace and his 
+longstanding history of smoking which makes one more prone to breakdown of tissue 
+were the cause of the hernia rather than claimant’s work. (DE A:4) Claimant maintained 
+he stopped smoking in 2011 and that his heaviest daily exertions were performed at 
+work.  
+Dr. Conte opined that claimant’s results from the surgery were good and that 
+claimant did not need any permanent work or activity restrictions. He also assigned no 
+permanent impairment. (DE A:5)  
+On December 2, 2019, Dr. McCune wrote that it was his medical opinion that 
+claimant’s inguinal hernia was a direct result of his heavy lifting. (CE 1:1) “Specifically, it 
+occurred during the clean up after the tornado of July 2018. Mr. Oxley was unable to 
+obtain timely treatment for his hernia and the resulting significant pain through the 
+worker’s compensation system.” (CE 1:1) Dr. McCune also noted that the symptoms 
+were relieved by the surgery. (CE 1:1)  
+Claimant’s testimony was troubling at times. He exaggerated the number of 
+hours he worked prior to the date of the injury. He denied having a wood burning 
+furnace in his home but when confronted with his deposition testimony conceded that 
+he did have a wood burning fireplace in his garage and shop and chopped wood for 
+that. To the extent that there was a discrepancy between the contemporaneous medical 
+records and the claimant’s hearing testimony, the medical records and documentation 
+created prior were given  more weight.  
+Claimant testified at hearing that he has constant pain at the surgical site and a 
+palpable bulge. There is no medical evidence to support this as he has not returned for 
+care even though he had his hernia treated under his health insurance, but claimant 
+testified he would like to return to Dr. McCune. Claimant has the same medical health 
+insurance that provided for his previous visits to Dr. McCune but he has not availed 
+himself of those benefits.  
+Claimant testified that incentive pay is a substantial portion of his earnings and 
+therefore should be included in any wage calculation. Based on the union agreement, 
+claimant receives a higher wage while on vacation and believes that higher wage is to 
+
+OXLEY V. LENNOX INDUSTRIES 
+Page 5 
+ 
+ 
+offset the lack of incentive pay. (CE 2:2) Claimant maintains his gross weekly earnings 
+were $983.00 per week for a benefit rate of $644.45. Defendants’ wage calculation 
+excludes overtime rate and vacation rate for gross weekly wages of $936.40 and a 
+weekly benefit rate of $616.86. (DE:17)  
+Claimant’s costs include a filing fee, service fee, and the December 2, 2019, 
+report of Dr. McCune for a total of $226.80. (CE 6:29)  
+CONCLUSIONS OF LAW 
+The party who would suffer loss if an issue were not established has the burden 
+of proving that issue by a preponderance of the evidence.  Iowa R. App. P. 6.14(6). 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the alleged injury actually occurred and that it both arose out of and in the course of the 
+employment.  Quaker Oats Co. v. Ciha, 552 N.W.2d 143 (Iowa 1996); Miedema v. Dial 
+Corp., 551 N.W.2d 309 (Iowa 1996).  The words “arising out of” referred to the cause or 
+source of the injury.  The words “in the course of” refer to the time, place, and 
+circumstances of the injury.  2800 Corp. v. Fernandez, 528 N.W.2d 124 (Iowa 1995).  
+An injury arises out of the employment when a causal relationship exists between the 
+injury and the employment.  Miedema, 551 N.W.2d 309.  The injury must be a rational 
+consequence of a hazard connected with the employment and not merely incidental to 
+the employment.  Koehler Electric v. Wills, 608 N.W.2d 1 (Iowa 2000); Miedema, 551 
+N.W.2d 309.  An injury occurs “in the course of” employment when it happens within a 
+period of employment at a place where the employee reasonably may be when 
+performing employment duties and while the employee is fulfilling those duties or doing 
+an activity incidental to them.  Ciha, 552 N.W.2d 143. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995).  Miller v. 
+Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 1994).  Unrebutted expert medical 
+
+OXLEY V. LENNOX INDUSTRIES 
+Page 6 
+ 
+ 
+testimony cannot be summarily rejected.  Poula v. Siouxland Wall & Ceiling, Inc., 516 
+N.W.2d 910 (Iowa App. 1994). 
+A personal injury contemplated by the workers’ compensation law means an 
+injury, the impairment of health or a disease resulting from an injury which comes about, 
+not through the natural building up and tearing down of the human body, but because of 
+trauma.  The injury must be something that acts extraneously to the natural processes 
+of nature and thereby impairs the health, interrupts or otherwise destroys or damages a 
+part or all of the body.  Although many injuries have a traumatic onset, there is no 
+requirement for a special incident or an unusual occurrence.  Injuries which result from 
+cumulative trauma are compensable.  Increased disability from a prior injury, even if 
+brought about by further work, does not constitute a new injury, however.  St. Luke’s 
+Hosp. v. Gray, 604 N.W.2d 646 (Iowa 2000); Ellingson v. Fleetguard, Inc., 599 N.W.2d 
+440 (Iowa 1999); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 
+1995); McKeever Custom Cabinets v. Smith, 379 N.W.2d 368 (Iowa 1985).  An 
+occupational disease covered by chapter 85A is specifically excluded from the definition 
+of personal injury.  Iowa Code section 85.61(4) (b); Iowa Code section 85A.8; Iowa 
+Code section 85A.14. 
+When the injury develops gradually over time, the cumulative injury rule applies.  
+The date of injury for cumulative injury purposes is the date on which the disability 
+manifests.  Manifestation is best characterized as that date on which both the fact of 
+injury and the causal relationship of the injury to the claimant’s employment would be 
+plainly apparent to a reasonable person.  The date of manifestation inherently is a fact 
+based determination.  The fact-finder is entitled to substantial latitude in making this 
+determination and may consider a variety of factors, none of which is necessarily 
+dispositive in establishing a manifestation date.  Among others, the factors may include 
+missing work when the condition prevents performing the job, or receiving significant 
+medical care for the condition.  For time limitation purposes, the discovery rule then 
+becomes pertinent so the statute of limitations does not begin to run until the employee, 
+as a reasonable person, knows or should know, that the cumulative injury condition is 
+serious enough to have a permanent, adverse impact on his or her employment.  
+Herrera v. IBP, Inc., 633 N.W.2d 284 (Iowa 2001); Oscar Mayer Foods Corp. v. Tasler, 
+483 N.W.2d 824 (Iowa 1992); McKeever Custom Cabinets v. Smith, 379 N.W.2d 368 
+(Iowa 1985). 
+Claimant maintains that his hernia developed over time as a result of heavy lifting 
+following the damage to the plant in July of 2018. In support of his claim, he relies on 
+the expert opinion of Dr. McCune who opined that the hernia was the result heavy lifting 
+at the worksite following the tornado damage and the lack of timely treatment.  
+Defendants argue that Dr. McCune’s opinion must be disregarded because it 
+was based on erroneous facts. Claimant testified that he was working 7 days a week 
+and 10 hours a day. Per the findings of fact, claimant’s work hours are deemed to be 
+around 40 hours per week. While Dr. McCune’s opinion was based in part on the 
+claimant’s history, it was also based on Dr. McCune’s experience, the visualization of 
+the damage during surgery, as well as claimant’s heavy lifting and extra exertion at work 
+
+OXLEY V. LENNOX INDUSTRIES 
+Page 7 
+ 
+ 
+which was not disputed. Dr. Conte also acknowledges that heavy lifting activities could 
+have contributed to the development of the hernia but identifies claimant’s work at home 
+as the primary cause along with the weak tissue resulting claimant’s history of smoking. 
+It is not likely that claimant was chopping and hauling wood on a more frequent basis 
+than he was lifting heavy objects at his place of work. Nurse Practitioner Balignasay felt 
+that the cause of the hernia was most likely due to a combination of muscle wall 
+weakness and increased ultra-abdominal pressure from recurrent strenuous events 
+consistent with Dr. Conte and Dr. McCune’s opinions.  
+Dr. Conte confirms Dr. McCune’s opinion that heavy lifting was likely a 
+contributory factor in the development of claimant’s hernia. Taking Dr. Conte’s opinion 
+and that of Dr. McCune, it is more likely than not that claimant’s inguinal hernia was 
+caused by the work he performed post July 2018.  
+An employee is entitled to appropriate temporary partial disability benefits during 
+those periods in which the employee is temporarily, partially disabled.  An employee is 
+temporarily, partially disabled when the employee is not capable medically of returning 
+to employment substantially similar to the employment in which the employee was 
+engaged at the time of the injury, but is able to perform other work consistent with the 
+employee's disability.  Temporary partial benefits are not payable upon termination of 
+temporary disability, healing period, or permanent partial disability simply because the 
+employee is not able to secure work paying weekly earnings equal to the employee's 
+weekly earnings at the time of the injury.  Section 85.33(2). 
+Healing period compensation describes temporary workers’ compensation 
+weekly benefits that precede an allowance of permanent partial disability benefits.  
+Ellingson v. Fleetguard, Inc., 599 N.W.2d 440 (Iowa 1999).  Section 85.34(1) provides 
+that healing period benefits are payable to an injured worker who has suffered 
+permanent partial disability until the first to occur of three events.  These are:  (1) the 
+worker has returned to work; (2) the worker medically is capable of returning to 
+substantially similar employment; or (3) the worker has achieved maximum medical 
+recovery.  Maximum medical recovery is achieved when healing is complete and the 
+extent of permanent disability can be determined.  Armstrong Tire & Rubber Co. v. 
+Kubli, Iowa App., 312 N.W.2d 60 (Iowa 1981).  Neither maintenance medical care nor 
+an employee's continuing to have pain or other symptoms necessarily prolongs the 
+healing period. 
+Based on the foregoing, claimant is entitled to temporary benefits from 
+November 21, 2018, through January 7, 2019, when he was off work following his 
+hernia surgery. Permanent benefits commence on January 8, 2019, when he returned 
+to work.  
+Claimant is also entitled to reimbursement of medical expenses and future 
+medical care as it is related to his surgery. Claimant specifically requests an order to 
+return to Dr. McCune. The Supreme Court has confirmed that when an employer denies 
+care, it loses its authorization defense for the care that the employee has requested. 
+Brewer-Strong v. HNI Corp., 913 N.W.2d 235, 245 (Iowa 2018) (quoting R.R. Donnelly 
+
+OXLEY V. LENNOX INDUSTRIES 
+Page 8 
+ 
+ 
+& Sons v. Barnett, 670 N.W.2d 190, 196–98 (Iowa 2003)). Defendants denied that 
+claimant’s hernia was the result of his work and lost their right to direct his case. Thus, 
+defendants cannot now object to claimant returning to Dr. McCune for follow up 
+treatment for the hernia.  
+While claimant maintains he has significant pain following the hernia surgery and 
+into the current time period, the medical records are not reflective of this. Dr. McCune 
+noted claimant had no problems following surgery. When Dr. Van Buren’s office called 
+to schedule an appointment with claimant, claimant relayed that he had already had the 
+surgery and was doing well. There is no change in claimant’s work and no 
+accommodations. He has no restrictions. There is not sufficient evidence to find a 
+permanent and disabling impairment. No award of permanency is given at this time. 
+However, given that temporary benefits are owed, the question of rate must be 
+answered.  Claimant argues that vacation pay should be factored into his wages while 
+defendants argue that it is premium pay that should not be included.  
+Iowa Code section 85.36 describes the basis for calculating a disabled 
+employee's compensation rate. “The basis of compensation shall be the weekly 
+earnings of the injured employee at the time of the injury.” Iowa Code § 85.36. 
+In the case of an employee who is paid on a daily or hourly basis, or by 
+the output of the employee, the weekly earnings shall be computed by 
+dividing by thirteen the earnings, not including overtime or premium pay, 
+of the employee earned in the employ of the employer in the last 
+completed period of thirteen consecutive calendar weeks immediately 
+preceding the injury. If the employee was absent from employment for 
+reasons personal to the employee during part of the thirteen calendar 
+weeks preceding the injury, the employee's weekly earnings shall be the 
+amount the employee would have earned had the employee worked when 
+work was available to other employees of the employer in a similar 
+occupation. A week which does not fairly reflect the employee's customary 
+earnings shall be replaced by the closest previous week with earnings that 
+fairly represent the employee's customary earnings. 
+Id. § 85.36(6). There is no explicit exclusion of what the defendants call premium pay. 
+Instead, the focus is on the claimant’s customary earnings.  
+We do not interpret the word “customary” so rigidly as to conclude that 
+just because an employee's schedule or output is neither fixed nor 
+guaranteed, the employee cannot have “customary” earnings. 
+“Customary” means “based on or established by custom”; “commonly 
+practiced, used or observed”; or “usual.” Merriam–Webster's Collegiate 
+Dictionary 285 (10th ed.2002). We have previously defined “customary” as 
+“typical.” Griffin Pipe, 663 N.W.2d at 866. Ascertainment of an employee's 
+customary earnings does not turn on a determination of what earnings are 
+guaranteed or fixed; rather, it asks simply what earnings are usual or 
+
+OXLEY V. LENNOX INDUSTRIES 
+Page 9 
+ 
+Right to Appeal: This decision shall become final unless you or another interested party appeals within 
+20 days from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The 
+notice of appeal must be filed via Workers’ Compensation Electronic System (WCES) unless the filing 
+party has been granted permission by the Division of Workers’ Compensation to file documents in paper 
+form.  If such permission has been granted, the notice of appeal must be filed at the following address: 
+Workers’ Compensation Commissioner, Iowa Division of Workers’ Compensation, 150 Des Moines 
+Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be received by the Division of 
+Workers’ Compensation within 20 days from the date of the decision.  The appeal period will be 
+extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+typical for that employee. As discussed above, an employee need not 
+justify the variance with a particular explanation.  
+Jacobson Transp. Co. v. Harris, 778 N.W.2d 192, 199 (Iowa 2010) In this case, there is 
+no showing that vacation pay is not customary for employees of the defendant. It is a 
+bargained for benefit that extends to union employees, of which claimant is one. It is 
+customary for employees to take vacation days and it is customary for them to be paid 
+at a particular rate. It is not a bonus or a shift differential, although it does take into 
+account incentive pay that is paid while an individual works. Based on the greater 
+weight of the evidence, claimant’s calculation of the benefits is deemed to represent the 
+customary wages and therefore claimant’s wage calculation is adopted.  
+ORDER 
+THEREFORE IT IS ORDERED:  
+That defendants are to pay unto claimant temporary disability benefits at the rate 
+of six hundred forty-four and 45/100 dollars ($644.45) per week from November 21, 
+2018 through January 7, 2019. 
+That defendants shall pay accrued weekly benefits in a lump sum. 
+That claimant is entitled to reimbursement of medical bills in Exhibit 3 and future 
+medical for the inguinal hernia.  
+That defendant shall pay the costs of this matter pursuant to rule 876 IAC 4.33.  
+Signed and filed this __18th __ day of March, 2020. 
+   ________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ JENNIFER S. GERRISH-LAMPE 
+ 
+ 
+ 
+ 
+ 
+                   DEPUTY WORKERS’  
+ 
+ 
+ 
+ 
+ 
+         COMPENSATION COMMISSIONER 
+The parties have been served, as follows:  
+James M. Ballard (via WCES) 
+Robert Gainer (via WCES) 

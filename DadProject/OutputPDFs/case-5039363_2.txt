@@ -1,0 +1,578 @@
+Case Number: 5039363
+Case Title:  HEALY, MEGGAN V. GUTTENBERG CARE CENTER
+Doc Type:    Decision - District Court
+Source:      Healy, Meggan-5039363.District Court Decision.pdf
+========================================================================
+
+1 
+ 
+                          IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+____________________________________________________________ 
+ 
+GUTTENBERG CARE CENTER AND 
+) 
+Case No. CVCV060109 
+MIDWEST EMPLOYERS CASUALTY 
+) 
+COMPANY,          
+ 
+ 
+ 
+)   
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+  
+Petitioners,  
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+vs. 
+ 
+ 
+ 
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+MEGGAN STANTON n/k/a/ 
+ 
+) 
+ORDER ON JUDICIAL REVIEW 
+MEGGAN HEALY,  
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+ 
+Respondent.  
+ 
+ 
+) 
+____________________________________________________________ 
+ 
+ 
+Petitioners Guttenberg Care Center and Midwest Employers Casualty Company 
+filed their Petition for Judicial Review on April 23, 2020.   Telephonic oral argument was 
+held on August 21, 2020.  Appearing for Petitioners was attorney Chris Sheldrup.  
+Appearing for Respondent Meggan Healy (Healy) was attorney Mark Sullivan.  Oral 
+argument was not reported. 
+ 
+Upon review of the court file and the administrative record in light of the relevant 
+law, and after careful consideration of the respective arguments of counsel, the court finds 
+the following facts, reaches the following conclusions and enters the following Order. 
+BACKGROUND FACTS AND PROCEEDING 
+This case arises out of an April 8, 2010, employment related low back injury to 
+Healy.  She filed an arbitration petition, which proceeded to hearing before a deputy 
+workers’ compensation commissioner (Deputy I) on January 6, 2014.   Deputy I entered 
+E-FILED  2020 OCT 20 9:09 PM POLK - CLERK OF DISTRICT COURT
+
+2 
+ 
+an arbitration decision on August 5, 2015, awarded Healy 30% industrial disability.1   
+(Arb. Dec. at pp. 15 – 16; 22). 
+Healy filed a review-reopening petition on September 5, 2017, which proceeded to 
+hearing in front of Deputy II on October 19, 2018.  Deputy II entered an order on February 
+21, 2019, awarding Healy a modest increase of an additional ten percent of industrial 
+disability.   Deputy II correctly noted that he was bound by the findings of fact in the 
+August 5, 2014, arbitration decision as to Healy’s medical and physical status at the time 
+of the January 6, 2014, arbitration hearing.   (Arb. Dec. at pp. 12, 15; R-R Dec. at p. 2).   
+In that regard, Deputy II noted Healy’s permanent impairment was somewhere in 
+the range of 10% to 13% of the whole person on January 6, 2014.  He also noted Healy 
+was only capable of lifting 30 pounds on an occasional basis and was taking only Tylenol 
+and Ibuprofen for management of her symptoms.   (Arb. Dec. at p. 16; R-R Dec. at p. 3).  
+Deputy II further noted that at the time of the arbitration hearing, Healy’s symptoms were 
+located in her low back and down her right leg.   (Arb. Dec. at p. 16; R-R Dec. at p. 3).    
+ 
+Petitioners sought intra-agency review. The Commissioner affirmed the  
+Deputy’s review-reopening decision on April 9, 2020, based upon several specific changes 
+in Healy’s condition.  These included: 
+1. 
+Different pain now present in the left leg all the way down into 
+the left foot, and worsening pain in the right leg.  (R – R Dec. at p. 2; R – R 
+Tr. at pp. 75-77; Resp. Ex. 25 at p. 10; Depo. at p. 33). 
+ 
+2. 
+Worsening pain that now requires the use of Oxycodone and 
+other medications to manage. (R – R Dec. at p. 2; R – R Tr. at pp. 73-75). 
+ 
+                                            
+1 The arbitration decision is contained in the certified record in Claimant’s black binder 
+titled “Meggan Stanton v. Guttenberg Care Center, File No. 5039363, Hearing Date: 
+February 22, 2016,” as Claimant’s Exhibit 3. 
+E-FILED  2020 OCT 20 9:09 PM POLK - CLERK OF DISTRICT COURT
+
+3 
+ 
+3. 
+Worsening pain that, for the first time, compelled her treating 
+physicians to recommend and surgically implant a spinal cord stimulator to 
+manage Healy’s chronic pain.  (Tr. at p. 20; R – R Dec. at p. 5). 
+ 
+4. 
+Tightened work restrictions by Dr. Sassman at Medix, which 
+included a 10-pound limit on lifting, pushing, pulling, and carrying.  (Resp. 
+Ex. 22 at p. 10; R – R Dec. at p. 7). 
+ 
+5. 
+Substantially decreased range of motion.  Deputy II noted that 
+Dr. Sassman based much of Healy’s increased permanent impairment, from 
+13% to 26% whole person, on these findings of decreased range of motion.   
+Dr. Sassman’s first evaluation was done prior to the arbitration hearing and 
+her second evaluation on August 29, 2016 – after the arbitration hearing –
+revealed substantially more restricted range of motion.   (Resp. Ex. 22 at p. 
+8; R – R Dec. at p. 4).  
+ 
+6. 
+The substantial increase in ratable permanent impairment 
+from 10 to 13% at the time of the arbitration hearing, to 26% whole person 
+at the time of the review-reopening hearing. (R – R Dec. at pp. 3-4). 
+ 
+7. 
+Increasing low back pain.  (Resp. Ex. 25 at p. 12; Depo. at pp. 
+43 – 45). 
+ 
+8. 
+New low back pain on the left side.  (Resp. Ex. 25 at p. 17; 
+Depo. at pp. 59 – 61).  
+ 
+Deputy II summed up his findings as to changes in Healy’s condition that 
+warranted the review reopening award by saying: 
+Considering claimant’s current condition, symptoms, impairment, medical 
+restrictions, ongoing motivation to continue working, her educational 
+background, employment history, and the factors pertaining to her 
+increased symptoms and use of narcotics, I find that Ms. Healy has proven 
+a substantial change in condition since the arbitration hearing.  While 
+acknowledging the competing factors and facts presented by defendants, I 
+specifically find that Ms. Healy has developed leg symptoms that now 
+radiate to her left foot.  She has required implantation of a spinal cord 
+stimulator since the arbitration hearing, and she now requires the use of 
+narcotics to control her symptoms.  She has demonstrated a worsening of 
+her condition that warrants reconsideration of her industrial disability.   
+ 
+(R – R Dec. at p. 5). 
+ 
+ 
+ 
+ 
+E-FILED  2020 OCT 20 9:09 PM POLK - CLERK OF DISTRICT COURT
+
+4 
+ 
+STANDARD OF REVIEW 
+Iowa Code chapter 17A governs judicial review of administrative agency actions.   
+The district court acts in an appellate capacity to correct errors of law on the part of the 
+agency.  Meyer v. IBP, Inc., 710 N.W.2d 213, 219 (Iowa 2006).   The court “may grant 
+relief if the agency action has prejudiced the substantial rights of the petitioner, and the 
+agency action meets one of the enumerated criteria in section 17A.19(10)(a) through (n).”   
+Burton v. Hilltop Care Ctr., 813 N.W.2d 250, 256 (Iowa 2012) (quoting Evercom Sys., 
+Inc. v. Iowa Utils. Bd., 805 N.W.2d 758, 762 (Iowa 2011)).   Where an agency has been 
+“clearly vested” with a fact-finding function, the appropriate “standard of review [on 
+appeal] depends on the aspect of the agency’s decision that forms the basis of the petition 
+for judicial review”—that is, whether it involves an issue of (1) findings of fact, (2) 
+interpretation of law, or (3) application of law to fact.  Burton, 813 N.W.2d at 256. 
+ 
+“If the claim of error lies with the agency’s findings of fact, the proper question on 
+review is whether substantial evidence supports those findings of fact.” Meyer, 710 N.W. 
+2d at 219. “[A] reviewing court can only disturb those factual findings if they are ‘not 
+supported by substantial evidence in the record before the court when that record is 
+reviewed as a whole.’”  Burton, 813 N.W.2d at 256 (quoting Iowa Code § 17A.19(10)(f)).  
+A district court’s review “is limited to the findings that were actually made by the agency 
+and not other findings that the agency could have made.” Id.   However, “[i]n reviewing 
+an agency’s finding of fact for substantial evidence, courts must engage in a “fairly 
+intensive review of the record to ensure that the fact finding is itself reasonable.’” Neal v. 
+Annett Holdings, Inc., 814 N.W.2d 512, 518 (Iowa 2012) (quoting Wal Mart Stores, Inc. 
+v. Caselman, 657 N.W.2d 493, 499 (Iowa 2003)). 
+E-FILED  2020 OCT 20 9:09 PM POLK - CLERK OF DISTRICT COURT
+
+5 
+ 
+ 
+“Substantial evidence means the quantity and quality of evidence that would be 
+deemed sufficient by a neutral, detached, and reasonable person, to establish the fact at 
+issue when the consequences resulting from the establishment of the fact are understood 
+to be serious and of great importance.” Iowa Code § 17A.19(10)(f)(1).  The Commissioner’s 
+findings are binding on appeal unless a contrary result is contemplated as a matter of law.  
+Long v. Robertson Dairy Co., 528 N.W.2d 122, 123 (Iowa 1995).  The court is not free to 
+interfere with the Commissioner’s findings where there is conflict in the evidence or when 
+reasonable minds might disagree about the inferences to be drawn from the evidence, 
+whether disputed or not.  Catalfo v. Firestone Tire & Rubber Co., 213 N.W.2d 506, 509 
+(Iowa 1973).    
+Judicial review of the Commissioner’s decision is not de novo and the 
+Commissioner’s findings have the force of a jury verdict.   Holmes v. Bruce Motor Freight 
+Inc., 215 N.W.2d 296, 298 (Iowa 1974).  The burden of demonstrating the required 
+prejudice and the invalidity of agency action is on the party asserting invalidity.  Iowa 
+Code § 17A.19(8)(a)(2005). 
+ 
+When assessing whether an agency decision is supported by substantial evidence, 
+a reviewing court must “accord deference to the agency’s decision on witness credibility.” 
+Clark v. Iowa Dep’t of Revenue & Fin., 644 N.W.2d 310, 315 (Iowa 2002).   The adequacy 
+of the evidence in the record to support a particular finding of fact must be judged in light 
+of all the relevant evidence in the record, including any determinations of veracity by the 
+presiding officer who personally observed the demeanor of the witnesses and the agency’s 
+explanation of why the relevant evidence in the record supports its material findings of 
+fact.  Iowa Code § 17A.19(10)(f)(3).  
+E-FILED  2020 OCT 20 9:09 PM POLK - CLERK OF DISTRICT COURT
+
+6 
+ 
+ 
+In the instant matter, Deputy I found Healy to be a credible witness at the 
+arbitration hearing based upon her findings of fact and her award of industrial disability.   
+(Arb. Dec. at pp. 3 – 22).  There is no question that in the review-reopening hearing, 
+Deputy II made a specific creditability finding when he said “Ms. Healy presented credible 
+testimony at the review-reopening hearing.” (R – R Dec. at p. 3).  No other witnesses 
+testified live at the review-reopening hearing.  (R – R Dec. at p. 1). 
+It is the Commissioner’s duty to weigh the evidence as a whole.  This requires 
+taking into account the credibility of the witnesses and determining causation.  Because 
+appellate review is not de novo, the court must not reassess the weight to be accorded 
+various items of evidence.  Burns v. Bd. of Nursing, 495 N.W.2d 698, 699 (Iowa 1993). 
+ If “the claim of error lies with the agency’s interpretation of the law, the question 
+on review is whether the agency’s interpretation was erroneous, and [the court] may 
+substitute [its] interpretation for the agency’s.”  Meyer, 710 N.W.2d at 219. 
+The court must also grant appropriate relief from agency action if such action was 
+“[b]ased upon an erroneous interpretation of a provision of law whose interpretation has 
+not clearly been vested by a provision of law in the discretion of the agency.”  Iowa Code 
+§ 17A.19(10)(c).   With respect to such provisions of law, the court is not required to defer 
+to the agency’s interpretation.  Iowa Code § 17A.19(11)(b).  Additionally, the court must 
+grant relief from agency action that is “[b]ased upon an irrational, illogical, or wholly 
+unjustifiable interpretation of a provision of law,” based upon misapplication of law to the 
+facts, or is “[o]therwise unreasonable, arbitrary, capricious, or an abuse of discretion.”   
+Iowa Code § 17A.19(10)(l-n); Burton, 813 N.W.2d at 256. 
+ 
+If “the claim of error lies with the ultimate conclusion reached, then the challenge 
+is to the agency’s application of the law to the facts, and the question on review is whether 
+E-FILED  2020 OCT 20 9:09 PM POLK - CLERK OF DISTRICT COURT
+
+7 
+ 
+the agency abused its discretion by, for example, employing wholly irrational reasoning 
+or ignoring important and relevant evidence.” Meyer, 710 N.W.2d at 219.  In other words, 
+the court will only reverse the Commissioner’s application of law to the facts if “it is 
+‘irrational, illogical, or wholly unjustifiable.’” Neal, 814 N.W.2d at 518 (quoting Lakeside 
+Casino v. Blue, 743 N.W.2d 169, 173 (Iowa 2007)). 
+                                                              ANALYSIS 
+Petitioners assert numerous issues regarding the Commissioner’s adoption of 
+Deputy II’s factual determinations in the review-reopening decision.   Upon reviewing the 
+record, the court finds the fact finding by Deputy II in the review-reopening decision, 
+affirmed by the Commissioner, is reasonable.   These findings are clearly supported by 
+substantial evidence in the record for the following reasons.    
+ 
+Petitioners argue that Healy’s condition actually improved in several respects.   
+They urge that her symptoms and functionality were 75% improved at the time of the 
+review-reopening hearing.   This is assertion is not reasonably borne out by the facts in 
+this record when it is considered as a whole.   
+ 
+According to Dr. Benedetti’s office note from February 4, 2015, Healy initially 
+experienced 70 to 75% relief of her pain with the implantation of the trial spinal cord 
+stimulator.   However, the note makes clear that pain relief improved primarily the leg 
+and foot, while the back pain persisted.  (Jt. Ex. 17 at pp. 33 – 34).    
+Further, Petitioner’s counsel misstated the record when he cross examined Healy 
+in her deposition about the specifics of that 75% improvement.   He indicated that it was 
+in regard to a treatment note after the permanent stimulator was placed.  In fact, the 
+February 4, 2015, office visit was the same day the temporary stimulator was removed.  
+(Jt. Ex. 17 at p. 36).  Further, Petitioner’s counsel asked Healy a leading and compound 
+E-FILED  2020 OCT 20 9:09 PM POLK - CLERK OF DISTRICT COURT
+
+8 
+ 
+question about improvement of both pain and functionality without defining or 
+explaining what he meant by “functionality.”  (Def. Ex. A at p. 12; Depo. Tr. at  
+pp. 45 – 46).   Later at the review-reopening hearing, Healy explained that her low back 
+pain never improved with the spinal cord stimulator and in fact her back pain got worse 
+when she became more active, with improvement of her leg symptoms from the 
+stimulator. (Resp. Ex. 25 at p. 12; Depo. Tr. at pp. 41 – 42).  In addition, she developed 
+left sided low back pain in March 2016, which was a new area of pain.  (Jt. Ex. 17 at p. 61; 
+R – R Tr. at p. 54; Jt. Ex. 17 at p. 52; Resp. Ex. 25; Depo. Tr. at pp. 59 – 60). 
+Regarding Respondent’s alleged 75% change in symptoms, Deputy II also said: 
+[I]t really represents the masking of symptoms provided by the spinal cord 
+stimulator, rather than some type of physical improvement. The 
+improvement identified by defendants also does not account for the 
+development of new symptoms in claimant’s left leg and left foot or the 
+development of the need to use narcotics to control her symptoms.   
+ 
+(R – R Dec. at p. 5). 
+ 
+ 
+Petitioners also contend that the decision to proceed with the spinal cord 
+stimulator was made prior to the review-reopening hearing.   This argument is inaccurate 
+under this record.  No authorized treating providers for Healy specifically prescribed 
+implantation of a spinal cord stimulator prior to the arbitration hearing.   Implanting a 
+stimulator had been discussed as a treatment option by Dr. Mouw after he declined to 
+perform a spinal fusion that Dr. Abernathy had recommended.   
+But Dr. Mouw did not order the spinal cord stimulator.  He simply referred Healy 
+to the University of Iowa for an evaluation regarding a possible spinal cord stimulator 
+versus a spinal fusion.  Petitioner’s counsel at the time directed a letter to Dr. Abernathy 
+on January 18, 2017.  In summarizing the treatment history in that letter to Dr. 
+Abernathy, Petitioner’s counsel said the following: 
+E-FILED  2020 OCT 20 9:09 PM POLK - CLERK OF DISTRICT COURT
+
+9 
+ 
+On May 16, 2013, Claimant presented to Dr. Mouw for a neurosurgical 
+opinion regarding the possible fusions.  Dr. Mouw indicated that the more 
+recent MRI showed only a small disc protrusion, largely unchanged from 
+her original MRI, and that it showed no evidence of neural compression.   
+He indicated that he would not recommend a lumbar fusion because the 
+likelihood of it helping Claimant was extremely low. Dr. Mouw instead 
+recommended some additional neurological evaluations and if not other 
+etiologies for her pain, he indicated she could also consider a dorsal column 
+stimulator.   
+ 
+Dr. Patrick Hitchon at the University of Iowa Hospitals and Clinics 
+evaluated Claimant on August 12, 2013.  Dr. Hitchon indicated that he also 
+reviewed the August 5, 2013, MRI and recommended a lumbar x-ray to rule 
+out any instability, but otherwise didn’t recommend any surgical 
+intervention either . . . . In his note, Dr. Hitchon also indicated that they did 
+not recommend a spinal cord stimulator at that time.  
+ 
+(Jt. Ex. 21 at p. 2). 
+ 
+ 
+That appointment with Dr. Hitchon was the last treatment Healy had prior to the 
+January 6, 2014, arbitration hearing.   Healy correctly asserts that prior to the arbitration 
+hearing, no physician ordered that she should proceed with a spinal cord stimulator.   It 
+was merely discussed as a treatment option, but it was not until after the arbitration 
+hearing—once her symptoms had substantially worsened—that Dr. Miller finally 
+determined Healy was a good candidate for a stimulator.  (Jt. Ex. 19 at p. 2; R – R Tr. at 
+p. 46).    
+Dr. Miller referred Healy to the University of Iowa Pain Clinic.   There Dr. Elahi 
+initially recommended additional conservative treatment rather than the spinal cord 
+stimulator.  (Jt. Ex. 17 at p. 7).   Healy was given more epidural steroid injections (Jt. Ex. 
+17 at p. 14) and was prescribed Oxycodone and Percocet (Jt. Ex. 1 at pp. 6 – 7).  Not until 
+yet another unsuccessful epidural steroid injection on October 3, 2014, was Healy 
+scheduled for a psychological evaluation to determine whether she was a good candidate 
+for a trial spinal cord stimulator.   (Jt. Ex. 17 at p. 15; Jt. Ex. 20 at pp. 1 – 3).   That trial 
+E-FILED  2020 OCT 20 9:09 PM POLK - CLERK OF DISTRICT COURT
+
+10 
+ 
+spinal cord stimulator was not actually implanted until January 28, 2015—more than a 
+year after the arbitration hearing. (Jt. Ex. 17 at pp. 19 – 21).  Finally, on March 11, 2015—
+more than fifteen months after the arbitration hearing—the permanent spinal cord 
+stimulator was implanted.  (Jt. Ex. 17 at pp. 46 – 49). 
+ 
+Petitioners argue that at some point prior to the arbitration hearing, Healy used 
+opioids for her pain.  They argue that she only stopped using those because of a pregnancy.   
+After stopping the Nucenta for her pain on or about December 2, 2011, due to pregnancy, 
+Healy did not resume the use of opioids until after the arbitration hearing.   For more than 
+two years leading up to the January 6, 2014, arbitration hearing, Healy controlled her 
+chronic pain with just over the counter medications.  (Arb. Tr. at pp. 50 – 51, Def. Ex. E 
+at p. 14). 
+ 
+Healy’s symptoms worsened after the arbitration hearing.  On January 22, 2014, 
+Dr. Smith prescribed Oxycodone, one tablet two times per day as needed.   (Jt. Ex. 18 at 
+p. 3).   Healy had never taken Oxycodone before. (R – R Tr. at p. 45).  Healy eventually 
+would extensively use Oxycodone, Zanaflex, Gabapentin, Amitriptyline, Xanax, 
+Tramadol, and prescription Ibuprofen, together with her spinal cord stimulator, to cope 
+with her increased pain after the arbitration hearing.   (Jt. Ex. 17 at pp. 7, 10, 14; Jt. Ex. 
+18 at pp. 5, 12, 22 – 23, 37; R – R Tr. at pp. 64 – 65, 81). At the time of the  
+review-reopening hearing, and after her stimulator had stopped functioning, Healy was 
+taking more than eight Oxycodone per day, plus Tylenol, Ibuprofen, Clonidine and 
+Alprazolam, plus a muscle relaxer and a pill for the nerve pain. (R - R Tr. at pp. 48, 56 – 
+57, 65 – 67, 72; Ex. A at p. 16; Depo. at p. 63). 
+E-FILED  2020 OCT 20 9:09 PM POLK - CLERK OF DISTRICT COURT
+
+11 
+ 
+ 
+In the review-reopening decision, Deputy II found Healy only had required Tylenol 
+and Ibuprofen for management of her symptoms at the time of the arbitration hearing.   
+In contrast, he found that at the time of the review-reopening hearing, 
+[s]he now requires the use of oxycodone to manage her pain symptoms.   As 
+the prior deputy commissioner found, Ms. Healy required only over-the- 
+counter medications to manage her symptoms at the time of the arbitration 
+hearing.  Again, this is convincing evidence that Ms. Healy’s condition has 
+substantially worsened since the arbitration hearing.  
+ 
+(R – R Dec. at p. 3). 
+ 
+Petitioners say that Healy’s increase in earnings after her certification as a medical 
+assistant should defeat any review-reopening claim in this matter.   As Deputy II correctly 
+noted: 
+The fact that Ms. Healy now earns more than she did at the time of the 
+arbitration hearing is not, standing alone, sufficient to defeat her review 
+reopening claim.  Rather, the prior deputy commissioner anticipated that 
+claimant may seek additional education and training and accounted for that 
+in her industrial disability factors and award. Claimant’s ability to 
+accomplish this was contemplated and she has earned her way back to a 
+wage she had prior to the work injury.  However, this is not evidence that 
+she is improved or has greater earning capacity than was estimated or 
+foreseen at the time of the arbitration hearing.   Rather, it is a manifestation 
+of the claimant’s motivation and cognitive abilities, as recognized by the 
+deputy at the arbitration hearing.  
+ 
+(R – R Dec. at p. 4). 
+ 
+Petitioner did not appeal from the original arbitration decision. In the  
+review-reopening decision, Deputy II also said: 
+Claimant’s increase in earnings arguably demonstrates that she has 
+increased earning capacity since the arbitration hearing.  However, this 
+increase in wages is really the result of claimant’s motivation and her 
+continued education and training.  Since the arbitration hearing, Ms. Healy 
+has obtained additional education and become nationally certified as a 
+medical assistant.  The prior deputy commissioner contemplated claimant’s 
+ability to retrain, her age, and her motivation in the arbitration decision.  
+ 
+(R – R Dec. at p. 4).  
+E-FILED  2020 OCT 20 9:09 PM POLK - CLERK OF DISTRICT COURT
+
+12 
+ 
+ 
+Increased earnings since the arbitration hearing as a result of additional education 
+does not necessarily mean no reduction in earning capacity.   Earning capacity requires 
+an analysis of all the factors required in assessing industrial disability.  Quaker Oats v. 
+Ciha, 552 N.W.2d 143, 157 (Iowa 1996).  Loss of earning capacity is determined by 
+considering the employee’s functional impairment, age, education, work experience, 
+qualifications, ability to engage in similar employment, and adaptability to retraining to 
+the extent any of these factors affect the employee’s prospects for relocation in the job 
+market.  Sherman v. Pella Corp., 576 N.W.2d 312, 321 (Iowa 1998). 
+ 
+In the arbitration decision, Deputy I relied upon Healy’s relative youth at age 34 
+and noted that younger workers have less difficulty than older workers when seeking 
+employment. (Arb. Dec. at p. 16).  Deputy I also noted Healy’s prior educational 
+accomplishments, including her CNA certificate and her two-year degree in radiology 
+technology. She found that retraining was possible for Healy and that Healy was 
+motivated to find work.   (Arb. Dec. at pp. 3 – 4, 16). 
+Petitioners also allege that Deputy II erred by applying the wrong legal standard to 
+the review-reopening decision or by misapplying the law to the facts. The gist of 
+Petitioners’ argument that Deputy II applied the wrong legal standard appears to be that 
+he did not put enough stock in Healy’s increased earnings which resulted from her 
+obtaining her medical assistant certification after the arbitration hearing. Deputy II 
+concluded the relatively modest award of just 30% industrial disability in the original 
+arbitration decision reflected that Deputy I relied on Healy’s youth, motivation, and prior 
+pursuit of post-secondary education and certification in making that award.    
+(R – R Dec. at pp. 2, 4 – 8). 
+E-FILED  2020 OCT 20 9:09 PM POLK - CLERK OF DISTRICT COURT
+
+13 
+ 
+ In reviewing the conclusions of law in the review-reopening decision, the court 
+finds that Deputy II was aware of the appropriate legal standard requiring him to evaluate 
+all factors impacting Healy’s industrial disability arising from a change of condition after 
+the arbitration hearing.    
+Deputy II noted that the required change of condition could be economic or 
+physical.  He concluded by saying: 
+In this case, the parties presented competing evidence that demonstrated a 
+potential increase in claimant’s industrial disability, a potential decrease in 
+her industrial disability, or evidence that there is no significant change in 
+the industrial disability.  Having considered and weighed that competing 
+evidence, I found that Ms. Healy proved a substantial change in her 
+condition that resulted in a marginal worsening of her industrial disability.   
+ 
+(R – R Dec. at p. 7). 
+ 
+In an unscheduled whole body injury case, the claimant’s loss of earning capacity 
+is determined by the Commissioner at the time of the arbitration hearing based upon the 
+factors bearing on industrial disability then prevailing – not based upon what the 
+claimant’s physical condition and economic realities might be at some future time.  Iowa 
+Code § 85.34(3); Quaker Oats, 552 N.W.2d at 157.  Factors that should be considered 
+include the employee’s functional disability, age, education, qualifications, experience, 
+and the ability of the employee to engage in employment for which the employee is fitted.   
+Second Injury Fund v. Nelson, 554 N.W.2d 258, 266 (Iowa 1995). The workers’ 
+compensation statutory scheme contemplates that future developments (post-award and 
+post-settlement developments), including the worsening of a physical condition or a 
+reduction in earning capacity, should be addressed in review-reopening proceedings.  
+Iowa Code § 86.14(2); Kohlhaas v. Hog Slat Inc., 777 N.W.2d 387, 392 (Iowa 2009).  
+E-FILED  2020 OCT 20 9:09 PM POLK - CLERK OF DISTRICT COURT
+
+14 
+ 
+ 
+Deputy II’s reasonable finding that there were changes in Healy’s physical 
+condition warranting a review-reopening and an increase in the industrial disability 
+award is supported by substantial evidence in the record.   
+ 
+Deputy II properly applied the correct legal standard to the facts in this case when 
+he awarded Healy an additional ten percent industrial disability.  As the Commissioner 
+said in the agency appeal decision: 
+I affirm the deputy commissioner’s finding that claimant carried her burden 
+of proof to establish a physical change in condition after the arbitration 
+decision filed on August 5, 2014. In doing so, I affirm the deputy 
+commissioner’s acknowledgment of the competing factors, and the factors 
+presented by defendants.  However, I affirm the deputy commissioner’s 
+finding that after the arbitration decision, claimant developed left leg 
+symptoms, required implantation of a spinal cord stimulator, and requires 
+the use of narcotic medications to control her symptoms.  As a result, I 
+affirm the deputy commissioner’s finding that claimant proved an increase 
+of ten percent in her industrial disability after the arbitration decision.    
+ 
+(App. Dec. at p. 2). 
+ 
+Deputy II, in the review-reopening decision affirmed by the Commissioner, 
+applied the correct legal standard in reviewing all of the appropriate factors impacting 
+any determination of industrial disability loss in a workers’ compensation case.  Deputy 
+II compared all of those factors as they existed at the time of the arbitration hearing to 
+those same factors as they existed at the time of the review-reopening hearing.   Deputy 
+II reasonably found that some of the factors did not change, some changed for the better, 
+and some changed for the worse.  (R – R Dec. at p. 7).  As noted above, Deputy II 
+ultimately found that Healy proved a substantial change in her condition that resulted in 
+a marginal worsening of her industrial disability.  (Id.). 
+E-FILED  2020 OCT 20 9:09 PM POLK - CLERK OF DISTRICT COURT
+
+15 
+ 
+On balance, Deputy II reasonably found the substantial deterioration of Healy’s 
+physical condition since the arbitration hearing warranted the modest ten percent 
+increase in industrial disability that Deputy II ordered. 
+CONCLUSION 
+The Commissioner adopted Deputy II’s review-reopening decision in all relevant 
+respects.  When this record is considered as a whole, the Commissioner’s determination 
+that Healy proved a deterioration in her physical condition from the time of the January 
+6, 2014, arbitration hearing until the time of the October 19, 2018, review-reopening 
+hearing is supported by substantial evidence.  The Commissioner’s interpretation of the 
+relevant law was not erroneous.  The Commissioner’s application of the law to the facts 
+was not irrational, illogical, wholly unjustifiable or an abuse of discretion. The 
+Commissioner did not ignore important and relevant evidence.  The Commissioner’s 
+decision was not otherwise unreasonable, arbitrary, capricious or an abuse of discretion.    
+The Commissioner’s final agency decision should be affirmed in its entirety and 
+the Petition should be denied and dismissed.  
+                                                ORDER 
+IT IS THEREFORE ORDERED, ADJUDGED AND DECREED that the final 
+agency decision is affirmed in its entirety and the Petition is denied and dismissed.   
+IT IS FURTHER ORDERED, ADJUDGED AND DECREED that costs are 
+assessed to Petitioners. 
+ 
+ 
+  
+ 
+ 
+ 
+E-FILED  2020 OCT 20 9:09 PM POLK - CLERK OF DISTRICT COURT
+
+State of Iowa Courts
+Type:
+OTHER DECREE
+Case Number
+Case Title
+CVCV060109
+GUTTENBERG CARE CENTER ET AL VS MEGGAN STANTON
+NKA HEALY
+So Ordered
+Electronically signed on 2020-10-20 21:09:42     page 16 of 16
+E-FILED  2020 OCT 20 9:09 PM POLK - CLERK OF DISTRICT COURT

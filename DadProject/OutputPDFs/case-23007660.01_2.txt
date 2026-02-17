@@ -1,0 +1,178 @@
+Case Number: 23007660.01
+Case Title:  DECORMIER, CYNTHIA V. U.S. NURSING CORP. D/B/A FASTAFF, INC.
+Doc Type:    Decision - Court of Appeals
+Source:      250407_US_Nursing_Corp_v_Decormier_D4511E74D2521.pdf
+========================================================================
+
+ 
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 25-0407 
+Filed December 3, 2025 
+ 
+ 
+US NURSING CORP. d/b/a FASTAFF, INC. and SAFETY NATIONAL 
+CASUALTY CORP., 
+ 
+Petitioners-Appellants, 
+ 
+vs. 
+ 
+CYNTHIA DECORMIER, 
+ 
+Defendant-Appellee. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Samantha Gronewald, 
+Judge. 
+ 
+ 
+An employer appeals an adverse judicial-review ruling following 
+proceedings before the workers’ compensation commissioner.  AFFIRMED. 
+ 
+ 
+Stephen W. Spencer and Christopher S. Spencer (argued) of Peddicord 
+Lillis, LLP, West Des Moines, for appellants. 
+ 
+Matthew G. Novak (argued) of Pickens, Barnes & Abernathy, Cedar Rapids, 
+for appellee. 
+ 
+ 
+Heard at oral argument by Chicchelly, P.J., and Buller and Langholz, JJ.
+
+ 
+2
+BULLER, Judge. 
+ 
+U.S. Nursing Corp. d/b/a/ Fastaff, Inc., and Safety National Casualty Corp. 
+(collectively U.S. Nursing) appeal from judicial review of proceedings before the 
+workers’ compensation commissioner, asserting errors in calculating the rate of 
+benefits and the award of penalty benefits to Cynthia DeCormier.  We affirm. 
+I. 
+Background Facts and Proceedings 
+ 
+DeCormier was working for U.S. Nursing as a traveling nurse and assigned 
+to a hospital in Sioux City when the parties stipulate she fell and injured her right 
+wrist.  Under her contract at the time of injury, DeCormier was initially guaranteed 
+forty-eight hours of work per week at $65 per hour regular time and $97.50 
+overtime, and she received a $10 per hour raise the week before she fell.   
+ 
+In arbitration, a deputy workers’ compensation commissioner awarded 
+DeCormier benefits based on a weekly rate of $1562.60 and denied her claim for 
+penalty benefits.  DeCormier and U.S. Nursing both appealed to the commissioner, 
+who affirmed the deputy as to the rate of pay and modified the ruling on the penalty 
+issue, awarding $5,500 in penalty benefits.  U.S. Nursing petitioned for judicial 
+review, challenging the rate of pay and the penalty.  The district court affirmed the 
+commissioner.  And U.S. Nursing appeals. 
+II. 
+Standard of Review 
+ 
+On questions of law, we review for correction of legal error without 
+deference to the commissioner.  JBS Swift & Co. v. Ochoa, 888 N.W.2d 887, 
+892–93 (Iowa 2016).  On factual questions, we review for substantial evidence; if 
+a finding is supported by substantial evidence, it binds us.  Neal v. Annett Holdings, 
+Inc., 814 N.W.2d 512, 518 (Iowa 2012).  And on questions of applying the facts to 
+
+ 
+3
+the law as vested in the agency, we reverse only if the commissioner’s decision is 
+irrational, illogical, or wholly unjustifiable.  Id. 
+III. 
+Discussion 
+ 
+U.S. Nursing reprises the two claims it made to the district court on judicial 
+review: that it believes the rate of pay was incorrectly calculated and it should not 
+have to pay DeCormier penalty benefits.  We consider each. 
+A. Rate of Pay 
+ 
+The parties dispute which part of Iowa Code section 85.36 (2020)—
+subsection 6 or 9—governs rate of pay in this case.  Subsection 6 applies when 
+an employee has worked for the employer for more than thirteen weeks preceding 
+the injury and permits calculation of benefits based on actual hourly rate.  Iowa 
+Code § 85.36(6).  Subsection 9 applies when the worker either earned no wages 
+in the preceding thirteen weeks or earned less than the usual weekly earnings of 
+a regular full-time adult laborer in her “line of industry” in that locality; it permits 
+using a yearly average to calculate weekly pay.  Iowa Code § 85.36(9).   
+ 
+The deputy commissioner, commissioner, and district court all found 
+subsection 6 applies because DeCormier was working for U.S. Nursing as a 
+traveling nurse for not only the ten weeks she had been at the Sioux City hospital 
+but also on another assignment before that—which ended close in time to her stint 
+in Sioux City.  U.S. Nursing argues to us, as it did below, that subsection 9 should 
+
+ 
+4
+apply.1  The deputy commissioner, commissioner, and district court all rejected this 
+argument because U.S. Nursing failed to prove either of subsection 9’s factual 
+predicates: that DeCormier either earned no wages or less than the usual wages 
+customary in her line of industry.  To the contrary, the commissioner found 
+U.S. Nursing’s own witness confirmed that DeCormier’s “earnings were typical, 
+customary, or usual for a traveling nurse.”   
+ 
+We agree with the deputy, commissioner, and district court on the facts and 
+the law.  U.S. Nursing did not prove subsection 9 should apply, and the 
+commissioner’s determination that this pay arrangement is typical in the industry 
+is supported by substantial record evidence, including DeCormier’s testimony and 
+that of U.S. Nursing’s witness.  While perhaps a counter-argument could be 
+mounted (or could have been mounted below), it is not our role to decide factual 
+issues in this case anew.  We affirm. 
+ 
+1 As part of this argument, U.S. Nursing points to an unpublished decision involving 
+a retired worker: Lopez v. Midstates Horse Shows, Inc., No. 08-1714, 2009 
+WL 3337614 (Iowa Ct. App. Oct. 7, 2009).  U.S. Nursing has not consistently 
+described the holding of Lopez, at various points in the litigation claiming it used 
+an “averaging test” or “basically the ‘averaging test.’”  In reality, the Lopez court 
+affirmed the commissioner’s decision to rely on subsection (9) “rather than an 
+averaging test.”  2009 WL 3337614, at *6 (emphasis added).  We do not think 
+Lopez offers much insight to this case. 
+
+ 
+5
+B. Penalty Benefits 
+ 
+Next, U.S. Nursing asks us to vacate the award of penalty benefits.2  Iowa 
+Code section 86.13(4)3 permits the commissioner to award penalty benefits when 
+an employer unreasonably delays in paying the total amount of benefits owed to a 
+worker.  See Robbennolt v. Snap-On Tools Corp., 555 N.W.2d 229, 237 
+(Iowa 1996).  The employer may rebut a worker’s entitlement to penalty benefits if 
+the employer can show (1) it was conducting a reasonable investigation; (2) the 
+results of the investigation were the basis for its underpayment; and (3) the 
+employer contemporaneously conveyed the basis for this position to the worker.  
+Iowa Code § 86.13(4)(b), (c); see also Pettengill v. Am. Blue Ribbon Holdings, 
+LLC, 875 N.W.2d 740, 747 (Iowa Ct. App. 2015) (detailing the timeline for making 
+such a showing). 
+ 
+The commissioner found U.S. Nursing failed to rebut DeCormier’s claim 
+based on its lack of proof regarding a timely, contemporaneous, and reasonable 
+investigation and notice of the same.  The commissioner awarded penalty benefits 
+equal to 20% of the delayed or underpaid benefits (less than the permissible 50%).  
+In doing so, the commissioner made a fact-finding that, for a period of almost eight 
+ 
+2 As a sub-argument concerning penalty benefits, U.S. Nursing asserts a 
+mathematical error in calculating the underpayment, to the tune of $60 per week.  
+But U.S. Nursing never called this alleged error to the commissioner’s attention 
+during the agency proceedings, and neither the judicial-review court nor our court 
+can hear new issues on appeal.  See Staff Mgmt. v. Jimenez, 839 N.W.2d 640, 
+647 (Iowa 2013).   
+3 This provision was moved to section 10A.315 by the Code Editor in 2023 without 
+substantive change.  2023 Iowa Acts, ch. 19, §§ 1466, 1467, 1477. 
+
+ 
+6
+months,4 DeCormier “clearly established” underpayment.  This shifted the inquiry 
+to whether U.S. Nursing proved it was conducting a reasonable investigation, that 
+the investigation was the basis for underpayment, or that it conveyed this 
+contemporaneously, and the commissioner found U.S. Nursing failed to make this 
+showing.  We agree.  U.S. Nursing was the master of its own case on this issue, 
+and it put forward little if any evidence establishing the basis for any investigation 
+or related delay, let alone contemporaneous communications, concerning that 
+eight-month-period.  We, like the district court, find the commissioner’s decision to 
+award penalty benefits is supported by substantial evidence and must be affirmed. 
+ 
+AFFIRMED. 
+ 
+4 The commissioner’s appeal decision includes a detailed date-by-date recitation 
+of events pertinent to this issue in support of his conclusion that U.S. Nursing did 
+not comply with the statute until September 1, 2021.  Repeating the numerous 
+dates here would serve no purpose beyond cluttering the opinion. 

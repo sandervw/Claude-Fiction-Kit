@@ -1,0 +1,906 @@
+Case Number: 21008326.01
+Case Title:  SELBY, AARON V. THE MCCOY GROUP D/B/A FOODLINER
+Doc Type:    Decision - Deputy
+Source:      Selby Aaron-21008326.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+AARON SELBY, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                 File No. 21008326.01 
+THE MCCOY GROUP, D/B/A  
+  : 
+FOODLINER, 
+  : 
+ 
+ 
+  :             ARBITRATION DECISION 
+ 
+Employer, 
+  : 
+ 
+ 
+  :                   
+and 
+ 
+  : 
+ 
+ 
+  : 
+    
+TRAVELERS INSURANCE, 
+  : 
+ 
+ 
+  : 
+          Head Note:   1803 
+ 
+Insurance Carrier, 
+  : 
+ 
+ 
+  
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+ 
+Aaron Selby, claimant, filed a petition in arbitration seeking workers’ compensation 
+benefits from The McCoy Group, d/b/a Foodliner, employer, and Travelers Insurance, 
+insurance carrier, as defendants.  The hearing was held on April 25, 2025.  Pursuant to 
+an order from the Iowa Workers’ Compensation Commissioner, this case was heard via 
+videoconference using Zoom with all parties and the court reporter appearing remotely.   
+The parties filed a hearing report at the commencement of the arbitration 
+hearing.  On the hearing report, the parties entered into various stipulations.  Those 
+stipulations were accepted and are hereby incorporated into this arbitration decision. No 
+factual issues relative to the parties’ stipulations will be raised or discussed in this 
+decision.  The parties are now bound by their stipulations.  
+Aaron Selby was the only witness to testify live at trial.  The evidentiary record 
+also includes Joint Exhibits 1-10, Claimant’s Exhibits 1-5, and Defendants’ Exhibits A-G.  
+All exhibits were received into the record without objection.  
+The parties submitted post-hearing briefs on June 13, 2025.  However, on 
+October 3, 2025, the Iowa Supreme Court issued a decision in Den Hartog Industries, et 
+al v. Tyler Dungan, 26 N.W.3d 377 (Iowa 2025).  That decision interpreted the language 
+of Iowa Code section 85.34(2)(v), and its proper application; the application of Code 
+section 85.34(2)(v) is also an issue in this case.  Given that, on October 8, 2025, the 
+undersigned issued an order requesting additional briefing from the parties.  The 
+ELECTRONICALLY FILED     2026-Feb-06  12:36:41     DIVISION OF WORKERS' COMPENSATION
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 2 
+ 
+ 
+ 
+parties’ supplemental briefs were submitted on October 24, 2025, at which time this 
+case was fully submitted.  
+ISSUES 
+The parties identified the following disputed issues on the hearing report: 
+ 
+1. The nature and extent of claimant’s entitlement to permanent disability benefits. 
+ 
+2. The commencement date for permanent partial disability benefits, if any are 
+awarded.  
+ 
+3. Assessment of costs.  
+ 
+FINDINGS OF FACT 
+ 
+The undersigned, having considered all the evidence and testimony in the 
+record, finds as follows: 
+At the time of the hearing the claimant, Aaron Selby, (hereinafter “Selby”) was 64 
+years old. (Hearing Transcript, p. 13).  Selby lives in Beacon, Iowa. (Id. at 12).  He 
+graduated from Albia High School in 1979. (Id. at 13; Defendants’ Exhibit B, p. 4).  After 
+high school, Selby joined the Navy.  (Tr., p. 14).  From 1979 to approximately 1982, he 
+was an ironworker for the Navy, building bridges and welding. (Id.). In approximately 
+2003, Selby obtained an associates’ degree in business and theology. (Id. at 38).   
+After an honorable discharge from the Navy, Selby opened and ran his own 
+electronics business for approximately five years. (Ex. B, p. 5).  Following a period of 
+incarceration, in 2016 Selby took a job at a plastic factory working with molds. (Id.; Tr., 
+p.18).  He was there for about a year before returning to ironwork, signing up with the 
+local Ironworkers’ Union. (Id.; see also Tr., pp. 15-16).  From 2017-2021, Selby worked 
+for various employers through the Union. (Ex. B, p. 5).   
+In 2016, Selby suffered an injury to his neck while working at Riverbend 
+Industries, a plastics factory. (Tr., p. 18; Joint Exhibit 1, pp. 1-2).  As a result of that 
+injury, on July 13, 2016, Selby underwent a cervical discectomy and fusion surgery at 
+C5-C7 with Lynn Nelson, M.D. (JE 4, pp. 16-18).  Dr. Nelson placed Selby at maximum 
+medical improvement (MMI) for his neck on November 17, 2016. (Id. at 19).  In his 
+treatment note, Dr. Nelson noted that he had approximately 70 percent of his cervical 
+range of motion at that time. (Id.). Dr. Nelson released him to return to work without 
+restrictions and assigned a permanent impairment rating of 15 percent whole body. (Id. 
+at 22).   
+After his release by Dr. Nelson, Selby began working for the Ironworkers’ Union. 
+(Ex. B, p. 5).  On April 12, 2018, he suffered a second work injury while working at a 
+construction site. (JE 5, p. 23).  A 600-pound steel beam fell 12 feet and hit Selby in the 
+chest and right arm. (Id.). Selby was taken to the emergency room (ER) at Iowa 
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 3 
+ 
+ 
+ 
+Methodist. (JE 5, p. 23).  He was diagnosed with two closed rib fractures and a crush 
+injury to his right thumb. (Id. at 26). Cervical spine images showed no fractures. (Id. at 
+28).  It is not clear whether Selby had any follow-up treatment.  The ER note is the only 
+treatment record in evidence. Selby did welding and iron work for the Union until 2021. 
+(Ex. B, p. 5).  At the hearing, Selby testified that the work was very demanding and he 
+“just got too old to do that.” (Tr., p. 44).  In 2021, Selby went to truck driving school and 
+obtained his CDL. (Id. at 23).   
+Foodliner, the defendant employer, hired Selby to work as a truck driver in March 
+2021. (Tr., p. 23).  He drove a regional route. (Id.).  According to his hearing testimony, 
+his workday consisted of driving his truck to Cargill where he would fill the truck with 
+food grade liquid. (Id. at 24).  Then he would drive around locally and deliver the liquid 
+to various businesses. (Id.).   
+Selby was injured on June 10, 2021. (Tr., p. 25).  On that date, he was delivering 
+starch from Cargill to Wacker Chemical. (Id.).  Selby hooked up a 3-inch hose, similar to 
+a firehose, to Wacker’s system and was walking back to his truck to hook the other end 
+of the hose to his truck, when an employee at Wacker opened the valve causing the 
+hose to pressurize, which made the cap pop off the hose. (Id. at 25-26).  The cap hit 
+Selby in the face, knocking out two teeth. (Id. at 26).   
+Immediately after the accident, Selby was taken to the Eddyville Clinic where he 
+underwent cervical x-rays. (JE 6, pp. 31, 34-35).  According to the medical records, he 
+was diagnosed with a facial injury, tooth loss, and neck pain. (Id. at 32).  Selby was also 
+evaluated by his dentist, Daniel Schuster, DDS, that day. (JE 7, p. 89).  According to 
+those records, the hose knocked out tooth number 7, loosened tooth number 6, and 
+chipped tooth number 8.  (Id.).  Selby was also diagnosed with a ridge fracture.  (Id.).  
+Dr. Schuster reduced and stabilized the ridge fracture with a wire and put tooth number 
+6 back into its socket. (Id.).  He also prescribed antibiotics for a pus pocket in Selby’s 
+gums.  (Id.).  He was not able to re-implant tooth number 7. (Id.).  Dr. Schuster 
+recommended Selby return in a few weeks to get a partial denture for tooth number 7. 
+(Id.).  
+On June 14, 2021, Selby returned to the Eddyville Clinic for right-sided neck 
+pain. (JE 6, p. 37).  He was evaluated by Jamie Hyde, ARNP. (Id. at 38).  Selby was 
+also experiencing occasional dizziness, nausea, headaches, and a shooting pain from 
+his upper lip to his right eye. (Id. at 37-38).  Hyde diagnosed a whiplash injury to the 
+neck and a facial injury/ridge fracture. (Id. at 38).  She prescribed hydrocodone for pain 
+and took Selby off work until his next appointment. (Id.).  Selby returned to the Eddyville 
+Clinic on June 18, 2021. (Id. at 39).  He described severe pain and numbness in his 
+right arm when turning his head. (Id. at 41).  Hyde ordered a CT scan of Selby’s cervical 
+spine. (Id.).  Selby had additional appointments at the Eddyville Clinic on June 21, 2021, 
+and June 28, 2021. (Id. at 42-46).  
+The CT scan was performed on June 29, 2021, at Ottumwa Regional Health 
+Center. (JE 2, p. 5).  It showed his prior fusion at C5-C7 with some facet degenerative 
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 4 
+ 
+ 
+ 
+changes at several levels but no acute pathology, as well as bilateral sinus mucosal 
+disease. (Id.).   
+Selby returned to his dentist on July 8, 2021. (JE 7, p. 90). The treatment notes 
+indicate that tooth number 6 was turning colors and his gums were sore. (Id.).  Selby 
+told Dr. Schuster that the clinic had taken an MRI of his face and decided he needed 
+sinus surgery. (Id.).  Dr. Schuster took images of Selby’s teeth. (Id.).  Those showed 
+that tooth number 3 and tooth number 6 were dead. (JE 7, p. 90).  He recommended 
+Selby proceed with root canals on those teeth.  The treatment note indicates that Dr. 
+Schuster requested authorization from Foodliner’s insurance carrier for those 
+procedures. (Id.).  He, however, was still awaiting payment for the work he performed 
+on June 10, 2021, immediately after the incident. (Id.).  Dr. Schuster drained some pus 
+from the root of tooth number 3 and scheduled the root canals for July 20, 2021. (Id.).   
+Hyde reviewed the results of the CT scan on July 8, 2021. (JE 6, p. 49).  Her 
+medical note, however, does not record her impressions. (Id.).  Hyde indicated that 
+Selby had improved neck range of motion and a negative Rhomberg test. (Id.).   She 
+released him for a trial of regular duty work.  (Id.). 
+On July 19, 2021, Selby called Dr. Schuster’s office and canceled his root canal 
+surgery. (JE 7, p. 90).  The note indicates that Selby was scheduled for sinus surgery 
+on August 5, 2021, and the root canal date conflicted with a pre-operative appointment. 
+(Id.).  It also stated that Selby no longer wanted to proceed with the root canal on tooth 
+number 3. (Id.).  It was hurting him and he thought he could add a tooth to the partial 
+denture that his workers’ compensation coverage had agreed to purchase. (Id.).  
+On July 16, 2021, Selby returned to the Eddyville Clinic. (JE 6, p. 50).  He noted 
+tooth number 6 was changing colors. (Id.).  He also still reported shooting pain down his 
+neck into his hand and thumb when he tilted his head. (Id.).   Hyde’s treatment note 
+indicates that Selby was back to driving a truck for Foodliner.  (Id. at 51).  She 
+diagnosed him with cervical radiculopathy, neck pain and a facial injury, and ordered an 
+MRI of his neck.  (Id.).   
+The MRI took place on July 21, 2021, at Pella Regional Health Center. (JE 3, p. 
+9).  It showed intact hardware, mild degenerative disc changes at C3-4 and C4-5 
+without evidence of a recent osseous injury. (Id. at 10). Selby saw Hyde again on July 
+30, 2021. (JE 6, pp. 53-54).  She prescribed physical therapy. (Id.).   
+Selby underwent sinus surgery on August 6, 2021. (See JE 6, p. 56).  This 
+included removing polyps and inserting nasal stents. (Id.).  On August 11, 2021, Selby 
+returned to Dr. Schuster’s office for the root canal on tooth number 6. (JE 7, p. 91).  He 
+also had a filling placed in tooth number 8, and an impression taken for his partial 
+denture. (Id.).  Selby’s partial denture was delivered on September 24, 2021. (Id. at 92).   
+On August 30, 2021, Selby had a follow-up appointment at the Eddyville Clinic. 
+(JE 6, p. 56).  He told Hyde that his right shoulder range of motion had improved back to 
+his pre-accident levels. (Id.).  He still had an occasional pinching sensation going down 
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 5 
+ 
+ 
+ 
+to his trapezius muscle on the right side to his arm. (Id.).  The dentist had already 
+removed his wire and indicated the ridge fracture was healed. (Id.).  Selby stated he 
+was ready to be discharged from care. (Id.).  Hyde terminated his physical therapy and 
+discharged Selby from treatment. (Id. at 57).   
+On November 18, 2021, Selby returned to Dr. Schuster so he could fix the 
+abscess on tooth number 3.  (JE 7, p. 93).  On November 30, 2021, defendants’ 
+counsel sent Dr. Schuster a letter requesting his opinion on the date Selby’s 
+mouth/teeth reached maximum medical improvement (MMI) from the work injury and 
+whether Selby had sustained permanent impairment. (Id. at 98).  Dr. Schuster 
+responded on February 21, 2022. (Id.).  He indicated Selby’s mouth was at MMI and 
+had no permanent impairment. (Id.).   
+According to the medical records, Selby did not return back to the Eddyville Clinic 
+until August 9, 2022. (JE 6, p. 58).  Hyde’s treatment note indicates Selby was 
+experiencing more tenderness on the left side of his neck and pain in his left shoulder 
+blade. (Id. at 59). The note states that Selby initially thought he slept wrong and took a 
+few days off work, but the pain returned when he went back to work and drove a 
+delivery to California. (Id.).  Selby also reported numbness in his left thumb and fingers. 
+(Id.).  Hyde diagnosed neck pain, ordered a neck x-ray and an MRI, and prescribed pain 
+medication and muscle relaxers. (Id. at 60). Hyde also took Selby off work because of 
+weakness in his left arm. (Id.). Selby returned to the Eddyville Clinic on August 16, 
+2022, because he ran out of muscle relaxers. (JE 6, p. 62).  Hyde’s treatment note 
+states that the sharp pains had migrated to the right side of the shoulder blade. (Id.).   
+The MRI was performed on August 19, 2022, at Pella Regional Health Center. 
+(JE 3, pp. 11-12).  It showed chronic degenerative changes on the right at C3-C4 and 
+on the left at C5-6. (Id. at 12).   
+Selby returned to the Eddyville Clinic on August 23, 2022. (JE 6, pp. 64-65).  He 
+reported feeling a dead sensation in his left forearm and numbness and tingling in his 
+left thumb and fingers. (Id.).  Hyde diagnosed him with cervical radiculopathy, referred 
+him for an orthopedic evaluation, prescribed gabapentin, and extended his time off 
+work. (Id. at 65). Selby saw Hyde again on August 30, 2022, and September 19, 2022. 
+(Id. at 66-69).  His symptoms remained the same. (Id.).  On September 19, 2022, Hyde 
+changed his medication to duloxetine. (Id. at 69).  
+Selby was referred to the Iowa Clinic. (See JE 9, p. 109).  On September 22, 
+2022, he was evaluated by Emily Burns, ARNP. (Id. at 109-110).  He complained of 
+increased neck pain starting one month ago. (Id. at 109).  Selby described the pain as 
+starting in the left side of his neck and traveling down into his left scapula, left triceps, 
+left forearm, and left hand. (Id.). He also noted numbness and tingling in the left arm. 
+(Id.).  Burns opined that Selby’s MRI findings did not correlate with his symptoms. (Id. at 
+110).  She ordered an EMG. (Id.).  
+The EMG test took place on September 28, 2022. (JE 9, p. 111).  It was 
+abnormal with findings suggestive of axonal injury and motor unit loss in the left C8 
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 6 
+ 
+ 
+ 
+distribution and of milder motor loss in the left C7 distribution. (Id.).  Selby was referred 
+to Arpan Patel, M.D., a pain management specialist, for further treatment. (See id. at 
+114).  
+On October 20, 2022, Dr. Patel performed an interlaminar epidural steroid 
+injection at C6. (JE 9, p. 114).  Selby had a follow-up appointment on November 15, 
+2022. (Id. at 115).  He saw Nurse Burns.  (Id. at 116).  Selby told Burns that his arm 
+pain and numbness had greatly improved, but he was still experiencing posterior neck 
+pain that prevented him from driving. (Id.).  Burns diagnosed chronic cervical 
+radiculopathy and cervical facet arthropathy. (Id.).  She referred Selby back to Dr. Patel 
+for treatment. (Id.). 
+Selby saw Dr. Patel on December 1, 2022. (JE 9, p. 117).  Dr. Patel diagnosed 
+cervical facet arthropathy. (Id. at 118).  Dr. Patel performed a diagnostic medial branch 
+block on December 1, 2022. (Id.).  Dr. Patel performed a second medial branch block 
+on December 15, 2022. (Id. at 121).  On January 30, 2023, Dr. Patel performed a 
+cervical radiofrequency ablation (RFA). (Id. at 123). Selby had a follow-up appointment 
+with Dr. Patel on March 3, 2023. (Id. at 125-127).  He indicated that the cervical RFA 
+decreased his neck pain by 80-90 percent. (Id. at 127).   
+On March 21, 2023, Dr. Patel wrote defendants a report indicating that Selby had 
+reached maximum medical improvement (MMI) for his work injury. (JE 9, p. 129).  Dr. 
+Patel did not think Selby had suffered any permanent impairment as a result of the work 
+injury; however, he indicated Selby only had around 80 percent functional use of his 
+neck. (Id.).  Dr. Patel opined the impairment was from his prior fusion. (Id.).  Dr. Patel 
+did not provide Selby with any permanent work restrictions; he stated Selby could return 
+to full-duty work. (Id.).   
+Selby again returned to Dr. Patel on April 2, 2024. (JE 9, pp. 130-132).  He 
+complained of midline neck pain with radiation to the right occipital region, shoulder 
+blades, and left lateral arm. (Id. at 130).  An evaluation did not find numbness, tingling 
+or weakness. (Id.).  Selby was diagnosed with cervical facet arthropathy and prescribed 
+hydrocodone and prednisone. (Id.).  He was also referred for another RFA procedure.  
+(Id.).  On July 22, 2024, Dr. Patel performed a second cervical RFA. (Id. at 136).  This is 
+the last treatment note in the hearing record.  
+At his attorney’s request, Selby underwent an independent medical exam (IME) 
+with Sunil Bansal, M.D., on March 19, 2024. (Cl Ex. 1, p. 1).  Dr. Bansal diagnosed him 
+with a jaw fracture, nasal fracture, and multiple tooth loss status post root canal and 
+partial denture. (Id. at 11).  He also diagnosed an aggravation of cervical spondylosis 
+and facet arthropathy. (Id.).  Dr. Bansal causally related all of the diagnoses to the June 
+10, 2021 injury date. (Id. at 12-13).  He placed Selby at MMI on March 19, 2024, the 
+date of his evaluation. (Id. at 12).  Dr. Bansal indicated that Selby qualified for a 4 
+percent whole person impairment for his mouth injury and resulting dietary restriction of 
+eating semisolid foods secondary to his missing teeth and partial dentures, citing to 
+Table 11-7 of the AMA Guides to the Evaluation of Permanent Impairment, Fifth Edition. 
+(Id. at 14).  He also assigned 5 percent whole person impairment for Selby’s ongoing 
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 7 
+ 
+ 
+ 
+neck complaints of guarding and loss of ROM, stating he qualified for DRE category II 
+impairment under Table 15-5 of the AMA Guides.  (Id.).  Finally, Dr. Bansal suggested 
+permanent restrictions of no lifting greater than 20 pounds total, or 10 pounds overhead, 
+and to avoid work activities that require repeated neck motion or that place his neck in a 
+flexed position for more than 15 minutes. (Id.).  He also recommended intermittent 
+epidural injections, medial branch blocks and/or cervical RFAs, and routine 
+maintenance of his dentures. (Id.).  
+On September 5, 2024, Selby’s counsel met with Dr. Patel, the treating physician 
+for his injury date. (Cl Ex. 2, p. 17).  Following that meeting, counsel sent Dr. Patel a 
+request for a follow-up report. (Id.).  In this request, he asked Dr. Patel to confirm that 
+Selby needed a follow-up appointment after his second cervical RFA. (Id.). He also 
+indicated that he thought Selby would need intermittent RFAs in the future. (Id. at 18).  
+Counsel also indicated that Dr. Patel believed that the June 10, 2021 work incident of 
+being hit in the face with a pressurized hose was a contributing factor in Selby’s ongoing 
+cervical complaints and need for treatment, but his underlying cervical condition was 
+also a contributing factor. (Id.).  However, Dr. Patel also indicated he felt uncomfortable 
+stating the work injury on June 10, 2021, was a contributing factor in his ongoing need 
+for treatment. (Id.).  Dr. Patel stated that he is not trained in providing permanent 
+impairment ratings under the AMA Guides, and he would defer to a more experienced 
+physician on that question. (Id.).  Dr. Patel signed and returned counsel’s follow-up 
+report on September 6, 2024. (Id. at 18-19).   
+On February 27, 2025, defendants asked Charles Mooney, M.D., to review 
+Selby’s medical records and provide a permanent impairment rating for the June 10, 
+2021 date of injury. (JE 10, p. 139).  Dr. Mooney assigned 3 percent whole person 
+impairment for Selby’s axial neck pain from the new work injury, citing to Subsection C 
+on page 573 of the AMA Guides, Fifth Edition. (Id. at 140).  Subsection C outlines 
+impairment ratings for pain complaints. See AMA Guides, p. 572.  Dr. Mooney’s report 
+indicates that Selby does not have any additional impairment for loss of motion or 
+radiculopathy beyond that already assigned by Dr. Nelson in 2016 for his previous work 
+injury. (JE 10, p. 140).  Dr. Mooney did not opine on Selby’s need for work restrictions. 
+(Id.).   
+The record contains four opinions addressing permanent impairment from 
+Selby’s work injuries—Dr. Schuster, Dr. Patel, Dr. Bansal and Dr. Mooney.  Of these, I 
+find Dr. Bansal to be the most persuasive.  While both Dr. Mooney and Dr. Bansal 
+assign permanent impairment for Selby’s new neck injury, only Dr. Bansal uses the 
+DRE method, as instructed by the AMA Guides, as well as provides impairment for 
+Selby’s significant and relatively unresolved mouth injury. During his exam with Dr. 
+Bansal, Selby stated that he continues to have “considerable problems with his teeth, 
+especially while chewing.” (Cl Ex. 1, p. 10).  Dr. Bansal indicates Selby has to remove 
+his dentures and chew foods with only his gums, forcing him to eat softer foods. (Id.).  
+This finding is supported by Dr. Schuster’s records. (JE 7, pp. 89-97).  In addition to 
+tooth loss, Dr. Schuster’s treatment notes indicate that Selby continued to suffer from 
+abscesses, infection and pus pockets, gum tenderness, pain in tooth number 8, as well 
+as tight fitting/pinching dentures due to the resulting teeth movement. (Id.).  For 
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 8 
+ 
+ 
+ 
+example, Dr. Schuster’s treatment record from September 12, 2022, specifically states 
+“#8 feels weird, not loose but pain associated sometimes. His upper plate needs 
+adjusted – he hates it. And the pus pocket above #3 has never gone away.”  (Id. at 94).  
+Given the above, the undersigned adopts Dr. Bansal’s impairment ratings for Selby’s 
+neck and mouth conditions.   
+The parties have a disagreement about the commencement date of Selby’s 
+permanent disability benefits.  In their post-hearing brief, defendants argue that the 
+correct commencement date is March 21, 2023, the date Dr. Patel placed him at MMI 
+for his neck condition. (See Defendants’ Post-Hearing Brief, p. 8).  Neither of claimant’s 
+post-hearing briefs address the commencement date issue.  However, in his IME report, 
+Dr. Bansal provides an alternate MMI date for Selby’s neck injury. (Cl Ex. 1, p. 12).  Dr. 
+Bansal opines that Selby actually reached MMI on the date of his evaluation, March 19, 
+2024. (Id.).  There is, however, nothing to support this assertion.  Selby did not receive 
+any medical treatment for his neck complaints between Dr. Patel’s proposed MMI date 
+in March 2023, and his evaluation with Dr. Bansal in March 2024.  Thus, Selby cannot 
+show that his work injury improved because of further treatment between those dates.  
+Further, while Selby did see Dr. Patel twice after the date of his IME with Dr. Bansal, 
+there is no evidence that the treatment Dr. Patel provided at these appointments 
+improved his permanent neck condition.  Given this, I find March 21, 2023, is the proper 
+commencement date for Selby’s permanency benefits.  
+At the time of the hearing, Selby was no longer working for Foodliner. (See Tr., p. 
+32).  On February 24, 2022, Selby quit his position with Foodliner to take a driving job 
+with Hite Trucking. (Id. at 33; Ex. F, p. 17).  Selby testified that his job at Hite Trucking 
+was to pick up meat at JBS in Iowa and drive it to Riverside, California. (Tr., p. 33).  At 
+the hearing, Selby indicated that he knew the owner of Hite, Kenny, prior to taking a 
+position with Foodliner. (Id.).  He testified Kenny told him that he would hire him after he 
+obtained a year of experience driving for another company. (Id.).  Selby described the 
+job at Hite as his “dream job” because it allowed him to visit his daughter and grandkids 
+in California and then return home. (Id.).  
+Selby testified that his neck pain improved with treatment, but then returned in 
+August 2022, while he was in Cheyenne, Wyoming, in the middle of driving a load to 
+California for Hite. (Tr., p. 33).  He stated that his symptoms extended down into his 
+arms and hands, preventing him from driving the truck. (Id.).  Selby called his boss and 
+asked him to have someone else come get the truck because he didn’t think he could 
+finish the delivery. (Id.).  Selby indicated that he resigned from Hite and applied for 
+Social Security retirement benefits after that incident.1 (Id. at 34).  Selby testified he has 
+not applied for any jobs since resigning from Hite Trucking. (Id. at 34-35).  Selby alleged 
+that he retired early because of his ongoing cervical symptoms. (Id. at 35-36).   
+At the hearing, Selby testified that he continues to have problems turning his 
+neck and constant neck pain. (Tr., p. 36).  Selby stated he could not go back to driving a 
+truck, do ironwork or perform his job at the plastics factory. (Id. at 36-37).  
+ 
+1 Selby also gets disability benefits from the Veteran’s Administration for PTSD. (Tr., p. 34).   
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 9 
+ 
+ 
+ 
+CONCLUSIONS OF LAW 
+The party who would suffer loss if an issue were not established ordinarily has 
+the burden of proving that issue by a preponderance of the evidence.  Iowa R. App. P. 
+6.904(3)(e). 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the alleged injury occurred and that it both arose out of and in the course of the 
+employment.  Quaker Oats Co. v. Ciha, 552 N.W.2d 143, 150 (Iowa 1996); Miedema v. 
+Dial Corp., 551 N.W.2d 309, 311 (Iowa 1996).  The words “arising out of” refer to the 
+cause or source of the injury.  The words “in the course of” refer to the time, place, and 
+circumstances of the injury.  2800 Corp. v. Fernandez, 528 N.W.2d 124, 128 (Iowa 
+1995).  An injury arises out of employment when a causal relationship exists between 
+the injury and the employment.  Miedema, 551 N.W.2d at 311.  The injury must be a 
+rational consequence of a hazard connected with the employment and not merely 
+incidental to the employment.  Koehler Electric v. Wills, 608 N.W.2d 1, 3 (Iowa 2000); 
+Miedema, 551 N.W.2d at 311.  An injury occurs “in the course of” employment when it 
+happens within a period of employment at a place where the employee reasonably may 
+be when performing employment duties and while the employee is fulfilling those duties 
+or doing an activity incidental to them.  Ciha, 552 N.W.2d at 150. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148, 153 
+(Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154, 156 (Iowa Ct. App. 
+1997); Sanchez v. Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  Expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646, 652 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410, 420 
+(Iowa 2001); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845, 853 (Iowa 
+1995).  Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 421 (Iowa 1994).  Unrebutted 
+expert medical testimony cannot be summarily rejected.  Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910, 911-12 (Iowa Ct. App. 1994). 
+When an expert's opinion is based upon an incomplete or incorrect history, it is 
+not necessarily binding on the commissioner or the court. It is then to be weighed, 
+together with other facts and circumstances, the ultimate conclusion being for the finder 
+of the fact.  Musselman v. Central Telephone Company, 154 N.W.2d 128, 133 (Iowa 
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 10 
+ 
+ 
+ 
+1967); Bodish v. Fischer, Inc., 257 Iowa 516, 522, 133 N.W.2d 867, 870 (1965).  The 
+commissioner as trier of fact has the duty to determine the credibility of the witnesses 
+and to weigh the evidence, together with the other disclosed facts and circumstances, 
+and then to accept or reject the opinion.  Dunlavey, 526 N.W.2d at 853. 
+While a claimant is not entitled to compensation for the results of a preexisting 
+injury or disease, its mere existence at the time of a subsequent injury is not a defense. 
+Rose v. John Deere Ottumwa Works, 247 Iowa 900, 908, 76 N.W.2d 756, 760-761 
+(1956). If the claimant had a preexisting condition or disability that is materially 
+aggravated, accelerated, worsened or lighted up so that it results in disability, claimant 
+is entitled to recover. Nicks v. Davenport Produce Co., 254 Iowa 130, 135, 115 N.W.2d 
+812, 815 (1962); Yeager v. Firestone Tire & Rubber Co., 253 Iowa 369, 374-375, 112 
+N.W.2d 299, 302 (1961). 
+ 
+Defendants admit that Selby sustained a work-related injury to his body as a 
+whole on June 10, 2021.  The parties, however, disagree about the level of impairment 
+he sustained from this injury and how he should be compensated for the injury.  There 
+are several permanency opinions in the hearing record.  Above, I found Dr. Bansal’s the 
+most persuasive.  It is supported by the medical evidence and in compliance with the 
+AMA Guides.  It is adopted.  
+Based upon the arguments in their post-hearing briefs, the parties agree that 
+Selby’s claim should be determined under Iowa Code section 85.34(2)(v), but disagree 
+on whether he should be compensated functionally or industrially.  Selby argues he 
+should be compensated industrially.  Defendants claim he must be compensated 
+functionally.  Iowa Code section 85.34(2)(v) (2021) states as follows: 
+In all cases of permanent partial disability other than those described or 
+referred to in paragraphs “a” through “u”, the compensation shall be paid 
+during the number of weeks in relation to five hundred weeks as the 
+reduction in the employee’s earning capacity caused by the disability bears 
+in relation to the earning capacity that the employee possessed when the 
+injury occurred. A determination of the reduction in the employee’s earning 
+capacity caused by the disability shall take into account the permanent 
+partial disability of the employee and the number of years in the future it 
+was reasonably anticipated that the employee would work at the time of the 
+injury. If an employee who is eligible for compensation under this paragraph 
+returns to work or is offered work for which the employee receives or would 
+receive the same or greater salary, wages, or earnings than the employee 
+received at the time of the injury, the employee shall be compensated based 
+only upon the employee’s functional impairment resulting from the injury, 
+and not in relation to the employee’s earning capacity. Notwithstanding 
+section 85.26, subsection 2, if an employee who is eligible for compensation 
+under this paragraph returns to work with the same employer and is 
+compensated based only upon the employee’s functional impairment 
+resulting from the injury as provided in this paragraph and is terminated from 
+employment by that employer, the award or agreement for settlement for 
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 11 
+ 
+ 
+ 
+benefits under this chapter shall be reviewed upon commencement of 
+reopening proceedings by the employee for a determination of any 
+reduction in the employee’s earning capacity caused by the employee’s 
+permanent partial disability. 
+Id. 
+At the time of the hearing in April 2025, the parties agreed that Selby’s work-
+related injuries should be assessed industrially, even though defendants argued that he 
+has not demonstrated actual industrial disability from the 2021 work accident. (See 
+Hearing Report, p. 2; Defendants’ first post-hearing brief, p. 9).  It is presumed that this 
+stance was in reliance on the Commissioner’s ruling in Martinez v. Pavlich, File No. 
+5063900, 2020 WL 5412838 (Appeal Decision, July 30, 2020).  In Martinez, the 
+Commissioner held that when a claimant, who has already returned to work for the 
+same or greater earnings, voluntarily resigns his employment with the defendant 
+employer, that claimant is compensated industrially under Iowa Code section 
+85.34(2)(v). Id. at *5.  Specifically, the Commissioner found that a claimant’s voluntary 
+separation from the defendant employer removed claimant from the functional analysis 
+and triggered his entitlement to benefits under the statute’s industrial disability analysis. 
+Id. at *6 (“Thus, though claimant in this case was earning greater wages at the time of 
+the hearing than he was when he was injured, I conclude his earlier voluntary 
+separation from defendant-employer removed claimant from the functional impairment 
+analysis and triggered his entitlement to benefits using the industrial disability 
+analysis.”). This analysis was later confirmed by the Commissioner in Dungan v. Den 
+Hartog Industries, File No. 21700246.01, 2022 WL 17170554 (Arb. Decision, Sept. 30, 
+2022); Dungan v. Den Hartog Industries, File No. 21700246.01, 2023 WL 363118 
+(Appeal Decision, Jan. 13, 2023).   
+The parties in Dungan, however, sought further review of the Commissioner’s 
+decision and on October 3, 2025, the Iowa Supreme Court overturned the 
+Commissioner’s decision.  In Dungan, the claimant returned back to work for the 
+defendant employer after his work-related back injury, making more money then he did 
+at the time of the work accident. Den Hartog Industries v. Dungan, 26 N.W.3d 377, 379 
+(Iowa 2025).  However, approximately a year after the injury, the claimant and his fiancé 
+decided to relocate to be closer to family. Id. at 379-380.  Dungan quit his job with Den 
+Hartog Industries, the defendant employer, to take a job as a welder with Meridian 
+Manufacturing, making at least two dollars more per hour. Id. at 380.  In the arbitration 
+decision, the deputy determined that Dungan should be compensated industrially under 
+Iowa Code section 85.34(2)(v) because he quit his employment with the defendant 
+employer before the arbitration hearing. Dungan, 2022 WL 17170554 * 21.   
+The deputy’s decision was upheld by the Commissioner, the District Court and 
+the Court of Appeals. See also Den Hartog Industries v. Dungan, 19 N.3d 711 
+(Table)(Iowa Ct. App. 2025).  The Iowa Supreme Court, however, had a different 
+interpretation of the language in Iowa Code section 85.34(2)(v), and determined 
+Dungan should be compensated functionally. Den Hartog Industries v. Dungan, 26 
+N.W.3d 377, 382 (Iowa 2025).   
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 12 
+ 
+ 
+ 
+The Supreme Court found as follows:  
+We apply section 85.34(2)(v) in a straightforward manner as follows. Under 
+sentences 1 and 2, Dungan’s back injury would ordinarily be compensated 
+according to the industrial method, based on “the reduction in the 
+employee’s earning capacity caused by the disability.” Iowa Code § 
+85.34(2)(v). However, Dungan “return[ed] to work ... for which [he] 
+receive[d] or would receive the same or greater salary, wages, or earnings 
+than [he] received at the time of the injury.” Id. Therefore, under sentence 
+3, he should be compensated “based only upon [his] functional impairment 
+resulting from the injury, and not in relation to [his] earning capacity.” Id. 
+Finally, Dungan was not “terminated from employment” by Den Hartog, so 
+sentence 4 doesn’t apply, and there is no review-reopening. Id. In other 
+words, when all is said and done, Dungan should be compensated based 
+on functional impairment, as dictated by sentence 3, not loss of earning 
+capacity. 
+Den Hartog Industries, 26 N.W.3d at 382.   
+The Court determined that the “bifurcated litigation process” of obtaining 
+industrial disability under Iowa Code section 85.34(2)(v) “applies only when the 
+employee returns to employment with the same employer at the same or greater 
+earnings and is later terminated.” Id.  The Court held that “If the employee returns to 
+work at the same or greater earnings and isn’t terminated, then there is only one 
+litigation process, in which benefits are calculated using the functional impairment 
+method.” Id. (emphasis in original).  The Court went on to explain, 
+ 
+Section 85.34(2)(v) isn’t ambiguous. Instead, it provides for specific 
+consequences that flow from specific events. That is, if an employee with a 
+nonscheduled injury returns to work at the same or greater earnings, they 
+get compensated based on their functional impairment. But, if they return to 
+the same employer and are later terminated by that employer, they can 
+pursue a review-reopening and seek benefits under the industrial method. 
+Dungan fits the first circumstance but not the second, so his compensation 
+should be based on his functional impairment. 
+ Id. at 383.   
+From the language quoted above it is apparent that to receive industrial disability 
+benefits under Code section 85.34(2)(v) the Court believes claimants must prove either: 
+1) that they did not return to work for the defendant employer making the same or 
+greater wages after the injury or were not offered the same or greater wages by the 
+defendant employer after the injury, or 2) that they did return to work making the same 
+or greater wages or were offered work at the same or greater wages and then later the 
+defendant employer terminated their employment.  Id. The Commissioner recently 
+reviewed the Court’s holding in Dungan and came to the same conclusion. Laird v. 
+Trinity Health Corp., File No. 20011683.01 (Appeal Dec., Jan. 14, 2026). 
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 13 
+ 
+ 
+ 
+ 
+In this case, the parties agree that Selby returned to work for Foodliner, the 
+defendant employer, after the 2021 work injury.  They also agree that Selby voluntarily 
+quit his employment with Foodliner to take a driving job at Hite Trucking.  They, 
+however, disagree on how the language of Iowa Code section 85.34(2)(v) applies to the 
+above facts.  In his second post-hearing brief, Selby argues that he is still entitled to 
+industrial disability benefits under the Court’s holding in Dungan. (Claimant’s Second 
+Post-Hearing Brief, pp. 1-5).  He presents two separate arguments to support his 
+position.  The first argument is that his claim does not meet the “return to work” 
+requirement outlined in the statute. He states this is because Foodliner’s return to work 
+offer came before he reached MMI for the work injuries.2  Id. at 3.  According to the 
+facts above, Selby returned to regular-duty work at Foodliner in July 2021. (See JE 6, 
+pp. 49-51).  However, in February 2022, Selby quit his job at Foodliner to take an over-
+the-road trucking job at Hite Trucking. (Tr., p. 33; Ex. F, p. 17).  At the time of his 
+resignation, Selby had been placed at MMI for his mouth and teeth injuries, but he had 
+not yet reached MMI for his neck complaints.  From his hearing testimony, it appears 
+Selby resigned from his position at Hite Trucking in August 2022, and then applied for 
+Social Security retirement benefits.  Dr. Patel placed Selby at MMI for his neck condition 
+on March 21, 2023.  
+Selby frames his argument in terms of both statutory construction and 
+practicality. (See Claimant’s Second Post-Hearing Brief, pp.2-4). Selby argues that to 
+be valid under the statute, the employer’s return to work offer must be made after the 
+claimant reaches MMI.  (Id.).  Foodliner’s offer and Selby’s acceptance clearly came 
+before Selby reached MMI.  Selby’s argument is based upon the following statutory 
+language in subsection (2)(v), “If an employee who is eligible for compensation under 
+this paragraph returns to work or is offered work for which the employee receives or 
+would receive the same or greater salary, wages or earnings. . .”  Iowa Code § 
+85.34(2)(v)(emphasis added).  Selby returned to work for Foodliner in July 2021, but did 
+not reach MMI until March 21, 2023; therefore, Selby argues that at the time of 
+Foodliner’s offer he was not an employee eligible for permanent disability benefits under 
+Iowa Code section 85.34(2)(v), and thus the offer was not valid under the statute.  At 
+first glance, the surrounding statutory language appears to offer some support for 
+Selby’s interpretation. See Iowa Code § 85.34(2) (stating “Compensation for permanent 
+partial disability shall begin when it is medically indicated that maximum medical 
+improvement from the injury has been reached . . . “).   
+Whether a claimant is entitled to permanent impairment, however, and the extent 
+of that impairment has always been an issue that is determined by the agency at the 
+time of hearing, not at the exact moment a claimant reaches MMI.  See Kohlhaas v. 
+Hog Slat, Inc., 777 N.W.2d 387, 392 (Iowa 2009) (stating “In determining a scheduled or 
+unscheduled award, the commissioner finds the facts as they stand at the time of the 
+hearing . . . .”).  For example, in cases where defendants challenge a claimant’s 
+ 
+2 The undersigned notes that Dungan’s return to work offer was also made while he was still in his healing 
+period. See Dungan v. Den Hartog Industries, File No. 21700246.01, 2022 WL 17170554 (Arb. Decision, Sept. 30, 
+2022) (stating “Dungan continued to work in the same position at Den Hartog, performing duties while following his 
+lifting restriction.”).   
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 14 
+ 
+ 
+ 
+allegation of permanency, the agency must decide at hearing whether the claimant is 
+entitled to benefits under Iowa Code section 85.33 or Iowa Code section 85.34.  
+However, that does not mean that all of the milestones or requirements listed in those 
+Code sections need to take place after the agency’s determination.  That would be an 
+absurd and judicially inefficient interpretation of the language. See Janson v. Fulton, 
+162 N.W.2d 438, 442 (Iowa 1968) (“It is a familiar, fundamental rule of statutory 
+construction that, if fairly possible, a construction resulting in unreasonableness as well 
+as absurd consequences will be avoided.”); see also The Sherwin–Williams Co. v. Iowa 
+Department of Revenue, 789 N.W.2d 417, 427 (Iowa 2010) (“‘[E]ven in the absence of 
+statutory ambiguity, departure from literal construction is justified when such 
+construction would produce an absurd and unjust result and the literal construction in 
+the particular action is clearly inconsistent with the purposes and policies of the act.’” 
+(quoting Pac. Ins. Co. v. Or. Auto. Ins. Co., 490 P.2d 899, 901 (1971)).  A more likely 
+explanation is that the phrase “eligible for compensation under this paragraph,” is 
+intended to identify the category of individuals that could potentially receive industrial 
+disability benefits under the multi-step test outlined in Iowa Code section 85.34(2)(v); it 
+is not there to create a timeline.3   
+ 
+At the heart of Selby’s argument appears to be a concern about the suitability of 
+the employer’s work offer.  (Claimant’s Second Post-Hearing Brief, pp. 2-3). For 
+example, if the offer is made while the claimant is still on light-duty restrictions and 
+receiving treatment, it may not be a sustainable job once the claimant reaches MMI.  
+Especially, if the claimant’s causally-related condition continues to deteriorate and/or 
+the claimant receives significant permanent restrictions.  This, however, is a matter of 
+the suitability of the job offer itself, not necessarily the timing of that offer.  The parties 
+have not cited to any prior agency decisions finding an inappropriate or insincere job 
+offer from the defendant employer sufficient for the return to work or offer of work 
+requirement outlined in Iowa Code section 85.34(2)(v).  For example, an offer for a job 
+in the heavy demand category is not appropriate for a claimant medically limited to 
+sedentary work.  That, however, is not the situation presented in this case.  According to 
+the hearing record, Selby returned to full-duty work for Foodliner in July 2021.  He then 
+performed his full-duty job without restrictions or accommodations until February 2022, 
+at which time he voluntarily quit to take a job with Hite Trucking, a company owned by a 
+friend, which gave him the opportunity to see his family in California.  Selby returned to 
+full-duty work at Foodliner on approximately July 9, 2021. On August 30, 2021, the 
+Eddyville Clinic ended his physical therapy and discharged him from treatment.  Selby 
+then worked full-duty, full-time for Foodliner for six months before voluntarily quitting his 
+job for a different position. Selby then worked at Hite Trucking for another six months 
+until he had a new flare-up of his neck complaints while performing that job.  Contrary to 
+Selby’s assertion, there is no evidence in the hearing record indicating that the job 
+Foodliner offered him was inappropriate or mismatched to his physical abilities after the 
+injury.  Rather, it appears that Selby was able to perform that job, but chose to take a 
+different position for personal reasons.  The statutory language, however, does not 
+place the burden of that choice on the defendant employer.  
+ 
+3 Iowa Code section 85.34(2) is entitled Permanent Partial Disabilities. 
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 15 
+ 
+ 
+ 
+ 
+“Statutes should not be interpreted in a manner that leads to absurd results.” 
+Iowa Insurance Institute v. Core Group of Iowa Ass’n for Justice, 867 N.W.2d 58, 75 
+(Iowa 2015); See also Brakke v. Iowa Department of Natural Resources, 897 N.W.2d 
+522, 534 (Iowa 2017).  Selby’s interpretation of Iowa Code section 85.34(2)(v) would 
+have required Foodliner to offer Selby a new position after his placement at MMI in 
+March 2023.  By that time, however, Foodliner had already offered Selby a job, which 
+he accepted and performed for six months, before voluntarily leaving for other 
+employment.  In Schutjer v. Algona Manor Care Center, 780 N.W.2d 549, 559 (Iowa 
+2010), the Iowa Supreme Court was asked to evaluate a similar fact pattern for 
+compliance with Iowa Code section 85.33(3), the statute authorizing temporary disability 
+benefits.  In that case, the question was whether temporary total benefits were payable 
+when the employer offered suitable work, but instead of accepting the offer, the 
+employee voluntarily terminated her employment, which she later attempted to rescind. 
+Id. The Court unequivocally stated that the claimant was not entitled to temporary 
+benefits because the employee’s voluntary termination was “a rejection of suitable work 
+on that date and any future date.” Id. Similarly, under the language of Iowa Code 
+section 85.34(2)(v), Foodliner was not required to re-offer Selby a job he had already 
+quit. That would be an absurd and, in most instances, unfeasible requirement.  I do not 
+find Selby’s first argument persuasive.   
+ 
+Selby’s second argument is based on factual differences, as well as judicial 
+efficiency.  He argues that he is not similarly situated with the claimant in Dungan, and 
+therefore its holding should not control his case.  For example, at the time of the 
+Dungan hearing, the claimant’s work injury had improved, he no longer needed medical 
+treatment for the injury, had no permanent work restrictions, and was working full duty 
+for a new company making more money. (Claimant’s Second Post-Hearing Brief, p. 2). 
+In contrast, at the time of the hearing, Selby was receiving Social Security retirement 
+benefits and not working.  In addition, he testified to receiving ongoing treatment for his 
+neck complaints at the VA hospital since his release by Dr. Patel, and Dr. Bansal has 
+opined that he needs permanent work restrictions. (See Claimant’s Second Post-
+Hearing Brief, p. 2).  Given these facts, Selby argues he has proven he is unable to 
+continue working because of the 2021 work injury, and he should be entitled to 
+industrial disability benefits in this proceeding because Foodliner has not offered him 
+work compatible with his current abilities, not his abilities in 2022.4 (Id. at 2-3).  I am also 
+not persuaded by this argument.  First, the hearing record lacks substantial evidence 
+showing that Selby was unable to work at Foodliner at the time of hearing.  While he 
+ 
+4 Selby also argues that he is still entitled to traditional review-reopening rights pursuant to Iowa Code 
+section 10A.317, but he has already presented sufficient facts  to obtain industrial disability; therefore, requiring him 
+to file a subsequent review-reopening action is a waste of time and judicial resources.  The undersigned does not 
+know of any instances where the agency has allowed a claimant to merge an original proceeding with a review-
+reopening action for the same injury date.  In fact, the suggested action appears forbidden by the statutory language. 
+See Iowa Code § 85.26(2) (stating “An award for payments or an agreement for settlement . . . may be reviewed 
+upon commencement of review-reopening proceedings . . . .”)(emphasis added); Iowa Code § 10A.317(2) (outlining 
+a different standard for review-reopening actions).  Selby has not filed a review-reopening action with this agency, 
+nor does he have an award to review.  Given this, Selby’s arguments concerning his potential rights under Iowa Code 
+section 10A.317 are not ripe and will not be addressed in this decision.   
+ 
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 16 
+ 
+ 
+ 
+sought additional neck treatment after reaching MMI, Dr. Patel, his authorized treating 
+physician, has not placed any restrictions on his ability to work or indicated he is unable 
+to work.5 (JE 9, p. 110) (stating “He has no current work restrictions from my 
+standpoint.”).  On March 21, 2023, Dr. Patel stated Selby could return to full-time work 
+without restrictions. (Id. at 129).  He has not waivered from that opinion. (See id. at 132-
+136).  Additionally, while Dr. Bansal has recommended permanent work restrictions, he 
+also has not stated Selby cannot work. (See Cl Ex. 1, p. 14).  
+ 
+Finally, the Court’s decision in Den Hartog Industries, was narrowly focused on 
+the language of the statute itself.  The Court held that once a claimant returns to work 
+with the defendant employer at the same or greater wages, which Selby did, the fourth 
+sentence of the statute requires that he or she be terminated by that employer to access 
+the bifurcated litigation process in Iowa Code section 85.34(2)(v) and obtain industrial 
+disability benefits in the proceeding.  Den Hartog Industries, 26 N.W.3d at 382.  Selby 
+was not terminated by Foodliner; he quit to take another position.  Thus, under the 
+Court’s narrow construction, he is not entitled to industrial disability benefits in this 
+proceeding.  Selby must be compensated functionally.  The Court reiterates that its 
+decision is based on the “clear statutory language;” it does not indicate that there are 
+any allowable exceptions to the termination requirement. Id. at 384.  Thus, even though 
+Selby’s post-injury trajectory has differed from Dungan’s, the Court has not indicated 
+that the agency is allowed to adjudicate his claim in a different fashion. Given this, the 
+undersigned determines that Selby must be compensated functionally for the June 10, 
+2021 injury at this time.  
+Compensation or functional loss for scheduled injuries is determined by taking 
+the number of weeks allowed for a complete loss of the body part or scheduled 
+member, multiplied by the extent or percentage of impairment determined using the 
+AMA Guides. Iowa Code § 85.34(2)(x). The Workers' Compensation Commissioner has 
+adopted the AMA Guides 5th Edition for evaluating permanent impairment. 876 IAC 2.4. 
+ Above, I adopted Dr. Bansal’s proposed impairment ratings.  He opined Selby 
+qualified for 4 percent whole person impairment for his mouth injury and resulting 
+dietary restriction, citing to Table 11-7 of the AMA Guides, as well as 5 percent whole 
+person impairment for his ongoing neck complaints of guarding and loss of ROM, under 
+DRE category II on Table 15-5 of the AMA Guides.  (Id.).  According to the AMA Guides 
+Combined Values Chart, Dr. Bansal assigned Selby 9 percent whole person impairment 
+from the June 10, 2021 injury date.  See AMA Guides, p. 604. Selby is entitled to 45 
+weeks of permanent partial disability benefits. Iowa Code § 85.34(2)(v).  The 
+commencement date for these benefits shall be March 21, 2023, the date Dr. Patel 
+placed him at MMI.   
+Finally, Selby seeks an award of the costs, which are outlined in Claimant’s 
+Exhibit 5. (Cl Ex. 5, pp. 28-32).  Costs are to be assessed at the discretion of the deputy 
+commissioner hearing the case. See 876 IAC 4.33; Iowa Code § 10A.328.   
+ 
+5 According to the medical records, Nurse Hyde took Selby off work for arm weakness in August 2022, but 
+her notes indicate that restriction was only until he was cleared by Dr. Patel. (See JE 6, p. 88).   
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 17 
+ 
+ 
+ 
+Administrative Rule 4.33 provides as follows:  
+Costs taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+reviewing health service disputes. 
+876 IAC 4.33.   
+Selby incurred costs of $146.13 for the filing fee and service of his petition. (Cl 
+Ex. 5, pp. 28-30).  Selby was awarded additional permanent impairment in this action.  I 
+conclude it is reasonable to assess his filing fee and service costs pursuant to 876 IAC 
+4.33(3) and 876 IAC 4.33(7).  Selby also seeks reimbursement of $250.00 for the cost 
+of Dr. Patel’s September 6, 2024 report. (Id. at 28, 31-32).  I found Dr. Patel’s report 
+helpful.  It is appropriate to assess the cost of the report pursuant to 876 IAC 4.33(6). 
+ 
+I assess costs totaling $396.13.  
+ORDER 
+Defendants shall pay Selby forty-five (45) weeks of permanent partial disability 
+benefits at the rate of nine hundred ninety-seven and 36/100 dollars ($997.36) per week 
+commencing on March 21, 2023.   
+Defendants shall pay accrued weekly benefits in a lump sum together with 
+interest at an annual rate equal to the one-year treasury constant maturity published by 
+the federal reserve in the most recent H15 report settled as of the date of injury, plus 
+two percent.    
+Defendants shall pay costs of three hundred ninety-six and 13/100 dollars 
+($396.13).   
+Defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1 (2) and 876 IAC 11.7. 
+ 
+ 
+ 
+
+SELBY V. THE MCCOY GROUP D/B/A FOODLINER 
+Page 18 
+ 
+ 
+ 
+Signed and filed this __6th _ day of February, 2026. 
+ 
+ 
+ 
+_________________________ 
+ 
+         AMANDA R. RUTHERFORD 
+              DEPUTY WORKERS’  
+    COMPENSATION COMMISSIONER 
+ 
+The parties have been served as follows: 
+Jason David Neifert (via WCES) 
+Alison Stewart (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days from the date 
+above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of appeal must be filed via Workers’ 
+Compensation Electronic System (WCES) unless the filing party has been granted permission by the Workers’ Compensation 
+Division to file documents in paper form. If such permission has been granted, the notice of appeal must be filed at the 
+following address: Workers’ Compensation Commissioner, Workers’ Compensation Division, 6200 Park Ave., Suite 100, Des 
+Moines, Iowa 50321. The notice of appeal must be received by the Workers’ Compensation Division within 20 days from the 
+date of the decision. The appeal period will be extended to the next business day if the last day to appeal falls on a weekend or 
+legal holiday. 
+  

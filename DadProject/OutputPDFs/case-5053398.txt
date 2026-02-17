@@ -1,0 +1,349 @@
+Case Number: 5053398
+Case Title:  PRUISMANN, RICKY V. BRAD'S TANK LLC
+Doc Type:    Decision - Court of Appeals
+Source:      Pruissman, Rick-5053398.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 19-1012 
+Filed August 5, 2020 
+ 
+ 
+RICK PRUISMANN, 
+ 
+Plaintiff-Appellee, 
+ 
+vs. 
+ 
+IOWA TANKLINES INC. and ZURICH AMERICAN INSURANCE COMPANY, 
+ 
+Defendants-Appellants. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Hamilton County, Kurt L. Wilke, 
+Judge. 
+ 
+ 
+An employer and its insurance company appeal the ruling of the district 
+court on judicial review of the workers’ compensation commissioner’s decision.  
+REVERSED. 
+ 
+ 
+ 
+Valerie A. Foote of Smith Mills Schrock Blades Monthei, P.C., West Des 
+Moines, for appellants. 
+ 
+Jerry L. Schnurr III of Schnurr Law Firm, P.C., Fort Dodge, for appellee. 
+ 
+ 
+ 
+Considered by Bower, C.J., and Doyle and Schumacher, JJ.
+
+ 
+2
+BOWER, Chief Judge. 
+ 
+Iowa Tanklines, Inc., and its insurance company, Zurich American 
+Insurance Company,1 appeal the ruling of the district court on judicial review, which 
+reversed the workers’ compensation commissioner’s decision on Tanklines’s 
+employee Rick Pruismann’s workers’ compensation claim.  The commissioner 
+concluded Pruismann suffered a work-related injury and sustained a forty-five 
+percent industrial disability as a result.  The commissioner found Pruismann had 
+“failed to carry his burden of proof that he is permanently and totally disabled as a 
+result of the work injury under either an industrial disability analysis or under an 
+odd-lot analysis.”  Because there is substantial evidence in the record to support 
+the commissioner’s factual findings and his industrial disability conclusion is not 
+irrational, illogical, or wholly unjustifiable, we reverse the district court’s ruling to 
+the contrary and remand for dismissal of the petition for judicial review.   
+I. Background Facts and Proceedings.  
+ 
+Pruismann was employed by Tanklines in various capacities from 1990 to 
+2015, when he was laid off due to “lack of work.”  For the last twenty years 
+Pruismann worked as a mechanic.  The employer’s job description for the position 
+of mechanic states an employee must be able to walk, stoop, kneel, crouch, crawl, 
+climb, and balance at heights, frequently lift and/or move ten pounds, and 
+occasionally lift and/or move more than 100 pounds.  The employee must have full 
+range of body motion and be able to access all areas of trucks and trailers.  
+                                            
+1 For ease of reference, we will refer to the appellants collective as Tanklines or 
+employer. 
+
+ 
+3
+ 
+On May 3, 2007, a boom from a forklift crushed Pruismann’s right ankle at 
+work.  Pruismann underwent several surgeries.  In a letter dated April 16, 2013, 
+Pruismann’s orthopedic surgeon, Dr. David Inda, determined Pruismann suffered 
+a sixteen percent permanent impairment to the right lower extremity as a result of 
+the ankle injury.   
+ 
+On November 19, 2014, Pruismann injured his back while putting a power 
+takeoff motor on the back of a truck.  Pruismann immediately reported the incident 
+and went home without finishing his shift.   
+ 
+On April 10, Pruismann’s physical therapist noted that Pruismann was “no 
+longer . . . limited by pain” and had “full lumbar extension.”  The therapist noted 
+Pruismann had shown an improved gait and a lack of pain-related limitation in 
+motion testing.  The therapist recommended two to three additional weeks of 
+physical therapy, with two sessions per week.   
+ 
+On April 15, Pruismann’s surgeon, Dr. Beck, noted his improvement.  Dr. 
+Beck released Pruismann to return to regular work duties for half-day shifts on April 
+27.  He recommended continued physical therapy and another evaluation in four 
+weeks.  
+ 
+Pruismann attended his final authorized session of physical therapy on April 
+28.  At that time, he reported seventy-five percent improvement.  The therapist noted 
+Pruismann had resumed work on light duty and had not been performing “all the 
+tasks at work.”  Pruismann explained he was “sometimes” bothered by symptoms 
+at work, especially when working under a vehicle.  During the session, Pruismann 
+lifted thirty-five pounds from floor to waist.  He also carried thirty-five pounds up and 
+down stairs five times.  At the conclusion of the session, the therapist opined 
+
+ 
+4
+Pruismann had made “large improvements” and was “returning to function at work.”  
+The therapist recommended two additional sessions of physical therapy in order to 
+meet a “very work-relevant” performance goal of lifting tasks with fifty pounds of 
+weight.  
+ 
+Pruismann returned to Dr. Beck on May 11.  Dr. Beck opined Pruismann had 
+achieved maximum medical improvement (MMI).  He released Pruismann to return 
+to work at full duty on May 12.  Dr. Beck opined Pruismann sustained an eight 
+percent whole-person impairment as a result of the back injury.    
+ 
+Tanklines began paying Pruismann permanent partial disability benefits 
+coinciding with the eight percent whole-person rating issued by Dr. Beck.  Forty-four 
+weeks of such benefits were paid, at a weekly rate of $325.71.  
+ 
+On June 8, Pruismann was laid off for “lack of work.”  Pruismann filed for 
+and received unemployment benefits, which required that he perform a job search.  
+His unemployment job log listed six in-person contacts and notations that each 
+place was not hiring.  He filed no applications with the listed contacts. 
+ 
+On June 15, Pruismann filed an application for Social Security Disability 
+(SSD) benefits, listing conditions of a right ankle fracture, herniated disc of the back, 
+and early stage dementia.  He alleged an onset of disability on November 19, 2014. 
+Pruismann provided details of the physical demands of his former mechanic position 
+and noted the heaviest weight he lifted was fifty pounds and that he frequently lifted 
+twenty-five pounds.   
+ 
+In relation to the application for SSD benefits, Dr. Dennis Weis performed a 
+residual functional capacity assessment and found Pruismann capable of lifting and 
+carrying twenty pounds occasionally and ten pounds frequently; standing and 
+
+ 
+5
+walking six hours of an eight-hour workday; sitting six hours of an eight-hour 
+workday; occasionally climbing ramps or stairs, balancing, stooping, kneeling, 
+crouching or crawling; and never climbing ladders, ropes, or scaffolds.  A vocational 
+assessment was made, including consideration of Pruismann’s ability to perform 
+past relevant work.  It was noted Pruismann worked as a mechanic from 1995 to 
+2015, a work categorized as skilled, medium physical demand level work.  The 
+assessment concluded Pruismann was limited to light work by the medical examiner 
+and, accordingly, could not return to mechanic work due to lifting and/or standing 
+requirements.  Following review, Pruismann was found disabled for purposes of 
+SSD.  
+ 
+In July, Pruismann filed a petition for workers compensation.   
+ 
+On September 11, Pruismann presented to board-certified occupational 
+medicine physician Dr. Sunil Bansal for an independent medical examination (IME). 
+Dr. Bansal authored a report containing his findings and opinions dated November 
+24, 2015.  As elements of his evaluation, Dr. Bansal reviewed Pruismann’s medical 
+records and performed a physical examination.  He also interviewed Pruismann.  
+Pruismann complained of constant left low-back pain.  Pruismann reported he 
+believed he could safely lift twenty pounds occasionally and ten pounds on a more 
+frequent basis, could stand in one place for fifteen minutes before he needed to 
+move about, could walk for approximately one hour before he needed to sit, could 
+sit approximately one hour before becoming stiff and sore, and experienced difficulty 
+with stairs and traversing uneven surfaces.  Pruismann and Dr. Bansal also 
+discussed Pruismann’s prior job duties as a mechanic for Tanklines.  Dr. Bansal 
+noted Pruismann’s duties required bending, twisting, lifting, and climbing onto and 
+
+ 
+6
+under trucks.  Dr. Bansal also noted Pruismann was required to replace heavy truck 
+tires and, although an assistive machine was available, Pruismann was able to lift 
+fifty to seventy-five pounds to perform this task before his work injury.  
+ 
+In his IME report, Dr. Bansal agreed Pruismann reached MMI with respect to 
+his right ankle on March 26, 2013, and with respect to his back injury on May 11, 
+2015.  Dr. Bansal opined Pruismann’s right ankle injury resulted in a twenty percent 
+lower-extremity impairment and eight percent whole-person impairment.  With 
+respect to Pruismann’s back, Dr. Bansal agreed with Dr. Beck’s MMI date of May 
+11, 2015, and opined Pruismann experienced a ten percent whole-person 
+permanent impairment.  Dr. Bansal also recommended permanent restrictions 
+attributable to the “right ankle/back” conditions of no lifting over twenty pounds 
+occasionally and ten pounds frequently; no frequent bending, climbing, or twisting; 
+and sitting, standing and walking as tolerated, specifically recommending avoidance 
+of sitting or walking over sixty minutes and standing over thirty minutes.  Dr. Bansal 
+opined Pruismann would ultimately require right ankle arthrodesis.  He 
+recommended Pruismann receive maintenance care of his back, including 
+evaluation by a pain specialist to consider various treatment modalities.  
+ 
+Tanklines supplied Dr. Beck with a copy of Dr. Bansal’s report for review.  On 
+February 24, 2016, Dr. Beck responded to the employer’s counsel’s inquiries and 
+confirmed his prior opinions that Pruismann sustained permanent impairment of 
+eight percent whole person and did not require permanent work restrictions.   
+ 
+The employer retained vocational evaluator, Tom Karrow, who authored a 
+vocational rehabilitation report dated March 10, 2016.  Karrow based his report upon 
+Pruismann’s medical records, interrogatory answers, and deposition transcript, as 
+
+ 
+7
+well as information provided by the United States Department of Labor, Iowa 
+Workforce Center, and local labor market information.  Karrow noted Pruismann’s 
+work history included work as a mechanic, which he described as heavy, semi-
+skilled work; tractor-trailer truck driver, described as medium, semi-skilled work; 
+dispatcher, described as light, semi-skilled work; and heavy equipment operator.  
+Karrow wrote:  
+According to the medical records, Mr. Pruismann can return to work 
+full duty without restrictions as determined by Dr. Beck on May 12, 
+2015.  If Mr. Pruismann chooses to do so, there are currently drop-
+and-hook, no-touch-load tractor-trailer truck driving positions available 
+in the Webster City area.  These positions do not require the driver to 
+load or unload the freight, and loads are ready for the driver to 
+transport. . . .  He can also return to all of his previous occupations, 
+specifically his most recent job as a mechanic which is considered 
+heavy duty.  Tractor-trailer truck driving, according to the U.S. 
+Department of Labor, is considered medium duty. 
+ 
+Given Dr. Bansal’s limitations as set forth in his [IME] of 
+September 11, 2015, Mr. Pruismann would be able to return to drop-
+and-hook, no-touch-load tractor-trailer truck driving, except for the 
+sitting restriction.  Dr. Bansal indicates Mr. Pruismann should sit, stand 
+and walk as tolerated.   
+ 
+There is a possibility that drop-and-hook, no-touch-load truck 
+driving positions may be available for Mr. Pruismann that are also 
+within Dr. Bansal’s limitations if those job opportunities were in his 
+local area and would not require over-the-road, distance driving, 
+[t]This would limit the amount of sitting that is required.  Drop-and-
+hook, no-touch-load tractor-trailer truck driving is considered 
+sedentary to light duty work. 
+ 
+Karrow listed six employers in the labor market listing available opportunities and 
+the average yearly pay.  Karrow also noted Pruismann could perform other jobs that 
+met his skill level and physical restrictions.  Karrow opined that depending on what 
+alternative work Pruismann chose, his earning capacity ranged from no loss of 
+earnings to thirty-five percent loss of earnings. 
+
+ 
+8
+ 
+On March 21, Dr. Beck wrote to Pruismann’s counsel: “Because Mr. 
+Pruismann has a history of back surgery it would be prudent to limit his work 
+activities to infrequent stooping, kneeling, crawling, bending, or twisting.  I would 
+probably limit his repetitive lifting to [fifty] pounds and only infrequently go above 
+that.” 
+ 
+On April 27, Pruismann had another IME by Dr. Charles Mooney.  Dr. 
+Mooney concurred with Dr. Beck’s recommended work restrictions of lifting rarely 
+exceeding fifty pounds and limiting stooping, kneeling, crawling, bending or twisting 
+to an occasional basis.  He opined Pruismann demonstrated ten percent impairment 
+of the whole person as a result of his November 2014 back injury. 
+ 
+At the June 28, 2016 arbitration hearing, Pruismann testified that when he 
+returned to work in May 2015, he did not perform his duties in the same manner as 
+pre-injury.  Pruismann testified he worked more slowly and was more careful in his 
+actions.  He also testified he received assistance from coworkers on occasion, 
+particularly with moving and lifting heavy Items.  Pruismann testified he lacked full 
+motion of his body and the ability to move items weighing 100 pounds.  At his 
+deposition Pruismann described difficultly and increased pain with stooping, 
+crawling, bending, walking, and riding in vehicles.  Pruismann acknowledged 
+coworkers readily assisted each other with tasks prior to his back injury.  
+ 
+Pruismann testified he was not warned of an impending layoff, was not 
+advised of any job performance issues, and was unaware of any other employees 
+being laid off at the time of his June lay off.  He acknowledged he would not 
+necessarily be aware if employees were laid off from other terminals.  He also 
+testified he had intended to continue working for Tanklines had he not been laid off.   
+
+ 
+9
+On February 7, 2017, the deputy filed an arbitration decision, finding 
+Pruismann suffered a forty-five percent industrial disability, commencing on May 
+12, 2015, and awarded permanent partial disability benefits and select costs.  The 
+deputy concluded Pruismann failed to make a prima facie case of total disability 
+and that a penalty award was not appropriate. 
+Pruismann filed an intra-agency appeal to the workers’ compensation 
+commissioner.  On June 8, 2018, the commissioner issued his final decision, 
+noting,  
+[Pruismann] asserts on appeal that the deputy commissioner erred 
+in finding [he] sustained [forty-five] percent industrial disability as a 
+result of the work injury.  [Pruismann] asserts the award for industrial 
+disability should be increased substantially or, in the alternative, 
+claimant asserts he should be awarded permanent total disability 
+benefits under either an industrial disability analysis or under an odd-
+lot analysis. 
+ 
+The commissioner adopted and affirmed the deputy’s findings and “well-reasoned 
+analysis,” concluding Pruismann experienced a forty-five percent industrial 
+disability.  
+ 
+Pruismann sought review of the commissioner’s industrial-disability 
+determination and the agency’s rejection of his claim of total permanent disability.  
+The district court concluded the commissioner’s decision “was without substantial 
+evidence, and the charge that [Pruismann] is an odd-lot employee is supported by 
+substantial evidence.”   
+ 
+Tanklines appeals, contending the district court employed an incorrect 
+standard of review.   
+
+ 
+10 
+II. Scope of Review.   
+ 
+“Judicial review of workers’ compensation cases is governed by Iowa Code 
+chapter 17A.  On our review, we determine whether we arrive at the same 
+conclusion as the district court.”  Warren Props. v. Stewart, 864 N.W.2d 307, 311 
+(Iowa 2015). 
+III. Discussion. 
+ 
+Whether Pruismann suffered a forty-five percent industrial disability is a 
+mixed question of law and fact.  See Neal v. Annett Holdings, Inc., 814 N.W.2d 
+512, 525 (Iowa 2012).  A challenge to the agency’s ultimate conclusion is a 
+challenge to the agency’s application of law to facts.  See Meyer v. IBP, Inc., 710 
+N.W.2d 213, 219 (Iowa 2006).  We review the commissioner’s findings of fact for 
+substantial evidence and we “must engage in a ‘fairly intensive review of the record 
+to ensure that the fact finding is itself reasonable.’”  Neal, 814 N.W.2d at 525 
+(citation omitted).  But “in considering findings of industrial disability, we recognize 
+that the commissioner is routinely called upon to make such assessments and has 
+a special expertise in the area that is entitled to respect by a reviewing court.”  Id. 
+at 527.  “Because the challenge to the agency’s industrial disability determination 
+challenges the agency’s application of law to facts, we will not disrupt the agency’s 
+decision unless it is ‘irrational, illogical, or wholly unjustifiable.’”  Id. at 526 (citation 
+omitted). 
+ 
+Dr. Beck released Pruismann to return to work with restrictions, supporting 
+a finding that Pruismann was not precluded from returning to work.  Two IMEs 
+concluded Pruismann suffered only partial permanent whole-body impairment.  
+And a vocational evaluator found there were jobs Pruismann could perform and 
+
+ 
+11 
+opined that Pruismann’s earning capacity ranged from no loss of earnings to thirty-
+five percent loss of earnings.2  
+ 
+The district court erred in reversing the commissioner’s determination.  The 
+commissioner’s findings of fact with respect to the extent of Pruismann’s industrial 
+disability are supported by substantial evidence and the commissioner’s 
+application of those facts in holding Pruismann suffered a forty-five percent 
+industrial disability is not irrational, illogical, or wholly unjustifiable.  We reverse the 
+judgment of the district court.   
+ 
+REVERSED.   
+                                            
+2 The district court erred in making its own findings of fact: 
+After examining the transcript, the exhibits, the briefs from counsel, 
+and considering [Pruismann’s] age, lack of education, lack of 
+transferable job skills, and his physical detriments, enhanced by his 
+work back injury which preclude his employment as a mechanic, . . . . 
+(Emphasis added.)  “[T]he question on appeal is not whether the evidence 
+supports a different finding than the finding made by the commissioner, but 
+whether the evidence ‘supports the findings actually made.’”  Meyer, 710 N.W.2d 
+at 218 (citation omitted).  

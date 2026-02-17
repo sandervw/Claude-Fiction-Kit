@@ -1,0 +1,793 @@
+Case Number: 1652412.02
+Case Title:  RIFE, MICHAEL V. P.M. LATTNER MFG CO.
+Doc Type:    Decision - District Court
+Source:      Rife, Michael-1652412.02.District Court Decision.PDF
+========================================================================
+
+IN THE IOWA DISTRICT COURT IN AND FOR POLK COUNTY 
+ 
+ 
+P.M. LATTNER MANUFACTURING 
+COMPANY, 
+ 
+Employer, 
+ACCIDENT FUND GENERAL 
+INSURANCE COMPANY, 
+Insurer/Petitioners, 
+vs. 
+ 
+MICHAEL RIFE, 
+     Respondent. 
+ 
+ 
+ 
+Case No. CVCV063141 
+ 
+ 
+ 
+RULING ON PETITION FOR JUDICIAL 
+REVIEW 
+ 
+ 
+This matter was brought before the court on July 1, 2022, for hearing on Petitioner’s 
+Request for Judicial Review.  Attorney Laura J. Ostrander appeared on behalf of Petitioners P.M. 
+Lattner Manufacturing Company and Accident Fund General Insurance Company (Petitioners).   
+Attorney Tony Olsen appeared on behalf of Respondent, Michael Rife (Respondent). The court 
+having heard the arguments of counsel, reviewed the file, and being fully advised in the 
+circumstances, finds as follows. 
+BACKGROUND FACTS AND PROCEEDINGS 
+ 
+The case has a long factual history that was set forth in detail in the both the Arbitration 
+and Appeal Decisions.  Accordingly, the court need not repeat such in detail here.  The court refers 
+to the findings of fact as stated in the deputy commissioner’s decision and will discuss the portions 
+relevant to the court’s ruling.  
+Respondent as the original claimant experienced his first right-shoulder injury in March 
+2009.  The injury was determined to be a permanent functional impairment with an impairment 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 26
+
+Page 2 of 25 
+ 
+rating of 14 percent to the right arm or 8 percent to the body as a whole.   In September 2010, 
+respondent and petitioner entered into a full commutation which calculated a permanent disability 
+of 29.6 percent to the body as a whole.  Cert. Agy. Rec. Part 1, p. 332-337.  As per the full 
+commutation, respondent received a lump sum payment of $40,000 for the right shoulder injury. 
+Id.  The commutation was approved by the Iowa Workers’ Compensation Commissioner on 
+September 15, 2010.  Id. 
+In July 2017, the Iowa Legislature made amendments to Iowa Code section 85.34 which 
+changed the compensation for shoulder injuries from body as a whole (BAW) to scheduled 
+member injuries.  In August 2018, respondent sustained another injury to the right shoulder for 
+which he received medical treatment and care.  In the arbitration decision, the deputy 
+commissioner found respondent had sustained a second injury to his right shoulder that did not 
+extend into his body as a whole.  The second right shoulder injury was to be compensated as a 
+scheduled member injury pursuant to the section 85.34 amendments.  The deputy commissioner 
+adopted the impairment rating of Sunny Kim, M.D., and found respondent sustained 19 percent 
+impairment of his right upper extremity. Cert. Agy. Rec. Part 1, p. 55.  The deputy commissioner 
+found respondent was entitled to 19 percent of 400 weeks, which calculates to 76 weeks of 
+permanent partial disability (PPD) compensation, commencing on June 14, 2020, the date of 
+maximum medical improvement (MMI).  Id.   
+Petitioners argued they were due a credit of the compensation they had paid respondent for 
+his first shoulder injury and the full commutation agreement the parties had entered into for the 
+first injury.  The deputy commissioner found petitioners were not entitled to a credit against PPD 
+benefits owed for a “prior settlement” because respondent was compensated for industrial 
+disability resulting from an unscheduled injury.  Id. at 56.   
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 26
+
+Page 3 of 25 
+ 
+ 
+The deputy commissioner found respondent did not refuse an offer of suitable work, 
+meaning he was entitled to healing period benefits from July 24, 2019, the date of his termination, 
+through June 13, 2020, when he reached MMI.  Id. at 57.  The deputy commissioner also found 
+petitioners are responsible for reimbursement of the entirety of Dr. Kim’s charge for his 
+independent medical examination (IME).  Id. at 59.  Lastly, the deputy commissioner awarded a 
+portion of respondent’s costs of the arbitration proceeding.  Id. at 60.  On appeal, the commissioner 
+affirmed and adopted the deputy commissioner’s findings and arbitration decision. Id. at 61. 
+Petitioners brought this action for judicial review on the commissioner’s decision filed on 
+January 21, 2022.  Petitioners assert the commissioner erred in finding they are not entitled to a 
+credit for past benefits paid.  Petitioners also asserted the commissioner erroneously awarded 
+healing period benefits and reimbursement for the entirety of Dr. Kim’s IME.  Respondent asserts 
+the commissioner’s decision should be affirmed in its entirety.   
+STANDARD OF REVIEW 
+The Iowa Administrative Procedure Act, Iowa Code chapter 17A, governs the scope of the 
+Court’s review in workers' compensation cases.  Iowa Code § 86.26 (2011); Meyer v. IBP, Inc., 
+710 N.W.2d 213, 218 (Iowa 2006).  “Under the Act, we may only interfere with the commissioner's 
+decision if it is erroneous under one of the grounds enumerated in the statute, and a party's 
+substantial rights have been prejudiced.”  Meyer, 710 N.W.2d at 218.  A party challenging agency 
+action bears the burden of demonstrating the action's invalidity and resulting prejudice.  Iowa Code 
+§ 17A.19(8)(a).  This can be shown in a number of ways, including proof the action was ultra vires; 
+legally erroneous; unsupported by substantial evidence in the record when that record is viewed as 
+a whole; or otherwise, unreasonable, arbitrary, capricious, or an abuse of discretion.  See Id. § 
+17A.19(10).  The district court acts in an appellate capacity to correct errors of law on the part of 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 26
+
+Page 4 of 25 
+ 
+the agency.  Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002). 
+  “If the claim of error lies with the agency's findings of fact, the proper question on review 
+is whether substantial evidence supports those findings of fact” when the record is viewed as a 
+whole. Meyer, 710 N.W.2d at 219.  Factual findings regarding the award of workers' compensation 
+benefits are within the commissioner's discretion, so the court is bound by the commissioner's 
+findings of fact if they are supported by substantial evidence.  Mycogen Seeds v. Sands, 686 
+N.W.2d 457, 464-65 (Iowa 2004).  Substantial evidence is defined as evidence of the quality and 
+quantity “that would be deemed sufficient by a neutral, detached, and reasonable person, to 
+establish the fact at issue when the consequences resulting from the establishment of that fact are 
+understood to be serious and of great importance.”  Iowa Code § 17A.19(10)(f)(1); Mycogen, 686 
+N.W.2d at 464.  The application of the law to the facts is also an enterprise vested in the 
+commissioner.  Mycogen, 686 N.W.2d at 465.  Accordingly, the court will reverse only if the 
+commissioner's application was “irrational, illogical, or wholly unjustifiable.”  Id.; Iowa Code § 
+17A.19(10)(l).  This standard requires the court to allocate some deference to the commissioner's 
+application of law to the facts, but less than it gives to the agency's findings of fact.  Larson Mfg. 
+Co. v. Thorson, 763 N.W.2d 842, 850 (Iowa 2009). 
+LAW AND ANALYSIS 
+The Commissioner’s Finding of a Right-Shoulder Injury 
+ 
+The first issue before the court is petitioners’ request to affirm the commissioner’s 
+conclusion of a right-shoulder injury and not a left-shoulder, BAW injury which arose in and out 
+of the course of employment.  As the court finds the record supports this determination and 
+respondent has raised no argument against the determination, the court concludes this 
+determination is supported by substantial evidence.  
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 26
+
+Page 5 of 25 
+ 
+The second issue is informed by the first; as respondent was concluded to have sustained a 
+right-shoulder injury, it is not necessary for the court to conduct a 90-day notice analysis.    
+Moreover, the commissioner’s decision contains no ruling on the 90-day notice argument.  In 
+contested cases, the court’s review is limited to those questions considered by the administrative 
+agency.  General Tel. Co. v. Iowa State Commerce Comm’n, 275 N.W.2d 364, 367 (Iowa 1979).  
+Accordingly, to the extent the argument was not adjudicated at the agency level, such issues are 
+not properly before this court and cannot be addressed by it here. 
+Commissioner’s Conclusion to Award Temporary Total Disability Benefits 
+Petitioners next request a reversal of commissioner’s conclusion that respondent was 
+entitled to additional temporary total disability benefits.  Petitioners hold that because respondent 
+allegedly refused an offer of light duty work, he is not entitled to benefits.  Petitioners are correct 
+that pursuant to Iowa Code section 85.33, a refusal of light work is a bar to benefits under the 
+chapter.  Nonetheless, the court concludes the commissioner’s reasoning in this instance is 
+supported by substantial evidence in the record.  Section 85.33 requires:   
+The employer shall communicate an offer of temporary work to the employee in 
+writing, including details of lodging, meals, and transportation, and shall 
+communicate to the employee that if the employee refuses the offer of temporary 
+work, the employee shall communicate the refusal and the reason for the refusal to 
+the employer in writing and that during the period of the refusal the employee will 
+not be compensated with temporary partial, temporary total, or healing period 
+benefits, unless the work refused is not suitable. 
+ 
+Iowa Code § 85.33 (emphasis added)   
+ 
+Here, petitioners submit they offered respondent light work in the form of a letter dated 
+June 29, 2019.  Cert. Agy. Rec. Part 1, p. 362.  The letter makes a general offer of “modified duty” 
+that can “accommodate the work conditions.” Id.   It instructs to mark options, sign and return to 
+petitioner.  Respondent did not sign or return the form.  Petitioner contends this constitutes a refusal 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 26
+
+Page 6 of 25 
+ 
+an offer of light duty work.    
+The commissioner found respondent did not refuse an offer of light duty work because 
+there was no refusal in writing, and respondent did return to work on July 1, 2019.   Cert. Agy Rec. 
+Part 1, p. 57.   While the statute dictates the offer must be made in writing, it also instructs the 
+refusal shall also be communicated in writing.  Iowa Code § 85.33.  The record shows petitioner 
+did not receive any refusal in writing from respondent and confirms the commissioner’s finding 
+that respondent returned to work on July 1, 2019.  Id.  Accordingly, the court finds the 
+commissioner’s finding on this issue is supported by substantial evidence in the record. 
+Commissioner’s Conclusion Respondent is Due Reimbursement for Dr. Kim’s IME 
+ 
+The commissioner concluded respondent was due full reimbursement of his independent 
+medical examination (IME) with Dr. Kim.  This was largely based on the commissioner’s finding 
+that petitioners’ physician, Dr. White, actively withheld and refused to provide respondent with an 
+impairment rating or disability evaluation.  Petitioners contend respondent is not due full 
+reimbursement of Dr. Kim’s IME because there was no such withholding, and the IME contained 
+reference to a right ankle injury which is not included in the petition or the subject of these 
+proceedings pursuant to Iowa statute.  The court examines the relevant statute.  Iowa Code section 
+85.39 states in part: 
+After an injury, the employee, if requested by the employer, shall submit for 
+examination at some reasonable time and place and as often as reasonably 
+requested, to a physician or physicians authorized to practice under the laws of this 
+state or another state. 
+ 
+If an evaluation of permanent disability has been made by a physician retained by 
+the employer and the employee believes this evaluation to be too low, the employee 
+shall, upon application to the commissioner and upon delivery of a copy of the 
+application to the employer and its insurance carrier, be reimbursed by the employer 
+the reasonable fee for a subsequent examination by a physician of the employee's 
+own choice, and reasonably necessary transportation expenses incurred for the 
+examination. 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 26
+
+Page 7 of 25 
+ 
+ 
+ (Emphasis added).   
+Iowa courts have consistently held the process prescribed in the statute must be followed 
+for reimbursement.   “The statutory process balances the competing interests of the employer and 
+employee and permits the employee to obtain an independent medical examination at the 
+employer's expense.”  Des Moines Area Reg'l Transit Auth. v. Young, 867 N.W.2d 839, 844 (Iowa 
+2015) (citing IBP, Inc. v. Harker, 633 N.W.2d 322, 327 (Iowa 2001)).   “An employer, however, 
+is not obligated to pay for an evaluation obtained by an employee outside the statutory process.”  
+Id.  “The IME for which recovery is being sought was obtained before DART’s [employer’s] 
+physician had made any impairment rating, contrary to the provisions of Iowa Code section 85.39.”  
+Des Moines Area Reg'l Transit Auth. v. Young, 856 N.W.2d 383 (Iowa Ct. App. 2014), aff'd, 867 
+N.W.2d 839 (Iowa 2015).  “We agree with the commissioner and the district court that Iowa Code 
+section 85.39 does not expose the employer to liability for reimbursement of the cost of a medical 
+evaluation unless the employer has obtained a rating in the same proceeding with which the 
+claimant disagrees.”  Kohlhaas v. Hog Slat, Inc., 777 N.W.2d 387, 394 (Iowa 2009) (emphasis 
+added).  The Iowa Supreme Court has also strongly emphasized the importance of adhering to the 
+statutory process for reimbursements to employees for an IME.    
+[S]ection 85.39 is the sole method for reimbursement of an examination by a 
+physician of the employee's choosing . . . Our legislature established a statutory 
+process to govern examinations . . . Neither courts, the commissioner, nor attorneys 
+can alter that process by adopting contrary practices.  If the injured worker wants 
+to be reimbursed for the expenses associated with a disability evaluation by a 
+physician selected by the worker, the process established by the legislature must be 
+followed. 
+ 
+867 N.W.2d at 846–47.  (emphasis added). 
+ 
+ 
+The process for reimbursement is set out clearly in the statute.  The employee must first 
+attend an evaluation at the employer’s choosing, “as often as reasonably requested,” and obtain an 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 26
+
+Page 8 of 25 
+ 
+evaluation rating of permanent disability.  Iowa Code § 85.39.  Due to the strict construing of 
+section 85.39 in Iowa caselaw, the court concludes practices outside of the process are not 
+contemplated by the statute and are not due reimbursement.   
+ 
+Commissioner’s Application of Section 85.39 to the Facts in the Instant Case 
+To determine whether the commissioner’s conclusion is in conformity with the above-
+reference statute and caselaw, the court briefly reviews the record surrounding the examination in 
+the instant case.  The record establishes Respondent initially attended a functional capacity 
+evaluation (FCE) with E3 Work Therapy Services, scheduled by petitioner on November 13, 2019.  
+Cert. Agy. Rec. Part 1, pgs. 381-385.   Petitioner’s physician, Dr. White, informed respondent the 
+FCE was invalid due to inconsistent performance and no maximum effort given on the part of 
+respondent.  Id.  Dr. White stated an impairment rating could not be reached based on the initial 
+FCE and ordered a second FCE with E3 to gain a valid rating.  Id. 
+In February 2020, petitioners made considerable attempts to schedule the second FCE, but 
+respondent refused to schedule it on the basis that he objected to the XRTS (Cross-Reference 
+Testing System) method of testing used by E3 in the evaluation.  Id. at 367-369.  Petitioners also 
+filed two motions to compel functional capacity examinations which were both denied by the 
+commissioner.  Cert. Agy Rec. Part 2, pgs. 28-41.  Respondent continued to refuse the second FCE 
+with E3 and instead, procured his own FCE with Short Physical Therapy (Short FCE) on February 
+29, 2020.  Cert. Agy. Rec. Part 1, pgs. 405, 164.   
+In March 2020, petitioners had Robert Townsend, an expert in functional capacity 
+evaluations review the Short FCE report and found it lacked evidence of respondent’s full effort.  
+Id. at 371-379.   Upon request to Dr. White for a rating, Dr. White acknowledged petitioners were 
+looking to schedule a new FCE with E3.  Id. at 160-163.  In July 2020, having still not been able 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 26
+
+Page 9 of 25 
+ 
+to schedule the second FCE, petitioners plainly set forth Dr. White was not able to issue a rating 
+without the second FCE.  Id. at 165.  Respondent then procured an independent medical evaluation 
+(IME) with Dr. Kim for which he seeks reimbursement in this action. Id. p. 146. 
+Respondent’s Refusal to Schedule A Second FCE:  Shortly after the first FCE was found 
+invalid in November 2019, petitioners determined a second FCE was needed and initiated attempts 
+to complete it with respondent.  By including the language, “as often as requested,” the legislature 
+demonstratively contemplated the potential necessity of multiple FCEs.  Iowa Code § 85.39.  As 
+such, the court finds this was not unreasonable to schedule an additional FCE for the purposes of 
+obtaining an accurate impairment rating.  Additionally, there was no unreasonable delay in 
+petitioners’ attempts to schedule the second FCE as respondent’s first documented refusals began 
+less than 60 days later.  Cert. Agy. Rec. Part 1, pgs. 367-369.   
+The court finds in refusing to schedule and attend petitioners requested FCE, respondent 
+was in direct violation of section 85.39.  The statute dictates employees, “shall submit for 
+examination . . . as often as reasonably requested.”  Iowa Code § 85.39.  “[A]n an injured worker 
+is required to submit to an examination by a physician selected by the employer at the employer's 
+expense as often as reasonably required.”  Des Moines Area Reg'l Transit Auth., 867 N.W.2d at 
+843 (emphasis added).  The statute also states, “[t]he refusal of the employee to submit to the 
+examination shall forfeit the employee's right to any compensation for the period of the refusal.”  
+Iowa Code § 85.39. 
+Despite respondent’s strong disapproval or distrust of the XRTS evaluation method, 
+section 85.39 does not afford respondent any option to refuse petitioners’ FCE method when 
+seeking reimbursement.  On the contrary, by using the word “shall,” the legislature very clearly 
+obligates respondent to first attend petitioners’ FCE and gain an impairment rating.  Moreover, the 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 26
+
+Page 10 of 25 
+ 
+statute does not obligate petitioners to conform to respondent’s desired method of evaluation for 
+the FCE.  “If injured workers believe the battle favors the employer, the change sought must come 
+from the legislature. We cannot interpret the statutory process to undermine or defeat the intent of 
+the legislature.”  Des Moines Area Reg'l Transit Auth., 867 N.W.2d at 847.  Due to this, the court 
+finds respondent’s actions in refusing petitioners’ reasonably requested second FCE is outside of 
+the statutory process and contrary to section 85.39.  
+Respondent’s Seeking the Short FCE and Dr. Kim IME Without Impairment Rating from 
+Petitioners:  In addition to refusing the second FCE, respondent took the further step of scheduling 
+the Short FCE and then the IME with Dr. Kim.  Cert. Agy. Rec. Part 1, p. 164, 146.    The court 
+finds this is also outside of the prescribed process in section 85.39.  Here again, for the purposes 
+of reimbursement, section 85.39 does not afford respondent the option to seek out his own 
+evaluations without first gaining an impairment rating from petitioners FCE.  Pursuant to section 
+85.39, the only option respondent has for reimbursement is to first gain an impairment rating from 
+petitioners’ FCE, then seek his own FCE, and apply to the commissioner for reimbursement.  That 
+did not happen here as respondent sought his own FCE before a rating could be gained by 
+petitioners.  Due to this, the court finds respondent’s actions in seeking his own evaluations without 
+an initial impairment rating from petitioners to be outside of the statutory process and contrary to 
+85.39.   
+Commissioner’s Finding Petitioners Withheld Impairment Rating:  The commissioner 
+concluded respondent was due reimbursement for Dr. Kim’s IME.  Cert. Agy. Rec. Part 1, p. 59.  
+This was mainly supported with the commissioner’s finding that petitioners purposefully withheld 
+the impairment rating and could have used the Short FCE or the Kim IME to come to an 
+impairment rating.   
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 26
+
+Page 11 of 25 
+ 
+Defendants [petitioners] essentially held the disability evaluation hostage when 
+claimant refused to present for a repeat FCE with E3 . . . defendants did not want 
+Dr. White to ‘rely on the FCE done at Short Physical Therapy [when assessing 
+claimant’s] [respondent] disability assessment . . . This, despite the fact Dr. White 
+could have assessed claimant’s permanent impairment on any number of other 
+factors, 
+  
+Id.   The commissioner stated respondent, therefore, “met his burden of establishing entitlement to 
+reimbursement . . . pursuant to Iowa Code section 85.39.”  Id. 
+Even though petitioners had no impairment rating to withhold due to respondent refusing 
+the second FCE, the commissioner attempts to support his reasoning with the following quote.  “If 
+an employer unduly delays in seeking an examination under section 85.39, or fails to obtain an 
+examination, the employee may request the commissioner to appoint an independent physician to 
+examine the employee and make a report.”  Des Moines Area Reg'l Transit Auth. v. Young, 867 
+N.W.2d 839, 847 (Iowa 2015).   
+The court first notes, as stated previously, petitioners had an initial FCE and promptly 
+attempted to schedule a second one when the first one was found to be invalid.   Cert. Agy. Rec. 
+Part 1, pgs. 381-385.  As established, petitioner made several attempts, including two motions to 
+compel, to schedule the second FCE and it was respondent who refused to submit to the exam, in 
+violation of section 85.39.  Id. at 164, 405; Cert. Agy. Rec. Part 2, pgs. 28-41.  Had respondent 
+submitted to the second FCE when petitioners were trying to schedule it, the evaluation would 
+likely have been done and respondent would have been free to agree or disagree with the resulting 
+disability rating.  The court finds no indication of undue delay in scheduling on the part of 
+petitioner and further finds that any delay in scheduling an FCE was predominantly due to 
+respondent’s efforts in refusing.   
+  Notwithstanding respondent’s violations of section 85.39, the commissioner’s reasoning 
+would seemingly force petitioners to determine an impairment rating using an evaluation of 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 11 of 26
+
+Page 12 of 25 
+ 
+respondent’s choosing without having first determined a rating through their own FCE.  It would 
+have respondent’s preferences initiate and guide the process instead of respondent following the 
+process outlined by the legislature and reinforced in Iowa caselaw.  It would also have petitioners 
+obligated to conform to respondent’s preferences instead of the process in Section 85.39. 
+The court rejects such reasoning and finds Section 85.39 places petitioners under no such 
+obligation.  Indeed, the statute authorizes petitioners to first sponsor an FCE and determine a rating 
+before reimbursement to respondent can even be considered.  The statute contains no language 
+which permits respondent to dictate or initiate the FCE process, nor force petitioners to use his 
+preferred evaluation method, or provide a basis for how petitioners determine rating.  In this 
+circumstance, the only option section 85.39 affords respondent for reimbursement is to first obtain 
+a rating from petitioners, then procure his own evaluation and rating, and apply to the 
+commissioner for reimbursement.  Iowa Code § 85.39.   “A medical evaluation pursuant to section 
+85.39 is a means by which an injured employee can rebut the employer's evaluation of disability.  
+It is not a way for the employee to initiate proceedings.”  Des Moines Area Reg'l Transit Auth. v. 
+Young, 856 N.W.2d 383 (Iowa Ct. App. 2014), aff'd, 867 N.W.2d 839 (Iowa 2015).   
+ The court finds the commissioner’s reasoning in granting respondent reimbursement for 
+Dr. Kim’s IME wholly against the language and interpretation of section 85.39 as well as 
+completely unsupported in the record.  For these reasons, the court concludes the commissioner’s 
+conclusion that respondent is due reimbursement under section 85.39 is erroneous. 
+Commissioner’s Conclusion Petitioners Are Not Due a Credit  
+The overarching issue before the court is whether petitioners are due a credit for their 
+previous compensation of respondent’s prior right-shoulder injury.  Largely due to changes in Iowa 
+Code section 85.34, the commissioner concluded petitioner was not entitled to a credit.   The court 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 12 of 26
+
+Page 13 of 25 
+ 
+assesses the issue in view of those changes and the full commutation the parties entered into.   
+Determining whether a credit is due under the statute involves the 2017 amendments to 
+Iowa Code section 85.34.  As mentioned in the facts, prior to July 2017, a shoulder injury was not 
+considered to be a scheduled member.  The 2017 amendments reclassified the shoulder as a 
+scheduled member.  As a result, injuries to the shoulder occurring after July 1, 2017 have been 
+compensated as a scheduled member.   
+This case is unique because respondent’s first shoulder injury occurred prior to the 2017 
+amendments and the second shoulder injury occurred after the amendments.  Under other 
+circumstances, the second injury would likely be compensated according to the new legislation 
+and any potential credit would be calculated based on established past compensation.  However, 
+in this case, there is not only the change in the law, but also a full commutation agreement to 
+consider.  Cert. Agy. Rec. p. 332-337.   
+In supporting the decision against a credit, the commissioner focused strongly on the 
+change in the designation of a shoulder injury to a scheduled member.  While the court agrees the 
+amendments did reclassify shoulder injuries as a scheduled member, the court also notes the 
+language against double compensation in subsection 7 remained.  Iowa Code § 85.34(7).   
+Additionally, the statutes on commutations also remain unchanged by the legislature.  Iowa Code 
+§ 85.45; Iowa Code § 85.47.    
+Thus far, there have been no cases decided in Iowa on how to potentially compensate a 
+second shoulder injury with the same employer in the face of a full commutation and the 2017 
+amendments.  Hence, this is an issue of first impression for the court.  With regard to the new 
+legislation and the full commutation, the primary task is to determine the impact on any benefits 
+to respondent and potential credit, if any, to petitioners. 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 13 of 26
+
+Page 14 of 25 
+ 
+Interpretation of the 2017 Amendments to Section 85.34 
+In order to properly determine whether petitioners are due a credit, section 85.34 and its 
+amendments must be interpreted to ascertain the legislature’s intent in making the changes.  “When 
+determining legislative intent, we look first to the language of the statute.”  State v. Soboroff, 798 
+N.W.2d 1, 6 (Iowa 2011).  “We determine legislative intent from the words chosen by the 
+legislature, not what it should or might have said.”  Reg'l Util. Serv. Sys. v. City of Mount Union, 
+874 N.W.2d 120, 124 (Iowa 2016).  “Absent a statutory definition or an established meaning in 
+the law, words in the statute are given their ordinary and common meaning by considering the 
+context within which they are used.”  Swiss Colony, Inc. v. Deutmeyer, 789 N.W.2d 129, 136–37 
+(Iowa 2010).  We also look to the purpose of the statute for aid in gleaning legislative intent.  State 
+v. Hensley, 911 N.W.2d 678, 682 (Iowa 2018).   
+In the context of compensation cases, the court acknowledges that while it “is correct that 
+we interpret workers’ compensation statutes in favor of the worker, we still must interpret the 
+provisions within the workers’ compensation statutory scheme ‘to ensure our interpretation is 
+harmonious with the statute as a whole.’” Chavez v. MS Tech. LLC, 972 N.W.2d 662, 668 (Iowa 
+2022) quoting Ramirez-Trujillo v. Quality Egg, L.L.C., 878 N.W.2d 759, 770 (Iowa 2016).  “Our 
+supreme court has determined the legislature has not vested the commissioner with the authority 
+to interpret section 85.34(7).”  Polaris Indus., Inc. v. Hesby, 881 N.W.2d 471 (Iowa Ct. App. 2016); 
+See Roberts Dairy v. Billick, 861 N.W.2d 814, 817 (Iowa 2015).  “Therefore, we review the 
+commissioner's statutory interpretation ‘to correct errors of law on the part of the agency.’”  Polaris 
+quoting Teleconnect Co. v. Iowa State Commerce Comm'n, 404 N.W.2d 158, 161 (Iowa 1987).    
+ 
+Purpose and Language of 2017 Amendments to Iowa Code § 85.34:  Besides the relatively 
+straightforward change in the designation of shoulder injuries from BAW to scheduled member 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 14 of 26
+
+Page 15 of 25 
+ 
+injuries in subsection 2(n), the 2017 amendments also changed subsection 7, labeled “Successive 
+Disabilities.”  Iowa Code § 85.34(7).  This subsection is particularly relevant in determining 
+whether a credit is due to petitioner under chapter 85.  As such, the court discusses the intent and 
+language of the amendments to subsection 7. 
+Initially, subsection 7 was added in 2004 as a completely new subsection during previous 
+amendments to Iowa Code section 85.34.  2004 Iowa Acts 1st Extraordinary Sess. ch. 1001, § 11.  
+Importantly, this preceding and original version of subsection 7 included a formula for how 
+apportionment or credit should be calculated for successive injuries with the same employer:   
+a. An employer is fully liable for compensating all of an employee's disability that 
+arises out of and in the course of the employee's employment with the employer. 
+An employer is not liable for compensating an employee's preexisting disability 
+that arose out of and in the course of employment with a different employer or from 
+causes unrelated to employment. 
+b. If an injured employee has a preexisting disability that was caused by a prior 
+injury arising out of and in the course of employment with the same employer, and 
+the preexisting disability was compensable under the same paragraph of section 
+85.34, subsection 2, as the employee's present injury, the employer is liable for the 
+combined disability that is caused by the injuries, measured in relation to the 
+employee's condition immediately prior to the first injury. In this instance, the 
+employer's liability for the combined disability shall be considered to be already 
+partially satisfied to the extent of the percentage of disability for which the 
+employee was previously compensated by the employer. 
+Iowa Code § 85.34(7)(a)(b) (pre-2017 amendments) (emphasis added).   
+The insertion of this first subsection 7 was helpfully accompanied by a statement which 
+unambiguously set forth the legislative intent behind the 2004 amendments.  “[T]he statement 
+explained the statutory changes would ‘prevent all double recoveries and all double reductions in 
+workers' compensation benefits for permanent partial disability.’”  Roberts Dairy v. Billick, 861 
+N.W.2d at 820, as amended (June 11, 2015) quoting 2004 Iowa Acts 1st Extraordinary Sess. ch. 
+1001, § 20 (emphasis added).   
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 15 of 26
+
+Page 16 of 25 
+ 
+From the plain language in the legislature’s statement, it is clear subsection 7 was added 
+with the intent to extinguish opportunities for double recovery, specifically in cases where a 
+claimant had previously been compensated for the injury by the same employer.   
+In furtherance of its stated goal to prevent double recovery in such cases, the original 
+subsection included language which allowed for partial satisfaction of compensation, “to the extent 
+of the percentage . . . for which the employee was previously compensated by the employer.”   Id.  
+After the 2017 amendments, the subsection now reads, in part:  
+An employer is liable for compensating only that portion of an employee's disability 
+that arises out of and in the course of the employee's employment with the employer 
+and that relates to the injury that serves as the basis for the employee's claim for 
+compensation under this chapter, or chapter 85A, 85B, or 86. An employer is not 
+liable for compensating an employee's preexisting disability that arose out of and 
+in the course of employment from a prior injury with the employer, to the extent 
+that the employee's preexisting disability has already been compensated under this 
+chapter, or chapter 85A, 85B, or 86. An employer is not liable for compensating 
+an employee's preexisting disability that arose out of and in the course of 
+employment with a different employer or from causes unrelated to employment. 
+Iowa Code § 85.34(7) (post-2017 amendments) (emphasis added). 
+In evaluating the language of the amended subsection, the court notes the legislature 
+removed the language providing a set formula for calculating a credit, yet preserved language 
+asserting that an employer is not liable “to the extent that the employee’s preexisting disability has 
+already been compensated under this chapter.”  Id.  (emphasis added).  The court also notes the 
+legislature retained the language which prohibits compensation for a disability arising out of and 
+in the course of employment with a different employer.  As well as the language the legislature 
+kept, the court further observes the amendments contain no supplemental language frustrating, 
+removing, or prohibiting apportionment or credit for successive injuries with the same employer. 
+The court finds no language in the statute which prohibits or could be interpreted to intend 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 16 of 26
+
+Page 17 of 25 
+ 
+to prohibit credit or apportionment.  Thus, the 2017 amendments’ principal change to subsection 
+7 is merely the removal of a set formula for calculating a credit.   Although there may be multiple 
+reasons for this removal, the court need only discern whether the legislature intended to rescind its 
+original objective of preventing double recovery by permitting apportionment or credit for past 
+compensation with the same employer.   
+Due to the legislature’s unequivocal statement of intent behind subsection 7 and keeping 
+the provision for credit or apportionment, the court concludes the legislature intended to permit 
+credit and apportionment to prevent double recovery in cases of past compensation with the same 
+employer.    Moreover, the commissioner’s conclusion that subsection 7 does not support credit 
+and apportionment is in direct contrast with the legislature’s stated intent.  Consequently, the court 
+concludes the commissioner’s conclusion is based on faulty interpretation of the statute and 
+therefore, unsupported in statute.   
+ 
+Caselaw Affirmed in Commissioner’s Decision is Misstated and Unsupportive:  The 
+commissioner concluded subsection 7 does not contemplate a credit for past compensation 
+because, “Iowa Code section 85.34 provides no guidance on apportioning a prior industrial 
+disability award from a scheduled member impairment rating.”  Cert. Agy. Rec. Part 1, p. 55-56.   
+As justification for this conclusion, the commissioner states the following: 
+Importantly, Iowa Code section 85.34 provides no mechanism for apportioning the 
+loss between the present injury and the prior injury.  This is in direct contrast to 
+prior apportionment statutes, which explained how the offset was to be calculated 
+when an employee suffers successive injuries while working for the same 
+employer. 
+ 
+Id. (emphasis added).   
+Although not cited in the commissioner’s decision, this language is taken directly from the 
+Roberts Dairy case.  861 N.W.2d at 822 (Iowa 2015).  Here, the case is misstated, as it actually 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 17 of 26
+
+Page 18 of 25 
+ 
+refers to a prior and present “employer,” and not a prior and present “injury” as set forth by the 
+commissioner.  Id.  The unaltered excerpt reads as follows:   
+[I]importantly, Iowa Code section 85.34 provides no mechanism for apportioning 
+the loss between the present and previous employers. This is in direct contrast 
+to Iowa Code section 85.34(7)(b ), which explains exactly how the offset is to be 
+calculated when an employee suffers successive injuries while working for 
+the same employer.   
+ 
+Id. (emphasis added).   
+In further support of his conclusion, the decision goes on to quote, “[i]f the legislature 
+wanted to require a credit or offset of disability benefits . . . it logically would have prescribed how 
+it should be determined.” Cert. Agy. Rec. Part 1, p. 55.  The court identifies this as another 
+misstatement of the caselaw.  The portion omitted by the ellipses, again, establishes the case is 
+discussing a previous employer and not previous and present injury.  Without the omission, the 
+complete citation reads, “[i]f the legislature wanted to require a credit or offset of disability benefits 
+in cases of successive unscheduled injuries with different employers, it logically would have 
+prescribed how it should be determined.” Roberts Dairy, 861 N.W.2d at 822. (emphasis added).   
+ 
+The alteration and omission in these quotes significantly change the meaning to seemingly 
+support the commissioner’s interpretation of subsection 7.   In contrast, the unmodified citations 
+demonstrate the Roberts Dairy case, is substantively distinct from the instant case.  Unlike the case 
+before the court, Roberts Dairy involves injuries with different employers instead of the same 
+employer and there is no full commutation in the case to consider.  As such, the court finds this 
+caselaw does not support the commissioner’s conclusion.  Because this is the caselaw which is 
+mainly cited and relied upon in the conclusion that subsection 7 does not contemplate a credit, the 
+court concludes the commissioner’s conclusion is not supported in caselaw.      
+The Parties’ Full Commutation Agreement 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 18 of 26
+
+Page 19 of 25 
+ 
+ 
+The parties entered into a full commutation agreement (full commutation) for the first right 
+shoulder injury in 2010.  Cert. Agy. Rec. Part 1, p. 332-337.  In order to further determine the 
+impact of the full commutation on the issue of credit in this case, commutation statutes, caselaw, 
+and terms of the commutation must be analyzed.   
+Settlement and Commutation Agreements in Iowa Workers’ Compensation 
+The court first finds it relevant to note the Iowa Division of Workers’ Compensation 
+(IDWC) makes a clear distinction between a commutation and a settlement agreement.  According 
+to the IDWC, a settlement agreement resolves the amount and extent of compensation payment 
+currently due, as well as preserves the employee’s future rights to benefits.  Conversely, while a 
+commutation can be included as a part of a settlement, a commutation settles payment of future 
+benefits and stands after the award is made.1   Indeed, Iowa Code distinguishes settlements from 
+commutations statutorily as well with settlements being governed by Iowa Code section 85.35 and 
+commutations being governed by sections 85.45 and 85.47.  The court will focus on the 
+commutation statutes as that is what is presented in the record. 
+The IDWC defines a commutation as a lump sum payment of future benefits.  It designates 
+two types of commutations:  a partial commutation and a full commutation.  A partial commutation 
+is “a lump sum payment of a portion of the remaining future benefits,” while a full commutation 
+is defined as “a lump sum payment of all remaining future benefits.”2    
+Full commutations include all future benefits of payments and medical benefits which have 
+been commuted to a decided-upon, present-worth lump sum. Iowa Code § 85.45. A full 
+commutation can be gained upon petition and approval by the commissioner.  Id.  Once approved, 
+a commutation is normally seen as having settled the matter and is not undone without the 
+                                                          
+1 https://www.iowaworkcomp.gov/workers-compensation-settlement-explanations  
+2 https://www.iowaworkcomp.gov/workers-compensation-settlement-explanations  
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 19 of 26
+
+Page 20 of 25 
+ 
+establishment of fraud or deceit.  “The approval of the commutation and order for lump sum 
+payment, like a judgment, are final and conclusive in the absence of fraud or some other equitable 
+ground for disturbing them.”  Scheel v. Superior Mfg. Co., 89 N.W.2d 377, 382 (1958).   “When 
+such agreement was signed and duly approved, it would seem that the agreement meant what it 
+said, and that it was the distinct understanding, that the commuted settlement would become a 
+legal bar against any further recovery.”  Tischer v. City of Council Bluffs, 3 N.W.2d 166, 172–
+73 (1942) (emphasis added).  Generally, a full commutation releases the employer from any 
+liability stemming from agreed-upon current and future injuries: 
+Upon the payment of such amount, the employer shall be discharged from all 
+further liability on account of the injury or death, and be entitled to a duly executed 
+release. Upon the filing of the release, the liability of the employer under any 
+agreement, award, finding, or judgment shall be discharged of record.   
+ 
+Iowa Code § 85.47 (emphasis added). 
+The Full Commutation Agreement’s Impact on Petitioner’s Claim for Credit 
+As stated in the facts above, petitioner and respondent entered into a full commutation 
+agreement for the first right-shoulder injury.  Cert. Agy. Rec. Part 1, p. 332-337.  The full 
+commutation was approved and filed by the commissioner on September 15, 2010.  Id.  Given the 
+finality and absoluteness with which approved full commutations are treated in Iowa, the court 
+concludes the impact and terms of the full commutation must be considered when determining if 
+compensation or credit is due for a second right-shoulder injury.  As such, the court briefly 
+highlights the significant portions of the full commutation. 
+Terms of the Full Commutation:  The agreement is titled “Original Notice and Petition and 
+Order for Commutation of All Remaining Benefits of 10 Weeks or More.”  Cert. Agy. Rec. Part 
+1, p. 332-337.  As required for any credit under Iowa Code Section 85.34(7), the commutation was 
+entered into under Chapter 85.  “You are notified that an action for commutation of all remaining 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 20 of 26
+
+Page 21 of 25 
+ 
+benefits have been commenced . . . under Iowa Code Chapter 85, 85A, 85B, 86, and 87.”  Id.  The 
+key language of the terms are:   
+Defendants agree to waive discount and pay an additional $170.15 for a lump sum 
+settlement amount of $40,000 new money in exchange for Claimant’s agreement 
+to the Additional Terms, 
+ 
+[Additional Terms Include] Claimant releases and discharges the above employer 
+and insurance carrier and all other released parties from all liability including 
+liability under the Iowa Workers’ Compensation Law for all injury or injuries to 
+his right shoulder, right upper extremity, back, chest, bilateral lower extremities, 
+left flank, lungs, cardiovascular system, respiratory system and any and all pain 
+radiating therefrom. 
+ 
+I am the person entitled to workers compensation benefits . . . Upon receipt of the 
+indicated sums and approval by the workers’ compensation commissioner, I release 
+and discharge the named employer and insurance carrier from all liability under the 
+Iowa Workers Compensation Law which is now in existence or may exist in the 
+future on account of the indicated injury.  I consent to the degree of disability and 
+the granting of the commutation.  In the event the employer consents to the 
+commutation, I waive any provision concerning contested cases as provided in 
+Chapter 17A or otherwise.  
+ 
+ 
+ 
+Id. (emphasis added).   The full commutation was signed by petitioners and respondent.  It 
+was approved by the commissioner on September 15, 2010.  The court finds the terms instructive 
+on several points. 
+First, the title and language of the terms are exact and unambiguous.  There is no mistake 
+it is a commutation of all remaining benefits for respondent’s right-shoulder injuries.  Respondent 
+received a lump sum, and the full commutation has gone unchallenged since it was approved.  The 
+terms also expressly release petitioners from all liability for all injury to the “right shoulder, right 
+upper extremity, back, chest, bilateral lower extremities, left flank,” and etc.  Id. (emphasis added).  
+The terms pointedly encompass release of all liability under all Iowa Workers Compensation law 
+“now in existence or may exist in the future on account of the indicated injury.”  Id.  (emphasis 
+added). 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 21 of 26
+
+Page 22 of 25 
+ 
+In evaluating the language of these agreed-upon terms, it is apparent the full commutation 
+was created to commute all remaining benefits on any injury to the right shoulder.  It is also 
+apparent the full commutation anticipated and encompassed future changes in the law.  As 
+concluded previously, the court finds these terms should be considered when determining whether 
+a credit is due to petitioners.  
+Application of Subsection 7 Statutes and the Terms to the Facts:  Applying subsection 7 to 
+the instant case, it is evident these circumstances fit the parameters of when a credit or 
+apportionment should be considered as described in the statute.  Subsection 7 outlines that an 
+employer, “is not liable for compensating an employee’s preexisting disability that arose out of 
+and in the course of employment from a prior injury with the employer, to the extent that the 
+employee’s preexisting disability has already been compensated under this chapter, or chapter 
+85A, 85B, or 86.”  Iowa Code § 85.34(7).  Respondent’s right-shoulder injury is a successive injury 
+which arose out of the course of employment with petitioner and a prior injury to the right shoulder 
+with petitioner.  As established by the full commutation, the prior injury has been compensated by 
+petitioner under chapter 85A.   
+With regard to a potential credit, this is all the statute requires in order for a credit to be 
+considered.  In the language of the statute, the court finds no bar to apportionment or compelled 
+negation of an approved full commutation due to a change in the categorization of an injury.  
+Indeed, subsection 7 contains no additional criteria regarding how the prior injury was designated 
+in order for a credit to be considered.  Stated another way, under subsection 7, prior injuries which 
+have previously been compensated by the same employer under Chapter 85A, 85B, or 86 qualify 
+for the commissioner to consider credit or apportionment.  The 2017 amendments contain no 
+language which compel the denial of a credit due to the change in the designation of a shoulder 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 22 of 26
+
+Page 23 of 25 
+ 
+injury.  In view of the caselaw surrounding commutations discussed above, this seems especially 
+true in cases where the past compensation was given under the terms of a full commutation 
+agreement, as in the case at hand.   
+Commissioner’s Application of Subsection 7 on Full Commutation:    Despite the approved 
+full commutation being presented in its entirety as the basis of petitioners’ claim for credit, the 
+commissioner’s decision does not discuss commutations nor does it include an analysis of the 
+terms the parties entered into.  The commissioner performed no examination of the impact, if any, 
+of the full commutation on respondent’s request for benefits or petitioners’ request for credit.  
+Aside from stating the existence and date in the facts, the full commutation is mentioned nominally 
+throughout the commissioner’s decision.  In the few instances where it is mentioned, it is referred 
+to as a settlement rather than a full commutation.  As discussed in detail above, a settlement is 
+distinct from a commutation and generally has different consequences on future injuries.   
+In addition to minimal discussion of the full commutation, statements in the decision 
+suggest the commissioner justified the denial of a credit on the basis of the impairment rating and 
+the amendments with little to no assessment or application of the full commutation.  “Claimant’s 
+compensation . . . is limited only to the extent of loss or permanent impairment of the shoulder 
+itself.  There is no consideration of anything but what the American Medical Association’s Guides 
+to the Evaluation of Permanent Impairment prescribe.”    Cert. Agy. Rec. Part 1, p. 9.  “Thus, if 
+defendants . . . were entitled to a credit . . . they would receive an unfair excel credit for 
+considerations and factors that are not applicable to claimant’s current injury.”  Id.  (emphasis 
+added).  “If the undersigned accepted defendants’ position on the matter, it would be difficult to 
+imagine a scenario in which injured workers with successive shoulder injuries – assuming one of 
+the shoulder injuries occurred prior to the 2017 amendments – would receive any additional 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 23 of 26
+
+Page 24 of 25 
+ 
+compensation.”   Id.    
+The commissioner’s stated reasoning is observably closed to applicability of the full 
+commutation.  In general, the commissioner’s reliance on factors such as the change in injury 
+categorization, altered, unsupportive caselaw, and misinterpretation of subsection 7 disregard all 
+the commutation statutes and caselaw as well as the stated legislative intent to prevent double 
+recovery for a successive injury to the same body part with the same employer.  “When the 
+commissioner fails to consider all the evidence, the appropriate remedy is to remand for the 
+commissioner to re-evaluate the evidence unless the facts are established as a matter of law.”  The 
+court therefore finds the commissioner’s denial of a credit erroneous and remands for the 
+commissioner to reevaluate the issue of the credit taking into consideration: the intent and language 
+of subsection 7; the full commutation statutes, caselaw, and terms in accordance with this ruling.   
+CONCLUSION 
+The court concludes the commissioner’s decision on the issues of respondent’s right 
+shoulder injury, and the temporary disability benefits are supported by substantial evidence.  
+However, the court concludes commissioner’s decision on whether a respondent is due 
+reimbursement for Dr. Kim’s IME is erroneous as it is wholly contrary to the statute and Iowa 
+caselaw.  The court further concludes the commissioner’s decision that petitioners are not due a 
+credit is erroneous as it was based on flawed interpretation of Iowa Code 85.34(7), misstated 
+caselaw, and failure to take consider the full commutation agreement.  As such, the court affirms 
+the commissioner’s decisions on all issues except the reimbursement which the court reverses, and 
+the credit issue which the court remands for determination of whether a credit is due after a proper 
+application of law and facts and if so, the calculation of such credit in accordance with the holdings 
+in this ruling.   
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 24 of 26
+
+Page 25 of 25 
+ 
+IT IS THEREFORE ORDERED that the Workers’ Compensation Commissioner’s 
+Decision is AFFIRMED IN PART on the issues of the determination of respondent sustaining a 
+right-shoulder injury and respondent’s being entitled to temporary disability benefits, and as such 
+the Petition for Judicial Review is DENIED on these issues. 
+ IT IS FURTHER ORDERED that the Workers’ Compensation Commissioner’s 
+Decision is REVERSED IN PART as to the reimbursement to respondent for Dr. Kim’s IME and 
+the decision regarding the entitlement to a credit for the prior commutation.  The case is 
+REMANDED IN PART for a determination by the commissioner what, if any, credit is due after 
+the application of the correct law and facts as discussed herein. 
+IT IS FURTHER ORDERED that the costs of these proceedings are assessed to the 
+respondent. 
+In addition to all other persons entitled to a copy of this order, the Clerk shall provide a copy to 
+the following: 
+Workers’ Compensation Commissioner 
+1000 E. Grand Ave. 
+Des Moines, IA  50319-0209 
+ 
+Re:  File No. 1652412.02 
+ 
+ 
+ 
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 25 of 26
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV063141
+PM LATTNER MANUFACTURING CO ET AL VS MICHAEL
+RIFE
+Type:
+OTHER ORDER
+So Ordered
+Electronically signed on 2022-08-15 09:14:14
+E-FILED                    CVCV063141 - 2022 AUG 15 09:14 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 26 of 26

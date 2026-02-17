@@ -1,0 +1,923 @@
+Case Number: 23009752.01
+Case Title:  IRVIN, MARGURIETTE V. TYSON FRESH MEATS
+Doc Type:    Decision - Deputy
+Source:      Irvin Marguriette-23009752.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+MARGURIETTE IRVIN, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  :                  File No. 23009752.01 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :  
+TYSON FRESH MEATS, INC., 
+  : 
+       ARBITRATION DECISION 
+ 
+ 
+  :  
+ 
+Employer, 
+  : 
+ 
+Self-Insured Defendant. 
+  :      Head Note Nos: 1108.50, 1402.30, 2209, 
+ 
+ 
+  : 
+ 
+ 
+    2601.10 
+ 
+ 
+       
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Marguriette Irvin, claimant, filed a petition in arbitration seeking workers’ 
+compensation benefits from Tyson Fresh Meats, Inc., employer and self-insured 
+defendant.  The hearing was held on January 31, 2025. Pursuant to an order from the 
+Iowa Workers’ Compensation Commissioner, this case was heard via videoconference 
+using Zoom with all parties and the court reporter appearing remotely.   
+The parties filed a hearing report at the commencement of the arbitration 
+hearing.  On the hearing report, the parties entered into various stipulations.  Those 
+stipulations were accepted and are hereby incorporated into this arbitration decision and 
+no factual issues relative to the parties’ stipulations will be raised or discussed in this 
+decision.  The parties are now bound by their stipulations.  
+Marguriette Irvin was the only witness to testify at the trial.  The evidentiary 
+record also includes Joint Exhibits 1-8, Claimant’s 3rd Amended Exhibits 1-17; and 
+Defendants’ 2nd Amended Exhibits A-N.  All exhibits were received into the record.   
+The parties submitted post-hearing briefs on March 17, 2025, at which time the 
+case was fully submitted to the undersigned.  
+ISSUES 
+The parties identified the following disputed issues on the hearing report: 
+ 
+1. Whether claimant sustained multiple cumulative injuries that arose out of and 
+in the course of her employment with Tyson on April 6, 2023.  
+ 
+2. Whether the case is untimely under Iowa Code section 85.26. 
+ 
+3. Whether the claimant is entitled to temporary disability or healing period 
+benefits because of the alleged injury. 
+ 
+ELECTRONICALLY FILED     2025-Aug-27  08:25:32     DIVISION OF WORKERS' COMPENSATION
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 2 
+4. Whether the alleged injury resulted in any permanent disability; and if so, 
+ 
+5. The extent of claimant’s entitlement to permanent disability benefits. 
+ 
+6. The commencement date for permanent partial disability benefits, if any are 
+awarded. 
+ 
+7. Whether claimant is entitled to reimbursement for medical expenses.  
+ 
+8. Whether claimant is entitled to reimbursement for an independent medical 
+examination pursuant to Iowa Code section 85.39. 
+ 
+9. Whether claimant is entitled to alternate medical care. 
+ 
+10. Assessment of costs.  
+FINDINGS OF FACT 
+ 
+The undersigned, having considered all the evidence and testimony in the 
+record, finds as follows: 
+At the time of the hearing the claimant, Marguriette Irvin (hereinafter “Irvin”), was 
+61 years old and living in Waterloo. (Hearing Transcript, p. 17).  She graduated from 
+East High School in 1982. (Id.).  During school, Irvin worked part-time for the Boys & 
+Girls Club. (Id. at 19).  After graduation, she worked at a chicken plant for a summer. 
+(Id. at 18).  
+Tyson hired Irvin in May of 1990. (Tr., p. 18).  Irvin started on the ham line.  (Id. 
+at 20).  She worked a knife job on the line for three and a half years before being 
+transferred to a position as a membrane skinner. (Id.).  She worked as a membrane 
+skinner for approximately 14 years. (Id.).  At the hearing, Irvin described both of these 
+jobs as very physically demanding, requiring looking down, standing, twisting, as well as 
+repetitive throwing, pushing and pulling meat on a conveyor belt at a fast pace and 
+using a foot pedal. (Id. at 22-29).  In 2008, Irvin transferred to the box shop. (Id. at 20).  
+She worked in the box shop for almost 16 years. (Id. at 21).  There were three positions 
+in the box shop—box maker, tape operator, and utility. (Id. at 40).  Irvin was a utility 
+worker. (Id. at 39-41).  At the hearing, she described the utility position as requiring her 
+to take stacks of boxes off a pallet, line them up, push them down a hallway and put 
+them into a chute. (Id. at 42-45).  Irvin testified she did this with thousands of boxes a 
+day. (Id. at 45-46).   
+Defendants submitted job analysis summaries for two different positions at 
+Tysons—the Trayformer Operator and a Box Maker/Handler. (See Exhibits G and H).  
+According to these summaries, a Trayformer Operator produces case seal boxes and/or 
+piece boxes, by pushing skids of cardboard from a roller to a trayformer feed, then 
+feeding the boxes into the machine, stacking up the completed boxes after they go 
+through the machine, and then moving stacks of boxes to their assigned areas in the 
+Box Shop. (Ex. G, p. 29).  A Trayformer Operator might also have to apply labels to the 
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 3 
+boxes or hand fold boxes. (Id.).  The Box Maker/Handler description covers more than 
+one position. (Ex. H, p. 31).  According to this summary, a Box Maker/Handler manually 
+forms cardboard boxes and/or feeds the boxes into various chutes and conveyors. (Id.).  
+This position can also be required to apply labels, stack boxes, and move boxes.  (Id.).  
+Some Makers/Handlers are required to cover multiple chutes. (Id.).  The job 
+descriptions indicate the boxes weight between 0.5 or 0.6 to 1.5 pounds each, 
+depending on the type of box.1 (See Ex. G, p. 29; Ex. H, p. 31).  They also indicate 
+operators could be required to lift/push/pull up to 30 pounds when moving stacks of 
+boxes. (Id.).  However, during the hearing Irvin described lifting 60-pound boxes 
+overhead to a conveyor named the blender. (Tr., p. 45).  
+Irvin is alleging cumulative work-related injuries to her left shoulder, neck and low 
+back on April 6, 2023. (See Amended Petition).  At the hearing, Irvin testified that she 
+was working by herself in the box shop that day and the job was more than she could 
+physically handle. (Tr., pp. 48-50).  There is an exorbitant amount of medical 
+documentation in the hearing record.  The first medical record is from June 14, 1990. 
+(Joint Exhibit 5, p. 145).  It is from the IBP/Tyson’s In-House Medical Clinic. (Id.).  This 
+note indicates that Irvin was having symptoms in her left hand and fingers, back, neck 
+and shoulders.  (Id. at 146).  It does not indicate what type of symptoms Irvin was 
+experiencing at that time.  (Id.).  The next medical note from Tyson’s In-House Clinic is 
+dated August 3, 1993. (Id. at 147).  It indicates Irvin was experiencing issues with her 
+bilateral hands and fingers, as well as her right shoulder. (Id.).  She was diagnosed with 
+tendinitis.  (Id. at 148).  She presented to the Tyson Clinic with neck pain on January 14, 
+1997, and left shoulder and upper arm pain on January 28, 1997. (Id. at 150-154).  On 
+June 27, 1997, she was seen for right neck, upper back and arm pain which she related 
+to an equipment breakdown. (Id. at 156).  On May 31, 2000, Irvin presented to the clinic 
+with bilateral upper extremity, shoulder, neck and back pain. (Id. at 157).  On November 
+1, 2000, she presented with right upper extremity, right shoulder and back pain. (Id. at 
+160-163).  Irvin was diagnosed with tendinitis and impingement of the right shoulder and 
+received conservative care. (See id. at 164-177).  In January 2001, Irvin’s diagnosis 
+was changed to AC arthritis. (Id. at 178).  She continued to seek treatment for her right 
+shoulder at the Tyson’s Clinic in 2002. (Id. at 185-191).  On March 24, 2003, Irvin 
+presented to the Clinic with pain in her bilateral upper extremities, left shoulder, neck, 
+back, buttocks and right knee. (Id. at 193-197).  She received periodic treatment for 
+these complaints throughout 2003. (Id. at 198-217).  On May 27, 2003, Dr. Gorsche 
+injected her left shoulder joint. (Id. at 217).  Irvin’s last appointment for her left shoulder 
+at the Tyson’s Clinic was on July 16, 2003. (Id. at 220).  This note indicates that her left 
+shoulder pain was better. (Id.).   
+On February 18, 2013, Irvin presented to the ER at Covenant Medical Center. 
+(JE 7, p. 413).  She complained of whole body “cramping,” especially in her legs, that 
+she said started five hours ago at work. (Id. at 414).  Irvin’s diagnosis is unclear. (Id. at 
+415-416).2   
+                                                                 
+1The Trayformer Operator position indicates the minimum lifting amount is 0.6 pounds and the Box Maker/Handler position 
+indicates the minimum lifting amount is 0.5 pounds. (Ex. G, p. 29; Ex. H, p. 31).   
+2 The copy of this treatment note is poor quality and hard to read. (See JE 7).   
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 4 
+On March 4, 2014, Irvin went to her family doctor, Wahid A. Riad Zaky, M.D., at 
+People’s Community Health Clinic, with complaints of urinary frequency, and pain in her 
+back and left leg. (Ex. A, depo p. 16; JE 6, p. 292-294).  She was also experiencing 
+some cramping and skin color changes in her leg. (JE 6, p. 294).  Dr. Zaky’s treatment 
+note indicated she worked with boxes at Tysons and did a lot of walking and standing. 
+(Id.). Dr. Zaky diagnosed her with muscle cramps and back pain, and prescribed 
+Naprosyn. (Id. at 296).  Irvin returned to Dr. Zaky on March 18, 2014, with increased 
+back pain, as well as left thigh pain that was spreading down her leg. (Id. at 297).  She 
+requested a handicapped parking sticker for work. (Id.).  Dr. Zaky prescribed physical 
+therapy and a muscle relaxer. (Id. at 299).  He did not provide a handicapped parking 
+sticker. (Id.).  On April 1, 2014, Dr. Zaky diagnosed Irvin with scoliosis. (Id. at 301-302). 
+Dr. Zaky ordered an x-ray of her lumbar spine. (Id. at 302).  It showed scoliosis and 
+arthritis. (Id. at 305).  Irvin told Dr. Zaky that her back pain was worse by the end of her 
+workday but stated she had not missed any workdays because of it. (Id.).   
+On October 6, 2016, Irvin returned to see Dr. Zaky for back and right knee pain. 
+(JE 6, p. 313).  Dr. Zaky’s note indicates that Irvin had an injection from Dr. Knudson in 
+her left knee several months earlier and that knee felt better. (Id. at 314).  The note 
+states that she was having pain in her right upper back and shoulder blade area. (Id.).  
+Dr. Zaky diagnosed her with back and right knee pain and prescribed Tramadol. (Id. at 
+316).  Irvin continued to receive treatment for back and right leg pain in 2017. (See id. at 
+318).  On January 5, 2017, Irvin told Dr. Zaky that she stood for long periods of time at 
+work which caused her thigh muscles to cramp up by the end of the day. (Id. at 319).  
+Dr. Zaky diagnosed muscle cramps and continued the Tramadol. (Id. at 321). She 
+returned to Dr. Zaky with back pain on January 18, 2018. (Id. at 331-335).  He 
+prescribed Cyclobenzaprine. (Id. at 335). Irvin saw Dr. Zaky for bilateral leg pain again 
+on May 9, 2019. (Id. at 336-340).   
+ The next treatment note is from the Tyson’s Clinic. (JE 5, p. 221). It is dated 
+February 1, 2021. (Id.).  On that date, Irvin was seen for numbness and tingling in her 
+bilateral hands. (Id.).  She was seen for bilateral hand pain again on February 8, 2021; 
+February 16, 2021; March 9, 2021; March 15, 2021; and April 6, 2021. (Id. at 225-240).  
+On February 16, 2021, Robert Gordon, M.D., evaluated Irvin’s bilateral upper 
+extremity complaints. (JE 2, p. 5).   He diagnosed her with bilateral hand paresthesias 
+with symptomatology primarily in the median nerve distributions. (Id. at 6). Dr. Gordon 
+recommended EMG testing. (Id.).  That EMG testing was performed on March 4, 2021. 
+(JE 8, p. 420).  The results showed mild sensory carpal tunnel bilaterally. (Id.).  Irvin 
+returned to Dr. Gordon on March 9, 2021. (JE 2, p. 7).  Dr. Gordon prescribed Mobic, 
+physical therapy, and wrists splints. (Id.).  On April 6, 2021, Dr. Gordon noted Irvin’s 
+bilateral upper extremities were doing well and released her from his care. (Id. at 8).   
+On April 23, 2021, Irving was seen by Dr. Zaky for bilateral thigh pain, muscle 
+cramps and a burning sensation. (JE 6, pp. 341-342).  The treatment note indicates she 
+was no longer on light duty, she had returned back to her normal workload for the last 
+three weeks and was on her feet for long hours. (Id. at 342).   
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 5 
+On August 18, 2021, Irving saw Dr. Zaky for right foot pain. (JE 6, p. 351).  She 
+was referred to Dr. Lantz for further treatment. (Id. at 353).   
+On September 7, 2021, Irvin was seen at Tyson’s Clinic. (JE 5, p. 241).  She 
+reported experiencing spasms and pain in her bilateral thighs while walking and 
+pushing/pulling a pallet jack. (Id.).  There is also an addendum attached to this note 
+indicating Irvin also alleged an injury to her right ankle while walking through Tyson’s 
+parking lot. (Id. at 243).  On September 17, 2021, the provider at Tysons referred Irvin 
+to her family provider for her bilateral leg pain. (Id. at 246).  Tysons returned Irvin to full 
+duty work on September 21, 2021. (Id. at 249).  On September 30, 2021, Tyson sent 
+Irvin a letter denying liability for the September 7, 2021 date of injury. (Cl Ex. 16, p. 
+112).  That letter states, “Based on the medical opinion of Dr. Gordon there is no 
+mechanism to contribute your condition to the work activities at Tyson Foods, rather it is 
+attributed to a pre-existing condition.” (Id.).   
+On October 6, 2021, Irvin was evaluated by Dr. Zaky for her bilateral leg pain. 
+(JE 6, p. 357).  The treatment note indicates Irvin was having increased leg pain, 
+especially on her right side. (Id. at 358).  It also indicates that Irvin thought her pain was 
+work-related, rather than just a symptom of arthritis. (Id.). Irvin had not seen a 
+rheumatologist. (Id.).  Dr. Zaky changed her medication to Nebumetone, referred her to 
+physical therapy for a consult, and gave her an injection of Torodol. (Id. at 360-361).   
+On October 26, 2021, Barbara Malicka-Rozek, M.D., at the Mercy One Covenant 
+Clinic, evaluated Irvin for low back pain with radiation down her right leg. (JE 3, p. 26).  
+Irvin also complained of mild weakness and numbness in her right leg. (Id.).  According 
+to the treatment notes, Irvin was referred to Dr. Malicka-Rozek by her family provider, 
+Dr. Zaky. (See id. at 34). Irvin told Dr. Malicka-Rozek that she was using a cane to walk. 
+(Id. at 26).  Dr. Malicka-Rozek diagnosed lumbar pain with radiation down the right leg 
+and gait difficulty.  (Id. at 29).  She ordered x-rays of Irvin’s right hip, lumbar and 
+thoracic spine, and recommended physical therapy. (Id.).  The x-rays were performed 
+that day. (Id. at 31-32).  They showed moderate degenerative changes in her right SI 
+joint, mild disc space narrowing at T9-T10, and chronic degenerative changes at L3-L4. 
+(Id.).   
+Irvin returned to Mercy One on November 17, 2021. (JE 3, p. 33).  At this 
+appointment she was evaluated by Marek Rozek, PA-C. (Id.).  Rozek’s treatment note 
+indicates Irvin had experienced back pain for the past 14 years, as well as numbness, 
+tingling and weakness in her right leg. (Id.). Her symptoms, however, increased in 
+September 2021. (Id. at 37).  Her back pain increased with standing, walking, sitting 
+and/or bending. (Id.).   Rozek diagnosed Irvin with chronic low back pain, degeneration 
+of the lumbar intervertebral disc, spondylolisthesis at L3-L4, neurogenic claudication, 
+and bilateral lumbar radiculopathy. (Id.).  He ordered an MRI of her lumbar spine and 
+EMG studies of her bilateral lower extremities. (Id.). He also instructed her to continue 
+physical therapy and gave her a referral to pain management for treatment. (Id.).   
+On November 30, 2021, Irvin returned to Dr. Malicka-Rozek requesting work 
+restrictions. (JE 3, p. 38).  Dr. Malicka-Rozek diagnosed chronic bilateral low back pain 
+without sciatica and difficulty walking. (Id. at 41).  She continued Irvin’s physical therapy 
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 6 
+and prescribed gabapentin for pain. (Id.).  Dr. Malicka-Rozek also provided work 
+restrictions of taking a 15-minute rest break every 2 hours. (Id.).  An MRI of Irvin’s 
+lumbar spine was also completed on November 30, 2021. (Id. at 43).  It showed multi-
+level degenerative changes with severe central stenosis and moderate-severe bilateral 
+neuroforaminal stenosis at L3-L4 and severe central stenosis with mild-moderate left-
+sided neuroforaminal stenosis at L4-L5. (Id.).  
+On January 10, 2022, Irvin saw Justin Elwood, M.D., at the Covenant Pain 
+Management Clinic. (JE 3, pp. 45-46).  Irvin complained of low back pain that traveled 
+into her posterior thighs, lateral calves, and feet, as well as numbness and tingling in 
+her calves and feet. (Id. at 47).  She indicated the symptoms had been present for 14 
+years, but were worsening. (Id.).  She stated she needed a cane for prolonged walking. 
+(Id.).  Dr. Elwood diagnosed bilateral lumbar radiculopathy, lumbar stenosis with 
+neurogenic claudication, low back pain with radiation, and lumbar spondylolisthesis. (Id. 
+at 49). Dr. Elwood thought her symptoms were secondary to severe central stenosis at 
+the L3-L4 and L4-L5 levels. (Id.).  He recommended and administered an L3-L4 
+interlaminar epidural steroid injection on January 21, 2022.  (Id. at 50).   
+On April 6, 2022, Irvin saw her family provider, Dr. Zaky, for low back, left leg and 
+right ankle pain. (JE 6, p. 368).  Dr. Zaky’s notes indicate that Irvin had a back injection 
+at the Pain Clinic on February 22, 2022. (Id. at 369).  It also reads “AS[sic] was a work 
+comp. Tyson close her case. She is getting a lawyer for work comp.” (Id.).  Dr. Zaky 
+continued her medications and gave her a permanent handicapped parking sticker. (Id. 
+at 371). A copy of his report granting the permanent handicapped sticker is contained in 
+Claimant’s Exhibit 12. (See Claimant’ s Exhibit 12, p. 79).  On August 3, 2022, Irvin 
+returned to Dr. Zaky for low back, left leg pain, and right ankle swelling. (JE 6, pp. 373-
+374).  The treatment note indicates Irvin was still having back pain and planned to get 
+another injection from Dr. Malicka-Rozek. (Id. at 374).  It also indicates that Irvin had 
+obtained a lawyer. (Id.).  It discusses referring Irvin to a podiatrist. (Id. at 376).   
+On April 6, 2023, Irvin presented to the Tyson’s Clinic with complaints of lower 
+back and left shoulder pain. (JE 5, pp. 253-255). The treatment note indicates the 
+symptoms were caused by stacking boxes up high, bending to stack boxes, and hitting 
+her shoulder against a screw. (Id. at 253).  According to the note, Irvin first noticed her 
+back symptoms on March 27, 2023. (Id. at 255).  Irvin was told to use ice/heat on the 
+area and given work restrictions. (Id. at 257-259).  Irvin returned to the Tyson’s Clinic on 
+April 20, 2023.  (Id. at 261). She reported feeling better, but still had pain in her left 
+shoulder and low back. (Id.).  Irvin was seen at the Tyson’s Clinic on April 27, 2023; 
+May 1, 2023; May 2, 2023; May 5, 2023; May 9, 2023; May 16, 2023; May 23, 2023; 
+June 6, 2023; and June 14, 2023. (JE 5, pp. 262-290).   
+On May 2, 2023, Irvin was evaluated by Dr. Gordon. (JE 2, p. 9).  She 
+complained of bilateral shoulder pain, left greater than right, cramps in her lower 
+extremities, as well as numbness and tingling in her feet, bunions, leg swelling, low 
+back pain, and scoliosis (Id. at 9-10).  Irvin told Dr. Gordon she had had most of the 
+symptoms for several years but noted her shoulder pain had increased more in the last 
+few months because of increased work, especially her left shoulder pain, and that she 
+frequently bumped her left shoulder on a screw at work. (Id. at 9).  Dr. Gordon 
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 7 
+diagnosed her with bilateral shoulder pain, chronic thoracolumbar pain, chronic bilateral 
+lower extremity aching sensations/dysesthesias, bilateral great toe bunions, 
+blisters/calluses of the bilateral feet, chronic bilateral lower extremity edema, and 
+chronic right lateral ankle bulkiness. (Id. at 11-12).  Dr. Gordon indicated he wanted to 
+review her prior treatment records before making recommendations and/or prescribing 
+medications. (Id. at 12).  He returned her to work without restrictions. (Id.).  
+On May 4, 2023, Irvin was evaluated by Alyssa Verheyen, ARNP, at Unity Point 
+Occupational Health, for left shoulder and back pain. (JE 1, p. 1).  Irvin told Verheyen 
+that she had pain in her upper back and left shoulder after running into a screw or a nail 
+that was sticking out on her workstation in March of 2023. (Id.).  In addition to pain, Irvin 
+reported muscle cramping in her back and grip weakness. (Id.).  An x-ray was taken of 
+her left shoulder. (Id.).  It showed moderate degenerative changes with osteophytes. 
+(Id.).  Verheyen diagnosed left shoulder pain, gave her an injection of Toradol, and 
+restrictions of no use of the left arm/hand. (Id. at 2-3).   
+ 
+Irvin returned to Dr. Gordon on May 9, 2023. (JE 2, p. 13).  Irvin reported that her 
+left shoulder felt better since the injection, but the remainder of her symptoms were the 
+same. (Id. at 13-14).  Since her previous appointment on May 2, 2023, Dr. Gordon had 
+received and reviewed her prior back treatment records from 2021. (Id.).  Dr. Gordon 
+diagnosed left shoulder AC osteoarthritis and degenerative changes in the left 
+glenohumeral joint. Dr. Gordon questioned whether Irvin’s lower extremity symptoms 
+were neurogenic from her spine. (Id. at 15-16).  He excised her bunions, recommended 
+physical therapy, ordered copies of treatment records from her primary provider and 
+provided work restrictions of no work above chest level with the left upper extremity. 
+(Id.).  On May 23, 2023, Irvin had a follow-up appointment with Dr. Gordon. (Id. at 17).  
+She reported her shoulders felt much better, but her back pain and feet symptoms 
+remained the same. (Id.).  Dr. Gordon opined that her bunions, calluses, lower extremity 
+edema and right ankle symptoms were not work related. (Id. at 18). He recommended 
+she follow-up with her family doctor for those issues and her high blood pressure. (Id. at 
+19).   
+On June 7, 2023 , Irvin returned to Dr. Zaky for swelling in her bilateral legs, and 
+left leg numbness. (JE 6, p. 379).  Dr. Zaky prescribed medication for her elevated 
+blood pressure and a work note that said she should not be working in conditions less 
+than 37 degrees. (Id. at 382-384).  
+Irvin’s next appointment with Dr. Gordon took place on June 14, 2023. (JE 2, p. 
+20).   She indicated her leg swelling had significantly improved since she was 
+prescribed medication for her high blood pressure. (Id.).  She was still experiencing 
+back and left shoulder pain, as well as cramping sensations in her back and legs. (Id.).  
+She was doing well with shoulder therapy and had just recently started therapy for her 
+back. (Id.).   Dr. Gordon continued his work restriction of no working above shoulder 
+level. (Id. at 22).   
+Irvin returned to Dr. Zaky on June 27, 2023, for low back pain and muscle 
+cramping. (JE 6, p. 385).  The treatment note from this visit indicates that Irvin went to 
+the ER on June 26, 2023, for back pain and muscle spasms.  (Id. at 386).  She was 
+given a Lidocaine patch and muscle relaxers, and taken off work for three days. (Id.).  
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 8 
+The ER note is not in the hearing record. Dr. Zaky took Irvin off work for another five 
+days and indicated he would help her fill-out FMLA paperwork for these symptoms. (Id. 
+at 388).  He also referred Irvin to Dr. Malicka-Rozek for a new evaluation. (Id.).   
+ 
+On July 11, 2023, Irvin was evaluated by Kathy Bell-Mahler, ARNP, at the Mercy 
+One Neurosurgical Clinic. (JE 3, p. 51).  Irving told Bell-Mahler that she had low back 
+pain which started on April 6, 2023, after picking up boxes off the floor at work. (Id.).  
+She stated the pain radiated up into her mid-back and across her lower rib cage. (Id.).  
+She was also experiencing muscle cramps, spasms, and weakness in both legs. (Id.).  
+She was using a cane to walk. (Id.).  Irvin also described left posterior neck pain that 
+radiated into her bilateral shoulders and arms. (Id.).  Ball-Mahler’s impression was 
+degenerative changes of the lumbar spine. (Id. at 55).  She recommended a new 
+lumbar MRI and x-ray, a cervical MRI, and an EMG of Irvin’s bilateral lower extremities. 
+(Id. at 56).  She also referred her back to pain management. (Id.).   
+ 
+The very next day, on July 12, 2023, Irvin presented to Dr. Zaky with low back 
+pain. (JE 6, p. 390).  Dr. Zaky extended her work leave for another 10 days. (Id. at 393).  
+He did not prescribe any treatment, but indicated she should follow-up after her next 
+appointment with the specialist. (Id.).    
+ 
+Irvin had an appointment with Dr. Gordon on July 19, 2023, for her low back and 
+bilateral lower extremity pain. (JE 2, p. 23).  The treatment note indicates, she was 
+originally scheduled to come in on July 5, 2023, but missed her appointment. (Id.).  Irvin 
+stated the muscle relaxers she received at the ER helped with her symptoms. (Id.).  
+However, she indicated that she recently aggravated her back and leg issues while at 
+home and was back to having symptoms and using a cane. (Id.).  She also complained 
+of new neck pain. (Id.).  Dr. Gordon notes “Nothing specific brought this about.” (Id.).  
+Irvin stated she had been off work for the last three weeks and would remain off work 
+until July 22, 2023, per her family doctor. (Id.).  Irvin told Dr. Gordon that her bilateral 
+shoulders felt better. (Id. at 24).  Dr. Gordon stated they were at maximum medical 
+improvement (MMI).  (Id.).   He also indicated that Irvin’s back condition had been back 
+at baseline before her most recent aggravation at home. (Id.).  Dr. Gordon placed her at 
+MMI for her back with regards to any work-related condition. (Id.).  He also placed her at 
+MMI for her bilateral lower extremities. (Id.).  Dr. Gordon opined that her new neck pain 
+was not work related. (Id. at 25).  He discharged her from his care without permanent 
+impairment or restrictions. (Id.).   
+ 
+On July 25, 2023, Irvin saw Dr. Elwood at the Covenant Pain Management Clinic. 
+(JE 3, p. 57).  Dr. Elwood noted Irvin had been experiencing low back pain for at least 
+the last 14 years, but it worsened after picking up and stacking boxes at work on April 6, 
+2023. (Id. at 57-58).  His treatment note indicates that a new lumbar MRI, as well as a 
+cervical MRI were performed on July 23, 2023. (Id. at 58).  According to Dr. Elwood, the 
+lumbar MRI showed “very similar significant degenerative changes as those seen on the 
+2021 exam, with severe central stenosis noted at L3-4 and L4-5.” (Id.).  The cervical 
+MRI showed multilevel degenerative changes with severe central stenosis at the C3-4 
+level. (Id.).  Dr. Elwood diagnosed lumbar radiculopathy, spinal stenosis of the lumbar 
+region, and myofascial pain. (Id. at 62).  He recommended a lumbar epidural steroid 
+injection and bilateral sacroiliac joint injections. (Id.). Irvin deferred the treatment, “as 
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 9 
+she suspects that she will require surgical intervention.” (Id.).  Dr. Elwood prescribed 
+baclofen. (Id.).  
+ 
+On August 3, 2023, Irvin retuned to the Mercy One Neurosurgical Clinic. (JE 3, p. 
+63).  This time she was evaluated by Marietta Walsh, D.O. (Id.).  Dr. Walsh reviewed 
+her most recent MRIs. (Id. at 68-69).  She diagnosed underlying congenital spinal canal 
+stenosis with superimposed degenerative changes at multiple levels with significant 
+multilevel spinal canal narrowing, very prominent at L3-4 and L4-5. (Id. at 69).  Dr. 
+Walsh indicated Irvin would benefit from an anterior cervical discectomy and fusion at 
+C3-4 and C4-5, followed by a lumbar fusion or lumbar laminectomy procedure. (Id. at 
+70).  Dr. Walsh requested the EMG testing be moved up. (Id.).3   The EMG testing took 
+place on August 24, 2023. (Id. at 75).  It showed severe active chronic right L5 
+radiculopathy and bilateral S1 radiculopathy. (Id.).   
+ 
+Irvin had an appointment with Dr. Zaky on August 16, 2023, for low back and 
+neck pain. (JE 6, p. 394).  Dr. Zaky’s treatment note indicates she saw a neurosurgeon 
+and needed both neck and back surgery. (Id. at 397).  Dr. Zaky indicated Irvin was 
+scheduled to undergo more neurological tests prior to surgery and states “Her Lawyer 
+needs to be involved in this, as she has a work comp.” (Id.).   
+ 
+On August 29, 2023, Irvin returned to Dr. Walsh. (JE 3, p. 78).  She reviewed the 
+EMG testing. (Id. at 83-85).  She diagnosed severe active on chronic right L5 
+radiculopathy and bilateral S1 radiculopathy worse on the right and recommended Irvin 
+proceed with the cervical surgery first. (Id. at 84).  She also ordered EMG testing of 
+Irvin’s bilateral upper extremities. (Id. at 85).  That EMG testing was performed on 
+September 12, 2023. (Id. at 86).  It revealed potential left C4 radiculopathy. (Id.).  
+ 
+Irvin returned to Dr. Zaky on September 5, 2023, for chronic low back pain, neck 
+pain, and bilateral ankle swelling. (JE 6, p. 398).  His treatment note indicates she was 
+to remain off work until at least September 20, 2023. (Id. at 399).  On September 25, 
+2023, Dr. Zaky took Irvin off work for another two weeks. (Id. at 404).   
+ 
+On October 12, 2023, Irvin had a follow-up appointment with Dr. Walsh. (JE 3, p. 
+92).  Dr. Walsh noted Irvin’s recommended surgery had been delayed because of an 
+insurance issue. (Id.).  During this appointment, Dr. Walsh clarified that the neck surgery 
+was intended to alleviate any cord compression and prevent further weakness, 
+numbness and tingling. (Id. at 96).  The surgery, however, would not address Irvin’s 
+neck pain complaints.  (Id.). Dr. Walsh recommended Irvin proceed with surgery. (Id.).  
+ 
+On November 13, 2023, Dr. Walsh performed surgery on Irvin’s cervical spine—
+an anterior cervical discectomy and fusion of C3-4, C4-5 with allograft and 
+intraoperative monitoring. (JE 4, pp. 136-138).  Irvin received post-operative treatment 
+from Dr. Walsh and the Mercy One Neurosurgical Clinic. (See JE 3, pp. 97-107).  Irvin’s 
+weakness symptoms improved after surgery, but she continued to have some pain and 
+                                                                 
+3 This treatment note indicates Irvin stopped w orking on June 26, 2023. (JE 3, p. 71).   
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 10 
+muscle spasms, as well as numbness and tingling in her first through third digits. (Id. at 
+107).   
+ 
+On March 11, 2024, Dr. Walsh performed surgery on Irvin’s lumbar spine—a 
+decompressive lumbar laminectomy at L3-L4. (JE 4, pp. 139-144).  Once again, Irvin 
+received follow-up treatment from Dr. Walsh and the Mercy One Neurosurgical Clinic. 
+(JE 3, p. 114).  Irvin’s lumbar and leg symptoms improved after surgery. (See id. at 
+119).  She, however, continued to complain of low back pain, as well as occasional 
+muscle spasms and numbness in her left leg and bilateral feet. (Id. at 123, 128).  On 
+May 16, 2024, Nurse Bell-Mahler indicated Irvin could resume activities as tolerated, but 
+indicated she should avoid risk-taking activities such as riding motorcycles, bungee 
+jumping, trampolines, rollercoasters and skiing. (Id. at 123).  
+ 
+On November 14, 2024, Irvin had a follow-up appointment with Dr. Walsh for her 
+cervical spine and lumbar spine. (JE 3, p. 127).  She was still experiencing occasional 
+symptoms in her neck, left shoulder, upper extremities, lower extremities and low back. 
+(Id. at 127-128).  She was not attending physical therapy. (Id. at 128).  She continued to 
+walk with a cane. (Id. at 130).  Dr. Walsh diagnosed anterior cervical fusion post-op, 
+lumbar laminectomy post-op, bilateral frozen shoulder, and chronic myofascial pain. 
+(Id.).  Dr. Walsh indicated Irvin would benefit from physical therapy, pain management 
+and an ortho consult for bilateral frozen shoulders. (Id. at 130-131).  Irvin told Dr. Walsh 
+she did not intend to seek any of the recommended treatments because they were not 
+covered by her insurance or workers’ compensation. (Id. at 131).  Dr. Walsh discharged 
+her from neurosurgical care and indicated she could follow-up as needed. (Id.).  She 
+recommended Irvin work on weight loss and back and core strengthening exercises. 
+(Id.).   This is the last treatment note in the hearing record.  
+ 
+Both parties obtained a plethora of expert reports.  At her attorney’s request, Irvin 
+attended an independent medical exam (IME) with Farid Manshadi, M.D. on February 
+15, 2024 (Cl Ex. 1, p. 1).  Dr. Manshadi reviewed her treatment records at the Tyson’s 
+Clinic, as well as with Dr. Zaky, Dr. Gordon, Mercy One and Dr. Walsh, and Dr. Elwood. 
+(See id. at 1-6).  At the time of this evaluation, Irvin had undergone her cervical fusion 
+surgery, but was still awaiting surgery on her lumbar spine. (Id. at 6).  Irvin told Dr. 
+Manshadi that her upper back pain and hand numbness and tingling improved after the 
+surgery with Dr. Walsh. (Id. at 6-7).  Dr. Manshadi diagnosed her with injuries to her 
+neck, bilateral shoulders, and lower back with lower extremity radiculopathy. (Id. at 8).  
+He opined that all of the listed injuries were “related to Ms. Irvin’s 32-year work history 
+of repetitive duties in factory work.” (Id.).  Dr. Manshadi declared that her work duties 
+were a material aggravating factor which resulted in her neck and bilateral shoulder 
+injuries, lumbosacral radiculopathy and cervical cord compression. (Id.).  Dr. Manshadi 
+stated the cervical fusion surgery was reasonable and necessary to address Irvin’s work 
+injury.  (Id.).  Dr. Manshadi thought she had reached MMI for her neck injury, but not for 
+her bilateral shoulder injuries, lumbar radiculopathy and lower extremity radicular 
+symptoms. (Id.). Dr. Manshadi indicated Irvin qualified for DRE Cervical Category 4 in 
+the Guides to the Evaluation of Permanent Impairment, Fifth Edition, and assigned her 
+28 percent permanent impairment of the whole person, citing to Table 15-5 of the 
+Guides. (Id.).  He opined that Irvin needed additional treatment for her bilateral 
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 11 
+shoulders and low back, but if she did not receive any further treatment he thought she 
+had sustained 14 percent permanent impairment of the right upper extremity, 21 percent 
+permanent impairment of the left upper extremity, and 12 percent of the whole person 
+for her lumbar back, under DRE Lumbar Category 3 on Table 15-3 of the AMA Guides.   
+He suggested permanent restrictions of avoiding any activities above shoulder height 
+and/or overhead, no repetitive neck movements, no lifting over 10 pounds, and avoid 
+any activity that requires repetitious bending, twisting, squatting, kneeling or use of a 
+ladder. (Id. at 9).   
+On August 1, 2024, defendants obtained a records review from Charles Mooney, 
+M.D. (Ex. N, p. 64). Prior to issuing his report, Dr. Mooney reviewed Irvin’s prior 
+treatment records. (Id. at 64-69).  Dr. Mooney opined that Irvin had long-standing 
+problems with chronic back pain. (Id. at 64).  He diagnosed her with long-standing 
+lumbar congenital stenosis with evidence of degenerative arthropathy and progressive 
+lumbar stenosis and foraminal stenosis requiring a decompressive lumbar laminectomy 
+at L3-4; evidence of congenital spinal stenosis of the cervical spine complicated by 
+moderate foraminal stenosis and degenerative changes requiring a two-level cervical 
+discectomy and fusion at C3-4 and C4-5; temporary exacerbations of symptoms in her 
+bilateral shoulders from work activities at Tyson’s; and a temporary aggravation of 
+underlying degenerative scoliosis and spinal stenosis of the lumbar spine from work 
+activities at Tyson. (Id. at 70).  Dr. Mooney opined that Irvin reached MMI for the 
+temporary exacerbations of her underlying conditions on July 19, 2023. (Id. at 71).  Dr. 
+Mooney did not think Irvin’s employment at Tysons caused her spinal stenosis, 
+degenerative disc disease and/or facet disease, or her need for surgery for those 
+conditions. (Id.).  He opined these were personal conditions. (Id.). In the alternative, he 
+opined that the lumbar condition qualified for 13 percent whole person impairment under 
+Table 15-7 of the AMA Guides. (Id. at 71).  He also suggested permanent restrictions of 
+no lifting more than 35 pounds and no repetitive lifting from the floor to waist for her 
+back.  (Id. at 72).  He did not suggest any restrictions for Irvin’s left shoulder. (Id.)  
+Irvin’s attorney arranged for her to attend a Functional Capacity Exam (FCE) with 
+Daryl Short, PT, on August 1, 2024. (Cl Ex. 5, pp. 35-42). Mr. Short declared the FCE a 
+valid test. (Id. at 35).  Mr. Short opined that Irvin could not perform work in the sedentary 
+physical demand level. (Id. at 36).  He, however, also acknowledged that Irvin had not 
+yet reached MMI for her alleged injuries. (Id.).  He found she was still using a walker for 
+stability, but could ambulate without the walker but drifted into a forward posture bent at 
+the waist. (Id.).   
+On August 8, 2024, Irvin attended a second IME with Dr. Manshadi at her 
+attorney’s behest. (Cl Ex. 2, p. 19).  Dr. Manshadi issued his report on August 12, 2024. 
+(Id.).  Prior to the IME, Dr. Manshadi reviewed records from Irvin’s lumbar surgery with 
+Dr. Walsh. (Id.).  He also reviewed Mr. Short’s FCE report. (Id.).  He indicated she was 
+at MMI for her lumbar condition, but not her bilateral shoulders. (Id. at 20).  Dr. 
+Manshadi indicated Irvin’s lumbar condition qualified for DRE Lumbar Category 3 under 
+the AMA Guides, Fifth Edition (Id.).  He opined Irvin had sustained 13 percent whole 
+person impairment for her lumbar spine condition. (Id.).  Dr. Manshadi indicated this 
+impairment rating should supersede the one he provided for Irvin’s lumbar spine in 
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 12 
+August 2024. (Id.).  The impairment ratings, however, are identical. He also stated that 
+he agreed with the permanent restrictions outlined in Mr. Short’s FCE report. (Id.).   
+On August 9, 2024, Dr. Gordon issued a new report at defendant’s request. (Ex. 
+C, p. 5).  Defendants asked Dr. Gordon to review Dr. Manshadi’s first IME report and 
+answer a series of questions.  Dr. Gordon re-reviewed Irvin’s medical history and 
+opined that she “has not sustained any pathological conditions of her cervical spine, 
+lumbosacral spine, or bilateral shoulder due [to] the workplace at Tyson Foods.” (Id. at 
+9).  He also reiterated that Irvin did not have any permanent impairment to the 
+enumerated body parts because of her work at Tyson and did not need any restrictions 
+for work-related conditions. (Id.).   
+Irvin attended another IME with Dr. Mooney on December 20, 2024, at 
+defendant’s request. (Ex. D, p. 10).  Prior to the exam, Dr. Mooney reviewed her 
+medical records from 2001 onward.  (Id. at 11-14).  Dr. Mooney also performed a 
+physical exam. (Id. at 15).  He diagnosed Irvin with long-standing lumbar congenital 
+stenosis with degenerative arthropathy and progressive lumbar stenosis and foraminal 
+stenosis requiring decompression, lumbar laminectomy at L3-4 with mild residual 
+myelopathy; congenital spinal stenosis of the cervical spine complicated by moderate 
+foraminal stenosis and degenerative changes requiring two-level cervical discectomy 
+and fusion at C3-4 and C4-5; temporary exacerbations of bilateral shoulder symptoms 
+from work activities at Tyson; and temporary exacerbation of degenerative scoliosis and 
+spinal stenosis from work at Tyson. (Id. at 18).  Dr. Mooney opined that Irvin reached 
+MMI for her temporary work-related exacerbations on July 19, 2023. (Id.).  Dr. Mooney 
+indicated that Irvin’s cervical condition was congenital/genetic and unrelated to her 
+employment at Tyson.  (Id. at 19).  He stated Irvin’s cervical and lumbar conditions were 
+personal and not cumulative injuries from her work at Tyson. (Id.).  Dr. Mooney, 
+however, also provided an alternative MMI date of September 11, 2024, for Irvin’s 
+alleged cervical injury, as well as a proposed impairment rating of 16 percent of the 
+whole body based on range of motion measurements and the AMA Guides, Fifth 
+Edition, Tables 15-3, 15-7, 15-12, 15-13, and 15-14. (Id. at 20-21).  He did not suggest 
+any permanent restrictions for her cervical spine. (Id.).   
+Irvin attended a third IME with Dr. Manshadi on December 23, 2024. (Cl Ex. 3, p. 
+21).  Dr. Manshadi released this report on December 28, 2024. (Id.).  In this report Dr. 
+Manshadi indicated that Irvin’s physical condition had not changed since he evaluated 
+her on February 15, 2024, and August 8, 2024. (Id.).  His proposed impairment ratings 
+were unchanged. (Id. at 21-22).  He, however, revised his recommended restrictions. 
+(Id.).  He suggested new permanent restrictions of avoid any activity that requires 
+keeping her neck in one position for a prolonged time, no lifting more than 10 pounds, 
+no repetitious neck movements, no repetitious bending, stooping or twisting at the waist, 
+no repetitious shoulder height or overhead activities, and avoid crawling and climbing 
+ladders. (Id.).   
+On August 9, 2024, Irvin obtained a vocational evaluation from Phil Davis, M.S. 
+(Cl Ex. 7, p. 45).  Mr. Davis interviewed Irvin, and reviewed her treatment records from 
+Dr. Zaky, Dr. Gordon, Dr. Elwood and Dr. Walsh, as well as Dr. Manshadi’s February 
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 13 
+2024 IME report, and the FCE report of Mr. Short. (Id.).  Irvin told Mr. Davis that she did 
+not own a computer and had very little computer experience. (Id. at 46). Utilizing the 
+restrictions provided by both Dr. Manshadi and Mr. Short, Mr. Davis opined Irvin was 
+incapable of performing the essential functions of any of her past jobs, and has lost 
+access to 100 percent of her pre-injury occupational pursuits. (Id. at 48).  He declared 
+that she has also lost access to 90 percent of all occupations identified in the general 
+labor market and economy. (Id. at 48-49).   
+Tyson also obtained a vocational evaluation on August 9, 2024. (Ex. E, p. 22).  
+Defendant’s report is from Lana Sellner, MS. (Id.).  Prior to writing her report, Ms. 
+Sellner reviewed Irvin’s treatment records, Dr. Gordon’s July 19, 2023 report, Dr. 
+Manshadi’s February 2024 IME, Irvin’s discovery responses, and Irvin’s deposition 
+transcript. (Id.).  During her deposition, Irvin stated that she had no interest in returning 
+to the workforce. (Id. at 27).  Ms. Sneller opined that there were several open positions 
+in the Waterloo area that Irvin could perform under Dr. Manshadi’s restrictions. (Id. at 
+25-26).  These included hosts/greeter positions at several restaurants, a cashier at the 
+Music Station, a service porter at a car dealership, a customer service associate at 
+Panera Bread, and a front desk clerk at a hotel. (Id.).  These jobs ranged from part to 
+full time work and paid between $11.00 - $15.00 an hour. (Id.).  Irvin was earning 
+$20.65 an hour at Tyson. (Ex. K, p. 48).  In her report, Ms. Sellner declared there were 
+vocational opportunities Irvin could successfully perform in her geographical area. (Ex. 
+E, p. 26).  Additionally, Ms. Sellner stated that according to Dr. Gordon’s report, Irvin’s 
+alleged work injuries had no vocational impact. (Id.).   
+Irvin was the only witness to testify at the hearing. (See Tr.).  Her deposition 
+transcript was also admitted into the hearing record. (Ex. A).  Irvin was not working at 
+the time of hearing.  She testified that her last day of work at Tyson was June 23, 2023. 
+(Id. at 49).  Irvin stated she could no longer perform her job because of pain in her 
+shoulders, neck and back. (Id. at 49-51).  According to the medical records, on June 23, 
+2023, Irvin had a restriction of no work above shoulder level from Dr. Gordon. (See JE 
+2, p. 22).  Defendant introduced evidence showing that Tyson offered Irvin light duty 
+work assignments on May 5, 2023; May 8, 2023; May 11, 2023; May 23, 2023; June 19, 
+2023; and June 20, 2023. (Ex. I, pp. 33-38).  Irvin declined those offers. (Id.).   
+ 
+According to Tyson’s documentation, Irvin went on long-term leave starting 
+September 22, 2023. (Ex. L, p. 58).  Her leave was estimated to last through at least 
+November 30, 2023. (Id.).  The documents indicate that Irvin was approved for long-
+term disability benefits starting on September 22, 2023. (Id.).  According to her 
+discovery answers, she received $2,043.60 per month in long-term disability benefits. 
+(Ex. K, p. 55).  On February 3, 2024, Tyson sent Irvin a letter indicating her scheduled 
+leave of absence had ended on November 31, 2023.4 (Ex. L, p. 57). The letter stated 
+that Tyson had not yet heard from Irvin and asked that she send them additional 
+documentation indicating whether she was ready to return to work or if she needed to 
+extend her leave of absence. (Id.).  The letter indicated Tyson would attempt to find 
+reasonable accommodations for Irvin if possible. (Id.).  Tyson sent another letter with a 
+                                                                 
+4 The undersigned notes that there are only 30 days in November.  
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 14 
+similar message on March 1, 2024. (Id. at 56).  This letter asks Irvin to send in 
+additional documentation about her ability to return to work by March 11, 2024. (Id.).  
+This is the last document from Tyson.  It is not exactly clear when Irvin’s employment 
+with Tyson was terminated.  
+ 
+ At the hearing, Irvin testified that she is physically incapable of working because 
+she still has pain, cannot walk and has been declared disabled. (Tr., p. 66-67).  She has 
+not applied for any jobs since leaving her position at Tyson. (Id. at 84).  In June 2023, 
+Irvin applied for social security benefits. (Ex. K, p. 55; Tr., p. 85).  Irvin was awarded 
+disability benefits on January 27, 2024. (Ex. 17, p. 113).  She receives $1,951.00 per 
+month.  (Id.).  Irvin’s social security disability application and/or decision were not 
+submitted into the hearing record.  
+ 
+At the hearing, Irvin testified that she believes her work at Tyson caused her 
+back/scoliosis, neck, shoulder, bilateral leg, bilateral feet, and bilateral hand symptoms, 
+as well as the bone spur on her right ankle and her high blood pressure. (Tr., pp. 74-76; 
+Ex. A, depo p. 7-9, 17).   Irvin stated that she has had continuous low back pain since 
+2014, but the nurse at Tyson’s Clinic refused to treat her, stating her complaints were 
+arthritis, a personal condition. (Tr., pp.75-76).  She, however, indicated that she did not 
+know the symptoms were stemming from her low back until 2021. (Id. at 79).  She 
+thought the symptoms were from her legs. (Id. at 78-79).  She testified the pain 
+specialist told her it was from her back in 2021. (Id. at 79).  Irvin also indicated her 
+bilateral shoulders and arms have bothered her since the 1990s. (Id. at 78, 85).  Irvin 
+also stated that she needed a cane to walk for different periods of time, including in 
+2015-2016, 2021-2022, and 2023. (Id. at 81; see also Ex. A, depo. pp. 13-15).  Irvin 
+testified that she is still using a walker to ambulate long distances and a cane for short 
+distances. (Tr., p. 88).  She still independently operates her vehicle. (Id.).   
+ 
+Irvin’s deposition was taken on April 17, 2024. (Ex. A).  A transcript of that 
+deposition was submitted into the hearing record. (Id.). During that deposition, Irvin 
+testified that she thought her back/leg conditions were work-related back in 2021.  (Id. at 
+depo. p. 15).  At the hearing, Irvin submitted a receipt for a whirlpool tub from Aqua 
+Finance, Inc. (Cl Ex. 14, p. 109).  The receipt is dated March 11, 2022, and is for 
+$26,569.16. (Id.).  Irvin testified she bought the tub because she was in so much pain 
+that she could not get out of her old tub. (Tr., p. 46).  She said she used it for 20 
+minutes every morning before she went to work. (Id. at 47).  
+ 
+Irvin relies upon the opinions of Dr. Manshadi to prove her claim.  Dr. Manshadi 
+authored three reports for this proceeding.  I do not find them persuasive.  In his reports, 
+Dr. Manshadi gives vague diagnoses for Irvin’s alleged injuries and then makes a 
+conclusory statement that these diagnoses were caused by her long history of 
+“repetitive duties in factory work.” (Cl Ex. 1, p. 8).  For example, in this first report, Dr. 
+Manshadi states that Irvin “suffered from a neck injury which resulted in spinal cord 
+compression.” (Id.).  He, however, never explains how this injury occurred or which of 
+Irvin’s job duties would have caused that injury.  He also indicates Irvin has clinical 
+bilateral shoulder impingement, a new diagnosis that lacks objective testing. (Id.).  
+Again, however, he does not explain how the injury occurred or which of Irvin’s job 
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 15 
+duties caused or contributed to the condition. (Id.).  The remainder of his report does not 
+provide further clarity. Finally, there is no indication that he received a copy of the formal 
+job descriptions provided by Tyson, nor does he describe discussing Irvin’s job duties 
+with her in any detail. (See Cl Ex. 1).   
+ 
+In his first letter to Dr. Manshadi, Irvin’s counsel included a copy of her 
+interrogatory answer explaining how Irvin thought her alleged injuries occurred. (See Cl 
+Ex. 1, p. 10).  This response appears to be the extent of the job duty information given 
+Dr. Manshadi before he was asked to provide a causation opinion on Irvin’s claims.  
+(Id).  In her answer, Irvin stated that in the box shop, she made 500 to 1,000 boxes 
+daily, as well as stacked boxes, moved boxes, and put them on the line, down chutes or 
+on top units. (Id.).  Irvin states the job required repetitive lifting, bending and twisting, but 
+does not provide pertinent details such as weights, sizes, amount of force needed, 
+and/or explain body mechanics that could have caused her alleged injuries. (Id.).  The 
+remainder of Irvin’s response focuses on the duties for her prior jobs on the assembly 
+line, rolling knuckles and the membrane skinner. (Id.).  At the time of her alleged 
+injuries, Irvin had not worked on the assembly line for over 16 years.  Given this, it is 
+apparent that Dr. Manshadi was not given an accurate, detailed and/or complete job 
+description before authoring his reports. In a cumulative injury claim, a medically 
+supported diagnosis, detailed and complete job description, and clearly articulated 
+mechanism of injury are essential evidence.  Dr. Manshadi’s reports do not contain 
+these necessary elements.   
+ 
+According to medical evidence, multiple doctors have diagnosed Irvin with 
+congenital conditions.  In 2014, Dr. Zaky diagnosed Irvin with scoliosis in her lumbar 
+spine and arthritis. (JE 6, p. 305).  There is no evidence that these conditions were 
+caused by Irvin’s employment. In 2023, Dr. Walsh diagnosed Irvin with congenital spinal 
+canal stenosis with degenerative changes at multiple levels and significant spinal canal 
+narrowing. (JE 3, p. 69).  There is no evidence this condition was caused by Irvin’s 
+employment.  Dr. Gordon is very familiar with the job duties at Tyson, and the 
+biometrics of Irvin’s job in the box shop.  (See Ex. C).  In August 2024, Dr. Gordon was 
+asked to review Dr. Manshadi’s IME. (Id.).  In his response, Dr. Gordon stated that Dr. 
+Manshadi had “arbitrarily opined that [Irvin] suffered from a neck injury which resulted in 
+spinal cord compression.”  (Id. at 5).  He further stated, 
+[Dr. Manshadi] further opined that her cervical condition is from Ms. Irvin’s 
+32-year work history of repetitive duties in a factory. However, he does not 
+describe her job duties from a biomechanical perspective to any degree of 
+detail to arrive at such a conclusion from any job that she had ever 
+performed since she began her employment. In addition, one’s length of 
+employment in and of itself is irrelevant to causation/aggravation and does 
+not satisfy any criteria for establishing such. I do know the job duties that 
+she performed for over 15 years in the box shop at Tyson Foods and these 
+routine job duties are of low intensity with regards to the cervical spine and 
+would not cause/aggravate/accelerate, to any degree, a cervical disorder 
+including spinal stenosis or cervical radiculopathy due to the lack of 
+biomechanical risk. The activities performed in the box shop, as it relates to 
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 16 
+the cervical spine, are of less intensity than one would incur in their normal 
+daily lives outside of the workplace. In addition, as noted above, there is no 
+evidence of an aggravation from a pathological standpoint with the cervical 
+spine MRI.  
+(Id.).  Dr. Gordon made the same observations of Dr. Manshadi’s causation opinion for 
+Irvin’s lumbar spine and shoulder. (Id. at 7).  He noted that Irvin’s prior lumbar MRIs 
+revealed congenital spinal canal stenosis with superimposed degenerative changes. 
+(Id.).  He went on to state,  
+Dr. Manshadi, in his IME report, arbitrarily opined that [Irvin] suffered from 
+injuries to her lower back. He documented that she had bilateral lower 
+extremity radiculopathy and that such was due to her 32- year work history 
+of repetitive duties in a factory. However, he does not describe her job 
+duties from a biomechanical perspective to any degree of detail to arrive at 
+such a conclusion from any job that she had ever performed since she 
+began her employment. In addition, as I documented above in the cervical 
+section of this report, one’s length of employment in and of itself is irrelevant 
+in determining causation/aggravation and does not satisfy any criteria for 
+establishing such. It is of note, that as I reviewed the records from her 
+personal care providers standing was her major complaint. However, 
+standing in and of itself does not contribute to a lumbosacral disorder. I do 
+know the biomechanical requirements of her job in the box shop as it relates 
+to the 04/06/2023 report of injury/illness very well in which she has to 
+process and handle boxes at multiple stations in the box shop and her job 
+tasks are not biomechanically deleterious with regards to force, kinematics 
+(range of motion interval through which the spine undergoes while 
+performing the job duties), or frequency in which she had to perform the 
+movements about her lumbosacral region. 
+(Id.).  Dr. Gordon found Dr. Manshadi’s causation analysis for Irvin’s alleged left 
+shoulder condition similarly arbitrary and unsupported by the evidence. (Id. at 8).  After 
+reviewing her job duties, Dr. Mooney reached a similar conclusion. (See Exs. D, pp. 18-
+19; N, pp. 70-71).  The greater weight of the hearing evidence supports Dr. Gordon and 
+Dr. Mooney’s causation conclusions.   
+Given the above, I find Irvin failed to carry her burden of proof to show she 
+sustained cumulative injuries to her neck, back, and left shoulder that arose out of and 
+in the course of her employment with Tyson on April 6, 2023. Because Irvin failed to 
+meet her burden of proof on the issue of causation, the remaining issues concerning 
+whether her claim is timely, entitlement to temporary benefits, permanent disability, 
+commencement date, reimbursement of medical expenses, and entitlement to alternate 
+medical care are moot; the undersigned will make no fact findings on those issues.  
+ 
+ 
+ 
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 17 
+CONCLUSIONS OF LAW 
+The party who would suffer loss if an issue were not established ordinarily has 
+the burden of proving that issue by a preponderance of the evidence.  Iowa R. App. P. 
+6.904(3)(e). 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the alleged injury occurred and that it both arose out of and in the course of the 
+employment.  Quaker Oats Co. v. Ciha, 552 N.W.2d 143, 150 (Iowa 1996); Miedema v. 
+Dial Corp., 551 N.W.2d 309, 311 (Iowa 1996).  The words “arising out of” refer to the 
+cause or source of the injury.  The words “in the course of” refer to the time, place, and 
+circumstances of the injury.  2800 Corp. v. Fernandez, 528 N.W.2d 124, 128 (Iowa 
+1995).  An injury arises out of the employment when a causal relationship exists 
+between the injury and the employment.  Miedema, 551 N.W.2d at 311.  The injury must 
+be a rational consequence of a hazard connected with the employment and not merely 
+incidental to the employment.  Koehler Electric v. Wills, 608 N.W.2d 1, 3 (Iowa 2000); 
+Miedema, 551 N.W.2d at 311.  An injury occurs “in the course of” employment when it 
+happens within a period of employment at a place where the employee reasonably may 
+be when performing employment duties and while the employee is fulfilling those duties 
+or doing an activity incidental to them.  Ciha, 552 N.W.2d at 150. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148, 153 
+(Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154, 156 (Iowa Ct. App. 
+1997); Sanchez v. Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646, 652 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410, 420 
+(Iowa 2001); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845, 853 (Iowa 
+1995).  Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 421 (Iowa 1994).  Unrebutted 
+expert medical testimony cannot be summarily rejected.  Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910, 911-12 (Iowa Ct. App. 1994). 
+When an expert's opinion is based upon an incomplete or incorrect history, it is 
+not necessarily binding on the commissioner or the court. It is then to be weighed, 
+together with other facts and circumstances, the ultimate conclusion being for the finder 
+of the fact.  Musselman v. Central Telephone Company, 154 N.W.2d 128, 133 (Iowa 
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 18 
+1967); Bodish v. Fischer, Inc., 257 Iowa 516, 522, 133 N.W.2d 867, 870 (1965).  The 
+commissioner as trier of fact has the duty to determine the credibility of the witnesses 
+and to weigh the evidence, together with the other disclosed facts and circumstances, 
+and then to accept or reject the opinion.  Dunlavey, 526 N.W.2d at 853. 
+While a claimant is not entitled to compensation for the results of a preexisting 
+injury or disease, its mere existence at the time of a subsequent injury is not a defense. 
+Rose v. John Deere Ottumwa Works, 247 Iowa 900, 908, 76 N.W.2d 756, 760-61 
+(1956). If the claimant had a preexisting condition or disability that is materially 
+aggravated, accelerated, worsened or lighted up so that it results in disability, claimant 
+is entitled to recover. Nicks v. Davenport Produce Co., 254 Iowa 130, 135, 115 N.W.2d 
+812, 815 (1962); Yeager v. Firestone Tire & Rubber Co., 253 Iowa 369, 374-75, 112 
+N.W.2d 299, 302 (1961). 
+Based on the above findings of fact, I conclude that Irvin failed to meet her 
+burden of proof to show she sustained cumulative injuries to her neck, back and left 
+shoulder that arose out of and in the course of her employment with Tyson on April 6, 
+2023.  Irvin relied upon the opinions of Dr. Manshadi to causally relate her alleged neck, 
+back and left shoulder conditions to her employment at Tyson.  However, as explained 
+above, those opinions are entitled to very light weight as they appear to be conclusory 
+without an adequate or complete understanding of Irvin’s job duties at Tyson.  Irvin is 
+alleging cumulative injuries to three separate body parts.  However, the medical 
+evidence shows that she was diagnosed with congenital and degenerative conditions in 
+her lumbar and cervical spine and did not receive any real diagnosis for her left 
+shoulder until November 2024, over a year after she stopped working at Tyson.  Dr. 
+Manshadi’s reports do not contain any explanation of how exactly Irvin’s work duties at 
+Tyson caused or permanently aggravated all three of these body parts.  There is 
+insufficient evidence that Irvin’s alleged conditions are causally related to her job at 
+Tyson.  Claimant shall take nothing from these proceedings.  
+Irvin is seeking reimbursement for several IMEs with Dr. Manshadi. (See Hearing 
+Report).  A claimant’s right to reimbursement for an IME exam is controlled by Iowa 
+Code section 85.39. This section permits an employee to be reimbursed for a 
+subsequent examination by a physician of the employee’s choice where an employer-
+retained physician has previously evaluated “permanent disability” and the employee 
+believes that the initial evaluation is too low. Iowa Code section 85.39(2)(2019).  
+However, this right to reimbursement is also dependent upon the claimant’s success at 
+hearing. Iowa Code section 85.39(2), states, 
+An employer is only liable to reimburse an employee for the cost of an 
+examination conducted pursuant to this subsection if the injury for which the 
+employee is being examined is determined to be compensable under this 
+chapter or chapter 85A or 85B. An employer is not liable for the cost of such 
+an examination if the injury for which the employee is being examined is 
+determined not to be a compensable injury.  
+Id.  
+
+IRVIN V. TYSON FRESH MEATS, INC. 
+Page 19 
+Defendant is not liable for this claim.  Irvin has not established the prerequisites 
+for reimbursement of any of Dr. Manshadi’s IMEs pursuant to Iowa Code section 85.39. 
+Irvin also asserts a claim for costs.  Specifically, Irvin seeks reimbursement of her 
+filing fee, service costs, as well as an FCE from Mr. Short and a vocational evaluation. 
+Costs are assessed at the discretion of the agency. Iowa Code § 86.40.   Irvin failed to 
+prove a compensable claim; therefore, I conclude that none of her costs should be 
+assessed. I conclude that each party should bear its own costs. 
+ORDER 
+THEREFORE, IT IS ORDERED: 
+Claimant shall take nothing from these proceedings.   
+Each party shall bear their own costs.  
+ 
+Signed and filed this _27th _  day of August, 2025. 
+   
+__________________________ 
+            AMANDA R. RUTHERFORD 
+                DEPUTY WORKERS’  
+     COMPENSATION COMMISSIONER 
+The parties have been served, as follows:  
+Mark King  
+ 
+(via WCES) 
+Jason Wiltfang  
+(via WCES) 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Workers’ Compensation Division to file documents in paper form. If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Workers’ 
+Compensation Division, 6200 Park Ave., Suite 100, Des Moines, Iowa 50321. The notice of appeal must be received 
+by the Workers’ Compensation Division within 20 days from the date of the decision. The appeal period will be 
+extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 

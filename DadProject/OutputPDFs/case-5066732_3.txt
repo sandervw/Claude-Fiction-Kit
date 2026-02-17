@@ -1,0 +1,320 @@
+Case Number: 5066732
+Case Title:  HIMMELSBACH, GREGORY A V. QUAKER OATS COMPANY
+Doc Type:    Decision - District Court
+Source:      Himmelsbach, Gregory-5066732.District Court Decision.PDF
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT IN AND FOR POLK COUNTY 
+ 
+GREGORY A. HIMMELSBACH, 
+ 
+ 
+Petitioner, 
+ 
+v. 
+ 
+QUAKER OATS COMPANY, 
+INDEMNITY INSURANCE COMPANY 
+OF NORTH AMERICA, and SECOND 
+INJURY FUND OF IOWA, 
+ 
+ 
+Respondents. 
+ 
+ 
+ 
+CVCV062981 
+ 
+ 
+ 
+ORDER ON JUDICIAL REVIEW 
+ 
+ 
+ 
+ 
+This is a petition for judicial review from a final decision of the Iowa Workers’ 
+Compensation Commission.  Hearing was held by videoconference on 8/12/2022.  The Parties 
+appeared through counsel.   
+I. 
+PROCEDURAL POSTURE AND FACTUAL BACKGROUND. 
+Petitioner/Workers’ Compensation Claimant Gregory A. Himmelsbach (Himmelsbach) 
+sustained a work injury on June 25, 2018 which arose out of and in the course of his employment 
+with Quaker Oats Company (Quaker Oats)1.  Himmelsbach was employed as “Clybourn Operator 
+Relief” and his duties included carrying bags of ingredients up stairs to pour into a hopper, putting 
+together large cardboard totes, and pulling tanks. (Tr. 16-21). 
+On June 25, 2018, Himmelsbach noticed pain in his right shoulder going down into his 
+right arm while making totes. (Tr. 24). Himmelsbach went to the emergency room and was told to 
+take it easy for a day or two.  He took two weeks of vacation to rest. (Tr. 26-27). When he returned, 
+he sought treatment at the health center and was provided ice and massage. He testified the Quaker 
+                                                 
+1 Himmelsbach also suffered a knee injury that was addressed by the Workers’ Compensation 
+Commission in the same case but is not at issue in this judicial review. 
+E-FILED                    CVCV062981 - 2022 OCT 09 10:48 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 11
+
+2 
+ 
+health center would not send him to a doctor because they did not believe anything was wrong 
+with his shoulder. Himmelsbach continued to work. (Tr. 27-28). 
+Himmelsbach saw his personal physician Dr. Brownell on September 11, 2018, who 
+ordered an x-ray and MRI of the shoulder. (Tr. 31-32, JE2). The MRI revealed a massive full-
+thickness tear of the supraspinatus tendon. (JE1, at 5).  Himmelsbach next saw Dr. Hart on 
+November 5, 2018, who diagnosed a complete tear of the right rotator cuff, recommended surgery, 
+and provided restrictions. (JE4, p.3). Quaker Oats could not accommodate the restrictions so 
+Himmelsbach went on leave. (Tr. 36, JE 4 at 6-8). 
+By late November 2018, Himmelsbach had not been informed of whether Quaker Oats 
+would accept his claim.  Therefore, Himmelsbach filed a workers’ compensation claim. (Tr. 36-
+37). Himmelsbach was then informed by the Commissioner’s office that the claim was being 
+investigated by the insurer. (Cl. Ex. 2) Himmelsbach testified he never received any notification 
+from Quaker Oats that his claim was being investigated. (Tr. 38). 
+Dr. Hart performed shoulder surgery on March 7, 2019. (JE4 at 13). After surgery 
+Himmelsbach received physical therapy for five months. (Tr. 39, JE 5). Himmelsbach returned to 
+work with no restrictions on September 9, 2019. (Tr. 42).  
+Himmelsbach testified that as of the arbitration hearing date on June 9, 2020, he had never 
+received notification from Quaker Oats as to why they had not accepted liability for his shoulder 
+injury. 
+Three expert opinions were provided at the hearing. Dr. Manshadi performed an IME in 
+January 2020.  He found Himmelsbach’s work was a substantial contributing factor to the rotator 
+cuff tear, found a 12% impairment to the right upper extremity, and recommended work 
+restrictions. Dr. Jameson provided an IME report dated January 25, 2020. He opined the rotator 
+E-FILED                    CVCV062981 - 2022 OCT 09 10:48 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 11
+
+3 
+ 
+cuff tear was not work-related, but related to a chronic degenerative process. He did not 
+recommend any permanent restrictions or treatment and did not provide an impairment rating. 
+(Def. Ex. A). In April and May of 2020, the treating surgeon, Dr. Hart provided his opinion that it 
+was more likely than not that the work activity was a substantial contributing factor causing the 
+right shoulder injury, agreed with the restrictions recommended by Dr. Manshadi, opined that 
+Himmelsbach’s shoulder injury extends into the torso, opined that Himmelsbach reached MMI on 
+August 30, 2019, and provided an impairment rating of 4% to the right upper extremity. 
+ 
+After a hearing, the Deputy Commissioner credited the opinions of Dr. Hart and Dr. 
+Manshadi and found Himmelsbach’s shoulder injury arose out of and in the course of his 
+employment. The Deputy Commissioner awarded healing period benefits, the amount of which 
+was stipulated to by the Parties. The Deputy Commissioner found the injury should be treated as 
+a scheduled member injury to the “shoulder” pursuant to Iowa Code section 85.34(2)(n). The 
+Deputy relied on Dr. Manshadi’s impairment rating of 12% because Dr. Manshadi had examined 
+Himmelsbach on January 30, 2020, whereas Dr. Hart’s most recent examination was on August 
+30, 2019.  The Deputy Commissioner awarded benefits for 48 weeks at $983.10 and medical 
+expenses. 
+ 
+Finally, the Deputy Commissioner awarded a penalty benefit pursuant to Iowa Code 
+section 86.13 based on a finding that Quaker Oats did not offer evidence of a reasonable 
+investigation or provide a reasonable excuse for the delay in payment of benefits until the receipt 
+of Dr. Jameson’s report, 19 months after the injury was reported.  The Deputy Commissioner also 
+found Quaker Oats did not contemporaneously convey the basis for delay of benefits as required 
+by Iowa Code section 86.13(4)(c)(3). The Deputy Commissioner calculated 62 weeks prior to Dr. 
+E-FILED                    CVCV062981 - 2022 OCT 09 10:48 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 11
+
+4 
+ 
+Jameson’s report at $983.10 for a total of $60,952.20 in delayed benefits. The Deputy 
+Commissioner then awarded a penalty of approximately 50% at $30,000. 
+ 
+Quaker Oats appealed and Himmelsbach cross-appealed to the Commissioner, each raising 
+a number of issues.  As relevant here, Quaker Oats argued the Deputy erred in failing to take short-
+term and long-term disability credits into account in calculating the penalty benefits.  
+Himmelsbach argued the Deputy erred in finding Himmelsbach’s injury to be a scheduled injury 
+to the “shoulder.” 
+ 
+The Commissioner issued an opinion, on de novo review, on December 7, 2021.  The 
+Commissioner affirmed the decision that Himmelsbach’s injury was limited to a scheduled 
+member “shoulder” injury and does not extend to the body as a whole.  With regard to the penalty, 
+the Commissioner held the penalty should be reduced to account for short and long term disability 
+benefits.  The Parties stipulated Himmelsbach had received $23,926.55 in disability benefits. The 
+Commissioner held that, because the disability benefits are deducted from any weekly 
+compensation, they should be taken into account to calculate the penalty.  Therefore, the workers’ 
+compensation benefits owed by Quaker Oats was $60,709.68 minus the disability credit of 
+$23,926.55, resulting in amount owed of $36,783.23.  The Commissioner ordered a penalty of 
+approximately 50%: $18,000. 
+Petitioner sought judicial review, asserting that Himmelsbach suffered a combination of 
+two injuries resulting in a body as a whole injury and that the calculation of penalty benefits should 
+not adjust for paid short or long term disability benefits. 
+II. 
+ANALYSIS AND CONCLUSIONS OF LAW. 
+A. Standard of Review. 
+E-FILED                    CVCV062981 - 2022 OCT 09 10:48 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 11
+
+5 
+ 
+This Court’s review of a workers’ compensation action is governed by Iowa Code chapter 
+17A.  Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002); see Iowa Code § 
+86.26.  The commissioner’s factual determinations are “clearly vested by a provision of the law in 
+the discretion of the agency” and this Court will defer to those factual determinations if they are 
+based on “substantial evidence in the record before the court when that record is viewed as a 
+whole.”  Schutjer v. Algona Manor Care Ctr., 780 N.W.2d 549, 557 (Iowa 2010) (quoting Iowa 
+Code § 17A.19(10)(f)). 
+If a party challenges the commissioner’s ultimate conclusion, “then the challenge is to the 
+agency’s application of the law to the facts, and the question on review is whether the agency 
+abused its discretion by, for example, employing wholly irrational reasoning or ignoring important 
+and relevant evidence.”  Meyer v. IBP, 710 N.W.2d 213, 219 (Iowa 2006); Iowa Code § 
+17A.19(10)(i), (j).   
+If a challenge is to the interpretation of law, the standard of review depends upon whether 
+interpretation of the provision of law at issue has been clearly vested in the discretion of the agency.  
+Compare Iowa Code §17A.19(c) with §17A.19(l).  The Iowa Supreme Court has repeatedly found 
+the Iowa Workers’ Compensation Commission is not vested with authority to interpret Iowa’s 
+workers’ compensation statutes.  See e.g.  Ramirez-Trujillo v. Quality Egg, L.L.C., 878 N.W.2d 
+759, 769 (Iowa 2016) (finding legislature did not vest commission with authority to interpret 
+provision at issue and noting the Court has declined to defer to the commissioner’s interpretations 
+of various provisions in recent years).  Therefore, review is for correction of errors at law.  Id. at 
+768; Iowa Code §17A.19(c) (court reviews whether agency action was “based upon an erroneous 
+interpretation of a provision of law whose interpretation has not clearly been vested by a provision 
+of law in the discretion of the agency.”) 
+E-FILED                    CVCV062981 - 2022 OCT 09 10:48 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 11
+
+6 
+ 
+A. Whether Himmelsbach preserved an argument that he sustained two separate 
+scheduled member injuries. 
+ 
+Himmelsbach does not dispute that the torn rotator cuff was an injury to a scheduled 
+member that would be addressed under Iowa Code section 85.34(2)(n), pursuant to Chavez v. MS 
+Technology, 972 N.W.2d 662 (Iowa 2022). However, Himmelsbach argues that he suffered both 
+a right shoulder and right arm injury and should be compensated for two injuries occurring in the 
+same work accident.  Iowa Code section 85.34(2)(t) compensates injury to two scheduled members 
+in the same accident, but this code section lists the scheduled members specifically and does not 
+include shoulder.  Therefore, Himmelsbach argues Iowa Code section 85.34(2)(v) applies, which 
+serves as a “catch-all” for permanent partial disability not described in the prior statutory sub-parts 
+of Iowa Code section 85.34(2)(a-u).  
+ 
+Himmelsbach’s claim fails because he did not raise this argument below.  Himmelsbach 
+did not argue that he had a separate right arm injury that should be compensated under Iowa Code 
+section 85.34(2)(v) in the Workers Compensation Commission. Therefore, he has failed to 
+preserve error on this issue. Judicial review is limited to issues raised and decided before the 
+agency, here, the Workers Compensation Commission. Soo Line R. Co. v. Iowa Dept. of Trans. 
+521 N.W.2d 685, 691 (Iowa 1994) (holding issue of improper delegation was not raised before the 
+Iowa Dept. of Transportation and, therefore, could not be considered on judicial review); Cedar 
+Rapids Community School Dist. v. Pease, 807 N.W.2d 839, 853-54 (Iowa 2011) (holding court 
+could not consider employer’s claim for apportionment because it was not raised before the deputy 
+commissioner) (citing Iowa Admin. Code r. 876-4.28(7) (“An issue will not be considered on 
+appeal if the issue could have been, but was not, presented to the deputy.”). 
+ 
+Here, Himmelsbach argued before the Deputy that the rotator cuff tear should be treated as 
+an injury to the body as a whole and not as a scheduled member injury to the shoulder. (See 
+E-FILED                    CVCV062981 - 2022 OCT 09 10:48 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 11
+
+7 
+ 
+Certified Record: Claimant’s Post-Hearing Brief dated July 20, 2020 at 15; Claimant’s Appellee 
+and Cross-Appeal Brief dated 9/20/2021, at page 3).  This argument was considered by the Deputy 
+Commissioner and Commissioner. Himmelsbach agrees the Iowa Supreme Court’s ruling in 
+Chavez is controlling on this issue and the injury is treated as an injury to the shoulder as a 
+scheduled member. Although that issue also deals with Iowa Code section 85.34(2)(v) as the catch-
+all, it is a distinct argument from the one now made on judicial review. At no point before the 
+Deputy Commissioner or Commissioner did Himmelsbach argue he suffered a separate injury to 
+the right arm and that he should be compensated for two injuries pursuant to section 85.34(2)(v). 
+ 
+Ntoably, Himmelsbach argued that, if the Deputy did find the injury was a scheduled 
+shoulder injury pursuant to section 85.34(2)(n), then the Deputy Commissioner should award Dr. 
+Manshadi’s finding of “12% impairment of a shoulder.” (See Certified Record: Claimant’s Post-
+Hearing Brief dated July 20, 2020 at 20). The Deputy Commissioner adopted the 12% finding and 
+it was not appealed to the Commissioner. (Arbitration Decision at 12). Dr. Manshadi’s report 
+breaks the 12% into two categories: “nine (9) percent impairment to the right upper extremity due 
+to reduced active range of motion” and  “three (3) percent impairment of the right upper extremity 
+due to weakness of the right elbow flexors.”  (Cl. Ex. 4-5).  However, he then assigned “total 
+impairment of the right upper extremity” at 12%. (Id.)  This impairment rating was related to Dr. 
+Manshadi’s finding that Himmelsbach “sustained a partial permanent impairment to his right 
+shoulder as a result of this June 25, 2018 work injury at Quaker Oats.” (Id.) Although three precent 
+of the impairment was based on weakness in the elbow flexors, Dr. Manhadi assigned a total 
+impairment of twelve percent to the right shoulder injury. Whether the evidence would have 
+supported a finding of a separate injury to the right arm that could support compensation pursuant 
+E-FILED                    CVCV062981 - 2022 OCT 09 10:48 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 11
+
+8 
+ 
+to Iowa Code section 85.34(2)(v) is unknown. That argument was never presented to the Deputy 
+Commissioner or Commissioner. 
+ 
+Himmelsbach argues he was unaware of this potential argument until the Chavez case 
+described, but did not decide, the potential to pursue multiple injuries from the same accident under 
+Iowa Code section 85.34(2)(v). However, the discussion in Chavez would not have prevented 
+Himmelsbach from making a multiple injuries argument in the alternative, a strategy which the 
+claimant in Chavez did pursue, hence its discussion on judicial review. The argument is not 
+preserved for judicial review and, therefore, the Court does not address it and affirms the Workers’ 
+Compensation Commission. 
+B. The Commission Correctly Determined the Parameters for Penalty Benefits. 
+ 
+The Deputy Commissioner awarded penalty benefits to Himmelsbach, against Quaker 
+Oats, under Iowa Code section 86.13 due to failure to conduct a reasonable investigation, failure 
+to provide a reasonable excuse for delay in payment of benefits for the 19 months after the injury 
+was reported until receipt of Dr. Jameson’s report, and failure to contemporaneously convey their 
+bases for delay of benefits. (Arbitration Decision at 17-18). The decision to award penalty benefits 
+is not in dispute, only the amount of penalty benefits. 
+ 
+Iowa Code section 86.13(4) provides for penalty benefits “up to fifty percent of the amount 
+of benefits that were denied, delayed, or terminated without reasonable or probable cause or 
+excuse.” Both the Deputy Commissioner and Commissioner held that a penalty of approximately 
+50% was appropriate. The dispute surrounds the amount of delayed benefits against which to apply 
+the 50% penalty.   
+The amount of benefits that were delayed or denied totaled $60,709.78. However, 
+Himmelsbach received short and long-term disability benefits in the amount of $23,926.55. Iowa 
+E-FILED                    CVCV062981 - 2022 OCT 09 10:48 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 11
+
+9 
+ 
+Code section 85.38(2)(a) provides that amounts paid to an employee from a disability plan that 
+should not have been paid if rights of recovery existed under the workers’ compensation statute 
+are treated as a credit against any compensation benefits. Therefore, Himmelsbach’s disability 
+benefits of $23,926.55 were applied as a credit to Quaker Oats to reduce the amount of 
+compensation for the 19 months at issue from $60,709.78 to $36,783.23. The Commissioner held 
+that the appropriate figure from which to assess penalty benefits was, therefore, $36,783.23.  
+This Court finds the correct interpretation of Iowa Code sections 86.13 and 85.38 is to 
+award up to 50% penalty benefits on any amount of benefits delayed, denied, or terminated, after 
+applying credit for short or long-term disability benefits as required under section 85.38.  “To 
+ascertain the meaning of the statutory language, we consider the context of the provision at issue 
+and strive to interpret it in a manner consistent with the statute as an integrated whole.” State v. 
+Pickett, 671 N.W.2d 866, 870 (Iowa 2003) (citation omitted). Although section 86.13 does not 
+expressly refer to the credit allowed under section 85.38, that credit impacts the amount of 
+“benefits delayed, denied, or terminated.”  Iowa Code section 85.38(2) only provides credit when 
+the short or long-term disability benefits are paid pursuant to a plan “contributed to wholly or 
+partially by the employer.”  Section 85.38(2) then requires that any amounts so paid “shall be 
+credited to or against any compensation payments” and “shall be deducted from the payments 
+made under these chapters.” Section 85.38(2) expressly gives employers credit (thereby 
+encouraging employers to maintain such benefit plans) in calculating any workers’ compensation 
+payments. In determining which benefits were “delayed, denied, or terminated” it is, therefore, 
+required by Iowa Code section 85.38(2) to consider whether the employer had any credit toward 
+such benefits. Iowa Code section 86.13 provides for penalty benefits for benefits that are partially 
+delayed, denied or terminated. Robbennolt v. Snap-On Tools Corp., 555 N.W.2d 229, 237 (Iowa 
+E-FILED                    CVCV062981 - 2022 OCT 09 10:48 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 11
+
+10 
+ 
+1996). Therefore, if there is a gap between the amount of employer credit and the benefits owed, 
+like there is here, the employer can be assessed a penalty up to fifty percent of that amount.  
+Although entitled to no deference, see e.g. Neal v. Annett Holdings, Inc., 814 N.W.2d 512, 
+518 (Iowa 2012), this interpretation is consistent with agency precedent.  See e.g. Ainesworth v. 
+Envipco, 2006 WL 2528600 (Iowa Workers’ Comp. Com’n Aug. 14, 2006); Dewitt v. AT&T, 
+1994 WL 16035063 (Iowa Workers’ Comp. Com’n Feb. 28, 1994); Moon v. AT&T, 1993 WL 
+13016150 (Iowa Workers’ Comp. Com’n Sept. 21, 1993). In addition, the Iowa Court of Appeals 
+has twice, in unpublished opinions, affirmed this interpretation. Jenson v. Commins Filtration-
+Lake Mills, 862 N.W.2d 413, at *4 (Iowa Ct. App. Jan. 14, 2015) (Table); Vermeer Manufacturing 
+v. Hartney, 2002 WL 1756322, at *4-5 (Iowa Ct. App. July 31, 2002). 
+IT IS HEREBY ORDERED that the Appeal Decision of the Iowa Workers’ Compensation 
+Commission is AFFIRMED. Costs are assessed to Petitioner. 
+IT IS SO ORDERED. 
+E-FILED                    CVCV062981 - 2022 OCT 09 10:48 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 11
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV062981
+GREGORY HIMMELSBACH VS QUAKER OATS COMPANY
+ET AL
+Type:
+OTHER ORDER
+So Ordered
+Electronically signed on 2022-10-09 10:48:58
+E-FILED                    CVCV062981 - 2022 OCT 09 10:48 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 11 of 11

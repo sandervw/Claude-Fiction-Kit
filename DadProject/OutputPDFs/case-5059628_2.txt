@@ -1,0 +1,572 @@
+Case Number: 5059628
+Case Title:  BLAKE, CHERI L V. SECOND INJURY FUND OF IOWA
+Doc Type:    Decision - District Court
+Source:      Blake, Cheri-5059628.District Court Decision.pdf
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+________________________________________________________________ 
+\ 
+ 
+CHERI BLAKE, 
+)                  Case No. CVCV060322 
+ 
+) 
+Petitioner, 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+  ) 
+ 
+ 
+vs. 
+) 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  ) 
+SECOND INJURY FUND OF IOWA, 
+) 
+ORDER ON PETITION FOR  
+ 
+ 
+ 
+ 
+ 
+               ) 
+           JUDICIAL REVIEW 
+Respondent, 
+) 
+ 
+ 
+ 
+ 
+Petitioner sought judicial review of a decision by the Iowa workers’ compensation 
+commissioner (the Commissioner) that found her ineligible for Iowa Second Injury Fund 
+(ISIF) benefits under the Second Injury Fund Compensation Act (SIFCA).  Oral argument 
+was held on August 21, 2020.  Petitioner Cheri Blake was represented by attorney Andrew 
+W. Bribriesco.  Respondent Second Injury Fund of Iowa (SIFI) was represented by 
+Assistant Attorney General Amanda R. Rutherford.  Oral argument was not reported. 
+ 
+This case presents a single legal issue for the court to decide:  Does permanent 
+disability to an eye caused by a disease extending into the body as a whole constitute a first 
+qualifying loss under Iowa Code section 85.64 or the common law?   Upon review of the 
+Petition and the court file in light of the relevant law, and after carefully considering the 
+respective arguments of counsel, the court enters the following Order. 
+BACKGROUND FACTS AND PROCEEDINGS 
+ 
+Petitioner suffers from Graves’ disease.  (Arb. Dec. at p. 3).  The parties agree that 
+Petitioner has a right eye disability arising from the Graves’ disease.  (Arb. Dec. at p. 8).  
+Petitioner ultimately sought ISIF benefits from SIFI and appeals an adverse decision by 
+the Iowa workers’ compensation commissioner (the Commissioner) denying her claim for 
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+2 
+ 
+such benefits.    
+Petitioner’s claim against SIFI was tried on November 14, 2018, before a deputy 
+workers’ compensation commissioner (the Deputy).   At the hearing Petitioner alleged a first 
+qualifying injury to her right eye due to Graves’ disease symptoms.  Petitioner testified she 
+was diagnosed with Graves’ disease in 2010 and it affects her vision.  (Ex. 10 at p. 34; Arb. 
+Dec. at pp. 3, 5 – 8). 
+Graves’s disease is an immune system disorder causing overproduction of thyroid 
+hormones.  (Arb. Dec. at p. 5).  In addition to blurry vision, Petitioner suffers from pressure 
+behind both her eyes, weekly headaches, cramping in her legs, insomnia, significant weight 
+loss, anxiety/racing heart, and skin rashes.  (Ex. FF at p. 23; Ex. KK at p. 48).  She was 
+proscribed Propylthiouracil,  an anti-thyroid drug, for these symptoms.  It decreases the 
+amount of hormone the thyroid gland produces.  
+The medical records indicate Petitioner first sought treatment for Graves’ 
+disease on January 27, 2016.  (Ex. 4 at p. 21).  On that date she was evaluated by family 
+physician Dr. Narayana for complaints of decreased vision in her right eye, ptosis in her left 
+eye, a skin rash, and fatigue.  (Id.)  Dr. Naranyana referred Petitioner to an 
+endocrinologist.   
+Petitioner saw endocrinologist Dr. Wilczynski on February 2, 2016.  (Ex. 5 at p. 
+28; Arb. Dec. at pp. 3 – 5).   At this appointment she complained of blurry vision in her left 
+eye, pressure build-up in both eyes, leg cramping and insomnia.  (Ex. 5 at p. 26). Dr.  
+Wilczynski diagnosed her with Graves’ hyperthyroidism with eye manifestations. (Id. at 
+pp. 27 – 27). He proscribed Methimazole, an anti-thyroid medication, and referred 
+Petitioner to an eye surgeon for evaluation.   (Id. at p. 27)  Petitioner testified at the 
+hearing that she has never been to see an eye surgeon.   
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+3 
+ 
+Petitioner had one follow-up appointment with Dr. Wilczynkski’s clinic in February 
+2016.  (Ex. 5 at pp. 26 – 27).  On April 19, 2016, Dr. Wilczynski changed her medication 
+from Methimazole to Propylthiouracil because of side effects. (Id. at p. 24).  Dr. Wilczynski 
+again referred Petitioner to an eye surgeon.  (Id.).  Petitioner did not do so because her 
+insurance would not cover it.  (Tr. at p. 16). 
+In November 2016, Petitioner returned to Dr. Narayana for anxiety and insomnia. 
+There are no medical records in evidence (1) detailing any treatment to Petitioner’s right 
+eye, nor (2) showing loss of vision in the right eye.   At the hearing Petitioner testified 
+she does not have prescription eyeglasses.  (Arb. Dec. at p. 5).  She also does not have 
+any work restrictions for her right eye. (Id.)   
+On August 17, 2018, Petitioner underwent an independent medical exam (IME) 
+with Dr. Bansal.  (Ex. 2 at p.  5).  Dr. Bansal diagnosed her with Graves’ disease.  (Ex. 2 – 
+12). He opined that pursuant to the AMA Guides, Fifth Edition, she had a 4% permanent 
+visual impairment due to the Graves’ disease.  (Ex. 2 at p. 16).  He also suggested she avoid 
+jobs that require bilateral intact vision such as commercial driving, avoid nighttime 
+driving, and install blind-spot mirrors on her car.1  (Id.). 
+On August 15, 2019, the Deputy issued the arbitration decision.  The Deputy found 
+Petitioner did not have a first qualifying injury to her right eye and thus did not qualify for 
+benefits from Respondent.  (Arb. Dec. at p. 9).  Specifically, the Deputy found Petitioner’s 
+                                                 
+1 Petitioner asserted a second qualifying injury to her right upper extremity on September 
+12, 2016.  During the IME, Dr. Bansal was also asked to evaluate Petitioner’s right upper 
+extremity for permanent impairment. At the hearing Respondent stipulated that 
+Petitioner suffered a permanent injury to her right upper extremity on September 12, 
+2016, but the parties disagreed on the amount of credit Respondent should receive for that 
+injury. The Deputy made no fact findings about Petitioner’s second alleged injury and it is 
+not an issue in the instant appeal. 
+ 
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+4 
+ 
+eye complaints are “the result of inflammation and other immune system events 
+affecting the muscles and tissues around the eyes.” (Arb. Dec. at p. 9; Ex. FF at p. 23).   
+The Deputy explained that the inflammation was caused by hyperthyroidism, a condition 
+of the endocrine system.  (Id.).  Injuries to the endocrine system are addressed in chapter 
+10 of the AMA Guides, Firth Edition and are rated to the body as a whole.  (Id. at pp. 8-
+9).  The Deputy did not award Petitioner any benefits. (Id. at p. 9).   
+On August 23, 2019, Petitioner filed a Motion for Rehearing of the arbitration 
+decision.  On August 28, 2019, Respondent filed a Resistance. The agency did not rule 
+upon the Motion, effectively denying it.  Iowa Admin. r. 876-4.24.   
+Petitioner sought intra-agency review on September 17, 2019.  On June 10, 2020, 
+the Commissioner issued a decision affirming the Deputy’s decision in its entirety.  The 
+Commissioner reiterated that Petitioner’s first alleged injury was located in the body as a 
+whole, not her right eye.  The Commissioner stated:  
+I affirm the deputy commissioner’s finding that claimant failed to 
+prove she sustained a first qualifying scheduled member injury to her right 
+eye for the purpose of receiving benefits from [Respondent].  I affirm the 
+deputy commissioner’s finding that the alleged first qualifying injury was 
+actually an injury to the claimant’s body as a whole with the result that 
+claimant is not eligible to receive benefits from [Respondent]. 
+ 
+(App. Dec. at p. 2). 
+ 
+On June 15, 2020, Petitioner filed the instant Petition seeking review of the 
+Commissioner’s final agency decision.  
+                                     STANDARD OF REVIEW 
+Iowa Code chapter 17A governs judicial review of final agency action.  “Under the 
+Act, [the court] may only interfere with the commissioner’s decision if it is erroneous under 
+one of the grounds enumerated in the statute, and a party’s substantial rights have been 
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+5 
+ 
+prejudiced.”  Meyer v. IBP, Inc., 710 N.W.2d 213, 218 (Iowa 2006).  A party challenging 
+agency action bears the burden of demonstrating the action’s invalidity and resulting 
+prejudice.  Iowa Code § 17A.19(8)(a).  In exercising the power of judicial review, the district 
+court acts in an appellate capacity.  Nance v. Iowa Dep’t of Revenue, 908 N.W.2d 261, 267 
+(Iowa 2018) (quoting Mycogen Seeds v. Sands, 686 N.W.2d 457, 463 (Iowa 2004)).   
+To determine the applicable standard of review under section 17A.19, the court 
+must first ascertain the basis of Petitioner’s claim.  After thoughtful consideration of the 
+parties’ briefs and arguments, it appears Petitioner takes issue with the Commissioner’s 
+finding that Petitioner did not prove a first qualifying injury to her right eye, but rather 
+presented evidence of a body as a whole condition.  This is a question of fact.   
+Petitioner attempts to paint this appeal as one of law by claiming the agency was 
+required to apply the precedent established in Gregory v. Second Injury Fund of Iowa, 
+777 N.W.2d 395 (Iowa) to the facts of this case and find Petitioner’s first alleged injury 
+qualified for benefits.  As explained below, the Gregory decision is not applicable to the 
+facts of this case.  Under the court’s holding in Gregory, injuries located in a petitioner’s 
+body as a whole do not qualify for ISIF benefits.  As noted above, the Commissioner 
+specifically found Petitioner’s injury was located in her body as a whole, not in her right 
+eye—a finding of fact.   
+The Iowa legislature vested the Commissioner with authority to make factual 
+findings.  Iowa Code §§ 86.14 – 24.  When the court reviews factual findings made by the 
+Commissioner, those findings have the effect of a jury verdict. Kostelac v. Feldman’s, 
+Inc., 497 N.W.2d 853, 856 (Iowa 1993).  The court must broadly and liberally construe 
+the Commissioner’s findings to uphold, rather than defeat, the Commissioner’s decision. 
+Second Injury Fund of Iowa v. Bergeson, 526 N.W.2d 543, 546 (Iowa 1995).  
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+6 
+ 
+The court can only reverse the Commissioner’s factual findings if they are not 
+supported by substantial evidence in the record as a whole. Iowa Code § 17A.19(10)(f).  
+Evidence is substantial “if a reasonable mind would find it adequate to reach a 
+conclusion.  An agency's decision does not lack substantial evidence because inconsistent 
+conclusions may be drawn from the same evidence.”  Second Injury Fund v. Shank, 516 
+N.W.2d 808, 812 (Iowa 1994). On appeal, the question is whether the evidence supports 
+the findings actually made, not whether the evidence could support a different finding. 
+St. Luke’s Hosp. v. Gray, 604 N.W.2d 646, 649 (Iowa 2000).  
+As an alternative argument, Petitioner argues that under the language of SIFCA, 
+the symptoms in her right eye should qualify for ISIF benefits.   She says this question is 
+an issue of first impression in Iowa.  The Iowa Supreme Court (the Court) has issued 
+previous decisions addressing this issue.  The most applicable decision is Second Injury 
+Fund v. Nelson, 544 N.W.2d 258, 269 (Iowa 1995).  The question in the instant matter 
+is whether the agency correctly applied established legal precedent.     
+When the court is asked to review an agency’s interpretation of law, the court 
+affords the agency a level of deference if the authority to interpret that law has “clearly 
+been vested by a provision of law in the discretion of the agency.”  Burton v. Hilltop Care 
+Ctr., 813 N.W.2d 813 N.W.2d 250, 256 (Iowa 2012).  Where the legislature has clearly 
+vested the agency with such authority, the court “will only reverse a decision of statutory 
+construction which is irrational, illogical, or wholly unjustifiable.”  Xenia Rural Water 
+Dist v. Vegors, 786 N.W.2d 252, 252 (Iowa 2010).   
+If the agency has not been clearly vested with the authority to interpret the law, the 
+court reviews questions of law for correction of errors at law.  Waldinger Corp. v. Mettler, 
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+7 
+ 
+817 N.W.2d 1, 7 (Iowa 2012).  The Commissioner has not been vested with authority to 
+interpret the law regarding the criteria to establish liability under Iowa Code section 
+85.64.   The court’s review of this issue is therefore for correction of errors at law.  Xenia, 
+786 N.W.2d at 252. 
+                                                               ANALYSIS 
+The underlying dispute in this case arises from the Commissioner’s determination 
+that Petitioner did not prove a qualifying scheduled member injury to her right eye itself, 
+but rather offered evidence of an injury located in the body as a whole.   Petitioner argues 
+this was legal error and under the Court’s holding in Gregory, the Commissioner was 
+required to find a qualifying injury to the right eye.  Respondent argues the holding in 
+Gregory does not apply to this case because the Commissioner specifically found 
+Petitioner’s alleged injury was located in the body as a whole and that finding is supported 
+by substantial evidence.   
+A. 
+Whether the Commissioner correctly found Petitioner’s first 
+alleged injury was located in the body as a whole and was not a qualifying 
+injury for ISIF benefits.   To establish a claim against SIFI, Petitioner had to establish 
+(1) she lost, or lost the use of, a hand, arm, foot, leg, or eye, (2) she sustained a loss or 
+loss of use of another specified member or organ through a compensable work-related 
+injury, and (3) there is permanent disability from both the first and second scheduled 
+member injuries.  Shank, 516 N.W.2d at 812. It is the claimant’s burden to prove 
+permanent disability resulting from both the initial scheduled member injury and the 
+second alleged scheduled member injury by a preponderance of the evidence.   Bergeson, 
+526 N.W.2d at 547 – 48; Iowa R. App. P. 6.14(6).   
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+8 
+ 
+ 
+The Deputy found Petitioner’s eye complaints are “the result of inflammation and 
+other immune system events affecting the muscles and tissues around the eyes.” (Arb. 
+Dec. at p. 9). On appeal, the Commissioner confirmed that an injury located in the 
+endocrine system which causes swelling in the muscles and tissues of the head is an 
+“injury to claimant’s body as a whole with the result that claimant is not eligible to 
+receive benefits from [SIFI].” (Appeal Dec. at p. 2). 
+ 
+The parties agree that the only diagnosis for Petitioner’s first alleged injury is 
+Graves' disease and the Commissioner correctly found that the only diagnosis for 
+Petitioner’s first alleged injury was Graves’ disease.  (Arb. Dec. at p. 8).  As noted above, 
+Graves’ disease is an immune system disorder causing the overproduction of thyroid 
+hormones.  (Id.)  The thyroid is located in the neck and is considered part of the endocrine 
+system.  (Id.)  Under the AMA Guides, Fifth Edition, permanent impairment to the 
+endocrine system is addressed in chapter 10. (Id.) Under chapter 10, permanent 
+impairment caused by Graves’ disease is a rating to the body as a whole.  (Id.) 
+ 
+Endocrine deficiencies can cause impairment to many different organ systems 
+because hormones flow freely throughout the whole body.  Because of this, the signs and 
+symptoms of Graves’ disease are wide ranging.  At the hearing, Petitioner testified that 
+she suffers from a number of common symptoms of Graves’ disease, including pressure 
+behind her eyes, headaches, cramping in her extremities, insomnia, significant weight 
+loss, anxiety/racing heart, and skin rashes.  (Ex. FF at p. 23).  Petitioner also testified she 
+suffers from blurry vision because of Graves’ disease. (Id.). 
+However, medical evidence in the record show that Petitioner’s vision issues are not an 
+injury to the eye organ itself.   They are a side effect of her endocrine condition which is causing 
+a build-up of certain carbohydrates in the muscles and tissues located in her skull behind the 
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+9 
+ 
+eyes.   It is the anatomical situs of the injury which determines whether a claimant has a 
+scheduled member injury or an injury to the body as a whole.  Lauhoff Grain Co. v. 
+McIntosh, 395 N.W.2d 834, 840 (Iowa 1986); Dailey v. Pooley Lbr. Co., 233 Iowa 758, 
+763, 10 N.W.2d 569, 572 (1943).  “The situs of an injury is determined by the anatomical 
+or physiological location of the damage or derangement.” Spainhower v. Second Injury 
+Fund, File No. 1110759, 1999 WL 33619875 (Arb. Dec., Sept. 30, 1999); Prewitt v. 
+Firestone Tire, File Nos. 876688, 931128, 1993 WL 13015946 (App. Dec., June 30, 
+1995) (stating the anatomical situs of the physical injury determines whether the disability 
+is to a scheduled member or to the body as a whole). 
+Like diabetes, RSD/CRPS, and vascular conditions, Graves’ disease may 
+manifest or produce symptoms in a particular part of the body, but its origin is in the body 
+system as a whole. Blacksmith v. All-American, Inc., 290 N.W.2d 348, 353 (Iowa 1980) 
+(finding vascular injury that affected the leg was an injury to the body as a whole); 
+Collins v. Dep’t of Human Res., 529 N.W.2d 627, 629 (Iowa Ct. App. 1995) (holding RSD 
+is an injury to the sympathetic nervous system even though it affected the claimant’s 
+hands); see also Rivers v. Second Injury Fund, File No. 1253705, 2002 WL 32125606 
+(Arb. Dec., March 4, 2002) (holding diabetes/peripheral neuropathy is an injury that 
+may manifest in a scheduled member but its origin is in the body as a whole).  
+Petitioner has never received any treatment on her right eye itself—she does not 
+even wear prescription eyeglasses.  While Dr. Wilczynski referred Petitioner to any eye 
+surgeon, she has never seen one.  (Arb. Dec. at p. 8).   Medical records show she has been 
+proscribed Propylthiouracil for all the symptoms she experiences due to her endocrine 
+disorder.  As noted above, this is an anti-thyroid drug.  It decreases the amount of 
+hormone produced by the thyroid gland, thereby decreasing the swelling in the tissue behind 
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+10 
+ 
+her eyes.  The only condition Petitioner has sought treatment for is a whole body condition.  
+This determination is supported by her expert witness report.   
+When asked for a diagnosis for Petitioner’s right eye complaints, Dr. Bansal 
+diagnosed her with Graves’ disease.  Dr. Bansal agrees her vision complaints are a side-
+effect of her Graves’ disease—a body as a whole condition.2   He did not diagnose her with 
+any injury to the right eye itself and there is no evidence in the hearing record indicating 
+Petitioner’s vision loss issues are caused by an actual injury to the eye which could be 
+separated from her endocrine condition.   See Briggs v. Second Injury Fund, File No. 
+5024615, 2011 WL 3475696 (Aug. 9, 2011) (Claimant denied ISIF benefits because 
+alleged scheduled member injury could not be separated from body-as-a-whole 
+condition). 
+The Deputy found Petitioner’s eye complaints are “the result of inflammation and 
+                                                 
+2 In her Brief Petitioner argues the agency had to adopt Dr. Bansal’s impairment rating to 
+the right eye because he was the only designated expert.  This assertion is incorrect. “The 
+Commissioner, as the fact finder, determines the weight to be given to any expert 
+testimony,” and “[s]uch weight depends on the accuracy of the facts relied upon by the 
+expert and other surrounding circumstances.” Sherman v. Pella Corp., 576 N.W.2d 312, 
+321 (Iowa 1998).  The determination of whether to accept or reject an expert opinion is 
+within the “peculiar province” of the Commissioner. Deaver v. Armstrong Rubber Co., 
+170 N.W.2d 455, 464 (Iowa 1969). Remand is only required if the Commissioner has 
+rejected or disregarded material evidence without stating why. McDowell v. Town of 
+Clarksville, 241 N.W.2d 904, 908-909 (Iowa 1976).  
+ 
+The Commissioner clearly found Dr. Bansal’s own diagnosis for Petitioner’s eye complaints 
+was Graves’ disease—a body as a whole condition that does not qualify for ISIF benefits. 
+(Arb. Dec. at pp. 7 – 8). There is nothing under Iowa law compelling the Commissioner to 
+adopt an expert’s rating when it is demonstrably incorrect under the law and not in 
+compliance with the AMA Guides to the Evaluation of Permanent Impairment. See 
+Bergeson, 526 N.W2d at 548 (stating “Iowa has adopted the guides for the determination 
+of permanent partial disability.”).  Under chapter 10, permanent impairment caused by 
+Graves’ disease is a rating to the body as a whole. 
+ 
+ 
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+11 
+ 
+other immune system events affecting the muscles and tissues around the eyes.” (Arb. 
+Dec. at p. 9; Ex. FF at p. 23).  This is an “injury to claimant’s body as a whole with the 
+result that claimant is not eligible to receive benefits from [SIFI].  (App. Dec. at p. 
+2).  This factual finding is supported by substantial evidence in the record and 
+should be upheld. 
+B. 
+Whether the holding in Gregory v. Second Injury Fund of Iowa, 
+777 N.W.2d 395 (Iowa 2010) applies to the facts of this case.  Petitioner also urges 
+that the Commissioner erred by not applying the court’s holding in Gregory v. Second 
+Injury Fund of Iowa, 777 N.W.2d 395 (Iowa 2010) to the facts of her case.  She claims 
+“Gregory stands for the proposition that an injury that extends into the body as a whole 
+can still be considered a first qualifying injury if it affects an enumerated member under 
+SIFCA.” (Pet. Jud. Rev. Brief at p. 14).  
+Petitioner misinterprets the Gregory holding.  As stated above, the Commissioner 
+found Petitioner’s first alleged injury was located in her body as a whole.  This finding is 
+supported by substantial evidence.  Under the holding in Gregory a claimant must still 
+prove that the first alleged injury is physically located in an enumerated scheduled 
+member.  Petitioner did not meet this burden.   
+In Gregory the question before the court was whether a prior carpal tunnel release 
+surgery to the claimant’s left hand qualified as a first injury, when the claimant later 
+underwent bilateral shoulder surgeries that were determined to be causally related 
+to the same date of injury as the left carpal tunnel release.  Gregory, 777 N.W.2d at 
+396.  In looking at this unique set of facts, the Court concluded that a first qualifying 
+injury can occur simultaneously with an injury to another area of the body.  Id. at 
+400.  But the court clarified “[t]he 2000 injury to Gregory’s left hand qualifies as a first 
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+12 
+ 
+injury only because it was situated in an enumerated member and was not confined to 
+an unenumerated part of her body.” Id. at 401 (emphasis added).   
+This is not true in Petitioner’s case.  Her alleged injury is not located in an 
+enumerated member.  It is located in the muscles and tissues in her head.  Further, 
+Gregory’s left hand was injured in such a way that it was impossible to completely 
+separate it from his body as a whole conditions and accurately rate the hand.  Id. 
+Gregory’s left hand and shoulders underwent separate surgeries, were given 
+separate impairment ratings, and had separate work restrictions.  Id. at 396.  See also 
+Briggs, File No. 5024615 (Claimant denied ISIF benefits because alleged scheduled 
+member injury could not be separated from body as a whole condition).  Petitioner’s 
+alleged first injury does not meet any of the requirements outlined in Gregory.  
+She is suffering from a body as a whole condition which is affecting her eyes.  She 
+does not have a separate ratable injury to the right eye. 
+The Gregory Court determined that an injury to an enumerated scheduled 
+member could occur at the same time as a separate injury to the body as a whole and still 
+qualify for ISIF benefits.  Gregory, 777 N.W.2d at 398.  The Gregory Court did not state 
+that a first qualifying loss could be caused by an injury to the body as a whole or be one 
+of the symptoms from a body as a whole condition.   
+Gregory does not stand for the proposition that claimants may carve out 
+scheduled member impairment ratings from body as a whole conditions.  That is the 
+factual scenario Petitioner presents.  She has a systemic disease (Graves’ disease) located 
+in her body as a whole.  The systemic disease is causing symptoms in her eyes.  She does 
+not have a separate injury physically located in her right eye, as Gregory requires.  The 
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+13 
+ 
+holding in Gregory is not applicable to the instant facts. 
+C. 
+Whether body as a whole conditions that affect or produce 
+symptoms in enumerated scheduled members are qualifying injuries under 
+section 85.64.   Petitioner alternatively contends that if Gregory is inapplicable to the 
+instant facts, she still has a first qualifying injury because under the language of section 
+85.64, body as a whole conditions are qualifying as long as they affect an enumerated 
+scheduled member.  The court does not find this argument persuasive for the following 
+reasons.   
+The language of section 85.64 clearly requires permanent impairment to an 
+enumerated scheduled member: 
+If an employee who has previously lost, or lost the use of, one hand, one 
+arm, one foot, one leg, or one eye, becomes permanently disabled by a 
+compensable injury which has resulted in the loss of or loss of use of 
+another such member or organ, the employer shall be liable only for the 
+degree of disability which would have resulted from the latter injury if there 
+had been no preexisting disability.  In addition to such compensation, and 
+after the expiration of the full period provided by law for the payments 
+thereof by the employer, the employee shall be paid out of the “Second 
+Injury Fund” created by this division the remainder of such compensation 
+as would be payable for the degree of permanent disability involved after 
+first deducting from such remainder the compensable value of the 
+previously lost member or organ. . . . 
+ 
+Id. (emphasis added).   
+Our appellate courts have consistently interpreted this language to require a 
+showing of permanent impairment to two enumerated scheduled members themselves.  
+See Stumpff v. Second Injury Fund, 543 N.W.2d 904, 906-907 (Iowa 1996) (stating the 
+first loss must be to a scheduled member named in SIFCA and whether there is a loss to an 
+enumerated scheduled member is determined by the site of the injury, not what body parts 
+it affects); Gregory, 777 N.W.2d at 399-400 (stating “we interpreted the phrase ‘loss of 
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+14 
+ 
+or loss of use to another such member’ to mean a subsequent loss to another 
+enumerated member . . . . Liability of the Fund under section 85.64 expressly turns on 
+the part(s) of the body permanently injured in successive injuries.”); Second Injury 
+Fund of Iowa v. George, 737 N.W.2d 141, 146 (Iowa 2007) (stating under section 85.64 
+a qualifying loss must be scheduled and must be to an enumerated member).
+Under established legal precedent, providing proof of symptoms in a scheduled 
+member due to a body as a whole condition is not sufficient to qualify for ISIF benefits. 
+This interpretation is consistent with the language used in the statute.   Section 85.64 
+states that a claimant must prove they “previously lost, or lost the use of” an enumerated 
+scheduled member. 
+When interpreting Iowa Code chapter 85, the court’s goal is to determine and 
+effectuate the legislature’s intent.  Ramirez-Trujillo v. Quality Egg, L.L.C., 878 N.W.2d 
+759, 770 (Iowa 2016).   To determine legislative intent, the court looks to the language 
+chosen by the legislature and not what the legislature might have said.  Id. (citing 
+Schadendorf v. Snap-On Tools Corp., 757 N.W.2d 330, 337 (Iowa 2008)).  Absent a 
+statutory definition, the court considers statutory terms in the context in which they 
+appear and gives each term its ordinary and common meaning.  Id.  Only when the 
+meaning of a statute is ambiguous does the court consider the rules of statutory 
+construction in its analysis.  Id. 
+When ambiguous statutes are construed, they are assessed in their entirety rather 
+than in isolated words or phrases. Id. This ensures that the court’s interpretation is 
+harmonious with the statute as a whole.  Id.  The Court presumes the legislature included 
+each word in a statute to have a purpose and avoids construing a statutory provision in a 
+manner that makes words or portions irrelevant.  Id. 
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+15 
+ 
+Petitioner urges the court to interpret section 85.64 to allow a previous bodily 
+injury to qualify if it has any impact at all on an enumerated member. The legislature 
+specifically used the language “previously lost, or lost the use of.”    It did not say “any injury 
+which affects” an enumerated member.  The commonly accepted definition of the word 
+“of” is “used as a function word to indicate origin or occurring in.” https://www.merriam-
+webster.com/dictionary/of.   As detailed above, the Gregory Court interpreted the phrase 
+“loss of, or loss of use of” to mean injury to an enumerated member.  Gregory, 777 
+N.W.2d at 399-400.  The Court stated liability under section 85.64 “expressly turns on 
+the parts of the body permanently injured.” Id.3    
+The legislature set the scope of individuals eligible for ISIF benefits under section 
+85.64.  Petitioner’s suggested interpretation of section 85.64 far exceeds that scope, and 
+unreasonably so. 
+The court agrees with the Commissioner’s decision because the Court has already 
+addressed, and rejected, Petitioner’s argument.  In Second Injury Fund v. Nelson, 554 
+N.W.2d 258, 269 (Iowa 1995), the court was asked to decide whether a shoulder injury 
+that caused symptoms in the claimant’s arm qualified for ISIF benefits.  In a thoughtful 
+analysis, the Court decided it was not: 
+The ultimate question here is whether an unscheduled injury can 
+trigger Second Injury Fund liability.  The commissioner interpreted section 
+85.64 to require an injury that merely affects a scheduled member; thus, 
+he held that Nelson’s unscheduled shoulder injury that affects his arm, a 
+                                                 
+3 The Court also noted that other jurisdictions have purposefully expanded the class of 
+individuals covered under their second injury fund statutes by removing the language which 
+requires the prior injury be situated in an enumerated scheduled member.  Gregory, 777 
+N.W.2d at 405, n.5 (observing Colorado expanded its state second injury fund benefits by 
+replacing the language “previously suffered the loss, or total loss of use, of one hand, one 
+foot, one leg or the vision in one eye” with a simple requirement that there be “previous 
+permanent partial industrial disability.”). Unlike Colorado, the Iowa legislature has not 
+amended the language of section 85.64 or removed the scheduled member requirement. 
+ 
+ 
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+16 
+ 
+scheduled member, is sufficient to make the Fund liable.  This conclusion 
+is inconsistent with the clear language of section 85.64 as well as with our 
+prior cases interpreting the workers’ compensation statute. 
+ 
+Section 85.64 lists specific members, the injury of which triggers 
+Fund liability.  All of the injuries listed are scheduled injuries.  We have 
+consistently interpreted the workers’ compensation statute as making a 
+clear distinction between scheduled and unscheduled injuries.  E.g., 
+Second Injury Fund v. Bergeson, 526 N.W.2d 543, 547 (Iowa 1995); 
+Lauhoff Grain, 395 N.W.2d at 839; 840; Alm, 240 Iowa at 1177, 38 N.W.2d 
+at 163.  We find nothing in section 85.64 that would cause us to blur that 
+distinction here.   See Lauhoff Grain, 395 N.W.2d at 840 (refusing to apply 
+benefits schedule for injury to the leg merely because the hip impairment 
+affects the leg); see also Taylor v. Pfeiffer Plumbing & Heating Co., 8 Ark. 
+App. 144, 648 S.W.2d 526, 527 (1983) (“Even if the effects of the shoulder 
+injury extended into his arm . . . ., this fact would not make the injury a 
+scheduled one.”). 
+ 
+Id. at 269-70.  See also Klapproth v. Second Injury Fund, File No. 5052845, 2017 WL 
+1136380 (Arb. Dec., Jan. 11, 2017) (finding a body as a whole injury which affected the 
+use of a scheduled member is not qualifying for ISIF benefits). 
+Petitioner posits two arguments about why the Nelson holding should not apply to 
+her case.   First, she claims that Nelson was overruled by the Court’s holding in Gregory.  
+Gregory did not overrule Nelson.  Gregory held that an injury to an enumerated 
+scheduled member could occur at the same time as a separate injury to the body as a 
+whole and still qualify for ISIF benefits.  Gregory did not take away the statutory 
+requirement that the first injury must be situated in an enumerated scheduled member.  
+Gregory, 777 N.W.2d at 398.   
+Petitioner alternatively asserts that the Nelson holding only applies to second 
+alleged injuries.  The court finds no evidence to support this assertion.  One year after the 
+Court decided Nelson, the Court addressed a similar claim in Stumpff v. Second Injury 
+Fund, 543 N.W.2d 904 (Iowa 1996).  In Stumpff, the claimant alleged an injury situated 
+in his index finger was a first qualifying injury for ISIF benefits because the injury affected 
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+17 
+ 
+his hand, an enumerated member under section 85.64.  Stumpff, 543 N.W.2d at 906-07.  
+The Court rejected that argument, holding the site of the injury was in the claimant’s finger 
+and the language of section 85.64 did not permit a finger injury to be treated as a hand 
+merely because it affected the hand.  Id.  The Stumpff Court clearly did not believe the 
+precedent established in Nelson only applied to second alleged injuries.    
+The court finds the Nelson holding applies to the instant facts.  Under that decision, 
+a body as a whole condition that merely affects an enumerated scheduled member is not a 
+qualifying injury under section 85.64.  The agency reasonably found Petitioner’s vision 
+complaints are a side effect of her Graves’s disease, a body as a whole condition/injury.  Her 
+vision issues are not an actual physical injury to the eye itself.  Relevant common law does 
+not support Petitioner’s position.  Any changes to existing statutory language permitting 
+Petitioner to prevail on the issues Petitioner raises here are for the Iowa legislature to make. 
+When the agency record is considered as a whole, the final agency decision should 
+be affirmed and the Petition should be dismissed in its entirety.   
+                                                               ORDER 
+IT IS THEREFORE ORDERED, ADJUDGED AND DECREED that the 
+Commissioner’s decision is affirmed in its entirety and the Petition is dismissed in its 
+entirety. 
+ 
+IT IS FURTHER ORDERED, ADJUDGED AND DECREED that costs are 
+assessed to Petitioner.   
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT
+
+State of Iowa Courts
+Type:
+OTHER ORDER
+Case Number
+Case Title
+CVCV060322
+CHERI BLAKE VS SECOND INJURY FUND OF IOWA
+So Ordered
+Electronically signed on 2020-10-20 16:23:52     page 18 of 18
+E-FILED  2020 OCT 20 4:23 PM POLK - CLERK OF DISTRICT COURT

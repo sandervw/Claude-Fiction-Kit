@@ -1,0 +1,491 @@
+Case Number: 1656402.03
+Case Title:  KLEIN, BRIAN V. WHIRLPOOL CORPORATION
+Doc Type:    Decision - Court of Appeals
+Source:      Klein - COA Decision.PDF
+========================================================================
+
+ 
+ 
+1 
+ 
+IN THE COURT OF APPEALS OF IOWA 
+_______________ 
+No. 25-0458 
+Filed January 7, 2026 
+_______________ 
+Brian Dale Klein, 
+Petitioner–Appellant, 
+ 
+v. 
+ 
+Whirlpool Corporation, 
+Respondent–Appellee. 
+_______________ 
+Appeal from the Iowa District Court for Iowa County, 
+The Honorable Lars G. Anderson, Judge. 
+_______________ 
+AFFIRMED 
+_______________ 
+Thomas M. Wertz (argued), and Mindi M. Vervaecke of Wertz Law Firm, 
+Cedar Rapids, attorneys for appellant. 
+ 
+Kent M. Smith (argued) of Smith Mills Law P.C., West Des Moines, 
+attorney for appellee. 
+_______________ 
+Heard at oral argument 
+by Greer, P.J., and Schumacher and Ahlers, JJ.  
+Opinion by Schumacher, J. 
+ 
+1 of 15
+ELECTRONICALLY FILED            JAN 07, 2026            CLERK OF SUPREME COURT
+ELECTRONICALLY FILED     2026-Jan-16  10:30:36     DIVISION OF WORKERS' COMPENSATION
+
+ 
+ 
+2 
+ 
+SCHUMACHER, Judge. 
+An injured claimant, Brian Klein, appeals, asserting the Iowa Workers’ 
+Compensation Commissioner improperly used agency discretion and judicial 
+notice in determining the impairment rating for his shoulder to be nine 
+percent, as opposed to fifteen percent as advocated by a medical expert.  
+Upon our review, we affirm. 
+I. 
+Background Facts & Proceedings 
+While working at Whirlpool Corporation (Whirlpool), Klein was 
+feeding tubing through a machine and injured his right shoulder when 
+attempting to pry the tubing.  Klein had been working at Whirlpool for thirty-
+five years.  He went to the University of Iowa Hospitals & Clinics for an 
+evaluation on his shoulder, which was conducted by Dr. Matthew Bollier. 
+Dr. Bollier determined that the incident at Whirlpool was a significant 
+factor which aggravated or worsened Klein’s previous shoulder condition and 
+recommended surgery.  Dr. Bollier performed the surgery which included 
+arthroscopy, SLAP repair, extensive debridement, distal clavicle excision, 
+subpectoral biceps tenodesis, and decompression.  Several months later, 
+Klein received a corticosteroid injection.  At a follow-up appointment, Klein 
+reported to Dr. Bollier that the injection reduced his everyday pain but he 
+continued to experience tenderness and anterior pain.  Klein also reported 
+that his shoulder felt weak and he could not lift two and one-half pound boxes 
+above his shoulders in physical therapy. 
+Dr. Bollier informed Klein that he could use his shoulder freely as he 
+was not causing any new damage to it and that Klein had achieved maximum 
+improvement.  Dr. Bollier stated that Klein had sustained a four percent 
+upper extremity impairment.   
+2 of 15
+
+ 
+ 
+3 
+ 
+Klein then underwent a functional capacity evaluation with Greg 
+Munson, PT, who determined Klein could do medium duty work below 
+shoulder level and light duty work above shoulder level.  Dr. Bollier reviewed 
+the evaluation report and recommended permanent work restrictions. 
+In preparation for his workers’ compensation claim, Klein underwent 
+an independent medical evaluation with Dr. Mark Taylor who found that 
+Klein had an upper extremity impairment of fifteen percent due to his right 
+shoulder.  The fifteen percent was attributed to six percent impairment to 
+range of motion and ten percent because of distal clavicle excision.  In 
+performing this evaluation, Dr. Taylor used Table 16-27 of the American 
+Medical Association (AMA) Guides (Guides) for the distal clavicle excision. 
+Klein underwent another independent medical evaluation with 
+Dr. Robert Broghammer, who determined Klein had sustained only a two-
+percent upper extremity impairment due to range of motion.  Likewise, 
+Dr. Broghammer used the Guides for the finding, with this impairment rating 
+solely based on range of motion loss.   
+Following an arbitration hearing, the deputy commissioner issued a 
+decision which weighed the testimony of medical experts, including 
+Dr. Taylor, and considered the parties’ legal arguments:   
+Dr. Taylor assigned a 6 percent impairment to the right upper 
+extremity based on the loss of range of motion and an additional 10 percent 
+for the distal clavicle excision. Combined, the two impairments result in a 
+15 percent impairment. 
+[Whirlpool] argues the issue regarding the impairment value of the 
+distal clavicle excision should be governed by the [agency] case of Jay v. 
+Archer Skid Loader Service, [Iowa Workers’ Comp. Comm’n] 
+No. 19003586.01, [2022 WL 17078713 (Aug. 23, 2022) (affirmed by Jay v. 
+Archer Skid Loader Serv., LLC, Case No. CVCV064318 (Iowa Polk Cnty. 
+Dist. Ct. May 22, 2023))].  
+3 of 15
+
+ 
+ 
+4 
+ 
+ 
+In Jay, the appropriate rating for a distal clavicle excision applies a 
+25 per[cent] modifier.  [Klein] argues that Jay is not controlling because 
+the use of the modifier was based on the opinion of Dr. Kuhnlein in another 
+agency decision and that if there is a disagreement in medical 
+determination pursuant to the Guides, the opinion of one side of the 
+dispute cannot become agency precedent.  Applying the modifier, argues 
+[Klein], is tantamount to using agency expertise which is prohibited 
+according to Iowa Code § 85.34(2)(x) [(2023)]. 
+ 
+In reviewing the Jay decision, the District Court addressed this 
+argument.  The injured worker in Jay argued that the Commissioner acted 
+outside the scope of his authority by issuing his own impairment rating 
+applying the modifier instead of adopting one offered by an expert.  [Klein] 
+submits that Dr. Taylor’s uncontroverted opinion cannot be superseded or 
+substituted by the agency’s “judgment.”  However, the District Court in 
+Jay directs the agency to do exactly that.  If an expert opinion is flawed, it 
+is the agency’s duty to calculate the ratings in conformance with the AMA 
+guidelines and to do otherwise would controvert the plain meaning of Iowa 
+Code § 85.34(2)(x).   
+ 
+While Dr. Taylor’s opinion is given more weight in this case, the 
+appropriate impairment rating must include a 25 percent modifier.  Thus, 
+the impairment is 2.5 plus 6 percent.  In the combined chart, this is 
+9 percent as a rating must be a whole number per the Guides. 
+(Citations to the record omitted.) 
+  
+Following the deputy commissioner’s ruling, Klein filed a motion for 
+rehearing while each party appealed the arbitration decision.  The 
+commissioner then entered an appeal decision that affirmed the deputy’s 
+arbitration findings.  Included within the appeal decision was an analysis of 
+Klein’s assertion that “utilization of the modifier specified by the AMA 
+Guides to the Evaluation of Permanent Impairment, Fifth Edition, is use of 
+agency expertise”: 
+Pursuant to statute and administrative rule, this agency is required to 
+utilize the AMA Guides, Fifth Edition, to determine functional disability 
+of an injured worker in a scheduled member injury case such as this.  
+4 of 15
+
+ 
+ 
+5 
+ 
+Reading the provisions of the AMA Guides and applying those provisions 
+is not utilization of agency expertise.  It is akin to an application of the law 
+to the facts of the case. 
+[Klein] asserts that this agency must accept either the impairment rating 
+offered by his evaluator, or the impairment rating urged by [Whirlpool], 
+essentially without reference to the AMA Guides, Fifth Edition.  [Klein]’s 
+argument or urged approach requires this agency to read the competing 
+impairment ratings offered without context and without determining their 
+compliance with the AMA Guides, which were specifically incorporated by 
+statute and administrative rule. 
+The commissioner also analyzed Klein’s argument that the deputy 
+improperly utilized judicial notice of the Guides in the arbitration decision 
+without providing the required notice to the parties: 
+[T]he Iowa legislature specifically adopted the AMA Guides as a legal basis 
+for award of permanent functional impairment.  This agency enacted an 
+administrative rule adopting the AMA Guides, Fifth Edition, as the binding 
+standard for determining the extent of permanent functional impairment 
+in scheduled member cases such as this case. 
+ 
+Courts and administrative agencies are not required to give notice 
+of an intention to follow prior precedent . . . [or] statutory provisions or 
+properly enacted administrative rules.  By their very nature, statutes and 
+administrative rules are duly enacted and parties should be aware that this 
+agency would be following such enacted laws and rules. 
+ 
+. . . .  [O]fficial notice is required if factual findings are to be made 
+based on something outside of the evidentiary record.  Official notice is not 
+required under Iowa Code section 17A.14(4) to utilize and apply binding 
+legal standards to the facts of this case. 
+ 
+. . . . 
+ 
+[Klein]’s argument essentially flips the statutory provision of Iowa 
+Code section 85.34(2)(x) on its head and seeks to preclude this agency 
+from actually reading and applying the governing standards outlined in the 
+AMA Guides, Fifth Edition, as adopted by Iowa Code section 85.34(2)(x) 
+and [Iowa Administrative Code rule 876–2.4].  Therefore, I reject 
+claimant’s legal challenge. . . . 
+5 of 15
+
+ 
+ 
+6 
+ 
+After this appeal decision by the commissioner, Klein filed a motion 
+for rehearing, asserting the agency went further than the standards of the 
+Guides and used agency expertise to interpret those standards, in violation of 
+Iowa Code section 85.34(2)(x).  The commissioner concluded that if the 
+agency was prohibited from reviewing and interpreting the Guides, there 
+would be no objective standard with which a decision could be made and 
+would require the decision to be based on a selected medical opinion, absent 
+a procedure to determine accuracy.  The commissioner accordingly affirmed 
+the appeal decision.  Klein then petitioned for judicial review in district court. 
+The district court found that section 85.34(2)(x) is ambiguous, as it 
+requires the use of the Guides but does not explicitly state who is to interpret 
+the Guides.  In promoting the objectives of the statute, the court concluded 
+“[t]he statute clearly requires that the AMA Guides be the polestar of the 
+decision, and it is in the best interest of workers to have predictable, 
+consistent results for comparable injuries.”  The court also found that it was 
+not the legislature’s intention to preclude the commission from “inspecting 
+modifiers and correcting them if necessary,” and this practice does not 
+qualify as prohibited usage of agency expertise.   
+As to the issue of judicial notice of the Guides, the district court 
+determined the deputy commissioner did not utilize official notice of the 
+medical findings in the Jay decision.  Instead, the deputy relied on the AMA 
+Guides and not the medical findings in the Jay case.  The court found that the 
+reference to Jay was to show it was acceptable to use the twenty-five percent 
+modifier and that it is appropriate to utilize the Guides “if a physician fails to 
+apply the standard modifier for a distal clavicle excision.” 
+Lastly, the court found that statutory rules regarding judicial notice 
+“are only applicable to adjudicative facts, not legislative or otherwise non-
+6 of 15
+
+ 
+ 
+7 
+ 
+adjudicative facts,” citing Rhoades v. State, 848 N.W.2d 22, 31 (Iowa 2014).  
+The district court clarified that “[t]he AMA Guides are non-adjudicative in 
+nature and are not susceptible to these rules” and found the deputy 
+commissioner’s utilization of the Guides was not improper. 
+II. 
+Discussion  
+We review decisions by the Iowa Workers’ Compensation 
+Commission according to Iowa Code section 17A.19.  Section 17A.19(10) 
+permits relief from agency decisions which are unreasonable, arbitrary, 
+capricious, or otherwise an abuse of discretion.  Arbor Ct. Healthcare, LLC v. 
+Iowa Dep’t of Health & Hum. Servs., No. 24-0697, 2025 WL 403639, at *3 
+(Iowa Ct. App. Feb. 5, 2025).  “The petitioner challenging agency action has 
+the burden of proving the invalidity [of the action] or prejudice asserted.”  
+Banilla Games, Inc. v. Iowa Dep’t of Inspections and Appeals, 919 N.W.2d 6, 11 
+(Iowa 2018) (citing Iowa Code § 17A.19(8)(a)).   
+When we review an agency’s interpretation of a statute, we first 
+determine whether the agency has been vested with interpretive authority.  
+See P.M. Lattner Mfg. Co. v. Rife, 2 N.W.3d 859, 865 (Iowa 2024).  “If the 
+legislature has clearly vested an agency with interpretive authority over a 
+provision of law, we defer to the agency’s interpretation.”  Bridgestone 
+Americas, Inc. v. Anderson, 4 N.W.3d 676, 681–82 (Iowa 2024).  Otherwise, if 
+the legislature didn’t clearly vest the agency with interpretive authority over 
+the statute at issue, we review the agency’s decision for the correction of 
+errors at law.  Id. at 682. 
+7 of 15
+
+ 
+ 
+8 
+ 
+(a) Whether the Commissioner’s Decision is an Error at Law Due 
+to Reliance on the AMA Guides  
+Our analysis begins with Iowa Code section 85.34.  The relevant 
+portion states, “the extent of loss or percentage of permanent impairment 
+can be determined by use of the guides to the evaluation of permanent 
+impairment, published by the American medical association, as adopted by 
+the workers’ compensation commissioner by rule pursuant to chapter 17A.”  
+Iowa Code § 85.34(2).  Section 85.34(2)(x) goes on to state:  
+[W]hen determining functional disability . . . , the extent of loss or 
+percentage of permanent impairment shall be determined solely by utilizing 
+the guides . . . published by the American medical association . . . .  Lay 
+testimony or agency expertise shall not be utilized in determining loss or 
+percentage of permanent impairment pursuant to paragraphs “a” through 
+“u”, or paragraph “v” when determining functional disability and not loss 
+of earning capacity.   
+(Emphasis added.) 
+Klein argues that the agency’s reliance on the Guides is an 
+impermissible interpretation based upon agency expertise, as prohibited by 
+section 85.34(2)(x), and rather the agency is bound by the expert physician 
+opinion.  Whirlpool asserts that because the Guides are incorporated by 
+administrative rule and statute, their employment by the agency is not 
+prohibited. 
+As to the Iowa Workers’ Compensation Commission, our courts have 
+determined its commissioners do not possess interpretive authority over 
+chapter 85.  Bridgestone Americas, Inc., 4 N.W.3d at 682.  So we must then 
+interpret section 85.34(2)(x) to determine the legislative intent behind the 
+language “shall be determined solely by utilizing the guides.”  See Bryant v. 
+8 of 15
+
+ 
+ 
+9 
+ 
+State, No. 18-1270, 2019 WL 1953518, at *1 (Iowa Ct. App. May 1, 2019).  We 
+adhere to the following principles of statutory interpretation: 
+The purpose of statutory interpretation is to determine the legislature’s 
+intent.  We give words their ordinary and common meaning by considering 
+the context within which they are used, absent a statutory definition or an 
+established meaning in the law.  We also consider the legislative history of 
+a statute, including prior enactments, when ascertaining legislative intent. 
+When we interpret a statute, we assess the statute in its entirety, not just 
+isolated words or phrases.  We may not extend, enlarge, or otherwise 
+change the meaning of a statute under the guise of construction. 
+Id. (quoting Willard v. State, 983 N.W.2d 52, 60–61 (Iowa 2017)).  Also, when 
+interpreting a statute to find legislative intent, we must first decide whether 
+the statute is ambiguous.  Colwell v. Iowa Dep’t of Human Servs., 923 
+N.W.2d 225, 232 (Iowa 2019).  “A statute is ambiguous if reasonable minds 
+could disagree as to its meaning.  Ambiguity may arise from either the 
+meaning of particular words or the general scope and meaning of a statute.”  
+Id. (citations omitted). 
+The language of section 85.34(2)(x) does not specifically address who 
+must interpret the Guides.  As we are not at liberty to supplement additional 
+statutory requirements by deviating from the statute’s plain language, we 
+agree with the district court that section 85.34(2)(x) is ambiguous.  See 
+Robinson v. Cent. Power Coop., 21 N.W.3d 842, 851 (Iowa 2025).  So, “[w]e 
+construe [the] statute ‘liberally with a view to promoting its objects and 
+assisting the parties in obtaining justice.’”  State v. Haglin, No. 17-0447, 2018 
+WL 2084840, at *2 (Iowa Ct. App. May 2, 2018) (citation omitted).  Our 
+courts have found that “[t]he primary purpose of the workers’ compensation 
+statute is to benefit the worker and [their] dependents, insofar as statutory 
+requirements permit.”  Mid Am. Constr. LLC v. Sandlin, 2 N.W.3d 838, 850 
+(Iowa 2024) (citation omitted).   
+9 of 15
+
+ 
+ 
+10 
+ 
+The plain language of section 85.34(2)(x) indicates that use of the 
+AMA Guides is meant to be the basis of qualifying the severity of 
+impairments, providing uniform results for similar injuries.  As section 
+85.34(2)(x) reads, we agree with the district court that “there is no distinction 
+between commissioners and physicians interpreting the AMA Guides.”  Also, 
+nothing in the plain language of the statute precludes the commissioner from 
+reviewing an expert’s choice of Guides modifiers and verifying them.  To hold 
+otherwise would allow experts to vary in their application of modifiers, 
+leading to inconsistent or absurd results, which we strive to avoid.  See Borst 
+Bros. Constr., Inc. v. Fin. of Am. Com., LLC, 975 N.W.2d 690, 700 (Iowa 2022).   
+This is not to say that a commissioner may completely substitute an 
+expert’s medical opinion with their own prohibited expertise.  See Severin v. 
+Second Inj. Fund, File No. 1521101.01, 2021 WL 4709717, at *5–6 (Iowa 
+Workers’ Comp. Comm’n Oct. 4, 2021) (rejecting application of Table 17-31 
+of the Guides, holding it did not apply to claimant’s injury when there was 
+“no other expert has opined” to that effect and decision was not based on 
+evaluation of a factual or credibility finding).  Although a “commissioner may 
+accept or reject [an] expert opinion in whole or in part,” it cannot do so by 
+relying on the agency’s own expertise and instead must weigh the expert’s 
+credibility and factual determinations.  See Schutjer v. Algona Manor Care Ctr., 
+780 N.W.2d 549, 560 (Iowa 2010) (citation omitted).  Here, the 
+Commissioner simply corrected Dr. Taylor’s expert opinion to conform with 
+the Guides and did not substitute the opinion with agency expertise.   
+Klein argues that the commission and the district court improperly 
+relied upon Jay as agency precedent in applying the twenty-five percent 
+modifier to the distal clavicle excision impairment rating provided by 
+10 of 15
+
+ 
+ 
+11 
+ 
+Dr. Taylor.  Klein asserts that the Commission’s reliance on the Jay decision 
+as precedent is prohibited usage of agency expertise.   
+We agree with the district court that the deputy commissioner’s 
+reliance on Jay “was to illustrate the regular use of the 25 percent modifier, 
+[and] that she is enabled to read the AMA Guides if a physician fails to apply 
+the standard modifier for a distal clavicle excision.”1  As stated above, the 
+commissioner has discretion to reject or accept an expert’s opinion “in whole 
+or in part,” and section 85.34(2)(x) requires the utilization of the Guides to 
+ensure consistent results for claimants.  See Schutjer, 780 N.W.2d at 560.  We 
+find no error in the deputy commissioner’s rejection of Dr. Taylor’s 
+impairment rating and application of the Guides as required by statute.  See 
+Barry v. John Deere Dubuque Works of Deere & Co., No. 22-1000, 2023 
+WL 3612394, at *3 (Iowa Ct. App. May 24, 2023) (holding the commissioner, 
+facing two competing expert opinions, one which correctly applied the 
+Guides, did not abuse discretion by relying on the Guides “when weighing 
+witness credibility”). 
+(b) Whether the Commissioner Improperly Utilized Judicial 
+Notice in Applying the AMA Guides’ Multiplier 
+Klein asserts that the deputy commissioner’s reliance on the Guides 
+and Jay in applying a twenty-five percent multiplier to Dr. Taylor’s 
+impairment rating was improper use of judicial notice.  Klein argues it was 
+application of a fact not generally known and not capable of verification.  
+Concerning judicial notice, the relevant statute states: 
+ 
+1 In Jay, the claimant’s physicians had differing opinions on whether distal clavicle 
+excisions should be included within the Guides, and the Commission responded by 
+applying instructions within the Guides. 
+11 of 15
+
+ 
+ 
+12 
+ 
+Official notice may be taken of all facts of which judicial notice may be 
+taken and of other facts within the specialized knowledge of the agency.  
+Parties shall be notified at the earliest practicable time, either before or 
+during the hearing, or by reference in preliminary reports, preliminary 
+decisions or otherwise, of the facts proposed to be noticed and their 
+source, including any staff memoranda or data, and the parties shall be 
+afforded an opportunity to contest such facts before the decision is 
+announced unless the agency determines as part of the record or decision 
+that fairness to the parties does not require an opportunity to contest such 
+facts.   
+Iowa Code § 17A.14(4).  The facts which may be judicially noticed are as 
+follows: 
+ 
+a. Scope.  This rule governs judicial notice of an adjudicative fact 
+only, not a legislative fact. 
+ 
+b. Kinds of facts that may be judicially noticed.  The court may 
+judicially notice a fact that is not subject to reasonable dispute because it: 
+ 
+ 
+(1) Is generally known within the trial court’s territorial 
+ 
+jurisdiction; or 
+ 
+ 
+(2) Can be accurately and readily determined from 
+ 
+sources whose accuracy cannot reasonably be questioned. 
+Iowa R. Civ. P. 5.201.  Adjudicative facts are “controlling or operative fact[s], 
+rather than a background fact; a fact that concerns the parties to a judicial or 
+administrative proceeding and that helps the court or agency determine how 
+the law applies to those parties.”  Rhoades, 848 N.W.2d at 31 (citation 
+omitted).   
+We agree with the district court that the above rules regarding judicial 
+notice apply only to adjudicative facts, of which the Guides and the Jay 
+decision do not qualify.  The Iowa legislature adopted section 85.34(2)(x) and 
+12 of 15
+
+ 
+ 
+13 
+ 
+Iowa Administrative Code rule 876-2.42 as the legal basis for determinations 
+concerning permanent functional impairment.  The utilization of the Guides 
+and reference to previous agency decisions are not factual issues to which 
+section 17A.14(4) applies.  See Brummer v. Iowa Dep’t of Corr., 661 
+N.W.2d 167, 
+172 
+(Iowa 
+2003) 
+(describing 
+adjudicative 
+facts 
+as 
+“individualized facts peculiar to the parties, which ordinarily answer the 
+questions of who did what, where, when, how, why, with what motive or 
+intent” (cleaned up)).  Instead, it should be expected that the Commission 
+would adhere to statutory requirements and guidance from previous 
+decisions to weigh the evidence, comparable to our courts and other 
+administrative agencies.  See Stone Container Corp. v. Castle, 657 N.W.2d 485, 
+490 (Iowa 2003) (“The common meaning of statutory terms is not a matter 
+upon which a party would offer formal proof and, consequently, is not a fact 
+of which an agency must take official notice within the contemplation of 
+section 17A.14(4).”); Iowa Code § 17A.19(10)(h) (noting the court can 
+reverse an agency decision if it finds the “substantial rights of the person 
+seeking judicial relief have been prejudiced” because of “[a]ction other than 
+a rule that is inconsistent with the agency’s prior practice or precedents”).   
+ 
+ 
+ 
+2 Iowa Administrative Code rule 876-2.4 provides in part: 
+The Guides to the Evaluation of Permanent Impairment, Fifth 
+Edition, published by the [AMA] are adopted for determining the extent of 
+loss or percentage of impairment for permanent partial disabilities and 
+payment of weekly compensation for permanent partial scheduled injuries 
+under Iowa Code section 85.34(2) not involving a determination of 
+reduction in an employee’s earning capacity.  
+13 of 15
+
+ 
+ 
+14 
+ 
+Accordingly, we affirm for the reasons stated above. 
+AFFIRMED.          
+14 of 15
+
+State of Iowa Courts
+Case Number
+Case Title
+25-0458
+Klein v. Whirlpool Corporation
+Electronically signed on 2026-01-07 08:15:45
+15 of 15

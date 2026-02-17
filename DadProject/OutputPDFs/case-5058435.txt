@@ -1,0 +1,186 @@
+Case Number: 5058435
+Case Title:  LOVAN V. BROADLAWNS MEDICAL CENTE
+Doc Type:    Decision - Court of Appeals
+Source:      Lovan, Rachel-5058435.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 19-0511 
+Filed April 1, 2020 
+ 
+RACHEL LOVAN, 
+ 
+Petitioner-Appellee. 
+ 
+vs. 
+ 
+BROADLAWNS MEDICAL CENTER and SAFETY NATIONAL CASUALTY 
+CORPORATION (EMC RISK SERVICES, LLC-TPA), 
+ 
+Respondents-Appellants. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Scott D. Rosenberg, 
+Judge. 
+ 
+ 
+The appellants appeal the ruling of the district court reversing the alternate 
+medical care decision of the Iowa Workers’ Compensation Commissioner.  
+REVERSED. 
+ 
+ 
+Valerie A. Landis of Hopkins & Huebner, P.C., Des Moines, for appellants. 
+ 
+Richard R. Schmidt of Mueller, Berg & Schmidt, PLLC, Des Moines, for 
+appellee. 
+ 
+ 
+Heard by Bower, C.J., and Greer and Ahlers, JJ.
+
+ 
+2
+AHLERS, Judge. 
+ 
+Broadlawns Medical Center and Safety National Casualty Corporation 
+(EMC Risk Services, LLC-TPA)1 appeal the judicial-review ruling of the district 
+court.  Broadlawns argues the Iowa Workers’ Compensation Commissioner 
+properly denied Rachel Lovan’s application for alternate medical care (AMC) and 
+the court erred in reversing that decision.  We find the record on appeal is 
+insufficient for us to review the agency decision, and we reverse the district court’s 
+ruling.   
+I. 
+Background Facts and Proceedings 
+ 
+Following a contested hearing, a deputy commissioner with the Iowa 
+Workers’ Compensation Commission issued an arbitration decision finding in favor 
+of Lovan on her workers’ compensation claim against Broadlawns.  The deputy 
+accepted the causation opinion of Dr. Eugene Cherny over that of Dr. Benjamin 
+Paulson in finding Lovan’s injury was related to her employment with Broadlawns.  
+The deputy awarded permanent partial disability benefits and ordered Broadlawns 
+to “provide reasonable and necessary medical treatment causally connected to the 
+work injury.”  Neither party appealed the arbitration decision. 
+ 
+After the arbitration decision was issued, Lovan filed an application for AMC 
+seeking “to authorize Dr. Cherny as treating physician.”  After a telephonic hearing, 
+another deputy commissioner issued the AMC decision.  The deputy noted Lovan 
+“provided testimony” and “[n]o other witnesses were called” during the AMC 
+hearing.  The deputy found Broadlawns “offered treatment with Dr. Paulson” but 
+                                            
+1 We will collectively refer to the appellants as “Broadlawns.” 
+
+ 
+3
+Lovan “no longer trusts” Dr. Paulson due to his earlier causation opinion.  The 
+deputy concluded treatment with Dr. Paulson was reasonable and Lovan’s 
+“misgivings have nothing to do with [Dr. Paulson’s] actual examination or his 
+treatment recommendations.”  Accordingly, the deputy denied the application for 
+AMC.   
+ 
+Lovan sought judicial review.  The district court reversed the AMC decision, 
+finding Dr. Paulson’s earlier causation opinion “is so contrary to all previous 
+medical testimony in the this matter that it rises to the level of the employer 
+choosing improper medical care for the employee.”  Broadlawns appeals, arguing 
+the agency correctly denied the application for AMC. 
+II. 
+Standard of Review 
+ 
+“Judicial review of the decisions of the workers’ compensation 
+commissioner is governed by Iowa Code chapter 17A” (2018).  Neal v. Annett 
+Holdings, Inc., 814 N.W.2d 512, 518 (Iowa 2012).  “A district court acts in an 
+appellate capacity when it exercises its judicial review power.”  Id.  “When 
+reviewing a district court’s decision ‘we apply the standards of chapter 17A to 
+determine whether the conclusions we reach are the same as those of the district 
+court.  If they are the same, we affirm; otherwise, we reverse.’”  Id. (quoting 
+Mycogen Seeds v. Sands, 686 N.W.2d 457, 463 (Iowa 2004)).  
+III. 
+Analysis 
+When an employer accepts responsibility for an employee’s injury, the 
+employee may seek alternate medical care by filing an application with the agency.  
+See Iowa Code § 85.27(4); R.R. Donnelly & Sons v. Barnett, 670 N.W.2d 190, 195 
+(Iowa 2003).  The employee has the burden to prove “the treatment provided by 
+
+ 
+4
+the employer is not prompt, not ‘reasonably suited to treat the injury,’ or is unduly 
+inconvenient to the employee.”  Barnett, 670 N.W.2d at 195 (quoting W. Side 
+Transp. V. Cordell, 601 N.W.2d 691, 693 (Iowa 1999)).  The AMC hearing before 
+the agency is by telephone or in person, and the agency is responsible for 
+recording the hearing.  See Iowa Code § 85.27(4); Iowa Admin. Code r. 4.48(12).  
+If either party seeks judicial review of the AMC decision, “the appealing party is 
+responsible for filing a transcript of the hearing” with the agency.  Iowa Admin. 
+Code r. 4.48(12).  After the petitioner notifies the agency of the petition for judicial 
+review, the agency “shall transmit to the reviewing court the original or a certified 
+copy of the entire record of the contested case.”  Iowa Code § 86.26(1). 
+Here, Lovan filed her application for AMC with the agency.  The matter 
+proceeded to a hearing, during which the deputy admitted the following exhibits: 
+(1) a report from Dr. Cherny regarding Lovan’s injury and its relation to her work, 
+impairment, recommended care and treatment, and work restrictions; (2) the 
+arbitration decision; (3) emails between the parties’ attorneys regarding the 
+authorization of medical care with Dr. Paulson; (4) a letter from Broadlawns to Dr. 
+Paulson, issued after the arbitration decision was filed, authorizing treatment of 
+Lovan; and (5) a medical ethics opinion regarding physicians who have 
+responsibilities to both a patient and to a third party contracting with the physician. 
+Our record on appeal includes these exhibits before the agency, but the record 
+does not include a transcript or recording of the AMC hearing.  At oral argument, 
+attorneys for both parties confirmed no transcript or recording of the AMC hearing 
+
+ 
+5
+was provided to the district court.2  Lovan’s own words are essential for 
+understanding why she is dissatisfied with Dr. Paulson’s care and why she wishes 
+to treat with Dr. Cherny instead.  The importance of Lovan’s testimony at the AMC 
+hearing is highlighted by the fact the deputy repeatedly cited to Lovan’s testimony 
+in the AMC ruling.  Exacerbating the problem of the absence of a transcript is the 
+fact the parties had some disagreement about what arguments were made and 
+what testimony was provided at the AMC hearing.  Without a transcript of the 
+hearing, including Lovan’s testimony and the arguments presented by the parties, 
+we cannot review the agency’s decision that Lovan failed to prove the offered care 
+with Dr. Paulson was not prompt, was not reasonably suited, or was unduly 
+inconvenient.  See Barnett, 670 N.W.2d at 195. 
+The party seeking judicial review bears the ultimate responsibility to ensure 
+the agency record is before the district court on judicial review.  Alvarez v. IBP, 
+                                            
+2 During oral argument, the attorneys for both parties asserted that not providing a 
+transcript on judicial review of an AMC decision was an accepted standard 
+practice.  Our review of other cases involving AMC decisions causes us to be 
+skeptical of the assertion that not providing a transcript on judicial review is a 
+routine practice, as numerous cases clearly reveal that the testimony from the 
+AMC hearing was available to the reviewing courts.  See, e.g., Huff v. CRST 
+Expedited, Inc., No. 18-0336, 2019 WL 106812, at *1 (Iowa Ct. App. Mar. 6, 2019) 
+(quoting the claimant’s testimony at the AMC hearing); Westling v. Hormel Foods 
+Corp., No. 16-0236, 2017 WL 108572, at *2 (Iowa Ct. App. Jan. 11, 2017) (referring 
+to and quoting the claimant’s testimony at the AMC hearing); Newt Marine Serv. v. 
+Abitz, No. 15-1957, 2016 WL 4036185, at *2 (Iowa Ct. App. July 27, 2016) 
+(referring to and quoting the claimant’s testimony at the AMC hearing); Annett 
+Holdings, Inc. v. Roland, No. 15-0043, 2016 WL 541265, at *4 (Iowa Ct. App. Feb. 
+10, 2016) (repeatedly referring to the claimant’s testimony at the AMC hearing).  
+Furthermore, even if failure to provide a transcript is an accepted or standard 
+practice among practitioners, the practice is in direct conflict with the rule requiring 
+the party seeking judicial review to file a transcript of the hearing.  See Iowa Admin. 
+Code r. 4.48(12).  We choose to follow the administrative rule rather than the 
+claimed standard practice. 
+
+ 
+6
+Inc., 696 N.W.2d 1, 2 (Iowa 2005).  The lack of a record of the AMC hearing 
+prevents us from making “an informed consideration of the issue presented.”  Id. 
+at 4; see also McGowan v. Brandt Constr. Co., No. 07-1224, 2009 WL 485029, at 
+*1 (Iowa Ct. App. Feb. 27, 2009) (“Without transfer of the administrative record, 
+the district court has nothing to review.”).  At oral arguments, the parties urged us 
+to look to the agency decisions themselves for the factual basis behind this appeal, 
+but our role is to review the agency decision to ensure it is supported by the record 
+before us.  See Smith v. Iowa Bd. of Med. Exam’rs, 729 N.W.2dd 822, 827 (Iowa 
+2007) (“The district court’s recitation of these matters in its ruling is not a substitute 
+for the required appellate record.”). 
+Due to the lack of a transcript of the AMC hearing, neither the district court 
+nor we had an adequate record upon which to make an informed consideration of 
+the issue presented.  When presented with an inadequate agency record on 
+judicial review, the proper action is to dismiss the petition.  See Alvarez, 696 
+N.W.2d at 4.  Therefore, we reverse the district court and dismiss Lovan’s petition 
+for judicial review, thus reinstating the decision by the agency denying Lovan’s 
+application for AMC.  
+REVERSED. 
+ 
+ 

@@ -1,0 +1,987 @@
+Case Number: 23008425.01
+Case Title:  RENAUD, TAMMY V. WARREN COUNTY/2ND INJ-FUND
+Doc Type:    Decision - Deputy
+Source:      Renaud Tammy-23008425.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+TAMMY RENAUD, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+            File No. 23008425.01 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :              
+WARREN COUNTY, 
+  : 
+ 
+ 
+  :            
+ 
+Employer, 
+  :  
+         ARBITRATION DECISION 
+ 
+ 
+  :  
+  
+and 
+ 
+  : 
+ 
+ 
+  : 
+WEST BEND MUTUAL INS. CO., 
+  : 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  : 
+ 
+ 
+  : 
+and 
+ 
+  : 
+    Head Note Nos.: 1802; 1803; 2701; 
+ 
+ 
+  : 
+ 
+                   3003; 3203; 4000.2 
+SECOND INJURY FUND OF IOWA, 
+  : 
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Claimant, Tammy Renaud, filed a petition in arbitration seeking workers’ 
+compensation benefits from defendants, Warren County, employer, West Bend Mutual 
+Insurance Company, insurer, and the Second Injury Fund of Iowa (Fund), all as 
+defendants.  This matter was heard on September 18, 2024, with a final submission 
+date of November 27, 2024.   
+The record in this case consists of Joint Exhibits 1-16, Claimant’s Exhibits 1-9, 
+Defendants’ Employer and Insurer (Defendants) Exhibits A-K, Defendant Second Injury 
+Fund’s Exhibits AA-DD, and the testimony of claimant. 
+STIPULATIONS 
+The parties filed a hearing report at the commencement of the arbitration.  On the 
+hearing report, the parties entered into various stipulations.  All of those stipulations 
+were accepted and are hereby incorporated into this arbitration decision and no factual 
+or legal issues relative to the parties’ stipulations will be raised or discussed in this 
+decision.  The parties are now bound by their stipulations.  
+ 
+ELECTRONICALLY FILED     2025-May-21  15:43:40     DIVISION OF WORKERS' COMPENSATION
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 2 
+ 
+ISSUES 
+1. Whether the injury resulted in a temporary disability. 
+ 
+2. Whether the injury resulted in a permanent disability; and if so,  
+ 
+3. The extent of claimant’s entitlement to permanent partial disability benefits. 
+ 
+4. Commencement date of permanent partial disability benefits. 
+ 
+5. Rate. 
+ 
+6. Whether claimant is entitled to alternate medical care. 
+ 
+7. Whether claimant is entitled to Fund benefits. 
+ 
+8. Whether defendants are liable for a penalty under Iowa Code 10A.315(4). 
+ 
+9. Costs. 
+The hearing assignment order in this matter required that, at least 30 days prior 
+to hearing, all parties shall serve a witness and exhibit list on all opposing parties and 
+exchange all intended exhibits that were not previously required to be served. 
+The hearing assignment order also indicates:  
+Failure to comply with any part of this order may result in imposition of 
+sanctions as provided in rule 876 IAC 4.36. If evidence is offered at 
+hearing that was not disclosed in the time and manner required by this 
+order, other rulings made by a deputy workers’ compensation 
+commissioner or agency rules, the evidence may be excluded if the 
+objecting party shows that receipt of the evidence would be unfairly 
+prejudicial. Sanctions may be imposed pursuant to rule 876 IAC 4.36 in 
+addition to or in lieu of exclusion of the evidence… 
+As noted in the ruling on the motion to exclude, claimant moved to exclude 
+Exhibits G, H, and I, as they were untimely served and prejudiced the prosecution of the 
+case, as claimant did not have adequate time to rebut the exhibits.  Exhibit G is an 
+opinion letter from Daniel Moyse, M.D.  Exhibit G was served 12 days before hearing. 
+Exhibit H is an opinion letter from Timothy Vinyard, M.D.  Exhibit H was served seven 
+days before hearing.  Exhibit I is an opinion letter from Katie Swift, ARNP.  Exhibit I was 
+served seven days before hearing. 
+Dr. Moyse, Dr. Vinyard and Nurse Practitioner Swift were all healthcare providers 
+for claimant’s care concerning claimant’s work-related injury.  Exhibit J consists of 
+medical records for claimant from 2016 through 2022, and predate claimant’s date of 
+injury in this case.  Exhibit J was untimely served.  Exhibit K is a letter from defense 
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 3 
+ 
+counsel to the Iowa Orthopaedic Center dated October 10, 2023, and is unsigned. 
+Exhibit K was served one day prior to hearing. 
+Claimant contends the late service of Exhibits G through I a few days before the 
+hearing is untimely and prejudicial to the prosecution of claimant’s case.  The 
+undersigned agreed with claimant that the exchange of these records a few days before 
+hearing runs contrary to the rules of this agency and the intent of discovery and trial 
+preparation under the Iowa Rules of Civil Procedure. 
+As Dr. Moyse, Dr. Vinyard and Nurse Practitioner Swift provided health care to 
+claimant regarding her work injury, the undersigned is bound by the decision in 
+Schoenfeld v. FDL Foods, Inc., 560 N.W.2d 595 (Iowa 1997). Based on Schoenfeld, 
+Exhibits G through I were admitted into the record.  To offset any unfair prejudice by the 
+untimely service of these records, claimant was given the opportunity to file rebuttal to 
+Exhibits G through I.   Defendants were required to pay for the costs claimant incurred 
+with that rebuttal. 
+Defendants’ untimely service of Exhibits G through I clearly was in violation of the 
+hearing assignment order requiring an exchange of all exhibits at least 30 days prior to 
+hearing.  Defendants were given notice and warning that any violation of the 
+requirement to exchange exhibits at least 30 days before the hearing may result in 
+exclusion of evidence or other sanctions, including costs, under Rule 876 IAC 4.36.  
+Given this record, defendants have no grounds to contend Exhibits G through I were 
+timely served, and that defendants should not be taxed with the costs associated with 
+claimant’s rebuttal of those exhibits. 
+Exhibit K is a letter from defense counsel to Iowa Orthopaedics. The letter is 
+unsigned by a provider. The letter is dated October 10, 2023.  Exhibit K was filed as an 
+exhibit one day prior to hearing.  Defendants’ counsel was unable to articulate any 
+reason why a letter from defendants dated October 10, 2023, was served one day 
+before hearing.  In their brief, defendants are still unable to articulate a rationale why a 
+letter dated October 10, 2023, was served one day before hearing.  Defendants contend 
+Exhibit K is relevant to the issue of penalty and is not prejudiced to claimant.  The prior 
+ruling on Exhibit K is reversed, and Exhibit K is allowed into the record. 
+FINDINGS OF FACT 
+Claimant was 53 years old at the time of hearing.  Claimant graduated from high 
+school.  Claimant has an EMT-BC certificate and an AA degree in law enforcement.  
+Claimant is a certified personal trainer, massage therapist, and yoga instructor.  At the 
+time of hearing, claimant was taking classes at the National Academy of Sports 
+Medicine.  (Fund Exhibit CC, pages 1-2) 
+Claimant has also worked as a personal trainer, an EMT, and as a massage 
+therapist.  (Hearing Transcript, page 25, Exs. CC; DD) 
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 4 
+ 
+Claimant began working for Warren County full time as a detention officer on 
+March 16, 2023.  As a detention officer, claimant handled working with individuals who 
+were in custody, conducting jail checks, checking security, monitoring video cameras, 
+supervising inmates, attempting to de-escalate disruptions, distributing meals and 
+transfer of inmates.  (Claimant’s Exhibit 1, page 1; Tr., p. 26) 
+Claimant’s prior medical history is relevant.  Claimant was in a motor vehicle 
+accident on March 19, 1988.  Claimant sustained a 2.5-inch superficial laceration on the 
+left knee from the accident.  Claimant had some stitches in the knee.  The injury did not 
+result in surgery, physical therapy or permanent restrictions.  Claimant has not received 
+treatment for the left knee injury since 1988.  (Joint Exhibit 1, page 1; Tr., pp. 54-55; Ex. 
+DD, p. 14) 
+On June 14, 2023, claimant was attacked by an inmate.  The inmate attempted 
+to bite, scratch and clothesline claimant.  During the attack, claimant stepped back from 
+the inmate.  Claimant caught her foot in a grate.  Claimant fell backwards with the 
+inmate landing on top of her, but claimant’s foot was still trapped in the grate.  (Tr., pp. 
+28-29; Ex. 1, p. 6; Ex. 3, p. 1; Ex. 4, p. 2) 
+Claimant indicated that due to the attack, she injured her back, right lower 
+extremity, right foot, bilateral shoulders, right upper extremity and neck.  (Tr., p. 29; Ex. 
+1, p. 6)  
+Claimant was evaluated by Chad Enich, PA-C, on June 14, 2023.  Claimant had 
+pain in the right ankle and knee, the thoracic and lumbar spine following the attack.  
+Claimant was recommended to take off time from work, ice the ankle, and take 
+medication.  (JE 2, pp. 1-5) 
+Claimant was seen by Katie Swift, ARNP, on June 16, 2023.  Claimant was put in 
+a CAM boot.  (JE 3, pp. 1-2)  
+On June 30, 2023, claimant had an MRI of the right knee.  It showed medial and 
+lateral meniscus tears.  Claimant was continued in the CAM boot and treated with 
+medication.  (JE 3, pp. 7-9; JE 4)   
+On July 19, 2023, claimant was evaluated by Timothy Vinyard, M.D., with Iowa 
+Ortho.  Claimant was again assessed as having a medial and lateral meniscus tear of 
+the right knee.  Surgery was discussed and chosen as a treatment option.  (JE 5, pp. 1-
+4) 
+On August 15, 2023, claimant underwent surgery on the right knee.  Surgery 
+consisted of a right knee arthroscopic medial and lateral meniscectomy with 
+chondroplasty of the medial, lateral and patellofemoral compartments.  Surgery was 
+performed by Dr. Vinyard.  (JE 6, pp. 1-2; JE 5, p. 9) 
+On September 6, 2023, claimant was evaluated by Laurie Clair, PA, at Heartland 
+Christian Counseling.  Claimant reported significant depression, anxiety, flashbacks and 
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 5 
+ 
+nightmares.  Claimant reported co-workers and management targeting her and putting 
+her in dangerous situations.  Claimant was having nightmares regarding multiple 
+traumas she had in her life.  Claimant was assessed as having chronic PTSD, 
+generalized anxiety disorder, and major depressive disorder.  (JE 8, pp. 1-5) 
+On September 15, 2023, claimant had surgery on her right ankle.  Surgery 
+consisted of a right ankle arthroscopy with synovectomy, medial malleolus osteotomy, 
+and repair of the osteochronditis dissecans lesion with a DeNova cartilage allograft.  
+Surgery was performed by Bryan Trout, D.P.M.  (JE 16, pp. 11-12)   
+Claimant was evaluated by Jeffrey Richards, D.O., on September 27, 2023.  
+Claimant had increased depression due to being off work following her surgery.  
+Claimant had a history of anxiety and depression.  Claimant was assessed as having 
+anxiety and depression.  She was prescribed bupropion.  (JE 11, pp. 6-9) 
+Claimant was seen by Dr. Trout on November 27, 2023.  Claimant was restricted 
+to sedentary work.  (JE 5, p. 20) 
+Claimant saw Dr. Richards on December 22, 2023, with complaints of neck, 
+upper, mid and lower back pain due to her June 14, 2023, accident.  Claimant was 
+assessed as having, in part, neck and back injury sequelae.  She was referred to a 
+neurosurgeon for evaluation.  (JE 11, pp. 1-5) 
+Claimant saw Dr. Trout on January 2, 2024, and was again restricted to 
+sedentary duties.  (JE 5, p. 21) 
+Claimant saw Physician Assistant Clair on February 26, 2024, in psychiatric 
+follow-up.  Claimant believed she was being targeted at work, and this increased 
+claimant’s mental health symptoms.  Claimant was found to be mildly worse since her 
+prior visit.  She was continued on medication.  (JE 8, pp. 6-9) 
+On March 1, 2024, claimant was terminated from her employment with Warren 
+County.  Claimant was terminated, in part, for  
+Intentionally leaving a pod security door (2206F) open for a period of 
+approximately 14 mins and manually silencing the alarm.  Tammy Renaud 
+jeopardized the security of the jail, the inmates, and the staff with this 
+action.  Tammy Renaud initially opened the door (2206F) allowing jail staff 
+to pass through during a jail check.  The door was secured by that jail staff 
+member who moved through the pod to the adjacent door to enter the next 
+pod.  Tammy Renaud unlocked the same door (2206F) again and failed to 
+notify anyone of the unsecured door.  Tammy Renaud had the option of 
+informing that staff member to secure the door but failed to do so.  Tammy 
+Renaud made a claim regarding that staff member doing the jail check 
+being “out to get her,” and told another staff member he intentionally left 
+the door unsecured . . . 
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 6 
+ 
+(Ex. 5, p. 1; Defendants’ Exhibit B) 
+ 
+Claimant testified at hearing she did not believe she was at fault for leaving the 
+security doors open.  (Tr., p. 27)  She testified she was off work for a few weeks and 
+eventually found work as a massage therapist.  (Tr., p. 27) 
+ 
+Claimant was evaluated by Nurse Practitioner Swift on March 5, 2024, for 
+thoracic and lower back pain.  Nurse Practitioner Swift found that claimant’s thoracic 
+pain was muscular in nature.  She also believed claimant’s lumbar symptoms were due 
+to a temporary aggravation of a pre-existing degenerative condition.  (JE 3, pp. 10-13) 
+ 
+In a May 6, 2024 letter, Nurse Practitioner Swift indicated claimant’s temporary 
+aggravation of her lumbar pain was work related.  She opined she referred claimant to a 
+pain management clinic for the thoracic and lumbar condition.  (JE 3, p. 14) 
+ 
+On May 15, 2024, claimant was seen at Pain Specialists of Iowa by Daniel 
+Moyse, M.D.  Claimant had mid and lower back pain.  Trigger point injections were 
+discussed as a treatment option.  (JE 13, pp. 1-4) 
+ 
+Claimant sought therapy for her mental health issues on June 11, 2024, with 
+Laurene Franco, LMHC.  Claimant was assessed as having PTSD, bulimia and 
+anorexia.  Claimant indicated sexual abuse from a parent and physical abuse from a 
+partner.  Counselor Franco opined claimant’s “. . . PTSD stems from an assault while 
+working in corrections on June 14, 2023.”  (JE 14, p. 3) 
+ 
+Claimant had several counseling sessions with Counselor Franco between June 
+26, 2024 and July 30, 2024.  She indicated she had stress due to her deposition and 
+frustrations with employment.  (JE 14, pp. 4-12) 
+ 
+On July 31, 2024, claimant underwent a functional capacity evaluation (FCE) 
+conducted by Daryl Short, DPT.  Claimant was found to have given consistent effort.  
+PT Short recommended claimant limit elevated work and reaching to shoulder height or 
+higher.  He recommended claimant limit standing and walking to 50 percent of the day.  
+He also recommended claimant be allowed to change positions as needed.  (JE 15) 
+ 
+In an August 12, 2024 report, Sunil Bansal, M.D., gave his opinion regarding 
+claimant’s condition following an IME.  Claimant had a 1998 cross-country skiing 
+accident with her right knee and had an ACL and meniscus tear.  Claimant also was 
+injured in a car accident in the 1980s and had a laceration to her knee.  (JE 16, p. 16) 
+ 
+Claimant had pain in her mid and lower back.  She had left-sided neck pain, and 
+numbness and tingling in her ring and small fingers bilaterally.  Claimant had significant 
+right knee pain.  Claimant was unable to walk a quarter of a mile due to ankle 
+symptoms.  Claimant had pain in both shoulders.  (JE 16, p. 22) 
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 7 
+ 
+ 
+Claimant also indicated mental health difficulties since the incident.  Claimant 
+had nightmares about the incident and was anxious when driving by the area of the jail.  
+(JE 16, p. 22) 
+ 
+Dr. Bansal opined claimant had a right knee and ankle condition that were 
+caused by the inmate assault.  (JE 16, pp. 23-24)  He also opined that the June 2023 
+incident aggravated a disc bulge in her back and caused an aggravation of claimant’s 
+pre-existing cervical facet arthropathy in her neck.  (JE 16, pp. 25-26)  He also opined 
+that the June 2023 injury led to the development of PTSD for claimant.  (JE 16, p. 26) 
+ 
+Dr. Bansal found claimant had a 10 percent permanent impairment for the right 
+knee injury and a 5 percent permanent impairment for the laceration of the left knee 
+from the 1980s car accident.  He found that claimant had a 4 percent permanent 
+impairment to the right ankle.  He opined that claimant had a 5 percent permanent 
+impairment to the body as a whole for the lumbar spine, and a 5 percent permanent 
+impairment to the body as a whole for her neck.  He also found that claimant had a mild 
+impairment for her mental health condition.  (JE 16, pp. 27-28) 
+ 
+Dr. Bansal agreed with claimant’s limitations as per the FCE.  (JE 16, pp. 28-29) 
+ 
+Dr. Bansal found claimant at maximum medical improvement (MMI) on October 
+5, 2023, for the right knee, and July 23, 2024, for the right ankle, and for the cervical, 
+thoracic and lumbar spine and mental conditions.  (JE 16, p. 29) 
+ 
+Claimant was evaluated by Dr. Moyse on August 14, 2024.  Claimant was 
+assessed as having myofascial pain.  Dr. Moyse gave claimant a 15-pound restriction.  
+He found claimant at MMI.  He opined claimant did not require further injections.  (JE 
+13, pp. 5-6) 
+ 
+In an August 19, 2024 report, Joseph Chen, M.D., gave his opinions of claimant’s 
+condition following a medical record review.   He opined claimant had no permanent 
+impairment from the 1988 car accident to the left knee.  This is because claimant had a 
+laceration that did not involve the patellofemoral cartilage surface.  He also based this 
+opinion on the fact that no records indicated that claimant had any symptoms of tissue 
+damage to the undersurface of the patella.  (Ex. AA, pp. 4-5) He further based his 
+opinions on the fact that there was no indication of crepitus or decrease in function of 
+the left knee on exams performed by Dr. Vinyard and Physical Therapist Short.  (Ex. 
+AA, p. 5) 
+ 
+In a September 4, 2024 letter, Dr. Vinyard indicated claimant had a 10 percent 
+permanent impairment to the right lower extremity regarding her knee injury.  He 
+indicated claimant did not require any permanent restrictions and that she was at MMI 
+as of October 5, 2023.  (Ex. H) 
+ 
+In a September 5, 2024 letter, written by defendants’ counsel, Dr. Moyse 
+indicated that claimant had a cervical MRI on February 27, 2024, and a thoracic MRI on 
+February 23, 2024.  He noted that there were no acute findings on either MRI.  (Ex. G) 
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 8 
+ 
+ 
+Dr. Moyse opined that there is no basis for giving permanent impairment to 
+claimant’s thoracic, lumbar or cervical spine.  He opined that claimant did not require 
+any additional treatment for her lumbar, thoracic or cervical spine.  He noted that at the 
+time of her exam, claimant had no radicular complaints.  He found claimant did not 
+require any permanent restrictions.  (Ex. G) 
+ 
+In a September 10, 2024 letter, written by defendants’ attorney, Nurse 
+Practitioner Swift indicated that she evaluated claimant multiple times.  She indicated 
+that claimant did not complain of cervical complaints in the September 5, 2023 exam.  
+(Ex. I) 
+ 
+In an October 15, 2024 letter, Dr. Vinyard indicated that he reviewed claimant’s 
+July 31, 2024 FCE.  Based on the FCE, it appeared that claimant fell in the light 
+category of physical demand and was limited to lifting 15 pounds occasionally.  Dr. 
+Vinyard also limited claimant, in part, to limited standing and walking 50 percent of the 
+day, the ability to change positions when needed, and no crouching or kneeling.  (Ex. H)  
+ 
+In an October 23, 2024 report, Dr. Bansal indicated, in part, that he reviewed the 
+opinions of Dr. Moyse and Nurse Practitioner Swift.  He found that claimant had a 
+thoracic condition as a result of her cervical condition.  He found that claimant had 
+cervical radiculopathy.  He opined that claimant’s cervical and thoracic condition were 
+causally related to her June of 2023 work injury.  (Ex. 9) 
+ 
+Claimant was paid bi-weekly.  Claimant’s 12 weeks of earnings prior to the injury 
+are as follows: 
+ 
+ 
+DATES 
+HOURS WORKED 
+HOURLY RATE 
+TOTAL EARNINGS 
+3/19/23 – 4/1/23 
+94.25 
+$18.24 
+$1,719.12 
+4/2/23 – 4/15/23 
+70.17 
+$18.24 
+$1,279.90 
+4/16/23 – 4/29/23 
+93.50 
+$18.97 
+$1,773.70 
+4/30/23 – 5/13/23 
+84.83 
+$18.97 
+$1,609.23 
+5/14/23 – 5/27/23 
+93.50 
+$18.97 
+$1,773.70 
+5/28/23 – 6/10/23 
+88.50 
+$18.97 
+$1,678.85 
+CONCLUSIONS OF LAW 
+ 
+The first issue to be determined is whether claimant is entitled to temporary 
+disability benefits.  
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 9 
+ 
+ 
+The party who would suffer loss if an issue were not established has the burden 
+of proving that issue by a preponderance of the evidence.  Iowa R. App. P. 6.904(3)(e). 
+ 
+Healing period compensation describes temporary workers’ compensation 
+weekly benefits that precede an allowance of permanent partial disability benefits.  
+Ellingson v. Fleetguard, Inc., 599 N.W.2d 440, 446 (Iowa 1999).  Healing period benefits 
+are payable to an injured worker who has suffered permanent partial disability until the 
+first to occur of three events.  Iowa Code § 85.34(1) (2015).  These are:  (1) the worker 
+has returned to work; (2) the worker medically is capable of returning to substantially 
+similar employment; or (3) the worker has achieved maximum medical recovery.  Id.  
+Maximum medical recovery is achieved when healing is complete, and the extent of 
+permanent disability can be determined.  Armstrong Tire & Rubber Co. v. Kubli, 312 
+N.W.2d 60, 65 (Iowa Ct. App. 1981).  Neither maintenance medical care nor an 
+employee's continuing to have pain or other symptoms necessarily prolongs the healing 
+period.  Id. 
+ 
+The hearing report indicates claimant sought temporary disability from March 1, 
+2024 through July 22, 2024.  At hearing, claimant’s counsel clarified this matter and 
+indicated claimant was seeking temporary benefits from March 1, 2024, through March 
+16, 2024.  (Tr., p. 5; Claimant’s Post-Hearing Brief, p. 29) 
+ 
+Claimant was terminated by Warren County on March 1, 2024.  As detailed in the 
+Findings of Fact, claimant was terminated for allegedly leaving a door unsecured, 
+intentionally silencing an alarm, and lying about her actions.  (Ex. 5, p. 1; Ex. B) 
+ 
+Claimant testified at hearing that she was not at fault for leaving the secured door 
+open.  (Tr., pp. 56-57)  Claimant also refused to sign her termination papers.   
+ 
+The termination report indicates, in part, that claimant was terminated for 
+unlocking a security door after another officer secured the door and failing to notify 
+anyone the door was unlocked.  Claimant indicated that this statement was correct.  
+(Tr., pp. 57-58)  Claimant also testified that she was accommodated by Warren County 
+up until the time of her termination.  (Tr., p. 58)  There is no evidence in the record 
+claimant attempted to appeal her termination with Warren County.   
+ 
+Defendants contend that claimant is not due temporary disability benefits due to 
+termination from Warren County.   
+ 
+Iowa Code section 85.33(3) precludes an employee who refuses suitable work 
+offered by the employer, consistent with the employee's disability, from receiving 
+temporary or healing period benefits during the period of refusal. Neal v. Annett 
+Holdings, Inc., 814 N.W.2d 512, 520 (Iowa 2012). The employer bears the burden to 
+establish the prerequisites of Iowa Code section 85.33(3). Koehler v. American Color 
+Graphics, File No. 1248489 (App. Feb. 25, 2005). 
+For misconduct to disqualify an employee from compensation, the misconduct 
+must be tantamount to a refusal of suitable work. Reynolds v. Hy-Vee, Inc., File No. 
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 10 
+ 
+5046203 (App. Oct. 31, 2017). Termination by itself is not sufficient grounds to 
+disqualify an employee from temporary benefits under Iowa Code section 85.33(3). 
+Gully v. Liguria Foods, Inc., File No. 5063429 (App. Jan. 30, 2020) (citations omitted). 
+The misconduct must be serious and the type of conduct that would cause any 
+employer to terminate any employee. The misconduct must have a serious adverse 
+impact on the employer. The misconduct must be more than the type of inconsequential 
+misconduct that employers typically overlook or tolerate. An employee working with 
+restrictions is not entitled to act with impunity toward the employer and the employer's 
+interests. Nevertheless, not every act of misconduct justifies disqualifying an employee 
+from workers' compensation benefits even though the employer may be justified in 
+taking disciplinary action. Reynolds, at 2 
+ 
+Claimant admitted to unlocking a door at the jail and forgetting to notify anyone 
+the door was unlocked.  This action, in part, was found to jeopardize the security of the 
+jail.  Claimant’s termination was signed by the Warren County Sheriff after consulting 
+with the Warren County Attorney.  (Ex. B)  There is no evidence claimant attempted to 
+appeal the termination.  I recognize claimant disagrees with the termination and refused 
+to sign the termination report.  However, given the facts above, I find that claimant’s 
+misconduct disqualifies her from temporary benefits.  Defendants have carried their 
+burden of proof that claimant is not entitled to temporary benefits from March 1, 2024 
+through March 16, 2024.   
+ 
+The next issue to be determined is if claimant’s injury resulted in a permanent 
+disability. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148, 153 
+(Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154, 156 (Iowa Ct. App. 
+1997); Sanchez v. Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 1996). 
+A possibility of causation is not sufficient; a probability is necessary. Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 1996) (citing Holmes v. Bruce 
+Motor Freight, Inc., 215 N.W.2d 296, 297 (Iowa 1974)). 
+The question of causal connection is essentially within the domain of expert 
+testimony. The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question. The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances. The 
+expert opinion may be accepted or rejected, in whole or in part. IBP, Inc. v. Harpole, 
+621 N.W.2d 410, 420 (Iowa 2001); St. Luke’s Hosp. v. Gray, 604 N.W.2d 646, 652 
+(Iowa 2000); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845, 853 (Iowa 
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 11 
+ 
+1995). Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 421 (Iowa 1994). Unrebutted 
+expert medical testimony cannot be summarily rejected. Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910, 911-12 (Iowa Ct. App. 1994). 
+ 
+The parties seem to agree that claimant sustained a work-related injury to her 
+right knee and ankle that was permanent in nature. 
+ 
+Dr. Vinyard opined that claimant had a 10 percent permanent impairment due to 
+her right knee injury.  (Ex. H)  Dr. Bansal opined that claimant had a 5 percent 
+permanent impairment to her right knee and a 4 percent permanent impairment to her 
+right ankle.  It does not appear that defendants attempted to obtain a permanent 
+impairment from Dr. Trout for claimant’s right ankle injury.  Dr. Vinyard treated 
+claimant’s right knee for an extended period of time and performed surgery.  Dr. Bansal 
+evaluated claimant once for an IME.  As a practical matter, Dr. Vinyard has a far better 
+understanding of claimant’s medical history and presentation regarding her right knee 
+injury.  Given this record, I found that claimant has a 10 percent permanent impairment 
+to the right knee, and a 4 percent permanent impairment to the right ankle regarding the 
+June 14, 2023 work injury. 
+ 
+The record indicates that claimant has pre-existing mental health problems.  (JE 
+11, p. 6)  Two experts have opined that claimant has PTSD as a result of the June 2023 
+work injury.  Counselor Franco treated claimant for her mental health condition.  She 
+indicated claimant’s PTSD “stems” from her assault while working on June 14, 2023.  
+(JE 14, p. 3)  Dr. Bansal opined that claimant’s workplace incident on June 14, 2023, 
+led to the development of PTSD.  (JE 16, p. 26)  No expert has rebutted these two 
+opinions.  Based on this record, claimant has carried her burden of proof she sustained 
+a mental health injury that arose out of and in the course of employment. 
+ 
+Defendant Employer/Insurer claimed that claimant’s cervical injury was allegedly 
+raised untimely.  (Defendants’ Post-Hearing Brief, pp. 20-22)  Defendants did not 
+indicate that claimant’s cervical injury was untimely raised in the hearing report or at 
+hearing.  (See Hearing Report; Tr., pp. 5-7)  As defendants failed to raise the issue of 
+an untimely notice under Iowa Code section 85.23, or an untimely claim under Iowa 
+Code section 85.26 on the Hearing Report or at hearing, it is found that defendants 
+waived their right to raise that issue in the Post-Hearing Brief. 
+ 
+Claimant contends she sustained a permanent impairment of a work-related 
+injury to her neck and back.  (Claimant’s Post-Hearing Brief, pp. 6-17)  The record 
+indicates claimant initially indicated symptoms to her cervical, thoracic and lumbar spine 
+following the June of 2023 injury.  (JE 2, pp. 1-5; JE 11, pp. 1-5) 
+ 
+The record also indicates that as of September 5, 2023, claimant was not 
+complaining of any cervical neck pain.  (Ex. I, p. 39)  In her July 11, 2024 deposition, 
+claimant indicated her lumbar and thoracic symptoms had resolved.  Claimant did not 
+indicate cervical symptoms at that time.  (Ex. C, p. 20, depo p. 25) 
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 12 
+ 
+ 
+Dr. Bansal opined that claimant had permanent impairment to the cervical and 
+lumbar spine.  Dr. Moyse indicated that claimant’s MRI does not show a nerve root 
+impingement or structural changes.  He indicated that there were no acute findings in 
+the MRI, and the MRI would be consistent with a person of claimant’s age.  (Ex. G)  Dr. 
+Bansal opined that claimant’s cervical MRI showed a nerve impingement.  (Ex. 9, p. 5)  
+Dr. Bansal’s opinions regarding nerve root involvement are contrary to the MRI scans 
+and contrary to Dr. Moyse’s analysis.  Given this discrepancy, it is found that Dr. 
+Bansal’s opinion regarding permanent impairment to claimant’s cervical and lumbar 
+spine are not convincing.   
+ 
+Claimant had normal cervical, thoracic and lumbar MRIs in February 2024.  Dr. 
+Moyse opined that claimant had no permanent impairment for her June 2023 work injury 
+to her neck and back.  This opinion regarding no permanent impairment is corroborated, 
+in part, by the statement from Nurse Practitioner Swift.  Dr. Bansal’s opinions regarding 
+permanent impairment to the cervical and lumbar spine are found not convincing.  
+Based on this record, claimant has failed to carry her burden of proof she had a 
+permanent impairment to the cervical, thoracic or lumbar spine regarding the June 14, 
+2023, injury. 
+ 
+The next issue to be determined is the extent of claimant’s entitlement to 
+permanent partial disability benefits.  As claimant has an injury to the right lower 
+extremity and a mental health injury, claimant has carried her burden of proof she has 
+an industrial disability. 
+Since claimant has an impairment to the body as a whole, an industrial disability 
+has been sustained.  Industrial disability was defined in Diederich v. Tri-City Ry. Co. of 
+Iowa, 219 Iowa 587, 591, 258 N.W. 899, 902 (1935) as follows:  "It is therefore plain that 
+the Legislature intended the term 'disability' to mean 'industrial disability' or loss of 
+earning capacity and not a mere 'functional disability' to be computed in terms of 
+percentages of the total physical and mental ability of a normal man." 
+Functional impairment is an element to be considered in determining industrial 
+disability which is the reduction of earning capacity, but consideration must also be 
+given to the injured employee's age, education, qualifications, experience, motivation, 
+loss of earnings, severity and situs of the injury, work restrictions, inability to engage in 
+employment for which the employee is fitted and the employer's offer of work or failure 
+to so offer.  McSpadden v. Big Ben Coal Co., 288 N.W.2d 181, 192 (Iowa 1980); Olson 
+v. Goodyear Service Stores, 255 Iowa 1112, 1120, 125 N.W.2d 251, 256 (1963); Barton 
+v. Nevada Poultry Co., 253 Iowa 285, 110 N.W.2d 660, 663 (1961). 
+Compensation for permanent partial disability shall begin when it is medically 
+indicated that maximum medical improvement from the injury has been reached and 
+that the extent of loss or percentage of permanent impairment can be determined by the 
+use of the guides to the evaluation of permanent impairment, published by the American 
+Medical Association, as adopted by the Commissioner. Iowa Code section 85.34(2)   
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 13 
+ 
+ 
+Claimant was 53 years old at the time of hearing.  She graduated from high 
+school.  She has certificates as an EMT and an AA degree in law enforcement.  
+Claimant has worked as a personal trainer, an EMT, and as a massage therapist. 
+ 
+Claimant has a 10 percent permanent impairment to the right knee, and a 4 
+percent permanent impairment to the right ankle.  She is found to have a class II 
+impairment regarding her PTSD. 
+ 
+In his FCE, Physical Therapist Short limited claimant, in part, to no lifting above 
+25 pounds from waist to floor, and carrying 25 pounds only for 50 feet.  He found that 
+claimant was in a light category of physical demand.  (JE 15, pp. 2-3)  Dr. Vinyard 
+adopted claimant’s permanent restrictions given by Physical Therapist Short.  (Ex. 8, p. 
+1) 
+ 
+Claimant was working at Warren County from 40 to 56 hours per week and made 
+approximately $25.46 per hour.  (Tr., p. 26)  At the time of hearing, claimant was 
+working as a massage therapist for Lifetime Spa.  Claimant works 30 hours a week and 
+earns $15.00 per hour plus commission and tips. (Tr., pp. 27-28, 37-38) 
+ 
+Given all relevant factors as detailed above, claimant is found to have a 60 
+percent industrial disability or loss of earning capacity. 
+ 
+The next issue to be determined is the commencement date of permanent partial 
+disability benefits. 
+ 
+Dr. Vinyard found claimant at MMI for her right knee on October 5, 2023.  Dr. 
+Bansal agreed with that date of MMI regarding the right knee.  (JE 5, p. 16; JE 16, p. 
+29) 
+ 
+There is no record in evidence that Dr. Trout found claimant at MMI for her right 
+ankle.   
+ 
+Dr. Bansal found claimant at MMI as of July 23, 2024, for her right ankle.  He 
+also found claimant at MMI for her PTSD as of that date.  There is no evidence rebutting 
+claimant’s MMI date for her right ankle and PTSD.  Given this record, it is found that 
+claimant’s permanent partial disability benefits shall commence as of July 23, 2024, 
+ 
+The next issue to be determined is rate. 
+The basis of compensation is the weekly earnings of the employee at the time of 
+the injury.  Iowa Code § 85.36 (2015).  Weekly earnings are the gross salary, wages, or 
+earnings to which an employee would have been entitled had the employee worked the 
+customary hours for the full pay period in which the employee was injured as the 
+employer regularly required for the work or employment.  Id.  The various subsections of 
+section 85.36 set forth methods of computing weekly earnings depending upon the type 
+of earnings and employment.  Id. 
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 14 
+ 
+If the employee is paid on a daily or hourly basis or by output, weekly earnings 
+are computed by dividing by thirteen the earnings over the thirteen-week period 
+immediately preceding the injury.  Iowa Code § 85.36(6) (2015).  Any week that does 
+not fairly reflect the employee’s customary earnings is excluded, however.  Id. 
+ 
+Claimant’s unrebutted testimony is that she worked between 85 to approximately 
+90 hours biweekly.  (Ex. 6; Tr., p. 35; Ex. F)  The records of claimant’s earnings from 
+April 2, 2023, through April 15, 2023, show that claimant only worked 70.17 hours that 
+pay period.  This period should be excluded from the calculation of claimant’s rate.   
+ 
+For the 10 weeks preceding claimant’s accident, claimant earned $8,554.60.  
+This amount divided by 10 weeks resulted in an average weekly wage of $855.46.  
+Claimant was single with one exemption.  Claimant’s rate is $542.15. 
+ 
+The next issue to be determined is whether claimant is entitled to alternate 
+medical care. 
+Iowa Code section 85.27(4) provides, in relevant part: 
+For purposes of this section, the employer is obliged to furnish 
+reasonable services and supplies to treat an injured employee, and has 
+the right to choose the care. . . .  The treatment must be offered promptly 
+and be reasonably suited to treat the injury without undue inconvenience 
+to the employee.  If the employee has reason to be dissatisfied with the 
+care offered, the employee should communicate the basis of such 
+dissatisfaction to the employer, in writing if requested, following which the 
+employer and the employee may agree to alternate care reasonably suited 
+to treat the injury.  If the employer and employee cannot agree on such 
+alternate care, the commissioner may, upon application and reasonable 
+proofs of the necessity therefor, allow and order other care. 
+An application for alternate medical care is not automatically sustained because 
+claimant is dissatisfied with the care he has been receiving.  Mere dissatisfaction with 
+the medical care is not ample grounds for granting an application for alternate medical 
+care.  Rather, the claimant must show that the care was not offered promptly, was not 
+reasonably suited to treat the injury, or that the care was unduly inconvenient for the 
+claimant.  Long v. Roberts Dairy Co., 528 N.W.2d 122 (Iowa 1995). 
+ 
+Iowa Code section 85.27(4) requires, in part, that before alternate medical care is 
+awarded as a remedy, claimant first must communicate the basis of the dissatisfaction 
+with the care provided.  There is no evidence in the record that claimant communicated 
+the basis of any dissatisfaction with the care provided.  As claimant failed to 
+communicate to the employer a basis for dissatisfaction with care, claimant has failed to 
+carry her burden of proof she is entitled to alternate medical care at this time.   
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 15 
+ 
+ 
+As detailed above in the Conclusions of Law section, claimant does have a work-
+related knee, ankle and PTSD injury.  Defendants are responsible for providing ongoing 
+care for these injuries. 
+ 
+The next issue to be determined is whether claimant is entitled to benefits from 
+the Fund.   
+Iowa Code section 85.64 governs Second Injury Fund liability.  Before liability of 
+the Fund is triggered, three requirements must be met.  First, the employee must have 
+lost or lost the use of a hand, arm, foot, leg, or eye.  Second, the employee must sustain 
+a loss or loss of use of another specified member or organ through a compensable 
+injury.  Third, permanent disability must exist as to both the initial injury and the second 
+injury.   
+The Second Injury Fund Act exists to encourage the hiring of handicapped 
+persons by making a current employer responsible only for the amount of disability 
+related to an injury occurring while that employer employed the handicapped individual 
+as if the individual had had no preexisting disability.  See Anderson v. Second Injury 
+Fund, 262 N.W.2d 789, 792 (Iowa 1978); 15 Iowa Practice, Workers’ Compensation, 
+Lawyer, Section 17:1, p. 211 (2014-2015). 
+The Fund is responsible for the industrial disability present after the second injury 
+that exceeds the disability attributable to the first and second injuries.  Section 85.64.  
+Second Injury Fund of Iowa v. Braden, 459 N.W.2d 467, 471 (Iowa 1990); Second Injury 
+Fund v. Neelans, 436 N.W.2d 355, 358 (Iowa 1989); Second Injury Fund v. Mich Coal 
+Co., 274 N.W.2d 300, 304 (Iowa 1979). 
+ 
+Claimant’s first pled injury for the purposes of Fund benefits is a 2.5-inch 
+laceration to her left knee occurring approximately in March of 1988 in a car accident 
+when claimant was 16 years old.  The injury did not result in any permanent restrictions.  
+Claimant received stitches for the injury.  There is no record of any treatment for the left 
+knee since 1988.  (JE 1, p. 1; Ex. DD, p. 14; Tr., p. 54) 
+ 
+There is no evidence in the medical records that claimant had any loss of 
+strength or function in the left knee due to the 1988 superficial laceration. 
+ 
+Two experts have opined regarding the permanent impairment to the claimant’s 
+left knee from the 1988 injury.  Dr. Chen reviewed claimant’s medical records.  He 
+opined that claimant had no permanent impairment to the left knee due to the 1988 
+injury.  This opinion was based, in part, on the fact that claimant’s 1988 laceration to the 
+left knee did not result in permanent restrictions, and that claimant did not have any 
+treatment to the left knee after 1988. Dr. Chen’s opinion was also based on the fact that 
+neither Physical Therapist Short nor Dr. Vinyard found any crepitus or loss of function in 
+the left knee.  (Ex. AA, p. 5) 
+ 
+Dr. Bansal evaluated claimant once for an IME.  He opined that claimant had a 
+permanent impairment to the left knee due to the 1988 car accident.  Dr. Bansal’s 
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 16 
+ 
+opinion fails to address the lack of any treatment to the left knee prior to the 2023 right 
+lower extremity accident.  He does not address why claimant has a permanent 
+impairment from the 1988 injury that, up to the time of his exam, claimant had no 
+permanent restrictions, and had no permanent impairment to the left knee after 1988.  
+Claimant’s 1988 injury involved a sharp laceration, and did not result in any tissue 
+damage to the underlying patellofemoral cartilage surface.  (Ex. AA, p. 5)  Given this 
+record, the opinions of Dr. Bansal regarding permanent impairment due to the 1988 left 
+knee injury are found not convincing. 
+ 
+Claimant had a 1988 laceration to the left knee.  The injury was treated with 
+stitches and did not result in any surgery or permanent restrictions.  (Tr., p. 55)  The 
+injury did not result in any treatment after 1988.  Dr. Chen found that claimant had no 
+permanent impairment for the 1988 left knee injury.  Dr. Bansal’s opinion regarding 
+permanent impairment due to the left knee injury are found not convincing.  Given this 
+record, claimant has failed to carry her burden of proof she has a qualifying first injury 
+from the 1988 laceration to the left knee for the purposes of Fund benefits. As claimant 
+has failed to carry her burden of proof she has a qualifying first injury for the purposes of 
+Fund benefits, claimant has failed to carry her burden of proof she is entitled to Fund 
+benefits. 
+ 
+The last issue to be determined is whether defendants are liable for a penalty 
+under Iowa Code section 10A.315(4). 
+In Christensen v. Snap-on Tools Corp., 554 N.W.2d 254 (Iowa 1996) and 
+Robbennolt v. Snap-on Tools Corp, 555 N.W.2d 229 (Iowa 1996) the supreme court 
+said: 
+Based on the plain language of section 86.13,1 we hold an employee 
+is entitled to penalty benefits if there has been a delay in payment unless 
+the employer proves a reasonable cause or excuse.  [Iowa Code § 86.13 
+(2015).]  A reasonable cause or excuse exists if either (1) the delay was 
+necessary for the insurer to investigate the claim or (2) the employer had a 
+reasonable basis to contest the employee’s entitlement to benefits.  A 
+“reasonable basis” for denial of the claim exists if the claim is “fairly 
+debatable.”  Christensen, 554 N.W.2d at 260. 
+The supreme court has stated: 
+(1) If the employer has a reason for the delay and conveys that 
+reason to the employee contemporaneously with the beginning of the delay, 
+no penalty will be imposed if the reason is of such character that a 
+reasonable fact finder could conclude that it is a "reasonable or probable 
+cause or excuse" under Iowa Code section 86.13 [2015].  In that case, we 
+will defer to the decision of the commissioner.  See Christensen, 554 
+                                                 
+1 In 2023, this code section was re-labeled Iowa Code section 10A.315(4).   
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 17 
+ 
+N.W.2d at 260 (substantial evidence found to support commissioner’s 
+finding of legitimate reason for delay pending receipt of medical report); 
+Robbennolt, 555 N.W.2d at 236. 
+(2) If no reason is given for the delay or if the “reason” is not one that 
+a reasonable fact finder could accept, we will hold that no such cause or 
+excuse exists and remand to the commissioner for the sole purpose of 
+assessing penalties under section 86.13.  See Christensen, 554 N.W.2d at 
+261. 
+(3) Reasonable causes or excuses include (a) a delay for the 
+employer to investigate the claim, Christensen, 554 N.W.2d at 260; 
+Kiesecker v. Webster City Custom Meats, Inc., 528 N.W.2d at 109, 111 
+(Iowa 1995); or (b) the employer had a reasonable basis to contest the 
+claimthe “fairly debatable” basis for delay.  See Christensen, 554 N.W.2d 
+at 260 (holding two-month delay to obtain employer’s own medical report 
+reasonable under the circumstances).  
+(4) For the purpose of applying section 86.13, the benefits that are 
+underpaid as well as late-paid benefits are subject to penalties, unless the 
+employer establishes reasonable and probable cause or excuse. [Iowa 
+Code § 86.13 (2015);] Robbennolt, 555 N.W.2d at 237 (underpayment 
+resulting from application of wrong wage base; in absence of excuse, 
+commissioner required to apply penalty). 
+If we were to construe [Iowa Code § 86.13 (2015)] to 
+permit the avoidance of penalty if any amount of 
+compensation benefits are paid, the purpose of the penalty 
+statute would be frustrated.  For these reasons, we conclude 
+section 86.13 is applicable when payment of compensation is 
+not timely . . . or when the full amount of compensation is not 
+paid.  Id. 
+(5) For purposes of determining whether there has been a delay, 
+payments are “made” when (a) the check addressed to a claimant is mailed 
+(Robbennolt, 555 N.W.2d at 236; Kiesecker, 528 N.W.2d at 112), or (b) the 
+check is delivered personally to the claimant by the employer or its workers’ 
+compensation insurer.  Robbennolt, 555 N.W.2d at 235.   
+(6) In determining the amount of the penalty, the commissioner is to 
+consider factors such as the length of the delay, the number of delays, the 
+information available to the employer regarding the employee’s injury and 
+wages, and the employer’s past record of penalties.  Robbennolt, 555 
+N.W.2d at 238. 
+(7) An employer’s bare assertion that a claim is “fairly debatable” 
+does not make it so.  A fair reading of Christensen and Robbennolt, makes 
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 18 
+ 
+it clear that the employer must assert facts upon which the commissioner 
+could reasonably find that the claim was “fairly debatable.”  See 
+Christensen, 554 N.W.2d at 260. 
+Meyers v. Holiday Express Corp., 557 N.W.2d 502, 504-505 (Iowa 1996).   
+Weekly compensation payments are due at the end of the compensation week.  
+Robbennolt, 555 N.W.2d at 235. 
+Penalty is not imposed for delayed interest payments.  Davidson v. Bruce, 594 
+N.W.2d 833, 840 (Iowa Ct. App. 1999); Schadendorf v. Snap-On Tools Corp., 757 
+N.W.2d 330, 338 (Iowa 2008).   
+When an employee’s claim for benefits is fairly debatable based on a good faith 
+dispute over the employee’s factual or legal entitlement to benefits, an award of penalty 
+benefits is not appropriate under the statute.  Gilbert v. USF Holland, Inc., 637 N.W.2d 
+194, 199 (Iowa 2001).  Whether the issue was fairly debatable turns on whether there 
+was a disputed factual dispute that, if resolved in favor of the employer, would have 
+supported the employer's denial of compensability.  Id. 
+If weekly compensation benefits are not fully paid when due, section 10A.315(4) 
+requires that additional benefits be awarded unless the employer shows reasonable 
+cause or excuse for the delay or denial.  Iowa Code § 10A.315(4) (2023); Robbennolt v. 
+Snap-on Tools Corp., 555 N.W.2d 229, 236-37 (Iowa 1996).  
+“Benefits may be delayed, without penalty, during such time as an employer’s 
+liability is “fairly debatable”. Kiesecker v. Webster City Custom Meats, Inc., 528 N.W.2d 
+109, 111 (Iowa 1995).  A delay attributable to the time required to perform a reasonable 
+investigation is not unreasonable.  Id.  
+It also is not unreasonable to deny a claim when a good faith issue of law or fact 
+makes the employer’s liability fairly debatable.  Rodda v. Vermeer Mfg., 734 N.W.2d 
+480, 483 (Iowa 2007).  An issue of law is fairly debatable if viable arguments exist in 
+favor of each party.  Covia v. Robinson, 507 N.W.2d 411, 412 (Iowa 1993).  An issue of 
+fact is fairly debatable if substantial evidence exists which would support a finding 
+favorable to the employer.  Gilbert v. USF Holland, Inc., 637 N.W.2d 194, 199 (Iowa 
+2001).  
+“An employer’s bare assertion that a claim is ‘fairly debatable’ does not make it 
+so.”  Meyers v. Holiday Express Corp., 557 N.W.2d 502, 505 (Iowa 1996).  The 
+employer must assert facts upon which the commissioner could reasonably find that the 
+claim was “fairly debatable.”  Id.   
+If the employer fails to show reasonable cause or excuse for the delay or denial, 
+the commissioner shall impose a penalty in an amount up to 50 percent of the amount 
+unreasonably delayed or denied.  Christensen v. Snap-on Tools Corp., 554 N.W.2d 
+254, 259 (Iowa 1996).  The factors to be considered in determining the amount of the 
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 19 
+ 
+penalty include the length of the delay, the number of delays, the information available 
+to the employer and the employer’s past record of penalties.  Robbennolt, 555 N.W.2d 
+at 238. 
+ 
+Dr. Vinyard found claimant was at MMI for her knee injury as of October 5, 2023.  
+On October 10, 2023, defendant-insurer sent Dr. Vinyard a letter requesting an 
+impairment rating.  (Ex. K)  There is no record that Dr. Vinyard responded to that letter.  
+Approximately one year later, on August 26, 2024, defendants’ attorney spoke with Dr. 
+Vinyard to discuss an impairment rating.  (Ex. D)  Dr. Vinyard gave claimant a 10 
+percent rating in a September 4, 2024 letter, or approximately one year after claimant 
+was found to be at MMI.  (Ex. H)  At the time of hearing, defendants had still not paid 
+claimant that rating.  (Tr., pp. 36-37) 
+ 
+Defendants appear to argue that they attempted to get a rating from Dr. Vinyard 
+with the October 10, 2023 letter, and he did not respond.  Defendants appear to 
+contend that because Dr. Vinyard did not initially respond to the October 10, 2023 letter, 
+that this is a reasonable excuse for not paying claimant permanent impairment for the 
+knee injury, even up to the time of hearing.  (Defendants’ Post-Hearing Brief, p. 27) 
+ 
+Claimant was found to be at MMI in October 2023.  Approximately one year later, 
+at the time of hearing, defendants had still not paid any permanent partial disability 
+benefits regarding claimant’s right knee.  The fact that Dr. Vinyard did not initially 
+respond to defendants’ October 10, 2023 letter, is not a reasonable excuse for failure to 
+pay claimant’s permanent partial disability benefits for almost a year.  As indicated by 
+the record, defendants’ counsel was able to ultimately get a response from Dr. Vinyard 
+shortly after speaking with him a couple weeks before the hearing.  As Dr. Vinyard did 
+not respond to the October 10, 2023 letter, defendants had an affirmative duty to follow 
+up with Dr. Vinyard’s office in a timely and reasonable fashion.  Given Exhibits D, H and 
+K, it is found that defendants’ failure to follow up with Dr. Vinyard to obtain the rating, in 
+this case, was not a reasonable excuse for delay in paying claimant’s permanent partial 
+disability to her right knee for almost a year.  Because defendants still have not paid 
+claimant any permanent partial disability benefits at the time of hearing, a 50 percent 
+penalty is appropriate.  Dr. Vinyard found claimant had a 10 percent permanent 
+impairment to the knee.  This entitles claimant to 22 weeks of permanent partial 
+disability benefits at the rate of $542.15.  Claimant is due $5,963.65 in penalty (22 
+weeks x $542.15 x 50 percent). 
+ORDER 
+ 
+THEREFORE IT IS ORDERED: 
+ 
+That defendants shall pay claimant 300 weeks of permanent partial disability 
+benefits at the rate of five hundred forty-two and 15/100 dollars ($542.15) per week 
+commencing on July 23, 2024. 
+ 
+That defendants shall pay accrued weekly benefits in a lump sum together with 
+interest at an annual rate equal to the one-year treasury constant maturity published by 
+
+RENAUD V. WARREN COUNTY/SECOND INJURY FUND OF IOWA 
+Page 20 
+ 
+the federal reserve in the most recent H15 report settled as of the date of injury, plus 
+two percent.  
+ 
+That defendants shall pay claimant five thousand nine hundred sixty-three and 
+65/100 dollars ($5,963.65) in penalty. 
+ 
+That defendants shall pay claimant’s costs in obtaining rebuttal to defendants’ 
+untimely exhibits G through I. 
+ 
+That defendants shall pay costs. 
+ 
+That defendants shall file subsequent reports of injury as required by Rule 876 
+IAC 3.1(2). 
+ 
+Signed and filed this __21st _ day of May, 2025. 
+ 
+The parties have been served, as follows: 
+Randall Schueller (via WCES) 
+ 
+Michael Roling (via WCES) 
+Adrienne Williamson (via WCES) 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Workers’ Compensation Division to file documents in paper form. If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Workers’ 
+Compensation Division, 6200 Park Ave., Suite 100, Des Moines, Iowa 50321. The notice of appeal must be received 
+by the Workers’ Compensation Division within 20 days from the date of the decision. The appeal period will be 
+extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+  
+       JAMES F. CHRISTENSON 
+          DEPUTY WORKERS’ 
+ COMPENSATION COMMISSIONER 

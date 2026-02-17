@@ -1,0 +1,586 @@
+Case Number: 21700246.01
+Case Title:  DUNGAN, TYLER V. DEN HARTOG INDUSTRIES
+Doc Type:    Decision - Court of Appeals
+Source:      231402_Den_Hartog_Industries_v_Dung_9596A97BFD22D.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 23-1402 
+Filed January 9, 2025 
+ 
+ 
+DEN HARTOG INDUSTRIES and WEST BEND MUTUAL INSURANCE 
+COMPANY, 
+ 
+Petitioners-Appellants, 
+ 
+vs. 
+ 
+TYLER DUNGAN, 
+ 
+Respondent-Appellee. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Jeanie Vaudt, Judge. 
+ 
+ 
+An employer appeals from a judicial-review proceeding following an 
+adverse decision by the workers’ compensation commissioner.  AFFIRMED. 
+ 
+ 
+Lee P. Hook, Morgan R. Todd Borron, and Jordan R. Reed (until 
+withdrawal) of Peddicord Wharton, LLP, West Des Moines, for appellants. 
+ 
+Michael Roling and Christopher Spencer of Peddicord Wharton, LLP, West 
+Des Moines, for appellant West Bend Mutual Insurance Company. 
+ 
+Janece Valentine, Fort Dodge, for appellee. 
+ 
+ 
+Heard by Buller, P.J., Langholz, J. and Doyle, S.J.* 
+ 
+*Senior judge assigned by order pursuant to Iowa Code section 602.9206 
+(2025). 
+ 
+
+ 
+2
+BULLER, Judge. 
+ 
+Den Hartog Industries and its insurer appeal from a judicial-review 
+proceeding arising out of a contested workers’ compensation case involving former 
+employee Tyler Dungan.  Den Hartog alleges a legal error in the district court and 
+workers’ compensation commissioner’s interpretations of a 2017 amendment to 
+Iowa Code section 85.34(2)(v) (2019), which could potentially affect the amount of 
+benefits owed Dungan.  Finding the district court correctly affirmed the 
+commissioner’s interpretation of ambiguous statutory language, we affirm. 
+I. 
+Background Facts and Proceedings 
+ 
+Most of the material facts in this case are not disputed.  Dungan injured his 
+back in July 2019 while working for Den Hartog.  He promptly reported the injury 
+to Den Hartog and saw medical providers for treatment.  He missed some work 
+while receiving medical care but continued to work for Den Hartog for the next 
+eleven months with some restrictions.   
+ 
+Dungan voluntarily left his job at Den Hartog the next June to take a different 
+job and move closer to his family.  He worked a few different positions before he 
+started at his current employer as a welder, earning more than he had while 
+working for Den Hartog.   
+ 
+Dungan petitioned for workers’ compensation benefits in March 2021.  
+Following arbitration, a deputy workers’ compensation commissioner determined 
+Dungan sustained an eight percent functional impairment and awarded him 
+industrial disability benefits based on a fifteen percent reduction in his earning 
+capacity as well as costs and continued medical care.  Den Hartog appealed to the 
+commissioner, who affirmed the deputy’s award in its entirety.   
+
+ 
+3
+ 
+By way of background, before 2017, permanent partial disability to an 
+unscheduled body part was compensated exclusively by an industrial disability 
+calculation, which focuses on the loss of earning capacity.1  As part of the 2017 
+legislative 
+changes, 
+the 
+General 
+Assembly 
+amended 
+Iowa 
+Code 
+section 85.34(2)(v), which in pertinent part reads: 
+ 
+In all cases of permanent partial disability other than those 
+hereinabove described[,] . . . the compensation shall be paid during 
+the number of weeks in relation to five hundred weeks as the 
+reduction in the employee’s earning capacity caused by the disability 
+bears in relation to the earning capacity that the employee 
+possessed when the injury occurred. . . .  If an employee who is 
+eligible for compensation under this paragraph returns to work or is 
+offered work for which the employee receives or would receive the 
+same or greater salary, wages, or earnings than the employee 
+received at the time of the injury, the employee shall be compensated 
+based only upon the employee’s functional impairment resulting from 
+the injury, and not in relation to the employee’s earning capacity.  
+Notwithstanding section 85.26, subsection 2, if an employee who is 
+eligible for compensation under this paragraph returns to work with 
+the same employer and is compensated based only upon the 
+employee’s functional impairment resulting from the injury as 
+provided in this paragraph and is terminated from employment by 
+that employer, the award or agreement for settlement for benefits 
+under this chapter shall be reviewed upon commencement of 
+reopening proceedings by the employee for a determination of any 
+reduction in the employee’s earning capacity caused by the 
+employee’s permanent partial disability. 
+ 
+The workers’ compensation commissioner interpreted the bifurcation process to 
+only apply when a worker returns to work for the employer and is later terminated 
+by the same employer.  Under that reasoning, the commissioner determined the 
+ 
+1 Earning capacity is focused “on the ability of the worker to be gainfully employed.”  
+Keystone Nursing Care Ctr. v. Craddock, 705 N.W.2d 299, 306 (Iowa 2005) 
+(citation omitted).  In this opinion, when we refer to industrial disability, we mean 
+the reduction in earning capacity.  See Loew v. Menard, Inc., 2 N.W.3d 880, 884 
+(Iowa 2024) (“Determining an injured employee’s compensation based on the 
+employee’s reduction in earning capacity is known as the industrial method.”). 
+
+ 
+4
+functional impairment provision did not apply to Dungan because he voluntarily 
+separated from Den Hartog.  As a result, the commissioner determined the 
+bifurcated process established by section 85.34(2)(v) linking benefits to functional 
+impairment did not apply to Dungan, and the commissioner instead calculated his 
+industrial disability. 
+ 
+Den Hartog petitioned for judicial review in the district court, urging that 
+section 85.34(2)(v)’s bifurcated process applied regardless of whether the 
+employee was terminated or voluntarily separated from the employer.  The court 
+affirmed the commissioner, criticizing Den Hartog’s position as asking the court to 
+ignore part of the statutory text and finding that the statute read as a whole only 
+imposed the bifurcated process when the employee returned to work and was then 
+terminated by the employer.  Den Hartog appealed, and the supreme court 
+transferred this matter to our court for resolution. 
+II. 
+Standards of Review 
+ 
+We review the interpretation of the workers’ compensation statute for 
+correction of errors at law, without deference to the agency’s legal interpretation.  
+Chavez v. MS Tech. LLC, 972 N.W.2d 662, 666 (Iowa 2022).  If the commissioner’s 
+factual determinations are supported by substantial evidence, we are bound by 
+them.  Neal v. Annett Holdings, Inc., 814 N.W.2d 512, 526 (Iowa 2012). 
+III. 
+ Discussion 
+ 
+There are essentially two parts to this appeal—statutory interpretation and 
+application of the statute to the facts to determine Dungan’s industrial disability 
+rating.  We address each separately. 
+
+ 
+5
+A. Statutory Interpretation 
+ 
+On the legal question, we must determine for the first time how Iowa Code 
+section 85.34(2)(v) applies in the circumstance of a voluntary quit.  “Our first step 
+in statutory interpretation is to determine whether the language is ambiguous.”  
+State v. Richardson, 890 N.W.2d 609, 616 (Iowa 2017).   
+ 
+The supreme court recently looked at compensation under this section, 
+explaining: 
+Section 
+85.34(2)(v) 
+provides 
+two 
+methods 
+for 
+calculating 
+compensation for a nonscheduled permanent partial disability.  
+Compensation shall be paid using the industrial method based on 
+“the reduction in the employee’s earning capacity caused by the 
+disability.”  However, when an employee returns to work at the “same 
+or greater salary, wages, or earnings than the employee received at 
+the time of the injury,” then “the employee shall be compensated 
+based only upon the employee’s functional impairment resulting from 
+the injury, and not in relation to the employee’s earning capacity.”  
+Here, Loew suffered a nonscheduled injury to his lower back, and he 
+returned to work at the same or greater compensation.  Because 
+Loew returned to work at the same or greater compensation, he was 
+entitled to compensation “based only upon [his] functional 
+impairment resulting from the injury.” 
+ 
+Loew, 2 N.W.3d at 886–87 (internal citations omitted).  Although this language 
+brushes up against the issue in this case, it does not squarely resolve it.   
+ 
+In our view, we find the statutory language recognizes two categories under 
+section 85.34(2)(v) with different bases for calculation compensation: (1) if the 
+employee returns to work at the same or greater pay, then they are compensated 
+for their functional impairment; and (2) if the employee does not return to work at 
+the same or greater pay, then the industrial disability calculation applies.  
+Bridgestone Ams., Inc. v. Anderson, 4 N.W.3d 676, 682 (Iowa 2024).  The statute 
+provides for those involuntarily moved from the first category to the second with a 
+
+ 
+6
+bifurcated compensation process to seek additional industrial disability 
+compensation.  See Iowa Code § 85.34(2)(v).  But the statute does not address 
+those who voluntarily do not return to work or those who return to work but leave 
+voluntarily.  As a result, we find the statute ambiguous—a conclusion supported 
+by the vigorous briefing seen from both parties in this case, as they attempt to 
+interpret opaque statutory language.  See Richardson, 890 N.W.2d at 616 (“A 
+statute is ambiguous if reasonable minds differ or are uncertain as to the meaning 
+of the statute.”  (citation omitted)).  And we think this lack of clarity in the statutory 
+language has created uncertainty between employees and employers as to when 
+and how the different compensation rates apply to employees whose injuries are 
+governed by paragraph (v).   
+ 
+Under controlling precedent, we are required to “apply the workers’ 
+compensation statute broadly and liberally in keeping with its humanitarian 
+objective: the benefit of the worker and the worker’s dependents.”  Xenia Rural 
+Water Dist. v. Vegors, 786 N.W.2d 250, 257 (Iowa 2010).  This prescribed 
+approach supports affirming the interpretation of the commissioner and the district 
+court, as both interpreted ambiguous language to benefit the worker, and it weighs 
+against reversing in favor of the employer for the same reason.  As a result, we 
+hold the district court did not err at law when it affirmed the commissioner’s 
+conclusion that the functional-impairment analysis did not apply to Dungan, 
+because Dungan was not terminated from employment.  Instead, this case falls 
+within the first sentence of paragraph (v)—and the longstanding practice for 
+compensation of unscheduled injuries—“the compensation shall be paid . . . as the 
+reduction in the employee’s earning capacity caused by the disability bears in 
+
+ 
+7
+relation to the earning capacity that the employee possessed when the injury 
+occurred.”  Iowa Code § 85.34(2)(v). 
+ 
+In so holding, we recognize the statutory language is subject to multiple 
+interpretations.  Forced to choose between competing interpretations, case law 
+compels we err on the side of the employee and historical practice.  See Xenia, 
+786 N.W.2d at 257.   
+B. Industrial Disability Rating  
+ 
+Den Hartog also contests the amount of industrial disability awarded, 
+contending fifteen percent was too high.  In calculating industrial disability, the 
+commissioner is permitted to consider a variety of factors, not all of which apply to 
+every case:  
+the employee’s medical condition prior to the injury, immediately 
+after the injury, and presently; the situs of the injury, its severity and 
+the length of the healing period; the work experience of the employee 
+prior to the injury and after the injury and the potential for 
+rehabilitation; 
+the 
+employee’s 
+qualifications 
+intellectually, 
+emotionally, and physically; earnings prior and subsequent to the 
+injury; age; education; motivation; functional impairment as a result 
+of the injury; inability, because of the injury, to engage in employment 
+for which the employee is fitted; loss of earnings caused by a job 
+transfer for reasons related to the injury; and the employer’s refusal 
+to give any sort of work to an impaired employee. 
+ 
+IBP, Inc. v. Al-Gharib, 604 N.W.2d 621, 632–33 (Iowa 2000) (identifying relevant 
+factors from McSpadden v. Big Ben Coal Co., 288 N.W.2d 181, 192 (Iowa 1980)).  
+“The . . . commissioner is not required to fix disability with precise accuracy.”  
+Myers v. F.C.A. Servs., Inc., 592 N.W.2d 354, 357 (Iowa 1999).  And we are 
+mindful the assessment must concern the employee’s general earning capacity in 
+the competitive labor market, not just a comparison of wages between specific 
+roles or specific employers.  See id. at 356. 
+
+ 
+8
+ 
+Without dwelling unnecessarily on the details, we find the commissioner’s 
+decision supported by substantial evidence.  Dungan had decades left in the 
+workforce, some ongoing lift restrictions while working in a manual-labor industry, 
+was motivated to work, and had to obtain subsequent employment at a “quite 
+accommodating” employer compared to his previous work-seeking without 
+restriction.  Dungan also continued to have lower-back pain and required some 
+degree of continuing treatment.  Den Hartog’s most targeted argument on this point 
+suggests Dungan’s disability is not permanent.  But every expert report in the 
+record concludes otherwise.  We find substantial evidence plainly supports the 
+commissioner’s determination on the amount of industrial disability and the judicial-
+review court’s affirmance of the same.  
+IV. 
+Disposition 
+ 
+We affirm the district court’s judicial-review ruling, which in turn affirmed the 
+agency action of the workers’ compensation commissioner. 
+ 
+AFFIRMED. 
+Doyle, S.J., concurs; Langholz, J., dissents. 
+ 
+ 
+
+ 
+9
+LANGHOLZ, Judge (dissenting). 
+ 
+The governing workers’ compensation statute provides that an employee 
+with an unscheduled injury “shall be compensated based only upon the employee’s 
+functional impairment resulting from the injury, and not in relation to the employee’s 
+earning capacity” if the employee “returns to work or is offered work for which the 
+employee receives or would receive the same or greater salary, wages, or 
+earnings than the employee received at the time of the injury.”  Iowa Code 
+§ 85.34(2)(v) (2019).  All agree that Tyler Dungan returned to work and received 
+the same or greater earnings.  Yet Dungan argues this provision cannot apply to 
+him because the next sentence in the statute—granting a special review-reopening 
+right to a subset of returning employees who are then terminated by their original 
+employer—does not apply to him.  The workers’ compensation commissioner 
+agreed, awarding industrial disability benefits based on his earning capacity.  And 
+the majority affirms, though based mainly on its conclusion that the statute is 
+ambiguous.  But since the statute’s plain and unambiguous text requires Dungan 
+to “be compensated based only upon [his] functional impairment resulting from the 
+injury, and not in relation to [his] earning capacity,” I respectfully dissent. 
+I. 
+ 
+To answer this question of statutory interpretation, I would have “started 
+(and ended) . . . with the language of the relevant statute.”  Second Inj. Fund v. 
+Strable, __ N.W.3d __, __, 2024 WL 5100098, at *5 (Iowa 2024).  Paragraph “v” 
+of Iowa Code section 85.34(2) governs compensation for unscheduled injuries 
+causing permanent partial disabilities.  See Iowa Code § 85.34(2)(v); Loew v. 
+Menard, Inc., 2 N.W.3d 880, 886–87 (Iowa 2024).  Its first two sentences provide 
+
+ 
+10 
+a default rule for compensating such injuries based on a loss of earning capacity, 
+often referred to in practice and precedent as “the industrial method.”  Loew, 2 
+N.W.3d at 884.  But its third sentence creates an exception to the default rule: 
+If an employee who is eligible for compensation under this paragraph 
+returns to work or is offered work for which the employee receives or 
+would receive the same or greater salary, wages, or earnings than 
+the employee received at the time of the injury, the employee shall 
+be compensated based only upon the employee’s functional 
+impairment resulting from the injury, and not in relation to the 
+employee’s earning capacity. 
+ 
+Iowa Code § 85.34(2)(v).  A plain reading of this text tells us that a set of 
+employees with unscheduled injuries must be compensated based on their 
+“functional impairment” from their injuries rather than the default industrial method.  
+Id.  And it tells us the condition needed for this exception to apply—when an 
+employee “returns to work or is offered work” at the same or greater pay as before 
+the injury.  Id.; see also Loew, 2 N.W.3d at 887. 
+ 
+Dungan returned to work after suffering an unscheduled injury.  At first, he 
+worked for the same employer as before the injury at the same hourly wage.  But 
+he later resigned to take a position with a different employer where he earned 
+greater wages than at the time of the injury.  He was still working at this higher pay 
+at the time of the hearing before the deputy workers’ compensation commissioner.  
+ 
+So applying the plain meaning of paragraph “v,” Dungan satisfies the 
+condition for the exception to apply because he is an employee who returned to 
+work at the same or greater pay as he had before the injury.  And thus, the statute 
+requires that he be compensated based on his functional impairment from his 
+injury rather than the default industrial method. 
+
+ 
+11 
+ 
+Despite this straightforward statutory interpretation and application, Dungan 
+argues that the functional-impairment exception does not apply to him.  He reasons 
+that to properly interpret the functional-impairment exception in the third sentence 
+of paragraph “v,” we must also consider the fourth sentence:   
+Notwithstanding section 85.26, subsection 2, if an employee who is 
+eligible for compensation under this paragraph returns to work with 
+the same employer and is compensated based only upon the 
+employee’s functional impairment resulting from the injury as 
+provided in this paragraph and is terminated from employment by 
+that employer, the award or agreement for settlement for benefits 
+under this chapter shall be reviewed upon commencement of 
+reopening proceedings by the employee for a determination of any 
+reduction in the employee’s earning capacity caused by the 
+employee’s permanent partial disability. 
+   
+Iowa Code § 85.34(2)(v).  And Dungan contends—adopting the reasoning of the 
+commissioner in this and other cases2—that reading the two sentences together 
+shows that “the legislature set up a bifurcated litigation process” that “only applies 
+when the defendant-employer discharges the claimant after the agency issues an 
+award or approves the parties’ agreement for settlement on the question of 
+permanent disability based on functional impairment.”  (Cleaned up.)  In essence—
+according to this reasoning—because the two sentences are linked, the third 
+sentence’s functional-impairment exception should only apply when the fourth 
+sentence’s reviewing-reopening right applies.  So because Dungan voluntarily left 
+his original employment rather than being terminated, the entire bifurcated process 
+would not apply and he would be compensated under the default industrial method 
+based on earning capacity rather than under the functional-impairment exception. 
+ 
+2 See Martinez v. Pavlich, Inc., No. 5063900, 2020 WL 5412838, *3–6 (Iowa 
+Workers’ Comp. Comm’r July 30, 2020) (detailing the commissioner’s statutory-
+interpretation reasoning, which was followed as binding agency precent here).   
+
+ 
+12 
+ 
+I agree with Dungan that we should look to the fourth sentence to inform 
+our interpretation of the third.  See Antonin Scalia & Bryan Garner, Reading Law: 
+The Interpretation of Legal Texts 167 (2012) [hereinafter Reading Law] (“The text 
+must be construed as a whole . . . which calls on the judicial interpreter to consider 
+the entire text, in view of its structure and of the physical and logical relation of its 
+many parts.”).  That’s especially so where, as here, the two sentences were added 
+to the statute in the same enactment.  See State v. Hall, 969 N.W.2d 299, 309 
+(Iowa 2022) (“The contrast between the statutes is particularly revealing because 
+both statutes were passed at the same time in the same piece of legislation.”); see 
+also 2017 Iowa Acts ch. 23, § 8.  But when examining the text of the related 
+sentences, I see two distinctions that show the third sentence’s exception requiring 
+compensation based on functional impairment must apply to a broader universe of 
+employees than the fourth sentence’s review-reopening right.   
+ 
+First, the fourth sentence applies only to an employee who “returns to work 
+with the same employer.”  Iowa Code § 85.34(2)(v).  The third sentence contains 
+no such requirement that the work be “with the same employer.”  Id.  This use of 
+materially different terms shows us that the scopes of the two sentences are not 
+coextensive—“different meanings are intended” for each.  Teig v. Chavez, 8 
+N.W.3d 484, 493 (Iowa 2024).  “If the drafters intended the two concepts to be 
+coextensive, different words would not have been used.”  Id. (cleaned up); see 
+also Reading Law at 170 (“[W]here the document has used one term in one place, 
+and a materially different term in another, the presumption is that the different term 
+denotes a different idea.”).  Dungan’s interpretation—that the third sentence’s 
+functional-impairment exception would only apply when the fourth sentence’s 
+
+ 
+13 
+narrower condition of returning to the same employer is satisfied—fails to give 
+meaning to these differences and thus flouts the statutory text. 
+ 
+Second, the third sentence applies to some employees who never return to 
+work at all—those who are merely “offered work.”  Iowa Code § 85.34(2)(v).  
+Dungan’s interpretation would strike these words out of the statute.  An employee 
+who is offered but does not return to work with the same employer could never be 
+terminated by that employer.  So the review-reopening right of the fourth sentence 
+could never apply.  And under Dungan’s interpretation, the third sentence’s 
+functional-impairment exception could thus never apply to those “offered work.”  Id.  
+That can’t be.  “[W]e must giving meaning to every word in a statute.  None should 
+be ignored.  None should needlessly be given an interpretation that causes it to 
+have no consequence.”  Bridgestone Americas, Inc. v. Anderson, 4 N.W.3d 676, 
+686 (Iowa 2024) (cleaned up); see also Reading Law at 174 (“It is no more the 
+court’s function to revise by subtraction than by addition.”). 
+ 
+And so, both these distinctions between the two sentences defeat Dungan’s 
+argument that the third sentence’s functional-impairment exception applies only 
+when the fourth sentence’s review-reopening right applies.  To faithfully give 
+meaning to the sentences’ distinctions, we must read the third sentence to require 
+compensation based on functional impairment for one set of employees with 
+unscheduled injuries: those who return to work or are offered employment at the 
+same or greater pay as before the injury.  And the fourth sentence then moderates 
+the consequences of this exception for a smaller subset: those who returned to 
+work for the same employer, had their original award or settlement based on the 
+functional-impairment method required by the third sentence, and then were 
+
+ 
+14 
+terminated by that same employer.  This subset of employees is granted the right 
+to bring a review-reopening proceeding in which they can seek a redetermination 
+of their compensation using the industrial method based on their loss of earning 
+capacity.  Interpreting the two sentences in this way harmonizes them.  See 
+Reading Law at 180 (“[T]here can be no justification for needlessly rendering 
+provisions in conflict if they can be interpreted harmoniously.”).  And it gives the 
+most natural reading to all the words in the statute.   
+ 
+Dungan’s contrary interpretation seems to flow in large part from an 
+underlying assumption that the legislature intended to require compensation by the 
+functional-impairment method only as part of a “bifurcated process” in which the 
+employee could eventually have a chance for compensation by the industrial 
+method.  And given the longstanding use of the industrial method for compensating 
+unscheduled injuries, it’s understandable that those involved in the workers’ 
+compensation system might assume that it should always remain available.  But 
+that assumption has no basis in the current text of the statute.  The statute never 
+uses the term “bifurcated process.”  And as already discussed, it defines the scope 
+of the functional-impairment exception more broadly than the scope of the review-
+reopening right.  If the legislature meant for the functional-impairment exception to 
+apply only when the review-reopening right also applied, there are many ways the 
+legislature could have written that meaning into the statute.  But the words enacted 
+into law are not one of them.  See State v. Hightower, 8 N.W.3d 527, 539 (Iowa 
+2024) (explaining that “[t]o find the meaning of [a statute], we must focus on its 
+text, the words chosen by the legislature” and rejecting attempt to add an additional 
+requirement for the applicability of a statute when those words “offer no support”). 
+
+ 
+15 
+II. 
+ 
+The majority affirms the commissioner’s interpretation—or at least its top-
+line conclusion that paragraph “v”’s default industrial method of compensation 
+applies to Dungan—reasoning that the statute is ambiguous and thus must be 
+interpreted “broadly and liberally” to “the benefit of the worker.”  Xenia Rural Water 
+Dist. v. Vegors, 786 N.W.2d 250, 257 (Iowa 2010).  To find the statute ambiguous, 
+the majority agrees with Dungan and the commissioner that the statute “does not 
+address those who voluntarily do not return to work or those who return to work 
+but leave voluntarily.”  But that’s not so.   
+ 
+True, the fourth sentence does not grant the review-reopening right to either 
+category the majority identifies.  But it’s the third sentence that covers the issue 
+here—whether the functional-impairment exception applies.  And that text plainly 
+addresses Dungan’s situation and the other categories that the majority finds 
+ambiguous.  “[T]hose who voluntarily do not return to work”?  If the employee was 
+“offered work for which the employee . . . would receive the same or greater salary, 
+wages, or earnings than the employee received at the time of the injury,” then the 
+functional-impairment exception applies.  Iowa Code § 85.34(2)(v).  And “those 
+who return to work but leave voluntarily”?  Again, if they “receive[] . . . the same or 
+greater salary, wages, or earnings than the employee received at the time of the 
+injury” upon their return to work, the exception applies.  Id.  I’m not sure what more 
+we would expect the legislature to say to be clear that it intends the functional-
+impairment exception to apply to the employees it has already expressly specified. 
+ 
+Of course, if one overlooks the clear distinctions between the two sentences 
+or accepts the atextual bifurcated-process assumption, the proper interpretation 
+
+ 
+16 
+can become murkier.  All the more so when we have appropriately zealous 
+advocacy making thoughtful arguments on both sides.  “But a statute is not 
+ambiguous merely because two litigants”—or “skilled lawyers,” administrative 
+judicial officers, or judges—“disagree about its meaning.”  Est of Butterfield v. 
+Chautauqua Guest Home, Inc., 987 N.W.2d 834, 838 (Iowa 2023) (cleaned up).  
+Nor do the “legislative purposes,” such as “the purpose of helping workers” give us 
+“leave to ignore the plain language of the statute.”  Bridgestone, 4 N.W.3d at 683 
+(cleaned up).  And so, when properly focusing on the plain meaning of the text of 
+the statute, I see no ambiguity that would permit me to default to Dungan’s 
+interpretation just because it benefits workers.3  
+III. 
+ 
+Dungan also urges us—regardless of the result we reach—to give guidance 
+to the workers’ compensation bar and commissioner about the application of 
+paragraph “v” beyond the facts here.  While I can understand that desire, there is 
+wisdom in fleshing out the meaning of statutes with our normal case-by-case 
+approach—deciding only what must be decided to resolve a particular case with 
+the benefit of adversarial briefing by parties with a direct stake in the issues 
+decided and a full factual record on which to apply the terms we interpret.  So as 
+the commissioner has thoughtfully explained, the agency will still need to “act[] as 
+ 
+3 In any event, Dungan’s preferred interpretation does not always benefit workers.  
+See Loew, 2 N.W.3d at 889 (“A claimant may suffer a functional disability but have 
+no industrial disability if the functional disability does not impede his ability to 
+perform the duties of his employment.” (cleaned up)).  Indeed, the first case in 
+which the commissioner interpreted paragraph “v” was one in which the 
+employer—not the employee—argued for the application of the industrial-method 
+because it thought the employee’s loss of earning capacity would be less than the 
+functional impairment.  See Martinez, 2020 WL 5412838, *6. 
+
+ 
+17 
+the front-line authority in interpreting statutory workers’ compensation provisions,” 
+especially on these relatively recent amendments.  Martinez, 2020 WL 5412838, 
+at *4. 
+ 
+That said, I believe that the interpretative approach that I use above—based 
+on a plain reading of all the text without additions or subtractions—would provide 
+greater clarity to those seeking to apply the statute to other factual circumstances 
+than either Dungan’s or the majority’s.  To be sure, some of those circumstances 
+will present closer questions than this case.  For example, it is not necessary to 
+decide here whether the statute’s use of the present tense—“returns to work”—
+means that the return must continue up to the date of the hearing because Dungan 
+was still working at that time here.  Nor do we need to wrestle with the related 
+question of what happens if the employee returns to the original employer and is 
+terminated by that employer before being compensated under the functional-
+impairment method.  In such a situation, the review-reopening right clearly couldn’t 
+apply—but absent an interpretation of “returns” that continues to the time of 
+compensation, the functional-impairment exception would seem to still apply.  And 
+since Dungan returned to work, we do not face deciding what requirements, if any, 
+beyond offering the same or greater pay may be implied—perhaps based on other 
+parts of chapter 85—for an offer of work to meet the condition for the functional-
+impairment exception.  But I would wait to resolve these questions until we have 
+the benefit of adversarial briefing and the commissioner’s adjudication of them 
+before us.  See Whitehouse v. Ill. Cent. R.R. Co., 349 U.S. 366, 372–73 (1955) 
+(counseling that close questions’ “difficulty admonishes us to observe the wise 
+
+ 
+18 
+limitations on our function and to confine ourselves to deciding only what is 
+necessary to the disposition of the immediate case”). 
+ 
+For now, we need only correct the commissioner’s erroneous interpretation 
+of the statute here.  Because Dungan returned to work and received the same or 
+greater earnings as he did at the time of his unscheduled injury, the plain and 
+unambiguous text of paragraph “v” requires Dungan to “be compensated based 
+only upon [his] functional impairment resulting from the injury, and not in relation 
+to [his] earning capacity.”  Iowa Code § 85.34(2)(v).  I would thus reverse the 
+district court’s and workers’ compensation commissioner’s contrary interpretation 
+of the statute and remand for the commissioner to decide an award based only on 
+Dungan’s functional impairment. 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,450 @@
+Case Number: 5066398
+Case Title:  LUND, NORMA V. MERCY MEDICAL CENTER
+Doc Type:    Decision - Court of Appeals
+Source:      Lund, Norma-5066398.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 21-0523 
+Filed January 12, 2022 
+ 
+ 
+MERCY MEDICAL CENTER and INDEMNITY INSURANCE COMPANY OF 
+NORTH AMERICA, 
+ 
+Plaintiffs-Appellees, 
+ 
+vs. 
+ 
+NORMA LUND, 
+ 
+Defendant-Appellant. 
+_______________________________________________________________ 
+ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Michael D. Huppert, 
+Judge. 
+ 
+ 
+Norma Lund appeals the district court’s ruling on judicial review reversing 
+the workers’ compensation commissioner’s causation finding.  REVERSED.  
+ 
+ 
+ 
+Robert E. McKinney, Waukee, for appellant. 
+ 
+Charles E. Cutler and Gregory M. Taylor of Cutler Law Firm, P.C., West 
+Des Moines, for appellees. 
+ 
+ 
+ 
+Considered by Bower, C.J., and Greer and Badding, JJ.
+
+ 
+2
+BOWER, Chief Judge. 
+ 
+Norma Lund appeals the district court’s judicial review decision reversing 
+the workers’ compensation commissioner’s finding that her bilateral shoulder 
+injuries were caused by her employment with Mercy Medical Center.  She claims 
+the district court misapplied the law and erroneously concluded there was a lack 
+of evidence to support a determination of medical causation.  We reverse the 
+decision of the district court.  
+I. Background Facts and Proceedings. 
+ 
+Lund began working for Mercy Medical Center in December 2016 as a 
+sterilization processing technician.1  The job involved assembling the materials 
+needed for surgeries, placing the materials on large trays, placing the trays on 
+carts for sterilization, pushing the carts in and out of the sterilizer, and putting the 
+materials away.  The job description provided by Mercy states the sterilization 
+processing technician position requires heavy work exerting up to sixty-five pounds 
+of push/pull (force to move frequently), lifting up to fifty pounds sometimes, lifting 
+up to forty pounds frequently, lifting up to twenty pounds constantly.  Lund is five 
+foot three inches tall; the top shelf of the cart Lund placed trays on was above her 
+shoulder level.  The trays had varying weights but were not supposed to exceed 
+twenty-five pounds.  Vendor trays generally weighed more than in-house trays.  
+During the week, eight people were assigned to sterilization processing duties.  On 
+weekends, two people were assigned. 
+                                            
+1 We will refer to Mercy Medical Center and its insurer, Indemnity Insurance 
+Company of North America, collectively as “Mercy.” 
+
+ 
+3
+ 
+On Saturday, February 24, 2018, Lund worked her 3:00 p.m. to 11:30 p.m. 
+shift with no difficulties or complaints.  Her coworker that day had recently had 
+dialysis, and Lund felt he was not helpful because of his physical limitations.  On 
+Sunday, February 25, Lund worked the same shift with the same coworker.  
+Around 6:30 p.m., while lifting a vendor tray above her shoulder height, Lund felt 
+pain in the right side of her neck, radiating down into her chest.  Both shoulders 
+felt tight and sore, but Lund continued to perform her duties through the rest of her 
+shift.  Lund had Monday off.  She returned to work on Tuesday with ongoing neck 
+and shoulder pain; a coworker helped with the heavy trays.   
+ 
+Lund continued to work and did not report her injury because she hoped it 
+would resolve itself.  It did not. 
+ 
+On March 15, 2018, Lund sought medical care with Dr. Todd J. Harbach.  
+In a later letter to Mercy’s counsel, Dr. Harbach noted:  
+She was doing a lot of lifting to sterilize instruments for surgery, and 
+when I saw her, she was complaining of 50% cervical and 50% 
+bilateral arm pain.  I specifically asked her if there was any trauma or 
+inciting incident at the time of my meeting with her, and she could not 
+specifically remember anything but rather just hurt after performing 
+all of the activities required of her job for several shifts. 
+ 
+Dr. Harbach diagnosed Lund with bilateral shoulder impingement and gave her 
+subacromial injections in both shoulders.  He recommended physical therapy, 
+prescribed medications, and imposed work restrictions.  
+ 
+On March 16, Lund reported the injury to her supervisor.  Lund was seen 
+that same date at Mercy Employee Health.  The notes from that appointment state, 
+“Employee believes this is related to work activities.”   
+
+ 
+4
+ 
+Lund was referred to Mercy One for evaluation.  On March 19, Lund was 
+examined by Advanced Registered Nurse Practitioner (ARNP) Joanne Harbert.  
+ARNP Harbert noted, “States hurt herself lifting surgical pans.[2]  She thought she 
+hurt her neck and went to see ortho and was injected both shoulders and told she 
+tore both rotator cuffs.”  Harbert diagnosed Lund with acute bilateral shoulder 
+strain.  Lund was placed on restrictions and ordered to go to physical therapy.  
+Neither the restrictions nor the physical therapy improved Lund’s condition. 
+ 
+An MRI performed on May 14, showed a full-thickness tear of the right 
+rotator cuff.3  Lund was referred by Mercy to an orthopedist.   
+ 
+Dr. Steven A. Aviles saw Lund on June 11 for right shoulder pain.  Lund 
+stated she was working as a sterile processor and “hurt herself lifting surgical 
+pans.”  His office notes state: 
+Onset: on 02/25/2018.  Severity level is 3.  It occurs constantly and 
+is stable.  Location: right shoulder.  The pain is aching.  Context: 
+there is an injury.  Trauma type: lifting, occurred at work.  Hand 
+Dominance: right. 
+ 
+[Lund] is a 57-year-old woman who developed RIGHT 
+shoulder pain after working a weekend for sterile processing.  She 
+states that she does not remember any clear injury, but that she had 
+significant pain the evening of Sunday after working the Saturday 
+and Sunday shift.  She incidentally does complain of LEFT shoulder 
+pain. 
+ 
+Dr. Aviles diagnosed Lund with a right full-thickness rotator cuff tear.  He 
+recommended surgery.   
+ 
+Lund continued to work with light-duty restrictions until June 18, when she 
+was removed from her job. 
+                                            
+2 The terms surgical pan and tray are interchangeable.  
+3 Despite Lund’s complaint of pain in both shoulders, initially her treatment focused 
+on her right shoulder. 
+
+ 
+5
+ 
+On July 9, Dr. Aviles responded to correspondence from Mercy’s counsel 
+and observed Lund could not recall a particular trauma or injury but described pain 
+as a result of increased workload.  He did not believe the rotator cuff tears resulted 
+from work but an occurrence that is a “fairly normal phenomenon.”  Mercy provided 
+no further treatment for Lund’s shoulder injuries. 
+ 
+On October 17, Lund petitioned for workers’ compensation benefits, 
+alleging she had suffered a body-as-a-whole injury as a result of “lifting at work.” 
+ 
+Lund sought treatment from Dr. Jeffrey P. Davick, who performed surgery 
+on her right rotator cuff on November 29.  Dr. Davick’s notes state Lund “is a 57-
+year-old female who injured the right shoulder at work.  She was working at Mercy 
+Hospital in sterile processing.  She was repetitively putting trays on a shelf above 
+shoulder height and felt a deep pull in her right shoulder.”   
+ 
+On March 18, 2019, ARNP Harbert responded to an inquiry from Mercy’s 
+counsel in which she described Lund’s intake sheet history of the injury as related 
+to “lifting heavy objects over shoulders on a cart.”  ARNP Harbert replied she 
+“agree[d] with the Dr. Aviles medical opinion” described by counsel as “Ms. Lund’s 
+shoulder abnormalities were not caused by her work at Mercy Medical Center on 
+or about February 25, 2018.” 
+ 
+On March 19, an MRI of Lund’s left shoulder revealed a full-thickness tear 
+of the left rotator cuff.  Dr. Davick performed surgery to repair the left rotator cuff 
+on April 2.   
+ 
+On April 26, Lund’s counsel summarized a meeting with Dr. Davick, which 
+Dr. Davick confirmed: 
+
+ 
+6
+During our meeting, you did express the following opinions, all to a 
+reasonable degree of medical certainty; 
+ 
+1. You provided medical treatment for Ms. Lund relative to 
+injuries to her right and left supraspinatus (rotator cuff tears). 
+ 
+2. Your diagnosis is traumatic full thickness rotator cuff tears 
+at the insertion of the supraspinatus, both left and right. 
+ 
+3. That the nature of the work performed by Ms. Lund at Mercy 
+Medical Center, and specifically on the date of her injury, as 
+described in the enclosed narrative, as well as the description 
+presented to you by her during, your treatment, is consistent with the 
+type of activity resulting in rotator cuff/supraspinatus tears, and 
+therefore is considered a substantial and material causative factor in 
+both the right and left tears, and therefore more probable than not, 
+the cause of both the right and left rotator cuff tears. 
+ 
+ 
+On April 29, Dr. Aviles responded to a letter from Mercy’s counsel in which 
+he stated Lund “did not describe any specific trauma when she came to see me 
+on June 11, 2018.”  He also noted:  
+[U]pon my review of [a May 14, 2018] MRI . . . there was adipose 
+architecture in the volume that was lost as a result of the 
+supraspinatus tear.  This only develops as a result of chronic injury.  
+Furthermore, there was no evidence of acute trauma in the joint 
+including no blood in the joint or edema in the bone.  I saw no 
+evidence of acute injury present.  All evidence suggested that this 
+was a more chronic tear. 
+ 
+Dr. Aviles “reaffirm[ed] that the type of work activities as described by Norma Lund 
+are not considered a cause for the rotator cuff tear that I had seen on the MRI.” 
+ 
+On September 9, Dr. Aviles wrote a letter agreeing that if Lund had lifted 
+fifty pounds overhead repeatedly and at one point felt a pop with new onset of pain 
+that it could be the cause of the rotator cuff tear as seen on her MRI dated May 14, 
+2019. 
+ 
+Lund had not been released from Dr. Davick’s care at the time of the hearing 
+for workers’ compensation benefits held on October 31.  At the hearing, Dr. Aviles’s 
+October 21 deposition was admitted.  He agreed lifting could cause a rotator cuff 
+
+ 
+7
+tear; however, he opined, “But the vast majority of people who have manual labor 
+lifting never have a rotator cuff tear.  So lifting can, but not under chronic repetitive 
+stress for the most part.  It’s usually an acute trauma.”  Because Lund did not report 
+an acute trauma to him, he did not believe her injury was work-related. 
+ 
+Several witnesses testified about the weight of the trays and the number of 
+trays Lund lifted during her February 25 shift.  Lund testified she lifted “at least” ten 
+vendor trays, which were heavier than others, and she estimated the trays were in 
+the thirty- to forty-pound range.  It was when she lifted the vendor trays above 
+shoulder height that she felt the pain in her neck.  Lund also testified she lifted 
+about 100 trays from the washer: “That’s what it felt like, at least a hundred.” 
+ 
+Cindy Jennings was the sterile processing supervisor and Lund’s direct 
+supervisor that day.  She could not state what Lund’s workload was on February 25 
+but felt Lund overstated her workload.  Jennings testified, “We do not have trays 
+that weigh up to forty pounds.”  When asked how she knew, “Because we have a 
+scale.  Joint Commission requires our trays to be twenty-five pounds.”  She then 
+testified there are “some trays that weigh up to twenty-seven, twenty-eight pounds, 
+but we do not have forty-, fifty-pound trays.”  On cross-examination, Jennings 
+agreed Lund “would be lifting trays classified as heavy over her head.”   
+ 
+Lund’s coworker testified the “vast majority” of the trays they lifted were in 
+the twenty-to-twenty-five pound range, some were thirty pounds, and he had 
+“never even lifted more than forty on that job.”  He thought they had a “normal” 
+workload that weekend.  Deposition testimony from other Mercy employees was 
+also admitted. 
+ 
+The deputy commissioner issued an arbitration ruling, finding: 
+
+ 
+8
+the pans weighed no more than [twenty-five] to [twenty-seven] 
+pounds; that some trays were lifted at or above shoulder height and 
+that while most of the trays lifted at or above shoulder height should 
+have been light, [Lund] could have lifted vendor trays and placed 
+them in the uppermost part of the sterile carts, and that she could 
+have handled 100 trays during one shift. 
+ 
+ 
+The deputy also found: 
+Dr. Davick also agreed, based on [Lund’s] narrative of how the 
+incident occurred, that it was more probable than not her work was 
+the cause of both the right and left rotator cuff tears.  [Lund’s] 
+narrative called the vendor trays heavy but did not define heavy by 
+weight.  She stated that she was working three times as hard as a 
+typical workday and that she would be lifting these heavy vendor 
+pans on the tops of carts. 
+ 
+The deputy concluded Lund’s bilateral shoulder injuries resulted from her work and 
+manifested on or about February 25, 2018.4 
+ 
+On intra-agency appeal, Mercy argued Lund’s bilateral shoulder condition 
+was not work-related either as an acute injury or as a cumulative injury.  The 
+commissioner, however, agreed with the deputy’s findings with this additional 
+analysis: 
+It is undisputed that [Lund] began experiencing symptoms during and 
+after her shift on February 25, 2018.  Both at hearing and in her 
+deposition, [Lund] testified she “felt something”—like a “pop” or a 
+“pull”—in what she believed to be her neck as she was lifting a tray 
+above shoulder height during a busy shift.  There is some dispute as 
+to whether [Lund] told several of her physicians about this “pop” or 
+“pull” sensation, but both Steven Aviles, M.D., and Jeffrey Davick, 
+M.D.—the competing experts in this case—were aware [Lund’s] 
+symptoms began while performing her work duties, which included 
+lifting pans. 
+ 
+Dr. Aviles, [Mercy’s] expert, initially opined there was “nothing 
+in the work that [Lund] described that would result in rotator cuff 
+tearing to her right shoulder.”  He later explained that [Lund] “had 
+described activities consistent with normal activities of daily living.”  
+                                            
+4 The deputy found Lund had a preexisting shoulder condition that was “lit up or 
+aggravated on February 25, 2018, from lifting pans weighing up to [twenty-five] 
+pounds, some at or above shoulder height.” 
+
+ 
+9
+However, as correctly noted by the deputy commissioner, there is 
+nothing in [Lund’s] regular day-to-day life that matches the work she 
+performed during her shifts with [Mercy], which included several 
+hours of lifting approximately 100 trays between [twenty-five] and 
+[twenty-seven] pounds on a repetitive basis—and, per her job 
+description, some occasional heavier lifting.  In fact, when presented 
+with [Lund’s] deposition testimony about lifting trays weighing [fifty] 
+pounds on a repetitive basis, Dr. Aviles acknowledged that “it is 
+possible under these circumstances that lifting a [fifty]-pound pan 
+overhead could cause rotator cuff tearing.” 
+ 
+As discussed above, I affirmed the deputy commissioner’s 
+finding that [Lund’s] repetitive lifting involved pans that weighed 
+roughly [twenty-five] pounds—not [fifty] pounds.  As such, I 
+recognize 
+Dr. 
+Aviles’ 
+acknowledgment 
+is 
+not 
+based 
+on 
+circumstances that perfectly reflect [Lund’s] actual duties.  This 
+acknowledgement, therefore, is only afforded nominal weight.  
+However, it remains a consideration, particularly because Dr. Aviles 
+failed to explain why [Lund] became symptomatic while performing 
+her work activities if these duties did not contribute to, or cause, her 
+condition. 
+ 
+In contrast to Dr. Aviles’ opinion, Dr. Davick opined that the 
+“nature of the work performed” by [Lund] . . . were “consistent with 
+the type of activity resulting in rotator cuff/supraspinatus tears.”  
+Dr. Davick then agreed that [Lund’s] work activity would be 
+considered “a substantial and material causative factor” in [her] 
+bilateral rotator cuff tears.  I acknowledge Dr. Davick’s opinion—like 
+Dr. Aviles’ opinion—is not without its flaws.  As correctly noted by the 
+deputy commissioner, the narrative contained in [Lund’s] Exhibit 2 
+on which Dr. Davick relied, at least in part, varied slightly from the 
+deputy commissioner’s findings of fact.  Ultimately, however, Dr. 
+Davick’s opinion is most consistent with the onset of [Lund’s] 
+symptoms and the fact that [Lund] was asymptomatic before her shift 
+on February 25, 2018. 
+ 
+ 
+The commissioner concluded: 
+Though both expert’s opinions are flawed in some respect, I found 
+Dr. Davick’s opinion to be most consistent with [Lund’s] consistent 
+testimony and her work duties.  Thus, considering the work [Lund] 
+was performing on February 25, 2018, along with [her] lay testimony 
+regarding the onset of her symptoms and Dr. Davick’s expert 
+testimony regarding causation, I find claimant satisfied her burden to 
+prove she sustained an injury to her bilateral shoulders on 
+February 25, 2018, that arose out of and in the course of her 
+employment. 
+
+ 
+10 
+ 
+Having found claimant sustained an acute or traumatic injury 
+on February 25, 2018, [Mercy’s] argument regarding their due 
+process rights is now moot. 
+ 
+ 
+Mercy sought judicial review in the district court, which reversed the 
+commissioner’s causation finding.  Lund appeals. 
+II. Scope and Standard of Review. 
+ 
+A final judgment rendered by a district court under chapter 17A is reviewed 
+for errors of law.  Iowa Code § 17A.20 (2020); Iowa R. App. P. 6.907.  On judicial 
+review of an agency action, the district court may only interfere with the 
+commissioner’s decision if it is erroneous under one of the grounds enumerated in 
+section 17A.19(10).  On appeal from the district court’s decision, we apply the 
+same standards to determine whether we reach the same conclusions as the 
+district court.  Niday v. Roehl Transp., Inc., 934 N.W.2d 29, 34 (Iowa Ct. App. 
+2019).  If we do, we affirm the district court’s decision; otherwise, we reverse.  Id.   
+ 
+“Our decision is controlled in large part by the deference we afford to 
+decisions of administrative agencies.  Medical causation presents a question of 
+fact that is vested in the discretion of the workers’ compensation commission.”  
+Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 844 (Iowa 2011). 
+III. Discussion. 
+ 
+In Pease, our supreme court noted: 
+Medical causation “is essentially within the domain of expert 
+testimony.”  The commissioner, as trier of fact, has a duty to weigh 
+the evidence and measure the credibility of witnesses.  The weight 
+given to expert testimony depends on the “accuracy of the facts 
+relied upon by the expert and other surrounding circumstances.”  
+Also, an expert’s opinion is not necessarily binding upon the 
+commissioner if the opinion is based on an incomplete history.  
+Ultimately, however, the determination of whether to accept or reject 
+
+ 
+11 
+an expert opinion is within the “peculiar province” of the 
+commissioner. 
+ 
+Id. at 845 (citations omitted). 
+ 
+The district court determined Dr. Davick “provided an inadequate threshold 
+for medical causation when he concluded that the consistency between [Lund’s] 
+work activities and a rotator cuff tear was the equivalent (‘therefore’) of those 
+activities being a substantial, material and probable cause of both tears.”  The court 
+found Dr. Davick’s opinion flawed because he “equated consistency with 
+probability” and he was “provided no other factual basis upon which to conclude 
+that [Lund’s] work activities were the cause of her injuries.”  From the decision, it 
+appears the district court read Dr. Davick’s opinion to mean the relationship 
+between the work activity and the bilateral rotator cuff tears was only a possibility.  
+Instead, the commissioner found Dr. Davick explained the causal connection 
+between the nature of the work—lifting heavy trays above shoulder height—with 
+the resulting rotator cuff tears and that it was “more probable than not, the cause 
+of both the right and left rotator cuff tears.”  See Doe v. Central Iowa Health 
+System, 766 N.W.2d 787, 793 (Iowa 2009) (requiring evidence of the theory of 
+causation to be “reasonably probable—not merely possible, and more probable 
+than any other hypothesis based on such evidence.”). 
+ 
+“The rule is that expert testimony indicating probability or likelihood of a 
+causal connection is sufficient to generate a question on causation.”  Hansen v. 
+Cent. Iowa Hosp. Corp., 686 N.W.2d 476, 485 (Iowa 2004).  The nature of medical 
+causation will depend on probability and is often answered through the opinions of 
+experts.  Pease, 807 N.W.2d at 845.  The substantial-evidence standard directs 
+
+ 
+12 
+the court “to determine whether substantial evidence, viewing the record as a 
+whole, supports the finding actually made.”  Id. (emphasis added).  “Evidence is 
+not insubstantial merely because different conclusions may be drawn from the 
+evidence.”  Id. 
+ 
+We are charged by statute and precedent to acknowledge “the 
+commissioner, as fact finder, is responsible for determining the weight to be given 
+expert testimony.”  Id. at 850.  And “[t]he commissioner is free to accept or reject 
+an expert’s opinion in whole or in part, particularly when relying on a conflicting 
+expert opinion.”  Id.  The commissioner considers the expert opinion “together with 
+all other evidence introduced bearing on the causal connection between the injury 
+and the disability.”  Sherman v. Pella Corp., 576 N.W.2d 312, 321 (Iowa 1998) 
+(emphasis added).  If an expert opinion alone cannot support a finding of 
+causation, the opinion can be coupled with other nonexpert testimony to support a 
+factual finding of causation.  Nicks v. Davenport Produce Co., 115 N.W.2d 812, 
+815 (Iowa 1962).  This is precisely what the commissioner did here.  The 
+commissioner considered the competing expert opinions, recognized the 
+weaknesses in each, and ultimately found Dr. Davick’s opinion to be most 
+consistent with Lund’s “consistent testimony and her work duties.” 
+ 
+We have set out the evidence in some detail above.  We find substantial 
+evidence supports the workers’ compensation commissioner’s decision, and the 
+district court erred in reversing the commissioner’s award.  The judgment entered 
+by the district court is reversed and the commissioner’s decision is reinstated. 
+ 
+REVERSED. 

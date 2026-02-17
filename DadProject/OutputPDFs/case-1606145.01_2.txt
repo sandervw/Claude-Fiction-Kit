@@ -1,0 +1,175 @@
+Case Number: 1606145.01
+Case Title:  ROSS, ERIC V. GRAIN MILLERS INC.
+Doc Type:    Decision - District Court
+Source:      Eric Ross - Ruling on Motion to Dismiss.pdf
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+GRAIN MILLERS, INC., 
+ 
+     Employer/Petitioner, 
+ 
+and 
+ 
+NATIONWIDE AGRIBUSINESS INS. 
+CO., 
+ 
+     Insurance Carrier/Petitioner, 
+ 
+vs. 
+ 
+ERIC ROSS, 
+ 
+     Respondent. 
+Case No. CVCV067252 
+ 
+ 
+RULING ON MOTION TO DISMISS 
+ 
+The above captioned matter came before the Court on July 26, 2024. Jeffrey Lanz 
+represented the Petitioners (“Grain Millers” and “Nationwide”). The Respondent, Eric Ross, 
+(“Ross”) was represented by Dennis McElwain and Jennifer Zupp. After hearing the arguments of 
+counsel and reviewing relevant case law and the court file, including filings by both the parties, 
+the Court now enters the following ruling.  
+I. 
+BACKGROUND FACTS. 
+On September 19, 2015, Ross sustained a work-related injury that resulted in the 
+amputation of his right leg. Cert Rec. 32. Following the injury, Ross received care at the Mayo 
+Clinic in Rochester, Minnesota where he underwent a number of procedures for treatment. Id. Part 
+of his treatment involved being fitted for a prosthetic limb that prosthetic company, Limb Lab, 
+provided. Id. From December 2023 to February 2024, Grain Millers, Nationwide, and Limb Lab 
+negotiated the costs associated with the prosthetic limb. Id at 32-33. Grain Millers and Nationwide 
+wanted to transfer Ross’ care to Hanger Clinic, but Ross insisted on staying with Limb Lab based 
+on the excellent level of care he was already receiving. Id at 33. Grain Millers and Nationwide 
+E-FILED                    CVCV067252 - 2024 SEP 24 03:57 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 6
+ELECTRONICALLY FILED     2024-Oct-10  11:58:20     DIVISION OF WORKERS' COMPENSATION
+
+ 
+ 
+committed to pay $25,000 for the prosthetic limb from Limb Lab, but maintained that they disputed 
+the fee pursuant to 876 Iowa Administrative Code 10-3 on the belief that the bill was excessive 
+and unnecessary based on a lower estimate from the Hanger Clinic. Id.  
+Ross petitioned the Iowa Worker’s Compensation Commission for a decision on alternate 
+medical care claiming that he had received prosthetic care at Limb Lab for over eight years and 
+that Grain Millers and Nationwide now refused to authorize further care. Id at 86. Ross requested 
+the Commission enter an order directing Grain Millers and Nationwide to continue authorization 
+of his prosthetic care with Limb Lab. Id. On March 8, 2024, the Iowa Worker’s Compensation 
+Commissioner granted Ross’ petition, finding that Grain Millers and Nationwide’s main issue with 
+Limb Lab was based solely on economic concerns. The Commissioner stated that while cost may 
+be a factor an employer may consider when selecting providers, in this case, cost should not be a 
+criterion in providing Ross with a replacement for his amputated right leg. Id at 35. Due to Ross’ 
+extensive treatment working with Limb Lab since 2015, the Commissioner found that a transfer to 
+another provider due to a slight cost difference was unnecessary and unreasonable. Id.  
+On May 14, 2024, Grain Millers and Nationwide filed a Petition for Judicial Review 
+contesting the Commissioner’s Alternate Medical Care Decision. On May 22, 2024, Ross filed a 
+motion to dismiss the petition asserting the issues Grain Miller and Nationwide raise are moot 
+because they agreed to pay for care after the Commissioner ordered to do so. Grain Millers and 
+Nationwide agree that the issue is moot but assert that the public importance exception to mootness 
+should apply because the problem is likely to recur in the future given Ross’ likely need for 
+additional further prosthetic needs. 
+ 
+ 
+E-FILED                    CVCV067252 - 2024 SEP 24 03:57 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 6
+
+ 
+ 
+II. 
+STANDARD OF REVIEW. 
+ 
+In determining whether to grant the motion to dismiss, a court views the well-pled facts of 
+the petition “in the light most favorable to the plaintiff with doubts resolved in that party's favor.” 
+Haupt v. Miller, 514 N.W.2d 905, 911 (Iowa 1994). A motion to dismiss must stand or fall on the 
+exclusive contents of the petition. Id. “A motion to dismiss admits the allegations of the petition 
+and waives any ambiguity or uncertainty in the petition.” Leuchtenmacher v. Farm Bureau Mutual 
+Ins., 460 N.W.2d 858, 861 (Iowa 1990). “The petition should be construed in a light most favorable 
+to the plaintiff with doubts resolved in that party's favor in ruling on the motion.” Sanford v. 
+Manternach, 601 N.W.2d 360, 363 (Iowa 1999). A motion to dismiss is sustainable only when it 
+appears to a certainty that the plaintiff would not be entitled to relief under any state of facts that 
+could be proved in support of the claims asserted. Haupt, 514 N.W.2d at 911 (citing Bindel v. Iowa 
+Mfg. Co., 197 N.W.2d 552, 555 (Iowa 1972)). Therefore, a motion to dismiss must be on legal 
+grounds. Robbins v. Heritage Acres, 578 N.W.2d 262, 264 (Iowa Ct. App. 1998). 
+III. 
+ANALYSIS. 
+The issue here is whether the court should apply the public importance exception to the 
+mootness doctrine in this case. “Courts exist to decide cases, not academic questions of law. For 
+this reason, a court will generally decline to hear a case when, because of changed circumstances, 
+the court's decision will no longer matter. This is known as the doctrine of mootness.” Riley Drive 
+Ent. I, Inc. v. Reynolds, 970 N.W.2d 289, 296 (Iowa 2022) (quoting Homan v. Branstad, 864 
+N.W.2d 321, 328 (Iowa 2015)). In limited circumstances, the court may hear the case when there 
+is a mootness exception. See Riley Drive Ent. I, Inc., 864 N.W.2d at 296. Even if an issue is moot, 
+an exception can apply – one such exception is the public importance exception. Id at 298. For the 
+public importance exception to apply, the court considers the following factors: 1) the private or 
+E-FILED                    CVCV067252 - 2024 SEP 24 03:57 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 6
+
+ 
+ 
+public nature of the issue; 2) the desirability of an authoritative adjudication to guide public 
+officials in their future conduct; 3) the likelihood of the recurrence of the issue; and 4) the 
+likelihood the issue will recur yet evade appellate review. Maghee v. State, 773 N.W.2d 228, 234 
+(Iowa 2009); H.D. Supply Mgmt. & N.H. Ins. Co. v. Smith, No. 23-1656, 2024 WL 4222878, *3 
+(Iowa Ct. App. Sept. 18, 2024). 
+Here, clearly, the issue is moot because Grain Millers and Nationwide have already paid 
+$25,000 to Limb Lab for Ross’ prosthetic limb, which he has already received. The appropriate 
+avenue to dispute a Commissioner’s decision is to file for judicial review, seek a stay under Iowa 
+Code section 17A and Iowa Code section 86.26(1) and post a bond. Rather, Grain Millers and 
+Nationwide chose to pay for the care ordered by the Commissioner in the alternate medical care 
+decision. Therefore, no matter the Court’s decision, it will not affect the outcome as care has been 
+completed, deeming the issue moot.  
+As for an exception to mootness, the Court finds that Grain Millers and Nationwide have 
+not demonstrated a sufficient need for the public importance exception to apply in this case. As to 
+the first factor, as noted by Ross, the issue in this case is a private one between an employer and 
+its insurance carrier, and an injured employee. While the Iowa Worker’s Compensation 
+Commission regularly hears and decides alternate medical care decisions, there is not public 
+interest at stake in this case. The first factor for the Court to consider has not been met.    
+The second factor has also not been met.  Iowa Code section 85.27 already provides that 
+employers must provide reasonably prompt medical care, and section 86.26 already provides that 
+if a party is aggrieved by agency action, a party may file an appeal and obtain a stay by posting a 
+bond. Iowa Code §§ 85.27 and 86.26. There is no need for this case to serve as a guide for public 
+officials in their future conduct.    
+E-FILED                    CVCV067252 - 2024 SEP 24 03:57 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 6
+
+ 
+ 
+Turning to the third factor, the issue is not likely to recur as employers, insurance carriers, 
+and providers regularly negotiate pricing when it comes to medical costs. In this case, Grain 
+Millers and Nationwide even negotiated to bring the price down significantly from what Limb Lab 
+was originally requesting. Cert. Rec. 64, 66. Antidotally, counsel for the parties acknowledged that 
+in their years of practice this had not been a reoccurring issue. The Court acknowledges counsel’s 
+comments are not controlling evidence; however, the Court does find it worth noting when 
+considering the likelihood of the reoccurrence of the issue presented by this case.    
+Finally, as to the fourth factor, employers and insurance carriers have avenues to pursue 
+judicial review that include appealing the Commissioner’s decision, seeking a stay, and posting a 
+bond while the district court decides the outcome of the case. In this case, Grain Millers and 
+Nationwide declined to pursue this course of action. The Court recognizes the morality of Grain 
+Millers and Nationwide’s decision and its benefit to Ross, however, the Court cannot ignore the 
+procedural avenue available to them. The fourth factor has not been met.     
+For all these reasons, Grain Millers and Nationwide fail to meet the four-part test of the 
+public importance exception to the mootness doctrine and the motion to dismiss the petition for 
+judicial review must be granted. 
+IV. 
+DISPOSITION. 
+IT IS THEREFORE ORDERED THAT Respondent’s Motion to Dismiss is 
+GRANTED.  
+IT IS FURTHER ORDERED THAT Petitioners’ Petition for Judicial Review is 
+DISMISSED.  Costs are assessed against Petitioners.    
+E-FILED                    CVCV067252 - 2024 SEP 24 03:57 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 6
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV067252
+GRAIN MILLERS INC ET AL VS ERIC ROSS
+Type:
+ORDER REGARDING DISMISSAL
+So Ordered
+Electronically signed on 2024-09-24 15:57:59
+E-FILED                    CVCV067252 - 2024 SEP 24 03:57 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 6

@@ -1,0 +1,1414 @@
+Case Number: 5060180
+Case Title:  YOUNG, CONNIE V. EAST PENN MFG CO., INC.
+Doc Type:    Decision - Deputy
+Source:      Young Connie-5060180d.pdf
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+CONNIE YOUNG, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                          File No. 5060180 
+EAST PENN MANUFACTURING CO.,   : 
+ 
+ 
+  :                      A R B I T R A T I O N  
+ 
+Employer, 
+  : 
+ 
+ 
+  :                           D E C I S I O N 
+and 
+ 
+  : 
+ 
+ 
+  : 
+SENTINEL INSURANCE CO., 
+  : 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  : 
+ 
+Defendants. 
+  :            Head Note Nos.:  1108, 1704, 1803 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Connie Young filed a petition in arbitration with the Iowa Division of Workers’ 
+Compensation (DWC) seeking workers’ compensation benefits from the defendants, 
+East Penn Manufacturing Company, (East Penn) and Sentinel Insurance Company 
+(Sentinel) for alleged injuries to both knees, both hands and arms, back, and secondary 
+mental. DWC conducted an arbitration hearing on April 19, 2019, in Des Moines, Iowa.  
+The evidentiary record was kept open until May 18, 2019. However, the parties 
+chose not to offer any additional evidence and jointly notified the undersigned of their 
+decision by email. The case was fully submitted to DWC when the parties filed briefs on 
+June 3, 2019. 
+EVIDENTIARY RECORD 
+As an initial matter, the admissibility of Pages 3 and 4 of Claimant’s Exhibit 4 
+must be ruled upon. Young offered into evidence at hearing Claimant’s Exhibit 4, which 
+consists of various correspondence. Page 3 is an email from Matthew Krasnick, East 
+Penn Workers’ Compensation Coordinator, and Tanisha Taylor, a claims representative 
+for Sedgwick Claims Management Services (Sedgwick), a third party administrator that 
+is not a party to this case. Page 4 is a fax from Kathy Frankowski, a nurse case 
+manager with Medicus Resources Management (Medicus), an entity that is not a party 
+to this case, to Iowa Ortho. 
+ELECTRONICALLY FILED     2020-Feb-28  15:46:22     DIVISION OF WORKERS' COMPENSATION
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 2 
+ 
+ 
+The defendants objected to Pages 3 and 4 of Claimant’s Exhibit 4. They argue 
+that the East Penn-Sedgwick email and Medicus-Iowa Ortho fax are documents created 
+in anticipation of litigation and therefore privileged under Iowa Rule of Civil Procedure 
+1.503(3). 
+Young disagrees. Young argues that administrative proceedings such as this 
+case are governed by evidentiary rules that are less strict than those that govern trials in 
+Iowa district courts. He further contends that Iowa Code section 85.27(2) expressly 
+waives any such privilege under which the fax and email might be covered. 
+With respect to the fax from Frankowski to Iowa Ortho that is Page 4 of 
+Claimant’s Exhibit 4, there is no basis upon which to conclude that Iowa Ortho was a 
+representative of either of the defendants or was participating in preparation of litigation 
+against Young. The facts show just the opposite. Iowa Ortho was not a representative of 
+the defendants, but a provider of care to Young that was not authorized by the 
+defendants.  
+Further, Frankowski’s fax to Iowa Ortho in substance was plainly intended to 
+inform Iowa Ortho that the defendants had denied a causal relationship between 
+Young’s work injury and the care she was seeking at Iowa Ortho so that Iowa Ortho 
+could provide care to Young and have her private insurance pay for it. Thus, Page 4 of 
+Claimant’s Exhibit 4 is not subject to the qualified privilege of Iowa Rule of Civil 
+Procedure 1.503(3). The fax was not created with an eye toward litigation, but an eye 
+toward how Iowa Ortho would bill and be paid for the care it provided Young. Page 4 of 
+Claimant’s Exhibit 4 is therefore admitted and a part of the record. 
+The email found at Page 3 of Claimant’s Exhibit 4 is between Sedgwick, the third 
+party administrator, and East Penn. There is little basis for concluding that the 
+correspondence was made with litigation in mind as opposed to East Penn’s operations. 
+Indeed, the defendants’ argument relies on conclusory assertion in support of this 
+argument. This is likely because the focus of the email was on determining what, if any, 
+permanent work restrictions Young had so that West Penn could assess whether it 
+could accommodate them on a permanent basis. Put otherwise, the focus was on 
+Young’s ability to perform her job at West Penn. Consequently, the email is not subject 
+to immunity from discovery (an immunity the defendants did not assert during discovery) 
+or admission as evidence in this case. Thus, Page 3 of Claimant’s Exhibit 4 is admitted 
+into evidence over the defendants’ objection. 
+Thus, the evidentiary record consists of: 
+ Testimony at hearing by Young; 
+ Joint Exhibits 1 through 6; 
+ Claimant’s Exhibits 2 through 11; and 
+ Defendants’ Exhibits A through G. 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 3 
+ 
+ 
+ISSUES 
+The parties jointly prepared a hearing report that defines the claims, defenses, 
+and issues submitted to the deputy commissioner who presides at the hearing. 876 IAC 
+4.19(f). The hearing report includes various stipulations, all of which were accepted and 
+are incorporated into this decision. The parties are bound by their stipulations, and this 
+decision will not address any factual or legal issues relating to them. 
+In addition to the stipulations, the parties identified the following issues in the 
+hearing report as being in dispute: 
+1) The admissibility of Pages 3 and 4 of Claimant’s Exhibit 4; 
+2) Whether Young is entitled to healing period or temporary disability benefits 
+from May 7, 2017, through September 16, 2017; 
+3) Whether Young is entitled to permanent disability benefits;  
+4) Whether the defendants are entitled to a credit against any disability benefits 
+paid. 
+5) Whether Young is entitled to an award of medical expenses; 
+6) Whether Young is entitled to reimbursement for an independent medical 
+examination (IME) under Iowa Code section 85.39; 
+7) Whether the defendants must pay a penalty under Iowa Code section 86.13; 
+and 
+8) Whether costs should be taxed against either party. 
+FINDINGS OF FACT 
+Young was 61 years of age at the time of hearing. (Hearing Transcript, p. 48) 
+She has a health history that includes carpal tunnel syndrome and release, diabetes, 
+and left-foot problems. (Jt. Ex. 5, pp. 1–19; Defendants’ Exhibit G, p. 1) 
+Young was a “C” student in high school. (Tr. p. 48) She graduated in 1975. (Tr. p. 
+48) After high school, Young attended Des Moines Area Community College (DMACC), 
+where she took secretarial classes before switching to data entry. (Tr. p. 48–9) Young 
+earned a data entry certificate from DMACC in or around 1977. (Tr. p. 49) 
+Young’s first job after graduating from high school was at a restaurant. (Tr. p. 50) 
+She cooked, served tables, and washed dishes. (Tr. p. 50) Young held that job for about 
+15 years before transitioning to truck driving. (Tr. p. 50) 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 4 
+ 
+ 
+In 1990, Young enrolled in truck-driving school. (Tr. p. 49) Young earned a 
+commercial driver’s license (CDL). (Tr. pp. 49–50) She worked as a cross-country truck 
+driver. (Tr. p. 50) Young had to unload her hauls herself while performing this job. (Tr. 
+pp. 50–51) She worked as a truck driver for about 16 years. (Tr. p. 51) 
+Young’s career as a truck driver ended after her husband became disabled. (Tr. 
+p. 51) She stayed home to care for him. (Tr. p. 51) Then Young got a job at a 
+convenience store, working the cash register and cooking food such as submarine 
+sandwiches and pizza. (Tr. p. 51) She worked at the convenience store for about one 
+year. (Tr. p. 51) 
+Young’s next job was at a restaurant. (Tr. p. 51) She cooked and served tables. 
+(Tr. p. 52) Young held this job for two or three years before going to work at East Penn. 
+(Tr. p. 52) 
+East Penn manufactures car batteries. (Tr. p. 52) Young underwent a pre-
+employment physical before starting her job at East Penn, which she passed. (Tr. p. 53) 
+Young worked 40 hours per week at East Penn. (Tr. p. 53) East Penn provided health 
+insurance and a 401(k) retirement plan. (Tr. p. 53)  
+Young worked as part of a production line, putting labels and handles on 
+batteries and palletizing them for shipment. (Tr. p. 52) On August 8, 2016, Young was 
+making boxes. (Joint Exhibit 1, p. 1) She walked around the cart onto which they place 
+boxes and caught her right leg on the cart. (Jt. Ex.1, p. 1) Young tripped on a cart and 
+fell. (Tr. p. 53) Young described her fall multiple times from the date of injury through the 
+date of hearing: 
+ August 9, 2016:  Young told Jennifer Angstadt, RN, who conducted an 
+intake for East Penn, that “she fell to both of her knees” and “bumped her 
+forehead on the table as she fell to the ground.” (Jt. Ex. 1, p. 1) 
+ August 10, 2016:  Nicole Ruble, PA-C, examined Young at South Central 
+Iowa Medical Clinic (South Central) and described the fall. Ruble does not 
+note any twisting of Young’s back when she fell or that Young complained 
+of any hip or back pain during the visit. (Jt. Ex. 2, p. 1) 
+ August 22, 2016:  Young complained to Ruble that “walking the way that 
+she has been has caused some right hip pain.” (Jt. Ex. 2, p. 4) 
+ August 23, 2016:  Lauren Plum, P.T., performed a physical therapy intake 
+examination at Wayne County Hospital of Young. Plum’s notes state 
+Young “reports she tripped over a cart at work and landed on her hands 
+and knees, also hitting her head on a cabinet in front of her.” (Jt. Ex. 3, p. 
+7) Plum does not document that Young described twisting her back in the 
+fall. (Jt. Ex. 3, p. 7) However, Plum does note that Young “[a]lso reports 
+pain in her [right] hip and cannot lie on [right] side; [Young] thinks this may 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 5 
+ 
+ 
+be due to wearing the immobilizer and walking differently.” (Jt. Ex. 3, p. 7) 
+Thus, Young made no mention of twisting her back when she fell to Plum 
+during the intake examination, but expressly tied her complaints of right 
+hip pain to wearing an immobilizer and walking differently. (Jt. Ex. 3, p. 7) 
+ October 13, 2016: Shehada Homedan, M.D. examined Young and 
+described in a consultation report thusly: “She injured her knee at work 
+when she fell directly on her left knee.” (Jt. Ex. 3, pp. 15) Dr. Homedan did 
+not document in the report any notes relating to back or hip pain 
+complaints by Young. (See Jt. Ex. 3, pp. 15–16) 
+ December 15, 2016:  Richard Goding, M.D., examines Young and in his 
+consultation report, notes that she “states she fell on her knee in August 
+on both knees and she has had left vs. right pain.” (Jt. Ex. 3, p. 26) Dr. 
+Goding makes no note of any twisting of Young’s back during the fall. 
+(See Jt. Ex. 3, pp. 26–27) 
+ February 10, 2017: William Jacobson, M.D., examined Young for a 
+defense independent medical examination (IME) and recounts her fall as 
+follows: “She sustained an injury to her knees in August 2016 after tripping 
+over a cart. She reports landing directly on both knees. She reports having 
+bruising of both knees.” (Defendants’ Exhibit G, p. 1) 
+ November 2, 2018:  In an answer to an interrogatory, Young states she 
+“was working on the ‘finishing line’ and was moving boxes and tripped 
+over a cart and fell onto the concrete floor on both knees. This caused her 
+to injure both knees and her low back.” (Def. Ex. H, p. 3) 
+ November 21, 2018:  After meeting and examining Young, Sunil Bansal, 
+M.D., describes her injury as follows:  “As she was walking, she tripped 
+over a cart that was used to stack boxes on. She fell straight forward onto 
+her knees. She also hit her hand on the counter and twisted her back.” 
+Claimant’s Exhibit 2, p. 7) 
+ April 19, 2019:  Young testified that she fell forward and landed on her 
+knees without mentioning that she twisted her back. (Tr. p. 53) Young did 
+not state in her sworn testimony that she twisted her back when she fell. 
+(See generally Tr.) 
+Thus, there is one instance in which Young stated that she also twisted her back 
+in the fall. Young shared this detail with Dr. Bansal during his examination of the 
+claimant, who included the additional detail in his report and relied on it at least in part 
+for his causation opinion in the report. Young’s description of her fall to Dr. Bansal 
+stands in contrast to her consistent description to other medical professionals and in 
+litigation.  
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 6 
+ 
+ 
+Young consistently described her fall from the day after it occurred and in her 
+testimony at hearing as her falling forward onto both of her knees, without mentioning a 
+twist of her back. While not identical, Young described her fall at work to Angstadt, 
+Ruble, Dr. Homedan, Dr. Goding, and Dr. Jacobson in similar fashion. Their recordings 
+of how she fell do not include any mention of her twisting her back in the fall. Further, 
+while Young’s answer to Interrogatory 3 states that she injured her low back in the fall, 
+the answer’s description of the fall does not describe twisting of the back (See Def. Ex. 
+H, p. 3) And Young’s sworn testimony at hearing contained no mention of twisting her 
+back when she fell on August 8, 2016. (Tr. p. 53)  
+Dr. Bansal’s report is thus an outlier. Dr. Bansal is the only medical professional 
+who documented that Young twisted her back when she fell while working at East Penn. 
+Young’s statement to Angstadt on the day after the fall, which Young by and large 
+adhered to throughout her treatment with various providers (e.g., Ruble, Plum, Dr. 
+Homedan, and Dr. Goding), during her IME with Dr. Jacobson, and in her answers to 
+interrogatories and sworn hearing testimony is more credible than her statement to Dr. 
+Bansal because of the following factors: 
+ The closeness in time to the fall, which means Young’s recollection of 
+what happened was better when speaking with doctors shortly after the 
+fall than with Dr. Bansal over a year afterward; 
+ Young’s interest in receiving effective care for her injuries; and  
+ Young being under oath while testifying at hearing.  
+In contrast, Young’s statement to Dr. Bansal that she twisted her back occurred 
+about 15 months after the fall. Dr. Bansal was not providing care in the traditional sense 
+to Young, but performing a one-time IME. Moreover, Young was not under oath when 
+speaking with Dr. Bansal. For these reasons, the statement in Dr. Bansal’s report that 
+Young twisted her back when she fell while working at East Penn on August 8, 2016, is 
+not credible. Young’s recount to Angstadt, Ruble, Plum, Dr. Homedan, Dr. Goding, and 
+Dr. Jacobson, which is in line with her interrogatory answer and hearing testimony, is 
+more credible.  
+Moreover, Young did not complain of pain in her lower back or hip when she saw 
+Angstadt on August 8, 2016. (See Jt. Ex. 1, p. 1) Nor did she share any such complaints 
+in her initial visit with Ruble on August 10, 2016. (See Jt. Ex. 2, pp. 1–3) Young did not 
+complain of pain in that area of her body until August 22, 2016, when she complained to 
+Ruble of right-hip pain and specifically tied it to walking differently. (Ex. 2, p. 4) Thus, 
+when Young first shared with a care provider that she was experiencing right-hip pain, 
+she did not link her right-hip pain to her fall at East Penn. (See Ex. 2, p. 4) 
+Young’s description of how she fell changed when she saw Dr. Bansal. Young 
+did not complain of hip or back pain in the immediate aftermath of the fall. And when 
+Young first complained about hip pain, she expressly linked it to the way she had been 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 7 
+ 
+ 
+walking. The weight of the evidence therefore establishes that Young’s fall was forward, 
+onto both of her knees, and without twisting her back in the fall.  
+As noted above, Angstadt performed an intake examination of Young on August 
+9, 2016. (Jt. Ex. 1, p. 1) Young informed Angstadt of bruising on both knees. (Jt. Ex. 1, 
+p. 1) She reported a small abrasion on and slight swelling in her left knee. (Jt. Ex. 1, p. 
+1) Angstadt noted that Young rated her left knee pain at a 10 when transitioning from 
+sitting to standing. (Jt. Ex. 1, p. 1) Young told Angstadt that she experienced minimal 
+pain when standing because “she places more weight onto her [right] leg.” (Jt. Ex. 1, p. 
+1) 
+On August 10, 2019, East Penn directed Young to receive care at South Central, 
+where Ruble examined Young. (Jt. Ex. 2, p. 1) Ruble noted “moderate, sharp left knee 
+pain” and “feelings of instability and the knee ‘giving way.’” (Jt. Ex. 2, p. 1) Ruble 
+provided Young with a knee immobilizer. (Jt. Ex. 2, p. 1) Ruble assigned Young work 
+restrictions on standing and walking “as that incites the pain,” for two weeks. (Jt. Ex. 2, 
+p. 3) Young’s light duty was to perform seated work only. (Jt. Ex. 2, p. 2)  
+Young had an x-ray performed on her left leg that showed no fracture. (Jt. Ex. 3, 
+p. 6) In a follow-up note by East Penn dated August 10, 2019, Kathy Hoffman, RN, BS, 
+noted that sitting does not bother Young, “but walking and steps bother her a lot.” (Jt. 
+Ex. 1, p. 1) 
+Young returned to South Central on August 22, 2016, for a follow-up examination 
+with Ruble. (Jt. Ex. 2, p. 4) She had treated with Tylenol and light-duty work. (Jt. Ex. 2, 
+p. 4) But Young complained that her symptoms had worsened. (Jt. Ex. 2, p. 4) She 
+informed Ruble that she continued to experience left-knee pain and left-knee swelling. 
+(Jt. Ex. 2, p. 4) According to Ruble’s notes, Young reported that “walking the way that 
+she has been has caused some right[-]hip pain.” (Jt. Ex. 2, p. 4) At hearing, Young 
+explained that she was experiencing pain in her hip and back from the low back into the 
+area of her buttocks, while trying to sleep, so she decided to talk to Ruble about it. (Tr. 
+pp. 55–56) 
+Ruble performed a physical examination of Young’s left knee. (Jt. Ex. 2, p. 5) 
+Ruble found “tenderness to palpation present of the lateral and medial aspects of the 
+left knee, pain with motion present, knee joint crepitus noted bilaterally, joint stability 
+WNL but pain present with varus and valgus stress to the left knee joint, [and] mild 
+swelling noted of the anterior knee.” (Jt. Ex. 2, p. 5) Ruble decided to continue 
+conservative treatment in the form of light duty and starting physical therapy in two 
+weeks. (Jt. Ex. 2, p. 6) Ruble assigned work restrictions of no walking or standing and 
+no work requiring prolonged kneeling, squatting, stooping, or climbing. (Jt. Ex. 2, p. 7) 
+Moreover, under Ruble’s work restrictions, Young could sit, stand, and walk as needed. 
+(Jt. Ex. 2, p. 7) 
+As discussed above, Plum performed an initial examination of Young for physical 
+therapy intake at Wayne County Hospital on August 23, 2016. (Jt. Ex. 3, pp. 7, 10) 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 8 
+ 
+ 
+Young shared that her whole left knee hurt initially but now the pain was primarily 
+located in the front of the left knee and on either side of her kneecap. (Jt. Ex. 3, p. 7) 
+Moreover, Young complained of right-hip pain that prevented her from lying down on 
+her right side that she thinks may be due to wearing the immobilizer and walking 
+differently. (Jt. Ex. 3, p. 7) The examination notes state Young’s gait was normal at the 
+time. (Jt. Ex. 3, p. 8)  
+Young went to Community Health Centers of Southern Iowa on August 29, 2016. 
+(Jt. Ex. 5, p. 20) Mark Easter, D.O., examined Young. (Jt. Ex. 5, p. 24) Dr. Easter noted 
+that Young was experiencing aching pain all over that was worse in the left arm and leg. 
+(Jt. Ex. 5, p. 20) Her symptoms included decreased mobility, joint instability, joint 
+tenderness, limping, nocturnal awakening, nocturnal pain, and weakness. (Jt. Ex. 5, p. 
+20) Young’s pain was aggravated by bending, climbing (and descending) stairs, 
+movement, and walking. (Jt. Ex. 5, p. 20)  
+Plum discharged Young from physical therapy on August 30, 2019. (Jt. Ex. 3, p. 
+11) In Plum’s discharge summary, she noted that Young reported worsening pain in 
+both knees and the right hip at night. (Jt. Ex. 3, p. 11) Young complained to Plum that 
+she was “unable to tolerate lying on her side to sleep, particularly lying on her [right] 
+side.” (Jt. Ex. 3, p. 11) Plum further documents worsening range of motion in Young’s 
+left knee and increasing tenderness to palpation in the presence of normal strength. (Jt. 
+Ex. 3, p. 13) She states that at the time of the discharge, Young was unable to lift and 
+carry objects or negotiate stairs with reciprocal gait. (Jt. Ex. 3, p. 11) 
+Ruble next saw Young on September 7, 2019. (Jt. Ex. 2, p. 8) Young again 
+complained to Ruble of worsened symptoms. (Jt. Ex. 2, p. 8) Her left-knee pain 
+continued and she was also experiencing right-hip pain when she laid on it at night as 
+well as left elbow pain, which she attributed to the light-duty work East Penn had 
+assigned her. (Jt. Ex. 2, p. 8) 
+Ruble performed a physical examination of Young’s left and right legs. Ruble’s 
+exam of the left leg found tenderness to palpation present of the lateral aspect of the 
+knee, no knee joint crepitus, knee pain with motion and no effusion. (Jt. Ex. 2, p. 8) The 
+exam of Young’s right leg found “tenderness to palpation present of the lateral aspect of 
+the hip, otherwise no tenderness to palpation present, no pain with motion present.” (Jt. 
+Ex. 2, p. 9) Ruble suspected that Young’s hip pain was “due to change in gait since she 
+hurt her knee” and felt that it “should improve” when her left knee is better. (Jt. Ex. 2, p. 
+10) 
+Ruble concluded that Young’s condition was worsening with conservative 
+treatment. (Jt. Ex. 2, p. 10) She recommended magnetic resonance imaging (MRI) and 
+referral to an orthopedist. (Jt. Ex. 2, p. 10) Ruble again prescribed light duty. (Jt. Ex. 2, 
+p. 10) 
+On September 24, 2016, Young underwent an MRI with Kraig Kirkpatrick, M.D. 
+(Jt. Ex. 3, p. 14) Dr. Kirkpatrick noted the following impression: 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 9 
+ 
+ 
+Grade I to II chondromalacia along the lateral aspect of the median 
+patellar ridge with underlying subchondral edema. There is a 2 x 4 mm 
+joint body in the posterior joint space (image #17 of series 3). The menisci 
+and cruciate ligaments are intact. 
+(Jt. Ex. 3, p. 14) 
+As discussed above, on October 13, 2016, Dr. Homedan examined Young. (Jt. 
+Ex. 3, pp. 15–16) Dr. Homedan notes that Young reported “moderate pain on the outer 
+side of the knee associated with swelling, grinding, popping, catching and stiffness.” (Jt. 
+Ex. 3, p. 15) Young stated that two weeks of physical therapy made her feel worse. (Jt. 
+Ex. 3, p. 15) Dr. Homedan reviewed the x-rays and MRI of Young’s left knee and “they 
+showed mild degenerative changes with a small loose piece of bone on the lateral 
+aspect of the femoral condyle adjacent to the lateral patellar facet and edema in the 
+knee cap.” (Jt. Ex. 3, p. 15) Dr. Homedan discussed Young’s various treatment options 
+with her, including conservative treatment and surgery. (Jt. Ex. 3, p. 16) Young elected 
+left-knee arthroscopy and debridement. (Jt. Ex. 3, p. 16–17)  
+On October 17, 2016, Young returned to Community Health to see Dr. Easter. 
+(Jt. Ex. 5, p. 25) Young complained of aching and sharp pain in her left wrist that 
+radiated to her left hand. (Jt. Ex. 5, p. 25) Lifting and movement made the pain worse. 
+(Jt. Ex. 5, p. 25) She told Dr. Easter that she woke up the day before with a very sore 
+left hand and left wrist, but denied an injury of any kind. (Jt. Ex. 5, p. 25) Her symptoms 
+included decreased mobility, joint instability, joint tenderness, nocturnal awakening, 
+nocturnal pain, swelling, and weakness. (Jt. Ex. 5, pp. 25, 27)  
+Dr. Easter diagnosed Young’s left wrist as “sprain/overuse.” (Jt. Ex. 5, p. 28) He 
+identified her left-wrist injury as a “[w]ork-related condition.” (Jt. Ex. 5, p. 28) Dr. Easter 
+found the x-ray of Young’s left wrist normal “except for minimal spurring bone distal to 
+navicular (multangular?).” (Jt. Ex. 5, p. 28) 
+Young returned to South Central on October 19, 2016. (Jt. Ex. 2, p. 11) This 
+time, Young complained to Ruble of right-knee pain. (Jt. Ex. 2, p. 11) Ruble noted: 
+Patient fell at work a few months ago and injured her left knee. Shortly 
+after the fall her right knee started hurting which she attributed to favoring 
+the left side but the right side is still very painful. She reports that it aches 
+at night even when she is not using it. She continues to be on light duty at 
+work and will be having a foreign body removed from her left knee in a few 
+weeks. 
+(Jt. Ex. 2, p. 11) Ruble ordered an x-ray and referred Young to Dr. Homedan for 
+evaluation. (Jt. Ex. 2, p. 13) 
+Later on October 19, 2016, Young received an x-ray of her right knee at Mercy 
+Medical Imaging. (Jt. Ex. 3, p. 19) Dr. Kirkpatrick interpreted the x-ray. (Jt. Ex. 3, p. 19) 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 10 
+ 
+ 
+Under “History,” Dr. Kirkpatrick notes, “Pain following a fall.” (Jt. Ex. 3, p. 19). Dr. 
+Kirkpatrick finds “a 6 mm well-corticated ossicle projecting over the lateral aspect of the 
+patellofemoral joint on the sunrise vide, likely a small joint body in the lateral recess or 
+sequela of prior trauma to the insertion of the lateral retinaculum.” (Jt. Ex. 3, p. 19) 
+Young saw Dr. Homedan regarding her right-knee pain on October 20, 2016. (Jt. 
+Ex. 3, p. 20) Dr. Homedan notes that Young’s right-knee pain “started at the time when 
+she injured her left knee.” (Jt. Ex. 3, p. 20) He notes that the pain “got worse over the 
+past week, associated with popping, grinding and catching, swelling and stiffness.” (Jt. 
+Ex. 3, p. 20) On examination, Dr. Homedan found “mild effusion” with “tenderness over 
+the medial and lateral joint line, tenderness over the lateral patellar facet.” (Jt. Ex. 3, p. 
+20) Dr. Homedan and Young discussed conservative treatment and a possible MRI for 
+her right knee; ultimately, they decided to wait until she is done with her left knee before 
+choosing how to proceed with care for her right knee. (Jt. Ex. 3, p. 20) 
+Young testified at hearing that she had to perform seated work due to the work 
+restrictions she received for her knee injury. (Tr. p. 56) She explained that a rope handle 
+went on some batteries. (Tr. p. 56) East Penn directed Young to perform that function. 
+(Tr. p. 56) Throughout her workday, Young would tie one end of the rope before putting 
+them on the battery. (Tr. p. 56) This caused Young’s hand to hurt, so she asked East 
+Penn if she could perform other duties so she was not tying the ropes all day, every 
+day. (Tr. p. 56–57) Sometime thereafter, she was getting ready to go to work and 
+attempted to fasten her jeans when a tendon in her hand pulled and it hurt really bad. 
+(Tr. p. 57) 
+Young saw Ruble at South Central on October 26, 2016, because of left wrist 
+pain. (Jt. Ex. 2, p. 14) According to Ruble’s notes, the pain developed the day prior and 
+“was acute in onset.” (Jt. Ex. 2, p. 14) Young shared with Ruble that even though she 
+fell on her left wrist on August 8, 2016, it was not really bothering her until the day 
+before. (Jt. Ex. 2, p. 14). She stated that when she was buttoning her pants at home on 
+October 25, 2019, she felt and heard a pop and had pain in her wrist. (Jt. Ex. 2, p. 14) 
+Ruble diagnosed Young with a left wrist “sprain, overuse injury.” (Jt. Ex. 2, p. 17) 
+South Central provided Young with a wrist splint. (Jt. Ex. 2, p. 16) Ruble released 
+Young to return to work with the following restrictions: 
+ No carrying over 10 pounds with left hand; 
+ Minimal walking and standing; 
+ Minimal use of left hand; and 
+ Continue the previous restrictions from knee injury.  
+(Jt. Ex. 2, p. 17) Ruble referred Young to Dr. Homedan for the left-wrist injury because 
+she was already treating with him for her left-knee injury. (Jt. Ex. 2, p. 16) 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 11 
+ 
+ 
+After seeing Ruble on October 26, 2016, Young underwent x-rays of her left 
+wrist. (Jt. Ex. 3, p. 21) Mark Johnson, M.D., reviewed Young’s left-wrist x-rays. (Jt. Ex. 
+3, p. 21) He found no acute fracture and that the carpal rows were anatomically aligned. 
+(Jt. Ex. 3, p. 21) 
+On October 27, 2016, Young visited Ruble at South Central for a consultation at 
+the request of Dr. Homedan before her scheduled left-knee arthroscopy. (Jt. Ex. 2, p. 
+18) Young had “no additional problems to discuss” with Ruble during the visit. (Jt. Ex. 2, 
+p. 18) Ruble found Young a reasonable candidate for the arthroscopy. (Jt. Ex. 2, p. 21) 
+Dr. Homedan performed surgery on Young on November 3, 2016. (Jt. Ex. 3, p. 
+22) In the report of operation, Dr. Homedan describes the procedure as a left knee 
+arthroscopic loose body excision and chondroplasty. (Jt. Ex. 3, p. 22)  
+Young saw Ruble at South Central on November 28, 2016. (Jt. Ex. 2, p. 22) 
+Young told Ruble that her symptoms had not improved. (Jt. Ex. 2, p. 22) She 
+complained of continued bilateral knee pain and left wrist pain. (Jt. Ex. 2, p. 22) 
+Although Young had been released to return to work without restriction, she informed 
+Ruble that she had not done so because of her bilateral knee pain and left wrist pain. 
+(Jt. Ex. 2, p. 22)  
+Ruble examined Young. (Jt. Ex. 2, p. 24) Ruble noted “right knee joint crepitus 
+present,” with normal range of motion and joint stability, and “tenderness to palpation 
+present of the distal patellar tendon and the lateral aspect of the knee joint line.” (Jt. Ex. 
+2, p. 24) With respect to Young’s surgically repaired left knee, Ruble noted the surgical 
+wounds were healing, no joint crepitus, “tenderness to palpation present of the distal 
+patellar tendon and the lateral aspect of the knee joint line.” (Jt. Ex. 2, p. 24) 
+Young asked for a referral to a different specialist because the surgery had not 
+resolved her left-knee pain and Dr. Homedan had not treated her right knee or left wrist. 
+(Jt. Ex. 2, p. 22) Ruble referred Young for an orthopedic consultation with Dr. Goding. 
+(Jt. Ex. 2, pp. 24) The diagnostic arthroscopy found: 
+ Grade 4 changes in the patellofemoral articulation;  
+ Grade 2 and 3 changes in the medial compartment;  
+ Loose osteophyte on the lateral edge of the lateral patellar facet; and  
+ Intact medial meniscus, lateral meniscus, and ACL. (Jt. Ex. 3, p. 22) 
+Dr. Homedan removed the loose osteophyte and performed chondroplasty. (Jt. Ex. 3, p. 
+22)  
+Dr. Homedan saw Young for a follow-up examination on November 10, 2016. (Jt. 
+Ex. 3, p. 24) With respect to Young’s left knee, Dr. Homedan discussed gradually 
+increasing her activities and returning to full-duty work in the next couple of weeks. (Jt. 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 12 
+ 
+ 
+Ex. 3, p. 24) Young also presented for evaluation of “left wrist pain for the past couple of 
+months.” (Jt. Ex. 3, p. 24) Dr. Homedan noted that Young’s left-wrist pain was 
+“aggravated by repetitive motion mainly on the base of her thumb, radiates to her 
+forearm, associated with stiffness and weakness.” (Jt. Ex. 3, p. 24) Dr. Homedan 
+recommended continuing conservative treatment. (Jt. Ex. 3, p. 24) Ultimately, Young 
+decided to continue wearing a wrist brace, start physical therapy, and wait on receiving 
+a Cortisone injection for the time being. (Jt. Ex. 3, p. 24; Tr. p. 59) 
+On November 28, 2019, Young returned to see Ruble at South Central. (Jt. Ex. 
+2, p. 22) Young complained of continued pain in both knees and her left wrist. (Jt. Ex. 2, 
+p. 22) Despite being released to return to work, Young told Ruble that she had been 
+unable to do so because of the pain. (Jt. Ex. 2, p. 22) She asked to see a different 
+specialist than Dr. Homedan because the surgery had not helped the pain in her left 
+knee and Dr. Homedan “did not address her other knee or her wrist.” (Jt. Ex. 2, p. 22; 
+Tr. p. 60) Ruble noted that the defendants had denied liability for Young’s left wrist 
+injury because it had manifested itself while she was at home, getting dressed. (Jt. Ex. 
+2, p. 22) 
+Ruble authored and signed a letter dated November 28, 2016, “To whom it may 
+concern.” (Jt. Ex. 2, p. 26) Ruble did not address the letter to a specific person or entity. 
+(Jt. Ex. 2, p. 26) The letter states that South Central saw Young “and is unable to work 
+due to continuing knee and wrist pain.” (Jt. Ex. 2, p. 26) It states that Young had been 
+scheduled for an appointment with Dr. Goding, on December 15, 2016, and excused 
+her from work until December 16, 2016. (Jt. Ex. 2, p. 26) Ruble states in the letter that, 
+“After he sees her he will need to take over this and decide if/when she needs to be off 
+work.” (Jt. Ex. 2, p. 26)   
+Dr. Goding saw Young on December 15, 2016, for bilateral knee pain. (Jt. Ex. 3, 
+p. 26) Young told Dr. Goding that she had moderate to severe pain after the fall at work. 
+(Jt. Ex. 3, p. 26) Anti-inflammatory medications and rest relieved Young’s pain 
+somewhat, but all weight-bearing activities exacerbated it. (Jt. Ex. 3, p. 26) 
+Dr. Goding opined that Young was suffering from osteoarthritis. (Jt. Ex. 3, p. 26) 
+He described the plan as continuing conservative treatment. (Jt. Ex. 3, p. 26) Dr. 
+Goding noted that Young would return if she wished to discuss surgery. (Jt. Ex. 3, p. 26) 
+Nonetheless, a general orthopedic pre-op note dated the same day identified a planned 
+total right knee replacement surgery for Young, planned for January 2017. (Jt. Ex. 3, pp. 
+28–29) Dr. Goding had planned on performing total knee replacement surgery on both 
+of Young’s knees. (Tr. p. 61) 
+On January 12, 2017, Young saw Ruble at South Central for a preoperative 
+consultation requested by Dr. Goding for proposed right total knee replacement. (Jt. Ex. 
+2, p. 27) Young had no additional complaints that day. (Jt. Ex. 2, p. 27) Ruble deemed 
+Young a reasonable candidate for the surgery. (Jt. Ex. 2, p. 30) 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 13 
+ 
+ 
+Young testified during the hearing that, “Right after [Dr.] Goding said that he 
+wanted to do total knee replacements, they pulled me in the office, gave me the papers 
+to sign, like you have to sign these.” (Tr. p. 66) But the evidence in the record does not 
+support her testimony. There is no indication that Young signed any short-term or long-
+term disability applications from December of 2016 through April of 2017. 
+On February 10, 2017, William Jacobson, M.D., performed an independent 
+medical examination (IME) of Young at Capital Orthopaedics. (Def. Ex. G, pp. 1) Capital 
+Orthopaedics explained to Young that it was an IME, Dr. Jacobson would be providing a 
+report to the defendants, and Dr. Jacobson and Young “were not establishing the 
+traditional physician-patient relationship.” (Def. Ex. G, p. 1) This was the only time Dr. 
+Jacobson examined Young. 
+Dr. Jacobson reviewed records dated from August 10, 2016, to January 12, 
+2017, from South Central, Wayne County Hospital Imaging, the operative note from Dr. 
+Homedan, and therapy notes from Wayne County Hospital. (Def. Ex. G, p. 2) Dr. 
+Jacobson did not review Dr. Homedan’s office notes or notes from Dr. Goding. (Def. Ex. 
+G, p. 2) Dr. Jacobson also performed a physical examination of Young. (Def. Ex. G, p. 
+2) Dr. Jacobson opined that Young had a normal gait. (Def. Ex. G, p. 2) 
+Dr. Jacobson answered questions about whether Young’s injuries were related to 
+her fall while on the job with East Penn on August 8, 2016. (Def. Ex. G, p. 3) Dr. 
+Jacobson concluded that there was a causal relationship between Young’s fall while 
+working for East Penn and her left-knee injury, right-knee injury, and left-wrist injury. 
+(Def. Ex. G, pp. 3, 5)  
+Dr. Jacobson found that Young had “no symptoms in regards to her left thumb 
+and wrist.” (Def. Ex. G, p. 2) He diagnosed Young with “left wrist tendinitis that has 
+resolved.” (Def. Ex. G, pp. 4–5) Dr. Jacobson concluded that Young had reached MMI 
+with respect to the work injury of her left wrist on December 30, 2016, and rated her as 
+a zero percent impairment, using the AMA Guides to the Evaluation of Permanent 
+Impairment, Fifth Edition (AMA Guides). (Def. Ex. G, p. 6) Dr. Jacobson opined that 
+Young could return to work with no restrictions relating to her left wrist. (Ex. G., p. 6) 
+With respect to the injuries to Young’s knees, Dr. Jacobson concluded that she 
+had “some mild underlying arthritis, which was likely pre-existing,” and temporarily 
+aggravated by the fall at work. (Def. Ex. G, p. 4) “The left knee x-rays show minimal 
+degenerative changes. Her complaints of pain are more severe than I would expect; 
+however, her arthroscopy by Dr. Homedan indicates she has significant chondromalacia 
+of the patellofemoral joint and medial compartment, so I do believe she has left knee 
+pain.” (Ex. G., p. 5) Dr. Jacobson also opined that “objective findings do not support her 
+right knee subjective complaints based on her x-rays.” (Ex. G. p. 5) 
+ 
+ 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 14 
+ 
+ 
+On the question of future treatment for Young’s knees, Dr. Jacobson opined: 
+I think it is reasonable to consider viscosupplementation injections as a 
+one-time treatment. This would treat the temporary aggravation of the 
+underlying arthritis as a result of the falls for both knees. After the first 
+injection, if she continued to have knee complaints and pain due to the 
+underlying arthritis, then I would opine that these would be covered under 
+her private insurance and not a result of the work injury. I would describe 
+the work injury as a temporary aggravation. I would not recommend any 
+further diagnostic tests.  
+(Def. Ex. G, p. 4) In addition to the one-time viscosupplementation injections in her 
+knees, he recommended physical therapy a couple of times per week for four to six 
+weeks to treat Young’s bilateral knee pain. (Def. Ex. G, p. 4)  
+Dr. Jacobson concluded that Young was not at MMI for her knee injuries. (Def. 
+Ex. G, p. 4) Consequently, he declined to give a rating of permanent impairment. (Def. 
+Ex. G, p. 4) Dr. Jacobson further opined that he “would not anticipate any impairment, 
+however.” (Def. Ex. G, p. 4) He stated that he “would anticipate MMI for the knees being 
+approximately six to eight weeks after the injections and therapy.” (Def. Ex. G, p. 7) Dr. 
+Jacobson classified the degree of disability Young had with respect to her knees as 
+“mild.” (Def. Ex. G, p. 5) 
+Dr. Jacobson gave Young work restrictions in the form of avoiding kneeling, 
+squatting, heavy lifting over 20 pounds, ladders, and uneven ground. (Def. Ex. G, p. 5) 
+In a letter dated March 10, 2017, East Penn offered Young work within the work 
+restrictions prescribed by Dr. Jacobson and during the time of her old shift. (Cl. Ex. 4, p. 
+1)  
+The defendants refused to authorize the total knee replacement surgery on 
+Young’s right knee that was scheduled with Dr. Goding. (Tr. pp. 61–62) The hospital 
+called Young and notified her that the surgery with Dr. Goding was cancelled. (Tr. p. 62) 
+No one informed Young of the reason why the defendants had refused to authorize the 
+total knee replacement procedure with Dr. Goding. (Tr. pp. 62–63) As of the date of 
+hearing, Young did not know the reason. (Tr. pp. 62–64) 
+Ruble again examined Young at South Central on April 3, 2017, for an 
+employment physical examination requested by East Penn. (Jt. Ex. 2, p. 31; Tr. p. 64) 
+Ruble noted that Young complained of bilateral knee pain and feelings of instability. (Jt. 
+Ex. 2, p. 31) Young shared with Ruble that East Penn had her see an independent 
+physician who recommended that she return to work with restrictions. (Jt. Ex. 2, p. 31) 
+Young informed Ruble that her left wrist pain had resolved. (Jt. Ex. 2, p. 31) She also 
+stated “that she is certain that when she returns to work the left wrist pain will return but 
+she hasn’t had any since she was off work.” (Jt. Ex. 2, p. 31) 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 15 
+ 
+ 
+Ruble examined Young. (Jt. Ex. 2, p. 33) With respect to the left lower extremity, 
+she noted “tenderness to palpation present and pain with motion present at the anterior 
+aspect of the knee.” (Jt. Ex. 2, p. 33) For the right lower extremity, Ruble noted “knee 
+joint tenderness to palpation and pain with motion present along the anterior aspect of 
+the knee.” (Jt. Ex. 2, p. 33) 
+Ruble planned to have Young follow up with the orthopedic department to 
+discuss joint injections in her knees. (Jt. Ex. 2, p. 33) She also planned a referral to 
+physical therapy. (Jt. Ex. 2, p. 33) Further, Ruble stated Young could return to work at 
+East Penn per the recommendation of Dr. Jacobson. (Jt. Ex. 2, p. 33)  
+Young performed light-duty work at East Penn, often tying rope on batteries, on 
+April 3, 2017. (Jt. Ex. 3, p. 30, Tr. p. 65) The repetitive light duty job duty of tying rope 
+made her left-wrist symptoms worse. (Tr. p. 65) Young did not feel a pop while 
+performing this light-duty work at East Penn. (Tr. p. 84) The work caused her left wrist to 
+ache. (Tr. p. 84) 
+On April 10, 2017, Plum performed another physical therapy evaluation of Young 
+at the recommendation of Dr. Jacobson. (Jt. Ex. 3, p. 30) Young told Plum that she was 
+experiencing “‘sharp, stabbing, knife-like, needle-like’ pain in bilateral anterior knees, 
+just inferior to the patella, left greater than right.” (Jt. Ex. 3, p. 30) Further, Young shared 
+that her knees will lock or occasionally give out and swell with activity. (Jt. Ex. 3, p. 30) 
+Young rated her left-knee pain as the same or worse since surgery by Dr. Homedan. 
+(Jt. Ex. 3, p. 30) Plum observed antalgic gait, with bilateral trunk lean, when Young 
+walked from the waiting room to the exam room. (Jt. Ex. 3, p. 31) 
+In addition, Young reported “difficulty standing still, walking for greater than 1 
+hour, negotiating stairs with reciprocal gait, and especially with kneeling.” (Jt. Ex. 3, p. 
+30) Plum noted that Young said the only thing that makes her knees feel better is 
+inactivity. (Jt. Ex. 3, p. 30) She told Plum that she stays in her recliner more than 80 
+percent of the time when at home. (Jt. Ex. 3, p. 30) 
+Plum found that Young’s “objective measurements remain consistent with her 
+performance during her last [physical therapy] episode of care, with bilateral knee 
+[range of motion] and strength [within normal limits] but painful. Her pain has affected 
+her ability to stand for prolonged periods, ambulate community distances, negotiate 
+stairs with reciprocal gait, negotiate curb steps, and kneel.” (Jt. Ex. 3, p. 31) Because of 
+Young’s failure to respond positively to her prior round of physical therapy, Plum 
+planned an alternative approach that emphasized closed kinetic chain weight-bearing 
+exercise with a short-term trial of skilled physical-therapy interventions. (Jt. Ex. 3, p. 31) 
+Young saw Ruble at South Central on April 27, 2017. (Jt. Ex. 2, p. 35) Young told 
+Ruble that “her pain is the same as it was at the previous visit” on January 12 of that 
+year. (Jt. Ex. 2, p. 35) She reported difficulty with stairs, instability, bilateral knee pain, 
+and knees locking. (Jt. Ex. 2, p. 35) Ruble further noted that Young stated “she really 
+doesn’t do anything because most activity makes her knees hurt.” (Jt. Ex. 2, p. 35) 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 16 
+ 
+ 
+Ruble examined Young. (Jt. Ex. 2, p. 37) She noted tenderness to palpation 
+present of the posterior right knee, no edema present, and no ecchymosis. (Jt. Ex. 2, p. 
+37) Ruble found that Young’s left lower extremity had joint stability within normal limits 
+and normal range of motion. (Jt. Ex. 2, p. 37) She noted no joint crepitations present. 
+(Jt. Ex. 2, p. 37) Ruble found that Young experienced knee pain with motion. (Jt. Ex. 2, 
+p. 37)  
+The examination of Young’s left lower extremity showed tenderness to palpation 
+present on the medial aspect of the knee, no edema present, and no ecchymosis. (Jt. 
+(Ex. 2, p. 37) Range of motion and joint stability were normal. (Jt. Ex. 2, p. 37) As with 
+the right leg, knee pain with motion was present. (Jt. Ex. 2, p. 37) Ruble found Young’s 
+gait and station to be normal. (Jt. Ex. 2, p. 37)  
+Ruble opined that it is unlikely that Young’s pain was due to the contusion that 
+resulted from her fall while working at East Penn. (Jt. Ex. 2, p. 37) Rather, Ruble felt the 
+cause of Young’s pain was more likely osteoarthritis of the knees. (Jt. Ex. 2, p. 37) 
+Further, she stated that she had little to offer Young in terms of treatment aside from 
+viscosupplementation. (Jt. Ex. 2, p. 37)  
+Defendants’ Exhibit D is labeled at the top of each page of the document as, 
+“EAST PENN POLICIES AND PROCEDURES MANUAL.” (Def. Ex. D, pp. 1–3). The 
+document refers to itself as a policy and contains information about an employee’s 
+eligibility for disability benefits. (See Def. Ex. D) It states: 
+The total short-term disability (“STD”) benefit paid under the provisions of 
+this policy will be terminated upon receipt of any disability payments for 
+which an employee might be entitled from a state disability plan and/or the 
+simultaneous receipt of any unemployment compensation benefits while 
+receiving STD benefits under this Policy. It is the responsibility of the 
+employee to provide Personnel with written evidence of all non-company 
+disability payments and/or unemployment compensation benefits.  
+(Def. Ex. D, p. 2) There is no provision addressing the interplay between benefits under 
+the STD policy and workers’ compensation insurance policy. (See Def. Ex. D) No 
+testimony at hearing addressed this subject. (See Tr.) 
+On May 1, 2017, Matthew Krasnick, a workers’ compensation coordinator at East 
+Penn, emailed Tanisha Taylor, the Sedgwick claims representative. (Cl. Ex. 4, p. 3) 
+Krasnick informed Taylor that East Penn had assigned Young light-duty work, but that 
+the employer could not have her working such duties indefinitely. (Cl. Ex. 4, p. 3) He 
+recognized that a finding of MMI and work release would be necessary before Young 
+could return to full-duty work. (Cl. Ex. 4, p. 3) Krasnick inquired about an IME. (Cl. Ex. 4, 
+p. 3) 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 17 
+ 
+ 
+Young signed and submitted a disability claim form dated May 2, 2017. (Cl Ex. 5, 
+p. 1) She identified the basis for the claim as “fell hurt both knees.” (Cl. Ex. 5, p. 1) The 
+form identifies May 2, 2017, as Young’s first day out of work. (Cl. Ex. 5, p. 1)  
+Young was approved for STD benefits. (Cl. Ex. 5, pp. 7–10; Tr. p. 66) She 
+received STD payments from May 2, 2017, through September 16, 2017, in the net 
+amount of $193.37 per week, except for the first week in which she received a prorated 
+$138.12 because she worked eight hours. (Cl. Ex. 5, pp. 7–10) 
+Young experienced health issues with her heart in May of 2017. (Tr. pp. 65–66) 
+She underwent heart surgery. (Tr. p. 65) The surgery and recovery caused Young to be 
+unable to work for approximately one or two weeks. (Tr. p. 65) 
+On May 10, 2017, Young went to Community Health, where Dr. Easter examined 
+her. (Jt. Ex. 5, p. 30) Young complained of ongoing bilateral knee pain, cracking, and 
+popping. (Jt. Ex. 5, p. 30) Dr. Easter documented that Young “[h]ad a fall to the side in 
+therapy one month ago” that caused “medical bruising.” (Jt. Ex. 5, p. 30) Dr. Easter 
+ordered an MRI and physical therapy evaluation. (Jt. Ex. 5, p. 30) He opined that they 
+would wait to decide on a steroid injection until after the MRI was completed. (Jt. Ex. 5, 
+p. 30) 
+Young returned to Community Health for a follow-up examination with Dr. Easter 
+on May 22, 2017. (Jt. Ex. 5, p. 35) Dr. Easter performed a celestone injection on 
+Young’s left knee. (Jt. Ex. 5, p. 37)  
+On June 13, 2017, Young saw Dr. Easter for a follow-up appointment at 
+Community Health. (Jt. Ex. 5, p. 39) Young continued to rate her left-knee pain as a six 
+out of 10. (Jt. Ex. 5, p. 39) She denied any improvement in her symptoms after the 
+injection on May 22, 2017. (Jt. Ex. 5, p. 39) Dr. Easter discussed Young’s “relatively 
+heavy work load with lead-acid battery assembly and shipping” with her. (Jt. Ex. 5, p. 
+42) Dr. Easter noted that they would defer to orthopedic expertise regarding diagnostic 
+and therapeutic options. (Jt. Ex. 5, p. 42) 
+Krasnick wrote a letter to Medicus Resources Management, dated July 26, 2017. 
+(Cl. Ex. 4, p. 5) It advised that “Young sustained compensable injuries to her bilateral 
+knees on August 8, 2016 from a work accident.” (Cl. Ex. 4, p. 5) Krasnick further stated: 
+Ultimately, we received a medical opinion from Dr. William Jacobson that 
+her accepted work injuries had resolved and that her restrictions and need 
+for continuing medical treatment were no longer causally related to the 
+accepted work injuries. 
+Therefore, workers’ compensation will no longer be covering this 
+employee’s medical treatment for her bilateral knees effective May 2, 
+2017. 
+(Cl. Ex. 4, p. 5) 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 18 
+ 
+ 
+Young went to Iowa Ortho on August 15, 2017, when she related her complaints 
+to the work injury at East Penn on August 8, 2016, on her patient information form. (Jt. 
+Ex. 6, p. 1) Young informed Iowa Ortho that she was suffering from bilateral knee and 
+hip pain as well as low back pain. (Jt. Ex. 6, p. 2) With respect to her knee pain, Young 
+said her pain was constant and stable, giving it a severity rating of six. (Jt. Ex. 6, p. 3) 
+She reported that walking and using stairs aggravated her pain while rest relieved it. (Jt. 
+Ex. 6, p. 3) Young said that she will occasionally experience numbness that goes down 
+to her feet. (Jt. Ex. 6, p. 3) Mark Matthes, M.D., recommended an MRI of her lumbar 
+spine with which Young agreed. (Jt. Ex. 6, p. 3) 
+Ruble performed another employment physical examination of Young on 
+September 18, 2017. (Jt. Ex. 2, p. 37) She noted that Young was still having bilateral 
+knee pain, but was ready to get back to work. (Jt. Ex. 2, p. 37) Ruble noted that the 
+strength in Young’s legs was normal. (Jt. Ex. 2, p. 40) She also found that Young’s gait 
+and station were normal. (Jt. Ex. 2, p. 40) Ruble released Young to return to work 
+without restrictions. (Jt. Ex. 2, p. 40) 
+On February 9, 2018, Young followed up with Iowa Ortho. (Jt. Ex. 6, p. 5) Young 
+reported aching bilateral knee pain that radiated to the bilateral hips/low back. (Jt. Ex. 6, 
+p. 5) She also complained of low-back pain. (Jt. Ex. 6, p. 5) Young shared that she 
+occasionally experienced numbness in both legs. (Jt. Ex. 6, p. 5) Using stairs worsened 
+her pain. (Jt. Ex. 6, p. 5) Marc Goeders, PA-C, examined Young and recommended a 
+lumbar MRI. (Jt. Ex. 6, p. 6)  
+Young underwent an MRI at the Decatur County Hospital on February 26, 2018. 
+(Jt. Ex. 6, p. 7) Goeders saw Young for a follow-up examination on March 1, 2018. (Jt. 
+Ex. 6, p. 7) Goeders noted that the MRI showed mild degenerative disk bulging and 
+facet arthritis at L4, L5, and L5-S1. (Jt. Ex. 6, p. 7) Based on the MRI findings, Goeders 
+concluded that Young was not a candidate for injection therapy. (Jt. Ex. 6, p. 7) 
+Goeders discussed physical therapy with Young, but she was not interested in pursuing 
+it. (Jt. Ex. 6, p. 7) 
+On November 21, 2018, Sunil Bansal, M.D., performed an examination of Young. 
+(Cl. Ex. 2, p. 1) Dr. Bansal reviewed the following medical records relating to Young’s 
+care: 
+ May 7, 2014 through September 5, 2018:  Unrelated to Young’s alleged 
+work injuries (Cl. Ex. 2, p. 2); 
+ August 10, 2016, through September 18, 2017:  South Central (Cl. Ex. 2, 
+pp. 2–4); 
+ August 10, 2016, through December 15, 2016:  Wayne County Hospital 
+(Cl. Ex. 2, pp. 4–5); 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 19 
+ 
+ 
+ August 23, 2016, through April 24, 2017:  Wayne County Hospital Physical 
+Therapy (Cl. Ex. 2, p. 7); 
+ February 10, 2017:  IME report by Dr. Jacobson (Cl. Ex. 2, p. 5); 
+ May 10, 2017, through June 13, 2017:  Community Health (Cl. Ex. 2, pp. 
+5–6); 
+ August 15, 2017, through March 1, 2018:  Iowa Ortho (Cl. Ex. 2, pp. 6–7); 
+and 
+ November 21, 2018:  Iowa Radiology (Cl. Ex. 2, p. 7). 
+In addition, Dr. Bansal met with Young, discussed Young’s physical condition 
+with her, and performed a physical examination of Young. (Cl. Ex. 2, pp. 1–9) Dr. 
+Bansal’s report, which is dated March 7, 2019, describes Young’s mechanism of injury 
+as follows:   
+As she was walking, she tripped over a cart that was used to stack boxes 
+on. She fell straight forward onto her knees. She also hit her hand on the 
+counter and twisted her back. 
+(Cl. Ex. 2, p. 7)  
+With respect to Young’s back, Dr. Bansal’s report states that Young “continues to 
+have frequent back pain, and has difficulty sitting for very long. She is able to sit for 30 
+minutes.” (Cl. Ex. 2, p. 7) Dr. Bansal notes that Young’s “back pain is located in her 
+lower back, with increased pain with twisting and turning.” (Cl. Ex. 2, p. 7) 
+Dr. Bansal diagnosed Young with sacroiliitis. (Cl. Ex. 2, p. 9) He opines, 
+“According to the Mayo Clinic, the mechanism of falling is consistent with the 
+development of sacroiliitis.” (Cl. Ex. 2, p. 10 (citing the Mayo Clinic website1)) Dr. Bansal 
+expands: 
+The sacroiliac joint is twice as susceptible to axial torsion overloading than 
+are the lumbar motion segments. Imbalanced loads such as from a fall 
+may jeopardize the interlocking sacral mechanics by impeding balanced 
+transiliac bony fixation and ligamentous tension across the sacrum. 
+(Cl. Ex. 2, p. 10) 
+Dr. Bansal revisited his opinion on causation at the request of Young’s counsel, 
+who asked in a letter, “Did Ms. Young’s altered gait from her knee injuries further 
+                                            
+1 http://www.mayoclinic.org/diseases-conditions/sacroiliitis/basics/causes/con-20028653 (last viewed Nov. 
+22, 2019). 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 20 
+ 
+ 
+aggravate and/or contribute to her sacroiliitis that was caused by her fall?” (Cl. Ex. 2, p. 
+14) Dr. Bansal provided the following answer, dated April 11, 2019: 
+Against the backdrop of a diagnosis of sacroiliitis, it is my medical opinion 
+that an altered gait would serve to further aggravate that condition. 
+Dr. Cohen from John Hopkins University Medical School states that risk 
+factors for sacroiliitis included leg length discrepancy or altered gaits. 
+(Cl. Ex. 2, p. 14–15 (citing Cohen, S. “Sacroiliac Joint Pain:  A Comprehensive Review 
+of Anatomy, Diagnosis, and Treatment,” Anesthesia & Analgesia, 2005 Nov, 101(5):  
+144-53)) 
+Dr. Bansal declared Young at MMI for her back injury as of November 21, 2018, 
+the date on which he examined her. (Cl. Ex. 2, p. 9) On the question of whether Young 
+has sustained a permanent impairment due to her back injury, Dr. Bansal opined that 
+per the AMA Guides, Young’s symptoms, and his physical examination of her, “she 
+meets several criteria for a DRE Category II impairment, including guarding and loss of 
+range of motion.” (Cl. Ex. 2, p. 12) Dr. Bansal assigned a three percent whole person 
+impairment based on Table 15-3 of the AMA Guides. 
+Dr. Bansal further opined that Young sustained injuries to her left and right knees 
+that arose out of and in the course of her employment. (Cl. Ex. 2, p. 10) “This 
+mechanism of falling onto the knees aggravated her underlying chondromalacia. The 
+pathophysiologic basis is from localed chondrocyte destruction and resulting 
+inflammation.” (Cl. Ex. 2, p. 10 (citing Mankin HJ. “The response of articular cartilage to 
+mechanical injury.” J Bone Joint Surg. 1982; 64A: 450-6) According to Dr. Bansal: 
+The inflammatory response is most likely what aggravated her bilateral 
+knee degenerative joint disease. A temporary exacerbation presupposes 
+that the individual returns to their preinjury baseline after a reasonable 
+time period. In Ms. Young’s case, her preinjury baseline was characterized 
+as doing well with no bilateral knee pain. After the August 8, 2016 incident 
+this was clearly not the case, accelerating the need for knee 
+replacements. 
+(Cl. Ex. 2, p. 10) 
+Dr. Bansal gave Young a permanent impairment rating of five percent lower 
+extremity impairment or a two percent whole person impairment for having a history of 
+direct knee impact, patellofemoral pain, and crepitus on examination for each knee 
+using the footnote at the bottom of Table 17-31 of the AMA Guides. (Cl. Ex. 2, p. 12) He 
+also gave Young the following permanent work restrictions for the injuries to her back 
+and both knees: 
+ No lifting over 20 pounds; 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 21 
+ 
+ 
+ No frequent kneeling, bending, squatting, climbing, or twisting; 
+ Avoid multiple steps, stairs, or ladders; and 
+ No prolonged sitting greater than 30 minutes at a time. (Cl. Ex. 2, p. 12) 
+On the question of future care for the injuries to Young’s left and right knees, Dr. Bansal 
+opined that she may need intermittent cortisone and/or viscosupplementation (Synvisc-
+One/Euflexxa) injections, NSAIDs, and pain medicine for maintenance. (Cl. Ex. 2, p. 
+12–13) Dr. Bansal opined that for both of Young’s knees, “[t]he endpoint is a knee 
+replacement.” (Cl. Ex. 2, pp. 12–13) 
+Dr. Bansal did not address Young’s left-wrist injury in his IME report. (See Cl. Ex. 
+2) Dr. Easter found the injury was related to Young’s work, (Jt. Ex. 5, p. 25) as did 
+Ruble. (Jt. Ex. 2, p. 17) Dr. Jacobson found the same in his IME report. (Def. Ex. G, p. 
+3) The record establishes that Young sustained an injury to her left wrist due to 
+repetitive work while performing light duty for East Penn under work restrictions for her 
+bilateral knee injuries.  
+While Dr. Easter and Ruble noted that Young’s left-wrist pain was related to her 
+work duties, no treating physician used the AMA Guides to render an opinion on the 
+question of whether Young sustained a permanent disability to her left wrist. Dr. Bansal 
+also did not address this question in his report. Dr. Jacobson provided the only expert 
+medical opinion on whether Young’s left wrist is permanently disabled because of her 
+work injury. 
+Dr. Jacobson concluded that Young reached MMI for her work-related left wrist 
+injury on December 30, 2016, and that no permanent impairment resulted from it. (Def. 
+Ex. G, pp. 4–6) Young’s left-wrist pain had resolved and she exhibited no symptoms at 
+the time of Dr. Jacobson’s examination of it. (Ex. G, pp. 2, 5–6) She remained symptom 
+free until an incident in her home. (See Tr. p. 57) Young felt a pop in her left wrist while 
+buttoning her pants at home, followed by pain. (Tr. pp. 57) Young testified at hearing 
+that her left wrist hurts when she performs repetitive tasks with it. (Tr. p. 77) Young also 
+shared that she “limit[s] any repetitive type stuff so it doesn’t aggravate it.” (Tr. p. 77)  
+No medical professional has opined that the second incident involving Young’s 
+left wrist, which occurred at her home while she was buttoning her pants, was an injury 
+arising out of and in the course of her employment. Nor is there medical evidence 
+showing that Young sustained any permanent disability from the injury she suffered at 
+home while buttoning her pants.  
+East Penn closed Young’s department in 2019, leaving her employment status in 
+question. At the time of hearing, Young did not know if she was still employed with East 
+Penn or not. Young bid to work tearing down the equipment in her department, but did 
+not get it. She also sought a janitorial job with East Penn. Young believes that East 
+Penn did not place her in these positions because of her work restrictions, but has 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 22 
+ 
+ 
+presented no documentary evidence or accounts of alleged statements by agents of 
+East Penn to support her belief. 
+CONCLUSIONS OF LAW 
+1. Causation and Disability 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the alleged injury actually occurred and that it both arose out of and in the course of the 
+employment. Quaker Oats Co. v. Ciha, 552 N.W.2d 143 (Iowa 1996); Miedema v. Dial 
+Corp., 551 N.W.2d 309 (Iowa 1996). The words “arising out of” referred to the cause or 
+source of the injury. The words “in the course of” refer to the time, place, and 
+circumstances of the injury. 2800 Corp. v. Fernandez, 528 N.W.2d 124 (Iowa 1995). An 
+injury arises out of the employment when a causal relationship exists between the injury 
+and the employment. Miedema, 551 N.W.2d 309. The injury must be a rational 
+consequence of a hazard connected with the employment and not merely incidental to 
+the employment. Koehler Electric v. Wills, 608 N.W.2d 1 (Iowa 2000); Miedema, 551 
+N.W.2d 309. An injury occurs “in the course of” employment when it happens within a 
+period of employment at a place where the employee reasonably may be when 
+performing employment duties and while the employee is fulfilling those duties or doing 
+an activity incidental to them. Ciha, 552 N.W.2d 143. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based. A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause. A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible. George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony. The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability. 
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question. The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances. The 
+expert opinion may be accepted or rejected, in whole or in part. St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995). Miller v. 
+Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 1994). Unrebutted expert medical 
+testimony cannot be summarily rejected. Poula v. Siouxland Wall & Ceiling, Inc., 516 
+N.W.2d 910 (Iowa App. 1994). 
+ 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 23 
+ 
+ 
+Young has alleged work-related injuries to her: 
+ Left wrist; 
+ Hip/back; 
+ Left knee; and 
+ Right knee. 
+With respect to Young’s left wrist, Dr. Jacobson persuasively addresses 
+causation, MMI, and permanent disability. He found that Young sustained a left wrist 
+injury because of the repetitive job duties associated with her light-duty assignment of 
+tying handles onto batteries, which she was assigned to accommodate the work 
+restrictions necessitated by her knee injury. Dr. Jacobson further opined that the left 
+wrist injury was temporary in nature and had resolved, placing Young at MMI for the 
+injury on February 10, 2017. He concluded that Young had no permanent impairment of 
+her left wrist.  
+At hearing, Young testified that she experienced left-wrist pain after Dr. 
+Jacobson’s IME report. Her subsequent left-wrist pain began while she was getting 
+dressed at home. Young further testified that she avoids repetitive activities with her left 
+arm and this prevents pain in her left wrist.  
+Thus, the evidence establishes that Young sustained a work-related injury to her 
+left wrist caused by the repetitive motion performing light-duty work. She reached MMI 
+on February 10, 2017, with no permanent disability or work restrictions relating to the 
+injury. Young then sustained a temporary aggravation when getting dressed at home 
+that did not arise out of and in the course of employment. There is no medical opinion 
+on causation supporting the conclusion that the injury while getting dressed at home is 
+related to her work. Young did not prove a permanent disability to her left wrist relating 
+to the injury. 
+As discussed above, Young fell forward onto both of her knees while working at 
+East Penn on August 8, 2016. However, she did not twist her back when she fell. Young 
+first complained of pain in the area of her hips and back when she saw Ruble on August 
+22, 2016, two weeks after she fell at work. Young complained to Ruble that “walking the 
+way that she has been has caused some right[-]hip pain.” Thus, Young did not relate 
+the pain to the fall, but to an altered gait caused by walking differently due to her knee 
+injury caused by the fall.  
+On August 30, 2016, Young told Plum that her right-hip pain was worse and she 
+was unable to tolerate lying on her right side because of the hip pain. Young again 
+complained to Ruble of right-hip pain on September 7, 2019. Ruble’s physical exam of 
+Young found tenderness and palpation present of the lateral aspect of the hip. She 
+suspected that the hip pain was due to Young’s altered gait since she hurt her knee and 
+opined that it should improve once her left knee is better.  
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 24 
+ 
+ 
+After the September 7 appointment with Ruble, Young does not make any 
+additional complaints for almost one year. She went on a leave of absence from East 
+Penn beginning on May 7, 2017, after her application for STD benefits was approved. 
+The evidence shows that Young’s next complaint of hip pain occurred when she 
+went to Iowa Ortho on August 15, 2017. Iowa Ortho noted bilateral hip pain, which is the 
+first instance of Young making a complaint of left hip pain. On February 9, 2018, Iowa 
+Ortho records describe Young’s pain as “bilateral knee. The pain radiates to the 
+[b]ilateral hips/low back.” 
+Based on these complaints, Iowa Ortho recommended an MRI, which Young 
+ultimately obtained on February 26, 2018. It showed mild degenerative disk bulging and 
+facet arthritis at L4-L5 and L5-S1 and no frank disk herniation, spinal stenosis, or 
+lumbar nerve root impingement. Consequently, Iowa Ortho found she was not a 
+candidate for injection therapy and because she did not want to participate in physical 
+therapy, did not have a whole lot else to offer her. 
+Dr. Bansal noted that Young was experiencing frequent “back pain” at the time of 
+his physical exam of her on November 21, 2018. The pain was “located in her lower 
+back, with increased pain with twisting and turning. He diagnosed her with sacroiliitis, 
+caused by the fall at work. Dr. Bansal expanded on his causation opinion in response to 
+a letter from Young’s attorney, stating, “Against a backdrop of a diagnosis of sacroiliitis, 
+it is my medical opinion that an altered gait would serve to further aggravate that 
+condition.” Dr. Bansal did not opine on the following: 
+ If the mechanism of injury was the actual fall at East Penn on August 8, 2016, 
+why did Young not complain of symptoms until August 22, 2016? 
+ What caused Young to complain of right-hip pain because of an altered gait 
+on August 22, August 30, and September 7, 2016, and then cease complaints 
+for about a year? 
+ If the mechanism of injury was the fall at work, why did Young experience 
+pain in only her right hip for a few weeks, not complain of pain to care 
+providers for several months, and then complain of bilateral hip pain to Iowa 
+Ortho on August 15, 2017? 
+ What caused Young’s new symptom of radiating pain from her knees to her 
+hips and back? 
+If Young had experienced symptoms closer in time to the fall and consistently 
+from that point through her treatment with Iowa Ortho, Dr. Bansal’s opinion on causation 
+with respect to this injury would be more persuasive. But Dr. Bansal offers no 
+explanation for the lack of documentation in the medical records for about a year with 
+respect to Young experiencing any symptoms in her hips or back or why the symptoms 
+would reemerge worse than before and in a larger area of her body while she was on a 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 25 
+ 
+ 
+leave of absence from East Penn and collecting STD benefits. Consequently, Dr. 
+Bansal’s opinion on whether the alleged injury or injuries to Young’s hips and back fails 
+to satisfy the claimant’s burden of proof to show causation to her work at East Penn. 
+On the question of whether Young sustained work injuries to her left and right 
+knees, nearly every medical professional who has examined Young agrees that she did. 
+Both Dr. Jacobson and Dr. Bansal agree that the fall caused the injuries to Young’s 
+knees. She has met her burden by proving by a preponderance of the evidence that her 
+bilateral knee injuries arise out of and in the course of her employment. Consequently, 
+the dispute is over whether Young is due temporary and permanent disability benefits 
+must be considered. 
+An employee is entitled to appropriate temporary partial disability benefits during 
+those periods in which the employee is temporarily, partially disabled. Iowa Code § 
+85.33(2). An employee is temporarily, partially disabled when the employee is not 
+capable medically of returning to employment substantially similar to the employment in 
+which the employee was engaged at the time of the injury, but is able to perform other 
+work consistent with the employee's disability. Id.  
+Young submitted an application for STD and identified the work injury to her 
+knees as the reason she was unable to work. The application was approved, so Young 
+was placed on leave and she received STD benefits. This establishes Young was off 
+work because East Penn could not accommodate her physical limitations resulting from 
+her knee injuries. The weight of the evidence establishes that Young is entitled to 
+temporary partial benefits from May 7, 2017, through September 16, 2017. 
+Dr. Jacobson found that Young had not reached MMI for her knee injuries and 
+did not give an opinion on the extent of her permanent disability on February 10, 2017. 
+However, Dr. Jacobson opined that he did not anticipate Young would have a 
+permanent impairment to either knee. Thus, Dr. Jacobson did not provide an expert 
+opinion on Young’s permanent disability, if any. He merely speculated when putting 
+what he anticipated in his report. 
+Dr. Bansal is the only doctor who found Young at MMI for her bilateral knee 
+injuries and opined on the permanent partial disability of them. He found Young had 
+reached MMI, and assigned an impairment rating for each lower extremity of five 
+percent lower extremity impairment. Dr. Bansal’s opinion on Young’s permanent 
+disability is persuasive and satisfies the claimant’s burden of proof. 
+“The loss of both arms, or both hands, or both feet, or both legs, or both eyes, or 
+any two thereof, caused by a single accident, shall equal five hundred weeks and shall 
+be compensated as such . . . .” Iowa Code § 85.34(2)(s); see also Simbro v. DeLong’s 
+Sportswear, 332 N.W.2d 886 (Iowa 1983). Since Young has suffered a permanent 
+functional loss of five percent of each leg, these ratings are appropriately converted to 
+three percent of the body as a whole. Three percent of 500 weeks is 15 weeks. Young 
+is entitled to 15 weeks of benefits for the permanent partial disability in her bilateral legs. 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 26 
+ 
+ 
+2. Medical Expenses 
+Iowa Code section 85.27(4) provides, in relevant part: 
+For purposes of this section, the employer is obliged to furnish reasonable 
+services and supplies to treat an injured employee, and has the right to 
+choose the care .... The treatment must be offered promptly and be 
+reasonably suited to treat the injury without undue inconvenience to the 
+employee. If the employee has reason to be dissatisfied with the care 
+offered, the employee should communicate the basis of such 
+dissatisfaction to the employer, in writing if requested, following which the 
+employer and the employee may agree to alternate care reasonably suited 
+to treat the injury. If the employer and employee cannot agree on such 
+alternate care, the commissioner may, upon application and reasonable 
+proofs of the necessity therefor, allow and order other care. 
+Young sustained injuries relating to work as follows: 
+1) Temporary left wrist injury which reached MMI on February 2017; 
+2) Left knee; and 
+3) Right knee. 
+Therefore, the defendants are responsible for the care for those injuries.  
+The parties stipulated that the listed expenses in Claimant’s Exhibit 11 are at 
+least causally connected to the injuries upon which the claim of injury is based. But in 
+the defendants’ brief, they argue that the bills on Pages 5 and 10 of Claimant’s Exhibit 
+11 are not related to a work injury. Based on the evidence, the defendants are 
+responsible for the bills on the following pages of Claimant’s Exhibit 11:  1, 2, 3, 4, 6, 7, 
+8, and 9. 
+3. Penalty 
+If weekly compensation benefits are not fully paid when due, section 86.13 
+requires that additional benefits be awarded unless the employer shows reasonable 
+cause or excuse for the delay or denial. Robbennolt v. Snap-on Tools Corp., 555 
+N.W.2d 229 (Iowa 1996). Delay attributable to the time required to perform a reasonable 
+investigation is not unreasonable. Kiesecker v. Webster City Meats, Inc., 528 N.W.2d 
+109 (Iowa 1995).   
+It also is not unreasonable to deny a claim when a good faith issue of law or fact 
+makes the employer’s liability fairly debatable. An issue of law is fairly debatable if 
+viable arguments exist in favor of each party. Covia v. Robinson, 507 N.W.2d 411 (Iowa 
+1993). An issue of fact is fairly debatable if substantial evidence exists which would 
+support a finding favorable to the employer. Gilbert v. USF Holland, Inc., 637 N.W.2d 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 27 
+ 
+ 
+194 (Iowa 2001). An employer’s bare assertion that a claim is fairly debatable is 
+insufficient to avoid imposition of a penalty. The employer must assert facts upon which 
+the commissioner could reasonably find that the claim was “fairly debatable.” Meyers v. 
+Holiday Express Corp., 557 N.W.2d 502 (Iowa 1996).   
+If the employer fails to show reasonable cause or excuse for the delay or denial, 
+the commissioner shall impose a penalty in an amount up to 50 percent of the amount 
+unreasonably delayed or denied. Christensen v. Snap-on Tools Corp., 554 N.W.2d 254 
+(Iowa 1996). The factors to be considered in determining the amount of the penalty 
+include the length of the delay, the number of delays, the information available to the 
+employer and the employer’s past record of penalties. Robbennolt, 555 N.W.2d at 238. 
+Young seeks a penalty because of the defendants’ delay in paying TPD benefits 
+and PPD benefits. The record does not establish why the defendants refused to pay 
+Young TPD benefits while she was on leave and receiving STD benefits. It could be that 
+they felt Dr. Jacobson’s opinion, which they used as a basis to refuse to offer medical 
+care, provided a sufficient basis. Or, it could be that the defendants believed her receipt 
+of STD benefits meant she was not entitled to workers’ compensation benefits. Because 
+the basis for their refusal is unknown, it would be speculative to find it reasonable.  
+Further, the defendants articulate no reason for not revisiting the question of 
+Young’s entitlement to permanent partial disability benefits after receipt of Dr. Bansal’s 
+IME report. As of hearing, they had not paid Young any benefits or, as far as the record 
+shows, sought any additional medical information relating to her knee injuries. It would 
+require engaging in more speculation to determine why the defendants did not 
+investigate Young’s injury further after receipt of Dr. Bansal’s report.  
+Given the length of the delay, the number of delays, the information available to 
+the employer and the employer’s past record of penalties, a penalty of 15 percent is 
+appropriate in the current case. 
+4. Credit 
+The parties dispute whether the defendants are entitled to a credit under Iowa 
+Code section 85.38(2) for payment of STD benefits in the amount of $4,928.57. The 
+claimant contends the defendants failed to meet their burden of proof. The defendants 
+did not address the credit issue in their brief. 
+“The obvious purpose of Iowa Code section 85.38(2) is to avoid duplication of 
+payments by an employer to an employee.” Midwest Ambulance Serv. v. Ruud, 754 
+N.W.2d 860, 867 (Iowa 2008). Disability benefit payments made to the claimant are 
+credited to or against any workers’ compensation payments made under Iowa Code 
+chapters 85, 85A, or 85B, if: 
+1) The employer contributed in whole or in part to a group insurance plan for the 
+benefit of the claimant; and 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 28 
+ 
+ 
+2) Benefits should not have been paid or payable to the claimant if any rights to 
+recovery existed under Iowa Code chapters 85, 85A, or 85B. Iowa Code 
+§ 85.38(2); Midwest Ambulance, 754 N.W.2d at 867. 
+The employer has the burden to prove entitlement to such a credit. See Midwest 
+Ambulance, 754 N.W.2d at 867; see also Stevens v. Eaton Corp., File No. 5049606 
+(App. Jan. 26, 2018). 
+Here, the defendants failed to meet their burden of proof to establish that East 
+Penn contributed wholly or partially to the group plan and that benefits should not have 
+been paid or payable to Young if she had any rights to recovery under Iowa Code 
+chapter 85. While Defendants’ Exhibit D contains information about eligibility and the 
+third-party administrator, it contains no information about East Penn’s contribution to the 
+plan. Defendants’ Exhibit D expressly states that an employee cannot collect 
+unemployment insurance benefits while receiving STD benefits under the plan. It also 
+prohibits an employee from receiving STD benefits simultaneously with benefits under a 
+“state disability plan.” However, there is no mention of workers’ compensation benefits 
+in the document. Consequently, there is insufficient evidence from which to conclude 
+that STD benefits should not have been paid or payable to Young if any rights to 
+recovery existed under Iowa Code chapter 85. The defendants shall receive no credit 
+for the STD benefits paid to Young. 
+5. Cost of IME 
+Young seeks reimbursement for the cost of the IME performed by Dr. Bansal 
+under Rule 876 IAC 4.33 and Iowa Code section 85.39. The defendants dispute that 
+Young is entitled to the cost of Dr. Bansal’s IME because no doctor retained by them 
+evaluated Young’s permanent disability. 
+On the one hand there’s Iowa Code section 85.39, which governs examination of 
+employees for purposes of treatment and permanent disability. Section 85.39(1) 
+authorizes the employer to choose the claimant’s treating physician. But if the employer-
+chosen doctor “provides an evaluation of permanent disability” that the claimant 
+believes is too low, the claimant may apply to the Commissioner and obtain an 
+independent medical examination (IME) with a doctor of the claimant’s choosing and at 
+the employer’s expense. Iowa Code § 85.39(2). 
+On the other hand is Iowa Code section 86.40, which states that “[a]ll costs 
+incurred in the hearing . . . shall be taxed in the discretion of the commissioner.” The 
+commissioner issued a rule on the taxation of costs pursuant to section 86.40, which 
+states that costs that are taxed by the commissioner or deputy commissioner include 
+“the reasonable costs of obtaining no more than two doctors’ or practitioners’ reports.” 
+876 IAC 4.33. 
+The Iowa Supreme Court considered the interplay between these two statutory 
+provisions, and the administrative rule on taxation of costs, in Des Moines Area 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 29 
+ 
+ 
+Regional Transit Authority v. Young, 867 N.W.2d 839 (Iowa 2015) (DART). In the 
+court’s decision, it states that “the issue . . . pits the assessment-of-costs rule against 
+the statute governing evaluations for purposes of disability ratings” and that “[t]he 
+question to be resolved is whether the commissioner can tax the fees of a physician 
+arising from the evaluation of an employee done outside the process set forth in Iowa 
+Code section 85.39 as ‘costs incurred in the hearing’ when the employee submits a 
+written report of the evaluation at the hearing.” DART, 867 N.W.2d at 844. 
+The court read the two statutory provisions in harmony while interpreting the 
+scope of Rule 4.33 in holding that: 
+1) Taxable hearing costs under section 86.40 and Rule 876 IAC 4.33 include 
+only the costs to obtain the report and not the underlying expenses of 
+examination or records review; and 
+2) An IME is reimbursable under section 85.39 only if the conditions of that 
+statutory provision are met and is not taxable as a cost under section 86.40. 
+Id. at 846. 
+Thus, the cost of the examination of the claimant, records review, and report are 
+all reimbursable when they are part of an IME under section 85.39 and no itemization is 
+required of the claimant’s chosen physician. See Plew, Jr. v. AJS of Des Moines, Inc., 
+File. No. 5056490 (App. Feb. 11, 2019). However, when a claimant seeks to tax “the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ reports” under 
+section 86.40 and the administrative rule when the examination is not a qualifying IME 
+under section 85.39, such itemization is necessary in order to make a determination on 
+taxation because the only taxable cost is that of “obtaining no more than two doctors’ or 
+practitioners’ reports” under DART. See Gamble v. AG Leader Technology, File No. 
+5054686 (App. Apr. 24, 2018); see also Kirkendall v. Cargill Meat Solutions Corp., File 
+No. 5055494 (App. Dec. 18, 2018). 
+As discussed above, no treating physician gave Young an evaluation of 
+permanent impairment to any body part she alleges she injured while working at East 
+Penn. Dr. Jacobson performed an evaluation of permanent disability of Young’s left 
+wrist, finding none. He also concluded that Young had not reached MMI as of the date 
+of the defense IME, so he could not perform an evaluation of her permanent disability. 
+Dr. Bansal did not address Young’s left wrist; he evaluated her hip or back and both 
+knees. Thus, Dr. Bansal’s IME does not qualify under the requirement in section 
+85.39(2) because no doctor retained by the defendants made an evaluation of 
+permanent disability that Young believed to be too low. 
+6. Costs 
+Iowa Code section 86.40 states: 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 30 
+ 
+ 
+All costs incurred in the hearing before the commissioner shall be taxed in 
+the discretion of the commissioner. 
+Iowa Administrative Code Rule 876—4.33(86) states: 
+Costs taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by 
+Iowa Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, (8) costs of persons reviewing 
+health service disputes. Costs of service of notice and subpoenas shall be 
+paid initially to the serving person or agency by the party utilizing the 
+service. Expenses and fees of witnesses or of obtaining doctors’ or 
+practitioners’ reports initially shall be paid to the witnesses, doctors or 
+practitioners by the party on whose behalf the witness is called or by 
+whom the report is requested. Witness fees shall be paid in accordance 
+with Iowa Code section 622.74. Proof of payment of any cost shall be filed 
+with the workers’ compensation commissioner before it is taxed. The party 
+initially paying the expense shall be reimbursed by the party taxed with the 
+cost. If the expense is unpaid, it shall be paid by the party taxed with the 
+cost. Costs are to be assessed at the discretion of the deputy 
+commissioner or workers’ compensation commissioner hearing the case 
+unless otherwise required by the rules of civil procedure governing 
+discovery.  This rule is intended to implement Iowa Code section 86.40. 
+Rule 876 IAC 4.17 includes as a practitioner, “persons engaged in physical or 
+vocational rehabilitation or evaluation for rehabilitation.” A report or evaluation from a 
+vocational rehabilitation expert constitutes a practitioner report under our administrative 
+rules. Bohr v. Donaldson Company, File No. 5028959 (Arb. November 23, 2010); Muller 
+v. Crouse Transportation, File No. 5026809 (Arb. December 8, 2010). The entire 
+reasonable costs of doctors’ and practitioners’ reports may be taxed as costs pursuant 
+to 876 IAC 4.33. Caven v. John Deere Dubuque Works, File Nos. 5023051, 5023052 
+(App. July 21, 2009). Therefore, the cost of Dr. Bansal’s report may be taxed as a cost 
+to defendants. 
+The record establishes that Young paid the filing fee of one hundred dollars 
+($100.00) when she filed her petition initiating this case. She also paid six dollars and 
+seventy-seven cents ($6.77) for certified service. Additionally, Young paid two hundred 
+sixteen dollars and ten cents ($216.10) for a deposition transcript.  
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 31 
+ 
+ 
+Because Young prevailed, these costs are taxed to the defendants under Rules 
+876 IAC 4.9 and 4.33. 
+ORDER 
+It is therefore ordered: 
+1) The defendants shall file subsequent reports of injury as required by Rule 876 
+IAC 3.1(2). 
+2) The defendants shall pay Young the taxed costs of: 
+a) The filing fee for her petition of one hundred dollars and 00/100 
+($100.00); 
+b) The cost of certified service by U.S. Mail of six and 77/100 dollars 
+($6.77);  
+c) The cost of the deposition transcript of two hundred sixteen and 10/100 
+dollars ($216.10) for the deposition transcript; and 
+d) The cost of two thousand one hundred seventy-eight and 00/100 
+dollars ($2,178.00) for Dr. Bansal’s report. 
+3) The defendants shall pay Young temporary total disability benefits for the time 
+period beginning on May 7, 2017, and ending on September 16, 2017, at the 
+weekly rate of five hundred twelve and 27/100 dollars ($512.27). 
+4) The defendants shall pay Young penalty benefits in the amount of fifteen (15) 
+percent of the total amount of temporary total disability benefits they are 
+ordered to pay in this decision.  
+5) The defendants shall pay Young permanent partial disability benefits for 
+fifteen (15) weeks at the weekly rate of five hundred twelve and 27/100 
+dollars ($512.27) commencing on March 1, 2018. 
+6) The defendants shall pay Young penalty benefits in the amount of fifteen (15) 
+percent of the total amount of permanent partial disability benefits they are 
+ordered to pay in this decision.  
+7) The defendants shall pay Young all weekly benefits owed in a lump sum. 
+8) The defendants shall pay interest on unpaid weekly benefits awarded herein 
+as set forth in Iowa Code section 85.30. Defendants shall pay accrued weekly 
+benefits in a lump sum together with interest at the rate of ten percent for all 
+weekly benefits payable and not paid when due which accrued before July 1, 
+2017, and all interest on past due weekly compensation benefits accruing on 
+
+YOUNG V. EAST PENN MANUFACTURING CO. 
+Page 32 
+ 
+ 
+or after July 1, 2017, shall be payable at an annual rate equal to the one-year 
+treasury constant maturity published by the federal reserve in the most recent 
+H15 report settled as of the date of injury, plus two percent. See Gamble v. 
+AG Leader Technology, File No. 5054686 (App. Apr. 24, 2018). 
+9) The defendants shall reimburse Young for the medical expenses on pages 
+one (1), two (2), three (3), four (4), six (6), seven (7), eight (8), and nine (9) of 
+Claimant’s Exhibit 11. 
+Signed and filed this 28th day of February, 2020. 
+ 
+   ________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+     BENJAMIN G. HUMPHREY 
+ 
+ 
+ 
+ 
+ 
+ 
+                     DEPUTY WORKERS’ 
+ 
+ 
+ 
+ 
+ 
+          COMPENSATION COMMISSIONER 
+ 
+The parties have been served, as follows: 
+ 
+Joseph Powell (via WCES) 
+Tiernan Siems (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

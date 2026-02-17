@@ -1,0 +1,566 @@
+Case Number: 5033079
+Case Title:  THOMPSON, JOHN V. KEOKUK STEEL CASTINGS
+Doc Type:    Decision - District Court
+Source:      Thompson, John-5033079.District Court Decision.pdf
+========================================================================
+
+ 
+1 
+IN THE IOWA DISTRICT COURT IN AND FOR POLK COUNTY 
+AMERICAN HOME ASSURANCE,  
+Petitioner,  
+ 
+v.  
+ 
+LIBERTY MUTUAL FIRE INSURANCE 
+COMPANY,  
+Respondent.  
+ 
+Case No. CVCV059200 
+ 
+ 
+RULING ON JUDICIAL REVIEW 
+On January 12, 2017 Petitioner filed a Petition for Contribution.  The parties submitted 
+motions for summary judgment to determine the claims for contribution.  A decision was filed on 
+July 24, 2018.  Final agency action issued on October 7, 2019.  This is a petition for judicial review 
+from the final decision of the Iowa Workers’ Compensation Commission. A hearing was held in 
+the Iowa District Court on January 31, 2020. Petitioner American Home Assurance (“AHA”) 
+appeared through its attorney Aaron Oliver. Respondent Liberty Mutual Fire Insurance Company 
+(“Liberty Mutual”) appeared through its attorneys Benjamin Erickson and Andrew Hall.  
+I. BACKGROUND FACTS AND PROCEDURAL POSTURE 
+ 
+The facts before the Court are undisputed. On November 30, 2010, John Thompson 
+(“Thompson”), who is not a party to this action, filed a petition with the Commission seeking 
+workers’ compensation benefits. Pet. Br. at 2. Thompson alleged a work-related injury to his left 
+elbow and both shoulders while employed with Keokuk Steel Castings (“KSC”) in November 
+2007. Pet. Ex. 1, p. 1; Pet. Br. at 2. Thereafter, KSC and AHA filed their Answer to Thompson’s 
+Petition and affirmatively stated that AHA was the workers’ compensation insurance carrier for 
+KSC at the time of the claimant’s alleged, November 2007, injury. Pet. at ¶ 1; Answer at ¶ 1; Pet. 
+Ex. 1, p. 1. Prior to the contested case hearing before the Commission, Thompson moved to amend 
+his Petition to allege an alternative injury date of June 30, 2008. Pet. Ex. 1, p. 1. 
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+2 
+ 
+Thompson’s case proceeded to arbitration before the Commission in 2011. Pet. Br. at 2. At 
+hearing, the parties raised the proper injury date as an issue to be determined by the presiding 
+deputy commissioner. Pet. Ex. 1, p. 1. The parties provided three possible injury dates: November 
+12, 2007; June 16, 2008; and June 30, 2008. Pet. Ex. 1, p. 1. On February 22, 2012, the deputy 
+issued the arbitration decision, finding Thompson suffered from a cumulative injury, and the date 
+of his injury was June 16, 2008. Pet. Ex. 1, p. 1; Pet. Br. at 2-3. On intra-agency appeal, the 
+Commission summarily affirmed the arbitration decision. Pet. Ex. 1, p. 1-2.  
+ 
+AHA made its final benefits payment to Thompson on or about May 21, 2013. Pet. Ex. 1, 
+p. 2. Nearly three years later, Thompson filed a review-reopening petition before the Commission 
+seeking additional benefits related to his injury. Pet. Ex. 1, p. 2. In its answer, AHA stated it 
+discovered that KSC was insured by Liberty Mutual on June 16, 2008, not by AHA. Consequently, 
+AHA claims it had mistakenly paid Thompson’s workers’ compensation benefits.  AHA argues 
+those benefits should have been paid by Liberty Mutual. Pet. Ex. 1, p. 2; Pet. Br. at 3.  
+ 
+At the end of December 2016, AHA filed an application and consent order for the payments 
+of benefits under Iowa Code section 85.21, which was approved by the Commission. Pet Ex. 1, 
+pp. 1-2. AHA then filed a Petition before the Commission seeking contribution and reimbursement 
+from Liberty Mutual for benefits paid to Thompson. Pet. Ex. 1, pp. 1-2. In its Petition, AHA noted 
+Liberty Mutual’s coverage period for KSC began on May 1, 2008, approximately six and one-half 
+weeks before Thompson’s determined date of injury. Pet. Ex. 1, pp. 1-2.  
+In response, Liberty Mutual filed a motion for partial summary judgment with respect to 
+AHA’s contribution claims, arguing AHA could only be reimbursed for benefits paid after the 
+issuance of the Commission’s January 2017 consent order. Pet. Ex. 1, p. 3; see generally Resp. Br. 
+at 1-5. AHA resisted Liberty Mutual’s Motion and cross-filed seeking summary judgment. In its 
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+3 
+motion, AHA requested Liberty Mutual be required to pay contribution for benefits paid to 
+Thompson by AHA, as Liberty Mutual was KSC’s workers’ compensation insurance carrier on 
+the date of Thompson’s injury. Pet. Ex. 1, p. 3; Pet. at ¶ 2.  
+On July 24, 2018, the presiding deputy commissioner granted summary judgment to AHA, 
+determining Liberty Mutual was responsible for contribution from the date of Thompson’s injuries, 
+including reimbursement for any benefits paid by AHA before the January 2017 consent order. 
+Pet. Ex. 1, pp. 7-8; Pet. at ¶ 5. In ruling, the Deputy reviewed the law of contribution and 
+reimbursement under Chapter 85 and provided an overview of the Commission’s agency decisions 
+relied on by Liberty Mutual. Pet. Ex. 1, pp. 2, 5-6. In doing so, the deputy recognized that questions 
+of contribution, good faith, and mistake are likely within the jurisdiction of the courts, not the 
+Commission. Pet. Ex. 1, p. 6 (“Dakota Truck Underwriters set forth the applicable law on section 
+85.21 claims [] however, the commissioner found contribution in that claim was a contract matter 
+under district court jurisdiction”). The Deputy further observed that there is an absence of law on 
+this matter, thus presenting an issue of first impression for the Commission and courts on whether 
+cumulative injuries are considered under the same procedural strictures as non-cumulative injuries 
+under Section 85.21. Pet. Ex. 1, pp. 5-8. Liberty Mutual then appealed. Pet. at ¶ 5. 
+On October 7, 2019, the Deputy Workers’ Compensation Commissioner provided the 
+Commission’s final agency action and reversed the July 24, 2018 Ruling on Motions for Summary 
+Judgment, holding instead that Iowa Code section 85.21 does not allow for retroactive contribution 
+or reimbursement for any benefits paid by AHA to Thompson after arbitration. Pet. Ex. 2, p. 1; 
+Pet. at ¶ 5; Answer at ¶ 5. On appeal, the Deputy found retroactive reimbursement would be 
+improper because AHA failed to obtain a consent order prior to the underlying arbitration for 
+Thompson’s injuries. Pet. Ex. 2, pp. 12-13 (“Because [AHA] failed to seek an Iowa Code section 
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+4 
+85.21 consent order prior to arbitration hearing, Liberty Mutual is not liable. . ..”). The Deputy 
+reasoned AHA had notice of the possibility that Liberty Mutual was the carrier responsible for 
+paying benefits on the underlying claim when Thompson amended his date of injury to fall outside 
+AHA’s coverage period for KSC. Pet. Ex. 2, pp. 9-10.  Additionally it was asserted, to affirm the 
+conclusions of the Proposed Decision would be to overturn the Commission’s 20-year precedent 
+surrounding Section 85.21. Pet. Ex. 2, p. 12. The Deputy further found that the legislature and 
+Iowa’s courts have acquiesced in its interpretation by not modifying the Commission’s 
+interpretation of the Statute, as set out in Van Wyngarden. Pet. Ex. 2, p. 12; see Employers Mut. 
+Cas. Companies v. Van Wyngarden & Abrahamson, Workers’ Comp. Comm’n File Nos. 1059572, 
+1059573, 10595, 1011165 (App. June 30, 1998).  
+Stephanie J. Copley, Deputy Workers’ Compensation Commissioner ultimately held in the 
+Appeal Decision:   
+Liberty Mutual is not liable for contribution to American Home for benefits ordered 
+to be paid and paid pursuant to the arbitration decision.  Liberty Mutual’s motion 
+is denied and American Home’s cross motion is granted to the extent that Liberty 
+Mutual is liable for contribution to American Home for any payments of permanent 
+partial disability benefits paid in excess of the 125 weeks ordered by the arbitration 
+decision (which does not appear to have occurred) and for any medical benefits 
+paid after the date of the arbitration hearing and not ordered by the arbitration 
+decision (if any such payments exist). Pet. Ex. 2, p. 13. 
+  
+ 
+Subsequently, AHA filed this Petition for Judicial Review now before the Court on 
+November 4, 2019. AHA alleges the Commission's final decision and interpretation of Iowa Code 
+Section 85.21 was erroneous and violates the interpretation of the Statute by Iowa’s courts. Pet. at 
+¶¶ 3, 6-7; Pet. Br. at 7, 13-17.  
+II. STANDARD OF REVIEW 
+ 
+Iowa Code Chapter 17A governs the judicial review of an agency’s final decision, 
+including those of the Iowa Workers’ Compensation Commission (“Commission”). Ramirez-
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+5 
+Trujillo v. Quality Egg, L.L.C., 878 N.W.2d 759, 768 (Iowa 2016), reh’g denied (May 27, 2016); 
+See Iowa Code § 86.26 (2020).1 The district court acts in an appellate capacity to correct errors of 
+law made by the Commission. Meyer v. IBP, Inc., 710 N.W.2d 213, 219 (Iowa 2006). The standard 
+of review varies based upon the type of terror allegedly committed by the Commission. Jacobson 
+Transp. Co. v. Harris, 778 N.W.2d 192, 196 (Iowa 2010). Where an agency has been “clearly 
+vested” with a fact-finding function, the “standard of review [on appeal] depends on the aspect of 
+the agency’s decision that forms the basis of judicial review” depending on if it involves an issue 
+of (1) findings of fact, (2) an interpretation of law, or (3) an application of law to fact. Burton v. 
+Hilltop Care Ctr., 813 N.W.2d 250, 256 (Iowa 2012) (internal citations and quotations omitted). 
+a. Review of Agency’s Findings of Fact.  
+ 
+If the alleged error is one of fact, the Court reviews the record to determine if the findings 
+are supported by substantial evidence. Harris, 778 N.W.2d at 196. “Evidence is substantial if a 
+reasonable person would find the evidence adequate to reach the same conclusion.” Grundmeyer 
+v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002) (internal citation omitted). In reviewing 
+the record, the Court “is limited to the findings that were actually made by the agency and not 
+other findings the agency could have made.” Id. The Court must engage in a “fairly intensive 
+review of the record to ensure the fact finding is itself reasonable.” Wal-Mart Stores, Inc. v. 
+Caselman, 657 N.W.2d 493, 499 (Iowa 2003); Neal v. Annett Holdings, Inc., 814 N.W.2d 512, 
+518 (Iowa 2012). The Court’s task is “not to determine whether the evidence supports a different 
+finding; rather [it] is to determine whether substantial evidence, viewing the record as a whole, 
+supports the findings actually made.” Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 
+                                                 
+1 Hereinafter, all references to the Iowa Code or the Iowa Administrative Code are from 2020.  
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+6 
+845 (Iowa 2011) (internal citations and quotations omitted). There are no issues of fact impacting 
+this decision.   
+b. Review of Agency’s Legal Interpretations. 
+ 
+If the Commission’s interpretation of law is the claimed error, the question on review is 
+whether its interpretation was erroneous. Clark v. Vicorp Rests., Inc., 696 N.W.2d 596, 604 (Iowa 
+2005). The Court has discretion to substitute its own interpretation of law for that of the agency 
+when legal challenges are made on judicial review and the Court is not required to give the 
+agency’s interpretation deference. Meyer, 710 N.W.2d at 219; see also Iowa Ass’n of Sch. Bds. v. 
+Iowa Dept. of Educ., 739 N.W.2d 303, 306 (Iowa 2007). However, the Court is required to give 
+“appropriate deference” to the agency’s interpretation of law when it has been “clearly vested” 
+with the authority to interpret a statute’s provisions. Burton, 813 N.W.2d at 256; Iowa Code § 
+17A.19(11)(c). If this is the case, the agency’s interpretation will be followed unless it is 
+“irrational, illogical, or wholly unjustifiable.” Iowa Code § 17A.19(10)(f).  
+ 
+“In deciding whether the interpretation of a statute has clearly been vested by a provision 
+of law in the agency's discretion, we give no deference to the agency's view of this matter.” Iowa 
+Ass’n of Sch. Bds., 739 N.W.2d at 307. In order to reach the correct decision, the Court considers 
+“the precise language of the statute, its context, the purpose of the statute, and the practical 
+considerations involved." Mosher v. Dep’t of Inspections Appeals, 671 N.W.2d 501, 509 (Iowa 
+2003) (internal citations and quotations omitted). In doing so, the Court uses its “own independent 
+judgment” to determine where “the legislature actually intended (or would have intended had it 
+thought about the question) to delegate the agency interpretive power with the binding force of 
+law over the elaboration of the provision in question.” Id.  
+c. Review of Agency’s Application of Law to Fact.  
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+7 
+ 
+If the Commission’s ultimate conclusion is the claimed error, “then the challenge is to the 
+agency’s application of the law to the facts, and the question on review is whether the agency 
+abused its discretion by, for example, employing wholly irrational reasoning or ignoring important 
+and relevant evidence.” Meyer, 710 N.W.2d at 219; Iowa Code §§ 17A.19(10)(i), (j). The Court 
+will only reverse the agency’s application of law to the facts if it is irrational, illogical, or wholly 
+unjustifiable. Iowa Code § 17A.19(10)(m); Neal, 814 N.W.2d at 518.  
+III. ANALYSIS AND CONCLUSIONS OF LAW 
+ 
+On July 24, 2018 the Deputy Commissioner succinctly summed up the arguments of the 
+parties.  Liberty Mutual asserts “a consent order was not approved until January 3, 2017 and it 
+would be improper to order contribution for benefits paid prior to this date.”  Ruling on Motions, 
+p. 5.  AHA counters:  “Liberty Mutual was the proper insurance carrier on the date of injury 
+determined by this agency and as such, Liberty Mutual owes American Home contribution for any 
+benefits paid in connection with June 16, 2008 injury.”  Id. The legal interpretation of Iowa Code 
+Section 85.21 settles the argument. 
+The facts before the Court are undisputed. As such, neither party challenges the factual 
+determinations of the Commission. Instead, AHA appears to only raise a single challenge on 
+appeal, claiming that the Commission’s final decision represents an incorrect legal interpretation 
+of Iowa Code Section 85.21.2 
+1. Whether the Commission’s Interpretation was Erroneous.  
+                                                 
+2 The Court recognizes that AHA’s Petition includes every possible ground for relief on judicial review contained in 
+Iowa Code section 17A.19(10)(a)-(n). Likewise, the Court recognizes that both parties raise public policy arguments 
+in support of their positions. However, the substance of AHA’s claims on judicial review challenge the Commission’s 
+legal interpretation of Iowa Code section 85.21. Thus, as the facts are not in dispute, the Court will focus its analysis 
+only on the Commission’s legal interpretation of the relevant section.  
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+8 
+ 
+First, AHA alleges the Commission’s final decision misinterprets Iowa Code section 85.21. 
+As this challenge is a legal one, the Court reviews the Commission’s interpretation of law to 
+determine whether it was erroneous. Burton, 813 N.W.2d at 256; Clark, 696 N.W.2d at 604; see 
+also Erroneous Definition, Black’s Law Dictionary (11th ed. 2019) (defining “erroneous” as 
+“Incorrect; inconsistent with the law or the facts.”).  
+ 
+On review, the Court is allowed to substitute its own legal interpretation unless the 
+Commission is “clearly vested” with the authority to interpret the Law’s provisions.  Burton, 813 
+N.W.2d at 256. “In deciding whether the interpretation of a statute has clearly been vested by a 
+provision of law in the agency's discretion, we give no deference to the agency's view of this 
+matter.” Iowa Ass’n of Sch. Bds., 739 N.W.2d at 307. The Court must consider “the precise 
+language of the statute, its context, the purpose of the statute, and the practical considerations 
+involved." Mosher, 671 N.W.2d at 509.  
+In recent years, Iowa’s appellate courts have “repeatedly declined to give deference to the 
+commissioner’s interpretations of various provisions in chapter 85.” JBS Swift & Co. v. Ochoa, 
+888 N.W.2d 887, 892-93 (Iowa 2016) (quoting Iowa Ins. Inst. v. Core Grp. of Iowa Ass’n for 
+Justice, 867 N.W.2d 58, 65 (Iowa 2015). This is largely because the terms of our workers’ 
+compensation statute are not “uniquely within the subject matter expertise of the agency.” Id. 
+(quoting Renda v. Iowa Civil Rights Comm’n, 784 N.W.2d 8, 14 (Iowa 2010)). Our Supreme Court 
+has conclusively held that “nothing in the workers’ compensation statutes [] convinces us that the 
+legislature has delegated any special powers to the agency regarding the interpretation of case law 
+or statutes. So the agency’s interpretation has not ‘clearly been vested by a provision of law in the 
+discretion of the agency.’” P.D.S.I. v. Peterson, 685 N.W.2d 627, 633 (Iowa 2004); Mycogen Seeds 
+v. Sands, 686 N.W.2d 457, 464 (Iowa 2004) (“We see nothing in Iowa Code chapter 85 that 
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+9 
+convinces us that the legislature has delegated any special powers to the agency regarding statutory 
+interpretation in these areas.”). Consequently, the Court need not give the Commission any 
+deference as it relates to its legal interpretation and is free to substitute its judgment. P.D.S.I., 685 
+N.W.2d at 633 (citing Iowa Code §§ 17A.19(10)(c), 11(b); Mycogen Seeds, 686 N.W.2d at 464)).  
+The Court begins with reviewing the exact language of the statute at-issue. In doing so, the 
+Court keeps “in mind that the workers' compensation law ‘must be construed according to the 
+language the legislature has chosen.’” Zomer v. West River Farms, 666 N.W.2d 130, 133 (Iowa 
+2003) (quoting Ehteshamfar v. UTA Engineered Sys. Div., 555 N.W.2d 450, 453 (Iowa 1996)). 
+The Statute, in relevant part, provides as follows:  
+1. The workers' compensation commissioner may order any number or combination 
+of alleged workers' compensation insurance carriers and alleged employers, which 
+are parties to a contested case or to a dispute which could culminate in a contested 
+case, to pay all or part of the benefits due to an employee or an employee's 
+dependent or legal representative if any of the carriers or employers agree, or the 
+commissioner determines after an evidentiary hearing, that one or more of the 
+carriers or employers is liable to the employee or to the employee's dependent or 
+legal representative for benefits under this chapter or under chapter 85A or 85B, 
+but the carriers or employers cannot agree, or the commissioner has not determined 
+which carriers or employers are liable. 
+. . . 
+3. When liability is finally determined by the workers' compensation commissioner, 
+the commissioner shall order the carriers or employers liable to the employee or to 
+the employee's dependent or legal representative to reimburse the carriers or 
+employers which are not liable but were required to pay benefits. Benefits paid or 
+reimbursed pursuant to an order authorized by this section do not require the filing 
+of a memorandum of agreement. However, a contested case for benefits under this 
+chapter or under chapter 85A or 85B shall not be maintained against a party to a 
+case or dispute resulting in an order authorized by this section unless the contested 
+case is commenced within three years from the date of the last benefit payment 
+under the order. The commissioner may determine liability for the payment of 
+workers' compensation benefits under this section. 
+ 
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+10 
+Iowa Code § 85.21. Based on its text, the law authorizes the commissioner to order a workers’ 
+compensation insurance carrier to pay any benefits due to an injured worker. Taylor v. Maytag 
+Co., 2004 WL2002501, at *1 (Iowa Ct. App. Sept. 9, 2004). It likewise “empowers the 
+[commissioner] to apportion liability between insurance carriers and to order reimbursement to 
+any carrier that was not liable but was required to pay.” United Technologies Corp. v. Bahmler, 
+2003 WL553855, at *5 (Iowa Ct. App. Feb. 28, 2003) (citing Iowa Code § 85.21(1)(3)); Second 
+Injury Fund of Iowa v. Bergeson, 526 N.W.2d 543, 549 (Iowa 1995) (“Section 85.21 gives the 
+commissioner authority to order reimbursement where one party makes voluntary payment that 
+ultimately the commissioner determines should have been paid by another party.”). 
+Based on a plain text reading of Section 85.21(1), the commissioner may order a workers’ 
+compensation insurance carrier to provide reimbursement to another carrier when both “are parties 
+to a contested case or to a dispute which could culminate in a contested case.” However, the 
+commissioner cannot apportion liability or order contribution when the liable carrier is not a party 
+to the contested case. Hartman v. Clarke Cty. Homemakers, 520 N.W.2d 323, 326 (Iowa Ct. App. 
+1994). The term “contested case” therefore becomes important for purposes of this analysis. 
+As it relates to our workers’ compensation law, the term “contested case” takes two 
+relevant forms. First, Section 85.21 disputes between insurance carriers to determine liability or to 
+seek reimbursement are by definition “contested case” proceedings before the Commission. 876 
+IAC 4.1(16). Second, the Commission has restrained the understanding and application of the term 
+“contested case” through its agency rulings to only permit reimbursement, once requested, “before 
+the evidentiary hearing in a case.” See Van Wyngarden & Abrahamson, File Nos. 1059572, 
+1059573, 1059574, 1011165. This aforementioned phrase replaces the language of Section 
+85.21(1), which uses “contested case.” See Iowa Code § 85.21(1). In construing and applying the 
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+11 
+term “evidentiary hearing in a case,” the Commission has interpreted this substitute phrase to only 
+reference the underlying injured worker’s arbitration hearing. Id.; Cambridge Integrated v. 
+Fareway Stores, Inc., 2001 WL 34111282, at *3 (Iowa Workers’ Comp. Comm’n Arb. Dec. 21, 
+2001); see also Pet Ex. 2, p. 8. As far as the Court can tell, Iowa’s appellate courts have not 
+interpreted the Commission’s substituted phrase since the Commission began its use. However, 
+the Court does not give any deference to the agency’s interpretation when construing the Statute. 
+Iowa Ass’n of Sch. Bds., 739 N.W.2d at 307 (citing Iowa Code § 17A.19(11)(a)). 
+ 
+Upon review, it is clear to the Court that the legislature used the term “contested case” and 
+not “evidentiary hearing in a case” that the Commission has substituted in its place. The meaning 
+of “contested case” is not so narrow as to mean only the arbitration proceedings that determine the 
+factual basis, liability, and the scope of compensability of a claimant’s injuries. See generally Iowa 
+Code §§ 86.14, 86.17. Chapters 85 (Iowa’s workers’ compensation statute) and 86 (creating the 
+Commission) do not define the term “contested case.” See, in absentia, Iowa Code §§ 85, 86. 
+Instead, the Commission’s relevant administrative rule provides the types of proceedings that 
+constitute a contested case before the Commission without defining “contested case.” 876 IAC 
+4.1. Even more, the Commission’s Rule specifically states that it “is intended to implement Iowa 
+Code sections 17A.2(2) and 86.8 and the statutory sections noted in each category of the rule.” Id. 
+In looking to Chapter 17A, the law defines a contested case as “any proceeding in which the legal 
+rights, duties or privileges of a party are required by Constitution or statute to be determined by an 
+agency after an opportunity for an evidentiary hearing.” Iowa Code § 17A.2(5). However, the 
+Chapter does not limit the term “evidentiary hearing” to mean only those proceedings which 
+determine an injured worker’s right to benefits. In fact, as an exception to the general rule, Section 
+85.21 grants standing to parties like insurance carriers to dispute liability or seek reimbursement 
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+12 
+for any benefits incorrectly paid after liability is determined before the Commission. See Iowa 
+Code § 85.26(4); Iowa Code §§ 85.21(1), (3); Dakota Truck Underwriters v. Continental W. Ins., 
+File Nos. 5028722, 5028738 (Iowa Workers’ Comp. Comm’n App. Sept. 28, 2011); Cambridge 
+Integrated, 2001 WL34111282 at *3.  
+The Court finds the term “contested case” for purposes of Iowa Code section 85.21 is broad 
+enough to permit independent proceedings under the Statute’s plain text. As such, the requirement 
+that those seeking relief under Iowa Code section 85.21 be “a party to a contested case” refers to 
+those who are a part of the proceeding before the Commission that was brought to determine 
+liability and/or whether reimbursement is warranted. The Statute’s language, in addition to the 
+relevant terms and their definitions provided by the legislature, is broad enough to include not only 
+those who were a party to the underlying arbitration proceeding, but also those who are potentially 
+responsible for reimbursement or the payment of benefits under Section 85.21.  
+Importantly, “When liability is finally determined by the workers’ compensation 
+commissioner, the commissioner shall order the carriers or employers liable to the employee to 
+reimburse the carriers or employers which are not liable but were required to pay benefits.” Iowa 
+Code § 85.21(3). Of course, the language of Section 85.21(3) grants authority to the commissioner 
+to determine who is responsible for the payment of benefits to the injured worker, which is 
+consistent with the authority the commissioner is extended more generally under Chapter 85. 
+However, while Chapter 85 vests the commissioner with the discretion and authority “to decide 
+any issue necessary to a determination of whether a [injured worker] is entitled to workers’ 
+compensation benefits,” this authority as applied to Section 85.21 is limited to factual 
+determinations, rather than the interpretation of the law itself. See Taylor, 2004 WL2002501 at *1;  
+Zomer, 666 N.W.2d at 134 (citing Travelers Ins. Co. v. Sneddon, 86 N.W.2d 870, 877 (Iowa 1957)) 
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+13 
+(finding “the commissioner ha[s] jurisdiction to decide whether [a] workers' compensation policy 
+at issue was in effect at the time of the employee's injury.”). As it relates here, it has been 
+undisputed by the parties since this action’s commencement that Thompson’s July 2008 injury—
+determined by the Commission after the evidentiary hearing—was outside the scope of AHA’s 
+coverage period for KSC. It is further undisputed that Liberty Mutual was the carrier in-interest 
+for KSC at the time of Thompson’s injury. As no factual dispute exists, the discretion and authority 
+granted to the Commissioner is not in dispute, implicated, or at issue now.  
+Next, continuing with its review of Section 85.2’s precise language, the Court finds there 
+is nothing in the Iowa Code’s specific text that limits a carrier’s ability to be reimbursed for 
+benefits that they paid, but are not liable for, from another carrier that is actually liable. Simply 
+put, there is no time constraint expressed in the Statute’s clear language. See Iowa Code § 85.21(3). 
+To the contrary, our Supreme Court has provided that “Employers may generally recover payments 
+made by mistake in workers’ compensation matters.” Wilson Food Corp. v. Cherry, 315 N.W.2d 
+756, 757 (Iowa 1982) (citing 101 C.J.S. Workmen's Compensation § 835 (1958); 82 Am Jur 2d, 
+Workmen's Compensation § 365 (1976); Lemmer v. Batzli Elect. Co., 267 Minn. 8, 16-21, 125 
+N.W.2d 434, 440-42 (1963); Bland Casket Co. v. Davenport, 221 Tenn. 492, 427 S.W.2d 839, 845 
+(1968); Ratzlaff v. Friedeman Serv. Store, 200 Kan. 430, 436 P.2d 389, 394 (1968); Wilborn 
+Construction Co. v. Parker, 281 Ala. 626, 206 So.2d 872, 873-75 (Ala.1968); Dunlap v. State 
+Comp. Dir., 140 S.E.2d 448, 452 (W.Va.1965)).  
+In Wilson Food Corporation v. Cherry, the Iowa Supreme Court determined that an 
+employer in a workers’ compensation proceeding was entitled to a credit for a mistaken 
+overpayment of healing period benefits. Id. In reaching its conclusion, the Iowa Supreme Court 
+determined that inconvenience to a claimant by an acceleration of payments was not a reason to 
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+14 
+prevent an employer from receiving a credit. Id. Instead, the Court held that “the public interest 
+will be better served by encouraging employers to freely pay injured employees without 
+adversary strictness.” Id. This Court finds Cherry instructive. Even though it was not in the 
+context of seeking reimbursement under Iowa Code § 85.21. Although it references healing 
+period benefits, its conclusions support a finding that mistaken payments made under Section 
+85.21 are also recoverable after being provided to an injured worker. It follows then that the 
+overarching purpose of Iowa’s workers’ compensation law may be relevant to the Court’s 
+analysis in order to properly determine Section 85.21’s meaning. 
+Iowa’s workers’ compensation law, first enacted in 1913, was created to fulfill the 
+promise “that the disability of a work[er] resulting from an injury arising out of and in the course 
+of [their] employment is a loss that should be borne by the industry itself . . . and not suffered 
+alone by the work[er] or the employer, depending on individual fault or negligence.” Baker v. 
+Bridgestone/Firestone and Old Republic Ins., 872 N.W.2d 672, 676 (Iowa 2015) (quoting 
+Tunnicliff v. Bettendorf, 204 Iowa 168, 171, 214 N.W. 516, 517-18 (1927)); Hansen v. State, 91 
+N.W.2d 555, 556 (Iowa 1958). “The fundamental reason for the enactment of this legislation is 
+to avoid litigation, lessen the expense incident thereto, minimize appeals, and afford an efficient 
+and speedy tribunal to determine and award compensation under the terms of this act.” Zomer, 
+666 N.W.2d at 133 (quoting Flint v. City of Eldon, 191 Iowa 845, 847, 183 N.W. 344, 345 
+(1921)). As it relates to Section 85.21, the law’s purpose “was to facilitate a more prompt 
+payment of benefits for obvious work injuries when liability is disputed among two or more 
+employers or insurance carriers.” Cambridge Integrated, 2001 WL 34111282 at *3. “By 
+recognizing the commissioner's authority to order reimbursement we further the beneficial 
+purpose of encouraging the voluntary payment of benefits to the employee while the case is 
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+15 
+pending.” Bergeson, 526 N.W.2d at 549. In short, the overarching purpose of Iowa’s workers’ 
+compensation statute is to provide prompt payment of benefits to an injured worker. Separately, 
+the purpose of Section 85.21 is to encourage employers or insurance carriers to provide such 
+benefits quickly, all while allowing the Commission to determine who is truly responsible for 
+those benefits later on. The Court also found persuasive reasons that the Deputy discussed in the 
+July 24, 2018 Ruling on Summary Judgment which included public policy rationales, the nature 
+of cumulative trauma claims, and the burden on the employer as to dates of coverage.  See 2018 
+Ruling pp. 6-8.  
+ 
+Thus, the Court’s conclusion that Section 85.21 is not constricted to only allow 
+reimbursement proactively after arbitration, and only for those parties who were a part of the 
+underlying arbitration, is supported by the plain text of the Statute and is consistent with the 
+legislature’s purpose for adopting it.  Our Supreme Court has determined that “Section 85.21 gives 
+the commissioner authority to order reimbursement where one party makes voluntary payment that 
+ultimately the commissioner determines should have been paid by another party.” Bergeson, 526 
+N.W.2d at 549. Section 85.21, as explained by the Iowa Supreme Court, is not time bound nor 
+limited only to arbitration. Id. Instead, the Court observes the plain terms of Section 85.21 
+effectuate the law’s purpose—to provide payments quickly to an injured worker without waiting 
+to first resolve tangential disputes about which insurance carrier is liable. See Baker, 872 N.W.2d 
+at 678 (citing 1 Larson § 1.03[7], at 1-13) (“workers' compensation is a system, not a contest, to 
+supply security to injured workers....”). Furthermore, the public policy goals of Iowa’s workers’ 
+compensation laws are better met by not requiring “adversar[ial] strictness” against carriers who 
+pay in a timely manner and in good faith. Cherry, 315 N.W.2d at 757. 
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+16 
+ 
+In turning to this case, the Court finds the Commission’s legal interpretation of Section 
+85.21 in its final agency action was erroneous.  Liberty Mutual points out that in interpreting 
+Iowa Code § 85.21, the Commission has consistently held that Iowa Code § 85.21 only permits a 
+petitioner to obtain contribution or reimbursement from a third party for benefit payments made 
+after an 85.21 order has been issued.  In this case, Thompson suffered a cumulative injury while 
+employed with KSC. Prior to the Commission’s issuance of its arbitration decision, the date of 
+Thompson’s injuries was disputed and undetermined. Instead, three injury dates were provided at 
+the arbitration hearing, one date which AHA would have been responsible for the payment of all 
+benefits. The Commission ultimately found Thompson’s date of injury to be outside of AHA’s 
+coverage period for KSC, but AHA continued to make benefits payments consistent with the 
+Commission’s arbitration decision as required under Chapter 85.  
+Once AHA discovered it mistakenly made the required 125 weeks of payments to 
+Thompson, AHA sought to remedy the action under its only statutory option for reimbursement, 
+Section 85.21. It is not disputed that Liberty Mutual was the insurance carrier for KSC that was 
+supposed to be responsible for making payments to Thompson. In reaching its conclusion, the 
+Court finds no case law specifically holding that reimbursement or contribution is statutorily 
+improper for benefits mistakenly paid by an insurance carrier. Indeed, as noted above, neither 
+our legislature nor our Supreme Court has placed a time limitation on reimbursement actions or a 
+carrier’s right to recovery.  
+Moreover, in applying Wilson Food Corporation v. Cherry, allowing reimbursement for 
+benefits mistakenly paid “furthers the beneficial purpose” of Iowa’s workers’ compensation 
+system. Bergeson, 526 N.W.2d at 549. With this in mind, the Court finds that when an employer 
+or insurance carrier mistakenly paid benefits prior to the determination of the proper date of injury, 
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+17 
+but discovered its mistake after it had made or completed payments, they are entitled to 
+reimbursement under Section 85.21. Their entitlement is, of course, still subject to the 
+Commission’s factual determination of who is liable. Iowa Code §§ 85.21(1), (3). However, 
+whether the mistake or “oversight” in making payments was on the part of AHA matters not under 
+the Code’s plain language.  As the Deputy pointed out, “American Home mistakenly continued to 
+admit it was the correct insurer for the next five and a half years, including at the arbitration 
+hearing, before it recognized its error in November of 2016.”  Appeal Decision, p.5.  It seems that 
+this finding may reward a sophisticated insurer who may be asleep at the wheel but I cannot find 
+limiting language in the statute.  The Court will not read into the Statute something that is not 
+there.  State v. Chang, 587 N.W.2d 459, 461 (Iowa 1998) (“When a statute is plain and its meaning 
+is clear, courts are not permitted to search for meaning beyond its express terms.”). Consequently, 
+as Liberty Mutual cites no case law other than the Commission’s administrative decisions in its 
+support, the Court finds Liberty Mutual’s reliance misplaced at this level.  
+It is important at this juncture to state that the Court recognizes this interpretation is 
+contrary to the cases that have followed the Commission’s restricted interpretation of Section 
+85.21. The Deputy Commissioner in October 7, 2019 detailed the reasons why this court should 
+continue to apply the Van Wyngarden rule.  However, as far as this Court, the Commission, or the 
+parties can tell, this issue is one of first impression before Iowa’s Courts with these unique facts. 
+As such, the Court’s consideration of Iowa Code section 85.21 interprets and applies what the law 
+actually says by analyzing its plain language and context in a manner consistent with the Section’s 
+purpose.   
+For predictability, planning and providing attorneys guidance for advising clients, bright 
+lines are very helpful and instructive.  In the Appeal Decision, the Commissioner held that “the 
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+18 
+Van Wyngarden rule draws a line in the sand at evidentiary hearing. . . ,” stating that an 
+insurance carrier’s failure to obtain an 85.21 order before the arbitration hearing is a “bar to 
+retroactive reimbursement.” App. Dec. pp. 7, 12 (citing Employers Mutual Casualty Co. v. Van 
+Wyngarden & Abrahamson, File Nos. 1059572, 1059573, 1059574 (App. Dec. 6/20/98)).  This 
+Ruling is taking away the line in the sand for this set of facts. 
+2. Summary Judgment.  
+This judicial review action arises from denial of summary judgment for AHA and a grant 
+of summary judgment for Liberty Mutual. As such, the Court is required to consider whether 
+summary judgment is a proper remedy under Iowa Code section 17A.19(10).  
+“Summary judgment is appropriate only when there is no genuine issue of material fact 
+and the moving party is entitled to judgment as a matter of law.” Honomichi v. Valley View Swine, 
+L.L.C., 914 N.W.2d 223, 230 (Iowa 2018). “An issue is genuine if the evidence in the record is 
+such that a reasonable jury could return a verdict for the nonmoving party.” Id. Summary judgment 
+is only appropriate if the parties agree that all material facts are undisputed and the case presents 
+only legal issues for review. Kucera v. Baldazo, 745 N.W.2d 481, 483 (Iowa 2008). “A fact issue 
+is generated if reasonable minds can differ on how the issue should be resolved.” Schlueter v. 
+Grinnell Mut. Reins. Co., 553 N.W.2d 614, 616 (Iowa Ct. App. 1996) (citing Thorp Credit, Inc. v. 
+Gott, 387 N.W.2d 342, 343 (Iowa 1986)). The Court views the record in light most favorable to 
+the nonmoving party and “will grant that party all reasonable inferences that can be drawn from 
+the record.” Honomichi, 914 N.W.2d at 230. To resist the motion, the nonmoving party must set 
+forth facts constituting competent evidence showing a prima facie claim. Hoefer v. Wisconsin 
+Educ. Ass’n Ins. Trust, 470 N.W.2d 336, 339 (Iowa 1991). 
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+ 
+19 
+ 
+There is no genuine dispute of material fact at-issue in this case. As a result, summary 
+judgment may be properly granted following resolution of a case’s legal issues. Kucera, 745 
+N.W.2d at 483. Liberty Mutual does not contest, if discovered, it should have been responsible 
+for paying Thompson’s workers’ compensation benefits. Nor does it contend it was not KSC’s 
+insurance carrier at the time of Thompson’s injuries. In light of the holding articulated above, the 
+Court hereby grants summary judgment in favor of AHA, entitling it to reimbursement from 
+Liberty Mutual. See Iowa Code § 85.21.  
+ 
+V. ORDER 
+ 
+IT IS THEREFORE ORDERED that the decision of the Iowa Workers’ Compensation 
+Commission denying summary judgment to petitioner American Home Assurance is 
+REVERSED.  Liberty Mutual’s motion for partial summary judgment is overruled. American 
+Home Assurance’s motion for summary judgment is sustained.   
+ 
+IT IS FURTHER ORDERED that respondent Liberty Mutual Fire Insurance Company 
+is hereby ordered to provide reimbursement under Iowa Code section 85.21 to petitioner American 
+Home Assurance for the appropriate costs of benefits paid to John Thompson from the determined 
+date of his injury, June 16, 2008.  This includes benefits paid before and after the January 3, 2017 
+consent order. 
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT
+
+State of Iowa Courts
+Type:
+OTHER ORDER
+Case Number
+Case Title
+CVCV059200
+AMERICAN HOME ASSURANCE VS LIBERTY MUTUAL FIRE
+INSURANCE CO
+So Ordered
+Electronically signed on 2020-04-20 17:25:12     page 20 of 20
+E-FILED  2020 APR 20 5:25 PM POLK - CLERK OF DISTRICT COURT

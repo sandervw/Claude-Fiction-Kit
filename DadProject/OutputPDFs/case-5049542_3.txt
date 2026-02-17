@@ -1,0 +1,273 @@
+Case Number: 5049542
+Case Title:  PRESSON, MARK V. FREIBURGER CONCRETE & TO
+Doc Type:    Decision - District Court
+Source:      Presson, Mark-5049542.District Court Decision.PDF
+========================================================================
+
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+ 
+MARK PRESSON,  
+ 
+         Petitioner, 
+ 
+v. 
+ 
+FREIBURGER CONCRETE & 
+TOPSOIL, INC, 
+ 
+         Employer, 
+ 
+and 
+ 
+IOWA MUTUAL INSURANCE CO., 
+ 
+         Insurance Carrier, 
+         Respondents. 
+ 
+ 
+      
+ 
+ 
+Case No. CVCV062543  
+ 
+ 
+ 
+ 
+RULING ON PETITIONER’S 
+PETITION FOR JUDICIAL REVIEW 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+On March 4, 2022, the above-captioned matter came before this Court for hearing.  
+Petitioner Mark Presson appeared through Attorney Jerry Soper.  Respondents Freiburger 
+Concrete & Topsoil, Inc., and Iowa Mutual Insurance Co., were represented by Attorney Edward 
+Rose.  After hearing the arguments of Counsel and reviewing the court file, including the briefs 
+filed by the parties and the Certified Administrative Record, the Court now enters the following 
+ruling.   
+I. 
+BACKGROUND FACTS AND PROCEEDINGS 
+ 
+ 
+Mark Presson filed petition in arbitration with the Iowa Workers’ Compensation 
+Commission on November 26, 2014, seeking workers’ compensation benefits from Respondents, 
+as a result of a stipulated injury sustained in May 2014.  An Arbitration Decision was filed by a 
+Deputy Commissioner on March 17, 2021.  The Deputy found Presson was not a credible witness, 
+based on the record as a whole.  She determined the record was replete with examples of 
+E-FILED                    CVCV062543 - 2022 APR 05 02:28 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 9
+
+2 
+ 
+incomplete and unsubstantiated statements from him regarding his medical, legal, and psychiatric 
+histories.  In addition, the Deputy set forth thorough and detailed findings with regard to all of the 
+medical testimony.  She found Presson relied heavily upon the opinions of Drs. Short, Milas, 
+Miranda, and Angelone.  The Deputy found these opinions insufficient to meet Presson’s burden 
+because they were based upon inaccurate and incomplete histories.   More specifically, she gave 
+Dr. Short’s and Dr. Milas’s opinions little weight because they relied on Presson’s report to them, 
+which was contrary to the medical records; she found Dr. Miranda’s opinion that Presson’s prior 
+mental health admissions should not be given weight because they were all based on false 
+allegations he was under the influence at the time of admission to be in direct contradiction to the 
+medical records; and determined she was unable to give much weight to Dr. Angelone’s opinions 
+because it was unclear the extent of his knowledge of Presson’s preexisting mental health 
+conditions and substance abuse.   The Deputy noted the contradictory opinions of Drs. Kent, 
+Narayana, Tranel, Garrels, and Jacoby.  Based on her determination that Presson lacked credibility 
+and the inconsistent expert medical opinions, she concluded Presson failed to carry his burden of 
+proof to establish he sustained any permanent disability as a result of the stipulated May 2014 
+work injury.  Thus, he was not entitled to receive any permanent disability benefits for the work 
+injury.   
+The Deputy further concluded Presson reached maximum medical improvement (MMI) 
+for the work injury on March 9, 2015, and, thus, was not entitled to receive additional temporary 
+disability benefits from April 23 to August 24, 2015.  In addition, she determined he should not 
+receive penalty benefits and taxed the costs of the arbitration proceeding to Presson.  The Deputy 
+noted in a footnote that Presson’s Exhibit 3, which was the deposition of his friend and former 
+coworker, Mark Berryman, was offered but was not in the agency record before her.         
+E-FILED                    CVCV062543 - 2022 APR 05 02:28 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 9
+
+3 
+ 
+Presson appealed to the Iowa Workers’ Compensation Commissioner.  On June 19, 2021, 
+Presson filed a Motion to have his Exhibit 3, Berryman’s deposition, made part of the agency 
+record, as it had inadvertently been left out of the file.  Respondents did not resist the Motion, and 
+a Deputy Commissioner granted the Motion on September 2, 2021.  The Commissioner issued his 
+Appeal Decision on the same date.  The Commissioner performed a de novo review of the record 
+and affirmed the Deputy’s analysis, findings, and conclusions on all issues raised on appeal.  The 
+Appeal Decision was the final agency action.  See Iowa Code § 17A.19(1).     
+On October 21, 2021, Presson filed the present Petition for Judicial Review appealing the 
+Commissioner’s Appeal Decision.  He alleged the Agency erred in: (1) not considering the 
+deposition testimony of Berryman, under Iowa Code section 17A.19(10)(d); and (2) the weight it 
+gave to the various medical expert opinions offered in this case, under sections 17A.19(10)(f), (l), 
+and (n).         
+The Deputy’s Decision provided approximately 32 pages of findings of fact.  Having 
+reviewed the certified agency record, the Court determines these findings are a detailed and 
+thorough recounting of the evidence provided.  Accordingly, this Court, like the Commissioner 
+below, adopts as its own the entirety of the “Findings of Fact” section of the Arbitration Decision.  
+For this reason, as well as purposes of judicial economy, they need not be set forth here again.    
+II. 
+SCOPE AND STANDARDS OF REVIEW 
+ 
+The Iowa Administrative Procedure Act (IAPA), Iowa Code chapter 17A, governs the 
+scope of the Court’s review in workers' compensation cases.  Iowa Code § 86.26 (2021); Meyer v. 
+IBP, Inc., 710 N.W.2d 213, 218 (Iowa 2006).  The Court’s review of final agency action is 
+“severely circumscribed.”  Sellers v. Emp. Appeal Bd., 531 N.W.2d 645, 646 (Iowa Ct. App. 1995).  
+E-FILED                    CVCV062543 - 2022 APR 05 02:28 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 9
+
+4 
+ 
+Nearly all disputes are won or lost at the agency level; the cardinal rule of administrative law is 
+that judgment calls are within the province of the administrative tribunal, not the courts.  See id.  
+ “Under the [IAPA], we may only interfere with the commissioner's decision if it is 
+erroneous under one of the grounds enumerated in the statute, and a party's substantial rights have 
+been prejudiced.”  Meyer, 710 N.W.2d at 218.  The party challenging agency action bears the 
+burden of demonstrating the action's invalidity and resulting prejudice.  Iowa Code § 17A.19(8)(a).  
+This can be shown in a number of ways, including proof the action was ultra vires; legally 
+erroneous; unsupported by substantial evidence in the record when that record is viewed as a 
+whole; or otherwise unreasonable, arbitrary, capricious, or an abuse of discretion.  See id. § 
+17A.19(10).  The district court acts in an appellate capacity to correct errors of law on the part of 
+the agency.  Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002). 
+  “If the claim of error lies with the agency's findings of fact, the proper question on review 
+is whether substantial evidence supports those findings of fact” when the record is viewed as a 
+whole. Meyer, 710 N.W.2d at 219.  Factual findings regarding the award of workers' compensation 
+benefits are within the Commissioner's discretion, so the Court is bound by the Commissioner's 
+findings of fact if they are supported by substantial evidence.  Clark v. Vicorp Rest., Inc., 696 
+N.W.2d 596, 604 (Iowa 2005).  Substantial evidence is defined as evidence of the quality and 
+quantity “that would be deemed sufficient by a neutral, detached, and reasonable person, to 
+establish the fact at issue when the consequences resulting from the establishment of that fact are 
+understood to be serious and of great importance.”  Iowa Code § 17A.19(10)(f)(1); Cedar Rapids 
+Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 850 (Iowa 2011).  The burden on the movant to prove 
+there is not substantial evidence in the record is a heavy one.  See McComas-Lacina Constr. v. 
+Drake, 884 N.W.2d 225 (Table), 2016 WL 2744948, at *1 (Iowa Ct. App. May 11, 2016) (“A case 
+E-FILED                    CVCV062543 - 2022 APR 05 02:28 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 9
+
+5 
+ 
+reversing final agency action on the ground the agency’s action is unsupported by substantial 
+evidence . . . is the Bigfoot of the legal community - an urban legend, rumored to exist but never 
+confirmed.”) 
+The application of the law to the facts is also an enterprise vested in the commissioner.  
+Larson Mfg. Co. v. Thorson, 763 N.W.2d 842, 850 (Iowa 2009).  Accordingly, the Court will 
+reverse only if the commissioner's application was “irrational, illogical, or wholly unjustifiable.”  
+Id.; Iowa Code § 17A.19(10)(l).  This standard requires the Court to allocate some deference to 
+the commissioner's application of law to the facts, but less than it gives to the agency's findings of 
+fact.  Larson, 763 N.W.2d at 850. 
+III. 
+MERITS 
+Presson first contends the Agency erred in not considering Berryman’s deposition, in 
+violation of Iowa Code section 17A.19(10)(d).  He alleges it was relevant to his claim of industrial 
+disability, as it was evidence that the permanent restrictions to avoid bending, heat, and excessive 
+physical work were not identified solely by his own self-reporting.  First, the record does not 
+specifically state whether the Commissioner took the deposition into account in his Appeal 
+Decision.  However, the Deputy admitted it the same date the Commissioner issued his Decision.  
+As such, it is plausible the Commissioner did in fact consider it in his determination.  The fact he 
+did not specifically reference it in the Appeal Decision does not mean he did not consider it.  It is 
+presumed the agency considered all admissible evidence before it.  See IBP, Inc. v. Al-Gharib, 604 
+N.W.2d 621, 632 (Iowa 2000) (“[T]he courts should broadly and liberally apply [the agency’s] 
+findings to uphold rather than to defeat the agency's decision.”). 
+Second, even if the Commissioner did not consider Berryman’s deposition, there is 
+sufficient other evidence to support the Agency’s determinations.  Presson admits Berryman’s 
+E-FILED                    CVCV062543 - 2022 APR 05 02:28 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 9
+
+6 
+ 
+deposition mostly went to Presson’s loss of earning capacity.  Cl. Br. p. 31.  There was ample 
+testimony from several other persons, including Ricardo Ramirez, Mark Grchan, Sylvia Reyes, 
+and Presson’s mother, Mary Presson, on this same issue, all of which was considered by the 
+Agency.  Accordingly, the Court concludes even if the Commissioner did not consider Berryman’s 
+deposition, Presson’s substantial rights were not prejudiced in any way by such omission.  See 
+Iowa Code § 17A.19(10) (“The court shall reverse, modify, or grant other appropriate relief from 
+agency action . . . if it determines that substantial rights of the person seeking judicial relief have 
+been prejudiced . . . .”).              
+Presson next contends the Commissioner erred in the weight he gave, or failed to give, to 
+the various expert medical opinions in this case.  He alleges the Agency’s determination was: (1) 
+based upon a determination of fact clearly vested by a provision of law in the discretion of the 
+agency that is not supported by substantial evidence in the record before the court when that record 
+is viewed as a whole; (2) based upon an irrational, illogical, or wholly unjustifiable interpretation 
+of a provision of law whose interpretation has clearly been vested by a provision of law in the 
+discretion of the agency; and (3) otherwise unreasonable, arbitrary, capricious, or an abuse of 
+discretion, in violation of Iowa Code sections 17A.19(10)(f), (l), and (n), respectively.   
+The Workers’ Compensation Commissioner, as fact finder, is responsible for determining 
+the weight to be given to any expert testimony.  Sherman v. Pella Corp., 576 N.W.2d 312, 321 
+(Iowa 1998).  He is free to accept or reject an expert's opinion in whole or in part, particularly 
+when relying on a conflicting expert opinion.  Pease, 807 N.W.2d at 850 (citing Huwe v. Workforce 
+Safety & Ins., 746 N.W.2d 158, 161–62 (N.D. 2008) (“When confronted with a classic ‘battle of 
+the experts,’ a fact-finder may rely upon either party's expert witness.”)).   
+The commissioner, as trier of fact, has a duty to weigh the evidence and measure 
+the credibility of witnesses.  The weight given to expert testimony depends on the 
+E-FILED                    CVCV062543 - 2022 APR 05 02:28 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 9
+
+7 
+ 
+“accuracy of the facts relied upon by the expert and other surrounding 
+circumstances.”  Also, an expert's opinion is not necessarily binding upon the 
+commissioner if the opinion is based on an incomplete history.  Ultimately, 
+however, the determination of whether to accept or reject an expert opinion is 
+within the “peculiar province” of the commissioner.   
+ 
+Id. at 845 (citations omitted).   
+Making a determination as to whether evidence “trumps” other evidence or whether 
+one piece of evidence is “qualitatively weaker” than another piece of evidence is 
+not an assessment for the district court or the court of appeals to make when it 
+conducts a substantial evidence review of an agency decision. 
+ 
+Arndt v. City of Le Claire, 728 N.W.2d 389, 394 (Iowa 2007).  Furthermore, when the Court 
+reviews factual questions delegated by the legislature to the Commissioner, such as here, the 
+question before the Court is not whether the evidence might support different findings than those 
+made by the commissioner, but whether the evidence supports the findings actually made.                
+St. Luke's Hosp. v. Gray, 604 N.W.2d 646, 649 (Iowa 2000).  Evidence in support of an agency 
+decision is not insubstantial merely because it would have supported contrary inferences, nor is 
+evidence insubstantial because of the possibility of drawing two inconsistent conclusions from it.  
+City of Hampton v. Iowa Civil Rights Comm'n, 554 N.W.2d 532, 536 (Iowa 1996).  The Court is 
+“obliged to broadly and liberally apply those findings to uphold rather than defeat the 
+commissioner’s decision.”  Pirelli–Armstrong Tire Co. v. Reynolds, 562 N.W.2d 433, 436 (Iowa 
+1997) (citation and internal quotation marks omitted).  
+In applying the above standard-of-review precepts and in giving the due deference the 
+Court is statutorily obligated to afford the Commissioner’s findings of fact, specifically with regard 
+to what expert testimony to give more weight and credibility determinations, the Court approves 
+of the reasons and conclusions in the Commissioner’s Appeal Decision.  Although there may be 
+evidence here to support a different finding, there clearly is evidence in the record to support the 
+E-FILED                    CVCV062543 - 2022 APR 05 02:28 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 9
+
+8 
+ 
+findings actually made by the Commissioner that Presson did not meet his burden to prove the 
+work injury was a cause of permanent disability.  See St. Luke's Hosp., 604 N.W.2d at 649.   
+IV. 
+CONCLUSION AND DISPOSITION 
+ 
+ 
+For all of the reasons set forth above, the Court concludes that Presson’s substantial rights 
+were not prejudiced, even assuming the Commissioner did not consider Berryman’s deposition.  It 
+further concludes there is substantial evidence in the record before the Court, when that record is 
+viewed as a whole, and the Commissioner’s decision was not irrational, illogical, or wholly 
+unjustifiable, or otherwise unreasonable, arbitrary, capricious, or an abuse of discretion in any 
+way.  Accordingly, Presson’s Petition for Judicial Review is DENIED.    
+  
+ 
+ 
+ 
+ 
+ 
+E-FILED                    CVCV062543 - 2022 APR 05 02:28 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 9
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV062543
+MARK PRESSON VS FREIBURGER CONCRETE ET AL
+Type:
+ORDER FOR JUDGMENT
+So Ordered
+Electronically signed on 2022-04-05 14:28:59
+E-FILED                    CVCV062543 - 2022 APR 05 02:28 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 9

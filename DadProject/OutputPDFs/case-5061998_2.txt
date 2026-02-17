@@ -1,0 +1,523 @@
+Case Number: 5061998
+Case Title:  SIMONS, CHAD V. MASTERBRAND CABINETS IN
+Doc Type:    Decision - District Court
+Source:      Simons, Chad-5061998.District Court Decision.pdf
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT IN AND FOR POLK COUNTY 
+MASTERBRAND CABINETS, INC. 
+d/b/a OMEGA CABINETRY,  
+ 
+Employer, 
+ 
+and 
+ 
+ACE AMERICAN INSURANCE CO.,  
+ 
+Insurance Carrier,  
+ 
+Petitioners, 
+ 
+v.  
+ 
+CHAD SIMONS, 
+ 
+Respondent.  
+ 
+ 
+ 
+Case No. CVCV060149 
+ 
+ 
+ 
+RULING ON JUDICIAL REVIEW 
+ 
+Summary of Issues Presented 
+ 
+This is a judicial review action in which Petitioner challenges the 
+decision of the Iowa Workers’ Compensation Commissioner 
+(“Commissioner”) awarding Respondent benefits.  A hearing was held on 
+August 14, 2020.  Petitioners were represented by counsel, Patrick J. 
+O’Connell.  Respondent was represented by counsel, Charles Showalter.  
+The issues before the Court in this case are pretty straightforward.  
+Neither party disputes that on November 10, 2015, Respondent, Chad 
+Simons, suffered a work related injury to his right quadriceps tendon, 
+requiring surgical repair and extensive physical therapy.   
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+2 
+ 
+In this appeal, there are two issues for the Court to decide – a 
+factual dispute and a legal dispute.  Petitioner contends that substantial 
+evidence does not support the factual determination made by the 
+Commissioner that Respondent’s November 10, 2015 right quadriceps 
+tendon injury also caused an injury to Respondent’s right hip in the form 
+of loss of range of motion and strength.  Petitioner also contends that the 
+Commissioner erred as a matter of law in determining that Respondent’s 
+injury was compensable under Iowa Code § 85.34(2)(v) as an injury to the 
+body as a whole.  Instead, Petitioners argue that the Commissioner 
+should have found that Respondent’s injury was only compensable under 
+Iowa Code § 85.34(2)(p) as an injury to a scheduled member (right leg) 
+because the anatomical situs of the injury (quadriceps tendon) was 
+located entirely within the leg.   
+In response, Respondent urges the Court to affirm the holding of 
+the Commissioner.  Respondent contends that the Commissioner 
+properly concluded that Respondent’s quadriceps tendon injury caused 
+impairment to Respondent’s hip, turning his leg injury into a body as a 
+whole injury.  Contrary to Petitioner’s assertion, Respondent contends 
+that it is the situs of the impairment, not the situs of the injury, that 
+controls whether the injury is compensable as a body as a whole or 
+scheduled member injury.  Respondent therefore contends that the 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+3 
+ 
+Commissioner did not err as a matter of law and the Commissioner’s 
+decision is supported by substantial evidence.   
+Having carefully examined the record, the briefs and legal 
+arguments of counsel, for the reasons set forth herein, the Court 
+concludes that the decision of the Commissioner must be affirmed. 
+Findings of Fact 
+ 
+Respondent began working at Omega in 1997. Omega manufactures 
+cabinets and cabinet accessories. As of the date of his injury, Respondent 
+worked as a lead person. He was required to move cabinets off the line. 
+Respondent sustained a work-related injury to his right knee on 
+November 10, 2015. (Arb. Tr. 14–17). 
+ 
+The same day, Dr. Arnold Delbridge, M.D., evaluated Respondent 
+for a swollen right knee. Dr. Delbridge aspirated the knee. (Joint Ex. 1, 1). 
+On November 30, 2015, Dr. Matthew Smith, M.D., evaluated Respondent 
+and determined he had acid reflux, right knee pain, gout, and pre-
+diabetes, and was overweight. (Joint Ex. 2, 4). On December 9, 2015, Dr. 
+Benjamin Torrez, D.O., saw Respondent for right knee pain. Dr. Torrez 
+assessed that Respondent had a right knee partial quad tear and 
+recommended that he get an MRI. (Joint Ex. 3, 5–6). 
+ 
+Respondent took an MRI on December 16, 2015, which showed 
+evidence of a distal quadriceps tendon tear. (Joint Ex. 4, 9). On February 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+4 
+ 
+4, 2016, Dr. James Stanford, D.O., saw Respondent. They discussed and 
+chose to pursue surgery as a treatment option. (Joint Ex. 6, 13–14). On 
+February 5, 2016, Dr. Stanford performed surgery on Respondent 
+consisting of a right quad tendon repair. (Joint Ex. 7, 22–23). Dr. Stanford 
+recommended that Respondent undergo physical therapy. Respondent 
+attended physical therapy from February 18, 2016 through August 18, 
+2016. (Joint Ex. 8, 38). Respondent testified that he returned to full duty 
+work with Omega on March 20, 2016. (Arb. Tr. 41). 
+ 
+Respondent’s return to work caused right knee pain and swelling, 
+and on March 24, 2016, he returned to Dr. Stanford. Dr. Stanford 
+aspirated the right knee and told Respondent to use ice after work. (Joint 
+Ex. 6, 15). Respondent had his final physical therapy session on August 
+18, 2016. At his final session, he had improving range of motion and 
+quad strength but indicated that his knee was not as good as it was prior 
+to surgery. (Joint Ex. 8, 37). 
+ 
+Respondent followed-up with Dr. Stanford when he had been having 
+more pain than usual. Dr. Stanford recommended a new MRI. (Joint Ex. 6, 
+20). Respondent got another MRI on October 24, 2016, which showed the 
+distal quad repair with no findings of a re-tear. (Joint Ex. 9, 39). 
+ 
+In a January 11, 2017 letter, Dr. Stanford found that Respondent 
+had a 12 percent permanent impairment to the lower extremity for loss 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+5 
+ 
+of extension strength, converting to a 5 percent permanent impairment 
+to the body as a whole. He also found that Respondent had a 10 percent 
+permanent impairment to the lower extremity due to loss of range of 
+motion, converting to a 4 percent permanent impairment to the body as a 
+whole. Dr. Stanford did not give Respondent any permanent restrictions 
+for work. (Pet’rs’ Ex. G, 1). 
+ 
+In an August 21, 2017 report, Dr. Delbridge gave his opinions on 
+Respondent’s condition following an independent medical evaluation 
+(“IME”). Respondent complained of some pain in the buttocks going down 
+the leg to his foot at times. Dr. Delbridge agreed with Dr. Stanford’s 
+permanent impairment rating to the right lower extremity. He also found 
+that Respondent had a 13 percent permanent impairment to the body as 
+a whole based on weakness and loss of range of motion in the right hip. 
+He opined that claimant had a partial disruption of the quad tendon and 
+a weakening of the flexion of the right hip due to the November 10, 2015 
+work injury. (Resp’t’s Ex. 1, 1–4). 
+ 
+In an October 12, 2017 letter, written by Respondent’s counsel, Dr. 
+Smith agreed with Dr. Delbridge that Respondent’s quad tendon tear 
+resulted in an impairment to the hip. (Resp’t’s Ex. 2, 7–8). 
+ 
+In a March 28, 2018 letter, Dr. Stanford indicated he saw no 
+evidence in any treatment records that Respondent complained of right 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+6 
+ 
+hip pain while in his care for the quad tendon surgery. As a result, Dr. 
+Stanford did not believe Respondent’s right hip pain was related to his 
+work-related knee injury. (Pet’rs’ Ex. G, 2). 
+ 
+In a December 13, 2018 report, Dr. Jeffrey Westpheling, M.D., gave 
+his opinions of Respondent’s condition following an IME. Dr. Westpheling 
+agreed with Dr. Delbridge and Dr. Smith that Respondent’s right hip pain 
+was related to his November 10, 2015 injury. He explained, “Although the 
+hip joint itself is not directly involved, the quadriceps crosses the hip 
+joint and is a powerful hip flexor. Therefore, any weakness of right hip 
+flexion would be related to the original work injury.” Dr. Westpheling 
+disagreed with Dr. Stanford and Dr. Delbridge’s permanent impairment 
+ratings, but agreed that Respondent should not require any permanent 
+restrictions. He found that Respondent was at maximum medical 
+improvement (“MMI”) for the right knee as of August 22, 2016. (Pet’rs’ Ex. 
+A, 1–2). 
+ 
+In a follow up report dated February 17, 2018, Dr. Westpheling 
+found that Respondent had a 5 percent impairment to the right hip, 
+converting to a 2 percent permanent impairment to the body as a whole. 
+He found that claimant had a 12 percent permanent impairment to the 
+right knee, converting to a 5 percent permanent impairment to the body 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+7 
+ 
+as a whole. The combined values resulted in a 7 percent permanent 
+impairment rating to the body as a whole. (Pet’rs’ Ex. A, 4). 
+ 
+Respondent initiated this claim by filing an Original Notice and 
+Petition at the Iowa Workers’ Compensation Commission. He alleged he 
+had a right knee and hip injury that occurred on November 10, 2015 
+from an alleged workplace injury. On February 19, 2019, the parties 
+presented arguments at the Arbitration Hearing before Iowa Deputy 
+Workers’ Compensation Commissioner James F. Christenson. The Deputy 
+Commissioner issued the Arbitration Decision on April 8, 2019, 
+concluding that Respondent carried his burden of proof that he sustained 
+an injury to his right knee and hip that arose out of and in the course of 
+employment. On April 7, 2020, the Commissioner filed the Appeal 
+Decision in which he summarily affirmed the Arbitration Decision in its 
+entirety. Petitioners filed the present Petition for Judicial Review of the 
+Commissioner’s Appeal Decision on May 1, 2020. Petitioners allege the 
+Commissioner made errors of law and the Commissioner’s findings of 
+fact were not supported by substantial evidence. 
+Standard of Review 
+ 
+The Iowa Administrative Procedure Act, Chapter 17A of the Iowa 
+Code, governs judicial review of administrative agency decisions. The 
+court shall reverse, modify, or grant other appropriate relief from final 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+8 
+ 
+agency action if it determines the substantial rights of a petitioner have 
+been prejudiced by any of the means set forth in Iowa Code section 
+17A.19(10)(a)-(n). Review of agency action is at law, not de novo, and is 
+limited to the record made before the agency. Taylor v. Iowa Dep’t of Job 
+Serv., 362 N.W.2d 534, 537 (Iowa 1985). Additional evidence or issues not 
+considered by the agency cannot be considered by the court. Iowa Code § 
+17A.19(7)(2020); Meads v. Iowa Dep’t of Social Servs., 366 N.W.2d 555, 
+559 (Iowa 1985). The court may not substitute its judgment for that of 
+the agency. Mercy Health Center v. State Health Facilities Council, 360 
+N.W.2d 808, 809 (Iowa 1985). The court may not usurp the agency's 
+function of making factual findings. McSpadden v. Big Ben Coal Co., 288 
+N.W.2d 181, 186 (Iowa 1980). 
+The court shall reverse, modify, or grant other appropriate relief 
+from agency action if the agency action was based upon a determination 
+of fact clearly vested by a provision of law in the discretion of the agency 
+that is not supported by substantial evidence in the record before the 
+court when that record is viewed as a whole. Iowa Code § 17A.19(10)(f). 
+“Record viewed as a whole” means that the adequacy of the evidence in 
+the record before the court to support a particular finding of fact must 
+be judged in light of all the relevant evidence in the record cited by any 
+party that detracts from the findings, as well as all of the relevant 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+9 
+ 
+evidence in the record cited by any party that supports it. § 
+17A.19(10)(f)(3). This includes any determinations of veracity by the 
+presiding officer who personally observed the demeanor of the witnesses 
+and the agency's explanation of why the relevant evidence in the record 
+supports its material findings of fact. Id.  
+The evidence need not amount to a preponderance in order to be 
+substantial evidence, but a mere scintilla will not suffice. Elliot v. Iowa 
+Dep’t of Transp., 377 N.W.2d 250, 256 (Iowa Ct. App. 1985). Substantial 
+evidence means the quantity and quality of evidence that would be 
+deemed sufficient by a neutral, detached and reasonable person, to 
+establish the fact at issue when the consequences resulting from the 
+establishment of that fact are understood to be serious and of great 
+importance. Iowa Code § 17A.19(10)(f)(1). The fact that two inconsistent 
+conclusions can be drawn from the evidence does not mean that one of 
+those conclusions is unsupported by substantial evidence. Moore v. Iowa 
+Dep’t of Transp., 473 N.W.2d 230, 232 (Iowa Ct. App. 1991). The relevant 
+inquiry is not whether the evidence might support a different finding, but 
+whether the evidence supports the findings actually made. Id. 
+The commissioner has a duty to state the evidence relied upon and 
+detail the reasons for any conclusions. Pitzer v. Rowley Interstate, 507 
+N.W.2d 389, 392 (Iowa 1993) (citing Catalfo v. Firestone Tire & Rubber 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+10 
+ 
+Co., 213 N.W.2d 506, 510 (Iowa 1973)). This requirement is satisfied if the 
+reviewing court is able to determine with reasonable certainty the factual 
+basis on which the administrative officer acted. Id. At 393. It is 
+understood that an administrative agency “cannot in its decision set out 
+verbatim all testimony in a case.” Id. at 392 (citing McDowell v. Town of 
+Clarksville, 241 N.W.2d 904, 908 (Iowa 1976)) “Nor, when the agency 
+specifically refers to some of the evidence, should the losing party be 
+able, ipso facto, to urge successfully that the agency did not weigh all the 
+other evidence.” Id. An agency decision is final if supported by 
+substantial evidence. Robbennolt v. Snap-On Tools Corp., 555 N.W.2d 229, 
+234 (Iowa 1996). 
+The court shall also reverse, modify, or grant other appropriate 
+relief from agency action if such action was based upon an erroneous 
+interpretation of a provision of law whose interpretation has not clearly 
+been vested by a provision of law in the discretion of the agency. Iowa 
+Code § 17A.19(10)(c). The court shall not give deference to the view of 
+the agency with respect to particular matters that have not been vested 
+by a provision of law in the discretion of the agency. Iowa Code § 
+17A.19(11)(b). However, appropriate deference is given when the contrary 
+is true. Iowa Code § 17A.19(11)(c). The agency's findings are binding on 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+11 
+ 
+appeal unless a contrary result is compelled as a matter of law. Ward v. 
+Iowa Dep’t of Transp., 304 N.W.2d 236, 238 (Iowa 1981). 
+Additionally, a reviewing court must also reverse, modify, or grant 
+other appropriate relief when the agency's decision is “[b]ased upon an 
+irrational, illogical, or wholly unjustifiable application of law to fact that 
+has clearly been vested by a provision of law in the discretion of the 
+agency.” Iowa Code § 17A.19(10)(m). “In order to determine an 
+employee's right to benefits, which is the agency's responsibility, the 
+agency, out of necessity, must apply the law to the facts.” Mycogen Seeds 
+v. Sands, 686 N.W.2d 457, 465 (Iowa 2004). Because the agency has been 
+entrusted with the responsibility of applying the law to the facts, the 
+“agency's application of the law to the facts can only be reversed if we 
+determine such an application was ‘irrational, illogical, or wholly 
+unjustifiable.’” Id. (citing Iowa Code § 17A.19(10)(m)). 
+“The findings of the commissioner are akin to a jury verdict, and we 
+broadly apply them to uphold the commissioner's decision.” Quaker Oats 
+Co. v. Ciha, 552 N.W.2d 143, 150 (Iowa 1996) (quoting Second Inj. Fund v. 
+Shank, 516 N.W.2d 808, 812 (Iowa 1994) (citation omitted)). “We may 
+reverse, modify, affirm or remand the case to the commissioner for 
+further proceedings if we conclude the agency's action is affected by an 
+error at law or if it is not supported by substantial evidence.” Id. at 150. 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+12 
+ 
+Conclusions of Law 
+ 
+Petitioners contend that the Commissioner’s Appeal Decision was 
+erroneous and must be reversed on the grounds set forth in Iowa Code 
+§§ 17A.19(c) and (f). They allege that the Commissioner made an error of 
+law by classifying Respondent’s injury to the quadriceps tendon and hip 
+as an unscheduled hip injury pursuant to § 85.34(2)(v), rather than a 
+scheduled leg injury pursuant to § 85.34(2)(p). Petitioners further allege 
+that the Commissioner’s determination that Respondent’s November 10, 
+2015 right quadriceps tendon injury also caused an injury to 
+Respondent’s right hip in the form of loss of range of motion and 
+strength was not supported by substantial evidence. 
+A. Error of Law 
+ 
+Petitioners allege the Commissioner made an error of law 
+interpreting Iowa Code § 85.34. “The interpretation of the workers’ 
+compensation statute has not been clearly vested by a provision of law in 
+the discretion of the commissioner. Accordingly, we will reverse the 
+agency’s decision if it is based on ‘an erroneous interpretation’ of the 
+law.” Second Inj. Fund v. Kratzer, 778 N.W.2d 42, 45 (Iowa 2010) (citing 
+Iowa Code § 17A.19(10)(c)). 
+ 
+Petitioners argue that any injury from the knee to just below the 
+hip joint, including the quadriceps tendon, is compensable as a 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+13 
+ 
+scheduled leg injury under § 85.34(2)(p). They argue that an injury only 
+becomes an unscheduled injury to the body as a whole under § 
+85.34(2)(v) if the injury is to the SI joint, the hip joint, or the low back, 
+not to the hip flexion. Petitioners believe the Commissioner made an 
+error of law by characterizing Respondent’s injury as a hip injury, 
+because no doctor who examined Respondent specifically identified 
+injuries to the SI joint, hip joint, or low back, so the Commissioner must 
+have concluded Respondent had a hip injury based on the injury to his 
+quadriceps tendon. Petitioners base their arguments on a series of cases 
+that hold the Commission awards benefits based on the anatomical situs 
+of injury, and the situs of an injury to the quadriceps tendon is in the 
+leg.1 According to Petitioners, Respondent’s injury was a scheduled leg 
+injury because his injury was to the quadriceps tendon. 
+ 
+Petitioners point out the differences between the wording in the 
+AMA Guides and the workers’ compensation statute. They argue that the 
+doctors relied on the AMA Guides’ reference to impairments to the “lower 
+extremity,” which includes the feet, hindfeet, ankles, legs, knees, hips, 
+and pelvis, while the workers’ compensation statute differentiates 
+                                                          
+1 Lauhoff Grain Co. v. McIntosh, 395 N.W.2d 834 (Iowa 1986); Blacksmith v. All-Am., Inc., 290 
+N.W.2d 348 (Iowa 1980); Block v. North Iowa Sand & Gravel, Inc., File No. 5044550, 2014 WL 
+4147473 (Arb. Dec. Aug. 18, 2014); Farar v. Quaker Oats Co., File No. 5032528, 2011 WL 
+13186183 (Arb. Dec. Apr. 27, 2011); Bedwell v. Second Inj. Fund, File No. 5016522, 2008 WL 
+459747 (Arb. Dec. Feb. 12, 2008); Casey v. Rockwell Goss., File No. 1019209, 1994 WL 
+16029537 (Arb. Dec. Aug. 9, 1994). 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+14 
+ 
+between injury to the legs and injury to the hip. Therefore, Petitioners 
+argue, the doctors’ conclusion that Respondent had impairment in the 
+lower extremity did not clearly identify whether the injury was to the leg 
+or the hip. Because Petitioners believe the later medical opinions are 
+unclear and unreliable, Petitioners argue that the Commissioner must 
+have relied on the earlier medical opinions that did not mention any hip 
+injury. 
+ 
+The Court concludes that the Commissioner did not make an error 
+of law interpreting § 85.34. Petitioners are correct that the Commission 
+awards benefits based on the anatomical situs of injury, and an injury 
+that solely impairs the quadriceps tendon would be a leg injury. However, 
+the scope of the anatomical situs is broader than Petitioners describe: 
+In determining whether an impairment is scheduled or 
+unscheduled, we look beyond the situs of the original injury 
+and consider the impact of the injury on all parts of the body. 
+If an actual impairment occurs to an unscheduled portion of 
+the body, a disability has been sustained to the body as a 
+whole. 
+ 
+Prewitt v. Firestone Tire & Rubber Co., 564 N.W.2d 852, 854 (Iowa Ct. App. 
+1997). “The situs of the impairment controls the issue of whether a 
+disability is scheduled or unscheduled.” Sullivan v. Standard Forwarding 
+Co., File No. 5006696, 2004 WL 101642, at *9 (Arb. Dec. Jan. 12, 2004). 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+15 
+ 
+The Commission has held in prior cases that lower extremity injuries 
+resulted in unscheduled hip impairment.2 
+ 
+The doctors clearly identify one of Respondent’s situses of 
+impairment as his hip. The difference in wording between the AMA 
+Guides and the workers’ compensation statute does not confuse the 
+medical opinions when the opinions clearly state that Respondent’s 
+injury was to his hip. For example, Dr. Delbridge opined that Respondent 
+had loss of range of motion and strength in the right hip caused by the 
+November 15, 2015 work injury. (Resp’t’s Ex. 1, 1–4). Dr. Smith, 
+Respondent’s family doctor, also opined that Respondent had an 
+impairment to his right hip caused by the November 10, 2015 work 
+injury. (Resp’t’s Ex. 2, 7–8). Dr. Westpheling, Petitioners’ expert, also 
+found that Respondent’s right hip injury was caused by Respondent’s 
+right quadriceps tendon injury. Dr. Westpheling stated, “Although the hip 
+joint itself is not directly involved, the quadriceps tendon crosses the hip 
+joint and is a powerful hip flexor. Therefore, any weakness of the right 
+hip flexion would be related to the original work injury.” (Pet’rs’ Ex. A, 1–
+2). No case law has held that injury to the hip flexion, which impairs 
+                                                          
+2 See, e.g., Most v. Anderson Erickson Dairy, File No. 5059797, 2018 WL 6735766, at *7 (Arb. 
+Dec. Dec. 7, 2018); Geneva v. Alcoa, File No. 5017578, 2008 WL 4673887, at *5–*6 (Arb. Dec. 
+Oct. 3, 2008); Fraser v. Gleason Corp., File No. 5018383, 2007 WL 2326037, *2–*3 (Arb. Dec. 
+Aug. 9, 2007). 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+16 
+ 
+range of motion and strength in the hip, must be a leg injury rather than 
+a hip injury. The case law holds the opposite: that the situs of 
+impairment is the focus. The Commissioner determined Respondent had 
+an unscheduled hip injury to the body as a whole based on a finding that 
+Respondent’s hip was impaired. In sum, the Commissioner did not make 
+any error of law and Petitioner’s contention to the contrary lacks merit. 
+B. Substantial Evidence 
+Petitioners also allege the Commissioner did not have substantial 
+evidence to find that Respondent’s right quadriceps tendon injury also 
+caused an injury to Respondent’s right hip in the form of loss of range of 
+motion and strength.  Of course, Respondent bears the burden of proving 
+by a preponderance of the evidence that his hip injury both arose out of 
+and in the course of his employment. Quaker Oats Co., 552 N.W.2d at 
+150. A preponderance of the evidence exists when the causal connection 
+is probable rather than merely possible. Sherman v. Pella Corp., 576 
+N.W.2d 312, 321 (Iowa 1998). The question of medical causation is 
+essentially within the domain of expert testimony. Cedar Rapids Cmty. 
+Sch. Dist. v. Pease, 807 N.W.2d 839, 845 (Iowa 2011). Unrebutted medical 
+testimony cannot be summarily rejected. Poula v. Siouxland Wall & 
+Ceiling Inc., 516 N.W.2d 910, 911–12 (Iowa Ct. App. 1994). The weight 
+given to an expert opinion is within the discretion of the fact finder and 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+17 
+ 
+is impacted by the accuracy of the facts relied upon by the expert and 
+other surrounding circumstances. Id. 
+ 
+The Commissioner’s determination that Respondent met his burden 
+to show proximate causation for his hip injury is supported by 
+substantial evidence. Three out of the four doctors who examined 
+Respondent stated that he had a hip injury and that the November 10, 
+2015 work injury caused his hip injury. Dr. Delbridge opined that 
+Respondent had loss of range of motion and strength in the right hip 
+caused by the November 15, 2015 work injury. (Resp’t’s Ex. 1, 1–4). Dr. 
+Smith, Respondent’s family doctor, also opined that Respondent had an 
+impairment to his right hip caused by the November 10, 2015 work 
+injury. (Resp’t’s Ex. 2, 7–8). Dr. Westpheling, Petitioners’ expert, also 
+found that Respondent’s right hip injury was caused by Respondent’s 
+right quadriceps tendon injury. Dr. Westpheling stated, “Although the hip 
+joint itself is not directly involved, the quadriceps tendon crosses the hip 
+joint and is a powerful hip flexor. Therefore, any weakness of the right 
+hip flexion would be related to the original work injury.” (Pet’rs’ Ex. A, 1–
+2). 
+ 
+Dr. Stanford, the one doctor that did not find Respondent’s hip 
+injury was caused by the November 10, 2015 work injury, stated that 
+Respondent’s November 10, 2015 injury was only to the lower extremity 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+18 
+ 
+and did not extend to the hip. His reason for this opinion was that there 
+was no indication in his medical records that Respondent complained of 
+right hip pain during his course of treatment in 2016. (Pet’rs’ Ex. G, 2). 
+Respondent testified that he did not complain of right hip pain to Dr. 
+Stanford because he did not start having hip pain until late 2017, and last 
+saw Dr. Stanford on October 27, 2016. He testified that he did not seek 
+follow-up care for his hip with Dr. Stanford because Dr. Stanford told him 
+that, upon reaching MMI, his leg was as good as it was going to get. 
+Respondent further testified that he did not seek treatment for his hip 
+because he found it to be a hassle to get the workers’ compensation 
+insurer to approve medical treatment. (Arb. Tr. 25–26). Dr. Stanford never 
+examined Respondent’s hip and did not re-examine Respondent prior to 
+providing his cursory opinion in March 2018 that Respondent did not 
+have a hip impairment. 
+ 
+Because three out of four doctors opined that Respondent’s 
+impairment extended into the hip and the Commissioner had reason to 
+give Dr. Stanford’s opinion less weight, the Commissioner had substantial 
+evidence to conclude that Respondent had a hip impairment and that the 
+November 10, 2015 work injury proximately caused Respondent’s hip 
+impairment. 
+ 
+ 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+19 
+ 
+RULING 
+ 
+IT IS THEREFORE ORDERED that the Iowa Workers’ Compensation 
+Commissioner’s decision of April 7, 2020 is AFFIRMED. 
+ 
+Costs are taxed to Petitioners. 
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT
+
+State of Iowa Courts
+Type:
+OTHER ORDER
+Case Number
+Case Title
+CVCV060149
+OMEGA CABINETRY AND ACE AMERICAN V CHAD SIMONS
+So Ordered
+Electronically signed on 2020-11-10 14:11:23     page 20 of 20
+E-FILED  2020 NOV 10 2:11 PM POLK - CLERK OF DISTRICT COURT

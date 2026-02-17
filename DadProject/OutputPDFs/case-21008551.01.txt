@@ -1,0 +1,2494 @@
+Case Number: 21008551.01
+Case Title:  VALDEZ, JOSE V. SMITHFIELD FOODS, INC.
+Doc Type:    Decision - Deputy
+Source:      Valdez Jose-21008551.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+JOSE VALDEZ, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+File Nos. 21008551.01 
+ 
+ 
+  : 
+ 
+ 
+     24700311.01 
+vs. 
+ 
+  : 
+ 
+ 
+  :                  
+SMITHFIELD FOODS, INC., 
+  : 
+        ARBITRATION DECISION 
+ 
+ 
+  :                            
+ 
+Employer, 
+  : 
+ 
+ 
+  :                         
+and 
+ 
+  : 
+ 
+ 
+  : 
+SAFETY NATIONAL CAS. CORP., 
+  : 
+ 
+ 
+  : 
+     Head Notes: 1100; 1400; 1402; 
+ 
+Insurance Carrier, 
+  : 
+          1800; 1803; 1803.1; 2200 
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+ 
+The claimant, Jose Valdez, filed two petitions for arbitration seeking workers’ 
+compensation benefits from employer Smithfield Foods, Inc., (“Smithfield”) and their 
+insurer Safety National Casualty Corporation.  James Byrne appeared on behalf of the 
+claimant.  Michael Miller appeared on behalf of the defendants.  Heather Adams, a 
+representative of the defendants, was also present. 
+ 
+The matter came on for hearing on April 24, 2024, before Deputy Workers’ 
+Compensation Commissioner Andrew M. Phillips.  Pursuant to an order of the Iowa 
+Workers’ Compensation Commissioner, the hearing occurred electronically via Zoom.  
+The matter proceeded without significant difficulty.    
+ 
+The record in this case consists of Joint Exhibits 1-10, Claimant’s Exhibits 1-10, 
+and Defendants’ Exhibits A-M.  The exhibits were received into the record without 
+objection. 
+The claimant testified on his own behalf with the assistance of interpreter Andrew 
+Freund.  Heather Adams testified on behalf of the defendants.  Karrie Lucas was 
+appointed the official reporter and custodian of the notes of the proceeding.  The 
+evidentiary record closed at the conclusion of the hearing, and the matter was 
+considered fully submitted following briefing by the parties on June 4, 2024.     
+ 
+ 
+ELECTRONICALLY FILED     2024-Aug-05  07:32:29     DIVISION OF WORKERS' COMPENSATION
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 2 
+ 
+STIPULATIONS 
+ 
+Through the hearing report, as reviewed at the commencement of the hearing, 
+the parties stipulated and/or established the following: 
+File No. 21008551.01 
+1. There was an employer-employee relationship at the time of the alleged 
+injury.   
+  
+2. That the claimant sustained an injury to his left hand with a mental sequela, 
+which arose out of and in the course of his employment on June 29, 2021. 
+ 
+3. That the alleged injury to the claimant’s left hand was a cause of temporary 
+disability during a period of recovery.   
+ 
+4. That the alleged injury to the claimant’s left hand was a cause of permanent 
+disability.   
+ 
+5. That, at the time of the work injury, the claimant’s gross earnings were one 
+thousand and 40/100 dollars ($1000.40) per week, that the claimant was 
+single, and entitled to two exemptions.  The resulting stipulated weekly 
+compensation rate was six hundred thirty-six and 86/100 dollars ($636.86).     
+ 
+6. That the claimant was paid three (3) weeks of compensation at the rate of 
+one thousand nine hundred ten and 58/100 dollars ($1,910.58) per week, that 
+benefits continued to be paid, and that the defendants are entitled to a credit 
+for the same.   
+ 
+7. That the costs in Claimant’s Exhibit 10 have been paid. 
+ 
+The defendants waived their affirmative defenses.  Entitlement to temporary disability 
+and/or healing period benefits was no longer in dispute.   
+ 
+File No. 24700311.01 
+ 
+1. There was an employer-employee relationship at the time of the alleged 
+injury. 
+  
+2. That, at the time of the work injury, the claimant’s gross earnings were one 
+thousand and 40/100 dollars ($1000.40) per week, that the claimant was 
+single, and entitled to two exemptions.  The resulting stipulated weekly 
+compensation rate was six hundred forty and 17/100 dollars ($640.17).     
+  
+3.  That the costs in Claimant’s Exhibit 10 have been paid. 
+ 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 3 
+ 
+The defendants waived their affirmative defenses.  Entitlement to temporary disability 
+and/or healing period benefits was no longer in dispute.  Entitlement to a credit was no 
+longer in dispute. 
+The parties are now bound by their stipulations. 
+ISSUES 
+The parties submitted the following issues for determination: 
+File No. 21008551.01 
+1. Whether the claimant sustained sequela injuries to the right shoulder and low 
+back arising out of his employment with the defendants on June 29, 2021.  
+ 
+2. Whether the claimant’s injuries were a cause of temporary disability. 
+ 
+3. Whether the injuries to the claimant’s body besides his left hand injury were a 
+cause of permanent disability.  
+ 
+4. The extent of permanent disability benefits, should any be awarded. 
+  
+5. Whether the disability is a scheduled member disability to the left hand or an 
+industrial disability. 
+ 
+6. The commencement date for permanent partial disability benefits, should any 
+be awarded. 
+  
+7. Whether the claimant is entitled to reimbursement for an independent medical 
+examination (“IME”) pursuant to Iowa Code section 85.39.   
+ 
+8. Whether the claimant is entitled to a specific taxation of costs. 
+ 
+Under Section 10 of the Hearing Report the parties stated as follows: 
+ 
+Disputed as to the following: Whether Claimant has sustained a permanent 
+injury/disability extending into his body as a whole, including his right 
+shoulder area, low back, and/or his mental sequelae.  If Claimant proves a 
+compensable right shoulder, low back, and/or mental health sequelae injury 
+(as a sequela of his left hand injury), whether, pursuant to Iowa Code 
+Section 85.34(2)(v), his salary, wages, or earnings are the same, less, or 
+greater than at the time of the injury, and, dependent thereon, whether or 
+not he is entitled to an industrial disability analysis regarding his injury to his 
+left hand, right shoulder, back, and/or mental sequela.  If Claimant’s 
+recovery is limited to a functional disability, and Claimant proves a 
+permanent mental sequela resulting from his left hand injury, whether 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 4 
+ 
+Claimant is entitled to an award of permanent disability benefits for the 
+mental sequela, and if so, how the same is to be calculated.   
+File No. 24700311.01 
+1. Whether the claimant sustained a cumulative injury, which arose out of, and 
+in the course of his employment on July 12, 2022.  
+  
+2. Whether the alleged injury is a cause of temporary disability during a period of 
+recovery.   
+ 
+3. Whether the alleged injury is a cause of permanent disability.   
+ 
+4. The extent of permanent partial disability benefits, should any be awarded.   
+ 
+5. Whether the disability is a scheduled member disability to the shoulder and/or 
+back, or an industrial disability.   
+ 
+6. The commencement date for permanent partial disability benefits, should any 
+be awarded.   
+ 
+7. Whether the claimant is entitled to reimbursement for an IME pursuant to 
+Iowa Code section 85.39.   
+ 
+8. Whether the claimant is entitled to a specific taxation of costs. 
+ 
+Section 10 of the Hearing Report states:  
+Whether claimant has sustained permanent disability to his right shoulder 
+and back/BAW.  If Claimant proves a compensable injury to his right 
+shoulder and back/BAW, whether, pursuant to Iowa Code Section 
+85.34(2)(v), his salary, wages, or earnings are the same, less, or greater 
+than at the time of injury; and dependent thereon, whether he is entitled to 
+industrial disability.  Claimant also claims mileage reimbursement.   
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+Jose Angel Valdez-Jimenez, the claimant, was 41 years old at the time of the 
+hearing.  (Testimony).  He is currently married, but in the midst of divorce proceedings 
+in Mexico.  (Testimony; Claimant’s Exhibit 3:62).  He has three children.  (Testimony).  
+One minor child resides with him, and his other two minor children live in Mexico with 
+his former wife.  (Testimony).  He sends money back to Mexico to support his minor 
+children.  (Testimony).   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 5 
+ 
+The claimant is originally from Mexico, and speaks Spanish.  (Testimony).  He 
+could not converse in English, and only knew minimal phrases.  (Testimony).  As such, 
+he testified through the assistance of an interpreter.  (Testimony).   
+While growing up in Mexico, Mr. Valdez attended about nine years of schooling.  
+(Testimony).  His parents could not afford to send him to additional years of school.  
+(Testimony).   
+In 2002, Mr. Valdez immigrated to the United States.  (Testimony).  His first job in 
+the United States was working on a farm packing peaches, nectarines, prunes, and 
+grapes.  (Testimony).  He needed to lift boxes of fruit weighing more than 60 pounds in 
+this job.  (Testimony).  He worked this job for about 10 years.  (Testimony).   
+Mr. Valdez then moved to Iowa in 2012 in order to help his parents with some 
+ongoing paperwork and health issues.  (Testimony).  He began a job with Tyson Foods, 
+in Denison, Iowa.  (Testimony).  He slaughtered cows and took their hides off using an 
+electric knife.  (Testimony).  This required him to use both of his hands.  (Testimony).   
+The claimant then returned to San Bernardino, California.  (Testimony).  He 
+again worked in agriculture, primarily harvesting tomatoes and strawberries.  
+(Testimony).  This required him to lift boxes containing the various fruits and push them.  
+(Testimony).   
+He then returned to Iowa, where he worked in the same cattle slaughterhouse 
+position with Tyson in Denison, Iowa.  (Testimony).  He left Tyson to work as a bacon 
+packer in Harlan, Iowa.  (Testimony).  This required him to pack bacon in packages and 
+then place the packages into a larger box.  (Testimony).  He had to lift more than 25 
+pounds, and use his hands and shoulders.  (Testimony).  Next, Mr. Valdez worked for 
+Farmland, in Carroll, Iowa.  (Testimony).  He started packing hams, and then moved on 
+to operating a forklift and being a machine operator.  (Testimony).  He used his hands 
+and shoulders in lifting hams weighing in excess of 50 pounds.  (Testimony).   
+Near the end of 2020, Mr. Valdez took a position with Smithfield.  (Testimony).  
+Prior to beginning employment, he passed a physical.  (Testimony).  When he started 
+with Smithfield, Mr. Valdez packaged bacon into boxes and then placed full boxes onto 
+a pallet.  (Testimony).  The boxes of bacon weighed between 25 and 50 pounds.  
+(Testimony).  By 2021, he earned about nineteen and 00/100 dollars ($19.00) per hour.  
+(Testimony).   
+On June 29, 2021, Mr. Valdez was working on the bacon line when a machine 
+broke down.  (Testimony).  This resulted in an issue with damaged plastic on the line.  
+(Testimony).  Mr. Valdez reached in and pulled a roll of plastic when a cutter came out 
+of the line and cut him on his left thumb and palm.  (Testimony).  The result of the cut 
+was a partial amputation of his left thumb.  (Testimony).  Accordingly, Mr. Valdez looked 
+down at his bloody hand and noticed he was missing a portion of his thumb.  
+(Testimony).  He immediately felt pain and began to panic.  (Testimony).  He was 
+stabilized in the nurse’s office at Smithfield with active bleeding and an amputated left 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 6 
+ 
+thumb.  (Testimony; Joint Exhibit 1:1).  He was then taken via an ambulance to a 
+hospital in Denison, Iowa.  (Testimony; JE 1:1).   
+After treating at the hospital in Denison, Iowa, he was transported to a hospital in 
+Omaha, Nebraska, for treatment with a specialist.  (Testimony).  The intent of treating in 
+Omaha, Nebraska, was to fix tendons, nerves, and his thumb on his left hand.  
+(Testimony).   
+The claimant arrived at Ortho Nebraska on June 29, 2021, where Todd Gaddie, 
+M.D., performed surgery on the claimant’s left hand in order to treat a number of 
+lacerations and injuries.  (JE 2:14-18).  This included irrigation, debridement, and nerve 
+repairs.  (JE 2:15).  Following surgery, Dr. Gaddie recommended that Mr. Valdez 
+remain in a dressing for two to three days before transitioning into a clam digger splint 
+and beginning a flexor tendon rehabilitation program.  (JE 2:16).  He also provided the 
+claimant with a work release until additional follow-up was completed.  (JE 2:18).   
+Dr. Gaddie examined Mr. Valdez again on July 2, 2021, for his first post-surgical 
+follow-up.  (JE 2:19-20).  Mr. Valdez complained of tightness and throbbing in his left 
+hand following the surgical repairs and partial amputation performed to the same.  (JE 
+2:19).  Dr. Gaddie prescribed physical therapy to improve range of motion in the left 
+thumb.  (JE 2:20).  He also prescribed a clam digger splint for the claimant’s left hand.  
+(JE 2:20).   
+Mr. Valdez was examined at the Smithfield nursing department again on July 8, 
+2021.  (JE 1:1).  He had sutures in his left hand and wore a sling and a hand brace.  (JE 
+1:1).   
+Smithfield nursing saw Mr. Valdez again on July 12, 2021, with swelling in his left 
+hand.  (JE 1:1).   
+Dr. Gaddie examined the claimant again on July 14, 2021, for continued post-
+surgical follow-up care.  (JE 2:21-22).  Mr. Valdez continued to have tingling in his 
+middle, ring, and small fingers of his left hand.  (JE 2:21).  He began therapy.  (JE 2:21).  
+Dr. Gaddie recommended continued therapy, and that the claimant continue to wear his 
+brace.  (JE 2:22).   
+Mr. Valdez was released to work with temporary restrictions as of July 14, 2021.  
+(JE 1:7).  His restrictions were to splint at all times while at work with no use of the left 
+upper extremity.  (JE 1:7).   
+On July 28, 2021, Katherine Smith, PA-C, examined the claimant.  (JE 2:23-24).  
+Mr. Valdez complained of increased sensitivity and pain in his thumb.  (JE 2:23).  This 
+sensitivity affected his sleep.  (JE 2:23).  Ms. Smith observed reduced ranges of motion 
+in the claimant’s fingers.  (JE 2:24).  Additional therapy and medication was prescribed.  
+(JE 2:24).  Ms. Smith also recommended that the claimant expose his thumb to differing 
+textures in order to dull sensitivity.  (JE 2:24).   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 7 
+ 
+In early August of 2021, the claimant presented again to Smithfield nursing with 
+complaints of numbness and pain in his left hand.  (JE 1:2).  He started to perform some 
+movement exercises with his left hand in order to loosen his fingers.  (JE 1:3).   
+On August 18, 2021, Mr. Valdez followed up with Dr. Gaddie for continued pain 
+and stiffness in the claimant’s left hand.  (JE 2:25-26).  Specifically, the claimant 
+complained of increased sensitivity when he is in the cold.  (JE 2:25).  Dr. Gaddie 
+recommended that Mr. Valdez wean off of opioid medications and his splint.  (JE 2:26).   
+On October 6, 2021, during a visit with Dr. Gaddie, Mr. Valdez received modified 
+restrictions, including limited use of the left upper extremity, and limited lifting with the 
+left upper extremity.  (JE 1:8).  He also was restricted from lifting, gripping, pushing, or 
+pulling.  (JE 1:8).  During the examination, Mr. Valdez noted increased pain and 
+sensitivity, particularly in the left ring and small fingers.  (JE 2:27).  Dr. Gaddie 
+recommended gabapentin and a trial of aggressive therapy.  (JE 2:28).  Dr. Gaddie 
+observed that the claimant had decreased sensation and range of motion in the left 
+fingers.  (JE 2:30).  Dr. Gaddie told Mr. Valdez that they would continue to evaluate the 
+decreased sensation in the claimant’s hand.  (JE 2:30).  Dr. Gaddie felt that it may take 
+12 to 18 months in order to see the effect of any nerve repairs.  (JE 2:30).   
+Dr. Gaddie evaluated Mr. Valdez again on November 3, 2021.  (JE 2:31-33).  Mr. 
+Valdez attended therapy three times per week, but continued to display reduced range 
+of motion.  (JE 2:31).  Mr. Valdez told the doctor that his left hand experienced worse 
+pain in the morning, which he described as a pressure.  (JE 2:32).  Cold weather also 
+increased sensitivity in the claimant’s hand.  (JE 2:32).  Dr. Gaddie discussed a left 
+small, ring, and long finger tenolysis and a left thumbnail excision with Mr. Valdez.  (JE 
+2:32).  Dr. Gaddie continued to recommend restrictions for the claimant’s left hand, 
+including no lifting, gripping, pushing, or pulling.  (JE 2:32).   
+On November 30, 2021, Dr. Gaddie performed a tenolysis to the claimant’s left 
+long finger, ring finger, and small finger, as well as a left thumbnail excision.  (JE 2:34-
+36).  He tolerated the surgery well, and was told to initiate occupational therapy within 
+two days of the procedure.  (JE 2:35).   
+Dr. Gaddie examined Mr. Valdez again on January 26, 2022, following his 
+second surgery.  (JE 2:37-38).  Mr. Valdez noted minimal improvement with continued 
+numbness in his fingers.  (JE 2:37).  This included a feeling as though he could not pick 
+up certain items.  (JE 2:37).  Dr. Gaddie observed improvements in range of motion in 
+the long, ring, and small fingers of the left hand, but Mr. Valdez reported decreased 
+sensation over the same areas.  (JE 2:37).  Since Mr. Valdez showed improvements 
+with range of motion, Dr. Gaddie recommended continued therapy.  (JE 2:38).  Dr. 
+Gaddie allowed the claimant to begin using his left hand, but provided stringent 
+restrictions including no lifting, pushing, gripping, or pulling more than 1 pound with the 
+left hand.  (JE 2:38).   
+On March 4, 2022, the claimant returned to Dr. Gaddie’s office.  (JE 2:39-41).  
+Range of motion in the claimant’s left fingers continued to improve, despite some 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 8 
+ 
+stiffness in the left small finger.  (JE 2:39).  Mr. Valdez also complained of pain and 
+swelling in his left palm.  (JE 2:39).  Dr. Gaddie recommended continued therapy to 
+improve range of motion in the claimant’s left hand.  (JE 2:40).   
+Mr. Valdez attended a therapy visit on April 5, 2022, for complaints of constant 
+left hand pain.  (JE 3:79-80).  He rated his pain 6 out of 10.  (JE 3:79).  He was not 
+working, which the therapist opined “could be problematic as he is not using that hand 
+at all during very long work hours.”  (JE 3:80).   
+Dr. Gaddie visited with Mr. Valdez again on April 6, 2022, for continued left hand 
+issues.  (JE 2:46-47).  Mr. Valdez continued to have pain in his left hand with pushing 
+and other movement.  (JE 2:46).  He was recently told that he completed therapy.  (JE 
+2:46).  Since his injury, Mr. Valdez experienced nervousness and anxiety, along with 
+elevated blood pressure.  (JE 2:46).  Dr. Gaddie observed that the claimant had 
+improved range of motion in his fingers along with mild scar thickening.  (JE 2:47).  Dr. 
+Gaddie recommended that Mr. Valdez see a therapist or psychologist, and continue 
+occupational therapy in order to work on range of motion, stretching, and strengthening.  
+(JE 2:47).   
+Therapy continued on April 7, 2022, with pain Mr. Valdez rated 6 out of 10.  (JE 
+3:81).  Mr. Valdez expressed a preference to sit in the cafeteria while he was at work.  
+(JE 3:81).  Mr. Valdez was not using his hand while working, as he dropped items.  (JE 
+3:82).   
+Mr. Valdez had therapy with OrthoNebraska on April 25, 2022.  (JE 4:99-100).  
+Therapy worked on improving the condition of the claimant’s left hand.  (JE 4:99).  Mr. 
+Valdez wanted a restriction in order to keep him out of cold climates, and/or providing 
+him with a glove to keep it warm.  (JE 4:100).   
+From April or May of 2022, Mr. Valdez worked shaving pig bellies.  (Testimony).  
+He used a knife in his right hand to shave the pig carcasses.  (Testimony).  Some pigs 
+were larger than others.  (Testimony).  He felt that, when smaller pigs passed by on the 
+line, he had to bend to reach them.  (Testimony).  By his estimation, he shaved 
+thousands of pig bellies per day during this time.  (Testimony).   
+Smithfield included ergonomic analyses of the position in question in their 
+hearing exhibits.  (I:76).  The “shaving hams” position required the employee to use 
+their dominant hand to slide a knife weighing a few ounces downward against the skin 
+to remove any excess hair while stabilizing the carcass with the non-dominant hand “as 
+needed.”  (DE I:76; Testimony).  The hog carcasses were to be “approximately 42 
+[inches] above the catwalk.”  (DE I:76).  There is no indication in this record, or from any 
+testimony that the claimant would be allowed, or expected to move the knife to his non-
+dominant hand.  (DE I:76; Testimony).  Ms. Adams testified that she never observed 
+any employees switching the knife between their hands.  (Testimony).   
+On May 18, 2022, Mr. Valdez returned to see Dr. Gaddie for continued follow up 
+including nightmares about his injury.  (JE 2:48).  His hand pain increased as he worked 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 9 
+ 
+in a cold department.  (JE 2:48).  He requested seeing a psychologist, but his workers’ 
+compensation carrier would only approve seeing a counselor.  (JE 2:48).  Dr. Gaddie 
+issued a note restricting the claimant from work in cold areas and from handling frozen 
+meat.  (JE 2:49).   
+The claimant had his one hundred seventeenth visit of physical therapy on May 
+23, 2022, with a goal of using his left hand and arm to hold his daughter and return to 
+work.  (JE 4:101-102).  Mr. Valdez worked in a warm area of the plant, and his fingers 
+felt swollen.  (JE 4:101).  The therapist opined that Mr. Valdez was “[o]verall, doing very 
+well considering the extent of his injuries.  Discussed that with warmer temperatures, he 
+may experience more swelling.”  (JE 4:102).   
+Mr. Valdez continued therapy on May 24, 2022.  (JE 3:83).  This was his thirty-
+third session of therapy.  (JE 3:83).  He complained of pain of 7 out of 10 in his left 
+hand, digits, and palm.  (JE 3:83).  The therapist found the claimant to make slight 
+progression with his range of motion and strength in his left hand.  (JE 3:85).  He 
+continued to work light duty while completing some functional work tasks during 
+therapy.  (JE 3:85).   
+On May 27, 2022, a medical certification allowed Mr. Valdez to return to work 
+immediately following his appointment treating for depression.  (CE 6:78).   
+A provider from CCMH Medical Clinic provided Mr. Valdez with a work excuse 
+from June 3, 2022, to June 6, 2022, due to his depression.  (CE 6:79).   
+The claimant attended his one hundred twentieth therapy visit at OrthoNebraska 
+on June 13, 2022.  (JE 4:103-104).  He was using a knife to process meat, and only 
+used his right hand.  (JE 4:103).  He continued to have pain on the ulnar side of his left 
+palm.  (JE 4:104).  The therapist documented that, “[p]ain and sensitivity is not limiting 
+the use of his hand while in the clinic though subjective reports indicate that it limits him 
+with daily life.  I cannot appreciate any reason why this area would continue to bother 
+him specifically besides this being the primary location of his injury and scarring.”  (JE 
+4:104).   
+On June 17, 2022, Mr. Valdez went to St. Anthony Hospital Medical Clinics 
+where Sandy Cayler, A.R.N.P., examined him for his mental health issues.  (JE 5:116-
+125).  Mr. Valdez told Ms. Cayler that he felt depressed and anxious since his work 
+accident.  (JE 5:118).  He opined that his hand looked “grotesque,” and indicated that 
+he experienced nightmares three-to-four nights per week about the work accident.  (JE 
+5:118).  His being assigned to the rendering department increased his feeling of self-
+loathing and caused him to become suicidal.  (JE 5:118).  Ms. Cayler opined that Mr. 
+Valdez seemed obsessed with his hand, as he constantly rubbed it and complained of 
+pain.  (JE 5:118).  Ms. Cayler listed diagnoses of acute posttraumatic stress disorder, 
+major depressive disorder, generalized anxiety disorder with panic attacks, and body 
+dysmorphic disorder.  (JE 5:116).  Ms. Cayler provided him with medications and 
+encouraged him to continue therapy.  (JE 5:121).   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 10 
+ 
+By July of 2022, he began to develop pain in his right shoulder and back.  
+(Testimony).  He attributed this pain due to overuse of his right hand.  (Testimony).  Had 
+he not injured his left hand, he likely would have alternated the knife between his left 
+and right hands.  (Testimony).  At this time, he earned about nineteen and 21/100 
+dollars ($19.21) per hour.  (Testimony).   
+The defendants included several observations of the claimant’s work shaving 
+hogs in the record.  The first is that of Ms. Zamago, who observed the claimant for 
+about 25 minutes performing the shaving hogs position.  (JE 1:6).  She did not observe 
+the claimant bending or reaching above shoulder height during the 25 minutes of 
+observation.  (JE 1:6).  She noted that he worked within “mid body reach,” and that Mr. 
+Valdez’s reports to the nursing department of his job causing low back and right 
+shoulder pain did not comport with her observations.  (JE 1:6).  The defendants also 
+provided a short video clip of the claimant shaving hogs.  (Defendants Exhibit I).  The 
+video clip appears to show the claimant working on a production line.  (DE I).  The hogs 
+passing him are not above shoulder level or below waist level.  (DE I).  In the short 
+video, the claimant is not seen performing any bending or above shoulder work.  (DE I).  
+Ms. Adams testified that this was consistent with her observations of the claimant, and 
+noted that if an employee was observed working above shoulder height, Smithfield 
+would place an ergonomic stand in place to avoid having the employee working above 
+shoulder height.  (Testimony).   
+Mr. Valdez was taken off of work from July 5, 2022, to July 10, 2022, due to his 
+depression.  (CE 6:81).  He could return to work on July 11, 2022.  (CE 6:81).   
+On July 12, 2022, Mr. Valdez returned to Smithfield’s nursing department with 
+complaints of pain in his right trapezius and right lower back.  (JE 1:3).  Mr. Valdez felt 
+that his pain was “cumulative” since he used one hand to shave hogs with a straight 
+knife.  (JE 1:3).  He attributed his low back pain to the height of the rail.  (JE 1:3).   
+Through mid-July and August of 2022, Mr. Valdez returned to the nursing 
+department at Smithfield for application of heat to his lower back.  (JE 1:4-5).   
+On July 13, 2022, Mr. Valdez visited with Dr. Gaddie again with complaints of left 
+ring finger pain.  (JE 2:50).  He wore a brace at night to alleviate pain.  (JE 2:50).  Dr. 
+Gaddie recommended iontophoresis and phonophoresis two times per week.  (JE 2:51). 
+Ms. Cayler saw Mr. Valdez again on July 15, 2022, for additional psychiatric 
+follow-up.  (JE 5:126-134).  Mr. Valdez continued to view his hand as grotesque and 
+nonfunctional, though he noted that medication changes improved his depression.  (JE 
+5:126).  He recounted an incident wherein he attempted to stop his daughter from 
+falling, but was unable to do so due to his ongoing left hand complaints.  (JE 5:126).  
+Mr. Valdez felt that therapy was not helping his left hand.  (JE 5:126).  He expressed a 
+doubt as to whether Smithfield would let him off of work for emotional therapy.  (JE 
+5:126).  He continued to suffer nightmares.  (JE 5:126).   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 11 
+ 
+On August 19, 2022, Mr. Valdez returned to Ms. Cayler’s office to discuss his 
+mental health.  (JE 5:135-143).  He expressed hopelessness and helplessness 
+surrounding his hand.  (JE 5:135).  He continued to be very depressed.  (JE 5:135).  
+Nevertheless, he wanted to work a 10-hour shift, instead of an 8-hour shift.  (JE 5:135).  
+The treatment plan was to reduce his dose of antidepressants, encourage therapy, and 
+to return in one month to follow-up.  (JE 5:137).   
+Mr. Valdez had an MRI of his left hand on September 9, 2022.  (JE 2:53).  The 
+MRI showed fibrosis and scarring of the fourth and fifth flexor tendons, tendon sheaths, 
+and A1 pulley.  (JE 2:54).   
+On September 16, 2022, the claimant returned to visit Ms. Cayler for continued 
+psychiatric follow-up.  (JE 5:144-153).  He felt more hopeful, despite ongoing significant 
+hand pain.  (JE 5:144).  He had less nightmares, but still experienced occasional 
+flashbacks.  (JE 5:144).  Working in the rendering department depressed him and left 
+him feeling degraded.  (JE 5:144).  He denied ongoing suicidal thoughts.  (JE 5:144).  
+During this visit, his diagnoses were listed as: post traumatic stress disorder, body 
+dysmorphic disorder, generalized anxiety disorder with panic attacks, and major 
+depressive disorder with current active episode.  (JE 5:145-146).  Ms. Cayler 
+recommended continued use of prescriptions for symptom management.  (JE 5:146).   
+On September 19, 2022, a provider issued a note indicating that Mr. Valdez 
+could not work that day due to his depression.  (CE 6:82).   
+From September 30, 2022, to October 3, 2022, Patrick Luft, M.D., took Mr. 
+Valdez off of work due to his depression.  (CE 6:80).   
+Mr. Valdez treated with Ms. Cayler again on October 14, 2022.  (JE 5:154-162).  
+Mr. Valdez experienced reduced depression, but increased anxiety since his previous 
+visit.  (JE 5:154).  He expressed concern about a potential future surgery to remove a 
+mass in his hand.  (JE 5:154).  He also complained of pain in his back and shoulder 
+which he related to his work at Smithfield.  (JE 5:154).  He slept well with less 
+nightmares.  (JE 5:154).  Ms. Cayler restated her diagnoses.  (JE 5:155).  She 
+recommended continued pharmacologic management of his symptoms.  (JE 5:156).  
+Ms. Cayler issued a note taking Mr. Valdez off of work from October 14, 2022, to 
+October 16, 2022, due to his increased depression and anxiety.  (CE 6:83).   
+Mr. Valdez visited with Timothy Vinyard, M.D., at Iowa Ortho, on October 24, 
+2022, for complaints of right shoulder pain which he rated 8 out of 10.  (JE 6:321-323).  
+He described his symptoms as pain, numbness, and reduced range of motion.  (JE 
+6:321).  The record notes Mr. Valdez engaged in repetitive movement at work and that 
+he used his right upper extremity due to an inability to use his left side.  (JE 6:321).  X-
+rays showed no evidence of a fracture, or significant degenerative changes.  (JE 6:323).  
+Dr. Vinyard indicated that he spoke at length with Mr. Valdez regarding his concerns.  
+(JE 6:323).  Specifically, he told Mr. Valdez that he did not think he tore anything in his 
+right shoulder and that he recommended an MRI.  (JE 6:323).  Dr. Vinyard also 
+provided the claimant with work restrictions.  (JE 6:323).   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 12 
+ 
+Another note was issued taking Mr. Valdez off of work on October 31, 2022.  (CE 
+6:84).   
+Mr. Valdez developed a neuroma on his left hand, which necessitated a third 
+surgery in November of 2022.  (Testimony).  This surgery included removal of the 
+neuroma and insertion of cadaver nerves in an attempt to reduce ongoing pain.  
+(Testimony).   
+Following his third surgery, Smithfield placed Mr. Valdez into a role where he 
+removed fat from meat with his right hand.  (Testimony).  He continued to perform that 
+job at the time of the hearing.  (Testimony).   
+Mr. Valdez had an MRI of his right shoulder on November 2, 2022.  (JE 7:369).  
+The radiologist noted the following impressions: “intact rotator cuff; superior labral tear 
+(SLAP 2C), 2.4 x 3.3 cm multiseptated para labral cyst of the superior/posterior superior 
+labrum.  No MR evidence of entrapment neuropathy.”  (JE 7:369).   
+On November 18, 2022, Mr. Valdez continued his follow-up care with Ms. Cayler.  
+(JE 5:163-171).  He scored 16 on the PHQ9 and 4 on the PHQ2.  (JE 5:163).  Since his 
+previous visit, he had a mass removed from his hand, so he dealt with post-operative 
+pain.  (JE 5:163).  He could not determine whether the pain was worse or the same as 
+following his previous surgery.  (JE 5:163).  Ms. Cayler recommended therapy in order 
+to improve Mr. Valdez’s mental health and self-esteem.  (JE 5:163).  She made no 
+changes to his medications, and requested that he return in one month.  (JE 5:165).   
+On December 15, 2022, Dr. Gaddie examined Mr. Valdez for his continued left 
+hand issues.  (JE 2:55-56).  He received another therapy prescription and restrictions 
+from work.  (JE 2:56).   
+Mr. Valdez had another therapy visit on December 28, 2022.  (JE 4:105-107).  
+He continued to have pain in his left hand.  (JE 4:105-107).  Additional therapy visits 
+were recommended.  (JE 4:107).    
+ 
+Thomas Brooks, M.D., saw Mr. Valdez at Innovative Pain & Spine Specialists on 
+January 27, 2023, for complaints following his left hand amputation.  (JE 8:374-375).  
+Mr. Valdez experienced pain in his left hand that radiated through his left fingers.  (JE 
+8:374).  Cold, pressure, and moving his fingers aggravated his pain.  (JE 8:374).  Dr. 
+Brooks observed that the skin on the claimant’s left hand appeared “glossy,” and that 
+his fingernails were “very hard and brittle” when compared to his right hand.  (JE 8:374).  
+Dr. Brooks also documented allodynia in the palm of the left hand, specifically in the 
+areas of the tip of the stump of Mr. Valdez’s left thumb.  (JE 8:375).  Dr. Brooks 
+documented a PHQ-9 score of 12 and a GAD-7 score of 15.  (JE 8:375).  Based upon 
+his examination, Dr. Brooks diagnosed Mr. Valdez with complex regional pain syndrome 
+I of the left upper limb.  (JE 8:375).  Dr. Brooks discussed a left stellate ganglion block 
+with Mr. Valdez, but Mr. Valdez wished to consult with Dr. Gaddie before he made any 
+decisions.  (JE 8:375).   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 13 
+ 
+On February 2, 2023, therapy continued for Mr. Valdez.  (JE 4:108-109).  He 
+complained of pain in his left hand which limited his function.  (JE 4:108).  According to 
+Mr. Valdez, Dr. Brooks indicated that he had CRPS and would benefit from an injection.  
+(JE 4:108).  Mr. Valdez expressed nervousness about receiving an injection, and 
+wanted to discuss the situation with Dr. Gaddie before proceeding.  (JE 4:108).   
+Ms. Cayler visited with Mr. Valdez on February 7, 2023, for continued psychiatric 
+follow-up.  (JE 5:172-181).  She engaged him in 10 minutes of cognitive behavioral 
+therapy due to his self-esteem issues.  (JE 5:172).  He felt improvement in the flexibility 
+of his hand, but continued to experience constant pain.  (JE 5:172).  He slept well, but 
+continued to experience depression.  (JE 5:172).  His symptoms of anxiety also 
+increased.  (JE 5:172).  Mr. Valdez expressed concerns that Smithfield did not want him 
+to return to work.  (JE 5:172).  It is unclear from where he received this impression.  (JE 
+5:172).   Ms. Cayler recommended continued therapy and prescription management.  
+(JE 5:173-174).   
+Dr. Gaddie saw Mr. Valdez again on February 9, 2023, for complaints involving 
+Mr. Valdez’s left hand.  (JE 2:57-58).  Mr. Valdez continued to have pain in his hand and 
+questioned the injection Dr. Brooks wanted to give him in the left hand to calm down his 
+symptoms.  (JE 2:57).  He then complained of pain in his neck.  (JE 2:57).  Dr. Gaddie 
+provided additional restrictions of no use of the left upper extremity.  (JE 2:58).  Dr. 
+Gaddie continued a prescription of occupational therapy.  (JE 2:58).  The record is 
+essentially silent as to Dr. Brooks’ proposed injection.  (JE 2:57-58).   
+On March 7, 2023, Mr. Valdez returned to Ms. Cayler’s office for continued 
+psychiatric follow-up care.  (JE 5:182-191).  He continued to exhibit symptoms of body 
+dysmorphic disorder, depression, and posttraumatic stress disorder.  (JE 5:182).  Mr. 
+Valdez had returned to work since his last visit, and was scheduled to return to a 
+position using a knife.  (JE 5:182).  This increased his anxiety.  (JE 5:182).  He reported 
+decreasing depression, though he continued to “feel he is less of a man due to his hand 
+injury.”  (JE 5:182).  Ms. Cayler recommended continued prescription management of 
+his condition.  (JE 5:183-184).   
+Mr. Valdez treated at St. Anthony Medical Clinics on March 13, 2023, for 
+complaints of a sore throat and nasal congestion.  (JE 5:192-196).  He tested positive 
+for COVID-19, and was advised as to treatment for the same.  (JE 5:192).   
+Mr. Valdez had his twenty-ninth therapy visit on March 20, 2023.  (JE 4:111-113).  
+He rated his pain 8 out of 10, and told the therapist that exercises caused his pain to 
+increase.  (JE 4:111).   
+On March 23, 2023, Mr. Valdez returned to Dr. Gaddie’s office with complaints of 
+left hand pain, a change in color, and a feeling of pins and needles in his left hand.  (JE 
+2:59-60).  Mr. Valdez expressed a desire to return to work, especially in the long term 
+when his pain was controlled.  (JE 2:59).   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 14 
+ 
+Mr. Valdez was discharged from therapy on March 23, 2023.  (JE 4:114-115).  
+He had functional range of motion in his left hand, but could not use his hand due to 
+extreme pain.  (JE 4:114).  Since he did not follow up in the clinic since his last visit, he 
+was formally discharged.  (JE 4:115).   
+Dr. Vinyard examined Mr. Valdez again on March 30, 2023, as a follow up 
+regarding right shoulder pain.  (JE 6:324-327).  Mr. Valdez located his shoulder pain 
+over the posterior aspect of his right shoulder blade and into his right arm.  (JE 6:324).  
+He rated his shoulder pain 7 to 9 out of 10.  (JE 6:324).  Mr. Valdez reiterated that he 
+had no shoulder pain until after performing repetitive work in July of 2022.  (JE 6:324).  
+Dr. Vinyard reviewed an MRI taken in November of 2022, which showed a “slight 
+separation consistent with SLAP tear” and an intact rotator cuff tear.  (JE 6:325).  The 
+doctor did not feel that these were acute tears, nor would surgery be necessary.  (JE 
+6:326).  Dr. Vinyard performed a cortisone injection of the claimant’s right shoulder.  (JE 
+6:325).   He also prescribed medications and physical therapy.  (JE 6:326).  He 
+released him to modified duty with a 20-pound lifting restriction, and restrictions from 
+certain repetitive activities such as lifting, climbing, pulling, reaching above his head, 
+pushing, and working above shoulder level.  (JE 6:327).   
+John Lothrop, III, M.D., examined Mr. Valdez on March 31, 2023 at the CCMH 
+Medical Clinic in Denison, Iowa, for complaints of low back pain.  (JE 9:376-380).  Mr. 
+Valdez told Dr. Lothrop that his pain began in July of 2022, and that it was “very bad” for 
+the last year.  (JE 9:376).  He denied that his pain radiated into his leg.  (JE 9:376).  Mr. 
+Valdez requested medication for his acid reflux.  (JE 9:376-377).  Dr. Lothrop diagnosed 
+Mr. Valdez with back pain and lumbago.  (JE 9:378).  Since x-rays taken that day 
+showed only mild degenerative changes, Dr. Lothrop recommended stretching, heat/ice, 
+and prescription medications.  (JE 9:378).  Dr. Lothrop continued prior restrictions 
+provided to Mr. Valdez including no using ladders or crawling for four weeks.  (JE 
+9:378).   
+On April 4, 2023, Mr. Valdez returned to St. Anthony Medical Clinics where 
+DeRae Schroeder, D.N.P., saw him for complaints of increasing depression over the 
+prior several days.  (JE 5:197-202).  He attributed the increased depression to “dealing 
+with more work comp issues lately…”  (JE 5:197).  He requested a work note due to his 
+depression.  (JE 5:197).  He displayed increased blood pressure, and was diagnosed 
+with primary hypertension.  (JE 5:198).  Ms. Schroeder prescribed medication to treat 
+this issue.  (JE 5:198).  Another work note was issued on April 4, 2023, taking Mr. 
+Valdez off of work on April 4, 2023, to April 5, 2023, due to his symptoms of depression.  
+(CE 6:85).   
+Mr. Valdez started therapy again on April 7, 2023.  (JE 3:87-89).  He complained 
+of right shoulder pain and chronic pain which he rated 8 out of 10.  (JE 3:87).  The 
+therapist thought Mr. Valdez would benefit from occupational therapy in order to 
+improve functional use of the right upper extremity.  (JE 3:89).   
+Shelly Schutte, PA-C, visited with Mr. Valdez on April 18, 2023, at Bluffs Pain 
+Management.  (JE 10:386-387).  Mr. Valdez complained of left hand pain following an 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 15 
+ 
+injury and several surgeries.  (JE 10:387).  Mr. Valdez experienced issues with closing 
+his hand.  (JE 10:387).  Mr. Valdez requested assistance to control his pain.  (JE 
+10:387).  Upon examination, Ms. Schutte observed Mr. Valdez to have “exquisite 
+tenderness…and a lot of tenderness when he is touching each finger to his thumb.  He 
+has a great deal of difficulty opening and closing his hand.”  (JE 10:387).  Ms. Schutte 
+recommended a Stimwave to stimulate the median and ulnar nerves.  (JE 10:387).   
+On April 27, 2023, Mr. Valdez returned to Dr. Vinyard’s office for persistent pain 
+in his right shoulder.  (JE 9:328-330).  His prior injection and prescription medications 
+provided him with “mild to moderate” relief; however, his pain persisted.  (JE 6:328).  He 
+described the nature of his pain as sharp, aching, and burning.  (JE 6:328).  He missed 
+some visits of physical therapy due to a vacation.  (JE 6:328).  Dr. Vinyard measured 
+the range of motion in the claimant’s right shoulder.  (JE 6:329).  He found 170 degrees 
+of flexion and 60 degrees of extension.  (JE 6:329).  Active range of motion was painful, 
+but passive range of motion was pain free.  (JE 6:329).  Dr. Vinyard wrote another 
+prescription for physical therapy, and stressed the need for Mr. Valdez to participate in a 
+home exercise plan.  (JE 6:329).  Dr. Vinyard allowed him to increase his activities as 
+he tolerated.  (JE 6:329).  Dr. Vinyard issued another note outlining temporary work 
+restrictions of lifting no more than 20 pounds with the right arm, as well as avoiding 
+repetitive lifting, climbing, reaching above the head, working above shoulder level, 
+pushing, and pulling.  (JE 6:330).   
+Dr. Lothrop examined Mr. Valdez again on May 9, 2023, for ongoing low back 
+pain.  (JE 9:382-385).  He rated his pain 7 out of 10, and continued to deny radiation.  
+(JE 9:382).  Dr. Lothrop found Mr. Valdez to have no spinal or paraspinal tenderness.  
+(JE 9:384).  He continued to diagnose Mr. Valdez with back pain, and noted there were 
+no acute findings.  (JE 9:384).  Nevertheless, he prescribed Celebrex for Mr. Valdez.  
+(JE 9:385).  Dr. Lothrop recommended a referral to a spine surgeon.  (JE 9:384).  He 
+provided restrictions of: “[n]o ladders, crawling, or lifting greater than 25 lbs.”  (JE 
+9:384).   
+Mr. Valdez obtained another note taking him off of work from May 10, 2023, to 
+May 14, 2023, due to his depression.  (CE 6:86).  He was to return to work on May 15, 
+2023.  (CE 6:86).   
+Ms. Cayler met with Mr. Valdez on May 16, 2023.  (JE 5:203-210).  Ms. Cayler 
+performed a mental status examination on Mr. Valdez.  (JE 5:203).  He displayed a 
+PHQ-2 score of 2.  (JE 5:203).  Despite his decreased score, Ms. Cayler opined that his 
+affect indicated worsening depression.  (JE 5:204).  Mr. Valdez reported that his 
+depression increased due to recent recommendations for additional surgeries to his 
+hand.  (JE 5:203).  He only worked eight-hour shifts due to pain in his low back and 
+shoulder.  (JE 5:203).  Ms. Cayler noted that he kept his hand entirely covered, either 
+inside of his sleeve or in his pocket.  (JE 5:203).  He also displayed decreased eye 
+contact and spoke less than during his prior visit.  (JE 5:203).   
+On May 19, 2023, Mr. Valdez continued his therapy for his right posterior 
+shoulder.  (JE 3:90-91).  His pain levels ranged from between 3 out of 10 and 5 out of 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 16 
+ 
+10.  (JE 3:90).  His ranges of motion were recorded and showed improvement over his 
+initial visit.  (JE 3:90).   
+Dr. Vinyard saw Mr. Valdez again on May 25, 2023, for his ongoing right 
+shoulder pain.  (JE 6:331-334).  Mr. Valdez felt pain only occasionally, and told the 
+doctor that he was improving.  (JE 6:331).  Dr. Vinyard again documented 170 degrees 
+of flexion and 60 degrees of extension.  (JE 6:332).  Dr. Vinyard recommended 
+continued physical therapy, and a continued lifting restriction of 20 pounds.  (JE 6:333).  
+Dr. Vinyard expressed a hesitancy to perform surgery due to the fact that the location of 
+the claimant’s pain did not correlate to the location of his injury.  (JE 6:333).  A 
+confusing note was then issued, which included the same temporary restrictions as 
+those previously provided to Mr. Valdez; however, a box is checked indicating that Mr. 
+Valdez could return to work with no restrictions.  (JE 6:334).  Considering the content of 
+the medical record, it appears that the wrong box was checked.  (JE 6:334).   
+On June 1, 2023, Ms. Schroeder examined Mr. Valdez for an annual wellness 
+visit.  (JE 5:211-217).  He complained of a persistent rash to his arm following a 
+cortisone injection.  (JE 5:211).  He also noted that he continued to treat for his workers’ 
+compensation injuries.  (JE 5:211).   
+Ms. Schroeder conducted a telehealth visit with Mr. Valdez on June 15, 2023.  
+(JE 5:218-221).  Mr. Valdez requested a work note due to his missing work.  (JE 5:218).  
+He blamed his missed work on his depression.  (JE 5:218).  Another note was issued 
+taking Mr. Valdez off of work for June 15, 2023, due to his depression.  (CE 6:87).  He 
+was allowed to return to work the next day.  (CE 6:87).   
+On June 20, 2023, Ms. Cayler visited with Mr. Valdez again for continued mental 
+health care follow-up.  (JE 5:222-230).  He had less pain in his hand and reduced some 
+of his medications as a result.  (JE 5:222).  He also noted less symptoms of depression 
+when compared to his prior visits.  (JE 5:222).  However, he again expressed feelings of 
+embarrassment due to his hand issues.  (JE 5:223).  His diagnoses remained 
+unchanged.  (JE 5:223).  Ms. Cayler recommended continued pharmaceutical 
+management, along with therapy.  (JE 5:223-224).   
+Therapy for the claimant’s right shoulder occurred again on June 21, 2023.  (JE 
+3:93-94).  This was his nineteenth visit.  (JE 3:93).  He rated his pain 4 out of 10.  (JE 
+3:93).  Again, his range of motion showed improvement.  (JE 3:93).  The therapist 
+recommended continued therapy visits.  (JE 3:95).   
+On June 22, 2023, Mr. Valdez returned to Dr. Vinyard’s office for pain in his right 
+shoulder which he rated 3 to 4 out of 10.  (JE 6:335-338).  He reported that his pain was 
+stable, but occurred constantly.  (JE 6:335).  His range of motion was documented as 
+170 degrees of flexion, 60 degrees of extension, and 170 degrees of abduction.  (JE 
+6:336).  An arthroscopic surgery was discussed during this visit; however, the provider 
+noted this would be “unlikely to help his subacromial/posterior pain.”  (JE 6:337).  
+Despite being offered surgery, Mr. Valdez turned it down.  (JE 6:337).  A functional 
+capacity evaluation (“FCE”) was recommended to evaluate potential permanent 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 17 
+ 
+restrictions for Mr. Valdez.  (JE 6:337).  In the interim, the previously promulgated 
+temporary restrictions remained in force.  (JE 6:337-338).  These temporary restrictions 
+included no lifting more than 20 pounds, and avoiding repetitive lifting, pushing, pulling, 
+climbing, reaching above his head, and working above his shoulder.  (JE 6:338).   
+For a time, Mr. Valdez worked in the rendering department.  (Testimony).  He felt 
+degraded by his placement in the rendering unit due to the odor.  (Testimony).  He 
+obtained a note taking him off of this job because he could not bathe every day due to 
+his ongoing left hand issues.  (Testimony).   
+On July 10, 2023, Mr. Valdez visited with Jacqueline Crampton, A.R.N.P.  (JE 
+5:231-235).  He described worsening depression due to increased personal stress.  (JE 
+5:231).  Ms. Crampton recommended that he talk with supportive family and friends.  
+(JE 5:231).  She also encouraged him to attend counseling if needed.  (JE 5:231).  
+Finally, she wrote a work note for Mr. Valdez.  (JE 5:231).  This note took Mr. Valdez off 
+of work from July 11, 2023, to July 13, 2023, with a return to work date of July 14, 2023.  
+(CE 6:88).  Another note was issued from July 11, 2023, to July 16, 2023, with a return 
+to work date of July 17, 2023.  (CE 6:89).   
+Mr. Valdez saw Dr. Gaddie again on July 27, 2023, with complaints of diminished 
+sensation and pain in his left hand.  (JE 2:61-63).  Dr. Gaddie told him that it would not 
+be until May of 2024 before they would know if his pain and lack of sensitivity would 
+continue to show improvement.  (JE 2:61).  His worsening shoulder and back pain were 
+discussed.  (JE 2:62).  Dr. Gaddie could not replicate the triggering described by the 
+claimant in his left hand.  (JE 2:62).  Dr. Gaddie recommended the claimant work 
+modified shifts and, at the claimant’s request, kept him out of cold work areas.  (JE 
+2:62).   
+ 
+Brett Rosenthal, M.D., examined Mr. Valdez for complaints regarding his lower 
+back on July 31, 2023.  (JE 6:339).  Mr. Valdez told the doctor that his low back pain 
+began around July of 2022 after frequent bending and reaching.  (JE 6:339).  Mr. 
+Valdez opined that his pain progressively worsened over time, to the extent that he 
+rated his pain 7 out of 10 during this appointment.  (JE 6:339).  He had no radiation of 
+his pain; rather he described it as an ache.  (JE 6:339).  His symptoms were positive for 
+difficulty walking and headaches.  (JE 6:340).  Dr. Rosenthal measured his sensation to 
+light touch and found them to be normal.  (JE 6:341).  He also found him to have full 
+strength in his lower extremities.  (JE 6:341).  He displayed no tenderness to palpation 
+of the lumbar spine and had full active range of motion in his lumbar spine.  (JE 6:341).  
+X-rays were taken, and were normal with no dynamic instability.  (JE 6:342).  Dr. 
+Rosenthal diagnosed the claimant with low back pain, and recommended continued 
+physical therapy due to the doctor’s belief that Mr. Valdez had a muscular problem.  (JE 
+6:342).  If Mr. Valdez did not find improvement from his therapy, Dr. Rosenthal 
+recommended advanced imaging.  (JE 6:342).  He prescribed him with 
+cyclobenzaprine.  (JE 6:342).  He then provided him with temporary restrictions of lifting 
+no more than 15 pounds, and avoiding repetitive lifting, pulling, pushing, bending, or 
+twisting.  (JE 6:343).   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 18 
+ 
+On July 31, 2023, Dr. Rosenthal issued additional temporary restrictions.  (JE 
+1:9).  He was restricted to limited bending, squatting or lifting 21 to 70 pounds.  (JE 1:9).  
+He could occasionally kneel, climb, or lift 11 to 20 pounds.  (JE 1:9).  He could 
+repetitively lift 1 to 10 pounds.  (JE 1:9).   
+On August 1, 2023, Mr. Valdez returned to Ms. Cayler’s office.  (JE 5:237-246).  
+Mr. Valdez continued to express feelings of embarrassment due to his hand issues.  (JE 
+5:237).  He had increased pain and edema in his hands, for which he wore “edema 
+wear.”  (JE 5:237).  Despite restrictions regarding his left hand, his supervisor continued 
+to push him to use it.  (JE 5:237).  He was fearful that using his left hand would result in 
+permanent impairment to the same.  (JE 5:237).  He continued pharmacologic 
+management of his mental health symptoms.  (JE 5:237).  Ms. Cayler observed that his 
+affect was “more depressed” with less smiling and eye contact than previous visits.  (JE 
+5:238).  In addition to his hand issues, he complained of back pain, for which he was 
+scheduled to see a new provider.  (JE 5:237).  Due to Ms. Cayler’s impending 
+retirement, Mr. Valdez’s care was to be transferred to Christie Burnell, A.R.N.P.  (JE 
+5:238).  Ms. Cayler also issued a note keeping Mr. Valdez off of work on August 1, 
+2023, and August 2, 2023, due to his depression.  (CE 6:90).   
+Therapy resumed on August 9, 2023, for the claimant’s low back pain.  (JE 3:96-
+98).  He complained that the pain began in July of 2022, was constant, and aggravated 
+by lifting and bending.  (JE 3:96-97).  He rated his pain at least 7 out of 10.  (JE 3:96).  
+The therapist opined that the claimant may have a disc lesion rather than a muscle 
+strain.  (JE 3:97).  Continued therapy was recommended.  (JE 3:97).   
+On August 28, 2023, Mr. Valdez followed up again with Dr. Rosenthal for 
+continued, persistent, low back pain.  (JE 6:344-347).  He attended physical therapy, 
+but found it provided no relief.  (JE 6:344).  Dr. Rosenthal ordered an MRI in order to 
+further evaluate the claimant’s ongoing low back pain.  (JE 6:346).  He sent another 
+prescription for cyclobenzaprine, and also continued the previously promulgated 
+restrictions.  (JE 6:346).  Dr. Rosenthal reiterated the July 31, 2023, restrictions during 
+this visit.  (JE 1:10).   
+Mr. Valdez had an MRI of his lumbar spine on September 13, 2023.  (JE 7:370-
+373).  The impression was listed as: 
+Mild degenerative change L4-5 and L5-S1 levels.   
+L4-5: Small right eccentric disc protrusion and slight facet arthropathy, 
+thecal sac mildly indented and right lateral recess partially narrowed.  
+Neuroforamina are narrowed, mild on the left and mild to moderate on the 
+right.   
+L5-S1: Small disc bulge and facet arthropathy without significant central 
+canal stenosis.  Neuroforamina mildly narrowed.   
+(JE 7:371).   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 19 
+ 
+Ms. Cayler visited with Mr. Valdez again on September 19, 2023, for his ongoing 
+psychiatric issues.  (JE 5:247-256).  He reported his moods as “so-so” with good days 
+and bad days.  (JE 5:247).  His ongoing back pain and potential surgery to treat the 
+same caused his depression to increase.  (JE 5:247).  In an effort to treat this increased 
+anxiety, Ms. Cayler increased the dosage of some of the claimant’s medication.  (JE 
+5:247).  Ms. Cayler observed that Mr. Valdez’s affect was improved, including 
+appropriate laughing and smiling.  (JE 5:248).  However, she noted that he frequently 
+rubbed his hand.  (JE 5:248).  Ms. Cayler continued to recommend medication 
+management for the claimant’s ongoing mental health issues.  (JE 5:248).  Finally, Mr. 
+Valdez informed Ms. Cayler that he wished to see Ms. Burnell upon the retirement of 
+Ms. Cayler.  (JE 5:248).   
+Mr. Valdez returned to see Dr. Rosenthal on September 21, 2023, for his 
+continued low back pain.  (JE 6:348-351).  Mr. Valdez rated his pain 7 out of 10, and 
+noted that he experienced no change since his last visit.  (JE 6:348).  Dr. Rosenthal 
+reviewed the results of the MRI from September 13, 2023, which showed mild 
+degenerative changes with right paracentral bulging at L4-5.  (JE 6:350).  This resulted 
+in mild right lateral recess stenosis with no significant central canal or neuroforaminal 
+stenosis at any level.  (JE 6:350).  Dr. Rosenthal declined to recommend surgery due to 
+its lack of reliability in producing results for these types of symptoms.  (JE 6:350).  He 
+made a referral to the pain team for coordination of Mr. Valdez’s care.  (JE 6:350).  Dr. 
+Rosenthal reiterated his prior restrictions.  (JE 6:351).   
+On September 28, 2023, Dr. Gaddie re-examined Mr. Valdez.  (JE 2:64-65).  The 
+worst pain he experienced was in his left ring finger.  (JE 2:64).  Mr. Valdez also 
+claimed that his left thumb locked and/or trembled when he attempted to grip items.  (JE 
+2:64).  He reported unbearable back pain to Dr. Gaddie, for which he sought treatment 
+with Dr. Rosenthal.  (JE 2:64).  He attributed his pain to “constant movement while 
+cleaning pork with a knife.”  (JE 2:64).  Upon examination, Dr. Gaddie found him to be 
+able to flex and extend his digits; however, he had a mild decrease in terminal extension 
+of the digits.  (JE 2:65).  He also continued to have significant cold sensitivity.  (JE 
+2:65).  Dr. Gaddie recommended an injection of the nerve to help with Mr. Valdez’s 
+nerve pain.  (JE 2:65).  He also recommended a second opinion from either Dr. Alex 
+Lesiak or Dr. Nicholas Bruggeman.  (JE 2:65).  Dr. Gaddie recommended a restriction 
+of lifting no more than 2 pounds and alternating 8 and 10-hour shifts with no repetitive 
+motion.  (JE 2:65).  Finally, Dr. Gaddie restricted the claimant from working in a cold 
+area.  (JE 2:65).   
+Ms. Schroeder examined Mr. Valdez again for a family medicine visit on October 
+6, 2023.  (JE 5:257-262).  He complained of symptoms of a viral upper respiratory 
+infection.  (JE 5:257).  He was instructed in how to properly care for this issue.  (JE 
+5:257).  Mr. Valdez asked Ms. Schroeder about the possible side effects from some 
+proposed steroid injections.  (JE 5:257).   
+Alex Lesiak, M.D., performed a left palm injection on the claimant on October 12, 
+2023.  (JE 2:66-68).  Following the injection, the pain in his ring and small finger 
+improved.  (JE 2:68).   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 20 
+ 
+On October 30, 2023, Amard Abcejo, D.O., examined the claimant for continued 
+complaints regarding his left hand.  (JE 2:69-71).  The provider gave the claimant a 
+cortisone injection with ultrasound guidance in order to relieve fourth finger digital nerve 
+pain.  (JE 2:70).   
+John Rayburn, M.D., first saw Mr. Valdez on November 1, 2023, for his ongoing 
+lower back pain.  (JE 6:352-358).  He rated his pain 6 out of 10.  (JE 6:352).  Dr. 
+Rayburn found no tenderness over the claimant’s lower back, but did observe 
+tenderness over the lumbar paraspinal muscles and upper glutes near “PSIS” 
+bilaterally.  (JE 6:354).  Dr. Rayburn recommended a home exercise program focused 
+on strengthening the area, along with trigger point injections.  (JE 6:354).  Dr. Rayburn 
+provided temporary restrictions of no lifting more than 15 pounds, and avoidance of 
+repetitive lifting, pushing, pulling, bending, or twisting.  (JE 6:355).   
+On November 21, 2023, Ms. Crampton examined Mr. Valdez again for 
+complaints of cellulitis on his right ear.  (JE 5:263-268).  He was prescribed an 
+antibiotic.  (JE 5:263).   
+Dr. Lesiak examined the claimant again on December 13, 2023.  (JE 2:72-74).  
+Mr. Valdez felt somewhat better after his injection, including ease of movement in his 
+wrist.  (JE 2:73).  He continued to have sensitivity to cold, and pain in the area of his 
+scar and palm.  (JE 2:73).  Grasping a stick provided to him during physical therapy was 
+also painful.  (JE 2:73).  Dr. Lesiak discussed treatment options with the claimant, 
+including the possibility of completing a repeat placement of a cadaver nerve in his left 
+hand.  (JE 2:73).  Mr. Valdez declined future surgery and opted instead for continued 
+observation and a reduced dosage of gabapentin.  (JE 2:73).  Dr. Lesiak also provided 
+the claimant with another prescription for physical therapy.  (JE 2:73).   
+On December 14, 2023, Mr. Valdez returned to see Dr. Rayburn again.  (JE 
+6:359-361).  Mr. Valdez told the doctor that he experienced “very little pain,” so he did 
+not want to proceed with the previously planned injection.  (JE 6:359).  Dr. Rayburn 
+agreed with the plan.  (JE 6:359).  Dr. Rayburn allowed the claimant to return to work 
+without the need for any restrictions.  (JE 6:361).   
+Mr. Valdez saw Ms. Burnell for the first time on December 21, 2023, for 
+psychiatric medication management.  (JE 5:269-277).  He reported feeling “so-so” still, 
+and rated his depression much higher while at work than while at home.  (JE 5:269).  
+He found that his appetite varied, though he slept 8 hours per night.  (JE 5:269).  Ms. 
+Burnell diagnosed Mr. Valdez with major depressive disorder, body dysmorphic 
+disorder, post-traumatic stress disorder, and generalized anxiety with panic attacks.  (JE 
+5:270).  She recommended continued pharmacologic management.  (JE 5:270).   
+On December 21, 2023, restrictions were provided indicating that Mr. Valdez 
+should not work in the cold, the rendering department, or around significant odors.  (JE 
+1:11).   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 21 
+ 
+Ms. Schroeder saw Mr. Valdez again on January 10, 2024, for complaints of 
+increasing depression.  (JE 5:278-281).  He requested a work note due to his 
+depression.  (JE 5:278).  He also noted being unaware of changes Ms. Burnell made in 
+his medication dosages.  (JE 5:278).  Ms. Schroeder recommended that he follow 
+proper dosing of his medications, and indicated that she would contact the pharmacy 
+dispensing his medications in order to have them place labels written in Spanish on the 
+prescriptions.  (JE 5:278-279).   
+On January 10, 2024, a note was issued taking Mr. Valdez off of work from 
+January 9, 2024, to January 11, 2024, with a return to work date of January 12, 2024.  
+(CE 6:91).   
+On January 24, 2024, Dr. Lesiak again saw Mr. Valdez regarding his left hand 
+complaints.  (JE 2:75-76).  Mr. Valdez stopped taking gabapentin.  (JE 2:76).  He 
+alleged that during a therapy appointment, the therapist over-maneuvered his finger 
+causing pain.  (JE 2:76).  He could move all of his fingers.  (JE 2:76).  Mr. Valdez 
+indicated that his pain was tolerable and that he wished to return to work.  (JE 2:76).  
+Based upon his examination, Dr. Lesiak placed the claimant at maximum medical 
+improvement (“MMI”), with a restriction from working in cold environments or with frozen 
+meat packages.  (JE 2:76).  Besides those restrictions, Dr. Lesiak allowed Mr. Valdez to 
+work full duty.  (JE 2:76).   
+Mr. Valdez returned to see Ms. Schroeder again on February 6, 2024, with 
+continued complaints of increasing depression.  (JE 5:283-288).  Mr. Valdez complained 
+of a headache, for which Ms. Schroeder recommended ibuprofen.  (JE 5:284).  He also 
+requested a work note during this visit.  (JE 5:286).  She provided one and kept Mr. 
+Valdez off of work from February 6, 2024, to February 8, 2024, due to his depression.  
+(CE 6:92).   
+Dr. Vinyard issued a referral for a FCE on February 6, 2024.  (JE 6:362).   
+Kylee Fitch, A.P.R.N., examined the claimant on February 20, 2024.  (JE 2:77-
+78).  Smithfield respected Mr. Valdez’s restrictions; however, according to Mr. Valdez, 
+Smithfield required him to perform activities “that his hand cannot physically do 
+correctly.”  (JE 2:78).  This included tasks requiring grasping and grabbing.  (JE 2:78).  
+Performing these tasks caused significant pain, according to Mr. Valdez.  (JE 2:78).  Mr. 
+Valdez also complained of issues with his back and shoulder.  (JE 2:78).  After 
+discussing the situation with Ms. Fitch, Mr. Valdez requested increased work 
+restrictions.  (JE 2:78).  Ms. Fitch accommodated this request by issuing new work 
+restrictions of “no use of the affected extremity, no cold environments until he is able to 
+get to his FCE.”  (JE 2:78).   
+On February 20, 2024, Dr. Lesiak issued additional temporary restrictions that 
+simply stated, “please see work restrictions and FCE recommendations.”  (JE 1:13).   
+Claimant’s counsel sent a letter outlining his version of the medical records to 
+date to Ms. Burnell, dated February 20, 2024.  (JE 5:289-297).  The letter included 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 22 
+ 
+several questions based upon Ms. Burnell’s treatment of Mr. Valdez and her review of 
+the records provided by claimant’s counsel.  (JE 5:290-300).  Ms. Burnell checked “yes” 
+or “no” in response to these questions, and then signed the letter on February 21, 2024, 
+certifying her opinions.  (JE 5:290-300).   
+Ms. Burnell certified that she worked in the mental health field for approximately 
+five years, and more specifically as a psychiatric nurse practitioner for nearly one year 
+prior to the date of the letter.  (JE 5:298).  She attested that her diagnoses of post-
+traumatic stress disorder, major depressive disorder, generalized anxiety disorder with 
+panic attacks, and body dysmorphic disorder were “at least in substantial part” related to 
+Mr. Valdez’s June 29, 2021, workplace accident to his left hand.  (JE 5:298).  Ms. 
+Burnell further opined that Mr. Valdez “likely experienced permanent 
+mental/psychological impairment as a result of his mental sequela…stemming from his 
+[June 29, 2021] traumatic workplace accident to his left hand.”  (JE 5:299).  She next 
+confirmed her accession to the following restrictions, which she related to the June 29, 
+2021, work incident: 1. No working in cold environments; 2. No working in the 
+“rendering” department due to its triggering of his post-traumatic stress disorder; and, 3. 
+No working in or around areas with “significant odors.”  (JE 5:299).  In this same section 
+of the letter she agreed that Mr. Valdez suffered from substantial deficits in emotional 
+stability, attention and concentration, and the ability to maintain consistent pace if 
+expected to perform jobs with both hands.  (JE 5:299).  Finally, Ms. Burnell concluded 
+that Mr. Valdez required “at a minimum” ongoing psychiatric visits with medication 
+management, along with mental health therapy, due to his June 29, 2021, work incident. 
+(JE 5:299).   
+Mr. Valdez participated in a FCE at Athletico Physical Therapy on February 26, 
+2024, at the arrangement of Dr. Lesiak and Dr. Vinyard.  (DE C:48-54).  The results of 
+the FCE were deemed valid and consistent based upon the observed effort of Mr. 
+Valdez.  (DE C:48).  The FCE showed that Mr. Valdez could lift and carry 30 pounds on 
+an occasional basis and 15 pounds on a frequent basis with his bilateral arms so long 
+as they were performed near or below the waist level.  (DE C:48).  Based on the 
+foregoing, the FCE showed that Mr. Valdez could work in positions in the “light-medium 
+physical demand level.”  (DE C:48).  However, Mr. Valdez scored a 10 on the Work 
+Recovery Expectations Questionnaire.  (DE C:50).  According to the FCE, scores over 6 
+indicated a low return to work probability and poor medical outcomes.  (DE C:50).  
+Based upon the results of the FCE, the FCE recommended the following restrictions:  
+1. Lifting of objects to shoulder level …. should be restricted to 20 pounds on an 
+occasional basis and 10 pounds on a frequent basis.   
+  
+2. Overhead lifting should be restricted to 15 pounds or less.   
+ 
+3. Limit repetitive heavy grasping with left hand.  Jose displays a maximum grip 
+strength of 80 pounds with his right hand and 40 pounds with [his] left hand.   
+ 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 23 
+ 
+4. Limit repetitive heavy pinching with left hand.  Jose displays a maximum 
+lateral pinch strength of 25 pounds on the right and 10 pounds on the left.   
+(DE C:48).   
+Mr. Valdez had a telemedicine visit with Ms. Crampton on March 4, 2024.  (JE 
+5:301-303).  He complained of increased depression due to increased personal stress.  
+(JE 5:301).  Ms. Crampton encouraged Mr. Valdez to continue to take medication as 
+prescribed, and to seek out counseling.  (JE 5:301).  Ms. Crampton provided the 
+claimant with a work note.  (JE 5:301).   
+At the arrangement of claimant’s counsel, Sunil Bansal, M.D., M.P.H., completed 
+an IME on the claimant on March 4, 2024.  (CE 1:1-28).  Following his examination of 
+the claimant, Dr. Bansal issued an IME report outlining his findings and opinions.  (CE 
+1:1-28).  Dr. Bansal is board certified in occupational medicine.  (CE 1:31).   
+In completing his IME report, Dr. Bansal reviewed a number of medical records.  
+(CE 1:1-18).  Dr. Bansal completed an interview with Mr. Valdez.  (CE 1:20).  At the 
+time of the IME, Mr. Valdez continued to have pain in his left hand, especially with 
+gripping.  (CE 1:20).  At times, the pain extends to his arm if there is pressure placed 
+upon it.  (CE 1:20).  He described the pain as cramping in nature.  (CE 1:20).  Mr. 
+Valdez also outlined pain in his right shoulder, accompanied by an inability to raise his 
+right arm overhead.  (CE 1:20).  He also experienced issues with lifting on his right side.  
+(CE 1:20).  Further, he complained of ongoing low back pain due to what he described 
+as repetitive bending at his work.  (CE 1:20).  Bending forward exacerbated his pain.  
+(CE 1:20).  Finally, he outlined his mental health concerns, including ongoing 
+nightmares of the work incident.  (CE 1:20).  He claimed to have difficulty being near the 
+areas of the Smithfield facility where his injury occurred.  (CE 1:20).  He experienced 
+ongoing depression and problems with focus.  (CE 1:20).  He took medication and 
+participated in therapy, which helped alleviate his symptoms.  (CE 1:20).   
+At the time of the IME, Mr. Valdez worked in an area where he separated fat from 
+meat.  (CE 1:20).  This was described as “very light” work.  (CE 1:20).   
+Dr. Bansal then outlined the results of his physical examination of Mr. Valdez 
+during the IME.  (CE 1:21-23).  He observed that Mr. Valdez has intact sensation to the 
+left hand with tenderness to palpation over the fingers.  (CE 1:21).  Dr. Bansal listed the 
+following ranges of motion in the claimant’s left fingers: 
+INDEX FINGER: 
+MP Joint: 
+ 
+20 to 70 degrees 
+PIP Joint: 
+ 
+0 to 100 degrees 
+DIP Joint: 
+ 
+0 to 70 degrees 
+ 
+LONG FINGER: 
+MP Joint: 
+ 
+17 to 80 degrees 
+PIP Joint: 
+ 
+0 to 100 degrees 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 24 
+ 
+DIP Joint: 
+ 
+0 to 70 degrees 
+ 
+RING FINGER: 
+MP Joint: 
+ 
+16 to 74 degrees 
+PIP Joint: 
+ 
+0 to 100 degrees 
+DIP Joint: 
+ 
+0 to 70 degrees 
+ 
+SMALL FINGER: 
+MP Joint: 
+ 
+20 to 82 degrees 
+PIP Joint: 
+ 
+0 to 100 degrees 
+DIP Joint: 
+ 
+0 to 70 degrees 
+(CE 1:21).  Dr. Bansal found the claimant to have tenderness to palpation in his lower 
+back with guarding noted.  (CE 1:21).  His range of motion in his lower back was 
+recorded as 79 degrees of flexion, 26 degrees of extension, 34 degrees of left lateral 
+flexion, and 28 degrees of right lateral flexion.  (CE 1:21-22).  
+  
+He then examined the range of motion in Mr. Valdez’s left and right shoulders.  
+(CE 1:22).  Mr. Valdez displayed tenderness to palpation in the anterior right shoulder, 
+and had flexion to 172 degrees, abduction to 161 degrees, adduction to 49 degrees, 
+external rotation to 78 degrees, extension to 41 degrees, and internal rotation to 60 
+degrees.  (CE 1:22).  His left shoulder showed flexion to 179 degrees, abduction to 178 
+degrees, adduction to 48 degrees, external rotation to 86 degrees, extension to 52 
+degrees, and internal rotation to 90 degrees.  (CE 1:22).  Dr. Bansal documented no 
+lost sensory discrimination in any extremity.  (CE 1:22).  Finally, using a dynamometer, 
+Dr. Bansal recorded that the claimant had right grip strength of 39 kg, 40 kg, and 38 kg, 
+and left grip strength of 20 kg, 18 kg, and 18 kg.  (CE 1:23).    
+ 
+Based upon his examination of the claimant, Dr. Bansal provided Mr. Valdez with 
+the following diagnoses: 
+ 
+LEFT HAND/FINGERS: 
+Traumatic amputation of the left thumb distal phalanx, open fracture of the 
+left thumb distal phalanx, lacerations of the radial digital nerves of the left 
+index, ring, and small fingers, lacerations of the flexor digitorum superficialis 
+tendons of the left middle, ring, and small fingers, lacerations of the ulnar 
+digital nerves of the left ring and small fingers, traumatic arthrotomy of the 
+left ring finger metacarpophalangeal joint, disruption of the palmar plate of 
+the left ring finger metacarpophalangeal joint, traumatic laceration of the 
+palmar plate of the left small finger, and open left small finger 
+metacarpophalangeal joint traumatic capsulotomy.   
+… 
+Left hand lacerations with multiple tendon repairs, and partial thumb 
+amputation.   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 25 
+ 
+… 
+Left ring finger neuroma. 
+… 
+RIGHT SHOULDER: 
+Right shoulder SLAP tear. 
+ 
+BACK: 
+L4-L5 right disc protrusion. 
+L5-S1 disc bulge. 
+ 
+MENTAL HEALTH: 
+Post-traumatic stress disorder with depression.   
+(CE 1:23-24).  Dr. Bansal placed Mr. Valdez at MMI as of January 24, 2024 for his left 
+hand, on June 22, 2023, for his right shoulder, on September 21, 2023, for his low back, 
+and on March 4, 2024, for his mental health issues.  (CE 1:24-25).   
+ 
+Dr. Bansal continued his report with a synopsis of his causation opinions 
+regarding each condition noted above.  (CE 1:25-26).  Dr. Bansal noted the cuts and 
+subsequent surgeries to the claimant’s left hand due to the acknowledged work injury.  
+(CE 1:25).  He then opined that Mr. Valdez, “…developed right shoulder pathology in 
+the form of a SLAP tear as a result of overuse and overcompensation from his left hand 
+pathology.”  (CE 1:25).  Since he relied solely on his right arm, Dr. Bansal opined that it 
+was “…common to have contralateral arm rotator cuff pathology, as he would be 
+repeatedly reaching with his shoulder at an angle over 90 degrees, stressing the 
+labrum.”  (CE 1:25).  It is unclear from where Dr. Bansal received this information 
+concerning Mr. Valdez’s jobs at Smithfield, since it does not appear that this was part of 
+his interview or medical records review.  (CE 1:1-28).  Dr. Bansal continued by opining 
+that Mr. Valdez incurred disc bulging in his lumbar spine due to repetitive work activities 
+at Smithfield, as “[h]is work involved repetitive bending, requiring mechanical loading in 
+a forward bent position, often in an awkward skewed position as he was solely using his 
+right arm for the trimming.”  (CE 1:25).  Finally, Dr. Bansal opined that the traumatic 
+injury sustained by Mr. Valdez led to his development of PTSD.  (CE 1:26).  He cited to 
+several studies indicating that “…many patients who experienced an orthopedic trauma 
+… developed symptoms of PTSD.  In some cases, even though the injury healed 
+properly, the patient continued to experience emotional problems.”  (CE 1:26).   
+ 
+The report next endeavors to assign permanent impairment ratings based upon 
+the AMA Guides to the Evaluation of Permanent Impairment, Fifth Edition.  (CE 1:26-
+28).  Based upon the distal phalanx amputation of the left thumb, Dr. Bansal used 
+Figure 16-5 to provide a 10 percent thumb impairment.  (CE 1:26).  This equated to a 4 
+percent left hand impairment.  (CE 1:26).  Dr. Bansal then used Figures 16-21 to 16-25 
+of the Guides to provide impairment ratings for the remainder of Mr. Valdez’s left 
+fingers.  (CE 1:26-27).  Specifically, he provided an 11 percent impairment for the left 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 26 
+ 
+index finger, a 14 percent impairment for the long finger, a 9 percent impairment to the 
+ring finger, and a 5 percent impairment to the small finger.  (CE 1:26-27).  These 
+equated to a 2 percent hand impairment, a 3 percent hand impairment, a 1 percent 
+hand impairment, and a 1 percent hand impairment, respectively.  (CE 1:27).  Dr. 
+Bansal then combined the total hand impairments to arrive at an 11 percent left hand 
+impairment, or a 10 percent left upper extremity impairment, or a 6 percent whole 
+person impairment.  (CE 1:27).  Based upon range of motion deficits and the factors 
+noted in Figures 16-40 to 16-46 of the Guides, Dr. Bansal provided the claimant with a 5 
+percent right upper extremity impairment for his right shoulder issues.  (CE 1:27).  This 
+equated to a 3 percent whole person impairment.  (CE 1:27).  Dr. Bansal continued, by 
+referring to Table 15-3 of the Guides to opine that Mr. Valdez fit into the DRE Lumbar 
+Category II due to his loss of range of motion and guarding.  (CE 1:27).  Based upon 
+this, Dr. Bansal assigned a 5 percent impairment of the whole body.  (CE 1:27-28).   
+ 
+Finally, Dr. Bansal discussed his recommended permanent restrictions.  (CE 
+1:28).  Dr. Bansal directly quoted and adopted the restrictions recommended by the 
+FCE, which state as follows: 
+Date of service February 26, 2024.  Functional capacity evaluation.   
+SUMMARY:  The overall test results are a valid representation of Mr. 
+Valdez’s functional abilities based on him demonstrating consistent effort.  
+Based on test findings, he would benefit from the following restrictions within 
+the light to medium physical demand level: Lifting of objects to shoulder 
+level should be restricted to 20 pounds on an occasional basis, and 10 
+pounds on a frequent basis.  Overhead lifting should be restricted to 15 
+pounds or less.  Limit repetitive heavy grasping with the left hand.  He 
+displays maximum grip strength of 80 pounds with the right hand, and 40 
+pounds with his left hand.  Limit repetitive heavy pinching with the left hand.  
+He displays a maximum lateral pinch strength of 25 pounds on the right, 
+and 10 pounds on the left.  He demonstrated floor to waist lifting of 30 
+pounds occasionally, 12 inches to waist 30 pounds occasionally, waist to 
+shoulder 20 pounds occasionally, overhead 15 pounds occasionally, floor 
+to waist 15 pounds frequently, bilateral carrying of 30 pounds for 25 feet 
+occasionally, bilateral carrying of 15 pounds for 25 feet frequently, and 
+pushing and pulling of 30 pounds for 25 feet occasionally.  No functional 
+limitations were observed with forward reaching.  Overhead reaching 
+frequently.   
+(CE 1:28).  Dr. Bansal assesses two additional restrictions, “No frequent bending or 
+twisting.  Avoid over shoulder reaching with the right arm.”  (CE 1:28).  He also 
+recommended intermittent steroid injections for the claimant’s right shoulder, 
+intermittent epidural injections for the claimant’s back, and continued counseling and 
+medication management for Mr. Valdez’s mental health issues.  (CE 1:28).   
+Ms. Crampton saw Mr. Valdez in person on March 6, 2024, for continued 
+depression complaints.  (JE 5:305-311).  Ms. Crampton recommended that Mr. Valdez 
+seek out counseling, and also continue to take his prescribed medications.  (JE 5:305).   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 27 
+ 
+On March 7, 2024, Dr. Vinyard wrote a letter to Heather Adams of Smithfield.  
+(JE 6:363-364).  He outlined his previously provided diagnoses and treatment of the 
+claimant’s right shoulder.  (JE 6:363).  He noted that no additional care was anticipated 
+for the claimant’s right shoulder.  (JE 6:363).  He further recounted the results of a FCE 
+that occurred on February 26, 2024.  (JE 6:363).  The results of the FCE were 
+considered valid and consistent.  (JE 6:363).  Mr. Valdez displayed right hand grip 
+strength of 80 pounds and left hand grip strength of 40 pounds.  (JE 6:363).  He showed 
+a right hand lateral pinch strength of 25 pounds and a left hand lateral pinch strength of 
+10 pounds.  (JE 6:363).  Dr. Vinyard noted that the FCE recommended the following: 
+Jose demonstrated the ability to lift and carry 30 pounds on occasional basis 
+and 15 pounds on a frequent basis for bilateral lifts performed near waist 
+level and below unilateral lift/carry with the left hand restricted to 15 pounds 
+or less.  Based on the findings, Jose demonstrated the ability to perform 
+work activities within the light-medium physical demand level.   
+(JE 6:363).  Based upon the FCE results, Dr. Vinyard recommended the following 
+permanent restrictions: 
+1. Lifting of objects to shoulder level should be restricted to 20 pounds on 
+occasional basis and 10 pounds on a frequent basis.   
+2. Overhead lifting should be restricted to 15 pounds or less.   
+3. Limit repetitive heavy grasping with left hand.   
+(JE 6:363).   
+ 
+On March 8, 2024, Kunal Patra, M.D., conducted an independent psychiatric 
+evaluation of the claimant, at the arrangement of claimant’s counsel.  (CE 2:32-57).  Dr. 
+Patra is a board-certified psychiatrist.  (CE 2:57).  Dr. Patra explained to Mr. Valdez that 
+he was tasked with conducting a clinical interview, and administrating clinical rating 
+scales and multi-scale inventories of personality and psychopathology.  (CE 2:33).  Prior 
+to conducting his interview with Mr. Valdez, Dr. Patra reviewed a number of pertinent 
+medical records.  (CE 2:33-40).   
+ 
+Dr. Patra described Mr. Valdez as looking “crestfallen” as he explained suffering 
+the traumatic injury to his left hand on June 29, 2021.  (CE 2:40).  Mr. Valdez recalled 
+working on the specific machine that cut him on only three instances.  (CE 2:40).  He 
+told Dr. Patra, “what happened with the accident changed my life,” at which time he 
+became tearful.  (CE 2:40).  He also mentioned constant aching pain, cold sensitivity, 
+and reduced grip strength in his left hand.  (CE 2:40).  He felt anxious if he approached 
+the area of the factory in which the incident occurred, and “…struggled with low self-
+worth and sadness.”  (CE 2:40).  Mr. Valdez recounted to Dr. Patra his opinion that 
+“…he suffered injuries to his right shoulder and low back…” due to overcompensating 
+while working on the kill floor.  (CE 2:41).  Mr. Valdez complained that the ongoing 
+issues in his left hand contributed to difficulties with picking up his daughter, cutting the 
+grass, cleaning snow, servicing his automobile, and taking his dogs on walks.  (CE 
+2:42).  Mr. Valdez expressed anxiety about returning to work anywhere at Smithfield, 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 28 
+ 
+adding that he experienced chills when he approached the plant.  (CE 2:42).  Dr. Patra 
+observed that Mr. Valdez appeared to be fixated on his disfigurement, and the 
+perception of others regarding his left hand.  (CE 2:42).  Mr. Valdez also felt that he was 
+discriminated against by supervisors at Smithfield following his work injury, as he was 
+made to feel guilty about performing light duty work or leaving work to attend medical 
+appointments.  (CE 2:43).   
+Mr. Valdez denied experiencing any emotional, physical or other trauma as a 
+child or adult that would have triggered his mental health issues.  (CE 2:44).  Despite 
+this denial, Dr. Patra noted the medical records indicated that Mr. Valdez sought 
+treatment with a therapist in the early stages of his divorce from his wife.  (CE 2:44).   
+Dr. Patra then documented the findings of his mental status examination of the 
+claimant.  (CE 2:45).  Dr. Patra observed that Mr. Valdez was “goal-directed, logical, 
+and coherent…” despite his mood as “feeling down, depressed or hopeless on more 
+than half the days.”  (CE 2:45).  Mr. Valdez scored a 17 on the PHQ-9, which is a 
+screening for major depressive disorder and mood-related symptoms.  (CE 2:45-46).  
+Specifically, Mr. Valdez indicated that his depressive symptoms made his life “very 
+difficult.”  (CE 2:46).  Mr. Valdez also took the GAD-7, which is a screening for anxiety 
+and its related symptoms.  (CE 2:46).  Mr. Valdez scored 18 on the GAD-7, which 
+indicated “severe generalized anxiety.”  Mr. Valdez took the PCL-5, which tested for the 
+presence of post-traumatic stress disorder.  (CE 2:46).  He scored 60 out of 80, 
+indicating he had PTSD.  (CE 2:46).  According to Dr. Patra, this score, and Mr. 
+Valdez’s responses to the questions posed to him, satisfied the DSM-5 criteria for 
+diagnosing PTSD.  (CE 2:46-47).   
+Dr. Patra then conducted a “Personality Assessment Inventory,” (“PAI”), which is 
+a 344 item self-reporting instrument.  (CE 2:47).  The material from the PAI is 
+“integrated with all other sources of information in reaching professional decisions about 
+this individual.”  (CE 2:47).  There were some issues noted with Mr. Valdez’s responses 
+on the PAI, which Dr. Patra attributed to his education, reading difficulties, and language 
+problems.  (CE 2:47).   
+The report continued with Dr. Patra’s diagnoses of Mr. Valdez based upon his 
+examination and review of the pertinent medical records.  (CE 2:47-48).  Dr. Patra 
+diagnosed Mr. Valdez with chronic PTSD and moderate intensity major depressive 
+disorder.  (CE 2:47).  Dr. Patra outlined the DSM-5’s factors regarding a diagnosis of 
+PTSD.  (CE 2:47-51).  He further cited to the Diagnostic and Statistical Manual of 
+Mental Disorders, Fifth Edition, from American Psychiatric Publishing in support of the 
+notion that, “[t]rauma exposure (for adults) increases the risk of PTSD after exposure to 
+traumatic events.  Perceived life threat and personal injury increase risk of PTSD.”  (CE 
+2:51).  Dr. Patra noted that traumatic amputations are often linked to disturbing images 
+and feelings of fear or horror.  (CE 2:51).  Similarly, Dr. Patra opined that, “[a]mputation 
+resulting from accidental injury tends to cause a higher prevalence of PTSD, in part 
+because of the emotional stress surrounding the accident.”  (CE 2:51).  Dr. Patra cited 
+to the claimant’s feeling “sad, down, and dejected…” along with his scoring 17 on the 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 29 
+ 
+PHQ-9 and 18 on the GAD-7 as evidence of moderately-severe clinical depression and 
+severe generalized anxiety.  (CE 2:52).   
+Dr. Patra examined three criteria in asserting that the June 29, 2021, work injury 
+“was a substantial causal factor” in Mr. Valdez’s development of PTSD and major 
+depressive disorder.  (CE 2:55).  These criteria include, a temporal relationship between 
+exposure and outcome, a biologically plausible link between the exposure and the 
+outcome, and that there must not be a more likely or probable alternative explanation 
+for the symptoms.  (CE 2:55-56).  Dr. Patra opined that Mr. Valdez met the first criteria 
+based upon evidence in the medical records.  (CE 2:56).  He opined that Mr. Valdez 
+met the second criteria based upon clinical literature that “corroborates that individuals 
+experiencing traumatic injuries are prone to develop PTSD and mood and anxiety 
+disorders.”  (CE 2:56).  Finally, Dr. Patra opined that Mr. Valdez met the third criteria 
+based upon the fact that Mr. Valdez did not experience symptoms prior to his work 
+injury on June 29, 2021.  (CE 2:56).   
+Since Mr. Valdez claimed to have a stable mental status and his symptoms only 
+began to show after June 29, 2021, Dr. Patra opined that the June 29, 2021, incident 
+was “…a substantial causal factor in his developing the current major depressive 
+episode.”  (CE 2:52).  Based upon his diagnoses, and the foregoing causation opinion, 
+Dr. Patra felt that Mr. Valdez should not work around sharp machines or instruments, 
+nor should he work on “Line Seven” at Smithfield.  (CE 2:53).  Dr. Patra also 
+recommended against working in cold temperatures due to Mr. Valdez’s claim that this 
+induced pain in his left hand.  (CE 2:53).  This applied to working in freezer departments 
+at Smithfield, and at “other meat-packing industries.”  (CE 2:53-54).  Finally, Dr. Patra 
+noted, “Mr. Valdez’s current psychiatric presentation, especially concentration 
+difficulties, sleep disturbances, lack of motivation, easy irritability, social isolation, 
+emotional lability, fatigue, etc., has the potential to negatively affect his employability…”  
+(CE 2:54).   
+The report continued with Dr. Patra’s impairment rating pursuant to the AMA 
+Guides to the Evaluation of Permanent Impairment, Fifth Edition.  Dr. Patra cited to 
+page 363 of the Guides and assigned him a class 3 impairment rating for activities of 
+daily living, social functioning, concentration, persistence, and pace, and adaptation to a 
+competitive and dynamic work environment based upon his symptoms of PTSD and 
+major depressive disorder.  (CE 2:55).  Dr. Patra then cited to Table 14-1 of the Guides 
+to opine that Mr. Valdez fell into a “moderate level of impairment.”  (CE 2:55).  Dr. Patra 
+astutely notes that the Fifth Edition of the Guides does not provide a numerical 
+impairment measurement, so instead he used the AMA Guides to the Evaluation of 
+Permanent Impairment, Second Edition, to note that a moderate level of impairment 
+would “fall between 25% and 50%.”  (CE 2:55).  Using the Second Edition, Dr. Patra 
+provided Mr. Valdez with a 35 percent permanent impairment of the whole person.  (CE 
+2:55).   
+Dr. Patra felt that Mr. Valdez would benefit from an ongoing combination of 
+psychotherapy and “biological treatment.”  (CE 2:56).  Specifically, Dr. Patra 
+recommended trauma-focused cognitive-behavioral, interpersonal and supportive 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 30 
+ 
+therapy.  (CE 2:56).  Dr. Patra further recommended that the therapist be fluent in 
+Spanish.  (CE 2:56).  Further, Dr. Patra recommended continued psychiatric medication 
+management with Ms. Burnell.  (CE 2:57).   
+Mr. Valdez noted that his evaluation with Dr. Patra was “[a]round three and a half 
+hours.”  (Testimony).   
+On March 13, 2024, at the arrangement of defendants’ counsel, Mr. Valdez had 
+an independent psychiatric examination with Martin Carpenter, M.D., a board-certified 
+psychiatrist, via telehealth.  (DE B:34-44).  Dr. Carpenter reviewed a number of medical 
+records, and summarized the same at the outset of his report.  (DE B:34-37).  Mr. 
+Valdez recounted his history, including his initial June 29, 2021, injury, and subsequent 
+treatment.  (DE B:38).  He continued to have pain in his palm, difficulty stretching his 
+fingers, difficulty making a fist, mental instability, and depression.  (DE B:38).  He 
+experienced good days and bad days.  (DE B:38).  He also reported anxiety about 
+performing certain tasks.  (DE B:38).  Mr. Valdez told Dr. Carpenter that prior to his 
+injury, “life was good,” but at the time of the examination, he was always upset or mad 
+due to his pain.  (DE B:38).  He also experienced occasional nightmares.  (DE B:38).  
+He expressed a desire to improve his hand pain.  (DE B:39).   
+Dr. Carpenter found Mr. Valdez to have linear and goal directed thought 
+processes, along with no evidence of delusion.  (DE B:41).  He showed no deficits in 
+memory or concentration.  (DE B:41).  Based upon his examination of Mr. Valdez, Dr. 
+Carpenter opined that Mr. Valdez suffered no diagnosable psychiatric illness.  (DE 
+B:41).  This is due to the fact that “[m]ost of his complaints are exclusively pain related 
+or portrayed as a direct result of his pain which is chronic.”  (DE B:41).  Dr. Carpenter 
+continued by opining, “[p]hysical injury does not cause mental illness.  Nobody knows 
+what causes mental illness and there is no scientifically viable means of determining 
+who is mentally ill.”  (DE B:41).  Instead, Dr. Carpenter attributed Mr. Valdez’s ongoing 
+complaints to stress regarding his physical injuries and malingering.  (DE B:41).  Dr. 
+Carpenter felt that Mr. Valdez crafted a narrative or storyline to “support and make 
+sense of [his] life experience.”  (DE B:42).  Since Mr. Valdez had no diagnoses 
+regarding his psychiatric issues, Dr. Carpenter opined that the claimant had no ratable 
+permanent impairment.  (DE B:43-44).   
+On March 15, 2024, Mr. Valdez attended an IME conducted by Joseph Chen, 
+M.D.  (DE A:1-13).  Dr. Chen is board certified in physical medicine and rehabilitation.  
+(DE A:13).  This IME was conducted at the arrangement of the defendants, and 
+included the attendance of a Spanish interpreter for Mr. Valdez.  (DE A:1).  Dr. Chen 
+indicated that the evaluation took about one hour.  (DE A:1).  Following his examination 
+of the claimant, he issued a report outlining his findings.  (DE A:1-13).   
+Dr. Chen reviewed the claimant’s medical records, including the IMEs of Drs. 
+Bansal, Patra, and Carpenter.  (DE A:1-5).  He also conducted an interview with Mr. 
+Valdez, in which Mr. Valdez disclosed that none of his three hand surgeries provided 
+him with relief.  (DE A:6).  He told Dr. Chen that after returning to work following his 
+second surgery, he began to develop pain in his right shoulder.  (DE A:6).  At the time of 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 31 
+ 
+the IME, Mr. Valdez reported difficulty with movement and gripping in his left hand, a 
+feeling of coldness in his left fingers, and anxiety about using his left hand to do 
+anything.  (DE A:6).  Finally, he noted that counseling sessions have helped him; 
+however, he still worried as to whether his pain would worsen with time.  (DE A:6).   
+The doctor then undertook a physical examination of the claimant.  (DE A:6).  Dr. 
+Chen observed no exaggerated pain behaviors on the part of the claimant.  (DE A:6).  
+Dr. Chen found the claimant to have normal range of motion in his shoulders with no 
+tenderness to palpation.  (DE A:6).  His left hand had “obvious contractures” to the third, 
+fourth and fifth fingers.  (DE A:7).  His lumbar spine showed extension limited to 10 
+degrees, left-sided bending to 30 degrees, and painful right-sided bending to 30 
+degrees.  (DE A:7).  Mr. Valdez exhibited abnormal fear avoidance beliefs for physical 
+and work activities.  (DE A:8).  He also exhibited an abnormal pain catastrophizing level, 
+as well as abnormal anxiety and depression levels.  (DE A:8).  Dr. Chen opined that Mr. 
+Valdez’s responses showed “high reports of pain severity and interference, extremely 
+high fear avoidance beliefs and pain catastrophization, and anxiety and depression.  
+(DE A:8).   
+Dr. Chen continued his report by opining that Mr. Valdez sustained a severe left 
+hand injury on June 29, 2021, which resulted in amputation of the left thumb along with 
+nerve and tendon injuries to the third, fourth, and fifth fingers.  (DE A:8-9).  Dr. Chen felt 
+that Mr. Valdez did not develop any significant permanent injury or tissue damage to his 
+right shoulder, as the MRI findings were “consistent with age-appropriate degeneration 
+and early glenohumeral osteoarthritis.”  (DE A:9).  Since Mr. Valdez is right-handed, Dr. 
+Chen felt that his use of his dominant hand to complete work and recreational tasks 
+should not be considered a sequela.  (DE A:9).  Dr. Chen also observed that Mr. Valdez 
+had full range of motion in his right upper extremity.  (DE A:9).  Nevertheless, Dr. Chen 
+recommended restrictions of avoiding overhead activities with his right upper extremity.  
+(DE A:9).  Dr. Chen further opined that Mr. Valdez also did not develop any low back 
+issue as a result of the June 29, 2021, work incident.  (DE A:9).  Dr. Chen agreed with 
+Dr. Rayburn’s evaluation of the claimant’s low back issues as being chronic myofascial 
+pain.  (DE A:9).  The doctor further considered Mr. Valdez’s claims of mental health 
+sequela, and opined that “…individuals who have sustained a severe injury can develop 
+an Adjustment Disorder with difficulty in accepting the severity of change in personal 
+functioning and circumstances.”  (DE A:9).  However, Dr. Chen noted that this generally 
+resolves within six months.  (DE A:9).  Dr. Chen further noted that adjustment disorder 
+can also worsen pre-existing mental health conditions or cause the development of 
+PTSD.  (DE A:9).   
+Dr. Chen placed Mr. Valdez at MMI as of January 29, 2024.  (DE A:10).  He then 
+considered permanent impairment considering the AMA Guides.  (DE A:10-11).  He 
+assigned a 50 percent impairment of the left thumb, pursuant to Table 16-4 of the 
+Guides.  (DE A:10).  This equated to a 20 percent impairment of the left hand, and an 
+18 percent impairment of the left upper extremity.  (DE A:10).  He then rated the third, 
+fourth, and fifth fingers with 5 percent impairments to the fingers.  (DE A:10).  He 
+combined these with the 20 percent rating for the left thumb to arrive at a 28 percent 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 32 
+ 
+impairment of the left hand.  (DE A:10).  Dr. Chen opined that Mr. Valdez had no 
+permanent impairment to his lumbar spine, nor the right shoulder.  (DE A:11).  Dr. Chen 
+also noted disagreement with Dr. Patra’s impairment opinion.  (DE A:11-12).  He felt 
+that Mr. Valdez’s responses were due to his new physical condition and not any new 
+mental health diagnosis.  (DE A:11).   
+The doctor offered permanent work restrictions of limited grip and use of the left 
+upper extremity in performing work and personal activities.  (DE A:12).  He also 
+recommended that Mr. Valdez preserve his right rotator cuff by avoiding lifting or 
+frequent use with overhead activities.  (DE A:12).  He recommended a self-directed 
+desensitization program to decrease the pain and hypersensitivity in the claimant’s left 
+hand, as well as an exercise program to improve his physical fitness.  (DE A:12-13).   
+Dr. Rosenthal responded to a check-box letter from defendants’ counsel 
+concerning his opinions about Mr. Valdez.  (DE C:55-56).  Specifically, Dr. Rosenthal 
+agreed with the following: 
+He first presented to you on July 31, 2023.  At that time, he reported low 
+back symptoms and complaints resulting from bending and reaching.  In 
+your opinion, Mr. Valdez … low back symptoms and complaints are 
+unrelated to the left thumb/hand injury.  That is to say, the low back 
+symptoms and complaints arose independently of the left thumb injury and 
+would not properly be considered a sequela of the same.   
+(DE C:55-56).    
+On March 21, 2024, Ms. Burnell met with Mr. Valdez again.  (JE 5:312-320).  He 
+rated his depression 7 to 8 out of 10, his anxiety 8 out of 10 while at home and 10 out of 
+10 while cold, and noted that he continued to have hopelessness.  (JE 5:312).  He was 
+depressed due to the pain in his hand not going away.  (JE 5:312).  Ms. Burnell 
+continued to recommend pharmacologic management of his mental health symptoms.  
+(JE 5:312-313).  She also discussed alternative treatment options and therapy with Mr. 
+Valdez.  (JE 5:313).   
+On March 28, 2024, Mr. Valdez was called into a meeting with staff members 
+from Smithfield, and an interpreter.  (Testimony; CE 7:106).  He was provided 30 days 
+from the date of that meeting to find a new job at Smithfield based upon certain 
+restrictions.  (Testimony).  He noted that, prior to the scheduling of the meeting, he 
+requested paid time off for the first two weeks of April in order to take a pre-planned 
+vacation.  (Testimony).  Despite this, Smithfield noted that his 30 days continued to run.  
+(Testimony).   Smithfield noted that Mr. Valdez could have requested more time from his 
+union steward.  (Testimony).  
+Also during this meeting, Mr. Valdez was also provided with a listing of his 
+permanent restrictions.  (Testimony).  He signed off on these restrictions, which 
+included: 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 33 
+ 
+Lifting of objects to shoulder level restricted to 20 lbs. occasionally and 10 
+lbs. frequently, overhead lift restricted to 15 lbs. or less, limit repetitive heavy 
+grasping with LT hand, max grip strength 80 lbs. with RT hand/40 lbs. for 
+LT hand for repetitive heavy pinching, maximum lateral pinch strength 25 
+lbs. RT/10 lbs. LT, no cold environments, no working with frozen meat. 
+(Vinyard/Lesiak) 
+(CE 7:106).  Smithfield provides employees on restrictions with a card noting these 
+restrictions so that the injured worker may present this card to anyone requesting them 
+to perform work outside of their restrictions.  (Testimony).   
+In a letter dated April 4, 2024, Dr. Rayburn responded to a check-box letter from 
+defendants’ counsel.  (JE 6:366-368).  Dr. Rayburn agreed that Mr. Valdez displayed 
+tight lower back muscles, which caused his pain.  (JE 6:366).  He confirmed that he 
+offered trigger point injections on November 1, 2023.  (JE 6:366).  He further confirmed 
+that Mr. Valdez contacted his office on December 14, 2023, indicating that he had very 
+little pain and did not wish to proceed with injections.  (JE 6:367).  Based upon the 
+foregoing, Dr. Rayburn opined that Mr. Valdez achieved MMI for any lower back issues 
+resulting from his employment “no later than December 14, 2023.”  (JE 6:367).  Dr. 
+Rayburn also agreed that Mr. Valdez sustained no permanent impairment resulting from 
+his muscular back pain.  (JE 6:367).  He also required no permanent restrictions to his 
+low back due to the improvement in his muscular pain.  (JE 6:368).  Finally, Dr. Rayburn 
+confirmed that he recommended no additional medical care related to Mr. Valdez’s low 
+back.  (JE 6:368).   
+On April 11, 2024, Dr. Lesiak wrote a letter to “Mary Roche” at “ESIS.”  (JE 
+2:78A).  In this letter, Dr. Lesiak opined that the claimant achieved MMI as of February 
+20, 2024.  (JE 2:78A).  Dr. Lesiak then used the AMA Guide to the Evaluation of 
+Permanent Impairment, Sixth Edition, in arriving at a permanent impairment rating of 31 
+percent of the left hand.  (JE 2:78A).  He also adopted the restrictions as produced in 
+the FCE.  (JE 2:78A).   
+Smithfield provided Mr. Valdez with a list of three potential positions.  
+(Testimony).  He opined that he could not perform those positions because he needed 
+both hands to do those jobs.  (Testimony).  Nevertheless, he intended to apply for the 
+pull pancreas position to see if he could perform the position without using his left hand.  
+(Testimony).   
+At the time of the hearing, Mr. Valdez earned twenty-two and 30/100 dollars 
+($22.30) per hour on a full-time basis.  (Testimony; CE 5:72).  He agreed that this was 
+several dollars more than he earned at the time of his injury.  (Testimony; CE 5:72).  He 
+also testified that he worked Monday through Friday for 10 hours and 15 to 20 minutes 
+per day.  (Testimony).  He intends to continue working for Smithfield, and was looking 
+for positions which he may be able to perform.  (Testimony).   
+Mr. Valdez had no issues with his left hand or right shoulder prior to commencing 
+employment with Smithfield.  (Testimony).  He had one prior back injury about eight 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 34 
+ 
+years before this incident, but no other issues.  (Testimony).  Finally, he testified to 
+having some issues with depression in 2019, due to his separation from his first wife.  
+(Testimony).  However, these issues lasted only months before dissipating.  
+(Testimony).   
+Mr. Valdez testified that he believed his current restrictions were not to lift more 
+than 10 to 20 pounds above his shoulder level, not work in cold spaces or areas with 
+malodor, and to not open and close his left fist.  (Testimony).  He also was instructed 
+not to bend down often.  (Testimony).  Finally, he testified that he was prescribed a 
+restriction of not working in the area in which he was injured because it depressed him.  
+(Testimony).  Some of these restrictions were provided by his mental health treating 
+provider.  (Testimony).   
+The claimant alleged that working in a cold environment increases his pain, 
+anxiety, and depression.  (Testimony).  Specifically, it caused him issues to not be able 
+to use both hands properly.  (Testimony).  He also testified that he could not work in 
+odorous areas due to difficulty maintaining hygiene with his left hand.  (Testimony).   
+Mr. Valdez testified that he could not perform any of his prior jobs, as his physical 
+condition prevented him from doing so.  (Testimony).  Namely, he had issues with 
+opening and closing his fists frequently, and experienced increased anxiety working in 
+the cold.  (Testimony).  He also experienced low back issues if he needed to bend 
+repeatedly.   
+At the time of the hearing, Mr. Valdez continued to take medications for his hand, 
+his depression, his stress, his anxiety, and his high blood pressure.  (Testimony).  They 
+provided him with some relief to his left hand.  (Testimony).   
+Heather Adams testified on behalf of the defendants.  She is a registered nurse, 
+and the medical manager at Smithfield.  (Testimony).  She has held this position for the 
+last three years.  (Testimony).  She coordinates medical appointments for injured 
+workers, assists in the on-site nursing office, and manages communications between 
+doctors, adjusters and employees.  (Testimony).  Ms. Adams also evaluates restrictions 
+provided to employees and compares them to available positions and/or light duty 
+positions.  (Testimony).   
+CONCLUSIONS OF LAW 
+The party who would suffer loss if an issue were not established has the burden 
+of proving that issue by a preponderance of the evidence.  Iowa Rule of Appellate 
+Procedure 6.904(3).   
+Causation 
+The parties acknowledge, and agree, that the claimant sustained injuries to his 
+left hand on June 29, 2021, when a machine lacerated his hand and partially amputated 
+his left thumb.  They further agree, and acknowledge, that Mr. Valdez sustained 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 35 
+ 
+permanent disability to his left hand due to this incident.  Additionally, the parties 
+stipulated that the claimant experienced a mental health sequela as a result of his June 
+29, 2021, injury.  However, there are disputes as to whether or not the mental health 
+issues were a cause of permanent disability in the claimant.   
+Mr. Valdez alleges that he sustained injuries to his right shoulder and his lower 
+back as a sequela of his left hand injury.  Specifically, Mr. Valdez alleges that his 
+overuse of his right hand and the need to bend while working shaving hogs caused his 
+right shoulder and lower back issues.  The defendants dispute these allegations.  The 
+defendants assert that the claimant’s right shoulder and low back injuries were not 
+caused by the claimant’s work at Smithfield; however, if it is determined that the 
+claimant sustained injuries to his right shoulder and lower back, the defendants assert 
+that they were caused by a cumulative injury with a date of injury in July of 2022.   
+To receive workers’ compensation benefits, an injured employee must prove, by 
+a preponderance of the evidence, that the employee’s injuries arose out of, and in the 
+course of the employee’s employment with the employer.  2800 Corp. v. Fernandez, 
+528 N.W.2d 124, 128 (Iowa 1995).  The words “arising out of” refer to the cause or 
+source of the injury.  The words “in the course of” refer to the time, place and 
+circumstances of the injury.  Id.  An injury arises out of employment when a causal 
+relationship exists between the employment and the injury.  Quaker Oats Co. v. Ciha, 
+552 N.W.2d 143, 151 (Iowa 1996).  The injury must be a rational consequence of a 
+hazard connected with the employment and not merely incidental to the employment.  
+Koehler Elec. v. Wills, 608 N.W.2d 1, 3 (Iowa 2000).  The Iowa Supreme Court has held 
+that an injury occurs “in the course of employment” when:  
+it is within the period of employment at a place where the employee 
+reasonably may be in performing his duties, and while he is fulfilling those 
+duties or engaged in doing something incidental thereto.  An injury in the 
+course of employment embraces all injuries received while employed in 
+furthering the employer’s business and injuries received on the employer’s 
+premises, provided that the employee’s presence must ordinarily be 
+required at the place of the injury, or, if not so required, employee’s 
+departure from the usual place of employment must not amount to an 
+abandonment of employment or be an act wholly foreign to his usual work.  
+An employee does not cease to be in the course of his employment merely 
+because he is not actually engaged in doing some specifically prescribed 
+task, if, in the course of his employment, he does some act which he deems 
+necessary for the benefit or interest of his employer.    
+Farmers Elevator Co., Kingsley v. Manning, 286 N.W.2d 174, 177 (Iowa 1979).    
+ 
+A personal injury contemplated by the workers’ compensation law means an 
+injury, the impairment of health or a disease resulting from an injury which comes about, 
+not through the natural building up and tearing down of the human body, but because of 
+trauma.  The injury must be something that acts extraneously to the natural processes 
+of nature and thereby impairs the health, interrupts or otherwise destroys or damages a 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 36 
+ 
+part of all of the body.  Although many injuries have a traumatic onset, there is no 
+requirement for a special incident or unusual occurrence.  Injuries which result from 
+cumulative trauma are compensable.  However, increased disability from a prior injury, 
+even if brought about by further work, does not constitute a new injury.  St. Luke’s Hosp. 
+v. Gray, 604 N.W.2d 646 (Iowa 2000); Ellingson v. Fleetguard, Inc., 599 N.W.2d 440 
+(Iowa 1999); McKeever Custom Cabinets v. Smith, 379 N.W.2d 368 (Iowa 1985).  An 
+occupational disease covered by Iowa Code 85A is specifically excluded from the 
+definition of personal injury.  Iowa Code 85.61(4)(b); Iowa Code section 85A.8; Iowa 
+Code section 85A.14. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is 
+probable, rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 
+148 (Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); 
+Sanchez v. Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996).    
+The question of medical causation is “essentially within the domain of expert 
+testimony.”  Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 844-45 (Iowa 
+2011).  The commissioner, as the trier of fact, must “weigh the evidence and measure 
+the credibility of witnesses.”  Id.  The trier of fact may accept or reject expert testimony, 
+even if uncontroverted, in whole or in part.  Frye, 569 N.W.2d at 156.  When considering 
+the weight of an expert opinion, the fact-finder may consider whether the examination 
+occurred shortly after the claimant was injured, the compensation arrangement, the 
+nature and extent of the examination, the expert’s education, experience, training, and 
+practice, and “all other factors which bear upon the weight and value” of the opinion.  
+Rockwell Graphic Sys., Inc. v. Prince, 366 N.W.2d 187, 192 (Iowa 1985).  Unrebutted 
+expert medical testimony cannot be summarily rejected.  Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910 (Iowa App. 1994).  Supportive lay testimony may be used 
+to buttress expert testimony, and therefore is also relevant and material to the causation 
+question.    
+Iowa employers take an employee subject to any active or dormant health 
+problems, and must exercise care to avoid injury to both the weak and infirm and the 
+strong and healthy.  Hanson v. Dickinson, 188 Iowa 728, 176 N.W. 823 (1920).  While a 
+claimant must show that the injury proximately caused the medical condition sought to 
+be compensable, it is well established that a cause is “proximate” when it is a 
+substantial factor, or even the primary or most substantial cause to be compensable 
+under the Iowa workers’ compensation system.  Miller v. Lauridsen Foods, Inc., 525 
+N.W.2d 417 (Iowa 1994); Blacksmith v. All-American, Inc., 290 N.W.2d 348 (Iowa 
+1980).    
+It is well established in workers’ compensation that “if a claimant had a 
+preexisting condition or disability, aggravated, accelerated, worsened, or ‘lighted up’ by 
+an injury which arose out of and in the course of employment resulting in a disability 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 37 
+ 
+found to exist,” the claimant is entitled to compensation.  Iowa Dep’t. of Transp. v. Van 
+Cannon, 459 N.W.2d 900, 904 (Iowa 1990).  The Iowa Supreme Court has held, 
+[A] disease which under any rational work is likely to progress so as to finally 
+disable an employee does not become a “personal injury” under our 
+Workmen’s Compensation Act merely because it reaches a point of 
+disablement while work an employer is being pursued.  It is only when there 
+is direct causal connection between exertion of the employment and the 
+injury that a compensation award can be made.  The question is whether 
+the diseased condition was the cause or whether the employment was a 
+proximate contributing cause.   
+Musselman v. Ce. Tel. Co., 261 Iowa 352, 359-60, 154 N.W.2d 128, 132 (1967).   
+ 
+It is also well settled in Iowa that an employer is liable for all consequences that 
+naturally and proximately flow from an accident to an employee in the usual course of 
+their employment.  Oldham v. Scofield & Welch, 222 Iowa 764, 767-68, 255 N.W. 480, 
+482 (1936).  Further disability is compensable when the further disability is the 
+proximate result of the original injury.  Id.   
+ 
+Before examining whether the claimant’s mental health sequela was a cause of 
+permanent disability, it is important to examine whether or not the claimant proved, by a 
+preponderance of the evidence, that he sustained injuries to his right shoulder and 
+lower back that arose out of, and in the course of, his employment with Smithfield.   
+ 
+ 
+Mr. Valdez is right-handed.  As noted above, Mr. Valdez sustained injuries to his 
+left hand on June 29, 2021.  Following his injury, Mr. Valdez had surgery to repair the 
+injuries to his left hand.  Shortly following his first surgery, Mr. Valdez returned to 
+Smithfield where he participated in rehabilitation and sat in a cafeteria.  He continued to 
+complain of pain, stiffness, and cold sensitivity in his left hand.  In late November of 
+2021, Mr. Valdez had his second surgery, as performed by Dr. Gaddie.  This surgery 
+involved a tenolysis of the claimant’s left long finger, ring finger, and small finger, along 
+with an excision of the left thumbnail.  Mr. Valdez was off work for some time following 
+his second surgery.   
+ 
+In April or May of 2022, Mr. Valdez began light duty work shaving pig bellies.  
+This work involved holding a knife weighing several ounces in his dominant hand and 
+shaving leftover hair from the bellies of hog carcasses.  The non-dominant hand of the 
+worker was to stabilize carcasses as needed.  The carcasses were suspended from a 
+rail “approximately 42 [inches] above the catwalk.”  There was no indication in the 
+record that the claimant was able to switch his knife to his non-dominant hand.  There 
+also were several other employees who performed the same functions of the claimant.   
+ 
+By July of 2022, Mr. Valdez complained of pain in his right shoulder and low 
+back.  He attributed this pain due to an overuse of his right hand and the need to bend 
+over while shaving hog carcasses.  In response to this complaint, a nurse from 
+Smithfield observed Mr. Valdez performing his work for about 25 minutes.  During this 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 38 
+ 
+time, the nurse never observed Mr. Valdez reaching above shoulder height.  In a short 
+video clip, the claimant is not seen bending.  Hogs passed him at the level of his mid-
+body.  The bulk of the hogs are between the claimant’s waist and shoulders.  Ms. 
+Adams testified that the video was consistent with her observations of Mr. Valdez’s work 
+at Smithfield.  Additionally, had any ergonomic issues been noticed, Smithfield was to 
+provide the claimant with an ergonomic stand in order to avoid working above shoulder 
+height.   
+ 
+Mr. Valdez treated with Dr. Vinyard beginning in October of 2022, for his right 
+shoulder complaints.  Mr. Valdez reported, subjectively, to Dr. Vinyard that he engaged 
+in repetitive movement at work, to which he attributed his ongoing issues.  Eventually, 
+an MRI of the right shoulder showed a small SLAP tear.  Mr. Valdez then sought no care 
+for his low back or right shoulder until March 30, 2023.  During that visit, Mr. Valdez 
+again reported to Dr. Vinyard that he experienced no shoulder pain until after he 
+performed repetitive work in July of 2022.  Dr. Vinyard reviewed the results of the MRI 
+with Mr. Valdez and opined that Mr. Valdez did not have acute rotator cuff tears.  He 
+recommended physical therapy and medication.  On March 31, 2023, Mr. Valdez saw 
+Dr. Lothrop for his low back pain.  Dr. Lothrop observed only mild degenerative changes 
+to the claimant’s low back.  He recommended stretching, heat/ice, and medications.   
+ 
+Mr. Valdez undertook a course of physical therapy.  Dr. Vinyard saw the claimant 
+again in May and June of 2023 for follow-up of his right shoulder.  By July 31, 2023, Dr. 
+Rosenthal examined Mr. Valdez for his low back pain.  Again, Mr. Valdez described the 
+cause of his pain as frequent bending and reaching.  Dr. Rosenthal opined that the 
+claimant had a muscular issue and recommended therapy and medications.  An MRI 
+was performed showing mild degenerative changes at L4-5 and L5-S1.  Following this 
+MRI, Mr. Valdez returned to see Dr. Rosenthal.  Dr. Rosenthal declined to recommend 
+surgery and referred Mr. Valdez to the pain team and Dr. Rayburn.   
+ 
+Dr. Rayburn recommended a home exercise program and trigger point injections.  
+Mr. Valdez returned to see Dr. Rayburn in December of 2023.  Mr. Valdez indicated that 
+he had “very little pain,” and thus declined the previously planned injections.  As a 
+result, Dr. Rayburn allowed Mr. Valdez to return to work with no restrictions.   
+At the arrangement of his attorney, Mr. Valdez saw Dr. Bansal for an IME on 
+March 4, 2024.  Mr. Valdez outlined that he had ongoing low back pain due to repetitive 
+bending at work.  He also indicated that he had right upper extremity pain.  Dr. Bansal 
+opined that Mr. Valdez developed right shoulder issues due to his sole reliance on the 
+right arm to perform his work at Smithfield.  More specifically, Dr. Bansal recounted that 
+it was “… common to have contralateral arm rotator cuff pathology, as he would be 
+repeatedly reaching with his shoulder at an angle over 90 degrees, stressing the 
+labrum.”  Dr. Bansal also attributed the claimant’s low back issues to repetitive motion at 
+Smithfield, as, “[h]is work involved repetitive bending, requiring mechanical loading in a 
+forward bent position, often in an awkward skewed position as he was solely using his 
+right arm for the trimming.”  Dr. Bansal attributed permanent impairment to the 
+claimant’s right shoulder and low back issues.   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 39 
+ 
+ 
+Dr. Vinyard eventually wrote a letter to Smithfield outlining his restrictions based 
+upon the results of the FCE; however, Dr. Vinyard makes no explicit opinion as to the 
+causation of the claimant’s right shoulder complaints.   
+ 
+ On behalf of the defendants, Dr. Chen performed an IME of Mr. Valdez on March 
+15, 2024.  Dr. Chen opined that the claimant’s findings on the right shoulder MRI were 
+“consistent with age-appropriate degeneration and early glenohumeral osteoarthritis.”  
+Since Mr. Valdez is right-handed, Dr. Chen felt using his dominant hand to complete 
+work and recreational tasks was not considered a sequela of his left hand injury.  Dr. 
+Chen further agreed with Dr. Rayburn that the claimant’s low back issues were a result 
+of chronic myofascial pain.  He further opined that Mr. Valdez’s low back complaints did 
+not develop as a result of the June 29, 2021, work incident.  He also made no opinion 
+as to whether they may be the result of a cumulative trauma.   
+ 
+Dr. Rosenthal also responded to a check-box letter from defendants’ counsel 
+opining that Mr. Valdez’s low back symptoms and complaints were unrelated to his left 
+thumb or hand injury, and further, that these complaints arose independently and were 
+not a sequela of the same.   
+On April 4, 2024, Dr. Rayburn responded to a check-box letter from defendants’ 
+counsel.  Dr. Rayburn agreed that Mr. Valdez’s tight lower back muscles caused his 
+lower back pain.  Dr. Rayburn opined that the claimant had no permanent impairment or 
+restrictions from his lower back pain.   
+ 
+The claimant presents no persuasive evidence from a treating provider that the 
+claimant sustained a right shoulder or low back injury as a result of his work at 
+Smithfield, or as a sequela of his left hand injury.  Several providers make mention of 
+the claimant opining that his injuries arose from his overuse of his right upper extremity 
+and excessive bending with his low back.  However, the medical records appear to be 
+simply a restatement of the claimant’s reports and not based upon any other analysis.   
+Since no treating provider persuasively opines as to this issue, I turn to the 
+expert opinions.  The claimant relies on the opinions of Dr. Bansal.  This is a mistake, as 
+Dr. Bansal’s opinions are based upon flawed information.  Dr. Bansal opined that Mr. 
+Valdez developed his right shoulder issues due to overuse and overcompensation of his 
+right arm.  He also opined that Mr. Valdez repeatedly reached at an angle of 90 degrees 
+while working on the shaving line.  This is contradicted by the evidence in the record 
+from Smithfield, including Ms. Adams’ testimony, a video of the claimant working, the 
+observations of Ms. Zamago, and the ergonomic requirements for the job.   
+Dr. Bansal further opined that the claimant repeatedly bent over, “…requiring 
+mechanical loading in a forward bent position, often in an awkward skewed position as 
+he was solely using his right arm for the trimming.”  Again, this is expressly contradicted 
+by the evidence provided by Smithfield, including the observations of Ms. Zamago and 
+the video of the claimant working.  While the video of the claimant working on the line is 
+admittedly very short, it provides a snapshot of the claimant’s work environment.  It did 
+not appear from the video, as buttressed by the evidence in the record such as Ms. 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 40 
+ 
+Zamago’s notes and Ms. Adams’ testimony, that the claimant required to be 
+mechanically loaded in a forward bent position, nor did he appear to be in awkward 
+positions while working.   
+The claimant is a right-handed individual.  Smithfield expected their employees to 
+perform their work in the shaving bellies position with their dominant hand, while using 
+their nondominant hand to help stabilize any carcass on an as-needed basis.  The 
+evidence in the record is that the claimant would have been provided with an ergonomic 
+stand in the event that he experienced any significant bending or working above 
+shoulder level.   
+The claimant may point to his own testimony as to carrying his burden of proof.  
+Certainly, there is nothing to show that the claimant is less than credible; however, the 
+bulk of the evidence on these issues outweighs the claimant’s subjective testimony.  
+Additionally, the claimant’s testimony is inevitably biased towards his version of events.   
+The evidence presented in the record regarding the claimant’s right shoulder and 
+low back injuries is not sufficient to satisfy the claimant’s burden of proof that these 
+injuries are sequela of the claimant’s left hand injury.  Certainly, the claimant used his 
+right hand more than he would have in the event he had not injured his left hand; 
+however, the claimant would likely have been using his right hand on a more frequent 
+basis as it is his dominant hand.  Additionally, the claimant’s expert, Dr. Bansal, based 
+his opinions on flawed information.  These opinions are thus flawed and discounted.  
+Considering Dr. Bansal’s opinions are the only ones that could also point to the 
+possibility of a cumulative injury for the claimant’s right shoulder that manifested in July 
+of 2022, I also find that the claimant failed to carry his burden as to this issue.   
+The claimant next contends that the June 29, 2021, left hand injury caused him 
+to suffer mental health issues as a sequelae.  The parties stipulated that the claimant’s 
+mental health issues arose out of and in the course of his employment.  The question 
+regarding these issues is whether they resulted in a permanent impairment.   
+As noted above, Mr. Valdez sustained traumatic injuries to his left hand on June 
+29, 2021.  This included a partial amputation of his left thumb.  His injuries required 
+three separate surgeries over a short time.  On April 6, 2022, Mr. Valdez reported 
+nervousness and anxiety, along with elevated blood pressure, since his injury.  Dr. 
+Gaddie recommended that the claimant see a therapist or psychologist.  By May of 
+2022, Mr. Valdez told Dr. Gaddie that he experienced nightmares of his injury.   
+Mr. Valdez finally began therapy on June 17, 2022, when he saw Ms. Cayler for 
+his ongoing mental health issues.  He reported feeling depressed and anxious since his 
+work injury.  Specifically, he felt his hand looked “grotesque.”  He also reported 
+nightmares regarding the work accident three-to-four nights per week.  He told Ms. 
+Cayler that his working in the rendering department increased his feeling of self-
+loathing.  Ms. Cayler diagnosed Mr. Valdez with acute posttraumatic stress disorder, 
+major depressive disorder, generalized anxiety disorder with panic attacks, and body 
+dysmorphic disorder.  He was prescribed medications and therapy.   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 41 
+ 
+Mr. Valdez continued therapy on a monthly basis through the remainder of 2022.  
+During this time, his anxiety and depression seemed to wax and wane depending on the 
+status of his medical treatment.  He also received several notes taking him off of work 
+during this time.  After medication management, his nightmares began to dissipate.  By 
+February 7, 2023, he began to sleep well despite his ongoing pain and depression.  Ms. 
+Cayler opined that Mr. Valdez continued to exhibit symptoms of body dysmorphic 
+disorder, depression and PTSD, on March 7, 2023.  Working with a knife increased his 
+anxiety.  He also reporting feeling as though he was less of a man due to his hand 
+injury.  April of 2023 saw an increase in the claimant’s depression due to ongoing 
+workers’ compensation issues.  Mr. Valdez’s PHQ score decreased in May of 2023, 
+which apparently generally indicated decreased depression; however, Ms. Cayler 
+opined that Mr. Valdez’s affect indicated that his depression was worsening.  While he 
+continued to report varying symptoms through the remainder of 2023, he continued to 
+undergo medication management.  He continually expressed embarrassment over the 
+condition of his hand.   
+Eventually, Ms. Cayler retired, and Mr. Valdez transferred his care to Ms. Burnell.  
+There are not many records from Ms. Burnell in the evidentiary record; in fact, it 
+appears Mr. Valdez only had one visit with Ms. Burnell.  The claimant points to a 
+response from Ms. Burnell to a check-box letter from claimant’s counsel.  Ms. Burnell 
+indicated that she worked as a psychiatric nurse practitioner for nearly one year prior to 
+the date of her letter.  She opined that Mr. Valdez’s diagnoses of PTSD, major 
+depressive disorder, generalized anxiety disorder with panic attacks, and body 
+dysmorphic disorder were “at least in substantial part” related to his June 29, 2021, 
+incident.  She also opined that Mr. Valdez required restrictions of: 1. No working in cold 
+environments; 2. No working in the “rendering” department due to its triggering of his 
+PTSD; and, 3. No working in or around areas with “significant odors.”  She also opined 
+that Mr. Valdez suffered from substantial deficits in emotional stability, attention and 
+concentration, and the ability to maintain consistent pace if he was required to perform 
+jobs with both hands.  It is unclear from where Ms. Burnell drew these opinions since 
+she only examined Mr. Valdez once.  She may have reviewed medical records, but it is 
+unclear from which elements of Mr. Valdez’s care she drew this information.   
+Despite not being a mental health professional, Dr. Bansal opined as to Mr. 
+Valdez’s ongoing mental health issues.  Dr. Bansal documented the claimant 
+complaining of ongoing nightmares, difficulty being near the Smithfield facility, ongoing 
+depression, and problems with focus.  These concerns are not documented in the most 
+recent counseling records.  In spite of this, Dr. Bansal opined that the traumatic injury 
+sustained to Mr. Valdez’s left hand resulted in his development of PTSD.  Specifically, 
+Dr. Bansal cited to several studies indicating that “…many patients who experienced an 
+orthopedic trauma … developed symptoms of PTSD.  In some cases, even though the 
+injury healed properly, the patient continued to experience emotional problems.”  Dr. 
+Bansal does not provide any opinion as to the extent of the claimant’s impairment.   
+Dr. Patra conducted an independent psychiatric evaluation of Mr. Valdez on 
+March 8, 2024.  Dr. Patra reviewed a number of medical records, interviewed the 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 42 
+ 
+claimant, and administered various clinical rating scales or inventories.  Mr. Valdez 
+described his pain and ongoing symptoms to Dr. Patra, becoming tearful when he 
+stated “what happened with the accident changed my life…”  He further recounted his 
+ongoing pain and his anxiety if he approached the area of the factory in which the 
+incident occurred.  He continued by noting that he struggled with low self-worth and 
+sadness.  He outlined difficulties picking up his daughter, cleaning snow, cutting the 
+grass, servicing his automobile, and walking his dog.   
+Dr. Patra administered mental status examinations of the claimant, and found 
+him to be “goal-directed, logical, and coherent” despite his depressed mood.  Mr. Valdez 
+scored 18 on the GAD-7, which indicated “severe generalized anxiety.”  He also took 
+the PCL-5, which indicated the presence of PTSD.  Dr. Patra was satisfied with Mr. 
+Valdez meeting the DSM-5 criteria for diagnosing PTSD.  Dr. Patra diagnosed Mr. 
+Valdez with PTSD and major depressive disorder, and opined further that the June 29, 
+2021, work injury “was a substantial causal factor” in said diagnoses.   
+ 
+The doctor listed three criteria in arriving at this conclusion: a temporal 
+relationship between exposure and outcome, a biologically plausible link between the 
+exposure and the outcome, and the lack of a more likely or probable alternative 
+explanation for the symptoms.  Based upon the medical records, Mr. Valdez met the first 
+criteria.  He met the second criteria based on clinical literature that “corroborates that 
+individuals experiencing traumatic injuries are prone to develop PTSD and mood and 
+anxiety disorders.”  Finally, Mr. Valdez met the third criteria based upon his lack of 
+symptoms prior to the June 29, 2021, work incident.   
+ 
+Based upon the foregoing, Dr. Patra provided restrictions to Mr. Valdez, including 
+no working around sharp machines or instruments, no working in cold environments, 
+and no working on “Line Seven” at Smithfield.  Dr. Patra also noted, “Mr. Valdez’s 
+current psychiatric presentation, especially concentration difficulties, sleep disturbances, 
+lack of motivation, easy irritability, social isolation, emotional lability, fatigue, etc., has 
+the potential to negatively affect his employability…”   
+The report continued with Dr. Patra’s opinions as to a permanent impairment 
+rating for Mr. Valdez.  Dr. Patra cited to page 363 of the Guides and assigned him a 
+class 3 impairment rating for activities of daily living, social functioning, concentration, 
+persistence, and pace, and adaptation to a competitive and dynamic work environment 
+based upon his symptoms of PTSD and major depressive disorder.  Dr. Patra then cited 
+to Table 14-1 of the Guides to opine that Mr. Valdez fell into a “moderate level of 
+impairment.”  Dr. Patra astutely notes that the Fifth Edition of the Guides does not 
+provide a numerical impairment measurement, so instead he used the AMA Guides to 
+the Evaluation of Permanent Impairment, Second Edition, to note that a moderate level 
+of impairment would “fall between 25% and 50%.”  Using the Second Edition, Dr. Patra 
+provided Mr. Valdez with a 35 percent permanent impairment of the whole person.   
+The use of the Second Edition of the Guides does not comport with applicable 
+Iowa law.  See Iowa Code section 85.34(2)(x).  I am bound by statute to consider only 
+the ratings provided in the Fifth Edition of the Guides.  Id.  See also 876 Iowa 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 43 
+ 
+Administrative Code 2.4.  However, this use of the Second Edition of the Guides is not 
+fatal to Dr. Patra’s opinions.   
+At the arrangement of defendants, Mr. Valdez underwent an independent 
+psychiatric examination with Dr. Carpenter on March 13, 2024.  In addition to 
+interviewing Mr. Valdez, Dr. Carpenter reviewed various medical records.  Mr. Valdez 
+told Dr. Carpenter that, prior to his injury he led a good life; however, since his injury, he 
+was constantly upset or mad due to his pain.  He also had occasional nightmares.  Dr. 
+Carpenter found Mr. Valdez to have linear and goal directed thought processes with no 
+deficits in memory or concentration.  Dr. Carpenter concluded that Mr. Valdez had no 
+diagnosable psychiatric illnesses, and that his issues were caused by stress relating to 
+his physical injuries and malingering.  More specifically, Dr. Carpenter opined that, 
+“[p]hysical injury does not cause mental illness.  Nobody knows what causes mental 
+illness and there is no scientifically viable means of determining who is mentally ill.”  It is 
+unclear if Dr. Carpenter wished to call the validity of his entire medical specialty into 
+doubt when making this statement, but effectively this is what he did.  This greatly 
+damaged Dr. Carpenter’s credibility to the point where I give his opinions no weight.   
+Finally, Dr. Chen examined Mr. Valdez.  Dr. Chen found the claimant to have 
+high fear avoidance beliefs, issues with pain catastrophizing, and anxiety and 
+depression.  Dr. Chen opined that “…individuals who have sustained a severe injury 
+can develop an Adjustment Disorder with difficulty in accepting the severity of change in 
+personal functioning and circumstances…” but that this generally resolved within six 
+months.  Further, Dr. Chen noted that adjustment disorders can worsen pre-existing 
+mental health conditions or cause the development of PTSD.  In spite of this, Dr. Chen 
+felt that Mr. Valdez’s responses to his injury were due to his new physical condition and 
+were not new mental health diagnoses.  Dr. Chen is not a mental health expert.   
+The first question is whether or not the claimant has met their burden of proof as 
+to whether or not their mental sequela from their June 29, 2021, work injury caused a 
+permanent injury.  Dr. Carpenter, who the defendants rely on, discredited himself and 
+his opinions in his report.  Additionally, his opinions are less than reliable considering he 
+examined the claimant via telemedicine.  Dr. Chen and Dr. Bansal are not providers 
+specializing in mental health.  Therefore, their opinions are less reliable.  The most 
+reliable, detailed, opinions regarding this issue come from Dr. Patra, who is board 
+certified as a psychiatrist.  Dr. Patra outlined three factors in arriving at his opinion that 
+the June 29, 2021, work injury “was a substantial causal factor” in Mr. Valdez’s 
+developing PTSD and major depressive disorder.  It is apparent from reviewing the 
+evidence and Dr. Patra’s opinions that Mr. Valdez easily meets these three criteria.  
+Therefore, I conclude that Mr. Valdez has proven, by a preponderance of the evidence 
+that the mental sequela caused by the June 29, 2021, work injury is a cause of 
+permanent impairment.   
+The second question is thus, how to measure the extent of the claimant’s 
+permanent impairment relating to his mental sequela.  Dr. Patra cites to page 363 of the 
+Guides in assigning Mr. Valdez with a class 3 impairment rating for activities of daily 
+living, social functioning, concentration, persistence and pace, and adaptation to a 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 44 
+ 
+competitive and dynamic work environment based upon his issues.  He then cited to 
+Table 14-1 of the Guides in opining that Mr. Valdez fell into a moderate level of 
+impairment.  Since the Guides do not outline numerical impairment, Dr. Patra then 
+referenced the Second Edition of the Guides in assigning a 35 percent permanent 
+impairment of the whole person.   
+I am bound by Iowa law to apply the Fifth Edition of the Guides.  The question is 
+thus, how to evaluate the extent of the claimant’s permanent impairment.  The claimant 
+cites to Clark v. Arconic, Inc. in support of their position.  See Clark v. Arconic, Inc., File 
+No. 5061553.01 (App. Dec. June 28, 2022).  Clark is a similar case to this, insofar as 
+the Commissioner found that the claimant sustained permanent PTSD caused by her 
+work injury.  Id.  The Commissioner engaged in an extended discussion of Chapter 14 
+of the Guides as it pertained to the evaluation of the extent of permanent mental 
+impairment.   
+Section 14.3 provides that, “[p]ercentages are not provided to estimate mental 
+impairment in this edition of the Guides.”  Guides, pg. 361.  The Guides continues: 
+Unlike cases with some organ systems, there are no precise measures of 
+impairment in mental disorders.  The use of percentages implies a certainty 
+that does not exist.  Percentages are likely to be used inflexibly by 
+adjudicators, who then are less likely to take into account the many factors 
+that influence mental and behavioral impairment.  In addition, the authors 
+are unaware of data that show the reliability of the impairment percentages.  
+After considering this difficult matter, the Committee on Disability and 
+Rehabilitation of the America Psychiatric Association advised Guides 
+contributors against the use of percentages in the chapter on mental and 
+behavioral disorders of the fourth edition, and that remains the opinion of 
+the authors of the present chapter.   
+No available empirical evidence supports any method for assigning a 
+percentage of impairment of the whole person; however, the following 
+approach may be useful in estimating the extent of mental impairments.  Not 
+everyone who has a mental or behavioral disorder is limited in the ability to 
+perform activities of daily living; however, there are individuals with less than 
+chronic, but still unremitting, impairments who are severely limited in some 
+areas of functioning.   
+Translating specific impairments directly and precisely into functional 
+limitations is a complex and poorly understood process.  Current research 
+finds little relationship between such psychiatric signs and symptoms as 
+those identified during a mental status examination and the ability to 
+perform competitive work.  However, four main categories exist that assess 
+many areas of function: (1) ability to perform activities of daily living; (2) 
+social functioning; (3) concentration, persistence and pace; and (4) 
+deterioration 
+or 
+decompensation 
+in 
+work 
+or 
+worklike 
+settings.  
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 45 
+ 
+Independence, appropriateness, and effectiveness of activities should also 
+be considered.   
+Id. at 361.   
+ 
+As the Commissioner noted in Clark: 
+Instead of assigning a numeric permanent impairment rating, the AMA 
+Guides direct the examiner to assess and record the extent of function in 
+the areas of activities of daily living, social functioning, concentration, and 
+adaptation.  After assessing and recording the extent of function, the AMA 
+Guides then direct the examiner to assign each area a class of impairment, 
+from Class 1, no impairment, to Class 5, an extreme impairment precluding 
+useful functioning.   
+Clark, File No. 5061553.01 at 4, citing Guides, page 363.  This differs from the Guides 
+recommendations in other chapters.  The Guides recommends the following as 
+“anchors for the categories of the scale….”: 
+1. None means no impairment is noted in the function.   
+2. Mild implies that any discerned impairment is compatible with most 
+useful functioning.   
+3. Moderate means that the identified impairments are compatible with 
+some, but not all, useful functioning.   
+4. Marked is a level of impairment that significantly impedes useful 
+functioning.  Taken alone, a marked impairment would not completely 
+preclude functioning, but together with marked limitation in another 
+class, it might limit useful functioning.   
+5. Extreme means that the impairment or limitation is not compatible with 
+useful function.  Extreme impairment in carrying out activities of daily 
+living implies complete dependency on another person for care.  In the 
+sphere of social functioning, extreme impairment implies that the 
+individual engages in no meaningful social contact, as with a person who 
+is in a withdrawn, catatonic state.  An extreme limitation in concentration, 
+persistence, and pace means that the individual cannot attend to 
+conversation or any productive task; this might be seen in a person who 
+is in an acute confusional state or in a person with a complete loss of 
+short-term memory.   
+A person who cannot tolerate any change at all in routines or in the 
+environment, or one who cannot function and who decompensates when 
+schedules change in an otherwise structured environment, has an extreme 
+limitation of adaptive functioning and an extreme psychiatric impairment.  
+Such an individual might, for example, experience a psychotic episode if a 
+meal is not served on time or might have a panic attack if left without a 
+companion in any situation.  
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 46 
+ 
+Guides at page 363.   
+ 
+In assessing the severity of impairment, the Guides direct the examiner to 
+consider five factors.  Id. at 364-365.  These factors are: (1) the effects of treatment; (2) 
+the effects of structured settings; (3) the variability of mental disorders; (4) an 
+assessment of workplace function; and (5) the effects of common mental and behavioral 
+conditions.  Id.  The Guides provided the following items to assess the workplace 
+function of the individual:  
+1. Understanding and memory relate to the individual’s ability to remember 
+procedures related to work; to understand and remember short, simple 
+instructions; and to understand and remember detailed instructions.   
+  
+2. Sustained concentration and persistence relate to the individual’s ability to 
+carry out short, simple instructions; carry out detailed instructions; maintain 
+attention and concentration for extended periods of time; perform activities 
+within a given schedule; maintain regular attendance and be punctual within 
+customary tolerances; sustain an ordinary routine without special supervision; 
+work with or near others without being distracted; make simple work-related 
+decisions; complete a normal workday and workweek without interruptions 
+from psychologically based symptoms; and perform at a consistent pace 
+without an unreasonable number of and unreasonably long rest periods.   
+ 
+3. Social interaction involves the individual’s ability to interact appropriately with 
+the general public; ask simple questions or request assistance; accept 
+instructions and respond appropriately to criticism from supervisors; get along 
+with coworkers and peers without distracting them or exhibiting behavioral 
+extremes; maintain socially appropriate behavior; and adhere to basic 
+standards of neatness and cleanliness.   
+ 
+4. Adaptation is the ability to respond appropriately to changes in the work 
+setting; to be aware of normal hazards and take appropriate precautions; to 
+use public transportation and travel to and within unfamiliar places; to set 
+realistic goals; and to make plans independently of others.   
+ 
+Id. at 365.   
+ 
+The Guides look at several different areas in arriving at an impairment rating.  Id. 
+at 361-362.  The first of these is activities of daily living, which includes self-care, 
+personal hygiene, communication, ambulation, travel, sexual function, and sleep.  Id.  
+More specifically, the Guides call for the examiner to define the extent to which the 
+individual is capable of initiating and participating in these activities independent of 
+supervision or direction.  Id.  The examiner is to consider the overall degree of 
+restriction along with the number of restricted activities.  Id.  The second is social 
+functioning.  Id. at 362.  This includes the ability to get along with others, such as family 
+members, friends, neighbors, grocery clerks, landlords, or bus drivers.  Id.  An impaired 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 47 
+ 
+social function may be demonstrated through a history of altercation, firings, or 
+avoidance of interpersonal relationships.  Id.  The third category to consider is the 
+“concentration, persistence, and pace.”  Id.  Part of this third category includes task 
+completion.  Id.  Task completion is the ability to sustain focused attention long enough 
+to permit the timely completion of tasks commonly found in activities of daily living or 
+work settings.  Id.  This can be assessed using psychiatric or psychological testing.  Id.  
+The fourth item is deterioration or decompensation in complex or worklike settings.  Id.  
+This included the repeated failure to adapt to stressful circumstances.  Id.  Evidence of 
+this may be withdrawing from a situation or experiencing an exacerbation of the signs 
+and symptoms of a mental disorder.  Id.  “Stresses common to the work environment 
+include attendance, making decisions, scheduling, completing tasks, and interacting 
+with supervisors and peers.”  Id.   
+ 
+Dr. Patra determined that Mr. Valdez was a category 3, or moderately impaired 
+across all of the foregoing areas.  Unfortunately, he did not provide detailed reasoning 
+for each of the immediately aforementioned areas.  Therefore, it is difficult to assess his 
+opinion and/or impairment ratings.   
+ 
+The claimant alleges that he experienced issues with bathing and personal 
+hygiene.  However, the type of issues which he described certainly do not seem to fit 
+what the Guides provide as a moderate impairment.  They certainly appear to fit more of 
+a mild impairment.  The claimant alleges that he experienced some issues with 
+interpersonal relationships, including with caring for his young daughter; however, 
+again, the record lacks specificity as to these ongoing issues.  Therefore, these seem to 
+fit more in line with a mild impairment.  The next category is concentration, persistence, 
+and pace.  There is no evidence in the record that the claimant has experienced issues 
+with the pace of his work.  In fact, he successfully worked in a position on the line which 
+involved keeping up a demanding pace.  Therefore, it is difficult to believe Dr. Patra’s 
+opinion.  Finally, there is little evidence outlined in the record that the claimant 
+experiences significant impairment under the ideas of deterioration or decompensation 
+items.  Therefore, at best, the claimant would experience a mild impairment.   
+ 
+Dr. Patra provided an opinion that the claimant had a 35 percent impairment.  He 
+based this opinion on the Second Edition of the Guides.  The Fifth Edition of the Guides 
+provide that: 
+An individual impaired to a moderate degree in all four categories of 
+functioning would be limited in the ability to carry out many, but not all, 
+complex tasks.  Mild and moderate limitations reduce overall performance 
+but do not preclude some performance.   
+… 
+Furthermore, a moderate impairment does not imply a 50% limitation in 
+useful functioning, and an estimate of moderate impairment in all four 
+categories does not imply a 50% impairment of the whole person.   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 48 
+ 
+Id. at 364. Dr. Patra’s impairment opinion holds little, to no, weight as to the extent of 
+the claimant’s permanent impairment.  It also lacked specificity as to the claimant’s 
+ongoing issues as they relate to his mental health sequela.  Using the criteria set forth in 
+the Guides, it seems as though the claimant experienced mild limitations in functioning.  
+As such, I find that the claimant sustained a 25 percent functional loss as a result of his 
+mental sequela.   
+ 
+With regard to the claimant’s left hand, there are competing impairment ratings.  
+Dr. Bansal provided impairment ratings for the claimant’s left thumb, left index finger, 
+left long finger, left ring finger, and left small finger.  These total impairment to the left 
+hand of 11 percent.  Interestingly, Dr. Bansal is the only doctor to note issues to the 
+claimant’s left index finger.  It is difficult to consider Dr. Bansal’s opinions as they relate 
+to the left index finger in considering the overall impairment to the claimant’s left hand.  
+ 
+Dr. Chen provided the claimant with a 28 percent impairment of the left hand.  
+His opinions bear more weight on this issue than Dr. Bansal’s opinions.  Dr. Chen did 
+not include an impairment rating regarding the claimant’s left index finger.   
+ 
+Treating physician Dr. Lesiak provided the claimant with a 31 percent impairment 
+to the left hand.  However, his opinions were based upon the Sixth Edition of the 
+Guides.  Therefore, his opinions do not comport with applicable Iowa law, and cannot 
+be considered.   
+ 
+Considering the evidence in the record, I find the opinions of Dr. Chen to be more 
+persuasive as to the impairment to the claimant’s left hand.  Dr. Chen did not include 
+portions of the hand that were not noted to have problems in any prior medical record, 
+like Dr. Bansal.   
+ 
+There is a dispute as to how to compensate the claimant.  Generally, permanent 
+partial disability falls into two categories; a scheduled member, as defined by Iowa Code 
+section 85.34(a) – (u), or a loss of earning capacity, also known as industrial disability, 
+as defined by Iowa Code section 85.34(2)(v).  Lauhoff Grain Co. v. McIntosh, 395 
+N.W.2d 834 (Iowa 1986); Blacksmith v. All-American, Inc., 290 N.W.2d 348 (Iowa 
+1980); Dailey v. Pooley Lumber Co., 233 Iowa 758, 10 N.W.2d 569 (1943); Soukup v. 
+Shores Co., 222 Iowa 272, 268 N.W. 598 (1936); Diederich v. Tri-City Ry. Co. of Iowa, 
+219 Iowa 587, 258 N.W. 899 (1935).   
+Iowa Code section 85.34(2)(v) provides an alternative to the scheduled member 
+and/or industrial disability compensation methods.  Iowa Code section 85.34(2)(v) 
+states, in relevant part:  
+If an employee who is eligible for compensation under this paragraph 
+returns to work or is offered work for which the employee receives or would 
+receive the same or greater salary, wages, or earnings than the employee 
+received at the time of the injury, the employee shall be compensated based 
+only upon the employee’s functional impairment resulting from the injury, 
+and not in relation to the employee’s earning capacity.   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 49 
+ 
+In determining whether the above provision of Iowa Code section 85.34(2)(v) 
+applies, there is a comparison between the claimant’s pre- and post-injury salary, 
+wages, or earnings.  McCoy v. Menard, Inc., File No. 1651840.01 (App. April 9, 2021).  
+A claimant’s hourly wage must be considered in tandem with the actual hours worked 
+by that claimant or offered by the employer.  Id.   
+In this case, both parties acknowledge that the claimant is working for an 
+increased hourly wage.  There is no evidence presented that the claimant is working for 
+less hours.  In fact, the claimant seems to be working the same, or more, hours, than at 
+the time of his injury.  Therefore, the provisions of Iowa Code section 85.34(2)(v) apply, 
+and the claimant shall be compensated based upon a functional impairment.  The 
+functional impairment to the claimant’s left hand is 28 percent.  This converted to a 25 
+percent impairment of the left upper extremity.  See Table 16-2, Guides, page 439.  This 
+converts further to a 15 percent impairment of the whole person.  See Table 16-3, 
+Guides, page 439.  The functional impairment for the claimant’s body as a whole due to 
+his mental sequela stemming from the same date of injury is 25 percent.  Since the 
+claimant has an impairment to the body as a whole from his mental health sequela, the 
+functional impairments are combined in order to arrive at the final impairment rating 
+using the Combined Values Chart on page 604 of the Guides.  In combining the 
+impairment ratings, I arrive at a 36 percent whole person impairment.  This totals 180 
+weeks (0.36 x 500 weeks = 180 weeks).   
+Compensation for permanent partial disability shall begin when it is medically 
+indicated that MMI from the injury has been reached, and that the extent of loss or 
+percentage of permanent impairment can be determined by use of the Guides.  See 
+Iowa Code section 85.34(2).   
+Dr. Lesiak placed the claimant at MMI for his left hand as of January 24, 2024, 
+with no opinion as to the claimant’s permanent impairment.  He provided him 
+restrictions against working in cold environments.  Dr. Bansal concurred with Dr. 
+Lesiak’s MMI date regarding the claimant’s left hand.  He provided a permanent 
+impairment rating for the claimant’s left hand.  He then opined that the claimant reached 
+MMI on March 4, 2024, for his mental health issues.  However, it was not until Dr. Patra 
+issued an impairment opinion on March 8, 2024, that an impairment could be 
+determined by the Guides.  Dr. Chen placed Mr. Valdez at MMI as of January 24, 2024.  
+However, his opinion was not issued until March 15, 2024.  Therefore, the proper 
+commencement date for benefits is March 8, 2024.   
+IME Reimbursement Pursuant to Iowa Code section 85.39 
+The claimant seeks reimbursement for an IME performed by Dr. Bansal, 
+amounting to four thousand nine hundred thirty-four and 00/100 dollars ($4,934.00).   
+Iowa Code 85.39(2) states:   
+If an evaluation of permanent disability has been made by a physician 
+retained by the employer and the employee believes this evaluation to be 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 50 
+ 
+too low, the employee shall, upon application to the commissioner and upon 
+delivery of a copy of the application to the employer and its insurance 
+carrier, be reimbursed by the employer the reasonable fee for a subsequent 
+examination by a physician of the employee’s own choice, and reasonably 
+necessary transportation expenses incurred for the examination.     
+. . .    
+An employer is only liable to reimburse an employee for the cost of an 
+examination conducted pursuant to this subsection if the injury for which the 
+employee is being examined is determined to be compensable under this 
+chapter or chapter 85A or 85B.  An employer is not liable for the cost of 
+such an examination if the injury for which the employee is being examined 
+is determined not to be a compensable injury.  A determination of the 
+reasonableness of a fee for an examination made pursuant to this 
+subsection shall be based on the typical fee charged by a medical provider 
+to perform an impairment rating in the local area where the examination is 
+conducted.     
+Iowa Code section 85.39(2).     
+The Iowa Supreme Court determined that an “examination” required “to perform 
+an impairment rating” must include certain steps as prescribed by the AMA Guides.  Mid 
+American Construction, LLC v. Sandlin, 2 N.W.3d 838 (Iowa 2024).  These steps 
+include: determining whether an injured worker achieved MMI, reviewing past medical 
+records to ascertain knowledge as to any past injuries to the injured worker, opining as 
+to whether the work injury caused the impairment, conducting a physical examination of 
+the claimant in order “to assess the employee’s status and perform accurate 
+measurements…”, and determining a diagnosis.  Id.   
+Defendants are responsible only for reasonable fees associated with claimant’s 
+independent medical examination.  The claimant has the burden of proving the 
+reasonableness of the expenses incurred for the examination.  See Schintgen v. 
+Economy Fire & Casualty Co., File No. 855298 (App. April 26, 1991).  This burden may 
+be met either by “…evidence of the fees typically charged in that locality to support or 
+challenge the fee charged in a particular case…” or by agency expertise in adjudicating 
+claims in the local area where the examination was conducted.  Mid American 
+Construction, LLC v. Sandlin, 2 N.W.3d 838 (Iowa 2024).   
+An opinion finding a lack of causation is tantamount to a zero percent impairment 
+rating.  Kern v. Fenchel, Doster & Buck, P.L.C., 2021 WL 3890603 (Iowa App. 2021).     
+Finally, it is well accepted Iowa law that a claimant is only entitled to 
+reimbursement for one IME pursuant to Iowa Code section 85.39.  Larson Mfg. Co. Inc. 
+v. Thorson, 763 N.W.2d 842, 861 (Iowa 2009).   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 51 
+ 
+Dr. Bansal conducted his examination of the claimant on March 4, 2024.  He 
+issued a report outlining his findings on March 18, 2024.  No other physician provided 
+an opinion as to the claimant’s permanent impairment prior to this time.  Certainly, there 
+is no evidence that a physician of the defendants’ choosing provided an impairment 
+rating, or a rating finding a lack of causation.  Therefore, I decline to award the claimant 
+the costs of Dr. Bansal’s IME pursuant to Iowa Code section 85.39.   
+Costs 
+The claimant seeks an assessment of costs as listed in Claimant’s Exhibit 10.  
+Costs are to be assessed at the discretion of the deputy commissioner hearing the 
+case.  See 876 Iowa Administrative Code 4.33; Iowa Code section 10A.328.  876 Iowa 
+Administrative Code 4.33(6) provides:  
+[c]osts taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+reviewing health service disputes.   
+Pursuant to the holding in Des Moines Area Regional Transit Authority v. Young, 
+867 N.W.2d 839 (Iowa 2015), only the report of an IME physician, and not the 
+examination itself, can be taxed as a cost according to 876 IAC 4.33(6).  The Iowa 
+Supreme Court reasoned, “a physician’s report becomes a cost incurred in a hearing 
+because it is used as evidence in lieu of the doctor’s testimony,” while “[t]he underlying 
+medical expenses associated with the examination do not become costs of a report 
+needed for a hearing, just as they do not become costs of the testimony or deposition.”  
+Id.  (noting additionally that “[i]n the context of the assessment of costs, the expenses of 
+the underlying medical treatment and examination are not part of the costs of the report 
+or deposition”).  The commissioner has found this rationale applicable to expenses 
+incurred by vocational experts.  See  Kirkendall v. Cargill Meat Solutions Corp., File No. 
+5055494 (App. December 17, 2018); Voshell v. Compass Group, USA, Inc., File No. 
+5056857 (App. September 27, 2019).   
+The claimant requests the following costs: 
+Filing fee 
+ 
+ 
+$128.75 
+Service fee  
+ 
+$8.34 
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 52 
+ 
+Service fee  
+ 
+$8.34 
+Dr. Bansal’s IME 
+ 
+$4,943.00 
+Dr. Patra’s IPE 
+ 
+$6,086.66 
+Total  
+ 
+ 
+$11,175.09 
+CE 10:111.   
+ 
+Based upon my discretion, I award the claimant the costs of the filing fee and the 
+service fees.  Dr. Bansal’s invoice is not detailed enough to allow me to determine what 
+amount of the fee relates to the drafting of his report.  Therefore, I decline to award the 
+costs of Dr. Bansal’s IME.  Dr. Patra indicates in his invoice that the cost of drafting his 
+report was two thousand eight hundred thirty-five and 00/100 dollars ($2,835.00).  I find 
+this cost to be reasonable, and in my discretion award the cost of the report to the 
+claimant.  Thus, the claimant is awarded two thousand nine hundred eighty and 43/100 
+dollars ($2,980.43).   
+ORDER 
+ 
+THEREFORE, IT IS ORDERED: 
+That the claimant’s mental health issues are a sequela of his June 29, 2021, left 
+hand injury.   
+That the defendants shall pay the claimant 180 weeks of benefits at the above 
+stipulated rate of compensation.   
+That the commencement date for permanent partial disability benefits is March 8, 
+2024.   
+That the claimant is not entitled to reimbursement for the costs of Dr. Bansal’s 
+IME pursuant to Iowa Code section 85.39. 
+That the defendants shall reimburse the claimant two thousand nine hundred 
+eighty and 43/100 dollars ($2,980.43) in costs.   
+That the defendants shall pay accrued weekly benefits in a lump sum together 
+with interest.  All interest on past due weekly compensation benefits shall be payable at 
+an annual rate equal to the one-year treasury constant maturity published by the federal 
+reserve in the most recent H15 report settled as of the date of injury, plus two percent.  
+See Gamble v. AG Leader Technology, File No. 5054686 (App. Apr. 24, 2018).   
+That the defendant shall file subsequent reports of injury (SROI) as required by 
+this agency pursuant to 876 Iowa Administrative Code 3.1(2) and 876 Iowa 
+Administrative Code 11.7.   
+
+VALDEZ V. SMITHFIELD FOODS, INC. 
+Page 53 
+ 
+Signed and filed this __5th _ day of August, 2024. 
+ 
+ 
+The parties have been served, as follows: 
+James Byrne (via WCES) 
+Michael Miller (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code.  The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Com pensation Commissioner, Iowa 
+Division of Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal 
+must be received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal 
+period will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            ANDREW M. PHILLIPS 
+               DEPUTY WORKERS’ 
+     COMPENSATION COMMISSIONER 

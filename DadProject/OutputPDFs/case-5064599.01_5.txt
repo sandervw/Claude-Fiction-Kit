@@ -1,0 +1,231 @@
+Case Number: 5064599.01
+Case Title:  THOMAS, ROBERT V. ARCHER DANIELS MIDLAND
+Doc Type:    Decision - Court of Appeals
+Source:      230323_Thomas_v_Archer_Daniels_Midl_42A32ED88A513.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 23-0323 
+Filed November 8, 2023 
+ 
+ 
+ROBERT THOMAS, 
+ 
+Plaintiff-Appellant, 
+ 
+vs. 
+ 
+ARCHER DANIELS MIDLAND COMPANY, 
+ 
+Defendant-Appellee. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Celene Gogerty, Judge. 
+ 
+ 
+Robert Thomas appeals a ruling on judicial review that affirmed the workers’ 
+compensation commissioner’s appeal decision.  AFFIRMED. 
+ 
+ 
+Anthony J. Olson of Rush & Nicholson, P.L.C., Cedar Rapids, for appellant. 
+ 
+Peter J. Thill and Brandon W. Lobberecht of Betty, Neuman & McMahon, 
+P.L.C., Davenport, for appellee. 
+ 
+ 
+Considered by Bower, C.J., and Ahlers and Chicchelly, JJ.
+
+ 
+2
+CHICCHELLY, Judge. 
+ 
+Robert Thomas appeals a ruling on judicial review that affirmed the workers’ 
+compensation commissioner’s appeal decision.  Thomas challenges the finding 
+that injuries he sustained in June 2018 were not sequelae of an injury arising out 
+of and in the course of his employment with Archer Daniels Midland Co. (ADM).  
+He also contends that the commissioner erred in crediting ADM for overpayment 
+of temporary disability and healing period benefits.  Because we concur with the 
+district court that substantial evidence supports the commissioner’s findings and 
+the commissioner did not err in interpreting the law, we affirm. 
+ 
+I. Background Facts and Proceedings. 
+ 
+ The parties agree that Thomas sustained a work-related injury to his right 
+eye in January 2017.  He underwent four surgeries to repair the damage but 
+continues to have trouble with depth perception.  A doctor assessed Thomas with 
+a 79.5 percent impairment rating to his right eye.   
+ 
+In June 2018, Thomas sustained several injuries while stepping off a 
+pontoon boat.  Although he does not remember what happened and no one 
+witnessed the event, Thomas believes his lack of depth perception caused him to 
+fall.  Thomas speculates that he struck his face against a wooden 2x4 and was 
+knocked consciousness before falling backward and striking his head on cement.  
+He sustained a laceration on the back of his head, three fractured teeth, and 
+fractures of his maxillary sinus. 
+ 
+Thomas petitioned for workers’ compensation benefits for the injuries he 
+sustained in June 2018, alleging they were proximately caused by the impairment 
+to his right eye and are thus sequelae of his 2017 work injury.  A deputy workers’ 
+
+ 
+3
+compensation commissioner agreed, finding “[t]he greater weight of evidence 
+supports a finding that the claimant’s eye injury and resulting lack of depth 
+perception was, more likely than not, a substantial contributing factor to his fall on 
+June 30, 2018.”  On this basis, the deputy awarded Thomas healing period 
+benefits from July 1, 2018, through December 16, 2018, for the injuries Thomas 
+sustained in the fall.   
+ 
+After ADM appealed, the workers’ compensation commissioner issued an 
+appeal decision finding Thomas failed to prove the June 2018 injuries are sequelae 
+of the 2017 work injury.  The commissioner also held ADM was entitled to a credit 
+for overpayment of temporary disability and healing period benefits against the 
+payment of Thomas’s permanent partial disability benefits for the 2017 work injury.  
+The district court affirmed the appeal decision on judicial review.  Thomas appeals. 
+ 
+II. Scope of Review. 
+ 
+“We review a district court’s dismissal of a petition for judicial review for 
+correction of errors at law.”  Irland v. Iowa Bd. of Med., 939 N.W.2d 85, 89 (Iowa 
+2020).  Iowa Code section 17A.19 (2022) sets out our standard of review, which 
+depends on the grounds raised by the petitioner.  Tyson Foods, Inc. v. Hedlund, 
+740 N.W.2d 192, 195 (Iowa 2007).  The question is whether we reach the same 
+conclusions as the district court when applying those standards.  Id.  If so, we 
+affirm; if not, we reverse or modify.  Id. 
+ 
+III. Whether the June 2018 injuries are sequelae of the work injury. 
+ 
+Thomas first challenges the evidence supporting the commissioner’s finding 
+that Thomas failed to prove the impairment from his work-related eye injury was 
+the proximate cause of the injuries he sustained in June 2018.  Because “[m]edical 
+
+ 
+4
+causation is a question of fact vested in the commissioner’s discretion,” Mike 
+Brooks, Inc. v. House, 843 N.W.2d 885, 889 (Iowa 2014), Thomas is entitled to 
+judicial relief only if the commissioner’s finding “is not supported by substantial 
+evidence in the record before the court when that record is viewed as a whole,” 
+Iowa Code § 17A.19(10)(f).  Substantial evidence is “the quantity and quality of 
+evidence that would be deemed sufficient by a neutral, detached, and reasonable 
+person, to establish the fact at issue when the consequences resulting from the 
+establishment of that fact are understood to be serious and of great importance.”  
+Id. § 17A.19(10)(f)(1).  “Evidence is not insubstantial merely because different 
+conclusions may be drawn from the evidence.”  Brooks, 843 N.W.2d at 889 
+(citation omitted).  So the question before us is not whether the evidence supports 
+a different finding; it is whether it supports the finding the commissioner made.  Id. 
+ 
+ Substantial evidence supports the commissioner’s finding that Thomas 
+failed to show his right-eye impairment was the proximate cause of his June 2018 
+fall.  Thomas suspects that the impairment to his right eye caused his fall, but he 
+cannot recall what happened.  There were no witnesses to provide context.  The 
+only other evidence on which to rely for causation are the opinions of two medical 
+experts who conducted independent medical examinations.  When asked whether 
+Thomas was at greater risk of fall injuries like the one that occurred in June 2018, 
+one expert agreed that Thomas was at greater risk of a fall due to his loss of vision 
+and depth perception.  The other answered that “it is conceivable that his unilateral 
+vision loss contributed to the fall” in June 2018.  Although both opinions allow for 
+the possibility that the fall was caused by Thomas’s eye impairment, neither expert 
+stated it was the likely cause.  This speculation is not enough to establish medical 
+
+ 
+5
+causation.  See Sanchez v. Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. 
+App. 1996) (“A possibility of causation is not sufficient; a probability is necessary.”); 
+Giere v. Aase Haugen Homes, Inc., 146 N.W.2d 911, 915 (Iowa 1966) (“Medical 
+testimony that it is possible a given injury was the cause of subsequent [injury], or 
+‘could have’ caused it is insufficient . . . .  Testimony indicating probability or 
+likelihood of such causal relation is necessary.”). 
+ 
+IV. Whether ADM can receive credit for overpayment of benefits. 
+ 
+Thomas also contends the commissioner erred in interpreting the workers’ 
+compensation statute to award ADM credit for overpayment of benefits related to 
+the 2018 injury.  “The standard of review applied to an agency’s determination of 
+legal issues depends upon whether this court gives deference to interpretations of 
+law by the agency.”  Am. Home Assurance v. Liberty Mut. Fire Ins. Co., 975 N.W.2d 
+427, 430 (Iowa 2022).  “The legislature has not expressly vested the workers’ 
+compensation commissioner with authority to interpret the workers’ compensation 
+statutes in chapter 85.”  Ramirez-Trujillo v. Quality Egg, L.L.C., 878 N.W.2d 759, 
+769 (Iowa 2016).  Thus, our review is for errors at law.  See Am. Home Assurance, 
+975 N.W.2d at 430 (citing Iowa Code § 17A.19(10)(c)). 
+ 
+When Thomas was injured in January 2017, the statute in effect stated: 
+ 
+4. Credits for excess payments.  If an employee is paid weekly 
+compensation benefits for temporary total disability under section 
+85.33, subsection 1, for a healing period under section 85.34, 
+subsection 1, or for temporary partial disability under section 85.33, 
+subsection 2, in excess of that required by this chapter and chapters 
+85A, 85B, and 86, the excess shall be credited against the liability of 
+the employer for permanent partial disability under section 85.34, 
+subsection 2, provided that the employer or the employer’s 
+representative has acted in good faith in determining and notifying 
+an employee when the temporary total disability, healing period, or 
+temporary partial disability benefits are terminated. 
+
+ 
+6
+ 
+5. Recovery of employee overpayment.  If an employee is 
+paid any weekly benefits in excess of that required by this chapter 
+and chapters 85A, 85B, and 86, the excess paid by the employer 
+shall be credited against the liability of the employer for any future 
+weekly benefits due pursuant to subsection 2, for a subsequent 
+injury to the same employee. 
+ 
+Iowa Code § 85.34 (2017) (emphasis added).1  The commissioner credited ADM’s 
+overpayment of temporary disability and healing period benefits against payment 
+of Thomas’s permanent partial disability benefits for the 2017 work injury.   
+ 
+Thomas argues the commissioner misinterpreted section 85.34 by giving 
+ADM an overpayment credit against the payment of weekly benefits for the same 
+injury rather than a future injury.  Thomas cites Swiss Colony, Inc. v. Deutmeyer, 
+789 N.W.2d 129, 137 (Iowa 2010), in which the supreme court stated that the credit 
+against future injuries provided in section 85.34(5) “must be interpreted to apply to 
+all overpayments of benefits.”  Removing this quote from all context, Thomas 
+suggests that the supreme court held the overpayment of any workers’ 
+compensation benefits, including temporary disability and healing period benefits, 
+applies against future injuries.  But the Swiss Colony holding addresses only 
+overpayment of permanent partial disability benefits.  789 N.W.2d at 137.  The 
+language Thomas quotes was a response to the employer’s claim that credit 
+against future injuries should apply only after an employee receives all permanent 
+partial disability payments.  With this context, Swiss Colony held “that section 
+ 
+1 The legislature later amended the emphasized portion of the statute to state that 
+“the excess paid by the employer shall be credited against the liability of the 
+employer for credit for any future weekly benefits due for an injury to that 
+employee.”  See 2017 Iowa Acts ch. 23, § 12 (codified at Iowa Code § 85.34(4)).  
+The amended statute applies only to injuries that occurred on or after the date it 
+took effect.  See 2017 Iowa Acts ch. 23, § 24. 
+
+ 
+7
+85.34(5) must be interpreted to apply to all overpayments of [permanency] 
+benefits, including an overpayment of weekly benefits and not simply an 
+overpayment of the entire benefit award.”  Id.   
+ 
+This case concerns ADM’s overpayment of temporary disability and healing 
+period benefits.  Section 85.34(4) addresses those overpayments by allowing a 
+credit against future permanent partial disability benefits for the same injury.  
+Reading section 85.34(5) to apply to overpayment of all workers’ compensation 
+benefits, including temporary disability and healing period benefits, would render 
+section 85.34(4) superfluous, which is contrary to the rules of statutory 
+construction.  See Rojas v. Pine Ridge Farms, L.L.C., 779 N.W.2d 223, 231 (Iowa 
+2010) (“When interpreting a statute, we assess the entire statute, not just isolated 
+words or phrases.  We also presume the legislature included all parts of the statute 
+for a purpose, so we will avoid reading the statute in a way that would make any 
+portion of it redundant or irrelevant.” (internal citation omitted)).  We find no error 
+in the commissioner’s award of overpayment credits under section 85.34(4). 
+ 
+V. Conclusion. 
+ 
+Substantial evidence supports the finding that Thomas failed to show 
+injuries sustained in June 2018 are sequelae of his 2017 work injury, and the 
+commissioner properly credited ADM’s overpayment of temporary disability and 
+healing period benefits against payment of permanent partial disability benefits for 
+the same injury.  Because we reach the same conclusions as the district court, we 
+affirm its denial of Thomas’s petition for judicial review. 
+ 
+AFFIRMED. 

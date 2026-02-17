@@ -1,0 +1,332 @@
+Case Number: 21012994.01
+Case Title:  LAGUERRE, MECENE V. JBS USA HOLDINGS, INC.
+Doc Type:    Decision - District Court
+Source:      Laguerre, Mecene-21012994.01.District Court Decision.PDF
+========================================================================
+
+1 
+ 
+ 
+On September 13, 2024, the above-captioned matter came before the Court for hearing.  
+Andrew Bribriesco represented the petitioner, Mecene Laguerre ("Mecene"). Respondents JBS 
+USA, Inc. (“JBS”) and American Zurich Insurance Company ("Respondents") were represented 
+by Andrew Workman.  After hearing the arguments of counsel and reviewing the court file, 
+including the briefs filed by the parties and the certified administrative record (“Cert. Rec.”), the 
+Court enters this Ruling. 
+I. 
+BACKGROUND FACTS. 
+ 
+Mecene is a 46-year-old man from Haiti.  Mecene has been working for respondent JBS 
+since April 2017.  D0003, Cert. Rec. at 322 (1/22/2024).  He primarily communicates in Haitian 
+Creole.  Mecene works in one of JBS's many meatpacking facilities across the state of Iowa.  For 
+most of his time at JBS, Mecene worked in a position called "tongue cut-off." Id. at 71. 
+However, on October 21, 2021, Mecene's supervisor ordered him to work in a different position 
+as a "skinner." Id.  As a skinner, Mecene's job was to use a knife to cut away sections of feces 
+covering pork carcasses. Id.  Immediately before the injury, Mecene alerted his coworkers to a 
+feces-covered carcass. Id.  As Mecene removed the carcass from the line, a coworker holding a 
+"Whizard knife" collided with Mecene. Id.  In the collision, all layers of Mecene's skin tissue 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+MECENE LAGUERRE, 
+     Claimant/Petitioner, 
+ 
+vs. 
+ 
+JBS USA HOLDINGS, INC., 
+       Employer/Respondent,  
+ 
+and  
+ 
+AMERICAN ZURICH INS. CO., 
+       Insurance Carrier,  
+       Insurer/Respondent. 
+ 
+ 
+ 
+Case No. CVCV066641 
+ 
+ 
+RULING ON PETITION FOR JUDICIAL 
+REVIEW 
+E-FILED                    CVCV066641 - 2024 DEC 02 02:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 12
+
+2 
+ 
+from the lower part of Mecene's shoulder to the bottom of Mecene's bicep were severed from the 
+muscles in Mecene's right arm. Id.  This is known as a degloving injury.  D0004, Cert. Rec. Part 
+2, at 60 (1/22/2024) (depicting his right arm injury when he was admitted to the hospital on 
+October 21, 2021).  
+First, an ambulance briefly took Mecene to a local hospital before being transferred to the 
+University of Iowa Hospitals and Clinics ("UIHC").  D0011, Pet. Br. at 712 (7/19/2024).  Once 
+he arrived, doctors and hospital staff irrigated and dressed Mecene's wound with semi-sterile 
+techniques.  Mecene had to stay in the hospital for a few days. Id.  Four days later Dr. Robert 
+Bertelloti (“Dr. Bertelloti”) performed excision and debridement on Mecene's right arm wound 
+and then grafted skin from Mecene's right thigh. Id.; See also D0012 Res. Br. at 98-99 
+(8/24/24)(portraying the graft site and the grafted right arm wound).  
+Over the next few days, UIHC's medical team tracked Mecene's condition. Id.  During 
+this time, Mecene reported significant pain while maintaining good sensation and motor function 
+in the right forearm and hand, and so he was discharged from the hospital. Id.  Mecene received 
+several more treatments through UIHC's burn and wound clinics.  The clinic observed that 
+Mecene's grafts adhered well and vascularized. Id. at 72.  On November 15, 2021, Mecene was 
+cleared to return to work, provided he could work in a clean, temperature-controlled 
+environment. Id. 
+However, pain and itching from the skin graft site on Mecene's wound site on his right 
+arm continued through 2022 and 2023, with one report of significant pain over the donor site on 
+Mecene's right thigh during that same period. Id. at 72, 78 ("claimant has previously complained 
+of persistent pain and itching in his right thigh, albeit sparingly").  Mecene even experienced 
+functional limitations in his right arm. Id. at 72.  For example, Mecene reported to Dr. Rayburn 
+E-FILED                    CVCV066641 - 2024 DEC 02 02:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 12
+
+3 
+ 
+that his right shoulder and neck would cramp during particularly acute pain episodes. Id. 
+However, Mecene denied any pain radiating from the wound site to his right hand or wrist. Id.  
+In his deposition, in addition to corroborating reports of pain and loss of function in his 
+right arm, Mecene reported a numbing feeling on his right thigh. Id. at 109.  He also noted in his 
+deposition that he avoids sleeping on his right side. Id. at 110.  Mecene has since returned to 
+work in the packing plant proper, now solely inspecting carcasses for feces. Id. at 73.  
+In January of 2023, Dr. Joeseph Chen (“Dr. Chen”), a former colleague of Dr. Bertelloti, 
+performed an independent medical examination on Mecene on behalf of the Respondents. Id.  
+Dr. Sunil Bansal (“Dr. Bansal”) performed another independent medical examination on behalf 
+of Mecene. Id.  While Dr. Bansal and Dr. Chen agreed that Mecene sustained permanent 
+impairment, they differed on the extent of impairment. Id. at 74.  
+Dr. Chen assigned Mecene a 9 percent impairment rating confined to his right upper 
+extremity because the injured tissues and functional limitations were limited to his right upper 
+extremity. Id. at 73.  During the examination, Mecene only reported itching, numbness, and 
+difficulty moving his right arm. Id. at 73-74.  He did not mention pain or itching at the grafting 
+site on his right thigh. Id.  Dr. Chen used his own methodology1 combined with the American 
+Medical Association Guide Fifth Edition (AMA Guides) Table 8-2 to determine an impairment 
+rating based on the total surface area of the skin graft. Id. at 74.  
+Dr. Bansal assigned a 7 percent body-as-a-whole impairment. Id.  In Dr. Bansal's 
+examination, Mecene reported pain radiating from his shoulder to his hand, along with itching 
+and pain at the donor site on his right thigh. Id.  Unlike Dr. Chen, Dr. Bansal relied entirely on 
+the methodology supplied by the AMA Guides Table 8-2 to determine his rating.  Table 8-2 is 
+                                                          
+1 Dr. Chen referred to a diagram used by burn surgeons to estimate total body surface area (Ex. A, p. 13). 
+E-FILED                    CVCV066641 - 2024 DEC 02 02:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 12
+
+4 
+ 
+for rating skin/degloving injuries like Mecene's; however, the table provides ratings in terms of 
+"whole person impairment." Id. at 312-13 (Ex. 2, p. 20).  Nevertheless, Dr. Bansal emphasized 
+that his rating applied to the "right upper extremity/right lower extremity" rather than the body as 
+a whole. Id.  Dr. Bansal ascribed his rating to the extensive scarring on his right arm, grip 
+strength limitations, pain, itching, and sunlight sensitivity of the grafting site on Mecene's right 
+thigh. Id. at 74. 
+After hearing at the Workers' Compensation Commission, Deputy Lunn (“Deputy Lunn”) 
+concluded that Mecene suffered a work-related injury and, according to Iowa Code § 85.34(2)(t), 
+sustained permanent impairment to two scheduled members caused by a single accident. Id. at 
+79.  In reaching that conclusion, Deputy Lunn rejected Mecene's argument that because Dr. 
+Bansal provided a whole person impairment rating according to Table 8-2 of the AMA Guides, 
+the injury should be converted into an unscheduled injury under Iowa Code § 85.34(2)(v). 
+Deputy Lunn rejected the argument after a detailed review of commission decisions dealing with 
+the same issue of whether an AMA Guides whole person rating converts to a scheduled injury 
+under section 85.34(2)(a-u). Id. at 76-77.  These decisions illustrated that grafts, scarring, and 
+other skin issues do not convert scheduled injuries into unscheduled injuries because the 
+scarring/skin issues were limited to scheduled members. Id. at 77-78.  Additionally, Deputy 
+Lunn noted that he could not rely on Dr. Chen's impairment rating because he did not rely 
+primarily on the AMA Guides to calculate it. Id. at 79; citing Iowa Code § 85.34(2)(x).  
+Therefore, Deputy Lunn adopted Dr. Bansal's 7 percent body-as-a-whole impairment rating. 
+Based on that rating, Deputy Lunn concluded that Mecene was entitled to 35 weeks of permanent 
+partial disability benefits. Id.  
+E-FILED                    CVCV066641 - 2024 DEC 02 02:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 12
+
+5 
+ 
+Mecene appealed Deputy Lunn’s decision.  Commissioner Cortese heard the appeal and 
+affirmed the deputy's ruling. Id. at 7.   
+On appeal at the district court, Mecene does not challenge the commission's findings. 
+Instead, Mecene insists that the Deputy Lunn and Commissioner Cortese erred in their 
+interpretation of section 85.34(2) by concluding that he suffered a scheduled member injury 
+rather than an unscheduled injury.  D0011, at 3.  Respondents urge the court to affirm Deputy 
+Lunn’s ruling that Mecene suffered two scheduled member injuries caused by a single accident 
+according to section 85.34(2)(t).  D0012 at 16. 
+II. 
+STANDARD OF REVIEW. 
+The standard of review the Court must apply when considering an agency's interpretation 
+of a statute depends on whether the legislature has clearly vested that agency with interpretive 
+authority to interpret the provision at issue.  Iowa Code § 17A.19(10)(c) and (m).  If the 
+commission is vested with the authority to interpret Chapter 85, then review is for erroneous 
+application of the law under Iowa Code section 17A.19(10)(l).  However, if the commission is 
+not clearly vested with the authority to interpret Chapter 85, the review is for the correction of 
+errors of law.  Iowa Code § 17A.19(10)(c).  As the Iowa Supreme Court concluded, the 
+legislature has not vested the workers’ compensation commissioner with interpretive authority 
+over Chapter 85. P.M. Lattner Mfg. Co. v. Rife, 2 N.W.3d 859, 865 (Iowa 2024).  Thus, the 
+Court’s review of Deputy Lunn’s interpretation is for corrections of errors of law.  Iowa Code § 
+17A.19(10)(c).  
+III. 
+ANALYSIS. 
+a. Scheduled Injury § 85.34(2). 
+The question here is whether an injury, the effects of which are limited to a scheduled 
+E-FILED                    CVCV066641 - 2024 DEC 02 02:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 12
+
+6 
+ 
+member under section 85.34(2)(t), should be classified as unscheduled according to section 
+85.34(2)(v) because the injury received a body-as-a-whole impairment rating and primarily 
+affects the skin.  Since the classification of an injury as scheduled or unscheduled is "essentially 
+a question of statutory interpretation," the Court looks at the plain language, read in context with 
+the rest of the statute.  Bridgestone Americas, Inc. v. Anderson, 4 N.W.3d 676, 683 (Iowa 2024). 
+If the statute is unambiguous, the court will evaluate the deputy’s interpretation against the plain 
+text.  Only if the statute is ambiguous will the court turn to other tools of interpretation.  Holstine 
+Elec. v. Breyfogle, 756 N.W.2d 812, 815 (Iowa 2008).  The Court notes that it is true, as Mecene 
+emphasizes, that the worker’s compensation statute is to be interpreted liberally with the goal of 
+compensating employees; however, the court's priority must be the text. Id. (quoting Hoyt v. 
+Wendling Quarries, 2015 WL 576174, at *2 (Iowa Ct. App. Feb. 11, 2015)).  
+Mecene uses the 2017 amendment to paragraph "x," which requires the commissioner to 
+use the AMA guidelines for calculating impairment, and Chavez v. MS Technology LLC, 972 
+N.W.2d 662, 669 (Iowa 2022), to argue that the legislature intended that scheduling conforms to 
+the AMA Guide’ impairment rating system.  Iowa Code § 85.34(2)(x).  In other words, 
+regardless of whether the effects of the injury are limited to members defined in paragraph "t," 
+because the AMA Guide calculate the impairment rating for a degloving injury using a body-as-
+a-whole rating, the injury should be unscheduled.  Mecene buttresses his interpretation with dicta 
+from Chavez where the court observes that their conclusion that “shoulder” in paragraph “n” 
+should be defined functionally aligns with the AMA Guide, “which is the guide for determining 
+the extent of loss or percentage of impairment for permanent partial disabilities.” (quoting Iowa 
+Admin Code. r. 876—2.4).  Nevertheless, the text refutes Mecene’s interpretation. 
+Iowa Code section 85.34(2) governs compensation for permanent partial disabilities.  The 
+E-FILED                    CVCV066641 - 2024 DEC 02 02:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 12
+
+7 
+ 
+compensation method significantly impacts the level of compensation an employee can obtain 
+for a permanent partial disability.  Bridgestone, 4 N.W.3d at682.  How compensation is 
+calculated depends on whether the deputy classifies an employee's injury as scheduled or 
+unscheduled. Scheduled injuries are those described or referenced in paragraphs "a" through "u" 
+of section 85.34(2).  An injury may only be classified as unscheduled if it is not those described 
+or referenced in paragraphs "a" through "u" of section 85.34(2).  Iowa Code § 85.34(2)(v). Here, 
+the deputy concluded that Mecene’s injury was described or referenced in paragraph “t,” which 
+covers “the loss of both arms, or . . .  both legs . . . or any to thereof caused by a single accident,” 
+applied to Mecene’s injuries.  Iowa Code § 85.34(2)(t).  Thus, the question becomes whether 
+Mecene's injury is described or referenced in paragraph “t.”  
+Determining whether an injury or impairment is described or referenced by paragraph “t” 
+depends on whether the impairment results in the loss of function of a member referenced or 
+described in paragraph “t.”  Chavez 972 N.W.2d at 668-69 (quoting Floyd v. Quaker Oats 646, 
+N.W.2d 105,109 (Iowa 2002)) (internal citation omitted).  Additionally, Iowa courts "look 
+beyond the situs of the original injury and consider the impact of the injury on all parts of the 
+body.”  Sandberg v. Rubbermaid Home Prod., 760 N.W.2d 210 (Table) 2008 WL 5234378 *4 
+(Iowa Ct. App. 2008).  As the deputy observed in his opinion, determining whether an 
+impairment affects the use of a member or impacts the other parts of the body reflects the 
+commission’s long-standing approach to this issue.  D0003 at 77-78 (discussing various deputy 
+rulings rejecting the contention that because the AMA Guides Tables rate skin disorders as body-
+as-a-whole impairments, such injuries should be classified as unscheduled).  For example, in 
+Bryan v. Kiowa Line Builders Inc., File No. 5062947 (Arb. March 2018), the deputy in that case 
+rejected an argument that although scarring is localized to a scheduled member, because it is a 
+E-FILED                    CVCV066641 - 2024 DEC 02 02:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 12
+
+8 
+ 
+skin disorder and the skin itself is not a scheduled member, the injury should be classified as 
+unscheduled. The deputy rejected the argument because the scarring and its functional effect 
+were limited to one member, and there was no proof of a skin disorder that spread around the 
+body. Id.  The plain text is, therefore, unambiguous: if the loss of function due to Mecene’s 
+injuries is limited to two members covered by paragraph “t,” his injury cannot be classified as 
+unscheduled under paragraph “v.”   
+Applying the plain text to the facts found by the deputy leads the court to affirm the 
+deputy’s interpretation.  Here, while the deputy agreed with Dr. Bansal’s body-as-a-whole 
+impairment rating, he did not classify Mecene’s injury as an injury to two members caused by 
+one accident under 85.34(2)(t) because “the injury does not extend into the body as a whole.”  
+D0003 at 79.  Moreover, the deputy only found that the function of Mecene's right arm and right 
+leg were affected. Id.  There was no evidence of the scarring or neurological effects of Mecene's 
+injuries extending beyond their respective members. Id.  As discussed above, paragraph “t” 
+describes or references arm and leg impairments.  Iowa Code § 85.34(2)(t).  Accordingly, 
+Mecene's injuries are described and/or referenced in paragraphs "a" through “u.”  Therefore, 
+Mecene's injury cannot be unscheduled under paragraph “v.”  
+Turning to Mecene’s argument regarding section 85.34(2)(x), paragraph “x” states, 
+“when determining functional disability and not loss of earning capacity, the extent of loss or 
+percentage of permanent impairment shall be determined solely by utilizing the guides to the 
+evaluation of permanent impairment, published by the American Medical Association.”  Iowa 
+Code § 85.34(2)(x) (emphasis added).  The text of paragraph “x” is crystal clear.  AMA Guides 
+must be used to determine functional disability or permanent impairment, not whether an injury 
+is scheduled or unscheduled. Id.  Therefore, the text rejects Mecene's argument that paragraph 
+E-FILED                    CVCV066641 - 2024 DEC 02 02:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 12
+
+9 
+ 
+“x” shows that the legislature intended that the classification of injuries as scheduled or 
+unscheduled should align perfectly with AMA Guides ratings.  
+ Mecene’s interpretation of Chavez is also incorrect. Chavez did not hold that the 
+legislature intended that scheduled and unscheduled injuries conform to the AMA Guides. 
+Instead, Chavez is inapposite to Mecene’s position.  The crux of Chavez is:  When determining 
+whether an injury is scheduled or unscheduled, the court looks to whether the injury impacts the 
+function of a member referenced in paragraphs “a” through “u” of subsection 2.  972 N.W.2d at 
+668-69 (“the “loss” referenced in section 85.34(2) includes the “loss of the use of a scheduled 
+member.”  In other words, the loss of function.”).2  As discussed above, the only members on 
+Mecene’s body that had a loss in function were those described in section 85.34(2)(t).  Therefore, 
+section 85.34(2)(v) cannot apply. The Chavez court’s reference to the fact that impairment 
+ratings must be calculated using AMA Guides tables was not an acknowledgment that the 
+legislature intended to have scheduling classifications conform to AMA Guides table ratings. 
+972 N.W.2d at 670.  Not only is it pure dicta, at most, it is merely confirmation by the court that 
+its functional analysis of section 85.34(2)(n) was consistent with the rest of the text in that 
+section. Id.  Further, even if the legislature intended that scheduling classification reflect the 
+AMA Guides, the AMA Guides reject Mecene's interpretation.  The AMA Guides permit the 
+conversion of body-as-a-whole impairment ratings.  D0003 at 78.3 
+                                                          
+2 Additionally, Mecene disputes the applicability of all pre-2017 case law regarding the classification of injuries as 
+scheduled or unscheduled based on this quote from Chavez: “[claimant] cites prior Iowa caselaw that looked to the 
+proximal point of the joint to classify an injury under the workers' compensation statutes to treat shoulder injuries as 
+unscheduled whole body injuries, but that caselaw developed before the legislature amended the statutory scheme to 
+add shoulder injuries to the list of scheduled member injuries under section 85.34(2)." 972 N.W.2d at 670 (internal 
+quotation marks omitted). Mecene mischaracterizes Chavez. The court rejected the prior caselaw insofar as it 
+pertained to shoulder injuries because the legislature added "shoulder" to the scheduled members listed in 
+paragraphs “a” through “u”. Iowa Code Section 85.34(2)(n).  
+3 Mecene quotes a portion of the AMA Guide Table for the proposition that the guides do not permit conversion of 
+impairment ratings, but the quoted portion does not say that. 
+E-FILED                    CVCV066641 - 2024 DEC 02 02:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 12
+
+10 
+ 
+Finally, Mecene’s invocation of exclusio unius and the overarching statutory purpose of 
+helping workers recover are inapplicable.  Firstly, statutory purpose and canons of construction 
+are interpretive tools.  Such tools are only relevant when the statute is ambiguous.  Holstine 
+Elec., 756 N.W.2d at 815.  As the court has discussed in this opinion, section 85.34(2) is 
+unambiguous.  Secondly, even if the statute were ambiguous, JBS correctly points out that 
+adopting Mecene’s interpretation would lead to absurdity because anytime a claimant has a 
+scheduled member injury, the effects of which are confined to that member, rated using the 
+body-as-a-whole rating that scheduled member injury transforms into an unscheduled injury. 
+D0012 at 24-25.   
+Paragraph “v” illustrates the inaccuracy of Mecene’s interpretation.  Paragraph “v” states 
+that to qualify as unscheduled, an injury must be other than those described or referred to in 
+paragraphs "a" through "u."  Iowa Code § 85.34(2)(v).  The text reveals that the legislature 
+intended that either a claimant has a scheduled or unscheduled injury, not both at the same time. 
+This is not to say that claimants cannot have multiple scheduled or unscheduled injuries, but an 
+injury that qualifies as a scheduled member injury cannot simultaneously also be unscheduled. 
+The Court recognizes that the consequence of affirming Mecene's interpretation would be to 
+affirm that an injury can be both scheduled and unscheduled.  It would be possible for a claimant 
+to have an injury that qualifies as scheduled member injury under the plain text because the only 
+resulting "loss of use" would be confined to one member.  Still then, however, because of a 
+body-as-a-whole impairment rating, the injury would also be unscheduled.  Therefore, for the 
+reasons laid out above, the deputy did not err in his interpretation of Iowa Code section 85.34(2).  
+IV. 
+DISPOSITION. 
+Petitioner’s Petition for Judicial Review is hereby DENIED. 
+E-FILED                    CVCV066641 - 2024 DEC 02 02:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 12
+
+11 
+ 
+ 
+  
+E-FILED                    CVCV066641 - 2024 DEC 02 02:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 11 of 12
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV066641
+MECENE LAGUERRE VS JBS USA HOLDINGS INC ET AL
+Type:
+ORDER FOR JUDGMENT
+So Ordered
+Electronically signed on 2024-12-02 14:10:16
+E-FILED                    CVCV066641 - 2024 DEC 02 02:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 12 of 12

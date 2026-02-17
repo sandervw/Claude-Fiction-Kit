@@ -1,0 +1,750 @@
+Case Number: 5060323.01
+Case Title:  FREIDHOF, CYRUS V. JOHN DEERE WATERLOO WKS
+Doc Type:    Decision - Deputy
+Source:      Freidhof, Cyrus-5060321.01D.pdf
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+CYRUS FREIDHOF, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+    File Nos:  5060321.01 
+ 
+ 
+  : 
+ 
+          5060322.01 
+vs. 
+ 
+  : 
+ 
+          5060323.01 
+ 
+ 
+  :                  
+JOHN DEERE WATERLOO WORKS, 
+  : 
+    ARBITRATION DECISION 
+ 
+ 
+  :                            
+ 
+Employer, 
+  : 
+ 
+Self-Insured,    
+ 
+ 
+  :  
+Head Notes:  1108.50, 1402.40, 
+ 
+Defendant. 
+  
+ 
+ 
+  :             1403.10, 1803, 2501, 2907 
+_____________________________________________________________________ 
+STATEMENT OF THE CASE 
+  
+Cyrus Freidhof, claimant, filed three petitions in arbitration seeking workers’ 
+compensation benefits from John Deere Waterloo Works, self-insured employer, as 
+defendant.  Hearing was held on October 26, 2020.  This case was scheduled to be an 
+in-person hearing occurring in Des Moines.  However, due to the outbreak of a 
+pandemic in Iowa, the Iowa Workers’ Compensation Commissioner ordered all hearings 
+to occur via video means, using CourtCall.  Accordingly, this case proceeded to a live 
+video hearing via CourtCall with all parties and the court reporter appearing remotely. 
+The parties filed a hearing report for each agency file at the commencement of 
+the arbitration hearing.  On the hearing reports, the parties entered into various 
+stipulations.  All of those stipulations were accepted and are hereby incorporated into 
+this arbitration decision and no factual or legal issues relative to the parties’ stipulations 
+will be raised or discussed in this decision.  The parties are now bound by their 
+stipulations.  
+Claimant, Cyrus Freidhof, was the only witness to testify live at trial.  After the 
+hearing, the court reporter, while preparing the transcript, noticed that the undersigned 
+neglected to swear the witness in at the hearing.  The undersigned contacted the 
+parties to bring this to their attention.  On February 9, 2021, the parties filed a stipulation 
+that claimant’s testimony was true and correct and was intended to be given under oath.    
+The evidentiary record also includes joint exhibits JE1-JE14, claimant’s exhibits 1-5, 
+and defendant’s exhibits A-C, H, I, and J.  All exhibits were received without objection.  
+The evidentiary record closed at the conclusion of the arbitration hearing.       
+The parties submitted post-hearing briefs on November 25, 2020, at which time 
+the case was fully submitted to the undersigned.     
+ 
+ELECTRONICALLY FILED     2021-Apr-27  11:31:49     DIVISION OF WORKERS' COMPENSATION
+
+FREIDHOF V. JOHN DEERE WATERLOO WORKS 
+Page 2 
+ 
+ISSUES 
+File No. 5060321.01 (DOI:  09/18/2017) 
+The parties submitted the following issues for resolution: 
+1. Whether claimant sustained any permanent disability as a result of the 
+stipulated September 18, 2017, work injury.  If so, the nature and extent of 
+permanent disability claimant sustained. 
+2. Whether defendant should be responsible for past medical benefits. 
+3. Whether claimant is entitled to be reimbursed pursuant to Iowa Code section 
+85.39 for the IME. 
+4. Whether penalty benefits are appropriate. 
+5. Assessment of costs. 
+ 
+File No. 5060322.01 (DOI:  11/07/2017) 
+The parties submitted the following issues for resolution: 
+1. Whether claimant sustained any permanent disability as a result of the 
+stipulated November 7, 2017, work injury.  If so, the nature and extent of 
+permanent disability claimant sustained. 
+2. Whether defendant should be responsible for past medical benefits. 
+3. Whether claimant is entitled to be reimbursed pursuant to Iowa Code section 
+85.39 for the IME. 
+4. Whether penalty benefits are appropriate. 
+5. Assessment of costs. 
+ 
+File No. 5060323.01 (DOI:  08/15/2017) 
+The parties submitted the following issues for resolution: 
+1. Whether claimant sustained any permanent disability as a result of the 
+stipulated November 7, 2017, work injury.  If so, the nature and extent of 
+permanent disability claimant sustained. 
+2. Whether defendant should be responsible for past medical benefits. 
+3. Whether claimant is entitled to be reimbursed pursuant to Iowa Code section 
+85.39 for the IME. 
+4. Whether penalty benefits are appropriate. 
+5. Assessment of costs. 
+ 
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+
+FREIDHOF V. JOHN DEERE WATERLOO WORKS 
+Page 3 
+ 
+ 
+Claimant, Cyrus Freidhof, was 33-years old at the time of hearing.  He has filed 
+three petitions against the defendant, John Deere Waterloo Works (“Deere”).  Mr. 
+Freidhof has performed heavy, manual jobs for most of his life.  He has worked in 
+landscaping, building maintenance, and heavy assembly.  He was hired by Deere in 
+2015.  He applied at Deere because it was one of the best paying jobs in the area.  
+Deere was aware that he had a history of low back symptoms.  Mr. Freidhof underwent 
+a pre-employment physical and was cleared to work without any restrictions.  
+(Testimony) 
+Mr. Freidhof’s first job at Deere was a blast cell operator in department 580.  This 
+job required him to pull metal castings covered in sand and then to clean out the nooks 
+and crannies of the parts; he sprayed them with what he described as a fire hose with 
+BBs shooting out of it.  (Testimony)   
+In 2013, Mr. Freidhof began working in department 871 as a “setup man.”  Part of 
+his job required him to add shot or BBs to blasting machines.  He also had to change 
+out the sand return tubs.  These were large plastic tubs filled with sand and shot that 
+had been blasted onto the parts he was preparing.  Mr. Freidhof used a forklift to move 
+the tub full of sand and shot.  However, to dump the tub into the dumpsters he had to 
+reach above his head to push and pry the release lever that kept the tub secure to the 
+forks on the forklift.  Mr. Freidhof testified that pushing the release lever on the tubs 
+required a significant amount of force.  At times, the workers put a pipe on the lever in 
+order to obtain more leverage.  The duties of this position also required manually pulling 
+the sand and shot tubs in order to get them to dump into the dumpster.  Mr. Freidhof 
+estimated that 85 percent of the time the tubs were exceedingly heavy due to an excess 
+amount of shot inside the tubs.  The tubs were heavy enough to require two to three 
+workers to pull the tub down to dump it.  (Testimony)  
+Mr. Freidhof performed the setup job until Deere laid him off from 2015-2017.  
+While he was laid off, Mr. Freidhof went back to his prior employer performing 
+landscaping work.  He did not have any difficulty performing this work.  Mr. Freidhof 
+returned to Deere from layoff in 2017 and passed another pre-employment physical 
+without restrictions.  (JE4, pp. 154-157, Def. Ex. H, p. 1; testimony)     
+ 
+Defendant contends that Mr. Freidhof is less than credible and makes self-
+serving statements.  At hearing, Mr. Freidhof testified that he does not recall having a 
+chiropractor pop his shoulder back in place during the autumn of 2017.  However, when 
+the defendant took his deposition in this case, Mr. Freidhof testified that the chiropractor 
+popped his shoulder back in.  (Def. Ex. I, p. 9)  The November 13, 2017 notes from 
+Deere Occupational reflect that Mr. Freidhof reported that he had been to his 
+chiropractor who told him his shoulder was out and the chiropractor adjusted his 
+shoulder twice.  (JE4, pp. 158-159)  He also reported this to Ms. Barnett and Dr. 
+Broghammer.  (JE8, p. 222; Def. Ex. A, p. 29)  During the hearing, Mr. Freidhof was 
+less than forthcoming about the chiropractic treatment he received for his neck and 
+back prior to the work injuries.  He testified that he might have been treated one or two 
+
+FREIDHOF V. JOHN DEERE WATERLOO WORKS 
+Page 4 
+ 
+times; however, the chiropractic records demonstrate he received nearly 50 treatments.  
+(JE1)  At the hearing Mr. Freidhof testified that he has been to see a neurosurgeon in 
+Iowa City for his back and/or shoulder.  However, the evidentiary record in this case is 
+void of any medical records for these visits.  Based on the questioning during the 
+hearing, it is clear that if these records exist, they have never been provided to the 
+defendant in this case.  At the request of his attorney, claimant saw David H. Segal, 
+M.D. for an independent medical examination (IME).  There is no mention of any such 
+records in Dr. Segal’s IME report.  If Mr. Freidhof did see a neurosurgeon in Iowa City, 
+even his own IME doctor did not have the benefit of those notes.  Mr. Freidhof has been 
+involved in manual labor for the vast majority of his work history.  He testified that he 
+wants to work at Deere due to the high pay and benefits.  While, I do not doubt 
+claimant’s motivation to work and desire to receive high pay and benefits, there are 
+inconsistencies in his testimony.  I find that the claimant is a poor historian and has 
+been less than forthcoming regarding his treatment before and after the alleged dates of 
+injury in these cases.  Thus, I am giving greater weight to the records that were 
+generated at the time treatment was rendered and conversations occurred than I am to 
+Mr. Freidhof’s recollection of events.  I find the contemporaneous documentation of 
+events to be more credible than claimant’s testimony.    
+The first stipulated injury date is August 15, 2017.  On August 15, 2017, a 
+machine malfunctioned and Mr. Freidhof was struck in the mouth with shot blast.  He 
+went to Deere Medical and reported chipped teeth.  (JE4, p. 171)    
+That same day he went to his dentist at Kimball Beecher Waterloo.  Mr. Freidhof 
+reported that his pain began at 5:30 that morning while at work.  He was shot in the 
+mouth by a BB-like machine.  He reported a hole that he did not notice earlier and also 
+has severe cold sensitivity.  Mr. Freidhof also brought in a broken portion of tooth #13.  
+He reported that he thought tooth #12 was also broken.  He was finding pieces of his 
+tooth and grit in his mouth since the accident.  Kimball Beecher Waterloo extracted 
+tooth #13 due to broken tooth/decay/non-restorable.  The treatment records note 
+accident at work, broken tooth, decay tooth #13.  Broken filling tooth #12.  (JE6, pp. 
+197-200)  Mr. Freidhof returned to work the next day.       
+ 
+Mr. Freidhof had dental issues prior to August 15, 2017.  The records 
+demonstrate that he went to the dentist on July 25, 2017.  This was the first time he had 
+been to a dentist since 2006.  At the July 2017 visit he established care with Kimball 
+Beecher Waterloo.  He reported that he had horrible teeth and wanted to discuss 
+dentures or implants.  His mom had dentures at the age of 24 and he has the same 
+problem; he has no enamel on his teeth.  Mr. Freidhof reported that he has constant 
+headaches and his teeth are tender to chew and hot/cold temperatures.  At times, he 
+has a toothache that throbs.  He was unable to state which teeth bother him the most.  
+He was noted to have several areas of decay.  Mr. Freidhof was informed that tooth #4 
+was broken to the gum line and will need extraction.  Tooth #13 will need RCT/BU/CRN 
+in order to save the tooth or it would need to be extracted.  He decided he would rather 
+
+FREIDHOF V. JOHN DEERE WATERLOO WORKS 
+Page 5 
+ 
+extract tooth #13.  Mr. Freidhof was advised that he would need fillings in approximately 
+14 other teeth.  Mr. Freidhof did not want to undergo any treatment that was not fully 
+covered by his insurance benefits.  He underwent a cleaning.  (JE6, pp. 195-196)     
+ 
+On August 18, 2017 Mr. Freidhof saw Jamie L. Barnett, ARNP to establish care.  
+He reported that he was seen at urgent care on August 16 for depression and anxiety.  
+He also reported that he has a history of low back pain with some abnormalities with 
+disc bulging.  His previous primary care provider was prescribing him hydrocodone.  He 
+has not been on hydrocodone for over 4 months so he does not feel he needs that at 
+this time.  He requested a leave of absence from work due to his depression and 
+anxiety.   (JE8, pp. 210-213)  
+ 
+At the request of the defendant, Mr. Freidhof underwent an independent medical 
+evaluation (IME) with R.L. Broghammer, M.D. on July 2, 2018.  With regard to the 
+August 15, 2017 work injury, Dr. Broghammer assessed Mr. Freidhof with broken filling 
+in tooth #12 and fracture of tooth #13.  Dr. Broghammer opined that the August 15, 
+2017 injury resulted in a temporary condition, which would have resolved after the 
+appropriate treatment from Dr. Kimball.  He further opined that any dental complaints 
+are due to Mr. Freidhof’s poor state of dentition, which was noted prior to the work 
+injury.  Dr. Broghammer stated that there was no impairment and no permanent 
+restrictions as the result of the July 2, 2018 incident.  (Def. Ex. A) 
+ 
+At the request of his attorney, Mr. Freidhof underwent an IME with David H. 
+Segal, M.D. on August 10, 2018.  Mr. Freidhof reported that he was hit in the face with 
+small metal pellets.  He had a mouthful of shot and when hit, instinctively bit down; one 
+tooth broke and two others were chipped.  Mr. Freidhof was sent to the dentist.  Tooth 
+#13 was extracted and fillings were replaced in two other teeth.  Mr. Freidhof states that 
+he was offered a bridge, which he would have accepted, but workers’ compensation 
+denied the claim.  He also reported that the fillings that were done after the injury are 
+already wearing out.  Dr. Segal noted that Mr. Freidhof’s primary problem related to the 
+August 15, 2017 injury is a problem with eating.  He cannot chew properly due to the 
+missing tooth and the weakness of the other two affected teeth.  Since the injury, he 
+cannot chew steak or other hard items.  (Cl. Ex. 1, p. 15)  Dr. Segal’s diagnoses related 
+to the August 15, 2017 injury were:  Broken tooth #31, broken tooth #13, broken fillings 
+tooth #12.  Dr. Segal noted that the AMA Guides do not provide impairment rating for 
+difficulty in chewing due to broken teeth.  Dr. Segal stated,  
+[t]he treatments that were done, however, are clearly work-related.  The 
+residual effects of his work injury—specifically the gap in his teeth due to 
+the tooth that was removed and the teeth that were repaired due to the 
+work injury—are causing impairment and should be appropriately 
+considered within this Workers’ Comp injury.  The treatment that is 
+needed to repair the gap is also related to his work injury.   
+(Cl. Ex. 1, p. 22)       
+
+FREIDHOF V. JOHN DEERE WATERLOO WORKS 
+Page 6 
+ 
+  
+Defendant contends that because the extraction of tooth #13 was discussed prior 
+to the August 2017 injury, the extraction is not related to the work injury.  Defendant, in 
+part, relies on the opinions of Dr. Broghammer.  Mr. Freidhof argues that prior to the 
+work injury, he had the option of repairing the tooth; however, after his work injury the 
+only option was extraction.   
+With regard to the August 15, 2017 injury, I find the opinion of Dr. Segal to be 
+more persuasive than that of Dr. Broghammer.  Based on the treatment records, it does 
+appear that prior to the injury, Mr. Freidhof had the option of repairing tooth #13.  
+Additionally, on the day of the accident, Mr. Freidhof brought a piece of his tooth with 
+him to the dentist that was broken during the accident.  I find Dr. Segal’s opinions to be 
+persuasive.  I find that as the result of the August 15, 2017, Mr. Freidhof sustained 
+broken tooth #31, broken tooth #13, broken fillings tooth #12.  I find that the treatment 
+he received for these conditions are related to the August 2017 work injury.  Mr. 
+Freidhof testified that he has difficulty chewing and his tooth pain also interferes with his 
+sleep.  He also testified that he did have tooth problems prior to August 15, 2017, but 
+not severe enough to affect his sleep.  Furthermore, based on Dr. Segal’s opinion, I find 
+the treatment that is needed to repair the gap is also related to his work injury.  I further 
+find that pursuant to the AMA Guides, 5th edition, Mr. Freidhof has not sustained any 
+permanent impairment as the result of the August 2017 work injury.  I find that Mr. 
+Freidhof does not have any restrictions as the result of the August 2017 injury. 
+Mr. Freidhof seeks payment of past dental expenses in connection with the 
+August 15, 2017 work injury.  I find the expenses incurred on August 15, 2017 are 
+related to the work injury and are the responsibility of the defendant.  I find that the 
+evidence does not show that the expenses incurred on the remaining dates are 
+connected with teeth #31, #13, and #12 or related to the work injury.  Thus, the 
+remaining dental charges are not the responsibility of the defendant.       
+We now turn to the stipulated September 18, 2017 work injury to his upper back.  
+Mr. Freidhof began experiencing sharp, upper to mid back pain while working.  Initially, 
+he thought it was a chest/heart issue.  He saw Michell Brunning, RN at Deere 
+Occupational.  He reported sharp pains around his rib cage and spine and that he was 
+experiencing shortness of breath.  He reported that the pain came on as soon as he 
+began driving his fork truck.  He did not twist or bend wrong.  He worked through the 
+pain for about an hour and a half before he went to Deere Occupational.  He could not 
+think of anything he did at home or at work to cause back pain.  Because he was having 
+difficulty breathing, he was taken via ambulance to the emergency room.  (JE4, pp. 167-
+168; Testimony) 
+ 
+At the emergency room, Mr. Freidhof reported chest pain and mid back pain.  He 
+had a fire sensation around his entire chest.  He said exertion made him sob.  He was 
+at work this morning when he suddenly started having pain to his mid-thoracic back 
+wrapping around his lower rib cage.  The pain started when he was riding his fork lift.  
+He also reported shortness of breath, chills, and numbness to his legs when rotating his 
+
+FREIDHOF V. JOHN DEERE WATERLOO WORKS 
+Page 7 
+ 
+trunk.  This occurred when he was performing what would be considered normal work 
+for him.  At the emergency room, he underwent an MRI which revealed degenerative 
+changes and multiple herniated discs in the thoracic spine.  The impression was 
+degeneration of thoracic or thoracolumbar intervertebral disc, acute bilateral thoracic 
+back pain, atypical chest pain, and thoracic disc herniation.  He was discharged home 
+that same day.   (JE9, pp. 224-235) 
+Mr. Freidhof returned to work the next day.  He reported that while at the 
+emergency room he underwent an MRI, CT scan, and x-rays.  He was diagnosed with 
+three bulging discs in his upper back.  Mr. Freidhof told the nurse at John Deere that he 
+has never had any problems with his upper back.  He said he was fine when he 
+reported to work on September 18, 2017.  While at work, he was emptying a sand 
+hopper and he pushed up on the handle.  He believes this is the only thing he did that 
+could have caused his upper back pain.  He said when he got up on the forklift, he felt 
+like a knife was stabbing him and he became short of breath.  Mr. Freidhof was 
+prescribed muscle relaxers.   (JE4, pp. 166-167; Def. Ex. I, p. 7; testimony) 
+Mr. Freidhof saw Chad D. Abernathey, M.D. for a neurosurgical opinion on 
+October 16, 2017.  He was referred there from the emergency room visit.  Mr. Freidhof 
+reported a recent history of mid back pain.  Dr. Abernathey stated that the MRI and CT 
+scan of the chest and thoracic spine are essentially unrevealing.  Dr. Abernathey noted 
+that Mr. Freidhof presented with a thoracic strain.  He did not recommend an aggressive 
+neurosurgical stance due to a paucity of clinical and radiographic findings.  He felt that 
+Mr. Freidhof may benefit from a pain clinic evaluation.  Dr. Abernathey advised Mr. 
+Freidhof to contact him if he developed any new neurologic symptoms or signs.  (JE11, 
+pp. 237-239)  
+ 
+On October 30, 2017, Mr. Freidhof saw Jamie L. Barnett, ARNP for follow-up of 
+acute thoracic and lumbar back pain.  He reported he had been to see a neurosurgeon 
+who recommended a pain clinic.  Ms. Barnett noted that he was requesting a pain clinic 
+referral and also stating that the neurosurgeon said we should prescribe him narcotics.  
+We advised him that we do not prescribe narcotics for back pain, but we will provide 
+referral for pain clinic.  The referral to the pain clinic was for acute midline thoracic back 
+pain as well as low back pain.  (JE8, pp. 217-220) 
+ 
+Mr. Freidhof testified that in between September 18, 2017 and November 7, 2017 
+the only other treatment he received was from his chiropractor.  He believes he saw his 
+chiropractor a couple of times for back adjustments.  A review of the chiropractic 
+records shows he was not seen during this timeframe.  (Def. Ex. I, p. 8; JE1, pp. 109-
+110)   
+Mr. Freidhof does have a history of chiropractic treatments which predate the 
+work injury.  The evidentiary record contains treatment notes from Better Health 
+Chiropractic from June 25, 2008 through December 31, 2019.  During this timeframe, he 
+received just under fifty treatments for his thoracic and cervical spine.  (JE1) The last 
+
+FREIDHOF V. JOHN DEERE WATERLOO WORKS 
+Page 8 
+ 
+visit Mr. Freidhof had with the chiropractor prior to the September 18, 2017 injury was 
+on October 24, 2016.  He was seen for radiculopathy, lumbar region; sprain of 
+ligaments of lumbar spine; cervicalgia, and pain in thoracic spine.  The records show 
+Mr. Freidhof was seen on October 24, 2016 and then there is a gap in treatment until 
+November 8, 2017, which is after the third alleged date of injury.  (JE1, pp. 106-111) 
+ 
+With regard to the September 18, 2017 incident, in his IME report Dr. 
+Broghammer assessed an upper back strain.  Mr. Freidhof complained that he was 
+unable to move his neck and look down without pain in his upper back region.  He gets 
+short of breath due to rib pain.  He opined that Mr. Freidhof’s ongoing symptoms in his 
+upper back are not related to the September 18, 2017 injury.  He felt that Mr. Freidhof’s 
+initial symptoms of shortness of breath were more consistent with an acute anxiety 
+attack and his history of anxiety disorder, rather than any alleged injury that occurred as 
+the result of pulling on a lever.  He noted that Mr. Freidhof’s pre-existing anxiety 
+disorder was documented on multiple occasions in the medical records.  Dr. 
+Broghammer stated that even if Mr. Freidhof did have an upper back strain, this would 
+have been expected to have resolved within a few days or weeks of the injury.  He 
+noted that the MRI from the emergency room demonstrated chronic degenerative 
+changes only.  Dr. Broghammer stated that for an upper back strain with workup 
+demonstrating chronic degenerative changes of the thoracic spine there would be no 
+ratable impairment.  He opined that Mr. Freidhof did not require any permanent 
+restrictions due to the September 18, 2017 injury.  (Def. Ex. A) 
+In Dr. Segal’s IME report he assigned several diagnoses related to the 
+September 18, 2017.  Dr. Segal diagnosed permanent aggravation of minimally 
+symptomatic thoracic degenerative changes.  Based on history and exam, he 
+diagnosed traumatic thoracic facet arthropathy.  Based on the description of nerve pain, 
+Dr. Segal diagnosed thoracic radiculopathy.  He recommended epidural and facet 
+injections to start with and maximize medical treatment for the pain.  Dr. Segal opined it 
+was possible that some areas of degenerative stenosis could have been lit up, and 
+degenerative changes could have been lit up.  For the thoracic spine, Dr. Segal 
+assigned 18 percent whole person impairment.  (Cl. Ex. 1, pp. 21-23) 
+In forming his opinions Dr. Segal relied, at least in part, on the history provided to 
+him by Mr. Freidhof.  As noted above, I find Mr. Freidhof is a poor historian and has 
+been less than forthcoming in this case.     
+Dr. Segal disagreed with Dr. Broghammer’s opinions.  Dr. Segal noted that Mr. 
+Freidhof’s symptoms began in relation to the September 18, 2017 work injury and his 
+symptoms have continued.  His thoracic pain wrapped around his ribs and was so 
+painful that it caused him to have shortness of breath.  According to Dr. Segal, this is 
+common with thoracic injuries.  Dr. Segal noted that the symptoms from the thoracic 
+spine started with the September 18, 2017 work injury and remained; therefore, they are 
+causally connected to the work injury.  Additionally, Dr. Segal stated that an acute back 
+sprain would have been expected to resolve within a few days or weeks.     
+
+FREIDHOF V. JOHN DEERE WATERLOO WORKS 
+Page 9 
+ 
+A MRI of the lumbosacral spine was performed on September 6, 2018.  The 
+impression was lateral disc protrusion at the level L4-L5 on the left side producing 
+moderate neuroforaminal stenosis and disc bulging at the level L3-L4 as well as L5-S1 
+without producing any significant spinal canal stenosis.  (JE14, p. 254) 
+Mr. Freidhof returned to the chiropractor on November 21, 2018.  He had mid 
+back pain that originated from T5 and T6.  He described the pain as stabbing.  He 
+reported the onset was on June 26, 2018.  He was reaching overhead and felt the back 
+go.  (JE1, pp. 119-122)     
+On December 30, 2019 Mr. Freidhof returned to the chiropractor with mid back 
+pain that originated from T5 and T6.  The pain was a stabbing pain.  Again, he reported 
+that his pain began on June 26, 2018.  (JE1, pp. 123-126) 
+ 
+Mr. Freidhof testified that when he first wakes up he has some stiffness and 
+soreness in his upper back that works itself out in a few of hours.  He also has troubles 
+bending down.  He takes over-the-counter ibuprofen approximately once a week for his 
+upper back.  (Testimony, Def. Ex. I)  
+ 
+Mr. Freidhof was seen at the emergency room on September 19, 2017 and 
+released a few hours later.  He returned to full duty work the next day.  He has not had 
+any surgery on his back.  He does not take any prescription medications for his upper 
+back.  No physician, not even his own IME physician, has recommended any 
+permanent restrictions for his upper back.  (Def. Ex. I, p. 7, depo. p. 28; testimony) 
+When the testimony and evidentiary record is viewed as a whole, I find the 
+opinions of Dr. Abernathey and Dr. Broghammer to be more persuasive than that of Dr. 
+Segal.  I find the opinions of Dr. Abernathey and Dr. Broghammer are consistent with 
+one another and the record as a whole.  Thus, as the result of the stipulated September 
+18, 2017 work injury, I find Mr. Freidhof sustained a thoracic strain.  I further find that 
+Mr. Freidhof did not sustain any permanent functional impairment, nor does he require 
+any permanent restrictions as the result of the September 18, 2017 injury.   
+Mr. Freidhof is seeking payment of past medical expenses in connection with the 
+September 18, 2017 stipulated work injury.  Specifically, he seeks the expenses from 
+treatment he sought on his own at Better Health Chiropractic.  Chiropractic treatment 
+was not recommended by an authorized physician.  (Cl. Ex. 5).  I find that this treatment 
+was not authorized by the defendant.   
+Next, Mr. Freidhof seeks the expenses associated with the September 19, 2017 
+emergency room visit.  Mr. Freidhof was taken from work via ambulance to UnityPoint.   
+Defendant makes no argument that this bill should not be their responsibility.  I find that 
+the expenses for this treatment are the responsibility of the defendant.   
+ 
+Mr. Freidhof sustained a third stipulated work injury on November 7, 2017.  Mr. 
+Freidhof contends he injured his right shoulder due to the awkward posture of his “setup 
+
+FREIDHOF V. JOHN DEERE WATERLOO WORKS 
+Page 10 
+ 
+man” job in the Foundry.  He was reaching above head height and pulling a heavy tub.  
+The tub was so heavy that it sometimes required the strength of two to three people to 
+move it.  While he was reaching above head height and pulling a heavy tub of sand and 
+shot, he lost all feeling in his right arm all the way up to his shoulder.  His right arm was 
+numb and he was unable to move his arm.  He finished his shift and told his supervisor 
+about his shoulder pain.  Mr. Freidhof then sought treatment on his own at UnityPoint.  
+They told him they thought he had a pinched nerve.  No treatment was recommended.  
+No referrals were made.  (Testimony; Def. Ex. I, pp. 8-9) 
+ 
+Mr. Freidhof went to Better Health Chiropractic on November 8, 2017.  His chief 
+complaint was low back pain.  Mr. Freidhof reported that he woke Saturday morning 
+with extreme pain into both calves and he could hardly move his legs below his knees.  
+He had been to the emergency room three times and they believed he tore some 
+muscles in his calf.  He also reported a dull ache at the T5-T6 motor area, he rated that 
+pain as a level 6.  The diagnoses were:  cervicalgia, radiculopathy in the cervical and 
+lumbar regions, and pain in the thoracic spine.  (JE1, pp. 110-111)  
+ 
+On November 8, 2017, around 8:30 a.m. Mr. Freidhof saw Shelli Grapp, ARNP at 
+Deere Occupational.  He gave her a note returning him back to work after what is 
+believed to be a pinched nerve.  He reported that he woke up about 1-½ weeks ago with 
+the tips of his fingers feeling tingly.  He went to his doctor for evaluation because he 
+was progressively getting worse.  He was restricted by his medical provider to no 
+twisting with the right hand, limited lifting of the right hand, no use of the right hand and 
+no repetitive motion of the right hand.  (JE4, pp. 158-161)   
+ 
+Mr. Freidhof returned to the chiropractor on November 10, 2017.  His chief 
+complaint was low back pain.  He woke Saturday morning with extreme pain into both of 
+his calves and he could hardly move his legs below his knees.  He reported that he had 
+been to the emergency room three times, they believed he had torn some calf muscles.  
+He also reported some generalized neck soreness.  He also had a dull ache at the T5-
+T6 motor areas.  A postural analysis revealed a high shoulder on the left.  The 
+diagnoses included cervicalgia, radiculopathy of the cervical and lumbar region and pain 
+in the thoracic spine.  (JE1, pp. 112-113)   
+ 
+On November 13, 2017, Mr. Freidhof saw Jamie L. Barnett, ARNP for right upper 
+extremity radiculopathy with some cervical pain.  He reported he was off work due to 
+numbness in his right hand, and this was improving with prednisone and ibuprofen.  The 
+problem list included anxiety state, cervical spine pain – primary, and radiculopathy 
+affecting upper extremity.  He was allowed to return to work without restrictions.  (JE8, 
+pp. 221-223)   
+ 
+Mr. Freidhof returned to Deere Occupational on November 13, 2017.  He was still 
+having itching to the tips of his fingertips and numbness.  He brought a return to full duty 
+work note.  He also reported that he had been to his chiropractor who told him his 
+
+FREIDHOF V. JOHN DEERE WATERLOO WORKS 
+Page 11 
+ 
+shoulder was out.  According to Mr. Freidhof, the chiropractor adjusted his shoulder 
+twice.  (JE4, pp. 158-159) 
+ 
+On December 6, 2017, Mr. Freidhof went to UnityPoint Occupational Health.  He 
+reported that on approximately September 25, 2017, he was repeatedly pulling a green 
+hopper lever up and down above head level.  He had right shoulder pain; today his pain 
+was 0 out of 10.  The diagnosis was right shoulder pain – resolved.  No injury at this 
+time.  Return to work full duty.  (JE12, pp. 240-246) 
+ 
+Mr. Freidhof saw Jeffrey A. Clark, D.O. for evaluation of his right hand on March 
+15, 2018.  He reported that 2 weeks ago he slipped on ice while carrying his son.  He 
+landed on his right hand in a fist formation.  He was referred to a neurologist.  He was 
+eventually diagnosed with bilateral carpal tunnel syndrome.  (JE13, pp. 248-253) 
+Because of the numbness in his right hand, Mr. Freidhof was evaluated for carpal tunnel 
+syndrome.  He underwent a right carpal tunnel release, but his symptoms did not 
+improve.  (Testimony)   
+With regard to the November 7, 2017 injury, Dr. Segal diagnosed traumatic 
+shoulder arthropathy and possible ligamentous or tendon disruption.  He also noted that 
+brachial plexopathy or thoracic outlet syndrome were possible diagnoses.  He examined 
+Mr. Freidhof, but stated it was difficult to diagnosis him without an MRI.  He noted he 
+had pain and tenderness in the shoulder proximal to the glenohumeral joint as part of 
+his traumatic shoulder arthropathy.  Dr. Segal stated that this injury is proximal to the 
+glenohumeral joint and causes pain and symptoms with range of motion and 
+impairment.  Dr. Segal stated that the shoulder injury of November 7, 2017 started with 
+that work injury, the symptoms continue, and they are directly and casually related to 
+that work injury.  Based on the current shoulder injury with the pain with range of motion 
+and limitation in abduction, he assigned 12 percent impairment of the upper extremity.  
+(Cl. Ex. 1)  
+Dr. Broghammer examined Mr. Freidhof on July 2, 2018.  Mr. Freidhof reported 
+that he had a burning pain in the front side of his shoulder as well as a knot over his 
+shoulder blade.  Examination of the right shoulder revealed symmetric range of motion 
+bilaterally.  He had normal muscle bulk and symmetry in both upper extremities.  With 
+regard to the November 7, 2017 injury, Dr. Broghammer diagnosed an upper back 
+strain.  He did not diagnose any right shoulder conditions.  Dr. Broghammer stated: 
+Regarding Mr. Freidhof’s alleged November 7, 2017, injury, it should be 
+first and foremost noted that the medical records fail to support any injury 
+to Mr. Freidhof’s shoulder and the only mention of an injury to his shoulder 
+occurs in Mr. Freidhof’s deposition.  There has been no ongoing treatment 
+for any alleged shoulder condition, and Mr. Freidhof appears to have been 
+appropriately treated by his chiropractor on two separate occasions with 
+full resolution of symptoms afterwards.  In my medical opinion, to a 
+reasonable degree of medical certainty, if Mr. Freidhof does have ongoing 
+
+FREIDHOF V. JOHN DEERE WATERLOO WORKS 
+Page 12 
+ 
+symptoms in the shoulder, they are not due to the alleged injury and are 
+instead due to personal factors unrelated to his alleged November 7, 
+2017, injury. 
+(Def. Ex. A, p. 35)       
+ 
+Mr. Freidhof testified that his right shoulder continues to be stiff and sore and 
+painful.  I find the opinions of Dr. Broghammer to carry greater weight than those of Dr. 
+Segal.  I find Dr. Broghammer’s opinions are more consistent with the record as a whole 
+and are better reasoned than those of Dr. Segal’s.  Thus, I find Mr. Freidhof has failed 
+to demonstrate that he sustained any permanent impairment as the result of the 
+November 7, 2017 right shoulder injury.   
+ 
+Mr. Freidhof is seeking payment of medical benefits as set forth in claimant’s 
+exhibit 5.  It is not entirely clear which expenses claimant contends are related to the 
+November 7, 2017 date of injury.  There are chiropractic expenses incurred after 
+November 7, 2017.  There is no evidence in the record that any chiropractic treatment 
+was ever authorized by the defendant.  As such, I find that the chiropractic treatment 
+was not authorized and is not the responsibility of the defendant.   
+CONCLUSIONS OF LAW 
+The party who would suffer loss if an issue were not established ordinarily has 
+the burden of proving that issue by a preponderance of the evidence.  Iowa R. App. P. 
+6.904(3)(e). 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995).  Miller v. 
+Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 1994).  Unrebutted expert medical 
+testimony cannot be summarily rejected.  Poula v. Siouxland Wall & Ceiling, Inc., 516 
+N.W.2d 910 (Iowa App. 1994). 
+
+FREIDHOF V. JOHN DEERE WATERLOO WORKS 
+Page 13 
+ 
+Under Iowa law, the employer shall furnish reasonable surgical, medical, dental, 
+osteopathic, chiropractic, podiatric, physical rehabilitation, nursing, ambulance, and 
+hospital services and supplies for all conditions compensable under the workers' 
+compensation law.  The employer shall also allow reasonable and necessary 
+transportation expenses incurred for those services.  The employer has the right to 
+choose the provider of care, except where the employer has denied liability for the 
+injury.  Section 85.27.  Holbert v. Townsend Engineering Co., Thirty-second Biennial 
+Report of the Industrial Commissioner 78 (Review-Reopening October 1975). 
+The first date of injury to be addressed is August 15, 2017.  Based on the above 
+findings of fact, I conclude that Mr. Freidhof did sustain broken tooth #31, broken tooth 
+#13, broken fillings tooth #12 as the result of the August 15, 2017.  I further conclude 
+that Mr. Freidhof failed to show by a preponderance of the evidence that he sustained 
+any permanent impairment or has any permanent restrictions as the result of the August 
+15, 2017 work injury.  As such, Mr. Freidhof is entitled to no weekly benefits for the 
+August 15, 2017 work injury.     
+Claimant is seeking medical benefits in connection with the stipulated August 15, 
+2017 work injury.  Based on the above findings of fact, I conclude the dental treatment 
+Mr. Freidhof received for teeth  #31, #13, and #12 are related to the August 2017 work 
+injury.  Claimant is seeking payment of past medical benefits as set forth in claimant’s 
+exhibit 5, p. 52.  I conclude that the dental treatment, including extraction claimant 
+received on August 15, 2017, is related to the work injury.  However, I find that claimant 
+has failed to demonstrate that the dental treatment he received on September 28, 2017 
+and October 13, 2017 were for teeth #31, #13, and #12.  Thus, defendant is not 
+responsible for the dental expenses incurred on September 28, 2017 or October 13, 
+2017.  Mr. Freidhof testified that he has difficulty chewing and his tooth pain also 
+interferes with his ability to sleep.  Based on Dr. Segal’s opinion, I find the treatment that 
+is needed to repair the gap left by the extraction of the tooth is also related to his work 
+injury.  As such, defendant is responsible for that treatment.  
+The next date of injury to be addressed is September 18, 2017.  Mr. Freidhof 
+sustained an injury to his upper back.  The central dispute in this case is whether he 
+sustained any permanent disability, and if so, how much.  I conclude that the opinions of 
+Dr. Abernathey and Dr. Broghammer are consistent with one another and the record as 
+a whole.  Thus, as the result of the stipulated September 18, 2017 work injury, I 
+conclude Mr. Freidhof sustained a thoracic strain.  I further conclude that Mr. Freidhof 
+did not sustain any permanent impairment, nor does he require any permanent 
+restrictions as the result of the September 18, 2017 injury.  Based on the above findings 
+of fact, I conclude that Mr. Freidhof failed to carry his burden of proof to show by a 
+preponderance of the evidence that he sustained any permanent disability as the result 
+of the stipulated September 18, 2017 work injury.  As such, Mr. Freidhof has failed to 
+carry his burden of proof to show that he is entitled to any weekly benefits as the result 
+of the September 18, 2017 injury.         
+We now turn to the issue of past medical benefits.  Mr. Freidhof seeks the 
+expenses from treatment he sought on his own at Better Health Chiropractic.  
+
+FREIDHOF V. JOHN DEERE WATERLOO WORKS 
+Page 14 
+ 
+Chiropractic treatment was not recommended by an authorized physician.  (Cl. Ex. 5).  I 
+conclude that this treatment was not authorized by the defendant.  Next, Mr. Freidhof 
+seeks the expenses associated with the September 19, 2017 emergency room visit.  
+Mr. Freidhof was taken from work via ambulance to UnityPoint.  Defendant makes no 
+argument that this bill should not be their responsibility.  I conclude that the expenses 
+for this treatment are the responsibility of the defendant.   
+The next date of injury to be addressed is November 7, 2017.  Mr. Freidhof 
+alleged an injury to his right shoulder.  Again, the central dispute is whether he 
+sustained any permanent disability as the result of this work injury.  Based on the above 
+findings of fact, I conclude the opinions of Dr. Broghammer carry greater weight than 
+those of Dr. Segal.  I find Dr. Broghammer’s opinions are more consistent with the 
+record as a whole and are better reasoned than those of Dr. Segal’s.  Thus, I find Mr. 
+Freidhof has failed to carry his burden of proof to demonstrate by a preponderance of 
+the evidence that he sustained any permanent impairment as the result of the 
+November 7, 2017 right shoulder injury.  As such, he is not entitled to any weekly 
+permanency benefits for the November 7, 2017 date of injury. 
+We now turn to the issue of past medical benefits.  Based on the above findings 
+of fact, I conclude Mr. Freidhof failed to demonstrate that defendant is responsible for 
+any past medical expenses related to the November 7, 2017 date of injury.      
+In all three files, Mr. Freidhof has alleged penalty benefits.  Under Iowa law, if 
+weekly compensation benefits are not fully paid when due, section 86.13 requires that 
+additional benefits be awarded unless the employer shows reasonable cause or excuse 
+for the delay or denial.  Robbennolt v. Snap-on Tools Corp., 555 N.W.2d 229 (Iowa 
+1996). 
+If the employer fails to show reasonable cause or excuse for the delay or denial, 
+the commissioner shall impose a penalty in an amount up to 50 percent of the amount 
+unreasonably delayed or denied.  Christensen v. Snap-on Tools Corp., 554 N.W.2d 254 
+(Iowa 1996).  The factors to be considered in determining the amount of the penalty 
+include the length of the delay, the number of delays, the information available to the 
+employer and the employer’s past record of penalties.  Robbennolt, 555 N.W.2d at 238.   
+In the present case, claimant failed to show entitlement to any weekly compensation 
+benefits.  Thus, any claim for penalty benefits is moot.   
+With regard to all three files, Mr. Freidhof is seeking reimbursement for the IME 
+performed by Dr. Segal.  Section 85.39 permits an employee to be reimbursed for 
+subsequent examination by a physician of the employee's choice where an employer-
+retained physician has previously evaluated “permanent disability” and the employee 
+believes that the initial evaluation is too low.  The section also permits reimbursement 
+for reasonably necessary transportation expenses incurred and for any wage loss 
+occasioned by the employee attending the subsequent examination. 
+Defendant obtained an IME report from Dr. Broghammer on July 2, 2018 
+regarding the three stipulated dates of injury.  Dr. Segal’s examination took place on 
+
+FREIDHOF V. JOHN DEERE WATERLOO WORKS 
+Page 15 
+ 
+August 10, 2018 which is after Dr. Broghammer’s IME.  I conclude that the prerequisites 
+of Iowa Code section 85.39 were met.  Defendant is responsible for reimbursing 
+claimant for the IME of Dr. Segal in the amount of two thousand and no/100 dollars 
+($2,000.00).     
+Defendant is responsible only for reasonable fees associated with claimant's 
+independent medical examination.  Claimant has the burden of proving the 
+reasonableness of the expenses incurred for the examination.  See Schintgen v. 
+Economy Fire & Casualty Co., File No. 855298 (App. April 26, 1991).  Claimant need 
+not ultimately prove the injury arose out of and in the course of employment to qualify 
+for reimbursement under section 85.39.  See Dodd v. Fleetguard, Inc., 759 N.W.2d 133, 
+140 (Iowa App. 2008). 
+Finally, claimant is seeking an assessment of costs as set forth in claimant’s 
+exhibit 4.  Costs are to be assessed at the discretion of the Iowa Workers’ 
+Compensation Commissioner or the deputy commissioner hearing the case.  876 IAC 
+4.33.  I find that claimant was generally not successful in his claims.  I exercise my 
+discretion and do not assess costs in these cases.  Each party shall bear their own 
+costs in these cases.   
+ORDER 
+THEREFORE, IT IS ORDERED: 
+File No. 5060321.01 (DOI:  09/18/2017) 
+Claimant shall not take any weekly benefits as the result of this proceeding. 
+Defendant shall pay past medical expenses as set forth above.   
+Pursuant to Iowa Code section 85.27, defendant is responsible for future dental 
+expenses that are shown to be reasonable and necessary as the result of the 
+September 18, 2017 injury.  
+Defendant is responsible for the cost of Dr. Segal’s IME pursuant to Iowa Code 
+section 85.39. 
+Each party shall bear their own costs. 
+Defendant shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1 (2) and 876 IAC 11.7. 
+File No. 5060322.01 (DOI:  11/7/2017) 
+Claimant shall not take any weekly benefits as the result of this proceeding. 
+Defendant is responsible for the cost of Dr. Segal’s IME pursuant to Iowa Code 
+section 85.39. 
+
+FREIDHOF V. JOHN DEERE WATERLOO WORKS 
+Page 16 
+ 
+Each party shall bear their own costs. 
+Defendant shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1 (2) and 876 IAC 11.7. 
+File No. 5060323.01 (DOI:  08/15/2017) 
+Claimant shall not take any weekly benefits as the result of this proceeding. 
+Defendant shall pay past medical expenses as set forth above. 
+Defendant is responsible for the cost of Dr. Segal’s IME pursuant to Iowa Code 
+section 85.39. 
+Each party shall bear their own costs. 
+Defendant shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1 (2) and 876 IAC 11.7. 
+Signed and filed this ____27th ___ day of April, 2021. 
+ 
+ 
+The parties have been served, as follows: 
+Charles Showalter (via WCES) 
+James Kalkhoff (via WCES) 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal period 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+                ERIN Q. PALS 
+             DEPUTY WORKERS’ 
+   COMPENSATION COMMISSIONER 

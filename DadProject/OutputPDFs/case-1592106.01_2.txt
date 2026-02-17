@@ -1,0 +1,546 @@
+Case Number: 1592106.01
+Case Title:  FOSTER, KAREN V. EAST PENN MFG CO.
+Doc Type:    Decision - District Court
+Source:      Foster, Karen-1592106.01.District Court Decision.PDF
+========================================================================
+
+ 
+ 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+EAST PENN MANUFACTURING CO., 
+INC., Employer, and SENTINEL INS. 
+CO., LTD., Insurance Carrier, 
+ 
+Petitioners, 
+ 
+v. 
+ 
+KAREN M. FOSTER, 
+ 
+Respondent. 
+ 
+      
+Case No. CVCV061871 
+ 
+ 
+RULING ON  
+     PETITION FOR 
+     JUDICIAL REVIEW 
+ 
+ 
+A Petition for Judicial Review came before the Court from a final decision of the Iowa 
+Workers’ Compensation Commission. The Court held a hearing on this matter on October 15, 
+2021. Tiernan Siems represented Petitioners East Penn Manufacturing Company (“East Penn”) 
+and Sentinel Insurance Company, LTD. (“Sentinel”). Diana Rolands had a limited appearance on 
+behalf of Karen M. Foster (Foster). Petitioners request that this Court vacate the Appeal Decision 
+of the Iowa Workers’ Compensation Commissioner because of the alleged failure to distinguish 
+between Foster’s pre-existing injury and work-related injury. Petitioners further request that this 
+Court determine that Foster defaulted in defending this action because no estate has been opened 
+since her passing. After considering the arguments of the parties and having reviewed the file, 
+including the Certified Administrative Record, the Court now enters the following ruling. 
+I. 
+INTRODUCTION 
+A. Factual Background 
+Foster was 59 years of age when she began working for East Penn in July 2012. (Certified 
+Agency Record (Cert. Rec.) Part 1, 67-68).1 In December 2012, Foster sustained an injury to her 
+                                                 
+1 The certified agency record does not include continuous pagination. Although some documents in the 
+certified record are numbered, the hearing transcript does not include any page numbers. The Court will be citing to 
+the certified agency record PDF pages filed with the Court throughout this ruling. 
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 19
+
+2 
+ 
+neck and left shoulder when she was assaulted. (Cert. Rec. Part. 1, p. 162). Foster was treated for 
+this injury and missed a few months of work. (Cert. Rec. Part 2, p. 30). At East Penn’s request, 
+Foster presented for a “return to employment physical examination” on May 24, 2013. Id. Foster 
+was released to return to work with no restrictions at this time. Id. at 33.  
+The parties stipulated that Foster sustained a right shoulder injury which arose out of and 
+in the course of employment on July 30, 2013. (Cert. Rec. Part I, p. 16). Prior to this injury, Foster 
+returned to working her normal job and shift with East Penn. Id. at 163. In the course of her injury, 
+Foster was loading batteries onto a shipping pallet when she felt a pop in her right shoulder. Id. at 
+16. Foster testified that she complained of the pain to the first-shift supervisor, acting supervisor, 
+and third-shift supervisor. Id. at 72-73. 
+The next day, East Penn referred Foster to a physician’s assistant at Wayne County 
+Hospital. Id. at 163. The physician’s assistant diagnosed Foster with a mild right shoulder 
+sprain/strain and gave her work restrictions for two weeks. (Cert. Rec. Part 2, p. 210). East Penn 
+was able to accommodate the work restrictions. (Cert. Rec. Part 1, p.73). Two weeks later Foster 
+returned to the physician’s assistant and reported improving symptoms. (Cert. Rec. Part 2, p. 211). 
+The physician’s assistant instructed Foster to return to work without restrictions. Id. at 213.  
+After Foster returned to work her symptoms worsened and her work restrictions were 
+renewed for an additional two weeks. (Cert. Rec. Part 1, p. 74-76; Cert. Rec. Part 2, p. 214-216). 
+At the arbitration hearing, Foster testified that she returned to a different physician’s assistant who 
+transferred her care to her primary care provider, Deborah Wardlow, ARNP (Wardlow). (Cert. 
+Rec. Part 1, p. 75-76).  
+On August 26, 2013, Foster was seen by Wardlow regarding her depression and the visit 
+notes do not mention Foster’s right shoulder injury or any work restrictions. (Cert. Rec. Part 2, p. 
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 19
+
+3 
+ 
+217-220). On September 16, 2013, Foster received an injection for severe neck pain which was 
+performed by Wardlow. Id. at 223.  
+Foster received short-term disability benefits as of September 14, 2013. (Def. Ex. E). The 
+record does not show whether the short-term disability benefits were due to the work-related right 
+should injury or neck injury. (Def. Ex. G). Foster again returned to Wardlow on September 30, 
+2013, seeking an epidural steroid injection (ESI) for her neck. (Cert. Rec. Part 2, p. 224). The ESI 
+was performed on October 3, 2013, and was charted on October 8, 2013. Id. at 227. On October 
+14, 2013, Foster reported to Wardlow that she “recently had an epidural injection in her right 
+shoulder and she would like to have another one and needs a referral.” Id. at 229. However, the 
+record reflects that Foster had received an epidural injection in her neck, not her right shoulder. Id. 
+at 227. 
+Wardlow referred Foster to neurosurgery “to see if she needs a cervical fusion” on 
+November 21, 2013. Id. at 45. Wardlow’s notes from this visit state that Foster has a history of 
+cervical neck pain as well as left shoulder pain, is going to physical therapy without relief, and she 
+has been off of work for several weeks. Id. Wardlow does not mention any work restrictions at this 
+time. Id.  
+On November 26, 2013, Foster was terminated by East Penn. (Cert. Rec. Part 1, p. 86). 
+East Penn Manufacturing Company claims that Foster was terminated for exhausting her allotted 
+leave. (Defs. Br. at 3).  
+During Foster’s January 24, 2014 appointment with Wardlow, Wardlow wrote, “She has 
+been off of work for several months due to a neck and shoulder injury . . . . I previously had told 
+Karen that she would go back to work with a 10 lb. weight lifting restriction. Her current job 
+requires her to lift 50 lb. or more.” (Cert. Rec. Part 2, p. 51). Wardlow noted that “50% of pain 
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 19
+
+4 
+ 
+comes from the neck and 50% of pain comes from the shoulder.” Id. at 53. Wardlow ordered a 
+MRI of Foster’s right shoulder, which was completed on February 22, 2014. Id. at 243.  
+On April 18, 2014, Foster had her initial appointment with Dr. Jacobson. Id. at 295. Dr. 
+Jacobson noted that Foster had “complaints of right shoulder pain” and “unrelated cervical neck 
+issues. Id. During this visit, Foster’s workers compensation case manager was present. Id. at 296. 
+Dr. Jacobson noted that he gave Foster a note for restrictions at work and she should return in six 
+weeks for a recheck regarding her shoulder. Id. at 297. The note for restrictions at work included 
+a maximum lifting capacity of ten pounds. Id. Dr. Jacobson then performed a cortisone injection 
+in Foster’s right shoulder. Id. At the follow up appointment, Dr. Jacobson recommended right 
+shoulder surgery because Foster’s symptoms did not improve. Id. at 298-299.  
+On September 24, 2014, Foster underwent an Independent Medical Evaluation (IME) with 
+Dr. Mark Kirkland, D.O., prior to Petitioners authorizing the shoulder surgery. (Cert. Rec. Part 1, 
+p. 165).  Dr. Kirkland found that Foster’s right shoulder condition was work related. Id. Dr. 
+Kirkland determined that Foster “should not be doing any work at shoulder level or above” and 
+“should only be lifting only 5-10 pounds with both hands at the waist level.” Id. at 166. He further 
+agreed with Dr. Jacobson’s recommendation for right shoulder surgery. Id.  
+In December of 2014, temporary disability benefits were issued for the period starting 
+September 24, 2014. (Cert. Rec. Part 1, p. 166). The temporary benefits were paid through July 
+28, 2015. Id.  
+On January 5, 2015, Dr. Jacobson performed right shoulder surgery on Foster. (Cert. Rec. 
+Part 2, p. 285). Foster remained on work restrictions through July 22, 2015, when Dr. Jacobson 
+recommended a functional capacity evaluation (FCE). Id. at 308-09. The FCE was completed on 
+August 24, 2015, and determined Foster to be in the “light demand vocation.” Id. at 312. 
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 19
+
+5 
+ 
+Dr. Jacobson’s letter, dated September 25, 2015, stated that Foster had reached maximum 
+medical improvement (MMI) as of September 9, 2015. Id. at p. 323. Dr. Jacobson recommended 
+permanent restrictions based on the FCE and assigned a 4% whole person impairment. Id. 
+During the fall of 2015, Foster obtained employment as a checker for Hy-Vee. (Cert. Rec. 
+Part 1, p. 91). Foster testified that she had to quit after a month or so because the pushing and 
+pulling motions of the job caused her too much pain. Id. 
+ In November 2017, Foster began receiving Social Security Disability (SSD) benefits. Id. 
+at 93. She received SSD because of hearing loss, neck condition, COPD, bipolar depression, 
+anxiety, and right shoulder. Id.  
+At the time of the arbitration hearing Foster was unemployed and living in rural Iowa. Id. 
+at 65. On November 27, 2020, Foster died of natural causes unrelated to her work-related injury. 
+Id. at 39.  No estate had been opened at the time of the hearing. No appellee has appeared since 
+the original appeal to the Industrial Commissioner.  Petitioners request dismissal of the underlying 
+petition due to the default on appeal.  Diana I. Rolands represented Foster as a Claimant before the 
+Workers’ Compensation Commissioner before Foster died. 
+B. Procedural History 
+Foster filed a petition in arbitration seeking workers’ compensation benefits from East 
+Penn and Sentinel for a right shoulder injury. (Cert. Rec. Part 1, p. 162). The agency hearing 
+occurred on September 4, 2020, with Deputy Commissioner Stephanie Copley.  A decision was 
+issued on November 24, 2020. Id. Foster received a result in her favor. Id. The Deputy first 
+concluded that Foster’s work restrictions would preclude her from returning to her regular job with 
+East Penn and therefore Foster sustained a 65% loss of earning capacity as a result of her work 
+injury. Id. at 167. She further concluded Foster sustained a 65% industrial disability, which entitled 
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 19
+
+6 
+ 
+her to 325 weeks of permanent partial disability (PPD) benefits. Id. at 170. Deputy Commissioner 
+Copley ordered Petitioners to pay Foster temporary benefits from April 18, 2014 through 
+September 9, 2015, and that all weekly benefits shall be paid at the stipulated rate of $458.14 per 
+week. Id. Further, Petitioners  were ordered to pay accrued weekly benefits in a lump sum together 
+with interest at the rate of 10% for all weekly benefits payable and not paid when due which 
+accrued before July 1, 2017. Id. All interest on past due weekly compensation benefits accruing 
+on or after July 1, 2017, were payable at an annual rate equal to the one-year treasury constant 
+maturity published by the federal reserve in the most recent H15 report settled as of the date of 
+injury, plus 2%. Id. Petitioners were entitled to the stipulated credits of payment of temporary 
+benefits for the period of September 24, 2014 through July 28, 2015. Id. at 171. Lastly, Deputy 
+Commissioner assessed the cost of Foster’s filing fee against Petitioners. Id. 
+On December 11, 2020, Petitioners appealed Deputy Copley’s Arbitration Decision. (Pets. 
+Br. 5). On April 29, 2021, an Appeal Decision was rendered by Joesph S. Cortese II, Workers’ 
+Compensation Commissioner. (Cert. Rec. Part 1, p. 7). The Commissioner’s Appeal Decision 
+determined that according to Iowa Code section 85.31(4), Foster cannot be awarded benefits for 
+any dates beyond November 27, 2020, when Foster passed away. Id. at 8. The Commissioner 
+affirmed the Deputy Commissioner’s findings and conclusions except he modified the Arbitration 
+Decision to reflect Iowa Code section 85.31(4). Id. The Commissioner ordered Petitioners to pay 
+benefits and Foster’s filing fee to Foster’s representative. Id. at 9. 
+On May 18, 2021, Petitioner’s filed the present Petition for Judicial Review with the Iowa 
+District Court.  The Petitioners claim the Commissioner’s Appeal Decision was based upon a 
+provision of law that is unconstitutional on its face or as applied and unsupported by substantial 
+evidence in the record. (Pet. for Petitioners ¶ 5). They seek reversal, dismissal, or in the alternative, 
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 19
+
+7 
+ 
+modification of the Commissioner’s Appeal Decision because they allege the Commissioner’s 
+decision was rendered without factual or legal support and Foster has died without an estate. Id. at 
+¶¶ 6, 7. 
+ 
+II. 
+STANDARD OF REVIEW 
+Petitioners raise three main arguments.  First, Petitioners’ believe claimant’s issues raised 
+within the original underlying petition are moot because claimant failed to open an estate within a 
+reasonable amount of time.  Second, Petitioners ask the court to grant judgment for defendants due 
+to claimant’s default on appeal.  Finally, Petitioners assert claimant has failed to establish 
+entitlement to permanent or temporary benefits in light of her unrelated cervical injury and failing 
+to meet her burden of proof and that the deputy commissioner erred in awarding penalty benefits 
+to the claimant due to a delay in payment because the deputy commissioner’s findings were the 
+product of illogical reasoning.  
+The Iowa Administrative Procedure Act, Iowa Code chapter 17A, governs the scope of the 
+Court’s review in workers' compensation cases. Iowa Code § 86.26 (2019); Meyer v. IBP, Inc., 
+710 N.W.2d 213, 218 (Iowa 2006). “Under the Act, we may only interfere with the commissioner's 
+decision if it is erroneous under one of the grounds enumerated in the statute, and a party's 
+substantial rights have been prejudiced.” Meyer, 710 N.W.2d at 218.  A party challenging agency 
+action bears the burden of demonstrating the action's invalidity and resulting prejudice. Iowa Code 
+§ 17A.19(8)(a). This can be shown in a number of ways, including proof the action was ultra vires; 
+legally erroneous; unsupported by substantial evidence in the record when that record is viewed as 
+a whole; or otherwise unreasonable, arbitrary, capricious, or an abuse of discretion. See id. § 
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 19
+
+8 
+ 
+17A.19(10). The district court acts in an appellate capacity to correct errors of law on the part of 
+the agency. Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002). 
+“If the claim of error lies with the agency's findings of fact, the proper question on review 
+is whether substantial evidence supports those findings of fact” when the record is viewed as a 
+whole. Meyer, 710 N.W.2d at 219. Factual findings regarding the award of workers' compensation 
+benefits are within the commissioner's discretion, so the Court is bound by the commissioner's 
+findings of fact if they are supported by substantial evidence. Mycogen Seeds v. Sands, 686 N.W.2d 
+457, 464-65 (Iowa 2004). Substantial evidence is defined as evidence of the quality and quantity 
+“that would be deemed sufficient by a neutral, detached, and reasonable person, to establish the 
+fact at issue when the consequences resulting from the establishment of that fact are understood to 
+be serious and of great importance.” Iowa Code § 17A.19(10)(f)(1); Mycogen, 686 N.W.2d at 464. 
+“When reviewing a finding of fact for substantial evidence, we judge the finding ‘in light of all the 
+relevant evidence in the record cited by any party that detracts from that finding as well as all of 
+the relevant evidence in the record cited by any party that supports it.’” Cedar Rapids Comm. Sch. 
+Dist. v. Pease, 807 N.W.2d 839, 845 (Iowa 2011) (quoting Iowa Code § 17A.19(10)(f)(3)).  
+“Evidence is not insubstantial merely because different conclusions may be drawn from the 
+evidence.” Pease, 807 N.W.2d at 845. “To that end, evidence may be substantial even though we 
+may have drawn a different conclusion as fact finder.” Id. “Judicial review of a decision of the 
+[Commission] is not de novo, and the commissioner's findings have the force of a jury verdict.” 
+Holmes v. Bruce Motor Freight¸ 215 N.W.2d 296, 297-98 (Iowa 1974). 
+The application of the law to the facts is also an enterprise vested in the commissioner. 
+Mycogen, 686 N.W.2d at 465. Accordingly, the Court will reverse only if the commissioner's 
+application was “irrational, illogical, or wholly unjustifiable.” Id.; Iowa Code § 17A.19(10)(l). “A 
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 19
+
+9 
+ 
+decision is “irrational” when it is not governed by or according to reason.” Christensen v. Iowa 
+Dep’t. of Revenue, 944 N.W.2d 895 at 905 (Iowa 2020).  A decision is “illogical” when it is 
+“contrary to or devoid of logic.” Id. “A decision is “unjustifiable” when it has no foundation in 
+fact or reason” or is “lacking in justice.” Id.  This standard requires the Court to allocate some 
+deference to the commissioner's application of law to the facts, but less than it gives to the agency's 
+findings of fact.  Larson Mfg. Co. v. Thorson, 763 N.W.2d 842, 850 (Iowa 2009). 
+III. 
+MERITS 
+Because Foster is deceased the Court only has Petitioners’ three major arguments from 
+their appellate brief.  Foster’s original counsel appeared at the hearing and stated that no estate is 
+open and that she was limited in what she could do because of her client’s death.  Petitioners’ 
+believe the claimant’s death and lack of defending the action necessitates a dismissal of the 
+underlying petition.  First, they argue that Foster’s issues raised within the original underlying 
+Petition are moot because Foster failed to open an estate within a reasonable amount of time. 
+Second, the Court should grant judgment for Petitioners due to Foster’s default on appeal. Lastly, 
+that the merits of Petitioners’ appeal shows that the underlying award entered by the  
+Commission should be reversed because Foster failed to distinguish between her work related 
+injury and non-work related injury for temporary and permanent disability benefits. The Court 
+will first address the merits argument then the default argument and finally the issue of opening 
+an estate. 
+A. Whether the Commission’s finding that Foster established entitlement to 
+permanent and temporary benefits is supported by substantial evidence. 
+ 
+First, the Court will address the issue of temporary disability benefits. The claimant has the 
+burden of proving by a preponderance of the evidence that the injury is a proximate cause of the 
+disability on which the claim is based. A preponderance of the evidence exists when the causal 
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 19
+
+10 
+ 
+connection is probable rather than merely possible. George A. Hormel & Co. v. Jordan, 569 
+N.W.2d 148 (Iowa 1997). The question of causal connection is within the domain of expert 
+testimony. St. Luke’s Hosp. v. Gray, 604 N.W.2d 646, 652 (Iowa 2000). Unrebutted expert medical 
+testimony cannot be summarily rejected. Poula v. Siouxland Wall & Ceiling, Inc., 516 N.W.2d 
+910 (Iowa Ct. App. 1994). Accordingly, this Court will reverse the Commission’s finding of 
+successfully meeting the burden of proof based on expert testimony if it is not supported by 
+substantial evidence. Iowa Code § 17A.19(10). 
+When a claimant suffers from a prior injury that is “unrelated to employment, 
+independently produces an ascertainable portion of an injured employee’s cumulative industrial 
+disability, the employer is liable for that portion of the industrial disability attributable to the 
+current injury.” Second Injury Fund of Iowa v. Nelson, 544 N.W.2d 258, 264 (Iowa 1995) 
+(emphasis in original).  The industrial disability is “apportioned between that caused by the work-
+related injury and that caused by the nonwork-related condition or injury.” Id. 
+Healing period compensation describes temporary workers’ compensation weekly benefits 
+that precede an allowance of permanent partial disability benefits. Ellingson v Fleetguard, Inc., 
+599 N.W.2d 440 (Iowa 1990). Iowa Code section 85.34(1) states that healing benefits are payable 
+to an injured worker who has suffered permanent partial disability until the first of three events 
+occurs. Those events are: (1) the worker has returned to work; (2) the worker medically is capable 
+of returning to substantially similar employment; or (3) the worker has achieved maximum medical 
+recovery. Iowa Code § 85.34(1).  Maximum medical recovery is achieved when healing is 
+complete and the extent of permanent disability can be determined. Armstrong Tire & Rubber Co. 
+v. Kubil, 312 N.W.2d 60 (Iowa Ct. App. 1981).  
+Here, the Commissioner found:  
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 19
+
+11 
+ 
+There was insufficient evidence that claimant had any restrictions relating to her 
+right shoulder as of September 13 or September 14, 2014. In fact, there is 
+insufficient evidence that claimant had any such restrictions relating to her shoulder 
+until her initial appointment with Dr. Jacobson on April 18, 2014. 
+ 
+I found the restrictions implemented by Dr. Jacobson would have made her 
+incapable of returning to work with defendant-employer or performing a job 
+substantially similar to her job with defendant-employer. . . . I conclude claimant 
+satisfied her burden to prove she is entitled to healing period benefits starting on 
+April 18, 2014.  
+ 
+I found claimant remained incapable of returning to substantially similar 
+employment through the date of MMI, which was September 9, 2015. Having found 
+claimant achieved MMI on September 9, 2015 and did not return to work and was 
+not capable of performing substantially similar work before this date, I conclude 
+the date of MMI is the first factor in Iowa Code section 85.34(1) to occur.  
+ 
+Cert. Rec. Part 1, p. 168. 
+ 
+Petitioners first contend that Foster failed to offer evidence demonstrating that she was 
+entitled to benefits because she returned to work and “but for her unrelated cervical injury, she 
+would have remained employed with Defendant-employer.” (Pets. Br. 11). Petitioners point to the 
+fact that Foster sought “similar” employment by working for Hy-Vee. Id.  
+Additionally, Petitioners argue that Foster is not entitled to temporary benefits because she 
+was offered and accepted temporary work with East Penn. Id. The Petitioners point the Court to 
+Evenson v. Winnebago Indus., Inc., to support their argument. Id. In Evenson, the worker had an 
+injury to the elbow and was awarded PPD benefits beginning on November 30, 2011, based on the 
+impairment rating that placed the worker at MMI on November 29, 2011. Evenson v. Winnebago 
+Indus., Inc., 881 N.W2d 360, 371 (Iowa 2016). The worker argued that the Commissioner should 
+have awarded PPD benefits beginning on September 20, 2010, the day he returned to work after 
+the first healing period, and then suspended those benefits during his second healing period 
+between April 14, 2011, to June 14, 2011, and recommenced PPD benefits on June 15, 2011. Id. 
+The Iowa Supreme Court found that the worker returned to work on September 20, 2010, after 
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 11 of 19
+
+12 
+ 
+several days off, which ended the first healing period. Id. at 372. The Iowa Supreme Court went 
+on to state that the determination that the worker’s “return to work in September 2010 established 
+the commencement date for PPD benefits is not precluded by the fact that he was entitled to 
+temporary partial disability benefits for subsequent weeks when he was medically restricted from 
+working his regular hours.” Id.  
+The Court concludes that working as a cashier and moving groceries is not substantially 
+similar to lifting, pushing and pulling 50 pound batteries. Foster was not able to return to work 
+substantially similar to the job performed at the time of the injury even when she accepted light 
+duty at East Penn. Additionally, Dr. Jacobson’s expert report identified that Foster reached MMI 
+of her right shoulder on September 9, 2015. Based on the three events stated in Iowa Code section 
+85.34(1), the Court agrees with the Commission that Foster achieving MMI was the first to occur 
+and controls the healing period and temporary benefits. The Commission reviewed all of the 
+evidence before it and that evidence is substantial enough to support the agency decision.  
+Therefore, Foster met her burden of proof for entitlement to healing period benefits from 
+April 18, 2014 through September 9, 2015. Foster’s work restrictions limited her ability to obtain 
+prior employment that was substantially similar to the work she did at East Penn. 
+Next, Petitioners argue that Foster is not entitled to permanent partial disability benefits 
+because she failed to offer any evidence that restrictions related to her cervical injury were separate 
+from her work-related injury. (Pets. Br. 12). Similar to Petitioners argument regarding temporary 
+disability benefits, Petitioners contend that Foster would have remained employed with East Penn 
+but for her unrelated cervical injury. Id. 
+As discussed above, the record as a whole reflects a distinction between Foster’s cervical 
+injury and right-should injury as of April 18, 2014. Wardlow stated in her notes that “50% of pain 
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 12 of 19
+
+13 
+ 
+comes from the neck and 50% of pain comes from the shoulder.” (Cert. Rec. Part 2, p. 53). 
+Petitioners are only liable for the work-related injury. The Court will also not entertain the 
+hypothetical situation where Foster would have remained employed with East Penn but for the 
+unrelated cervical injury. The Court’s duty is to review the record and facts that are before it. 
+The Commission is in the position to weigh the evidence presented and will be affirmed if 
+there is substantial evidence in support of the Commission’s findings. The record does reflect that 
+Dr. Jacobson distinguished between Foster’s work-related right-shoulder injury and her non-work-
+related cervical injury when implementing work restrictions, assessing if surgery was appropriate, 
+and assessing when Foster reached MMI. The individual evidentiary situations discussed above 
+are but parts of the whole, that alone, may or may not be sufficient but together they are. Evidence 
+in support of the Commissioner’s decision is not insubstantial merely because it would have 
+supported contrary inferences; nor is evidence insubstantial because of the possibility of drawing 
+two inconsistent conclusions from it.  City of Hampton v. Iowa Civil Rights Comm'n, 554 N.W.2d 
+532, 536 (Iowa 1996).  Furthermore, when the Court reviews factual questions delegated by the 
+legislature to the Commissioner such as the one here, the question before the Court is not whether 
+the evidence might support different findings than those made by the Commissioner, but whether 
+the evidence supports the findings actually made.  St. Luke's Hosp., 604 N.W.2d at 649.  Thus, 
+although there may be evidence here to support a different finding, there clearly is substantial 
+evidence in the record to support the findings made by the Commissioner that Foster was incapable 
+of returning to substantially similar employment through the date of MMI, entitling her to 
+temporary benefits, and that Foster’s entitlement to PPD benefits began on September 10, 2015. 
+For their third point of contention, Petitioners argue that it was improper for the 
+Commissioner to award penalty benefits to Foster because East Penn’s delay in payment was due 
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 13 of 19
+
+14 
+ 
+to its performance of a reasonable investigation of medical evidence. (Pets. Br. 13). An employee 
+is entitled to additional benefits when weekly compensation benefits are not fully paid when due, 
+unless the employer shows reasonable cause or excuse for the delay or denial. Christensen v. Snap-
+On Tools Corp., 554 N.W.2d 254, 260 (Iowa 1996). Delay attributable to the time required to 
+perform a reasonable investigation is not unreasonable. Kiesecker v. Webster City Meats, Inc., 528 
+N.W.2d 109 (Iowa 1995). A reasonable basis for denial of the claim exists if the claim is “fairly 
+debatable.” Christensen, 554 N.W.2d at 260. However, an employer must assert facts which the 
+commissioner could reasonable find that the claim was “fairly debatable.” Meyers v. Holiday 
+Express Corp., 557 N.W.2d 502 (Iowa 1996). The commissioner may impose a penalty in an 
+amount up to 50% of the amount unreasonably delayed or denied. Christensen, 554 N.W.2d at 
+261.  
+After reviewing the record as a whole, the Court concludes there is evidence that Foster 
+failed to distinguish whether her work restrictions were for her work-related right shoulder injury 
+or her unrelated cervical injury. However, there is substantial evidence that agrees with the 
+Commissioner that Dr. Jacobson was treating Foster only for her right-shoulder injury as of April 
+18, 2014. As of that date, the liability for at least temporary benefits was not fairly debatable. 
+Petitioners began issuing benefits on December 17, 2014. The approximately eight month delay in 
+benefits is unreasonable and warrants the imposition of penalty benefits. 
+Therefore, Petitioners did not have a “reasonable excuse” for a delay in payment, and the 
+Deputy Commissioner did not improperly award penalty benefits. Because the Court finds that the 
+Commission’s decisions were supported by substantial evidence, the Commission’s award of 
+penalty benefits to Foster was not the product of illogical reasoning.  
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 14 of 19
+
+15 
+ 
+Therefore, due to the expert report by Dr. Jacobson stating when Foster reached MMI for 
+her right shoulder, permanent restrictions, IME provided by Dr. Kirkland, and testimony regarding 
+future employment, the Court concludes there is substantial evidence in the record to support the 
+Commission’s conclusion that Foster met her burden to prove that she was entitled to temporary 
+and permanent partial disability benefits for her right shoulder. Foster is entitled to permanent 
+partial disability benefits from September 10, 2015, through November 27, 2020. Foster is further 
+entitled to the award of penalty benefits based on Petitioners late payment of benefits. 
+B. Whether Foster defaulted on appeal by not filing a response to Petitioners’ appeal 
+to this Court. 
+Petitioners argue that they should be granted judgment because Foster defaulted on appeal. 
+According to Iowa Rule of Appellate Procedure 6.1202, “when a party fails to comply with an 
+appellate deadline, the attorney will be assessed a fee.” Additionally, “when a party to an appeal 
+fails to follow or respond to an appellate court order, the court may dismiss the appeal or impose 
+a penalty.” Iowa R. App. P. 6.1202(6). 
+The rules of civil procedure shall be applicable to proceedings for judicial review of agency 
+action. Iowa R. Civ. P. 1.1601. According to the Iowa Rules of Civil Procedure, the respondent 
+shall, within 20 days from the date of personal service or mailing of a petition for judicial review, 
+serve upon petitioner and within a reasonable time thereafter file a motion or answer. Iowa R. Civ. 
+P. 1.1602. Any party who participated in the hearing forming the basis of the appeal and who 
+wishes to participate in the appeal must file an appearance with the district court within 45 days of 
+the filing of the review petition. Iowa Code § 17A.19(2). 
+Foster’s attorney, Rolands, appeared before both the Deputy Commissioner and 
+Commissioner but did not file a motion or answer to the Petition for Judicial Review filed by 
+Petitioners. Rolands did appear before the Court during the hearing on this matter. Rolands has not 
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 15 of 19
+
+16 
+ 
+withdrawn as Foster’s attorney and still receives electronic notifications regarding this matter. 
+Rolands stated to the Court that an estate was not open. Rolands stated that she believed a response 
+was not mandatory because the appeal is based on the certified agency record, which is before the 
+Court. 
+As discussed in the subsection below, an estate may be opened yet and a family member 
+dealing with Foster’s claim may have someone substitute the decedent with an appropriate 
+representative.   Because we may be premature in determining how the estate will progress, 
+dismissal of the underlying Petition would be inappropriate at this time.  Attorney Rolands has not 
+abandoned the appellate process on behalf of her deceased client and potential estate. She is in an 
+unusual position without a client and without an appropriate representative.  The Court is unaware 
+of authority which demands dismissal of the case on judicial review so in the abundance of caution 
+and in the discretion of the Court, time will be allowed to see if a representative is timely appointed 
+under Iowa law. The Appellate Procedure rule Petitioners cite in their brief is discretionary for the 
+penalties the Court will impose.  
+C. Whether the underlying Petition in this case is now moot because an estate has not 
+been opened after Foster’s death. 
+ 
+Petitioners contend that all issues raised within Foster’s original Petition are moot since 
+Foster has “failed to substitute the decedent with an appropriate representative within a reasonable 
+amount of time.” (Pets. Br. 6). Petitioners cite Iowa rule of Civil Procedure 1.221 to support their 
+argument. Iowa Rule of Civil Procedure 1.221 states that “[a]ny substitution of legal 
+representatives or successors in interest of a deceased party, permitted by statute, must be ordered 
+within two years after the death of the original party.” Petitioners further contend that the party 
+seeking substitution “must make such substitution within a reasonable amount of time, even if it’s 
+less than two years since the death of the decedent.” Id. (emphasis added).  
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 16 of 19
+
+17 
+ 
+Our legislature has expressly stated that an acceptable time for substitution is two years. 
+Iowa R. Civ. P. 1.221. The Court does not need to turn to persuasive authority from other states 
+on what the appropriate time to substitute a party. Iowa does not follow a totality of circumstances 
+review that the State of Kansas uses. Id. This Court has a bright line time restriction for the 
+substitution of parties and opening an estate for the purposes of this appeal, which is two years. 
+Although the Court agrees with Petitioners that an estate should have been opened sooner, it is not 
+a legal requirement at this time. A party or legal representative must be substituted within two 
+years after Foster’s death.  
+Petitioners correctly state that interest continues to run for unpaid judgments from the Iowa 
+Industrial Commission. Foster has yet to be substituted by a legal representative and Petitioners 
+did not have a party to pay the ordered benefits stated in the Appeal Decision. However, in the 
+interests of justice the Court concludes that Petitioners should not be assessed a penalty or interest 
+on the unpaid benefits from November 27, 2020 to when a legal representative is substituted or an 
+estate is opened on behalf of Foster.  That is incentive for Karen Foster’s family to evaluate the 
+current situation in regards to an estate and concluding her affairs.   
+Therefore, the Court orders that the time of delay from Foster’s death until the possible 
+opening of an estate or naming of a legal representative for Foster on or before November 27, 2022 
+will not negatively impact Petitioners in regards to payment of interest or penalty fees.  If an estate 
+is opened and a representative appointed the attorneys will prepare a final payment schedule for 
+court approval taking into account that the delay is assessed to the Foster Representative for their 
+default on this appeal and no penalty or interest is due and owing for that time period (Date of 
+death-Substitution).   If no representative is named by November 27, 2022, the Petition previously 
+filed on behalf of the Claimant before her death, should be dismissed. 
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 17 of 19
+
+18 
+ 
+IV. 
+CONCLUSIONS AND DISPOSITIONS 
+For all the reasons set forth above, the Court concludes the Commission’s finding that 
+Foster sustained 65% industrial disability as a result of the work injury and is entitled to receive 
+temporary disability benefits from April 18, 2014, through September 9, 2015, is supported by 
+substantial evidence. The Court further orders that if an estate is timely opened for Foster before 
+November 27, 2022 Petitioners will pay benefits to the estate. The Court will not impose any 
+penalty fees for benefits not paid to Foster from the date of her death, November 27, 2020, until 
+the estate is opened. If an estate is not opened before November 27, 2022 then Foster will default 
+and the case will be dismissed. 
+IT IS THE ORDER OF THE COURT that the Iowa Workers’ Compensation 
+Commission’s decision is AFFIRMED in all regards. 
+Court costs are assessed in full to the Petitioners. 
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 18 of 19
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV061871
+EAST PENN MANUFACTURING CO INC ET AL VS KAREN
+FOSTER
+Type:
+OTHER ORDER
+So Ordered
+Electronically signed on 2021-12-16 13:10:08
+E-FILED                    CVCV061871 - 2021 DEC 16 01:10 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 19 of 19

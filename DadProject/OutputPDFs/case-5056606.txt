@@ -1,0 +1,635 @@
+Case Number: 5056606
+Case Title:  DRAHOZAL, RUKHSANA V. AMERICAN AIRLINES INC
+Doc Type:    Decision - Court of Appeals
+Source:      Drahozal, Rukhsana-5056606.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 20-0027 
+Filed April 28, 2021 
+ 
+ 
+RUKHSANA DRAHOZAL, 
+ 
+Petitioner-Appellant/Cross-Appellee, 
+ 
+vs. 
+ 
+ENVOY AIR, INC., d/b/a AMERICAN AIRLINES GROUP and NEW HAMPSHIRE 
+INSURANCE COMPANY, 
+ 
+Respondents-Appellees/Cross-Appellants. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Scott D. Rosenberg, 
+Judge. 
+ 
+ 
+Rukhsana Drahozal and Envoy Air, Inc. appeal and cross-appeal the 
+decision of the Iowa Workers’ Compensation Commissioner.  AFFIRMED ON 
+APPEAL; AFFIRMED IN PART, REVERSED IN PART, AND REMANDED ON 
+CROSS-APPEAL. 
+ 
+ 
+Thomas Wertz of Wertz Law Firm, Cedar Rapids, for appellant. 
+ 
+Jean Z. Dickson and Lori N. Scardina Utsinger of Betty, Neuman & 
+McMahon, P.L.C., Davenport, for appellees. 
+ 
+ 
+ 
+Heard by Bower, C.J., and Doyle and Mullins, JJ.
+
+ 
+2
+BOWER, Chief Judge. 
+ 
+Rukhsana Drahozal appeals the district court ruling on judicial review of a 
+decision by the Iowa Workers’ Compensation Commissioner, seeking a finding of 
+permanent total disability and additional penalty benefits.  Envoy Air, Inc., doing 
+business as American Airlines Group, and its insurer, New Hampshire Insurance 
+Company, (collectively “AA”) cross-appeal the same ruling, claiming Drahozal only 
+sustained scheduled injuries, did not establish an industrial disability, the court 
+should not have awarded penalty benefits, and Drahozal was not entitled to 
+healing-period benefits.  We affirm the commissioner’s rulings on industrial 
+disability and healing-period benefits.  We affirm in part and reverse in part the 
+commissioner’s penalty-benefits ruling and remand to the district court with 
+instructions. 
+ 
+I. Background Facts & Proceedings 
+ 
+The district court clearly identified the relevant facts: 
+ 
+Drahozal was injured while employed by American Airlines 
+working at the Eastern Iowa Airport in Cedar Rapids, Iowa.  She had 
+been employed by them for approximately sixteen years.  As part of 
+her duties, Drahozal was responsible for de-icing the planes in the 
+winter.  On January 4, 2015, while she was de-icing the planes, 
+seepage from the de-icing solution soaked through her gloves onto 
+her hands.  Because her hands were already cold and thus partially 
+numb, she did not realize the possible damage that had occurred.  
+Over the next few days after the incident, Drahozal’s fingers began 
+turning “reddish-brown” causing her to decide she needed to report 
+the injury to her supervisor. 
+ 
+On January 11, 2015, Drahozal went to the St. Luke’s 
+Emergency Department for pain and swelling in her fingers.  She was 
+diagnosed with frostbite of eight fingers with a blister and necrosis by 
+Dr. Nathan Harmon, M.D.  Dr. Harmon referred Drahozal to the 
+University of Iowa Hospitals and Clinics (UIHC) Burn Treatment 
+Center. 
+ 
+Drahozal was seen at the UIHC Burn Center on January 12, 
+2015.  She was seen by Robin Behr, Advanced Registered Nurse 
+
+ 
+3
+Practitioner.  Behr tended to Drahozal’s wounds and prescribed . . . 
+a prescription pain medication. 
+ 
+Drahozal visited the UIHC Burn Center again for pain in her 
+fingertips on January 22, 2015 and was again seen by Behr.  Behr 
+noted Drahozal had “firm, black eschar on the end of digit 2 of the 
+left hand.  The distal ends of digit 2 of left hand and digit 3 of right 
+hand are hardened to touch and fingertips with minimal sensation.”  
+Behr prescribed [a different] prescription pain medication to treat the 
+pain. 
+ 
+Drahozal was seen again on January 29, 2015, at the UIHC 
+Burn Center by Robert Lewis II, Physician Assistant.  Lewis found 
+Drahozal suffered frostbite to all of her fingers except to her fifth digit, 
+or “pinky finger.”  Lewis further found the deepest injury was to her 
+middle finger tips as they were swollen and showed a loss of tissue.  
+Lewis restricted Drahozal to temperatures between sixty and eighty 
+degrees and told her to avoid harsh chemicals and blunt trauma.  
+Lewis then recommended Drahozal wait one-year before having an 
+impairment evaluation in order to monitor how her fingers recover 
+over time. 
+ 
+Drahozal continued treatment and, at one point, a brown tip 
+fell off her finger.  She remained in pain, her hands were stiff and she 
+was mostly unable to use her hands for their regular functions.  
+Gretchen Kass, Advanced Registered Nurse Practitioner, prescribed 
+[another medication] for the pain, referred her to occupational 
+therapy, and restricted Drahozal from working. 
+ 
+On March 19, 2015, Drahozal was seen at the UIHC Burn 
+Clinic for extreme pain in her fingers causing her anxiety.  Lewis 
+prescribed [medication] to help Drahozal sleep and referred her to 
+the UIHC Pain Management Clinic and for counseling services. 
+ 
+Drahozal began receiving treatment at the UIHC Pain 
+Management Clinic in July 2015.  She saw Dr. Shuchita Garg, M.D. 
+who recommended pharmacologic treatment, use of a TENS unit,[1] 
+desensitization exercises, occupational therapy, pain psychology, 
+and counseling. 
+ 
+Drahozal attended an appointment with Frank Gersh, Ph.D, 
+as an authorized workers compensation psychological provider on 
+October 27, 2015.  Dr. Gersh diagnosed Drahozal with major 
+depressive disorder, single episode, moderate.  She continued to 
+receive treatment from Dr. Gersh who restricted Drahozal from 
+working on January 13, 2016. 
+                                            
+1 “A transcutaneous electrical nerve stimulation (TENS) unit is a device that sends 
+small electrical currents to targeted body parts.  These currents are used to relieve 
+pain. . . .  These pulses control pain signals in the body, creating temporary or 
+permanent relief from pain.”  Transcutaneous Electrical Nerve Stimulation Unit, 
+Healthline, 
+https://www.healthline.com/health/transcutaneous-electrical-nerve-
+stimulation-unit (last visited Apr. 2, 2021). 
+
+ 
+4
+ 
+Dr. Joseph Chen, M.D. conducted an independent medical 
+examination of Drahozal on January 25, 2016.  He diagnosed her 
+with chronic bilateral fingertip pain related to a work injury.  He opined 
+that no further treatments were likely to help and all treatments 
+should be discontinued.  Dr. Chen placed Drahozal on maximum 
+medical improvement [(MMI)] and released Drahozal to return to 
+work with no restrictions.  Dr. Chen assigned a two percent body as 
+a whole impairment rating.  
+ 
+Dr. Gersh continued to treat Drahozal every two weeks for 
+major depressive disorder which he confirmed was related to her 
+work injury.  He reported she needed additional treatment and 
+referred Drahozal to psychiatrist, Dr. Mark Mittauer, M.D. 
+ 
+On June 3, 2016, New Hampshire informed Drahozal that 
+because Dr. Chen had placed her at [MMI], without restrictions, they 
+would not pay [additional] healing period benefits. 
+ 
+On June 24, 2016, Drahozal had a psychiatric evaluation with 
+Dr. Mittauer.  Dr. Mittauer diagnosed Drahozal with major depressive 
+disorder, single episode, severe, without psychotic features, 
+generalized anxiety disorder, other specified anxiety disorder 
+including panic attacks and an insomnia disorder.  Dr. Mittauer 
+prescribed [medications] and discontinued the use of [the prior sleep 
+medication]. 
+ 
+During this time, . . . an unrelated [family event occurred,] 
+which New Hampshire claims caused Drahozal’s continued 
+symptoms. 
+ 
+[On June 27, 2016, Dr. Gersh informed New Hampshire that 
+Drahozal was participating more in activities of daily life and no 
+restrictions had been imposed on her ability to work.  Dr. Gersh 
+recommended Drahozal not return to work until employment could 
+be found that she could perform despite her hand sensitivity and 
+pain.] 
+ 
+On July 20, 2016, Drahozal notified [AA] she was retiring.   
+ 
+On September 1, 2016, Dr. Mittauer issued an opinion letter 
+diagnosing Drahozal with major depressive disorder caused by her 
+January 2015 work injury.   
+ 
+New Hampshire retained two doctors to conduct independent 
+psychiatric evaluations of Drahozal, Dr. Terrence Augspurger, M.D., 
+and Amy Mooney, Ph.D.  They each reviewed the records and 
+examined Drahozal.  They both diagnosed Drahozal with major 
+depressive disorder, recurrent, with prior depressive episodes 
+following pregnancy and delivery, severe with anxious distress, and 
+other specified personality disorder with borderline dependent 
+features.  They found no causation, claiming if a history of previous 
+episodes were acknowledged, then any new episode is likely just a 
+
+ 
+5
+manifestation of the pre-existing event based on the AMA Guide to 
+the Evaluation of Disease and Causality and Injury Causation.[[2] 
+ 
+On October 3, 2016, New Hampshire informed Drahozal that 
+her injuries were due to stress caused by family events and not her 
+work injury and additional treatment would not be authorized. 
+ 
+[On February 10, 2017,] Dr. Mittauer responded to the report 
+prepared by Drs. Augspurger and Mooney and said they provided no 
+documentation of any symptoms Drahozal had at the time of 
+postpartum depression that would lead to their diagnosis.  Dr. 
+Mittauer opined that Drahozal’s depression following the delivery of 
+her children did not manifest severe enough symptoms to meet the 
+criteria for major depressive disorder and that any symptoms from 
+that event had resolved completely.  He also opined she had 
+sufficient symptoms to satisfy a separate diagnosis of generalized 
+anxiety disorder.  [Dr. Mittauer then placed her at MMI as to her 
+psychiatric conditions and opined her mental health would “interfere 
+with her ability to participate in full-time gainful employment.”] 
+ 
+On March 22, 2017, New Hampshire sent Drahozal a letter 
+informing her that because Dr. Augspurger did not find causation, 
+they were disputing all liability as to further care and treatment 
+including the mental health treatment. 
+ 
+On April 17, 2017, Dr. Gersh opined he had diagnosed 
+Drahozal with major depressive disorder and opined it was caused 
+by her work injury. . . .  Drahozal also retained Dr. Sunil Bansal, M.D., 
+an occupational medicine physician to conduct an independent 
+medical examination.  Dr. Bansal opined Drahozal suffered frostbite 
+and assigned a nine percent body as a whole impairment for the 
+dominant right hand injuries and a four percent body as a whole 
+impairment for the left hand, with a thirteen percent total body as a 
+whole impairment.  Dr. Bansal recommended a five pound lifting 
+restriction and no frequent squeezing, pinching or grasping. 
+ 
+Dr. Bansal also diagnosed Drahozal with complex regional pain syndrome in her 
+hands. 
+ 
+On June 5, 2017, Dr. Mittauer prepared an opinion letter citing Drahozal’s 
+work injury as “a substantial contributing factor” to her mental-health disorders.  
+Dr. Mittauer opined Drahozal’s depression, anxiety, and insomnia disorders were 
+                                            
+2 Drahozal’s youngest child had been born around twenty-five years earlier, and 
+she had not previously been diagnosed with post-partum depression. 
+
+ 
+6
+permanent conditions and would “more likely than not” continue as long as she 
+had persistent pain and associated disability. 
+ 
+When asked for his opinion, Dr. Chen disagreed with the complex-regional-
+pain-syndrome diagnosis, instead suggesting pain and fear-avoidance behaviors 
+related to anxiety could explain the signs and symptoms. 
+ 
+Drahozal filed a petition in arbitration with the workers’ compensation 
+commissioner on July 18, 2016 (two days before her retirement).  She listed as the 
+part of the body affected or disabled “body as a whole.”  AA admitted the finger 
+injuries but denied any psychiatric sequelae. 
+ 
+The arbitration hearing occurred on August 14, 2017.  Drahozal was still 
+seeing Dr. Gersh and Dr. Mittauer, but her appointments had decreased to one 
+every six weeks.  She reported feeling much better in the past six months.  
+Drahozal testified she had to modify how she performed activities with her hands 
+due to numbness and sharp pain at times.  With regard to her mental health, she 
+reported a lack of confidence and motivation and poor energy.  Drahozal had not 
+applied for any jobs since retiring in July 2016, stating, “I don’t think I’m ready to 
+do anything.  Eventually I will be.”  She later mentioned wanting to volunteer in a 
+classroom in the school system. 
+ 
+The arbitration decision was filed December 21, 2017.  The deputy 
+commissioner found Dr. Chen’s and Dr. Mittauer’s expert opinions the most 
+persuasive.  The deputy found Drahozal “established she sustained mental-health 
+sequelae as a result of her work injury, and thus has established she has sustained 
+an industrial disability.”  The deputy found Drahozal was “capable of retraining” 
+and had failed to establish a permanent total disability under statute or under the 
+
+ 
+7
+odd-lot doctrine.  The deputy found Drahozal sustained an eighty-percent industrial 
+disability as a result of the frostbite and mental-health injury and awarded her 400 
+weeks of permanent partial disability benefits.  The deputy adopted Dr. Mittauer’s 
+MMI determination for Drahozal’s mental health and awarded healing benefits for 
+the period from January 12, 2015, through February 10, 2017.  The deputy also 
+awarded penalty benefits for eleven delayed payments of Drahozal’s weekly 
+benefits3 but denied penalty benefits related to the mental-health sequela injury, 
+finding “at the time of the denial, the claim was fairly debatable.”   
+ 
+Both parties appealed to the commissioner.  On September 12, 2018, the 
+commissioner affirmed and adopted the arbitration decision in its entirety. 
+ 
+Drahozal filed a petition for judicial review of the commissioner’s decision, 
+asserting all the grounds for reversal allowed under Iowa Code section 17A.19(10) 
+(2017), without stating any specific facts or assertions relating to any particular 
+ground.  AA filed a counter-petition for judicial review, asserting many of the same 
+legal grounds as Drahozal. 
+ 
+On April 5, 2019, the district court held a hearing in the matter.  The district 
+court found substantial evidence supported the ruling of the commissioner and 
+affirmed on all issues.  Drahozal appeals, and AA cross-appeals. 
+ 
+II. Scope and Standard of Review 
+ 
+“Judicial review of workers’ compensation cases is governed by Iowa Code 
+chapter 17A.  On our review, we determine whether we arrive at the same 
+                                            
+3 The delayed payments were issued February 6, March 2, April 27, and June 22, 
+2015, as well as February 2, 17, 22, and March 15, 2016. 
+
+ 
+8
+conclusion as the district court.”  Warren Props. v. Stewart, 864 N.W.2d 307, 311 
+(Iowa 2015) (citation omitted). 
+ 
+A district court decision rendered in an appellate capacity is 
+examined for correction of errors at law.  In making such a 
+determination, we apply the standards of Iowa Code section 
+17A.19[(10)], which provides an agency decision may be reversed 
+where substantial rights of a party have been prejudiced and the 
+action is unsupported by substantial evidence or affected by errors 
+of law, to determine if our conclusion would be the same as that of 
+the district court. 
+ 
+Christensen v. Snap-On Tools Corp., 554 N.W.2d 254, 257 (Iowa 1996) (citation 
+omitted); see also Puntenney v. Iowa Utils. Bd., 928 N.W.2d 829, 836 (Iowa 2019).   
+ 
+“Just because the interpretation of the evidence is open to a fair difference 
+of opinion does not mean the commissioner’s decision is not supported by 
+substantial evidence.  An appellate court should not consider evidence 
+insubstantial merely because the court may draw different conclusions from the 
+record.”  Arndt v. City of Le Claire, 728 N.W.2d 389, 393 (Iowa 2007) (citation 
+omitted).  “‘Substantial evidence’ means the quantity and quality of evidence that 
+would be deemed sufficient by a neutral, detached, and reasonable person, to 
+establish the fact at issue when the consequences resulting from the establishment 
+of that fact are understood to be serious and of great importance.”  Iowa Code 
+§ 17A.19(10)(f)(1).  “It is the commissioner’s duty as the trier of fact to determine 
+the credibility of the witnesses, weigh the evidence, and decide the facts in issue.  
+The reviewing court only determines whether substantial evidence supports a 
+finding ‘according to those witnesses whom the [commissioner] believed.’”  Arndt, 
+728 N.W.2d at 394–95 (alteration in original) (citations omitted).  
+
+ 
+9
+ 
+III. Drahozal’s Appeal 
+ 
+Drahozal appeals (1) the commissioner’s determination her frostbite injuries 
+did not result in permanent total disability and (2) the commissioner not awarding 
+penalty benefits for the denied healing-period benefits related to the mental-health 
+sequela injury between June 2016 and February 2017. 
+ 
+A. Disability Rating.  Drahozal’s first claim on appeal is the commissioner 
+erred in not finding she was permanently and totally disabled under the statute or 
+the odd-lot doctrine.  Drahozal argues the combination of her hand injuries, 
+depression, age, and education level means there are no jobs in the community 
+for which she can realistically compete.  Drahozal claims,  
+The only factor which weighed against a finding of permanent and 
+total disability was Drahozal’s lack of motivation to find work and 
+therefore, lack of work search.  However, it was arbitrary and/or 
+capricious for [the deputy], the commissioner, and the district court 
+to use Drahozal’s alleged “lack of motivation” against her because 
+her lack of motivation stemmed directly from her work injury. 
+ 
+ 
+“Industrial disability measures an injured worker’s lost earning capacity.”  
+Second Injury Fund v. Nelson, 544 N.W.2d 258, 265 (Iowa 1995).  The focus of an 
+industrial disability determination is the ability of the claimant to be gainfully 
+employed; it is not merely an evaluation of what the claimant can or cannot do.  Id. 
+at 266.  We inquire whether “there [are] jobs in the community that the employee 
+can do for which the employee can realistically compete.”  Second Injury Fund v. 
+Shank, 516 N.W.2d 808, 815 (Iowa 1994).  This requires consideration of those 
+factors that bear on the claimant’s employability, including “age, intelligence, 
+education, qualifications, experience, and the effect of the injury on the worker’s 
+
+ 
+10 
+ability to obtain suitable work.’”  Guyton v. Irving Jensen Co., 373 N.W.2d 101, 103 
+(Iowa 1985). 
+ 
+Drahozal ignores the substantial evidence weighing in favor of the 
+commissioner’s ruling.  Dr. Chen released her to return to work with no medical 
+restrictions in early 2016.  Dr. Mittauer’s 2017 evaluation found Drahozal’s mental 
+health would interfere with full-time gainful employment, but that allows space for 
+Drahozal to work at a job with reduced hours.  At the arbitration hearing, Drahozal 
+reported feeling better and having less anxiety and stated she was taking up more 
+tasks at home.  After observing Drahozal’s testimony and reviewing the evidence, 
+the deputy found “Drahozal is capable of retraining” but was not motivated to return 
+to work.  Substantial evidence supports the commissioner’s finding Drahozal’s 
+earning capacity had been reduced by eighty percent as a result of her hand 
+injuries and mental-health sequela, but she was capable of some level of 
+employment. 
+ 
+Odd-Lot Doctrine.  Drahozal asserts if she is not permanently totally 
+disabled under the statute, then the court should apply the odd-lot doctrine to find 
+her incapable of obtaining employment.  
+ 
+“An odd-lot employee is one who is incapable of finding work in any 
+established branch of the labor market.”  Nelson, 544 N.W.2d at 267.  The burden 
+is on the employee to produce “substantial evidence that the worker is not 
+employable in the competitive labor market.”  Id. (emphasis omitted) (quoting 
+Guyton, 373 N.W.2d at 106).  “[I]t is ‘normally’ incumbent on the claimant ‘to 
+demonstrate a reasonable effort to secure employment’ in the worker’s area of 
+
+ 
+11 
+residence before the burden of producing evidence shifts to the employer.”  Id. 
+(citations omitted). 
+ 
+To make a prima facie case of odd-lot disability, Drahozal had the burden 
+of producing substantial evidence she was not employable in any capacity in her 
+labor market, not just that she could not perform her former job.  Drahozal 
+produced no evidence to support her claim of being unable to work—she did not 
+apply for any jobs, did not seek an evaluation from a vocational rehabilitation 
+specialist, and did not produce evidence she was not employable in the Cedar 
+Rapids labor market.     
+ 
+The deputy commissioner found Drahozal failed to present a prima facie 
+case of odd-lot unemployability.  The commissioner agreed “claimant failed to carry 
+her burden of proof that she is permanently and totally disabled under either the 
+traditional industrial disability analysis or under the odd-lot analysis.”  We affirm.  
+ 
+B. Denied Penalty Benefits.  Drahozal claims the court erred in not 
+awarding her penalty benefits for the period of June 6, 2016, through February 10, 
+2017, when AA denied healing period benefits to cover her mental-health 
+treatment.   
+ 
+The Iowa Code specifies when the commissioner is to award penalty 
+benefits: 
+ 
+If a denial, a delay in payment, or a termination of benefits 
+occurs without reasonable or probable cause or excuse known to the 
+employer or insurance carrier at the time of the denial, delay in 
+payment, or termination of benefits, the workers’ compensation 
+commissioner shall award benefits in addition to those benefits . . . 
+up to fifty percent of the amount of benefits that were denied, 
+delayed, or terminated without reasonable or probable cause or 
+excuse.   
+ 
+
+ 
+12 
+Iowa Code § 86.13(4)(a).  A “reasonable or probable cause or excuse” must be 
+preceded by a reasonable investigation and evaluation into whether benefits are 
+owed; the results of the investigation were the basis upon which the employer 
+relied for denial, delay, or termination; and the employer or insurance carrier 
+informed the employee of that basis at the time of the denial, delay, or termination.  
+Id. § 86.13(4)(c)(1)–(3). 
+ 
+Healing period benefits “sustain[ ] the injured employee during 
+convalescence and disability from work.”  Waldinger Corp. v. Mettler, 817 N.W.2d 
+1, 7 (Iowa 2012).  The employer owes the employee healing period compensation  
+beginning on the first day of disability after the injury, and until the 
+employee has returned to work or it is medically indicated that 
+significant improvement from the injury is not anticipated or until the 
+employee is medically capable of returning to employment 
+substantially similar to the employment in which the employee was 
+engaged at the time of injury, whichever occurs first. 
+ 
+Iowa Code § 85.34(1). 
+ 
+When evaluating whether penalty benefits were owed between June 2016 
+and February 2017, the commissioner adopted the arbitration ruling: 
+ 
+After receiving the opinion from Drs. Augspurger and Mooney 
+of no causation, American and New Hampshire denied causation 
+with respect to Drahozal’s alleged mental health sequela injury.  
+American and New Hampshire notified Drahozal of the denial.  
+Based on the opinions received at the time of the denial, the claim 
+was fairly debatable.  I decline to award penalty benefits on this 
+ground. 
+ 
+ 
+AA stopped paying healing-period benefits in March 2016, relying on 
+Dr. Chen’s opinion Drahozal had reached MMI and could return to work without 
+restrictions.  Dr. Chen’s report indicated he discussed Drahozal’s condition 
+extensively with her and what activities she was medically able to do.   
+
+ 
+13 
+ 
+In April 2016, Dr. Gersh wrote to inform Drahozal’s counsel he had been 
+notified treatment was no longer authorized and his treatment of her “was related 
+to her frostbite injury.”  Counsel for AA in May indicated Drahozal “is still at MMI so 
+we would not be reinstating healing period.”  Counsel again informed Drahozal’s 
+counsel in June she would not be paid additional healing period benefits because 
+Dr. Chen placed her at MMI and released her to full duty, so “there is no medical 
+[reason] which keeps your client off work.”   
+ 
+Causation and compensability of Drahozal’s mental health continued to be 
+disputed by Drahozal and AA at the arbitration hearing and through all subsequent 
+appeals.  Drahozal reached MMI on her physical injury, which had paused her 
+employment, and was released as medically capable to return to work.  Under all 
+the circumstances, we conclude substantial evidence supports the commissioner’s 
+denial of penalty benefits between June 2016 and February 2017.  We affirm.  
+ 
+IV. AA’s Cross-Appeal 
+ 
+AA asserts three claims in its cross-appeal relating to the mental-health 
+sequela and the penalty benefits awarded by the commissioner.   
+ 
+A. Mental-Health Sequela.  First, AA asserts the commissioner erred in 
+finding Drahozal’s depression was a result of her work injury and instead the 
+commissioner should have found minimal industrial disability.  AA relies on 
+Dr. Augspurger and Dr. Mooney’s evaluation of Drahozal’s mental health and 
+
+ 
+14 
+states substantial evidence only supports the scheduled-member injuries to 
+Drahozal’s fingers.4 
+ 
+On appeal, we do not re-weigh the evidence to come to a new finding.  
+Arndt, 728 N.W.2d at 395.  Rather, we merely determine if substantial evidence 
+supports a finding according to the evidence believed by the commissioner.  Id.  
+The reports from both Dr. Gersh and Dr. Mittauer support the commissioner’s 
+finding Drahozal’s work-related physical injuries caused her to experience a “major 
+depressive episode” affecting her ability to work.  The commissioner found 
+Dr. Mittauer was more persuasive than Dr. Augspurger and Dr. Mooney regarding 
+the question of Drahozal’s mental-health injury.  See Cedar Rapids Cmty. Sch. 
+Dist. v. Pease, 807 N.W.2d 839, 845 (Iowa 2011) (“Ultimately, however, the 
+determination of whether to accept or reject an expert opinion is within the ‘peculiar 
+province’ of the commissioner.” (citation omitted)).  Substantial evidence thus 
+supports the commissioner’s finding Drahozal experienced mental-health sequela 
+as a result of her work injury. 
+ 
+B. Awarded Penalty Benefits.  Next, AA contests the penalty benefits 
+awarded to Drahozal in the amount of $3611 relating to eleven late healing-period 
+benefit payments.   
+ 
+Iowa Code section 85.30 prescribes the time for investigation and requires 
+“[c]ompensation payments shall be made each week beginning on the eleventh 
+day after the injury, and each week thereafter during the period for which 
+                                            
+4 The workers’ compensation act establishes a predetermined permanent partial 
+disability compensation for injuries or loss of specific body parts, including a set 
+amount for the loss of each full or partial finger.  Iowa Code § 85.34(2)(a)–(f). 
+
+ 
+15 
+compensation is payable.”  “[I]f Monday is the first day of the compensation week, 
+full payment of the weekly compensation is due the following Monday.”  
+Robbennolt v. Snap-On Tools Corp., 555 N.W.2d 229, 235 (Iowa 1996).  “[W]eekly 
+compensation payments are ‘made’ when they are mailed to the claimant, not 
+when they are received.”  Id. at 236. 
+ 
+Drahozal sustained her injury on January 4, 2015, though it is unclear if she 
+reported it before January 11.  The first payment was issued on February 6, 2015.  
+AA states the initial check’s delay at the beginning of the injury was necessary time 
+for investigation of the claim and obtaining medical opinions and records.  
+However, even counting from when Drahozal ceased working on January 12, 
+Drahozal was owed her first compensation payment two weeks before AA issued 
+it.  This delay was unreasonable, and the commissioner did not err in awarding 
+penalty benefits. 
+ 
+Five of the late payments—issued on March 2, March 15, April 27, June 22, 
+2015, and February 22, 2016—were issued the Monday after the compensation 
+week.  The compensation week for each of the payments started the Monday 
+before, and AA argues that under Robbennolt the payments were due on the days 
+the checks issued.  See 555 N.W.2d at 235; see also Goodman v. Snap-On Tools 
+Corp., No. 03-0414, 2004 WL 2066941, at *3 (Iowa Ct. App. Sept. 9, 2004) (“The 
+. . . due dates fall on the day after the end of each compensation week . . . that is, 
+the eighth day after the first day of each subsequent compensation week.”).  
+Drahozal argues the payments were due at the end of the compensation week, 
+and in any event AA did not prove the payments were mailed out on the date they 
+were issued.   
+
+ 
+16 
+ 
+If the five checks were mailed the day they were issued, then they were 
+timely under Robbennolt.  See 555 N.W.2d at 235.  If they were mailed on a later 
+date, they were late.  Penalty benefits are not awarded under Iowa Code 
+section 86.13(4) unless “[t]he employee has demonstrated a denial, delay in 
+payment, or termination of benefits.”  Therefore, Drahozal had the burden of 
+demonstrating the checks were mailed late to be awarded penalty benefits.  She 
+did not do so.  Substantial evidence does not support this portion of the 
+commissioner’s ruling. 
+ 
+Four other payments—issued on February 2, February 10, February 17, 
+and March 15, 2016—were issued two or three days late.  AA did not provide an 
+explanation for these late-paid benefits.  On appeal, AA asserts—without citing 
+any legal authority—the payments were “minimally late” so only a minimal penalty 
+should be assessed.  The application of the penalty provision does not turn on the 
+length of the delay in making the correct compensation payment.  “Any delay 
+without reasonable excuse entitles the employee to benefits in some amount.”  
+Robbennolt, 555 N.W.2d at 236.  The commissioner correctly awarded penalty 
+benefits for these unexplained late payments. 
+ 
+The final late payment was a March 31, 2016 lump sum payment for 
+permanent partial disability relating to Drahozal’s hands based on Dr. Chen’s MMI 
+determination.  AA claims they needed to conduct a reasonable investigation into 
+the entitlement to permanent benefits.  As Drahozal points out, Dr. Chen issued 
+his report on January 25.  AA stopped paying healing benefits as of March 14.  Any 
+reasonable investigation would have been completed before healing period 
+
+ 
+17 
+benefits were halted.  The commissioner did not err in awarding penalty benefits 
+for this late payment. 
+ 
+The commissioner can award up to fifty percent of the amount of 
+unreasonably delayed benefits as a penalty under Iowa Code section 86.13.  See 
+Schadendorf v. Snap-On Tools Corp., 757 N.W.2d 330, 336 (Iowa 2008).  “The 
+factors the commissioner should consider when awarding penalty benefits are ‘the 
+length of the delay, the number of the delays, the information available to the 
+employer regarding the employee’s injuries and wages, and the prior penalties 
+imposed against the employer under section 86.13.’”  Id. (quoting Robbennolt, 555 
+N.W.2d at 238).  The penalty benefits awarded are within the statutory limits.   
+ 
+Penalty benefits were wrongly awarded on five payments that Drahozal did 
+not prove were late.  Those five payments—each for $328.34—totaled $1641.70.  
+The commissioner awarded a fifty-percent penalty benefit for the late payments—
+$820.85.  Therefore, we reduce the penalty benefits award by $820.85.  We affirm 
+the awarded penalty benefits in the amount of $2790.15.   
+ 
+C. Healing Period Benefits, Medical Expenses, and Costs.  Finally, AA 
+asserts because Drahozal is not entitled to benefits relating to her mental-health 
+sequela, she is not entitled to the related healing-period benefits, medical 
+expenses, or costs and those awards should be reversed.  Because we have 
+already confirmed benefits were properly awarded for her mental-health sequela, 
+we affirm these rulings. 
+ 
+V. Conclusion 
+ 
+We conclude the district court erred in upholding a portion of the 
+commissioner’s penalty-benefits award.  We remand to the district court with 
+
+ 
+18 
+instruction to remand the matter to the workers’ compensation commissioner to 
+amend the penalty-benefits award consistent with this opinion.  On all of the 
+remaining issues, we affirm. 
+ 
+AFFIRMED ON APPEAL; AFFIRMED IN PART, REVERSED IN PART, 
+AND REMANDED ON CROSS-APPEAL. 

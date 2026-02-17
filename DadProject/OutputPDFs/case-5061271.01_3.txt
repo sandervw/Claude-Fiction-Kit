@@ -1,0 +1,442 @@
+Case Number: 5061271.01
+Case Title:  HAGEN, LORRI M V. NATIONAL BEDDING CO
+Doc Type:    Decision - Court of Appeals
+Source:      Hagen, Lorri-5061271.01.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 22-0684 
+Filed March 29, 2023 
+ 
+ 
+LORRI HAGEN, 
+ 
+Petitioner-Appellee, 
+ 
+vs. 
+ 
+SERTA/NATIONAL BEDDING CO., LLC, and SAFETY NATIONAL CASUALTY 
+CO., 
+ 
+Respondents-Appellants. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Worth County, Chris Foy, Judge. 
+ 
+ 
+An employer and insurance carrier appeal the district court’s ruling on a 
+claimant’s petition for judicial review of a decision of the workers’ compensation 
+commissioner.  AFFIRMED. 
+ 
+ 
+Lindsey E. Mills of Smith Mills Schrock Blades P.C., West Des Moines, for 
+appellants. 
+ 
+John M. Loughlin of Loughlin Law Firm, Cherokee, for appellee. 
+ 
+ 
+Considered by Bower, C.J., and Greer and Badding, JJ.
+
+ 
+2
+BADDING, Judge. 
+ 
+Serta/National Bedding Co., LLC and its insurer (collectively Serta) appeal 
+the district court’s ruling on judicial review that reversed the decision of the 
+workers’ compensation commissioner to exclude untimely expert witness reports 
+from Serta’s former employee, Lorri Hagen.  Serta claims the commissioner did 
+not abuse his discretion in excluding these reports because receipt of the evidence 
+would have been unfairly prejudicial under Iowa Administrative Code rule 876-
+4.19(3)(e). 
+I. 
+Background Facts and Proceedings 
+ 
+Hagen sustained an injury arising out of and in the course of her 
+employment with Serta in February 2017, when a heavy cart rolled over her right 
+foot.  Hagen filed an arbitration petition in August 2019 seeking workers’ 
+compensation benefits.  A hearing assignment order filed at the end of December 
+set an arbitration hearing for September 25, 2020.  
+ 
+That order set deadlines for discovery, along with the exchange and filing 
+of witness and exhibit lists and proposed exhibits.  For the most part, the deadlines 
+in the order tracked the time limits in Iowa Administrative Code rule 876-4.19(3), 
+which governs “prehearing procedure, completion of discovery and case 
+management in contested cases.”  This appeal involves Hagen’s failure to abide 
+by these deadlines.       
+ 
+Under rule 876-4.19(3)(b), Hagen was required to “certify to all other parties 
+the expert’s name, subject matter of expertise, qualifications, and a summary of 
+the expert’s opinions” if she intended to introduce evidence from an expert.  She 
+had to certify 120 days before hearing, Serta ninety days before hearing, and 
+
+ 
+3
+rebuttal sixty days before hearing.1  Iowa Admin. Code r. 876-4.19(3)(b).  In turn, 
+“[a]ll discovery responses, depositions, and reports from independent medical 
+examinations shall be completed and served on opposing counsel and pro se 
+litigants at least 30 days before hearing.”  Id. r. 876-4.19(3)(c).  The parties were 
+also required to serve witness and exhibit lists “and exchange all intended exhibits 
+that were not previously required to be served” no later than thirty days before 
+hearing.  Id. r. 876-4.19(3)(d).  The hearing assignment order further mandated 
+that “[a]t least 14 days prior to hearing, the parties shall file proposed exhibits,” 
+with any written objections or motions to exclude evidence to be filed at least seven 
+days before the hearing.  See id. r. 876-4.19(3)(d).  
+ 
+Rule 876-4.19(3)(e), and the hearing assignment order, set out the following 
+consequence for violating these deadlines:  
+ 
+If evidence is offered at hearing that was not disclosed in the 
+time and manner required by these rules, as altered by order of the 
+workers’ compensation commissioner or a deputy workers’ 
+compensation commissioner or by a written agreement by the 
+parties, the evidence will be excluded if the objecting party shows 
+that receipt of the evidence would be unfairly prejudicial.  
+ 
+(Emphasis added.)   
+ 
+1 The rule provides the following exceptions that the parties have not contended 
+apply here: 
+Certification is not required to introduce evidence from an examining 
+physician pursuant to Iowa Code section 85.39, a treating physician, 
+or a vocational consultant if the expert witness is known by all parties 
+to have personally provided services to the claimant and the 
+witness’s reports are served on opposing parties prior to the date 
+when certification is required.  The parties may alter these times by 
+written agreement. 
+Iowa Admin. Code r. 876-4.19(3)(b).   
+
+ 
+4
+ 
+Proceeding under that rule, the deputy commissioner excluded two reports 
+offered by Hagen as exhibits at the arbitration hearing: exhibit 10—an independent 
+medical examination by Dr. John Kuhnlein, and exhibit 11—a vocational report by 
+Tom Karrow.  Neither Kuhnlein or Karrow were timely certified as experts, nor were 
+their reports provided to Serta at least thirty days before hearing.  The record 
+discloses the following timeline as to these exhibits: 
+• November 5–7, 2019: On November 5, Hagen’s counsel requested 
+agreement from Serta to provide an independent medical examination 
+under Iowa Code section 85.39 (2019).  On November 7, Serta’s counsel 
+agreed to provide an independent medical examination. 
+ 
+• May 19, 2020: The examination was originally scheduled to occur and be 
+conducted by Dr. Kuhnlein on this date, but it was rescheduled to June 23 
+because Dr. Kuhnlein was sick. 
+ 
+• June 23: The examination was conducted by Dr. Kuhnlein. 
+ 
+• August 19: Hagen’s counsel provided updated discovery responses to 
+Serta and listed Karrow as a vocational expert. 
+ 
+• August 27: Hagen’s counsel received Serta’s vocational report.  Also, 
+Hagen’s counsel informed opposing counsel “that he has inquired into the 
+status of the two reports and that they can be expected soon and thanked 
+her for her patience.”  Serta’s counsel did not respond to this email. 
+ 
+• September 10–11: Dr. Kuhnlein completed his report on September 10.  
+Hagen provided the report to Serta the same date.  Karrow also completed 
+his vocational report on September 10, and Hagen provided the report to 
+Serta the next day.   
+ 
+ 
+One week before the September 25 arbitration hearing, Serta filed a written 
+objection to these exhibits, asserting the experts were not timely identified, their 
+reports were not timely produced, and their consideration would be unfairly 
+prejudicial to Serta.  Specifically, Serta claimed: 
+The production of [Dr. Kuhnlein’s] report after the 30-day deadline is 
+prejudicial to Defendants as they were not aware of Dr. Kuhnlein’s 
+opinions regarding the extent of impairment and permanent work 
+
+ 
+5
+restrictions until 15 days prior to the Arbitration Hearing.  In addition, 
+Mr. Karrow’s report concluding that the claimant is permanently and 
+totally disabled was produced to Defendants 14 days prior to the 
+Arbitration Hearing.  Given the late production of the reports, 
+Defendants are unable to respond or rebut Dr. Kuhnlein or Mr. 
+Karrow. 
+ 
+ 
+Hagen resisted, arguing Serta was not prejudiced by the delay, as it was 
+“aware the exhibits were forthcoming and all exhibits were provided prior to the 
+exhibit filing deadline.”  To alleviate Serta’s purported inability to respond to the 
+exhibits, Hagen suggested “leaving the record open for an appropriate amount of 
+time following the hearing to permit Defendants to rebut the reports, should they 
+choose to do so.” 
+ 
+The case proceeded to the arbitration hearing, where one of the disputed 
+issues was whether Hagen was permanently and totally disabled.  At the start of 
+the hearing, the deputy commissioner considered Serta’s request to exclude the 
+exhibits.  After hearing the parties’ arguments on that issue, which included Serta’s 
+claim of “complete surprise,” the deputy asked Serta’s counsel for her position on 
+leaving the record open for rebuttal evidence.  Counsel responded that would not 
+alleviate the prejudice because Serta would have “to go expend additional 
+expenses and costs and time,” which would cause further delay.  Ultimately, the 
+deputy sided with Serta, finding exclusion was proper “if there’s an unfairly 
+prejudicial instance, which I believe there is.”   
+ 
+After the hearing, Hagen asked the deputy to reconsider his exclusion of 
+the exhibits.  The deputy denied the motion, reasoning: 
+ 
+The claimant argues that, despite flouting the long established 
+procedural rules noted above, no prejudice occurred, and thus the 
+undersigned should reconsider the ruling and admit the proposed 
+exhibits into evidence.  Failing to adhere to the well-established 
+
+ 
+6
+timelines discussed above causes an inherent prejudice to litigants.  
+The defendants were prejudiced by late production of reports. . . .  I 
+agree with the defendants that leaving the record open to obtain 
+rebuttal reports would only serve to delay the final disposition of this 
+matter, which is why I declined, and continue to decline to do so.  
+ 
+ 
+In his ensuing arbitration decision, the deputy found Hagen failed to prove 
+she is permanently and totally disabled, she reached maximum medical 
+improvement on July 23, 2019, and she suffered an industrial disability of sixty 
+percent.  Both parties appealed to the commissioner.  On the exclusion issue, while 
+the commissioner found Serta’s claim of “complete surprise” was not correct, he 
+agreed “there was some element of surprise.”  Given the nature of the exhibits and 
+the timing of their production, the commissioner found Serta “proved unfair surprise 
+and prejudice.”  And while the commissioner agreed leaving the record open “is 
+often the preferred remedy employed by deputy commissioners in similar 
+circumstances,” he found the deputy did not abuse his discretion in not exercising 
+that option.  The commissioner affirmed the deputy on the issues of permanent 
+disability, maximum medical improvement, and industrial disability.  
+ 
+Hagen petitioned for judicial review in the district court challenging, among 
+other things, the exclusion of the Kuhnlein and Karrow reports.  After briefing from 
+the parties, the court entered a ruling reversing the commissioner’s decision and 
+remanding for further proceedings.  The court found the deputy and commissioner 
+decided to exclude the reports “without first making the necessary finding that 
+admitting these reports would be unfairly prejudicial to” Serta, but instead 
+“assumed that the prejudice to [Serta] inherent in the late disclosure and 
+production of the reports by Hagen was sufficient, in itself, to warrant their 
+exclusion from the record.”  The court found reliance on that assumption 
+
+ 
+7
+“constitutes an abuse of discretion and a failure to apply and interpret the law 
+correctly.”  Alternatively, the court found there was no evidence in the record to 
+support a finding of unfair prejudice.  So the court reversed the agency’s decision 
+and remanded with directions for the commissioner to admit the reports and other 
+exhibits and to “leave the record open for whatever length of time he deems 
+sufficient to permit [Serta] an opportunity to file responsive reports, and then revisit 
+and rule on the issues.”  Serta appeals.  
+II. 
+Standard of Review 
+ 
+Iowa Code section 17A.19 (2021) governs judicial review of agency 
+decisions.  See Neal v. Annett Holdings, Inc., 814 N.W.2d 512, 518 (Iowa 2012).  
+The district court acts in an appellate capacity in judicial-review proceedings.  Id.  
+When reviewing that decision on appeal, we apply the relevant standards of 
+section 17A.19(10) to determine whether we reach the same results as the district 
+court.  Id.  If so, “we affirm; otherwise, we reverse.”  Id. (citation omitted).   
+ 
+The relevant standards here are those set forth in section 17A.19(10)(m) 
+and (n), which provide that relief may be granted on judicial review if the 
+“substantial rights of the person seeking judicial relief have been prejudiced” 
+because the agency action is “[b]ased upon an irrational, illogical, or wholly 
+unjustifiable application of law to fact” or “[o]therwise unreasonable, arbitrary, 
+capricious, or an abuse of discretion.”   
+III. 
+Analysis 
+ 
+It is not disputed that, for the Kuhnlein and Karrow reports, Hagen missed 
+the deadlines for certifying experts, completing and serving of reports from 
+independent medical examinations, and exchanging of exhibits.  See Iowa Admin. 
+
+ 
+8
+Code r. 876-4.19(3)(b), (d).  Instead, the question is whether these reports were 
+properly excluded under rule 876-4.19(3)(e), which expressly provides that 
+untimely evidence will only be excluded “if the objecting party shows that receipt 
+of the evidence would be unfairly prejudicial.”2  
+ 
+On that question, Serta first claims that it was prejudiced by the late 
+disclosure of the reports because it was unaware of the reports’ conclusions before 
+receiving them, thus subjecting it to a potential “trial by ambush.”  While Serta 
+claims surprise, it knew these reports, and the potential for differing opinions on 
+the extent of Hagen’s permanent disability, would be coming as early as November 
+2019.  We agree with the dissent that “[k]nowing a report is coming as opposed to 
+having the expert reports available so that trial preparation can be meaningful are 
+two totally different considerations.”  But Serta was nevertheless prepared for the 
+differing opinions, as its counsel told the deputy at the arbitration hearing: “[A]nd 
+now Defendants have been required to prepare for hearing within two weeks [with] 
+the two expert opinions.”  So the trial-by-ambush claim is unfounded since Serta 
+had an opportunity to prepare a defense.   
+ 
+Second, Serta submits it “would have no ability to obtain new experts or 
+otherwise respond to the reports.”  But Serta already had experts on the issues in 
+the reports—an independent medical evaluation report issued by its medical 
+examiner, Dr. Thomas Gorsche, and a very recently completed vocational report 
+ 
+2 The parties do not address the potential applicability of rule 876-4.36, which 
+separately allows “excluding or limiting evidence” upon a failure to comply with any 
+of the administrative rules.  Because rule 876-4.19(3)(e) is more specific, it would 
+control.  See Braaksma v. Bd. of Dirs. of Sibley-Ocheyedan Cmty. Sch. Dist., 981 
+N.W.2d 134, 139 (Iowa 2022). 
+
+ 
+9
+by Lana Sellner, both of which were admitted as evidence at the arbitration 
+hearing.  Those reports themselves could have served as rebuttal responses to 
+Hagen’s exhibits.  Or Serta could have taken advantage of the offer to hold the 
+record open for rebuttal, potentially from its previously retained experts, which the 
+commissioner noted is “the preferred remedy employed by deputy commissioners 
+in similar circumstances.”  See Bos v. Climate Eng’rs, Inc., No. 17-0159, 2017 WL 
+6027162, at *4 (Iowa Ct. App. Nov. 22, 2017) (“[T]he agency offered Bos thirty 
+days to file a reply to the vocational report.  Bos declined the offer.  The offer of 
+additional time to rebut the report eliminated any prejudice from the late 
+disclosure.”).  So Serta’s claimed inability to respond rings hollow.   
+ 
+Third, Serta argues “leaving the record open and obtaining rebuttal reports 
+only delays the final disposition of a case.”  But Serta does not state how a delay 
+in final disposition would cause it unfair prejudice.  And the record was already left 
+open by the deputy for post-hearing briefing from the parties.  We accordingly 
+share the district court’s skepticism with the genuineness of Serta’s claimed desire 
+for final disposition of the case.  Even if that desire was genuine, allowing additional 
+time would further the purpose of workers’ compensation statutes—to benefit the 
+worker—with no demonstrable unfair prejudice to Serta.  See Schoenfeld v. FDL 
+Foods, Inc., 560 N.W.2d 595, 599 (Iowa 1997) (finding that the exclusion of an 
+evaluation report “would run contrary to the primary purpose of the workers’ 
+compensation statute, which is for the benefit of the worker”). 
+ 
+It is true, as Serta argues, that these reports were not by a treating 
+physician, as was the case in Schoenfeld, 560 N.W.2d at 598–99, where our 
+supreme court found the commissioner abused his discretion in excluding an 
+
+ 
+10 
+untimely report from the employee’s treating physician because there was no 
+“unfair surprise” to the other party.  And it is also true that “Schoenfeld should not 
+be read so broadly as to require admission of evidence received after the cutoff 
+date on the basis the employer merely knew of the existence of the reporting 
+doctor.”3  Trade Pros., Inc. v. Shriver, 661 N.W.2d 119, 122 (Iowa 2003).  But the 
+supreme court has stated a preference for “a reasonable balancing of the parties’ 
+interests,” which involves admitting the report and providing the employer 
+additional time to respond.  Id. at 122–23.  And Schoenfeld and Trade 
+Professionals, both of which resulted in admission of the reports at issue, 
+concerned expert reports that were disclosed only six and four days before 
+hearing.  See Trade Pros., 661 N.W.2d at 121; Schoenfeld, 560 N.W.2d at 597.  
+Here, we are dealing with roughly two weeks on an issue that Serta knew was 
+disputed and was prepared to address at the hearing. 
+ 
+We recognize our historical reluctance to interfere with the commissioner’s 
+imposition of sanctions for disclosure violations.  See Trade Pros., 661 N.W.2d at 
+123; Schoenfeld, 560 N.W.2d at 598.  But Schoenfeld and Trade Professionals 
+were decided before rule 876-4.19(3)(e) went into effect in 2004.  Before then, 
+discovery deadlines were set by administrative case assignment orders.  See Iowa 
+Admin. Code rs. 876-4.19, .20 (2003).  For instance, the order at issue in 
+Schoenfeld did not assign a burden on the issue of prejudice to either party—it 
+was simply a question for the deputy or commissioner to decide.  560 N.W.2d at 
+ 
+3 We think this admonition, and the few cases on the issue since Schoenfeld and 
+Trade Professionals, answer the dissent’s concern “that some might use this 
+majority opinion as a map to ignore deadlines and navigate around the rules.”  
+
+ 
+11 
+597 (noting the case assignment order allowed additional exhibits “only if a party 
+was not unfairly surprised by their introduction into evidence”).  At the time of the 
+hearing here, the rule placed the burden on the objecting party to “show[] that 
+receipt of the evidence would be unfairly prejudicial.”  Iowa Admin. Code r. 876-
+4.19(3)(e) (2021).  So to the extent the rule grants the commissioner discretion, 
+we believe that discretion can be exercised only upon the objecting party’s showing 
+of unfair prejudice.4  See Thornberry v. State Bd. of Regents, 186 N.W.2d 154, 161 
+(Iowa 1971) (“‘[A]buse of discretion’ means no discretion to do what was done.”).   
+ 
+We agree with the district court that is where the commissioner went 
+wrong—excluding the reports simply because of the prejudice inherent in their late 
+disclosure, rather than holding Serta to its burden to show unfair prejudice from 
+the receipt of the evidence.  See, e.g., IBP, Inc. v. Al-Gharib, 604 N.W.2d 621, 631 
+(Iowa 2000) (concluding the agency’s blanket exclusion of testimony from 
+ 
+4 Viewed in this way, the question of whether the objecting party met their burden 
+to show unfair prejudice arguably involves the commissioner’s application of the 
+law to the facts, which would be reviewed for correction of errors at law, as 
+opposed to an abuse-of-discretion standard.  See Meyer v. IBP, Inc., 710 N.W.2d 
+213, 218–19 (Iowa 2006).  We recognize that is not the standard used by our 
+supreme court in Schoenfeld or Trade Professionals, or by this court in reliance on 
+those cases.  See, e.g., Bos, 2017 WL 6027162, at *4 (citing Trade Pros., 661 
+N.W.2d at 123).  But, as discussed above, Schoenfeld and Trade Professionals 
+were decided before rule 876-4.19(3)(e) was adopted and without the assignment 
+of a burden on the prejudice showing.  Either way, if the commissioner had no 
+“legal discretion” to exclude the reports absent a showing of unfair prejudice, then 
+doing so absent that showing would still warrant relief under an abuse-of-discretion 
+standard.  See, e.g., Sparks v. Long, 11 N.W.2d 716, 718 (Iowa 1943) (noting the 
+discretion a trial court possesses to grant a motion for new trial “is a legal 
+discretion—one that must be exercised upon sound judicial reasoning”); accord 
+Stockwell v. Chi., C. & D.R. Co., 43 Iowa 470, 476 (1876) (“If a new trial is granted 
+upon insufficient cause or for reasons in conflict with the law, we must regard the 
+case as one of abuse of the discretion of the court.”); Johnston v. Percy Constr., 
+Inc., 258 N.W.2d 366, 371 (Iowa 1977) (“[T]he bounds of fair discretion are 
+exceeded if the ruling lacks a sound legal basis.”).    
+
+ 
+12 
+psychologists on causation was an abuse of discretion); cf. Square D Co. v. 
+Plagmann, No. 11-0655, 2011 WL 6673544, at *6 (Iowa Ct. App. Dec. 21, 2011) 
+(deferring to the agency’s exclusion of an untimely expert report even though no 
+finding of unfair prejudice was made).  Such an interpretation (one automatically 
+equating late disclosure with prejudice) is at odds with the language of the rule and 
+swallows the admissibility avenue it provides for untimely reports.   
+ 
+Because Serta failed to show that the receipt of the evidence would be 
+unfairly prejudicial as required by rule 876-4.19(3)(e), we conclude the 
+commissioner abused his discretion in excluding the untimely reports.  We 
+accordingly affirm the judgment of the district court. 
+ 
+AFFIRMED.   
+ 
+Bower, C.J., concurs; Greer, J., dissents. 
+ 
+ 
+
+ 
+13 
+GREER, Judge (dissenting) 
+ 
+ 
+I dissent from the majority opinion because I disagree with the district court’s 
+finding that the commissioner abused his discretion by excluding the reports after 
+Hagen failed to meet well-established deadlines.   
+Though the commissioner generally stated that Serta was unfairly 
+prejudiced, I would infer that the commissioner made sufficient findings.  See 
+Square D. Co. v. Plagmann, No. 11-0655, 2011 WL 6673544, at *6 (Iowa Ct. App. 
+Dec. 21, 2011) (“Although the deputy did not make a specific finding of fact 
+concerning the possibility of unfair prejudice to Plagmann, we infer that such a 
+finding was implicit in the deputy’s decision to sustain Plagmann’s objection and 
+to exclude the exhibit.”).  Moreover, the commissioner outlined the appropriate 
+standard and recognized that unfair prejudice was a prerequisite to exclusion.  As 
+the deputy stated in the written arbitration ruling, “[f]ailing to adhere to the well-
+established timelines discussed above causes inherent prejudice to litigants.  The 
+defendants were prejudiced by late production of reports.”    
+I would also agree with the commissioner that because service on 
+September 10 and 11 of two detailed expert opinion reports—one an independent 
+medical examination report (seventeen pages long) and the other a report from a 
+vocational expert (thirteen pages long)—was just days before the September 25 
+hearing, this delay likely would be prejudicial to any party as Serta argued.  
+Knowing a report is coming as opposed to having the expert reports available so 
+that trial preparation can be meaningful are two totally different considerations.  I 
+do not find the commissioner’s choice to uphold the deadlines imposed rather than 
+employing a work-around to be an abuse of discretion.   
+
+ 
+14 
+ 
+Given the deferential standard of our review, particularly toward an agency 
+decision, I would not find it was unreasonable for the commissioner to uphold the 
+deadlines and would reverse the district court’s decision.  While the penalty of 
+excluding evidence is harsh, “[i]t is of no concern to a court reviewing an 
+administrative sanction whether a different sanction would be more appropriate or 
+whether a less extensive sanction would have sufficed; such matters are the 
+province of the agency.”  Marovec v. PMX Indus., 693 N.W.2d 779, 782 (Iowa 
+2005).   
+ 
+More broadly, it strikes me that some might use this majority opinion as a 
+map to ignore deadlines and navigate around the rules.  I think an agency should 
+have discretion to apply the standards so that does not become the pattern.   

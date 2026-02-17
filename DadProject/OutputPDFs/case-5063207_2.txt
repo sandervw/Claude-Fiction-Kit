@@ -1,0 +1,641 @@
+Case Number: 5063207
+Case Title:  GRUGAN, EUNICE M V. WAL-MART STORES INC
+Doc Type:    Decision - District Court
+Source:      Grugan, Eunice-5063207.District Court Decision.pdf
+========================================================================
+
+1 
+ 
+ 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+ 
+EUNICE GRUGAN, 
+ 
+Petitioner/Claimant, 
+ 
+v. 
+ 
+WAL-MART STORES,  
+ 
+                   Respondent/Employer, and 
+ 
+NEW HAMPSHIRE INS. CO., 
+ 
+               Respondent/Insurance Carrier. 
+ 
+ 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+ 
+ 
+               Case No. CVCV060028 
+ 
+ 
+ 
+ 
+  
+ORDER ON JUDICIAL REVIEW 
+ 
+ 
+ 
+Telephonic oral argument in this judicial review of final agency action by the Iowa 
+workers’ compensation commissioner was held on July 17, 2020.  Appearing for Petitioner was 
+attorney Richard Schmidt.  Appearing for Respondents was attorney Valerie Foote for attorney 
+Lindsey Mills.  Oral argument was not reported. 
+ 
+Upon consideration of the Petition, the court file, and the respective statements of 
+counsel, the court enters the following Order. 
+FINDINGS OF FACT 
+Petitioner Eunice Grugan (Claimant) sustained injuries to her back and right hip on 
+January 19, 2017, while at work for Wal-Mart, Inc. She filed a workers’ compensation claim 
+against Wal-Mart, Inc. and their insurer, New Hampshire Ins. Co. (Respondents). Deputy 
+commissioner James Elliott (the deputy) awarded Claimant a seventy percent industrial disability 
+as a result of her work injury.  Respondents sought intra-agency review by the commissioner. 
+The commissioner’s March 16, 2020, appeal decision modified the deputy’s decision 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+2 
+ 
+regarding Claimant’s industrial disability. The commissioner found the deputy’s industrial 
+disability determination was excessive, and the evidence instead supported a reduced finding of 
+thirty-five percent industrial disability.  The sole issue presented on judicial review is whether 
+the commissioner’s decision reducing Claimant’s industrial disability from seventy percent to 
+thirty-five percent is supported by substantial evidence and agency precedent. 
+ 
+Claimant was sixty-two years old at the time of hearing.  (Hr. Tr. p. 11).1  She is a high 
+school graduate.  (Hr. T. p. 13).  She went to a two-year commercial art design school after high 
+school, where she earned a certificate.  (Hr. T. p. 13).   Claimant worked briefly in ad design, but 
+the bulk of her work experience is in customer service.  (Id.).   
+ 
+While working for different print shops, Claimant discovered that she was exceptionally 
+good at math.  (Hr. T. p. 13).  She started taking orders and creating quotes.  (Ex. A, pp. 5-6).  
+Claimant also has experience in data entry, working for approximately one year processing life 
+insurance policies.  (Hr. Tr. p. 15).  Claimant worked for Anthony & Hill, a refrigeration 
+company, for nine years, beginning with processing shelf orders and eventually becoming the 
+assistant manager.  (Ex. A, pp. 10-11).  When that company closed, Claimant went to work for 
+Menard’s distribution, where she would check in trucks and process orders using a computer.  
+(Ex. A, pp. 13-14).  Claimant worked for Menard’s for approximately four months before 
+leaving to find a job closer to her home.  (Ex. A, p. 14).  She was then hired at Wal-Mart.  (Ex. 
+A, p. 15).   
+ 
+Claimant’s first job position at Wal-Mart was as a stocker.  (Ex. A, p. 15).  She worked as 
+                                                 
+1 Several documents within the certified agency record carry multiple page identifiers on each 
+page of the affected documents.  The court’s citations to these documents are generally within a 
+range of one or two pages, depending upon which page number the reader believes is correct. 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+3 
+ 
+a stocker for approximately six months before becoming the department manager of infants and 
+shoes.  (Id.).  On January 19, 2017, Claimant was working in the warehouse in bins that 
+merchandise is pulled from.  (Ex. A, p. 25).  There were two large boxes, one on top of the other, 
+weighing around forty pounds.  (Ex. A, p. 26).  When Claimant went to pull the top box off, it 
+started sliding. (Id.). She was still holding in to it when it slipped and fell to the ground.   
+Claimant alleges that it “kind of whipped” her back and “it snapped.”  (Id.).  Claimant said she 
+experienced an immediate onset of pain in her low back and right hip.  (Id.).  She finished her 
+shift for the day and went home.  (Ex. A, p. 27).  The next day, Claimant came to work and 
+reported her injury.  (Id.).   
+ 
+Claimant’s medical history is relevant to her industrial disability claim.  She had ongoing 
+neck and back issues for years prior to the work injury alleged here.  Claimant damaged her neck 
+and upper back in a motor vehicle accident in 1990.  She still experiences pain secondary to that 
+accident.  (Ex. A, p. 52).  In 2000, Claimant was involved in another automobile accident and 
+received chiropractic care.  (Ex. A, p. 56).  In February 2008, Claimant injured her back after 
+falling on ice.  (JE1, pp. 1-2).  She had another slip and fall injury on ice in December 2009.   
+(JE2, p. 2).  Lumbar and thoracic x-rays demonstrated multilevel hypertrophic osteoarthritis of 
+the lower lumbar spine.  (JE2, p. 1).  Claimant was referred for a course of physical therapy from 
+January 13, 2010, to February 5, 2010.  (JE2, p. 5).    
+ 
+On October 7, 2011, Claimant underwent a “physical capacity profile,” which was 
+essentially a functional capacity evaluation (FCE), at Cass County Memorial Hospital.2  (JE3).  
+                                                                                                                                                             
+ 
+2 The court will refer to this evaluation as FCE I, and a subsequent FCE discussed later in this 
+Order as FCE II for consistent ease of reference herein. 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+4 
+ 
+Claimant’s results indicated she was capable of performing in the medium vocational duty work 
+category, exerting up to ten to twenty-five pounds of force frequently.  (JE3, p. 1).  FCE I also 
+indicated Claimant had a history of prior episodes of back pain in her physical capacity profile. 
+(JE3, p. 2).   
+About four years before the instant work injury, Claimant fell over some boxes in her 
+garage and injured her back.  (Ex. A, pp. 55-56).  She received chiropractic treatment after that 
+injury.  (Ex. A, p. 56).  Claimant admitted she had chronic back pain associated with that fall, as 
+well as aches and pains from old age.  (Ex. A, p. 26).  Prior to the work injury, Claimant was 
+regularly seeing a chiropractor for monthly adjustments of her neck and back.  (Ex. A, p. 51).   
+On January 20, 2017, the day after the work injury, Claimant presented to Atlantic 
+Medical Center with complaints of low back pain with radiation into her lower leg.  (JE1, p. 3).  
+Physician Assistant Scott Hixson (PA Hixson) diagnosed Claimant with low back pain and 
+recommended Claimant apply heat and ice to her back and take over-the-counter ibuprofen as 
+needed.  (JE1, p. 4).  PA Hixson gave Claimant a light duty work restriction of no lifting more 
+than five pounds and no kneeling, squatting, bending, stooping, pushing, pulling, climbing and 
+overhead reaching.  (JE1, pp. 5, 6).   
+On January 23, 2017, Claimant returned to PA Hixson for follow up. (JE1, p. 6).  
+Claimant reported worsening pain including a cold sensation in her back and inability to stand 
+for long periods of time. (Id.).  X-ray imaging of Claimant’s lumbar spine demonstrated 
+degenerative changes of the lumbar spine.  (JE1, p. 8).  PA Hixson prescribed Flexeril and 
+Tramadol, referred Claimant to physical therapy, and took Claimant off work.  (JE1, p. 7).   
+Claimant reported continued symptoms with no improvement at her return appointment 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+5 
+ 
+with PA Hixson on January 25, 2017.  (JE1, p. 11).  PA Hixson instructed Claimant to use ice 
+and heat and remain off work.  (JE1, p. 12).   
+Claimant initiated physical therapy on January 30, 2017, at Cass County Memorial 
+Hospital.  (JE4, p. 3).  Physical Therapist Laura Hickman (PT Hickman) recommended that 
+Claimant participate in therapy two times a week for three weeks.  (JE4, p. 4).   
+On February 1, 2017, Claimant returned to PA Hixson.  She was exhibiting improvement 
+in her symptoms.  (JE1, p. 16).  PA Hixson provided Claimant with light duty work restrictions 
+to begin February 6, 2017, including a maximum lift of five pounds for four hour work days.  
+(JE1, p. 17).  He also indicated Claimant should be allowed to stand as needed, with no overhead 
+reaching, no above shoulder work, no squatting, bending, stooping, twisting or pushing and 
+pulling.  (Id.).  
+At Claimant’s follow up appointment on February 17, 2017, PA Hixon noted Claimant 
+reported (1) continued moderate to severe pain in her low back, and (2) physical therapy was 
+only helping minimally. (JE1, pp. 23-24).  PA Hixson referred Claimant for a lumbar spine MRI 
+and provided light duty work restrictions.  These restrictions included 50/50 stand and sit with a 
+maximum of six hour days. (Id.).   
+Claimant underwent an MRI of her lumbar spine at Alliance Radiology on March 6, 
+2017.  (JE5, p. 1).  Claimant’s MRI demonstrated multilevel, mild degenerative spondylosis and 
+a small right, paracentral disc herniation at L1-L2.  (JE5, p. 2).   
+ 
+Dr. David Boarini examined Claimant for a neurosurgical consultation on April 12, 2017, 
+at the Iowa Clinic.  (JE6, pp. 1-7).  Dr. Boarini reviewed Claimant’s MRI imaging and observed 
+that she had “significant underlying degenerative changes in her spine.”  (JE6, p. 5).  Dr. Boarini 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+6 
+ 
+recommended an epidural steroid injection, nonsteroidal medication and aggressive physical 
+therapy.  (Id.).  He did not recommend surgical intervention. (Id.).  He imposed a ten-pound 
+lifting restriction and encouraged Claimant to follow up.  (JE6, p. 7).   
+ 
+Dr. Hansen provided Claimant a L4-L5 epidural and bilateral L4-L5 facet joint injections 
+on April 27, 2017.  (JE6, pp. 11-13).   
+ 
+Claimant returned to the Iowa Clinic on May 18, 2017, for follow up.  (JE6, pp. 15-17).  
+ARNP Karla Stapes noted Claimant reported the injections resulted in a fifty percent relief of 
+symptoms.  (Id. at 15).   
+ 
+On May 24, 2017, Claimant returned to Dr. Boarini for follow up of her back pain with 
+degenerative changes and scoliosis.  (JE6, pp. 20-21).  Claimant said she felt work aggravated 
+her back symptoms too much to continue with her present work level.  (Id. at 21).  Dr. Boarini 
+suggested Claimant undergo an FCE to get an objective suggestion for limitations on her work 
+activities.3  (Id.).   
+On June 1, 2017, Claimant underwent FCE II at ARC Physical Therapy.  (JE8).  Physical 
+Therapist John Kruzich (PT Kruzich) opined Claimant provided a valid effort and demonstrated 
+the physical capability of working in a medium demand vocation.  (JE8, p. 1).  PT Kruzich 
+recommended Claimant lift up to twenty-five pounds waist to floor occasionally, twenty pounds 
+above shoulder lifting occasionally and up to twenty-five pounds carrying occasionally.  (Id.).   
+ 
+On June 6, 2017, Claimant returned to Dr. Boarini for follow up, reporting that FCE II 
+had flared up her back pain.  (JE6, p. 22).  Dr. Boarini noted Claimant’s back pain was isolated 
+                                                 
+3 It is unclear whether Dr. Boarini was aware of FCE I. 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+7 
+ 
+with no radicular component and she was not an operative candidate.  (JE6, p. 23).  He gave 
+Claimant a fluoroscopy facet block at the lumbar and sacral level.  (Id.).   
+ 
+Claimant obtained a pre-written opinion letter from Dr. Hansen on June 26, 2017.  (CL 1, 
+pp. 1-2).  Dr. Hansen checked ‘yes’ in response to whether he believed the work incident of 
+January 19, 2017, at Wal-Mart was a substantial causal, contributing, or aggravating factor of 
+Claimant’s back condition.  (Id. at p. 1).  He also agreed Claimant’s need for medical care and 
+treatment is related to that incident.  (Id. at p. 2).  As additional medical care, Dr. Hansen 
+recommended that Claimant continue her medications.  (Id.).   
+ 
+On August 4, 2017, Claimant underwent right lumbar denervation and radiofrequency 
+ablation with Dr. Hansen.  (JE9).  On August 16, 2017, Claimant returned to the Iowa Clinic for 
+follow up.  Repeat injections were recommended.  (JE6, p. 31).   
+ 
+Claimant returned to the Iowa Clinic on September 8, 2017, requesting a repeat injection.  
+(JE6, p. 32).  Medical notes from that date indicate Claimant had improved since her radio 
+frequency ablation over the prior month.  (JE6, p. 33).  Claimant’s epidural and facet block 
+injections were repeated.  It was noted that if she did not improve, denervation could be repeated.  
+(Id.).  Dr. Hansen gave Claimant a note detailing work restrictions.  These restrictions included a 
+twenty pound lifting limit, avoiding repetitive forward flexion, and alternating sitting and 
+standing every thirty minutes.  (JE6, p. 35).  Claimant wrote on the note that these were 
+“permanent restrictions from Dr. Thomas Hansen.”  (Id.)  However, there is no indication from 
+Dr. Hansen on the note detailing the restrictions or in the notes from Claimant’s visit that these 
+were intended to be permanent restrictions by Dr. Hansen.   
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+8 
+ 
+Claimant underwent an independent medical examination (IME) by Dr. Todd Harbach at 
+Iowa Ortho on October 13, 2017.  (Ex. B).  Dr. Harbach diagnosed Claimant with degenerative 
+lumbar scoliosis, multilevel degenerative disc disease and right lower extremity radiculitis.   
+(Ex. B, pp. 4-6).  Dr. Harbach opined that all of Claimant’s diagnoses pre-existed her work 
+injury except for her back pain, which he believed aggravated or lit up her degenerative 
+conditions.  (Id. at p. 5).  Dr. Harbach assigned Claimant a five percent permanent impairment of 
+the whole person and recommended that she follow the permanent restrictions outlined in FCE 
+II.  (Id.).  Because Claimant insisted she had worsening right lower extremity pain and weakness, 
+Dr. Harbach recommended an EMG/nerve conduction study.  (Id.) 
+ 
+Claimant underwent the EMG/nerve conduction study on November 27, 2017.  (JE10).  
+All examined muscles revealed no evidence of electrical instability. (Id.).  There were no 
+findings to suggest lumbar radiculopathy involving the right lower limb.  (Id.).  However, the 
+right peroneal motor and sural sensory nerve potentials were not recorded.  This suggested a 
+sensorimotor neuropathy involving the right lower limb to some extent.  However, these findings 
+were of questionable current significance given Claimant’s clinical presentation.  (Id.).   
+Claimant underwent a second IME with Dr. Robin Sassman on December 20, 2017.   
+(CL 2).  Dr. Sassman diagnosed Claimant with low back pain with radiculopathy with MRI 
+evidence of an L1-2 disc herniation.  (CL 2, p. 9).  She assigned a thirteen percent whole person 
+impairment secondary to Claimant’s low back injury, and recommended restrictions including 
+limiting lifting, pushing, pulling and carrying to twenty pounds rarely from floor to waist, twenty 
+pounds occasionally from floor to shoulder, and twenty pounds rarely above shoulder height.  
+(JE2, p. 10).  Additionally, Dr. Sassman recommended limiting standing and walking to an 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+9 
+ 
+occasional basis and frequent changing of positions.  (JE2, p. 10).   
+ 
+On December 29, 2017, Claimant presented to Dr. Angela Weppler with right sided back 
+and leg pain.  (JE11, p. 1).  Dr. Weppler noted Claimant was struggling with pain control.  Dr. 
+Weppler recommended an evaluation and an MRI.  (JE11, p. 2).  She made no mention of 
+Claimant’s prior MRI or prior medical records, so it appears unlikely that she was aware of 
+Claimant’s prior imaging or prior medical treatment in making her recommendations.  
+ 
+Claimant is currently back at Wal-Mart, working full time.  (Hr. Tr. pp. 41-42).  While 
+Claimant was treating for her work injury and was working light duty, Wal-Mart needed to fill 
+her prior job position.  Claimant therefore relinquished that position.  (Ex. A, p. 16).  While on 
+light duty, Claimant gradually increased her hours back at work, per her physician’s restrictions, 
+until she was back at her regular forty hours again.  (Ex. A, p. 23).   
+Since the work injury, Claimant has earned a pay raise, from $12.75 per hour to $13.00 
+per hour.  (Hr. Tr. p. 53).  Claimant has worked in the fitting room and in the lawn and garden 
+department.  (Hr. Tr. pp. 42-43).  She has considered transferring to other departments within 
+Wal-Mart, working as either a door greeter or a back-up cashier.  (Hr. Tr. pp. 49-50).  She 
+testified she intends to continue working for Wal-Mart into the foreseeable future.  (Hr. Tr. p. 
+49).    
+STANDARD OF REVIEW 
+In reviewing workers' compensation decisions, the court must apply the standards of 
+judicial review set forth in the Iowa Administrative Procedure Act (IAPA), Iowa Code Chapter 
+17A.  Bell Bros. Heating & Air Conditioning v. Gwinn, 779 N.W.2d 193, 199 (Iowa 2010).  
+Under the IAPA, the court “may only interfere with the commissioner's decision if it is erroneous 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+10 
+ 
+under one of the grounds enumerated in the statute, and a party's substantial rights have been 
+prejudiced.”  Meyer v. IBP, Inc., 710 N.W.2d 213, 218 (Iowa 2006).   
+If the claim of error lies with the agency's findings of fact, the proper question on review 
+is whether substantial evidence supports those findings of fact when the record is viewed as a 
+whole. Meyer, 710 N.W.2d at 219.  The commissioner's fact findings must be supported by 
+substantial evidence in the record as a whole. Id. at 218.  Substantial evidence is defined as 
+evidence of the quality and quantity “that would be deemed sufficient by a neutral, detached, and 
+reasonable person, to establish the fact at issue when the consequences resulting from the 
+establishment of that fact are understood to be serious and of great importance.”  
+Iowa Code § 17A.19(f)(1); Mycogen Seeds v. Sands, 686 N.W.2d 457, 464-65 (Iowa 2004).   Put 
+another way, evidence is substantial when a reasonable person could accept it as adequate to 
+reach the same finding.  Asmus v. Waterloo Cmty. Sch. Dist., 722 N.W.2d 653, 657 (Iowa 2006).  
+“[The] question is not whether there is sufficient evidence to warrant a decision the 
+commissioner did not make, but rather whether there is sufficient evidence to warrant the 
+decision he did make.”  Musselman v. Cent. Tel. Co., 154 N.W.2d 128, 130 (Iowa 1967).   
+In reviewing an agency’s finding of fact for substantial evidence, courts must engage in a 
+“fairly intensive review of the record to ensure that the fact finding is itself reasonable.”  Neal v. 
+Annett Holdings, Inc., 814 N.W.2d 512, 525 (Iowa 2012) (citing Wal-Mart Stores, Inc. v. 
+Caselman, 567 N.W.2d 493, 499 (Iowa 2003)).  In this fairly intensive review, the court is to 
+view the record as a whole, which includes considering evidence supporting the challenged 
+finding as well as evidence detracting from it.  Id. (citing Iowa Code § 17A.19(f)(3)); Dawson v. 
+Iowa Bd. of Med. Exam’rs, 654 N.W.2d 514, 518 (Iowa 2002)).  “The question on appeal is not 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+11 
+ 
+whether the evidence supports a different finding than the finding made by the commissioner, 
+but whether the evidence supports the findings actually made.”  Meyer, 710 N.W.2d at 218.   
+Where an issue is raised regarding the application of the law to the facts, the must reverse 
+if the commissioner's application is “irrational, illogical, or wholly unjustifiable.”   
+Iowa Code § 17A.19(10)(l); Mycogen Seeds, 686 N.W.2d at 465.  The court gives some 
+deference to the commissioner's determination, but less deference than is given to the 
+commissioner's findings of fact.  Larson Mfg. Co., Inc. v. Thorson, 763 N.W.2d 842, 850 (Iowa 
+2009).   
+CONCLUSIONS OF LAW 
+A. 
+Whether the Commissioner Erred in Reducing Claimant’s Industrial 
+Disability from Seventy Percent to Thirty-Five Percent.  Claimant argues there is not 
+substantial evidence to support the commissioner’s appeal decision awarding Claimant thirty-
+five percent industrial disability.  She believes the deputy’s decision awarding her seventy 
+percent industrial disability is the proper determination.  Respondents argue the commissioner’s 
+appeal decision is supported by the substantial weight of the evidence when the agency record is 
+viewed as a whole and should therefore be affirmed.  
+In assessing the extent of a claimant’s industrial disability, the factors considered include 
+the extent of the claimant’s functional impairment, the claimant’s age, intelligence, education, 
+qualifications, experience, and ability to engage in employment for which the claimant is suited.  
+Diaz v. CRST Int’l., Inc., File No. 5018314, p. 14 (Arb. Dec. 07/28/08) (citing Second Injury 
+Fund of Iowa v. Shank, 516 N.W 2d 808, 813 (Iowa 1994)).  Stated another way, loss of earning 
+capacity is determined by considering the employee's functional impairment, age, education, 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+12 
+ 
+work experience, qualifications, ability to engage in similar employment, and adaptability to 
+retraining to the extent any of these factors affect the employee's prospects for relocation in the 
+job market.  Sherman v. Pella Corp., 576 N.W.2d 312, 321 (Iowa 1998).   
+Industrial disability is similar to tort damages in that both compare what an injured 
+person can earn before and after an injury.  Diaz, File No. 5018314 at *14 (citing Second Injury 
+Fund of Iowa v. Nelson, 544 N.W.2d 258, 265-66 (Iowa 1995)).  Assessing the loss of earning 
+capacity is “not measured in a vacuum.” Id. (citing Ehlinger v. State, 237 N.W.2d 784, 792 
+(Iowa 1976)).  A claimant’s industriousness and manner of living are other factors to be 
+considered.  Id.  A claimant’s industrial disability does not increase because a poor economy 
+affects the claimant’s ability to obtain employment.  Webb v. Lovejoy Constr. Co., 2 Iowa Indus. 
+Comm’s Rep. 430 (App. Dec. 1991); Felderman v. Teledyne Inc./CB Co., File No. 1003227 
+(App. Dec. 07/27/94); U.S. West Commc’n v. Overholser, 566 N.W.2d 873, 877 (Iowa 1997). 
+The certified agency record contains two opinions regarding Claimant’s degree of 
+permanent impairment as a result of her January 19, 2017, work injury.  These opinions come 
+from Claimant’s expert Dr. Sassman and Respondents’ expert Dr. Harbach. While both 
+physicians agree Claimant sustained permanent impairment as a result of the work injury, they 
+disagree as to what lumbar category Claimant properly falls under according to the AMA 
+Guides, 5th Edition.   
+Based upon her conclusion that Claimant’s work injury places her in DRE Lumbar 
+Category III, Dr. Sassman assigns Claimant a thirteen percent permanent impairment.  (JE2, p. 
+10).  Conversely, Dr. Harbach places Claimant in DRE Lumbar Category II and assigns 
+Claimant a five percent permanent impairment.  (Ex. B, p. 5).  Prior to her examination, Dr. 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+13 
+ 
+Sassman had the opportunity to review Dr. Harbach’s report and conclusions, and therefore 
+includes an explanation as to why her conclusions differed from Dr. Harbach’s.  She indicates 
+she believes Claimant has “significant signs of radiculopathy and has a history of a herniated 
+disc,” and that “the Category II definition does not accurately describe Claimant’s current 
+situation.”  (CL 2, p. 10).   
+ 
+Dr. Harbach also had the opportunity to review Dr. Sassman’s conclusions, and respond 
+as to whether his conclusions would change in light of her opinions and findings.  (Ex. B, pp. 9-
+10).  Dr. Harbach noted he was puzzled as to why Dr. Sassman would conclude Claimant 
+exhibited “significant signs of radiculopathy” when she also had the opportunity to review 
+Claimant’s EMG findings—which were negative for objective evidence of radiculopathy.   
+(Ex. B, p. 10).  Specifically, there were “no findings to suggest lumbar radiculopathy” on 
+Claimant’s EMG.  (JE10, p. 2).  Dr. Harbach opined that, based upon this reasoning, Dr. 
+Sassman’s conclusions were “completely incorrect.”  (Ex. B, p. 10).  Dr. Harbach further opined 
+that Dr. Sassman’s clinical diagnosis was not supported by the medical records, and that her 
+opinion regarding impairment was erroneous due to the fact that it was not supported by the 
+objective medical evidence.  (Id.).   
+Generally, the commissioner may accept or reject expert testimony in whole or in 
+part. Lithcote Co. v. Ballenger, 471 N.W.2d 64, 66 (Iowa Ct. App. 1991).  The commissioner 
+may not arbitrarily or totally reject such testimony, but must weigh the evidence and assess the 
+credibility of the witness.  Catalfo v. Firestone Tire & Rubber Co., 213 N.W.2d 506, 509 (Iowa 
+1973).  In the arbitration decision, the deputy did not offer an opinion as to which expert’s 
+opinion he found more reliable in this case.   
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+14 
+ 
+Administrative findings of fact must be sufficiently certain to permit a reviewing court to 
+ascertain with reasonable certainty the factual basis upon which the administrative officer or 
+body acted.  Cedar Rapids Steel Transp., Inc. v. Iowa State Commerce Comm’n, 160 N.W.2d 
+825, 837 (Iowa 1968), cert. denied, 394 N.W.2d 918, 89 S.Ct. 1189, 22 L.Ed. 2d 451 (1969). The 
+commissioner made clear his assessment of the dueling expert opinions in his intra-agency 
+review decision.  He found Dr. Harbach’s opinion to be more reliable under this record.  (Appeal 
+Decision, p. 2).  The commissioner stated he “agree[s] with defendants’ expert, Todd Harbach, 
+M.D., that the FCE is the best tool to obtain ‘objective conclusions’ pertaining to Claimant’s 
+functional limitations.” (Appeal Decision, p. 2).  That means the commissioner found Dr. 
+Sassman’s clinical diagnosis not supported by the medical records in this case, as Dr. Harbach 
+points out.  (Ex. B, p. 10).   
+Functional capability is one of the factors to be considered in an industrial disability 
+analysis. The commissioner clearly considered both FCE I and FCE II in reaching his conclusion 
+that Claimant’s “functional limitations and restrictions did not significantly change after the July 
+19, 2017, (sic) work injury.”4  (Appeal Decision, p. 2). 
+Claimant argues the commissioner adopting “the opinion of a one-time evaluating doctor 
+over a treating physician” is “contrary to agency precedent.”  This is not entirely correct.  The 
+weight to be given any expert opinion is for the agency as fact finder.  Rockwell Graphic Sys., 
+Inc. v. Prince, 366 N.W.2d 187, 192 (Iowa 1985).  The Iowa Supreme Court (the Court) has 
+rejected the argument that a treating physician’s testimony should be, as a matter of law, given 
+                                                 
+4 It is clear that the commissioner’s reference in his Order to July 19, 2017, as Claimant’s work 
+injury date is a scrivener’s error.  The record establishes that Claimant’s work injury date was 
+January 19, 2017.  (Appeal Decision, p. 1). 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+15 
+ 
+more weight than that of a later physician who examines the patient in anticipation of litigation. 
+Id.   
+Claimant argues the commissioner should have given greater weight to the opinion of Dr. 
+Hansen, Claimant’s treating physician, over Dr. Harbach, an expert.  However, as noted above, 
+the weight given to an expert’s opinion is for the agency to decide.  Lithcote, 471 N.W.2d at 66.  
+Therefore, it was both appropriate and compliant with agency precedent for the commissioner to 
+assign greater weight to Dr. Harbach’s opinion in this case, agreeing with Dr. Harbach by doing 
+so that Claimant’s FCEs are the best objective tool for determining Claimant’s functional 
+limitations.  (Appeal Decision, p. 2).   
+The FCE is commonly used in workers’ compensation cases to determine a claimant’s 
+limitations following a work injury.  The agency routinely relies upon the results of FCE testing 
+in making industrial disability determinations because the nature of such testing is objective.  
+Claimant’s authorized treating physician, Dr. Boarini, recommended that Claimant undergo an 
+FCE (FCE II) to get an objective determination of the limitations on Claimant’s work activities.  
+(JE6, p. 21).   Dr. Harbach agreed the FCE is the best tool to obtain objective conclusions 
+pertaining to functional limitations.  (Ex. B, p. 10).  The commissioner appropriately adopted the 
+limitations set forth in FCE II as Claimant’s functional capabilities.  (Appeal Decision, p. 2).   
+It is undisputed that Claimant had issues with her neck and back prior to the January 19, 
+2017, work injury.  As noted above, Claimant underwent FCE I on October 7, 2011.  (JE3).   
+FCE I results indicated Claimant was capable of performing in the medium vocational duty work 
+category, exerting up to ten to twenty-five pounds of force frequently.  (JE3, p. 1).  FCE I also 
+indicated Claimant had a history of prior non-work related episodes of back pain in her physical 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+16 
+ 
+capacity profile. (JE3, p. 2).   
+As noted above, about four years prior to the arbitration hearing, Claimant fell over some 
+boxes in her garage and injured her back.  (Ex. A, pp. 55-56).  She received chiropractic 
+treatment after that injury.  (Ex. A, p. 56).  Claimant admitted she had chronic back pain 
+associated with that fall, as well as aches and pains from old age.  (Ex. A, p. 26).  Prior to the 
+work injury, Claimant was regularly seeing a chiropractor for monthly adjustments of her neck 
+and back.  (Ex. A, p. 51).  This pre-work-injury history establishes a baseline from which 
+Claimant’s industrial disability can be determined, because industrial disability compensates a 
+claimant for loss of earning capacity following a work injury.   
+The instant matter is somewhat unique because of claimant’s 2011 evaluation resulting in 
+FCE I.  FCE I clearly delineates Claimant’s pre-work-injury physical capabilities.  And, FCE I in 
+conjunction with FCE II permits a direct comparison between Claimant’s physical capabilities 
+before and after the January 2017 work injury.  Although this information was available to the 
+deputy, he did not address Claimant’s pre-injury capabilities in comparison with her post-injury 
+restrictions in his decision.   
+On intra-agency appeal, the commissioner appropriately compared FCE I with FCE II, 
+ultimately finding “claimant’s functional limitations and restrictions did not significantly change 
+after the July 19, 2017, (sic) work injury.”  (Appeal Decision, p. 2).  While Claimant argue FCE 
+II aggravated her symptoms, the commissioner identified and considered this fact by specifically 
+noting: “I recognize claimant reported an increase in her symptoms after the FCE [meaning FEC 
+II].”  (Appeal Decision, p. 2).    
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+17 
+ 
+The commissioner appropriately determined the best way under this record to ascertain 
+Claimant’s physical capabilities prior to and after the work injury is by comparing Claimant’s 
+October 2011 FCE I results with her June 2017 FCE II results.  (JE3; JE8).  Claimant’s physical 
+strength abilities were measured in FCE I. (JE3, p. 4).  The results of Claimant’s 2011 
+examination placed her in the medium duty vocational category of work, restricting her from 
+lifting greater than ten to twenty-five pounds of force.  (JE3, p. 1).   
+FCE II conducted after Claimant’s work injury also placed her in the medium duty 
+vocational category, restricting her from lifting greater than twenty-five pounds of force.  (JE8, 
+p. 1).  From an objective viewpoint, Claimant started in the medium duty vocational category 
+prior to the work injury, and demonstrated through undisputed testing that she remained in the 
+medium duty vocational category after the work injury.  The commissioner therefore rationally 
+concluded Claimant’s “functional limitations and restrictions did not significantly change after 
+the July 19, 2017, (sic) work injury.”  (Appeal Decision, p. 2).   
+Industrial disability within the meaning of the worker's compensation statute means 
+reduced earning capacity.  Guyton v. Irving Jensen Co., 373 N.W.2d 101, 103 (Iowa 1985).  The 
+factors the court considers are noted above on page 11. There are no guidelines establishing the 
+weight to be given to each of these factors.  So it is necessary for the commissioner to draw upon 
+prior experience and general and specialized knowledge to make a finding in regard to the degree 
+of industrial disability.  Lithcote, 471 NW.2d at 68.   
+Applying that expertise, the commissioner reasoned in this case that although Claimant’s 
+functional limitations did not significantly change after the January 19, 2017, work injury, (1) 
+her symptoms worsened, (2) she did not return to the job she held at the time of her injury, and 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+18 
+ 
+(3) some of the job duties in the position she held at the time of hearing were difficult for her.  
+(Appeal Decision, p. 2).  “Even so, claimant was working full-time and continued to earn her 
+pre-injury pay at the time of hearing.”  (Id.).  Claimant’s continued employment with Wal-Mart 
+in multiple departments is a testament to her ability to continue to engage in similar employment. 
+In assessing Claimant’s ultimate industrial disability, the commissioner referenced the relevant 
+factors he considered and concluded: 
+Claimant, who was 62 years old at the time of hearing, has worked primarily in 
+customer service positions.  (See Tr., pp. 13-16)  While claimant’s subjective 
+complaints may limit her ability to perform some of those jobs, claimant’s 
+ongoing work with defendant-employer indicates she continues to have the skills 
+and physical ability to engage in the employment for which she is fitted.  For 
+these reasons, I find claimant sustained 35 percent industrial disability.”   
+ 
+(Appeal Decision, p. 2).   
+ 
+ 
+This determination by the commissioner is supported by the substantial weight of the 
+evidence in this case when the agency record is considered as a whole.  Claimant testified at the 
+arbitration hearing that she has many transferable skills and varied work experience, and would 
+be physically capable of returning to multiple jobs similar to those that she has held in the past.  
+(Ex. A, pp. 46-48).  Claimant has proven her continued employability by continuing to work for 
+Wal-Mart in multiple departments.  Additionally, Claimant admitted she would be physically 
+capable of returning to jobs similar to her previous employment, including taking and processing 
+shelf orders for a distribution company, working as an assistant manager, working on a 
+computer, and performing data entry.  (Ex. A, pp. 46-48).  Because Claimant is capable of 
+returning to work that she was accustomed to performing, continues to work presently, and is 
+currently earning wages comparable to her pre-injury wages (albeit slightly higher, given her 
+raise in April 2017), the commissioner’s determination of thirty-five percent industrial disability 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+19 
+ 
+is supported by the substantial weight of the evidence in the instant record.  
+ 
+Claimant also argues the commissioner erred in not giving appropriate deference to the 
+deputy’s credibility findings regarding her testimony.  However, there is no evidence that the 
+commissioner called Claimant’s credibility into question or indicated that he disagreed with the 
+deputy’s assessment of Claimant’s credibility.  The commissioner’s findings and conclusions are 
+directly contrary to that assertion because he cites Claimant’s testimony to support his 
+conclusions.  The commissioner specifically recognized Claimant’s symptoms that worsened 
+after the work injury and did not question the credibility of her testimony regarding these 
+symptoms.  (Appeal Decision, p. 2).   
+Claimant also alleges the commissioner failed to review her testimony.  However, as 
+already noted, the Appeal Decision includes multiple direct citations to the transcript of 
+Claimant’s testimony.  (Appeal Decision, p. 2).  There is no evidence the commissioner called 
+Claimant’s credibility into question in his intra-agency review.  Instead, he applied his expertise 
+in analyzing all of the evidence, made a finding of thirty-five percent industrial disability, and 
+detailed his rationale behind that conclusion.  
+ 
+Further, the commissioner’s finding of thirty-five percent industrial disability is not 
+insignificant.  This award is well beyond the impairment ratings assigned by the experts for both 
+Claimant and Respondents.  It appropriately contemplates Claimant’s loss of access to the labor 
+market despite the fact that Claimant’s earnings were not actually reduced after the January 2017 
+work injury.   
+The contested assignment of industrial disability awards Claimant 175 weeks of benefits. 
+This is substantial given that (1) Claimant continues to work at Wal-Mart full time, (2) Claimant 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+20 
+ 
+is earning more than she did prior to the work injury, and (3) Claimant’s functional capabilities 
+were not significantly reduced by the January 2017 work injury.  Claimant argues the 
+commissioner’s decision is “against” her.  She contends it goes against the purpose of workers’ 
+compensation statutes, which is to benefit the worker.  The commissioner’s award of thirty-five 
+percent industrial disability to Claimant still serves to benefit her significantly by providing 175 
+weeks of benefits for an injury that had little overall impact upon her ability to earn.  Claimant’s 
+disagreement with the commissioner’s decision does not mean his decision is wrong or 
+unsupported by substantial evidence.  
+The review required for substantial evidence challenges is well-settled.  The issue is not 
+whether the record contains evidence that might support a different finding, but whether the 
+record contains evidence supporting the finding actually made by the agency.  Henry v. Iowa 
+Dep’t of Job Serv., 391 N.W.2d 731, 734 (Iowa Ct. App. 1986).  The possibility that two 
+inconsistent conclusions can be drawn from the evidence does not mean that one of those 
+conclusions is unsupported by substantial evidence.  Id.  Further, the requirement that a 
+reviewing court take all record evidence into account in reviewing administrative findings does 
+not detract from the court’s duty to grant appropriate deference to the agency's expertise.  Cerro 
+Gordo Cty. Care Facility v. Iowa Civil Rights Comm’n, 401 N.W.2d 192, 195–96 (Iowa 1987).  
+While Claimant presented various arguments as to evidence supporting her position, this does 
+not mean the commissioner’s findings are unsupported by substantial evidence in the agency 
+record when that record is considered as a whole.   
+CONCLUSION 
+ 
+The sole question presented here is whether the March 16, 2020, appeal decision of the 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+21 
+ 
+Iowa workers’ compensation commissioner is supported by substantial evidence.  It is.  In 
+coming to his ultimate conclusion, the commissioner considered the agency record as a whole.  
+The appeal decision was direct, thorough, well-reasoned, and relies upon established precedent 
+consistent with prior agency action.  The substantial weight of the evidence supports the 
+commissioner’s conclusion that Claimant sustained thirty-five percent industrial disability as a 
+result of her January 2017 work injury.   
+The appeal decision should be affirmed in its entirety and costs should be assessed to 
+Claimant.   
+ORDER 
+IT IS THEREFORE ORDERED, ADJUDGED AND DECREED that the final 
+agency ruling entered by the Iowa workers’ compensation commissioner assessing Claimant a 
+thirty-five percent industrial disability for her January 2017 work injury is affirmed in its 
+entirety.  
+IT IS FURTHER ORDERED, ADJUDGED AND DECREED that costs are assessed 
+to Claimant (Petitioner). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT
+
+State of Iowa Courts
+Type:
+OTHER ORDER
+Case Number
+Case Title
+CVCV060028
+GRUGAN V WALMART AND NEW HAMPSHIRE INS CO
+So Ordered
+Electronically signed on 2020-09-15 20:55:05     page 22 of 22
+E-FILED  2020 SEP 15 8:55 PM POLK - CLERK OF DISTRICT COURT

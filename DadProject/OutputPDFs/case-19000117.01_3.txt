@@ -1,0 +1,377 @@
+Case Number: 19000117.01
+Case Title:  ROBERTS, AMANDA V. LINN COUNTY, IA
+Doc Type:    Decision - District Court
+Source:      Roberts, Amanda-19000117.01.District Court Decision.PDF
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT FOR LINN COUNTY 
+ 
+LINN COUNTY, IOWA, 
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+Petitioner, 
+ 
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+No. CVCV101813 
+v. 
+ 
+ 
+ 
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+RULING 
+AMANDA ROBERTS, 
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+Respondent.  
+ 
+ 
+) 
+ 
+ 
+On this date, the above-captioned matter came before the undersigned for ruling on 
+Petitioner’s March 10, 2023 Petition for Judicial Review. Having considered the case file, 
+applicable law, and written arguments of counsel, the Court hereby enters the following ruling. 
+ 
+FACTUAL AND PROCEDURAL BACKGROUND 
+ 
+Petitioner Linn County, Iowa (“Linn County”) petitions the Court for judicial review of a 
+final agency action taken by the Iowa Workers’ Compensation Commissioner 
+(“Commissioner”). The Court summarizes the factual allegations below. 
+ 
+Respondent Amanda Roberts (“Roberts”) became a registered nurse in June 2012. She 
+worked as a corrections nurse in State and county correctional centers from approximately 
+September 2012 to April 2020, starting at the Iowa Medical and Classification Center. In 
+September 2017, Roberts began working at the Linn County Correctional Center (“LCCC”). Her 
+duties included evaluating inmates at booking as needed, performing physical and other medical 
+examinations, collecting and testing samples (or directing them to the appropriate facility for 
+testing), and administering medication. She was also responsible for responding to emergencies 
+and assessing injuries when fights broke out.  
+ 
+On June 5, 2019, Roberts was assaulted by an inmate at the LCCC while attempting to 
+administer his medication. The inmate, who was occupying a dry cell, flung a milk carton 
+containing an unidentified bodily fluid. Roberts described the fluid as being thicker and more 
+viscous than water. “[I]t stuck to my skin all over my face and my neck, and I have no idea what 
+the fluid was.” Hr’g Tr. 37:20–38:14. The fluid entered her left eye and mouth. She further 
+described the fluid as “kind of tast[ing] like you would expect a Porta Potti to smell . . . . Very, 
+very foul.” Id. After the assault, Roberts did not immediately wash her face. While she was 
+concerned that prolonged exposure to the unknown bodily fluid could give her an infection, she 
+“wanted to make sure that the County had the ability to collect whatever they needed to collect to 
+aid in prosecuting this individual.” Hr’g Tr. 93:10–17. She testified that no one at LCCC 
+instructed her to wash her face, and she does not recall whether she asked anyone if she should 
+E-FILED                    CVCV101813 - 2023 AUG 25 03:49 PM             LINN    
+CLERK OF DISTRICT COURT                    Page 1 of 8
+
+2 
+ 
+wash her face, given the stress of the situation. Before she could receive medical treatment, 
+Roberts and the on-call sergeant spoke with several individuals to obtain authorization for the 
+postexposure workup. Roberts estimates that roughly an hour and a half to two and a half hours 
+had passed between the time of the assault and the time she arrived at UnityPoint Health – St. 
+Luke’s Hospital (“UnityPoint”) for the workup. UnityPoint drew samples to test for blood borne 
+pathogens, including HIV and Hepatitis C. At this initial visit, Cindy Hanawalt, MD PhD 
+imposed a work restriction barring Roberts from having contact with inmates at LCCC until 
+reevaluation. 
+ 
+Roberts continued receiving follow-up treatment at UnityPoint over the ensuing months. 
+On June 24, 2019, Jane Fischer, MD approved Roberts’s request to work part-time at LCCC, for 
+a maximum of four hours per day. However, Roberts alleges that upon her return to work, she 
+was mistreated by LCCC staff. She testified that her supervisor would no longer speak with her 
+and would only communicate with her through sticky notes. Roberts further testified that other 
+employees isolated and harassed her, causing her to feel unsafe working in a correctional facility, 
+and she stated that another corrections nurse called her Sally Sensitive. Major Pete Wilson 
+investigated two incidents of alleged harassment, but concluded there was no evidence of 
+misconduct directed at Roberts. 
+ 
+On July 3, 2019, Roberts informed Shirley Pospisil, MD (“Dr. Pospisil”) that “sh[e] has 
+tried to go back to work however she has been bearing the brunt of jokes while at work. This is 
+causing quite a bit of stress. She is doing very poorly including being sick to her stomach.” JE1–
+11. Dr. Pospisil noted that Roberts was showing symptoms of post-traumatic stress disorder 
+(“PTSD”) and removed her from work duty. Around this time, Roberts also began attending 
+counseling with Leonarda Decker (“Decker”) through her husband’s employee assistance 
+program. Roberts received treatment and medication management from Sarah von Harz, MD and 
+Adam Woods, MD (“Dr. Woods”) starting in July and August 2019, respectively. On August 16, 
+2019, Dr. Woods diagnosed Roberts with adjustment disorder, generalized anxiety disorder 
+(“GAD”) and ADHD.1 Dr. Woods also gave a provisional diagnosis of PTSD, which he later 
+formally diagnosed. Dr. Woods continued to regularly assess Roberts at least until November 3, 
+2021. Decker provided a PTSD diagnosis in therapy progress notes dated February 6, 2021 
+through May 14, 2021, the latter being Decker’s most recent progress note in the record. 
+ 
+At the request of Linn County Risk Management, Philip Ascheman, PhD (“Dr. 
+Ascheman”) completed a psychological evaluation of Roberts on August 26, 2019. Dr. 
+Ascheman agreed with Dr. Woods’s provisional diagnosis of PTSD, but he believed Roberts’s 
+“symptoms may be better attributed to a diagnosis of Adjustment Disorder With Mixed Anxiety 
+and Depressed Mood” or to “a pre-existing Generalized Anxiety Disorder.” Emp.’s Ex. A, at 5. 
+He further concluded that Roberts’s “presentation suggests that anger at her employer and 
+coworkers is likely to be a major component of her presentation, and may be more limiting than 
+her other psychological symptoms.” Id.  
+                                                 
+1 Roberts was diagnosed with ADHD in her childhood and she was already receiving treatment for this diagnosis. 
+E-FILED                    CVCV101813 - 2023 AUG 25 03:49 PM             LINN    
+CLERK OF DISTRICT COURT                    Page 2 of 8
+
+3 
+ 
+Roberts also continued to be regularly reevaluated by Dr. Pospisil. On January 27, 2020, 
+Dr. Pospisil took Roberts off work at least until her follow-up appointment on March 30, 2020. 
+On March 10, 2020, Roberts underwent a second psychological evaluation by Dr. Ascheman. Dr. 
+Ascheman opined that the ongoing and severe nature of Roberts’s symptoms was attributable to 
+her “perceived mistreatment by coworkers and being embarrassed” rather than to PTSD caused 
+by the assault she experienced on June 5, 2019. Id. at 14–15. “Overall, it is my opinion that the 
+patient’s initial presentation was consistent with Adjustment Disorder with Anxiety and 
+Depressed Mood, but would now be subsumed under Generalized Anxiety Disorder, which 
+appears to be a pre-existing condition.” Id. at 14. Dr. Ascheman further concluded that it was 
+“not appropriate for [Roberts to] return to work at her current place of employment, and that 
+additional treatment will not result in that outcome.” Id. at 15. 
+ 
+Linn County terminated Roberts’s employment on April 1, 2020. Thereafter, Roberts 
+filed a claim with the Iowa Workers’ Compensation Commissioner (“Commissioner”) seeking 
+temporary and permanent total disability benefits, as well as reimbursement for past medical 
+expenses. During the pendency of the administrative proceedings, Roberts underwent another 
+mental health evaluation performed by Catalina Ressler, PhD (“Dr. Ressler”). Dr. Ressler gave 
+Roberts a primary diagnosis of chronic PTSD with dissociative features, and found that 
+Roberts’s limitations caused by her PTSD prevent her from rejoining the workforce. Dr. Ressler 
+further concluded that with additional treatment, Roberts may eventually be able to rejoin the 
+workforce in a limited capacity.  
+ 
+An arbitration hearing was held before Deputy Commissioner William Grell (“Deputy 
+Grell”) on April 13, 2022. Deputy Grell issued an arbitration decision on October 6, 2022 
+holding that Roberts had proved her permanent total disability claim under the traditional 
+analysis as well as under the odd-lot doctrine. Deputy Grell found “the opinions of Dr. Woods 
+and Ms. Decker to be the most credible and convincing,” considering that each “provided 
+claimant treatment and evaluated her on multiple occasions,” and that each was well-qualified to 
+opine on Roberts’s diagnoses, symptoms, and causation. Arb. Decision 6. He gave little weight 
+to Dr. Ascheman’s opinion, reasoning that  
+ 
+Dr. Ascheman provides no explanation why claimant continues to have symptoms 
+that were not present prior to her work injury. Claimant was not obtaining ongoing 
+psychological or psychiatric treatment for Generalized Anxiety Disorder prior to 
+this work event. Yet, she was fully functioning as a correctional nurse. She 
+experienced prior traumatic events and incidents but did not require psychological 
+or psychiatric treatment until after this work event with the liquid to her face. Again, 
+Dr. Ascheman provides no explanation why these symptoms or treatment have been 
+ongoing since the work incident if they were the result of a pre-existing condition . 
+. . . 
+ 
+Nevertheless, Dr. Ascheman opines that claimant is not fit for duty and cannot 
+return to work as a correctional nurse. He further opines that further treatment is 
+E-FILED                    CVCV101813 - 2023 AUG 25 03:49 PM             LINN    
+CLERK OF DISTRICT COURT                    Page 3 of 8
+
+4 
+ 
+not likely or expected to enable claimant to return to work in the Linn County Jail 
+setting. Yet, Dr. Ascheman recommends no further treatment and no formal mental 
+health restrictions. I do not find Dr. Ascheman’s opinions to be consistent, logical, 
+or credible on this record. 
+ 
+. . . Claimant required no treatment before that date [of the injury] and was capable 
+of full-time work as a registered nurse in the correctional system. Her abilities and 
+her mental health have clearly changed, or been materially and substantially 
+aggravated, since the work incident. Therefore, I do not find the opinions of Dr. 
+Ascheman to be convincing in this case. 
+ 
+Id. at 7–8. To the extent it supported Dr. Woods’s and Decker’s opinions, Deputy Grell accepted 
+Dr. Pospisil’s causation opinion. He also accepted portions of Dr. Ressler’s opinion. Deputy 
+Grell concluded “that [Roberts] has proven she is at MMI [maximum medical improvement] and 
+that her PTSD is permanent in the sense that it is not anticipated to significantly improve in the 
+immediate or foreseeable future without additional treatment.” Id. at 6. He awarded Roberts 
+temporary total disability benefits from March 24, 2020 through May 20, 2021 and permanent 
+total disability benefits from May 21, 2021 for as long as Roberts remains permanently disabled.  
+ 
+Linn County appealed Deputy Grell’s arbitration decision to Commissioner Joseph 
+Cortese II (“Commissioner Cortese”). Upon performing a de novo review of the record, 
+Commissioner Cortese issued an appeal decision on February 8, 2023, affirming Deputy Grell’s 
+analysis, findings, and conclusions. Linn County commenced the instant action on March 10, 
+2023. 
+ 
+CONCLUSIONS OF LAW 
+ 
+Linn County brings this action in district court pursuant to Iowa Code section 17A.19. 
+“Except as expressly provided otherwise by another statute referring to this chapter by name, the 
+judicial review provisions of this chapter shall be the exclusive means by which a person or party 
+who is aggrieved or adversely affected by agency action may seek judicial review of such agency 
+action.” Iowa Code § 17A.19 (2023). “The burden of demonstrating the required prejudice and 
+the invalidity of agency action is on the party asserting invalidity.” Id. § 17A.19(8)(a). The 
+Petition appears to request relief under subsection 10, paragraphs (c), (f), (h), (i), (l), and (n). 
+Linn County’s written arguments, however, only cite paragraphs (f), (i), and (n). Therefore, the 
+Court limits its review to these three paragraphs.  
+ 
+The court may affirm the agency action or remand to the agency for further 
+proceedings. The court shall reverse, modify, or grant other appropriate relief from 
+agency action, equitable or legal and including declaratory relief, if it determines 
+that substantial rights of the person seeking judicial relief have been prejudiced 
+because the agency action is any of the following: 
+. . .  
+E-FILED                    CVCV101813 - 2023 AUG 25 03:49 PM             LINN    
+CLERK OF DISTRICT COURT                    Page 4 of 8
+
+5 
+ 
+(f) Based upon a determination of fact clearly vested by a provision of law in 
+the discretion of the agency that is not supported by substantial evidence in 
+the record before the court when that record is viewed as a whole. For 
+purposes of this paragraph, the following terms have the following 
+meanings: 
+ 
+(1) “Substantial evidence” means the quantity and quality of evidence 
+that would be deemed sufficient by a neutral, detached, and 
+reasonable person, to establish the fact at issue when the 
+consequences resulting from the establishment of that fact are 
+understood to be serious and of great importance. 
+. . .  
+ 
+(i) The product of reasoning that is so illogical as to render it wholly irrational. 
+. . .  
+ 
+(n) Otherwise unreasonable, arbitrary, capricious, or an abuse of discretion. 
+ 
+Id. § 17A.19(10). “In making the determinations required by subsection 10, paragraphs ‘a’ 
+through ‘n’, the court shall . . . give appropriate deference to the view of the agency with respect 
+to particular matters that have been vested by a provision of law in the discretion of the agency.” 
+Id. § 17A.19(11)(c). 
+ 
+“Our review of decisions by the industrial commissioner is on error, not de novo.” St. 
+Luke’s Hosp. v. Gray, 604 N.W.2d 646, 649 (Iowa 2000). However, our review is also “fairly 
+intensive” and “we view the record as a whole, which includes a consideration of evidence 
+supporting the challenged finding as well as evidence detracting from it.” Cedar Rapids Cmty. 
+Sch. Dist. v. Pease, 807 N.W.2d 839, 844–45 (Iowa 2011); Neal v. Annett Holdings, Inc., 814 
+N.W.2d 512, 525 (Iowa 2012). “Evidence is not insubstantial merely because different 
+conclusions may be drawn from the evidence.” Pease, 807 N.W.2d at 845. “Evidence is 
+substantial if a reasonable mind would accept it as adequate to reach the given conclusion.” 
+Gray, 604 N.W.2d at 649. 
+ 
+Under Iowa Code chapter 17A, expert credibility determinations are generally outside the 
+scope of the Court’s review of administrative decisions. “Ultimately, . . . the determination of 
+whether to accept or reject an expert opinion is within the ‘peculiar province’ of the 
+commissioner.” Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 845 (Iowa 2011). 
+“The commissioner is free to accept or reject an expert’s opinion in whole or in part, particularly 
+when relying on a conflicting expert opinion.” Id. at 850. Courts do not interfere with the 
+commissioner’s rejection of expert testimony unless the rejection was arbitrary or unreasonable. 
+Poula v. Siouxland Wall & Ceiling, Inc., 516 N.W.2d 910, 911–12 (Iowa Ct. App. 1994). 
+ 
+E-FILED                    CVCV101813 - 2023 AUG 25 03:49 PM             LINN    
+CLERK OF DISTRICT COURT                    Page 5 of 8
+
+6 
+ 
+Making a determination as to whether evidence “trumps” other evidence or whether 
+one piece of evidence is “qualitatively weaker” than another piece of evidence is 
+not an assessment for the district court or the court of appeals to make when it 
+conducts a substantial evidence review of an agency decision. It is the 
+commissioner’s duty as the trier of fact to determine the credibility of the witnesses, 
+weigh the evidence, and decide the facts in issue. The reviewing court only 
+determines whether substantial evidence supports a finding “according to those 
+witnesses whom the [commissioner] believed.” Consequently, both the district 
+court and the court of appeals improperly weighed the evidence to overrule the 
+commissioner’s findings. 
+ 
+Arndt v. City of Le Claire, 728 N.W.2d 389, 394–95 (Iowa 2007) (quoting Tim O’Neill 
+Chevrolet, Inc. v. Forristall, 551 N.W.2d 661, 614 (Iowa 1996)) (emphasis and alteration in 
+original). “The courts, in their appellate capacity, ‘are not at liberty to accept contradictory 
+opinions of other experts in order to reject the finding of the commissioner.’” Pease, 807 N.W.2d 
+at 850 (quoting Dille v. Plainview Coal Co., 250 N.W. 607, 615 (Iowa 1933)).  
+ 
+Linn County argues that Deputy Grell and Commissioner Cortese erred in “not find[ing] 
+Dr. Ascheman’s opinions to be consistent, logical, or credible” and in giving more weight to the 
+opinions of Dr. Woods and Decker. Pet.’s Br. 8–9; Arb. Decision 6–8. Linn County further 
+argues that Roberts, Dr. Woods, and Dr. Ressler are not credible witnesses. Linn County 
+concludes that the Commission’s determinations as to the expert opinions are illogical, arbitrary, 
+and unreasonable, and if the Court were to reject those determinations, the Commission’s 
+findings would not be supported by substantial evidence. 
+ 
+In light of the foregoing authority, the Court cannot disturb the Commission’s credibility 
+determinations and weighing of expert opinions while conducting a substantial evidence review. 
+Arndt, 728 N.W.2d at 394–95. Deputy Grell clearly and thoroughly articulated his rationale for 
+giving little weight to Dr. Ascheman’s opinions. The Court finds his determination to be well 
+reasoned. On appeal, Linn County argues that contrary to Deputy Grell’s finding, Dr. Ascheman 
+did provide an explanation for Roberts’s ongoing symptoms that were not present prior to the 
+assault: Dr. Ascheman opined that Roberts’s “ongoing symptoms are caused by her perceptions 
+about her coworkers and her employment.” Pet.’s Br. 11; Emp.’s Ex. A, at 15. However, Dr. 
+Ascheman did not clearly identify the cause of the perceptions, at most suggesting a causal 
+relationship with pre-existing GAD. He failed to explain how a pre-existing condition, alone, 
+could cause the perceptions and resulting symptoms to develop in the aftermath of the assault, 
+considering that in the past, Roberts did not suffer symptoms requiring psychological or 
+psychiatric treatment after experiencing traumatic events.2 And even assuming a causal 
+relationship existed between pre-existing GAD, the perceptions, and the symptoms, this would 
+not preclude Roberts from recovering permanent total disability benefits. “[O]ur law has 
+                                                 
+2 Roberts testified that during her career as a corrections nurse, she was assaulted on numerous occasions and 
+responded to suicides and attempted suicides, but she did not experience lasting symptoms after being exposed to 
+those traumatic incidents. 
+E-FILED                    CVCV101813 - 2023 AUG 25 03:49 PM             LINN    
+CLERK OF DISTRICT COURT                    Page 6 of 8
+
+7 
+ 
+recognized the distinction between preexisting conditions and preexisting disability. Full 
+compensation is allowed for the result of workplace activities aggravating a preexisting 
+condition.” Floyd v. Quaker Oats, 646 N.W.2d 105, 110 (Iowa 2002). Even if the Court were to 
+set aside the highly deferential standard and perform a de novo review, the Court would reach 
+the same conclusions as the Commission. 
+ 
+The Court is not persuaded that the Commission made an arbitrary or unreasonable 
+decision with respect to expert opinions that would justify disturbing the decision or reversing 
+the final agency action. Poula, 516 N.W.2d at 912. The Court finds that substantial evidence 
+supports Deputy Grell and Commissioner Cortese’s findings according to the witnesses whom 
+they believed. Arndt, 728 N.W.2d at 395. Those witnesses have consistently attributed Roberts’s 
+symptoms to PTSD caused by the June 5, 2019 assault. Therefore, the Court affirms the 
+Commission’s decision in its entirety. 
+ 
+RULING 
+ 
+IT IS THEREFORE ORDERED that Linn County’s March 10, 2023 Petition for 
+Judicial Review is DISMISSED. Any outstanding court costs are assessed to Linn County. This 
+matter is deemed closed and finalized. 
+ 
+Clerk to notify. 
+ 
+E-FILED                    CVCV101813 - 2023 AUG 25 03:49 PM             LINN    
+CLERK OF DISTRICT COURT                    Page 7 of 8
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV101813
+LINN COUNTY, IOWA VS AMANDA ROBERTS
+Type:
+DISMISSED PER COURT
+So Ordered
+Electronically signed on 2023-08-25 15:49:02
+E-FILED                    CVCV101813 - 2023 AUG 25 03:49 PM             LINN    
+CLERK OF DISTRICT COURT                    Page 8 of 8

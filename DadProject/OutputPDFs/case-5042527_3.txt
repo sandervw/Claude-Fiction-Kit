@@ -1,0 +1,304 @@
+Case Number: 5042527
+Case Title:  GREEN, ALEVIA V. NORTH CENTRAL IOWA REGIONAL SOLID WASTE AGENCY
+Doc Type:    Decision - Supreme Court
+Source:      Green, Alevia-5042527.Supreme Court Decision.pdf
+========================================================================
+
+IN THE SUPREME COURT OF IOWA 
+ 
+No. 21–0490 
+ 
+Submitted January 19, 2023—Filed April 14, 2023 
+ 
+ 
+ALEVIA GREEN, 
+ 
+ 
+Appellee, 
+ 
+vs. 
+ 
+NORTH CENTRAL IOWA REGIONAL SOLID WASTE AUTHORITY and 
+IMWCA, 
+ 
+ 
+Appellants. 
+ 
+ 
+On review from the Iowa Court of Appeals. 
+ 
+Appeal from the Iowa District Court for Webster County, Kurt L. Wilke, 
+Senior Judge. 
+ 
+An employer seeks further review of the court of appeals judgment that 
+reversed the workers’ compensation commissioner’s dismissal of an employee’s 
+review-opening petition. DECISION OF COURT OF APPEALS AND DISTRICT 
+COURT JUDGMENT AFFIRMED. 
+ 
+McDermott, J., delivered the opinion of the court, in which all participating 
+justices joined. May, J., took no part in the consideration or decision of the case. 
+ 
+Ryan M. Clark (argued) and Brittany N. Salyars of Patterson Law Firm, 
+L.L.P., Des Moines, for appellants. 
+ 
+Jerry L. Schnurr III (argued) of Schnurr Law Firm, P.C., Fort Dodge, for 
+appellee. 
+
+ 
+2 
+ 
+McDERMOTT, Justice. 
+ 
+Under Iowa’s workers’ compensation law, injured workers can ask for an 
+updated review of their injuries—referred to as a “review-reopening proceeding”—
+to determine whether their condition has worsened and thus entitles them to 
+additional payments. When an injured worker filed such an action in this case, 
+the workers’ compensation commissioner dismissed it, pointing to an earlier 
+finding that the worker had suffered only a temporary—but not permanent—
+injury. Can the worker pursue a claim for a permanent injury in a review-
+reopening proceeding despite an earlier adjudication that her injury was not 
+permanent? 
+I. The Accident and the Earlier Adjudication. 
+Alevia Green was working at a recycling plant in Fort Dodge in April 2012 
+when she was struck from behind by a large door that swung open on a recycling 
+dumpster. She was knocked out cold for several minutes and taken by 
+ambulance to a nearby regional hospital where she reported headaches and 
+upper back pain. A CT scan revealed focal hemorrhages in the frontal lobes of 
+her brain. She was transferred to a large hospital in Des Moines where she was 
+diagnosed with “traumatic cerebral intraparenchymal hemorrhage” (essentially, 
+bleeding in the brain caused by trauma) and a concussion. The hospital kept her 
+under observation for two days.  
+Green’s employer, North Central Iowa Solid Waste Authority, stipulated 
+that the door-strike incident caused her injury. Green received temporary 
+disability benefits for a little over three months. In August 2012, Green’s doctor 
+
+ 
+3 
+ 
+declared that she had reached maximum medical improvement “with symptoms 
+of resolving cervical strain, closed head trauma, and right shoulder strain.” She 
+then returned to her job at the recycling center. 
+ 
+But Green continued to suffer from migraine headaches, and in December 
+she filed a petition seeking workers’ compensation for a permanent disability. 
+After an arbitration hearing on the petition in 2014, a deputy workers’ 
+compensation commissioner determined that Green had failed to establish that 
+her injury caused permanent impairment. The deputy commissioner thus 
+refused to order additional benefits beyond those that Solid Waste Authority (or 
+its insurance carrier, Iowa Municipalities Workers’ Compensation Association) 
+had already paid. Green appealed the ruling to the workers’ compensation 
+commissioner, who affirmed the deputy’s decision. 
+Green sought judicial review in the district court. In May 2017, the district 
+court affirmed the commissioner’s decision, except for some findings about 
+Green’s claims for reimbursement of past medical expenses, and remanded the 
+case to the agency. The commissioner on remand held Solid Waste Authority 
+liable for some additional medical expenses that Green had incurred in the weeks 
+after her injury. 
+In June 2018, Green filed a petition for review-reopening with the workers’ 
+compensation commission. See Iowa’s Workers’ Compensation Act, Iowa Code 
+§§ 85.26, 86.14 (2018). She asserted that her condition had worsened over time 
+into a permanent disability. Solid Waste Authority filed a motion for summary 
+judgment, arguing that Green could not relitigate the extent of her injuries in a 
+
+ 
+4 
+ 
+review-reopening proceeding because the issue of permanent disability had 
+already been presented and decided against her. Green resisted the motion, 
+arguing that the statutory right to review-reopening includes situations where a 
+condition worsens or a temporary disability develops into a permanent one, and 
+that a dispute of material fact existed about whether that had happened here. 
+The deputy commissioner determined that Green’s claim for permanent 
+disability benefits was barred by principles of res judicata—in other words, that 
+the issue of whether she’d suffered a permanent disability couldn’t be reopened 
+since it had already been raised and ruled on in her initial petition. The deputy 
+commissioner further reasoned that since Green hadn’t received any 
+compensation in her earlier petition, no award could be “ended, diminished, or 
+increased” in a review-reopening proceeding as the statute requires. The deputy 
+commissioner thus granted summary judgment in Solid Waste Authority’s favor. 
+Green appealed the deputy’s ruling, and the commissioner affirmed it. 
+On judicial review in the district court, the court reversed the 
+commissioner’s decision, determining that a review-reopening proceeding 
+presupposes a potential change in condition and that a question of fact existed 
+about whether Green’s temporary injury had morphed into a permanent one. 
+Solid Waste Authority appealed. We transferred the case to the court of appeals, 
+which affirmed the district court’s judgment. We granted Solid Waste Authority’s 
+application for further review. 
+
+ 
+5 
+ 
+II. Review-Reopening and Res Judicata.  
+The workers’ compensation system in every state provides a process for 
+reopening and modifying awards to address changes in a claimant’s condition. 
+13 Arthur Larson et al., Larson’s Workers’ Compensation Law § 131.01, at 131-3 
+(2022) [hereinafter Larson]. These provisions recognize “the obvious fact that, no 
+matter how competent a commission’s diagnosis of claimant’s condition and 
+earning prospects at the time of hearing may be, that condition may later change 
+markedly for the worse, or may improve, or may even clear up altogether.” Id.  
+In Iowa, two statutes authorize review-reopening proceedings in workers’ 
+compensation cases and guide our analysis in this case. “The normal way for a 
+claimant to obtain additional disability benefits when her physical condition 
+deteriorates over time and the deterioration is attributable to an earlier 
+compensable injury,” we have noted, “is through a review-reopening claim under 
+Iowa Code section 86.14(2).” Gumm v. Easter Seal Soc’y of Iowa, Inc., 943 N.W.2d 
+23, 28 (Iowa 2020). That section permits the commissioner to “reopen an award 
+for payments or agreement for settlement . . . [to inquire] into whether or not the 
+condition of the employee warrants an end to, diminishment of, or increase of 
+compensation so awarded or agreed upon.” Iowa Code § 86.14(2). Section 85.26 
+includes a deadline to bring the claim, stating that “[a]n award for payments or 
+an agreement for settlement” may be decided in a review-reopening proceeding 
+“within three years from the date of the last payment of weekly benefits made 
+under the award or agreement.” Id. at § 85.26(2). 
+
+ 
+6 
+ 
+We review the workers’ compensation commissioner’s decision under the 
+Iowa Administrative Procedure Act, chapter 17A. Lange v. Iowa Dep’t of Revenue, 
+710 N.W.2d 242, 246 (Iowa 2006). In reviewing the commissioner’s interpretation 
+of a statute, we apply a correction-of-errors-at-law standard. Iowa Code 
+§ 17A.19(10)(c); Bluml v. Dee Jay’s Inc., 920 N.W.2d 82, 84 (Iowa 2018). 
+Both parties cite our discussion in Kohlhaas v. Hog Slat, Inc. about the 
+effect in a later review-reopening proceeding of a commissioner’s earlier 
+adjudication of a worker’s condition. 777 N.W.2d 387, 392–93 (Iowa 2009). In 
+Kohlhaas, an injured worker received a workers’ compensation settlement after 
+his foot was crushed by a 400-pound concrete block on the jobsite. When he 
+later continued to experience pain in his foot, leg, hip, and back, the worker filed 
+a review-reopening petition seeking an increase in compensation. On judicial 
+review, we held that a worker in a review-reopening proceeding did not need to 
+prove that the commissioner (in the arbitration award) or the parties (in their 
+settlement) failed to consider the future extent of a worker’s disability. Id. at 392. 
+Stated differently, because a “commissioner finds the facts as they stand at the 
+time of the hearing and should not speculate about the future course of the 
+claimant’s condition,” a claimant doesn’t need to prove that her current 
+condition—at the time of the review-reopening proceeding—wasn’t contemplated 
+at the original hearing. Id. 
+But we went on to say that “principles of res judicata still apply” and “that 
+the agency, in a review-reopening petition, should not reevaluate an employee’s 
+level of physical impairment or earning capacity if all of the facts and 
+
+ 
+7 
+ 
+circumstances were known or knowable at the time of the original action.” Id. at 
+393. Although we recognized that review-reopening is an opportunity for parties 
+to bring evidence of a change in the worker’s condition, we observed that 
+review-reopening “does not provide an opportunity to relitigate causation issues 
+that were determined in the initial award or settlement agreement.” Id. 
+Citing this language in Kohlhaas, Solid Waste Authority argues that we 
+must dismiss Green’s review-reopening petition in this case based on principles 
+of res judicata. 777 N.W.2d at 391. Under this line of argument, the 
+commissioner lacks authority to reconsider in a review-reopening proceeding 
+whether Green suffered a permanent injury because the commissioner already 
+ruled that the incident caused no permanent disability. This forbidden subject, 
+argues Solid Waste Authority, is precisely what the district court and court of 
+appeals rulings now erroneously authorize: relitigating whether the incident 
+caused a permanent injury. 
+Solid Waste Authority reads too broadly our discussion in Kohlhaas of res 
+judicata principles in review-reopening cases. On the issue of causation, the 
+parties in this case stipulated that a work-related incident caused an injury to 
+Green. Green, as a result, received compensation for her injury after the incident. 
+The threshold issue of causation—whether the incident caused an injury 
+requiring compensation—is thus not in question. Had there been, for instance, 
+a prior determination that there was no connection between the incident and 
+Green’s injury, there would be nothing to reopen. But that’s not the situation in 
+this case.  
+
+ 
+8 
+ 
+As the Larson treatise states, res judicata in review-opening proceedings 
+will most often apply to questions about whether a party “can raise original 
+issues such as work-connection, employee or employer status, occurrence of a 
+compensable accident, and degree of disability at the time of the first award.” 
+Larson, § 131.03[2][a], at 131-35. These aren’t the kinds of issues to which Solid 
+Waste Authority seeks to apply res judicata in this case. As the district court and 
+court of appeals determined, Green has established that the wayward dumpster 
+door at the recycling plant caused an injury for which she has already received 
+temporary benefits. That causation question is governed by res judicata 
+principles.  
+Green’s initial petition addressed her condition at an earlier date. The 
+commissioner found that she’d failed to prove a permanent injury at the time of 
+the 2014 arbitration hearing. Yet unlike typical civil tort judgments or 
+settlements, review-reopening proceedings invite parties to adjust their relative 
+positions—upward or downward—based on later developments. A change in 
+condition that results in “an award in an entirely different category, as when an 
+original award was one of temporary benefits for time loss and the award on 
+reopening would be for total permanent disability, is no obstacle to reopening.” 
+Larson, § 131.03[1][a], at 131-20. Indeed, this ability to focus on the worker’s 
+present condition “is one of the main advantages of the reopening device.” Id. So 
+long as a claimant has previously received an award or settlement and acts 
+within the statutory deadline, a party may seek to reopen a case for the 
+commissioner to review whether the employee’s condition “warrants an end to, 
+
+ 
+9 
+ 
+diminishment of, or increase of compensation so awarded or agreed upon.” Iowa 
+Code § 86.14(2).  
+Green’s petition meets that threshold in this case. The district court 
+correctly determined that “the review-reopening presupposes a potential ‘change 
+in condition’ (including from temporary to permanent),” and that “change in 
+condition may still be causally related to a work injury.” The Kentucky Supreme 
+Court, in a recent case interpreting the claim-reopening rights in its workers’ 
+compensation statute, similarly held that res judicata principles didn’t prevent 
+a worker from pursuing a permanent disability claim based on a change of 
+condition. Lakshmi Narayan Hosp. Grp. Louisville v. Jimenez, 653 S.W.3d 580, 
+587 (Ky. 2022). Because the workers’ compensation “statute expressly provides 
+for reopening under specified conditions”—such as a worsening of the worker’s 
+disability—“the rule of res adjudicata has no application when the prescribed 
+conditions are present.” Id. (quoting Stambaugh v. Cedar Creek Mining Co., 488 
+S.W.2d 681, 682 (Ky. 1972)). 
+Solid Waste Authority’s related argument that Green can’t reopen this 
+matter because she never received an “award” on her earlier permanent injury 
+claim finds an empty shelf by looking in the wrong aisle. It’s not Green’s 
+unsuccessful petition for compensation for a permanent injury that serves as the 
+basis for the reopening, but rather the initial benefit payments she received. 
+Solid Waste Authority paid temporary benefits to Green during her initial period 
+of recuperation from injury. And on remand from the district court in the earlier 
+case, the commissioner ordered it to make additional payments for medical bills 
+
+ 
+10 
+ 
+and lost wages during the several months after the incident. These payments, 
+both voluntarily made and as awarded by the commissioner, satisfy the statutory 
+reopening requirement of “an award for payments or agreement for settlement.” 
+Iowa Code § 86.14(2) (emphases added). 
+On Green’s review-reopening petition, basic questions remain about the 
+extent that Green’s work injury has contributed to her current condition and 
+whether her compensation must be adjusted as a result. Review-reopening 
+“permits a commission to make the best estimate of disability it can at the time 
+of the original award, although at that moment it may be impossible to predict 
+the extent of future disability, without having to worry about being forever bound 
+by the first appraisal.” Larson, § 131.03[1][a], at 131-20 (footnote omitted). The 
+key difference is timing: the commissioner will look not at Green’s condition as 
+it was at the 2014 arbitration hearing but at Green’s present-day condition. For 
+a prior judgment to bind a party in a later action—for the res judicata concept of 
+“issue preclusion” to apply—the issue first must “have been actually litigated.” 
+Spiker v. Spiker, 708 N.W.2d 347, 353 (Iowa 2006) (citing Restatement (Second) 
+of Judgments § 27, at 250 (1982)). The effect of Green’s work injury on her 
+current condition has not yet been litigated.  
+Solid Waste Authority suggests that Green will be unable to show any 
+change in her condition attributable to the work incident to warrant a change in 
+benefits. Yet that question, whatever its answer, isn’t before us. Green will have 
+the opportunity to present evidence about whether her current condition 
+
+ 
+11 
+ 
+warrants an increase in compensation. A dispute of material fact on that subject 
+remains. 
+III. Conclusion. 
+We thus affirm the rulings of the district court and the court of appeals 
+holding that the agency erred in granting Solid Waste Authority’s motion for 
+summary judgment and dismissing Green’s review-reopening petition. The 
+matter is remanded to the district court with instructions to remand to the 
+agency for further proceedings.  
+ 
+DECISION OF COURT OF APPEALS AND DISTRICT COURT JUDGMENT 
+AFFIRMED. 
+ 
+All justices concur except May, J., who takes no part. 
+ 

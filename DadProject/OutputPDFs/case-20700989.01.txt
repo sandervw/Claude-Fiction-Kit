@@ -1,0 +1,627 @@
+Case Number: 20700989.01
+Case Title:  DAVIS, CHRISTOPHER V. JOHN DEERE DAVENPORT WORKS
+Doc Type:    Decision - Deputy
+Source:      Davis Christopher-20700989.01D.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+CHRISTOPHER DAVIS, 
+  : 
+ 
+ 
+  : 
+ 
+File No. 20700989.01 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+       ARBITRATION DECISION 
+ 
+ 
+  :                  
+JOHN DEERE DAVENPORT WORKS,   : 
+ 
+ 
+  :                           
+ 
+Employer, 
+  : 
+ 
+Self-Insured, 
+  : 
+ 
+Head Note No: 1100 
+ 
+Defendant. 
+  : 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Claimant, Christopher Davis, filed a petition in arbitration seeking workers’ 
+compensation benefits from John Deere Davenport Works, self-insured employer, as 
+defendant, as a result of an alleged injury sustained on April 13, 2020.  This matter 
+came on for hearing before Deputy Workers’ Compensation Commissioner Erica J. 
+Fitch, on September 21, 2021, via internet-based videoconferencing, using CourtCall.  
+The record in this case consists of joint exhibits 1 through 5, claimant’s exhibits 1 
+through 7, defendant’s exhibits A through N1, and the testimony of the claimant.  The 
+parties submitted post-hearing briefs, the matter being fully submitted on October 27, 
+2021. 
+ISSUES 
+The parties submitted the following issues for determination: 
+ 
+1. Whether claimant sustained an injury arising out of and in the course of his 
+employment on April 13, 2020; 
+ 
+2. Whether claimant’s claim is barred for failure to give timely notice under Iowa 
+Code section 85.23; 
+ 
+3. Whether claimant’s claim is barred as an untimely claim under Iowa Code 
+section 85.26; 
+ 
+                                                 
+1 Defendant was extended the option to submit the deposition of Nathaniel Marxen post-hearing. 
+By email correspondence dated September 22, 2021, defendant’s counsel declined the offer to submit 
+the additional evidence. 
+ELECTRONICALLY FILED     2022-Feb-23  10:10:04     DIVISION OF WORKERS' COMPENSATION
+
+DAVIS V. JOHN DEERE DAVENPORT WORKS 
+Page 2 
+ 
+4. Whether the alleged injury is a cause of temporary disability and, if so, the 
+extent; 
+ 
+5. Whether the alleged injury is a cause of permanent disability and, if so, the 
+extent; 
+ 
+6. Whether defendant is responsible for medical expenses claimed in Claimant’s 
+Exhibit 6;   
+ 
+7. Whether claimant is entitled to reimbursement for an independent medical 
+examination pursuant to Iowa Code section 85.39; and 
+ 
+8. Specific taxation of costs as identified in Claimant’s Exhibit 7. 
+ 
+The parties filed a hearing report at the commencement of the arbitration 
+hearing.  On the hearing report, the parties entered into various stipulations.  All of 
+those stipulations were accepted and are hereby incorporated into this arbitration 
+decision and no factual or legal issues relative to the parties’ stipulations will be raised 
+or discussed in this decision.  The parties are now bound by their stipulations. 
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+Claimant’s testimony was consistent as compared to the evidentiary record and 
+his deposition testimony. Claimant’s demeanor at the time of evidentiary hearing was 
+excellent and gave the undersigned no reason to doubt claimant’s veracity.  Claimant is 
+found credible. 
+Claimant was 32 years of age at the time of hearing. He graduated high school 
+and subsequently completed some college-level general education coursework, but did 
+not obtain a degree. In 2010, he successfully obtained a MIG welding certification. 
+(Claimant’s testimony) Claimant began work at defendant in December 2010. Claimant 
+has remained employed as a CNC/robotic welder since that time; however, he has been 
+assigned to different departments over that period. (Claimant’s testimony; CE1, p. 1)  
+While working welding and grinding frontend loaders, claimant began to 
+experience some symptoms of carpal tunnel syndrome in his right hand and wrist. 
+(Claimant’s testimony)  
+On April 1, 2015, claimant presented to UnityPoint Health and was evaluated by 
+Latha Balamuniswamy, M.D, who noted complaints of right hand pain with some 
+occasional numbness and tingling. Dr. Balamuniswamy noted no specific injury, but 
+commented that claimant had been a welder for 4.5 years and performed repetitive 
+work. On examination of the right wrist, Dr. Balamuniswamy found full range of motion, 
+
+DAVIS V. JOHN DEERE DAVENPORT WORKS 
+Page 3 
+ 
+no swelling, no ecchymosis, no ganglion, and no paresthesia during the visit. Dr. 
+Balamuniswamy diagnosed wrist pain and paresthesia. Claimant was advised to use a 
+wrist split, ice, Advil, and rest the wrist. Dr. Balamuniswamy provided claimant a work 
+note for that date and issued a referral for orthopedic evaluation at ORA Orthopedics. 
+(JE1, pp. 5-6) 
+Pursuant to Dr. Balamuniswamy’s referral, claimant presented to ORA 
+Orthopedics on April 3, 2015. Claimant indicated he sought evaluation for worsening 
+right hand and finger numbness of a 3 to 4 week duration. He identified symptoms of 
+pain, numbness, tingling, weakness, and stiffness, with the problems interfering with his 
+ability to work. (JE2, p. 7) Michael Turner, M.D., evaluated claimant for complaints of 
+atraumatic onset of numbness and paresthesias in the thumb, index, long, and ring 
+fingers of the right hand, with an additional complaint of nighttime paresthesias. Dr. 
+Turner noted claimant worked as a welder and difficulty using the right hand had 
+resulted in claimant taking April 2, 2015 off work. Examination of the right upper 
+extremity revealed positive Phalen’s and Tinel’s testing. (JE2, p. 9) Dr. Turner assessed 
+early onset of right carpal tunnel syndrome. He prescribed a Medrol Dosepak and night 
+splinting, with claimant to follow up in 3 weeks’ time. (JE2, p. 10) 
+On April 28, 2015, claimant returned to Dr. Turner. Claimant reported “great 
+improvement” in nighttime pain symptoms. Claimant denied difficulties working as a 
+welder and denied paresthesias or the need to brace at work. Examination of the right 
+upper extremity revealed full range of motion of the elbow, wrist, and digits; no evidence 
+of muscle wasting; overall neurovascularly intact; and negative Phalen’s and Tinel’s at 
+the wrist. Dr. Turner assessed early onset right carpal tunnel syndrome, improved with 
+splinting and Medrol Dosepak. (JE2, p. 11) Dr. Turner recommended continued night 
+splinting and use of over-the-counter Aleve, as necessary. In the event of return of 
+paresthesias, Dr. Turner noted an EMG/NCV study would be indicated. Claimant was 
+released to return on an as-needed basis. (JE2, p. 12) Dr. Turner authored a return-to-
+work slip, releasing claimant to return to work with no restrictions, but noted he may 
+need to wear a right arm brace. (JE2, p. 13) 
+Claimant testified his right-sided symptoms improved and although he may have 
+experienced some symptoms at work, the symptoms did not interfere with his ability to 
+work. Thereafter, he began duties in another department, performing reclaim welding 
+work. He testified his right-sided symptoms remained about the same and did not cause 
+him to miss any work; however, he then began to experience worsening left-sided 
+symptoms. (Claimant’s testimony)  
+On June 9, 2015, claimant presented to defendant’s occupational health services 
+and an incident report was created. Claimant described pain and numbness of his left 
+hand and wrist. (JE3, p. 30) He was seen on June 10, 2015 by Debra Slater, RN. RN 
+Slater noted complaints of pain, numbness, and tingling of the left hand. Claimant 
+reported an onset of symptoms after beginning his job assignment one month prior. 
+Thereafter, claimant was seen by Lester Kelty, M.D. Dr. Kelty noted claimant worked as 
+a welder and left-handed symptoms began 2.5 to 3 weeks prior. Dr. Kelty noted a 
+patient history of right carpal tunnel syndrome. On examination, Dr. Kelty recorded 
+
+DAVIS V. JOHN DEERE DAVENPORT WORKS 
+Page 4 
+ 
+negative Phalen’s and Tinel’s testing, as well as a question of altered sensation of the 
+third digit. Dr. Kelty’s note concluded with the statement, “Safety to see.” No diagnosis 
+or treatment plan was delineated in Dr. Kelty’s June 10, 2015 notation. (JE3, p. 31) 
+Claimant testified Dr. Kelty informed claimant his injury did not happen at defendant and 
+to return to work; he offered no medical treatment or recommendations. (Claimant’s 
+testimony)  
+Claimant returned to work and in approximately September 2015, he transferred 
+to another department to weld dump truck parts. During this period, claimant testified his 
+carpal tunnel symptoms remained, but were not as severe and he did not seek any 
+medical treatment. From September 2015 until February 2020, claimant remained in the 
+same department, although automation did change some requirements of his duties. 
+During this time, claimant did not miss work due to his conditions and testified he did not 
+think the conditions were serious in nature. (Claimant’s testimony) 
+In February 2020, claimant testified his symptoms suddenly worsened. He began 
+to experience bouts of paralysis in his left arm and would wake from sleep due to 
+severe pain. The symptoms impacted his ability to care for himself. Claimant testified 
+his work duties at the time involved welding and grinding on dump truck bins, which 
+regularly required grinding of poor robotic welds. Claimant believes these duties caused 
+his bilateral symptoms. (Claimant’s testimony) 
+Claimant represents that on February 17, 2020, claimant informed his supervisor, 
+Jayson Norton, that he suffered with pain and periods of paralysis of his bilateral upper 
+extremities, wrists, hands, and fingers due to his work duties. He indicated the 
+symptoms interfered with his sleep and required medical attention. (Claimant’s 
+testimony; CE2, p. 3) Claimant testified Mr. Norton did not advise claimant to report to 
+the onsite clinic or to seek medical treatment; he simply asked claimant to keep him 
+updated. (Claimant’s testimony) Claimant’s coworker, Nathaniel Marxen, was present at 
+the time of the conversation. (CE2, p. 3) Mr. Marxen authored a written statement 
+confirming claimant advised Mr. Norton of his symptoms and further indicating that Mr. 
+Norton did not advise claimant to report his injury. (CE3, p. 7)  
+On February 21, 2020, claimant returned to ORA Orthopedics. On intake forms, 
+claimant noted complaints of pain, numbness, tingling, weakness, swelling, and 
+stiffness. Claimant described the pain as sharp and throbbing, with radiation in the 
+arms. (JE2, p. 14) Claimant was evaluated by board certified orthopaedic surgeon, 
+Scott Collins, M.D., who noted a chief complaint of bilateral arm pain, numbness, 
+tingling, and weakness. (JE2, p. 16; DEI, p. 24) Claimant reported the symptoms began 
+February 15, 2020, with a current pain level of 7 on a 10-point scale. On physical 
+examination, Dr. Collins found positive carpal compression tests bilaterally, as well as 
+weakness of the left triceps and bilateral wrist extensors. Dr. Collins assessed bilateral 
+upper extremity radiculopathy and recommended a cervical spine MRI due to weakness 
+on physical examination. Pending completion of the MRI, Dr. Collins prescribed a 
+Medrol Dosepak. (JE2, p. 16) 
+
+DAVIS V. JOHN DEERE DAVENPORT WORKS 
+Page 5 
+ 
+On approximately February 26, 2020, claimant sent a text message to 
+supervisor, Mr. Norton, advising he had undergone an MRI. (CE2, p. 3; CE3, p. 10) 
+Claimant returned to Dr. Collins on March 6, 2020, at which time, Dr. Collins 
+reviewed claimant’s cervical MRI and found no identifiable pathology to explain 
+claimant’s symptoms. Dr. Collins ordered a course of physical therapy, prescribed 
+Relafen, and ordered an EMG of the bilateral upper extremities. (JE2, p. 18) 
+On April 17, 2020, claimant returned to Dr. Collins for EMG review. Dr. Collins 
+opined claimant’s EMG demonstrated bilateral carpal tunnel syndrome, left worse than 
+right. Dr. Collins recommended bilateral carpal tunnel releases. (JE2, p. 19) Claimant 
+testified Dr. Collins inquired what type of work claimant performed; claimant replied he 
+was a welder at defendant, but did not further discuss his duties. Claimant testified that 
+upon this discussion and learning of his need for surgery, he then realized the 
+seriousness of his conditions. (Claimant’s testimony) 
+On May 15, 2020, claimant completed defendant's “weekly indemnity (‘WI’) 
+disability” application. Thereon, claimant indicated he sought benefits as a result of 
+carpal tunnel syndrome. He represented the condition did not arise out of and in the 
+course of his employment. The application signature block, signed by claimant, notes 
+the applicant was submitting a claim for weekly non-occupational disability benefits. Dr. 
+Collins completed the physician statement of the application. Dr. Collins noted claimant 
+would be unable to work from May 15, 2020 through July 31, 2020 due to bilateral 
+carpal tunnel syndrome with surgical releases. (CE4, p. 13; DEA, p. 1) 
+Claimant underwent right carpal tunnel release by Dr. Collins on May 15, 2020. 
+(JE4, p. 49) In the pre-operative note, Dr. Collins noted complaints of right hand pain, 
+numbness, tingling, stiffness, weakness, and dropping of items. Dr. Collins indicated 
+claimant was having significant difficulties at work. (JE4, p. 47)  
+Left carpal tunnel release followed on June 19, 2020. (JE5, p. 50) 
+On July 8, 2020, claimant returned to Dr. Collins for evaluation. At that time, 
+claimant reported he was doing well, but described the recovery process as slower on 
+the left arm than it had been with the right arm. Claimant also reported some minimal 
+residual numbness, but denied numbness and tingling. Dr. Collins released claimant to 
+normal activities, as tolerated. He recommended use of ice, heat, and activity 
+modification. (JE2, p. 22) 
+Claimant returned to ORA Orthopedics on August 7, 2020. On that date, he was 
+examined by Andrea Black, PAC. PAC Black described claimant as doing well and 
+happy with his progress. Claimant reported incisional area pain, primarily left-sided. He 
+also reported improved numbness, but some residual numbness of the left middle 
+finger. Claimant denied numbness, tingling, or swelling. On examination, PAC Black 
+found slightly altered sensation to light touch of the volar surface of the left middle 
+finger, but otherwise intact sensation to light touch. PAC Black found intact and well-
+healing incisions and full, active range of motion of the hands. Following examination, 
+
+DAVIS V. JOHN DEERE DAVENPORT WORKS 
+Page 6 
+ 
+PAC Black released claimant to return to work without restrictions and to return to clinic 
+as needed. Claimant was advised to massage over the incision areas to help 
+desensitize scar tissue and use ice, heat, and activity modification. (JE2, pp. 23-24)  
+Defendant paid claimant WI benefits from May 18, 2020 through August 9, 2020. 
+Claimant returned to work on August 10, 2020. His weekly benefit rate was $599.00. 
+(CE4, p. 14; DEB, pp. 2-3; DEC, p. 4)  
+Claimant testified he returned to work on August 10, 2020. He returned to the 
+same department, but to different duties, as bin welding was moved to third shift. As 
+claimant did not want to work third shift, his duties changed to welding on frames. 
+Claimant testified his primary duty is welding and described the work as ergonomic. He 
+noted he no longer must grind in awkward positions and only rarely uses grinders and 
+hammers. (Claimant’s testimony) 
+Claimant testified the surgeries improved his symptoms and resulted in less pain 
+and a halt of paralysis. Despite the improvement, claimant testified he continued to 
+experience some symptoms of pain, numbness, cramping, and weakness. (Claimant’s 
+testimony) 
+Claimant incurred medical expenses in treatment of his bilateral carpal tunnel 
+conditions. Per Claimant’s Exhibit 6, charges totaled $5,323.36. (CE6, pp. 29-36) 
+On October 29, 2020, claimant filed an original notice and petition in arbitration, 
+seeking workers’ compensation benefits as a result of an alleged April 13, 2020 injury. 
+(Agency File; DED, p. 5) As a result, defendant completed a first report of injury form, 
+identifying defendant first had knowledge of claimant’s alleged April 13, 2020 injury on 
+November 2, 2020. (DEE, p. 6) 
+On November 5, 2020, claimant presented to defendant’s onsite clinic and was 
+examined by Brian Dugan, RN. RN Dugan noted subjective complaints of bilateral 
+forearm and wrist pain, as well as numbness to the hands. He noted claimant was 
+status-post surgical releases. On examination, RN Dugan noted stable vital signs and 
+claimant was ambulatory and steady. In the plan section of the visit note, RN Dugan 
+noted only, “Injury first occurred 2/2020. f/u to be determined.” (DEF, p. 10) 
+Thereafter, it appears claimant was evaluated at defendant’s onsite clinic by 
+Christine Deignan, M.D.2 (DEF, p. 8) Dr. Deignan served as defendant's medical 
+director from 2007 to 2016 and workers’ compensation medical director from 2013 to 
+2016. From 2017 onwards, Dr. Deignan performed independent medical evaluations. 
+(DEN, p. 66) Dr. Deignan noted claimant presented to the clinic on November 5, 2020 
+and reported he sustained bilateral carpal tunnel syndrome relating to his work activities 
+                                                 
+2 Dr. Deignan’s visit note is dated November 9, 2020 at 10:30 a.m.; however, the content of the 
+note indicates claimant initially presented on November 5, 2020. The visit note also indicates a jobsite 
+visit would be scheduled. The resulting jobsite notes are dated November 9, 2020 at 9:44 a.m. It appears 
+Dr. Deignan did not record her visit note until after conclusion of the jobsite evaluation on November 9, 
+2020. As a result, it is unclear the date and time Dr. Deignan evaluated claimant. (See DEF, pp. 8-10) 
+
+DAVIS V. JOHN DEERE DAVENPORT WORKS 
+Page 7 
+ 
+as a welder. Claimant related his symptoms to gripping grinders and hammers. Dr. 
+Deignan noted claimant was right hand dominant. She noted claimant reported the 
+“same symptoms” five years prior; at that time, he related the symptoms to work 
+activities, but believed the condition was “denied as work related.” Thereafter, claimant 
+treated conservatively for carpal tunnel syndrome with Dr. Turner and improved. In 
+February 2020, bilateral hand pain and numbness began to interrupt sleep. Claimant 
+began a course of treatment with Dr. Collins, including surgical releases. After surgery, 
+symptoms improved, with the exception of stiffness of the left hand. Dr. Deignan noted 
+claimant was capable of fully opposing all fingers on the right hand, but had difficulty 
+reaching the left thumb to the left fifth finger. Claimant also reported reduction in right-
+sided grip strength. (DEF, p. 8) Dr. Deignan performed a physical examination and 
+assessed bilateral carpal tunnel, treated surgically with good result. She indicated a 
+jobsite visit would be scheduled. (DEF, p. 9) 
+The resulting jobsite visit note was recorded on November 9, 2020. Dr. Deignan 
+noted the attendance of Mike Perry, safety analyst, and Jason Norton, supervisor. Also 
+in attendance was claimant, who was observed and interviewed. Dr. Deignan observed 
+claimant welding and claimant identified his tools, including a 5-pound hammer, a 
+grinder, and two sanders. (DEF, p. 9) Thereafter, Dr. Deignan offered the following 
+conclusions: 
+Conclusions: The job activities are not such that bilateral hands are 
+exposed to work activities that would produce symptoms of bilateral carpal 
+tunnel. [Claimant] was aware of the bilateral carpal tunnel for 9 months 
+before reporting an injury or illness to the company. He sought treatment 
+and was off on WI during the surgery and recovery without reporting to the 
+company any claim for work relatedness. 
+(DEF, pp. 9-10)  
+Dr. Deignan continued: 
+In my medical opinion this case should be disputed based on: 
+ 
+1. His job is one dealing with large parts welding and grinding. Grind time 
+per part, according to the supervisor, averages about 2 hours with a 
+range of 30 min to 4 hours. 1-2 dump truck parts are made per shift. If 
+parts come to the weld station and the parts are not fitting together well 
+the operator has the option of sending those to the repair department.  
+2. 5 pound hammer is used at approximately 11 locations per side or 22 
+times per part (with 1-2 parts made per day[)]. 
+3. Employees [sic] symptoms of bilateral numbness and tingling in the 
+hands were first reported about 5 years ago at which time they were 
+disputed as work related and he treated with Dr. Turner under his 
+personal medical insurance. 
+4. [Claimant] gave a history on November 9, 2020 in OHS that he has 
+been having symptoms of recurrent bilateral numbness and tingling in 
+
+DAVIS V. JOHN DEERE DAVENPORT WORKS 
+Page 8 
+ 
+his hands “for years”. He sought medical treatment with Dr. Scott 
+Collins February 2020 without reporting an injury or illness to the 
+company. He proceeded to have surgery on right carpal tunnel and left 
+carpal tunnel without reporting an [sic] claim of work relatedness to the 
+company. 
+(DEF, p. 9)  
+On November 19, 2020, defendant’s counsel authored correspondence to 
+claimant’s counsel. Thereby, counsel represented defendant’s first notice of an alleged 
+April 13, 2020 injury was upon receipt of claimant’s petition. Counsel represented an 
+investigation had been completed and defendant denied claimant’s alleged bilateral 
+carpal tunnel syndrome injury. Defendant denied the injury arose out of claimant’s work 
+and raised defenses of lack of timely notice under section 85.23 and barred by the 
+statute of limitations found in section 85.26. (DEG, p. 11)  
+On December 15, 2020, defendant’s counsel conferenced with Dr. Collins 
+regarding claimant’s conditions. On December 16, 2020, defendant’s counsel sent a 
+purported summary of the conversation to Dr. Collins and requested Dr. Collins review, 
+sign, and return the summary if Dr. Collins believed it to be accurate. (DEI, p. 20) Dr. 
+Collins signed off on the summary on January 12, 2021. (DEI, p. 22) The summary 
+briefly noted the history of claimant’s treatment with Dr. Collins, including that claimant 
+last saw Dr. Collins on July 8, 2020 and PAC Black on August 7, 2020. Claimant had 
+not returned to ORA Orthopedics since that time and had no follow up care scheduled. 
+Dr. Collins expressed agreement with PAC Black’s release of claimant from care and to 
+return to work without restrictions effective August 7, 2020. Dr. Collins opined claimant 
+did not require further treatment or medication following the release on August 7, 2020, 
+nor did he expect the need for further care in the future. Dr. Collins opined claimant 
+achieved maximum medical improvement (MMI) as of August 7, 2020. (DEI, pp. 20-21) 
+With respect to the question of permanent impairment, if any, Dr. Collins agreed with 
+counsel’s summary stating: 
+You agree with what other orthopedic physicians have also told me – 
+when carpal tunnel releases are properly performed, there is typically no 
+resulting permanent impairment. While you have not been asked to do a 
+formal impairment rating or formal impairment evaluation, with your 
+performing successful carpal tunnel releases on each side, it is your 
+opinion that [claimant] would not have any residual or resulting permanent 
+impairment in either his right arm/right side or left arm/left side. Therefore, 
+it is your opinion that [claimant’s] permanent impairment rating from his 
+now resolved bilateral carpal tunnel syndrome would be zero. 
+(DEI, p. 21) 
+With respect to the issue of causation of claimant’s bilateral carpal tunnel, Dr. 
+Collins endorsed the following statements: 
+
+DAVIS V. JOHN DEERE DAVENPORT WORKS 
+Page 9 
+ 
+You cannot state that [claimant’s] welding job at [defendant] caused 
+[claimant’s] bilateral carpal tunnel syndrome. It is your opinion that it is 
+more likely than not that [claimant’s] welding job at [defendant] did not 
+cause [claimant’s] bilateral carpal tunnel syndrome. You hold this opinion 
+based upon [claimant’s] relatively young age (he is 31 years old) and the 
+fact that [claimant] had carpal tunnel syndrome bilaterally – on both sides. 
+It is your opinion that based on [claimant’s] relatively young age, it would 
+have taken longer for [claimant’s] bilateral carpal tunnel syndrome to 
+develop had it actually been caused by his job at [defendant]. It is also 
+your opinion that the presence of carpal tunnel syndrome bilaterally—on 
+both sides—makes it less likely that [claimant’s] bilateral carpal tunnel 
+syndrome was actually caused by [claimant’s] job at [defendant] given a 
+manual laborer typically does not use his non-dominant arm as frequently 
+on the job as he does his dominant arm. If a job actually causes carpal 
+tunnel syndrome, it typically does not cause it on the non-dominant 
+arm/non-dominant side. 
+(DEI, p. 21) 
+At the referral of his counsel, on January 29, 2021, claimant presented to board 
+certified occupational medicine physician, Sunil Bansal, M.D. for independent medical 
+evaluation. (CE5, p. 19) Dr. Bansal issued a report containing his findings and opinions 
+dated March 30, 2021. (CE5, p. 28) Dr. Bansal reviewed claimant’s medical records, 
+including bilateral hand and wrist evaluations dating to 2015. (CE5, pp. 20-23) Dr. 
+Bansal examined claimant’s bilateral upper extremities. Bilaterally, Dr. Bansal noted 
+mild tenderness to palpation of the volar aspect of the wrist; positive Tinel’s sign; 
+positive Phalen’s sign; loss of two-point discrimination over the thumb, index finger, and 
+long finger; and full range of motion of the wrist. (CE5, p. 24)  
+Claimant indicated he had worked as a welder at defendant for just over 10 years 
+and developed bilateral hand numbness and tingling approximately six years prior. At 
+that time, a “company doctor” informed claimant his condition was not work-related. 
+(CE5, p. 23) He returned to work and approximately one year prior, significant pain and 
+paralysis began to awaken claimant from sleep, at which time claimant sought medical 
+treatment. (CE5, pp. 23-24) Dr. Bansal noted claimant’s work as a welder on dump 
+truck beds resulted in exposure to a “lot of vibration all day long.” He further noted 
+claimant spent the first 3 to 4 hours per shift using a 7-inch grinder to remove incorrect 
+robotic welds and anywhere from 1 to 6 hours per shift using welding tools in a variety 
+of positions. (CE5, p. 23)  
+Following treatment, Dr. Bansal noted claimant continued to report numbness 
+and tingling through the bilateral hands. Claimant also reported a lack of sensation 
+when rubbing his fingers together and difficulty with fine motor movements and dropping 
+objects. Claimant informed Dr. Bansal his welding duties had changed to involve dump 
+truck frames, rather than beds of trucks. The new duties involve less vibration and more 
+infrequent use of grinders, but continued fine motor movements. (CE5, p. 24)    
+
+DAVIS V. JOHN DEERE DAVENPORT WORKS 
+Page 10 
+ 
+Following records review, history, and examination, Dr. Bansal assessed bilateral 
+carpal tunnel syndrome, status post release. Dr. Bansal agreed with the MMI date of 
+August 7, 2020 and did not recommend further treatment. (CE5, p. 27) Utilizing the 
+AMA Guides to the Evaluation of Permanent Impairment, Fifth Edition, Tables 16-10 
+and 16-15, Dr. Bansal found a 6 percent right upper extremity impairment and a 4 
+percent left upper extremity impairment due to digital sensory deficits. (CE5, pp. 25-26) 
+Dr. Bansal recommended restrictions of no lifting greater than 20 pounds occasionally 
+or 10 pounds frequently with either hand; and avoidance of vibratory tools. (CE5, pp. 
+27-28) In response to inquiry as to whether claimant’s work at defendant represented a 
+substantial causal, contributing, or aggravating factor in causing claimant’s impairments, 
+Dr. Bansal opined claimant performed job tasks that were capable of increasing carpal 
+tunnel pressures. Dr. Bansal highlighted the “significant” pressure on the wrists due to 
+repetition, frequent vibration, the positions of the wrists while operating a heavy grinder 
+multiple hours per day, and the grabbing, turning, and gripping required when 
+performing welding duties. Dr. Bansal found the duties qualified as having a strong 
+potential to cause carpal tunnel syndrome. (CE5, p. 27) 
+Defendant submitted video evidence of an employee performing the bin welding 
+job position. The video evidence covers 24 separate files totaling in excess of six hours 
+of content. Included are depictions of welding on dump truck bins, with the employee’s 
+arms and body in differing positions and requiring different durations to complete the 
+welds, as well as operating a handheld sander and brief use of a hammer. (DEL)  
+Claimant testified he reviewed the supplied job videos. He testified the videos 
+provided an accurate depiction of welding duties, but he did not recall viewing the 
+employee using a grinder. In the bin welding job, claimant testified he spent 1 to 4 hours 
+per day operating a 7-inch grinder, which required considerable force to operate. He 
+then spent 4 to 7 hours per day welding. As the videos displayed predominantly 
+welding, claimant testified the videos did not fairly reflect all of his prior duties. Claimant 
+testified he continues to experience some symptoms at work, but he does not have 
+difficulty performing his job. (Claimant’s testimony)  
+CONCLUSIONS OF LAW 
+The first issue for determination is whether claimant sustained an injury arising 
+out of and in the course of his employment on April 13, 2020. 
+The party who would suffer loss if an issue were not established has the burden 
+of proving that issue by a preponderance of the evidence.  Iowa R. App. P. 6.904(3). 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the alleged injury actually occurred and that it both arose out of and in the course of the 
+employment.  Quaker Oats Co. v. Ciha, 552 N.W.2d 143 (Iowa 1996); Miedema v. Dial 
+Corp., 551 N.W.2d 309 (Iowa 1996).  The words “arising out of” refer to the cause or 
+source of the injury.  The words “in the course of” refer to the time, place, and 
+circumstances of the injury.  2800 Corp. v. Fernandez, 528 N.W.2d 124 (Iowa 1995).  
+An injury arises out of the employment when a causal relationship exists between the 
+
+DAVIS V. JOHN DEERE DAVENPORT WORKS 
+Page 11 
+ 
+injury and the employment.  Miedema, 551 N.W.2d 309.  The injury must be a rational 
+consequence of a hazard connected with the employment and not merely incidental to 
+the employment.  Koehler Elec. v. Wills, 608 N.W.2d 1 (Iowa 2000); Miedema, 551 
+N.W.2d 309.  An injury occurs “in the course of” employment when it happens within a 
+period of employment at a place where the employee reasonably may be when 
+performing employment duties and while the employee is fulfilling those duties or doing 
+an activity incidental to them.  Ciha, 552 N.W.2d 143. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995).  Miller v. 
+Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 1994).  Unrebutted expert medical 
+testimony cannot be summarily rejected.  Poula v. Siouxland Wall & Ceiling, Inc., 516 
+N.W.2d 910 (Iowa App. 1994). 
+Three physicians have offered opinions with respect to a potential causal 
+connection between claimant’s welding work at defendant and his bilateral carpal tunnel 
+syndrome. Treating surgeon, Dr. Collins, opined he could not state claimant’s welding 
+job caused claimant’s condition and more likely than not that the duties did not cause 
+bilateral carpal tunnel syndrome. Dr. Collins based the opinion upon claimant’s relatively 
+young age and the bilateral nature of the condition, which would not be as likely to 
+develop in a manual laborer as would the condition on only the dominant side. After 
+performing a jobsite review of the welding position, Dr. Deignan opined claimant’s job 
+activities were not such that the bilateral hands were exposed to work activities that 
+would produce symptoms of bilateral carpal tunnel syndrome. Following an independent 
+medical examination, Dr. Bansal opined that claimant’s job activities were capable of 
+increasing carpal tunnel pressures. Dr. Bansal highlighted the “significant” pressure on 
+the wrists due to repetition, frequent vibration, the positions of the wrists while operating 
+a heavy grinder multiple hours per day, and the grabbing, turning, and gripping required 
+when performing welding duties. Ultimately, Dr. Bansal found the duties qualified as 
+having a strong potential to cause carpal tunnel syndrome. 
+
+DAVIS V. JOHN DEERE DAVENPORT WORKS 
+Page 12 
+ 
+The basis of each medical opinion could be easily critiqued. It is unclear what 
+information Dr. Collins possessed regarding the details of claimant’s job duties, as 
+claimant testified the two only briefly discussed his work as a welder. Dr. Collins did not 
+author the content of his own report; however, Dr. Collins signed off on the content of 
+the summary as accurate. Dr. Collins is an orthopedic surgeon with experience treating 
+carpal tunnel syndrome; claimant selected Dr. Collins as his treating surgeon and 
+expressed no complaints regarding his care. Dr. Deignan offered only conclusory 
+opinions with respect to causal connection and did not explain her rationale. Her notes 
+mirror legal conclusions and recommendations, as opposed to remaining in the medical 
+realm. However, Dr. Deignan is uniquely situated in the best position to offer an opinion 
+regarding claimant’s work duties, as she personally observed performance of the duties 
+and interviewed claimant onsite. Dr. Bansal’s opinion is somewhat equivocal in nature 
+and importantly, he does not specifically state claimant’s work activities more likely than 
+not caused or were a substantial, contributing factor in development of bilateral carpal 
+tunnel syndrome. Rather, Dr. Bansal opined the duties were capable of increasing 
+carpal tunnel pressures and had a strong potential to cause bilateral carpal tunnel 
+syndrome.  
+It is ultimately claimant who bears the burden of proving by a preponderance of 
+the evidence that his injury arose out of and in the course of employment. Although I 
+find claimant’s claim plausible, the medical opinions do not support a determination that 
+claimant has met his burden. Dr. Bansal fell short of opining claimant’s bilateral carpal 
+tunnel syndrome was causally related to his work activities and instead offered a more 
+abstract opinion that claimant’s duties had a strong potential to cause bilateral carpal 
+tunnel syndrome. This equivocal opinion is insufficient to allow claimant to prevail when 
+compared to the concrete, contrary opinions of Drs. Collins and Deignan, who served as 
+treating physician and onsite evaluator, respectively.  
+As I find claimant has failed to prove by a preponderance of the evidence that his 
+bilateral carpal tunnel conditions arose out of and in the course of his employment, it is 
+unnecessary to consider defendant’s defenses under Iowa Code sections 85.23 or 
+85.26. It is further unnecessary to consider claimant’s claims for temporary disability, 
+permanent disability, or medical benefits. As claimant failed to prove a compensable 
+injury, he is not entitled to reimbursement for Dr. Bansal’s independent medical 
+examination under Iowa Code section 85.39. Finally, as claimant failed to prevail on his 
+claim, taxation of costs against defendant is inappropriate under Iowa Code section 
+86.40 and rule 876 IAC 4.33.   
+ORDER 
+ 
+THEREFORE, IT IS ORDERED: 
+The parties are ordered to comply with all stipulations that have been accepted 
+by this agency. 
+Claimant shall take nothing from these proceedings.  
+
+DAVIS V. JOHN DEERE DAVENPORT WORKS 
+Page 13 
+ 
+Defendant shall file subsequent reports of injury as required by this agency 
+pursuant to rule 876 IAC 3.1(2). 
+Costs are taxed to claimant pursuant to 876 IAC 4.33.   
+Signed and filed this ____23rd______ day of February, 2022. 
+ 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                 ERICA J. FITCH            
+ 
+ 
+ 
+ 
+ 
+                       DEPUTY WORKERS’ 
+ 
+ 
+ 
+ 
+ 
+            COMPENSATION COMMISSIONER 
+ 
+ 
+The parties have been served as follows: 
+ 
+MaKayla Augustine (via WCES) 
+ 
+Troy Howell (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such perm ission has been granted, the 
+notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal period 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 

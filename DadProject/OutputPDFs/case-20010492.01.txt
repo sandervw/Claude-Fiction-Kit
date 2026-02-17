@@ -1,0 +1,179 @@
+Case Number: 20010492.01
+Case Title:  TYLER, GEORGE V. TYSON FRESH MEATS, INC.
+Doc Type:    Decision - Court of Appeals
+Source:      Tyler, George-20010492.01.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 23-0393 
+Filed February 7, 2024 
+ 
+ 
+GEORGE TYLER, 
+ 
+Plaintiff-Appellant, 
+ 
+vs. 
+ 
+TYSON FRESH MEATS, INC., 
+ 
+Defendant-Appellee. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Celene Gogerty, Judge. 
+ 
+ 
+A claimant appeals the district court’s denial of his petition for judicial review 
+of the workers’ compensation commissioner’s ruling.  AFFIRMED. 
+ 
+ 
+Benjamin R. Roth of Ball, Kirk & Holm, P.C., Waterloo, for appellant. 
+ 
+Jason P. Wiltfang and Dillon J. Carpenter of Scheldrup Wiltfang Corridor 
+Law Group Iowa, P.C., Cedar Rapids, for appellee. 
+ 
+ 
+Considered by Bower, C.J., and Ahlers and Chicchelly, JJ.
+
+ 
+2
+AHLERS, Judge. 
+After working at Tyson Fresh Meats (Tyson Meats) for twenty-five years, 
+George Tyler retired on October 31, 2018.  Nearly a year later—on 
+October 22, 2019—Tyler notified Tyson Meats of a low back injury that he claimed 
+was caused by his employment.  Tyler filed a claim for workers’ compensation 
+benefits.  Tyson Meats asserted the defense that Tyler was not entitled to recover 
+on his claim because he failed to give Tyson Meats notice of the injury within ninety 
+days of the date of the injury’s occurrence, as required by Iowa Code 
+section 85.23 (2020).  See DeLong v. Iowa State Highway Comm’n, 295 N.W. 91, 
+92 (Iowa 1940) (holding lack of notice required by what is now Iowa Code section 
+85.23 is an affirmative defense with the burden of proof on the employer).  Tyler 
+countered by arguing that the discovery rule tolled the section 85.23 notice period. 
+The claim went to hearing, and the deputy workers’ compensation 
+commissioner determined that Tyler had a cumulative injury that was work-related.  
+But the deputy commissioner also found that Tyson Meats met its burden to prove 
+Tyler failed to notify it within ninety days of the date of the injury.  The deputy 
+commissioner based this conclusion on the finding that Tyler knew both that he 
+was injured and that the injury was work-related at the time he retired.  Based on 
+the finding that Tyler gave untimely notice, the commissioner found Tyler’s claim 
+was barred by section 85.23.  Tyler appealed to the commissioner, again arguing 
+the notice period should have been tolled under the discovery rule because he did 
+not know the nature of his injury until September 2019.  The commissioner affirmed 
+the deputy commissioner’s ruling in its entirety.  Tyler petitioned for judicial review, 
+
+ 
+3
+making the same argument he made to the commissioner.  The district court 
+denied his petition.  Tyler appeals. 
+We review district court rulings on judicial review of agency decisions under 
+Iowa Code chapter 17A (2022).  Chavez v. M.S. Tech. LLC, 972 N.W.2d 662, 666 
+(Iowa 2022).  We apply section 17A.19(10) to determine whether we come to the 
+same conclusions as the district court.  Ghost Player, LLC v. Iowa Dep’t of Econ. 
+Dev., 906 N.W.2d 454, 462 (Iowa 2018).  “[W]e accept the commissioner’s factual 
+findings when supported by substantial evidence.”  Bluml v. Dee Jay’s Inc., 920 
+N.W.2d 82, 84 (Iowa 2018).  We “only disturb the agency’s application of the law 
+to the facts of the particular case if that application is irrational, illogical, or wholly 
+unjustifiable.”  Ripperger v. Iowa Pub. Info. Bd., 967 N.W.2d 540, 549 (Iowa 2021) 
+(internal quotation marks and citation omitted).  But when reviewing the workers’ 
+compensation commissioner’s interpretation of Iowa Code chapter 85, we review 
+for correction of errors at law rather than deferring to the agency’s interpretation 
+“because the legislature has not clearly vested the commissioner with authority to 
+interpret that chapter.”  Chavez, 972 N.W.2d at 666. 
+ 
+Tyler contends the commissioner erroneously applied the discovery rule to 
+Iowa Code section 85.23 (2020) by not making separate determinations as to when 
+he knew the nature, seriousness, and compensable character of his injury and 
+equating all elements of the discovery rule with an employee’s knowledge that the 
+injury is serious enough to have a permanent adverse impact on employment.  He 
+claims that, instead, the court should have tolled the notice period until he knew 
+
+ 
+4
+the nature of his injury in September 2019 (when he contends he first understood 
+his injury was to his back, not his groin).1   
+ 
+But in the time since Tyler filed this appeal and the parties submitted their 
+briefs, our supreme court has clarified that the legislature’s 2017 amendments to 
+section 85.26(1)—which establishes the limitation period for bringing workers’ 
+compensation claims—abrogated the version of the discovery rule relied upon by 
+Tyler.  Tweeten v. Tweeten, ___ N.W.2d ___, ___, 2023 WL 8853036, at *8 (Iowa 
+2023).  The same discovery rule applies to both the statute of limitations set by 
+section 85.26 and the ninety-day notice requirement set by section 85.23.  IBP, 
+Inc. v. Burress, 779 N.W.2d 210, 218 (Iowa 2010).  Under the interpretation of the 
+discovery rule before the 2017 statutory amendments, the notice period did not 
+begin until the employee understood the nature, seriousness, and probable 
+compensable character of the injury.  Id.  Our supreme court has summarized 
+these elements with the phrase “serious enough to have a permanent adverse 
+impact on the claimant’s employment.”  Herrera v. IBP, Inc., 633 N.W.2d 284, 288 
+(Iowa 2001).  The parties have framed the fighting issue in the present case as 
+whether the supreme court’s summarization in Herrera applied to only one, or all 
+three, of the elements in the discovery rule.  But this issue no longer guides the 
+outcome.   
+ 
+1 The record shows Tyler had a prior work-related hernia for which he asserted a 
+workers’ compensation claim that he settled with Tyson Meats.  Tyler contends 
+that, until he was told his problems were back-related at a doctor visit in September 
+2019, he thought the pain he was experiencing was related to his prior hernia for 
+which he could not seek compensation because of the settlement of his hernia 
+claim. 
+
+ 
+5
+Prior to the legislature’s 2017 amendments to Iowa Code chapter 85, Iowa 
+Code section 85.23 stated: 
+ 
+Unless the employer or the employer’s representative shall 
+have actual knowledge of the occurrence of an injury received within 
+ninety days from the date of the occurrence of the injury, or unless 
+the employee or someone on the employee’s behalf or a dependent 
+or someone on the dependent’s behalf shall give notice thereof to 
+the employer within ninety days from the date of the occurrence of 
+the injury, no compensation shall be allowed. 
+ 
+In 2017, the legislature added this definitional sentence to sections 85.23 
+and 85.26(1): “For the purposes of this section, ‘date of the occurrence of the 
+injury’ means the date that the employee knew or should have known that the injury 
+was work-related.” 
+ 
+In Tweeten, our supreme court reiterated that, prior to the 2017 
+amendments, the commencement of the limitation period in section 85.26(1) had 
+been tied to the claimant’s discovery of the nature, seriousness, and probable 
+compensable character of the injury.  2023 WL 8853036, at *7.  It then held that, 
+by adding the definition of “date of the occurrence of the injury” to section 85.26(1), 
+the legislature changed the commencement of the limitation period to tie it to the 
+occurrence of a specific event, namely the date “the employee knew or should 
+have known that the injury was work related.”  Id. at *7–8.  The court explained:  
+The general assembly has chosen to limit the discovery rule to 
+knowledge that an injury is work-related, not to knowledge of the 
+compensable nature of the injury as we had previously recognized.  
+Continuing to apply our prior common law discovery rule to further 
+toll the limitation period until the employee is also aware of the 
+permanent adverse impact of an injury would add words to the 
+statute that the general assembly did not—something we cannot do. 
+ 
+Id. at *8.  Because the legislature added identical language to sections 85.23 
+and 85.26(1), coupled with the fact that we apply the discovery rule the same under 
+
+ 
+6
+both sections, see IBP, 779 N.W.2d at 218, we find Tweeten controls the outcome 
+in this case.  Consistent with the holding in Tweeten, we conclude the ninety-day 
+notice period set by section 85.23 starts on the date the claimant knew or should 
+have known the injury was work-related, without regard to a claimant’s knowledge 
+of the nature, seriousness, or probable compensable character of the injury.   
+ 
+Tyler’s argument rests on his contention that he was unaware of the nature 
+of his injury until September 2019.  But even if that were true, after the 2017 
+legislative change analyzed by the supreme court in Tweeten, it does not affect 
+the start date of the notice period set by section 85.23.  The only question since 
+the 2017 amendment is when Tyler knew or should have known that his injury was 
+work-related.  Tyler concedes that he knew his injury was work-related as of his 
+retirement in October 2018.  There is no question Tyler did not provide Tyson 
+Meats notice of the injury until the following October, well outside the ninety-day 
+notice period found in section 85.23.  Because Tyler did not give Tyson Meats 
+timely notice of his injury, section 85.23 bars any recovery for his injury, so we 
+affirm. 
+ 
+AFFIRMED. 

@@ -1,0 +1,924 @@
+Case Number: 22012068.02
+Case Title:  KOELLER, KEVIN V. CARDINAL LOGISTICS MANAGEMENT CORP
+Doc Type:    Decision - Deputy
+Source:      Koeller Kevin-22012068.02d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+KEVIN KOELLER, 
+  : 
+ 
+ 
+  : 
+ 
+   File No. 22012068.02 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                  
+CARDINAL LOGISTICS MANAGEMENT  : 
+ 
+ARBITRATION DECISION 
+CORP., 
+  : 
+ 
+ 
+  :           
+ 
+Employer, 
+  : 
+ 
+ 
+  :                   
+and 
+ 
+  : 
+ 
+ 
+  : 
+    
+ACE AMERICAN INS. CO.,  
+  : 
+ 
+ 
+  : 
+Head Notes:  1803, 1902, 2206, 2701, 
+ 
+Insurance Carrier, 
+  : 
+ 
+ 
+ 2907, 3003 
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+Kevin Koeller, claimant, filed a petition in arbitration seeking workers’ 
+compensation benefits from Cardinal Logistics Management Corp., employer, and ACE 
+American Insurance Co., insurance carrier, as defendants.  The hearing was held on 
+November 15, 2023.  Pursuant to an order from the Iowa Workers’ Compensation 
+Commissioner, this case was heard via videoconference using Zoom with all parties 
+and the court reporter appearing remotely.   
+The parties filed a hearing report at the commencement of the arbitration 
+hearing.  On the hearing report, the parties entered into various stipulations.  Those 
+stipulations were accepted and are hereby incorporated into this arbitration decision and 
+no factual issues relative to the parties’ stipulations will be raised or discussed in this 
+decision.  The parties are now bound by their stipulations.  
+Kevin Koeller was the only witness to testify live at trial.  The evidentiary record 
+also includes joint exhibits 1-3, claimant’s exhibits 1-9, and defendants’ revised exhibits 
+A1-A3.  All exhibits were received into the record without objection.  
+The parties submitted post-hearing briefs on December 13, 2023, at which time 
+the case was fully submitted to the undersigned.  
+ISSUES 
+ 
+The parties identified the following disputed issues on the hearing report: 
+ 
+ELECTRONICALLY FILED     2024-Mar-29  13:07:11     DIVISION OF WORKERS' COMPENSATION
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 2 
+ 
+1. The nature and extent of claimant’s entitlement to permanent disability benefits.   
+ 
+2. Whether claimant is entitled to additional healing period benefits due to an 
+underpayment.  
+ 
+3. Claimant’s weekly rate.  
+ 
+4. Whether claimant is entitled to penalty benefits.  
+ 
+5. Whether claimant is entitled to payment of the medical expenses in claimant’s 
+exhibit 8. 
+ 
+6. Whether claimant is entitled to alternate medical care. 
+7. Whether claimant is entitled to recover the cost of an independent medical 
+examination pursuant to Iowa Code section 85.39.  
+ 
+8. Assessment of costs.  
+ 
+FINDINGS OF FACT 
+The undersigned, having considered all the evidence and testimony in the 
+record, finds as follows: 
+At the time of the hearing the claimant, Kevin Koeller (hereinafter “Koeller”), was 
+60 years old and residing with his family in Dubuque, Iowa. (Claimant’s Exhibit 1, p. 1; 
+Hearing Transcript, p. 16).  In 2009, Cardinal Logistics Management Corporation 
+(hereinafter “Cardinal Logistics”) hired Koeller as a delivery driver.  (Tr., p. 17).  Cardinal 
+Logistics transports goods for Nordstrom’s.  (Id.).  Koeller delivers goods to 
+approximately six different stores located in Illinois, Indiana, and Michigan. (Id.).  In 
+addition to driving the semi, Koeller is responsible for unloading the merchandise at 
+each stop. (Cl Ex. 1, p. 1).  At the time of the hearing, Koeller was still employed by 
+Cardinal Logistics as a semi driver. (Tr., p. 22).   
+On October 5, 2022, Koeller injured his left shoulder while delivering goods to a 
+store. (Hearing Report; Tr., p. 18).  The semi he drives has a roll-up door. (Tr., p. 18).  
+To open it, the driver must grab the handle and pull up.  (Id.). Koeller testified he 
+grabbed the handle of the door with his left hand and pulled up hard, but the door stuck, 
+causing his shoulder to jerk. (Id).  Koeller felt a popping sensation in his shoulder. (Joint 
+Exhibit 1, p. 1).  Koeller’s efforts only opened the door a few inches. (Tr., p. 18).  A 
+pallet had fallen over onto the door, jamming it shut. (Id.).  He was forced to use a floor 
+jack to open the door completely. (Id.).  Koeller finished unloading the delivery.  (Id.).   
+Koeller reported the incident to Cardinal Logistics later that day. (Defendants’ 
+Exhibit A).  He, however, waited until the weekend to seek medical care. (Tr., p. 19).  
+Koeller testified he went to the doctor on Sunday because his shoulder turned black and 
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 3 
+ 
+blue. (Id.).  The first medical record in evidence is dated October 19, 2022. (JE 1, p. 1).  
+On that date, Koeller was evaluated by Peggy Barton, a nurse practitioner at Finley 
+Occupational Health. (Id.).  This treatment record notes Koeller’s left shoulder had some 
+residual bruising, and he was experiencing numbness, tingling, and pain in his left hand 
+and arm whenever he lifted it above shoulder height. (Id.).  Burton ordered an x-ray and 
+an MRI and returned Koeller to work with restrictions.1 (Id. at 3-4).    
+The x-ray was performed that same day, October 19, 2022. (JE 1, p. 6).  It 
+revealed moderate AC joint osteoarthritis. (Id.).  The MRI was taken on November 3, 
+2022. (Id. at 7).  It showed partial tearing of the supraspinatus tendon, insertional 
+tendinopathy of the subscapularis tendon, and mild to moderate AC joint degenerative 
+disease. (Id. at 8).  Nurse Barton referred him for a left bicep ultrasound and an 
+evaluation with orthopedics. (Id. at 11).  She also provided updated work restrictions of 
+limited use of the left arm.  (Id. at 12).  
+The ultrasound of Koeller’s left bicep took place on November 18, 2022. (JE 1, p. 
+13).  It was suggestive of a partial tear of the distal biceps tendon. (Id.).  Matthew 
+Bollier, M.D., an orthopedic surgeon at the University of Iowa Hospitals and Clinics 
+(UIHC) evaluated Koeller on December 9, 2022. (JE 2, p. 14).  Dr. Bollier diagnosed 
+him with chronic left shoulder pain and recommended injections to the glenohumeral 
+joint and physical therapy.2 (Id. at 17-18).   
+Koeller returned to UIHC for treatment on January 9, 2023. (JE 2, p. 19).  The 
+treatment notes from this visit indicate Koeller underwent an injection, as well as 
+physical therapy since his last appointment in December 2022.  (Id.).  Neither treatment 
+improved his pain and/or symptoms. (Id.).  He continued to experience pain and 
+persistent numbness from his upper arm to his fingers. (Id.).  Dr. Bollier diagnosed a 
+traumatic left rotator cuff tear. (Id. at 21). He recommended surgery. (Id. at 20).   
+On February 7, 2023, Dr. Bollier performed a left shoulder arthroscopy with SLAP 
+repair, extensive debridement, biceps tenotomy, subacromial decompression, and distal 
+clavicle excision. (JE 2, pp. 22-23, 25-27).  Koeller received follow-up treatment at 
+UIHC. (Id. at 28).  He saw Elayne Gustoff, ARNP, on February 20, 2023. (Id.).  Koeller’s 
+pain levels decreased, but he continued to have numbness in his forearm, thumb, and 
+index fingers.  (Id.).  Nurse Gustoff ordered physical therapy and provided a 5-pound 
+lifting restriction for his left arm. (Id. at 29).   
+Koeller returned to see Dr. Bollier on March 20, 2023. (JE 2, p. 32).  He was still 
+experiencing numbness throughout his left arm and fingers, as well as some clicking 
+                                                                 
+1The treatment record indicates Koeller was already off work at this time for cancer treatments.  (JE 1, p. 
+1).    
+2 Dr. Bollier’s treatment record indicates Koeller had previously developed deep vein thrombosis (DVT) in 
+his left upper extremity while attending physical therapy and was prescribed Eliquis. (JE 2, p. 14).  It also indicates 
+the physical therapy worsened his shoulder symptoms. (Id.).  The records from Koeller’s previous physical therapy 
+and DVT treatment are not in evidence.  
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 4 
+ 
+and popping in his shoulder joint. (Id.).  Dr. Bollier ordered an EMG of Koeller’s left 
+upper extremity and continued his physical therapy and work restrictions. (Id. at 32-33).   
+The EMG took place on April 20, 2023.  (JE 3, pp. 38-40).  The EMG 
+results read as follows: 
+The needle EMG study was normal in all 10 tested muscles:  L Cervical 
+paraspinals, L Deltoid, L Biceps brachii, L Triceps brachii, L 
+Brachioradialis, L Flexor carpi radialis, L Extensor digitorum communis, L 
+abductor pollicis brevis, L First dorsal interosseous, L Supraspinatus.  
+Interpretation:  NSC/EMG findings compatible with a disorder of the right 
+[sic] median nerve proximal to the elbow or a portion of the brachial 
+plexus.  
+(Id. at 40).   
+ 
+Koeller had a follow-up appointment with Dr. Bollier on May 1, 2023. (JE 2, p. 
+34).  The note from this appointment indicates Koeller’s shoulder pain and range of 
+motion had improved, but he was still experiencing numbness and tingling in his left arm 
+and fingers. (Id.).  Dr. Bollier indicated the EMG results did not explain the numbness 
+Koeller was experiencing. (Id. at 35).  Dr. Bollier placed Koeller at maximum medical 
+improvement (MMI) for the left shoulder injury and indicated he could return to work 
+without restrictions. (Id. at 36).  He assigned Koeller 6 percent permanent impairment to 
+the upper extremity for loss of range of motion in the shoulder joint, citing to Figures 16-
+40, 16-43, and 16-46 of the AMA Guides to the Evaluation of Permanent Impairment, 
+Fifth Edition.  (Id. at 36).  Dr. Bollier’s measurements for that rating were as follows: 
+ 
+Abduction:  150 
+ 
+Forward Flexion: 160 
+ 
+Adduction: 
+40 
+Extension: 
+30 
+IR:  
+60 
+ER: 
+80 
+(Id. at 35).  Dr. Bollier did not assign any impairment for the distal clavicle resection 
+because he felt the need for it “was not caused by the work injury.”  (Id. at 36).  On July 
+27, 2023, Dr. Bollier sent an additional report stating that the results of the EMG test 
+were normal.  In his opinion, Koeller did not need to see a brachial plexus specialist. (JE 
+2, p. 37).  At the hearing, Koeller testified that he continues to experience numbness 
+and tingling in his left hand and arm. (Tr., pp. 20, 22).   
+At the behest of his attorney, Koeller attended an independent medical exam 
+(IME) with Mark Taylor, M.D. in August 2023. (Cl Ex. 1, p. 1).  Dr. Taylor diagnosed 
+Koeller with a left shoulder labral tear status post arthroscopy with SLAP repair, 
+extensive debridement, biceps tenotomy, subacromial decompression, and distal 
+clavicle excision; left shoulder and upper extremity paresthesias/dysesthesias; and 
+EMG evidence of disorder of the median nerve proximal to the elbow versus brachial 
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 5 
+ 
+plexus etiology.  (Id. at 6).  He assigned Koeller 9 percent permanent impairment of the 
+upper extremity for loss of range of motion in the shoulder joint, citing to Figures 16-40, 
+16-43, and 16-46 of the AMA Guides.  (Id.).  Dr. Taylor’s report contains the following 
+measurements for that rating: 
+Flexion: 
+140 
+Extension:  40 
+Abduction: 
+125 
+Adduction: 
+35 
+IR: 
+55 
+ER: 
+60 
+(Id. at 5).  Dr. Taylor also assigned 10 percent permanent impairment to the upper 
+extremity for the distal clavicle excision per Table 16-27, as well as 1 percent 
+permanent impairment for weakness in supination of his elbow, citing to Table 16-35. 
+(Id. at 6).  In total, Dr. Taylor assigned a combined rating of 19 percent permanent 
+impairment of the left upper extremity. (Id.).  In his report, Dr. Taylor opines that the 
+need for the distal clavicle excision was causally related to the October 5, 2022 date of 
+injury because Koeller did not have tenderness in his AC joint until after the work 
+incident. (Id.).  He recommended permanent work restrictions of up to 25 pounds 
+overhead lifting, and occasional reaching overhead with his left arm.  (Id. at 7).  He also 
+indicated Koeller should be evaluated by a brachial plexus specialist for the numbness 
+in his left arm and fingers. (Id.).   
+Dr. Taylor authored a supplemental report on September 14, 2023. (Cl Ex. 1, p. 
+12).  This report addresses Dr. Taylor’s failure to apply the modifier from Table 16-18 to 
+his distal clavicle excision rating. (Id.). In it, Dr. Taylor argues that the modifier is not 
+supposed to be applied to the ratings on Table 16-27.  (Id.).  Dr. Taylor provides the 
+following rationale to support this assertion: (1) his understanding that Table 16-27 was 
+inadvertently listed as one the modifier applied to, (2) that tables which require 
+modification each have an asterisked footnote below instructing the examiner to apply 
+the modifier to the joint impairment, but Table 16-27 does not have a footnote, (3) the 
+explanatory paragraph after Table 16-27 does not specifically instruct the examiner to 
+apply the modifier, (4) the example under Table 16-27 does not apply the modifier, and 
+(5) that using the modifier for Table 16-27 is inconsistent with other sections of the 
+Guides that assign impairment for similar procedures, such as knee replacements. (Id.).   
+Claimant also obtained a records review from Brian Crites, M.D., an orthopedic 
+surgeon in West Des Moines, Iowa. (Cl Ex. 2, p. 15).  In his report, Dr. Crites opines 
+that the work injury on October 5, 2022, caused a material aggravation to Koeller’s AC 
+joint necessitating the need for the distal clavicle excision.  (Id.).  Dr. Crites also offers 
+his opinion on Koeller’s permanent impairment from the work injury. (Id. at 15-16).  Dr. 
+Crites provides an overall rating of 12 percent whole body impairment. (Id. at 16).  This 
+rating includes 6 percent impairment to the upper extremity for loss of range of motion in 
+Koeller’s shoulder joint, 10 percent impairment to the upper extremity for the distal 
+clavicle excision, and 5 percent impairment to the upper extremity for the biceps 
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 6 
+ 
+tenotomy/release. (Id.).  Dr. Crites also articulates his belief that the modifier in Table 
+16-18 does not apply to the impairment values listed on Table 16-27. (Id. at 15).   
+The record contains several different expert opinions addressing permanent 
+impairment. Of these, I find Dr. Taylor’s to be the most accurate.  While both doctors 
+assign impairment for loss of range of motion in the shoulder joint, Dr. Taylor also 
+assigns additional impairment for the distal clavicle resection.  The distal clavicle 
+resection was a documented part of Koeller’s left shoulder surgery.  It is rational that 
+there would be some impairment from that procedure.  Defendants claim this 
+impairment is unrelated to the October 5, 2022 date of injury.  As support for this 
+assertion, defendants point to Dr. Bollier’s statement that the need for the distal clavicle 
+resection “was not caused by the work injury.”  (JE 2, p. 36).  The undersigned, 
+however, cannot find evidence in the medical records supporting this statement.  There 
+are no treatment notes indicating Koeller sought medical care for AC joint osteoarthritis 
+prior to the date of injury.  Also, Dr. Bollier’s early treatment records support a causation 
+finding for an aggravation of the joint osteoarthritis.  For example, after Dr. Bollier first 
+evaluated Koeller on December 9, 2022, his impression was “left shoulder pain after 
+suffering a work injury on 10/5/2022 c/w with rotator cuff tear, early ACJ OA, biceps 
+tendinopathy.”  (JE 2, p. 17).  He then provides the following causation opinion: 
+Causation: good correlation between MRI and physical examination.  To 
+the nearest degree of medical certainty, the work injury was a significant 
+factor in our causation assessment regarding the MRI findings and 
+diagnosis. Has a consistent mechanism of injury, clear tear on the MRI, 
+and reports no left shoulder pain prior to the work injury.  Imaging 
+including MRI shows pathology that correlates with his physical exam.  We 
+use a consistent approach when evaluating causation in work injuries.  
+(Id.) (emphasis added).  Dr. Bollier then recommended and prescribed injections and 
+physical therapy.  (Id.).  Given this, I do not find Dr. Bollier’s later causation opinion 
+convincing. The evidence shows the October 5, 2022 injury materially aggravated 
+Koeller’s AC joint osteoarthritis.   
+ I also do not find Dr. Crites’ opinion persuasive.  Dr. Crites performed a records 
+review. (Cl Ex. 2, pp.15-16).  As indicated in Dr. Taylor’s report, to provide a valid rating 
+under the AMA Guides, an expert must perform an examination. (Cl Ex. 1, p. 9).  Dr. 
+Crites did not physically examine Koeller.  (Cl Ex. 2, pp. 15-16).  Instead, he relied upon 
+the measurements included in Dr. Bollier’s treatment records.  (Id. at 15).  Additionally, 
+Dr. Crites’ report indicates he only reviewed three of Dr. Bollier’s treatment records. 
+(Id.).  That is insufficient.  To provide a reliable opinion, an expert needs to have 
+reviewed a complete and accurate set of records.  Dr. Crites did not do that.  His 
+opinion is not adopted.  
+Of the three expert opinions presented, only Dr. Taylor’s includes a complete 
+review of Koeller’s treatment records, a well-documented physical examination, and an 
+impairment rating for the distal clavicle excision.  Given this, Dr. Taylor’s opinion on 
+permanent impairment is adopted, with some modifications, which are explained below.  
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 7 
+ 
+The parties have stipulated that the commencement date for permanent partial benefits 
+is May 1, 2023. (Hearing Report).   
+The parties have a rate disagreement.  They agree Koeller was married and 
+earning $2,269.36 per week at the time of the injury but disagree on the number of 
+exemptions he is entitled to claim. (Hearing Report).  On the hearing report, Koeller 
+claims entitlement to three exemptions. (Id.).  Defendants, however, contend he is only 
+entitled to two exemptions. (Id.).  The crux of the parties’ dispute is whether Koeller is 
+entitled to claim his daughter as a dependent.  Koeller introduced his tax returns from 
+2022. (Cl Ex. 6, p. 32).  They show Koeller listed his daughter, AK, as a dependent in 
+2022. (Id.).  At the hearing, Koeller testified that AK was around eighteen years old and 
+a full-time student at Iowa State University in Ames at the time of his work injury. (Tr, 
+pp. 29-31).  He indicated that she took out student loans to pay for her college courses 
+and lodging, but he still supported her financially by paying for the interest on her loans, 
+her car, groceries, and gas, as well as providing her with spending money. (Id. at 32-
+33).  Given this evidence, I find Koeller was entitled to claim AK as a dependent child in 
+2022.  He is entitled to three exemptions for the October 5, 2022 date of injury and his 
+weekly rate is $1,401.10.   
+Koeller alleges entitlement to additional healing period benefits due to an 
+underpayment. (See Hearing Report).  According to defendants’ exhibits, Koeller has 
+already been paid approximately 28 weeks of healing period benefits.  (Defendants’ 
+Exhibit A3, p. 7).  The benefit payments started on October 19, 2022, and were paid 
+through April 30, 2023,3 at the rate of $1,387.12 per week.  Koeller agrees with the 
+payment dates but claims the benefits should have been paid at the rate of $1,401.10.  
+Under Iowa law, Koeller’s weekly rate for the October 5, 2022 date of injury is 
+$1,401.10.  Defendants underpaid healing period benefits in the amount of $13.98 per 
+week.  
+CONCLUSIONS OF LAW 
+The party who would suffer loss if an issue were not established ordinarily has 
+the burden of proving that issue by a preponderance of the evidence.  Iowa R. App. P. 
+6.904(3)(e). 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the alleged injury occurred and that it both arose out of and in the course of the 
+employment.  Quaker Oats Co. v. Ciha, 552 N.W.2d 143 (Iowa 1996); Miedema v. Dial 
+Corp., 551 N.W.2d 309 (Iowa 1996).  The words “arising out of” refer to the cause or 
+source of the injury.  The words “in the course of” refer to the time, place, and 
+circumstances of the injury.  2800 Corp. v. Fernandez, 528 N.W.2d 124 (Iowa 1995).  
+An injury arises out of the employment when a causal relationship exists between the 
+                                                                 
+3Defendants’ Exhibit A3 indicates defendants paid 28 and 6/7 weeks of temporary benefits. (Ex. A3, p. 7).  
+This calculation, however, goes through May 8, 2023. (Id.).  The parties have stipulated that permanent partial 
+disability benefits should commence on May 1, 2023. (Hearing Report).  Given this, Koeller’s entitlement to 
+temporary total benefits ends on April 30, 2023.  
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 8 
+ 
+injury and the employment.  Miedema, 551 N.W.2d 309.  The injury must be a rational 
+consequence of a hazard connected with the employment and not merely incidental to 
+the employment.  Koehler Electric v. Wills, 608 N.W.2d 1 (Iowa 2000); Miedema, 551 
+N.W.2d 309.  An injury occurs “in the course of” employment when it happens within a 
+period of employment at a place where the employee reasonably may be when 
+performing employment duties and while the employee is fulfilling those duties or doing 
+an activity incidental to them.  Ciha, 552 N.W.2d 143. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa Ct. App. 1997); 
+Sanchez v. Blue Bird Midwest, 554 N.W.2d 283 (Iowa Ct. App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995).  Miller v. 
+Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 1994).  Unrebutted expert medical 
+testimony cannot be summarily rejected.  Poula v. Siouxland Wall & Ceiling, Inc., 516 
+N.W.2d 910 (Iowa Ct. App. 1994). 
+When an expert's opinion is based upon an incomplete or incorrect history, it is 
+not necessarily binding on the commissioner or the court. It is then to be weighed, 
+together with other facts and circumstances, the ultimate conclusion being for the finder 
+of the fact.  Musselman v. Central Telephone Company, 154 N.W.2d 128, 133 (Iowa 
+1967); Bodish v. Fischer, Inc., 257 Iowa 521, 522, 133 N.W.2d 867, 870 (1965).  The 
+commissioner as trier of fact has the duty to determine the credibility of the witnesses 
+and to weigh the evidence, together with the other disclosed facts and circumstances, 
+and then to accept or reject the opinion.  Dunlavey, 526 N.W.2d 845. 
+Under the Iowa Workers' Compensation Act, permanent partial disability is 
+compensated either for a loss or loss of use of a scheduled member under Iowa Code 
+section 85.34(2)(a)-(u) or for loss of earning capacity under section 85.34(2)(v). The 
+extent of scheduled member disability benefits to which an injured worker is entitled is 
+determined by using the functional method. Functional disability is “limited to the loss of 
+the physiological capacity of the body or body part.” Mortimer v. Fruehauf Corp., 502 
+N.W.2d 12, 15 (Iowa 1993); Sherman v. Pella Corp., 576 N.W.2d 312 (Iowa 1998).  At 
+the start of the hearing, both parties stipulated that Koeller’s injury was a scheduled 
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 9 
+ 
+member injury to the left shoulder.  (See Hearing Report).  Thus, his permanent 
+impairment is determined under Iowa Code section 85.34(2)(n).  Iowa Code section 
+85.34(2)(n) limits compensation for a shoulder injury to four hundred weeks.  Iowa Code 
+§ 85.34(2)(n) (2021).   
+In all cases of permanent partial disability described in paragraphs “a” through 
+“u”, or paragraph “v” when determining functional disability and not loss of earning 
+capacity, the extent of loss or percentage of permanent impairment shall be determined 
+solely by utilizing the guides to the evaluation of permanent impairment, published by 
+the American medical association, as adopted by the workers' compensation 
+commissioner by rule pursuant to chapter 17A. Iowa Code § 85.34(2)(x).   
+I have adopted Dr. Taylor’s opinion on Koeller’s left shoulder impairment.  Dr. 
+Taylor assigned 9 percent impairment of the upper extremity for loss of flexion, 
+extension, abduction, adduction, internal rotation, and external rotation in the shoulder 
+joint, citing to Figures 16-40, 16-43, and 16-46 of the AMA Guides.  (Cl Ex. 1, p. 6).  He 
+also assigned 1 percent impairment of the upper extremity for supination weakness in 
+Koeller’s elbow/forearm, citing to Table 16-35.  (Id.).  A 2022 ultrasound suggested 
+Koeller had a partial tear of his biceps tendon. (JE 1, p. 13).  Given this, I find Dr. 
+Taylor’s proposed impairment for supination weakness reasonable.  Finally, Dr. Taylor 
+assigned 10 percent impairment of the upper extremity for the distal clavicle excision, 
+citing to Tables 16-27 and 16-35 of the AMA Guides.  (Id.).  In his supplemental report, 
+Dr. Taylor argues that the 25 percent modifier contained in Table 16-18 is not supposed 
+to be applied to the impairment ratings listed on Table 16-27.  (Id. at 12).  He then 
+outlines several different arguments to support his opinion that examiners should not 
+apply the multiplier to the impairments listed on Table 16-27. (Id.).  However, in a recent 
+appeal decision, the Commissioner reiterated that under the AMA Guides, Fifth Edition, 
+a rating physician must apply the 25 percent multiplier contained in Table 16-18 to any 
+rating for a distal clavicle resection.  Jay v. Archer Skid Loader Service, File No. 
+19003586.01 (App., Aug. 23, 2022).  The Commissioner stated, 
+Table 16-27 of the AMA Guides governs impairment of the upper 
+extremities after arthroplasty of specific bones and joints. Under Table 16-
+27, a distal clavicle excision is assigned ten percent impairment. 
+  
+Page 498 of the AMA Guides directs the examining physician as 
+follows: 
+Conditions not previously described that can contribute to 
+impairments of the hand and upper extremity include bone 
+and joint disorders (Section 16.7a), presence of resection or 
+implant arthroplasty 
+(Section 16.7b), musculotendinous 
+disorders (Section 16.7c) and tendinitis (Section 16.7d), and 
+loss of strength (Section 16.8). The severity of the impairment 
+due to these disorders is rated separately according to Tables 
+16-19 through 16-30 and then multiplied by the relative 
+maximum value of the unit involved as specified in Table 16-
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 10 
+ 
+18. . . . 
+Under 
+Table 
+16-18, 
+the 
+appropriate 
+multiplier 
+for 
+the 
+acromioclavicular joint is 25 percent. 
+  
+Claimant underwent a distal clavicle excision. The AMA Guides 
+direct the physician to assign a rating for a distal clavicle excision, contrary 
+to Dr. Vincent’s opinion. The AMA Guides also require application of a 25 
+percent multiplier. This results in a 2.5 percent impairment for a distal 
+clavicle excision under the plain text of the AMA Guides. 
+Id.  The undersigned is bound by the holding in Jay.4   
+ 
+Koeller argues the facts of his case are distinguishable from those presented in 
+Jay and therefore its holding should not apply.  He contends application of the multiplier 
+was permissible in Jay because there were no expert opinions in the hearing record 
+addressing the proper calculation of impairments listed on Table 16-27. (Claimant’s 
+Post-Hearing Brief, p. 7).  In this case, Koeller submitted two expert reports arguing that 
+the multiplier is not supposed to be applied to any of the ratings listed on Table 16-27.  
+(Id. at 8).  He argues those reports are unrebutted and must be accepted by the agency. 
+(Id.).  The undersigned does not find this argument convincing.  While courts have 
+indicated the agency should not summarily reject expert testimony when it is the only 
+medical evidence presented, the Commissioner remains the finder of fact, and has a 
+duty to reject expert testimony when there are valid reasons to do so. See Poula, 516 
+N.W.2d at 911-912; See also Catalfo v. Firestone Tire & Rubber Co., 213 N.W.2d 506, 
+510 (Iowa 1973); James v. Sheller-Globe Corp., 510 N.W.2d 170, 174 (Iowa App. 
+1993).  Under the statute, failure to comply with the language of the AMA Guides 
+remains a valid reason to reject an expert opinion.  See Iowa Code § 85.34(2)(x).  
+Additionally, the opinions offered by Koeller do not distinguish his injury from that 
+presented in Jay, i.e., they do not argue that the multiplier should not apply in this 
+instance because of some fact particular to Koeller’s injury and/or his resulting medical 
+treatment.  Instead, they simply argue for an interpretation of the AMA Guides that is 
+contrary to that already adopted by the Commissioner.  That request is outside the 
+scope of the undersigned’s authority.  
+ 
+Jay is the controlling legal authority in this case, and it states that the multiplier 
+must be used when calculating impairment for a distal clavicle excision.  Applying the 
+multiplier as directed, results in a rating of 2.5 percent for Koeller’s distal clavicle 
+excision.  According to the AMA Guides, this rating must be rounded to the nearest 
+whole number.  Using the combined values chart at page 604, Dr. Taylor’s opinion 
+results in an impairment rating of 13 percent of the upper extremity.  Koeller is entitled 
+to 52 weeks of permanent partial disability benefits, commencing on May 1, 2023, at the 
+rate of $1,401.10.  The parties stipulated that Koeller was already paid at least 24 
+                                                                 
+4 The parties sought further review of the Commissioner’s holding in Jay.  On May 22, 2023, the district 
+court upheld the Commissioner’s decision in Jay, with some minor modifications.  That decision, however, was 
+appealed by the claimant.  That appeal is pending.  
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 11 
+ 
+weeks of permanent partial disability benefits at the rate of $1,387.12.  Defendants are 
+entitled to a credit for the prior paid benefits.  
+The parties have a dispute about Koeller’s correct weekly rate.  This 
+disagreement originates from differences of opinion about his entitlement to tax 
+exemptions.  Koeller alleges he is entitled to three exemptions.  Defendants contend he 
+is only entitled to two exemptions.  An injured worker’s marital status and the number of 
+exemptions he or she is entitled to claim, are considered when calculating rate.  This is 
+because, under the language of Iowa Code section 85.37, the worker’s weekly benefit 
+amount is calculated as eighty percent of the employee’s weekly spendable earnings. 
+Weekly spendable earnings are the amount remaining after payroll taxes are deducted 
+from gross weekly earnings.  Iowa Code § 85.61(9).  Iowa Code section 85.61(6) 
+defines payrolls taxes as follows: 
+“Payroll taxes” means an amount, determined by tables adopted by the 
+workers' compensation commissioner pursuant to chapter 17A, equal to the 
+sum of the following: 
+a. An amount equal to the amount which would be withheld pursuant to 
+withholding tables in effect on July 1 preceding the injury under the 
+Internal Revenue Code, and regulations pursuant thereto, as amended, 
+as though the employee had elected to claim the maximum number 
+of exemptions for actual dependency, blindness and old age to which 
+the employee is entitled on the date on which the employee was injured. 
+Id.  The agency has long established precedent that the actual exemptions claimed on 
+the employee’s income tax return controls when determining how many exemptions a 
+claimant is entitled to claim for purposes of the weekly compensation rate.  Webber v. 
+West Side Transport, Inc., File No. 1278549 (App. December 20, 2002); DeRaad v. 
+Fred's Plumbing and Heating, File No. 1134532 (App. January 16, 2002), Rhoades v. 
+Torgerson Construction Co., File No. 1012085 (App. January 31, 1995), Keeling v. 
+Cedar Rapids Community Schools, File No. 891809 (App. February 26, 1993).  In 
+essence, the agency recognizes a presumption that the claimant is entitled to the 
+number of exemptions that were actually claimed on his or her tax returns for the injury 
+year.  This presumption, however, is rebuttable.  The party seeking to overcome the 
+presumption must present sufficient evidence at hearing to rebut the presumption.   
+Koeller submitted his tax returns for 2022. (Cl Ex. 6, p. 32).  They show his 
+daughter, AK, listed as a dependent in 2022. (Id.).  Given this, defendants bear the 
+burden of rebutting the agency’s presumption that Koeller is allowed to claim her as an 
+exemption for rate purposes.  In their post-hearing brief, defendants argue that AK was 
+not properly claimed as a dependent on her father’s tax returns.  As support for this 
+assertion defendants cite to Iowa Code section 422.12 and Internal Revenue Code 
+section 152(c)(1)-(3).  (Defendants’ Post-Hearing Brief, p. 9).  Internal Revenue Code 
+152(c) articulates when a child qualifies as a dependent for tax purposes.  Iowa Code 
+section 422.12 adopts the definition of dependent contained in the Internal Revenue 
+Code.  To be considered a dependent under Internal Revenue Code section 152(c), a 
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 12 
+ 
+child must: (1) have a qualifying familial relationship with the taxpayer, (2) be a student 
+under the age of 24, (3), have the same principle place of abode as the taxpayer for 
+more than one-half of the year, (4) not provide more than half his or her own support for 
+the year, and (5) not file a joint tax return for that year.  26 USCA §152(c)(1)-(3).   
+Defendants argue there is not sufficient evidence that AK meets the Internal 
+Revenue’s definition of dependent because Koeller did not provide sufficient evidence 
+that she lived with him for more than half the year and/or that he provided more than 50 
+percent of her support the year he was injured. (Defendants’ Post-Hearing Brief, p. 10).  
+Defendants’ argument, however, reverses the burden of proof on this issue.  Koeller has 
+submitted his tax returns showing he claimed AK as a dependent in 2022.  Thus, it is 
+defendants’ burden to produce sufficient evidence proving AK does not meet the legal 
+definition of a dependent.  At the hearing, Koeller testified that in 2022, AK was a 
+college student at Iowa State University (ISU) in Ames, Iowa.  (Tr., pp. 29-31).  He 
+indicated AK lived in a dorm room when school was in session, and that she had taken 
+out loans to cover the cost of tuition and lodging. (Id. at 32-33).  Koeller, however, 
+testified that he still supported her financially by paying for the interest on her loans, her 
+car, groceries, and gas, as well as providing her with spending money. (Id.).  His 
+testimony was as follows:  
+Q: And were you paying her living expenses, groceries, rent, that kind of 
+stuff? 
+A: She paid her own rent. We gave her money for groceries and stuff, gas, 
+stuff like that, because she didn’t have a job.  She was a full-time student.  
+Q: Okay. And did you provide her with the monetary compensation every 
+once in a while? Was it consistent over that period or what? 
+A: Consistent, plus I bought her a car, a brand new car, so she – 
+Q: All right. 
+A: -- could drive around, you know, and not break down on me.  
+Q: Did she pay for any of her own expenses herself? 
+A:  Not that I can think of. . .  
+(Id.).  Koeller’s testimony supports his assertion that he paid for all of AK’s expenses 
+outside of tuition and campus lodging.  Defendants argue the amount he spent did not 
+equal more than 50 percent of her support for the year, but they have not provided any 
+actual evidence to support this allegation.  They do not have documentation showing 
+AK’s total expenses for 2022, nor do they have an actual figure of how much monetary 
+support Koeller provided her, and his testimony about her lack of employment is 
+undisputed.  Similarly, defendants claim AK did not reside in the same abode as Koeller 
+for more than half the year but have not provided any specific information about the 
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 13 
+ 
+length of ISU’s school year or how many weeks AK lived in the dorm versus at her 
+father’s house.  Under this record, defendants have not presented sufficient evidence 
+rebutting the presumption that Koeller can claim AK as a dependent.  He is entitled to 
+three exemptions for the October 5, 2022 date of injury and his weekly rate is 
+$1,401.10.   
+ 
+Koeller asserts a claim for penalty benefits. Specifically, Koeller claims he is 
+entitled to penalty benefits because: (1) defendants initially sent him a denial letter on 
+October 28, 2022, and did not accept the claim and/or pay benefits until November 3, 
+2022, and (2) defendants underpaid his rate based upon their assertion that he was 
+only entitled to two exemptions.  (Claimant’s post-hearing brief, pp. 10-11).  Iowa Code 
+section 10A.315(4) governs penalty benefits.  It provides: 
+a. If a denial, a delay in payment, or a termination of benefits occurs without 
+reasonable or probable cause or excuse known to the employer or 
+insurance carrier at the time of the denial, delay in payment, or termination 
+of benefits, the workers' compensation commissioner shall award benefits 
+in addition to those benefits payable under this subchapter, or chapter 85, 
+85A, or 85B, up to fifty percent of the amount of benefits that were denied, 
+delayed, or terminated without reasonable or probable cause or excuse. 
+b. The workers' compensation commissioner shall award benefits under this 
+subsection if the commissioner finds both of the following facts: 
+(1) The employee has demonstrated a denial, delay in payment, or 
+termination of benefits. 
+(2) The employer has failed to prove a reasonable or probable cause or 
+excuse for the denial, delay in payment, or termination of benefits. 
+Id.  Benefits that are underpaid, as well as late-paid benefits, are subject to penalties, 
+unless the employer establishes reasonable and probable cause or excuse. See 
+Robbennolt v. Snap-on Tools Corp., 555 N.W.2d 229, 237 (Iowa 1996) (finding an 
+underpayment in the absence of an excuse required the commissioner to apply a 
+penalty).  Koeller has shown late payment and underpayment of benefits in this case.  
+The question is whether defendants had a reasonable cause or excuse for those 
+delayed payments. The Iowa Supreme Court has explained this second statutory 
+requirement as follows: 
+A reasonable cause or excuse exists if either (1) the delay was necessary 
+for the insurer to investigate the claim or (2) the employer had a reasonable 
+basis to contest the employee's entitlement to benefits. A “reasonable 
+basis” for denial of the claim exists if the claim is “fairly debatable.” 
+Keystone Nursing Care Ctr. v. Craddock, 705 N.W.2d 299, 307 (Iowa 2005). The 
+reasonableness of the employer's actions “does not turn on whether the employer was 
+right. The issue is whether there was a reasonable basis for the employer's position that 
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 14 
+ 
+no benefits were owing.” Id. at 307–08. Stated another way, the “focus is on the 
+existence of a debatable issue, not on which party was correct.” Bellville v. Farm Bureau 
+Mut. Ins. Co., 702 N.W.2d 468, 473–74 (Iowa 2005). In Rodda v. Vermeer Mfg., 734 
+N.W.2d 480, 483 (Iowa 2007), the court explained: 
+A reasonable basis for denying insurance benefits exists if the claim is “fairly 
+debatable” as to either a matter of fact or law. A claim is “fairly debatable” 
+when it is open to dispute on any logical basis. Whether a claim is “fairly 
+debatable” can generally be determined by the court as a matter of law. If 
+the court determines that the defendant had no reasonable basis upon 
+which to deny the employee's benefits, it must then determine if the 
+defendant knew, or should have known, that the basis for denying the 
+employee's claim was unreasonable. 
+Id. (Internal citations and quotations omitted.) In City of Madrid v. Blasnitz, 742 N.W.2d 
+77, 84 (Iowa 2007), the Iowa Supreme Court stated that when there are facts that 
+create a genuine dispute between the parties, the claimant’s case is fairly debatable as 
+a matter of law.  A review of the records in evidence shows that Koeller did not seek 
+medical treatment until October 19, 2022, and no doctor provided an opinion on the 
+cause of Koeller’s left shoulder complaints until December 9, 2022. (See JE 1, p. 1; JE 
+2, p. 17).  On that date, Dr. Bollier indicated that the work incident on October 5, 2022, 
+was a significant factor in causing Koeller’s rotator cuff tear and shoulder diagnosis. 
+(Id.).  Koeller received care from Peggy Barton, ARNP, prior to that, but she never 
+provided a causation opinion.  (JE 1, pp. 4, 12).  Additionally, x-rays taken on October 
+19, 2022, showed only moderate AC joint osteoarthritis, a condition that is often non-
+work related. (Id. at 6).  The parties were not aware of Koeller’s traumatic rotator cuff 
+tear until they received the MRI results on November 3, 2022. (Id. at 7-8).   
+Given this record, defendants’ delay in volunteering benefits appears reasonable 
+in order to investigate his claim and determine compensability.  I do not believe the 
+imposition of a penalty for failure to volunteer benefits prior to November 3, 2022, fifteen 
+days after Koeller’s first medical appointment, is appropriate.  I also find that Koeller’s 
+entitlement to three exemptions was fairly debatable.  Beyond his tax returns, he did not 
+provide defendants with any documentary evidence that AK met the definition of a 
+dependent in 2022.  Because they bore the burden of proof, defendants ultimately lost 
+on this issue.  However, whether every full-time college student living on campus meets 
+the Internal Revenue Code’s definition of a dependent is debatable and very fact 
+specific.  With this backdrop, I find Koeller’s rate was debatable; he has not proven 
+entitlement to penalty benefits for defendants’ underpayment.  
+Koeller seeks payment of the medical expenses listed in Claimant’s Exhibit 8.  
+Exhibit 8 shows Koeller received bills from Grand River Medical, Advanced Radiology, 
+and UnityPoint Finley Hospital in the amount of $1,584.68. (Cl Ex. 8, pp. 38-41).  From 
+claimant’s exhibits it appears that at least some portion of these bills have already been 
+paid. (Id. at 45).  Koeller is entitled to an order of reimbursement only if he has paid 
+treatment costs; otherwise, he is entitled to an order directing the responsible 
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 15 
+ 
+defendants to make payments directly to the provider. See, Krohn v. State, 420 N.W.2d 
+463, 464-465 (Iowa 1988).   
+Koeller alleges the bills in Exhibit 8 are for a pre-operative physical with Dr. 
+Hermann and a CT scan required for him to be cleared for surgery. (Claimant’s post-
+hearing brief, pp. 8-9).  This treatment took place on January 31, 2023. (Cl. Ex. 8, pp. 
+38-41).  For all compensable injuries under Iowa Code chapter 85 or 85A, the employer 
+must “furnish reasonable surgical, medical, dental, osteopathic, chiropractic, podiatric, 
+physical rehabilitation, nursing, ambulance, and hospital services and supplies therefor 
+and shall allow reasonably necessary transportation expenses incurred for such 
+services.” Iowa Code § 85.27(1).  Dr. Bollier’s January 9, 2023 treatment note indicates 
+that Koeller needed medical clearance and an anticoagulation plan from Dr. Hermann, 
+his oncologist, prior to the shoulder surgery. (JE 2, p. 21).  It is found that the pre-
+operative physical with Dr. Hermann was necessitated by the work injury. The treatment 
+note from Dr. Hermann’s pre-operative exam is not in the hearing record, so there is no 
+record of Dr. Hermann requiring a CT scan before providing surgical clearance.  
+However, the record contains a letter from Sedgwick, defendants’ third-party 
+administrator, providing authorization for the CT scan and its related visit. (Cl Ex. 7, pp. 
+36-37).  Given this, it is clear that the CT scan and related visit were also necessitated 
+by the work injury.  If Koeller has paid the medical expenses listed in Claimant’s Exhibit 
+8, he is entitled to reimbursement of those expenses.  If Koeller has not paid the 
+expenses listed in Claimant’s Exhibit 8, defendants are ordered to pay the listed 
+providers directly.  
+Koeller also asserts a claim for alternate medical care.  Specifically, he seeks an 
+evaluation with a brachial plexus specialist for the numbness and tingling in his left arm 
+and hand. (Claimant’s post-hearing brief, p. 10).  Before the agency can order alternate 
+care, a claimant must establish a causal connection between the work injury, the current 
+symptoms, and the need for treatment.  See Iowa R. App. P. 6.904(3)(e).  Defendants 
+claim this causal connection is missing from the hearing record.  However, a review of 
+Dr. Bollier’s treatment records shows he clearly causally related Koeller’s ongoing 
+numbness symptoms to the work injury.  In his May 1, 2023 treatment record, Dr. Bollier 
+wrote the following: 
+He may need evaluation in the future regarding his continued symptoms of 
+numbness and tingling down the arm.  If URIs further evaluation would 
+recommend evaluation with a nerve or brachial plexus specialist.  This 
+would be related to his original work injury.  
+(JE 2, p. 36) (emphasis added).  Defendants argue this causation finding is insufficient 
+because Dr. Bollier authored a later report stating Koeller’s EMG testing was normal 
+and he did not need further evaluation with a brachial plexus specialist. (Id. at 37).  
+While this assertion is correct, Dr. Bollier later indicated Koeller did not need to follow-
+up with a brachial plexus expert, he has never retracted his statement that the 
+numbness and tingling in Koeller’s left arm is related to the October 5, 2022 work 
+injury. (Id.).  Dr. Bollier is the authorized treating physician for Koeller’s work injury.  
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 16 
+ 
+Given this, I find there is a causal connection between the work injury, Koeller’s left 
+arm numbness and tingling, and a need for treatment.  
+Iowa Code section 85.27(4) provides, in relevant part:  
+For purposes of this section, the employer is obliged to furnish reasonable 
+services and supplies to treat an injured employee, and has the right to 
+choose the care. . . .  The treatment must be offered promptly and be 
+reasonably suited to treat the injury without undue inconvenience to the 
+employee. If the employee has reason to be dissatisfied with the care 
+offered, the employee should communicate the basis of such dissatisfaction 
+to the employer, in writing if requested, following which the employer and 
+the employee may agree to alternate care reasonably suited to treat the 
+injury. If the employer and employee cannot agree on such alternate care, 
+the commissioner may, upon application and reasonable proofs of the 
+necessity therefor, allow and order other care. 
+Id.; see also, Pirelli-Armstrong Tire Co. v. Reynolds, 562 N.W.2d 433, 436-37 (Iowa 
+1997).   
+By challenging the employer's choice of treatment - and seeking alternate care - 
+claimant assumes the burden of proving the authorized care is unreasonable. See Long 
+v. Roberts Dairy Co., 528 N.W.2d 122, 124 (Iowa 1995).  Determining what care is 
+reasonable under the statute is a question of fact. Id. The employer's obligation turns on 
+the question of reasonable necessity, not desirability. Id. In this instance, defendants 
+are not offering any care for Koeller’s numbness symptoms.  I find that is unreasonable.  
+Koeller has met the requirements of Iowa Code section 85.27;5 he has proven 
+entitlement to alternate care, specifically an evaluation with a nerve or brachial plexus 
+specialist.  Defendants retain the right to select the authorized provider for this 
+treatment provided they authorize a provider promptly.  See Iowa Code § 85.27(4).  
+Defendants shall designate an appropriate provider to evaluate Koeller’s numbness 
+complaints, and defendants shall be responsible for payment of treatment 
+recommended by that provider. 
+ 
+Koeller requests reimbursement of the IME performed by Dr. Taylor.  Iowa Code 
+section 85.39 permits an employee to be reimbursed for a subsequent examination by a 
+physician of the employee's choice where an employer-retained physician has 
+previously evaluated “permanent disability” and the employee believes that the initial 
+evaluation is too low. The Iowa Supreme Court has provided a literal interpretation of 
+the plain language of Iowa Code section 85.39, stating that section only allows the 
+employee to obtain an independent medical evaluation at the employer’s expense if an 
+evaluation of permanent disability has already been made by an employer retained 
+physician.  Des Moines Area Reg’l Transit Auth. v. Young, 867 N.W.2d 839, 847 (Iowa 
+2015). Dr. Bollier, the authorized treating physician, rated Koeller’s left shoulder 
+                                                                 
+5 Koeller communicated his dissatisfaction with defendants’ failure to authorize an evaluation with a 
+nerve or brachial plexus specialist. (Cl Ex. 5, p. 28).   
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 17 
+ 
+impairment in May 2023.  Dr. Taylor’s IME report was issued in September 2023.  Given 
+this, Koeller is entitled to reimbursement for some portion of Dr. Taylor’s report.   
+Defendants are responsible only for reasonable fees associated with claimant's 
+independent medical examination. Claimant has the burden of proving the 
+reasonableness of the expenses incurred for the examination. See Schintgen v. 
+Economy Fire & Casualty Co., File No. 855298 (App. April 26, 1991).  It is the agency’s 
+duty to parse out whether an IME expense is reimbursable under the revised language 
+of 85.39(2). Fuller v. Bimbo Bakeries, U.S.A., File No. 20012896.01 (App. Sept. 12, 
+2023) (citing to P.M. Lattner Manufacturing Co. v. Rife, 2023 WL 3862594 (Iowa Ct. 
+App. June 7, 2023) (unpublished decision).  Dr. Taylor charged $3,660.00 for his 
+services. (Cl. Ex. 9, p. 47).  Dr. Taylor’s invoice breaks this down into three categories.  
+(Id.).  He charges $3,090.00 for preparation of the impairment rating report, $380.00 for 
+examining Koeller, and $190.00 for providing suggested restrictions and further medical 
+care. (Id.).   Defendants did not submit any hearing evidence addressing the 
+reasonableness of Dr. Taylor’s fee for providing a permanent impairment rating, nor did 
+they address this issue in their post-hearing brief.  On this record, I find that Koeller is 
+entitled to reimbursement of $3,090.00 from defendants pursuant to Iowa Code section 
+85.39(2).   
+Koeller also seeks an award of the costs.  Costs are to be assessed at the 
+discretion of the deputy commissioner hearing the case. See 876 IAC 4.33; Iowa Code 
+§ 10A.328.  Administrative Rule 4.33 provides as follows:  
+Costs taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+reviewing health service disputes. 
+876 IAC 4.33.   
+ 
+Koeller incurred costs of $103.00 for the filing fee for his petition and $500.00 for 
+Dr. Crites’ report.6 (Cl Ex. 9, p. 46).  Koeller was awarded additional permanent 
+                                                                 
+6 Koeller also seeks to recover the cost of Dr. Taylor’s IME report under 876 IAC 4.33.  Under the language 
+of 876 IAC 4.33(6), claimants can be awarded the costs of obtaining two medical reports.  However, the only taxable 
+costs are the reports themselves, not the underlying examination needed to draft the reports.  See Young, 867 
+N.W.2d at 846-847.   Koeller was already awarded reimbursement of Dr. Taylor’s report under Iowa Code section 
+85.39.  Given this, his request for the same fee as a cost will not be addressed.  
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 18 
+ 
+impairment in this action.  I conclude it is reasonable to assess Koeller’s filing fee.  I did 
+not find the report of Dr. Crites helpful.  I conclude it is not reasonable to assess his 
+report as a cost.      
+ORDER 
+THEREFORE, IT IS ORDERED: 
+ 
+Defendants shall pay Koeller fifty-two (52) weeks of permanent partial disability 
+benefits at the rate of one thousand four hundred one and 10/100 dollars ($1,401.10) 
+per week commencing on May 1, 2023.  Defendants are entitled to a credit for 
+permanent partial disability benefits already paid.  
+ 
+Defendants shall pay Koeller three hundred ninety-one and 44/100 dollars 
+($391.44) for underpaid healing period benefits from October 19, 2022, through April 30, 
+2023.   
+Defendants shall pay accrued weekly benefits in a lump sum together with 
+interest at an annual rate equal to the one-year treasury constant maturity published by 
+the federal reserve in the most recent H15 report settled as of the date of injury, plus 
+two percent.    
+If claimant has paid the medical expenses listed in Claimant’s Exhibit 8, he is 
+entitled to reimbursement of those expenses.  If he has not paid the expenses listed in 
+Claimant’s Exhibit 8, defendants are ordered to pay the listed providers directly.  
+Defendants shall promptly select and authorize an appropriate medical provider 
+to evaluate and treat claimant’s numbness symptoms.  Defendants shall retain the right 
+to select and authorize a medical provider of their choosing to provide the above 
+ordered medical care, provided defendants authorize this care promptly. 
+Defendants shall reimburse claimant for the IME conducted by Dr. Taylor in 
+September 2023 in the amount of three thousand ninety and 00/100 dollars ($3,090.00).   
+Defendants shall pay costs of one hundred three and 00/100 dollars ($103.00).   
+Defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1 (2) and 876 IAC 11.7. 
+Signed and filed this __29th _ day of March, 2024. 
+ 
+   
+__________________________ 
+         AMANDA R. RUTHERFORD 
+              DEPUTY WORKERS’  
+    COMPENSATION COMMISSIONER 
+ 
+
+KOELLER V. CARDINAL LOGISTICS MANAGEMENT CORP. 
+Page 19 
+ 
+The parties have been served, as follows:  
+Joseph Powell (via WCES) 
+Patrick Mack (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code.  The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers ’ Compensation Commissioner, Iowa 
+Division of Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal 
+must be received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal 
+period will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

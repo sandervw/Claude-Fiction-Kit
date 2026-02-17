@@ -1,0 +1,339 @@
+Case Number: 5056493.01
+Case Title:  STUART, DEBRA V. DICKTEN MASCH PLASTICS
+Doc Type:    Decision - Court of Appeals
+Source:      Stuart, Debra-5056493.01.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 23-0018 
+Filed October 25, 2023 
+ 
+ 
+DEBRA STUART, 
+ 
+Plaintiff-Appellant, 
+ 
+vs. 
+ 
+DICKTEN MASCH PLASTICS, LLC and EMPLOYERS PREFERRED INS. CO., 
+ 
+Defendants-Appellees. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Michael D. Huppert, 
+Judge. 
+ 
+Debra Stuart appeals from the district court’s ruling on judicial review 
+affirming the workers’ compensation commissioner’s denial of her review-
+reopening petition.  REVERSED AND REMANDED WITH INSTRUCTIONS. 
+ 
+ 
+John P. Dougherty of Lawyer, Dougherty & Palmer, P.L.C., West Des 
+Moines, for appellant. 
+ 
+Nathan R. McConkey of Huber, Book, Lanz & McConkey, PLLC, West Des 
+Moines, for appellees. 
+ 
+ 
+Heard by Bower, C.J., and Buller and Langholz, JJ.
+
+ 
+2
+LANGHOLZ, Judge. 
+ 
+Under Iowa’s workers’ compensation statutes, an injured worker receiving 
+benefits can seek to reopen her award or settlement to obtain more benefits by 
+showing a change in her condition—even a purely economic change—proximately 
+caused by her original injury.  See Iowa Code § 86.14(2) (2020); E.N.T. Assocs. v. 
+Collentine, 525 N.W.2d 827, 829 (Iowa 1994).  But what if the claimed economic 
+change is that the worker cannot find work after being laid off in a plant closure by 
+an employer who had been accommodating her disability?  The workers’ 
+compensation commissioner here concluded that when a worker loses her job in 
+a plant closure, she cannot show the required economic change regardless of any 
+other factors preventing her from finding a new job.  And so, the commissioner 
+denied Debra Stuart’s review-reopening petition. 
+ 
+But the Iowa Supreme Court has not interpreted our statute to establish any 
+such bright-line rule.  A worker may be entitled to reopening—even where one 
+cause of the economic change is unrelated to the injury—so long as the continued 
+inability to work is proximately caused by the injury.  We thus reverse and remand 
+for the commissioner to apply the proper legal standard to decide whether Stuart 
+has shown that she is entitled to reopening here. 
+I. 
+ 
+Over ten years ago, Debra Stuart fell and injured herself while working at 
+Dickten Masch Plastics, LLC.  She eventually settled her claim for workers’ 
+compensation benefits with Dickten Masch and its insurance carrier, Employers 
+Preferred Insurance Company.  The parties entered into an agreement for 
+settlement that Stuart was entitled to permanent partial disability of thirty-five 
+
+ 
+3
+percent of the body as a whole, resulting in weekly benefits of $403.38 for 175 
+weeks.  See Iowa Code § 85.35(2).  And the settlement was approved by the 
+commissioner.   
+ 
+Stuart kept working full-time at Dickten Masch after her injury.  But instead 
+of her previous lead operator role, she worked in a less physically demanding job 
+inspecting light parts.  Generally, other employees would bring boxes of the parts 
+to her for inspection while she remained seated.  Or she would wheel herself in 
+her chair over to a box and drag it to where she needed it with her cane.  Dickten 
+Masch allowed her—but not other employees—to take breaks to get up and walk 
+around every thirty or forty-five minutes.  
+ 
+According to Stuart, Dickten Masch created this job for her as an 
+accommodation to her disability.  And she said she would not have agreed to the 
+settlement if she could not continue working in the accommodated job.  But the 
+settlement agreement included no text addressing her continued employment or 
+accommodation by Dickten Masch. 
+ 
+About three years after the settlement, Dickten Masch closed the plant 
+where Stuart worked, and she lost her job.  Stuart then filed a review-reopening 
+petition seeking to increase workers’ compensation benefits.  In briefing and at a 
+contested case hearing, she argued that her economic condition had changed 
+because she lost her heavily accommodated job and could not find new 
+employment.  She pointed to her more than two dozen applications that resulted 
+in only three responses, all of which were fruitless once the employers learned of 
+her disability.  Dickten Masch countered with expert opinion from a vocational 
+rehabilitation counselor that she was still employable and had not been applying 
+
+ 
+4
+for suitable jobs.  Stuart also argued that her physical condition had changed, 
+serving as an alternate basis for reopening her settlement.  But she does not 
+advance that claim on appeal.   
+ 
+The deputy workers’ compensation commissioner rejected both arguments 
+and denied Stuart’s review-reopening petition.  The deputy acknowledged that a 
+purely economic change could be a basis for reopening and that Stuart had shown 
+that her economic condition had changed.  But the deputy explained that “the 
+reason her employment ended was because the entire plant closed and this was 
+not related to the original work injury.”  And the deputy reasoned that any 
+accommodation in her lost job was irrelevant because her “ability to earn in the 
+competitive job market without regard to the accommodation furnished by one’s 
+present employer was to be taken into account” when she entered into the 
+settlement.  Thus, the deputy concluded that “the facts and circumstances related 
+to her earning capacity remain the same and were known at the time of the original 
+settlement” and Stuart failed to show “an economic change of condition related to 
+the work injury.”  The deputy did not weigh or analyze Stuart’s or Dickten Masch’s 
+other evidence about Stuart’s current ability to find a job after her layoff. 
+ 
+Stuart appealed to the workers’ compensation commissioner, and he 
+affirmed the deputy’s decision without further analysis.  Stuart then brought this 
+judicial review proceeding in district court.  She mainly argued that the 
+commissioner “misinterpreted controlling case law” interpreting the review-
+reopening statute in denying her petition because she was laid off in a plant 
+closure.  The district court also affirmed.  This appeal followed. 
+
+ 
+5
+II. 
+A judicial review proceeding is appellate in nature—even in the district court.  
+See Black v. Univ. of Iowa, 362 N.W.2d 459, 462 (Iowa 1985).  And on appeal, we 
+apply the same statutory standard of review of the agency action as the district 
+court.  See Carreras v. Iowa Dep’t of Transp., 977 N.W.2d 438, 444 (Iowa 2022).  
+A court “shall reverse” an agency action “if it determines that substantial rights of 
+the person seeking judicial relief have been prejudiced because the agency action 
+is . . . [b]ased upon an erroneous interpretation of a provision of law whose 
+interpretation has not clearly been vested by a provision of law in the discretion of 
+the agency.”  Iowa Code § 17A.19(10)(c); see also Green v. N. Cent. Iowa Reg’l 
+Solid Waste Auth., 989 N.W.2d 144, 147 (Iowa 2023) (“In reviewing the 
+commissioner’s interpretation of a statute, we apply a correction-of-errors-at-law 
+standard.”).  Yet when reviewing the “application of law to fact,” a court must 
+reverse only when the action is “[b]ased upon an irrational, illogical, or wholly 
+unjustifiable application.”  Iowa Code § 17A.19(10)(m). 
+ 
+At the start, we must resolve the parties’ dispute over which of these two 
+standards of review applies here.  Dickten Masch contends that Stuart’s “true 
+contention on appeal is that the Agency’s application of the relevant law to the 
+facts of this case was in error.”  But Stuart’s main argument on judicial review—
+and the one on which we decide this appeal—is that the commissioner 
+misinterpreted the requirements of the review-reopening statute as interpreted by 
+governing supreme court precedent.  This is a pure legal question properly 
+reviewed for correction of errors at law under section 17A.19(10)(c), without any 
+deference to the district court’s or commissioner’s decisions.  See Green, 989 
+
+ 
+6
+N.W.2d at 147; Carreras, 977 N.W.2d at 444; see also Iowa Ins. Inst. v. Core Grp. 
+of Iowa Ass’n for Just., 867 N.W.2d 58, 65 (Iowa 2015).  
+III. 
+ 
+Section 86.14 of the Iowa Code authorizes the workers’ compensation 
+commissioner “to reopen an award for payments or an agreement for settlement” 
+if “the condition of the employee warrants an end to, diminishment of, or increase 
+of compensation so awarded or agreed upon.”  Iowa Code § 86.14(2).1  In a 
+review-reopening proceeding to increase benefits, the injured worker has the 
+burden to show—by a preponderance of the evidence—a change in her condition 
+that was “proximately caused by the original injury.”  E.N.T. Assocs. v. Collentine, 
+525 N.W.2d 827, 829 (Iowa 1994).  “A cause is proximate if it is a substantial factor 
+in bringing about the result.”  Blacksmith v. All-Am., Inc., 290 N.W.2d 348, 354 
+(Iowa 1980).  “It only needs to be one cause; it does not have to be the only cause.”  
+Id. 
+ 
+The change in condition can be physical or economic.  See Collentine, 525 
+N.W.2d at 829.  So “proof of change in physical condition” is not required.  Id.  As 
+our supreme court has explained, “industrial disability is the product of many 
+factors, not just physical impairment.”  Id.  “Other factors include age, education, 
+experience, and inability, because of the injury, to engage in employment for which 
+the employee is fitted.”  Id.   
+ 
+1 A 2017 statutory amendment also gives a right to reopen to certain workers who 
+were awarded compensation for a permanent partial disability and return to work 
+with the same employer if the worker is later terminated.  See 2017 Iowa Acts 
+ch. 23, § 8 (now codified at Iowa Code § 85.34(2)(v) (2023)).  The parties do not 
+argue that this statute has any applicability here.  So we do not consider how—if 
+at all—it would affect the analysis in a case in which it does apply. 
+
+ 
+7
+ 
+Thus, a physician whose income was reduced after he decided he could no 
+longer safely perform surgeries was entitled to increase his benefits in a review-
+reopening proceeding.  See id. at 829–30.  So too was a truck driver whose 
+employer transferred him to a lower-paying dock job after deciding he was 
+disqualified from driving because of his original injury.  See Blacksmith, 290 
+N.W.2d at 354.  And when a worker’s benefit award was originally reduced by ten 
+percent expressly because of an employer’s promised accommodated 
+employment, and the employer instead placed him on disability retirement, the 
+worker was entitled to reopen the award to receive the extra ten percent benefits.  
+See Gallardo v. Firestone Tire & Rubber Co., 482 N.W.2d 393, 396–97 (Iowa 
+1992).  But a worker’s change in condition caused by her personal decisions 
+unrelated to her original injury—including caring for grandchildren and closing her 
+unprofitable business—does not justify reopening.  Simonson v. Snap-On Tools 
+Corp. 588 N.W.2d 430, 435–36 (Iowa 1999).  
+This much of the governing law is largely agreed.  But the parties’ views 
+diverge on the effect of the supreme court’s decision in U.S. West 
+Communications, Inc. v. Overholser, 566 N.W.2d 873 (Iowa 1997).  And this 
+dispute is the crux of the case.  
+In Overholser—as here—a worker sought to increase her benefits from 
+those agreed to in a settlement based on a change in economic condition after she 
+lost her job in a larger layoff.  See Overholser, 566 N.W.2d at 874.  The 
+commissioner agreed with the worker and increased her five percent permanent 
+partial disability to thirty-five percent, reasoning that the original settlement 
+
+ 
+8
+reflected her employer’s continued accommodation that was lost in the layoff.  See 
+id.  The supreme court disagreed.  See id. at 876–77. 
+In a close review of the evidentiary record before the commissioner, the 
+court held that substantial evidence did not support the commissioner’s 
+conclusions.  See id.  First, the court decided that “[t]he record does not support 
+the contention that her work was modified in any way to accommodate her injury 
+or that she received sheltered employment which distorted her true earning 
+capacity.”  Id. at 877.  The court explained that the worker stayed in the very same 
+job performing the same duties without any accommodation for several years after 
+the injury and that if any accommodation was even made, it happened only after 
+the worker later suffered an unrelated injury and then transferred to a different 
+position.  See id. at 876–77.  The court thus found the record distinguishable from 
+Gallardo, where the prior award included an explicit statement that the disability 
+rating was adjusted downward because of a promised accommodation.  See id. at 
+876 (citing Gallardo, 482 N.W.2d at 396). 
+ 
+Second, the court decided the worker “failed to prove by a preponderance 
+of evidence that her decreased earning capacity was proximately caused by her 
+initial injury.”  Id. at 877.  The court reasoned that “[t]he only change in [the 
+worker’s] condition between the time of the settlement and her appeal was her 
+termination pursuant to the layoff.”  Id.  The court also found it “[s]ignificant[]” that 
+the worker had neither “been refused employment” nor been unable “to obtain a 
+job because of her physical condition.”  Id.  And it explained, “[h]er inability to 
+secure employment after the layoff was not due to her back injury” but because of 
+
+ 
+9
+unrelated factors “including her subsequent injuries, the downsizing by U.S. West, 
+her lack of seniority, and her job seeking skills.”  Id. 
+Before the commissioner and in this judicial reviewing proceeding, Stuart 
+has argued that Overholser sets “a template for analysis” of a review-reopening 
+proceeding involving a worker who claims a change of economic condition after 
+losing an accommodated position in a general layoff.  She recognizes that the facts 
+in Overholser did not support reopening there.  But she seeks to have the same 
+fact-intensive analysis applied here to decide whether she was receiving an 
+accommodation that affected the disability rating in her settlement and whether her 
+inability to secure work after the layoff was caused by her injury.   
+Dickten Masch, on the other hand, contends that Stuart’s argument ignores 
+“that the plain language contained in the Overholser decision specifically states 
+that a general layoff unrelated to a work injury cannot be the basis for review-
+reopening.”  In essence, Dickten Masch seems to read Overholser as establishing 
+a bright-line rule that if the change in a worker’s economic condition is caused even 
+in part by a general layoff, she can never be entitled to review-reopening.  No 
+further analysis needed. 
+And the commissioner apparently agreed.  The deputy commissioner—
+whose ruling the commissioner adopted—did not make any findings about whether 
+Stuart was being accommodated by Dickten Masch or whether any 
+accommodation affected the benefits agreed to in the settlement.  Nor did the 
+deputy weigh the competing evidence about Stuart’s ability to find work after her 
+layoff to decide whether her current inability to work was proximately caused by 
+her original injury.  Instead, the deputy simply found that Stuart’s employment 
+
+ 
+10 
+ended “because the entire plant closed and this was not related to the original work 
+injury.” 
+Stuart is correct that this short-circuiting of the proper review-reopening 
+analysis was an error of law.  The supreme court in Overholser did not establish a 
+bright-line rule that a worker’s loss of a job in a general layoff is an absolute 
+disqualification from showing the required change of economic condition.  Rather, 
+Overholser demonstrates the opposite: that the commissioner must look at the full 
+record to determine whether the worker’s “inability to secure employment after the 
+layoff . . . was proximately caused by her initial injury.”  Overholser, 566 N.W.2d at 
+877.  It matters not that one cause—the general layoff—is unrelated to the original 
+work injury.  Because a proximate cause “only needs to be one cause; it does not 
+have to be the only cause.”  Blacksmith, 290 N.W.2d at 354. 
+So the commissioner’s finding that Stuart’s layoff was unrelated to her 
+original injury is not the end of the proper analysis.  The commissioner still must 
+decide whether Stuart’s original injury was another proximate cause of her inability 
+to find work after the layoff.  And that decision requires the commissioner to weigh 
+the competing evidence presented about the causes of Stuart’s lack of success in 
+her job search.  For example, Stuart’s evidence from multiple witnesses that she 
+had been “heavily accommodated” by Dickten Masch—if found credible by the 
+commissioner—may help show lack of transferability of Stuart’s skills and thus the 
+cause of her current inability to find work.2 
+ 
+2 Dickten Masch contends that any accommodation is irrelevant because it should 
+not have been factored into the original settlement.  See Murillo v. Blackhawk 
+Foundry, 571 N.W.2d 16, 18 (Iowa 1997) (holding that an employer’s 
+accommodation is only supposed to “be factored into the award determination to 
+
+ 
+11 
+In her briefing, Stuart seems to argue that we should go on and decide these 
+questions in her favor now.  But that would overstep our proper appellate role in a 
+judicial review proceeding.3  As we have explained, the commissioner did not 
+complete all the necessary fact-finding to decide whether Stuart can reopen her 
+settlement.  And this is not a case in which those facts can be decided as a matter 
+of law.  See Armstrong v. State of Iowa Bldgs. & Grounds, 382 N.W.2d 161, 165 
+(Iowa 1986) (holding that it was improper for the court to decide facts on judicial 
+review unless “the relevant evidence is both uncontradicted and reasonable minds 
+could not draw different inferences from the evidence”); cf. Blacksmith, 290 N.W.2d 
+at 354.  The commissioner should have the chance to make these findings and 
+decide whether Stuart is entitled to increased benefits under this proper standard 
+in the first instance.  See Kohlhaas v. Hog Slat, Inc., 777 N.W.2d 387, 393 (Iowa 
+2009) (reversing and remanding to the commissioner “to determine on the record 
+already made whether [the worker] has met the burden of proof required for a 
+review-reopening petition” after clarifying the proper standard for that decision).  
+Stuart does not seek a new evidentiary hearing.  And given the well-
+developed record already made by the parties, it is appropriate for the 
+commissioner to decide based only on the existing evidentiary record.  See id.  
+ 
+the limited extent the work in the newly created job discloses that the worker has 
+a discerned earning capacity”).  But that is a different question than whether the 
+loss of an accommodation can be a change of economic condition justifying 
+reopening.  See Gallardo, 482 N.W.2d at 396–97 (holding that it can).  And it does 
+not undermine the relevance of the now-lost accommodation on deciding whether 
+the worker’s inability to find a job is caused by other employers’ unwillingness to 
+provide similar accommodations required by the original injury. 
+3 At oral argument, Stuart’s counsel also conceded that the agency record is 
+lacking the necessary factual findings by the commissioner to decide whether 
+Stuart has proven that she is entitled to an award of increased benefits.   
+
+ 
+12 
+We thus reverse the judgment of the district court and the decision of the 
+workers’ compensation commissioner and remand to the district court with 
+instructions to remand to the commissioner to apply the correct legal standard to 
+the existing evidentiary record on Stuart’s review-reopening petition. 
+REVERSED AND REMANDED WITH INSTRUCTIONS. 
+ 

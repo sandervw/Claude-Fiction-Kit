@@ -1,0 +1,1026 @@
+Case Number: 21009537.02
+Case Title:  ROWE, ANDY V. BC CONSTRUCTION, INC.
+Doc Type:    Decision - Commissioner
+Source:      Rowe Andy-21009537.02d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+ANDY ROWE, 
+  : 
+ 
+ 
+  : 
+ 
+  File No. 21009537.02 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                 ARBITRATION DECISION 
+BC CONSTRUCTION, INC., 
+  : 
+ 
+ 
+  :                        
+ 
+Employer, 
+  : 
+ 
+ 
+  :                            
+AUTO-OWNERS INSURANCE CO., 
+  : 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  : 
+Head Note Nos.:    1402.40, 1804, 2501, 
+ 
+Defendants. 
+  : 
+            
+         2502, 2907, 4000.2 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Andy Rowe, claimant, filed a petition in arbitration and seeks workers’ 
+compensation benefits from defendants, BC Construction, Inc., as the employer, and 
+Auto-Owners Insurance Company, as the insurance carrier.  Hearing was held on July 
+15, 2025 via Zoom video conference.  The undersigned heard this case as a deputy 
+workers’ compensation commissioner.  Since hearing this case, the undersigned was 
+appointed as the interim workers’ compensation commissioner.   Having heard this case 
+originally and for purposes of administrative efficiency, this decision is entered as final 
+agency action pursuant to Iowa Code sections 10A.321(5); 17A.15(1).  Any appeal from 
+this decision must be taken as judicial review pursuant to Iowa Code sections 10A.322; 
+17A.19. 
+The parties submitted a hearing report prior to the commencement of the 
+evidentiary hearing.  On that hearing report, the parties entered into certain stipulations.  
+Those stipulations are accepted and relied upon in this decision without further factual 
+findings or conclusions of law.   
+One stipulation that is out of the ordinary and should be mentioned is a 
+stipulation by the parties that “Weekly benefits for 9/17/24 – 9/15/25 should be awarded, 
+but are not payable, as Claimant agreed to forego benefits for this period in satisfaction 
+of Defendants’ lien against Claimant’s third-party recovery.”  (Hearing Report)  Counsel 
+for the parties explained this stipulation on the record at the commencement of the 
+hearing and the stipulation was accepted.  Benefits will be awarded for the period from 
+September 17, 2024 through September 15, 2025 pursuant to the parties’ agreement.  
+However, pursuant to the agreement of the parties, those benefits will not be deemed 
+“payable” because they have already been paid pursuant to agreement of the parties as 
+ELECTRONICALLY FILED     2025-Dec-31  13:45:27     DIVISION OF WORKERS' COMPENSATION
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 2 
+ 
+ 
+satisfaction of defendants’ lien in a third-party case pursuant to Iowa Code section 
+85.22. 
+At the commencement of hearing, three sets of exhibits were offered.  Joint 
+Exhibits 1-16 were received without objection.  However, objections were asserted to 
+both claimant’s exhibits and defendants’ exhibits.  A verbal ruling was entered on these 
+objections at the time of hearing and a formal, written ruling was entered on August 28, 
+2025. 
+Mr. Rowe offered Claimant’s Exhibits 1 through 12.  Defendants offered Exhibits 
+A through J.  Claimant objected to certain of defendants’ exhibits as untimely under the 
+agency’s rules and hearing assignment order.  Defendants responded by objecting to 
+certain of claimant’s exhibits produced in response to the defendants’ untimely exhibits. 
+Following receipt of written objections and the arguments of counsel at the 
+commencement of hearing, the undersigned overruled certain objections asserted by 
+claimant because no prejudice was demonstrated.  However, with respect to 
+Defendants’ Exhibit H, pages 64-109, and Defendants’ Exhibit I, the undersigned found 
+that claimant established prejudice with the submission of late evidence by defendants.   
+Claimant was able to obtain responsive reports to the late evidence produced by 
+defendants.  Claimant candidly admitted the prejudice he sustained was financial in 
+securing responsive reports from his independent medical evaluators and vocational 
+expert.  The undersigned offered a remedial measure in which defendants would 
+reimburse claimant for the additional expense of the rebuttal reports in exchange for 
+admission of the late reports offered by defendants.  Defense counsel was not 
+authorized to accept the proposed remedial offer and no representative for the employer 
+or insurance carrier was present to permit discussion or authorization of the proposed 
+remedial offer.  Accordingly, prejudice was found and Defendants’ Exhibit H, page 64-
+109, and Defendants’ Exhibit I were excluded from the evidentiary record. 
+In a corresponding ruling, the undersigned also excluded Claimant’s Exhibit 1, 
+pages 108-134, Claimant’s Exhibit 2, pages 152-153, and Claimant’s Exhibit 4, pages 
+184-209, as these were the responsive or rebuttal reports obtained by claimant and 
+were also untimely.  Although the proposed evidence was excluded from the record, the 
+proposed exhibits were permitted to remain in the agency file for purposes of any 
+appellate review.  Accordingly, although the exhibit sets contained in the hearing record 
+contain all proposed exhibits, the above referenced exhibits were not admitted into the 
+evidentiary record, have not been reviewed, and are not part of this decision.  All other 
+portions of Claimant’s Exhibits and Defendants’ Exhibits were received into the 
+evidentiary record. 
+Claimant testified live and called no other witnesses.  Defendants called Timothy 
+Combs to testify and called no other witnesses.  The evidentiary record closed at the 
+conclusion of the arbitration hearing. 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 3 
+ 
+ 
+Following the conclusion of the evidentiary hearing, the undersigned ordered 
+counsel to file post-hearing briefs.  Counsel filed their briefs simultaneously on August 
+29, 2025.  The case was considered fully submitted to the undersigned on that date. 
+ISSUES 
+The parties submitted the following disputed issues for resolution: 
+1. Whether claimant is entitled to an award of permanent total disability benefits 
+as a result of the stipulated June 5, 2021 work injury. 
+2. Whether claimant is an odd-lot employee, entitling him to an award of 
+permanent total disability benefits as a result of the stipulated June 5, 2021 
+work injury. 
+3. If claimant is not entitled to permanent total disability, whether claimant is 
+entitled to an award of healing period benefits from July 19, 2021 through 
+March 25, 2024. 
+4. The extent of claimant’s entitlement to permanent partial disability benefits, if 
+he is not permanently and totally disabled or an odd-lot employee. 
+5. The proper commencement date for permanent disability benefits. 
+6. Whether claimant is entitled to an award of past medical expenses contained 
+at Claimant’s Exhibit 11. 
+7. Whether claimant is entitled to reimbursement of his independent medical 
+evaluation pursuant to Iowa Code section 85.39. 
+8. Whether penalty benefits should be awarded for defendants’ alleged late 
+payment of weekly benefits without a reasonable basis or excuse and, if so, 
+the amount of penalty that should be imposed. 
+9. Whether costs should be assessed against either party and, if so, in what 
+amount. 
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+Andy Rowe, claimant, was a 66-year-old man at the time of hearing.  Mr. Rowe 
+graduated from high school.  He has not pursued any post-secondary education. 
+Mr. Rowe worked primarily as a welder and heavy equipment operator 
+throughout his career.  He also performed maintenance for a paper mill in Montana, 
+worked briefly as a painter, and operated his own construction company.  Claimant 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 4 
+ 
+ 
+started his business, Rowe Construction, in 1984 with his brother.  He performed 
+estimating, project management, and performed a variety of projects including home 
+construction, as well as installation of windows, siding and roofs.  He described it as a 
+little of everything other than concrete work.   
+In 2009, claimant began working as an estimator for Community Wholesale and 
+became an estimator for Home Depot in 2011.  In 2017, claimant began working for the 
+employer, BC Construction, Inc., as a part-time manager.  He later transitioned to a full-
+time role with the employer.  Claimant asserted that he planned to work until the age of 
+72. 
+On June 5, 2021, claimant was a passenger in a pickup owned by BC 
+Construction and driven by his supervisor, Tim Combs.  Mr. Rowe and Mr. Combs had 
+completed their day of work in Fort Dodge and were returning to Waterloo.  They were 
+towing a trailer behind the pickup when another vehicle struck their trailer from the rear.   
+Mr. Rowe described the incident and the nature of the trailer swaying behind the 
+pickup.  Mr. Combs was able to maintain control of the truck and trailer.  In fact, no 
+significant damage was done to either the pickup in which claimant was riding or the 
+trailer being towed.  Nevertheless, Mr. Rowe credibly described the violent nature of the 
+trailer swaying behind the truck and the effects it had on his body in the pickup truck. 
+Emergency personnel were called to the scene of the accident.  Claimant 
+declined medical care on the date of injury.  Mr. Rowe testified he experienced 
+symptoms on the date of the accident but assumed those symptoms would resolve with 
+time.  Claimant attempted to return to work the next day.  However, he was unable to 
+perform his duties. 
+Mr. Rowe has not worked since the date of injury.  The employer ultimately 
+terminated claimant for reasons unrelated to the work injury.  He has not submitted any 
+job applications or otherwise pursued alternate employment.  Mr. Rowe was contacted 
+by a former manager from Home Depot about potentially returning to work for that 
+company approximately three to four months prior to the hearing.  Claimant did not 
+attempt that return to work, but I find that it would not be physically possible for claimant 
+to return to his work at Home Depot.   
+His position with Home Depot was as an estimator, which required him to drive to 
+job sites to perform his duties.  Claimant is not likely to qualify for such a position while 
+taking narcotics and his primary care physician recommended against any such type of 
+position.  I accept that recommendation as reasonable and find that claimant could not 
+return to his prior position with Home Depot. 
+At the recommendation of a primary care provider,  Mr. Rowe presented to the 
+Allen Memorial Hospital in Waterloo on June 7, 2021.  He reported back pain, neck 
+pain, and a headache on that date.  He was discharged the same day. 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 5 
+ 
+ 
+Claimant’s back pain, neck pain, and headache persisted.  On June 25, 2021, 
+Mr. Rowe sought treatment by Brian O’Shaughnessy, M.D., who indicated that claimant 
+may have both a cervical and lumbar strain, as well as headaches, as a result of the 
+work accident.  At Dr. O’Shaughnessy’s recommendation, claimant participated in 
+physical therapy, trigger point injections in his neck, as well as facet injections in his low 
+back.  Claimant also submitted to both neck and low back MRIs at Dr. O’Shaughnessy’s 
+recommendation. 
+Claimant’s symptoms persisted and he sought treatment at the emergency room 
+a few times in the summer of 2021.  Ultimately, claimant was referred to a urologist and 
+a neurosurgeon for evaluation.  Daniel Lee, M.D., a urologist, evaluated claimant on 
+August 11, 2021.  Dr. Lee opined that claimant’s reported urinary incontinence may be 
+related to his work accident.  Claimant then sought evaluation with a neurosurgeon, 
+Russell Buchanan, M.D., on August 16, 2021. 
+Dr. Buchanan noted complaints of headaches, neck pain with radiating 
+symptoms into the left arm, as well as low back pain.  Dr. Buchanan recommended 
+nerve testing as well as a referral to a pain specialist for potential epidural steroid 
+injections.  Instead, defendants redirected claimant to Matthew Howard, M.D., a 
+neurosurgeon at the University of Iowa Hospitals and Clinics.   
+Dr. O’Shaughnessy performed the recommended nerve testing on September 8, 
+2021, which demonstrated mild denervation at the C5-6 distribution of the cervical 
+spine.  Dr. Howard evaluated claimant on September 28, 2021.  Ultimately, Dr. Howard 
+concurred with the recommendations of Dr. Buchanan and concurred with the referral to 
+a pain specialist for injections. 
+Ashar Afzal, M.D., a pain specialist, evaluated claimant on October 12, 2021.  Dr. 
+Afzal performed C4-5 facet injections on November 1, 2021, C5-6 facet injections on 
+November 29, 2021, and C6-7 facet injections on December 2, 2021.  Claimant 
+experienced temporary relief from the injections, but returned to Dr. Buchanan for 
+further evaluation on January 10, 2022. 
+Unfortunately, the conservative treatment failed to provide sustained, or long-
+lasting relief for claimant’s neck symptoms and headaches.  Dr. Buchanan ultimately 
+recommended an anterior cervical discectomy and fusion from C4 through C7, which he 
+performed on March 17, 2022.  Claimant testified that the neck surgery improved his 
+migraine headaches and reduced his neck pain.  However, claimant also testified that 
+he had painful and decreased range of motion in his neck after the neck fusion surgery. 
+For his low back, Dr. Buchanan again recommended referral to a pain specialist.  
+Dr. Afzal evaluated claimant again on June 21, 2022 and performed an epidural steroid 
+injection.  The injection provided temporary pain relief.   
+Mr. Rowe returned to Dr. Buchanan on July 13, 2022, reporting that he fell at 
+home on June 3, 2022 due to a back spasm.  Claimant testified that he fell down stairs 
+into his basement when he got a “jolt” in his low back and his legs buckled.  Dr. 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 6 
+ 
+ 
+Buchanan recommended a lumbar MRI and x-rays.  The MRI was performed and, on 
+follow-up, Dr. Buchanan recommended against surgical intervention but recommended 
+a functional capacity evaluation (FCE) be performed. 
+Unfortunately, claimant’s low back symptoms persisted and he returned to Dr. 
+Afzal in August 2022.  At that time, Dr. Afzal provided right-sided facet injections at L3-4 
+and L4-5.  Claimant submitted to the FCE that Dr. Buchanan recommended.  The FCE 
+was conducted by John Kruzich, OTR/L, on September 6, 2022.  Mr. Kruzich 
+recommended against any lifting from floor to waist and limiting lifting to occasionally 12 
+pounds from 12 inches above the floor to shoulder level.  He also recommended limits 
+on claimant’s lifting overhead, carrying, squatting, climbing ladders, sustained kneeling, 
+bending, climbing stairs, as well as some limitations on standing, sitting, and walking. 
+Claimant testified that he felt terrible the day after the FCE and remained in bed 
+all day.  Mr. Rowe testified that he experienced high blood pressure after the FCE that 
+remained for days.  He also testified that his pain level remained high until September 
+11, 2022, when he experienced left-sided weakness and numbness and was taken to 
+the emergency room.  The emergency room physician diagnosed claimant with a small 
+intracranial bleed consistent with a stroke.  Claimant has experienced TIA’s or “mini-
+strokes” since September 11, 2022.  However, he testified that he recovered well from 
+the stroke. 
+Defendants requested an independent medical evaluation, which was performed 
+by Robert Broghammer, M.D. on September 19, 2022.  Dr. Broghammer opined that 
+claimant sustained a 27 percent permanent functional impairment related to his neck 
+condition and resulting fusion.  He assigned an additional 5 percent permanent 
+functional impairment for claimant’s lumbar spine, and combined those impairments to a 
+resulting 31 percent of the whole person for both conditions.   
+Claimant returned for further care with his personal physician, Dr. Kettman, 
+reporting ongoing, severe and constant low back pain.  Dr. Kettman noted the elevated 
+blood pressures and opined that claimant’s high pain levels likely contributed to his 
+elevated blood pressure.  Unfortunately, in spite of several conservative attempts, 
+claimant continued to experience low back pain.  Dr. Kettman recommended a second 
+neurosurgical evaluation in November 2022. 
+Unfortunately, two different neurosurgeons declined to evaluate claimant 
+because they did not accept his insurance.  Dr. Kettman ultimately referred claimant 
+back to Dr. Afzal for a spinal cord stimulator trial.  Dr. Afzal evaluated claimant on 
+February 13, 2023, noting that claimant “appeared to be in severe distress.”  (Joint 
+Exhibit 10, p. 196)  Dr. Afzal performed an epidural steroid injection at L5-S1 and 
+ordered a repeat lumbar MRI. 
+Upon claimant’s return, Dr. Afzal noted on March 2, 2023 that Mr. Rowe was 
+“almost in tears because of the severity of his symptoms.”  (Joint Ex. 10, p. 198)  Dr. 
+Afzal referred claimant back to Dr. Buchanan for neurosurgical evaluation.  Dr. Kettman 
+prescribed a new medication for claimant’s mental health difficulties at approximately 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 7 
+ 
+ 
+this same time.  In fact, on April 5, 2023, claimant reported to Dr. Kettman that he felt 
+suicidal because he could not tolerate the pain and nothing was helping.  (Joint Ex. 2, p. 
+69). 
+On April 19, 2023, Dr. Buchanan re-evaluated claimant.  He reported complaints 
+in claimant’s low back and noted that claimant had fallen 7 or 8 times because of his 
+back pain.  Once again, Dr. Buchanan recommended claimant return to the pain 
+specialist, Dr. Afzal. 
+Due to his psychiatric difficulties, Dr. Kettman referred claimant for psychiatric 
+evaluation with Megan Heise at Cedar Valley Mental Health on May 1, 2023.  Ms. Heise 
+diagnosed claimant with recurrent major depressive disorder and adjustment disorder 
+with mixed anxiety and depressed mood.  (Joint Ex. 13, p. 224)  As a result of her 
+evaluation, Ms. Heise documented symptoms that included depressed mood, 
+anhedonia, irritability, impaired ability to think and make decisions, passive suicidal 
+ideation, and nervousness.  She cleared claimant to proceed with the spinal cord 
+stimulator but recommended further medication management. 
+Dr. Afzal performed an injection on May 2, 2023 and concurred with the 
+recommendation to move forward with the spinal cord stimulator.  After a delay, Dr. 
+Afzal performed the spinal cord stimulator trial on July 31, 2023.  Claimant’s function 
+improved during the trial and a permanent spinal cord stimulator was implanted for 
+claimant’s low back symptoms on September 25, 2023. 
+Claimant testified that the stimulator provided significant relief but that its 
+effectiveness has waned with time and as he increases his activity.  (Transcript, pp. 66-
+67)  Unfortunately, claimant has required narcotic medications prescribed by Dr. 
+Kettman since December 2023 for continued pain management.   
+Mr. Rowe obtained an independent medical evaluation performed by David 
+Segal, M.D. on May 31, 2024.  Dr. Segal opined that claimant achieved maximum 
+medical improvement (MMI) for his neck on March 17, 2023 and MMI for his low back 
+on March 25, 2024.  Dr. Segal opined that claimant sustained 37 percent permanent 
+functional impairment as a result of his neck injury and resulting fusion.  He assigned an 
+additional 19 percent permanent functional impairment for claimant’s low back 
+condition, including permanent impairment for incontinence.  Dr. Segal also opined that 
+claimant has reactive depression and assigned an additional 15 percent of the whole 
+person in functional impairment for the mental health component of claimant’s work 
+injury.  (Claimant’s Ex. 1) 
+Dr. Segal opined that claimant’s heightened pain levels following the FCE were 
+likely a substantial factor in causing claimant’s stroke five days later.  He explained that 
+the results of the FCE should be viewed with the understanding that exertion at the FCE 
+performance level caused claimant to have a stroke.  Therefore, Dr. Segal imposed 
+work restrictions that were more restrictive than those previously outlined in the FCE.  
+Specifically, Dr. Segal recommended claimant not lift or carry over 5 pounds 
+occasionally from waist height, rarely lift up to 10 pounds, as well as recommended 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 8 
+ 
+ 
+limitations on claimant’s ability to stand, sit, walk, bend, kneel, crouch, squat, climb 
+ladders, reach overhead, and a prohibition on the use of vibratory tools.  (Claimant’s Ex. 
+1) 
+Claimant also sought an independent psychiatric evaluation, performed by Adam 
+Woods, M.D., on April 15, 2025.  Dr. Woods diagnosed claimant with adjustment 
+disorder with mixed anxiety and depressed mood.  He opined this diagnosis was 
+caused by the work injury.  He further opined that claimant’s mental condition is 
+permanent and assigned a 40 percent permanent functional impairment to the mental 
+health condition.  Dr. Woods recommended ongoing psychotherapy and ongoing 
+medication management for Mr. Rowe’s mental health injury.  Perhaps most 
+importantly, Dr. Woods opines that claimant cannot work at this point as a result of his 
+mental health injury.  (Claimant’s Ex. 2) 
+Dr. Kettman also responded to an inquiry from claimant’s counsel on April 29, 
+2025.  Dr. Kettman opined that the work injury was a substantial contributing factor to 
+claimant’s present neck and low back conditions, as well as the neck fusion and 
+implantation of the spinal cord stimulator in claimant’s low back.  Dr. Kettman further 
+opined that claimant’s current and ongoing chronic pain caused his current mental 
+health condition as well as his need for mental health treatment.  Dr. Kettman concurred 
+that claimant’s mental health condition is permanent, and that claimant will require 
+ongoing narcotic pain medication for his neck and back pain for the foreseeable future.  
+He recommended against any driving-based occupations while claimant is on narcotics.  
+Finally, Dr. Kettman indicated that claimant is not capable of returning to work as a 
+result of his work injury and opines that claimant would require significant 
+accommodations, such as taking unscheduled breaks at claimant’s discretion, to return 
+to work.  (Claimant’s Ex. 3) 
+Defendants asserted a specific credibility challenge to claimant’s testimony.  
+Defendants contend that claimant provided inaccurate testimony in many respects.  
+They assert that claimant provided inconsistent and exaggerated testimony on many 
+topics.   
+Defendants contend that claimant previously denied any injury to his low back in 
+a 2017 lawnmower accident.  However, they assert he conceded a big bruise above his 
+buttocks as a result of that accident at the time of hearing.  They also point to medical 
+records that claimant reported severe low back and buttock pain following the 
+lawnmower incident.  They challenge claimant’s contention that he had no sleep issues 
+prior to this date of injury. 
+Defendants also note that claimant provided different estimates of the speed at 
+which the other driver struck the trailer being towed by the pickup in which claimant was 
+riding on the date of injury.  Defendants note, however, that claimant admitted he did 
+not see the other vehicle prior to impact at hearing.   
+Defendants note some inconsistencies between claimant’s deposition testimony 
+and some records pertaining to his purchase of fishing licenses in Iowa and Wisconsin.  
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 9 
+ 
+ 
+They challenge some potential inconsistencies in medical records pertaining to claimed 
+incontinence.  Defendants also challenge the significance of some reported mental 
+health symptoms noted in claimant’s medical records as a specific challenge to his 
+credibility.  Having considered each of the arguments and examples asserted by 
+defendants and having compared those with claimant’s hearing testimony and 
+demeanor at hearing, I am not as concerned about claimant’s credibility as defendants.   
+I acknowledge some differences exist in the evidentiary record and that the 
+record could be interpreted differently if viewed under a microscope for discrepancies.  
+Overall, however, I found claimant’s testimony about his ongoing symptoms and abilities 
+to be credible and convincing.  Ultimately, I find claimant’s testimony to be credible, at 
+least with respect to his ongoing symptoms and abilities. 
+I find that Mr. Rowe continues to have severe low back pain, severe neck pain 
+with activity, decreased motion in his neck, and ongoing mental health difficulties as a 
+result of his work injury.  I find that claimant has unsuccessfully attempted reasonable 
+recuperation, including attempts to increase his activities and lose weight.  
+Unfortunately, these injuries have significantly impaired his daily activities and life. 
+I acknowledge defendants’ arguments.  Defendants point out that claimant had a 
+pre-existing history of some mental health issues.  Those mental health issues were not 
+well explained to or documented for claimant’s evaluating experts.  Defendants contend 
+that the opinions of Dr. Segal are unreliable because they are based upon inaccurate 
+and incomplete information.  Indeed, Dr. Segal’s history appears to lack some of the 
+information noted by defendants.  Dr. Segal did not appear to have pre-injury records, 
+he failed to note claimant’s diabetic condition that pre-existed the date of injury, and 
+failed to note that claimant was taking medication for high blood pressure prior to the 
+date of injury.   
+Claimant also experienced an incident where he injured his back on May 28, 
+2017 when a riding lawn mower fell on him.  That incident required hospitalization and it 
+does not appear that Dr. Segal was apprised of that information as part of his evaluation 
+or analysis.  Defendants also challenge whether claimant experienced urinary 
+incontinence when evaluated by Dr. Segal, and challenge his corresponding permanent 
+impairment rating.  These, along with other credibility and historical gaps in Dr. Segal’s 
+history, are noted and considered. 
+Defendants also challenge the credibility of Dr. Woods’ psychiatric opinions.  
+Specifically, defendants challenge his opinions because Dr. Woods was under the 
+impression that claimant did not have pre-existing psychiatric illnesses. Defendants 
+further challenge the history provided by claimant to Dr. Woods and contend it is 
+inconsistent with other medical evidence in this record. 
+Defendants further challenge the opinions and credibility of Dr. Kettman, 
+claimant’s personal physician.  Defendants concede that Dr. Kettman had the most 
+comprehensive history as a long-term primary care provider for claimant.  However, 
+defendants contend his opinions are suspect because they are relayed through a 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 10 
+ 
+ 
+“check the box” report solicited by claimant’s counsel.  Defendants further contend that 
+Dr. Kettman’s final report contradicts his own medical records pertaining to claimant’s 
+ability to drive.  Ultimately, defendants contend that this agency should reject the 
+opinions of claimant’s long-term primary care provider, evaluating neurosurgeon, and 
+evaluating psychiatrist. 
+Again, I acknowledge defendants’ challenges.  Yet, the opinions of Drs. Kettman, 
+Segal, and Woods are not seriously challenged with contrary medical evidence or 
+opinions in this record.  The opinions of claimant’s long-term primary care provider are 
+entitled to significant weight, given his knowledge of claimant’s conditions and any 
+changes in claimant’s function, treatment, or abilities after this work injury.  The opinions 
+of Dr. Segal are not rebutted directly in this record.  Even with some gaps in history or 
+challenges asserted by defendants, I find Dr. Segal’s neurosurgical opinions to be the 
+best and most credible evidence in this record.  Similarly, I find the psychiatric opinions 
+of Dr. Woods to be the most credible and convincing from a mental health standpoint.  
+While there may be gaps in the history provided to some of these physicians, or other 
+issues that could affect their credibility, none of the challenges asserted by defendants 
+cause me to entirely dismiss the opinions of Drs. Kettman, Segal, and Woods. 
+Ultimately, I accept the opinions of Dr. Kettman, Dr. Segal, and Dr. Woods.  I find 
+that claimant’s ongoing cervical, lumbar, and mental health conditions are causally 
+related to the work injury.  I find that claimant has achieved MMI for his neck and low 
+back conditions, but he requires significant physical restrictions, as outlined by Dr. 
+Segal.  I also accept and find the recommendation of Dr. Kettman, namely that claimant 
+would be required to have an accommodation that permits unscheduled breaks from 
+work at the claimant’s discretion, to be able to perform any work.  Finally, I accept Dr. 
+Woods’ opinion that claimant’s mental health condition is permanent.  Dr. Woods’ 
+permanency opinion implicitly concludes claimant achieved MMI for his mental health 
+condition, and I explicitly find that he is at MMI for his mental health condition, though 
+ongoing care for each of his injuries remains likely.  I further accept Dr. Woods’ opinion 
+and find that Mr. Rowe is unable to perform work from a mental health standpoint. 
+To the extent necessary and not implicit from the above findings, I reject the 
+opinions of Dr. Broghammer.  Dr. Broghammer assigns permanent restrictions in 
+excess of those outlined by the FCE, which were clearly above claimant’s physical 
+capabilities and, at least as a substantial factor, led to claimant’s stroke. 
+As noted above, claimant is close to retirement age.  He was approximately five 
+years from his anticipated retirement at the time of hearing.  He has limited education 
+and training, other than in physically demanding occupations.  It is unlikely that he will 
+be able to retrain at his age and with his limited educational experience.  Claimant is not 
+able to return to any of his prior occupations given his current physical and mental 
+health conditions.  He does not possess significant transferrable skills to other 
+occupations. 
+Claimant introduced a vocational opinion from Barbara Laughlin.  Given the 
+evidentiary rulings at the commencement of the hearing, Ms. Laughlin’s opinions are 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 11 
+ 
+ 
+unrebutted.  She opines that claimant is precluded from employment based upon the 
+restrictions assigned by Drs. Kettman, Segal, and Woods.  I accept Ms. Laughlin’s 
+analysis and opinion as the most credible and convincing vocational evidence in this 
+record.  Therefore, I specifically find that claimant has proven he is permanently and 
+totally disabled under a traditional industrial disability analysis. 
+In reaching this finding, I acknowledge defendants’ arguments.  Specifically, 
+defendants argue that claimant was terminated from his employment for reasons 
+unrelated to his injuries.  Defendants also note that claimant did not seek the services of 
+a vocational expert for retraining or placement.  Nor has claimant sought any alternate 
+employment since his injury.  They also point to some medical records in which it is 
+implied that claimant retired, rather than left the workforce due to injury. 
+Defendants also accurately note that claimant has some computer skills and 
+customer service skills having run his own business.  They critique Ms. Laughlin’s report 
+because it does not contain reference to claimant’s ability to read blueprints, perform 
+welding or bookkeeping, or operate cranes and other heavy equipment.  Defendants 
+also contend that claimant’s “[m]edical records demonstrate a clear focus on fishing 
+rather than work.”  (Defendants’ Appeal Brief, p. 18)  While acknowledging these 
+arguments, some of which are legitimate (e.g., no effort to seek alternate employment, 
+Ms. Laughlin’s failure to note prior vocational skills), I ultimately accept the restrictions 
+of claimant’s medical experts and the opinions of his vocational expert as the most 
+credible and convincing evidence in this record.  Given these findings, I also find that 
+any type of required job search would be futile with claimant’s education, employment 
+history, and the restrictions he currently carries, including limitation on driving while on 
+narcotics. 
+Obviously, defendants do not carry the burden of proof, but they could have 
+deposed these experts, sought timely alternate expert evidence, or undertaken 
+additional defense measures to challenge claimant’s motivation, restrictions, and 
+employability.  While they are able to poke some holes in the opinions of claimant’s 
+experts, they are not successful in refuting those opinions or causing their opinions to 
+be so incredible that they should be rejected in total.  The gaps or holes identified by 
+defendants are not sufficient to render the entirety of the opinions rendered by 
+claimant’s primary care physician, neurosurgeon, and psychiatrist illogical, incredible, or 
+invalid.  Instead, claimant put forth the most credible and convincing evidence.  
+Therefore, I ultimately find that claimant has proven by a preponderance of the evidence 
+that he is permanently and totally disabled under the traditional industrial disability 
+analysis. 
+Mr. Rowe also asserted a claim under the odd-lot doctrine.  Although I already 
+found claimant proved permanent total disability under the traditional industrial disability 
+analysis, I find that claimant provided a prima facie case that he is permanently and 
+totally disabled.  I find that defendants did not produce evidence of suitable alternate 
+employment for claimant.  Even if the minimal evidence generated or referenced by 
+defendants could be construed as meeting their burden of production, I again find the 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 12 
+ 
+ 
+evidence submitted by claimant to be the most credible and convincing with respect to 
+his restrictions, impairment, and vocational abilities. 
+Mr. Rowe also asserts a penalty benefit claim for late payment of 10 weeks of 
+benefits throughout his claim.  Reviewing defendants’ post-hearing brief, there does not 
+appear to be a dispute about whether the asserted weeks were paid late.  Rather, there 
+appears to be an explanation from defendants that they paid the vast majority of the 
+benefits due in a timely manner and advanced claimant weekly benefits pursuant to an 
+agreement pertaining to a third-party lien.  Defendants also point out that some of the 
+late weeks were around holidays such as Christmas, Labor Day, or the Fourth of July.  
+Of course, there is not a legal extension of time to pay weekly worker’s compensation 
+benefits around legal holidays and those weeks were paid late. 
+I find that claimant proved 10 weeks of benefits, totaling $2,804.35, were paid 
+untimely.  Six of those weeks were paid within a few days of the benefits being due.  Of 
+the remaining four weeks, they were paid from 4 to 23 days late.  Defendants’ 
+explanation that they paid the majority of the weeks timely does not excuse their failure 
+to pay 10 weeks timely.  Nor are holidays a reason that excuses defendants for paying 
+weekly benefits late. Nevertheless, I also find that defendants’ late payments were not 
+egregious or protracted. 
+Claimant submitted medical bills for payment or reimbursement at Claimant’s 
+Exhibit 11.  Defendants challenge those medical bills for various reasons.  I found that 
+the medical care for claimant’s stroke and hospitalization from September 11 through 
+September 14, 2022 are causally related to or at least that the work injury was a 
+substantial contributing factor to the increased blood pressure and resulting stroke.  
+Therefore, I find claimant proved by a preponderance of the evidence that the medical 
+bills associated with treatment for his stroke are related to the work injury. 
+Defendants challenge medical bills incurred with Dr. Kettman because Dr. 
+Kettman also evaluated and provided treatment for depression, hypertension, thyroid 
+issues, and constipation during his evaluations.  Defendants further challenge any 
+medical expense for a visit performed via telehealth by Dr. Kettman, asserting that it is 
+not reasonable to award such expenses for a physical injury when no physical 
+examination occurred.  I reject these challenges to Dr. Kettman’s expenses.  Dr. 
+Kettman evaluated claimant for his low back complaints and may have incidentally 
+considered other issues as a primary care physician.  However, issues such as 
+depression and hypertension are relevant considerations in this case.  Constipation 
+could be the result of the use of narcotics and is relevant.  I consider the treatment by 
+Dr. Kettman to be causally related, reasonable, to have provided benefit to claimant, 
+and to be reasonable expenses even if conducted via telehealth appointments. 
+CONCLUSIONS OF LAW 
+The initial disputed issues are whether claimant’s stroke arose out of and in the 
+course of his employment.  The claimant has the burden of proving by a preponderance 
+of the evidence that the alleged injury actually occurred and that it both arose out of and 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 13 
+ 
+ 
+in the course of the employment. Quaker Oats Co. v. Ciha, 552 N.W.2d 143, 150 (Iowa 
+1996); Miedema v. Dial Corp., 551 N.W.2d 309, 311 (Iowa 1996). The words “arising 
+out of” refer to the cause or source of the injury. The words “in the course of” refer to the 
+time, place, and circumstances of the injury. 2800 Corp. v. Fernandez, 528 N.W.2d 124, 
+128 (Iowa 1995).  An injury arises out of the employment when a causal relationship 
+exists between the injury and the employment. Miedema, 551 N.W.2d at 311. The injury 
+must be a rational consequence of a hazard connected with the employment and not 
+merely incidental to the employment. Koehler Elec. v. Wills, 608 N.W.2d 1, 3 (Iowa 
+2000); Miedema, 551 N.W.2d at 311. An injury occurs “in the course of” employment 
+when it happens within a period of employment at a place where the employee 
+reasonably may be when performing employment duties and while the employee is 
+fulfilling those duties or doing an activity incidental to them. Ciha, 552 N.W.2d at 150. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148, 153 
+(Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154, 156 (Iowa Ct. App. 
+1997); Sanchez v. Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 1996). 
+A possibility of causation is not sufficient; a probability is necessary. Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 1996) (citing Holmes v. Bruce 
+Motor Freight, Inc., 215 N.W.2d 296, 297 (Iowa 1974)). 
+The question of causal connection is essentially within the domain of expert 
+testimony. The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question. The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances. The 
+expert opinion may be accepted or rejected, in whole or in part. IBP, Inc. v. Harpole, 
+621 N.W.2d 410, 420 (Iowa 2001); St. Luke’s Hosp. v. Gray, 604 N.W.2d 646, 652 
+(Iowa 2000); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845, 853 (Iowa 
+1995). Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 421 (Iowa 1994). Unrebutted 
+expert medical testimony cannot be summarily rejected. Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910, 911-12 (Iowa Ct. App. 1994). 
+While a claimant is not entitled to compensation for the results of a preexisting 
+injury or disease, its mere existence at the time of a subsequent injury is not a defense.  
+Rose v. John Deere Ottumwa Works, 247 Iowa 900, 908, 76 N.W.2d 756, 760-61 
+(1956).  If the claimant had a preexisting condition or disability that is materially 
+aggravated, accelerated, worsened or lighted up so that it results in disability, claimant 
+is entitled to recover.  Nicks v. Davenport Produce Co., 254 Iowa 130, 135, 115 N.W.2d 
+812, 815 (1962); Yeager v. Firestone Tire & Rubber Co., 253 Iowa 369, 374-75, 112 
+N.W.2d 299, 302 (1961). 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 14 
+ 
+ 
+Having found that claimant proved his work injury caused significant pain and an 
+increase in his blood pressure after his FCE, I conclude that claimant also proved by a 
+preponderance of the evidence that his work injury, resulting FCE, and increased blood 
+pressure were at least a substantial factor in causing or aggravating his underlying 
+condition resulting in claimant sustaining a stroke on September 11, 2022. 
+Claimant also asserts that his ongoing low back and neck conditions are causally 
+related to the work injury.  Again, having accepted the opinions of Dr. Kettman and Dr. 
+Segal as most convincing and credible, I conclude that claimant proved his low back 
+and neck conditions since the date of injury arose out of and are causally related to the 
+work injury.  Although there was some evidence of a pre-existing low back injury, I 
+specifically found that claimant proved his ongoing low back and neck injuries are 
+related to the work injury.  Therefore, I conclude claimant carried his burden of proof on 
+these issues. 
+The next disputed issue is the claim that Mr. Rowe is permanently and totally 
+disabled as a result of the work injury.  Total disability does not mean a state of absolute 
+helplessness.  Permanent total disability occurs where the injury wholly disables the 
+employee from performing work that the employee's experience, training, education, 
+intelligence, and physical capacities would otherwise permit the employee to perform.  
+See McSpadden v. Big Ben Coal Co., 288 N.W.2d 181, 192 (Iowa 1980); Diederich v. 
+Tri-City Ry. Co. of Iowa, 219 Iowa 587, 258 N.W. 899 (1935). 
+A finding that claimant could perform some work despite claimant's physical and 
+educational limitations does not foreclose a finding of permanent total disability, 
+however.  See Chamberlin v. Ralston Purina, File No. 661698 (App. October 1987); 
+Eastman v. Westway Trading Corp., II Iowa Industrial Commissioner Report 134 (App. 
+May 1982). 
+Mr. Rowe has proven injuries to his neck, low back, and mental health.  None of 
+these injuries are scheduled injuries pursuant to Iowa Code section 85.34(2)(a)-(u).  
+Therefore, his claim is compensated as an unscheduled injury.  Iowa Code section 
+85.34(2)(v).  He was terminated from his employment and was not working at the time 
+of hearing.  Therefore, his injury is compensated using an industrial disability analysis.  
+Iowa Code section 85.34(2)(v). 
+Industrial disability was defined in Diederich v. Tri-City Ry. Co. of Iowa, 219 Iowa 
+587, 591, 258 N.W. 899, 902 (1935) as follows:  "It is therefore plain that the Legislature 
+intended the term 'disability' to mean 'industrial disability' or loss of earning capacity and 
+not a mere 'functional disability' to be computed in terms of percentages of the total 
+physical and mental ability of a normal man." 
+Functional impairment is an element to be considered in determining industrial 
+disability which is the reduction of earning capacity, but consideration must also be 
+given to the injured employee's age, education, qualifications, experience, motivation, 
+loss of earnings, severity and situs of the injury, work restrictions, inability to engage in 
+employment for which the employee is fitted and the employer's offer of work or failure 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 15 
+ 
+ 
+to so offer.  McSpadden v. Big Ben Coal Co., 288 N.W.2d 181, 192 (Iowa 1980); Olson 
+v. Goodyear Service Stores, 255 Iowa 1112, 1120, 125 N.W.2d 251, 256 (1963); Barton 
+v. Nevada Poultry Co., 253 Iowa 285, 110 N.W.2d 660, 663 (1961). 
+However, a claim is only ripe for award of permanent disability if the claimant has 
+achieved maximum medical improvement.  The point in time where it is medically 
+indicated that significant further improvement from the injury is no longer anticipated is 
+often referred to as achieving maximum medical improvement (MMI).  Waldinger Corp. 
+v. Mettler, 817 N.W.2d 1, 6 (Iowa 2012). 
+I found that claimant proved he is unable to work at the present time.  I accepted 
+the opinions of Dr. Segal and found that claimant proved he has achieved MMI for his 
+neck and low back conditions.  I also accepted the opinion of Dr. Woods that claimant’s 
+mental health condition is permanent, found that claimant achieved MMI, and found that 
+he sustained a permanent mental health injury.  Considering all of that evidence and 
+those findings, along with all of the relevant industrial disability factors outlined by the 
+Iowa Supreme Court, I ultimately found that Mr. Rowe is permanently and totally 
+disabled.  Therefore, using the traditional industrial disability analysis, I conclude that 
+Mr. Rowe carried his burden of proof by a preponderance of the evidence to establish 
+that he is permanently and totally disabled.  I conclude claimant is entitled to an award 
+of benefits from the date of injury through the date of the arbitration hearing and 
+continuing into the future until claimant is no longer permanently and totally disabled.  
+Iowa Code section 85.34(3)(a). 
+In the alternative, claimant asserts a claim under the odd-lot doctrine.  Having 
+determined claimant is permanently and totally disabled under the traditional industrial 
+disability analysis, the odd-lot is technically not applicable.  However, if this case is 
+analyzed under the odd-lot doctrine for purposes of appellate review, I conclude 
+claimant has proven his odd-lot claim. 
+In Guyton v. Irving Jensen Co., 373 N.W.2d 101 (Iowa 1985), the Iowa court 
+formally adopted the “odd-lot doctrine.”  Under that doctrine a worker becomes an 
+odd-lot employee when an injury makes the worker incapable of obtaining employment 
+in any well-known branch of the labor market.  An odd-lot worker is thus totally disabled 
+if the only services the worker can perform are “so limited in quality, dependability, or 
+quantity that a reasonably stable market for them does not exist.”  Id., at 105. 
+Under the odd-lot doctrine, the burden of persuasion on the issue of industrial 
+disability always remains with the worker.  Nevertheless, when a worker makes a prima 
+facie case of total disability by producing substantial evidence that the worker is not 
+employable in the competitive labor market, the burden to produce evidence showing 
+availability of suitable employment shifts to the employer.  If the employer fails to 
+produce such evidence and the trier of facts finds the worker does fall in the odd-lot 
+category, the worker is entitled to a finding of total disability.  Guyton, 373 N.W.2d at 
+106.  Factors to be considered in determining whether a worker is an odd-lot employee 
+include the worker’s reasonable but unsuccessful effort to find steady employment, 
+vocational or other expert evidence demonstrating suitable work is not available for the 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 16 
+ 
+ 
+worker, the extent of the worker’s physical impairment, intelligence, education, age, 
+training, and potential for retraining.  No factor is necessarily dispositive on the issue.  
+Second Injury Fund of Iowa v. Nelson, 544 N.W.2d 258, 266 (Iowa 1995).  Even under 
+the odd-lot doctrine, the trier of fact is free to determine the weight and credibility of 
+evidence in determining whether the worker’s burden of persuasion has been carried, 
+and only in an exceptional case would evidence be sufficiently strong as to compel a 
+finding of total disability as a matter of law.  Guyton, 373 N.W.2d at 106. 
+In this case, I conclude claimant clearly produced evidence to establish a prima 
+facie case of total disability.  He offered medical opinions pertaining to permanent 
+disability and restrictions.  Claimant also produced a vocational opinion indicating he is 
+permanently disabled.   
+Once claimant met this burden, the burden of production shifted to defendants.  I 
+conclude defendants did not meet their burden of production.  However, even if 
+defendants are determined to have met their burden of production, I conclude claimant 
+carried the ultimate burden of persuasion to establish he is permanently disabled under 
+an odd-lot analysis. 
+The parties dispute the commencement date for permanent  disability benefits.  
+Pursuant to Iowa Code section 85.34(3), “Compensation for an injury causing 
+permanent total disability … is payable until the employee is no longer permanently and 
+totally disabled.”  In this instance, claimant was unable to return to work after the injury 
+date and had not resumed any gainful employment at the time of the hearing.  
+Therefore, I conclude claimant is entitled to an award of permanent total disability 
+benefits commencing on June 6, 2021 and continuing through the date of the arbitration 
+hearing and into the future until claimant is no longer permanently and totally disabled.  
+Iowa Code section 85.34(3)(a). 
+Mr. Rowe also asserts a claim for medical benefits contained at Claimant’s 
+Exhibit 11.  Iowa Code section 85.27(4) provides, in relevant part: 
+For purposes of this section, the employer is obliged to furnish 
+reasonable services and supplies to treat an injured employee, and has 
+the right to choose the care. . . .  The treatment must be offered promptly 
+and be reasonably suited to treat the injury without undue inconvenience 
+to the employee.  If the employee has reason to be dissatisfied with the 
+care offered, the employee should communicate the basis of such 
+dissatisfaction to the employer, in writing if requested, following which the 
+employer and the employee may agree to alternate care reasonably suited 
+to treat the injury.  If the employer and employee cannot agree on such 
+alternate care, the commissioner may, upon application and reasonable 
+proofs of the necessity therefor, allow and order other care. 
+Having found that the treatment rendered in those medical expenses is causally 
+related to the work injury, I conclude that claimant proved entitlement to payment or 
+reimbursement of those expenses. 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 17 
+ 
+ 
+However, defendants raise an authorization defense and assert that Dr. Kettman 
+was not an authorized medical provider.  When a designated physician refers a patient 
+to another physician, that physician acts as the defendant employer’s agent.  
+Permission for the referral from defendant is not necessary.  Kittrell v. Allen Memorial 
+Hospital, Thirty-fourth Biennial Report of the Industrial Commissioner, 164 (Arb. 
+November 1, 1979) (aff’d by industrial commissioner).  See also Limoges v. Meier Auto 
+Salvage, I Iowa Industrial Commissioner Reports 207 (1981). 
+The records indicate that Dr. Kettman became an authorized medical provider on 
+referral from Dr. Buchanan on February 2, 2022 for a pre-surgical evaluation.  (Joint Ex. 
+2, p. 49)  Dr. Afzal also requested a pre-surgical consultation from Dr. Kettman on 
+September 19, 2023, again making Dr. Kettman authorized via referral from another 
+authorized physician.  (Joint Ex. 2, p. 80) 
+Once a physician is authorized, they remain an authorized physician unless and 
+until defendants notify claimant that they no longer authorize a physician or certain care 
+from that physician and explain the reasons for the change in authorization.  Iowa Code 
+section 85.27(4).  In this instance, defendants have not demonstrated that authorization 
+was ever withdrawn from Dr. Kettman or that claimant was notified of the withdrawal of 
+authorization or the reason for such withdrawal.  Therefore, I conclude Dr. Kettman was 
+an authorized physician and conclude his expenses should be awarded.  Iowa Code 
+section 85.27(4). 
+Defendants challenge whether treatment for the claimant’s stroke was causally 
+related.  Having determined that claimant proved this claim by a preponderance of the 
+evidence, I similarly conclude these medical expenses are payable by defendants.  
+Iowa Code section 85.27(4).  Defendants similarly challenged the mental health claim.  
+Having found that claimant carried his burden of proof on the mental health claim as 
+well, I conclude those expenses are also owed by defendants.  Ultimately, I conclude 
+claimant has proven entitlement to payment or reimbursement of the expenses 
+contained at Claimant’s Exhibit 11. 
+Mr. Rowe next asserts a request for reimbursement of his independent medical 
+evaluation.  Iowa Code section 85.39 permits an employee to be reimbursed for 
+subsequent examination by a physician of the employee's choice where an employer-
+retained physician has previously evaluated “permanent disability” and the employee 
+believes that the initial evaluation is too low.   Iowa Code § 85.39(2). 
+The Iowa Supreme Court has provided a literal interpretation of the plain 
+language of Iowa Code section 85.39, stating that section only allows the employee to 
+obtain an independent medical evaluation at the employer’s expense if an evaluation of 
+permanent disability has already been made by an employer retained physician.  Des 
+Moines Area Reg’l Transit Auth. v. Young, 867 N.W.2d 839, 847 (Iowa 2015). Under 
+the Young decision, an employee can only obtain an IME at the employer's expense if 
+an evaluation of permanent disability has been made by an employer-retained 
+physician. Id. 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 18 
+ 
+ 
+In their brief, defendants acknowledge a statutory obligation to reimburse 
+claimant pursuant to Iowa Code section 85.39(2).  However, defendants contend they 
+should only be obligated to reimburse claimant for a single examination under the 
+statute.  It appears defendants acknowledge claimant is entitled to reimbursement for 
+the $5,525.00 independent medical evaluation (IME) performed by Dr. Segal.  Indeed, 
+Dr. Broghammer issued permanent impairment ratings for the neck and low back long 
+before Dr. Segal’s evaluation occurred.  Therefore, I conclude claimant is entitled to 
+reimbursement of $5,525.00 for Dr. Segal’s IME. 
+The next substantive issue that must be decided is penalty benefits.  Mr. Rowe 
+asserts a claim for penalty benefits for late payment of 10 weeks of benefits.  
+Defendants acknowledge that the 10 weeks of benefits were paid late.  There is no 
+evidence of a reasonable basis for the late payments or that the bases for those late 
+payments were contemporaneously conveyed to claimant. 
+If weekly compensation benefits are not fully paid when due, section 10A.315(4) 
+requires that additional benefits be awarded unless the employer shows reasonable 
+cause or excuse for the delay or denial.  Iowa Code § 10A.315(4) (2023); Robbennolt v. 
+Snap-on Tools Corp., 555 N.W.2d 229, 236-37 (Iowa 1996).  
+“Benefits may be delayed, without penalty, during such time as an employer’s 
+liability is “fairly debatable”. Kiesecker v. Webster City Custom Meats, Inc., 528 N.W.2d 
+109, 111 (Iowa 1995).  A delay attributable to the time required to perform a reasonable 
+investigation is not unreasonable.  Id.  
+It also is not unreasonable to deny a claim when a good faith issue of law or fact 
+makes the employer’s liability fairly debatable.  Rodda v. Vermeer Mfg., 734 N.W.2d 
+480, 483 (Iowa 2007).  An issue of law is fairly debatable if viable arguments exist in 
+favor of each party.  Covia v. Robinson, 507 N.W.2d 411, 412 (Iowa 1993).  An issue of 
+fact is fairly debatable if substantial evidence exists which would support a finding 
+favorable to the employer.  Gilbert v. USF Holland, Inc., 637 N.W.2d 194, 199 (Iowa 
+2001).  
+“An employer’s bare assertion that a claim is ‘fairly debatable’ does not make it 
+so.”  Meyers v. Holiday Express Corp., 557 N.W.2d 502, 505 (Iowa 1996).  The 
+employer must assert facts upon which the commissioner could reasonably find that the 
+claim was “fairly debatable.”  Id.   
+If the employer fails to show reasonable cause or excuse for the delay or denial, 
+the commissioner shall impose a penalty in an amount up to 50 percent of the amount 
+unreasonably delayed or denied.  Christensen v. Snap-on Tools Corp., 554 N.W.2d 
+254, 259 (Iowa 1996).  The factors to be considered in determining the amount of the 
+penalty include the length of the delay, the number of delays, the information available 
+to the employer and the employer’s past record of penalties.  Robbennolt, 555 N.W.2d 
+at 238. 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 19 
+ 
+ 
+An employer may not unilaterally decide to deny, delay, or terminate benefits 
+without adhering to section 10A.315. Iowa Code § 10A.315 (2023).  Section 
+10A.315(4)(c) creates a mandatory timeline for the employer to follow, to show the 
+employer met its burden of a “reasonable or probable cause or excuse” for denial, 
+delay, or termination of benefits.  Iowa Code § 10A.315(4)(c)(1)-(3).1   First, the 
+employer’s excuse must be preceded by a reasonable investigation and evaluation into 
+whether the benefits were owed.  Iowa Code § 10A.315(4)(c)(1); Baker v. 
+Bridgestone/Firestone & Old Republic Inc., 872 N.W.2d 672, 678 (Iowa 2015).  Second, 
+the results of the reasonable investigation were “the actual basis . . . 
+contemporaneously” relied on by the employer for the denial, delay or termination of the 
+benefits.  Iowa Code § 10A.315(4)(c)(2).   Third, the employer “contemporaneously 
+conveyed the basis for the denial, delay in payment or termination of benefits to the 
+employee at the time of their denial, delay or termination.”  Iowa Code § 
+10A.315(4)(c)(3).  An employer cannot unilaterally decide to terminate benefits without 
+adhering to section 10A.315.   Iowa Code § 10A.315.  
+In this case, there are 10 weeks of late paid benefits.  The delays are not 
+significant or protracted.  Many are relatively short and around the time of holidays.  Of 
+course, there is no legal excuse for delaying weekly benefits simply because a holiday 
+falls within that payment week.  I conclude claimant proved 10 weeks of benefits were 
+delayed.  I further conclude that defendants failed to prove they had a reasonable basis 
+for denial or delay in payment of the benefits delayed.  Defendants also failed to prove 
+they contemporaneously conveyed to claimant the basis for delaying benefits.  
+Therefore, penalty benefits are due in some amount.  Iowa Code section 10A.315. 
+The purpose of Iowa Code section 10A.315 is both punishment for unreasonable 
+conduct but also deterrence for future cases.  Id. at 237.  In this regard, the Commission 
+is given discretion to determine the amount of the penalty imposed with a maximum 
+penalty of 50 percent of the amount of the delayed, or denied, benefits.  Christensen v. 
+Snap-On Tools Corp., 554 N.W.2d 254, 261 (Iowa 1996).   
+In exercising its discretion, the agency must consider factors such as the length 
+of the delays, the number of delays, the information available to the employer regarding 
+the employee’s injury and wages, and the employer’s past record of penalties.  Meyers 
+v. Holiday Express Corp., 557 N.W.2d 502, 505 (Iowa 1996).  Several of the delays 
+involved in this situation involved three days or less.  None of the delays exceeded 23 
+days.  The delays were not egregious but the delays occurred multiple times throughout 
+this claim.  The total amount of benefits delayed to claimant was $2,804.35. 
+Having considered the relevant factors and the purposes of the penalty statute, I 
+conclude that a section 10A.315 penalty in the amount of $500.00 is appropriate in this 
+case.  Such an amount is appropriate to punish the employer for delays in payment of 
+ 
+ 
+ 
+1 See also unpublished opinion.  Pettengill v. American Blue Ribbon Holdings, LLC, 875 
+N.W.2d 740 (Iowa Ct. App. 2015).   
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 20 
+ 
+ 
+benefits under these facts and should serve as a deterrent against future conduct.  
+However, the facts of this case are not of such an egregious nature that an additional 
+penalty is warranted.  
+The final issue submitted for determination is whether costs should be assessed 
+against either party and, if so, in what amount.  Assessment of costs is within the 
+discretion of the agency.  Iowa Code section 10A.328.  In this instance, claimant 
+prevailed.  Therefore, I conclude that it is appropriate to assess costs against the 
+employer and insurance carrier in some amount. 
+Claimant seeks assessment of his filing fee ($128.75).  The employer and 
+insurance carrier will be ordered to reimburse claimant’s filing fee pursuant to 876 IAC 
+4.33(7).  Claimant also seeks assessment of the costs ($319.00) of his deposition 
+transcript.  Defendants elected to introduce claimant’s deposition transcript into the 
+evidentiary record at Defendants’ Exhibit A.  Therefore, I conclude it is reasonable to 
+assess the cost of claimant’s deposition pursuant to 876 IAC 4.33(2). 
+Finally, Mr. Rowe seeks reimbursement for the cost of obtaining reports from Dr. 
+Woods and Ms. Laughlin.  Pursuant to 876 IAC 4.33(6), “the reasonable costs of 
+obtaining no more than two doctors’ or practitioners’ reports” can be assessed as 
+litigation costs.   
+In Des Moines Area Reg’l Transit Auth. v. Young, 867 N.W.2d 839, 847 (Iowa 
+2015), the Supreme Court noted that a claimant can be reimbursed expenses 
+associated with the preparation of a written report as a cost under administrative rule 
+876 IAC 4.33 because the report is being used as evidence in lieu of the doctor’s 
+testimony.  Id. at 846-47.  However, only the cost of the report can be assessed, not the 
+underlying exam or treatment.  Id.  I conclude it is reasonable to assess some amount 
+for the reports of Dr. Woods and Ms. Laughlin, both of whom I accepted as the most 
+credible and convincing evidence in this record. 
+Review of the cost request at Claimant’s Exhibit 12 demonstrates that Dr. 
+Woods’ invoice documents a charge of $2,800.00 for preparation of his IME report.  
+(Claimant’s Ex. 12, p. 313)  I am a bit suspicious, or skeptical, about Dr. Woods’ invoice 
+reflecting that it took him 2 hours to review the medical records and 1 hour to conduct 
+his interview but required 7 hours to draft and edit his report.  Nevertheless, there is no 
+competing evidence or realistic challenge made to the number of hours spent drafting 
+Dr. Woods’ report so I accept this invoice as accurate.  I conclude it is reasonable and 
+appropriate to assess $2,800.00 as costs for Dr. Woods’ IME report pursuant to 876 
+IAC 4.33(6).   
+Claimant is also entitled to a second practitioner’s report.  He seeks the cost of 
+Ms. Laughlin’s report.  Review of her invoice demonstrates that she utilized 4.5 hours to 
+draft her written report in lieu of testimony.  (Claimant’s Ex. 12, p. 315)  Ms. Laughlin’s 
+invoice indicates she charged $135.00 per hour, resulting in a total charge of $607.50 
+for her report.  Again, I conclude it is reasonable and appropriate to assess claimant’s 
+cost in the amount of $607.50 for Ms. Laughlin’s report pursuant to 876 IAC 4.33(6). 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 21 
+ 
+ 
+ORDER 
+ 
+THEREFORE, IT IS ORDERED: 
+ 
+Defendants shall pay claimant permanent total disability benefits weekly 
+commencing on June 6, 2021 and continuing through the date of the arbitration hearing 
+and into the future until claimant is no longer permanently and totally disabled. 
+ 
+Defendants shall pay all weekly benefits at the rate of five hundred sixty and 
+94/100 dollars ($560.94) per week. 
+ 
+Defendants are entitled to credit for benefits previously paid and for those 
+benefits the parties stipulated to as part of waiver of a third-party lien at the 
+commencement of the arbitration hearing. 
+ 
+Defendants shall pay accrued weekly benefits in a lump sum together with 
+interest at an annual rate equal to the one-year treasury constant maturity published by 
+the federal reserve in the most recent H15 report settled as of the date of injury, plus 
+two percent. 
+ 
+Defendants shall pay the medical provider directly for any outstanding medical 
+expenses, or reimburse claimant for all medical expenses he previously paid, all of 
+which are contained in Claimant’s Exhibit 11. 
+ 
+Defendants shall reimburse claimant’s independent medical evaluation 
+performed by Dr. Segal in the amount of five thousand five hundred twenty-five and 
+00/100 dollars ($5,525.00). 
+ 
+Defendants shall pay claimant penalty benefits in the amount of five hundred and 
+00/100 dollars ($500.00). 
+ 
+The employer and insurance carrier shall reimburse claimant’s costs in the 
+amount of three thousand eight hundred fifty-five and 25/100 dollars ($3,855.25).  
+Defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1(2) and 876 IAC 11.7.   
+Signed and filed this __31st ___ day of December, 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      WILLIAM H. GRELL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                           INTERIM WORKERS’  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     COMPENSATION COMMISSIONER 
+
+ROWE V. BC CONSTRUCTION, INC. 
+Page 22 
+ 
+ 
+The parties have been served, as follows: 
+Benjamin Roth (via WCES) 
+John Rausch (via WCES) 
+Christine Westberg Dorn (via WCES) 
+ 
+ 
+ 
+ 
+ 

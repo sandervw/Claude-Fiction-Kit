@@ -1,0 +1,323 @@
+Case Number: 5806495
+Case Title:  SANDLIN, MARSHALL V. MID AMERICA CONSTRUCTION
+Doc Type:    Decision - Court of Appeals
+Source:      Sandlin, Marshall-5806495.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 22-0471 
+Filed February 22, 2023 
+ 
+ 
+MIDAMERICAN CONSTRUCTION LLC and GRINNELL MUTUAL, 
+ 
+Petitioners-Appellants, 
+ 
+vs. 
+ 
+MARSHALL SANDLIN, 
+ 
+Respondent-Appellee. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Scott D. Rosenberg, 
+Judge. 
+ 
+ 
+An employer and insurance carrier appeal a decision issued by the workers’ 
+compensation commissioner.  AFFIRMED IN PART, REVERSED IN PART, AND 
+REMANDED. 
+ 
+ 
+ 
+Stephen W. Spencer and Christopher S. Spencer of Peddicord Wharton, 
+LLP, West Des Moines, for appellants. 
+ 
+Zeke R. McCartney of Reynolds & Kenline, L.L.P., Dubuque, for appellee. 
+ 
+ 
+Considered by Vaitheswaran, P.J., and Greer and Schumacher, JJ.
+
+ 
+2
+SCHUMACHER, Judge. 
+ 
+MidAmerican Construction LLC and their workers’ compensation insurance 
+carrier, Grinnell Mutual, (collectively, the defendants), appeal the district court’s 
+judicial review decision upholding the workers’ compensation commissioner’s 
+decision.  They contend the claimant, Marshall Sandlin, is not entitled to 
+reimbursement for an independent medical examination (IME).  The defendants 
+also claim that if Sandlin is entitled to such reimbursement, the amount awarded 
+is unreasonable.  We affirm in part, reverse in part, and remand.   
+I. 
+Background Facts & Proceedings 
+ 
+Sandlin suffered a workplace injury on September 6, 2017, after he fell off 
+a ladder and injured his foot.  His employer initially told him to rest for a couple of 
+days.  Sandlin, on his own initiative, went to Medical Associates for treatment the 
+following Saturday.  He testified he chose that location because it was the only 
+clinic open on Saturdays, he had previously been treated by doctors there, and he 
+considered them to be his primary doctors.  Sandlin saw Dr. Frederick Isaak who, 
+after conducting an x-ray, suspected Sandlin had fractured one of his toes.  
+Dr. Isaak referred Sandlin to Dr. Tracy Hughes, a podiatrist, on September 13.  
+Sandlin continued under the care of Dr. Hughes until it was determined that the 
+fracture was healing and Sandlin could largely return to his normal activities.   
+ 
+Sandlin was examined by Dr. Erin Kennedy on December 14, 2017, to 
+determine whether Sandlin had achieved maximum medical improvement (MMI) 
+and whether he had a permanent impairment.  The parties contest as to how the 
+appointment with Dr. Kennedy was set.  The defendants contend that Sandlin was 
+referred to Dr. Kennedy by Dr. Hughes, thereby continuing the chain of doctors 
+
+ 
+3
+Sandlin had chosen himself.  Sandlin claims the medical case manager (MCM) set 
+the appointment and he was directed by the insurer to attend.  In any event, 
+Dr. Kennedy determined Sandlin had reached maximum medical improvement 
+and had not sustained a permanent impairment.  Dr. Kennedy’s fee was $174.25 
+ 
+Sandlin saw Dr. Taylor on June 19, 2018, for an IME.  He assigned Sandlin 
+a two percent permanent impairment rating for his left foot.  Dr. Taylor’s fee was 
+$2020.00.  The defendants advised that they would not pay the two percent rating 
+and they would not be paying the full cost of Dr. Taylor’s examination. 
+ 
+The case was heard by a deputy workers’ compensation commissioner.  
+The decision, issued June 18, 2020, found Sandlin suffered a two percent 
+impairment to his left leg.  Sandlin was also determined to be entitled to 
+reimbursement for the IME that Dr. Taylor performed.  The defendants filed a 
+motion for rehearing, suggesting the impairment was to Sandlin’s foot, not his leg, 
+and that the IME costs should be denied.  The deputy granted the motion as to the 
+location of the injury, but denied the defendants’ motion as to the IME.  
+ 
+The defendants appealed the decision to the commissioner, who affirmed 
+the deputy’s decision on all grounds.  The defendants then petitioned for judicial 
+review, arguing Sandlin was not entitled to reimbursement for the IME, and if he 
+was, the amount was unreasonable.  The district court denied the petition and 
+affirmed the commissioner’s ruling.  The defendants now appeal.   
+II. 
+Standard of Review 
+ 
+Review of workers’ compensation cases is governed by Iowa Code chapter 
+17A (2018).  Larson Mfg. Co. v. Thorson, 763 N.W.2d 842, 850 (Iowa 2009).  
+Because the interpretation of statutes has not been vested in the agency, “[w]e do 
+
+ 
+4
+not defer to the commissioner’s interpretation of the law.”  Id.  Thus, our review is 
+for correction of errors at law.  Wilson v. IBP, Inc., 589 N.W.2d 729, 730 (Iowa 
+1999).  
+ 
+We review factual determinations made by the commissioner for substantial 
+evidence.  Thorson, 763 N.W.2d at 850.  Evidence is considered substantial when, 
+“the quantity and quality of evidence that would be deemed sufficient by a neutral, 
+detached, and reasonable person, to establish the fact at issue when the 
+consequences resulting from the establishment of that fact are understood to be 
+serious and of great importance.”  Id. (quoting Iowa Code § 17A.19(10)(f)(1)).   
+ 
+We will only reverse the commissioner’s application of law to facts if it was 
+“irrational, illogical, or wholly unjustifiable.”  Id. (quoting Iowa Code §17A.19(10)(l)).  
+“This standard requires us to allocate some deference to the commissioner’s 
+determination, but less than we give to the agency’s findings of fact.”  Id.  
+III. 
+Is Sandlin Entitled to Reimbursement for the IME? 
+ 
+The defendants contend Sandlin does not qualify for reimbursement for the 
+IME Dr. Taylor performed.  In particular, they point to Iowa Code section 85.39(2): 
+ 
+If an evaluation of permanent disability has been made by a 
+physician retained by the employer and the employee believes this 
+evaluation to be too low, the employee shall, upon application to the 
+commissioner and upon delivery of a copy of the application to the 
+employer and its insurance carrier, be reimbursed by the employer 
+the reasonable fee for a subsequent examination by a physician of 
+the 
+employee’s 
+own 
+choice, 
+and 
+reasonably 
+necessary 
+transportation expenses incurred for the examination.  
+ 
+Thus, the code restricts a claimant’s opportunity to be reimbursed for a medical 
+examination.  A prerequisite to such reimbursement is an evaluation by a physician 
+“retained by the employer.”  The defendants claim they did not retain Dr. Kennedy.  
+
+ 
+5
+ 
+In considering what “retained” means, our supreme court held,  
+We conclude that when the statute is considered in its entirety, it is 
+apparent that the legislature intended to balance the competing 
+interests of the employee and employer with respect to the choice of 
+doctor.  We think, therefore, that the legislature meant to allow the 
+employee to obtain a disability rating from a physician of his “own 
+choice” when the physician chosen by the employer gives a disability 
+evaluation unsatisfactory to the employee. 
+ 
+IBP, Inc. v. Harker, 633 N.W.2d 322, 327 (Iowa 2001).  Thus, our inquiry is a fact 
+question: Who chose to have Dr. Kennedy conduct the examination?  
+ 
+We find substantial evidence supports the commissioner’s determination 
+that the employer and insurer, via the medical case manager, chose Dr. Kennedy 
+to perform the examination.  In particular, records indicated: 
+11-15-2017 – MCM maintained contact with Ms. Miller at Grinnell 
+Mutual to clarify/confirm case goals and activities.  MCM contacted 
+the medical provider with a request to address MMI/disability as 
+indicated within the client’s final office visit notes.  Dr. Hughes, 
+podiatrist, indicated she does not address MMI/disability related to 
+workers’ 
+compensation 
+claims. 
+ 
+Medical 
+Associates 
+staff 
+recommended MCM to contact Occupation Medicine and inquire if 
+Dr. Erin Kennedy would address MMI/disability.  Dr. Kennedy 
+requested Mr. Sandlin schedule a 30 minute consultation to address 
+MMI.  MCM secured an appointed per the physician’s request after 
+12/09/2017 for Mr. Sandlin.  
+ 
+(emphasis added).  The medical care manager was explicit:  
+MCM secured a consultation for Mr. Sandlin with Dr. Erin Kennedy 
+to address MMI and assess for disability related to his work injury.  
+ 
+These records are confirmed by Sandlin’s testimony, which demonstrated that he 
+was directed to see Dr. Kennedy by the insurance provider.  
+ 
+Some evidence suggests Sandlin was referred to Dr. Kennedy directly by 
+Dr. Hughes.  For instance, Dr. Kennedy informed defendants’ counsel via email 
+that Dr. Hughes requested she perform the impairment rating.  And Dr. Hughes 
+
+ 
+6
+informed defendants’ counsel that she normally refers patients to Occupational 
+Medicine for impairment ratings.  But “when we review factual questions delegated 
+by the legislature to the commissioner, the question before us is not whether the 
+evidence supports different findings than those made by the commissioner, but 
+whether the evidence ‘supports the findings actually made.’”  Thorson, 763 N.W.2d 
+at 850 (citation omitted).  Because there is substantial evidence to support the 
+commissioner’s findings, we affirm.  
+IV. 
+Was the Reimbursement Amount Reasonable? 
+ 
+The defendants contend the commissioner’s order requires them to 
+reimburse an unreasonable amount for Sandlin’s examination.  Iowa Code 
+section 85.39(2) requires employers to reimburse “the reasonable fee for a 
+subsequent examination by a physician of the employee’s own choice.”  We 
+highlight that statutory amendments passed in 2017 now place two limits on such 
+reimbursement: (1) the employer need not reimburse the employee if the injury is 
+not compensable and (2) the “determination of the reasonableness of a fee for an 
+examination made pursuant to this subsection, shall be based on the typical fee 
+charged by a medical provider to perform an impairment rating in the local area 
+where the examination occurred.”  Iowa Code § 85.39(2).  The defendants argue 
+Dr. Taylor’s examination went beyond what was required to perform an impairment 
+rating.  As a result, they argue that only a fraction of Dr. Taylor’s fee is 
+reimbursable.  
+ 
+We begin with the applicable statute with the added 2017 language 
+italicized below: 
+
+ 
+7
+If an evaluation of permanent disability has been made by a 
+physician retained by the employer and the employee believes this 
+evaluation to be too low, the employee shall, upon application to the 
+commissioner and upon delivery of a copy of the application to the 
+employer and its insurance carrier, be reimbursed by the employer 
+the reasonable fee for a subsequent examination by a physician of 
+the 
+employee’s 
+own 
+choice, 
+and 
+reasonably 
+necessary 
+transportation expenses incurred for the examination.  The physician 
+chosen by the employee has the right to confer with and obtain from 
+the employer-retained physician sufficient history of the injury to 
+make a proper examination.  An employer is only liable to reimburse 
+an employee for the cost of an examination conducted pursuant to 
+this subsection if the injury for which the employee is being examined 
+is determined to be compensable under this chapter or chapter 85A 
+or 85B.  An employer is not liable for the cost of such an examination 
+if the injury for which the employee is being examined is determined 
+not to be a compensable injury.  A determination of the 
+reasonableness of a fee for an examination made pursuant to this 
+subsection, shall be based on the typical fee charged by a medical 
+provider to perform an impairment rating in the local area where the 
+examination is conducted. 
+ 
+See 2017 Iowa Acts ch. 23, § 24 (now codified at Iowa Code § 85.39(2)) (emphasis 
+added). 
+ 
+The district court, agreeing with the agency, found Dr. Taylor’s fees were 
+reasonable.  Yet, under his “Examination Fee” schedule, Dr. Taylor broke out his 
+charges: (1) “Independent Medical Exam: $1400 Base Fee (Physician time billed 
+at $95 per 15-minute increment)” and (2) “Impairment Rating/Restrictions Exam: 
+$500 Flat Fee (Includes cost: for one body part.  Additional $150 per [additional] 
+body part).”  We determine the impairment rating fee of $500.00 is the reasonable 
+fee authorized by the statute, as amended.   
+ 
+When interpreting statutes, we look to the intent of the legislature based on 
+the words used and what interpretation will best effect the purpose of the statute.  
+Harker, 633 N.W.2d at 325.  It is well established that “[w]e liberally construe 
+workers’ compensation statutes in favor of the worker.”  Ewing v. Allied Constr. 
+
+ 
+8
+Servs., 592 N.W.2d 689, 691 (Iowa 1999).  “In reviewing the commissioner’s 
+interpretation of the statutes governing the agency, we defer to the expertise of the 
+agency, but reserve for ourselves the final interpretation of the law.”  Second Inj. 
+Fund v. Bergeson, 526 N.W.2d 543, 546 (Iowa 1995).  We review questions over 
+the proper interpretation of the workers’ compensation statute for correction of 
+errors at law when “the legislature did not clearly vest the agency with interpretative 
+authority.”  Ramirez-Trujillo v. Quality Egg, L.L.C., 878 N.W.2d 759, 768 (Iowa 
+2016).  
+ 
+We examine the words added to Iowa Code section 85.39(2) in 2017 and 
+assume the legislature added that language for a reason.  Before the 2017 
+amendment, the statute required that only a reasonable fee for an “examination” 
+be approved, but after the 2017 amendment, the language was enhanced with the 
+terms: “A determination of the reasonableness of a fee for an examination made 
+pursuant to this subsection, shall be based on the typical fee charged by a medical 
+provider to perform an impairment rating in the local area where the examination 
+is conducted.”  Iowa Code § 85.39(2) (emphasis added).  And Sandlin has the 
+burden of proving the reasonableness of the expenses incurred for the impairment 
+examination.  See Iowa R. App. P. 6.904(3)(e) (“Ordinarily, the burden of proof on 
+an issue is upon the party who would suffer loss if the issue were not established.”).  
+From the record, in the “local area,” Dr. Taylor charges separately for preparing an 
+IME and for preparing an impairment rating.  But the statute as now written only 
+allows for reimbursement of an examination based on the typical fee charged for 
+
+ 
+9
+an impairment rating, not the extent of information a full IME entails.1  Thus, giving 
+effect to the words of the statute, we award the “typical fee charged by the medical 
+provider to perform an impairment rating.”  To do otherwise would authorize 
+payment for an expanded examination, report, and intensive review of medical 
+records, in contravention of what the legislature has determined.  We reverse the 
+reimbursement award of $2020.00 and remand for the entry of a reimbursement 
+award based on the impairment rating fee, which on this record is $500.00.  
+ 
+AFFIRMED IN PART, REVERSED IN PART, AND REMANDED.  
+ 
+ 
+ 
+ 
+ 
+1 Granted, our cases have generally discussed the examination under section 
+85.39 as an “IME.”  That form of examination is a “process . . . known as an IME 
+because the examination is independent of the examination done by the physician 
+selected by the employer.”  Des Moines Area Reg’l Transit Auth. v. Young, 867 
+N.W.2d 839, 843–44 (Iowa 2015).  But as the IME has evolved in the actual 
+practice, the IME report includes extensive analysis of the medical history, a 
+determination of causation, and the determination of an impairment rating, if 
+disability is found.  Often the “report” is used for purposes of evidence for the 
+hearing.  Prior to 2017, section 85.39 addressed only an “examination” and not the 
+payment for a report.  See id. at 845–46.  After the 2017 amendment, payment for 
+the examination referred to in section 85.39 is limited based on the typical cost to 
+perform an impairment rating. 

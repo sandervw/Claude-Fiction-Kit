@@ -1,0 +1,1456 @@
+{
+  "query": {
+    "taxonomy_description": "Otolaryngology",
+    "state": "IA",
+    "distance_from": "Washington, IA 52353"
+  },
+  "filter": "distance_washington_iowa_miles < 100",
+  "total_filtered_results": 114,
+  "results": [
+    {
+      "npi": "1407968142",
+      "first_name": "DAVID",
+      "last_name": "WEBER",
+      "credentials": "M.D.",
+      "address": "601 HIGHWAY 6 W, IOWA CITY, IA, 52246-2209",
+      "contact-info": [
+        "319-338-0581"
+      ],
+      "distance_washington_iowa_miles": 25.2,
+      "cases-involved": []
+    },
+    {
+      "npi": "1861658049",
+      "first_name": "MOHANNAD",
+      "last_name": "AL-QUDAH",
+      "credentials": "M.D.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2167",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1962857128",
+      "first_name": "ZAID",
+      "last_name": "AL-QURAYSHI",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-3574",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1831675107",
+      "first_name": "AHMED",
+      "last_name": "ALKHATEEB",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2177"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1538562251",
+      "first_name": "GHASSAN",
+      "last_name": "ALOKBY",
+      "credentials": "M.D.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2167"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1629701065",
+      "first_name": "ALHANOUF",
+      "last_name": "ALQABBANI",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1205506060",
+      "first_name": "NUHA",
+      "last_name": "ALRAYES",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-600-2215"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1427921121",
+      "first_name": "NASSER ABDULAZIZ M",
+      "last_name": "ALWEHAIBI",
+      "credentials": "MBBS",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1245449701",
+      "first_name": "BRIAN",
+      "last_name": "ANDREWS",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-3317",
+        "fax: 319-356-2371"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1972596187",
+      "first_name": "NANCY",
+      "last_name": "BAUMAN",
+      "credentials": "MD",
+      "address": "UNIVERSITY OF IOWA HOSPITALS & CLINICS, 200 HAWKINS DR, IOWA CITY, IA, 52242-1082",
+      "contact-info": [
+        "319-356-2164",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1700079480",
+      "first_name": "RODRIGO",
+      "last_name": "BAYON",
+      "credentials": "M.D.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1007",
+      "contact-info": [
+        "319-356-3317",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1316563547",
+      "first_name": "NIR",
+      "last_name": "BEN-SHLOMO",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "800-777-8442"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1114419355",
+      "first_name": "DOUGLAS",
+      "last_name": "BENNION",
+      "credentials": "MD, PhD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1518176957",
+      "first_name": "JAMES",
+      "last_name": "BROOKES",
+      "credentials": "M.D.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-1616",
+        "fax: 319-384-6004"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1962495176",
+      "first_name": "JOHN",
+      "last_name": "CANADY",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2168",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1639160781",
+      "first_name": "KRISTI",
+      "last_name": "CHANG",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-6657",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1174962492",
+      "first_name": "ELISE",
+      "last_name": "CHENG",
+      "credentials": "M.D.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-3574"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1659719235",
+      "first_name": "ALEXANDER",
+      "last_name": "CLAUSSEN",
+      "credentials": "M.D.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-3574",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1649271628",
+      "first_name": "PATRICK",
+      "last_name": "COLLISON",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2201",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1639746910",
+      "first_name": "JACQUELYN",
+      "last_name": "DEVRIES",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "800-777-8442"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1366281164",
+      "first_name": "CADEN",
+      "last_name": "DUFFY",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1750957494",
+      "first_name": "PAUL",
+      "last_name": "ESCHER",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-3574"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1760414866",
+      "first_name": "ADELE",
+      "last_name": "EVANS",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2201",
+        "fax: 319-356-3949"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1598413007",
+      "first_name": "ZACHARY",
+      "last_name": "FLEISHHACKER",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "719-649-2008"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1710618228",
+      "first_name": "GUILLERMO",
+      "last_name": "FLORES",
+      "credentials": "MD, PhD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2201"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1295411478",
+      "first_name": "ALEJANDRO",
+      "last_name": "GARCIA CHAVEZ",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "617-755-8703"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1235731779",
+      "first_name": "MALAK",
+      "last_name": "GAZZAZ",
+      "credentials": "",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1750958013",
+      "first_name": "NICHOLAS",
+      "last_name": "GEORGE-JONES",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1588978753",
+      "first_name": "ADRIAN",
+      "last_name": "GOOI",
+      "credentials": "M.D., FRCS(C)",
+      "address": "200 HAWKINS DR, 212265 PFP, UI HOSPITAL AND CLINICS,DEPT OTOLARYNGOLOGY, IOWA CITY, IA, 52242",
+      "contact-info": [
+        "319-321-4071"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1639063290",
+      "first_name": "DREW",
+      "last_name": "GOTTMAN",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-1338"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1427554047",
+      "first_name": "RAHUL",
+      "last_name": "GULATI",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "718-270-1638"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1558333179",
+      "first_name": "DOUGLAS",
+      "last_name": "HENSTROM",
+      "credentials": "M.D.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1007",
+      "contact-info": [
+        "319-356-3600",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1194464891",
+      "first_name": "MICHELLE",
+      "last_name": "HIGGINS",
+      "credentials": "MD, PhD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1114190915",
+      "first_name": "KRISTEN",
+      "last_name": "HURST",
+      "credentials": "M.D.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-0491"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1598331407",
+      "first_name": "HEBA",
+      "last_name": "ISAAC",
+      "credentials": "",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1598957029",
+      "first_name": "TIM",
+      "last_name": "ISELI",
+      "credentials": "M.B.,B.S.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2256"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1871295428",
+      "first_name": "ASEEM",
+      "last_name": "JAIN",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-3574"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1720973563",
+      "first_name": "MATTHEW",
+      "last_name": "JI",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1457557704",
+      "first_name": "DEBORAH",
+      "last_name": "KACMARYNSKI",
+      "credentials": "M.D.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-3612",
+        "fax: 319-356-4108"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1154164903",
+      "first_name": "TANNER",
+      "last_name": "KEMPTON",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2201"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1689358152",
+      "first_name": "UZAIR",
+      "last_name": "KHAN",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1053976175",
+      "first_name": "MILES",
+      "last_name": "KLIMARA",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR., DEPT OF OTOLARYNGOLOGY, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2201"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1881442010",
+      "first_name": "TADEAS",
+      "last_name": "LUNGA",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1689415051",
+      "first_name": "EMILY",
+      "last_name": "MA",
+      "credentials": "MD, PhD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1720870389",
+      "first_name": "RYAN",
+      "last_name": "MACKAY",
+      "credentials": "MD,PhD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1770107740",
+      "first_name": "ALEXANDRA",
+      "last_name": "MCMILLAN",
+      "credentials": "MD, PhD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "646-203-1881"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1881385565",
+      "first_name": "ETHAN",
+      "last_name": "MEIBURG",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1811635006",
+      "first_name": "ABIGAIL",
+      "last_name": "MOORE",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR DEPT OF, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1225235625",
+      "first_name": "GRACE",
+      "last_name": "NIMMONS",
+      "credentials": "M.D.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-3574",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1144433962",
+      "first_name": "NITIN",
+      "last_name": "PAGEDAR",
+      "credentials": "M.D.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2201",
+        "fax: 319-384-6725"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1558956938",
+      "first_name": "THUY",
+      "last_name": "PHAM",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-961-5660"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1619300415",
+      "first_name": "NICHOLAS",
+      "last_name": "POTTER",
+      "credentials": "MBBS",
+      "address": "200 HAWKINS DR, UNIVERSITY OF IA HOSPITALS OTOLARYNGOLOGY 21112PFP, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2167",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1508495383",
+      "first_name": "PRASHANTH",
+      "last_name": "PRABAKARAN",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-3574",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1972732469",
+      "first_name": "JAMIE",
+      "last_name": "PRIESTLEY",
+      "credentials": "MBBS",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1078",
+      "contact-info": [
+        "319-356-2201",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1093383085",
+      "first_name": "ZACHARY",
+      "last_name": "TANENBAUM",
+      "credentials": "",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1205499159",
+      "first_name": "OSAMA",
+      "last_name": "TARABICHI",
+      "credentials": "",
+      "address": "200 HAWKINS DR DEPT OF, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "908-400-8984"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1548581234",
+      "first_name": "JOSHUA",
+      "last_name": "TOKITA",
+      "credentials": "M.D.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1007",
+      "contact-info": [
+        "319-356-3574"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1891904207",
+      "first_name": "GEIR",
+      "last_name": "TRYGGVASON",
+      "credentials": "M.D.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-1616",
+        "fax: 319-384-6004"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1821082587",
+      "first_name": "DOUGLAS",
+      "last_name": "VANDAELE",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-353-8162",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1053153965",
+      "first_name": "CHRISTIAN",
+      "last_name": "VANDELUNE",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8442"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1366335408",
+      "first_name": "PIPER",
+      "last_name": "VANDER WAAL",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1710678966",
+      "first_name": "PEIZHE",
+      "last_name": "WU",
+      "credentials": "MD, PhD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-385-8277"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1619958642",
+      "first_name": "SU-MIN",
+      "last_name": "YI",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, UNIVERSITY OF IOWA HOSPITALS & CLINICS, IOWA CITY, IA, 52242-1082",
+      "contact-info": [
+        "319-356-2169",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1538262860",
+      "first_name": "BEVAN",
+      "last_name": "YUEH",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2201",
+        "fax: 319-356-3949"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1932155900",
+      "first_name": "DANIEL",
+      "last_name": "OLNEY",
+      "credentials": "MD",
+      "address": "2615 NORTHGATE DR, IOWA CITY, IA, 52245-9565",
+      "contact-info": [
+        "319-351-5680",
+        "fax: 319-351-8980"
+      ],
+      "distance_washington_iowa_miles": 28.1,
+      "cases-involved": []
+    },
+    {
+      "npi": "1902844145",
+      "first_name": "THOMAS",
+      "last_name": "VINER",
+      "credentials": "MD",
+      "address": "2615 NORTHGATE DR, IOWA CITY, IA, 52245-9565",
+      "contact-info": [
+        "319-351-5680",
+        "fax: 319-351-8980"
+      ],
+      "distance_washington_iowa_miles": 28.1,
+      "cases-involved": []
+    },
+    {
+      "npi": "1447292800",
+      "first_name": "JEREMY",
+      "last_name": "VOS",
+      "credentials": "MD",
+      "address": "2615 NORTHGATE DR, IOWA CITY, IA, 52245-9565",
+      "contact-info": [
+        "319-351-5680",
+        "fax: 319-351-8980"
+      ],
+      "distance_washington_iowa_miles": 28.1,
+      "cases-involved": []
+    },
+    {
+      "npi": "1689084022",
+      "first_name": "MARC",
+      "last_name": "POLACCO",
+      "credentials": "MD",
+      "address": "1750 JORDAN ST, NORTH LIBERTY, IA, 52317-8089",
+      "contact-info": [
+        "319-569-3444"
+      ],
+      "distance_washington_iowa_miles": 32.6,
+      "cases-involved": []
+    },
+    {
+      "npi": "1558454975",
+      "first_name": "WILLIAM",
+      "last_name": "MCMILLAN",
+      "credentials": "M.D.",
+      "address": "1005 PENNSYLVANIA AVE, OTTUMWA, IA, 52501-6413",
+      "contact-info": [
+        "641-683-1900",
+        "fax: 641-683-3830"
+      ],
+      "distance_washington_iowa_miles": 39.5,
+      "cases-involved": []
+    },
+    {
+      "npi": "1326157140",
+      "first_name": "DOUGLAS",
+      "last_name": "HENRICH (BURLINGTON EAR NOSE & THROAT CLINIC PC)",
+      "credentials": "M.D.",
+      "address": "1225 S GEAR AVE, STE 255, WEST BURLINGTON, IA, 52655-1687",
+      "contact-info": [
+        "319-752-2725",
+        "fax: 319-753-1084"
+      ],
+      "distance_washington_iowa_miles": 42.6,
+      "cases-involved": []
+    },
+    {
+      "npi": "1427045798",
+      "first_name": "DEAN",
+      "last_name": "LYONS",
+      "credentials": "M.D.",
+      "address": "1223 S GEAR AVE, EASTMAN PLAZA SUITE 308, WEST BURLINGTON, IA, 52655-1694",
+      "contact-info": [
+        "319-753-6771",
+        "fax: 319-754-5482"
+      ],
+      "distance_washington_iowa_miles": 42.6,
+      "cases-involved": []
+    },
+    {
+      "npi": "1073786521",
+      "first_name": "SHANE",
+      "last_name": "GAILUSHAS",
+      "credentials": "MD",
+      "address": "MERCY EAR NOSE AND THROAT CLINIC, 901 8TH AVENUE SE, CEDAR RAPIDS, IA, 52401",
+      "contact-info": [
+        "319-398-6900",
+        "fax: 319-398-6901"
+      ],
+      "distance_washington_iowa_miles": 46.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1487034617",
+      "first_name": "JASMINE",
+      "last_name": "HERNANDEZ",
+      "credentials": "",
+      "address": "901 8TH AVE SE, CEDAR RAPIDS, IA, 52401-2121",
+      "contact-info": [
+        "319-398-6900",
+        "fax: 319-398-6901"
+      ],
+      "distance_washington_iowa_miles": 46.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1871972695",
+      "first_name": "ANDREW",
+      "last_name": "LIU",
+      "credentials": "M.D., Ph.D.",
+      "address": "901 8TH AVE SE, CEDAR RAPIDS, IA, 52401-2121",
+      "contact-info": [
+        "319-398-6900"
+      ],
+      "distance_washington_iowa_miles": 46.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1285784983",
+      "first_name": "DONNA",
+      "last_name": "COOPER (PHYSICIANS' CLINIC OF IOWA, PC, DEPT OF ENT)",
+      "credentials": "",
+      "address": "901 8TH AVE SE, CEDAR RAPIDS, IA, 52401-2121",
+      "contact-info": [
+        "319-399-2022",
+        "fax: 319-399-2014"
+      ],
+      "distance_washington_iowa_miles": 46.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1912116492",
+      "first_name": "RYAN",
+      "last_name": "DEMPEWOLF",
+      "credentials": "MD",
+      "address": "202 10TH STREET SE, CEDAR RAPIDS, IA, 52403-2404",
+      "contact-info": [
+        "319-399-2022",
+        "fax: 319-399-2014"
+      ],
+      "distance_washington_iowa_miles": 47.3,
+      "cases-involved": []
+    },
+    {
+      "npi": "1013138270",
+      "first_name": "MELANIE",
+      "last_name": "GIESLER-SPELLMAN",
+      "credentials": "D.O",
+      "address": "202 10TH ST SE, CEDAR RAPIDS, IA, 52403-2414",
+      "contact-info": [
+        "319-399-2022"
+      ],
+      "distance_washington_iowa_miles": 47.3,
+      "cases-involved": []
+    },
+    {
+      "npi": "1881089704",
+      "first_name": "THOMAS",
+      "last_name": "HEINEMAN",
+      "credentials": "M.D.",
+      "address": "202 10TH ST SE, CEDAR RAPIDS, IA, 52403-2414",
+      "contact-info": [
+        "319-247-3010"
+      ],
+      "distance_washington_iowa_miles": 47.3,
+      "cases-involved": []
+    },
+    {
+      "npi": "1609369412",
+      "first_name": "MADIA",
+      "last_name": "RUSSILLO",
+      "credentials": "MD",
+      "address": "202 10TH ST SE STE 200, CEDAR RAPIDS, IA, 52403-2434",
+      "contact-info": [
+        "319-399-2022"
+      ],
+      "distance_washington_iowa_miles": 47.3,
+      "cases-involved": []
+    },
+    {
+      "npi": "1427082346",
+      "first_name": "ROBERT",
+      "last_name": "PETTIS",
+      "credentials": "M.D.",
+      "address": "1229 C AVE E, OSKALOOSA, IA, 52577-4298",
+      "contact-info": [
+        "641-672-3394",
+        "fax: 949-337-4464"
+      ],
+      "distance_washington_iowa_miles": 47.9,
+      "cases-involved": []
+    },
+    {
+      "npi": "1336548346",
+      "first_name": "JOSEPH",
+      "last_name": "WHITMAN",
+      "credentials": "DO",
+      "address": "122 4TH AVENUE, GRINNELL, IA, 50112",
+      "contact-info": [
+        "461-236-4323",
+        "fax: 641-236-3411"
+      ],
+      "distance_washington_iowa_miles": 58.2,
+      "cases-involved": []
+    },
+    {
+      "npi": "1124362066",
+      "first_name": "GORDON",
+      "last_name": "JOHNSON (GORDON R JOHNSON D O P C)",
+      "credentials": "D.O.",
+      "address": "3906 LILLIE AVE, SUITE 1, DAVENPORT, IA, 52806-4434",
+      "contact-info": [
+        "563-391-3309"
+      ],
+      "distance_washington_iowa_miles": 61.1,
+      "cases-involved": []
+    },
+    {
+      "npi": "1740629906",
+      "first_name": "JAY",
+      "last_name": "BURMEISTER",
+      "credentials": "D.O.",
+      "address": "3385 DEXTER CT STE 101, DAVENPORT, IA, 52807-3471",
+      "contact-info": [
+        "563-359-1646"
+      ],
+      "distance_washington_iowa_miles": 65.6,
+      "cases-involved": []
+    },
+    {
+      "npi": "1346229762",
+      "first_name": "DOUGLAS",
+      "last_name": "DVORAK",
+      "credentials": "MD",
+      "address": "3385 DEXTER CT, STE 101, DAVENPORT, IA, 52807-3471",
+      "contact-info": [
+        "563-359-1646",
+        "fax: 563-344-6703"
+      ],
+      "distance_washington_iowa_miles": 65.6,
+      "cases-involved": []
+    },
+    {
+      "npi": "1659811701",
+      "first_name": "RYAN",
+      "last_name": "KROGMANN",
+      "credentials": "D.O.",
+      "address": "3385 DEXTER CT, DAVENPORT, IA, 52807-3494",
+      "contact-info": [
+        "330-971-7207"
+      ],
+      "distance_washington_iowa_miles": 65.6,
+      "cases-involved": []
+    },
+    {
+      "npi": "1912977232",
+      "first_name": "MICHAEL",
+      "last_name": "TOMEK",
+      "credentials": "MD",
+      "address": "3385 DEXTER CT, STE 101, DAVENPORT, IA, 52807-3471",
+      "contact-info": [
+        "563-359-1646",
+        "fax: 563-344-6703"
+      ],
+      "distance_washington_iowa_miles": 65.6,
+      "cases-involved": []
+    },
+    {
+      "npi": "1215916168",
+      "first_name": "RALPH",
+      "last_name": "TYNER",
+      "credentials": "MD",
+      "address": "3385 DEXTER CT, STE 101, DAVENPORT, IA, 52807-3471",
+      "contact-info": [
+        "563-359-1646"
+      ],
+      "distance_washington_iowa_miles": 65.6,
+      "cases-involved": []
+    },
+    {
+      "npi": "1639123243",
+      "first_name": "DAVID",
+      "last_name": "CONGDON",
+      "credentials": "MD",
+      "address": "2515 CYCLONE DR STE B, WATERLOO, IA, 50701-9746",
+      "contact-info": [
+        "319-888-8044"
+      ],
+      "distance_washington_iowa_miles": 83.3,
+      "cases-involved": []
+    },
+    {
+      "npi": "1447783139",
+      "first_name": "KENNY",
+      "last_name": "RODRIGUEZ",
+      "credentials": "MD",
+      "address": "2515 CYCLONE DR STE B, WATERLOO, IA, 50701-9746",
+      "contact-info": [
+        "319-888-8044"
+      ],
+      "distance_washington_iowa_miles": 83.3,
+      "cases-involved": []
+    },
+    {
+      "npi": "1720035900",
+      "first_name": "WILLIAM",
+      "last_name": "BURGMAN",
+      "credentials": "M.D.",
+      "address": "2710 SAINT FRANCIS DR, SUITE 411, WATERLOO, IA, 50702",
+      "contact-info": [
+        "319-272-5805"
+      ],
+      "distance_washington_iowa_miles": 85.3,
+      "cases-involved": []
+    },
+    {
+      "npi": "1285130302",
+      "first_name": "SONAM",
+      "last_name": "DODHIA",
+      "credentials": "MD",
+      "address": "2710 SAINT FRANCIS DR STE 411, WATERLOO, IA, 50702-5634",
+      "contact-info": [
+        "319-272-5000",
+        "fax: 319-272-5825"
+      ],
+      "distance_washington_iowa_miles": 85.3,
+      "cases-involved": []
+    },
+    {
+      "npi": "1326097296",
+      "first_name": "MARY SUSAN",
+      "last_name": "PRUZINSKY",
+      "credentials": "MD",
+      "address": "2710 SAINT FRANCIS DR, STE 411, WATERLOO, IA, 50702-5619",
+      "contact-info": [
+        "319-272-5000",
+        "fax: 319-272-5825"
+      ],
+      "distance_washington_iowa_miles": 85.3,
+      "cases-involved": []
+    },
+    {
+      "npi": "1558303222",
+      "first_name": "DOV",
+      "last_name": "ROTENBERG",
+      "credentials": "M.D.",
+      "address": "2710 SAINT FRANCIS DR, SUITE 411, WATERLOO, IA, 50702-5619",
+      "contact-info": [
+        "319-272-5000",
+        "fax: 319-272-5825"
+      ],
+      "distance_washington_iowa_miles": 85.3,
+      "cases-involved": []
+    },
+    {
+      "npi": "1003049115",
+      "first_name": "CASSIE",
+      "last_name": "CARNEY",
+      "credentials": "D.O.",
+      "address": "915 13TH AVE N, CLINTON, IA, 52732-5067",
+      "contact-info": [
+        "563-243-2511"
+      ],
+      "distance_washington_iowa_miles": 87.1,
+      "cases-involved": []
+    },
+    {
+      "npi": "1053320978",
+      "first_name": "D. THANE",
+      "last_name": "CODY (CODY'S LIMITED, PC)",
+      "credentials": "M.D.",
+      "address": "425 S 2ND ST, CLINTON, IA, 52732-4212",
+      "contact-info": [
+        "563-242-5900",
+        "fax: 563-242-5911"
+      ],
+      "distance_washington_iowa_miles": 87.1,
+      "cases-involved": []
+    },
+    {
+      "npi": "1649273772",
+      "first_name": "JAMES",
+      "last_name": "ROEDER",
+      "credentials": "M.D.",
+      "address": "915 13TH AVE N, CLINTON, IA, 52732-5067",
+      "contact-info": [
+        "563-243-2511",
+        "fax: 563-243-0817"
+      ],
+      "distance_washington_iowa_miles": 87.1,
+      "cases-involved": []
+    },
+    {
+      "npi": "1003897554",
+      "first_name": "THOMAS",
+      "last_name": "BENDA",
+      "credentials": "M.D.",
+      "address": "535 CEDAR CROSS ROAD, DUBUQUE, IA, 52003-7704",
+      "contact-info": [
+        "563-588-0506",
+        "fax: 563-588-0451"
+      ],
+      "distance_washington_iowa_miles": 96.9,
+      "cases-involved": []
+    },
+    {
+      "npi": "1235110685",
+      "first_name": "THOMAS",
+      "last_name": "BENDA (DUBUQUE ENT HEAD & NECK SURGERY P.C.)",
+      "credentials": "M.D.",
+      "address": "535 CEDAR CROSS ROAD, DUBUQUE, IA, 52003-7704",
+      "contact-info": [
+        "563-588-0506",
+        "fax: 563-588-0451"
+      ],
+      "distance_washington_iowa_miles": 96.9,
+      "cases-involved": []
+    },
+    {
+      "npi": "1821223165",
+      "first_name": "DANIEL",
+      "last_name": "GIVENS",
+      "credentials": "M.D.",
+      "address": "535 CEDAR CROSS ROAD, DUBUQUE, IA, 52003-7704",
+      "contact-info": [
+        "563-588-0506",
+        "fax: 563-588-0451"
+      ],
+      "distance_washington_iowa_miles": 96.9,
+      "cases-involved": []
+    },
+    {
+      "npi": "1508850678",
+      "first_name": "SCOTT",
+      "last_name": "GRAHAM",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2167",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1326031709",
+      "first_name": "HENRY",
+      "last_name": "HOFFMAN",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2166",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1992106355",
+      "first_name": "MATTHEW",
+      "last_name": "HOFFMAN",
+      "credentials": "M.D.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2201",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1326575333",
+      "first_name": "MEGAN",
+      "last_name": "JENSEN",
+      "credentials": "",
+      "address": "200 HAWKINS DR DEPT OF, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2201",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1154511160",
+      "first_name": "JODI",
+      "last_name": "JONES",
+      "credentials": "M.D.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-1616",
+        "fax: 319-384-6004"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1194718213",
+      "first_name": "RICHARD",
+      "last_name": "SMITH",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-3612",
+        "fax: 319-356-4108"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1124556923",
+      "first_name": "RYAN",
+      "last_name": "SMITH",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR., DEPT. OF OTOLARYNGOLOGY-HEAD & NECK SURGERY, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "864-915-7182"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1346988862",
+      "first_name": "JOHN",
+      "last_name": "ZIEGLER",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    },
+    {
+      "npi": "1417183351",
+      "first_name": "MICHAEL",
+      "last_name": "REED",
+      "credentials": "M.D.",
+      "address": "2615 NORTHGATE DR, IOWA CITY, IA, 52245-9565",
+      "contact-info": [
+        "319-351-5680"
+      ],
+      "distance_washington_iowa_miles": 28.1,
+      "cases-involved": []
+    },
+    {
+      "npi": "1285672428",
+      "first_name": "THOMAS",
+      "last_name": "SIMPSON",
+      "credentials": "M.D.",
+      "address": "2615 NORTHGATE DR, IOWA CITY, IA, 52245-9565",
+      "contact-info": [
+        "319-351-5680",
+        "fax: 319-351-8980"
+      ],
+      "distance_washington_iowa_miles": 28.1,
+      "cases-involved": []
+    },
+    {
+      "npi": "1588634414",
+      "first_name": "DOUGLAS",
+      "last_name": "HENRICH",
+      "credentials": "M.D.",
+      "address": "1225 S GEAR AVE, STE 255, WEST BURLINGTON, IA, 52655-1687",
+      "contact-info": [
+        "319-752-2725",
+        "fax: 319-753-1084"
+      ],
+      "distance_washington_iowa_miles": 42.6,
+      "cases-involved": []
+    },
+    {
+      "npi": "1902864903",
+      "first_name": "HEIDI",
+      "last_name": "CLOSE",
+      "credentials": "MD",
+      "address": "405 MONROE ST, STE A, PELLA, IA, 50219-1189",
+      "contact-info": [
+        "641-628-9500",
+        "fax: 641-628-9701"
+      ],
+      "distance_washington_iowa_miles": 60.5,
+      "cases-involved": []
+    },
+    {
+      "npi": "1205893781",
+      "first_name": "GORDON",
+      "last_name": "JOHNSON",
+      "credentials": "D.O.",
+      "address": "3906 LILLIE AVE., SUITE 1, DAVENPORT, IA, 52806-4432",
+      "contact-info": [
+        "563-391-3309",
+        "fax: 563-391-3630"
+      ],
+      "distance_washington_iowa_miles": 61.1,
+      "cases-involved": []
+    },
+    {
+      "npi": "1467446401",
+      "first_name": "ANN",
+      "last_name": "BELL",
+      "credentials": "MD",
+      "address": "2710 ST FRANCIS DR STE 411, WATERLOO, IA, 50702-5634",
+      "contact-info": [
+        "319-272-5000",
+        "fax: 319-272-5825"
+      ],
+      "distance_washington_iowa_miles": 85.3,
+      "cases-involved": []
+    },
+    {
+      "npi": "1932180486",
+      "first_name": "GREGORY",
+      "last_name": "WHITE",
+      "credentials": "M.D.",
+      "address": "535 CEDAR CROSS ROAD, DUBUQUE, IA, 52003-7704",
+      "contact-info": [
+        "563-588-0506",
+        "fax: 563-588-0451"
+      ],
+      "distance_washington_iowa_miles": 96.9,
+      "cases-involved": []
+    },
+    {
+      "npi": "1043668478",
+      "first_name": "BRADY",
+      "last_name": "ANDERSON",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-384-8277",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": []
+    }
+  ]
+}

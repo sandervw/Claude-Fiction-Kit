@@ -1,0 +1,1173 @@
+Case Number: 22001746.01
+Case Title:  GRUETZMACHER, LUCAS V. JOHN DEERE DAVENPORT WORKS
+Doc Type:    Decision - Deputy
+Source:      Gruetzmacher Lucas-22001746.01D.pdf
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+ 
+ 
+ 
+  : 
+LUCAS GRUETZMACHER, 
+  : 
+ 
+ 
+  :  
+ 
+ File No. 22001746.01 
+ 
+Claimant, 
+  :  
+ 
+ 
+ 
+ 
+  :  
+ 
+ 
+vs. 
+ 
+  :                  
+ 
+ 
+  : 
+JOHN DEERE DAVENPORT WORKS, 
+  : 
+         ARBITRATION DECISION 
+ 
+ 
+  : 
+ 
+Self-Insured 
+  : 
+ 
+Employer, 
+  :     Headnotes: 1100; 1108; 1400; 1401; 
+ 
+Defendant. 
+  :                         1402; 1402.30; 1402.40;  
+ 
+ 
+  :                         1800; 1803;3700 
+ 
+ 
+  : 
+ 
+STATEMENT OF THE CASE 
+ 
+ 
+The claimant, Lucas Gruetzmacher, filed a petition for arbitration seeking workers’ 
+compensation benefits from self-insured employer John Deere Davenport Works (“John 
+Deere”). James Hoffman appeared on behalf of the claimant. Benjamin Patterson 
+appeared on behalf of the defendant.   
+ 
+ 
+The matter came on for hearing on May 8, 2023, before Deputy Workers’ 
+Compensation Commissioner Andrew M. Phillips. Pursuant to an order of the Iowa 
+Workers’ Compensation Commissioner, the hearing occurred electronically via Zoom. 
+The hearing proceeded without significant difficulty.  
+ 
+ 
+Prior to the hearing, both the claimant and the defendant submitted certain 
+motions. Argument on the motions was heard at the outset of the hearing. On April 27, 
+2023, the claimant submitted a motion for leave to file a report after the deadline, or in the 
+alternative a motion to continue. The motion to continue was denied, as the matter was 
+hearing-ready, but for the potential inclusion of a report of a “treating surgeon,” Dr. 
+Hoffman. The motion argued that Dr. Hoffman was on vacation or in surgery, so he could 
+not complete an impairment rating until “approximately May 6.” The claimant requested 
+leave to introduce the physician’s report when received.   
+ 
+ 
+At hearing, the defendant objected to inclusion of the report. Upon oral argument, 
+claimant’s counsel cited to changes made to Iowa Code section 85.39 in July of 2017. 
+Specifically, the claimant alleged that a claimant could not “get paid an IME…until after 
+the defendant…gets their report on percentages or no percent.” Based upon this, the 
+claimant argued that the defendant was “playing a trick on the claimant by waiting till [sic] 
+it’s totally and completely impossible and [sic] allow them only the ability to introduce their 
+rendition of what percentages may apply.” The claimant argued that they attempted to 
+ELECTRONICALLY FILED     2023-Aug-16  12:10:13     DIVISION OF WORKERS' COMPENSATION
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 2 
+ 
+comply with certain deadlines, but could not get the report ahead of the hearing or within 
+the deadlines allowed for by the Hearing Assignment Order.   
+ 
+ 
+The defendant indicated that their objection to the motion was that Dr. Hoffman 
+declared the claimant to have achieved maximum medical improvement (“MMI”) in July 
+of 2022. The defendant argued that Dr. Garrels also assessed an impairment rating of 
+zero percent in July of 2022. The defendant aptly noted that, at any time after July of 
+2022, the claimant could have received an impairment rating pursuant to Iowa Code 
+section 85.39. However, according to the defendant, it was not until April 17, 2023, that 
+the claimant named Dr. Hoffman as a provider who would give an opinion as to permanent 
+impairment.   
+ 
+ 
+876 Iowa Administrative Code 4.19(3)(b) provides the rule for introducing evidence 
+from expert witnesses. While the certification of expert witnesses is not required as it 
+relates to a treating physician, provided all parties are aware of the physician, the reports 
+“are served on opposing parties prior to the date when certification is required.” See 876 
+Iowa Administrative Code 4.19(3)(b). For a claimant, this would be 120 days before the 
+hearing; for a defendant this would be 90 days before the hearing; and for a rebuttal 
+report, this would be 60 days before the hearing. Id. Additionally, 876 Iowa Administrative 
+Code 4.19(3)(c) requires that the parties serve all discovery responses, depositions and 
+reports from independent medical examinations on opposing parties at least 30 days 
+before the hearing. The claimant failed to meet this well-known and well-established 
+deadline. The claimant was declared at MMI and provided with a zero percent impairment 
+rating in July of 2022. The claimant had ample opportunity to obtain an impairment rating 
+prior to the hearing, and failed to do so. The evidence shows that, despite the claimant’s 
+arguments that they were unable to obtain an IME without using the procedures of Iowa 
+Code section 85.39, they would have had seven months in which to obtain an impairment 
+rating and report from Dr. Hoffman (or any doctor of their choosing). I would note that the 
+claimant had their evaluation by Dr. Hoffman in late April of 2023. This is likely inside of 
+the deadlines established in our rules. Also, the provisions of reimbursement for the 
+reasonable costs of an IME, pursuant to Iowa Code section 85.39, were triggered by the 
+zero percent impairment rating issued by Dr. Garrels in July of 2022. To allow the claimant 
+to introduce a report at such a late time, in contravention of well-established and well-
+known rules, would prejudice the defendant. Effectively, the claimant is attempting to do 
+what they accuse the defendant of pursuing, namely, a trial by surprise. Our system is 
+set up to avoid a trial by surprise, and it creates inherent prejudice against one party to 
+allow another to simply disregard the rules and serve a report in contravention of our 
+rules.     
+ 
+The objection was sustained, the motion was denied, and the record was 
+not held open to receive the report of Dr. Hoffman. 
+ 
+ 
+It should be noted that the claimant reiterated their motion in their post-hearing 
+brief. My decision remains the same, and additional evidence from Dr. Hoffman was not 
+received into the record. 
+ 
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 3 
+ 
+ 
+The defendant filed a motion to submit the testimony of Clarissa DeMeyer, a 
+registered nurse who examined and treated the claimant. The defendant argued that Ms. 
+DeMeyer was set to testify in person, but could not make the hearing as she had an ill 
+child. Since she could not attend the hearing, the defendant proposed taking her 
+deposition after the hearing and holding the record open for submission of the deposition 
+testimony. The defendant admitted upon questioning by the undersigned that Ms. 
+DeMeyer was not listed as a testifying witness on the witness and exhibit lists exchanged 
+between the parties on April 10, 2023. The defendant argued that Ms. DeMeyer was a 
+witness that fell under a “catch-all” provision in their witness and exhibit list of “any witness 
+for the purpose of rebuttal and/or impeachment.” (Transcript).   
+ 
+ 
+The claimant objected to the motion, initially simply because their competing 
+motion was denied. After the undersigned noted that their argument should be based in 
+some sort of substance rather than simply “tit-for-tat,” the claimant presented an argument 
+for their objection. The claimant argued that Ms. DeMeyer was not listed as a witness on 
+the witness and exhibit lists exchanged by the parties ahead of the hearing, and therefore, 
+her deposition should not be included in the record.  
+  
+ 
+876 Iowa Administrative Code 4.19(3)(d) provides that, “[a]t least 30 days before 
+hearing, counsel of record….shall serve a witness and exhibit list on all opposing 
+counsel…and exchange all intended exhibits that were not previously required to be 
+served.”  The witness list should contain “all persons, except the claimant, who will be 
+called to testify at the hearing or who will be deposed prior to the hearing in lieu of 
+testifying at the hearing.” See 876 Iowa Administrative Code 4.19(3)(d). The rule is 
+specific in requiring the witness list to contain “all persons” expected to testify at the 
+hearing, or to be deposed prior to the hearing. Much like my ruling on the previous motion, 
+this ruling is to protect the claimant from a “trial by surprise.” While the claimant would 
+have had the opportunity to cross-examine the witness, the late disclosure of the witness 
+is the issue here. The defendant had access to the medical records and could have 
+named Ms. DeMeyer on their witness and exhibit list.  Additionally, the argument that Ms. 
+DeMeyer is a rebuttal witness when no testimony had been elicited to which she may 
+rebut strains credulity.  
+ 
+The motion was denied, the objection was sustained, and the record was not held 
+open for submission of testimony via deposition. 
+ 
+ 
+Considering the foregoing, the record in this case consists of Claimant’s Exhibit 1 
+and Defendant’s Exhibits A-J. All of the exhibits were received into evidence without 
+objection. 
+ 
+ 
+The claimant testified on his own behalf. Ricky Garrels, M.D. and Eddie Austin 
+testified on behalf of the defendant.   
+ 
+ 
+Heidi Krafka was appointed the official reporter and custodian of the notes of the 
+proceeding. The evidentiary record closed at the end of the hearing, and the matter was 
+fully submitted after the parties submitted post-hearing briefs on June 12, 2023.    
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 4 
+ 
+ 
+STIPULATIONS 
+ 
+ 
+Through the hearing report, as reviewed at the commencement of the hearing, the 
+parties stipulated and/or established the following: 
+ 
+1. There was an employer-employee relationship at the time of the alleged injury.   
+ 
+2. That the claimant sustained an injury to his left shoulder, which arose out of, 
+and in the course of employment on November 29, 2021.   
+ 
+3. That the alleged injury was a cause of temporary disability during a period of 
+recovery.   
+ 
+4. That, at the time of the hearing, the claimant’s gross earnings were eight 
+hundred forty-three and 60/100 dollars ($843.60) per week, and that the 
+claimant was single and entitled to three exemptions. Based upon the 
+foregoing, the parties stipulated that the weekly compensation rate is five 
+hundred fifty-three and 46/100 dollars ($553.46).   
+ 
+5. Under section 10, “Additional Issues, Stipulations, and/or Explanation”, the 
+parties stipulated as follows: 
+ 
+a. 
+That the defendant paid claimant two weeks of temporary total disability 
+benefits from February 7, 2022 to February 20, 2022, at the stipulated 
+rate. 
+ 
+b. 
+That the defendant paid claimant one week of temporary partial disability 
+benefits from February 21, 2022 to February 27, 2022, in the amount of 
+two hundred forty-five and 07/100 dollars ($245.07).  
+  
+c. 
+That the defendant paid a total of eleven thousand nine hundred 
+seventeen and 33/100 dollars ($11,917.33) to claimant’s medical 
+providers. 
+ 
+d. 
+That the defendant paid a total of two thousand six hundred ten and 
+30/100 dollars ($2,610.30) in transportation costs.  
+  
+ 
+Entitlement to temporary disability and/or healing period benefits was no longer in 
+dispute. Credits against any award are no longer in dispute as the defendant paid no 
+weekly benefits to date. The defendant waived most of their affirmative defenses.  
+ 
+ 
+The parties are now bound by their stipulations. 
+ 
+ 
+ 
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 5 
+ 
+ISSUES 
+ 
+The parties submitted the following issues for determination: 
+ 
+1. Whether the claimant sustained an injury to his right shoulder on November 29, 
+2021, that arose out of and in the course of his employment with the defendant.   
+ 
+2. Whether the alleged injury is a cause of permanent disability.  
+ 
+3. Whether the injury is an industrial disability.   
+  
+4. The proper commencement date for permanent partial disability benefits, 
+should any be awarded.     
+ 
+5. Whether the claimant is entitled to reimbursement for an IME pursuant to Iowa 
+Code section 85.39.     
+ 
+6. Whether the claimant is entitled to a specific taxation of costs, and the amount 
+of those costs.   
+ 
+7. Whether the defendant has proven their affirmative defense that the claimant 
+did not provide timely notice of a right shoulder injury pursuant to Iowa Code 
+section 85.23.   
+ 
+FINDINGS OF FACT 
+ 
+ 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+ 
+ 
+Lucas Gruetzmacher, the claimant, was 27 years old at the time of the hearing. 
+(Testimony). He graduated from high school in 2012. (Defendant’s Exhibit F:40). He then 
+attended and earned a bachelor's degree from St. Ambrose University in 2021. (DE F:40). 
+Mr. Gruetzmacher works for John Deere. (Testimony). At the time of the hearing, he had 
+worked there for five years. (Testimony).   
+ 
+ 
+On November 29, 2021, while at work for John Deere, Mr. Gruetzmacher testified 
+that he pulled an improperly placed 94.5-pound bumper for a loader frame towards him 
+in order to place a lifting device on it. (Testimony). As he did this, he claims that both of 
+his shoulders “popped.” (Testimony). After feeling his shoulders pop, he “lost all strength 
+in both shoulders” and experienced a burning sensation with numbness in his left arm. 
+(Testimony). Mr. Gruetzmacher testified that he told his supervisor, Eddie Austin, that he 
+injured both of his shoulders, did not have any strength in either arm, and could not 
+continue to work. (Testimony).   
+ 
+ 
+After Mr. Austin took the claimant’s injury report, he was sent to the onsite medical 
+providers at John Deere on November 30, 2021. (Testimony; DE B:20-21). Mr. 
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 6 
+ 
+Gruetzmacher complained of dull left shoulder pain at rest, and sharp left shoulder pain 
+with activity. (DE B:20). He recounted how his injury occurred, including mentioning a pop 
+in the left shoulder followed by burning, weakness, and numbness in his left shoulder. 
+(DE B:21). Mr. Gruetzmacher told Ms. DeMeyer that the injury happened on November 
+29, 2021, at about 7:00 p.m., but that he did not report it at the time. (DE B:21). Instead, 
+the claimant went to his chiropractor, but found that his symptoms worsened. (DE B:21). 
+Dr. Garrels provided the claimant with restrictions and an order for physical therapy. (DE 
+B:21).     
+ 
+ 
+An incident report was filled out and signed by the claimant on November 30, 2021. 
+(DE B:11). The incident report recounted the claimant pulling a bumper towards himself 
+when he felt a pop in his left shoulder followed by burning, numbness, and weakness in 
+that shoulder. (DE B:11). At the time the report was filled out, the left shoulder had a dull 
+ache at rest, and a sharp pain with activity. (DE B:11). The pain diagram showed marks 
+to the front of the left shoulder, and nowhere else on the body. (DE B:11). Mr. 
+Gruetzmacher noted a previous injury to his right shoulder, and that he played football. 
+(DE B:11). Mr. Gruetzmacher testified that Mr. Austin filled out the form and reviewed it 
+with him prior to his signing it. (Testimony).   
+ 
+ 
+There also was an A3 Accident Investigation Form completed by John Deere on 
+November 30, 2021 and December 1, 2021. (DE C:22-23). The form outlined the incident, 
+made no mention of the right shoulder, and provided potential corrective actions to 
+prevent reoccurrence of a similar incident. (DE C:22-23).   
+ 
+ 
+On December 3, 2021, Mr. Gruetzmacher began physical therapy at John Deere’s 
+on-site facility with Beth Bryant, P.T. (DE B:19-20). The claimant recounted feeling a pop 
+in his left shoulder followed by sharp pain and burning in his left arm. (DE B:19). He had 
+no change in his symptoms despite working restricted duty. (DE B:19). At the time of 
+therapy, his symptoms were localized to his left shoulder, and were aggravated by 
+“everything.” (DE B:20). He rated his pain between 4 out of 10 and 7 out of 10. (DE B:20). 
+Mr. Gruetzmacher found that holding his arm in a “supported, close-packed position,” to 
+be best. (DE B:20). Upon examination, the claimant showed symptoms at the site of the 
+attachment of the rotator cuff. (DE B:20). The record made no mention of any issue with 
+his right arm. (DE B:19-20).   
+ 
+ 
+Mary Huesmann, N.P. examined the claimant on-site at John Deere on December 
+6, 2021. (DE B:18-19). Mr. Gruetzmacher reported that his symptoms were unchanged. 
+(DE B:18). He displayed normal sensation in the left fingers and hand, but had pain if he 
+laid on his left shoulder for a long time. (DE B:19). He took ibuprofen to alleviate the pain. 
+(DE B:19). Mr. Gruetzmacher told the provider that he experienced decreased strength 
+and decreased stability in his left arm and shoulder. (DE B:19). The provider verified these 
+complaints through testing during the appointment. (DE B:19). He showed no pain during 
+certain bilateral shoulder testing. (DE B:19). Again, there was no mention of any right arm 
+issues. (DE B:18-19). The provider noted that an MRI arthrogram of the left shoulder was 
+in the process of being scheduled. (DE B:19). A subsequent note in the record indicates 
+that an MRI was scheduled for December 15, 2021. (DE B:18).   
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 7 
+ 
+ 
+ 
+Michelle Whiteside, P.T. saw Mr. Gruetzmacher for another physical therapy 
+appointment at John Deere on December 7, 2021. (DE B:17-18). The claimant showed 
+the therapist where his pain began, which was the left long head of the biceps tendon 
+origin. (DE B:17). Mr. Gruetzmacher opined that it felt “like it rolled on left” which caused 
+him to guard his left upper extremity. (DE B:17). Mr. Gruetzmacher found that kinesiotape 
+provided during his previous therapy visit helped support his left shoulder. (DE B:18). The 
+therapist opined that the claimant had left shoulder pain with increased pain with O’Brien’s 
+testing of a labral lesion. (DE B:18). Ms. Whiteside found the claimant to have “AROM” 
+and strength within functional limits. (DE B:18). There was no mention of right arm issues 
+in the record. (DE B:17-18).  
+    
+ 
+Mr. Gruetzmacher saw Ms. Whiteside for another physical therapy appointment on 
+December 9, 2021. (DE B:17). Ms. Whiteside found that the claimant had no reported 
+pain during passive range of motion in all planes for the left shoulder. (DE B:17). There 
+was no mention of a right shoulder injury, or right shoulder pain in the medical record. 
+(DE B:17).   
+ 
+ 
+Dr. Garrels visited with Mr. Gruetzmacher on December 15, 2021, following his 
+MRI. (DE B:21a-b). Dr. Garrels is an employee of UnityPoint Health. (Testimony).   
+ 
+UnityPoint has a contractual relationship with John Deere to provide medical 
+services to their employees at an onsite clinic. (Testimony). Dr. Garrels is board certified 
+in occupational medicine. (DE I:47). Dr. Garrels diagnosed the claimant with a SLAP tear 
+of the left shoulder. (DE B:21b). He recommended conservative treatment, but also made 
+an orthopedic referral for the claimant. (DE B:21b). 
+ 
+An MRI performed on the same date showed minimal insertional tendinopathy of 
+the intact inserting supraspinatus tendon. (Claimant’s Exhibit 1:3). It also showed a 
+“[p]rominent superior labral tear extending through the superior half of the anterior labral 
+segment and the superior half of the posterior labral segment.” (CE 1:3).   
+ 
+On January 18, 2022, the claimant reported to the offices of John Hoffman, M.D., 
+at Orthopaedic Specialists. (DE D:24-25). Mr. Gruetzmacher relayed the history of his 
+shoulder issue and work injury on November 29, 2021. (DE D:24). The history portion of 
+the medical record contains no mention of the claimant’s alleged right shoulder issue. (DE 
+D:24). Mr. Gruetzmacher complained of dull and achy pain in the anterior aspect of his 
+left shoulder. (DE D:24). He rated this pain 7 to 8 out of 10 at its worst. (DE D:24). Mr. 
+Gruetzmacher indicated that physical therapy at work provided him with little 
+improvement. (DE D:24). Upon physical examination, no issues were noted with the right 
+shoulder. (DE D:25). The left shoulder had normal, but painful range of motion. (DE D:25). 
+X-rays of the left shoulder were normal, but when Dr. Hoffman reviewed the MRI, he found 
+tendinosis of the rotator cuff along with a large anterior to posterior labral tear with a SLAP 
+tear. (DE D:25). Dr. Hoffman placed the claimant on one-handed work duty with no use 
+of the left upper extremity. (DE D:25). Dr. Hoffman recommended that the claimant have 
+surgery. (DE D:25).   
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 8 
+ 
+ 
+          Dr. Hoffman performed a left shoulder surgery on the claimant on February 9, 2022. 
+(CE 1:4). He performed a left shoulder debridement of labrum, biceps tenodesis, and 
+arthroscopic shoulder decompression. (CE 1:4). Dr. Hoffman’s postoperative diagnoses 
+was left shoulder superior labrum anterior and posterior lesion, biceps tendinosis, and 
+impingement syndrome. (CE 1:4).   
+ 
+On February 11, 2022, the claimant had post-surgical therapy visit with Dr. 
+Hoffman’s office. (DE D:26). He reported soreness since the surgery but rated his pain 3 
+out of 10 during the visit and 8 out of 10 at its worst. (DE D:26). The examiner noted some 
+issues with range of motion, and that they did not formally test the claimant’s strength. 
+(DE D:26).   
+ 
+ 
+Dr. Hoffman examined the claimant on April 19, 2022, for a post-surgical 
+examination. (DE D:27). Mr. Gruetzmacher told the doctor that he had mild pain and was 
+no longer taking pain medication. (DE D:27). Dr. Hoffman found that the claimant was 
+improving with physical therapy and recommended that he continue the same. (DE D:27). 
+Dr. Hoffman allowed the claimant to return to light duty work with restrictions including 
+lifting 20 pounds to waist level, 10 pounds to chest level, and limited overhead work with 
+the left shoulder. (DE D:27). Again, there was no mention of right shoulder issues. (DE 
+D:27).   
+ 
+ 
+On May 17, 2022, Mr. Gruetzmacher returned to Dr. Hoffman’s office. (DE D:28-
+29). He denied any pain, stiffness, numbness, or tingling in his left shoulder, and he 
+continued to attend physical therapy. (DE D:28). The claimant again made no report of 
+right shoulder issues. (DE D:28-29). He also had no tenderness to his right shoulder on 
+physical examination. (DE D:29). Dr. Hoffman observed Mr. Gruetzmacher to have diffuse 
+tenderness to the left shoulder; however, he had normal and pain-free active and passive 
+range of motion. (DE D:29). Dr. Hoffman increased the claimant’s restrictions by allowing 
+him to lift up to 30 pounds to waist level, 15 pounds to chest level, and 10 pounds 
+overhead with the left shoulder. (DE D:29). Again, there was no mention of any right 
+shoulder issues. (DE D:29).   
+ 
+ 
+The claimant had another follow-up with Dr. Hoffman on June 23, 2022. (DE D:30-
+32). He again denied any pain, stiffness, numbness, or tingling. (DE D:30). He recovered 
+well from his surgery and felt he was “ready to go to full duty work.” (DE D:30). 
+Accordingly, Dr. Hoffman returned the claimant to full duty work without restrictions. (DE 
+D:30). Again, there was no mention of right shoulder issues. (DE D:30-32).   
+ 
+ 
+On June 23, 2022, Michael Matson, A.R.N.P. visited with Mr. Gruetzmacher as a 
+follow-up on his left shoulder issues. (DE B:16). The claimant noted that he completed 
+physical therapy following his surgery, that he was “doing well” and that surgery “fixed his 
+problem.” (DE B:16). He was released to work without restrictions by “his surgeon.” (DE 
+B:16). Mr. Matson observed that the claimant’s left shoulder had full range of motion and 
+excellent strength. (DE B:16). Mr. Matson allowed the claimant to return to work without 
+restrictions. (DE B:16).   
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 9 
+ 
+ 
+ 
+Dr. Garrels examined Mr. Gruetzmacher on July 5, 2022, at John Deere. (DE B:14-
+15). He noted Dr. Hoffman’s release of the claimant to full duty, and that the claimant had 
+no active complaints. (DE B:14). Dr. Garrels clarified that the meaning of “no active 
+complaints” in the July 5, 2022, medical record, would include any complaints to the left 
+or right shoulder. (Testimony). Dr. Garrels found the claimant to have full range of motion 
+in his left shoulder and rated his strength 5 out of 5. (DE B:14). Dr. Garrels opined that 
+the claimant achieved MMI. Dr. Garrels also noted that he would have tested both 
+shoulders for range of motion and strength, as he compared the left shoulder 
+measurements to the right shoulder measurements, and vice versa. (Testimony). Dr. 
+Garrels used the AMA Guides to the Evaluation of Permanent Impairment, Fifth Edition, 
+to provide the claimant with a zero percent left upper extremity impairment rating based 
+upon Figures 16-40, 16-43, 16-46, and Table 16-35. (DE B:15). Dr. Garrels elaborated 
+on his impairment rating, including that his rating was based “pretty much [on] motion,” 
+and potentially strength. (Testimony). Dr. Garrels also testified that he did not touch the 
+claimant in performing his range of motion measurements. (Testimony). The claimant 
+contradicted this on rebuttal testimony in claiming that Dr. Garrels “physically 
+manipulated” him during the evaluation. (Testimony).   
+ 
+ 
+The claimant testified that Dr. Garrels’ note that he had full range of motion in his 
+shoulder was not correct. (Testimony). He indicated that he only had full range of motion 
+in his shoulder when the doctor exerted significant pressure on his shoulder and made 
+him cry due to the pain. (Testimony). Dr. Garrels contradicted this insofar as he noted 
+that the claimant had no pain behavior. (Testimony). According to Dr. Garrels, this means 
+that he did not observe the claimant crying. (Testimony). He would have documented any 
+crying or pain behaviors had the claimant exhibited the same. (Testimony). On rebuttal, 
+the claimant testified that he cried in front of Dr. Garrels due to his pain, and that he cried 
+after the appointment. (Testimony).   
+ 
+ 
+On July 19, 2022, Dr. Hoffman visited with Mr. Gruetzmacher again. (DE D:33-35). 
+Mr. Gruetzmacher noted that he was disqualified from welding work due to his being 
+unable to hold or lift the welding whip. (DE D:33). Mr. Gruetzmacher had minimal pain in 
+the left shoulder, and moderate pain with pushing, pulling, overhead lifting, and reaching. 
+(DE D:33). Upon examination, both shoulders were found to be normal, pain-free, and 
+had normal range of motion. (DE D:33-34). There were no issues in the right shoulder 
+noted. (DE D:34). Dr. Hoffman opined that the claimant had “done well with his left 
+shoulder.” (DE D:34). Mr. Gruetzmacher felt that he could pass the welding test, but noted 
+the downgrade in his employment from welder. (DE D:34). Dr. Hoffman placed the 
+claimant at MMI as of this visit. (DE B:34-35). Dr. Hoffman noted that an impairment rating 
+would follow if requested. (DE B:35).   
+ 
+ 
+Amy Mitton, L.P.N. examined the claimant on July 22, 2022. (DE B:14). Mr. 
+Gruetzmacher complained of right shoulder pain claiming an original date of injury in 
+November of 2021. (DE B:14). Mr. Gruetzmacher claimed that he injured his right 
+shoulder when he injured his left shoulder. (DE B:14). Dr. Garrels then examined the 
+claimant. (DE B:13-14). Dr. Garrels documented that the claimant told him that his right 
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 10 
+ 
+shoulder developed a popping sensation during high school. (DE B:13). Dr. Garrels 
+documented that Mr. Gruetzmacher told Ms. DeMeyer that he had a prior right shoulder 
+condition. (DE B:13). Dr. Garrels found the claimant to have full range of motion and no 
+pain behavior in his right shoulder.  (DE B:13).  Based upon his examination, Dr. Garrels 
+concluded that the claimant’s right shoulder issues were not related to his work, and 
+specifically not related to the November 29, 2021, injury. (DE B:13).   
+ 
+ 
+Dr. Garrels also provided testimony as to the July 22, 2022, visit. (Testimony). He 
+noted that the claimant presented with right shoulder issues, that he was attempting to 
+connect to the original injury. (Testimony). In response to this, Dr. Garrels reviewed the 
+documentation from the original reporting of the injury with his staff. (Testimony). They 
+concluded that there was no report of a right shoulder injury at the time of the initial 
+examination. (Testimony). This included reviewing the initial incident report from 
+November 30, 2021. (Testimony). Dr. Garrels testified that this was the first mention of 
+right shoulder pain connected to a work injury on November 29, 2021, that he was aware 
+of. (Testimony). He also noted his conclusion that the right shoulder was not a work-
+related issue. (Testimony). Dr. Garrels recalled the claimant outlining a previous injury to 
+his right shoulder. (Testimony). This included development of a popping sensation dating 
+back to his time in high school. (Testimony).   
+ 
+ 
+Counsel for the defendant drafted an e-mail to counsel for the claimant on August 
+6, 2022, indicating that John Deere would not be paying any permanent partial disability 
+benefits for the claimant’s right shoulder injury. (DE E:36-37). They indicated that this 
+denial was based in the opinions of Dr. Garrels. (DE E:36-37). In the same e-mail, John 
+Deere denied the claimant’s right shoulder pain based upon the terms of Iowa Code 
+section 85.23. (DE E:36).   
+ 
+ 
+On September 23, 2022, Sunil Bansal, M.D., M.P.H. examined the claimant for the 
+purposes of an IME. (CE 1:1-9). The IME with Dr. Bansal was arranged at the behest of 
+claimant’s counsel. Dr. Bansal is board certified in occupational medicine. (CE 1:1). Dr. 
+Bansal interviewed Mr. Gruetzmacher about his version of events surrounding his work 
+injury. (CE 1:5). Mr. Gruetzmacher’s description was generally consistent with the 
+previous versions noted; however, he told Dr. Bansal that he experienced a burning pain 
+in his right shoulder when he pulled the part in addition to the left shoulder issues. (CE 
+1:5). Mr. Gruetzmacher claimed to Dr. Bansal that he reported injuries to both shoulders 
+to John Deere. (CE 1:5). Mr. Gruetzmacher told Dr. Bansal that his right shoulder and 
+arm worsened over time and that he was told by the orthopedic surgeon that his shoulders 
+would be addressed one at a time. (CE 1:5).   
+ 
+ 
+Dr. Bansal observed that Mr. Gruetzmacher could lift his right arm overhead, but 
+that he could not lift a gallon of milk with his right arm. (CE 1:5). He also could not reach 
+behind him with his right arm. (CE 1:5). Mr. Gruetzmacher complained of pain in his left 
+shoulder while sleeping, though he acknowledged that the surgery greatly helped his left 
+shoulder. (CE 1:5). Mr. Gruetzmacher told Dr. Bansal that he could still lift with his left 
+arm, but that he could not lift for a long time. (CE 1:5).   
+ 
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 11 
+ 
+ 
+Upon physical examination, Dr. Bansal observed that the claimant had diffuse 
+tenderness to palpation in the right shoulder. (CE 1:6). He displayed range of motion as 
+follows in the right arm: 
+ 
+Flexion: 
+ 
+168 degrees 
+Abduction: 
+ 
+143 degrees 
+Adduction:   
+46 degrees 
+External Rotation: 52 degrees 
+Extension: 
+ 
+41 degrees 
+Internal Rotation: 
+40 degrees 
+ 
+(CE 1:6).  
+ 
+ 
+His left arm displayed tenderness to palpation, especially at the acromioclavicular 
+joint. (CE 1:6). Dr. Bansal observed that the claimant had a full range of motion in his left 
+shoulder but had a 10 percent loss of strength with elbow flexion. (CE 1:6). Dr. Bansal 
+observed the following ranges of motion in the claimant’s left shoulder: 
+ 
+ 
+Flexion: 
+ 
+173 degrees 
+ 
+Abduction: 
+ 
+162 degrees 
+ 
+Adduction: 
+ 
+47 degrees 
+ 
+External Rotation: 75 degrees 
+ 
+Extension: 
+ 
+43 degrees 
+ 
+Internal Rotation: 
+56 degrees 
+ 
+(CE 1:6-7).   
+ 
+ 
+Mr. Gruetzmacher also displayed positive impingement tests to the right and left 
+shoulders. (CE 1:6-7). Dr. Bansal repeated the diagnoses of Dr. Hoffman with regard to 
+the claimant’s left shoulder. (CE 1:7). He then diagnosed the claimant’s right shoulder 
+with a right shoulder strain, “with symptoms characteristic of rotator cuff and/or labral 
+pathology.” (CE 1:8). Dr. Bansal recommended that the claimant have an MRI of the right 
+shoulder for further diagnosis. (CE 1:8). Dr. Bansal opined that the work incident on 
+November 29, 2021, caused injuries to both of the claimant’s shoulders. (CE 1:8). Dr. 
+Bansal then used Figures 16-40 through 16-46 of the Guides to provide an impairment 
+rating based upon the range of motion measurements provided above. (CE 1:8-9). Based 
+upon these measurements, Dr. Bansal provided the claimant with a five percent upper 
+extremity impairment to the left shoulder. (CE 1:9). According to the doctor, this rating 
+amounts to a two percent impairment of the body as a whole. (CE 1:9). Dr. Bansal then 
+provided an impairment rating of two percent of the upper extremity or one percent of the 
+whole person based upon Table 17-35 of the Guides for the left biceps tendinopathy. (CE 
+1:9). For the range of motion issues found in the right shoulder, Dr. Bansal again used 
+Figures 16-40 through 16-46 of the Guides to provide an eight percent upper extremity 
+impairment for the right shoulder. (CE 1:9). This amounts to a five percent whole body 
+impairment according to Dr. Bansal. (CE 1:9).   
+ 
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 12 
+ 
+ 
+Mr. Gruetzmacher testified that he saw Dr. Hoffman in late April of 2023, and that 
+Dr. Hoffman recommended that the claimant have surgery to his right shoulder or arm. 
+(Testimony).   
+ 
+ 
+Mr. Gruetzmacher testified that he told the intake nurse, Clarissa DeMeyer, that 
+he had issues with both of his shoulders. (Testimony). Mr. Gruetzmacher stated that the 
+nurse indicated that only one shoulder would be treated at a time, and that they would 
+begin by concentrating on his left shoulder. (Testimony). Mr. Gruetzmacher testified that 
+in subsequent appointments with Ms. DeMeyer, Dr. Hoffman, and Dr. Garrels, he asked 
+when treatment for his right shoulder would commence. (Testimony). He testified that 
+“[t]hey always kept telling me, let’s [sic] take care of the left first.” (Testimony). Dr. Garrels 
+contradicted the claimant’s testimony in noting that he would have recorded any right 
+shoulder issues in the medical record, had Mr. Gruetzmacher mentioned them. 
+(Testimony). He also testified that he would have provided treatment for the claimant’s 
+right shoulder had it been mentioned. (Testimony).   
+ 
+ 
+Eddie Austin testified on behalf of the defendant. (Testimony). He is a team leader 
+at John Deere, which essentially functions as a supervisor. (Testimony). He has been at 
+John Deere for just over four years. (Testimony). As a team leader, Mr. Austin was 
+available with the reporting requirements for work injuries. (Testimony). Among these 
+requirements is to immediately report the injury to their supervisor. (Testimony).   
+Following a report of injury, the individual is sent to the on-site medical clinic.  (Testimony).  
+Before the end of that day’s shift, the team leader would fill out an “Accident Investigation 
+Report,” which is turned into the safety department. (Testimony).   
+ 
+ 
+Mr. Austin recalled that the claimant told him that he hurt his left shoulder on 
+November 29, 2021, after pulling a part. (Testimony). He did not recall any mention of the 
+right shoulder. (Testimony). During the hearing, he reviewed the “Accident Investigation 
+Report,” and reviewed portions mentioning an acute sprain or strain to the left shoulder. 
+(Testimony). In filling out the documentation, Mr. Austin reviewed the report with the 
+claimant. (Testimony). Mr. Austin testified that this information was obtained from the 
+claimant and from the medical team. (Testimony). He agreed that, had Mr. Gruetzmacher 
+mentioned his right shoulder, it would have been included in the report. (Testimony).   
+ 
+ 
+Dr. Garrels testified that he recalled treating the claimant for a shoulder injury, and 
+that “it was a pretty uneventful case.” (Testimony). He noted specifically that the claimant 
+only had one shoulder injury. (Testimony). He recalled seeing the claimant and referring 
+him to an orthopedic surgeon ahead of a surgery. (Testimony). Dr. Garrels also recounted 
+his final visit with Mr. Gruetzmacher in which he cleared the claimant to work following 
+the surgery. (Testimony).   
+ 
+ 
+The claimant testified to pain in his right shoulder when he moved his right arm 
+above his head or outward from his body. (Testimony). He also noted an inability to 
+support weight for a long period of time on the right side. (Testimony). By way of example, 
+he testified to an inability to carry his one-year-old son, who weighed over 30 pounds. 
+(Testimony). He also noted that he could not throw a ball with his right hand. (Testimony).   
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 13 
+ 
+ 
+ 
+At the time of the hearing, Mr. Gruetzmacher testified to limitation in the range of 
+motion in his left shoulder. (Testimony). He noted an inability to do everything he would 
+want to do in playing with his children, nor could he play instruments, or play with his 
+dogs. (Testimony). Mr. Gruetzmacher enjoyed riding his motorcycle, but could no longer 
+do so after the left shoulder injury. (Testimony).   
+ 
+ 
+With regard to his position at John Deere, the claimant testified that he could no 
+longer weld, as he could not control the “30-pound whip” for long enough periods of time. 
+(Testimony). Since he was incapable of welding, the claimant was working in fabrication 
+and cutting of sheet steel for John Deere. (Testimony). This position paid about two and 
+50/100 dollars ($2.50) less per hour than his position as a welder. (Testimony). He also 
+testified to an inability to work overtime. (Testimony).   
+ 
+CONCLUSIONS OF LAW 
+ 
+ 
+The party who would suffer loss, if an issue were not established, has the burden 
+of proving that issue by a preponderance of the evidence. Iowa Rule of Appellate 
+Procedure 6.904(3).   
+ 
+Right Shoulder Injury 
+ 
+ 
+The parties previously agreed that the claimant’s left shoulder injury arose out of, 
+and in the course of his employment with John Deere. There is a dispute as to the 
+claimant’s alleged right shoulder injury. Before addressing the defendant’s claimed 
+affirmative defense, it is appropriate to first determine whether the alleged injury arose 
+out of, and in the course of employment on November 29, 2021.  
+  
+ 
+To receive workers’ compensation benefits, an injured employee must prove, by a 
+preponderance of the evidence, that the employee’s injuries arose out of, and in the 
+course of the employee’s employment with the employer. 2800 Corp. v. Fernandez, 528 
+N.W.2d 124, 128 (Iowa 1995). The words “arising out of” referred to the cause or source 
+of the injury. The words “in the course of” refer to the time, place and circumstances of 
+the injury. Id. An injury arises out of employment when a causal relationship exists 
+between the employment and the injury. Quaker Oats v. Ciha, 552 N.W.2d 143, 151 (Iowa 
+1996). The injury must be a rational consequence of a hazard connected with the 
+employment and not merely incidental to the employment. Koehler Elec. v. Willis, 608 
+N.W.2d 1, 3 (Iowa 2000). The Iowa Supreme Court has held that an injury occurs “in the 
+course of employment” when:  
+ 
+it is within the period of employment at a place where the employee 
+reasonably may be in performing his duties, and while he is fulfilling those 
+duties or engaged in doing something incidental thereto. An injury in the 
+course of employment embraces all injuries received while employed in 
+furthering the employer’s business and injuries received on the employer’s 
+premises, provided that the employee’s presence must ordinarily be 
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 14 
+ 
+required at the place of the injury, or, if not so required, employee’s 
+departure from the usual place of employment must not amount to an 
+abandonment of employment or be an act wholly foreign to his usual work. 
+An employee does not cease to be in the course of his employment merely 
+because he is not actually engaged in doing some specifically prescribed 
+task, if, in the course of his employment, he does some act which he deems 
+necessary for the benefit or interest of his employer.    
+ 
+Farmers Elevator Co. v. Manning, 286 N.W.2d 174, 177 (Iowa 1979). 
+    
+ 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based. A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause. A preponderance of the evidence exists when the causal connection is probable, 
+rather than merely possible. George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996).    
+ 
+ 
+The question of medical causation is “essentially within the domain of expert 
+testimony.” Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 844-45 (Iowa 
+2011). The commissioner, as the trier of fact, must “weigh the evidence and measure the 
+credibility of witnesses.” Id. The trier of fact may accept or reject expert testimony, even 
+if uncontroverted, in whole or in part. Frye, 569 N.W.2d at 156. When considering the 
+weight of an expert opinion, the fact-finder may consider whether the examination 
+occurred shortly after the claimant was injured, the compensation arrangement, the 
+nature and extent of the examination, the expert’s education, experience, training, and 
+practice, and “all other factors which bear upon the weight and value” of the opinion. 
+Rockwell Graphic Sys., Inc. v. Prince, 366 N.W.2d 187, 192 (Iowa 1985). Unrebutted 
+expert medical testimony cannot be summarily rejected. Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910 (Iowa App. 1994). Supportive lay testimony may be used 
+to buttress expert testimony, and therefore is also relevant and material to the causation 
+question.    
+ 
+ 
+Iowa employers take an employee subject to any active or dormant health 
+problems and must exercise care to avoid injury to both the weak and infirm and the 
+strong and healthy. Hanson v. Dickinson, 188 Iowa 728, 176 N.W. 823 (1920). While a 
+claimant must show that the injury proximately caused the medical condition sought to be 
+compensable, it is well established that a cause is “proximate” when it is a substantial 
+factor, or even the primary or most substantial cause to be compensable under the Iowa 
+workers’ compensation system. Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 
+1994); Blacksmith v. All-American, Inc., 290 N.W.2d 348 (Iowa 1980).  
+   
+ 
+The claimant testified that he injured both of his shoulders during the November 
+29, 2021, incident. He further testified that he told a number of providers about his right 
+shoulder injury, but that he was told that they would treat one shoulder at a time. 
+Therefore, he claims that he was told that his right shoulder would be treated after his left 
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 15 
+ 
+shoulder. He also points to Dr. Bansal’s report. However, Dr. Bansal relied solely on the 
+history provided by the claimant as to his right shoulder issues. While Dr. Bansal’s 
+examination showed some limited range of motion issues, his causation analysis and 
+history was based entirely upon a subjective report from the claimant.   
+ 
+ 
+The defendant points to several key pieces of evidence. First, the incident report 
+filled out by John Deere and assented to by Mr. Gruetzmacher makes no mention of a 
+right shoulder injury as part of the November 29, 2021, work incident. A body diagram on 
+the injury report shows only pain to the left shoulder. Mr. Gruetzmacher attempts to 
+explain this away by indicating that someone else filled out the form and he only signed 
+it. If Mr. Gruetzmacher wanted his right shoulder to be mentioned, it appears that he would 
+have been free to correct the report based upon Mr. Austin’s testimony that he reviewed 
+the report with the claimant. In fact, the report indicates that Mr. Gruetzmacher had a prior 
+right shoulder injury, and that he played football. Additionally, Mr. Austin testified credibly 
+that he could recall no mention of an injury to the claimant’s right shoulder.   
+ 
+ 
+Following his initial appointments, there is no mention of right arm issues 
+throughout his treatment for his left shoulder. In fact, Dr. Hoffman, who is a doctor not 
+located on-site with John Deere, examined both shoulders and continually found no 
+tenderness to the claimant’s right shoulder. Dr. Hoffman’s records are also silent as to 
+any history of a right shoulder injury dating to November 29, 2021.   
+ 
+ 
+It was not until July 22, 2022, that any record notes a right shoulder issue allegedly 
+related to the November 29, 2021, work injury. In response to this, Dr. Garrels spoke to 
+his staff and reviewed documentation to determine whether a right shoulder injury was 
+previously mentioned. He found none. Dr. Garrels concluded that the right shoulder issue 
+presented on this date was not the result of a work injury.   
+ 
+ 
+The claimant’s testimony on this issue is also not entirely credible, when the weight 
+of the evidence is overwhelmingly against his testimony. The claimant testifies that he 
+told the providers that he was having right shoulder injuries; however, the records are 
+silent as to any right shoulder issues related to the November 29, 2021, work incident 
+until July 22, 2022, and Dr. Bansal’s examination. There is no credible explanation as to 
+why the medical records of multiple medical providers are silent.   
+ 
+ 
+In their post-hearing brief, the claimant points to potential bias on the part of Dr. 
+Garrels by characterizing him as an employee of John Deere. This is patently false. Dr. 
+Garrels testified credibly. He testified that he is an employee of UnityPoint Health, and 
+that his employer has a relationship with John Deere to provide occupational medicine 
+services. Pursuant to this agreement, he worked about 20 hours per week at John Deere. 
+There is no evidence that Dr. Garrels has a contractual or employment relationship with 
+John Deere.   
+ 
+ 
+Based upon the foregoing, the claimant failed to show, by a preponderance of the 
+evidence, that he sustained a right shoulder injury that arose out of, and in the course of 
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 16 
+ 
+his employment with John Deere. Considering this determination, there is no need to 
+conduct any analysis as to the asserted affirmative defense.   
+ 
+Permanent Disability to the Left Shoulder 
+ 
+ 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based. A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause. A preponderance of the evidence exists when the causal connection is probable, 
+rather than merely possible. George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996).   
+ 
+ 
+The question of medical causation is “essentially within the domain of expert 
+testimony.” Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 844-45 (Iowa 
+2011). The commissioner, as the trier of fact, must “weigh the evidence and measure the 
+credibility of witnesses.” Id. The trier of fact may accept or reject expert testimony, even 
+if uncontroverted, in whole or in part. Frye, 569 N.W.2d at 156. When considering the 
+weight of an expert opinion, the fact-finder may consider whether the examination 
+occurred shortly after the claimant was injured, the compensation arrangement, the 
+nature and extent of the examination, the expert’s education, experience, training, and 
+practice, and “all other factors which bear upon the weight and value” of the opinion. 
+Rockwell Graphic Sys., Inc. v. Prince, 366 N.W.2d 187, 192 (Iowa 1985). Unrebutted 
+expert medical testimony cannot be summarily rejected. Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910 (Iowa App. 1994). Supportive lay testimony may be used 
+to buttress expert testimony, and therefore is also relevant and material to the causation 
+question.   
+ 
+ 
+Iowa employers take an employee subject to any active or dormant health 
+problems and must exercise care to avoid injury to both the weak and infirm and the 
+strong and healthy. Hanson v. Dickinson, 188 Iowa 728, 176 N.W. 823 (1920). While a 
+claimant must show that the injury proximately caused the medical condition sought to be 
+compensable, it is well established that a cause is “proximate” when it is a substantial 
+factor, or even the primary or most substantial cause to be compensable under the Iowa 
+workers’ compensation system. Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 
+1994); Blacksmith v. All-American, Inc., 290 N.W.2d 348 (Iowa 1980).   
+ 
+ 
+The claimant alleges that he sustained permanent disability to both his left upper 
+extremity and left shoulder as a result of the injuries sustained on November 29, 2021. 
+The claimant injured his left shoulder. An MRI showed minimal insertional tendinopathy 
+of the inserting supraspinatus tendon, and a “[p]rominent superior labral tear extending 
+through the superior half of the anterior labral segment and the superior half of the 
+posterior labral segment.” Eventually, Dr. Hoffman performed a surgery on the claimant, 
+which consisted of a debridement of the left labrum, a biceps tenodesis, and an 
+arthroscopic shoulder decompression. Dr. Hoffman’s postoperative diagnoses included a 
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 17 
+ 
+left shoulder superior labrum anterior and posterior lesion, a biceps tenodesis, and 
+impingement syndrome.   
+ 
+ 
+Mr. Gruetzmacher had a relatively uncomplicated recovery, according to treating 
+physician Dr. Garrels. By June of 2022, the claimant complained of no stiffness, pain, 
+numbness, or tingling in his left arm, and Dr. Hoffman noted that he recovered well from 
+his surgery. On June 19, 2022, Dr. Hoffman released the claimant to return to work with 
+no restrictions. Mr. Matson also allowed the claimant to return to work with no restrictions.  
+  
+ 
+On July 5, 2022, Dr. Garrels examined the claimant and noted that he had no 
+active complaints to his left shoulder. The doctor also found that the claimant had a full 
+range of motion in his left shoulder with no strength issues. Dr. Garrels performed range 
+of motion testing on the claimant. He testified that he did not touch or manipulate the 
+claimant during this examination. The claimant contradicted this during his rebuttal 
+testimony, but his testimony as noted above was less credible than that of Dr. Garrels 
+insofar as he claimed to have cried in front of Dr. Garrels during the examination, and 
+then after the examination. Dr. Garrels' contemporaneous medical record contradicts this, 
+in that it indicates the claimant exhibited no pain behaviors on testing. Dr. Garrels testified 
+credibly that he would have recorded an incident where the claimant cried or exhibited 
+pain during his examination. Based upon this examination, Dr. Garrels found the claimant 
+to have no active pain complaints, and no issues with range of motion. Accordingly, Dr. 
+Garrels opined that the claimant suffered no permanent impairment as a result of his 
+November 29, 2021, work injury. During a July 19, 2022 visit, Dr. Hoffman found the 
+claimant to have normal range of motion in both of his shoulders.   
+ 
+ 
+The claimant points to the examination of Dr. Bansal in September of 2022, and 
+urges the undersigned to adopt the permanent impairment rating(s) provided therein. Dr. 
+Bansal performed range of motion testing on the claimant and provided certain 
+measurements in his report. It is unclear the method used by Dr. Bansal in arriving at his 
+range of motion measurements. Dr. Bansal also relied on faulty history in arriving at some 
+of his conclusions. The claimant also relies on his own testimony to bolster the opinions 
+of Dr. Bansal. As I ruled previously, I found the claimant to be a less than credible witness 
+who appeared to be acting in his own self-interest in contradicting the objective medical 
+records and testimony of Dr. Garrels.   
+ 
+ 
+The claimant argues that Dr. Garrels’ opinions should be questioned and that Dr. 
+Garrels was not a treating physician of the claimant. I disagree. Dr. Garrels examined the 
+claimant on several occasions. He provided a referral to an orthopedic surgeon, Dr. 
+Hoffman. While Dr. Garrels did not perform surgery on the claimant, he is board certified 
+in occupational medicine. Dr. Garrels was a treating physician in this case. Dr. Garrels 
+opined that the claimant had no permanent impairment based upon his examination and 
+the application of the AMA Guides. He found that the claimant had no issues with range 
+of motion or strength. Dr. Hoffman, the treating surgeon in this case, indicated that the 
+claimant had no pain or issues with range of motion during his final visit in the record. He 
+also allowed the claimant to return to work full-duty with no restrictions. Based upon the 
+foregoing, I find the opinions of Dr. Garrels and Dr. Hoffman to be more credible. I 
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 18 
+ 
+conclude that the claimant has not met his burden of proving by a preponderance of the 
+evidence that he sustained a permanent disability to his left shoulder.   
+ 
+ 
+With regard to the left biceps tendinopathy, it was noted in therapy with Ms. 
+Whiteside that the claimant indicated pain in the area of the left long head of the biceps 
+tendon. I have previously noted that the long head of the biceps tendon originates in the 
+shoulder, and therefore, a repair to the same is proximal and intertwined with the 
+glenohumeral joint. See Ruff v. Senior Housing Health Care, Inc., File No. 1655383.01 
+(Arb. Oct. 19, 2022). Therefore, I do not find Dr. Bansal’s rating to the left upper extremity 
+based upon biceps tendinopathy to be credible, and I find that the claimant has not 
+proven, by a preponderance of the evidence that he sustained a permanent disability to 
+his left upper extremity.   
+ 
+Reimbursement for IME pursuant to Iowa Code section 85.39 
+ 
+ 
+The claimant seeks reimbursement for the IME and subsequent report of Dr. 
+Bansal in the amount of one thousand nine hundred eighty and 00/100 dollars 
+($1,980.00). The defendant makes no argument in their post-hearing brief as to this issue; 
+however, it is still the claimant’s burden to prove entitlement thereto. 
+ 
+ 
+Iowa Code 85.39(2) states:   
+ 
+If an evaluation of permanent disability has been made by a physician 
+retained by the employer and the employee believes this evaluation to be 
+too low, the employee shall, upon application to the commissioner and upon 
+delivery of a copy of the application to the employer and its insurance 
+carrier, be reimbursed by the employer the reasonable fee for a subsequent 
+examination by a physician of the employee’s own choice, and reasonably 
+necessary transportation expenses incurred for the examination.     
+. . .    
+An employer is only liable to reimburse an employee for the cost of an 
+examination conducted pursuant to this subsection if the injury for which the 
+employee is being examined is determined to be compensable under this 
+chapter or chapter 85A or 85B. An employer is not liable for the cost of such 
+an examination if the injury for which the employee is being examined is 
+determined not to be a compensable injury. A determination of the 
+reasonableness of a fee for an examination made pursuant to this 
+subsection shall be based on the typical fee charged by a medical provider 
+to perform an impairment rating in the local area where the examination is 
+conducted.     
+ 
+Iowa Code section 85.39(2).    
+  
+ 
+The defendant is responsible only for reasonable fees associated with claimant’s 
+independent medical examination. Claimant has the burden of proving the 
+reasonableness of the expenses incurred for the examination. See Schintgen v. Economy 
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 19 
+ 
+Fire & Casualty Co., File No. 855298 (App. April 26, 1991). An opinion finding a lack of 
+causation is tantamount to a zero percent impairment rating. Kern v. Fenchel, Doster & 
+Buck, P.L.C., 2021 WL 3890603 (Iowa App. 2021).     
+ 
+ 
+In this case, Dr. Garrels opined in July of 2022, that the claimant had no impairment 
+to his left shoulder. Dr. Bansal’s report covers both the left and right shoulders. While I 
+previously found the right shoulder injury to not be compensable, it would seem counter 
+to the intent of the workers’ compensation system to deny the claimant reimbursement 
+for the cost of the report simply based upon this issue alone. I also am unaware of any 
+binding precedent that provides guidance as to apportionment of the fee for an IME in a 
+case such as this. Based upon my experience, Dr. Bansal’s fee is reasonable for an IME 
+in this case. Accordingly, I find that the defendant shall reimburse the claimant one 
+thousand nine hundred eighty and 00/100 dollars ($1,980.00) for the IME of Dr. Bansal. 
+ 
+Costs 
+ 
+ 
+Claimant seeks the award of costs. Specifically, it appears that the claimant hand-
+wrote on the hearing report “103” and “filing fee.” Costs are to be assessed at the 
+discretion of the deputy commissioner hearing the case. See 876 Iowa Administrative 
+Code 4.33; Iowa Code section 86.40.  
+ 
+ 
+876 Iowa Administrative Code 4.33(6) provides:    
+ 
+[c]osts taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+reviewing health service disputes.     
+ 
+ 
+Pursuant to the holding in Des Moines Area Regional Transit Authority v. Young, 
+867 N.W.2d 839 (Iowa 2015), only the report of an IME physician, and not the examination 
+itself, can be taxed as a cost according to 876 IAC 4.33(6). The Iowa Supreme Court 
+reasoned, “a physician’s report becomes a cost incurred in a hearing because it is used 
+as evidence in lieu of the doctor’s testimony,” while “[t]he underlying medical expenses 
+associated with the examination do not become costs of a report needed for a hearing, 
+just as they do not become costs of the testimony or deposition.” Id. (noting additionally 
+that “[i]n the context of the assessment of costs, the expenses of the underlying medical 
+treatment and examination are not part of the costs of the report or deposition”). The 
+commissioner has found this rationale applicable to expenses incurred by vocational 
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 20 
+ 
+experts. See Kirkendall v. Cargill Meat Solutions Corp., File No. 5055494 (App. Dec., 
+December 17, 2018); Voshell v. Compass Group, USA, Inc., File No. 5056857 (App. Dec., 
+September 27, 2019).     
+ 
+ 
+In my discretion I decline to award the claimant costs. 
+ 
+Constitutionality 
+ 
+ 
+Finally, I would note that the claimant made an argument in their post-hearing brief 
+as to the constitutionality of certain changes made to the workers’ compensation statutes 
+in 2017. While this issue is not raised in the hearing report or the original notice and 
+petition, I feel compelled to address it in this decision.    
+ 
+ 
+The claimant contends that “treating a shoulder not as a body as a whole is a 
+violation of Fourth and Fifteenth Amendment of [sic] due process of the Constitution and 
+equal protection.”   
+ 
+ 
+The Iowa Supreme Court has previously ruled that agencies cannot decide issues 
+of statutory validity or the constitutional validity of a statute. Salsbury Laboratories v. Iowa 
+Dept. of Environmental Quality, 276 N.W.2d 830, 836 (Iowa 1979). Based upon this 
+precedent, this agency cannot rule on the claim that certain provisions of Iowa law are 
+unconstitutional and/or legally invalid.   
+ 
+ORDER 
+ 
+ 
+THEREFORE, IT IS ORDERED: 
+ 
+ 
+That the defendant shall reimburse the claimant one thousand nine hundred eighty 
+and 00/100 dollars ($1,980.00) for the IME of Dr. Bansal. 
+ 
+ 
+That the claimant shall take nothing further. 
+ 
+ 
+That the defendant shall file subsequent reports of injury (SROI) as required by 
+this agency pursuant to 876 Iowa Administrative Code 3.1(2) and 876 Iowa Administrative 
+Code 11.7.   
+ 
+Signed and filed this __16th__ day of August, 2023. 
+ 
+ 
+            ANDREW M. PHILLIPS 
+               DEPUTY WORKERS’ 
+     COMPENSATION COMMISSIONER 
+
+GRUETZMACHER V. JOHN DEERE DAVENPORT WORKS  
+Page 21 
+ 
+ 
+The parties have been served, as follows: 
+James P. Hoffman (via WCES) 
+Benjamin J. Patterson (via WCES) 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days from 
+the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of appeal must be 
+filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission by the 
+Division of Workers’ Compensation to file documents in paper form. If such permission has been granted, the notice of 
+appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa Division of Workers’ 
+Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836. The notice of appeal must be received by the 
+Division of Workers’ Compensation within 20 days from the date of the decision. The appeal period will be extended to 
+the next business day if the last day to appeal falls on a weekend or legal holiday. 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

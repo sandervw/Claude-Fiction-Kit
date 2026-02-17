@@ -1,0 +1,242 @@
+Case Number: 5065221.01
+Case Title:  MCKOY, CHERYL A/K/A JACOBSON, CHERYL V.  ITA GROUP- 85.22 PETITION
+Doc Type:    Decision - Court of Appeals
+Source:      McKoy, Cheryl-5065221.01.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 22-1787 
+Filed December 20, 2023 
+ 
+ 
+CHERYL MCKOY a/k/a CHERYL JACOBSON, 
+ 
+Petitioner-Appellant, 
+ 
+vs. 
+ 
+TWIN CITY FIRE INSURANCE COMPANY and ITA GROUP, INC., 
+ 
+Respondent-Appellees. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Scott J. Beattie, Judge. 
+ 
+ 
+An employee appeals the district court’s ruling on judicial review of the 
+workers’ compensation commissioner’s decision.  AFFIRMED.  
+ 
+ 
+Robert E. Tucker of Tucker Law Office, Des Moines, for appellant. 
+ 
+Jessica R. Voelker (until withdrawal), Caitlin R. Kilburg, and Garrett A. 
+Lutovsky of Engles, Ketcham, Olson & Keith, P.C., Omaha, Nebraska, for 
+appellees. 
+ 
+ 
+Considered by Greer, P.J., and Ahlers and Buller, JJ.
+
+ 
+2
+AHLERS, Judge. 
+Cheryl McKoy suffered an injury while attending a work-related seminar in 
+2015.  McKoy made a claim for workers’ compensation benefits.  Her employer, 
+ITA Group, Inc. (ITA), through its workers’ compensation insurance carrier, Twin 
+City Fire Insurance Company (Twin City), paid McKoy workers’ compensation 
+benefits totaling $148,501.60—$43,616.13 of medical benefits and $104,885.47 of 
+disability benefits.  We will refer to ITA and Twin City collectively as “the employer.” 
+In addition to her workers’ compensation claim, McKoy pursued a third-party 
+tort claim against persons and entities she claimed were responsible for her injury.  
+She reached a settlement with the third parties for $175,000.00.  The employer 
+filed a notice in the third-party action consenting to the settlement and reserving 
+its rights under Iowa Code section 85.22(1) (2020).  After the employer filed the 
+notice, McKoy signed a release and settlement agreement (release).  No other 
+party signed the release.  The release states that the settlement covers “pain and 
+suffering, loss of function, and medical bills” but not “lost wages and loss of future 
+earning capacity.”   
+The employer filed another notice in the third-party action asserting its lien 
+rights under section 85.22(1).  The employer also filed a petition with the workers’ 
+compensation commissioner seeking enforcement of its lien rights under 
+section 85.22(1).  The matter was contested.  McKoy asserted that the employer 
+was not entitled to any of the settlement proceeds of the third-party action beyond 
+the amount necessary to reimburse the employer for medical benefits paid 
+because any settlement proceeds in excess of the amount needed to reimburse 
+for medical benefits were for categories of damages not covered by the workers’ 
+
+ 
+3
+compensation benefits paid by the employer.  The employer argued that it was 
+entitled to recoup the entire amount of workers’ compensation benefits it paid 
+McKoy, less a pro rata share of attorney fees. 
+A deputy commissioner ruled that the employer was entitled to recoup its 
+payments from the settlement proceeds pursuant to section 85.22(1), less the 
+employer’s pro rata share of attorney fees, awarding the employer $116,666.67 of 
+the settlement proceeds.  On intra-agency appeal, the workers’ compensation 
+commissioner affirmed the deputy commissioner’s ruling in its entirety. 
+McKoy petitioned for judicial review, repeating the arguments she made 
+before the agency.  The district court denied McKoy relief.1  McKoy appeals, 
+arguing the employer is not entitled to any share of the settlement proceeds 
+beyond the amount needed to reimburse the employer for medical benefits 
+payments.   
+We review district court rulings on judicial review of agency decisions under 
+Iowa Code chapter 17A.  Chavez v. M.S. Tech. LLC, 972 N.W.2d 662, 666 (Iowa 
+2022).  We apply section 17A.19(10) to determine whether we come to the same 
+conclusions as the district court.  Ghost Player, LLC v. Iowa Dep’t of Econ. Dev., 
+906 N.W.2d 454, 462 (Iowa 2018).  Because “the legislature has not clearly vested 
+the commissioner with authority to interpret” chapter 85, we review for correction 
+ 
+1 Technically, the district court granted McKoy’s petition for judicial review based 
+on an issue pertaining to calculation of pro rata attorney fees and costs, reducing 
+the employer’s recovery to $97,660.46.  Neither party challenges this adjustment 
+to the calculation, and the adjustment is not an issue on appeal.  As to the issue 
+of whether the employer was entitled to recoup all of its payments (less pro rata 
+share of attorney fees) from the proceeds of the settlement, the district court 
+affirmed the commissioner.  So, on the fighting issue on appeal, McKoy was denied 
+relief. 
+
+ 
+4
+of errors at law and do not defer to the agency’s interpretation.  Chavez, 972 
+N.W.2d at 666.  But, “[w]e accept the commissioner’s factual findings when 
+supported by substantial evidence.”  Id. (alteration in original) (quoting Gumm v. 
+Easter Seal Soc. of Iowa, 943 N.W.2d 23, 28 (Iowa 2020)).  “Evidence is 
+substantial if a reasonable mind would find it adequate to reach the same 
+conclusion.”  Evenson v. Winnebago Indus., Inc., 881 N.W.2d 360, 366 (Iowa 
+2016) (quoting Coffey v. Mid Seven Transp. Co., 831 N.W.2d 81, 89 (Iowa 2013)).  
+Evidence is not insubstantial just because it could lead to different conclusions.  Id. 
+McKoy argues that Iowa Code section 85.22(1) only gives employers and 
+insurers the right to reimbursement to prevent double recovery.  Pared to its 
+essence, McKoy argues that she crafted her third-party settlement such that, aside 
+from compensation for medical bills, she was only compensated for damage 
+elements not recoverable via workers’ compensation (i.e., pain and suffering), so 
+her employer has no right to any of the proceeds beyond reimbursement for 
+medical benefits paid since they do not represent the types of damages that would 
+result in double recovery for her.   
+We begin by noting that the parties dispute whether the language in the 
+release—signed only by McKoy—is effective to categorize all the settlement 
+proceeds as stated in that document.  For purposes of discussion, we assume 
+without deciding that the release effectively categorizes the proceeds as stated. 
+To resolve the parties’ disagreement, we start with the language of 
+section 85.22(1), which, in relevant part, states: 
+ 
+If compensation is paid the employee . . . under this chapter, 
+the employer by whom the same was paid, or the employer’s insurer 
+which paid it, shall be indemnified out of the recovery of damages to 
+
+ 
+5
+the extent of the payment so made, with legal interest, except for 
+such attorney fees as may be allowed, by the district court, to the 
+injured employee’s attorney . . . , and shall have a lien on the claim 
+for such recovery and the judgment thereon for the compensation for 
+which the employer or insurer is liable. 
+  
+Our supreme court has squarely addressed how this statute impacts the issue 
+raised by McKoy.  In Sourbier v. State, the court determined that the phrase “the 
+employer . . . shall be indemnified out of the recovery of damages” is ambiguous 
+because it does not specify from which type of damages the employer shall be 
+reimbursed.  498 N.W.2d 720, 723 (Iowa 1993).  The court, “constru[ing] the 
+statutory language consistent with our case law,” determined that the statute 
+allows the employer or insurer to be reimbursed out of damages for pain and 
+suffering because such a construction furthers the purpose of the statute.  Id.  In 
+other words, how the damages are categorized in the third-party action does not 
+matter, as the lien applies to the entire pot of settlement funds.  This construction 
+is “the prevailing rule in the United States.”  Id. at 724. 
+McKoy argues the position opposite of that found by the supreme court in 
+Sourbier.  But we see no reason Sourbier would not govern this case.  The facts 
+cannot be distinguished from Sourbier in any meaningful way.  The only real 
+difference is that the pain and suffering award in Sourbier came from a jury verdict 
+rather than a settlement.  See id. at 722.  If this difference mattered—and we do 
+not believe it does—it would tend to cut in the employer’s favor, as a jury verdict 
+at least gives a measure of damages arrived at by neutral arbiters, as opposed to 
+what happened here, which was a measure and categorization of damages arrived 
+at unilaterally by McKoy in a release document signed only by her.  Since the 
+section 85.22 “lien is not limited to the amount awarded by the jury,” id. at 724, 
+
+ 
+6
+there is no persuasive reason it should be limited to amounts set by a settlement 
+agreement. 
+There are exceptions to the holding in Sourbier that can limit an employer’s 
+ability to use section 85.22(1) to recoup its workers’ compensation payments from 
+the claimant’s third-party action or settlement.  But the instances in which the court 
+has found it appropriate to so curb an employer’s rights under section 85.22(1) 
+have generally been limited to situations vastly different than the situation here, 
+such as claims by parties other than the injured employee or when another statute 
+applies to prevent double recovery.  See In re Est. of Sylvester, 559 N.W.2d 285, 
+288 (Iowa 1997) (“Denying indemnification from the proceeds of a loss-of-
+consortium claim will not subvert the intention of section 85.22, which is to prevent 
+double recovery.”); Bertrand v. Sioux City Grain Exch., 419 N.W.2d 402, 405 (Iowa 
+1988) (denying indemnification from a third-party settlement for a wrongful death 
+suit, to the extent the proceeds never reached the employee’s dependent); 
+Toomey v. Surgical Servs., P.C., 558 N.W.2d 166, 170 (Iowa 1997) (denying 
+indemnification when Iowa Code section 147.136 prevented the plaintiff’s tort 
+recovery for losses already covered by workers’ compensation benefits).  None of 
+the exceptions recognized by our cases apply here, so the holding in Sourbier 
+controls.  
+McKoy tries to avoid the result Sourbier demands by relying on Greenfield 
+v. Cincinnati Ins. Co., 737 N.W.2d 112 (Iowa 2007).  But we find Greenfield clearly 
+distinguishable.  In Greenfield, the court analyzed the intersection between the 
+Iowa workers’ compensation statute and the language of an underinsured-motorist 
+policy governing the insurer’s right to reimbursement.  737 N.W.2d at 117‒22.  The 
+
+ 
+7
+issue arose when an injured employee sought and received recovery under the 
+underinsured-motorist provisions of her employer’s automobile policy.  Id. at 115.  
+The issue became how much of the underinsured-motorist claim her employer and 
+its workers’ compensation carrier could recoup under an offset provision of the 
+underinsured-motorist policy for workers’ compensation benefits it paid the 
+employee.  Id. at 116.  Reviewing the terms of the underinsured-motorist policy, 
+the court determined that the policy required a breakdown of the recovery into 
+“elements of loss” followed by analysis of whether recovery is duplicative for each 
+element.  Id. at 119.  This in turn limited the insurer’s right to an offset only to funds 
+paid for “elements of loss” that it had already paid to the worker as workers’ 
+compensation.  Id.  The court, recognizing that the workers’ compensation statute 
+does not authorize a worker to recover for pain and suffering, segregated that 
+“element of loss” from the other elements and denied the insurer an offset for 
+amounts attributable to that element.  Id. at 121‒22.   
+Nothing in Greenfield suggests the supreme court was stepping away from 
+its holding in Sourbier in any way.  In fact, Sourbier is not even mentioned in 
+Greenfield.  The lack of mention of Sourbier highlights the fact that the issue being 
+decided in Greenfield was different from the issue decided in Sourbier.  The 
+Greenfield court was not interpreting section 85.22(1); it was interpreting how the 
+underinsured-motorist policy affected the ability to utilize section 85.22(1) for 
+recovery by the employer.  Compare Sourbier, 498 N.W.2d at 723 (noting that 
+courts look to the language and its context, that where there is ambiguity “the 
+manifest intent of the legislature will prevail,” that “[w]e construe the statutory 
+language consistent with our case law” and “seek a reasonable construction that 
+
+ 
+8
+will serve the purpose of the statute and avoid absurd results”), with Greenfield, 
+737 N.W.2d at 118‒19 (“[T]he intent of the parties must control . . . .  The insurance 
+policy must be construed as a whole, with the words given their ‘ordinary, not 
+technical meaning [in order] to achieve a practical and fair interpretation’ . . . the 
+[interpretation] favoring the insured is adopted” when two meanings are possible. 
+(internal citation omitted)).  Because Greenfield is based on the language in the 
+specific insurance policy, we decline to use Greenfield to limit the section 85.22(1) 
+indemnification rights of the employer recognized by Sourbier.   
+McKoy’s final argument is that the employer contracted away its right to 
+reimbursement.  We find this argument unpersuasive.  For starters, it relies on the 
+language of the release.  But the employer is not a party to the release and cannot 
+be bound by it.  Rent-a-Center, Inc. v. Iowa Civ. Rts. Comm’n, 843 N.W.2d 727, 
+733 (Iowa 2014) (“It goes without saying that a contract cannot bind a nonparty.” 
+(quoting E.E.O.C. v. Waffle House, Inc., 534 U.S. 279, 294 (2002))).  At best we 
+could view the notice of consent to settlement as a contract, but that document 
+expressly reserved the employer’s rights to reimbursement under section 85.22(1).  
+See DuTrac Cmty. Credit Union v. Radiology Group Real Est., L.C., 891 N.W.2d 
+210, 216 (Iowa 2017) (“If the intent of the parties is clear and unambiguous from 
+the words of the contract itself, we will enforce the contract as written.”).  The 
+employer did not waive any of its rights by signing and filing the notice of consent 
+to settlement when the notice expressly reserved the rights McKoy claims the 
+employer waived. 
+
+ 
+9
+We come to the same conclusion as the district court that the commissioner 
+did not err in finding the entire third-party tort recovery subject to reimbursement 
+under Iowa Code section 85.22(1). 
+AFFIRMED.  

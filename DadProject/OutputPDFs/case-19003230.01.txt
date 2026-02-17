@@ -1,0 +1,566 @@
+Case Number: 19003230.01
+Case Title:  GRABOSCH, JOHN V. ARCONIC, INC
+Doc Type:    Decision - Deputy
+Source:      Grabosch John-19003230.01D.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+JOHN GRABOSCH, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                   File No. 19003230.01 
+ARCONIC, INC., 
+  : 
+ 
+ 
+  :                        ARBITRATION  
+ 
+Employer, 
+  : 
+ 
+ 
+  :                           DECISION 
+and 
+ 
+  : 
+ 
+ 
+  : 
+INDEMNITY INSURANCE COMPANY 
+  : 
+OF NORTH AMERICA (TPA – 
+  : 
+HELMSMAN MANAGEMENT  
+  : 
+SERVICES, LLC), 
+ 
+  : 
+ 
+ 
+  : 
+      Head Note Nos.:  1100; 1108;   
+ 
+Insurance Carrier, 
+  : 
+ 
+ 
+ 
+ 1400; 1402.30 
+ 
+Defendants. 
+  :                  
+______________________________________________________________________ 
+ 
+STATEMENT OF THE CASE 
+ 
+The claimant, John Grabosch, filed a petition for arbitration seeking workers’ 
+compensation benefits from Arconic, Inc. (“Arconic”), and its insurer, Indemnity 
+Insurance Company of North America.  James Hoffmann appeared on behalf of the 
+claimant.  Jane Lorentzen appeared on behalf of the defendants.   
+ 
+The matter came on for hearing on November 17, 2020, before Deputy Workers’ 
+Compensation Commissioner Andrew M. Phillips.  An order issued on March 13, 2020, 
+and updated June 1, 2020, August 14, 2020, and October 12, 2020, by the Iowa 
+Workers’ Compensation Commissioner, In the Matter of Coronavirus/COVID-19 Impact 
+on Hearings (available online at: https://www.iowaworkcomp.gov/order-coronavirus-
+covid-19 (last viewed December 29, 2020)) amended the hearing assignment order in 
+each case before the Commissioner scheduled for an in-person regular proceeding 
+hearing between March 18, 2020, and March 19, 2021.  The amendment makes it so 
+that such hearings will be held by internet-based video using CourtCall.  The parties 
+appeared electronically, and the hearing proceeded without significant difficulties.  The 
+matter was fully submitted on December 4, 2020, after briefing by the defendants.  The 
+claimant did not submit a post-hearing brief.     
+ELECTRONICALLY FILED     2021-Mar-04  14:41:39     DIVISION OF WORKERS' COMPENSATION
+
+GRABOSCH V. ARCONIC, INC 
+Page 2 
+ 
+The record in this case consists of Joint Exhibits A-F.  The claimant submitted an 
+exhibit, but withdrew the exhibit at hearing as it was duplicative of an exhibit in the joint 
+exhibits.  Testimony under oath was also taken from the claimant, David Ellermets, and 
+Jennifer Kruse. Delayne Johnson was appointed the official reporter and custodian of 
+the notes of the proceeding.   
+STIPULATIONS 
+ 
+Through the hearing report, as reviewed at the commencement of the hearing, 
+the parties stipulated and/or established the following: 
+1. There was an employer-employee relationship at the time of the alleged injury. 
+  
+2. The disability is a scheduled member disability to the bilateral upper extremities.   
+ 
+3. The commencement date for permanent partial disability benefits, if any are 
+awarded, is February 20, 2020.   
+ 
+4. The claimant’s gross earnings were $1,071.00 per week.   
+ 
+5. The claimant was married and entitled to two exemptions.  
+ 
+6. The weekly rate of compensation is $688.43.     
+There is no longer any dispute as to entitlement to temporary disability and/or 
+healing period benefits.  There is no longer any dispute as to entitlement for credits to 
+any award.  The defendants waived their affirmative defenses.   
+The parties are now bound by their stipulations. 
+ISSUES 
+The parties submitted the following issues for determination: 
+1. Whether the claimant sustained an injury arising out of and in the course of 
+employment, and whether the injury occurred on January 1, 2019, or on 
+January 30, 2019.   
+ 
+2. Whether the alleged injury is a cause of permanent disability. 
+ 
+3. The extent of permanent disability, if any is awarded.   
+ 
+4. Whether the claimant is entitled to reimbursement for an independent medical 
+examination (“IME”) pursuant to Iowa Code section 85.39.   
+  
+5. Whether the claimant is entitled to an assessment of costs.   
+ 
+
+GRABOSCH V. ARCONIC, INC 
+Page 3 
+ 
+ 
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+John Grabosch, the claimant, was 68 years old at the time of hearing.  
+(Testimony).  He worked for Arconic for about eight years prior to the alleged work 
+incident.  (Testimony).  While working at Arconic, Mr. Grabosch held a variety of jobs.  
+(Testimony).  Mr. Grabosch worked as a roll grinder in the maintenance department for 
+almost six and a half years.  (Testimony).  As a roll grinder, he would take large rolls 
+into the shop and grind them to particular specifications.  (Testimony).  This required 
+disassembling the rolls and bearings which weighed upwards of 30 to 40 pounds.  
+(Testimony).  The grinder that he used to grind the rolls was automated.  (Testimony).  
+After a few weeks, Mr. Grabosch would rotate onto another job and testified that he was 
+“constantly doing different jobs throughout the time” he was at Arconic.  (Testimony).   
+In October of 2018, Mr. Grabosch moved from roll grinding to production on the 
+84” Line and the 84-2” Line.  (Testimony).  Mr. Grabosch was trained on an entrance 
+job, an exit job, and a rewind job for the 84” Line” and the 84-2” Line.  (Testimony).  The 
+result was that Mr. Grabosch performed six different jobs.  (Testimony).  In the entry job, 
+Mr. Grabosch readied coils of metal to be sent through the production line.  (Testimony).  
+This required cutting bands and feeding metal into a machine.  (Testimony).  In the exit 
+job, Mr. Grabosch changed tubs of metal sheets using a forklift and would undo any 
+jams that occurred.  (Testimony).  Mr. Grabosch also ran a crane, which moved pallets 
+of aluminum to ship to different departments.  (Testimony).  When he ran the crane, he 
+would push buttons on a pendant and walk with the crane.  (Testimony and Video 
+Evidence).   
+Mr. Grabosch agreed that his job varied on a day-to-day and week-to-week 
+basis.  (Testimony).  He did not use vibratory tools, but used a hammer from time to 
+time on a limited basis.  (Testimony).  At times, he would need to hammer a screwdriver 
+under a band on a coil of metal.  (Testimony).  He did this 9 to 11 times during a 12 hour 
+day.  (Testimony).  He lifted sheets of aluminum if there was a jam, but noted that this 
+was not a daily activity.  (Testimony).  Mr. Grabosch testified that when there was a jam, 
+the line would be down for two to three hours, during which time he would not work.  
+(Testimony).   
+David Ellermets, a process improvement engineer at Arconic and Mr. Grabosch’s 
+former supervisor, also testified at the hearing.  (Testimony).  Mr. Ellermets began 
+employment at Arconic in 2013 as a production operator, became a production 
+supervisor in 2016, and shortly after became a process improvement engineer.  
+(Testimony).  He works on the production line to improve processes and address 
+productivity issues.  (Testimony).  He clarified that much of Mr. Grabosch’s work 
+involved pressing buttons on a crane.  (Testimony).  He testified that Mr. Grabosch’s 
+
+GRABOSCH V. ARCONIC, INC 
+Page 4 
+ 
+work was “not overly repetitive.”  (Testimony).  Mr. Ellermets disputed the frequency of 
+jams that Mr. Grabosch stated occurred.  (Testimony).  Mr. Ellermets also testified that, 
+in his time at Arconic, he had never witnessed the procedure described by Mr. 
+Grabosch in which a hammer and screwdriver were used to break a band on a roll of 
+metal.  (Testimony).  Mr. Ellermets indicated that this could damage the metal.  
+(Testimony).   
+Jennifer Kruse also testified on behalf of the defendants.  (Testimony).  Ms. 
+Kruse has a bachelor’s degree in athletic training and a master’s degree in human 
+development.  (Testimony).  She works as an athletic trainer for Arconic.  (Testimony).  
+As an athletic trainer, she performs ergonomic assessments and injury investigations.  
+(Testimony).  She spoke with Mr. Grabosch after his carpal tunnel became 
+symptomatic.  (Testimony).  Mr. Grabosch could not tell her what specific job duties 
+increased his symptoms.  (Testimony).  Ms. Kruse testified that she maintained 
+familiarity with the Department of Labor standards relating to occasional, frequent, and 
+constant repetitive motion.  (Testimony).  Based upon her familiarity with those 
+standards, and Mr. Grabosch’s job duties, Ms. Kruse opined that Mr. Grabosch had no 
+work tasks that were repetitive in nature.  (Testimony).    
+About ten and a half years before the injuries at the basis of this matter, Mr. 
+Grabosch experienced bilateral carpal tunnel syndrome.  (Testimony).  At that time, Mr. 
+Grabosch worked for Nichols Windstream.  (Testimony).    
+Mr. Grabosch’s prior medical records were provided as exhibits.  On November 
+17, 2008, Mr. Grabosch visited Genesis Health Group requesting clonazepam.  (Joint 
+Exhibit A:1).  Mr. Grabosch returned to Genesis Health Group on December 22, 2008, 
+with complaints of numbness in his hands and arms for the past several weeks.  (JE 
+A:1).  The numbness began to happen during the day.  (JE A:1).  His provider referred 
+him to another doctor for possible carpal tunnel syndrome.  (JE A:1).   
+Mr. Grabosch reported to Brian J. Anseeuw, M.D., on January 13, 2009, for his 
+carpal tunnel complaints.  (JE B:3).  He noted that his numbness progressively 
+worsened and woke him from sleep.  (JE B:3).  Dr. Anseeuw scheduled Mr. Grabosch 
+for an EMG and nerve conduction study.  (JE B:3).  Mr. Grabosch had an EMG on 
+February 5, 2009. (JE B:5-7).  The study showed evidence of “compressive neuropathy 
+of both median nerves at the wrists, worse on the left.”  (JE B:7).  
+On February 11, 2009, Mr. Grabosch returned to Genesis Health Group for a 
+follow-up of his bilateral carpal tunnel syndrome.  (JE A:2).  Mr. Grabosch visited a 
+neurologist that performed a nerve conduction study.  (JE A:2).  The nerve conduction 
+study showed carpal tunnel syndrome that was worse in his right wrist than his left.  (JE 
+A:2).  He was scheduled to see a Dr. Cobb to consider surgery.  (JE A:2).  On February 
+19, 2009, Mr. Grabosch received a referral to a surgeon regarding his bilateral carpal 
+tunnel issues.  (JE A:2).   
+
+GRABOSCH V. ARCONIC, INC 
+Page 5 
+ 
+On March 16, 2009, Mr. Grabosch reported to ORA Bone & Joint Centers for 
+complaints of hand numbness and tingling.  (JE C:10-11).  He reported dropping objects 
+such as coins and keys.  (JE C:10).  Mr. Grabosch reported that he shook his hands in 
+the morning to “awaken them.”  (JE C:10).  His EMG was consistent with left hand 
+severe median nerve compression and right moderate to severe nerve compression.  
+(JE C:10).  The provider recommended that Mr. Grabosch undergo a carpal tunnel 
+release to both hands.  (JE C:10).  
+ On April 14, 2009, Mr. Grabosch had a right open carpal tunnel release at Quad 
+City Ambulatory Surgery Center.  (JE C:12).  As of April 28, 2009, he was instructed to 
+remain off work.  (JE C:13).   
+On May 1, 2009, Mr. Grabosch had an open carpal tunnel release to his left 
+wrist.  (JE C:14).  At his May 14, 2009, surgical follow-up he noted progress on his right 
+side, and a return of sensation to his left fingers.  (JE C:15).  By June 9, 2009, Mr. 
+Grabosch achieved maximum medical improvement (“MMI”), and could return to full 
+unrestricted activities.  (JE C:16).   
+Mr. Grabosch returned to ORA Bone & Joint Centers on October 15, 2009 with 
+complaints of pain and tingling in his right thumb and index finger.  (JE C:17).  The 
+provider gave Mr. Grabosch an injection into his thumb.  (JE C:17).   
+On July 12, 2010, Mr. Grabosch again returned to ORA Bone & Joint Centers 
+with complaints of catching and locking in his left thumb.  (JE C:18).  He also reported 
+numbness of the right thumb and index finger.  (JE C:18).  He noted that this was 
+unchanged from his postoperative status and to some degree it was getting worse.  (JE 
+C:18).  The treating physician, Mark Stewart, M.D., advised Mr. Grabosch to undergo an 
+A1 pulley release if this still bothered him.  (JE C:18).   
+At the time that Mr. Grabosch began work for Arconic he suffered no lingering 
+issues from his previous carpal tunnel syndrome and resulting surgeries.  (Testimony).  
+Mr. Grabosch took, and passed, a physical prior to commencing work with Arconic.  
+(Testimony).  Mr. Grabosch claimed that in late January of 2019, he began to 
+experience numbness in his hands.  (Testimony).  He also began to drop things and the 
+numbness affected his work.  (Testimony).  Mr. Grabosch could not articulate at the 
+hearing which elements or duties of his job caused him increased pain or issues.  
+(Testimony).  He indicated that the symptoms experienced in early 2019 were the same 
+that he experienced in 2009.  (Testimony).   
+ 
+On January 10, 2019, Mr. Grabosch reported again to ORA Orthopedics.  (JE 
+C:19-20).  Dr. Stewart examined him again for complaints of bilateral hand numbness.  
+(JE C:19).  Mr. Grabosch reported the numbness occurred for about two months and 
+was getting worse.  (JE C:19).  His pain and numbness did not radiate, but woke him 
+from sleep.  (JE C:19).  Dr. Stewart found slightly positive median nerve compression 
+testing bilaterally.  (JE C:19).  Dr. Stewart recommended further EMG testing.  (JE 
+C:19).   
+
+GRABOSCH V. ARCONIC, INC 
+Page 6 
+ 
+The EMG and nerve conduction studies were repeated on January 16, 2019, due 
+to complaints of bilateral hand numbness.  (JE B:8-9).  Dr. Anseeuw noted an abnormal 
+study showing electrophysiological evidence of compressive neuropathy of the right 
+median nerve at the wrist.  (JE B:9).   
+On January 29, 2019, Mr. Grabosch returned to Dr. Stewart’s office following his 
+EMG and nerve conduction studies.  (JE C:23).  Mr. Grabosch continued to complain of 
+numbness in each hand.  (JE C:23).  He again reported dropping keys and small 
+objects, and noted that his work activities bothered him.  (JE C:23).  Dr. Stewart noted 
+that the EMG showed compression of the median nerve, especially on the right, but also 
+on the left.  (JE C:23).  Dr. Stewart recommended staged carpal tunnel releases.  (JE 
+C:23).  Mr. Grabosch noted to Dr. Stewart that “he is going to report this as a workers’ 
+comp injury.”  (JE C:23).   
+At this time, Mr. Grabosch informed Arconic of his carpal tunnel syndrome 
+recurring.  (Testimony).  Mr. Grabosch testified that Arconic sent him to a company 
+physician who instructed him to come back whenever he had symptoms.  (Testimony).  
+This displeased Mr. Grabosch because he felt he needed to have surgery to his hands 
+in order to resolve his problems.  (Testimony).  Mr. Grabosch continued to report to the 
+company medical area and was displeased that surgery was not authorized.  
+(Testimony).   
+Denise Wieberg of Helmsman Management Services drafted a letter to Jonathan 
+Winston, M.D. of ORA Orthopedics on April 12, 2019.  (JE D:24-25).  The letter posed a 
+series of questions for Dr. Winston to address.  (JE D:24-25).   
+Dr. Winston replied to Ms. Wieberg’s letter on May 1, 2019 noting that he 
+performed an IME on Mr. Grabosch on the same day.  (JE D:26-29).  Dr. Winston noted 
+Mr. Grabosch’s current history.  (JE D:26-27).  Mr. Grabosch alleged that he reported 
+his injury to Arconic on January 30, 2019, and that he had numbness and tingling in his 
+hands.  (JE D:26).  Numbness and tingling worsened in the evening.  (JE D:26).  His 
+symptoms were worse on the right than the left.  (JE D:26).  Mr. Grabosch reported 
+pushing buttons at Arconic, using a hammer every other week, and lifting objects off the 
+floor.  (JE D:27).  Mr. Grabosch reported pulling on a rope several weeks prior, which 
+aggravated his symptoms.  (JE D:27).  Dr. Winston noted that the January, 2019, nerve 
+study showed an improvement over the 2009 nerve study.  (JE D:27).  Dr. Winston 
+diagnosed Mr. Grabosch with recurrent carpal tunnel syndrome that was not caused by 
+his job activities, but rather his “index injury.”  (JE D:28).  However, Dr. Winston 
+concluded the repetitive nature of Mr. Grabosch’s employment caused a substantial 
+aggravation of his preexisting carpal tunnel syndrome.  (JE D:28).  Dr. Winston 
+recommended no formal work restrictions, and indicated that Mr. Grabosch had a 50 
+percent chance of improvement with a revision surgery.  (JE D:28).  Dr. Winston 
+recommended a diagnostic therapeutic injection.  (JE D:28).   
+
+GRABOSCH V. ARCONIC, INC 
+Page 7 
+ 
+Dr. Winston confirmed, in a letter dated June 26, 2019, that the “index” surgery is 
+the carpal tunnel release previously performed on both hands.  (JE D:30).  Mr. 
+Grabosch subjectively indicated to Dr. Winston that on a repetitive basis, he lifted items 
+between 2 and 20 pounds.  (JE D:30).  Dr. Winston offered to revise his opinion should 
+information show that Mr. Grabosch did not perform these tasks on a regular basis.  (JE 
+D:30).   
+Mr. Grabosch testified that he scheduled carpal tunnel surgery on his own with 
+Dr. Stewart and underwent the surgery in June of 2019, and then a second surgery in 
+July of 2019.  (Testimony).  When Mr. Grabosch returned to work following his 
+surgeries, he returned to the same job on the production line with no decrease in pay.  
+(Testimony).   
+On October 16, 2019, ORA Orthopedics provided Mr. Grabosch with a return to 
+work note indicating that he was able to return to work as of November 4, 2019, with no 
+restrictions.  (JE D:31).   
+In a letter dated November 4, 2019, Ms. Wieberg wrote to Dr. Winston indicating 
+that Jennifer Kruse performed an ergonomic assessment of Mr. Grabosch’s job.  (JE 
+D:32-33).  Ms. Kruse found no repetitive lifting of objects and that Mr. Grabosch lifted 
+items infrequently.  (JE D:32).  Ms. Kruse also found that Mr. Grabosch hand banded 
+flat sheets, but not more than one time per hour.  (JE D:32).  Dr. Winston also visited 
+Arconic and witnessed different jobs being performed.  (JE D:41).   
+On November 7, 2019, Mr. Grabosch filed a form with Arconic titled “Intent-to-
+Retire Notice Incentive for Arconic-Davenport Works USW & IBEW Employees.”  (JE 
+F:57).  He indicated that he intended to retire on April 1, 2020.  (JE F:57).  By submitting 
+this form, Mr. Grabosch was entitled to a $500 payment, less applicable taxes.  (JE 
+F:57).   
+Arconic issued a written warning to Mr. Grabosch for an improper report of an 
+absence on December 14, 2019.  (JE F:56).   
+Ms. Wieberg sent another letter to Dr. Winston on February 10, 2020, asking the 
+same questions and requesting again that Dr. Winston change his opinion.  (JE D:41-
+42).  Dr. Winston was provided with, among other things, a video of Mr. Grabosch’s job 
+activities.  (JE  D:41-42).  After reviewing the provided documentation, Dr. Winston 
+replied on March 3, 2020.  (JE D:43).  Dr. Winston changed his opinion and noted, “I do 
+not feel that the amount of activity he is doing is enough repetitive activity to cause his 
+recurrent carpal tunnel syndrome.”  (JE D:43).  Dr. Winston concluded, “Again, his 
+diagnosis of recurrent carpal tunnel syndrome is caused by his prior carpal tunnel 
+release and because his job is not doing repetitive forceful activities, and instead it is 
+more ergonomic in nature, his job is not causing or contributing to his symptoms in any 
+way.”  (JE D:43).   
+
+GRABOSCH V. ARCONIC, INC 
+Page 8 
+ 
+On February 20, 2020, at the direction of claimant’s counsel, the claimant visited 
+Sangeeta Shah, M.D., C.I.M.E., for an IME.  (JE E:46-54).  Dr. Shah’s letterhead 
+indicates that she is the head of the neurology department at Mercy One Medical 
+Center in Waterloo, Iowa.  (JE E:46).  Dr. Shah noted Mr. Grabosch’s history of manual 
+work including removing bands from rolls of metal and readying them for the machine.  
+(JE E:46).  Mr. Grabosch noted symptoms beginning in December of 2018, including 
+dropping things and difficulty holding onto keys.  (JE E:46).  He also experienced 
+numbness of his hands.  (JE E:46).  Dr. Shah reviewed Mr. Grabosch’s medical history, 
+and mentioned his previous carpal tunnel syndrome.  (JE E:46-50).  Mr. Grabosch 
+indicated to Dr. Shah that he continued to have pain in both of his hands.  (JE E:50).  
+He also had difficulty gripping, grasping, and lifting things, along with sleeping.  (JE 
+E:50).  He reported that the right was worse than the left.  (JE E:50).  Upon 
+examination, Dr. Shah found a lack of sensation in the right median nerve distribution.  
+(JE E:51).  Dr. Shah’s impression of Mr. Grabosch’s conditions was: 
+1. Carpal tunnel syndrome status post release with residual symptoms of 
+severe pain and decreased sensation in the median nerve distribution.   
+2. Severe carpal tunnel syndrome at the left wrist with severe numbness, 
+pain and weakness of the left hand in the distribution of the median 
+nerve.   
+(JE E:52).   
+With regard to causation, Dr. Shah opined that Mr. Grabosch’s symptoms had 
+completely resolved until 2018.  (JE E:52).  Dr. Shah noted the following occupational 
+factors can cause or aggravate carpal tunnel syndrome: repetitive hand and wrist use; 
+forceful hand and wrist use; work with vibrating tools; sustained wrist or palm pressure; 
+prolonged wrist extension and flexion; and, use of hands in cold temperatures.  (JE 
+E:52-53).  Dr. Shah indicated that if Mr. Grabosch’s condition was secondary to his prior 
+surgery, symptoms would have recurred within one to two years due to scar tissue.  (JE 
+E:52).  In this case, Dr. Shah opined that Mr. Grabosch’s symptoms happened 
+secondary to his repetitive use of his hands at work.  (JE E:52).  Dr. Shah’s diagnoses 
+included bilateral carpal tunnel syndrome “S/P surgery” for bilateral carpal tunnel, and 
+left knee injury in the past with no residual deficit.  (JE E:53).  Dr. Shah opined that Mr. 
+Grabosch reached MMI.  (JE E:53).  Dr. Shah provided an impairment rating for Mr. 
+Grabosch’s right upper extremity of 10 percent.  (JE E:53-54).  Dr. Shah translated this 
+to a 6 percent impairment of the whole person.  (JE E:54).   
+Regarding the left upper extremity, Dr. Shah opined that Mr. Grabosch suffered a 
+2 percent impairment of the upper extremity.  (JE E:54).  Dr. Shah translated this to a 1 
+percent impairment of the whole person.  (JE E:54).  Utilizing the combined value chart 
+in the Guides, Dr. Shah opined that Mr. Grabosch suffered a 7 percent whole person 
+impairment.  (JE E:54).  Dr. Shah did not provide a combined rating based upon his 
+upper extremity impairments.  (JE E:54).   
+
+GRABOSCH V. ARCONIC, INC 
+Page 9 
+ 
+ 
+On May 1, 2020, Mr. Grabosch formally retired from Arconic.  (JE F:58).  He 
+testified that his retirement had nothing to do with his injury, but had to do with his age 
+and desire to “kick back and enjoy life a little bit.”  (Testimony).   
+ 
+Mr. Grabosch reported residual problems with his grip, and testified that his grip 
+power was not as strong as prior to his surgery.  (Testimony).  His numbness 
+dissipated, though he noted some continued numbness in his thumb and index finger.  
+(Testimony).   
+CONCLUSIONS OF LAW 
+The party who would suffer loss if an issue were not established ordinarily has 
+the burden of proving that issue by a preponderance of the evidence.  Iowa Rule of 
+Appellate Procedure 6.904(3)(f).  
+To receive workers’ compensation benefits, an injured employee must prove, by 
+a preponderance of the evidence that the employee’s injuries arose out of, and in the 
+course of the employee’s employment with the employer.  2800 Corp. v. Fernandez, 
+528 N.W.2d 124, 128 (Iowa 1995).  The words “arising out of” referred to the cause or 
+source of the injury.  The words “in the course of” refer to the time, place and 
+circumstances of the injury.  Id.  An injury arises out of employment when a causal 
+relationship exists between the employment and the injury.  Quaker Oats v. Ciha, 552 
+N.W.2d 143, 151 (Iowa 1996).  The injury must be a rational consequence of a hazard 
+connected with the employment and not merely incidental to the employment.  Koehler 
+Elec. v. Willis, 608 N.W.2d 1, 3 (Iowa 2000).  The Iowa Supreme Court has held that an 
+injury occurs “in the course of employment” when: 
+   [i]t is within the period of employment at a place where the employee 
+reasonably may be in performing his duties, and while he is fulfilling those 
+duties or engaged in doing something incidental thereto.  An injury in the 
+course of employment embraces all injuries received while employed in 
+furthering the employer’s business and injuries received on the employer’s 
+premises, provided that the employee’s presence must ordinarily be 
+required at the place of the injury, or, if not so required, employee’s 
+departure from the usual place of employment must not amount to an 
+abandonment of employment or be an act wholly foreign to his usual work.  
+An employee does not cease to be in the course of his employment merely 
+because he is not actually engaged in doing some specifically prescribed 
+task, if, in the course of his employment, he does some act which he deems 
+necessary for the benefit or interest of his employer.   
+Farmers Elevator Co. v. Manning, 286 N.W.2d 174, 177 (Iowa 1979).  Whether a 
+claimant’s injury arises out of the claimant’s employment is a “mixed question of law and 
+fact.”  Lakeside Casino v. Blue, 743 N.W.2d 169, 173 (Iowa 2007).   
+
+GRABOSCH V. ARCONIC, INC 
+Page 10 
+ 
+ 
+In this case, Mr. Grabosch alleges that he either had a new occurrence of 
+bilateral carpal tunnel syndrome, or that his work at Arconic substantially worsened or 
+aggravated his bilateral carpal tunnel syndrome.  The parties do not dispute that Mr. 
+Grabosch has carpal tunnel syndrome; however, they dispute whether his carpal tunnel 
+syndrome arose out of and in the course of his employment with Arconic.  Claimant’s 
+own expert, Dr. Shah, notes that the following are some occupational causes of carpal 
+tunnel syndrome: repetitive hand and wrist use; forceful hand and wrist use; work with 
+vibrating tools; sustained wrist or palm pressure; prolonged wrist extension and flexion; 
+and, use of hands in cold temperatures.  In this case, testimony indicated that Mr. 
+Grabosch did not work with vibrating tools.  He did not do any task in a repetitive 
+manner according to Department of Labor standards as observed by Ms. Kruse.  Mr. 
+Grabosch also indicated that any lifting described to Dr. Winston as repetitive was 
+actually lifting done by a crane.  The only fact that Mr. Grabosch can point to in support 
+of his argument that his injury arose out of and in the course of his employment with 
+Arconic is that the symptoms of his carpal tunnel syndrome occurred and that he 
+worked at Arconic for a time between his 2009 surgeries and a recurrence of his carpal 
+tunnel syndrome.   
+Dr. Shah opines that Mr. Grabosch’s carpal tunnel syndrome is caused by his 
+employment.  After further review of the entire record, Dr. Winston disagrees.  In this 
+case, Dr. Winston was in a better position than Dr. Shah to opine on this matter as Dr. 
+Winston reviewed the medical reports, the report of Ms. Kruse, the video evidence, and 
+visited Arconic.  I find Dr. Winston’s opinion more credible as it relates to causation.   
+Based upon the foregoing evidence, I find that Mr. Grabosch failed to prove by a 
+preponderance of the evidence that his carpal tunnel syndrome arose out of and in the 
+course of his employment with Arconic.   
+Considering the above finding, the claimant would not be entitled to 
+compensation for permanent disability.  An analysis of causation of permanent disability 
+and/or the extent of permanent disability are not necessary.   
+Reimbursement for an IME pursuant to Iowa Code section 85.39 
+ 
+Iowa Code 85.39(2) states: 
+If an evaluation of permanent disability has been made by a physician 
+retained by the employer and the employee believes this evaluation to be 
+too low, the employee shall, upon application to the commissioner and upon 
+delivery of a copy of the application to the employer and its insurance 
+carrier, be reimbursed by the employer the reasonable fee for a subsequent 
+examination by a physician of the employee’s own choice, and reasonably 
+necessary transportation expenses incurred for the examination.   
+Iowa Code 85.39(2).   
+
+GRABOSCH V. ARCONIC, INC 
+Page 11 
+ 
+ 
+Defendants are responsible only for reasonable fees associated with claimant’s 
+independent medical examination.  Claimant has the burden of proving the 
+reasonableness of the expenses incurred for the examination.  See Schintgen v. 
+Economy Fire & Casualty Co., File No. 855298 (App. April 26, 1991).  Claimant need 
+not prove the injury arose out of and in the course of employment to qualify for 
+reimbursement under section 85.39.  See Dodd v. Fleetguard, Inc., 759 N.W.2d 133, 
+140 (Iowa App. 2008).   
+ 
+Iowa Code 85.39 was amended in 2017.  Iowa Code 85.39(2) added: 
+An employer is only liable to reimburse an employee for the cost of an 
+examination conducted pursuant to this subsection if the injury for which the 
+employee is being examined is determined to be compensable under this 
+chapter or chapter 85A or 85B.  An employer is not liable for the cost of 
+such an examination if the injury for which the employee is being examined 
+is determined not to be a compensable injury.  A determination of the 
+reasonableness of a fee for an examination made pursuant to this 
+subsection shall be based on the typical fee charged by a medical provider 
+to perform an impairment rating in the local area where the examination is 
+conducted.   
+Iowa Code 85.39(2) (2017).   
+ 
+The claimant requests reimbursement for the IME of Dr. Shah.  Joint Exhibit E:55 
+includes the invoice for Dr. Shah’s IME and report, which totals $2,850.00.  Prior to 
+attending the IME with Dr. Shah, Mr. Grabosch attended an IME with Dr. Winston.  Dr. 
+Winston did not provide an impairment rating.  The undersigned found that the 
+claimant’s injury did not arise out of and in the course of employment.  This makes Mr. 
+Grabosch’s injury not compensable.  Pursuant to Iowa Code 85.39(2), the claimant is 
+not entitled to reimbursement for Dr. Shah’s IME.   
+Costs 
+Claimant seeks the award of costs.  Costs are assessed at the discretion of the 
+deputy commissioner hearing the case.  See 876 Iowa Administrative Code 4.33; Iowa 
+Code 86.40.  876 Iowa Administrative Code 4.33(6) provides:  
+[c]osts taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+
+GRABOSCH V. ARCONIC, INC 
+Page 12 
+ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+reviewing health service disputes.   
+I decline, in my discretion, to award costs in this matter.   
+ORDER 
+ 
+THEREFORE, IT IS ORDERED: 
+The claimant shall take nothing further. 
+That defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to 876 IAC 3.1(2) and 876 IAC 11.7.   
+Signed and filed this ____4th____ day of March, 2021. 
+ 
+ 
+The parties have been served, as follows: 
+ 
+James Hoffman (via WCES) 
+Valerie Landis  (via WCES) 
+Jane Lorentzen (via WCES) 
+Joshua Duden (via WCES) 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal period 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+  
+                ANDREW M. PHILLIPS 
+               DEPUTY WORKERS’ 
+     COMPENSATION COMMISSIONER 

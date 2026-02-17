@@ -1,0 +1,261 @@
+Case Number: 21004021.01
+Case Title:  WELLS, SAMANTHA V. CONCEPT REHAB INC
+Doc Type:    Decision - District Court
+Source:      Wells, Samantha-21004021.01.District Court Decision.PDF
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+ 
+ 
+CONCEPT REHAB, INC., Employer, and 
+EASTERN ALLIANCE INSURANCE 
+GROUP, Insurance Carrier, 
+           Petitioners, 
+ 
+vs. 
+ 
+SAMANTHA WELLS, 
+            Respondent. 
+ 
+ 
+Case No. CVCV069247  
+ 
+ORDER ON PETITION FOR JUDICIAL 
+REVIEW 
+ 
+ 
+ 
+This matter comes before the Court on Petitioners' Petition for Judicial Review of the 
+Workers' Compensation Commissioner's Appeal Decision. The Court has reviewed Petitioners' 
+Brief in Support of Petition for Judicial Review, Respondent's Brief in Resistance, Petitioners' 
+Reply Brief, and the certified agency record. The Court now enters the following order. 
+I. PROCEDURAL BACKGROUND 
+ 
+On June 9, 2022, Claimant Samantha Wells filed a petition with the Iowa Workers' 
+Compensation Commissioner against Concept Rehab, Inc. (Employer) and Eastern Alliance 
+Insurance Group (Insurance Carrier), collectively Petitioners. The matter proceeded to hearing 
+before Deputy Commissioner Andrew Phillips on May 7, 2024. On October 15, 2024, Deputy 
+Phillips issued an Arbitration Decision finding that Claimant's right thoracic outlet syndrome 
+arose out of and in the course of her employment and awarding temporary partial disability 
+benefits, healing period benefits, and permanent partial disability benefits based on 55% 
+industrial disability. 
+E-FILED                    CVCV069247 - 2025 DEC 08 10:30 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 9
+
+2 
+ 
+ 
+Petitioners appealed to the Commissioner. On April 28, 2025, the Commissioner affirmed 
+the Arbitration Decision in its entirety. Petitioners timely filed their Petition for Judicial Review 
+on May 28, 2025. 
+II. STANDARD OF REVIEW 
+ 
+Judicial review of an administrative agency action is governed by the Iowa 
+Administrative Procedure Act, Iowa Code chapter 17A. An agency decision shall be reversed or 
+modified if the agency decision is unsupported by substantial evidence, affected by error of law, 
+or unreasonable, arbitrary, or capricious. Iowa Code § 17A.19(10). 
+ 
+The Court is bound by agency findings of fact if they are supported by substantial 
+evidence in the record as a whole. Meyer v. IBP, Inc., 710 N.W.2d 213, 218 (Iowa 2006). The 
+workers' compensation commissioner is the trier of fact and is charged with weighing witness 
+credibility, weighing the evidence, and deciding factual issues. Arndt v. City of Le Claire, 728 
+N.W.2d 389, 394–95 (Iowa 2007). The Court will broadly and liberally apply agency findings to 
+uphold, rather than overturn, an agency decision. Stephenson v. Furnas Elec. Co., 522 N.W.2d 
+828, 831 (Iowa 1994). The reviewing court may only disregard the agency's conclusions if it 
+decides, after reviewing the entire record, the direct and circumstantial evidence is so compelling 
+that a reasonable mind would find the evidence inadequate to reach the same conclusions. 
+Ringland Johnson, Inc. v. Hunecke, 585 N.W.2d 269, 272 (Iowa 1998). 
+ 
+In the context of workers' compensation cases, the agency's findings are afforded 
+significant deference and are treated as equivalent to a jury verdict. Caterpillar Tractor Co. v. 
+Mejorado, 410 N.W.2d 675, 676–77 (Iowa 1987). The Court will reverse the application of law 
+to facts if it is irrational, illogical, or wholly unjustifiable. Neal v. Annette Holdings, Inc., 814 
+N.W.2d 512, 518 (Iowa 2012). 
+E-FILED                    CVCV069247 - 2025 DEC 08 10:30 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 9
+
+3 
+ 
+III. ANALYSIS 
+A. Temporary Partial Disability Benefits 
+ 
+Petitioners argue that the Commissioner erroneously concluded Claimant met her burden 
+of proving entitlement to temporary partial disability benefits because no evidence in the record 
+shows Claimant's underlying earnings during the alleged TPD periods. Petitioners have narrowed 
+their challenge to this single contention: that regardless of what Exhibit 1 contains, the record 
+lacks the underlying weekly earnings from Claimant's various employers necessary to calculate 
+TPD benefits under Iowa Code § 85.33(4). In support, Petitioners rely exclusively on agency 
+decisions holding that TPD benefits cannot be calculated without such evidence. Petitioners do 
+not contest the Deputy Commissioner's credibility findings. 
+ 
+Respondent contends that Petitioners waived any challenge to Claimant's Exhibit 1, 
+which documented her earnings during the relevant periods. The record reflects that Petitioners 
+received the underlying support documents during discovery, received Exhibit 1 and its 
+supporting documents before the hearing, and failed to object to the admission of Exhibit 1 at 
+hearing. Petitioners maintain that Exhibit 1 is irrelevant because, in their view, the evidentiary 
+defect lies not in Exhibit 1's foundation but in the absence of any evidence of Claimant's 
+underlying weekly earnings during the TPD periods. Petitioners therefore do not engage 
+Respondent's waiver analysis directly. 
+ 
+The Court concludes that Petitioners waived any foundational challenge to Exhibit 1. 
+Where a party objects to the offer of evidence on the ground of no proper foundation, the party 
+must point out what in particular of the foundation is deficient so the adversary may have an 
+opportunity to remedy the alleged defect. Deaver v. Armstrong Rubber Co., 170 N.W.2d 455, 
+465 (Iowa 1969); Iowa R. Evidence 5.103. The tactic of lying in wait and asserting objections for 
+E-FILED                    CVCV069247 - 2025 DEC 08 10:30 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 9
+
+4 
+ 
+the first time after the initial decision is prejudicial and contrary to Iowa law. Webb v. Iowa-
+Nebraska Coal Co., 200 N.W. 225, 226–28 (1924). Had Petitioners timely objected, Claimant 
+would have had the opportunity to remedy any alleged defect while the record was still open. 
+McSpadden v. Big Ben Coal Co., 288 N.W.2d 181, 187 (Iowa 1980). Because Petitioners did not 
+object, Exhibit 1 was properly admitted, and the agency was entitled to rely on it as part of the 
+record. Additionally, Claimant testified that Exhibit 1 reflected her pay stub earnings and 
+testified about her wages and hours worked. Both her average weekly wage and workers' 
+compensation rate were stipulated in the Amended Hearing Report. The Commissioner’s 
+conclusion that Claimant met her burden of proving entitlement to TPD benefits is supported by 
+substantial evidence in the record and is affirmed. 
+B. Healing Period Benefits for February and March 2022 
+ 
+Petitioners argue that Claimant testified she was off work in February and March 2022 
+because of diagnostic testing for non-work-related ailments, specifically mitochondrial disorders. 
+ 
+A careful review of Claimant's testimony reveals that she was undergoing diagnostic 
+testing to rule out mitochondrial disorders as a potential cause of the symptoms she was 
+experiencing, which included progressive loss of strength and sensation in her hands and neck. 
+Claimant testified that she was attempting to rule out other possible causes of her symptoms, 
+stating she did not want to claim her condition was work-related if she was not certain. This 
+testimony demonstrates that Claimant was prudently utilizing her time to attend necessary 
+medical appointments while attempting to determine the cause of symptoms that ultimately were 
+found to arise from her work-related right thoracic outlet syndrome. 
+ 
+Nothing in Iowa Code § 85.33 regarding healing period benefits prohibits a claimant 
+from utilizing time to attend necessary medical appointments while receiving such benefits. The 
+E-FILED                    CVCV069247 - 2025 DEC 08 10:30 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 9
+
+5 
+ 
+Deputy Commissioner found that Lisa Brekke, Dr. Hosn, and the FCE all clearly supported the 
+finding that Claimant was temporarily disabled as a result of her work injury. Petitioners 
+presented no contrary evidence at the hearing. The Commissioner's award of healing period 
+benefits during February and March 2022 is supported by substantial evidence and is affirmed. 
+C. Healing Period Benefits from July 21, 2023 Through September 11, 2023 
+ 
+Petitioners argue that Claimant was off work during this period as a result of Dr. Hosn's 
+July 21, 2023 surgery to repair Claimant's left thoracic outlet syndrome, which was found not to 
+be work related. 
+ 
+However, as pointed out by the Respondent, the fact that an injured worker has a non-
+work-related disabling condition does not necessarily relieve an employer from liability for 
+healing period benefits during the worker's recovery from a work injury. Iowa Code § 85.33. The 
+Arbitration Decision found that Claimant reached maximum medical improvement for her right 
+thoracic outlet syndrome on September 11, 2023. During the period from July 21, 2023 through 
+September 11, 2023, Claimant was still recovering from her compensable right thoracic outlet 
+syndrome. Claimant's medical records document her physical restrictions throughout the period 
+of her convalescence. The Commissioner's finding that healing period benefits were warranted 
+during this period is supported by substantial evidence and is affirmed. 
+D. Permanent Partial Disability Benefits 
+ 
+Petitioners argue that under Delaney v. Second Injury Fund of Iowa, 6 N.W.3d 714 (Iowa 
+2024), and the Commissioner's Jimmerson Appeal Decision, the Commissioner should have 
+limited the award to a scheduled member disability rather than industrial disability. Petitioners 
+contend that Dr. Rondinelli's 20% right upper extremity rating should have resulted in an award 
+of 50 weeks of scheduled member benefits, not 275 weeks based on 55% industrial disability. 
+E-FILED                    CVCV069247 - 2025 DEC 08 10:30 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 9
+
+6 
+ 
+ 
+A review of Dr. Rondinelli's report reveals that because there is no categorical rating for 
+thoracic outlet syndrome in the AMA Guides, he utilized right upper extremity ratings by 
+analogy, which were then converted to the body as a whole. The AMA Guides require upper 
+extremity values to be used by analogy where no categorical thoracic outlet syndrome rating 
+exists. Dr. Rondinelli indicated that Claimant's permanent impairment was 12% to her body as a 
+whole. He did not conclude that Claimant's impairment was limited to the right upper extremity. 
+ 
+Petitioners' reliance on Delaney actually supports the Commissioner's decision. In 
+Delaney, the Iowa Supreme Court rejected a per se approach and held that "whether an injury 
+results in the 'loss of use' to a scheduled member or extends to the body as a whole is a fact-
+based inquiry that must be determined on a case-by-case basis." Delaney, 6 N.W.3d at 720. The 
+Court explained that "in some cases, an injury to a bodily system may extend beyond a localized 
+area and amount to an injury to the body as a whole," while "in other cases an injury to a bodily 
+system may result only in localized loss of use to a scheduled member." Id. at 720-21. 
+ 
+The Arbitration Decision quoted Delaney and applied its case-by-case requirement. 
+Deputy Commissioner Phillips acknowledged that "the right upper extremity alone would result 
+in a scheduled member injury," but found that "it is clear from the record that her injury extends 
+to her body as a whole." The FCE revealed that Claimant experienced limitations with lifting and 
+carrying, elevated work, forward bending, walking, and climbing stairs. Claimant's medical 
+records consistently reflected symptomatology of neck and chest pain associated with her right 
+thoracic outlet syndrome, not just upper extremity impairment. Petitioners contend that the 
+impairment should be treated as limited to the right upper extremity. However, under Delaney, 
+the analysis does not turn solely on the anatomical situs of the rated impairment, but on the 
+totality of functional loss. 
+E-FILED                    CVCV069247 - 2025 DEC 08 10:30 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 9
+
+7 
+ 
+ 
+Additionally, Petitioners entered into a stipulation providing that if either the alleged 
+bilateral thoracic outlet syndrome or the alleged vision injuries were found to have arisen out of 
+the employment and to have caused permanent disability, the disability would be compensated 
+industrially. Petitioners argue the stipulation is not triggered because neither bilateral TOS nor 
+vision injuries were found compensable. Although the stipulation's wording refers to bilateral 
+TOS or vision injuries, the Arbitration Decision interpreted it to apply to any TOS injury meeting 
+the causation and permanency requirements. This interpretation is reasonable and supported by 
+the Deputy Commissioner's explicit finding that right TOS satisfied both conditions. 
+ 
+The unrebutted FCE revealed that Claimant has very restricted physical abilities. At the 
+time of hearing, she continued to experience numbness among other significant complaints. Even 
+three years after the date of injury, she was unable to work per the instruction of treater Lisa 
+Brekke. 
+ 
+The Commissioner's award of PPD benefits based on 55% industrial disability is 
+supported by substantial evidence, is consistent with the parties' stipulation, and properly applies 
+the Delaney framework. The Deputy Commissioner did not classify TOS as an unscheduled 
+injury per se, but instead evaluated the evidence and concluded that its functional effects 
+extended beyond the right upper extremity. This determination is not irrational, illogical, or 
+wholly unjustifiable. The Commissioner's decision is affirmed. 
+IV. CONCLUSION 
+ 
+The Court finds that the Commissioner's Appeal Decision is supported by substantial 
+evidence in the record when viewed as a whole and is not affected by error of law. The 
+Commissioner's determinations regarding credibility, weight of evidence, and application of law 
+E-FILED                    CVCV069247 - 2025 DEC 08 10:30 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 9
+
+8 
+ 
+to fact are entitled to significant deference, and Petitioners have not demonstrated that those 
+determinations were irrational, illogical, or wholly unjustifiable. 
+ 
+IT IS THEREFORE ORDERED that Petitioners' Petition for Judicial Review is 
+DENIED. 
+ 
+IT IS FURTHER ORDERED that the Commissioner's Appeal Decision dated April 28, 
+2025 is AFFIRMED in its entirety. 
+ 
+IT IS FURTHER ORDERED that costs are assessed to Petitioners. 
+ 
+E-FILED                    CVCV069247 - 2025 DEC 08 10:30 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 9
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV069247
+CONCEPT REHAB INC ET AL VS SAMANTHA WELLS
+Type:
+OTHER ORDER
+So Ordered
+Electronically signed on 2025-12-08 10:30:19
+E-FILED                    CVCV069247 - 2025 DEC 08 10:30 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 9

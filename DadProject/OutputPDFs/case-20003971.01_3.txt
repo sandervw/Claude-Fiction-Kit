@@ -1,0 +1,294 @@
+Case Number: 20003971.01
+Case Title:  PINGEL, VIRLENE V. IOWA CENTRAL COMMUNITY COLLEGE
+Doc Type:    Decision - District Court
+Source:      Pingel, Virlene-20003971.01.District Court Decision.PDF
+========================================================================
+
+1 
+IN THE IOWA DISTRICT COURT FOR WEBSTER COUNTY 
+ 
+VIRLENE PINGEL, 
+ 
+Claimant/Petitioner, 
+ 
+vs. 
+ 
+IOWA CENTRAL COMMUNITY 
+COLLEGE, 
+ 
+Employer, 
+ 
+EMCASCO INSURANCE COMPANY, 
+ 
+Insurance Carrier, 
+ 
+ 
+Defendants/Respondents. 
+ 
+ 
+ 
+Case No. CVCV322689 
+ 
+ 
+ 
+ 
+ORDER RE: CLAIMANT’S PETITION 
+FOR JUDICIAL REVIEW 
+ 
+The matter came before the court for trial on November 1, 2023.  Claimant filed her Petition 
+for Judicial Review on May 16, 2023.  After hearing the arguments of counsel and reviewing the 
+record, the court rules as follows. 
+ 
+FACTUAL & PROCEDURAL BACKGROUND 
+I. 
+Petition & Answer 
+On May 16, 2023, claimant Virlene Pingel (“Pingel”), by and through her attorney Janece 
+Valentine (“Ms. Valentine”), filed a Petition for Judicial Review, pursuant to Iowa Code § 17A.19, 
+against defendants Iowa Central Community College (“Iowa Central”) and Emcasco Insurance 
+Company (“Emcasco”). Pingel was a resident of Fort Dodge and employed at the Iowa Central 
+Fort Dodge campus. Emcasco was an issuer of workers’ compensation policies in Iowa. 
+Pingel is seeking review of a final order of the Iowa Workers’ Compensation 
+Commissioner (“Commissioner”) filed May 10, 2023. Pingel believes that the agency decision is 
+deficient in the following ways: (a) erroneous interpretation of law not within discretion of agency; 
+(b) determination of fact not supported by substantial evidence; (c) inconsistent with the agency’s 
+precedent; (d) product of illogical and irrational reasoning; (e) product of an inconsiderate 
+decision-making process; (f) action not required by law with a grossly disproportionate negative 
+E-FILED                    CVCV322689 - 2023 DEC 01 02:19 PM             WEBSTER    
+CLERK OF DISTRICT COURT                    Page 1 of 9
+
+2 
+impact; (g) irrational interpretation of law; (h) irrational and illogical application of law to fact; 
+and (i) otherwise unreasonable, arbitrary, capricious, or an abuse of discretion. Claimant’s 
+Petition, ⁋ 6. Pingel is asking the court to reverse the agency’s final decision entirely. 
+On May 17, 2023, Iowa Central and Emcasco (“Defendants”) filed an Answer to Petition 
+for Judicial Review. Defendants reject Pingel’s issues with the Commissioner’s decision, arguing 
+that the decision was in fact supported by substantial evidence. Defendants’ Answer, ⁋ 2. They are 
+asking the court to affirm the Commissioner’s decision. 
+II. 
+Record of Appeal Decision 
+On June 23, 2023, the Commissioner filed a Certificate, or certified record, of the agency 
+case being contested by Pingel. The record included electronic copies of the exhibits, transcript, 
+and other written records, as well as a thumb drive containing video/audio recordings of 
+depositions. Of particular relevancy in this case is the Commissioner’s attached Appeal Decision, 
+which lays out his reasoning for reversing the arbitration decision of Deputy Commissioner Walsh 
+(“Mr. Walsh”) who heard this case in the first instance. 
+The Appeal Decision describes Pingel’s visits to the family clinic between August and 
+October 2019. Certificate, p. 10. Pingel had visited her doctor for several ailments – including 
+allergy symptoms, trouble breathing, vomiting, and diarrhea – at various points over that period 
+(except during the month of September). Id. at pp. 10-11. On October 23, 2019, Pingel returned to 
+her doctor with similar symptoms, and asserted (for the first time in the record) that her symptoms 
+were related to an exposure to chemicals at work that aggravated her pre-existing condition of 
+pulmonary hypertension. Id. at p. 11. Her doctor diagnosed Pingel with bronchitis and duly 
+prescribed. Pingel presented no evidence of medical treatment in November 2019. Id. 
+After at least one other visit in early December 2019, Pingel was referred to pulmonologist 
+James Meyer, D.O. (“Dr. Meyer”) to undergo a complete pulmonary function test. Id. at pp. 11-
+12. Dr. Meyer found Pingel suffered from exertional dyspnea. Id. at p. 12. Pingel reported her 
+dyspnea had gotten worse while working with chemicals at Iowa Central. Id. Dr. Meyer noted 
+several reasons for her exertional dyspnea: chronic obstructive pulmonary disease, tobacco abuse 
+disorder, chronic systolic congestive heart failure, nonischemic cardiomyopathy, chronic atrial 
+fibrillation, pulmonary hypertension, snoring, sleep disturbance, obesity, and physical 
+deconditioning. Id. Dr. Meyer recommended Pingel to continue her ongoing bronchodilator 
+E-FILED                    CVCV322689 - 2023 DEC 01 02:19 PM             WEBSTER    
+CLERK OF DISTRICT COURT                    Page 2 of 9
+
+3 
+therapy, stop smoking, and undergo an echocardiogram and sleep study. Id. At Pingel’s request, 
+Dr. Meyer agreed to take her off work until a cardiologist. evaluated her Id. 
+Pingel returned to work. She revisited Dr. Meyer on January 29, 2020. She reported that 
+she was ill and that she believed that chemicals at work were the cause.  Id. According to Dr. 
+Meyer, Pingel wanted to be paid disability benefits, but he advised her to simply find substitute 
+employment. Id. Dr. Meyer provided Pingel with a work excuse, stating that working with 
+chemicals “causes complications with her respiratory system.” Id. at p. 13., Shortly thereafter, 
+Iowa Central terminated Pingel from her employment as a result of this restriction. Claimant’s 
+Brief, p. 6. 
+Following his January 29 examination, Dr. Meyer instructed Pingel to call or return if her 
+respiratory issues worsened. Certificate, p. 14. Pingel testified she has not experienced flare-ups – 
+and therefore not visited Dr. Meyer – since she last worked for Iowa Central in January, 2020. Id. 
+The record reflects no additional visits to her family physician except through Pingel’s testimony. 
+Id. 
+Mr. Walsh found in his arbitration decision (filed December 1, 2022) that Pingel satisfied 
+her burden of proof for permanent disability as a result of her work injury. Id. at 15. He found 
+Pingel sustained a nominal loss of earning capacity of 20% and awarded costs accordingly. Id. at 
+p. 81. Mr. Walsh largely relied on an independent medical examination by Dr. Bansal conducted 
+on March 18, 2022. Id. at p. 15. Dr. Bansal assigned 10% whole person impairment and 
+recommended permanent work restrictions based on Pingel’s asthma. Id. 
+In contrast, Defendants obtained expert reports from several different doctors. Dr. Hawk 
+opined on March 25, 2022, that he could not state with a reasonable degree of medical certainty 
+that Pingel had sustained a permanent injury or impairment from her employment at Iowa Central. 
+Id. at p. 14. Dr. Hawk further indicated that any work-related aggravation was only temporary and 
+primarily caused by her underlying conditions, not her employment. Id. Dr. Brimeyer, a 
+pulmonologist, agreed with Dr. Hawk’s opinion, expressly disagreed with Dr. Bansal’s opinion, 
+and attributed Pingel’s symptoms primarily to her “bad lifestyle choice” of smoking which 
+exacerbated her COPD. Id. at p. 15. Dr. Brimeyer agreed with Dr. Meyer that there were several 
+explanations for Pingel’s exertional dyspnea, and concluded that Pingel had no current or 
+permanent restrictions or limitations as a result of her employment at Iowa Central. Id. 
+E-FILED                    CVCV322689 - 2023 DEC 01 02:19 PM             WEBSTER    
+CLERK OF DISTRICT COURT                    Page 3 of 9
+
+4 
+The Commissioner disagreed with Mr. Walsh’s conclusion that Dr. Bansal’s medical 
+opinion was the “most convincing” in the record. Id. The Commissioner found that Dr. Bansal 
+never affirmatively opined that Pingel’s workplace exposures materially or permanently 
+aggravated her pre-existing condition, as Mr. Walsh found. Id. Further, the Commissioner found 
+that Dr. Bansal’s opinion relied on information that was unsupported by the record. Id. at p. 16. 
+The Commissioner noted that there were no contemporaneous records to establish that Pingel’s 
+medications increased in dosage or frequency since the date of injury. Instead, Dr. Bansal relied 
+on Pingel’s narrative in concluding that she had a workplace disability. Id. Also, the Commissioner 
+noted that Dr. Bansal failed to consider or address Dr. Meyer’s alternate explanations for Pingel’s 
+pulmonary condition. Id. at p. 17. The Commissioner further found Dr. Bansal’s opinions failed to 
+establish an affirmative causal relationship between Pingel’s workplace exposures and her alleged 
+permanent impairment. Id. 
+Alternatively, Mr. Walsh found that “industrial disability benefits would still be 
+appropriate” in the absence of a finding of permanent impairment. Id. Again, the Commissioner 
+disagreed. Pingel offered no evidence to establish that she developed a permanent allergy to any 
+chemical at Iowa Central. Id. at p. 18. On the contrary, Dr. Hawk and Dr. Brimeyer opined that 
+her allergies were not caused or related to the Iowa Central employment, nor would any such 
+allergies impose any current or permanent restrictions or limitations on employment. Id. While 
+both Dr. Meyer and Dr. Bansal imposed work restrictions, neither “expressly relate[d such 
+restrictions] to the alleged work injury or deem[ed] the restrictions permanent.” Id. 
+The Commissioner concluded that Pingel failed to satisfy her burden to prove that she 
+sustained any permanent disability as a result of her April 25, 2019, work injury. Id. at pp. 18-19. 
+The Commissioner thereby reversed Mr. Walsh, concluding that Pingel “shall take nothing with 
+respect to permanent partial disability benefits.” Id. at 19. 
+ 
+III. 
+Trial Briefs 
+On July 13, 2023, the court filed a Trial Notice setting a telephonic non-jury trial for 
+November 1, 2023. On November 1, Ms. Valentine appeared on behalf of Pingel and attorney 
+Brian Scienszinski appearing via telephone for Defendants.  
+E-FILED                    CVCV322689 - 2023 DEC 01 02:19 PM             WEBSTER    
+CLERK OF DISTRICT COURT                    Page 4 of 9
+
+5 
+The Petitioner’s Brief (“Claimant’s Brief”) argues: (I) The Commissioner committed error 
+of law in finding Dr. Meyer did not provide a causation opinion when his causation opinion is set 
+out at Joint Exhibit 3, page 63; (II) The agency committed error of law when it used agency 
+expertise in second-guessing Dr. Bansal’s use of the AMA Guides – agency expertise which is 
+specifically prohibited by Iowa Code 85.34(2)(x); and (III) The agency committed error of law in 
+concluding Pingel was precluded from recovery that her allergy was “an underlying personal 
+allergy condition”, and further, the agency erred in finding there was no evidence to suggest 
+permanency or restrictions. Claimant’s Brief, pp. 8-16.  
+Defendants-Respondents’ Brief on Judicial Review (“Defendants’ Brief”) responds that 
+the Commissioner’s finding that Pingel did not sustain a permanent injury as a result of her 
+employment with Iowa Central was supported by substantial evidence in the record as a whole 
+and therefore must be upheld on judicial review. Defendants’ Brief, pp. 7-21. 
+ 
+ANALYSIS 
+I. 
+Standard of Review 
+Iowa Code Chapter 17A governs review of this matter. In a proceeding for judicial review, 
+the reviewing court is not permitted to engage in a de novo review of the evidence; instead, the 
+court must “broadly and liberally construe the [C]ommissioner’s findings to uphold, rather than 
+defeat the [C]ommissioner’s decision.” Second Injury Fund v. Bergeson, 526 N.W.2d 543, 546 
+(Iowa 1995). The Commissioner’s findings made as a final agency action are binding on appeal 
+unless a contrary result is compelled as a matter of law. Long v. Roberts Dairy Co., 528 N.W.2d 
+122, 123 (Iowa 1995). The court is not bound by the Commissioner’s interpretation of the law and 
+need not give any deference to the agency’s decision on legal issues. Meyer v. IBP, Inc., 710 
+N.W.2d 213, 218-19 (Iowa 2006); Second Injury Fund v. Nelson, 544 N.W.2d 258, 264, 267-68 
+(Iowa 1995); Iowa Code § 17A.19(10)(b), (c), (l)-(m); Iowa Code § 17A.19(11)(b). To the extent 
+error is predicated on an erroneous interpretation of the law, the court is not to give deference to 
+the Commissioner. Schadendorf v. Snap-On Tools Corp., 757 N.W.2d 330, 334 (Iowa 2008); Bell 
+Bros. Heating & Air Conditioning v. Gwinn, 779 N.W.2d 193 (Iowa 2010). In such cases, a 
+reviewing court is empowered to substitute its own judgment for that of the Commissioner. Finch 
+v. Schneider Specialized Carriers, Inc., 700 N.W.2d 328, 330 (Iowa 2005). 
+E-FILED                    CVCV322689 - 2023 DEC 01 02:19 PM             WEBSTER    
+CLERK OF DISTRICT COURT                    Page 5 of 9
+
+6 
+However, the court is required to give limited deference to the Commissioner’s application 
+of the law to the facts of the case. Meyer, 710 N.W.2d at 218-219; Second Injury Fund v. Braden, 
+459 N.W.2d 467, 468 (Iowa 1990); Iowa Code § 17A.19(11)(c). Further, the court must give 
+significant deference to the Commissioner’s factual findings, which must be affirmed if they are 
+supported by substantial evidence in the record as a whole. Meyer, 710 N.W.2d at 218-219; 
+Mycogen Seeds v. Sands, 668 N.W.2d 457, 463-64 (Iowa 2004); Iowa Code § 17A.19(10)(f). In 
+reviewing the Commissioner’s findings of fact, the question is not whether the evidence might 
+support a different finding, but whether it supports the findings actually made. St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646, 649 (Iowa 2000). Where substantial evidence amply supports a finding 
+actually made by the Commissioner, the court is not at liberty to disturb it on the grounds the 
+evidence could support a different conclusion. Mike Brooks, Inc. v. House, 843 N.W.2d 885, 889 
+(Iowa 2014). 
+Generally, expert testimony is essential to establish the causal connection between an 
+injury and the claimed disability. Sherman v. Pella Corp., 576 N.W.2d 312 (Iowa 1998). The 
+expert opinion may be accepted or rejected, in whole or in part. The weight to be given such 
+opinion is for the finder of fact. St. Luke’s Hosp., 604 N.W.2d at 652. 
+II. 
+Application of Law to Facts 
+The Commissioner found that any allergies to the chemicals used at Iowa Central were due 
+to Pingel’s underlying personal health condition, based on the opinions of Dr. Hawk and Dr. 
+Brimeyer. The Commissioner further found that any aggravation of Pingel’s breathing condition 
+was merely temporary. Dr. Hawk was unable to conclude that Pingel sustained any permanent 
+injury or impairment related to her employment at Iowa Central, and Dr. Brimeyer opined that any 
+aggravation related to Pingel’s work environment would have resolved in days to weeks after 
+Pingel’s removal from the environment. 
+Despite Pingel’s claims to the contrary, Dr. Bansal did not opine that Pingel sustained any 
+permanent injury or disability as a result of her employment at Iowa Central. Rather, Dr. Bansal 
+determined that Pingel had a 10% whole person impairment of her lungs/pulmonary function based 
+on asthma, which Pingel admitted she had for many years before her employment at Iowa Central. 
+Mr. Walsh found that Dr. Bansal concluded that Pingel’s impairment was caused or aggravated by 
+her exposure to chemicals at Iowa Central. While Dr. Bansal implied (or, rather, it can be inferred 
+E-FILED                    CVCV322689 - 2023 DEC 01 02:19 PM             WEBSTER    
+CLERK OF DISTRICT COURT                    Page 6 of 9
+
+7 
+from his opinion) that Pingel’s Iowa Central employment likely aggravated her breathing, he never 
+specifically described the causal connection. Dr. Bansal certainly never opined that Pingel suffered 
+any permanent injury or permanent aggravation of her breathing condition as a result of her 
+employment. Likewise, Dr. Bansal never predicted that any increased treatment or worsening of 
+Pingel’s condition would be related to her work at Iowa Central. 
+Additionally, Pingel cites Iowa Code § 85.34(2)(x) – “[A]gency expertise shall not be 
+utilized in determining loss or percentage of permanent impairment” – in support of her claim that 
+the agency committed an error of law when it second-guessed Dr. Bansal’s use of the AMA 
+Guides. The Commissioner did not violate this provision. Rather, the Commissioner utilized the 
+“agency’s expertise, technical competence, and specialized knowledge . . . in the evaluation of 
+evidence.” Iowa Code § 17A.14(5). The Iowa Code does not prohibit the agency from relying on 
+its expertise to determine whether a claimant’s burden of proof to establish a causal relationship 
+between their impairment and their alleged permanent work injury has been satisfied. 
+The Commissioner found that Pingel’s current breathing problems are likely due to her 
+long history of smoking. Pingel admitted that her doctors advised her smoking would worsen her 
+asthma. Dr. Brimeyer opined that Pingel’s breathing issues were related to her underlying health 
+issues – including CHF, COPD, obesity, and deconditioning – as opposed to her work at Iowa 
+Central. His opinion was based upon his education and experience, including a fellowship in 
+pulmonology, nine years of experience practicing pulmonary and critical care medicine, and board 
+certification in internal medicine and pulmonology. As Dr. Brimeyer stated, any worsening of 
+Pingel’s condition – and any treatment she has sought since she last worked at Iowa Central ~was 
+due to her history of smoking and continued smoking. 
+Despite Pingel’s claims to the contrary, the Commissioner did not fail to consider Dr. 
+Meyer’s medical opinions. Dr. Meyer opined in a work release sent to Pingel that “[i]t is my 
+medical opinion that Virlene Pingel should not be working with chemicals as it causes 
+complications with her respiratory system.” Certificate, p. 13 (emphasis added). Despite 
+Pingel’s claims, the fact that this statement is from a work release, not a medical note, comports 
+with the Commissioner’s summary that “the contemporaneous medical notes of Dr. Meyer . . . 
+are void of any causation opinions”. Id. (emphasis added). Furthermore, the Commissioner did 
+E-FILED                    CVCV322689 - 2023 DEC 01 02:19 PM             WEBSTER    
+CLERK OF DISTRICT COURT                    Page 7 of 9
+
+8 
+not err in finding the opinions of Dr. Bansal unconvincing compared with the other evidence 
+presented. 
+ 
+CONCLUSION 
+The court finds in the defendant’s favor. The Commissioner found that Pingel did not 
+sustain any permanent injury or permanent aggravation of her underlying medical condition as a 
+result of her employment at Iowa Central. Substantial evidence in the record supports this finding. 
+Therefore, the Commissioner’s decision must be upheld. 
+IT IS ORDERED that Claimant’s Petition for Judicial Review filed on May 16, 2023, is 
+DENIED, and the Commissioner’s appeal decision filed on May 10, 2023, is AFFIRMED.  Costs 
+are assessed to the plaintiff. 
+ 
+CLERK TO PROVIDE COPIES TO: 
+Counsel of Record 
+E-FILED                    CVCV322689 - 2023 DEC 01 02:19 PM             WEBSTER    
+CLERK OF DISTRICT COURT                    Page 8 of 9
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV322689
+VIRLENE PINGEL VS IOWA CENTRAL COMM COLLEGE &
+EMCASCO INS CO
+Type:
+OTHER ORDER
+So Ordered
+Electronically signed on 2023-12-01 14:19:42
+E-FILED                    CVCV322689 - 2023 DEC 01 02:19 PM             WEBSTER    
+CLERK OF DISTRICT COURT                    Page 9 of 9

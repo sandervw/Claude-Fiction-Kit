@@ -1,0 +1,866 @@
+Case Number: 5020712.02
+Case Title:  MCCAIN, SHANNON V. QWEST CORPORATION
+Doc Type:    Decision - Deputy
+Source:      McCain Shannon-5020712.02d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+SHANNON MCCAIN, 
+  : 
+ 
+ 
+  : 
+               File No. 5020712.02 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                          
+QWEST CORPORATION, 
+  : 
+           ARBITRATION DECISION 
+ 
+ 
+  :                        
+ 
+Employer, 
+  : 
+ 
+ 
+  :                            
+and 
+ 
+  : 
+ 
+ 
+  : 
+INSURANCE CO. OF THE STATE OF   : 
+PA, 
+  
+  : 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  : 
+     Head Notes:  1108.50; 1402.60; 
+ 
+Defendants. 
+  :                       
+      2501; 2701 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+ 
+Claimant Shannon McCain filed a petition in arbitration seeking worker’s 
+compensation benefits against Qwest Corporation, employer, and Insurance Company 
+of the State of PA, insurer, for an accepted work injury date of May 13, 2004. The case 
+came before the undersigned for an arbitration hearing on May 6, 2024. Pursuant to an 
+order of the Iowa Workers’ Compensation Commissioner, this case proceeded to a live 
+video hearing via Zoom, with all parties and the court reporter appearing remotely. The 
+hearing proceeded without significant difficulties. 
+The parties filed a hearing report prior to the commencement of the hearing. On 
+the hearing report, the parties entered into numerous stipulations. Those stipulations 
+were accepted and no factual or legal issues relative to the parties’ stipulations will be 
+made or discussed. The parties are now bound by their stipulations. 
+The evidentiary record includes Joint Exhibits 1 through 5, Claimant’s Exhibits 1 
+through 3, and Defendants’ Exhibits A through H.  
+Claimant testified on his own behalf. The evidentiary record closed at the 
+conclusion of the evidentiary hearing on May 6, 2024. The parties submitted post-
+hearing briefs on June 21, 2024, and the case was considered fully submitted on that 
+date. 
+ 
+ELECTRONICALLY FILED     2025-Jan-10  11:42:11     DIVISION OF WORKERS' COMPENSATION
+
+MCCAIN V. QWEST CORPORATION 
+Page 2 
+ 
+ISSUES 
+1. 
+Whether claimant is entitled to alternate medical care related to the work 
+injury of May 13, 2004; 
+ 
+2. 
+Payment of certain medical expenses; and 
+ 
+3. 
+Taxation of costs. 
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+Claimant’s testimony was consistent as compared to the evidentiary record, and 
+his demeanor at the time of hearing gave the undersigned no reason to doubt his 
+veracity. Claimant is found credible. 
+At the time of hearing, claimant was a 49-year-old person. (Hearing Transcript, p. 
+8) Claimant has worked for CenturyLink, formerly Qwest, since April 16, 2000. He is 
+employed as a network technician. (Tr., p. 9) His job involves getting phone lines to 
+people’s houses to provide telephone and internet services. The phone lines can be 
+buried underground or above ground via telephone poles.  
+Over the course of his employment, claimant has sustained a couple of work-
+related injuries. In 2001, he slipped on ice, landing on his chest. He testified that he had 
+a lot of pain in his sternum/ribs and back, but did not have much treatment at the time of 
+that injury. (Tr., pp. 9-13) He testified that after that injury his condition never fully 
+resolved, as different activities would set it off. (Tr., pp. 13-14) However, he was 
+released from care and allowed to return to work with no restrictions by May of 2002. 
+See Shannon McCain v. Qwest Corp., File No. 5020712, p. 2 (Arb., August 7, 2008) 
+Claimant sustained a second work injury on May 13, 2004. (Tr., p. 13) At that 
+time, he was working at a house when he had to move a large boulder out of the way. 
+He said that movement set off the prior injury, in his opinion, and he requested medical 
+care. (Tr., p. 14)  
+The original case went to hearing before former Deputy Workers’ Compensation 
+Commissioner Ron Pohlman on May 21, 2008. To briefly summarize claimant’s care 
+prior to the arbitration hearing, he began treating with Douglas Sedlacek, M.D., shortly 
+after the injury. (Joint Exhibit 1, p. 3) He explained to Dr. Sedlacek that he had an initial 
+injury in 2001, after which he developed left sternal pain and left thoracic pain. (Jt. Ex. 1, 
+p. 1) He had conservative treatment and his evaluations were normal, but he continued 
+to have pain. However, he tolerated it and continued to work with no additional 
+treatment. With the 2004 injury, however, he felt his pain was aggravated, and at the 
+time he first saw Dr. Sedlacek he said it was “markedly affecting” him. He could not get 
+better after the 2004 incident, and activities were “markedly aggravating” his pain. He 
+complained of mid thoracic pain, which he described as radiating out into his left side. 
+
+MCCAIN V. QWEST CORPORATION 
+Page 3 
+ 
+Dr. Sedlacek noted a spasmodic component as well. They discussed rib articulation, 
+thoracic facet joints, and possible treatments, including a transforaminal epidural steroid 
+block and radiofrequency lesioning. On September 16, 2004, he had T4, T5, and T6 left 
+rib articulation injections, mainly for diagnostic purposes. (Jt. Ex. 1, p. 5)  
+The rib articulation blocks did not help, so claimant returned to Dr. Sedlacek on 
+October 4, 2004. (Jt. Ex. 1, p. 7) He received trial medial branch blocks at T4, T5, T6, 
+and T7 on the left, under fluoroscopic guidance. When he followed up on November 15, 
+2004, he reported marked improvement following the procedure. (Jt. Ex. 1, p. 8) Dr. 
+Sedlacek gave claimant the option of Botox injections to try to treat the spasm, or the 
+radiofrequency procedure. On December 23, 2004, claimant had additional trial medial 
+branch blocks at the same levels. (Jt. Ex. 1, p. 10) The record notes claimant had been 
+denied for Botox.  
+On April 19, 2005, claimant had his first radiofrequency ablation. (Jt. Ex. 1, p. 12) 
+Dr. Sedlacek noted that he had marked improvement after both medial branch trials, but 
+his symptoms had returned after about a month and a half. Claimant underwent 
+radiofrequency ablation of the medial and lateral branches at T4, T5, T6, and T7, left, 
+under fluoroscopic guidance with sedation.  
+Claimant followed up on May 16, 2005, at which time he noted that he had good 
+results for about two weeks, and then his symptoms returned with severe spasms in the 
+upper thoracic area, and pain also developing on the right side. (Jt. Ex. 1, p. 14) Dr. 
+Sedlacek noted that it is not uncommon when the pain gets better on one side to start 
+noticing pain on the opposite side. He felt that the myofascial component seemed to be 
+the most important component and recommended proceeding with a trigger point 
+injection with Botox to try to calm it down. 
+Claimant did not see Dr. Sedlacek again for a year. On August 23, 2006, Dr. 
+Sedlacek wrote to claimant’s case manager with a request to try Botox trigger point 
+injections, as claimant’s symptoms had returned. (Jt. Ex. 1, p. 15) On December 21, 
+2006, claimant had T5 to T8 left paraspinous muscle Botox injections, and 
+radiofrequency lesioning of the medial and lateral branches of T4, T5, T6, and T7 on the 
+left. (Jt. Ex. 1, p. 17) 
+Claimant next saw Dr. Sedlacek on January 18, 2007, at which time he had 
+undergone an MRI of the thoracic spine. (Jt. Ex. 1, p. 19) Dr. Sedlacek noted the MRI 
+showed some mild degeneration at T10-T11, but was otherwise unremarkable. He 
+recommended continuing with Tramadol to see how he does, and consider having him 
+return for injections if needed.  
+Claimant’s workers’ compensation hearing took place on May 21, 2008. In the 
+original arbitration decision, issued August 7, 2008, the deputy made the following 
+findings of fact: 
+[Claimant] was seen by Jeffrey A. Westpheling, M.D., who assessed the 
+claimant with a thoracic strain.  Dr. Westpheling referred the claimant to 
+
+MCCAIN V. QWEST CORPORATION 
+Page 4 
+ 
+Douglas T. Sedlacek, M.D., for pain management.  Dr. Sedlacek treated 
+the claimant with epidural steroid injections which the claimant indicated 
+gave him some relief.  The final treatment was in January 2007.  The 
+claimant underwent a functional capacity evaluation on July 26, 2004.  
+The recommendations based upon this functional capacity evaluation 
+were that the claimant lift 50 pounds occasionally at levels from floor to 
+shoulder that there was no carrying a ladder over a 150 feet that the 
+claimant can occasionally squat or crouch if he was able to take standing 
+breaks every minute.  Dr. Westpheling placed the claimant at maximum 
+medical improvement on July 29, 2004, and opined that the claimant had 
+zero percent permanent impairment.  The defendants sent the claimant to 
+Farid Manshadi, M.D., for an independent medical evaluation on 
+December 25, 2005.  Dr. Manshadi opined that the claimant had a seven 
+percent whole person impairment pursuant to the AMA Guides to the 
+Evaluation of Permanent Impairment, 5th Edition, and agreed with the 
+recommendations of the functional capacity evaluation performed July 29, 
+2004.  The defendants then paid the claimant for permanent partial 
+disability based upon Dr. Manshadi’s rating. 
+The claimant saw Audrey Shaeffer, D.O., at his attorney’s request for an 
+independent medical evaluation on April 7, 2008.  Dr. Shaeffer gave the 
+claimant an eight percent permanent whole person impairment and 
+agreed with the functional capacity evaluation restrictions from July 2004.   
+McCain v. Qwest at pp. 2-3.  
+The only legal issues decided in the first arbitration decision were the extent of 
+permanent partial disability, and the commencement date for benefits. McCain v. Qwest 
+at 1. Following the arbitration decision, claimant continued to receive authorized medical 
+treatment for his symptoms related to the work injury. He saw Dr. Sedlacek on January 
+16, 2009, at which time his diagnosis was degenerative thoracic disease with persistent 
+recurrent T4-T8 paraspinous muscle pain previously responding to radiofrequency 
+lesioning of the medial branches. (Jt. Ex. 1, p. 20) At that visit he received medial 
+branch blocks at T4-T7. On February 9, 2009, he had T4-T7 left medial and lateral 
+branch radiofrequency under fluoroscopic guidance with sedation. (Jt. Ex. 1, p. 23) On 
+March 5, 2009, he returned with trigger points at T4-T6 with a marked spastic 
+component. (Jt. Ex. 1, p. 26) Dr. Sedlacek noted his pain now seemed to be centered at 
+or above the upper end of his pain on the cervical side. He provided additional trigger 
+point injections. (Jt. Ex. 1, p. 27)  
+On April 6, 2009, claimant saw Robert Garrett, M.D., at Family Care Center. (Jt. 
+Ex. 3, p. 267) At that time, he noted the radiofrequency treatment had resulted in a 
+substantial improvement in his back pain. However, he had “made the mistake” of lifting 
+something heavy a week or so prior, and his back had gotten worse. He requested a 
+refill of Vicodin, and noted he had another appointment at the pain clinic scheduled. 
+
+MCCAIN V. QWEST CORPORATION 
+Page 5 
+ 
+Claimant next saw Dr. Sedlacek on September 2, 2009. (Jt. Ex. 1, p. 29) The 
+record notes that his symptoms had never totally resolved, but the treatments had left 
+him much more functional. Dr. Sedlacek’s impression was recurrent thoracic facet 
+syndrome, maybe slightly higher than before, with mild thoracic degenerative disease, 
+and secondary myofascial trigger points. He had a left medial branch block from T2 to 
+T5 on that date. 
+On October 12, 2009, claimant had another left medial and lateral branch 
+radiofrequency ablation, this time from T2 to T5, along with left T2 to T4 paraspinous 
+muscle Botox injection. (Jt. Ex. 1, p. 32) At his follow up a month later, he was much 
+better and said it was the best he had done with any of the radiofrequencies. (Jt. Ex. 1, 
+p. 34) 
+Claimant did not return again until April 15, 2010, at which time his symptoms 
+had returned. (Jt. Ex. 1, p. 37) He had a T3 to T7 left medial branch block. On May 6, 
+2010, claimant returned and had another radiofrequency ablation of the medial and 
+lateral branches of T2 through T7, as well as trigger point injections at T6 to T9 with 
+Botox. (Jt. Ex. 1, p. 40) 
+This pattern is essentially how claimant’s treatment continued over the next 
+several years. His symptoms would slowly return following each radiofrequency 
+procedure, at which point he would return to Dr. Sedlacek for injections and another 
+radiofrequency ablation. (See Jt. Ex. 1) Of note, claimant had another thoracic MRI on 
+August 2, 2011, which was unremarkable. (Jt. Ex. 1, p. 60) 
+On October 24, 2011, claimant had another medial branch radiofrequency 
+lesioning from T2 to T8, and for denervation of T2-3 through T7-8 facets, along with 
+Botox injections from T2 to T8. (Jt. Ex. 1, p. 61) It is noted at this visit that claimant had 
+been doing well and having a slow return of his symptoms, but then he took a fall eight 
+days prior and landed on his anterior chest. Chest x-rays were negative, and claimant 
+reported his back pain was exacerbated by the fall, but his anterior chest pain was 
+improving.  
+Claimant’s next appointment was April 11, 2012, at which time he received a T6-
+T7 interlaminar epidural steroid block. (Jt. Ex. 1, p. 65) The note indicates that claimant 
+“had an incident where a cinder block fell on him and this radiofrequency after that had 
+just not seemed to help as much.” Claimant testified that the incident with the 
+cinderblock was actually a situation in which he was walking at a job site that had 
+cinderblocks for steps in between a retaining wall, and as claimant was trying to walk up 
+that, one of the blocks rolled, and he fell onto his chest onto the retaining wall. (Tr., pp. 
+39-40) However, claimant testified that the event was not a “major fall;” it just 
+aggravated his regular symptoms. (Tr., pp. 40; 44, 63-64) In comparing the medical 
+records and testimony, it appears that cinderblock incident was actually the fall 
+referenced in the October 24, 2011 medical record, as claimant only remembered one 
+fall aside from the initial fall in 2001. (Tr., p. 45) 
+
+MCCAIN V. QWEST CORPORATION 
+Page 6 
+ 
+In any event, claimant returned to Dr. Sedlacek on May 21, 2012, at which time 
+he received his seventh radiofrequency ablation, again from T2 to T8, left medial 
+branches. (Jt. Ex. 1, p. 69) Dr. Sedlacek noted that claimant was having somewhat 
+decreased efficacy from the procedures, but he was able to return to normal activities 
+after the procedures. He also noted that he was now having some pain that radiated to 
+the right side. At his next visit on November 14, 2012, he continued to complain of some 
+right-sided pain since his fall the previous October. (Jt. Ex. 2, p. 71) However, he said 
+that pain was tolerable. Dr. Sedlacek’s impressions were thoracic degenerative disease 
+with thoracic spondylosis, treated with radiofrequency and does reasonably well with 
+this; probably myofascial discomfort in the paraspinous muscle, probably secondary to 
+number one on the right or secondary to his fall; and Lortab usage, without which he did 
+not think he would be able to work. (Jt. Ex. 2, p. 72) 
+Claimant continued to see Dr. Sedlacek over the course of 2013. On January 9, 
+2013, he reported he still had some symptoms on the right, but they improved when the 
+left improved. (Jt. Ex. 2, p. 75) On January 28, 2013, he had radiofrequency lesioning of 
+the medial branches of T2 to T8, right, under fluoroscopic guidance, along with T4 to T8 
+paraspinous muscle trigger point injections, on the right. (Jt. Ex. 2, p. 77) He had 
+additional trigger point injections on March 12, 2013. (Jt. Ex. 2, p. 80)  
+At his visit with Dr. Sedlacek on June 12, 2013, he noted different symptoms than 
+he had before. (Jt. Ex. 2, p. 83) He reported right-sided pain that had been consistent 
+since his last fall. He said as the left side had gotten better, the right side became more 
+accentuating. Dr. Sedlacek ordered a thoracic and cervical MRI in order to determine 
+the etiology of his changing symptomology. (Jt. Ex. 2, pp. 83-84) The MRI took place on 
+June 17, 2013, and Dr. Sedlacek reviewed it with claimant on June 24, 2013. (Jt. Ex. 2, 
+pp. 86-89) He noted the cervical MRI showed bulging annulus at C4-5 and C5-6 with 
+mild effacement of the thecal sac, but without demonstrating neural element 
+compression. (Jt. Ex. 2, p. 88) The thoracic MRI was essentially negative. He noted that 
+most of what claimant complained of was referral pain or pain that started in the upper 
+thoracic area, just medial to the scapula. Claimant had interlaminar epidural steroid 
+blocks at T1-T2.  
+Claimant returned to Dr. Sedlacek on July 24, 2013, at which time he complained 
+of both left and right-sided pain. (Jt. Ex. 2, pp. 92-93) He had trigger point injections and 
+Botox injections. He returned on August 28, 2013 with the same symptoms, and had 
+T2-5 right medial branch blocks for diagnostic purposes. (Jt. Ex. 2, p. 95) The medial 
+branch blocks worked, and claimant returned on October 22, 2013 for T2 to T5 right 
+medial and lateral branch radiofrequency lesioning. (Jt. Ex. 2, p. 98) He then returned 
+on October 31, 2013 for the same procedure on the left at T2 to T8. (Jt. Ex. 2, p. 101) 
+Claimant’s care essentially continued in this pattern for the next several years. In 
+2014, claimant had T2 to T8 left medial branch radiofrequency ablation on July 17, 
+2014. (Jt. Ex. 2, p. 114) He continued with regular follow-up visits and received 
+additional injections as well. (See Jt. Ex. 2, pp. 105-119) On March 24, 2015, claimant 
+returned to Dr. Sedlacek who noted his usual symptoms had returned, both left and 
+right. (Jt. Ex. 2, p. 121) He also noted a quarter-sized lesion had appeared to the left of 
+
+MCCAIN V. QWEST CORPORATION 
+Page 7 
+ 
+claimant’s spine, which he described as “rather hypersensitive.” (Jt. Ex. 2, p. 122) He 
+provided bilateral medial branch blocks, and ordered a repeat MRI. The MRI took place 
+on March 31, 2015, and was negative. (Jt. Ex. 2, p. 124) He had left radiofrequency 
+lesioning at T2 to T8 on April 13, 2015, followed by the right side at T2 to T5 a week 
+later. (Jt. Ex. 2, pp. 125-129) 
+Claimant continued to follow up for the remainder of 2015. (Jt. Ex. 2, pp. 131-
+136) On January 13, 2016, he had a T2 to T5 right medial and lateral branch 
+radiofrequency ablation, followed by the left side at T2 to T8 on February 3, 2016. (Jt. 
+Ex. 2, pp. 138-143) He continued with regular follow-up visits. (Jt. Ex. 2, pp. 144-150) 
+On September 13, 2016, he had a repeat thoracic MRI. (Jt. Ex. 2, pp. 151-152) The MRI 
+showed mild disc space change and desiccated disc at T4-5, T7-8, and T9-10, and 
+minimal posterior disc bulge at T7-8 and T9-10, without resultant spinal canal stenosis 
+or neural foraminal narrowing. (Jt. Ex. 2, p. 152) 
+Claimant’s next radiofrequency procedure took place on January 10, 2017 for the 
+left side at T2 to T8. (Jt. Ex. 2, p. 156) Dr. Sedlacek noted that claimant was seen in the 
+emergency room the weekend prior due to an acute exacerbation with radiation into the 
+chest. One week later on January 17, 2017, he had the same procedure on the right 
+side at T2 to T5. (Jt. Ex. 2, p.161) He had the same procedures again on September 27, 
+2017 for the left and on October 4, 2017 for the right. (Jt. Ex. 2, pp. 172-178) 
+Around the end of 2017, Dr. Sedlacek retired, and claimant’s treatment was 
+transferred to Mark Kline, M.D., at the same clinic. (Tr., p. 17; Jt. Ex. 2, p. 182) Claimant 
+first saw Dr. Kline on February 8, 2018. (Jt. Ex. 2, p. 182) Dr. Kline’s impression was 
+chronic mid-back pain with features of thoracic facet syndrome. (Jt. Ex. 2, p. 183) He 
+noted claimant had substantial improvement with previous thoracic radiofrequency 
+procedures, however, recently his pain relief had been lasting less than six months. He 
+also noted claimant had been stable on his medication regimen, including hydrocodone 
+with acetaminophen.  
+Claimant had a left radiofrequency ablation on April 24, 2018, followed by the 
+right side on May 4, 2018. (Jt. Ex. 2, pp. 190-194) At his follow-up visit on August 15, 
+2018, claimant again reported the duration of pain relief after the procedures had been 
+gradually decreasing. (Jt. Ex. 2, p. 198) He reported his most recent procedures had 
+only provided three months of symptom relief. Dr. Kline suggested trying different 
+medications and considering a trial of intravenous ketamine infusions. 
+On October 24, 2018, claimant reported pain at a level 10 of 10. (Jt. Ex. 2, p. 
+202) Dr. Kline provided an intravenous ketamine infusion in order to try to wind-down 
+the chronic pain. (Jt. Ex. 2, p. 203) On December 26, 2018, claimant called Dr. Kline’s 
+office and reported that he “overdid it with a golf simulator” a few days prior. (Jt. Ex. 2, 
+p. 206) He reported that the ketamine helped with the muscular pain radiating around 
+his sides, but that he had the best luck with radiofrequency procedures to help the 
+actual mid-back pain. 
+
+MCCAIN V. QWEST CORPORATION 
+Page 8 
+ 
+On January 25, 2019, Dr. Kline provided bilateral facet injections at T2-T5, as 
+well as an intravenous ketamine infusion. (Jt. Ex. 2, p. 207) He saw Dr. Kline on May 8, 
+2019, and reported the ketamine was “somewhat helpful” for about two months. (Jt. Ex. 
+2, p. 212) However, at that time, he was experiencing marked worsening of his upper 
+back region, as well as radiation into his left chest wall. Dr. Kline suggested continuing 
+with his current medication regimen, and wanted to consider a trial of a spinal cord 
+stimulator given the increasing left chest wall pain. (Jt. Ex. 2, p. 213) He did not 
+recommend additional radiofrequency procedures due to the decreasing duration of 
+pain relief. 
+During a telephone encounter on July 9, 2019, it was reported that Dr. Kline 
+would not offer any further radiofrequency procedures, and recommended a 
+consultation for a spinal cord stimulator. (Jt. Ex. 2, p. 215) Claimant reported that his 
+insurance would only cover radiofrequency and not the spinal cord stimulator. He also 
+noted that there was a meeting scheduled between Dr. Kline and the insurance 
+company to determine his future needs. As such, Dr. Kline agreed to keep claimant 
+scheduled for his next radiofrequency procedure, which took place on August 28, 2019 
+on the right side. (Jt. Ex. 2, p. 216) The left side was subsequently done on September 
+4, 2019. (Jt. Ex. 2, pp. 220-221)  
+Claimant saw Dr. Kline on January 21, 2020. (Jt. Ex. 2, pp. 226-227) He noted 
+claimant’s ongoing chronic thoracic pain, consistent with thoracic facet syndrome in 
+terms of clinical presentation and response to interventions. (Jt. Ex. 2, p. 227) He was to 
+continue his medications and follow up in four months. Dr. Kline also noted he was to 
+undergo an independent medical evaluation (IME) the following week. 
+Claimant had an IME with Joseph Chen, M.D., on January 27, 2020. 
+(Defendants’ Exhibit D, p. 9) Dr. Chen’s report is dated February 4, 2020. Dr. Chen 
+reviewed claimant’s history and performed an examination. (Def. Ex. D, pp. 9-12) Dr. 
+Chen opined that claimant’s main problem was chronic myofascial pain, with the 
+development of central nervous system hypersensitivity. (Def. Ex. D, p. 12) He stated 
+claimant also developed chronic neuropathic pain. He indicated the additional 
+conditions that contributed to claimant’s chronic pain were his long-term opioid 
+medication use, which also leads to central hyperalgesia, and that his anxiety, 
+depression, and neuropathic pain contributed to his overall pain condition. 
+Dr. Chen further opined that claimant’s current physical problems were not 
+caused by the injury in 2001 or 2004. (Def. Ex. D, p. 12; Def. Ex. E, p. 32) 1 He noted 
+that claimant’s 2001 injury was a soft tissue acute chest wall contusion, and spinal 
+imaging only showed incidental age-appropriate disc degeneration but no sequelae of 
+definitive spinal injury. (Def. Ex. D, p. 12) He opined that over the years since the injury, 
+claimant developed a multifactorial chronic pain condition. He noted that any disc 
+degeneration seen in the early imaging results had progressed as a natural result of 
+                                                                 
+1 In his February 4, 2020 report, Dr. Chen only referenced the 2001 injury when answering defense 
+counsel’s questions. (Def. Ex. D, pp. 12-14) However, he later clarified that his opinions apply to both the 
+2001 and 2004 incidents. (Def. Ex. E, p. 32)  
+
+MCCAIN V. QWEST CORPORATION 
+Page 9 
+ 
+aging and not due to any sequelae of spine injury. He also noted that claimant has had 
+multiple interventional spinal procedures including facet injections, as well as 
+denervation of the medial branch nerves supplying the facet joints. Dr. Chen stated 
+those procedures “would also be expected to lead to the findings of additional disc 
+degeneration that have been seen on [claimant’s] spinal imaging.” He also noted 
+claimant had developed a forward head posture and other behavioral and postural 
+changes that can contribute to myofascial pain. 
+Dr. Chen opined that claimant does not require any further treatment for the 
+work-related part of his chronic pain condition. (Def. Ex. D, p. 13) He discussed that 
+there were no specific findings consistent with significant trauma to his chest wall or 
+thoracic spine, and any trauma that occurred in 2001 or 2004 has had time to heal 
+completely. (Def. Ex. D, p. 13; Def. Ex. E, p. 32) He further opined that additional 
+treatments, including radiofrequency ablation and/or ketamine infusions, are not 
+medically necessary to treat claimant’s chronic pain. He suggested claimant engage in 
+a consistent exercise program, and that he might benefit from specific cognitive-
+behavioral treatments commonly used to treat anxiety and depression. (Def. Ex. D, p. 
+13) Finally, he suggested claimant see his primary care physician for an age-
+appropriate health maintenance screening, seek treatment related to his insomnia, and 
+taper his opioid medication use. 
+On February 14, 2020, Dr. Kline responded to a letter authored by defense 
+counsel. (Def. Ex. A, p. 6) First, he indicated that he was not recommending a trial of a 
+spinal cord stimulator, as claimant suffers from axial thoracic pain, for which spinal cord 
+stimulation is not indicated. Second, he noted that having taken over claimant’s 
+treatment after Dr. Sedlacek retired, he was not involved in his initial assessment and 
+treatment, and was not able to determine whether all levels treated were related to the 
+original injury or changed with time due to age-related degeneration. He noted that 
+practitioners generally only treat the levels most symptomatic at the time of the 
+radiofrequency procedure. Finally, he noted that the radiofrequency procedures were 
+becoming less effective for claimant’s pain, as he most recently only had four months of 
+pain relief, and six months is considered successful. 
+On February 20, 2020, defense counsel wrote to claimant’s attorney and 
+indicated that based upon the evaluation from Dr. Chen and Dr. Kline’s letter, 
+defendants were not going to authorize additional pain management. (Def. Ex. C, p. 8) 
+The letter stated that claimant’s condition requiring treatment appeared to be related to 
+the degeneration of his spine, and not related to the work injury. 
+Claimant continued with treatment despite the denial of care. On March 2, 2020, 
+he had a radiofrequency ablation on the right side at T2 to T5, and a week later on 
+March 9, 2020 he had the same procedure at T3 to T7 on the left. (Jt. Ex. 2, pp. 229-
+235) His next radiofrequency procedures took place on November 9, 2020 on the right, 
+and November 17, 2020 on the left. (Jt. Ex. 2, pp. 239-245) 
+Claimant testified that the radiofrequency procedures are expensive for his 
+family, so once workers’ compensation stopped paying for his treatment, he could not 
+
+MCCAIN V. QWEST CORPORATION 
+Page 10 
+ 
+afford to keep going regularly to have them done. (Tr., pp. 21-22) He saw Dr. Kline on 
+July 16, 2021, at which time his symptoms were again worsening since his last 
+radiofrequency procedure. (Jt. Ex. 2, p. 247)  
+His next visit with Dr. Kline was over a year later, on August 22, 2022. (Jt. Ex. 2, 
+p. 251) At that time, he reported that he was unable to afford the out-of-pocket cost for 
+the radiofrequency procedures, and his pain had continued to worsen. He rated his pain 
+that day at a level 10 of 10. He reported continued trouble sleeping and with activities of 
+daily living. He said he no longer engaged in physical activities outside of work due to 
+the severity of his symptoms, and that he had become more sedentary. This is 
+consistent with claimant’s testimony that since his claim was denied, he does not do as 
+much. (Tr., p. 22) He testified that without radiofrequency, he is in so much pain that all 
+he can do is go to work, come home and eat, and go to bed by 6:30 because he is so 
+exhausted from the constant pain.  
+Dr. Kline noted that claimant’s symptoms began after a 2001 work injury, and 
+were successfully treated for over 10 years with radiofrequency procedures. (Jt. Ex. 2, 
+p. 252) He reviewed the old records and stated claimant’s left-sided thoracic pain had 
+been consistent throughout with respect to character and location. As such, Dr. Kline 
+opined that claimant’s current symptoms were related to his initial work injury and had 
+been consistent throughout. He stated that a repeat radiofrequency procedure would be 
+indicated based on his previous responses.  
+On February 28, 2023, Dr. Kline wrote to claimant’s attorney in response to a 
+request to clarify his opinion regarding the cause of claimant’s symptoms. (Claimant’s 
+Exhibit 1, p. 1) He noted that after Dr. Sedlacek’s retirement in 2018, he continued with 
+the treatment plan he had established, which included thoracic radiofrequency facet 
+neurotomy procedures, low-dose opioid medications, and muscle relaxers. He noted 
+that at the time he was contacted in 2019 by defense counsel, Dr. Sedlacek’s initial 
+treatment records were not available for review in the electronic medical record system, 
+and were not provided by defense counsel. As such, he was unable to definitively opine 
+as to whether he was treating the same thoracic spine levels as Dr. Sedlacek as a 
+sequelae of the initial injuries. Dr. Kline stated that since that time, he had reviewed the 
+initial treatment records, and noted that Dr. Sedlacek treated claimant’s left-sided 
+thoracic facet joints from T2 through T8, and right-sided thoracic facet joints from T2 
+through T8. He noted that right-sided facet syndrome would be an expected sequelae of 
+claimant’s initial injury, and that his treatments had been to the left side at the T3 to T7 
+levels and T2 through T5 on the right. As such, Dr. Kline concluded that the thoracic 
+facet joint levels he had been treating were within the range of those initially treated by 
+Dr. Sedlacek. As a result, he opined that the thoracic back pain condition for which he 
+was treating claimant was the same as that initially treated by Dr. Sedlacek; “a 
+continuation of treatment for his initial work injury.” 
+Claimant next saw Dr. Kline on June 12, 2023, at which time his medications 
+were continued. (Jt. Ex. 2, p. 254) Claimant again rated his pain at a level 10 of 10. Dr. 
+Kline’s impression was chronic thoracic pain in the setting of degenerative disc disease 
+and spondylosis. (Jt. Ex. 2, p. 257) He again noted that claimant symptoms began after 
+
+MCCAIN V. QWEST CORPORATION 
+Page 11 
+ 
+a work injury and were substantially the same, and that repeat radiofrequency would be 
+indicated based on his previous positive response.  
+Claimant returned to Dr. Kline on December 13, 2023, for radiofrequency on the 
+left side. (Jt. Ex. 2, pp. 258-260) Dr. Kline noted that claimant had not returned earlier 
+due to insurance coverage issues. (Jt. Ex. 2, p. 258) He also had a repeat thoracic MRI 
+on November 20, 2023, which Dr. Kline noted showed small central disc protrusions at 
+T5-6, T7-8 and T9-19 without significant spinal canal stenosis or foraminal stenosis. (Jt. 
+Ex. 2, p. 258; Jt. Ex. 5, p. 273) Dr. Kline began the procedure, but had to terminate prior 
+to completion due to reports of radicular pain. (Jt. Ex. 2, p. 260) He returned on 
+December 20, 2023, for the right-sided procedure. (Jt. Ex. 2, p. 261) Dr. Kline noted that 
+claimant had about 50 percent improvement on the left side since the procedure the 
+week prior, and denied radicular symptoms at that time. Radiofrequency lesioning was 
+performed on the right side at T3 to T6, and claimant did not report radicular symptoms 
+during the procedure. (Jt. Ex. 2, p. 263) 
+On February 26, 2024, Dr. Chen completed a second IME of claimant. (Def. Ex. 
+F, p. 33) His report is dated April 3, 2024. He included more information about the 2004 
+injury, as well as a more detailed summary of claimant’s prior medical treatment. (Def. 
+Ex. F, pp. 33-37) He performed a physical examination, and asked claimant to complete 
+several “health status measures” as part of his evaluation as well. (Def. Ex. F, pp. 37-
+39) Dr. Chen’s interpretation of the responses to the health status measure indicated 
+“high self-reports of pain severity and interference.” (Def. Ex. F, p. 40)  
+In response to questions from defense counsel, Dr. Chen noted the pertinent 
+findings in his physical examination included pain with light palpation of claimant’s 
+interscapular and thoracic region, as well as low back pain and bilateral buttock pain. 
+Dr. Chen opined that claimant continues to have chronic myofascial thoracic pain that 
+has arisen from “multiple and entrenched personal factors. (Def. Ex. F, p. 41) Dr. Chen 
+stated that claimant still exhibits features of hypersensitivity of the central nervous 
+system with reports of significant pain even with light and gentle palpation of his thoracic 
+paraspinal muscles that would not be expected to cause any soft tissue damage or 
+injury. He notes that Dr. Sedlacek also found marked hypersensitivity at T5-T8 back in 
+2004.  
+Dr. Chen noted that he also examined a lipoma that had developed over 
+claimant’s middle thoracic spine, and that it was in no way deep to claimant’s thoracic 
+discs or related to the work injury. He opined claimant’s central nervous system 
+hypersensitivity had mainly arisen from his ongoing use of hydrocodone, anxiety, 
+depression, and neuropathic pain. He stated that claimant’s repeated cycles of 
+radiofrequency ablation procedures could have also possibly led to persistence of his 
+chronic pain condition, each being perceived with temporary improvements in pain.  
+Dr. Chen noted that claimant’s pain symptom drawing had changed since his 
+prior IME in 2020, with the addition of low back, buttock/gluteal, and posterior thigh pain 
+that he thought arose from ongoing stiffness and inflexibility in his gluteal muscles that 
+was not present when he examined him in 2020.  
+
+MCCAIN V. QWEST CORPORATION 
+Page 12 
+ 
+In summary, Dr. Chen opined that the 2001 incident in which claimant struck his 
+anterior chest wall was unrelated to claimant’s ongoing thoracic spine pain, as he was 
+“unable to construct any plausible mechanism that anterior chest wall trauma can lead 
+to posterior thoracic spine trauma or lead to thoracic disc degeneration.” With respect to 
+the 2004 incident, Dr. Chen noted that no thoracic spine fractures or injuries were 
+found, but Dr. Sedlacek noted possible facet syndrome or rib articulation syndrome, 
+which led to his additional treatment and the ongoing radiofrequency ablation 
+treatments. (Def. Ex. F, pp. 41-42) Dr. Chen concluded that the 2004 work injury was 
+treated appropriately under the workers’ compensation claim until the Arbitration 
+Decision in 2008, but he “cannot propose any valid mechanism for how a soft-tissue 
+injury that occurred almost 20 years ago has led to any injured tissues to have not 
+healed completely.” (Def. Ex. F, p. 42) He noted that central nervous system 
+hypersensitivity, also called chronic “nociplastic” pain, is understood to reflect nervous 
+system hypersensitivity, but such persistent signals do not reflect any ongoing tissue 
+injury that needs, or responds to, further interventional treatment.  
+Dr. Chen went on to state that in his opinion, claimant’s thoracic disc 
+degeneration progressed as a natural result of aging as opposed to any sequelae of a 
+spinal injury in 2001 or 2004. (Def. Ex. F, p. 43) However, he also stated that claimant’s 
+multiple interventional spinal procedures, including facet injections and denervation of 
+the medial branch nerves, are “supposed to bypass protective stability mechanism in 
+the spine and are expected to cause further disc degeneration.” He also noted claimant 
+had developed a forward head posture and other behavioral and postural changes that 
+can contribute to myofascial pain and disc degeneration.  
+In conclusion, Dr. Chen opined that claimant “developed thoracic back pain 
+idiopathically or due to long-term opioid medication use, pre-existent and concurrent 
+anxiety, depression, and/or misunderstandings of the etiology of his pain.” He added 
+that ongoing opioid use can contribute to his belief that he bends and moves better after 
+each procedure, and that he associates improvement from the radiofrequency ablation 
+as he received medication refills after each procedure. He also noted that ongoing 
+opioid use can lead to central sensitization and decreased efficacy of the procedures. 
+He stated his belief that claimant responded to the initial radiofrequency procedure, and 
+additional procedures were offered and well tolerated, leading to more procedures and 
+ultimately claimant’s belief that he requires ongoing procedures. 
+Dr. Chen opined that it remained his opinion that claimant’s current symptoms 
+are not causally related to the work injury in 2004. He did not believe claimant required 
+any permanent restrictions due to the 2004 injury, or any additional medical treatment 
+related to the 2004 injury. (Def. Ex. F, pp. 43-44) 
+There are several problems with Dr. Chen’s opinions. First, the fact that Dr. Chen 
+examined claimant on two occasions, for one hour each time. (Def. Ex. D, p. 9; Def. Ex. 
+F, p. 33) He also spent several hours reviewing medical records. Compared to the 20 
+years of treatment that has been provided by Dr. Sedlacek and Dr. Kline, it is difficult to 
+give his opinions greater weight. In addition, his first report only speaks to the 2001 
+injury, and while his letter months later indicates his opinions also apply to the 2004 
+
+MCCAIN V. QWEST CORPORATION 
+Page 13 
+ 
+injury, there is no explanation or additional analysis explaining why. Dr. Chen explained 
+in his first report that the acute chest wall contusion that occurred in 2001 would not be 
+the cause of claimant’s ongoing thoracic symptoms so many years later, but the 2004 
+injury occurred when claimant twisted while moving a heavy boulder. The 2004 injury is 
+not addressed in the first report. In his second IME report, Dr. Chen notes that after the 
+2004 injury there were no thoracic spine fractures or injuries identified, but Dr. Sedlacek 
+noted possible facet syndrome or rib articulation syndrome. (Def. Ex. F, p. 41) This is 
+what led to the ongoing injections and branch blocks, and ultimately the radiofrequency 
+procedures and medication regimen. Dr. Chen stated that claimant’s 2004 injury was 
+appropriately treated under his workers’ compensation claim until the Arbitration 
+Decision in 2008. (Def. Ex. F, p. 42) However, at some point thereafter, it appears Dr. 
+Chen believes the same ongoing treatment was no longer appropriate. He did not 
+provide any timeline for when claimant’s symptoms stopped being related to the 2004 
+injury, or explain why the very same symptoms claimant has experienced since the time 
+of the injury were no longer related. 
+ However, what Dr. Chen did say is that claimant’s long-term opioid medication 
+use, anxiety and depression, 2 and the multiple repeated radiofrequency procedures 
+likely contributed to claimant’s ongoing pain and disc degeneration. In other words, the 
+treatment claimant received for the compensable 2004 injury could be a factor in his 
+continued symptomology. Therefore, even if Dr. Chen’s opinion was adopted, it does 
+not eliminate defendants’ liability for claimant’s ongoing medical care. 
+On the other hand, Dr. Sedlacek and Dr. Kline have been treating claimant’s 
+thoracic spine for over 20 years. I find their opinions to be more reliable than Dr. Chen’s 
+opinion. Dr. Kline, after reviewing the medical records, noted that claimant’s symptoms 
+had been consistent throughout, and opined that his current symptoms are related to 
+the initial work injury. (Jt. Ex. 2, p. 252; Cl. Ex. 1, p. 1) He further opined that claimant 
+continues to experience pain relief and significant functional improvement following the 
+radiofrequency procedures, and will likely need to continue them on a yearly basis, in 
+conjunction with his medication regimen. (Jt. Ex. 2, p. 266) Based on Dr. Kline’s 
+opinions, I find that claimant’s current symptoms are related to the work injury on May 
+13, 2004. As such, defendants are responsible for claimant’s medical treatment related 
+to the injury, as well as future reasonable and necessary care. 
+Claimant’s last visit with Dr. Kline prior to the hearing took place on April 3, 2024. 
+(Jt. Ex. 2, p. 264) Claimant reported his overall pain levels were improved by more than 
+50 percent since the procedures, and nearly 100 percent at rest. He continued with his 
+medication to help minimize exacerbations and allow him to continue working. Dr. Kline 
+stated that based on his previous history, claimant would likely need repeat 
+radiofrequency procedures on a yearly basis. He also continued claimant’s medication 
+regimen with minor changes. (Jt. Ex. 2, p. 266)  
+Defendants also argue that claimant sustained multiple other occurrences over 
+the years that essentially amount to intervening/superseding causes of his symptoms. 
+                                                                 
+2 There is no indication that claimant suffers from either anxiety or depression in the medical records. 
+
+MCCAIN V. QWEST CORPORATION 
+Page 14 
+ 
+These incidents include claimant’s aggravation of pain in 2009 when he lifted something 
+heavy (Jt. Ex. 3, p. 267); the fall in October 2011 when he slipped on a cinderblock (Jt. 
+Ex. 3, pp. 61-65); and an incident in December 2018 in which he “overdid it” in a golf 
+simulator (Tr. p, 53; Jt. Ex. 2, p. 206) None of these incidents were significant enough at 
+the time they occurred for defendants to reinvestigate causation and deny ongoing care 
+or open a new injury claim. The time to do so would have been after each incident 
+occurred, not years later. Claimant’s symptoms were the same and his treatment 
+remained the same following each of these incidents. As such, I find these incidents 
+were nothing more than temporary aggravations or exacerbations of claimant’s 2004 
+work injury.  
+Defendants also argue that claimant’s symptoms have changed over time, noting 
+he initially had left-sided pain only. However, claimant testified that the right-sided pain 
+was always there, but they were focused on the left side as it was worse. (Tr., p. 43) 
+This corresponds to the medical records, in which claimant first reported right-sided pain 
+to Dr. Sedlacek on May 16, 2005. (Jt. Ex. 1, p. 14) Dr. Sedlacek noted that it was not 
+uncommon to notice pain on the opposite side once one side started to feel better. Dr. 
+Kline also explained that right-sided facet syndrome would be an expected sequelae of 
+claimant’s initial injury. (Cl. Ex. 1, p. 1) Likewise, claimant’s treatment has always been 
+in his thoracic spine, mainly between T2 and T8 on the left and T2 to T5 on the right. As 
+Dr. Kline noted, treatment levels vary over time depending on which areas of the spine 
+were most symptomatic at the time of treatment. (Def. Ex. A, p. 6) All of the levels he 
+treated were within the same range as those initially treated by Dr. Sedlacek. (Cl. Ex. 1, 
+p. 1) Finally, claimant credibly testified that his pain has remained the same. (Tr., pp. 
+20; 49-50; 52; 56-57; 59-60; 63-66) The medical records consistently note that 
+claimant’s pain is recurrent in nature and his symptoms are described as “typical” and 
+“usual.” (See generally Jt. Ex. 1; Jt. Ex. 2)  
+The overwhelming majority of the evidence supports claimant’s argument that his 
+ongoing symptoms in his thoracic spine are related back to the original May 13, 2004 
+injury. As such, claimant is entitled to ongoing medical care related to the injury, as well 
+as payment of any past medical bills related to the injury. 
+CONCLUSIONS OF LAW 
+ 
+The party who would suffer loss if an issue were not established ordinarily has 
+the burden of proving that issue by a preponderance of the evidence. Iowa R. App. P. 
+6.904(3)(e). 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based. A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause. A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible. George A. Hormel & Co. v. Jordan, 569 N.W.2d 148, 153 
+(Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154, 156 (Iowa Ct. App. 
+1997); Sanchez v. Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 1996). 
+
+MCCAIN V. QWEST CORPORATION 
+Page 15 
+ 
+The question of causal connection is essentially within the domain of expert 
+testimony. The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question. The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances. The 
+expert opinion may be accepted or rejected, in whole or in part. IBP, Inc. v. Harpole, 
+621 N.W.2d 410, 420 (Iowa 2001); St. Luke’s Hosp. v. Gray, 604 N.W.2d 646, 652 
+(Iowa 2000); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845, 853 (Iowa 
+1995). Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 421 (Iowa 1994). Unrebutted 
+expert medical testimony cannot be summarily rejected. Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910, 911-12 (Iowa Ct. App. 1994). 
+In this case, I found that based on the majority of the evidence, including 
+claimant’s credible testimony and the medical records, claimant’s ongoing symptoms 
+are related to the original work injury on May 13, 2004. I accepted the opinion of Dr. 
+Kline, a long-term authorized treating provider, over Dr. Chen, who saw claimant on two 
+occasions for IMEs. Because claimant’s current symptoms are related to the original 
+work injury, he is entitled to ongoing medical care. 
+The employer shall furnish reasonable surgical, medical, dental, osteopathic, 
+chiropractic, podiatric, physical rehabilitation, nursing, ambulance, and hospital services 
+and supplies for all conditions compensable under the workers' compensation law.  The 
+employer shall also allow reasonable and necessary transportation expenses incurred 
+for those services.  The employer has the right to choose the provider of care, except 
+where the employer has denied liability for the injury. Iowa Code section 85.27. Holbert 
+v. Townsend Engineering Co., Thirty-second Biennial Report of the Industrial 
+Commissioner 78 (Review-Reopening October 1975). 
+ 
+By challenging the employer’s choice of treatment – and seeking alternate care – 
+claimant assumes the burden of proving the authorized care is unreasonable. Long v. 
+Roberts Dairy Co., 528 N.W.2d 122, 123 (Iowa 1995). Determining what care is 
+reasonable under the statute is a question of fact. Id. The employer’s obligation turns on 
+the question of reasonable necessity, not desirability. Id. at 124; Harned v. Farmland 
+Foods, Inc., 331 N.W.2d 98, 101 (Iowa 1983). In Pirelli-Armstrong Tire Co., 562 N.W.2d 
+at 437, the court approvingly quoted Bowles v. Los Lunas Schools, 109 N.M. 100, 106, 
+781 P.2d 1178, 1184 (N.M. Ct. App. 1989): 
+[T]he words “reasonable” and “adequate” appear to describe the same 
+standard. 
+[The New Mexico rule] requires the employer to provide a certain standard 
+of care and excuses the employer from any obligation to provide other 
+services only if that standard is met.  We construe the terms "reasonable” 
+and “adequate” as describing care that is both appropriate to the injury and 
+sufficient to bring the worker to maximum recovery. 
+
+MCCAIN V. QWEST CORPORATION 
+Page 16 
+ 
+The commissioner is justified in ordering alternate care when employer-
+authorized care has not been effective, and evidence shows that such care is “inferior or 
+less extensive” care than other available care requested by the employee. Long, 
+528 N.W.2d at 124; Pirelli-Armstrong Tire Co., 562 N.W.2d at 437. 
+In this case, defendants withdrew authorization for medical care on February 20, 
+2020, when they denied that claimant’s ongoing symptoms were related to the work 
+injury. As such, defendants are not currently offering care. Claimant has requested 
+ongoing pain management with Dr. Kline, which is a reasonable request as Dr. Kline 
+has been treating claimant since Dr. Sedlacek retired in 2018. Therefore, claimant’s 
+request for alternate care is granted, and defendants shall immediately authorize 
+ongoing pain management with Dr. Kline. 
+Claimant seeks reimbursement of medical expenses, reflected in Claimant’s 
+Exhibit 2. The claimant has the burden to prove that claimed medical expenses are 
+related to the alleged work injury. Zineta Kudic v. IOC Black Hawk Co., File Nos. 
+5066504; 5066505 (App. Dec. 17, 2020). Defendants argue that claimant has not met 
+this burden. 
+In reviewing Exhibit 2, some of the expenses are for treatment dates prior to 
+defendants’ denial of the claim. An employer cannot revoke authorization for medical 
+care retroactively to avoid liability for expenses previously incurred. Ramirez-Trujillo v. 
+Quality Egg, L.L.C., 878 N.W.2d 759, 776 (Iowa 2016). As such, all medical expenses in 
+Exhibit 2 prior to the February 20, 2020 denial are defendants’ responsibility. 
+With respect to the remaining medical expenses, once defendants denied 
+compensability for claimant’s alleged injuries, they lost the right to choose the medical 
+providers for that care during the period of denial. “[T]he employer has no right to 
+choose the medical care when compensability is contested.” Bell Bros. Heating and Air 
+Conditioning v. Gwinn, 779 N.W.2d 193, 204 (Iowa 2010). Further, when compensability 
+is contested, “the employer cannot assert an authorization defense in response to a 
+subsequent claim by the employee for the expenses of the alternate medical care.”      
+R. R. Donnelly & Sons v. Barnett, 670 N.W.2d at 197-198 (Iowa 2003). As such, 
+defendants are responsible for all medical care claimant has received related to the 
+work injury. Review of Claimant’s Exhibit 2 does not reveal any medical expenses that 
+are not related to the 2004 injury. As such, defendants are responsible for all medical 
+expenses found in Claimant’s Exhibit 2.  
+Claimant is not entitled to reimbursement for medical bills unless claimant shows 
+that they were paid from his own funds. See Caylor v. Employers Mutual Casualty Co., 
+337 N.W.2d 890 (Iowa Ct. App. 1983). Otherwise, claimant is entitled only to an order 
+directing the responsible defendants to make such payments directly to the provider. 
+See Krohn v. State, 420 N.W.2d 463 (Iowa 1988). Where medical payments are made 
+from a plan to which the employer did not contribute, the claimant is entitled to a direct 
+payment. Midwest Ambulance Service v. Ruud, 754 N.W.2d 860, 867-68 (Iowa 2008) 
+(“We therefore hold that the commissioner did not err in ordering direct payment to the 
+claimant for past medical expenses paid through insurance coverage obtained by the 
+
+MCCAIN V. QWEST CORPORATION 
+Page 17 
+ 
+claimant independent of any employer contribution.”) See also: Carl A. Nelson & Co. v. 
+Sloan, 873 N.W.2d 552 (Iowa Ct. App. 2015) (Table) 2015 WL 7574232 15-0323. 
+Defendants shall therefore reimburse claimant for all out-of-pocket medical 
+expenses related to the 2004 injury, and make payment directly to the provider for any 
+outstanding balances. 
+The final issue is costs. Assessment of costs is a discretionary function of this 
+agency. Iowa Code § 10A.328. Costs are to be assessed at the discretion of the deputy 
+commissioner or workers’ compensation commissioner hearing the case. 876 IAC 4.33. 
+Claimant seeks reimbursement for a phone conference with Dr. Kline, in the amount of 
+$250.00, and the cost of the deposition transcript, in the amount of $86.70. (Cl. Ex. 3, 
+pp. 39-40) Both are allowable costs. Therefore, I use my discretion to award claimant 
+$336.70 in costs. 
+ORDER 
+THEREFORE, IT IS ORDERED: 
+ 
+Defendants shall immediately authorize and pay for ongoing pain management 
+with Dr. Kline for treatment related to the May 13, 2004 injury. 
+ 
+Defendants shall reimburse claimant for out-of-pocket expenses for medical 
+treatment related to the May 13, 2004 injury, as reflected in Claimant’s Exhibit 2. 
+ 
+Defendants shall pay any outstanding balances related to treatment for the May 
+13, 2004 injury directly to providers, as reflected in Claimant’s Exhibit 2. 
+ 
+Defendants shall reimburse claimant’s costs in the total amount of three hundred 
+thirty-six and 70/100 dollars ($336.70). 
+Defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1(2) and 876 IAC 11.7. 
+Signed and filed this ____10TH ___ day of January, 2025. 
+ 
+ 
+______________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+         JESSICA L. CLEEREMAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEPUTY WORKERS’  
+ 
+ 
+ 
+ 
+ 
+ 
+  COMPENSATION COMMISSIONER 
+ 
+ 
+ 
+
+MCCAIN V. QWEST CORPORATION 
+Page 18 
+ 
+The parties have been served, as follows: 
+Mary Hoefer (via WCES) 
+Eric Bigley (via WCES) 
+Stephen Brown (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Division of Workers’ Compensation to file documents in paper form. If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa 
+Division of Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836. The notice of appeal 
+must be received by the Division of Workers’ Compensation within 20 days from the date of the decision. The appeal 
+period will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+  
+ 

@@ -1,0 +1,715 @@
+Case Number: 22700950.01
+Case Title:  HILL, DENNIS V. WHIRLPOOL CORPORATION
+Doc Type:    Decision - Deputy
+Source:      Hill Dennis-22700950.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+DENNIS HILL, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+File Nos. 22700950.01 
+ 
+ 
+  : 
+ 
+ 
+     22700951.01 
+vs. 
+ 
+  : 
+ 
+ 
+  :                  
+WHIRLPOOL CORPORATION, 
+  : 
+          ARBITRATION DECISION 
+ 
+ 
+  :                            
+ 
+Employer, 
+  : 
+ 
+Self-Insured, 
+  : 
+     Head Notes:  1402.40, 1803, 2907 
+ 
+Defendant. 
+  : 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Dennis Hill, claimant, filed petitions for arbitration against Whirlpool Corporation.  
+These cases came before the undersigned for an arbitration hearing on September 27, 
+2023, via Zoom. 
+The parties filed a hearing report at the commencement of the hearing. On the 
+hearing report, the parties entered into numerous stipulations.  Those stipulations were 
+accepted and no factual or legal issues relative to the parties’ stipulations will be made 
+or discussed.  The parties are now bound by their stipulations. 
+The evidentiary record includes Joint Exhibits 1 through 12, Claimant’s Exhibits 1 
+through 6, and Defendant’s Exhibits A through F.  All exhibits were received without 
+objection. 
+Claimant testified on his own behalf.  Joan Schlenk also testified on claimant’s 
+behalf.  The evidentiary record was held open to allow defendant the opportunity to 
+depose Douglas Hornick, M.D.  On November 2, 2023, the parties notified the 
+undersigned of their agreement to replace Joint Exhibit 3, pages 51 through 53a, and to 
+cancel the deposition of Dr. Hornick.  As such, the evidentiary record was closed on 
+November 2, 2023.  All parties served their post-hearing briefs on December 12, 2023, 
+at which time this case was deemed fully submitted to the undersigned. 
+ISSUES 
+ 
+The parties submitted the following disputed issues for resolution: 
+1. Whether the alleged injury is a cause of temporary disability during a period of 
+recovery; 
+ 
+2. Whether the alleged injury is a cause of permanent disability; 
+ELECTRONICALLY FILED     2024-Jul-03  14:21:00     DIVISION OF WORKERS' COMPENSATION
+
+HILL V. WHIRLPOOL CORPORATION 
+Page 2 
+ 
+3. The extent of claimant’s entitlement to permanent partial disability benefits, if 
+any; 
+4. Medical expenses; and  
+ 
+5. Costs. 
+ 
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+The instant case stems from a stipulated inhalation injury occurring on October 2, 
+2020, and October 6, 2020.  The claimant at the center of this case is Dennis Hill.  At 
+the time of the evidentiary hearing that brought forth this claim, Hill was 64 years old. 
+(Hearing Transcript, page 16)  Hill graduated from high school in 1977 and 
+subsequently obtained a Bachelor’s Degree in Business Administration from the 
+University of Iowa. (Defendant’s Exhibit C, p. 49)  He later obtained a Master of 
+Business Administration degree from Southern Illinois University. (Id.)  The majority of 
+his employment history has involved working for his father at Hawkeye Auto Glass.  Hill 
+installed glass for his father’s company from 1997 to 2018. (Claimant’s Exhibit 2, p. 23)  
+Hill also worked nights at the Cedar Rapids Gazette from 2000 to 2005, and at Walmart 
+from 2012 to 2015. (Ex. 2, p. 22) 
+ 
+Hill began working as an Assembler for Whirlpool Corporation (“Whirlpool”) in 
+June  2015. (Ex. 2, p. 23)  According to Hill, a bleach mixing station was added 
+approximately 10 feet from his workstation in April 2020 to assist with disinfecting the 
+plant during the coronavirus pandemic. (Hr. Tr., p. 18)  The cleaning solution consisted 
+of a bleach and water mixture consisting of 1-2/3 cups of bleach to 5 gallons of water in 
+accordance with CDC recommendations. (Exhibit B, p. 43)  According to Hill, Whirlpool 
+and his local union agreed to the use of the solution. (See Ex. B, p. 27) Defendant 
+asserts the bleach container was stored in an open and well-ventilated area.  The 
+defendant further asserts the disinfectant was used in the “work cells” and break areas 
+to disinfect between employee usages. (Ex. B, p. 31)   
+Hill did not experience any reactions to the bleach station between April 2020 
+and October 2020.  On October 2, 2020, Hill was working his normal job on Assembly 
+Line 3.  After approximately 90 minutes of work, Hill began coughing.  At some point, 
+Hill asserts that he coughed up blood into a Kleenex.  Hill reported the incident to his 
+supervisor, who instructed him to visit the onsite health center. (Hr. Tr., p. 21)  Hill 
+presented to the health center and reported that he was feeling “OK” aside from his 
+cough. (Joint Exhibit 12, p. 155) 
+After leaving work, Hill presented to Jeffrey Jones, M.D. at UnityPoint Westside 
+Urgent Care Clinic.  He reported coughing and possibly going into atrial fibrillation after 
+working near a bleach and water mixture for 90 minutes. (JE1, p. 1)  At the time of the 
+
+HILL V. WHIRLPOOL CORPORATION 
+Page 3 
+ 
+evaluation, Hill was reporting less coughing and resolution of the atrial fibrillation, but he 
+was still experiencing burning in his eyes. (Id.)  X-rays of Hill’s chest returned negative 
+and his lungs were “expanded and clear.” (JE1, p. 2)  Dr. Jones removed Hill from work 
+for a day and recommended he avoid working near the bleach solution. (JE1, p. 3) 
+Hill attempted to return to work on October 6, 2020; however, he was sent home 
+after he experienced another coughing fit. (Hr. Tr., pp. 24, 26; see JE4, p. 61; JE12, p. 
+155)   
+Notably, this is not the first instance in which Hill has dealt with fatigue, shortness 
+of breath, or memory issues.  On March 15, 2015, claimant presented to the St. Luke’s 
+Hospital emergency department reporting chest congestion and cough. (JE2, p. 5). 
+Claimant underwent a chest x-ray that indicated left lower lobe airspace disease 
+concerning for pneumonia. (JE2, p. 9)  On examination, Hill exhibited rales in the left 
+middle field and left lower field of his chest. (JE2, p. 6)  It was recommended that Hill 
+present for an evaluation with Internal Medicine. (JE2, p. 10)   
+A little over two years later, Hill presented to the emergency room for chest 
+discomfort and was admitted for overnight monitoring by Ojas Bansal, M.D. (See JE6, p. 
+80)  Due to Hill’s risk factors of uncontrolled diabetes mellitus type 2, hypertension, and 
+history of hyperlipidemia, Dr. Bansal elected to run a stress test. (See JE6, p. 80)  While 
+participating in the stress test, Hill developed paroxysmal atrial fibrillation. (See JE6, p. 
+80)  Although Hill’s condition improved, Dr. Bansal noted that he was still experiencing 
+intermittent episodes of atypical chest discomfort and shortness of breath at his one-
+month follow-up appointment. (JE6, pp. 80, 84)  The medical records also note that 
+Hill’s type-2 diabetes was uncontrolled. (JE6, p. 84) 
+In November 2019, Hill called into St. Luke’s Cardiology Clinic and reported 
+prolonged episodes of palpitations with associated weakness and fatigue. (See JE6, p. 
+97)  He was placed on a 30-day event monitor and subsequently referred to 
+Electrophysiology for further atrial arrhythmia management. (See JE6, p. 97) 
+Hill presented to Urgent Care on December 24, 2019, and December 29, 2019, 
+to address an illness. (See JE3, p. 56)  He was diagnosed with mycoplasma pneumonia 
+and prescribed azithromycin. (See JE3, p. 57)  On January 3, 2020, Hill presented to 
+Disa Awah, D.O., of Hiawatha Internal Medicine for further evaluation of his persistent 
+cough and shortness of breath with exertion. (JE3, p. 56)  On examination, Dr. Awah 
+discovered decreased breath sounds in the left lower lung and overall decreased 
+airflow. (JE4, p. 57) 
+On January 27, 2020, Hill presented to Weiwei Li, M.D., on referral from Dr. 
+Bansal for atrial fibrillation. (JE6, p. 85)  The 30-day event monitor showed one episode 
+of atrial fibrillation as well as frequent premature atrial contractions (PACs) and short 
+atrial runs. (Id.)  Hill reported that he was experiencing palpitations every three days, 
+which would cause him to slow down his activity. (Id.) 
+
+HILL V. WHIRLPOOL CORPORATION 
+Page 4 
+ 
+On April 1, 2020, Hill presented to James Justice, M.D., to be evaluated for sleep 
+apnea. (JE4, p. 58)  According to the medical record, Hill snored “extremely loud,” 
+stopped breathing at night, was “dead tired” when he woke up in the mornings, and he 
+was falling asleep during the day. (Id.)  The medical notes provide, “He drives down to 
+the [Amana] factory and he says is only 20-minute drive but there have been more than 
+1 time where he is [sic] pulled off on the side of the road during the 20-minute drive 
+because he is afraid he is going to fall asleep.” (Id.)  Hill underwent a formal sleep study 
+in May 2020 and was diagnosed with mild sleep apnea.  A CPAP machine was 
+recommended; however, Hill declined the same.  
+Hill returned to Dr. Bansal for his one-year follow-up appointment on August 27, 
+2020, and reported less frequent arrhythmia and palpitations. (JE6, p. 89)  By this time, 
+Hill and his physicians had discussed the possibility of an ablation for his atrial 
+fibrillation; however, Hill relayed that he wanted to use a CPAP machine before 
+proceeding with the ablation procedure. (See id.)  It is noted that Hill’s type-2 diabetes 
+“has been poorly controlled.” (JE6, p. 94) 
+The pre-existing medical records demonstrate a pattern of respiratory and 
+cardiovascular issues that spans several years.  The stipulated inhalation injury adds a 
+new layer of complexity to Hill’s medical history. 
+Hill asserts he did not immediately connect his coughing up blood to his 
+workplace exposure to bleach; however, he eventually made the connection when his 
+cough started to taste like bleach. (Hr. Tr., pp. 24-25)  I have a difficult time accepting 
+Hill’s testimony in this regard.  On the initial date of injury, Hill specifically told Dr. Jones 
+that he was working near a large amount of bleach when he started coughing and 
+having right-sided chest pains. (JE1, p. 2)  Additionally, on October 9, 2020, Hill 
+reported to the on-site health center that, “it occurred to him that just before the 
+coughing fit that he noticed a strong odor of Bleach near him” and that he believed his 
+exposure to bleach caused his coughing fit. (JE12, p. 155) 
+ 
+Hill returned to Dr.  Awah on October 13, 2020. (JE4, p. 60)  Due to the 
+persistence of Hill’s cough and right-sided discomfort, Dr. Awah recommended a 
+consultation with a pulmonologist and ordered pre and post-bronchodilator pulmonary 
+function tests (PFT). (JE4, p. 62)   
+ 
+Three days later, Hill was evaluated by pulmonologist Hafiz Hashmi, M.D. (JE8, 
+p. 135)  During the evaluation, Hill described an intermittent dry cough and right-sided 
+atypical chest discomfort. (Id.)  Dr. Hashmi commented that Hill had previously 
+complained of right-sided chest discomfort in 2017. (Id.)  Based on his reported history 
+and symptoms, Dr. Hashmi assessed Hill with reactive airway dysfunction syndrome; 
+however, he noted that Hill’s PFTs and x-rays were unremarkable. (JE8, p. 137)  Dr. 
+Hashmi opined that Hill should wear appropriate protective equipment at work, but he 
+did not require restrictions from a pulmonary standpoint. (Id.) 
+ 
+Hill returned to Dr. Hashmi on October 26, 2020, reporting that he had not 
+returned to work because Whirlpool refused to discontinue its use of bleach in its 
+
+HILL V. WHIRLPOOL CORPORATION 
+Page 5 
+ 
+COVID-19 mitigation strategy. (JE8, p. 138)  Hill reported no chest pain or shortness of 
+breath at rest. (Id.)  Dr. Hashmi reviewed all relevant lab results and diagnosed Hill with 
+a cough, environmental allergies, and vocal cord dysfunction. (Id.)  He reassured Hill 
+that he did not have an obstructive airway disease; instead, he believed that Hill had 
+restrictive lung physiology likely secondary to body habitus. (Id.)  Dr. Hashmi also 
+“extensively discussed” with Hill that his RAST test was positive for multiple 
+environmental allergies, “including cat which [he] has at home[.]” (JE8, p. 139)  Dr. 
+Hashmi did not believe there was a need for any additional pulmonary follow-up; 
+however, he referred Hill to an allergist and speech pathologist. (Id.) 
+ 
+Hill began speech therapy on November 6, 2020. (JE9, p. 140)  He reported 
+throat tightness, difficulty breathing, stuttering and memory difficulties, all of which he 
+attributed to bleach exposure. (JE9, p. 141)  Hill reported 50 to 60 percent improvement 
+in throat tightness. (Id.)  Vocal quality and intensity were within normal limits on 
+examination. (JE9, p. 142)  Renee Perlwitz, SLP, noted, “patient is reporting symptoms 
+of stuttering which were minimal to nonexistent based on therapist observation of 
+patient speaking at a rapid rate.” (JE9, p. 143) 
+ 
+On November 9, 2020, Holly Conway Brown, M.D. of Allergy Partners of Cedar 
+Rapids, examined Hill and found no significant allergic etiology for his symptoms. (JE10, 
+p. 147) 
+ 
+Kevin Carpenter, M.D., an otolaryngologist, evaluated Hill on November 12, 
+2020. (JE11, p. 149)  Hill reported difficulty talking and swallowing following an 
+exposure and inhalation of bleach. (Id.)  Dr. Carpenter performed a laryngoscopy during 
+the evaluation.  Dr. Carpenter did not observe any growths, tumors, signs of burns, 
+reflux, or infection in Hill’s throat. (JE11, p. 150)  He noted that Hill’s vocal cords 
+appeared and moved normally; however, he nevertheless recommended Hill complete a 
+FEES to further evaluate his swallowing capabilities and to visualize his vocal cords 
+better. (Id.)    
+ 
+The FEES demonstrated normal swallowing mechanisms. (See JE11, pp. 152-
+153)  The examination also documented normal vocal quality.  The record provides,  
+Medial edge of the right vocal fold was smooth. Medial edge of the left vocal 
+fold was smooth. Mucosal wave of the right and left vocal folds was normal. 
+Amplitude of the right and left vocal folds was normal. No adynamic 
+vibratory behaviors were noted on the right or left vocal folds. Arytenoid 
+movement was normal and symmetrical. There was closure of the vocal 
+folds. There was consistent supraglottal compression.  
+(See JE11, pp. 152-153; Ex. A, p. 4)  Dr. Carpenter reviewed the FEES results and 
+noted no abnormalities. (JE11, p. 154)  
+On or about November 19, 2020, Hill filed a complaint against Whirlpool with the 
+National Labor Relations Board. (Ex. B, p. 27)  According to the complaint, Whirlpool 
+and his local union had agreed on a practice that was “extremely dangerous to both the 
+
+HILL V. WHIRLPOOL CORPORATION 
+Page 6 
+ 
+short and long term health” of approximately 3,200 employees. (Ex. B, p. 27)  The 
+complaint argued the use of bleach or bleach solutions against Covid-19 “screams” of 
+an unfair labor practice. (Ex. B, p. 28) 
+Hill returned to Dr. Awah for his annual physical and management of chronic 
+conditions on December 23, 2020. (JE4, p. 65)  Hill asked Dr. Awah to complete FMLA 
+paperwork for him. (JE4, p. 66)  He reported that he could perform all of his job duties, 
+but was concerned about exposing himself to the bleach used to clean his work area. 
+(Id.)  Dr. Awah assessed Hill with non-compliance with medication regimen, acquired 
+hypothyroidism, uncontrolled type 2 diabetes mellitus with diabetic polyneuropathy, 
+cough, paroxysmal atrial fibrillation, and environmental allergies. (JE4, p. 70) 
+ 
+After presenting to Dr. Hashmi, Ms. Perlwitz, Dr. Conway Brown, and Dr. 
+Carpenter, Hill attempted to return to work in January 2021.  Unfortunately, he was only 
+able to work one hour before returning home. (JE12, p. 155)  According to Hill, he could 
+smell the bleach in the air and began to realize that he was not “firing” correctly from a 
+cognitive standpoint.  He also reported that he did not have dexterity in his hands and 
+“felt like his A-fib kicked in.”  He also reported that he helped his brother move furniture 
+into a large, 17 to 20-foot truck “in the bitter cold” and had no issues with his heart. (See 
+id.) 
+On January 28, 2021, Hill presented to Heather Mactaggart, ARNP of St. Luke’s 
+Cardiology Department for an evaluation of his paroxysmal atrial fibrillation, essential 
+hypertension, mixed hyperlipidemia, and obstructive sleep apnea. (JE6, p. 95)  He 
+reported a prolonged episode of atrial fibrillation in November 2019 and denied current 
+chest pain or shortness of breath. (JE6, p. 97)  He further reported a recent incident at 
+work “in which he inhaled bleach” and he felt that his atrial fibrillation had increased 
+“slightly,” but it was beginning to “settle down.” (Id.)   
+Ms. Mactaggart provided a thorough summary of Hill’s medical treatment as it 
+relates to his atrial fibrillation and sleep apnea. (See JE6, p. 97)  Due to Hill frequently 
+missing his second dose of atrial fibrillation medication, Ms. Mactaggart increased the 
+dosage of his first dose and eliminated the need for a second dose. (JE6, p. 99)  The 
+two discussed the risks of persistent and recurring atrial fibrillation in the setting of 
+untreated sleep apnea. (JE6, p. 100)  Ms. Mactaggart recommended Hill use a CPAP 
+mask prior to considering an atrial fibrillation ablation procedure. (JE6, pp. 99-100) 
+There is a significant gap in Hill’s treatment following the January 28, 2021, 
+appointment.   
+Hill presented to Benjamin Daniels, M.D. to establish care on December 27, 
+2021. (JE5, p. 71)  Dr. Daniels documented Hill’s health conditions and noted Hill had 
+decided to discontinue all of his medications in May 2021. (Id.)  Hill then reported he 
+sustained a bleach inhalation injury at work in October 2020 and it dramatically altered 
+his health.  He reported experiencing a chronic sore throat, hoarse voice, chest pain, 
+memory issues, and trouble swallowing since the inhalation. (Id.)  Hill further reported 
+that he used to have chest pain and shortness of breath; however, those symptoms had 
+
+HILL V. WHIRLPOOL CORPORATION 
+Page 7 
+ 
+resolved. (Id.)  Indeed, Hill denied chest pain and shortness of breath when presenting 
+to Ms. Mactaggart in January 2021. (JE6, p. 97)  
+On March 7, 2022, claimant underwent an esophagogastroduodenoscopy at 
+UnityPoint Health Endoscopy. (JE2, p. 20). The procedure revealed mild esophagitis, 
+mild esophageal stricture in the distal esophagus, gastric polyps, and an otherwise 
+normal EGD. (JE2, p. 22). 
+Hill presented to the St. Luke’s Hospital emergency department on March 26, 
+2022, reporting he was having difficulty swallowing food. (JE2, p. 24)  He felt like the 
+food was stuck mid chest. (Id.). He received medication and fluids. (JE2, p. 30) 
+On April 26, 2022, Hill underwent an esophageal manometry with Douglas Purdy, 
+M.D. at St. Luke’s Hospital. (JE2, p. 31)  The results returned normal. (JE2, pp. 31-32)  
+He recommended Hill cut his food into small pieces and chew thoroughly before 
+swallowing. (JE2, p. 32) 
+Hill presented to Dr. Daniels on May 17, 2022, and requested a referral to 
+pulmonology for chronic shortness of breath. (JE5, p. 73)  Hill reported that the 
+shortness of breath had been present since his exposure to bleach in October 2020. 
+(See id.)  Dr. Daniels documented that Hill’s lungs were clear to auscultation bilaterally 
+and his respiratory effort appeared normal. (Id.)  Following the examination, Dr. Daniels 
+assessed chronic shortness of breath and agreed to refer Hill back to pulmonology. 
+(JE5, p. 74)  Hill’s reporting of his shortness of breath is inconsistent with his reporting 
+to Dr. Daniels five months earlier that his chest pain and shortness of breath had 
+resolved.  (See JE5, p. 71)  Indeed, Hill did not describe shortness of breath or difficulty 
+breathing between December 2020 and May 2022.  The last time Hill reported 
+shortness of breath prior to the May 17, 2022, appointment, was November 6, 2020. 
+(JE9, pp. 141-142) 
+Hill underwent bronchodilator spirometry testing at the University of Iowa 
+Hospitals and Clinics on July 5, 2022. (JE3, p. 43)  The medical record provides that Hill 
+was not consistent in his efforts and the results could be sub-optimal due to difficulty 
+performing the test. (Id.)  The results suggested a restrictive ventilatory defect; lung 
+volumes revealed a reduced TLC.  (Id.) 
+On July 8, 2022, Hill presented to Dr. Hornick at the University of Iowa Hospitals 
+and Clinics reporting chronic shortness of breath. (JE3, p. 47). Dr. Hornick opined that 
+the PFTs showed restrictive lung pathology and the CT showed minimal left basilar 
+scarring. (Id.)  Dr. Hornick reviewed the outside chest CT images from October 26, 
+2021, and noted no significant parenchymal lung abnormality other than atelectasis in 
+the left lower lobe with an associated thickened pleura. (JE3, p. 50)  Dr. Hornick noted 
+similar findings were described in a chest x-ray from 2015 when claimant went to urgent 
+care for left lower lobe pneumonia associated with acute hypothyroidism. (Id.)  Dr. 
+Hornick noted it was possible that the findings on the current chest CT were residual 
+from the episode of left lower lobe pneumonia. (Id.)  The record provides,  
+
+HILL V. WHIRLPOOL CORPORATION 
+Page 8 
+ 
+Reactive airway disease syndrome (RADS) as a result of chlorine exposure 
+seems plausible. However his PFTs predominately demonstrate restrictive 
+physiology. In that regard however we found no evidence for diffuse lung 
+parenchymal changes (noted residual changes LLL presumably from 
+pneumonia 2015), diaphragm weakness, nor thoracic deformity.  
+(JE3, p. 50)  Dr. Hornick recommended Hill increase his physical activity to 3 hours of 
+moderate aerobic exercise per week and to follow up in 10 months to reassess his 
+PFTs. (Id.) 
+ 
+On July 29, 2022, Hill presented to Dr. Daniels and reported difficulty with his 
+memory over the prior 12-18 months. (JE5, p. 75)  Dr. Daniels noted that Hill had been 
+reporting issues with his memory for over two years. (JE5, pp. 75-76)  Dr. Daniels 
+ordered neuropsychiatric testing. (JE5, p. 76)  
+ 
+Hill presented to Dr. Ojas Bansal on January 19, 2023, reporting ongoing 
+breathlessness and sometimes atypical chest discomfort on the right and left side of the 
+chest. (JE6, p. 117).  Dr. Bansal opined the etiology of Hill’s dyspnea on exertion was 
+not clear. (JE6, p. 121) 
+Hill presented to Megan Adams Rieck, Ph.D., at St. Luke’s Neuropsychology 
+Clinic on March 15, 2023, for a neuropsychological evaluation. (JE2, p. 33)  He reported 
+memory, concentration, and word finding difficulties. (Id.)  Claimant stated he was 
+independent with daily living. (Id.)  Dr. Rieck concluded Hill had an abnormal 
+neuropsychological profile. (JE2, p. 34).  Due to the number and significance of 
+challenges with testing, Dr. Rieck believed claimant warranted a diagnosis of mild 
+neurocognitive disorder. (Id.)  However, Dr. Rieck did not believe the past chlorine 
+exposure was the basis for his symptoms as they were more commonly associated with 
+untreated sleep apnea, diabetes, hyperlipidemia, and hypertension. (Id.) 
+On April 2, 2023, Hill presented to the St. Luke’s Hospital emergency department 
+for shortness of breath. (JE2, p. 38). According to Hill, he was leaving Carlos O’Kelly’s 
+the night before and the workers were using a cleaning solution on the tables. (Id.). He 
+smelled bleach and immediately developed a sore throat and became short of breath; 
+he later developed left-sided chest pain. (Id.)  Hill’s chest x-ray revealed bilateral low 
+lung volumes and left lower lobe airspace disease which could reflect atelectasis or 
+pneumonia. (JE2, p. 42) 
+On May 11, 2023, Hill returned to Dr. Hornick with complaints of ongoing 
+dyspnea. (JE3, p. 51)  Dr. Hornick noted that Hill’s complaints were similar to what he 
+described at his last appointment in July 2022. (Id.)  Dr. Hornick provided, “I continue to 
+presume the persistent restrictive physiology on pulmonary function testing is related to 
+the chlorine inhalation injury in 2020. (Id.) 
+As mentioned, Hill last worked for Whirlpool on January 4, 2021. (See JE12, p. 
+155)  He briefly worked for Domino’s Pizza as a delivery driver in the summer of 2021; 
+however, he ultimately quit this position after a few weeks because he was having 
+
+HILL V. WHIRLPOOL CORPORATION 
+Page 9 
+ 
+difficulty focusing and staying awake. (Ex. 2, p. 23)  Although he grew up in the Cedar 
+Rapids area, Hill asserts he would consistently get lost while making deliveries.  He 
+further asserts that it was difficult for him to walk from the pizza store to his car. (Hr. Tr., 
+p. 29)  Hill has not applied to work for any other employers since leaving Domino’s 
+Pizza. (Hr. Tr., pp. 50-51)   
+Hill asserts he continues to have difficulties with shortness of breath, coughing, 
+and stamina.  Hill admits he can handle physical labor; however, he can only work for 
+approximately two hours before he needs to rest. (Hr. Tr., p. 33)  Hill testified that he 
+cannot perform any additional work after he rests. (Hr. Tr., p. 34)  He does not feel as 
+though he is capable of working a full-time job at this time. (Id.)  At his deposition, Hill 
+testified that “being exposed like I was to that bleach was devastating” and “It’s probably 
+one of the worst things you can do.” (Ex. E, Depo. p. 32)  He continued, “The guys at 
+World War I that was exposed to it, terrible time afterwards.  I could relate to that.” (Ex. 
+E, Depo. pp. 32-33)   
+It is worth noting that the distinctive smell associated with Clorox bleach is not 
+chlorine gas.  In fact, liquid bleach and chlorine gas are distinct chemical substances 
+with different properties and uses. (See Ex. A, pp. 12-13)  The chlorine gas that was 
+utilized as a chemical weapon was concentrated, highly toxic, and dangerous.  The 
+liquid bleach solution – containing five gallons of water and 1-2/3 cup of liquid bleach – 
+recommended by the Centers for Disease Control and Prevention was weak and 
+generally safe for household use.  As noted in the Safety Data Sheet, liquid bleach can 
+produce hazardous irritating gases, such as chlorine and other chlorinated compounds, 
+when combined with other household cleaning agents (Ex. B, p. 34); however, there is 
+no evidence the liquid bleach was combined with anything other than water in this case. 
+ 
+Joan Schlenk was called to testify at the evidentiary hearing. (Hr. Tr., p. 54)  Ms. 
+Schlenk is a retired nurse practitioner and Hill’s significant other. (Hr. Tr., pp. 55, 57) 
+Ms. Schlenk presented as a credible witness.  She appeared to answer all questions to 
+the best of her ability, even when her answers were damaging to Hill’s case.  While Ms. 
+Schlenk was not called to be an expert witness in this case, she did offer some insight 
+into Hill’s pre-existing conditions and some of their common symptoms.  For example, 
+she testified that individuals with atrial fibrillation may have shortness of breath and/or 
+experience fatigue. (Hr. Tr., p. 61) 
+Ms. Schlenk provided testimony that suggests Hill is physically capable of more 
+than he lets on.  Ms. Schlenk testified that Hill helped her move a long, “quite heavy” 
+mirror and cabinet in the days leading up to the evidentiary hearing. (Hr. Tr., p. 62)  
+There was also testimony to suggest Hill is able to handle more than just two hours of 
+physical activity each day.  For instance, Ms. Schlenk testified that Hill has two 
+properties that flooded in 2008 that keep him busy. (Hr. Tr., pp. 62-63)  She testified, 
+“He may drive over there, like he painted one of them, and he was doing some updates 
+to his home on A Avenue as well, and usually by about maybe the first, approximately, 
+4:00 or 5:00 he’s back at my home.” (Hr. Tr., p. 63)  In addition to painting, Ms. Schlenk 
+also mentioned that Hill has taken the siding off one of his properties. (Hr. Tr., p. 73)  
+
+HILL V. WHIRLPOOL CORPORATION 
+Page 10 
+ 
+Ms. Schlenk testified that Hill “is definitely not” in bed or a recliner all day, and that he 
+will sleep once a day for “at the most” one hour. (Hr. Tr., p.63) 
+Ms. Schlenk confirmed that Hill struggled with his speech and cognitive abilities 
+at one point in time; however, she implied that Hill’s issues with stuttering and brain fog 
+have since resolved. (Hr. Tr., pp. 67-68)  With respect to Hill’s alleged stuttering, Ms. 
+Schlenk testified, “I believe he used that word (stuttering), but he was just slower to get 
+some words and thoughts out.  But that is not – that part of his speech is not as 
+significant that I see now as it was back then.” (Hr. Tr., p. 67)   
+Lastly, Ms. Schlenk attributed some of Hill’s balance and gait issues to his 
+diabetes and the fact he had his great and second toes removed over the last two 
+years. (Hr. Tr., p. 69) 
+In support of his claims, Hill sought an independent medical examination with 
+Sunil Bansal, M.D.  The physical examination occurred on December 16, 2022. (Ex. 1, 
+p. 5)  Dr. Bansal diagnosed Hill with acute bleach inhalation injury with resultant reactive 
+airway disease, voice hoarseness, and altered mental status. (Ex. 1, p. 15)  He opined 
+that the acute inhalation was immediately consistent with mucosal membrane irritation 
+followed by lung injury, leading to voice/speech impairment from laryngeal irritation. (Id.)  
+Dr. Bansal placed Hill at maximum medical improvement as of December 16, 2022, and 
+assessed permanent impairment. (Ex. 1, p. 16)  Based on Table 5-12 of the AMA 
+Guides, Fifth Edition, Dr. Bansal noted an FVC of 66 percent and assigned 15 percent 
+whole person impairment. (Id.)  He then utilized Tables 11-8 and 11-9 to assign 5 
+percent whole person impairment because of the inhalation’s effect on Hill’s voice. (Id.) 
+With respect to permanent restrictions, Dr. Bansal recommended that Hill avoid 
+multiple stairs or inclines, no walking greater than 30 minutes at a time, and no carrying 
+greater than 20 pounds for over 10 feet. (Ex. 1, p. 17)  He also recommended Hill avoid 
+jobs that require frequent talking, as well as work in high particulate or dust 
+environments. (Id.) 
+In response, defendant scheduled Hill for an independent medical examination 
+with Jonathon Fields, M.D.  Dr. Fields conducted the physical examination and collected 
+a detailed history from Hill on August 2, 2023. (Ex. A, p. 1)  In describing the work injury, 
+Hill relayed his belief that the ceiling fans in the large, open facility forced air up into his 
+face shield and “supercharged” the diluted bleach solution.  Hill conceded that the fans 
+had been running for the prior two months and there was nothing different about his 
+work environment on or about October 2, 2020. (Ex. A, p. 2)  Hill reported that he had 
+not coughed up any blood since October 6, 2020. (Ex. A, p. 7)  A Mini Mental Status 
+Exam was performed as part of Dr. Fields’ examination. Mr. Hill scored 27 out of 30, 
+indicating no cognitive impairment. (Ex. A, p. 10)  The results of Dr. Fields’ Mini Mental 
+Status Exam are similar to the Mini Mental Status Exam administered by Dr. Daniels on 
+July 29, 2022. (JE5, p. 76)  
+Dr. Fields addressed each of Hill’s complaints individually.  Dr. Fields opined that 
+Hill experienced an acute respiratory irritation as a result of his proximity to the diluted 
+
+HILL V. WHIRLPOOL CORPORATION 
+Page 11 
+ 
+bleach mixture on October 2, 2020, and October 6, 2020.  Dr. Fields, like the Safety 
+Data Sheet, noted that inhalation exposure to vapor mist might irritate the respiratory 
+tract and cause coughing.  He explained that the reactive airway disease, coughing, and 
+sloughing of the mucosa could have persisted for a few days, but would have resolved 
+by October 26, 2020, when the CT scan of Hill’s lungs revealed no acute injury. (Ex. A, 
+p. 10) 
+Dr. Fields further opined that any vocal cord dysfunction would be unrelated to 
+the alleged work injuries, as Hill’s ENT examination and FEES results from November 
+25, 2020, indicated no abnormality of the vocal cords and no swallowing dysfunction. 
+(Ex. A, p. 11)  Dr. Fields added that Hill talked for approximately 90 minutes during his 
+physical examination without any issues or hoarseness in his voice. (Id.) 
+With respect to the left lower lobe basilar scarring present on the October 26, 
+2021, CT scan, Dr. Fields believed this finding was a chronic condition present since at 
+least 2015. (Id.)  This opinion is consistent with the opinions of Dr. Hornick’s July 8, 
+2022, medical record. (See JE3, p. 50) 
+Dr. Fields provided that there is some evidence of a neurologic condition, 
+including micrographia, instability when walking, hunched over gait, swallowing 
+difficulties, speech difficulties and tremor, but the neurologic condition is personal and 
+unrelated to any alleged exposure to diluted bleach in October 2020. (Ex. A, p. 11)  Dr. 
+Fields cites to a January 10, 2020, medical record from Hiawatha Internal Medicine and 
+Dr. Rieck’s March 15, 2023, neuropsych evaluation for support. (Id.) 
+Lastly, Dr. Fields opined that Hill’s ongoing fatigue, depression, and difficulties 
+concentrating are likely a result of his personal medical conditions, including his 
+untreated sleep apnea. (Ex. A, p. 12)  Again, Dr. Fields points to a pre-existing medical 
+report from April 1, 2020.  The report provides,  
+61-year-old male who thinks he might have sleep apnea. His wife reports 
+he has extremely loud snoring. He stops breathing at night. He is dead tired 
+when he wakes up in the morning. He falls asleep during the day. He drives 
+down to the main factory and he says his only 20-minute drive but there 
+have been more than 1 time where he is pulled off on the side of the road 
+during the 20-minute drive because he is afraid he is going to fall asleep. 
+(Id.; See JE4, p. 58 (errors in original))  
+Defendant requested that Dr. Fields respond to Dr. Bansal’s December 16, 2022, 
+IME report.  Dr. Fields took issue with Dr. Bansal’s claim that “exposure to chlorine can 
+lead to reactive airway dysfunction syndrome (RADS), a chemical irritant-induced type 
+of asthma.”  Dr. Fields opined that there is no medical evidence of occupational asthma 
+or RADS in this case.  Instead, he noted that the medical evidence has repeatedly 
+demonstrated a restrictive lung disease and not an obstructive lung disease, like 
+asthma. (Ex. A, p. 12)  Dr. Fields also took issue with Dr. Bansal’s discussion of chlorine 
+gas inhalation.  Dr. Fields opined, 
+
+HILL V. WHIRLPOOL CORPORATION 
+Page 12 
+ 
+There is no evidence that Mr. Hill was exposed to chlorine gas. Chlorine 
+gas may be released if common household bleach is mixed with other 
+cleaning chemicals such as ammonia. However, there is no evidence that 
+this occurred at Whirlpool on October 2, 2020 or October 6, 2020. Common 
+household bleach is surprisingly nontoxic to humans and the majority of 
+people exposed to bleach recover without any sequela. Inhalation injuries 
+tend to be relatively minor with common household bleach. Reactive airway 
+disease, coughing and mucosal sloughing typically resolve within a few 
+days. Notably when Mr. Hill was seen at Urgent Care on October 2, 2020 
+he was already noting resolution of his cough. 
+(Id.) 
+Dr. Fields placed Hill at maximum medical improvement as of October 26, 2020. 
+(Ex. A, p. 13)  He opined there is no basis for an impairment rating per the AMA Guides, 
+Fifth Edition, as Hill’s injury was merely a temporary exacerbation. (Id.)  He further 
+opined there is no basis for any permanent restrictions as a result of the alleged injuries. 
+(Id.) 
+Dr. Fields’ opinions on causation are consistent with the medical records in 
+evidence.  Following the workplace exposure on October 2, 2020, Hill underwent a 
+chest x-ray, the results of which came back negative.  Shortly thereafter, Hill was 
+evaluated by Dr. Hashmi at the pulmonology clinic.  His pulmonary function tests 
+returned unremarkable.  On October 26, 2020, Hill underwent a chest CT scan that 
+indicated no acute cardiopulmonary process and minimal left basilar scarring and/or 
+atelectasis.  Dr. Hashmi told Hill on October 26, 2020 that he did not have obstructive 
+airway disease.  Dr. Hashmi stated Hill had restrictive lung physiology likely secondary 
+to body habitus.  As mentioned, Hill did not report difficulty breathing or shortness of 
+breath between December 2020 and May 2022. 
+Sixteen months later, Dr. Hornick conducted additional pulmonary function tests 
+on Hill, which revealed restrictive lung pathology.  Dr. Hornick reviewed the CT imaging 
+from October 26, 2020, and noted no significant parenchymal lung abnormality other 
+than atelectasis in the left lower lobe with an associated thickened pleura.  He noted 
+similar findings were described in a chest x-ray from 2015 when claimant went to urgent 
+care for left lower lobe pneumonia associated with acute hypothyroidism.  Dr. Hornick 
+agreed with Dr. Hashmi that Hill’s lung function was most likely due to body habitus. 
+(JE3, p. 50)  Additionally, Dr. Bansal, Hill’s cardiologist, opined that the etiology of Hill’s 
+dyspnea on exertion was not clear. (JE6, p. 121) 
+I do not afford significant weight to Dr. Hornick’s statement that he continues to 
+presume Hill’s restrictive physiology is related to the chlorine inhalation injury in 2020.  
+Dr. Hornick’s use of the word “presume” is concerning as it suggests that his opinion is, 
+to some extent, based on an assumption rather than definitive evidence.  At the very 
+least, his use of the word “presume” introduces ambiguity into his opinion, which affects 
+its persuasiveness.  Lastly, his opinion is not followed by any analysis, and he provides 
+
+HILL V. WHIRLPOOL CORPORATION 
+Page 13 
+ 
+no assurance that his opinion was made with a reasonable degree of medical certainty.  
+For these reasons, I do not find Dr. Hornick’s opinion to be convincing.   
+Dr. Fields opined claimant sustained an acute respiratory irritation due to his 
+proximity to a diluted bleach solution at work, which resolved by October 26, 2020.  Dr. 
+Fields’ medical opinion is the most credible and consistent with the medical records in 
+evidence.  I find Hill failed to produce sufficient evidence to prove his current shortness 
+of breath is causally related to the bleach exposures in October 2020.  
+It is similarly difficult to attribute Hill’s fatigue to the workplace exposures.  
+Several months prior to the October 2, 2020, exposure, Hill presented to his primary 
+care physician to discuss a possible diagnosis of sleep apnea.  According to the 
+medical record, Hill stopped breathing at night, was “dead tired” when he woke up in the 
+morning, and he fell asleep during the day. (JE4, p. 58)  It is further noted that, “He 
+drives down to the [Amana] factory and he says is only 20-minute drive but there have 
+been more than 1 time where he is pulled off on the side of the road during the 20-
+minute drive because he is afraid he is going to fall asleep.” (Id.)  Hill was diagnosed 
+with mild sleep apnea.  A CPAP machine was recommended; however, Hill declined to 
+use the same.  He continues to decline the use of a CPAP machine despite being 
+alerted to the risks associated with persistent and recurring atrial fibrillation in the setting 
+of untreated sleep apnea. (JE6, p. 100)   
+Dr. Fields opined Hill’s ongoing fatigue and difficulties concentrating are due to 
+his untreated sleep apnea.  The medical records demonstrate that claimant was having 
+issues with fatigue prior to the alleged work injury.  I find Dr. Fields’ opinion convincing.  
+I further find Hill failed to produce sufficient evidence to prove his alleged ongoing 
+fatigue and difficulties concentrating are causally related to the bleach exposures in 
+October 2020. 
+There is little evidence to support a finding that Hill’s difficulties with swallowing 
+and the change in his voice are causally related to the October 2020 work exposures.  
+Dr. Carpenter performed a laryngoscopy of Hill’s throat on November 12, 2020, and did 
+not observe any abnormalities.  Hill subsequently underwent a FEES and exhibited 
+normal swallowing mechanisms.  One year later, an esophagogastroduodenoscopy 
+revealed mild esophagitis, mild esophageal stricture in the distal esophagus, gastric 
+polyps, and an otherwise normal EGD. (JE2, p. 22)  Hill then underwent an esophageal 
+manometry, which returned normal. (JE2, pp. 31-32)  The medical records support Dr. 
+Fields’ conclusion that Hill’s vocal cord dysfunction and swallowing issues are not 
+causally related to the bleach exposure. (Ex. A, p. 11) 
+With respect to the alleged cognitive injuries, Dr. Rieck did not believe the bleach 
+exposure was the basis for Hill’s symptoms as they were more commonly associated 
+with untreated sleep apnea, diabetes, hyperlipidemia, and hypertension.  Dr. Fields’ 
+opinion is consistent with Dr. Rieck’s conclusion and the remainder of the medical 
+records.  I find the opinions of Dr. Rieck and Dr. Fields most convincing on this issue. 
+
+HILL V. WHIRLPOOL CORPORATION 
+Page 14 
+ 
+Based on these opinions, I find there is insufficient evidence to causally relate 
+Hill’s ongoing complaints and need for medical treatment to the October 2, 2020, and 
+October 6, 2020, work exposures.  I further find claimant has not proven that the alleged 
+pulmonary and cognitive conditions, the treatment he obtained after October 26, 2020, 
+and any resulting disability are causally related to, arose out of, or were materially 
+aggravated or accelerated by the October 2020 exposures.  Having rendered this 
+factual finding, all other disputed issues are rendered moot.   
+CONCLUSIONS OF LAW 
+The initial disputed issue is whether the stipulated workplace exposures to 
+bleach on October 2, 2020, and October 6, 2020, resulted in temporary and/or 
+permanent disability. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based. A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause. A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible. George A. Hormel & Co. v, Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (lowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony. The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability. 
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question. The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances. The 
+expert opinion may be accepted or rejected, in whole or in part. St. Luke's Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc, v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995). Miller v. 
+Lauridsen Foods. Inc., 525 N.W.2d 417 (Iowa 1994). Unrebutted expert medical 
+testimony cannot be summarily rejected. Poula v. Siouxland Wall & Ceiling. Inc., 516 
+N.W.2d 910 (lowa App. 1994). 
+While a claimant is not entitled to compensation for the results of a preexisting 
+injury or disease, its mere existence at the time of a subsequent injury is not a defense. 
+Rose v. John Deere Ottumwa Works, 247 Iowa 900, 76 N.W.2d 756 (1956). If the 
+claimant had a preexisting condition or disability that is materially aggravated, 
+accelerated, worsened or lighted up so that it results in disability, claimant is entitled to 
+recover. Nicks v. Davenport Produce Co., 254 Iowa 130, 115 N.W.2d 812 (1962); 
+Yeager v. Firestone Tire & Rubber Co., 253 Iowa 369, 112 N.W.2d 299 (1961).     
+In this case, I found the medical opinions of Dr. Fields to be more persuasive and 
+credible than the opinions offered by Dr. Sunil Bansal.  Having rejected the opinions of 
+Dr. Bansal, I ultimately found that Hill failed to prove he sustained permanent injuries as 
+
+HILL V. WHIRLPOOL CORPORATION 
+Page 15 
+ 
+a result of his workplace exposures to liquid bleach on October 2, 2020, and October 6, 
+2020.  I conclude that the claimant’s claim for workers’ compensation benefits against 
+Whirlpool for the October 2, 2020, and October 6, 2020, injury dates must fail.  Claimant 
+is not entitled to an award of temporary or permanent disability benefits.   
+The final issue for determination is a specific taxation of costs pursuant to Iowa 
+Code section 10A.328 and rule 876 IAC 4.33. Iowa Code section 10A.328. Costs are to 
+be assessed at the discretion of the deputy commissioner or workers' compensation 
+commissioner hearing the case. 876 IAC 4.33. Because claimant was not successful in 
+his claim, I decline to tax any costs to defendant. 
+All other disputed issues are rendered moot by the above findings of fact and 
+conclusions of law. 
+ORDER 
+THEREFORE, IT IS ORDERED: 
+Claimant shall take nothing. 
+Each party shall bear their own costs. 
+Signed and filed this ___3rd _ day of July, 2024. 
+ 
+ 
+ 
+                MICHAEL J. LUNN 
+ 
+ 
+ 
+ 
+ 
+ 
+                          DEPUTY WORKERS’ 
+ 
+ 
+ 
+ 
+ 
+             COMPENSATION COMMISSIONER 
+The parties have been served as follows: 
+Thomas Wertz (via WCES) 
+Kent Smith (via WCES) 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Division of Workers’ Compensation to file documents in paper form. If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa 
+Division of Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836. The notice of appeal 
+must be received by the Division of Workers’ Compensation within 20 days from the date of the decision. The ap peal 
+period will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday.  

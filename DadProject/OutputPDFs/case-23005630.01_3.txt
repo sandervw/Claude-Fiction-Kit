@@ -1,0 +1,229 @@
+Case Number: 23005630.01
+Case Title:  HECKMAN, DONALD V. FIVES INC/2ND INJ-FUND
+Doc Type:    Decision - District Court
+Source:      Heckman, Donald-23005630.01.District Court Decision.PDF
+========================================================================
+
+ 
+This is a judicial review action of a decision by the Commissioner of the Iowa 
+Workers’ Compensation Commission regarding jurisdiction of the agency action. The 
+Court held a hearing on the matter on December 19, 2025. Andrew W. Bribriesco and 
+Sophia R. Gustafson appeared on behalf of the Petitioner, Donald Heckman (“Heckman”). 
+Sarah Timko appeared on behalf of Respondent Second Injury Fund of Iowa. Delaney 
+Doyle and Caitlin Kilburg appeared on behalf of Respondent, Fives, Inc (“Fives”).  
+STATEMENT OF THE CASE  
+Donald Heckman was employed by Fives, Inc. as an installation and service 
+technician beginning in 2013. (D0012, Arb. Decision, Cert. Rec. at 46–47). His 
+employment required regular travel throughout the United States and internationally to 
+install, service, and repair equipment at customer locations. (D0014, Transcript, Cert. 
+Rec. at 38–39). Heckman resided in Iowa and routinely returned to Iowa between work 
+assignments. (D0014, Transcript, Cert. Rec. at 16–17, 20; D0012, Arb. Decision, Cert. 
+Rec. at 47). 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+DONALD HECKMAN 
+ 
+         Petitioner, 
+ 
+v. 
+ 
+FIVES, INC., QBE/GENERAL 
+CASUALTY OF WISCONSIN, and 
+SECOND INJURY FUND OF IOWA, 
+ 
+         Respondents. 
+ 
+ 
+      
+Case No. CVCV069831 
+ 
+  
+ 
+RULING ON JUDICIAL REVIEW 
+E-FILED                    CVCV069831 - 2026 JAN 28 01:24 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 9
+
+On October 19, 2016, Heckman sustained a work-related injury while working for 
+Fives in Vermont. (D0014, Transcript, Cert. Rec. at 10–11). Fives administered a claim 
+under Iowa workers’ compensation law and paid permanent partial disability benefits. 
+(D0014, Transcript, Cert. Rec. at 11, 73; D0021, Ex. 6, Cert. Rec. at 6–10). 
+In 2021, Heckman left his employment with Fives to work for another employer. 
+(D0014, Transcript, Cert. Rec. at 11–12). In November 2021, Fives rehired Heckman as 
+a field service technician. (D0014, Transcript, Cert. Rec. at 13–14).  
+On January 13, 2022, Heckman sustained an injury to his right wrist while working 
+for Fives in Milwaukee, Wisconsin. (D0015, Hearing Report, Cert. Rec. at 19; D0014, 
+Transcript, Cert. Rec. at 20). Following the injury, Fives and its third-party administrator 
+authorized and paid for medical treatment, including physical therapy in Iowa, and 
+administered a claim using Iowa Workers’ Compensation Commission. (D0014, 
+Transcript, Cert. Rec. at 21–27, 69–73). Fives also arranged an independent medical 
+evaluation in Iowa and calculated permanent partial disability benefits for Heckman. 
+(D0016, IME Report, Cert. Rec. at 10–15; D0023, Ex. 2, Cert. Rec. at 9). 
+On August 9, 2023, Heckman filed an arbitration petition with the Iowa Workers’ 
+Compensation Commissioner seeking benefits related to the January 13, 2022 injury and 
+asserting a claim against the Second Injury Fund of Iowa based on the October 19, 2016 
+injury. (D0021, Petition, Cert. Rec. at 57–58). Fives and the Second Injury Fund filed 
+answers asserting a lack of jurisdiction pursuant to Iowa Code section 85.71. (D0021, 
+Answer, Cert. Rec. at 53, 46). 
+An arbitration hearing was held on September 27, 2024. (D0010, Transcript, Cert. 
+Rec. at 54). In a decision filed May 14, 2025, the deputy commissioner concluded that 
+E-FILED                    CVCV069831 - 2026 JAN 28 01:24 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 9
+
+the agency lacked jurisdiction under Iowa Code section 85.71 and dismissed the claim 
+without addressing the remaining contested issues. (D0012, Arb. Decision, Cert. Rec. at 
+52). 
+Heckman filed an intra-agency appeal on May 16, 2025. (D0012, Cert. Rec. at 43). 
+On August 28, 2025, the Workers’ Compensation Commissioner affirmed the arbitration 
+decision, concluding that Iowa Code section 85.71 governs the agency’s subject matter 
+jurisdiction over extraterritorial injuries, that Heckman failed to satisfy the statutory 
+requirements, and that jurisdiction could not be waived or consented to by the parties. 
+(D0013, Appeal Dec., Cert. Rec. at 13–14; D0009, Cert. Rec. at 3–4). 
+Heckman timely filed a petition for judicial review pursuant to Iowa Code section 
+17A.19. 
+STANDARD OF REVIEW 
+The Iowa Administrative Procedure Act (IAPA), Iowa Code chapter 17A, governs 
+the scope of the Court’s review in workers' compensation cases. Iowa Code § 86.26 
+(2021); Meyer v. IBP, Inc., 710 N.W.2d 213, 218 (Iowa 2006). The Court’s review of final 
+agency action is “severely circumscribed.”  Sellers v. Emp. Appeal Bd., 531 N.W.2d 645, 
+646 (Iowa Ct. App. 1995).  Nearly all disputes are won or lost at the agency level; the 
+cardinal rule of administrative law is that judgment calls are within the province of the 
+administrative tribunal, not the courts. See id.  
+ “Under the [IAPA], we may only interfere with the commissioner's decision if it is 
+erroneous under one of the grounds enumerated in the statute, and a party's substantial 
+rights have been prejudiced.” Meyer, 710 N.W.2d at 218. The party challenging agency 
+action bears the burden of demonstrating the action's invalidity and resulting prejudice. 
+E-FILED                    CVCV069831 - 2026 JAN 28 01:24 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 9
+
+Iowa Code § 17A.19(8)(a).  This can be shown in a number of ways, including proof the 
+action was ultra vires; legally erroneous; unsupported by substantial evidence in the 
+record when that record is viewed as a whole; or otherwise, unreasonable, arbitrary, 
+capricious, or an abuse of discretion. See id. § 17A.19(10). The district court acts in an 
+appellate capacity to correct errors of law on the part of the agency. Grundmeyer v. 
+Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002). 
+A court retains the power to determine whether it has jurisdiction over the cases 
+before it. See Tigges v. City of Ames, 356 N.W.2d 503, 512 (Iowa 1985). Thus, review of 
+decisions finding subject matter jurisdiction is for the correction of errors at law. Id. 
+However, a Court will “examine an agency’s legal conclusions for soundness even when 
+related to jurisdiction.” Niday v. Roehl Transp., Inc., 928 N.W.2d 659 (Table), 2019 WL 
+1486603, *9 n.3 (Iowa Ct. App. 2019). 
+ANALYSIS 
+ 
+A. Iowa Code Section 85.71 
+The central issue on judicial review is whether the Iowa Workers’ Compensation 
+Commissioner correctly interpreted Iowa Code section 85.71. Specifically, whether the 
+agency retained subject matter jurisdiction over claims involving injuries sustained 
+outside the borders of Iowa.  
+Subject matter jurisdiction refers to the authority of a tribunal to hear and determine 
+cases of a specific topic. Heartland Express v. Gardner, 675 N.W.2d 259, 262 (Iowa 
+2003). Although the Workers’ Compensation Commissioner has exclusive jurisdiction 
+over workers’ compensation claims generally, that authority exists only to the extent 
+granted and limited by the legislature. Id. at 262–63. The Iowa Supreme Court has 
+E-FILED                    CVCV069831 - 2026 JAN 28 01:24 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 9
+
+recognized Iowa Code section 85.71 as an express limitation on the Commissioner’s 
+jurisdiction over claims arising from extraterritorial injuries. Id. at 263 n.3; Heartland 
+Express, Inc. v. Terry, 631 N.W.2d 260, 265 (Iowa 2001). 
+Iowa appellate courts have interpreted section 85.71 as a statute governing subject 
+matter jurisdiction. See George H. Wentz, Inc. v. Sabasta, 337 N.W.2d 495, 500 (Iowa 
+1983); Christian v. Hirschbach Motor Lines, Inc., 496 N.W.2d 270, 274 (Iowa 1992); 
+Henriksen v. Younglove Constr., 540 N.W.2d 254, 258 (Iowa 1995); Heartland Express, 
+675 N.W.2d at 263 n.3; Annett Holdings, Inc. v. Allen, 738 N.W.2d 647, 649 (Iowa 2007). 
+Under these decisions, the Commissioner doesn’t have the authority to adjudicate an out-
+of-state injury unless the claimant establishes one of the statutory bases outlined in 
+section 85.71(1). Id.  
+In this case, Heckman relies on the 2008 amendment to section 85.71, which 
+added subsection (2), providing that the statute shall be construed to confer personal 
+jurisdiction over an employee or employer to whom the section is applicable. Iowa Code 
+§ 85.71(2). The Commissioner rejected the argument that this amendment transformed 
+section 85.71 into a personal-jurisdiction-only statute. 
+In Niday v. Roehl Transp., Inc., the Court noted that section 85.71 resembles a 
+long-arm statute following the 2008 amendment. 934 N.W.2d 29, 36 n.5 (Iowa Ct. App. 
+2019) (Emphasis added). However, this note does not compel this court to come to a 
+different result from the Commissioner. In Niday, the Court did not overrule or disapprove 
+the Iowa Supreme Court’s repeated characterization of section 85.71 as a subject matter 
+jurisdiction statute. Id. The Commissioner properly followed binding Supreme Court 
+precedent rather than the note from an unpublished appellate decision. 
+E-FILED                    CVCV069831 - 2026 JAN 28 01:24 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 9
+
+Accordingly, the Commissioner did not err in interpreting Iowa Code section 85.71 
+as governing the agency’s subject matter jurisdiction over extraterritorial injuries. 
+B. Application of Iowa Code Section 85.71 
+Because section 85.71 governs the Commissioner’s subject matter jurisdiction 
+over extraterritorial injuries, Petitioner holds the burden of proving that one of the statutory 
+conditions in section 85.71(1) is satisfied. See LaRose v. Curoe, 343 N.W.2d 153 (Iowa 
+1983); Annett Holdings, 738 N.W.2d at 650. 
+Iowa Code section 85.71(1)(b) and (d) provides:  
+1. If an employee, while working outside the territorial limits of this state, suffers  
+an injury on account of which the employee, or in the event of death, the  
+employee’s dependents, would have been entitled to the benefits provided by this  
+chapter had such injury occurred within this state, such employee, or in the event  
+of death resulting from such injury, the employee’s dependents, shall be entitled  
+to the benefits provided by this chapter, if at the time of such injury any of the  
+following is applicable: 
+. . .  
+b. The employee is working under a contract of hire made in this state and the  
+employee regularly works in this state. 
+. . .  
+d. The employee is working under a contract of hire made in this state for  
+employment outside the United States. 
+. . .  
+Iowa Code Ann. § 85.71. Substantial evidence supports the Commissioner’s 
+determination that Petitioner failed to establish the requirements of Iowa Code section 
+85.71(1)(b) or (d).  
+Heckman failed to establish that he “regularly worked” in the State of Iowa under 
+Iowa Code section 85.71(1)(b). Heckman’s employment was travel-based and he did not 
+perform work in any one state more than another. Iowa was not a usual or customary 
+location for Heckman’s work. While Heckman performed incidental administrative tasks 
+E-FILED                    CVCV069831 - 2026 JAN 28 01:24 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 9
+
+at his Iowa residence, those tasks were not required to be performed in Iowa. Rather, the 
+evidence showed that such tasks could be completed at customer sites or while traveling. 
+Heckman also failed to establish jurisdiction under Iowa Code section 85.71(1)(d). 
+Although his contract of hire was formed in Iowa, the evidence showed it was for 
+employment both within and outside the United States, not solely for employment outside 
+the United States. Heckman had not performed any work outside the United States 
+between his return to employment in December 2021 and his January 2022 injury. As the 
+Commissioner found, section 85.71(1)(d) was enacted to prevent gaps in workers’ 
+compensation coverage for employees injured abroad, not to provide an alternative forum 
+when coverage is already available. Because Heckman’s injury occurred domestically 
+and was compensable under Wisconsin law, no such gap existed. 
+The Commissioner applied the correct legal standards and did not act irrationally, 
+illogically, or wholly unjustifiably in concluding that Petitioner did not regularly work in Iowa 
+for purposes of subsection (1)(b) and did not satisfy subsection (1)(d). See Meyer v. IBP, 
+Inc., 710 N.W.2d 213, 219 (Iowa 2006); Larson Mfg. Co. v. Thorson, 763 N.W.2d 842, 850 
+(Iowa 2009). 
+C. Waiver or Consent 
+Having correctly concluded that Iowa Code section 85.71 limits the agency’s 
+subject matter jurisdiction, jurisdiction could not be waived or conferred by consent of the 
+parties. See Klinge v. Bentien, 725 N.W.2d 13, 15–16 (Iowa 2006). The Commissioner 
+therefore did not err in declining to find waiver or consent. 
+CONCLUSION 
+E-FILED                    CVCV069831 - 2026 JAN 28 01:24 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 9
+
+The Court concludes that the Workers’ Compensation Commissioner correctly 
+interpreted and applied Iowa Code section 85.71. The agency’s decision was not affected 
+by an error of law and was supported by substantial evidence. 
+IT IS THEREFORE ORDERED that the Petition for Judicial Review is DENIED, 
+and the final agency action of the Iowa Workers’ Compensation Commissioner is 
+AFFIRMED. Costs are assessed to the Petitioner. 
+SO ORDERED. 
+ 
+E-FILED                    CVCV069831 - 2026 JAN 28 01:24 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 9
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV069831
+DONALD HECKMAN VS FIVES INC ET AL
+Type:
+ORDER FOR JUDGMENT
+So Ordered
+Electronically signed on 2026-01-28 13:24:29
+E-FILED                    CVCV069831 - 2026 JAN 28 01:24 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 9

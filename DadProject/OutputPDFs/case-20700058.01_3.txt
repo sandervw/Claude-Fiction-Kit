@@ -1,0 +1,892 @@
+Case Number: 20700058.01
+Case Title:  TWEETEN, COREY V. LON TWEETEN D/B/A TWEETEN FARMS
+Doc Type:    Decision - District Court
+Source:      Tweeten, Corey-20700058.01.District Court Decision.PDF
+========================================================================
+
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+TWEETEN FARMS and GRINNELL 
+MUTUAL,  
+ 
+            Petitioners 
+ 
+vs. 
+ 
+COREY TWEETEN, 
+            Respondent. 
+ 
+ 
+      
+Case No. CVCV063846  
+ 
+RULING ON PETITION FOR JUDICIAL 
+REVIEW OF AGENCY DECISION 
+ 
+On September 30, 2022, the above-captioned matter came before this Court for hearing. 
+Petitioners Lon Tweeten d/b/a Tweeten Farms and its workers’ compensation carrier, Petitioner 
+Grinnell Mutual, were represented by attorneys Stephen W. Spencer and Christopher S. Spencer. 
+Respondent Corey Tweeten was represented by attorney Janece Valentine. After hearing the 
+arguments of Counsel and reviewing the court file, including the briefs filed by the parties and the 
+Certified Administrative Record (“Cert. Rec.”), the Court enters this Order.  
+Respondent filed a claim for workers’ compensation benefits on January 21, 2020, for 
+injuries he alleges were causally connected to an incident that occurred in July 2017 while working 
+on his parents’ farm, Tweeten Farms. Petitioners assert that Respondent’s claims are barred by the 
+applicable statute of limitations, that the Commission lacked subject matter jurisdiction to hear the 
+case, and that there is a lack of substantial evidence to support findings made by the Commissioner.  
+I. 
+FACTUAL AND PROCEDURAL BACKGROUND. 
+A. Background Facts. 
+Respondent suffered an injury in the course of his employment at Tweeten Farms on July 
+25, 2017. The injury was observed by Respondent’s father, Lon Tweeten, who testified that it 
+occurred when Respondent was using a large diameter hose while cleaning out a grain bin. Cert. 
+Rec. Part I pp. 375-76.  
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 28
+
+ 
+ 
+2 
+ 
+Respondent testified that for a period of time he did not feel his work on the farm was 
+deserving of his usual wages and he asked his father to stop paying him. According to Respondent, 
+his father did stop paying him. Respondent’s testimony also admits that he immediately knew the 
+injury was work-related.  
+Respondent first sought medical care on August 14, 2017. He complained of elbow pain 
+and was told to ice the injury and wear a splint. On January 3, 2018, Respondent received a second 
+medical evaluation after he again complained of elbow pain. He was diagnosed with right lateral 
+epicondylitis (tennis elbow) of the injured arm and was advised to begin physical therapy. 
+Respondent first complained of pain in his right shoulder at his third medical evaluation on 
+April 13, 2018. At that time the physician’s assistant provided a steroid to reduce inflammation. 
+However, Respondent’s shoulder issue grew more painful, prompting him to return to the 
+physician’s assistant on May 11, 2018. According to Respondent’s testimony, the pain originated 
+in his elbow and had moved up his arm into the shoulder during the months between the initial 
+injury and the third evaluation. At the follow-up, the provider ordered an MRI of Respondent’s 
+right shoulder that was done on May 22, 2018. The results showed only a sub-centimeter cyst 
+adjacent to the labrum which would not explain Respondent’s continued shoulder pain. After 
+discussing these results with Respondent, the provider referred him to Dr. Warme, an orthopedic 
+surgeon and shoulder specialist. At Respondent’s first visit with Dr. Warme on June 1, 2018, 
+another MRI was ordered. 
+When Respondent returned to Dr. Warme on June 12, 2018, he learned that his recent MRI 
+provided very different results from the one in May. Dr. Warme diagnosed Respondent with a 
+partial thickness tear at the insertion of the deltoid (also referred to herein as the “shoulder injury”). 
+In his notes from this visit, Dr. Warme opines the tear was likely a result of a prior injury. Provided 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 28
+
+ 
+ 
+3 
+ 
+the options of palliative treatments or surgical repair, Respondent opted for the latter 
+The surgery was completed by Dr. Warme on June 18, 2018. Respondent was released 
+from Dr. Warme’s care on October 16, 2018. Respondent was awarded healing period benefits for 
+this period of recovery, even though he continued to work as a truck driver. Respondent was also 
+paid by Tweeten Farms on June 25, 2018, July 5, 2018, October 27, 2018, and November 3, 2018. 
+The parties dispute whether these payments were for recent work or work done earlier in the year. 
+At the arbitration hearing, the parties presented Joint Exhibit 10 which summarized claimed 
+medical expenses. Cert. Rec. Part II p. 120. This exhibit covers expenses from August 14, 2017 
+through March 28, 2019. Accordingly, the Court will not address any medical treatment after the 
+latter date. Respondent also presented evidence at the arbitration hearing regarding a cervical 
+injury, but the Commissioner did not award any benefits for the same. There is no evidence in the 
+record that any of the expenses in Exhibit 10 related to the potential cervical injury.  
+The final category of relevant facts involves Respondent’s Settlement Agreement with the 
+Iowa Second Injury Fund (“SIF”). Respondent filed a Notice of Intent to Settle with SIF on 
+February 15, 2021, pursuant to Iowa Code § 85.35. The Settlement Agreement was provided to 
+the Commissioner on April 20, 2021, and approved three days later. Within the Settlement 
+Agreement is language that limits the resolution to claims between the parties to the settlement. 
+Language that would have prevented future claims against Respondent’s employer was removed. 
+Cert. Rec. Part I pp. 252-54. Petitioners argue that the final bar provision in Iowa Code §85.35(9) 
+does not allow a party to retain rights to commence another proceeding authorized by a right 
+afforded under Iowa Code chapter 85. Hence, according to Petitioners, the exact language of the 
+Settlement is not material because the very existence of a settlement deprives the Workers’ 
+Compensation Commission of subject matter jurisdiction. 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 28
+
+ 
+ 
+4 
+ 
+B. Procedural History. 
+Respondent filed his claim for workers’ compensation benefits on January 21, 2020, 
+contending the date of the work-related injury to his right upper extremity was February 1, 2018. 
+An Arbitration Hearing was held on March 10, 2021. The Commission’s adjudicator was Deputy 
+Commissioner James F. Christenson, and he issued his Arbitration Decision on September 17, 
+2021.  
+The Deputy Commissioner first considered whether Respondent’s claim had expired under 
+the statute of limitations provided in Iowa Code § 85.36. He determined that the statute of 
+limitations did not time-bar Respondent’s claim due to the discovery rule. Having found the claim 
+ripe for adjudication, the Deputy Commissioner determined that Respondent’s tennis elbow 
+diagnosed in August 2017 and the deltoid tear diagnosed in June 2018 were both attributable to 
+Respondent’s employment at Tweeten Farms. Accordingly, the Deputy Commissioner awarded 
+temporary total disability benefits, benefits for a five percent disability rating of the upper 
+extremity, and reimbursement of medical expenses incurred by Respondent. 
+Petitioners filed a Motion for Rehearing on two issues. First, Petitioners asserted that the 
+Deputy Commissioner erred in calculating the temporary total disability payment owed to 
+Respondent. Second, that the Deputy Commissioner failed to address an argument Petitioners 
+made for the first time in their post-hearing brief after the Arbitration Hearing in March 2021.  
+On the first point, the Deputy Commissioner recalculated the amount of healing period 
+benefits. Petitioners still contest the award of any such benefits, but do not dispute the recalculated 
+rate contained in the October 13, 2021, Ruling on Motion for Rehearing of Decision.  
+The newly raised argument was that Respondent’s claim was extinguished when he entered 
+the Settlement Agreement with the Second Injury Fund by virtue of the final bar provision in Iowa 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 28
+
+ 
+ 
+5 
+ 
+Code § 85.35(9). That provision states: 
+Approval of a settlement by the workers’ compensation commission is binding on 
+the parties and shall not be construed as an original proceeding. Notwithstanding 
+any provisions of this chapter … an approved compromise settlement shall 
+constitute a final bar to any further rights arising under this chapter . . . regarding 
+the subject matter of the compromise . . . . 
+ 
+The thrust of Petitioners’ argument is that a Settlement Agreement with SIF is a compromise 
+settlement that must be approved by the Commission, and thus the “final bar to any further rights 
+under this chapter” includes Respondent’s claim for workers’ compensation benefits against his 
+employer. This argument was rejected by the Deputy Commissioner.  
+The Commissioner’s Appeal Decision was issued on May 20, 2022. The Commissioner 
+affirmed the Deputy Commissioner’s decision while making the following conclusions: 
+1. Respondent’s settlement with the Iowa Second Injury Fund did not extinguish 
+his claim under the final bar provision or deprive the Commission of subject 
+matter jurisdiction to hear his claim against Petitioners; 
+2. The statute of limitations in Iowa Code section 85.26 did not time-bar Respondent’s 
+claim; 
+3. Substantial evidence supported the Deputy Commissioner’s reliance on certain expert 
+testimony over other conflicting expert testimony; 
+4. Respondent was entitled to healing benefits during the period when he was recovering 
+from surgery between June 18, 2018, and October 16, 2018; 
+5. Respondent was entitled to 12.5 weeks of benefits due to a valid five percent 
+impairment rating of his upper extremity; and 
+6. Substantial evidence supported the Deputy Commissioner’s award of reimbursement 
+for medical expenses, including the fees for Dr. Sassman’s independent medical 
+examination; and 
+7. Respondent did not sustain a cervical spine injury related to his work injury. 
+ 
+Cert. Rec. Part I pp. 12-21. In their Petition for Judicial Review, Petitioners challenge the first six 
+of these conclusions.  
+II. 
+STANDARD OF REVIEW FOR ALL ISSUES. 
+A party to a workers’ compensation action may seek judicial review under Iowa Code 
+section 17A.19(1) if they are “aggrieved or adversely affected by any final agency decision.” See 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 28
+
+ 
+ 
+6 
+ 
+Des Moines Area Reg’l Transit Auth. v. Young, 867 N.W.2d 839, 841-42 (Iowa 2015). The 
+standard of review is controlled by the existence of a legislative grant of authority to exercise 
+discretion to decide an issue. Where the commissioner has not been given authority to exercise 
+discretion by the legislature, the review is for errors at law. Iowa Code § 17A.19(10)(c). “[I]f the 
+claimed error pertains to the agency’s interpretation of law, then the question on review was 
+whether the agency’s interpretation was wrong.” Tripp v. Scott Emergency Comm’n Ctr., 977 
+N.W.2d 459, 464 (Iowa 2022) (citing Meyer v. IBP, Inc., 710 N.W.2d 213, 219 (Iowa 2006)). 
+Where discretion to decide an issue is not vested in the Commissioner, the Court may substitute 
+its judgment for that of the Commissioner. See Lakeside Casino v. Blue, 743 N.W.2d 169, 173 
+(Iowa 2007).  
+The Iowa Supreme Court has “held the legislature has not delegated any special powers to 
+the workers’ compensation commissioner regarding statutory interpretation of Iowa Code chapter 
+85, which governs workers’ compensation.” Coffey v. Mid Seven Transp. Co., 831 N.W.2d 81, 88-
+89 (Iowa 2013) (citing Waldinger Corp. v. Mettler, 817 N.W.2d 1, 4-5 (Iowa 2012)). “[I]f the 
+claimed error pertains to the agency’s interpretation of law, then the question on review was 
+whether the agency’s interpretation was wrong.” Tripp, 977 N.W.2d at 464 (citing Meyer v. IBP, 
+Inc., 710 N.W.2d 213, 219 (Iowa 2006)).  
+“When discretion has been vested in the commissioner, ‘we reverse only if the 
+commissioner’s application was irrational, illogical, or wholly unjustifiable.’” Des Moines Area 
+Reg’l Transit Auth. 867 N.W.2d at 842 (quoting Larson Mfg. Co. v. Thorson, 763 N.W.2d 842, 
+850 (Iowa 2009)); see Iowa Code § 17A.19(10)(l). Iowa Code § 17A.19(10)(f)(1). “Application of 
+workers’ compensation laws to facts as found by the commissioner is clearly vested in the 
+commissioner.” Midwest Ambulance Service v. Ruud, 754 N.W.2d 860, 864 (Iowa 2008) (citing 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 28
+
+ 
+ 
+7 
+ 
+Mycogen Seeds v. Sands, 700 N.W.2d 328, 330 (Iowa 2005); rev’d on other grounds).  
+In sum, the Commissioner’s findings are only reversed when they are not supported by 
+substantial evidence when the record is viewed as a whole. Iowa Code § 17A.19(10)(f). A finding 
+of substantial evidence is appropriate where a “neutral, detached, and reasonable person” 
+determines that the evidence is sufficient to establish a fact that has serious and important 
+consequences. Iowa Code § 17A.19(10)(f)(1). Common law provides additional guidance 
+regarding the substantial evidence standard, and the appropriate deference owed to the 
+Commissioner’s findings.  
+ 
+“Evidence is not insubstantial merely because different conclusions may be drawn from 
+the evidence.” Cedar Rapids Comm. Sch. Dist. v. Pease, 807 N.W.2d 839, 845 (Iowa 2011) (citing 
+John Deere Dubuque Works of Deere & Co. v. Weyant, 442 N.W.2d 101, 105 (Iowa 1989)). If the 
+Court reaches a different conclusion on an issue, that disagreement alone is not enough to conclude 
+substantial evidence did not support the Commissioner’s decision. Id. (“[E]vidence may be 
+substantial even though we may have drawn a different conclusion as fact finder.”) (internal 
+citations omitted). The Court is not concerned whether the facts support a finding other than the 
+one made by the Commissioner. Id. Findings made by the Commissioner are only reversed when 
+a contrary finding is compelled as a matter of law. Long v. Roberts Dairy Co., 528 N.W.2d 122, 
+123 (Iowa 1995) (“In other words, the commissioner’s findings are binding on appeal unless a 
+contrary result is compelled as a matter of law.”) 
+Despite discretion, the analysis still must be meaningful. “[C]ourts must not simply rubber 
+stamp the agency fact finding without engaging in a fairly intensive review of the record to ensure 
+that the fact finding is itself reasonable.” Wal-Mart Stores, Inc. v. Caselman, 657 N.W.2d 493, 499 
+(Iowa 2003). At its minimum, the Court’s review must be “fairly intensive” to require 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 28
+
+ 
+ 
+8 
+ 
+consideration of all relevant information provided to it. The record is to be considered in its 
+entirety. Schutjer v. Algona Manor Care Ctr., 780 N.W.2d 549, 557-58 (Iowa 2010). 
+ 
+On the issues of the statute of limitations and subject matter jurisdiction the Court must 
+determine if the Commissioner’s interpretation of the statute is wrong. Tripp, 977 N.W.2d at 464. 
+On other issues, such as medical causal connection, the substantial evidence standard is applicable. 
+However, where a finding subject to the substantial evidence standard is predicated upon an 
+erroneous interpretation of law, the Court may still substitute its judgment for the Commissioner’s. 
+Bell Bros. Heating & Air Conditioning v. Gwinn, 779 N.W.2d 193, 199 (Iowa 2010) (“To the 
+extent error is predicated on an erroneous interpretation of law, we do not give deference to the 
+workers’ compensation commissioner.”) 
+III. 
+CAUSAL CONNECTION. 
+The causal connection in this case is somewhat unusual because there is one date of a work-
+related incident, but two distinct injuries – tennis elbow and a deltoid tear. The Commissioner 
+found that both injuries were work-related. Petitioners argue that substantial evidence does not 
+support the Commissioner’s conclusion that the deltoid tear was caused by the work-related 
+incident in July 2017.  
+Medical causal connection is a question of fact vested in the discretion of the 
+Commissioner, with his findings afforded more deference because of his role in the adjudicatory 
+process. An analysis of medical causal connection is “essentially within the domain of expert 
+testimony.” Pease, 807 N.W.2d at 846 (internal citations omitted). The Commissioner’s duty is to 
+determine which expert’s testimony is more credible. Id. at 845. The Court “will therefore only 
+disturb the commissioner’s finding of medical causation if it is not supported by substantial 
+evidence.” Id.  
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 28
+
+ 
+ 
+9 
+ 
+Three expert opinions were presented to the Commissioner. Two experts, Dr. Aviles and 
+Dr. Sassman, offered opinions for the purpose of litigation. Their opinions supported the party that 
+paid for them. The third expert, Dr. Warme treated Respondent’s deltoid tear. The question before 
+the Court is whether substantial evidence supported the Commissioner’s reliance on the opinions 
+of Dr. Warme and Dr. Sassman in lieu of accepting Dr. Aviles’ expert opinion.  
+“[T]he determination of whether to accept or reject an expert opinion is within the peculiar 
+province of the commissioner.” Pease, 807 N.W.2d at 845 (quoting Deaver v. Armstrong Rubber 
+Co., 170 N.W.2d 455, 464 (Iowa 1969)). Additionally, “the weight to be given such an opinion is 
+for the finder of fact ….” Deaver, 170 N.W.2d at 464 (internal citations omitted). The 
+Commissioner’s analysis considers “accuracy of the facts relied upon by the expert and other 
+surrounding circumstances.” Schutjer, 780 N.W.2d at 560. 
+Petitioners’ argument regarding causation of the shoulder injury can be broken into four 
+components: (1) Dr. Aviles’ opinion indicates that a traumatic injury to the shoulder would be 
+needed to cause the injury found; (2) Respondent testified that his pain moved from his elbow up 
+his shoulder and into his deltoid; (3) Respondent’s testimony indicates that his shoulder pain first 
+manifested during his employment as a trucker months after his July work-related injury; and (4) 
+Respondent’s shoulder issues continued after his deltoid injury was repaired. Petitioners hope the 
+Court will infer that the first point is supported by the following three. But the record does not 
+suggest that Respondent sustained a separate traumatic injury at any point after July 2017.  
+In contrast, Dr. Warme’s opinion addresses how pain could have eventually manifested in 
+Respondent’s shoulder: “It is my opinion that [Respondent] probably overcompensated for his 
+tennis elbow using the arm and had some type of an overuse tendinopathy type injury with some 
+microscopic tearing that became worse with overuse at the deltoid insertion.” Cert. Rec. Part II p. 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 28
+
+ 
+ 
+10 
+ 
+58 (Ex. 3 p. 28). Dr. Warme’s opinion was supported by Dr. Sassman’s. Absent any reason to 
+afford Dr. Aviles’ contrary opinion superior credibility, the Court concludes that substantial 
+evidence supported the Commissioner’s finding that both the tennis elbow and the deltoid tear 
+were causally connected to the workplace incident.  
+IV. 
+STATUTE OF LIMITATIONS. 
+ 
+Respondent had two injuries. The first is tennis elbow. It appears undisputed that this injury 
+was sustained in July 2017 and diagnosed in August 2017. The second is a shoulder injury, 
+specifically a deltoid tear. Petitioners argue that the second injury is not causally linked to the July 
+2017 work-related injury. The Commissioner disagreed. As discussed above, the Court finds that 
+substantial evidence supports the Commissioner’s determination. However, Petitioners still 
+contend that Respondent’s claims are barred by the statute of limitations.  
+Petitioners’ argument that the statute of limitations bars Respondent’s claim is dependent 
+on the “date of the occurrence of the injury” being July 25, 2017. That is the date that Respondent 
+was injured at work. It is also more than two years before the date he sought benefits: January 21, 
+2020. Nonetheless, the Commissioner applied the discovery rule and found that Respondent’s 
+claims were not barred by the statute of limitations on workers’ compensation claims.  
+In discussing the effect of the discovery rule on an otherwise time-barred claim, the Iowa 
+Supreme Court supreme has stated: “[W]e need only decide whether there is substantial evidence 
+to support a finding that [claimant] knew the nature, seriousness, and probable compensable 
+character of her injury within two years of the date [claimant] filed [their] petition for benefits.” 
+Herrera v. IBP, Inc., 633 N.W.2d 284, 288 (Iowa 2001). However, in 2017, the Iowa Legislature 
+codified the date of accrual for a claim under chapter 85. Petitioners argue that this prevents using 
+the discovery rule to preserve an otherwise time-barred claim.  
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 28
+
+ 
+ 
+11 
+ 
+For injuries occurring on or after July 1, 2017, the statute of limitations for a workers’ 
+compensation claim is provided in Iowa Code section 85.26(1): 
+An original proceeding for benefits under his chapter under this chapter … shall 
+not be maintained in any contested case unless the proceeding is commenced within 
+two years from the date of the occurrence of the injury for which benefits are 
+claimed. … For purposes of this section, “date of the occurrence of the injury” 
+means the date that the employee knew or should have known that the injury was 
+work-related. 
+ 
+Iowa Code § 85.26(1). The sentence defining “date of occurrence of the injury” was added in 2017. 
+H.F. 518, 87th Leg. (Ia. 2017). Petitioners argue that this provision’s plain language should result 
+in Respondent’s claim being barred by the statute of limitations. Respondent argues that the 
+Commissioner’s finding on this issue, including his use of the discovery rule, should be upheld. 
+Whether the common law discovery rule continues to apply to workers’ compensation 
+claims after the 2017 amendment appears to be a question of first impression. The amendment, 
+which defines the “date of occurrence of the injury” as “the date that the employee knew or should 
+have known that the injury was work-related” is silent as to the serious nature or compensability 
+of the injury. The parties agree that the Herrera standard was well-known prior to the 2017 
+amendment. Petitioners argue that the failure to include language along these lines demonstrates 
+the Legislature’s intent to abrogate Herrera and the discovery rule. Respondent argues that the 
+Legislature’s silence on this point indicates that it did not intend to disturb long-established 
+common law. The Commissioner agreed with Respondent’s arguments. However, because 
+interpretation of Chapter 85 is not vested with the Workers’ Compensation Commission, the Court 
+gives no deference to the Commissioner’s interpretation.  
+Although the amended language continues to account for situations where an employee 
+does not know he is injured or when a cumulative injury does not manifest itself until later (both 
+circumstances which are applicable to Respondent’s later-discovered deltoid tear), there is no 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 11 of 28
+
+ 
+ 
+12 
+ 
+allowance for a single injury that is later determined to be more serious than originally thought. 
+This appears to have been an intentional omission. The purpose of the 2017 amendment was 
+discussed in a statement by the amendment’s sponsor during floor debate in the Senate: 
+One of the things this bill is trying to collect are those instances where the employee 
+doesn’t notify their employer until two or more years after the actual injury because 
+the employee didn’t realize it was of a serious nature. It is not fair to the employer 
+because they would have to pay the interest back to the date of the injury whether 
+they were even aware the injury had occurred. 
+ 
+Senate Video (2017-03-27), Iowa Legislature, at 2:56:33—2:58:08 PM; S.J. 783, at 789.  
+ 
+Prior to 2017, the Legislature had not defined the phrase “date of occurrence of the injury.” 
+Thus, the Courts stepped in, and the common law discovery rule was developed. However, in 
+2017, the Legislature took the definition into its own hands. It could easily have said that the “date 
+of occurrence of the injury” is the date “the employee knows or should have known the nature, 
+seriousness, and probable compensable character of the injury” to comport with the common law 
+discovery rule. The Legislature did not do so. Additionally, if the discovery rule continued to 
+apply, the additional language added to the statute would serve no purpose. In light of the 
+foregoing, the Court finds that the common law discovery rule no longer applies to workers’ 
+compensation claims following the 2017 Amendment.  
+ 
+Respondent’s claim for benefits for tennis elbow (epicondylitis) is thus time-barred. 
+Respondent knew his elbow was injured on July 25, 2017. He did not seek benefits until January 
+21, 2020, more than two years later. In the absence of the discovery rule, that claim cannot survive. 
+The analysis is different with respect to Respondent’s shoulder injury.  
+Respondent was aware of an injury on July 25, 2017. But that is not the only injury “for 
+which benefits are claimed.” No case law is needed to infer that knowledge of an injury is a 
+prerequisite for knowledge that the injury was work-related. Here, Respondent had no knowledge 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 12 of 28
+
+ 
+ 
+13 
+ 
+of a shoulder injury until he was within the two-year period before filing his claim for benefits.  
+Respondent was evaluated by only two providers before January 21, 2018. The first was 
+Respondent’s initial medical care following his work-related injury. That visit occurred on August 
+14, 2017. There, the physician’s assistant recommended that Respondent wear a stabilization splint 
+and ice the injury. Respondent did not complain of shoulder pain at that time. Respondent also did 
+not complain of shoulder pain at his next evaluation on January 3, 2018. Rather, he again stated 
+he was suffering elbow pain, and the provider diagnosed him with right lateral epicondylitis of the 
+elbow and recommended physical therapy. Neither of these medical evaluations gave Respondent 
+a reason to believe he had a shoulder injury. Further, Dr. Sassman and Dr. Warme offered their 
+opinions that the deltoid injury was not actually sustained at the time of the initial elbow injury. 
+Rather, it subsequently occurred due to Respondent overcompensating for the elbow injury. In 
+sum, even without the benefit of the discovery rule, Respondent’s claim for the deltoid injury 
+survives. because he “did not know and should not have known” that he had this injury until April 
+2018. Iowa Code § 85.26(1 
+Petitioners’ contrary argument is essentially that when any injury becomes known, it starts 
+the clock running with respect to all later discovered injuries. That is not what the revised statute 
+states. Further, the Court “must interpret the provisions within our workers’ compensation 
+statutory scheme to ensure our interpretation is harmonious with the statute as a whole.” Brewer-
+Strong v. HNI Corporation, 913 N.W.2d 235, 253 (Iowa 2018) (internal quotations omitted). The 
+primary purpose of Iowa Code Chapter 85 is to “benefit the injured worker.” Jacobson Transp. 
+Co. v. Harris, 778 N.W.2d 192, 17 (Iowa 2010).  
+V. 
+SUBJECT MATTER JURISDICTION. 
+The Legislature only vests the Commissioner with authority to decide disputes controlled 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 13 of 28
+
+ 
+ 
+14 
+ 
+by Iowa Code Chapter 85. Thus, Petitioners argue that the Commissioner lacked subject matter 
+jurisdiction to hear Respondent’s claim as of April 20, 2021, when the Commissioner approved 
+Respondent’s Settlement Agreement with the Second Injury Fund. Accordingly, Petitioners assert 
+that the Commissioner’s Arbitration Decision issued May 10, 2022, must be reversed entirely. 
+Petitioners’ position relies on the 2017 statutory amendments. Petitioners contend that since that 
+time “[i]t is not possible for parties to carve out any part of a workers’ compensation claim to avoid 
+the final bar provision under Iowa Code section 85.35.” Pets. Br. p. 20. 
+Respondent first objects that this argument was not timely made before the Commission 
+and was thus waived. The Commissioner agreed with this argument. The Court does not. 
+Jurisdiction of the trial court to act may nevertheless be attacked at any stage in 
+order to avoid unwarranted exercise of judicial authority. Similarly, lack of inferior 
+tribunal jurisdiction to act may be urged by the court even though not raised before 
+the tribunal itself in order to avoid unwarranted exercise of such tribunal’s 
+authority. 
+ 
+Bowen v. Story County Bd. of Sup’rs, 209 N.W.2d 569, at 572 (Iowa 1973). The defendants in 
+Bowen made an argument identical to Respondent’s: 
+Defendants assert plaintiffs are barred from asserting the board’s want of 
+jurisdiction because they did not raise the question before the board. Plaintiffs first 
+raised the issue in their certiorari petition. Defendants rely on the principle . . . that 
+an inferior tribunal ‘does not act in excess of jurisdiction or otherwise illegally as 
+to a matter not before it and courts will not review questions not presented to the 
+inferior tribunal.’ 
+ 
+Id. at 572 (internal citations omitted).  
+However, the Bowen court articulates a clear test: “The principle is applicable where . . . a 
+party assails the tribunal’s action as in excess of jurisdiction or illegal but is not applicable where 
+. . . the tribunal is alleged to have had no jurisdiction to act at all.” Id. “The principle” references 
+situations where the Court cannot hear an objection not made to the lower tribunal. Whether the 
+Court can entertain the objection of lack of jurisdiction, under this precedent, is dependent upon 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 14 of 28
+
+ 
+ 
+15 
+ 
+the allegations. Petitioners argue that the final bar provision removes Respondent’s claim from the 
+purview of Chapter 85. If that argument were successful, it would deprive the Commissioner of 
+subject matter jurisdiction. meaning that the Commissioner had no jurisdiction to act.1 
+Although Petitioners’ substantive argument was also considered and rejected by the 
+Commissioner, the Court can locate no appellate opinion on point. Thus, the Court must conduct 
+its own statutory interpretation. The Court begins with the text of the statute. Doe v. State, 943 
+N.W.2d 608, 610 (Iowa 2020). The relevant part of Iowa Code § 85.35(9) provides: 
+Approval of a settlement by the workers’ compensation commissioner is binding 
+on the parties and shall not be construed as an original proceeding. Notwithstanding 
+any provisions of this chapter and chapters 85A, 85B, 86, and 87, an approved 
+compromise settlement shall constitute a final bar to any further rights arising under 
+this chapter and chapters 85A, 85B, 86, and 87 regarding the subject matter of the 
+compromise ….  
+ 
+Respondent points out that the language “subject matter of the compromise” was added in 2005. 
+Resp. Br. p. 14. The Court believes that this language, as a qualifier of claims subject to the final 
+bar provision, is crucial in ascertaining whether the provision applies in this case. Additionally, 
+the introductory provision of § 85.35 was amended to remove the term “final” from the sentence 
+“The parties to a contested case or persons who are involved in a dispute which could 
+culminate in a contested case may enter into a settlement of any claim … providing for final 
+disposition of the claim.” This suggests that something other than a full and final resolution would 
+be possible in a settlement. 
+ “Absent statutory definition, the Court will consider statutory terms in their context and 
+give them their common and ordinary meaning.” Trujillo, 878 N.W.2d at 770. The plain meaning 
+of the statute does not allow the Court to consult materials other than the text of the statute if the 
+                                                          
+1 Additionally, it appears that the settlement with SIF was not approved until after the arbitration hearing. 
+Jurisdiction would not be deprived until the Commissioner approved the settlement. Thus, Petitioners raised the 
+issue at the earliest opportunity. 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 15 of 28
+
+ 
+ 
+16 
+ 
+language is ambiguous or if the application of the exact words of the text produces an absurd result. 
+Brakke v. Iowa Dep’t of Nat. Res., 897 N.W.2d at 534. The “cardinal rule” of statutory 
+interpretation provides, “The Court may not look beyond the express terms of the statute if the text 
+of the statue is plan and its meanings clear.” Neal, 814 N.W.2d at 519. Petitioners contend that the 
+plain meaning demands that the Court conclude the Commission lacked jurisdiction to hear 
+Respondent’s claim due to his settlement with SIF. However, the Court finds the plain and ordinary 
+meaning of the statutory text to support Respondent.  
+“Subject matter of the compromise” must have meaning. The only logical meaning is that 
+the final bar provision applies only to claims that have the same subject matter as those released 
+in a settlement. Here, the only claim released was for potential future compensation from SIF. 
+There is no language releasing claims against the employer or its insurance carrier. Further, the 
+potential liability of SIF was only the industrial loss resulting from the combination of the new 
+arm injuries and a pre-existing ankle injury. The potential liability of Petitioners was solely for the 
+arm injuries. Thus, the “subject matter of the compromise” was different than the subject matter 
+of the workers’ compensation proceedings. To find that an employer is relieved of liability because 
+of a separate settlement with a third party for potential liability on a separate loss would defeat the 
+purpose of the workers’ compensation regime.  
+ 
+Petitioners have cited multiple cases, but the Court finds all to be distinguishable. The first 
+case is White v. Northwestern Bell Telephone Co., 514 N.W.2d 70 (1994). Petitioners cite this case 
+for the undisputed proposition that the practical effect of the final bar provision is to deprive the 
+Commissioner of subject matter jurisdiction. However, the application of the final bar provision 
+that occurred in White is clearly distinguished from this case. White was decided on contract 
+grounds. Id. at 76. More importantly, the contract analyzed was a settlement between White and 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 16 of 28
+
+ 
+ 
+17 
+ 
+his employer under Iowa Code § 85.35. Id. at 72. The agreement provided the employer would pay 
+for the petitioner’s future medical care, and they did so for nine years. Id. at 75-76. When the 
+employer stopped paying for medical expenses, the plaintiff filed an action in district court to 
+which the employer objected stating the issue was vested in the Commissioner’s subject matter 
+jurisdiction. The court denied the objection holding that Iowa Code § 85.35, “evinces a legislative 
+intent to terminate the jurisdiction of the industrial commissioner upon settlement approval.”  
+In White, the final bar provision extinguished the subject matter jurisdiction to hear the 
+employer’s argument that it should not be required to continue paying the expenses. Thus, the 
+employer attempted to re-litigate a settlement it previously agreed to. That is distinguishable from 
+situations where the employee settles with a third party. Most importantly, the “subject matter” of 
+the settlement and dispute were the same: the employer’s obligation to pay expenses.  
+ 
+Next is Bankers Standard Ins. Co. v. Stanley, 661 N.W.2d 178 (Iowa 2003). This case 
+addressed an insurer’s rights to indemnify an employee out of third-party settlement proceeds up 
+to the amount they paid the employee. Id. at 180. The court in Bankers Standard ultimately held 
+the final bar provision applicable to the insurer’s indemnification rights under Iowa Code §85.22, 
+based on the plain meaning of Iowa Code § 85.35(9) and its bearing on the right to indemnify a 
+recipient of workers’ compensation up to the amount they paid. The right of indemnification is 
+located in Iowa Code § 85.22. Id. Therefore, the court held the plain meaning of Iowa Code § 
+85.35(9), specifically the phrase “any further rights under this chapter,” extinguished the insurer’s 
+right to indemnify the employee for third-party proceeds. Id. at 181; Iowa Code § 85.35(9). The 
+court explained: 
+A legislative bar to indemnification upon settlement of a contested case does not 
+defeat the objectives of indemnification, but merely recognizes that the issue of 
+indemnification . . . must be considered in the process of settling a contested case 
+because the settlement will otherwise bar the statutory rights of the parties available 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 17 of 28
+
+ 
+ 
+18 
+ 
+under the workers’ compensation laws. 
+ 
+Id. (Emphasis added). 
+In sum, insurers are still able to indemnify employees out of recoveries from third-parties 
+up to the amount they paid, less their share of attorney’s fees, if they follow the correct procedural 
+requirements. In the context of indemnification in workers’ compensation’ cases, Iowa Code § 
+85.22 demands that an insurer or employer who paid an employee workers’ compensation benefits 
+must first file a lien on the potential settlement awards. Iowa Code § 85.22(1). “In order to continue 
+and preserve the lien, the employer shall, within thirty days after receiving notice of such suit . . . 
+file . . . notice of the lien.” Id. In Bankers Standard, the insurer failed to follow this process. The 
+emphasized portion of the quote above substantiates that the invocation of the final bar provision 
+was due to the employer’s failure to follow the proper procedural methods to reap the rewards of 
+indemnification rights. Id. 
+ 
+The Court also finds Bankers Standard distinguishable because the parties had already 
+settled on the subject matter of the dispute—the obligations and entitlements of the parties 
+triggered by the occurrence of a work-related injury—and the insurer’s indemnification rights 
+addressed the same subject matter. When the insurer failed to timely file a workers’ compensation 
+lien and initiated new proceedings to indemnify the employer for his third-party proceeds, they 
+reopened a closed door: obligations of each party springing from a work-related injury. 
+ 
+The next three cases can be disposed of quickly for their lack of bearing on this issue. First, 
+in Heartland Exp. v. Gardner, 675 N.W.2d 259, 270 (Iowa 2003), the final bar provision was not 
+invoked. Rather, this case was decided upon a circumscription of subject matter jurisdiction of the 
+Commissioner that was provided by the legislature in Iowa Code § 85.71. That section deals with 
+claims from nonresidents of this state. It is well established that the legislature can circumscribe 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 18 of 28
+
+ 
+ 
+19 
+ 
+subject matter jurisdiction of executive tribunals. But the Court does not believe that the 
+Legislature did so with respect to settlements with SIF. 
+Harvey’s Casino v. Isenhour, 724 N.W.2d 705, 708-09 (Iowa 2006) is similar to Gardner 
+in that workers’ compensation claims submitted by employees were denied by virtue of a 
+legislative circumscription of subject matter jurisdiction. Iowa Code § 85.1(6) provides that 
+entitlement to benefits under a federal law for a work-related injury precludes a double recovery 
+from the Iowa Workers’ Compensation Commission. Id. at 706. The employees in Harvey’s 
+Casino were “seamen” as defined in the Jones Act which affords benefits for work-related injuries. 
+Therefore, Iowa Code § 85.1(6) applied and removed the jurisdiction of the Commission to hear 
+the employees’ claims. While this case could be argued to support that the purpose of the final bar 
+provision is to prevent duplicative recovery, it certainly does not bear on whether Respondent’s 
+settlement with Iowa SIF bars the claim in this dispute. The potential future liability of SIF is 
+different than that of the entity that employed the claimant at the time the original injury occurred. 
+ 
+In Terry v. Dorothy, 950 N.W.2d 246, 249-50 (Iowa 2020), the court considered “whether 
+a gross negligence claim against a coemployee is a statutory claim that is extinguished under Iowa 
+Code § 85.220 when the workers’ compensation commissioner approved settlement of the 
+statutory claim.” The employee received benefits from her employer and then went after her 
+coworkers for gross negligence. Id. at 248. After conducting an investigation into common law 
+claims in an employment context that survived various amendments, placing those claims under 
+the purview of Iowa Code Chapter 85, the court concluded: “[T]he common law claims against 
+coemployees for gross negligence survived the amendment and are not within the scope of our 
+workers’ compensation statutes.” Id. Because the claim was not subject to the provisions of Iowa 
+Code Chapter 85, and therefore the final bar provision, the court stated: “[T]he district court’s 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 19 of 28
+
+ 
+ 
+20 
+ 
+ruling was flawed when it reasoned that a statutory workers’ compensation claim extinguishes 
+common law gross negligence claims against an employee ….” Id. at 251. 
+The last Iowa judicial authority offered by Petitioners is again within the realm of insurance 
+indemnification rights under Iowa Code § 85.21. United Fire & Casualty Co. v. St. Paul Fire & 
+Marine Ins. Co., 677 N.W.2d 755 (Iowa 2004), has facts similar to Bankers Standard. St. Paul and 
+United Fire are both workers’ compensation insurers. Id. at 757. The insurer of the employee’s 
+business was United Fire. Id. The injury giving rise to the dispute was found at trial to be an 
+aggravation of a pre-existing injury suffered in the course of employment with an employer who 
+received workers’ compensation insurance through St. Paul. Id. Iowa Code § 85.21(3) allows an 
+employer to request that a Commissioner of the Workers’ Compensation Commission issue an 
+employer an order allowing it to file a claim for indemnification against another employer or 
+insurer who is responsible for all or part of the benefits the requesting party was obligated to pay. 
+Pursuant to this provision, St. Paul sought indemnification of United Fire. Id. at 757-58. The court 
+held that the final bar provision extinguished St. Paul’s indemnification claim given they had 
+already reached a compromise special case settlement on the same subject matter as their claim to 
+indemnify United Fire. Id. at 760-61. 
+St. Paul contended that their claim under Iowa Code § 85.21(3) should not be barred 
+because the parties to the claim under Iowa Code § 85.21(3) were not the same parties to the 
+settlement reached with the employee. The court found this argument to be a “distinction without 
+meaning.” Id. at 760. However, the court’s reasoning in United Fire & Casualty Co. provides 
+support that “[t]he words ‘subject matter of the compromise’ have meaning and clarify what ‘full 
+and final’ actually means.” Resp. Br. p. 16. The Court takes note that those words Respondent 
+argues to be material in this analysis were not added to Iowa Code § 85.35(9) until a year after 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 20 of 28
+
+ 
+ 
+21 
+ 
+United Fire & Casualty Co. was decided. 
+The added language does not expand the pool of claims that would be barred under the 
+provision. Rather, it limits the claims that are to be extinguished to those with the shared subject 
+matter of the settlement. In United Fire & Casualty Co., the subject matter of the settlement and 
+St. Paul’s indemnification claim under Iowa Code § 85.21(3) were the same because the obligation 
+to pay arose from an injury for which St. Paul sought to indemnify United Fire. In the settlement, 
+St. Paul sought to relieve its obligation to pay the employee benefits by filing a compromised 
+agreement instead of disputing their contribution. Id. at 758. With the indemnification claim, St. 
+Paul sought to indemnify United Fire for its same obligation to pay the employee benefits due to 
+the finding that the new injury was aggravation of the first. Id. Again, United Fire & Casualty Co. 
+is distinguishable because in the instant case, the subject matter of the compromise with SIF was 
+different than the subject matter of the workers’ compensation proceedings.  
+Finally, the Court addresses Petitioners’ cited Appeal Decision of the Commissioner in 
+Ahn v. Key City Transport, Inc., File No, 5042640 (10/8/2015).  
+The Iowa Supreme Court interpreted the statutory language, “final bar to any 
+further rights,” broadly in United Fire v. St. Paul Fire & Marine. The Court 
+concluded that “a compromise special case settlement under section 85.33 bars an 
+employer’s or its insurer’s statutory right to indemnification and contribution under 
+section 85.21(3).” Had the Court interpreted this statutory language narrowly, 
+perhaps it would have found a difference between the subject matter of the 
+compromise and the third-party claim. The Supreme Court's broad interpretation of 
+the legislative intent to terminate the commissioner's jurisdiction of a compromised 
+claim indicates claimant's approved compromise settlement with SIF in File No. 
+5038569 bars his claim in this case against defendants. If an employer or its insurer 
+cannot sue a third party for an injury resolved by way of a compromise settlement, 
+it only stands to reason that a claimant cannot sue his employer and its insurer for 
+the same injury previously resolved with the Second Injury Fund by way of 
+compromise settlement. 
+ 
+Ahn, File No. 5042640 (App. 10/8/15) (internal citations omitted). 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 21 of 28
+
+ 
+ 
+22 
+ 
+Ahn is of course, not binding on this Court. Additionally, the Court does not find persuasive 
+its analysis concluding that the combined injuries at issue in the settlement constitute the same 
+subject matter as the single injury sustained with the original employer. Further, the Court finds 
+that Ahn is distinguishable. In Ahn, the Commissioner cites to the following language from the 
+settlement agreement at issue: 
+I am aware that if the Workers’ Compensation Commissioner approves this 
+compromise settlement and the Second Injury Fund pays me the agreed sum, then 
+I am barred from future claims or benefits under the Iowa Workers’ Compensation 
+Law for the injury(ies) … 
+ 
+Id. p. 8. That language clearly puts a claimant on notice that future workers’ compensation 
+proceedings are barred upon approval of the settlement. Although that same language was present 
+in the template used as a starting point for Respondent’s Settlement Agreement with SIF, that 
+passage was ultimately deleted. Cert. Rec. Part I p. 271. It is worth noting that Workers’ 
+Compensation Commissioner Joseph S. Cortese II who authored the Appeal Decision in Ahn found 
+no merit to Petitioners’ argument when applied to this case.  
+ 
+It would be fundamentally unfair to ban Respondent from pursuing his primary claim 
+against his employer simply because he settled a smaller claim involving a potential combined 
+injury – after removing language from the agreement that would bar future claims. Carving out a 
+particular claim from the settlement between the parties to the agreement may be impermissible, 
+but that is different than carving out claims against an employer not party to the settlement. Also, 
+as noted by the Deputy Commissioner, such a ruling would prevent settlements with SIF before 
+the underlying claims are fully resolved. Settlement agreements are viewed favorably by both the 
+Workers’ Compensation Commission and the Court. A contrary ruling precluding a workers’ 
+compensation claim from being pursued after settlement with SIF would greatly change practice 
+in this area and call into question the many awards previously made in such circumstances. 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 22 of 28
+
+ 
+ 
+23 
+ 
+VI. 
+ENTITLEMENT TO BENEFITS AWARDED. 
+Petitioners challenge three components of Respondent’s award: (1) the award of temporary 
+total disability or healing period benefits; (2) the award of benefits due to permanent impairment; 
+and (3) the award of medical expenses listed in Joint Exhibit 10. Here, the standard is clear. The 
+findings of the Commissioner must be upheld if supported by substantial evidence. Ruud, 754 
+N.W.2d at 864 (“Application of workers’ compensation laws to facts as found by the commissioner 
+is clearly vested in the commissioner. …”); Iowa Code § 17A.19(10)(f).  
+Temporary Disability Benefits 
+“If the injury results in a permanent partial disability, payments made prior to an award of 
+permanent partial disability are called temporary disability benefits.” Bell Bros Heating & Air 
+Conditioning, 779 N.W.2d at 200. These benefits are distinguished from those awarded where a 
+permanent disability is not found. Id. The Supreme Court has provided the formula for an award 
+of temporary total disability benefits. They “measure the extent to which the injury impairs the 
+employee’s ability to earn wages.” Mannes v. Fleetguard, Inc., Travelers Ins. Co., 770 N.W.2d 
+826, 830 (Iowa 2009) (internal citations omitted).  
+Iowa Code § 85.34(1) says that temporary disability benefits (also known as healing period 
+benefits) shall be paid until the first of various occurrences, one of which is the employee returning 
+to work. Respondent testified that he continued to work at Dave Jensen Trucking following 
+surgery, but that his duties changed to shop work. Because he returned to work, Respondent is 
+only entitled to benefits during this period if he “receive[d] a reduction in wages from what he or 
+she earned prior to the injury.” Staff Mgmt. v. Jimenez, 839 N.W.2d 640, 658 (Iowa 2013), as 
+corrected (Nov. 18, 2013) (citing Mannes v. Fleetguard, Inc., 770 N.W.2d 826, 830 (Iowa 2009). 
+Respondent argues that because the record does not reflect that he made the same wages, 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 23 of 28
+
+ 
+ 
+24 
+ 
+he is entitled to benefits. Petitioners argue that because the record does not reflect a reduction in 
+wages, Respondent is not entitled to benefits. The record does not show the amounts Respondent 
+earned during this period. Jimenez instructs that in this situation the employee is not entitled to 
+benefits. Id. at 658 (“Jimenez does not claim nor does the record support that she was receiving 
+less than her full wage when she worked before and after her surgery. Accordingly, the 
+commissioner should have excluded the dates Jimenez was working from the running award.”).  
+The conclusion that healing period benefits should not have been awarded is also bolstered 
+by the fact that Respondent received $2,000 payments from Tweeten Farms on June 25, 2018, July 
+5, 2018, October 27, 2018, and November 3, 2018. Cert. Rec. Part II p. 184 (Ex. G). Respondent 
+began working for Dave Jensen Trucking in February 2018. Cert. Rec. Part I pp. 345, 360 (Tr. P. 
+35, 50). However, he also kept assisting at Tweeten Farms. Id. p. 346 (Tr. p. 36). The parties 
+dispute whether the Tweeten Farms payments made in late 2018 were for work performed during 
+the post-surgery period or for work performed earlier. The record does not contain Respondent’s 
+position as to the time frame these payments covered. In the absence of evidence supporting the 
+proposition that the payments were for an earlier time period, it would not be reasonable to 
+conclude the payments were intended to cover anything beyond the immediately preceding weeks.  
+The Court concludes that, in light of Respondent’s ongoing employment, it was an 
+improper application of the law to the facts to award Respondent temporary disability benefits.   
+Benefits Due to Permanent Impairment 
+The Court finds that substantial evidence supports the Commissioner’s finding of a 5% 
+permanent impairment rating entitling Respondent to 12.5 weeks of benefits. This issue was simply 
+a battle of the experts. For the reasons discussed above, it was reasonable for the Commissioner to 
+adopt the impairment rating assessed by Dr. Sassman rather than that urged by Dr. Aviles. The 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 24 of 28
+
+ 
+ 
+25 
+ 
+Court notes that Dr. Sassman did not assign any impairment rating to the tennis elbow injury found 
+to be time barred.   
+Medical Expenses  
+Petitioners contend that the medical expenses awarded by the Commissioner were not 
+supported by substantial evidence. However, the expenses awarded were brought before the 
+Commission via Joint Exhibit 10. According to Respondent, Petitioners are now unfairly retracting 
+an agreed upon statement of medical expenses relevant to this case. However, Petitioners deny any 
+objection to the joint exhibit itself, instead arguing that there is insufficient evidence to causally 
+connect the expenses listed in the joint exhibit to the injuries. “It is identified as disputed in the 
+Hearing Report that the listed expenses are causally connected to the work injury. Further, it was 
+disputed that the listed expenses are at least causally connected to the medical conditions upon 
+which the claim is based.” Pets. Rep. Br. p. 26. In other words, it is not the amount of the expenses 
+or their reasonableness that is disputed. It is whether the expenses relate to the injuries sustained. 
+The Court notes that Respondent testified at the hearing that all of the expenses on Joint 
+Exhibit 10 were associated with his work-related injuries. Cert. Rec. Part I. pp. 350-51 (Tr. pp. 40-
+41). Petitioners did not offer any testimony or records refuting this point. In the Hearing Report, 
+the Petitioners stipulated that “[a]lthough disputed, the medical providers would testify as to the 
+reasonableness of their fees and/or treatment set forth in the listed expenses and defendants are not 
+offering contrary evidence.” Cert. Rec. Part I p. 408. The Court also notes that medical 
+appointments exploring a potential cervical injury, which the Commissioner found to not be work-
+related, began in 2020 and are not included on Joint Exhibit 10. 
+Respondent asserts that all of the expenses on Exhibit 10 should be awarded. If the Court 
+were to uphold the rest of the Commissioner’s decision, it would logically follow that all of the 
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 25 of 28
+
+ 
+ 
+26 
+ 
+expenses on Exhibit 10 should be approved. A contrary ruling would reward Petitioners for 
+apparent sandbagging by submitting the joint exhibit but then later arguing that the exhibit was 
+insufficient. But, given the Court has found that the tennis elbow injury is barred by the statute of 
+limitations, medical expenses cannot be awarded for that injury. Thus, the Court only approves 
+those expenses on Joint Exhibit 10 from and after April 13, 2018 (the date the deltoid injury was 
+first suspected). Cert. Rec. Part II p. 120. 
+Petitioners also assert that one specific cost related to the compensable injury was not 
+reasonable: Dr. Sassman’s independent medical examination. Petitioners argue that her evaluation 
+addresses body parts other than the shoulder and arm and that Respondent is only entitled to 
+reimbursement for an “impairment rating” rather than an independent medical evaluation. 
+Petitioners do not establish how one could obtain an impairment rating in the absence of an 
+evaluation. The Commissioner had access to Dr. Sassman’s full evaluation and decided the costs 
+were reimbursable. The Court finds that substantial evidence supports that determination.  
+VII. 
+CONCLUSION. 
+As discussed, the Court holds that the statute of limitations bars compensation for 
+Respondent’s tennis elbow, but not for his shoulder injury. The Court holds that Respondent’s 
+settlement with the Iowa Second Injury Fund does not bar recovery. The Court finds that 
+substantial evidence supports the finding of permanent impairment and the benefits related thereto 
+(including the independent medical examination conducted by Dr. Sassman), but does not support 
+the award of temporary disability benefits.  
+ORDER 
+For the foregoing, the Court concludes that Petitioners’ Petition for Judicial Review is 
+GRANTED IN PART AND DENIED IN PART.  
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 26 of 28
+
+ 
+ 
+27 
+ 
+Petitioners shall pay Respondent twelve point five (12.5) weeks of permanent partial 
+disability benefits commencing on October 17, 2018, at the weekly rate of two hundred seventeen 
+and 99/100 dollars ($217.99). 
+Petitioners shall receive credit for all benefits paid to date. 
+Petitioners shall pay accrued weekly benefits in a lump sum together with interest at an 
+annual rate equal to the one-year treasury constant maturity published by the federal reserve 
+in the most recent H15 report settled as of the date of injury, plus two percent. 
+Petitioners shall pay Respondent those medical expenses listed on Joint Exhibit 10, Cert. 
+Rec. Part II p. 120, except for those expenses incurred from August 14, 2017 through January 
+18, 2018. 
+Petitioners shall reimburse Respondent for the costs associated with Dr. Sassman’s 
+independent medical examination, including mileage. 
+Any outstanding court costs from this Petition for Judicial Review are assessed one-half to 
+Respondent Corey Tweeten and one-half to Grinnell Mutual. Costs for the proceedings before the 
+Commission remain as assessed by the Commissioner. 
+IT IS SO ORDERED.  
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 27 of 28
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV063846
+LON TWEETEN DBA TWEETEN FARMS V COREY
+TWEETEN
+Type:
+OTHER ORDER
+So Ordered
+Electronically signed on 2022-11-30 09:27:13
+E-FILED                    CVCV063846 - 2022 NOV 30 09:27 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 28 of 28

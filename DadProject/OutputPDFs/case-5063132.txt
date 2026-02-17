@@ -1,0 +1,721 @@
+Case Number: 5063132
+Case Title:  DANFORTH, DANNY V. COMMONWEALTH ELECTRIC CO
+Doc Type:    Decision - Deputy
+Source:      Danforth Danny-5063132D.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+DANNY DANFORTH, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  : 
+COMMONWEALTH ELECTRIC 
+  :                         File No. 5063132 
+COMPANY OF THE MIDWEST, 
+  : 
+ 
+ 
+  :                 ARBITRATION  DECISION 
+ 
+Employer, 
+  : 
+ 
+ 
+  : 
+and 
+ 
+  : 
+ 
+ 
+  : 
+LIBERTY INSURANCE, 
+  : 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  : 
+ 
+Defendants. 
+  :       Head Note Nos.:  1402.40, 1803.1, 4000 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Claimant, Danny Danforth, filed a petition in arbitration seeking workers’ 
+compensation benefits from Commonwealth Electric Company of the Midwest, 
+employer, and Liberty Insurance Corp., insurance carrier, both as defendants, as a 
+result of a stipulated injury sustained on August 3, 2016.  This matter came on for 
+hearing before Deputy Workers’ Compensation Commissioner Erica J. Fitch.  The 
+record in this case consists of Joint Exhibits 1 through 7, Claimant’s Exhibits 1 through 
+3, Defendants’ Exhibits A through L, and the testimony of the claimant. 
+ISSUES 
+The parties submitted the following issues for determination: 
+1. Whether claimant’s permanent disability is a scheduled member disability or 
+an unscheduled disability;  
+2. Extent of permanent disability; and  
+3. Whether claimant is entitled to penalty benefits under Iowa Code section 
+86.13 and, if so, how much. 
+ELECTRONICALLY FILED     2020-May-27  13:40:47     DIVISION OF WORKERS' COMPENSATION
+
+DANFORTH V. COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST 
+Page 2 
+ 
+ 
+The parties filed a hearing report at the commencement of the arbitration 
+hearing.  On the hearing report, the parties entered into various stipulations.  All of 
+those stipulations were accepted and are hereby incorporated into this arbitration 
+decision and no factual or legal issues relative to the parties’ stipulations will be raised 
+or discussed in this decision.  The parties are now bound by their stipulations.  
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+Claimant’s testimony was largely consistent as compared to the evidentiary 
+record and claimant frequently deferred to facts contained in the written records.  While 
+there are examples where claimant’s testimony did not comport with the record, those 
+instances appear to reflect emotional reactions and potential exaggerations to 
+scenarios, as opposed to intentional statements designed to mislead.  Claimant’s 
+demeanor at the time of evidentiary hearing was acceptable and gave the undersigned 
+no reason to doubt claimant’s veracity.  While the totality of the record indicates 
+claimant may be difficult to deal with, I do not find sufficient grounds to find his 
+testimony lacks credibility.   
+Claimant was 66 years of age at the time of hearing.  He is a resident of 
+Wildwood, Florida.  (Claimant's testimony; CE2, page 7)  Claimant earned a GED and 
+later became a journeyman electrician.  He has worked in the electrical trade since age 
+17.  Claimant travelled to Iowa from Florida to work at defendant-employer as a 
+journeyman electrician.  (Claimant's testimony; JE2, p. 13)  On July 20, 2016, claimant 
+acknowledged receipt of the employee handbook.  (DEA, p. 3)  The employee 
+handbook states employees must use tools to manufacturer’s recommendation and 
+should not alter tools.  (DEA, p. 2) 
+Claimant suffered a stipulated work-related injury on August 3, 2016.  (Hearing 
+Report)  Claimant used a modified drill to wind jetline, a nylon and fiberglass string.  
+Claimant testified he modified the drill, but his foreman cleared it for use in winding 
+jetline.  While winding, the jetline became tangled around claimant’s left small finger and 
+deeply cut the digit.  (Claimant's testimony) 
+Following the incident, claimant was transported to Methodist Medical Center, 
+where he was examined by Melissa Young-Szalay, M.D. (Young).  Dr. Young assessed 
+a near complete amputation of the left small finger, with very questionable circulation.  
+Dr. Young reviewed claimant’s case with the on-call hand surgeon at Mayo Clinic.  
+Thereafter, Dr. Young performed surgery, consisting of left small finger irrigation and 
+debridement of the wound and revision amputation at the level of the PIP joint.  (JE1, 
+pp. 2, 4-5)  Claimant was removed from work pending follow up appointment and was 
+advised to keep the wound clean and dry.  (JE2, p. 6) 
+
+DANFORTH V. COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST 
+Page 3 
+ 
+ 
+Claimant returned to Dr. Young on August 16, 2016.  Dr. Young identified an 
+anticipated recovery period of approximately two months.  Dr. Young prescribed 
+ibuprofen 800 mg, Benicar, and metformin, as well as occupational therapy for range of 
+motion exercises and fabrication of a fingertip protector.  (JE2, pp. 7-8, 10)  Claimant 
+expressed reservation about returning to work; Dr. Young assured claimant he would 
+not cause additional damage by performing light duty work.  Claimant ultimately agreed 
+to a return to work date of August 22, 2016, under restrictions of limited use of the left 
+hand:  a 5-pound frequent lift with both hands; and avoidance of repetitive vigorous 
+grasping, pinching, pushing, pulling, and twisting.  (JE2, pp. 8, 12)  Dr. Young also 
+noted it would be best for claimant to personally call her office with any questions or 
+concerns, due to poor interactions between claimant’s wife and Dr. Young’s secretary.  
+Dr. Young addressed these interactions with claimant’s wife, who denied any wrong-
+doing or rudeness on her part.  (JE2, p. 8)  Claimant acknowledged the possibility of 
+disputes between his wife and Dr. Young’s staff.  (Claimant's testimony) 
+Claimant returned to light duty work, performed in defendant-employer’s shop.  
+(Claimant's testimony) 
+On September 13, 2016, claimant presented to Dr. Young in follow up.  He 
+expressed complaints of a very sensitive finger, pain with lifting and gripping, occasional 
+purplish coloration of the finger, swelling readily, and interrupted sleep.  Dr. Young 
+increased claimant’s gabapentin dosage due to nerve pain complaints.  She also 
+prescribed physical therapy, a home exercise program and work hardening.  (JE2, pp. 
+13-14)  Restrictions were identified as a 10-pound lift, with increased activity as 
+tolerated.  (JE2, p. 15) 
+On September 21, 2016, a meeting took place at defendant-employer, with 
+claimant, Michael Price, Ruben Bera, David Oliver, and Ashley Huinker, as participants.  
+Thereafter, a memorandum was drafted by a representative of defendant-employer to 
+commemorate the discussion.  The memorandum noted claimant had been performing 
+light duty in defendant-employer’s shop, beginning August 22, 2016.  However, due to a 
+lack of light duty work, claimant would no longer be provided such work and effective 
+that date, would be transitioned to “workman’s comp.”  Claimant inquired if he had been 
+terminated or laid off.  The memorandum noted Mr. Price replied that claimant had not 
+been terminated and would be able to return to work in the field as soon as he received 
+a full medical release, without restrictions.  (DEF, p. 12) 
+Defendants commenced payment of weekly healing period benefits.  (DEJ, p. 21) 
+Claimant returned to Dr. Young on October 7, 2016, at which time he 
+represented he would likely return home to Florida soon.  Claimant reported he had not 
+been working, as defendant-employer did not have light duty to offer.  He complained 
+of:  swelling; “dark blue” coloration in the morning; notable sensitivity, to even light 
+touch; and a primary complaint of nighttime pain.  Claimant reported relief with 
+gabapentin, ice, and the prescribed compression sleeve.  (JE2, p. 16)  On examination, 
+
+DANFORTH V. COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST 
+Page 4 
+ 
+ 
+Dr. Young noted:  limitation in active motion at the MP joint, but full passive motion; grip 
+strength of about 50 percent of that seen in the right hand; mild swelling; tenderness 
+over both digital nerves; and tenderness in the palm over the hypothenar eminence.  
+(JE2, p. 17) 
+Dr. Young assessed:  a well-healed surgical site; numerous subjective 
+complaints of sensitivity and pain; and anxiety related to the injury, likely a posttraumatic 
+stress-type reaction.  Dr. Young increased claimant’s gabapentin dosage, prescribed 
+further therapy, and opined claimant would benefit from psychological evaluation for 
+anxiety.  (JE2, pp. 17-18)  She opined she would typically release a patient with a full 
+duty release approximately eight weeks post-injury.  However, as claimant felt unready, 
+Dr. Young agreed to restrict claimant to a 20-pound lift for an additional four weeks.  At 
+the conclusion of this period, on November 7, 2016, Dr. Young noted claimant would be 
+released to full duty release.  (JE2, pp. 17, 19) 
+On October 11, 2016, Dr. Young altered claimant’s work restrictions.  In addition 
+to the 20-pound lift, Dr. Young added a restriction of avoidance of repetitive vigorous 
+grasping, pinching, pushing, pulling, and twisting.  She also postponed the date of 
+claimant’s full duty release to December 5, 2016.  (JE2, p. 20) 
+As he was no longer working, claimant returned to Florida.  (Claimant's 
+testimony)  Defendants authorized physical therapy at CORA; claimant participated in 
+sessions from November 4, 2016 through December 7, 2016.  (JE3, pp. 23-34) 
+Upon claimant’s return to Florida, defendants authorized treatment with Rodger 
+Powell, M.D.  Claimant presented to Dr. Powell on December 5, 2016.  Dr. Powell 
+reviewed claimant’s records and opined Dr. Young made the correct choice in 
+proceeding with amputation.  Dr. Powell noted the wound healed following surgery, but 
+claimant reported continued pain and ongoing discussion of revision.  (JE4, p. 63)  At 
+the time of examination, claimant wore a finger wrap due to hypersensitivity.  After 
+removal of the wrap, Dr. Powell noted moderate to marked tenderness over the radial 
+condyle, minimal tenderness ulnarly, and a lack of full flexion.  Dr. Powell assessed a 
+left small finger amputation with neuroma.  (JE4, p. 64)  He recommended gabapentin 
+and courses of therapy for desensitization and range of motion of the MP joint.  
+Dr. Powell removed claimant from work until such time as the finger had been 
+desensitized and some motion regained.  (JE4, p. 65)  
+Claimant missed a scheduled follow up appointment with Dr. Young on 
+December 7, 2016.  Dr. Young reviewed claimant’s chart and recommended he follow 
+up with a physician in Florida.  (JE2, p. 21) 
+The assigned claim adjuster, Ms. Vargas, authored a letter to claimant dated 
+December 21, 2016.  Thereby, Ms. Vargas noted claimant was last seen on 
+December 5, 2016.  She stated claimant’s restrictions as no use of ladders and no lifting 
+over five pounds with the left hand.  Ms. Vargas represented defendant-employer could 
+
+DANFORTH V. COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST 
+Page 5 
+ 
+ 
+accommodate those restrictions and claimant should present to work on January 3, 
+2017.  (DEH, p. 15) 
+Claimant resumed physical therapy sessions at CORA on December 29, 2016.  
+(JE3, p. 35)   
+On January 3, 2017, claimant returned to Dr. Powell and reported a severe onset 
+of phantom pain and color changes.  Dr. Powell noted these symptoms had arisen due 
+to a combination of therapy and cold weather.  On examination, claimant’s finger 
+appeared purple in comparison to his other digits.  Dr. Powell assessed significant onset 
+of phantom pain and poor tolerance to cold exposure.  He recommended continued 
+therapy and in order to not jeopardize the remaining portion of the finger, ordered 
+claimant not to work, remain in a warm environment, and wear gloves when outdoors.  
+(JE4, p. 68)  
+On January 3, 2017, Ms. Vargas authored a letter to claimant and thereby 
+indicated claimant’s weekly benefits had been suspended as of that date.  She noted 
+claimant had been advised to return to work and failed to do so, despite warnings that 
+failure would result in suspension of benefits.  (DEC1, p. 3) 
+Claimant’s employment with defendant-employer was terminated on January 3, 
+2017.  The separation notice, which appears to bear the signature of Mr. Price, noted 
+the reason for termination of employment as claimant’s failure to present to work.  
+(DEG, p. 13) 
+Claimant authored a letter to Mr. Price, Mr. Bera, and Ms. Vargas, dated January 
+9, 2017.  Claimant indicated Dr. Powell had removed claimant from work and indicated 
+he was getting assistance for what he described as phantom pain.  Claimant further 
+indicated he had returned to Florida after Mr. Price indicated he would not be permitted 
+to return to work until he procured a full duty release.  (CE1, p. 2) 
+On January 17, 2017, claimant’s physical therapist noted a lack of participation in 
+a desensitization home exercise program, as well as difficulty on claimant’s part of 
+maintaining a set therapy schedule. (JE3, p. 42)  At a session on January 18, 2017, the 
+therapist noted claimant had been on his phone a lot and the two discussed claimant’s 
+need to leave his phone out front and not leave sessions early.  (JE3, p. 44) 
+A physical therapy progress note of January 31, 2017 describes claimant as 
+progressing, having met the majority of short-term goals and moving toward long-term 
+goals.  The therapist noted claimant continued to report significant phantom pain that 
+interfered with function.  Claimant was advised to speak with his physician regarding 
+such complaints.  (JE3, p. 48)   
+Claimant returned to Dr. Powell on February 6, 2017.  Dr. Powell indicated 
+therapy had helped significantly in decreasing hypersensitivity and increasing motion.  
+
+DANFORTH V. COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST 
+Page 6 
+ 
+ 
+He recommended continued therapy and use of gabapentin.  Dr. Powell released 
+claimant to light duty work, with restrictions of:  25-pound lift; no ladders; and no 
+crawling.  (JE4, pp. 71-73) 
+Following nine sessions of therapy for desensitization, claimant was discharged 
+from occupational therapy on February 9, 2017.  His prognosis was noted as good, 
+provided he followed a home exercise program.  (JE3, p. 50) 
+On February 15, 2017, a representative from the office of claimant’s attorney 
+emailed Ms. Vargas and advised that claimant had not received weekly indemnity 
+checks since January 20, 2017.  The representative asked why claimant’s checks had 
+ceased, given he remained in therapy, under restrictions, and had not met maximum 
+medical improvement (MMI).  (CE3, p. 34) 
+Due to continued complaints, claimant returned to Dr. Powell on March 8, 2017.  
+At that visit, Dr. Powell assessed a painful bony spur and recommended revision 
+surgery.  (JE4, p. 74)  Revision of the left small finger amputation was performed by 
+Dr. Powell on June 13, 2017.  (JE5, pp. 94-95) 
+Following surgery, claimant returned to Dr. Powell on June 21, 2017.  At that 
+time, claimant asked a number of questions regarding Dr. Powell’s choice in surgical 
+procedure.  Claimant admitted his finger was less tender following surgery; Dr. Powell 
+recommended commencement of scar massage.  Claimant was left in off-work status. 
+(JE4, p. 78) 
+On July 12, 2017, claimant returned to Dr. Powell and reported improvement.  
+Specifically, claimant indicated he experienced much less tenderness and no longer 
+waking from pain.  Dr. Powell noted full MP joint motion.  Dr. Powell recommended 
+progression into increasingly normal use of the finger and ordered a course of therapy.  
+(JE4, pp. 79-80)   
+On July 15, 2017, claimant’s counsel emailed defendants’ counsel and advised 
+that claimant had not received his weekly benefit check, due July 10, 2017.  He asked if 
+counsel would look into the delay.  (CE3, p. 35)  Claimant’s counsel followed up with an 
+email on July 24, 2017, advising that claimant had not received a check since July 5, 
+2017 and again requested counsel investigate the delay.  (CE3, p. 36)  Defendants’ 
+counsel contacted the claim representative, as did claimant’s attorney.  On July 26, 
+2017, the representative advised that claimant should receive a check in the next day or 
+so.  (CE3, pp. 37-38)  Claimant did not receive the check on July 27, 2017; the 
+representative indicated she would look into the issue.  (CE3, p. 39) 
+The payment logs in evidence denote defendant-insurance carrier issued a 
+check on July 21, 2017, for weekly benefits covering the period of June 30, 2017 
+through July 20, 2017.  (DEJ, p. 20)   
+
+DANFORTH V. COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST 
+Page 7 
+ 
+ 
+On July 28, 2017, claimant presented to Lake Centre for Rehabilitation (Lake 
+Centre).  At that visit, a problem list included:  phantom pain; impaired light touch 
+sensation; paresthesias; weakness of the hand and arm; and impaired ability to do work 
+tasks.  (JE6, p. 97)  A plan of care was completed and sent to Dr. Powell.  (JE6, p. 98)   
+At a follow up appointment with Dr. Powell on August 28, 2017, Dr. Powell 
+ordered a course of work hardening prior to claimant’s return to work.  (JE4, p. 82) 
+Defendants obtained video surveillance of claimant on September 22 and 
+September 23, 2017.  The video depicts claimant moving small branches and lifting a 
+bag of landscaping material.  At times, claimant used his bilateral hands in these tasks; 
+he did not wear gloves.  (DEL)  Claimant testified a hurricane had recently struck Florida 
+and residents needed to clean up following the damage.  He testified lifting sticks did 
+not require fine motor skills, with which he struggles, and the observed bag, containing 
+peat moss, weighed approximately 8 pounds.  (Claimant's testimony)   
+On October 18, 2017, claimant underwent a work conditioning evaluation at 
+CORA with Kathryn Boyer, PT.  Ms. Boyer opined claimant was deconditioned, with 
+decreased muscular endurance.  She noted claimant was not working and would benefit 
+from a work conditioning program to increase his overall strength and endurance, to 
+allow a safe return to work.  (JE3, p. 52)  Thereafter, claimant began a course of 
+work-hardening.  (JE3, pp. 56-62)   
+On October 23, 2017, legal assistant to claimant’s counsel emailed defendants’ 
+attorney and advised claimant had not received a benefit check since the week of 
+October 9, 2017.  (CE3, pp. 40-41)  On October 26, 2017, defendants’ counsel 
+responded and advised he received a message indicating a check would be sent for 
+benefits accrued through October 30, 2017.  (CE3, p. 42)  On October 26, 2017, 
+claimant was issued a check for weekly benefits for the period of October 6 through 
+October 26, 2017.  (DEJ, p. 20) 
+The therapist at Lake Centre authored a progress note dated October 30, 2017.  
+Thereby, the therapist indicated further treatment was not recommended, as claimant’s 
+irregular attendance prevented him from making anticipated progress.  (JE6, pp. 102-
+103) 
+Claimant completed a final occupational therapy session for strengthening on 
+November 3, 2017.  The therapist at Lake Centre described the appointment as the last 
+of the 12 sessions authorized and begun on July 28, 2017.  Claimant’s absences were 
+identified as the reason for the extended period required for completion of these 12 
+sessions.  Claimant was discharged from care.  (JE6, p. 104) 
+On November 8, 2017, claimant presented to Dr. Powell.  Dr. Powell noted 
+continued hypersensitivity on the ulnar side, for which claimant received relief with use 
+of gabapentin.  Dr. Powell noted claimant remained in work hardening and had 
+
+DANFORTH V. COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST 
+Page 8 
+ 
+ 
+improved, but commented claimant could “probably do more than he [was] saying.”  As 
+claimant required the ability to lift 50 pounds in order to return to work, Dr. Powell 
+recommended progressing toward this goal in work hardening.  (JE4, p. 83) 
+On December 27, 2017, claimant returned to Dr. Powell in follow up.  At that 
+time, claimant complained of pain when the finger was struck, as well as a small 
+prominence of bone.  Claimant expressed frustration with his progress and inquired 
+about a ray amputation.  Dr. Powell explained a ray amputation would be “setting 
+[claimant] up for neuroma of the palm,” that may make grasping more difficult.  (JE4, p. 
+84)  Dr. Powell ordered continued gabapentin and lidocaine ointment.  He also 
+recommended continued therapy and expressed hope claimant would begin 
+rehabilitation work at home as well.  Claimant complained his therapy sessions did not 
+provide enough core exercises; Dr. Powell recommend he look up core exercises online 
+and perform them daily.  (JE4, pp. 84-85)    
+Following a session on January 16, 2018, the therapist opined claimant was 
+capable of lifting and carrying to the work-required, medium physical demand, levels.  
+The therapist described claimant’s recent gains as minimal and discharged claimant 
+from care, to return to his physician for further guidance.  (JE3, pp. 60-62)  
+Claimant presented to Dr. Powell on January 17, 2018.  Dr. Powell noted 
+claimant had previously had an unpleasant interaction with Dr. Powell’s assistant, 
+during which claimant falsely accused the assistant of not prescribing lidocaine 
+ointment.  Dr. Powell noted the interaction involved “heated words” and such behavior 
+would not be tolerated.  Dr. Powell reviewed claimant’s work hardening records and 
+noted he had been discharged following the prescribed 12 sessions due to lack of 
+progress.  He engaged claimant in “frank” discussion regarding claimant’s need to 
+return to work; claimant promised he would return to work if he were provided with 6 
+additional work hardening sessions.  (JE4, p. 87)   
+Dr. Young authored correspondence to defendants’ counsel on January 31, 
+2018.  Thereby, Dr. Young opined claimant’s recovery was without complication and 
+noted claimant’s subjective complaints were out of proportion with objective findings.  
+She opined claimant had exhibited significant anxiety, prompting her to recommend 
+psychological evaluation, but claimant was reportedly not receptive to such care.  
+Dr. Young opined claimant had sustained an 80 percent loss of his left small finger and 
+deferred to the practitioners who performed the work hardening program to objectively 
+evaluate claimant’s need for permanent restrictions.  (JE2, p. 22) 
+Dr. Young was provided with surveillance video clips of claimant dated 
+September 22 and September 23, 2017.  Following review, Dr. Young opined the 
+activities observed were not consistent with someone “truly” experiencing phantom or 
+neuropathic pain.  Dr. Young opined the activity on the videos did not suggest claimant 
+was experiencing significant pain that resulted in limitation of functional use of 
+claimant’s hand.  Dr. Young expressed belief it was very unusual for a patient to 
+
+DANFORTH V. COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST 
+Page 9 
+ 
+ 
+experience phantom pain as a result of digit amputation.  She opined it was possible for 
+patients to experience heightened sensitivity and phantom sensation, but not pain, after 
+a digit amputation.  (JE2, p. 22)  
+On February 14, 2018, Dr. Powell placed claimant at MMI and discharged him 
+from care.  He imposed work restrictions consistent with claimant’s abilities as 
+demonstrated in the final work hardening session.  Dr. Powell rated claimant’s 
+permanent impairment in accordance with the Florida Impairment Guidelines, with an 
+amputation of the PIP joint of the small finger corresponding to an 80 percent loss of the 
+finger.  (JE4, pp. 90, 92) 
+On March 12, 2018, the adjuster assigned to claimant’s claim authored 
+correspondence to claimant, care of his attorney.  By one letter, the adjuster noted he 
+had recently taken over the file and reviewed the rate calculation.  He noted it appeared 
+claimant’s weekly rate had been overpaid and had been corrected to $879.63.  (DEH, p. 
+18)  By a separate letter, the adjuster noted Dr. Powell placed claimant at MMI on 
+February 14, 2018 and opined a permanent impairment of 80 percent of the left small 
+finger, which corresponded to 16 weeks of permanent partial disability benefits.  He 
+noted claimant’s weekly benefits converted to permanent disability benefits effective 
+February 14, 2018 and would continue at a weekly rate of $879.63.  Due to prior rate 
+overpayment, the adjuster determined a credit of $2,331.00 ($33.70 per week x 70 
+weeks) and accordingly, determined permanent partial disability benefits would cease 
+on May 18, 2018.  (DEH, p. 16) 
+On April 3, 2018, claimant presented to orthopedic surgeon, Jose Torres, M.D., 
+for claimant’s independent medical examination (IME).  Claimant complained of 
+constant pain, level 5 on a 10-point scale at the time of evaluation, but reaching a level 
+10 with activities.  He reported benefit with gabapentin and lidocaine cream.  (JE7, p. 
+105)  Dr. Torres performed a records review.  (JE7, pp. 105-107)  On examination, 
+Dr. Torres noted a well-healed stump; active motion of approximately 50 degrees at the 
+MP joint; significantly diminished grip strength as compared to the right hand; tip 
+sensitivity to light touch and percussion; tenderness along the volar surface; and mild 
+visible swelling.  He and claimant discussed the presence of continued sensitivity at the 
+fingertip, without obvious neuroma.  (JE7, pp. 107-108) 
+Dr. Torres opined claimant had achieved MMI and claimant’s hypersensitivity 
+was permanent in nature.  Based upon amputation level, impaired sensation, and 
+motion loss, Dr. Torres opined claimant had sustained a 91 percent impairment of the 
+left small finger.  Dr. Torres referred to the AMA Guidelines in his written report, but did 
+not specify the specific edition utilized.  He recommended permanent restrictions of:  no 
+lifting more than 35 pounds total; and no repetitive lifting or gripping with the left hand.  
+Dr. Torres opined claimant’s further care would be palliative in nature, consisting of:  
+physician appointments; medication such as gabapentin; and potentially surgery, if a 
+neuroma were to develop.  (JE7, p. 108)  
+
+DANFORTH V. COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST 
+Page 10 
+ 
+ 
+Defendants’ counsel engaged in a phone conference with Dr. Powell, following 
+which, Dr. Powell authored a note dated January 23, 2019.  Dr. Powell noted counsel 
+had inquired whether claimant had presented with any evidence of neuropathic pain or 
+phantom pain.  Dr. Powell reviewed his notes and opined claimant had complained of 
+pain with heavy use, but opined there was never an indication from claimant or on 
+examination of neuropathic pain or phantom pain.  (JE4, p. 93)  
+At the time of hearing, claimant worked as an electrician at an assisted living 
+facility, earning $24.25 per hour.  Claimant testified he is restricted in his actions, 
+specifically, lifting of 25 to 35 pounds maximum and a lack of strength and grip in the left 
+hand.  Claimant testified he is dispatched through the union hall and has held a number 
+of jobs since his injury; he is afraid employers do not keep him employed due to his 
+limitations.  Claimant explained he experiences difficulty working in tight spaces while 
+holding devices and screws for mounting, as well as difficulty making components.  
+Claimant testified the “nub” of his finger interferes with his work, catches on equipment, 
+and has been impacted and cut.  (Claimant's testimony) 
+Claimant testified he suffers with daily pain.  Claimant relayed pain with impact of 
+the finger, nerve pain, and phantom pain where the remainder of his finger had once 
+been.  Claimant described the nerve pain as an electrical sensation.  Claimant testified 
+cold conditions worsen his complaints significantly.  He testified he uses gabapentin as 
+often as three times per day, but the medication can cause bad dreams.  Claimant 
+testified he obtains the medication from his personal medical provider; he 
+acknowledged no medical records from this provider are in evidence.  (Claimant's 
+testimony)         
+CONCLUSIONS OF LAW 
+The first issue for determination is whether claimant’s permanent disability is a 
+scheduled member disability or an unscheduled disability. 
+The party who would suffer loss if an issue were not established has the burden 
+of proving that issue by a preponderance of the evidence.  Iowa Rule of Appellate 
+Procedure 6.14(6). 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  The expert medical evidence must be considered with all other evidence 
+
+DANFORTH V. COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST 
+Page 11 
+ 
+ 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995).  Miller v. 
+Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 1994).  Unrebutted expert medical 
+testimony cannot be summarily rejected.  Poula v. Siouxland Wall & Ceiling, Inc., 516 
+N.W.2d 910 (Iowa App. 1994). 
+Under the Iowa Workers' Compensation Act, permanent partial disability is 
+compensated either for a loss or loss of use of a scheduled member under Iowa Code 
+section 85.34(2)(a)-(t) or for loss of earning capacity under section 85.34(2)(u).  The 
+extent of scheduled member disability benefits to which an injured worker is entitled is 
+determined by using the functional method.  Functional disability is "limited to the loss of 
+the physiological capacity of the body or body part.”  Mortimer v. Fruehauf Corp., 
+502 N.W.2d 12, 15 (Iowa 1993); Sherman v. Pella Corp., 576 N.W.2d 312 (Iowa 1998).  
+The fact finder must consider both medical and lay evidence relating to the extent of the 
+functional loss in determining permanent disability resulting from an injury to a 
+scheduled member.  Terwilliger v. Snap-On Tools Corp., 529 N.W.2d 267, 272-273 
+(Iowa 1995); Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 420 (Iowa 1994).  
+Claimant contends he has suffered permanent disability to his left small finger, as 
+well as an industrial loss due to development of phantom pain.  Defendants counter that 
+claimant’s permanent disability is confined to his left small finger.  
+When considering issues of causation related to medical conditions, the opinions 
+of medical providers are of paramount importance.  While claimant has testified to 
+sensations he describes as phantom pain, no medical provider has diagnosed claimant 
+with a permanent phantom pain condition.   
+Drs. Young, Powell, and Torres all offered opinions regarding the extent of 
+claimant’s permanent impairment.  Each of the physicians issued opinions that claimant 
+sustained ratable permanent impairment to his left small finger as a result of the digit 
+amputation; none specifically opined claimant suffered with permanent phantom pain or 
+that any such complaints were ratable to the whole body.  Drs. Young and Powell each 
+opined claimant suffered an 80 percent loss of the small finger as a result of the 
+amputation.  Dr. Torres rated claimant’s permanent impairment as 91 percent of the 
+small finger, based upon the amputation level, as well as impaired sensation and motion 
+loss.  
+These unrebutted medical opinions establish claimant’s permanent impairment is 
+limited to the left small finger.  Claimant’s testimony of what he describes as phantom 
+
+DANFORTH V. COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST 
+Page 12 
+ 
+ 
+pain is not a substitute for the professional judgment of medical providers.  Dr. Young 
+opined it would be very unusual to experience phantom pain as a result of digit 
+amputation; she differentiated phantom pain from heightened sensitivity and phantom 
+sensation, which are possible.  She further opined the surveillance video depiction of 
+claimant was not consistent with someone truly experiencing phantom or neuropathic 
+pain.  Similarly, over the course of his care of claimant, Dr. Powell opined he found no 
+indication of neuropathic or phantom pain.  During his IME, Dr. Torres opined claimant’s 
+hypersensitivity was permanent; he made no mention of phantom pain.  Claimant’s 
+description of phantom pain does not constitute a medical diagnosis and no medical 
+provider has opined claimant suffers from a permanent phantom pain condition.    
+Upon review of the entirety of the record, it is determined claimant has failed to 
+carry his burden of establishing the work injury is a cause of permanent phantom pain.  
+As claimant has failed to establish a work-related phantom pain condition, claimant’s 
+permanent impairment is limited to the left small finger.   
+The next issue for determination is the extent of claimant’s permanent disability.  
+Where an injury is limited to scheduled member the loss is measured 
+functionally, not industrially.  Graves v. Eagle Iron Works, 331 N.W.2d 116 (Iowa 1983).  
+When the result of an injury is loss to a scheduled member, the compensation payable 
+is limited to that set forth in the appropriate subdivision of Code section 85.34(2).  
+Barton v. Nevada Poultry Co., 253 Iowa 285, 110 N.W.2d 660 (1961).  "Loss of use" of 
+a member is equivalent to "loss" of the member.  Moses v. National Union C. M. Co., 
+194 Iowa 819, 184 N.W. 746 (1921).  Consideration is not given to what effect the 
+scheduled loss has on claimant's earning capacity.  The scheduled loss system created 
+by the legislature is presumed to include compensation for reduced capacity to labor 
+and to earn.  Schell v. Central Engineering Co., 232 Iowa 421, 4 N.W.2d 399 (1942). 
+Claimant’s treating surgeons, Drs. Young and Powell, both opined claimant 
+suffered an 80 percent loss of the left small finger, based upon amputation at the PIP 
+joint.  This rating methodology is consistent with the AMA Guides to the Evaluation of 
+Permanent Impairment, Fifth Edition, Table 16-4, page 440.  Both Drs. Young and 
+Powell deferred to the work hardening evaluations for consideration of permanent 
+restrictions.  As of January 16, 2018, the therapist noted claimant was capable of lifting 
+and carrying to the work-required, medium physical demand, level.  Thereafter, claimant 
+returned to work as a journeyman electrician, dispatched through the union hall.   
+Dr. Torres, claimant’s IME physician, opined claimant suffered a 91 percent 
+impairment of the left small finger, based upon amputation level, impaired sensation, 
+and motion loss.  Dr. Torres opined he rated claimant’s permanent impairment by the 
+AMA Guides, but did not specify the edition utilized.  Dr. Torres recommended 
+permanent restrictions of a 35-pound maximum lift and no repetitive lifting or gripping 
+with the left hand.   
+
+DANFORTH V. COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST 
+Page 13 
+ 
+ 
+Following review of the entirety of the record, I award greatest weight to the 
+consistent opinions of Drs. Young and Powell.  These physicians served as claimant’s 
+treating surgeons, with the opportunity to observe claimant on multiple occasions, 
+including intraoperatively.  Each physician was able to observe claimant’s physical 
+condition on multiple occasions over a course of treatment.  The identical impairment 
+ratings comport with the rating methodology for amputations set forth in the AMA 
+Guides, Fifth Edition, while the methodology used by Dr. Torres is unclear.   
+It is therefore determined claimant has sustained an 80 percent impairment of the 
+left small finger as a result of the work injury of August 3, 2016.  The award of 80 
+percent impairment of the left small finger entitles claimant to 16 weeks (80 percent x 20 
+weeks = 16 weeks) of permanent partial disability benefits, commencing on the 
+stipulated date of February 14, 2018.  The parties stipulated at the time of the injury, 
+claimant’s gross earnings were $1,436.07 and claimant was married and entitled to two 
+exemptions.  The proper rate of compensation is therefore, $879.63. 
+The final issue for determination is whether claimant is entitled to penalty benefits 
+under Iowa Code section 86.13 and, if so, how much. 
+If weekly compensation benefits are not fully paid when due, section 86.13 
+requires that additional benefits be awarded unless the employer shows reasonable 
+cause or excuse for the delay or denial.  Robbennolt v. Snap-on Tools Corp., 
+555 N.W.2d 229 (Iowa 1996).  
+Delay attributable to the time required to perform a reasonable investigation is 
+not unreasonable.  Kiesecker v. Webster City Meats, Inc., 528 N.W.2d 109 (Iowa 1995).   
+It also is not unreasonable to deny a claim when a good faith issue of law or fact 
+makes the employer’s liability fairly debatable.  An issue of law is fairly debatable if 
+viable arguments exist in favor of each party.  Covia v. Robinson, 507 N.W.2d 411 
+(Iowa 1993).  An issue of fact is fairly debatable if substantial evidence exists which 
+would support a finding favorable to the employer.  Gilbert v. USF Holland, Inc., 
+637 N.W.2d 194 (Iowa 2001).  
+An employer’s bare assertion that a claim is fairly debatable is insufficient to 
+avoid imposition of a penalty.  The employer must assert facts upon which the 
+commissioner could reasonably find that the claim was “fairly debatable.”  Meyers v. 
+Holiday Express Corp., 557 N.W.2d 502 (Iowa 1996).   
+If the employer fails to show reasonable cause or excuse for the delay or denial, 
+the commissioner shall impose a penalty in an amount up to 50 percent of the amount 
+unreasonably delayed or denied.  Christensen v. Snap-on Tools Corp., 554 N.W.2d 254 
+(Iowa 1996).  The factors to be considered in determining the amount of the penalty 
+include the length of the delay, the number of delays, the information available to the 
+employer and the employer’s past record of penalties.  Robbennolt, 555 N.W.2d at 238. 
+
+DANFORTH V. COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST 
+Page 14 
+ 
+ 
+Iowa Code 86.13, as amended effective July 1, 2009, states:  
+4. a. If a denial, a delay in payment, or a termination of benefits occurs 
+without reasonable or probable cause or excuse known to the employer or 
+insurance carrier at the time of the denial, delay in payment, or termination 
+of benefits, the workers' compensation commissioner shall award benefits 
+in addition to those benefits payable under this chapter, or chapter 85, 
+85A, or 85B, up to fifty percent of the amount of benefits that were denied, 
+delayed, or terminated without reasonable or probable cause or excuse.  
+b. The workers' compensation commissioner shall award benefits 
+under this subsection if the commissioner finds both of the following 
+facts:  
+(1) The employee has demonstrated a denial, delay in payment, or 
+termination of benefits.  
+(2) The employer has failed to prove a reasonable or probable 
+cause or excuse for the denial, delay in payment, or termination of 
+benefits.  
+c. In order to be considered a reasonable or probable cause or 
+excuse under paragraph "b", an excuse shall satisfy all of the following 
+criteria:  
+(1) The excuse was preceded by a reasonable investigation and 
+evaluation by the employer or insurance carrier into whether benefits 
+were owed to the employee.  
+(2) The results of the reasonable investigation and evaluation were 
+the actual basis upon which the employer or insurance carrier 
+contemporaneously relied to deny, delay payment of, or terminate 
+benefits.  
+(3) The employer or insurance carrier contemporaneously 
+conveyed the basis for the denial, delay in payment, or termination of 
+benefits to the employee at the time of the denial, delay, or termination 
+of benefits.  
+A log of indemnity benefits paid to claimant is in evidence at Defendants’ Exhibit 
+J.  Review of the log reveals defendants paid indemnity benefits from September 23, 
+2016 through May 17, 2018, a period of approximately 86 weeks.  During that period, 
+defendants issued claimant’s individual weekly benefit check 3 days late on 2 
+occasions, 4 days late on 2 occasions, 6 days late on 1 occasion, and 8 days late on 1 
+occasion.  During two separate three-week periods, claimant’s indemnity checks were 
+notably late.  On July 21, 2017, defendants issued a check for the period of June 30, 
+
+DANFORTH V. COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST 
+Page 15 
+ 
+ 
+2017 through July 20, 2017, resulting in late payment of two weeks of benefits (June 30, 
+2017 through July 6, 2017 and July 7, 2017 through July 13, 2017).  On October 26, 
+2017, defendants issued payment for benefits from October 6, 2017 through October 
+26, 2017, resulting in late payment of two weeks of benefits (October 6, 2017 through 
+October 12, 2017 and October 13 through October 19, 2017).   
+Claimant has established a delay in payment of weekly benefits during 10 weeks.  
+The burden therefore shifts to defendants to establish a reasonable or probable cause 
+or excuse for the delay.  In order to meet its burden, defendants must demonstrate that 
+the basis for the delay was contemporaneously conveyed to claimant.  On only one 
+occasion was this requirement met, during the failed light duty offer of January 3, 2017.  
+However, even if claimant’s entitlement to temporary disability benefits was fairly 
+debatable from January 3 through January 5, 2017, benefits would have been timely 
+owed for the period of December 20, 2016 through January 3, 2017.  Accordingly, I find 
+defendants have failed to establish a reasonable or probable cause or excuse for the 
+delay, as defendants failed to provide the statutorily-required notice to claimant. 
+An award of penalty benefits is warranted.  Benefits were paid late during 10 
+weeks; during the remaining 76 weeks, benefits were timely paid.  Of the 10 delayed 
+weeks, 5 were delayed by under one week and the other 5 were delayed by more than 
+a week.  An award of up to 50 percent of the amount of benefits delayed in these 10 
+weeks may be imposed.  Based upon the above and all other relevant factors, I find an 
+award of $1,500.00 in penalty benefits is warranted.  
+ORDER 
+THEREFORE, IT IS ORDERED: 
+The parties are ordered to comply with all stipulations that have been accepted 
+by this agency. 
+Defendants shall pay unto claimant sixteen (16) weeks of permanent partial 
+disability benefits commencing February 14, 2018 at the weekly rate of eight hundred 
+seventy-nine and 63/100 dollars ($879.63).  
+Defendants shall receive credit for benefits paid. 
+Defendants shall pay accrued weekly benefits in a lump sum. 
+Defendants shall pay interest on unpaid weekly benefits awarded herein as set 
+forth in Iowa Code section 85.30.  Defendants shall pay accrued weekly benefits in a 
+lump sum together with interest at the rate of ten percent for all weekly benefits payable 
+and not paid when due which accrued before July 1, 2017, and all interest on past due 
+weekly compensation benefits accruing on or after July 1, 2017, shall be payable at an 
+annual rate equal to the one-year treasury constant maturity published by the federal 
+reserve in the most recent H15 report settled as of the date of injury, plus two 
+
+DANFORTH V. COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST 
+Page 16 
+ 
+ 
+percent.  See Gamble v. AG Leader Technology File No. 5054686 (App. Apr. 24, 
+2018).  
+Defendants shall pay penalty benefits in the amount of one thousand five 
+hundred and 00/100 dollars ($1,500.00). 
+Defendants shall pay interest on the penalty benefits from the date of this 
+decision.  See Schadendorf v. Snap On Tools, 757 N.W.2d 330, 339 (Iowa 2008). 
+Defendants shall file subsequent reports of injury as required by this agency 
+pursuant to rule 876 IAC 3.1(2). 
+Costs are taxed to defendants pursuant to 876 IAC 4.33. 
+Signed and filed this       27th      day of May, 2020. 
+ 
+The parties have been served, as follows: 
+Mark Pennington (via WCES) 
+Aaron Oliver (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party 
+appeals within 20 days from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa 
+Administrative Code.  The notice of appeal must be filed via Workers’ Compensation Electronic 
+System (WCES) unless the filing party has been granted permission by the Division of Workers’ 
+Compensation to file documents in paper form.  If such permission has been granted, the notice 
+of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa 
+Division of Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  
+The notice of appeal must be received by the Division of Workers’ Compensation within 20 days 
+from the date of the decision.  The appeal period will be extended to the next business day if the 
+last day to appeal falls on a weekend or legal holiday. 
+       ERICA J. FITCH 
+               DEPUTY WORKERS’ 
+     COMPENSATION COMMISSIONER 

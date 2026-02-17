@@ -1,0 +1,304 @@
+Case Number: 5066276
+Case Title:  HUBBARD-MCKINNEY, CASSIDY V. NEWTON COMMUNITY SCHOOL
+Doc Type:    Decision - District Court
+Source:      Hubbard-McKinneyRulJudRev.PDF
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT IN AND FOR POLK COUNTY 
+ 
+NEWTON COMMUNITY SCHOOL 
+DISTRICT and EMCASCO INSURANCE 
+COMPANY,  
+ 
+Petitioners,  
+ 
+v.  
+ 
+CASSIDY HUBBARD-MCKINNEY,  
+ 
+Respondent.  
+ 
+ 
+ 
+ 
+05771 CVCV061913 
+ 
+ 
+ 
+RULING ON JUDICIAL REVIEW 
+ 
+This is a petition for judicial review from a final decision of the Iowa Workers’ 
+Compensation Commission. A hearing was held in this matter on October 29, 2021. Petitioners 
+Newton Community School District and EMCASCO Insurance Company (collectively Newton 
+Cmty. School Dist.) appeared through attorney Brian Scieszinski. Respondent Cassidy Hubbard-
+McKinney (“Hubbard-McKinney”) appeared through attorney Richard Schmidt.  
+I.  
+Background Facts and Procedural Posture.   
+ 
+Cassidy Hubbard-McKinney was employed by the Newton Community School District in 
+the food service department beginning in 2008.  On February 19, 2018, she fell at work and 
+allegedly injured her left hand1 and left knee.  The Parties stipulated that Hubbard sustained a 
+work-related injury to the knee.  Hubbard-McKinney first visited a provider related to the fall on 
+May 15, 2018 regarding knee pain.  Eventually, she was referred to a specialist, Christopher 
+Vincent, M.D.   
+                                                          
+1 The Arbitration Decision found any injuries to the left hand had not been proven to be as a result 
+of a work injury.  That decision is not at issue on judicial review. 
+E-FILED                    CVCV061913 - 2021 DEC 28 03:11 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 10
+ELECTRONICALLY FILED     2022-Jan-03  10:27:13     DIVISION OF WORKERS' COMPENSATION
+
+2 
+ 
+ 
+Dr. Vincent ordered an MRI and diagnosed a posterior horn medial meniscus tear.  Dr. 
+Vincent performed arthroscopic surgery on October 18, 2018 and some follow up care, including 
+a pain injection.  He released Hubbard-McKinney from his care on February 28, 2019 and in March 
+2019, assigned a 2 percent permanent impairment rating as a result of the work injury.  In providing 
+an opinion, Dr. Vincent noted that Hubbard-McKinney has “loss of range of motion and significant 
+preexisting osteoarthritis of the knee,” but did not assign any additional rating because he found 
+those conditions “are not related to her work-related injury.”  (Ex. A). 
+ 
+Dr. Kuhnlein provided an Independent Medical Exam opinion.  Dr. Kuhnlein agreed with 
+a 2% left lower extremity impairment rating for the partial medial meniscectomy.  In addition, Dr. 
+Kuhnlein assigned a 7% left lower extremity impairment for the arthritic changes in the left knee, 
+for a total of 9%.  Dr. Kuhnlein found that the chondromalacia and degenerative changes predated 
+the injury.  However, Dr. Kuhnlein also found that the February 19, 2018 work injury “served to 
+‘light up’ and materially aggravate the previously asymptomatic osteoarthritis in the left knee and 
+make it symptomatic,” and, therefore, “such ‘lighting up’ of the osteoarthritis and aggravation 
+related to the February 19, 2018, work incident.”  (Ex. 5 at 15).  Dr. Kuhnlein noted that Hubbard-
+McKinney indicated she had strained her knee several years ago, but that she had a complete 
+recovery and did not have any ongoing problems with the left knee. 
+ 
+Dr. Vincent provided a response to Dr. Kuhnlein’s report.  Dr. Vincent agreed that 
+Hubbard-McKinney had a 7% impairment due to the degenerative changes but disagreed that such 
+impairment had been “lighted up” or aggravated by the February 19, 2018 fall.  Dr. Vincent 
+highlighted that the degenerative changes were pre-existing to the fall and that Hubbard-McKinney 
+had received an x-ray or scan of the knee on five prior occasions.  Although Dr. Vincent did not 
+have the medical records or clinical visit notes to determine the reasons for the scans, he opined 
+E-FILED                    CVCV061913 - 2021 DEC 28 03:11 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 10
+
+3 
+ 
+that the existence of the scans demonstrated Hubbard-McKinney must have had pre-existing 
+symptoms. (Ex. A page 4). 
+The Arbitration Decision found Dr. Kuhnlein’s report to be more persuasive and awarded 
+9% lower left extremity impairment rating.  The ALJ found it to be “highly unlikely and 
+improbable that [Hubbard] was suffering from significant, chronic left knee symptoms prior to the 
+stipulated February 19, 2018 work injury.”  (Arb. Dec. at 6).  The ALJ found some episodes of 
+prior insignificant treatment but noted there had been no prior aggressive treatment or surgery, no 
+permanent restrictions, and no evidence of a chronic or ongoing, disabling pain.  In the Appeal 
+Decision, the Commissioner affirmed the ALJ.  In particular, the Commissioner rejected Dr. 
+Vincent’s assumption that just because x-rays or scans had previously been taken there was a “long 
+history of the patient seeking medical care for left knee pain.”  Instead, the Commissioner found 
+Dr. Kuhnlein most convincing. 
+Newton Cmty. School Dist. filed for judicial review. 
+II.  
+Standard of Review.  
+ 
+Chapter 17A of the Iowa Code governs judicial review of final decisions by the workers’ 
+compensation commission. Ramirez-Trujillo v. Quality Egg, L.L.C., 878 N.W.2d 759, 768 (Iowa 
+2016), reh’g denied (May 27, 2016); see Iowa Code § 86.26. The district court acts in an appellate 
+capacity to review decisions of the Workers’ Compensation Commission. Meyer v. IBP, Inc., 710 
+N.W.2d 213, 219 (Iowa 2006). The standard of review varies based upon the type of error allegedly 
+committed by the Commissioner. Jacobson Transp. Co. v. Harris, 778 N.W.2d 192, 196 (Iowa 
+2010).    
+If the alleged error is one of fact, the Court reviews the record to determine if the findings 
+are supported by substantial evidence.  Harris, 778 N.W.2d at 196;  Schutjer v. Algona Manor Care 
+E-FILED                    CVCV061913 - 2021 DEC 28 03:11 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 10
+
+4 
+ 
+Ctr., 780 N.W.2d 549, 557 (Iowa 2010) (quoting Iowa Code § 17A.19(10)(f)) (finding this Court 
+will defer to the Commissioner’s findings of fact if based on “substantial evidence in the record 
+before the court when that record is viewed as a whole”).  “Evidence is substantial if a reasonable 
+person would find the evidence adequate to reach the same conclusion.”  Grundmeyer v. 
+Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002) (citing Ehteshamfar v. UTA Engineered 
+Sys. Div., 555 N.W.2d 450, 452 (Iowa 1996)).  “[A] reviewing court can only disturb those factual 
+findings if they are ‘not supported by substantial evidence in the record before the court when that 
+record is reviewed as a whole.’” Burton, 813 N.W.2d at 256 (quoting Iowa Code § 17A.19(10)(f)). 
+This Court’s review “is limited to the findings that were actually made by the agency and not other 
+findings the agency could have made.” Id. “In reviewing an agency’s findings of fact for 
+substantial evidence, courts must engage in a ‘fairly intensive review of the record to ensure the 
+fact finding is itself reasonable.’” Neal v. Annett Holdings, Inc., 814 N.W.2d 512, 518 (Iowa 2012) 
+(quoting Wal-Mart Stores, Inc. v. Caselman, 657 N.W.2d 493, 499 (Iowa 2003)).  
+If the agency’s application of the law to the facts is challenged, “the question on review is 
+whether the agency abused its discretion by, for example, employing wholly irrational reasoning 
+or ignoring important and relevant evidence.”  Meyer, 710 N.W.2d at 219; Iowa Code § 
+17A.19(10)(i), (j).   
+If a challenge is to the interpretation of law, the standard of review depends upon whether 
+interpretation of the provision of law at issue has been clearly vested in the discretion of the agency.  
+Compare Iowa Code §17A.19(c) with §17A.19(l).  The Iowa Supreme Court has repeatedly found 
+the Iowa Workers’ Compensation Commission is not vested with authority to interpret Iowa’s 
+workers’ compensation statutes.  See e.g.  Ramirez-Trujillo v. Quality Egg, L.L.C., 878 N.W.2d 
+759, 769 (Iowa 2016) (finding legislature did not vest commission with authority to interpret 
+E-FILED                    CVCV061913 - 2021 DEC 28 03:11 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 10
+
+5 
+ 
+provision at issue and noting the Court has declined to defer to the commissioner’s interpretations 
+of various provisions in recent years).  Therefore, review is for correction of errors at law.  Id. at 
+768; Iowa Code §17A.19(c) (court reviews whether agency action was “based upon an erroneous 
+interpretation of a provision of law whose interpretation has not clearly been vested by a provision 
+of law in the discretion of the agency.”) 
+III.  
+Conclusions of Law.  
+A. 
+Interpretation of Iowa Code 85.34(2)(x). 
+ 
+Iowa Code section 85.34 provides for compensation for permanent disabilities during a 
+healing period and, then after the employee reaches maximum medical improvement, for a certain 
+number of weeks.  A scheduled disability is evaluated under the functional method, which provides 
+a schedule of benefits for injuries to specific members of the body.  Second Injury Fund  of Iowa 
+v. Nelson, 544 N.W.2d 258 (Iowa 1995).  When the injury is to a scheduled member, the benefits 
+are calculated based on functional disability and not a loss of earning capacity.  The permanent 
+partial disability benefits are calculated utilizing the percentage of impairment applied to a set 
+number of weeks based on the injured body part.   
+ 
+Iowa Code section 85.34(2)(x) provides that:  
+In all cases of permanent partial disability described in paragraphs “a” through “u”, 
+or paragraph “v” when determining functional disability and not loss of earning 
+capacity, the extent of loss or percentage of permanent impairment shall be 
+determined solely by utilizing the guides to the evaluation of permanent 
+impairment, published by the American medical association, as adopted by the 
+workers' compensation commissioner by rule pursuant to chapter 17A. Lay 
+testimony or agency expertise shall not be utilized in determining loss or percentage 
+of permanent impairment pursuant to paragraphs “a” through “u”, or paragraph “v” 
+when determining functional disability and not loss of earning capacity. 
+Iowa Code Ann. § 85.34(2)(x).  Newton Cmty. School Dist. contends that the guides assign a 7% 
+impairment for Hubbard’s degenerative changes regardless of pain and, therefore, since the 
+E-FILED                    CVCV061913 - 2021 DEC 28 03:11 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 10
+
+6 
+ 
+physical changes were pre-existing, the 7% cannot be assigned to the work injury under Iowa Code 
+section 85.34(2)(x).  However, this interpretation fails to distinguish between the assignment of an 
+impairment rating and the issue of causation.  Iowa Code section 85.34(2)(x) prevents the 
+Commission from assigning a percentage impairment that does not derive from the guides but is 
+instead based on a layperson’s testimony or agency experience.   
+ 
+The issue here, however, is not a deviation from the guides, but a disagreement between 
+experts regarding whether a pre-existing condition is causally related to the work-injury based on 
+the question of whether it had been “aggravated” or “lit up.”  Here, Dr. Kuhnlein rooted his 
+impairment rating in the guides and made a determination that the work injury “served to ‘light 
+up’ and materially aggravate the previously asymptomatic osteoarthritis in the left knee and make 
+it symptomatic” and, therefore, the osteoarthritis was “related to” the work injury.  (Ex. 5 at 15).   
+ 
+Work injuries that aggravate or light up of a pre-existing condition are compensable.  “If 
+plaintiff was diseased and his condition was aggravated, accelerated, worsened or ‘lighted up’ by 
+the injury so it resulted in the disability found to exist plaintiff was entitled to recover.”  Rose v. 
+John Deere Ottumwa Works, 76 N.W.2d 756, 761 (Iowa 1956) (affirming award despite evidence 
+of pre-existing osteoarthritis and noting plaintiff had testified he never had any trouble with his 
+back previously); Hawkeye Wood Shavings, Inc. v. Parrish, 695 N.W.2d 333 (Iowa Ct. App. 2004) 
+(affirming decision that a degenerative disk condition was causally related to employment where 
+one expert opined that employment had “accelerate[d] his lumbar degenerative disc disease 
+causing his need for surgery.”).  Archer Daniels Midland, Inc. v. Warren, 2015 WL 1849503 (Iowa 
+Ct. App. 2015) (affirming finding that employment had materially aggravated and contributed to 
+progression of osteoarthritis hip condition resulting in the need for hip replacement). 
+E-FILED                    CVCV061913 - 2021 DEC 28 03:11 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 10
+
+7 
+ 
+  
+Dr. Kunhlein relied on Hubbard-McKinney’s history, in part, to reach a causation decision.  
+Then, after making a causation decision, Dr. Kuhlein relied on the guides to determine the 
+appropriate impairment rating.  Since providers are unlikely to have actually witnessed a patient’s 
+injury, they almost always must consider the patient’s report of injury, medical history, and 
+whether the patient’s report is consistent with the provider’s physical examination or review of 
+any imaging in their assessment of causation.  After making a causation determination, a provider 
+or expert then utilizes the guides to determine the appropriate functional impairment rating.  
+Although Dr. Vincent disagrees with Dr. Kuhnlein’s causation determination, each doctor utilized 
+the guides to provide an impairment rating and the Commission found one expert more convincing 
+than the other.  (See Appeal Decision at 2). 
+ 
+Therefore, the Court finds it was not an error of law to assign an impairment rating based 
+on the aggravation or lighting up a pre-exiting condition. 
+B. 
+Substantial Evidence to Support Dr. Kuhnlein’s Opinion. 
+ 
+Newton Cmty. School Dist. also argues substantial evidence does not support the 
+Commissioner’s decision to award 7% impairment relating to the degenerative changes.  There is 
+no dispute that a 2% award was appropriate.   
+At the commission level, “[a] claimant must prove by a preponderance of the evidence that 
+the injury is a proximate cause of the claimed disability.”  Schutjer v. Algona Manor Care Ctr., 
+780 N.W.2d 549, 560 (Iowa 2010) (quoting Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 
+752 (Iowa 2002)). “Ordinarily, expert testimony is necessary to establish the causal connection 
+between the injury and the disability for which benefits are claimed.”  Id.   However, “[t]he 
+commissioner, as the fact finder, determines the weight to be given to any expert testimony.”  Id.  
+“Because the commissioner is charged with weighing the evidence, we liberally and broadly 
+E-FILED                    CVCV061913 - 2021 DEC 28 03:11 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 10
+
+8 
+ 
+construe the findings to uphold his decision.”  Finch v. Schneider Specialized Carriers, Inc., 700 
+N.W.2d 328, 331 (Iowa 2005).   
+“Evidence may be substantial even though [the court] may have drawn a different 
+conclusion as fact finder.”  Cedar Rapids Cmty. Sch. Dist. V. Pease, 807 N.W.2d 839, 845 (Iowa 
+2011).  Weighing of competing expert opinions is within the province of the commission.  Cedar 
+Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 845 (Iowa 2011) (“the determination of 
+whether to accept or reject an expert opinion is within the peculiar province of the 
+commissioner.”).  The commissioner considers expert testimony with all other evidence and 
+determines the weight to be given any expert testimony. Grundmeyer v. Weyerhauser Co., 649 
+N.W.2d 744, 752 (Iowa 2002); see also Schutjer v. Algona Manor Care Ctr., 780 N.W.2d 549, 560 
+(Iowa 2010); Martinez Const. v. Ceballos, 836 N.W.2d 152, 2013 WL 2646833, at *4 (Iowa Ct. 
+App. June 12, 2013) (“Lay witness testimony is also relevant and material to the causation 
+determination, and the agency must consider all evidence—both medical and nonmedical—in 
+arriving at a disability determination.”).  To reverse the Agency Decision, this Court would be 
+required to find the experts relied upon as so flawed as to not constitute substantial evidence.  See 
+Bahic v. Mercy Medical Center, 919 N.W.2d 768 (Iowa 2018) (citing Pease, 807 N.W.2d at 845).   
+Here, the Agency Decision is supported by substantial evidence.  The Agency Decision 
+relied upon one expert physician over another. The Arbitration Decision and the Appeal Decision 
+found Dr. Kuhnlein’s opinion regarding causation more convincing.  They relied on Hubbard-
+McKinney’s report that she had no chronic or significant knee pain prior to the injury.  The 
+Arbitration Decision found it “highly unlikely or improbable that claimant was suffering from 
+significant, chronic left knee symptoms prior to the [work injury].”  (Arb. Dec. at 6).  The 
+Arbitration Decision acknowledged prior insignificant treatment, but noted Hubbard-McKinney 
+E-FILED                    CVCV061913 - 2021 DEC 28 03:11 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 10
+
+9 
+ 
+had never received “aggressive treatment or surgery,” “never had permanent restrictions,” and that 
+there was “no evidence she had chronic or ongoing, disabling pain.”  (Id.). 
+ 
+On Appeal, the Commissioner rejected Dr. Vincent’s assumption that because there are 
+prior x-rays or scans of Hubbard-McKinney’s left knee, she must have a “long history of [] seeking 
+medical care for left knee pain.”  Dr. Vincent had noted that he did not have the medical records 
+or clinic notes and, therefore, did not know why these prior scans had been taken.  Dr. Kuhnlein 
+accepted Hubbard’s explanation that she had had prior insignificant treatment for a knee sprain 
+but no ongoing pain.   
+ 
+The Commission accepted Dr. Kuhnlein’s causation determination that the work injury had 
+materially aggravated or lit-up Hubbard-McKinney’s pre-existing knee condition.  Although a 
+different fact finder could have found Dr. Vincent’s opinion more persuasive, the decision actually 
+made here is supported by substantial evidence. 
+ 
+IT IS HEREBY ORDERED that the Workers’ Compensation Commission is AFFIRMED.  
+Costs are assessed to Petitioners.  IT IS SO ORDERED. 
+ 
+ 
+ 
+  
+E-FILED                    CVCV061913 - 2021 DEC 28 03:11 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 10
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV061913
+NEWTON COMM SCHOOL DIST ET AL VS CASSIDY
+HUBBARD MCKINNEY
+Type:
+OTHER ORDER
+So Ordered
+Electronically signed on 2021-12-28 15:11:11
+E-FILED                    CVCV061913 - 2021 DEC 28 03:11 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 10

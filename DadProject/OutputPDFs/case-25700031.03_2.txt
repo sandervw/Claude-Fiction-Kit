@@ -1,0 +1,188 @@
+Case Number: 25700031.03
+Case Title:  MACUMBER, JESSICA V. SBH-DAVENPORT, LLC D/B/A EAGLE VIEW BEHAVIORAL HEALTH
+Doc Type:    Decision - District Court
+Source:      Macumber,. Jessica-25700031.03.District Court Decision.PDF
+========================================================================
+
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+ 
+SBH-DAVENPORT, LLC, d/b/a Eagle 
+View Behavioral Health and Safety and 
+NATIONAL CAS. CORP., 
+ 
+               Petitioners, 
+ 
+vs. 
+ 
+JESSICA MACUMBER, 
+ 
+               Respondent. 
+ 
+ 
+          CASE NO. CVCV068770 
+ 
+ 
+ 
+RULING ON PETITION FOR 
+JUDICIAL REVIEW 
+ 
+ 
+ This is a judicial review proceeding in which the petitioners seek review of an 
+alternate medical care decision issued on February 19, 2025, which in part required the 
+petitioners to file a denial of liability through the EDI (Electronic Data Interchange) 
+system and send the respondent a letter stating the reasons for the denial.  The petitioners 
+argue that this requirement in the order goes beyond the scope of Iowa Code §85.27 and 
+876 IAC 4.48 and constituted an abuse of the agency’s discretion. 
+ 
+The appropriate standard of review for this court is governed by Iowa Code 
+§17A.19(10).   The parties agree that the deputy’s decision to order the filing of a denial 
+letter implicates the application of law to fact.  As the application of law to fact is vested 
+in the discretion of the agency, it is only to be reversed if found to be irrational, illogical 
+or wholly unjustifiable.  Jacobson Transp. Co. v. Harris, 778 N.W.2d 192, 196 (Iowa 
+2010); Iowa Code §17A.19(10)(m) (2023): 
+A decision is irrational when it is not governed by or 
+according to reason.  A decision is illogical when it is 
+contrary to or devoid of logic.  A decision is unjustifiable 
+when it has no foundation in fact or reason. 
+ 
+E-FILED                    CVCV068770 - 2025 AUG 25 01:14 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 6
+
+2 
+ 
+The Sherwin-Williams Co. v. Iowa Dep’t of Revenue, 789 N.W.2d 417, 432 (Iowa 2010) 
+(internal quotation marks and citations omitted).1   
+ 
+A brief summary of the factual background of this dispute would be as follows:  
+The respondent sustained a work-related injury on June 28, 2024, in which she alleged 
+she had injured both her left hip and low back.  The petitioners accepted responsibility for 
+the left hip injury, but denied liability for the low back.  A dispute developed regarding 
+the scheduling of treatment for the left hip, resulting in the respondent filing a petition for 
+alternate medical care.  A hearing on that petition was held before the deputy on February 
+18, 2025; part of the record made at the hearing included medical records from the 
+treating orthopedist stating that the work-related incident “would have created enough 
+force to aggravate this pre-existing condition and perhaps create now the existence of the 
+radiculopathy that she is experiencing.”  D0006, Certified Record, Exh. 3 at 1 
+(4/11/2025). 
+ 
+The deputy rendered his alternate medical care decision the day following the 
+hearing.  The deputy granted the petition as to the left hip condition, but dismissed that 
+part of the petition dealing with the low back injury, as compensability for that injury was 
+contested, citing R. R. Donnelly & Sons v. Barnett, 670 N.W.2d 190, 197-98 (Iowa 2003) 
+and 876 IAC 4.48(7) (“Application cannot be filed under this rule if the liability of the 
+employer is an issue. If the application is filed where the liability of the employer is an 
+issue, the application will be dismissed without prejudice”).  However, the deputy also 
+noted that “new information (presumably the aforementioned orthopedist’s report) has 
+                                                 
+1 The agency can also be reversed if it has been found to have acted unreasonably, arbitrarily, capriciously 
+or otherwise abused its discretion.  Iowa Code §17A.19(10)(n) (2023).  This standard of review is very 
+similar to the “irrational, illogical or wholly unjustifiable “ standard in subsection (m) of §17A.19(10).  Id. 
+(comparison of both standards) (citation omitted). 
+E-FILED                    CVCV068770 - 2025 AUG 25 01:14 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 6
+
+3 
+ 
+been brought to light that may require additional investigation by defendants.  D0006 at 
+12.  As a result, although the petitioners had already issued a denial letter to the 
+respondent regarding the low back injury, the deputy ordered them to file a second denial 
+letter pursuant to 876 IAC 3.1(2) within ten days of the order.  D0006 at 14. 
+ 
+A timely petition for judicial review was filed by the petitioners on February 28, 
+2025.  D0001, Petition for Judicial Review (2/28/2025).  However, prior to filing the 
+judicial review action, the petitioners complied with the deputy’s directive to send the 
+respondent a second denial letter regarding the low back injury.  D0008, Petitioners’ 
+Judicial Review Brief at 6 (5/28/2025).  The respondent argues that this action rendered 
+the pending judicial review action moot.  For the reasons noted below, the court disagrees 
+and will address the merits of the dispute. 
+ 
+Historically, voluntary compliance with a ruling required the dismissal of any 
+appeal from that ruling.  Northern Natural Gas Co. v. Knop, 524 N.W.2d 668, 670 (Iowa 
+Ct.App. 1994) (citing Credit Indus. Co. v. Bendixen, 255 Iowa 1020-1021-22, 125 
+N.W.2d 262, 262-63 (1963)).  However, that holding “is no longer as severely applied as 
+it once was.”  Id. (citing Millsap v. Cedar Rapids Civil Serv. Comm’n, 249 N.W.2d 679, 
+683 (Iowa 1977)).  The issue of appellate waiver is now viewed in the context of whether 
+the performance is under some sort of compulsion, see Hegtvedt v. Prybil, 223 N.W.2d 
+186, 188-89 (Iowa 1974) (receiver ordered by pay judgment debt) or done “to avoid 
+unnecessary costs and expenses.” Peoples Trust & Sav. Bank v. Security Sav. Bank, 815 
+N.W.2d 744, 754 (Iowa 2012) (payment of judgment debt “to avoid the hassles resulting 
+from execution” did not cut off rights to pursue appeal).  
+E-FILED                    CVCV068770 - 2025 AUG 25 01:14 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 6
+
+4 
+ 
+ 
+In the present case, the petitioners argue that they complied with the deputy’s 
+directive as “an exercise of good faith [and] to avoid additional litigation surrounding 
+enforcement of the order during the pendency of the appeal process.”  D0012, 
+Petitioners’ Judicial Review Reply Brief at 3 (7/3/2025).  While the notion of acting in 
+“good faith” suggests that the petitioners were under no compulsion, financial or 
+otherwise, to file the second denial letter, the court is willing to accept that the actions of 
+the petitioners in complying with the deputy’s order is sufficient analogous to the 
+situations outlined above to not constitute a waiver of their right to pursue judicial review 
+of the deputy’s decision. 
+ 
+On the merits of the dispute, it must be remembered that the underlying agency 
+proceeding-a hearing on a petition for alternate medical care-is deemed to be a “fast-
+track” hearing submitted on an expedited basis and wholly unavailable when 
+compensability for the injury is disputed.  See West Central Cooperative v. Sullivan, 
+2022 WL 3906810 *9 (Iowa Ct.App., Case No. 21-1559, filed August 31, 2022); R. R. 
+Donnelly, 670 N.W.2d at 196 (“[T]he issue of compensability is totally removed from the 
+alternate medical care process”).  As noted earlier, once compensability becomes an 
+issue, that portion of the request for alternate medical care must be dismissed.  Id. at 197-
+98.  As applied to this case, the deputy correctly dismissed that portion of the petition for 
+alternate medical care pertaining to the disputed low back claim.  By the same token, the 
+agency no longer could address the issue of compensability in the context of a request for 
+alternate medical care; that would have to be addressed in the related contested case 
+proceeding.  Sullivan, 2022 WL 3906810 at *9.  As a result, the deputy abused his 
+E-FILED                    CVCV068770 - 2025 AUG 25 01:14 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 6
+
+5 
+ 
+discretion by ordering the second denial letter—a request that is clearly outside the scope 
+of the alternate medical care proceeding. 
+ 
+The respondent counters this argument by urging that the deputy was only acting 
+within his authority when the nature of the respondent’s low back claim had changed and 
+was consistent with the petitioners’ ongoing duty of investigation.  See 
+Bridgestone/Firestone and Old Republic Ins. Company v. Dalton, 2016 WL 742806 *3 
+(Iowa Ct.App., Case No. 15-0571, filed February 24, 2016).  These issues are of course 
+viable when dealing with the disputed issue of compensability in the contested case 
+proceeding.  Id. (failure to initiate further investigation proper basis to assess penalty 
+benefits).  They have no relevance in the context of an alternate medical care proceeding, 
+however.  By directing further action in the context of that part of the injury claim that 
+had already been dismissed, the deputy abused his discretion and that decision should be 
+reversed. 
+ 
+IT IS THEREFORE ORDERED that the portion of the deputy’s alternate 
+medical care decision rendered on  February 19, 2025 dealing with the directive to the 
+petitioners to issue a denial letter is reversed.  The remainder of that order remains in full 
+force and effect.  This matter is remanded to the agency for further proceedings 
+consistent with this ruling.  The costs associated with this proceeding are assessed to the 
+respondent. 
+In addition to all other persons entitled to a copy of this order, the Clerk shall provide a 
+copy to the following: 
+ 
+Workers’ Compensation Commissioner 
+1000 E. Grand Ave. 
+Des Moines, IA  50319-0209 
+ 
+Re:  File No. 25700031.03 
+ 
+E-FILED                    CVCV068770 - 2025 AUG 25 01:14 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 6
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV068770
+SBH DAVENPORT LLC ET AL VS JESSICA MACUMBER
+Type:
+ORDER FOR JUDGMENT
+So Ordered
+Electronically signed on 2025-08-25 13:14:22
+E-FILED                    CVCV068770 - 2025 AUG 25 01:14 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 6

@@ -1,0 +1,917 @@
+Case Number: 20011866.01
+Case Title:  WILLIAMS, RICHIE V. ARCHER DANIELS MIDLAND
+Doc Type:    Decision - Deputy
+Source:      Williams Richie-20011866.01D.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+ 
+ 
+ 
+  : 
+RICHIE WILLIAMS, 
+  : 
+ 
+ 
+  :  
+ 
+File No. 20011866.01 
+ 
+Claimant, 
+  :  
+ 
+ 
+ 
+ 
+  :  
+ 
+ 
+vs. 
+ 
+  :                  
+ 
+ 
+  :  
+      ARBITRATION DECISION 
+ARCHER DANIELS MIDLAND, 
+  : 
+        
+ 
+ 
+  : 
+ 
+Self-Insured Employer, 
+  :                 
+ 
+Defendant. 
+  :       Head Notes: 1106; 1402.30; 1403.30 
+ 
+ 
+  : 
+ 
+STATEMENT OF THE CASE 
+ 
+Richie Williams, claimant, filed a petition in arbitration seeking workers’ 
+compensation benefits from Archer Daniels Midland, self-insured defendant employer.  
+The hearing was held on December 15, 2022. Pursuant to an order from the Iowa 
+Workers’ Compensation Commissioner, this case was heard via videoconference using 
+Zoom with all parties and the court reporter appearing remotely.   
+ 
+The parties filed a hearing report at the commencement of the arbitration hearing.  
+On the hearing report, the parties entered various stipulations. Those stipulations were 
+accepted and are hereby incorporated into this arbitration decision and no factual issues 
+relative to the parties’ stipulations will be raised or discussed in this decision. The parties 
+are now bound by their stipulations.  
+ 
+Richie Williams, Tyler Albert, Dean Petroff, and Nydel Cromwell testified live at the 
+trial. The evidentiary record also includes amended joint exhibits 1-7, claimant’s amended 
+exhibits 1-8, and defendants’ exhibits A-N.1  All exhibits were received into the record 
+without objection.  
+ 
+The parties submitted post-hearing briefs on February 3, 2023, at which time the 
+case was fully submitted to the undersigned.  
+ 
+ISSUES 
+ 
+The parties identified the following disputed issues on the hearing report: 
+ 
+1. Whether the case is barred due to lack of timely notice under Iowa Code section 
+85.23. 
+ 
+                                                 
+1At the hearing, defendants withdrew exhibits A, F, G, L, and M.   
+ELECTRONICALLY FILED     2023-Jun-28  11:54:34     DIVISION OF WORKERS' COMPENSATION
+
+WILLIAMS V. ARCHER DANIELS MIDLAND 
+Page 2 
+ 
+2. Whether claimant sustained an injury that arose out of and in the course of his 
+employment with Archer Daniels Midland on May 21, 2020.  
+ 
+3. Whether the claimant is entitled to temporary disability or healing period 
+benefits because of the alleged injury. 
+ 
+4. Whether the alleged injury resulted in any permanent disability; and if so, 
+ 
+5. The extent of claimant’s entitlement to permanent disability benefits. 
+ 
+6. The commencement date for permanent partial disability benefits, if any are 
+awarded. 
+ 
+7. Claimant’s average weekly wage and weekly rate. 
+ 
+8. Whether claimant is entitled to reimbursement for medical expenses.  
+ 
+9. Whether claimant is entitled to reimbursement for an independent medical 
+examination pursuant to Iowa Code section 85.39. 
+ 
+10. Whether claimant is entitled to alternate medical care. 
+ 
+11. Assessment of costs.  
+ 
+FINDINGS OF FACT 
+ 
+The undersigned, having considered all the evidence and testimony in the record, 
+finds as follows: 
+ 
+At the time of the hearing the claimant, Richie Williams (hereinafter “Williams”) was 
+41 years old. (Hearing Tr., p. 17). He lives in Cedar Rapids, Iowa. (Id.). He graduated 
+from Jefferson High School in 2000. (Id. at 18; Ex. K, p. 74). Following high school, 
+Williams attended Kirkwood Community College for one semester. (Tr., p. 18). His field 
+of study is unknown. (Id.). He did not receive a degree. (Id.).  
+  
+From 2002 to 2004, Williams worked as a parts counter at Hawkeye International, 
+filling work orders for auto parts. (Cl Ex. 4, p. 47). In 2004, he took a job as a DOT 
+inspector at First Fleet Diesel, doing general maintenance and tire repair. (Id. at 47-48).   
+From 2006 to 2008, Williams worked at Freightliner as a DOT inspector. (Id. at 48). In 
+2008, he began working for CRST as a DOT inspector, performing general maintenance. 
+(Id.).  CRST laid Williams off in 2010. (Id.).  While on lay-off, he worked as a night stocker 
+at Target and drove a flatbed truck for All American Scaffolding. (Id.).   
+ 
+In 2013, Archer Daniels Midland (hereinafter “ADM”), the defendant employer in 
+this action. (See Cl Ex. 2, p. 33; Tr., p. 58). ADM washes and repairs railroad cars. (Tr., 
+p. 87). Williams was hired to work in the repair shop, fixing tank and hopper cars. (Id. at 
+
+WILLIAMS V. ARCHER DANIELS MIDLAND 
+Page 3 
+ 
+58).  Williams later moved to the wash bay. (Id.). In his exhibits, Williams submitted a job 
+description for his work at ADM. (Cl Ex. 2, p. 33). The description is labeled “Repair and 
+wash bay Physical Work Activities.” (Id.). Thus, it appears to encompass both of Williams’ 
+positions at ADM. According to this description, he was required to walk, sit, climb stairs, 
+reach, push, pull, kneel, squat with proper ergonomics, bend at the waist, twist, climb 
+ladders, grind, and use a torch, spray paint, lift and carry a light-weight bucket with one 
+hand, and two-handed carry up to 50 pounds. (Id.). However, at the hearing, Williams 
+testified he was asked to lift up to 70 pounds, but “it’s usually, roughly, 50, maybe a little 
+bit more.” (Id. at 59).   
+ 
+Williams worked at ADM in the wash bay until July 2021, when he took a new 
+position as a material handler at Parker Hannifin. (Cl Ex. 4, p. 48; Tr., p. 31; Ex. K, p. 80). 
+He started in the Receiving Department, but prior to the hearing transferred to the Toro 
+Department. (Tr., p. 31). In the Toro Department, Williams works in the warehouse, filling 
+orders and stacking boxes on pallets. (Id. at 32). To do this, he uses a pallet machine and 
+a forklift. (Id.). At the hearing, Williams testified that his job at Parker Hannifin is less 
+physically demanding than his position at ADM. (Id. at 33). In their exhibits, defendant 
+included a job description for Williams’ position at Parker Hannifin. (Ex. K, p. 80).  
+According to this description, he is required to stand, bend, stoop, and twist, operate 
+various types of assembly equipment, cutting equipment and forklifts, use measuring 
+devices, as well as lift 20 pounds frequently, and 50 pounds occasionally.2 (Id.). Prior to 
+starting at Parker Hannifin, Williams underwent a functional employment test. (Id. at 81). 
+This test required he lift and carry 50 pounds for 20 feet. (Id.). Williams successfully 
+completed the employment test. (Id.).  When he started in July 2021, he was working full-
+time and making $17.50 an hour. (Id. at 82). However, at the time of the hearing, Williams 
+was only working 20 hours per week—four hours a day, five days a week, because of 
+restrictions. (Tr., p. 41). Williams was making $18.60 an hour. (Id.).   
+ 
+Williams alleges an injury to his low back on May 21, 2020.3 (See Petition).  
+Williams testified he had already clocked out of work and was in the locker room getting 
+ready to change his clothes. (Tr., pp. 18-20).  Williams testified as follows: 
+ 
+I was going to sit down. I felt the back of my butt cheek on the bench. I was 
+getting up to readjust myself, I lost my balance, fell backwards towards the 
+locker, hit my back, and then I fell to the concrete floor on my butt.  
+ 
+(Id. 18-19). Williams testified that two of his co-workers witnessed the fall—Tyler Dange 
+and Seth, last name unknown.4 (Id. at 19). He did not feel any pain immediately after the 
+fall and did not report the incident right away. (Id.). Williams, however, testified that his 
+                                                 
+2Parker Hannifin’s functional employment test lists Williams’ position as being in the heavy demand 
+category. (Ex. K, p. 81). During his 2020 deposition, Williams testified he is required to lift up to 70 pounds 
+in his current job. (Cl Ex. 3, p. 40).  
+3 During the hearing, Williams also indicated the fall may have happened in February 2020. (Tr., p. 
+18).   
+4According to defendants’ exhibits, the fall was actually witnessed by three of Williams’ co-workers. 
+(Ex. C).   
+
+WILLIAMS V. ARCHER DANIELS MIDLAND 
+Page 4 
+ 
+supervisor, Tyler Albert, asked him about the fall the next day, but his testimony did not 
+provide any specifics about this conversation. (Id. at 20). The hearing transcript reads, 
+ 
+Q. Okay.  In your deposition, you testified that your supervisor, Tyler 
+Albert, came and talked to you about the fall the next day. Is that 
+accurate? 
+A.  Yes.  
+Q.  Okay. And what did you guys talk about? 
+A. We talked about the fall in the locker room. 
+Q. Did he ask you questions? 
+A. No, he just told me to take it easy for now. 
+ 
+(Id.). Williams testified he did not think the fall qualified as a work injury because he was 
+not on the clock. (Id. at 20-21). He indicated he did not report it as a work injury to Mr. 
+Albert. (Id. at 21). Williams returned to work the next day full duty, full time. (See id. at 
+20).   
+ 
+Williams’ deposition was taken on September 29, 2020. (Ex. D, p. 11). During the 
+deposition, he was asked about his alleged conversation with Mr. Albert.  Portions of that 
+deposition transcript were submitted into evidence. It reads: 
+ 
+Q. And the next day was it Tyler Albert, did he ask you about this fall? 
+A. That I can remember, he did, but I’m not for sure if he – if somebody – 
+who told him, but I’m thinking that he’s the one that asked me about it.  
+Q. From what you remember, Tyler asked you about it the day after the fall? 
+A.  Correct.  
+ 
+(Id. at 13).   
+ 
+ 
+Tyler Albert testified at the hearing. (Tr., p. 86). He is a supervisor at ADM; He was 
+Williams’ direct supervisor. (Id. at 87). Mr. Albert has worked there since 2005. (Id.). He 
+confirmed that Williams started out working as a welder in the repair shop, and later 
+transferred to the wash bay, where he put on and took off valves. (Id. at 87-88). Mr. Albert 
+also confirmed that the job description submitted by Williams was accurate but clarified 
+that if an employee is asked to lift anything over 50 pounds, it is done as a team lift or 
+with a crane. (Id. at 89). He testified that employees at ADM receive annual training on 
+how to handle work injuries. (Id. at 90). According to Albert, in this training employees are 
+instructed to immediately report any injury incurred on ADM’s premises to their direct 
+supervisor. (Id.). If their direct supervisor is unavailable, they are instructed to notify the 
+plant manager or the safety director. (Id. at 91). 
+ 
+ 
+Mr. Albert testified that Williams had suffered previous work-related injuries while 
+employed at ADM. (Tr., p. 91). On November 19, 2018, Williams suffered an injury to his 
+right shoulder while working for ADM. See Williams v. Archer Daniels Midland, File No. 
+5067813.02, 2021 WL 5235571 (Arb. Decision, Nov. 3, 2021). Williams reported that 
+injury right away and received treatment the same day. Id.  Given this, Mr. Albert believed 
+
+WILLIAMS V. ARCHER DANIELS MIDLAND 
+Page 5 
+ 
+that Williams knew how to report injuries occurring at ADM. (Tr., p. 91).  Mr. Albert testified 
+that he was not notified about Williams’ fall until October 1, 2020. (Id. at 94). He stated 
+that the next-day conversation described by Williams never occurred. (Id. at 94).  
+According to Albert, on October 1, 2020, Williams “[w]alks into my office and said that he 
+fell in the locker room and that he had told me. And I – I was – I was dumbfounded and 
+confused. I’m like, I don’t even know what you’re talking about.” (Id. at 92). Mr. Albert then 
+called the plant manager, Dean Petroff, and asked him to come to his office. (Id.).  
+According to Mr. Albert, once both supervisors were present, Williams “proceeded to tell 
+us that he fell in the locker room and that he had told me a couple months ago. And I was, 
+like, you never told me anything about falling in the locker room, ever. I don’t know where 
+this is coming from.” (Id. at 93). Williams then presented the supervisors with a hand-
+written document labeled “Injury Report.” (Id.). A copy of it was submitted into evidence. 
+(Ex. B, p. 4).  It states, 
+   
+About 4 or 5 months ago I was in the locker room to sit on the bench 
+to change. When I starting to sit down I miss the bench fell down hitting my 
+back on the locker, then my butt hit the floor. I was punch out at the time, 
+did not think because I was punch out that I would have to fill out a report. 
+ 
+(Id.). The day after the conversation with Williams, Mr. Albert sent an email documenting 
+the exchange. (Id. at 6). In the email Albert writes that when Williams was challenged 
+about the occurrence of the alleged next-day discussion, he stated “oh well I thought I did 
+. . .well maybe I told somebody else, the other Tyler that is an hourly employee.”  (Id.).   
+ 
+ 
+In October 2022, defendants took Williams’ deposition a second time. (Cl Ex. 3, 
+p. 38).  At this deposition, he was once again asked whether he reported the locker 
+room fall to ADM. (Id. at 42). The transcript reads as follows:  
+ 
+Q. Did you report the fall off of that bench or that you just described to 
+Tyler Albert or somebody else at the company? 
+A. I think somebody told him, and if I remember correctly, he asked me 
+the next day, but I’m not exactly for sure what day he actually said -- what 
+day he actually came and talked to me about it.  
+Q. Do you know who told Tyler Albert that you had fallen? 
+A. No, I don’t know who. 
+Q. All right. And tell me to the best of your recollection where the 
+conversation with Tyler Albert took place at work.  Where were you? 
+A.  I think I was -- actually, I don’t know exactly where. I just remember him 
+saying something about it.  I just --  
+Q. Was that the following day that you fell that Mr. Albert approached you 
+about this accident? 
+A. That I can remember, yes, that I can recall.  
+Q. And I just need you to be as specific as you can recall. What did Mr. 
+Tyler Albert say to you at that time? 
+A. Just asked if I was okay. I can’t remember too much more than that, 
+what he said that day exactly.  
+
+WILLIAMS V. ARCHER DANIELS MIDLAND 
+Page 6 
+ 
+Q. And what did you tell Mr. Albert in response? 
+A. I can’t remember exactly what I said that day either. I think -- 
+Q. Did you tell him you were okay, or did you tell him that you needed 
+medical care, or what do you recall? 
+A.  The only think I can recall is I told him my back hurts. But I can’t 
+remember exactly if I told him I needed medical attention or not for sure.  
+ 
+(Id.). Williams was asked this same series of questions on cross-examination at the 
+hearing. (Tr., p. 64). However, at the hearing, Williams testified the conversation took 
+place outside of the locker room, and Tyler Albert approached him and stated, “I heard 
+you fell in the locker room.” (Id.).  Williams was asked if he was certain, it was Tyler Albert 
+that approached him. (Id.).  He replied, "No, I’m pretty sure it was Tyler Albert that next 
+day, but I know Tyler Dange was in that locker room at the time I fell. So I could have 
+talked to him.  I just got two days mixed up." (Id.).   
+ 
+Dean Petroff also testified at the hearing. (Tr., p. 108). Mr. Petroff is the plant 
+manager at the ADM workshop in Cedar Rapids. (Id. at 92, 109). He has been with ADM 
+since 2005. (Id. at 108).  Petroff hired Williams in 2013. (Id. at 109). He testified that ADM 
+employees receive training each year on how to report work injuries. (Id.). The training 
+was set-up by Nydel Cromwell, the environmental health and safety coordinator at ADM. 
+(Id. at 110, 121).  According to Petroff, Williams participated in the training each year and 
+knew how to report a work injury at ADM. (Id. at 111).   
+ 
+Mr. Petroff testified that he received notification of Williams’ alleged May 21, 2020 
+fall on October 1, 2020. (Tr., p. 112). On that date, he received a phone call from Tyler 
+Albert, asking him to come back to his office. (Id.). When he arrived there, Williams was 
+in Albert’s office. (Id.). Williams presented him and Mr. Albert with his handwritten injury 
+report, which detailed his fall in the locker room four or five months prior. (Id.). Prior to 
+October 1, 2020, Mr. Petroff was unaware of Williams’ fall and alleged low back injury. 
+(Id. at 113). Petroff testified that when an injury is reported at ADM, the protocol is to first 
+seek any necessary medical care for the employee, then fill out a first report of injury, and 
+start an investigation into the claim. (Id. at 116-117).  Mr. Petroff testified Williams did not 
+request any medical care during the meeting. (Id. at 115).  
+ 
+Nydel Cromwell was the final hearing witness. (Tr., p. 121). Mr. Cromwell is the 
+environmental health and safety coordinator at the ADM plant in Cedar Rapids. (Id. at 
+122). He was hired in 2006. (Id. at 121). Mr. Cromwell is responsible for environmental 
+reporting, safety training, shop safety, and health screenings such as hearing and 
+respiratory testing. (Id. at 122). He testified Williams participated in injury investigation 
+and reporting training each year he was employed at ADM. (Id. at 123).  Cromwell 
+reported that in the training, employees are instructed to report all injuries, minor or major, 
+immediately. (Id. at 124).  
+ 
+Mr. Cromwell is also responsible for investigating work-related injuries at ADM. 
+(Tr., p.  122). He testified that he first heard about Williams’ alleged fall on October 1, 
+2020, when Mr. Albert and Mr. Petroff gave him a copy of Williams’ handwritten injury 
+
+WILLIAMS V. ARCHER DANIELS MIDLAND 
+Page 7 
+ 
+report. (Id. at 124-125). After receiving the report, Cromwell started an investigation into 
+the alleged injury. (Id.). During this investigation, he discovered that there were three 
+witnesses to Williams’ fall: Brandon Sortland, Seth Dunlin, and Tyler Dange. (Id. at 125). 
+They were all co-workers of Williams. (Id. at 126). At Mr. Cromwell’s request, all three 
+filled out statements on October 21, 2020. (Id. at 125). Those are contained in defendants’ 
+hearing exhibits. (Ex. C, pp. 8-10). Two of the statements agree that Williams was looking 
+at his cell phone and not paying attention, tried to sit down, missed the bench, and fell to 
+the ground. (Id.). None of them mention him hitting the locker before falling to the ground.5 
+Tyler’s statement indicates the incident took place sometime in May 2020, Seth states it 
+was in May or June 2020, and Brandon reports the incident took place four to five months 
+prior. (Id.). Cromwell testified none of the three witnesses informed him of the incident 
+prior to October 1, 2020. (Tr., p. 126). I find that Williams was looking at his cell phone 
+and attempted to sit down without looking, missed the bench, and fell to the ground.  
+ 
+Williams’ testimony about the alleged next-day conversation with Tyler Albert is 
+sparse and inconsistent. In contrast, Mr. Albert, Mr. Petroff, and Mr. Cromwell all credibly 
+testified that Williams did not notify ADM about his May 21, 2020 fall until October 1, 2020.  
+Their testimony is supported by all three witness statements from Williams’ co-workers, 
+none of which mention informing Mr. Albert about the incident. Given this, I determine 
+that there is insufficient evidence showing Williams notified Tyler Albert about the work 
+injury the day after it occurred.  
+ 
+ 
+According to the medical records, Williams did not seek medical care for his low 
+back until July 2020. (JE 6, p. 146). On July 24, 2020, he presented to his family physician, 
+Qadnana Anwar, M.D., for a medication check. (Id.). At the appointment, he told Dr. 
+Anwar that he fell two months ago and hurt his tailbone, and he was still experiencing 
+intermittent pain. (Id). Dr. Anwar ordered x-rays of his lumbar spine and coccyx. (Id. at 
+147). They were normal—they did not show any fractures. (Id. at 149-150). Dr. Anwar did 
+not recommend any treatment for his low back complaints. (Id. at 146-150).   
+ 
+ 
+Williams returned to Dr. Anwar on August 7, 2020. (JE 6, p. 151).  He complained 
+of increasing lower back pain, with pressure and radiating pain in his left buttock. (Id.).  
+He told Dr. Anwar that he was unable to go to work that day because of his symptoms. 
+(Id.). Dr. Anwar diagnosed him with lumbar back pain with radiculopathy affecting the left 
+lower back and left upper leg. (Id. at 153). He ordered physical therapy and an MRI, as 
+well as prescribed anti-inflammatory medication and a muscle relaxer. (Id.). He also 
+provided Williams with a 20-pound lifting restriction and referred him to the pain clinic for 
+further treatment. (Id.).   
+ 
+ 
+Williams was evaluated by Kyle Morrissey, D.O. at the CRS Pain Clinic on August 
+21, 2020. (JE 4, p. 91).  He told Dr. Morrissey that he had experienced back pain for years 
+and had previously dealt with some radicular pain back in 2015, but never required any 
+“interventions.” (Id.). A review of the medical records submitted at hearing shows Williams 
+was first treated for low back and left buttock pain in February 2007 at Westside Family 
+                                                 
+5 Locker contact is also not mentioned in any of his treatment records.  See fact finding below.  
+
+WILLIAMS V. ARCHER DANIELS MIDLAND 
+Page 8 
+ 
+Medicine. (JE 7, p. 174). At that time, he was diagnosed with lumbosacral back spasms 
+and prescribed pain medication and muscle relaxers. (Id.). He returned in May 2007, with 
+similar low back complaints after working on a pond. (Id.  at 175). He was diagnosed with 
+lumbago, given pain medication, and briefly taken off work. (Id.).   
+ 
+ 
+Williams continued to receive sporadic treatment for low back pain and radicular 
+leg symptoms at Westside Family Medicine. (JE 7, pp. 174-194). He had appointments 
+on August 1, 2007; April 12, 2008; October 28, 2008; February 16, 2011; November 26, 
+2014; November 14, 2016; and August 28, 2017. (Id. at 176-189). In the fall of 2015, Dr. 
+Anwar referred him to Kevin Eck, M.D., at Physicians’ Clinic of Iowa (PCI) for further 
+treatment of his back symptoms. (JE 1, pp. 1-3). Dr. Eck diagnosed him with lumbar 
+spondylosis and ordered an MRI of his spine. (Id. at 2-3). The MRI was performed on 
+September 23, 2015. (Id. at 4). It showed moderate desiccation at L4-5 with a diffuse disc 
+bulge, a small disc protrusion at L2-3, and mild degenerative changes. (Id. at 5). Dr. Eck 
+reviewed the MRI on September 28, 2015. (Id. at 6). He recommended conservative care 
+including weight loss, exercise, stretching, and core strengthening. (Id. at 7). Dr. Eck also 
+referred Williams to pain management. (Id.). It is not clear whether Williams ever attended 
+pain management for his back complaints back in 2015. Neither party submitted any pre-
+injury pain management records at hearing. The last pre-injury treatment note in the 
+record is an emergency room visit on October 8, 2019. (JE 2, p. 23). On that date, 
+Williams presented at the St. Luke’s ER, complaining of right-sided low back pain that 
+radiated down his right upper leg. (Id. at 24). He was also experiencing spasms. (Id.). He 
+was given a Toradol injection and sent home. (Id. at 27-28).  
+ 
+ 
+ 
+Dr. Morrissey diagnosed Williams with lumbar radiculopathy secondary to disc 
+degeneration. He recommended and administered a trial epidural steroid injection at L4-
+L5. (JE 4, pp. 92-93). At hearing, Williams testified the injection helped with his back pain 
+for a while, but then the pain returned. (Tr., p. 26). On August 26, 2020, Williams 
+underwent a second MRI of his lumbar spine. (JE 4, p. 96). It showed mild degenerative 
+changes, like those seen in his 2015 MRI. (Id.). There were no areas of severe spinal 
+canal or foraminal narrowing. (Id.). Williams underwent a second epidural steroid injection 
+with Dr. Morrissey on September 17, 2020. (Id. at 98). He testified this injection also 
+helped with his pain complains for a time, but the pain returned. (Tr., p. 26).   
+ 
+ 
+ 
+At some point, Dr. Anwar referred Williams to the Neurosurgery Clinic at Unity 
+Point. (JE 3, p. 67). On December 7, 2020, he was evaluated by Jeremy Glawatz, PA-C. 
+(Id.). PA Glawatz diagnosed him with lumbar spondylosis and back pain. (Id. at 70).  He 
+recommended a trial of facet injections. (Id.). Those were performed on December 16, 
+2020 by Dr. Morrissey. (JE 4, pp. 99-101). On December 17, 2020, claimant’s counsel 
+met with PA Glawatz to discuss his back complaints. (JE 3, pp. 72-74). After this 
+conference, his counsel asked Glawatz to fill out a check the box report. (Id.). This report 
+states Williams told Glawatz that he had missed a chair and fell onto the floor on his 
+buttocks at work. (Id. at 72). It also stated that Williams had experienced back symptoms 
+prior to the work fall, but those mostly resolved prior to this incident after receiving 
+injections and physical therapy. (Id.). Williams told Glawatz that after the fall he started 
+having pain down the back of his left leg. (Id.). Glawatz indicated that his back pain may 
+
+WILLIAMS V. ARCHER DANIELS MIDLAND 
+Page 9 
+ 
+have been flared up by the fall. (Id. at 73). He recommended lumbar facet injections, as 
+well as a work restriction of no lifting more than 30 pounds (Id.).  
+  
+ 
+The injections relieved Williams’ pain symptoms for approximately three months. 
+(See Tr., p. 27). Williams returned to PA Glawatz on March 5, 2021. (JE 3, p. 75).  At that 
+visit, he complained of increasing left-sided low back pain with occasional discomfort in 
+his right leg to his knee. (Id. at 76). Glawatz assessed him with increasing low back pain 
+and radicular pain in his legs. (Id. at 80). He ordered a new MRI, as well as prescribed 
+Flexeril and anti-inflammatories. (Id.). He also provided a note taking him out of work for 
+one week. (Id.). The MRI was performed on March 12, 2021. (Id. at 81). It revealed mild 
+degenerative changes, similar to his prior MRI. (Id. at 82). It did not show any areas of 
+severe spinal canal or foraminal narrowing. (Id.). On April 7, 2021, Williams underwent 
+bilateral L4-L5 facet joint injections. (JE 4, pp. 103-104). Williams testified these helped 
+with his pain, but also wore off. (Tr., p. 29).    
+ 
+ 
+Williams returned to PA Glawatz on May 19, 2021. (JE 3, p. 83). He complained 
+of increased pain in his low back since that Sunday, “a lot worse now than what it has 
+ever been.” (Id. at 84). He indicated he was also having issues voiding and had been to 
+the emergency room the day before and they did not find any red flags.6 (Id.). Glawatz 
+assessed Williams with an acute onset of increased back pain, lumbar radiculopathy, and 
+abnormal voiding. (Id. at 87). He ordered a new MRI due to Williams’ acute symptoms.  
+(Id. at 88). The MRI was performed that day. (Id. at 89-90). It showed mild to moderate 
+degenerative changes of the lumbar spine, most prominent at L4-L5. (Id. at 90). Glawatz 
+did not see any acute changes. (Id. at 88). He prescribed a prednisone burst and taper. 
+(Id.).   
+ 
+ 
+On May 24, 2021, Williams returned to Dr. Anwar with back pain. (JE 6, p. 161).  
+Dr. Anwar referred him to Kevin Eck, M.D. at PCI. (JE 1, p. 10). Dr. Eck evaluated him on 
+June 8, 2021. (Id.). His treatment note states Williams was there for another opinion. (Id.). 
+Dr. Eck diagnosed Williams with low back pain, lumbar spondylosis, and left leg pain. (Id. 
+at 11).  After reviewing his prior MRIs, Dr. Eck opined that Williams’ back and leg 
+symptoms might be caused by a posterolateral disc bulge at L4-L5. (Id.). Dr. Eck 
+questioned whether he had some degree of lateral recess stenosis and possible 
+impingement of the L5 nerve root. (Id.). He recommended a left-sided diagnostic L5 nerve 
+block. (Id.).  
+  
+ 
+On September 7, 2021, Williams presented to the Unity Point Urgent Care Clinic 
+with low back pain. (JE 7, pp. 190-191). He was diagnosed with acute bilateral low back 
+pain with right-sided sciatica. (Id. at 191). He was given a Toradol injection and taken off 
+work for two days. (Id.). Williams returned back to Dr. Eck on September 9, 2021. (JE 1, 
+p. 13).  He stated, “his back pain intensified after starting a new job recently.” (Id.). 
+Williams complained of increased low back and buttock pain when he tried to return to an 
+                                                 
+6 According to the records, Williams presented to the St. Luke’s ER on May 18, 2021, complaining 
+of worsening lower back pain, radicular pain in both legs, and intermittent numbness in his left leg. (JE 2, 
+p. 31).  The ER note states he had “no red flag symptoms”. (Id. at 32). He was given pain medication and 
+told to follow-up with PA Glawatz. (Id. at 33).   
+
+WILLIAMS V. ARCHER DANIELS MIDLAND 
+Page 10 
+ 
+upright position from sitting or when he stood for long periods of time, as well as when he 
+repetitively lifted heavy objects. (Id.). Dr. Eck diagnosed lumbar facet joint irritation and 
+recommended a period of rest. (Id. at 14). He also took Williams off work for one week. 
+(Id.).   
+ 
+ 
+Dr. Morrissey performed medial branch nerve blocks at L4-L5 on September 29, 
+2021, and October 27, 2021. (JE 4, pp. 107-111). Williams reported these improved his 
+pain. (Id. at 111). On November 30, 2021, Dr. Morrissey performed radiofrequency 
+ablation of Williams’ medial branch nerves at L4 and L5 bilaterally. (Id. at 116). This 
+helped Williams’ pain. (See JE 2, p. 35).   
+ 
+ 
+Williams did not seek medical treatment again until March 2022. (JE 2, p. 35). On 
+March 9, 2022, he went to the St. Luke’s ER for acute low back pain. (Id.). Williams 
+reported he stepped down off a forklift at work and turned to the left when he felt extreme 
+pain in his lower back. (Id.). The pain radiated down his right leg and he also had 
+weakness in the leg. (Id.). He was diagnosed with acute midline low back pain with right-
+sided sciatica. (Id. at 38). A new MRI was performed. (Id. at 41). It showed mild to 
+moderate degenerative disc disease with disc desiccation and posterior annular disc 
+bulging, broad based annular disc bulging at multiple levels, a shallow left paracentral 
+disc protrusion at L1-L2, a posterior annular broad-based disc bulge at L2-L3, and a disc 
+bulge and annular fissure at L4-L5. (Id. at 41-42). Williams was given pain medication, a 
+Lidoderm patch, and referred to Joshua Barber, M.D., an orthopedic spine doctor at PCI. 
+(Id. at 38). He was also provided with a work note. (Id.).   
+ 
+ 
+Dr. Barber evaluated Williams on March 11, 2022. (JE 1, p. 16). Williams told Dr. 
+Barber he was that he was lifting something at work on March 10, 2022, and had a sharp 
+pain in his lower back when he stepped off the forklift. (Id.). He reported stabbing pain in 
+his back, pain in the medial right thigh, and left leg paresthesias that went into the lateral 
+aspect of his left foot. (Id.). Dr. Barber diagnosed him with musculoskeletal back pain.  
+(Id. at 17). He recommended pain medications, Gabapentin and Meloxicam. (Id. at 17).  
+He did not think surgery was indicated. (Id.). Dr. Barber referred Williams to Justin Gilbert, 
+M.D., for consideration of repeat medial branch blocks and radiofrequency ablation. (Id. 
+at 17-18). Williams saw Dr. Gilbert on March 30, 2022. (Id. at 21). Dr. Gilbert diagnosed 
+him with chronic pain, and lumbago with sciatica, left side. (Id.). He recommended a 
+bilateral L5-S1 transforaminal epidural steroid injection for diagnostic purposes. (Id.). His 
+treatment note states, “in the absence of any benefits, we can consider updating his MRI 
+given new onset injury.” (Id.). Dr. Gilbert performed the injection that day. (Id.). Williams 
+testified the injection helped with his pain complaints, but later wore off. (Tr., p. 36).  
+  
+ 
+Williams did not seek medical attention for his back again until August 17, 2022. 
+(JE 7, p. 192). On that date, Williams presented to the UnityPoint Urgent Care Clinic with 
+low back pain. (Id. at 193). The note states that his back started bothering him two days 
+prior, he wasn’t sure what exactly what he had done, but he “went to work the last 2 days 
+and does a lot of lifting and today just could not do it.” (Id.). He requested a work excuse 
+until Monday when he could see his family provider. (Id.). He was diagnosed with acute 
+bilateral low back pain without sciatica and given a work excuse. (Id. at 193-195).  
+
+WILLIAMS V. ARCHER DANIELS MIDLAND 
+Page 11 
+ 
+Williams saw Dr. Anwar on August 22, 2022. (JE 6, pp. 165-168). Dr. Anwar diagnosed 
+him with acute right-sided low back pain, lumbar back pain with radiculopathy affecting 
+his left lower extremity, and foraminal stenosis of the lumbar region. (Id. at 167). Dr. Anwar 
+advised him to increase his use of Celebrex and prescribed a seven-day dose of 
+prednisone. (Id. at 168). Williams requested a note taking him off work for the week. (Id.).  
+It was provided. (Id.).   
+ 
+ 
+On September 6, 2022, Dr. Morrissey performed another radiofrequency ablation 
+of Williams’ medial branch nerves at L4 and L5. (JE 4, pp. 118-121). Williams also had a 
+follow-up visit with Dr. Anwar on that date. (JE 7, p. 169). Dr. Anwar returned him back to 
+work with restrictions of no repeated lifting or bending and avoid lifting more than 20 
+pounds for the next two weeks. (Id. at 173).   
+ 
+ 
+On October 13, 2022, Williams presented to the St. Luke’s ER with worsening low 
+back pain, which had radiated to his left thigh and lateral leg for the past two days.7 (JE 
+2, p. 44). He was having trouble walking secondary to pain. (Id.). Williams was diagnosed 
+with lumbar back pain with radiculopathy affecting his left lower extremity and admitted to 
+the hospital. (Id. at 47). His intake paperwork notes he had experienced some trauma to 
+the low back about a year ago and was diagnosed with some bulging discs, but “thinks 
+this is different from then.” (Id. at 48). He reported tingling and pain in his lower legs with 
+movement. (Id. at 50). A new MRI was obtained. (Id. at 52-53). It showed relatively mild 
+multilevel lumbar spondylosis, mild to moderate spondylosis at L4-L5, and multilevel disc 
+bulge/shallow central disc protrusions. (Id.). There was no significant spinal canal or 
+foraminal narrowing. (Id.).  Williams was given several rounds of Dilaudid and Valium. (Id. 
+at 50).  His pain did not improve. (Id.). He was evaluated by Stanley Mathew, M.D., a pain 
+management physician. (Id.). Dr. Mathew started him on a Medrol dose pack, 
+methocarbamol, and tramadol. (Id.).  He was also sent to physical therapy. (Id.).  Williams 
+has a history of kidney stones, so CT scans of his abdomen and pelvis were taken. (Id.).  
+They were normal. (Id.). His pain improved. (Id.). He was discharged from the hospital on 
+October 15, 2022, with restrictions of no lifting more than 5 pounds and take frequent rest 
+breaks.8 (Id.). He was instructed to follow-up with CRS Physical Medicine and 
+Rehabilitation (CRS) in two weeks. (Id. at 50).    
+ 
+ 
+On November 4, 2022, Williams was evaluated by Jennifer Driscoll, ARNP, at 
+CRS. (JE 5, p. 127). He was still experiencing back pain with bending and twisting. (Id. at 
+129). He also noticed left leg weakness when walking longer distances. (Id.).  Williams 
+reported that he worked at a warehouse with “a lot of lifting, twisting and bending,” and 
+he felt “unable to return to work as any type of twisting or bending at home will flare-up 
+his pain.” (Id.). Nurse Driscoll diagnosed him with lumbar spondylosis, chronic bilateral 
+low back pain with left-sided sciatica, and protrusion of the lumbar intervertebral disc. (Id. 
+at 132). She recommended he continue using his pain medications. (Id.). She also 
+suggested a trial of Lyrica, a referral to Clark and Associates for a lumbar spine orthosis 
+                                                 
+7 This note indicates that Williams was also receiving treatment for chronic fatigue, migraines, 
+nocturia, hepatomegaly, and morbid obesity. (JE 2, p. 54). 
+8 The ER note states that Williams works in a warehouse where he is required to perform heavy 
+lifting. (JE 2, p. 50).  
+
+WILLIAMS V. ARCHER DANIELS MIDLAND 
+Page 12 
+ 
+evaluation, and another injection. (Id. at 130-132). She provided Williams with a note 
+taking him off work until November 18, 2022. (Id. at 134). Williams had a follow-up visit 
+with Nurse Driscoll on November 18, 2022. (Id. at 135-137). His back pain had improved, 
+and he was no longer having shooting pain down his leg. (Id. at 137). Williams requested 
+a note returning him to work. (Id.). Nurse Driscoll returned him to work three days a week 
+working four-hour shifts. (Id. at 137-141). She also gave him restrictions of not lifting 
+greater than 10 pounds, no twisting or bending at the waist, and no sitting or standing for 
+longer than 30 minutes at a time. (Id. at 141).   
+ 
+ 
+On November 30, 2022, Dr. Morrissey performed another lumbar epidural steroid 
+injection. (JE 4, p. 122). Williams had a follow-up appointment with Nurse Driscoll on 
+December 7, 2022. (JE 5, p. 142). Williams indicated that the treatments she and Dr. 
+Morrissey provided had “been helping to control his back pain,” and he was “no longer 
+having the shooting leg pains as he was prior.” (Id.). Williams thought he could increase 
+his work hours to five days a week with four-hour shifts. (Id.). Nurse Driscoll provided him 
+with a new work note increasing his permissible work hours as requested. (Id. at 145).  
+She maintained the same physical restrictions she had given on November 18, 2022. 
+(Id.). This is the last treatment note in the record prior to the hearing date. (Id.). The note 
+indicates that Williams was to return to her office on January 4, 2023 to reevaluate his 
+symptoms and see how he is tolerating work. (Id.).  
+ 
+ 
+At the behest of his attorney, Williams attended an independent medical exam 
+(IME) with Farid Manshadi, M.D. on October 20, 2022. (Cl Ex. 1, p. 12). His report was 
+issued on November 7, 2022. (Id.). Prior to the examination, Dr. Manshadi reviewed 
+medical records from Williams’ prior right shoulder injury, his 2015 lumbar MRI, and his 
+post-injury-date treatment records. (Id. at 12-15). Dr. Manshadi diagnosed Williams with 
+lumbosacral radiculopathy, most likely at L4-L5, resulting in reduced sensation along the 
+left L4 dermatome, as well as reduced lumbar range of motion. (Id. at 17). He opined that 
+the fall at ADM in May 2020 materially aggravated his pre-existing back condition and 
+was a substantial contributing factor in producing his current left-sided low back pain and 
+L4-L5 radiculopathy. (Id.). Williams told Dr. Manshadi that he had never experienced left-
+sided leg pain before the fall. (Id.). Dr. Manshadi recommended continued physical 
+therapy and injections for his pain complaints. (Id. at 17). He also suggested an evaluation 
+to see if decompression surgery was warranted. (Id.). Dr. Manshadi stated Williams was 
+at maximum medical improvement (MMI) for his back injury, if he chose not to pursue 
+further treatment, but he did not provide an actual MMI date. (Id.). He stated Williams fell 
+under DRE Lumbar Category 2 and assigned him 8 percent permanent impairment to the 
+whole body, citing to Table 15-3 of the AMA Guides to the Evaluation of Permanent 
+Impairment, Fifth Edition. (Id.). Dr. Manshadi recommended restrictions of avoiding any 
+activities which require bending, stooping, or twisting at the waist, and no lifting more than 
+20 pounds (Id.).   
+ 
+ 
+At the request of defendants, Williams underwent a second IME with Jonathon 
+Fields, M.D. on November 10, 2022. (Ex. H, p. 28). Prior to the examination, Dr. Fields 
+reviewed medical records for Williams’ prior right shoulder injury, his pre-injury lumbar 
+treatment, his 2015 lumbar MRI, his post-injury lumbar treatment records, and Dr. 
+
+WILLIAMS V. ARCHER DANIELS MIDLAND 
+Page 13 
+ 
+Manshadi’s IME report. (Id. at 29). Dr. Fields diagnosed Williams with chronic 
+degenerative lumbar spondylosis that pre-existed the May 2020 fall at ADM. (Id. at 34). 
+He also diagnosed him with a minor coccyx contusion as a result of the fall on May 21, 
+2020, which temporarily exacerbated his chronic symptomatology. (Id.). However, Dr. 
+Fields opined that these conditions were not causally related to Williams’ work at ADM 
+because he was off work and playing on his cell phone when he fell. (Id.). According to 
+Dr. Fields, the fall did not cause any material or permanent aggravation of Williams’ pre-
+existing back condition, and his current complaints are related to his chronic condition, 
+not the fall at work. (Id.). As support for this assertion, Dr. Fields points to Williams’ 
+multiple post-injury MRIs, which do not show any acute changes from his 2015 lumbar 
+MRI. (Id.). Dr. Fields placed Williams at MMI on June 21, 2020, for the coccyx contusion. 
+(Id. at 35). Dr. Fields noted that under the AMA Guides Fifth Edition, ambiguous or 
+controversial pain is considered unratable. (Id.). Dr. Fields did not assign him any 
+permanent impairment or suggest work restrictions for the May 2020 fall.9  
+ 
+CONCLUSIONS OF LAW 
+ 
+The party who would suffer loss if an issue were not established ordinarily has the 
+burden of proving that issue by a preponderance of the evidence. Iowa R. App. P. 
+6.904(3)(e). 
+ 
+Defendants assert a notice defense. Iowa Code section 85.23 requires an 
+employee to give notice of the occurrence of an injury to the employer within 90 days from 
+the date of the occurrence, unless the employer has actual knowledge of the occurrence.  
+The purpose of the 90-day notice or actual knowledge requirement is to give the employer 
+an opportunity to timely investigate the facts surrounding the injury. The actual knowledge 
+alternative to notice is met when the employer, as a reasonably conscientious manager, 
+is alerted to the possibility of a potential compensation claim through information which 
+makes the employer aware that the injury occurred and that it may be work related. 
+Dillinger v. City of Sioux City, 368 N.W.2d 176 (Iowa 1985); Robinson v. Dep't of Transp., 
+296 N.W.2d 809 (Iowa 1980). The time period for giving notice does not begin to run until 
+the claimant, as a reasonable person, should recognize the nature, seriousness and 
+probable compensable character of the injury. The reasonableness of claimant's conduct 
+is to be judged in light of claimant's education and intelligence. Claimant must know 
+enough about the condition or incident to realize that it is both serious and work 
+connected. Positive medical information is unnecessary if information from any source 
+give notice of the condition's probable compensability. Robinson, 296 N.W.2d at 812.  
+Failure to give notice is an affirmative defense which the employer must prove by a 
+preponderance of the evidence. DeLong v. Highway Comm'n, 229 Iowa 700, 295 N.W. 
+91 (1940). 
+ 
+ 
+Above, I found that ADM did not have actual knowledge of Williams’ May 21, 2020 
+fall until October 1, 2020, the day he reported it to Tyler Albert and Dean Petroff.  
+                                                 
+9 In November 2022, claimant’s counsel asked Dr. Manshadi to review an additional pre-injury 
+record and Dr. Field’s IME report. (Cl Ex. 1, p. 31). After reviewing the documents, he did not change his 
+opinion. (Id. at 32).   
+
+WILLIAMS V. ARCHER DANIELS MIDLAND 
+Page 14 
+ 
+However, under the law, the 90 days does not begin to run until Williams recognized the 
+nature, seriousness, and compensability of the injury. See Robinson, 296 N.W.2d at 812.  
+Williams returned to full duty work the day after the incident, and he did not seek any 
+treatment for his low back until July 24, 2020. Under these facts, this is the earliest date 
+Williams could be credited with understanding the nature and seriousness of his low back 
+condition. July 24, 2020 to October 1, 2020, is a period of 69 days. Williams reported the 
+injury to ADM within 90 days of the “occurrence” under the law. Defendants have failed 
+to prove their notice defense.   
+ 
+ 
+The next issue that must be addressed is whether Williams sustained an injury that 
+arose out of and in the course of his employment with ADM on May 21, 2020. In his brief, 
+Williams argues that his fall in the ADM locker room “is a work injury as long as it was on 
+employer premises.”10 (Claimant’s post-hearing brief, p. 15). In their brief, defendants 
+argue his low back injury did not arise out of and in the course of his employment as he 
+was off the clock and fell to the floor because he was distracted and looking at his 
+personal cell phone. (Defendants’ post-hearing brief, p. 36). Defendants argue that under 
+these facts, there was no hazard or circumstance of the work environment that caused 
+him to fall. (Id.).   
+ 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the alleged injury occurred and that it both arose out of and in the course of the 
+employment.  Quaker Oats Co. v. Ciha, 552 N.W.2d 143 (Iowa 1996); Miedema v. Dial 
+Corp., 551 N.W.2d 309 (Iowa 1996). The words “arising out of” refer to the cause or 
+source of the injury. The words “in the course of” refer to the time, place, and 
+circumstances of the injury.  2800 Corp. v. Fernandez, 528 N.W.2d 124 (Iowa 1995). An 
+injury arises out of the employment when a causal relationship exists between the injury 
+and the employment. Miedema, 551 N.W.2d 309. The injury must be a rational 
+consequence of a hazard connected with the employment and not merely incidental to 
+the employment. Koehler Electric v. Wills, 608 N.W.2d 1 (Iowa 2000); Miedema, 551 
+N.W.2d 309. An injury occurs “in the course of” employment when it happens within a 
+period of employment at a place where the employee reasonably may be when 
+performing employment duties and while the employee is fulfilling those duties or doing 
+an activity incidental to them. Ciha, 552 N.W.2d 143. 
+ 
+An employer should expect a worker to be at the workplace at times during non-
+work hours. Consequently, being present at the workplace at such times is incidental to 
+employment. See, e.g., Suljevic v. Dudden Farms, Inc., File No. 5031167, 2010 WL 
+5383984 (Arb. Decision, Dec. 23, 2010). At the time of the injury in this case, Williams 
+was clocked out, but still in the locker room at ADM. Generally, injuries occurring while a 
+                                                 
+10 In Lakeside Casino v. Blue, the Iowa Supreme Court expressly rejected the “positional-risk” 
+doctrine. 743 N.W.2d 169, 177 (Iowa 2007). Under the positional-risk doctrine, injuries are compensable 
+“in situations where ‘the only connection of the employment with the injury is that its obligations placed the 
+employee in the particular place at the particular time’ when the employee ‘was injured by some neutral 
+force, meaning by “neutral” neither personal to the claimant nor distinctly associated with the employment.’ 
+” Ottumwa Reg. Health Ctr. v. Mitchell, 752 N.W.2d 35, 2008 WL 1699806 at *3 (Iowa Ct. App. 2008) (table) 
+(citations omitted). 
+
+WILLIAMS V. ARCHER DANIELS MIDLAND 
+Page 15 
+ 
+worker is going to and from work off an employer’s premises are not compensable. Otto 
+v. Independent Sch. Dist., 237 Iowa 991, 994; 23 N.W.2d 915, 916 (1946). However, 
+injuries on an employer’s premises at or near employment hours are almost always 
+compensable. See 15 Iowa Practice Series, Workers’ Compensation § 6:2 (2019). It 
+appears Williams’ injury occurred in the course of his employment. The harder question 
+is whether his injury arose out of his employment with ADM.   
+ 
+The first step in this analysis is to determine whether Williams’ fall was idiopathic, 
+unexplained, or explained by a condition existing in the workplace. See Lapcheske v. Polk 
+County, File No. 5055505, 2019 WL 7759785 (Appeal Decision, Nov. 6, 2019). Above, I 
+found Williams was looking at his cell phone and attempted to sit down without looking, 
+missed the bench, and fell to the ground. This finding is supported by the witness 
+statements, and the explanations provided in Williams’ medical treatment records. Given 
+this fact pattern, Williams’ fall does not appear to fit neatly into any of these categories.  
+It is not idiopathic.11 Nor can it be explained by any specific hazardous condition at ADM.  
+Williams’ employment at ADM did not subject him to the risk of falling on a level floor in 
+the locker room. His distraction with his cell phone subjected him to that risk. This is a 
+reason personal to him and unrelated to his employment. It appears Williams fell on a 
+concrete floor. However, nothing in the record indicates the floor of the locker room 
+presented a specific hazard to Williams. Unlike in Lapcheske, the hearing record does 
+not contain any factual evidence about the hardness of the floor he fell upon, nor does it 
+contain any medical opinions indicating that it was the floor material specifically that 
+caused his injury. Given this, there is insufficient evidence that Williams’ fall can be 
+explained by a hazard or condition of his workplace.  
+ 
+The greater weight of the evidence suggests he fell due to inattention, making 
+unexplained the most appropriate category in which to analyze this claim. Prior to July 
+2019, claimants with unexplained falls could satisfy their burden to prove an injury arising 
+out of employment under the “actual risk” rule. Bluml v. Dee Jay’s Inc., 920 N.W.2d 82, 
+91 n.1 (Iowa 2018). Under the actual-risk rule, the claimant must show “ ‘the employment 
+subjected [the] claimant to the actual risk that caused the injury.’ ” Lakeside Casino v. 
+Blue, 920 N.W.2d 169, 176 (Iowa 2007) (quoting 1 Arthur Larson & Lex K. Larson, 
+Larson’s Workers’ Compensation Law § 3.04, at 3-5 (2007)). More specifically, under the 
+actual-risk doctrine, the injury must result from a condition, risk, or hazard of employment. 
+Id. at 178; see also Hanson v. Reichelt, 452 N.W.2d 164, 168 (Iowa 1990) (“If the nature 
+of the employment exposes the employee to the risk of such an injury, the employee 
+suffers an accidental injury arising out of and during the course of the employment.”). In 
+this case, Williams was injured because he got distracted by his cell phone and fell on the 
+floor; there is insufficient evidence in the record that his injury resulted from a risk of his 
+employment.  
+ 
+                                                 
+11 An idiopathic fall is defined as “a fall due to the employee’s personal condition.”  Bluml v. Dee 
+Jay’s Inc., 920 N.W.2d 82, 86 (Iowa 2018).   
+ 
+
+WILLIAMS V. ARCHER DANIELS MIDLAND 
+Page 16 
+ 
+Additionally, in July of 2019, the legislature amended Iowa Code section 
+85.61(7)(c) to include the following paragraph, “Personal injuries due to idiopathic or 
+unexplained falls from a level surface onto the same level surface do not arise out of and 
+in the course of employment and are not compensable under this chapter.” Iowa Code 
+Section 85.61(7)(c) (2019).12 Williams’ alleged date of injury is May 21, 2020, and he 
+suffered an unexplained fall from a level surface onto the same level surface. Accordingly, 
+under the language of the revised statute, his claim is not compensable. Williams has not 
+proven that his low back injury arose out of his employment with ADM.13 Claimant shall 
+take nothing from these proceedings.  
+ 
+Williams is seeking reimbursement for his IME with Dr. Manshadi. A claimant’s 
+right to reimbursement for an IME exam is controlled by Iowa Code section 85.39. This 
+section permits an employee to be reimbursed for a subsequent examination by a 
+physician of the employee’s choice where an employer-retained physician has previously 
+evaluated “permanent disability” and the employee believes that the initial evaluation is 
+too low. Iowa Code section 85.39(2)(2019). However, this right to reimbursement is also 
+dependent upon the claimant’s success at hearing. Iowa Code section 85.39(2), states, 
+ 
+An employer is only liable to reimburse an employee for the cost of an 
+examination conducted pursuant to this subsection if the injury for which the 
+employee is being examined is determined to be compensable under this 
+chapter or chapter 85A or 85B. An employer is not liable for the cost of such 
+an examination if the injury for which the employee is being examined is 
+determined not to be a compensable injury. 
+Id.  
+ 
+Defendants are not liable for this claim. Williams has not established the 
+prerequisites for reimbursement of Dr. Manshadi’s evaluation pursuant to Iowa Code 
+section 85.39. 
+ 
+                                                 
+12 According to the Iowa Practice Series,  
+ 
+In 2018, the Iowa Supreme Court clarified that the actual-risk rule adopted 
+in Lakeside did not overturn the “Increased Risk Standard,” which is applicable for 
+idiopathic falls in the work place. In Bluml v. Dee Jay's Inc., the Iowa Supreme 
+Court held that an idiopathic fall may be compensable if the condition of the 
+employment “increased the risk of injury” and that is a question of fact, not a 
+question of law. 
+In response to Bluml, in 2019, the Iowa legislature amended Iowa Code section 
+85.61 to state that “personal injuries due to idiopathic or unexplained falls from a 
+level surface onto the same level surface do not arise out of and in the course of 
+employment and are not compensable under [Chapter 85].” 
+§ 54:10. Arising out of and in the course of employment, 3 Ia. Prac., Methods of Practice § 54:10. 
+13 The undersigned recognizes that the statute also refers to “in the course of employment,” but 
+Williams was clearly in the ADM locker room immediately after his shift when the incident occurred.  
+
+WILLIAMS V. ARCHER DANIELS MIDLAND 
+Page 17 
+ 
+Williams also asserts a claim for costs. Specifically, Williams seeks costs for Dr. 
+Manshadi’s supplemental report, his filing fee, and his deposition transcript. (Cl Ex. 6, p. 
+54). Williams failed to prove a compensable claim; therefore, I conclude that none of his 
+costs should be assessed. Defendants are also asserting a claim for costs. They are 
+seeking the cost of Dr. Field’s IME. (Ex. N). The compensability of this case was a close 
+call that required careful legal analysis. Given this, I decline to award defendants costs 
+and conclude that each party should bear its own costs.  
+ 
+ORDER 
+ 
+THEREFORE, IT IS ORDERED: 
+ 
+Claimant shall take nothing from these proceedings.   
+ 
+Each party shall bear their own costs. 
+ 
+Signed and filed this    28th    day of June, 2023. 
+ 
+ 
+ 
+_________________________ 
+ 
+         AMANDA R. RUTHERFORD 
+              DEPUTY WORKERS’  
+    COMPENSATION COMMISSIONER 
+ 
+The parties have been served as follows: 
+ 
+Andrew Giller (via WCES) 
+ 
+Peter Thill (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days from 
+the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code. The notice of appeal must be filed 
+via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission by the 
+Division of Workers’ Compensation to file documents in paper form. If such permission has been granted, the notice of 
+appeal must be filed at the following address:  Workers’ Compensation Commissioner, Iowa Division of Workers’ 
+Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836. The notice of appeal must be received by the 
+Division of Workers’ Compensation within 20 days from the date of the decision. The appeal period will be extended to 
+the next business day if the last day to appeal falls on a weekend or legal holiday. 
+ 
+ 
+ 
+ 

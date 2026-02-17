@@ -1,0 +1,315 @@
+Case Number: 23002166.01
+Case Title:  TERRY, SKYLER V. SECOND INJURY FUND OF IOWA
+Doc Type:    Decision - District Court
+Source:      05771__CVCV069222_ORDI_15556670 TERRY ruling on petition for judicial review.PDF
+========================================================================
+
+ 
+ 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+SKYLER TERRY, 
+ 
+     Petitioner, 
+ 
+vs. 
+ 
+SECOND INJURY FUND OF IOWA, 
+ 
+     Respondent. 
+ 
+ 
+ 
+Case No. CVCV069222 
+ 
+ 
+RULING ON PETITION FOR  
+JUDICIAL REVIEW 
+ 
+On October 31, 2025, the above-captioned matter came before the court for hearing. 
+Petitioner Skyler Terry was represented by attorney Corey Walker. Adrienne Williamson 
+represented respondent Second Injury Fund (the Fund).   
+I. 
+BACKGROUND FACTS. 
+Terry sustained a work-related injury to his arm in 2022. D0005, Certified R. Part 1 at 102 
+(06/03/2025). He filed a workers’ compensation claim against his employer and reached a 
+settlement agreement regarding that injury with his employer prior to hearing. Id. at 101. However, 
+he also claimed that arm injury was a second injury that qualified for liability from the Fund. The 
+hearing before the Workers’ Compensation Commission was limited to the Fund’s potential 
+liability. Id. 
+Terry claimed that his prior injury was to eyes. Terry has had ongoing issues with his eyes 
+since he was a child, including “vision diplopia (double vision), alternating exotropia (lazy eye), 
+dry eye syndrome, astigmatism, and blurry vision.” Id. He has had several eye surgeries to attempt 
+to address these problems, but his issues with blurred and double vision have persisted. Id. About 
+two or three times per week, Terry would have to stop working to apply artificial tears to correct 
+his blurred or double vision. Id. at 102-03. At his most recent eye appointment in August 2023, 
+Terry reported “cloudy spots in the center of [his] vision” that disappeared with artificial tears. Id. 
+E-FILED                    CVCV069222 - 2025 DEC 15 02:50 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 10
+ELECTRONICALLY FILED     2025-Dec-17  10:37:28     DIVISION OF WORKERS' COMPENSATION
+
+2 
+ 
+at 103. He also reported some double vision but noted that this condition had been stable for years 
+and did not appear to be worsening. Id. The exam found that Terry had best corrected vision of 
+20/20 in both eyes. Id. 
+The parties presented conflicting expert testimony regarding the existence of any 
+impairment to Terry’s vision. Dr. John Kuhnlein conducted an in-person independent medical 
+examination of Terry on February 28, 2024. Id. He noted “mild left eye exotropia” and conducted 
+tests of Terry’s distant and near vision. D0004, Certified R. Part 3 at 17 (06/03/2025). These tests 
+“showed binocular vision distant vision corrected to 20/30 OU, 20/30 OD, and 20/35 OS near 
+vision corrected to 20/30 OU, 20/30 OD, and 20/40 OS.”1 Id. Based on these measurements alone, 
+Terry would have had a 0% permanent impairment rating for his eyes. Id. at 21. Dr. Kuhnlein felt 
+this score was inappropriate given Terry’s “significant issues with exotropia causing diplopia, with 
+multiple surgical attempts to address this problem in the past.” Id. Citing the rules regarding 
+individual adjustments for visual problems unrelated to acuity or field loss, Dr. Kuhnlein assigned 
+a 5% impairment rating for each eye. Id. (citing Am. Med. Ass’n, Guides to the Evaluation of 
+Permanent Impairment § 12.4b (5th ed.) (hereinafter, “the Guides”)). 
+Counsel for the Fund asked ophthalmologist Dr. Mark Wilkinson to review Dr. Kuhnlein’s 
+report and Terry’s medical history. Id. at 32. Dr. Wilkinson disagreed with Dr. Kuhnlein’s methods 
+and conclusions. For example, the Guides require visual acuity tests be conducted with the 
+examinee’s best corrected vision. Dr. Wilkinson added that Dr. Kuhnlein’s CV did not indicate 
+the requisite expertise to reliably conduct a visual exam, stating: 
+Based on Dr. Kuhnlein’s medical training, he would have skills in assessing basic 
+ocular health status and treat[ing] some eye infections. However, because Dr. 
+Kuhnlein is not an ophthalmologist or optometrist, he does not have the requisite 
+knowledge, experience, training, licensure and/or certificate to determine if there is 
+                                                          
+1 In ophthalmology, “OD” refers to the right eye, “OS” refers to the left eye, and “OU” refers to the use of both eyes. 
+9 Attorneys Medical Advisor § 105:4, Terminology—Abbreviations and symbols. 
+E-FILED                    CVCV069222 - 2025 DEC 15 02:50 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 10
+
+3 
+ 
+a refractive error (need for a glasses RX or RX change) to establish what a person’s 
+best corrected vision is. 
+ 
+Id. at 33. Dr. Wilkinson noted that Dr. Kuhnlein’s measurements were noticeably worse than the 
+20/20 vision Terry had exhibited with correction just a few months prior. Id. Finally, Dr. Wilkinson 
+opined that based on the Guides, Terry had 0% impairment. Id. In discussing the adjustments made 
+by Dr. Kuhnlein, he added: 
+Dr. Kuhnlein mentioned on page 16 of his report that he had added 10 points to Mr. 
+Terry’s impairment rating for rectus abnormalities that cause exotropia and diplopia 
+per the individual adjustment section of the Guides on page 297. I believe Dr. 
+Kuhnlein misapplied the individual adjustment section of the Guides (12.4b), 
+because this section states it should only be used if “significant factors remain that 
+affect functional vision” and “the need for this adjustment must be well 
+documented.” At Mr. Terry’s 5/11/21 visit at the Wolfe Clinic, he noted “no 
+diplopia.” At his visit on 4/4/23, he stated he has “occasional side by side double 
+vision for years, stable, not worsening.” Based on these comments, it does not 
+appear that Mr. Terry has any functional limitations from his long-standing rectus 
+abnormalities. 
+ 
+Id.  
+ 
+The Deputy Commissioner found Dr. Wilkinson to be more credible given his more 
+specific expertise and found that Terry therefore had not proven a first injury that would qualify 
+him for benefits from the Fund. D0005 at 105-06. Following an appeal to the Commissioner, the 
+opinion was affirmed in its entirety. Id. at 22-23. Terry now appeals this decision. 
+II. 
+STANDARD OF REVIEW. 
+ 
+The Iowa Administrative Procedure Act, Iowa Code chapter 17A, governs the scope of the 
+Court’s review in workers’ compensation cases. Iowa Code § 10A.322(1); Meyer v. IBP, Inc., 710 
+N.W.2d 213, 218 (Iowa 2006). A party challenging agency action bears the burden of 
+demonstrating the action’s invalidity and resulting prejudice. Iowa Code § 17A.19(8)(a). The 
+district court acts in an appellate capacity to correct errors of law on the part of the agency. 
+Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002). Where the issue is one of 
+E-FILED                    CVCV069222 - 2025 DEC 15 02:50 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 10
+
+4 
+ 
+fact, the court must accept the agency’s factual findings unless they are “not supported by 
+substantial evidence in the record before the court when that record is viewed as a whole.” Iowa 
+Code § 17A.19(10)(f); see also Mycogen Seeds v. Sands, 686 N.W.2d 457, 464-465 (Iowa 2004). 
+Where the issue is the application of law to facts, the court must determine if the agency’s decision 
+is “irrational, illogical, or wholly unjustifiable” with its analysis. Iowa Code § 17A.19(10)(m). 
+III. 
+ANALYSIS. 
+Terry claims he is entitled to benefits under the Second Injury Compensation Act, codified 
+at Iowa Code section 85.64. Iowa courts have boiled this section down into three elements that a 
+claimant must demonstrate in order to claim Fund benefits: 1) loss of the use of a hand, arm, foot, 
+or eye; 2) a later loss of use of another “member or organ in a work-related, compensable injury”; 
+and 3) “some permanent injury from the injuries.” Second Inj. Fund of Iowa v. Bergeson, 526 
+N.W.2d 543, 548 (Iowa 1995). 
+Terry argues that the agency was incorrect in concluding that he did not suffer a qualifying 
+first injury to his eye. He states that the Deputy Commissioner should not have rejected Dr. 
+Kuhnlein’s impairment rating. In the alternative, he claims that an impairment rating is not 
+necessary to establish a qualifying first injury. 
+A. Is the finding of no impairment rating supported by substantial evidence? 
+As the fact finder, the agency decides how much weight to give an expert’s opinion by 
+evaluating the accuracy of the facts presented to the expert and considering other relevant 
+circumstances. Sherman v. Pella Corp., 576 N.W.2d 312, 321 (Iowa 1998). Based on these 
+considerations, the agency may reject or accept expert evidence entirely or in part. Cedar Rapids 
+Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 850 (Iowa 2011). On findings regarding permanent 
+disability, this court can only reverse if the agency’s decision is not supported by substantial 
+E-FILED                    CVCV069222 - 2025 DEC 15 02:50 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 10
+
+5 
+ 
+evidence. See Hill v. Fleetguard, Inc., 705 N.W.2d 665, 673 (Iowa 2005). When evaluating if there 
+is substantial evidence, “the question on appeal is not whether the evidence supports a different 
+finding than the finding made by the commissioner, but whether the evidence ‘supports the 
+findings actually made.’” Meyer, 710 N.W.2d at 218 (quoting St. Luke's Hosp. v. Gray, 604 
+N.W.2d 646, 649 (Iowa 2000)). 
+The Deputy Commissioner explained why they did not find Dr. Kuhnlein as credible as 
+Dr. Wilkinson, stating “an optometrist is better qualified to address issues of the eye than an 
+occupational physician.” D0005 at 105. As Dr. Wilkinson noted, visual acuity under the Guides 
+must be measured after assessing for any refractive error in the patient’s current vision, meaning 
+a determination of the prescription lenses they should be wearing. There is no indication that this 
+occurred during Dr. Kuhnlein’s tests, and Dr. Wilkinson suggested that Dr. Kuhnlein would not 
+have the necessary expertise to do so. The Deputy Commissioner also agreed with Dr. Wilkinson 
+that there were not well-documented limitations to Terry’s functional vision that would necessitate 
+an adjustment under section 12.4b of the Guides. Taking all of these findings together, there is 
+substantial evidence to support the agency’s decision that Terry failed to prove that he had a 
+permanent impairment under the Guides prior to his work injury. 
+B. Does an injury need an impairment rating to qualify as a first injury? 
+Terry argues that even if he has a no permanent impairment under the Guides, he has still 
+demonstrated a qualifying first injury. He points to precedent at both the agency and appellate 
+level. The problem, as the Fund points out, is that Iowa’s worker’s compensation statute was 
+extensively amended in 2017. This includes the addition of the following language: 
+In all cases of permanent partial disability . . . when determining functional 
+disability and not loss of earning capacity, the extent of loss or percentage of 
+permanent impairment shall be determined solely by utilizing the guides to the 
+evaluation of permanent impairment, published by the American medical 
+E-FILED                    CVCV069222 - 2025 DEC 15 02:50 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 10
+
+6 
+ 
+association, as adopted by the workers' compensation commissioner by rule 
+pursuant to chapter 17A. Lay testimony or agency expertise shall not be utilized in 
+determining loss or percentage of permanent impairment . . . when determining 
+functional disability and not loss of earning capacity. 
+ 
+2017 Iowa Acts ch. 23, § 9 (now codified at Iowa Code § 85.34(2)(x)). The cases that Terry cites 
+in support of his position that no impairment rating is required for a qualifying first injury are all 
+from before this addition. The Fund argues that both the first and second loss require a finding of 
+function impairment consistent with section 85.34(2)(x). Terry counters that the language of 
+section 85.34(2)(x) should not affect his claim, because it is in a different section of code from the 
+one describing Fund liability, section 85.64.  
+When interpreting Iowa’s workers’ compensation law, courts should “assess the statute in 
+its entirety rather than isolated words or phrases to ensure our interpretation is harmonious with 
+the statute as a whole.” Ramirez-Trujillo v. Quality Egg, L.L.C., 878 N.W.2d 759, 770 (Iowa 2016). 
+The Iowa Court of Appeals recently observed that the issue of what is a scheduled injury has been 
+treated the same under the exact subsections that Terry cites, 85.34(2) and 85.64(1). Laguerre v. 
+JBS USA Holdings, Inc., No. 24-2049, 2025 WL 3023022, at *6 (Iowa Ct. App. Oct. 29, 2025). 
+Subsection 85.34(3) has also been used in cases involving the Fund and a claim of permanent and 
+total disability. Second Inj. Fund of Iowa v. Shank, 516 N.W.2d 808, 814 (Iowa 1994). 
+ 
+The biggest problem with Terry’s argument is that Iowa Courts of Appeals has already 
+explicitly used section 85.34(2)(x) in a case determining Fund liability. In Harrell v. Denver 
+Findley & Sons, Inc., the issue was whether the Fund was entitled to credit for a knee replacement 
+when the only evidence of the surgery was the claimant’s own testimony. 986 N.W.2d 872 (Table), 
+2022 WL 2824746 (Iowa Ct. App. 2022). The agency had cross-referenced this testimony with the 
+Guides and used the permanent impairment rating for a knee replacement to determine the amount 
+of credit the Fund should get. Id. at *2. The Court of Appeals rejected this approach, stating that 
+E-FILED                    CVCV069222 - 2025 DEC 15 02:50 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 10
+
+7 
+ 
+“the plain language of section 85.34(2)(x)” specifically bars the use of lay testimony “‘in 
+determining loss or percentage of permanent impairment.’ And here, ‘determining loss or 
+percentage of permanent impairment’ necessarily included a determination of . . . whether he had 
+a total knee replacement or not.” Id. The Court of Appeals reviewed for correction of legal error 
+and in the end it applied section 85.34(2)(x). The Commissioner has since used the reasoning in 
+Harrell to conclude that a permanent impairment rating from the Guides is necessary to show a 
+qualifying first injury. Demers v. Second Inj. Fund, File No.: 22000216.02, 2025 WL 2451099, at 
+*2 (Aug. 19, 2025). The Court sees no reason to hold differently here. 
+ 
+The same holds true in Laguerre. In that case, the claimant argued that the court should not 
+consider an Iowa Supreme Court case (Delaney v. Second Injury Fund, 6 N.W.3d 714 (Iowa 2024)) 
+because the issue in that case was whether an injury was scheduled or unscheduled for purposes 
+of determining Second Injury Fund liability.  2025 WL 3023022 at *6.  The court stated as follows: 
+Laguerre brushes aside Delaney as “not controlling” because it analyzed whether 
+an injury was scheduled or unscheduled in the context of second-injury-fund 
+payments under section 85.64(1) rather than directly under section 85.34(2). 
+[footnote and cite omitted]. But the relevant issue is the same. Indeed, the supreme 
+court relied on cases deciding the issue under both 85.34(2) and 85.64(1) 
+interchangeably in its reasoning. . . . What's more, Laguerre has offered no reason 
+that the analysis should be any different between the two statutes. Nor do we see 
+any reason that the different context, such as the shorter list of applicable body 
+parts, would call for any difference in approach. (Emphasis added). 
+ 
+Id. 
+Terry correctly notes that ultimately the Fund’s liability is based on industrial disability 
+(i.e., loss of earning capacity) and not functional disability. Second Inj. Fund of Iowa v. Nelson, 
+544 N.W.2d 258, 269 (Iowa 1995) (“[T]he Fund is responsible only for the difference between the 
+compensation for which the current employer is liable and the total amount of industrial disability 
+from which the employee suffers, reduced by the compensable value of the first injury.”). Section 
+E-FILED                    CVCV069222 - 2025 DEC 15 02:50 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 10
+
+8 
+ 
+85.34(2)(x) does specifically state that it should only be applied “when determining functional 
+disability and not loss of earning capacity.” However, there are two issues with Terry’s conclusion 
+that this means that 85.34(2)(x) should not apply to cases involving the Fund, even aside from 
+those already discussed.  
+First, the claimant must meet the test for proving Fund liability before any calculations can 
+begin. As the Fund explains: 
+ [T]he Fund’s liability is not triggered until three things are proven. The first two 
+requirements are losses of use of a body part, i.e.[,] partial disabilities. The third 
+requirement is permanency of those losses. These three requirements make up the 
+“permanent partial disability” that is the subject of section 85.34(2)(x). The 
+agency’s evaluation of the Fund’s industrial liability does not occur until these three 
+requirements of permanent partial disability are met. Therefore, section 85.34(2)(x) 
+applies to the threshold question of whether Terry established a first qualifying loss, 
+or permanent partial disability, before the Fund’s industrial liability is triggered. 
+ 
+D0010, Resp’t’s Br. at 9-10 (10/03/2025).  
+The other issue is that, generally speaking, “[f]unctional disability is used to determine a 
+specific scheduled disability” and “industrial disability is used to determine an unscheduled 
+disability.” Shank, 516 N.W.2d at 813. All of the qualifying first injuries noted by section 85.64(1) 
+are scheduled injuries. Iowa Code § 85.34(2)(l)-(m), (o)-(q) (detailing the scheduled compensation 
+for the loss of a hand, arm, foot, leg, and eye, respectively). And while the ultimate issue for Fund 
+cases is how those losses translate to industrial disability, functional disability is a factor that must 
+be considered when determining industrial disability. Shank, 516 N.W.2d at 813. “It is the 
+cumulative effect of scheduled injuries resulting in industrial disability to the body as a whole . . . 
+that triggers the Fund's proportional liability.” Second Inj. Fund of Iowa v. Braden, 459 N.W.2d 
+467, 470 (Iowa 1990). An injury that creates no functional impairment cannot impact an 
+individual’s earning capacity. 
+Terry himself demonstrates this difficulty in his own argument. He states that “[i]n 
+E-FILED                    CVCV069222 - 2025 DEC 15 02:50 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 10
+
+9 
+ 
+determining whether there is a first qualifying loss, the Agency should determine only whether the 
+injury caused a ‘loss of physiological capacity of the body part’ and not by evaluating industrial 
+factors such as whether the worker returned to work without restrictions.”2 D0008, Pet. Br. at 5 
+(08/29/2025) (quoting Huffey v. Second Injury Fund of Iowa, 947 N.W.2d 414 (Table), 2020 WL 
+1548490, at *4 (Iowa Ct. App. 2020)). That may be true, but he later argues that an impairment 
+rating is not required to demonstrate this loss of physiological capacity. The standard cannot be 
+that a claimant can have a qualifying first injury without showing industrial disability or functional 
+disability. The best way to address these issues and harmonize these statutes is in the way that the 
+Fund suggests—requiring a finding of functional disability supported by the Guides in order to 
+establish a first qualifying injury. The agency therefore did not err in concluding that Terry had 
+not demonstrated a first qualifying injury. 
+IV. 
+DISPOSITION. 
+IT IS THE ORDER OF THE COURT that the Decision of the Workers’ Compensation 
+Commission is AFFIRMED. The Petition for Judicial Review is dismissed. 
+                                                          
+2 To this point, the Court agrees with the Fund that the agency’s discussion of Terry’s eyes impacting his work was 
+clearly an alternative analysis and not to primary basis for the decision. See D0005 at 110 (beginning the discussion 
+of industrial factors with “even if after the 2017 legislative changes an impairment rating under the Guides is not 
+required to prove a first qualifying loss . . .”). 
+E-FILED                    CVCV069222 - 2025 DEC 15 02:50 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 10
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV069222
+SKYLER TERRY VS SECOND INJURY FUND OF IOWA
+Type:
+ORDER REGARDING DISMISSAL
+So Ordered
+Electronically signed on 2025-12-15 14:50:07
+E-FILED                    CVCV069222 - 2025 DEC 15 02:50 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 10

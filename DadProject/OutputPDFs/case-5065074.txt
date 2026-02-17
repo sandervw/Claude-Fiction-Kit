@@ -1,0 +1,199 @@
+Case Number: 5065074
+Case Title:  DICKERSON, JAMES V. JOHN DEERE DAVENPORT WKS
+Doc Type:    Decision - Court of Appeals
+Source:      Dickerson, James-5065074.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 20-0658 
+Filed April 14, 2021 
+ 
+ 
+JOHN DEERE DAVENPORT WORKS, 
+ 
+Plaintiff-Appellant, 
+ 
+vs. 
+ 
+JAMES D. DICKERSON, 
+ 
+Defendant-Appellee. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, David Nelmark, Judge. 
+ 
+ 
+An employer appeals from a district court ruling affirming the Iowa Workers’ 
+Compensation Commissioner’s denial of its affirmative defense.  AFFIRMED. 
+ 
+ 
+Troy A. Howell of Lane & Waterman LLP, Davenport, for appellant. 
+ 
+Andrew W. Bribriesco, Bettendorf, for appellee. 
+ 
+ 
+Considered by Mullins, P.J., and May and Schumacher, JJ.
+
+ 
+2
+MAY, Judge. 
+ 
+John Deere Davenport Works (Deere) appeals the district court’s ruling on 
+Deere’s petition for judicial review of an Iowa Workers’ Compensation 
+Commissioner’s appeal decision awarding benefits to James Dickerson.  We 
+affirm. 
+ 
+Deere’s appeal focuses on the term “injury” in Iowa Code section 85.23 
+(2016).1  Section 85.232 provides: 
+Unless the employer or the employer’s representative shall 
+have actual knowledge of the occurrence of an injury received within 
+ninety days from the date of the occurrence of the injury, or unless 
+the employee or someone on the employee’s behalf or a dependent 
+or someone on the dependent’s behalf shall give notice thereof to 
+the employer within ninety days from the date of the occurrence of 
+the injury, no compensation shall be allowed. 
+ 
+ 
+Deere claims that because Dickerson did not provide notice of his injury 
+within ninety days, section 85.23 serves as an affirmative defense against 
+Dickerson’s claim for benefits.  Deere notes the report Dickerson completed, 
+known as a “Near Miss Report,” only stated he “was working on an unfamiliar 
+fixture from normal daily task when [he] was moving from one weld to another on 
+[his] stool and hit [his] head on the fixture.”  Deere argues Dickerson’s statement 
+lacked any claim that he was hurt or damaged. 
+                                            
+1 We review legal interpretations of chapter 85 for errors at law.  Gumm v. Easter 
+Seal Soc’y of Iowa, Inc., 943 N.W.2d 23, 28 (Iowa 2020). 
+2 The legislature amended section 85.23, effective July 1, 2017, to add the 
+following sentence to the end of the section: “For the purposes of this section, ‘date 
+of the occurrence of the injury’ means the date that the employee knew or should 
+have known that the injury was work-related.”  See 2017 Iowa Acts ch. 23, § 3 
+(codified at Iowa Code § 85.23 (Supp. 2017)).  The parties agree this amended 
+version of section 85.23 does not apply to this case.  The district court quoted the 
+amended version of section 85.23, though both parties agree the language added 
+by the amendment did not impact the district court’s ruling. 
+
+ 
+3
+ 
+The district court aptly addressed Deere’s claim.  We see no grounds to 
+improve upon the court’s analysis.  As the court explained: 
+[T]his case comes down to a single question: Did Mr. Dickerson put 
+Deere on notice of the possibility of a workers’ compensation claim?  
+The Workers’ Compensation Commissioner believed that he did.  
+The court agrees. 
+ 
+Both parties believe that Alm v. Morris Barick Cattle Co., 38 
+N.W.2d 161 (Iowa 1949), supports their position.  The key passage 
+in Alm states: 
+Complaint is made that no notice of the precise nature 
+of claimant’s injury was given appellant within 90 days 
+as required by section 85.23, Code of Iowa, I.C.A.  It is 
+sufficient answer that the statute does not require this.  
+The form of notice suggested by section 85.24 merely 
+recites ‘personal injury was sustained,’ giving the date, 
+name and place employed and point where located 
+when injury occurred. 
+[38 N.W.2d] at 163.  Mr. Dickerson points out that “no notice of the 
+precise nature of claimant’s injury” was required.  Deere counters 
+that notice of an “injury” not just an “incident” was required.  
+Ultimately, the court finds Alm to be of little value because the notice 
+actually given in that case was not discussed. 
+ 
+Deere directs the Court to McPhee v. Eagle Iron Works, 
+No. 00-0532, 2001 WL 194776 (Iowa Ct. App. Feb. 28, 2001).  This 
+is an unpublished decision of the Iowa Court of Appeals.  It is also 
+easily distinguished.  McPhee claimed that after a verbal dispute, a 
+co-worker “attempted to run over” McPhee with his vehicle.  
+[McPhee, 2001 WL 194776,] at *1.  There was no allegation that the 
+vehicle had struck him.  More than a year later, McPhee alleged post-
+traumatic stress from the incident.  Id. at *1.  Unlike McPhee, 
+Mr. Dickerson provided notice that physical contact had occurred.  
+He “hit [his] head.” 
+ 
+Deere acknowledges that if the Near Miss Report had stated 
+Mr. Dickerson “hit his head and it hurt” rather than just that he “hit his 
+head” then the notice of injury would have been sufficient.  
+Accordingly, it is worth asking whether the Near Miss Report implied 
+that when Mr. Dickerson hit his head, it hurt. 
+ 
+Deere points out that Mr. Dickerson struck his head nearly 
+every day at work.  Mr. Dickerson did not sustain injuries each day.  
+Thus, Deere argues, announcing that he struck his head is not the 
+same as announcing that he sustained an injury.  The fact that 
+Mr. Dickerson often struck his head is a double-edged sword, 
+however.  In these incidents, except for the one at issue in this case, 
+Mr. Dickerson did not provide any notice to Deere about what 
+
+ 
+4
+happened.  Here, he submitted a Near Miss Report.  That should 
+have suggested to Deere that this incident was out of the ordinary. 
+ 
+Deere contends that submitting a Near Miss Report, as 
+opposed to some other report with an unspecified title, implies that 
+an injury was not sustained.  In other words, an injury was “nearly 
+obtained.”  The only citation in the record that Deere directs the court 
+to in support of this interpretation of a Near Miss Report comes from 
+Mr. Dickerson’s deposition testimony. 
+ 
+Q: What is a near miss report?   
+ 
+A: A near miss report at John Deere Davenport 
+Works is if—not necessarily for an accident, but almost 
+anything that has a corrective action.  It could be 
+used—It could be used multiple ways.  Say your 
+magnet that you were lifting the hoist up with broke or 
+for some reason let loose, you would file a near miss 
+report because that happened.  Us on the floor doesn’t 
+really call it a near miss.  You know, it nearly gotcha is 
+what we call it, but you could use it for multiple things, 
+like say reporting an accident, reporting truck drivers 
+not driving—not stopping at stop signs, people, you 
+know, doing things that are unsafe, so they can figure 
+out some corrective action to it. 
+[(Record citation omitted.)]  This characterization is not inconsistent 
+with how Deere describes the report, but it does not go so far as to 
+prove Deere’s point.  It appears this report could be used for many 
+different things.  Submitting one does not mean an injury occurred, 
+but it likewise does not establish an injury did not occur.  This is 
+particularly true when the incident described is not that Mr. Dickerson 
+nearly hit his head, but rather that he actually did so.  In any event, 
+given the guidance in Iowa Code § 85.24 that no “particular form” of 
+notice is required, the court does not believe the title of the document 
+providing notice should be given much weight. 
+ 
+The fact that a written report was completed, regardless of its 
+title, put Deere on notice that an incident had occurred and gave it 
+the opportunity to investigate.  “The purpose of section 85.23 is to 
+alert the employer to the possibility of a claim so that an investigation 
+of the facts can be made while the information is fresh.”  Robinson v. 
+Dep’t of Transp., 296 N.W.2d 809, 811 (Iowa 1980).  Deere was fairly 
+on notice about the possibility of a claim.  If Deere was unclear 
+whether Mr. Dickerson was injured in the incident, it could have 
+reached out to him to ask.  Deere did not do so.   
+ 
+In sum, when an employee physically strikes his head and 
+determines that the incident warrants the completion and submission 
+of a written report, an employer is fairly put on notice that the 
+employee was likely in some degree of pain.  The requirements of 
+Iowa Code § 85.23 were met. 
+ 
+
+ 
+5
+ 
+We find no grounds to reverse.  We affirm without further opinion.3  See 
+Iowa Ct. R. 21.26(1)(d). 
+ 
+AFFIRMED. 
+ 
+ 
+                                            
+3 To the extent Deere attempts to challenge the sufficiency of the evidence, its 
+claim is not preserved for our review because it did not receive a ruling on this 
+issue from the district court and it did not request a ruling on this claim through an 
+Iowa Rule of Civil Procedure 1.904(2) motion.  See Meier v. Senecaut, 641 N.W.2d 
+532, 537–38 (Iowa 2002). 

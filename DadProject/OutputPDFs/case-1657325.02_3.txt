@@ -1,0 +1,256 @@
+Case Number: 1657325.02
+Case Title:  DUNBAR, KARENJEANNE V. MENARDS, INC.
+Doc Type:    Decision - District Court
+Source:      Dunbar, Karenjeanne-1657325.02.District Court Decision.PDF
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT IN AND FOR POLK COUNTY 
+ 
+KARENJEANNE “CJ” DUNBAR, 
+ 
+ 
+Petitioner, 
+ 
+v. 
+ 
+MENARDS, INC. and GALLAGHER 
+BASSETT SERVICES, INC., 
+ 
+ 
+Respondents. 
+ 
+ 
+ 
+CVCV063514 
+ 
+ 
+ 
+ORDER ON JUDICIAL REVIEW 
+ 
+ 
+ 
+ 
+This is a petition for judicial review from a final decision of the Iowa Workers’ 
+Compensation Commission.  Hearing was held through by videoconference on 12/2/2022.  The 
+Parties appeared through counsel.   
+I. 
+PROCEDURAL POSTURE AND FACTUAL BACKGROUND. 
+Karenjeanne “CJ” Dunbar (Dunbar) sustained stipulated work-related injuries on 
+September 21, 2018 and October 5, 2018. On September 21, 2018, Dunbar was lifting a wooden 
+pallet and felt a pull in her shoulder. She reported the injury but did not require medical treatment.  
+On October 5, 2018, Dunbar was lifting a box of artificial Christmas trees and felt a tear in the 
+same shoulder. Dunbar reported the injury. Respondents did not authorize Dunbar to see a medical 
+provider other than a chiropractor initially. 
+ 
+Eventually, Dunbar was allowed to be seen in urgent care on October 19, 2018 and received 
+an MRI, which revealed tearing. Dunbar was then treated by Matthew Bollier, M.D., an orthopedic 
+surgeon at the University of Iowa Hospitals and Clinics. Dr. Bollier recommended surgery to 
+address Dunbar’s “rotator cuff tear, biceps tendon as well as the AC joint, which is a pain generator 
+on exam.” (JE 4 at 28).  He opined that the work injury was a “significant factor in current shoulder 
+findings.” (Id.). 
+E-FILED                    CVCV063514 - 2023 JAN 30 02:53 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 9
+
+2 
+ 
+ 
+Dr. Bollier performed surgery on Dunbar that included: right shoulder arthroscopy with 
+rotator cuff repair, capsular release, extensive debridement, arthroscopic biceps tenodesis, 
+subacromial decompression, and distal clavicle excision. (JE 4 at 30). Dr. Bollier placed Dunbar 
+at maximum medical improvement (MMI) as of September 20, 2019, referred her to a functional 
+capacity evaluation to determine permanent restrictions, and assigned a 5% upper extremity 
+impairment rating. (JE 4 at 52). Dr. Bollier also provided an opinion that “Ms. Dunbar’s work 
+comp case is clearly an isolated shoulder injury and not a whole body injury.” (Respondent Ex. 3-
+1). 
+ 
+Dunbar obtained an IME with Mark Taylor, M.D. Dr. Taylor found that the entire shoulder 
+surgery performed by Dr. Bollier, including the distal clavicle excision were related to the work 
+injury. Dr. Taylor assigned right upper extremity impairment of 10% related to decrements in 
+range of motion and 10% for the distal clavicle excision, which combined for a right upper 
+extremity impairment of 19%. Dr. Taylor noted that his impairment rating would convert to an 
+11% whole person impairment. He declined to provide an opinion regarding whether Dunbar’s 
+impairment fell within the statutory term of “shoulder” or extended to the body as a whole. (C 1 
+at 24-25). Instead, Dr. Taylor provided his opinion that the glenohumoral joint should be a bright 
+line dividing point between the arm and the whole person. (C 1 at 25).  Dr. Taylor noted Dunbar 
+experiences pain in multiple areas, including the mid to upper right scapula and part of the superior 
+trapezius. (C 1 at 28). 
+ 
+The Parties disputed whether the distal clavicle excision was work-related, the percentage 
+impairment, and whether the injury should be treated as a scheduled member shoulder or injury to 
+the body as a whole. The Arbitration Decision found that the entirety of Dunbar’s surgery, 
+including the distal clavicle excision, was caused by her work-related injuries and assigned Dr. 
+E-FILED                    CVCV063514 - 2023 JAN 30 02:53 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 9
+
+3 
+ 
+Taylor’s impairment rating of 19% right upper extremity. (Arb. Dec. at 5, 7). The Arbitration 
+Decision also held that the distal clavicle excision did not extend beyond the scheduled member 
+of the shoulder and, therefore, the injury should be compensated as a shoulder under section 
+85.34(2)(n). (Arb. Dec. at 6). The Arbitration Decision also held that Dunbar failed to carry her 
+burden to prove that her injury extended beyond the shoulder based on a complaint of trapezius 
+pain because no physician assigned any permanent impairment for this alleged pain. (Arb. Dec. at 
+6). The Appeal Decision affirmed the Arbitration Decision.  
+ 
+Dunbar appeals, challenging the determination that her injury should be treated as a 
+scheduled shoulder injury instead of injury to the body as a whole. 
+II. 
+ANALYSIS AND CONCLUSIONS OF LAW. 
+A. Standard of Review. 
+This Court’s review of a workers’ compensation action is governed by Iowa Code chapter 
+17A.  Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002); see Iowa Code § 
+86.26.  The commissioner’s factual determinations are “clearly vested by a provision of the law in 
+the discretion of the agency” and this Court will defer to those factual determinations if they are 
+based on “substantial evidence in the record before the court when that record is viewed as a 
+whole.”  Schutjer v. Algona Manor Care Ctr., 780 N.W.2d 549, 557 (Iowa 2010) (quoting Iowa 
+Code § 17A.19(10)(f)). 
+If a party challenges the commissioner’s ultimate conclusion, “then the challenge is to the 
+agency’s application of the law to the facts, and the question on review is whether the agency 
+abused its discretion by, for example, employing wholly irrational reasoning or ignoring important 
+and relevant evidence.”  Meyer v. IBP, 710 N.W.2d 213, 219 (Iowa 2006); Iowa Code § 
+17A.19(10)(i), (j).   
+E-FILED                    CVCV063514 - 2023 JAN 30 02:53 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 9
+
+4 
+ 
+If a challenge is to the interpretation of law, the standard of review depends upon whether 
+interpretation of the provision of law at issue has been clearly vested in the discretion of the agency.  
+Compare Iowa Code §17A.19(c) with §17A.19(l).  The Iowa Supreme Court has repeatedly found 
+the Iowa Workers’ Compensation Commission is not vested with authority to interpret Iowa’s 
+workers’ compensation statutes.  See e.g.  Ramirez-Trujillo v. Quality Egg, L.L.C., 878 N.W.2d 
+759, 769 (Iowa 2016) (finding legislature did not vest commission with authority to interpret 
+provision at issue and noting the Court has declined to defer to the commissioner’s interpretations 
+of various provisions in recent years).  Therefore, review is for correction of errors at law.  Id. at 
+768; Iowa Code §17A.19(c) (court reviews whether agency action was “based upon an erroneous 
+interpretation of a provision of law whose interpretation has not clearly been vested by a provision 
+of law in the discretion of the agency.”) 
+B. Whether Dunbar’s Injury Is Considered a Scheduled or Unscheduled 
+Injury. 
+Iowa workers’ compensation law classifies permanent partial disabilities as either 
+scheduled or unscheduled.  A scheduled disability is evaluated under the functional method, which 
+provides a schedule of benefits for injuries to specific members of the body.  Second Injury Fund  
+of Iowa v. Nelson, 544 N.W.2d 258 (Iowa 1995).  An unscheduled disability is an injury to body 
+parts other than those listed and is considered an injury to the body as a whole and evaluated 
+according to the industrial method. Id; see also Graves v. Eagle Iron Works, 331 N.W.2d 116 
+(Iowa 1983).  “It is the anatomical situs of the permanent injury or impairment which determines 
+whether the schedules in section 85.34(2)(a-t) are applied.”  Sandberg v. Rubbermaid Home Prod., 
+760 N.W.2d 210 (Iowa Ct. App. 2008).   
+In 2017, the Iowa legislature amended Iowa Code §85.34 to add “shoulder” to the list of 
+scheduled injuries.  Iowa Code section 85.34(2)(n) provides: “For the loss of a shoulder, weekly 
+E-FILED                    CVCV063514 - 2023 JAN 30 02:53 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 9
+
+5 
+ 
+compensation during four hundred weeks.”  The argument in this case surrounds whether section 
+85.34(2)(n) applies to Dunbar’s injury.   
+ 
+When the legislature amended chapter 85 to include shoulder as a scheduled member, it 
+did not include a definition. In Chavez v. MS Technology LLC, 972 N.W.2d 662 (Iowa 2022), the 
+Iowa Supreme Court held that shoulder “must be defined in the functional sense to include the 
+glenohumeral joint as well as all of the muscles, tendons, and ligaments that are essential for the 
+shoulder to function.” Id. at 668. “The functional shoulder is … not confined to the single 
+anatomical joint known as the shoulder or glenohumeral joint, but is a system which in its entirety 
+has the largest range of motion of any joint in the human body.” Id. at 669. 
+ 
+Here, the Worker’s Compensation Commission held that Dunbar failed to meet her burden 
+to demonstrate her injury extended to the body as a whole, instead of being limited to the scheduled 
+shoulder. Dunbar argues that two facts should move her injury into a body as a whole analysis. 
+First, part of the surgery included a distal clavicle excision. Second, she reports pain in her 
+trapezius. After considering both of these arguments, this Court concludes that, based on the 
+evidence in the record presented in this case, the Commission’s decision did not contain an 
+erroneous interpretation of law, was supported by substantial evidence, and was not an abuse of 
+discretion, wholly irrational, or ignorant of important and relevant evidence. Meyer v. IBP, 710 
+N.W.2d 213, 219 (Iowa 2006); Iowa Code § 17A.19(10)(i), (j).   
+ 
+“The clavicle bone, or collarbone, originates at the sternum and extends over to or near the 
+shoulder joint where the AC, or acromiclavicular, joint is found.” (C 1 at 26). As part of the 
+shoulder surgery, Dr. Bollier resected part of the clavicle on the AC side to provide adequate space 
+between the end of the clavicle and the acromion. (JE 4 at 33). The Arbitration Decision held that 
+the only portion of claimant’s clavicle that was affected was the portion that is closely 
+E-FILED                    CVCV063514 - 2023 JAN 30 02:53 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 9
+
+6 
+ 
+interconnected in location to Dunbar’s glenohumeral joint. (Arb. Dec. at 5). The decision further 
+held that the clavicle was resected to minimize impingement and intended to treat claimant’s 
+shoulder pain and function by creating additional space in the subacromial area to minimize the 
+chances of impingement and resulting pain. (Arb. Dec. at 5). 
+ 
+Dr. Taylor did not provide an opinion that the distal clavicle excision caused injury or 
+impairment that extended beyond the function of the shoulder or should be considered the body as 
+a whole. The Commission’s finding that the distal clavicle excision was performed as part of the 
+shoulder surgery and for the purpose of treating the pain and function of the shoulder is supported 
+by substantial evidence. (see JE 4-33, Dr. Bollier medical records noting “We resected distal 
+clavicle so that there was adequate space between the end of the clavicle and the acromion.”); (1-
+27, Dr. Taylor noting “These procedures allow for increased space in the subacromial area and 
+helps to minimize the chances of friction and thus pain” and then noting “Ms. Dunbar required 
+extensive debridement, including a subacromial bursectomy and decompression with 
+acromioplasty, as well as a distal clavicle excision.”). Dunbar has not provided a medical opinion 
+to demonstrate that the distal clavicle excision impacts the function of her torso, back, neck or 
+other part of her body. 
+ 
+With regard to the issue of pain in the trapezius, Dr. Taylor stated that Dunbar has 
+“continued to experience pain in multiple areas, including over the mid to upper right scapula, and 
+into parts of the superior trapezius.” (C 1 at 28).  However, Dr. Taylor did not provide any opinion 
+regarding whether this contributes to a finding of impairment either in the upper right extremity or 
+to the body as a whole. The Arbitration Decision held that the trapezius pain was not a basis for 
+finding an injury to the body as a whole because “no physician assigned any permanent impairment 
+E-FILED                    CVCV063514 - 2023 JAN 30 02:53 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 9
+
+7 
+ 
+for this alleged pain.” (Arb. Dec. at 6). Dr. Taylor’s report does not provide an opinion regarding 
+how this alleged pain would impact an impairment rating. 
+ 
+Dunbar points the Court to two agency decisions that have found a shoulder injury 
+extended beyond the shoulder and resulted in injury to the body as a whole. Each of these cases 
+involved specific expert testimony not in the record here.  In Bolinger v. Trillium Healthcare 
+Group, LLC, et al., 2021 WL 2624176, File No. 5060856 (Iowa Workers’ Comp. Com’n June 17, 
+2021), the Arbitration Decision relied on the expert Dr. Stoken’s opinion that claimant’s reverse 
+shoulder replacement surgery extended to the body as a whole. Dr. Stoken opined that the surgery 
+impacted and involved not only the muscles of the shoulder, but the muscles of the back. Id. at *5. 
+In Paric v. Des Moines Public Schools, 2022 WL 274693, File No. 1649535.01 (Iowa Workers’ 
+Comp. Com’n Jan. 24, 2022) the Arbitration Decision relied on Dr. Kuhnlein’s opinion that the 
+claimant had trapezius and neck pain related to the shoulder area injury and explained that this 
+would support that this was a whole person injury but that the impairment percentage was properly 
+included in the shoulder area pathology rating so as to avoid double-dipping. Id. at *8. 
+ 
+In this case, Dunbar did not provide a medical expert opinion that her injury extended to 
+the body as a whole.  Unlike Bolinger there was no expert opinion that her shoulder injury or 
+surgery extended to the body as a whole. Unlike Paric, there was no expert opinion explaining how 
+trapezius pain would support a whole person injury and be factored into an impairment percentage.  
+ 
+Based on the record presented in this case, the Court finds the Commission’s decision that 
+Claimant failed to meet her burden to demonstrate her shoulder injury extended into the body as a 
+whole does not contain an erroneous interpretation of law, is supported by substantial evidence, 
+and was not an abuse of discretion, wholly irrational, or ignorant of important and relevant 
+evidence.    
+E-FILED                    CVCV063514 - 2023 JAN 30 02:53 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 9
+
+8 
+ 
+IT IS HEREBY ORDERED that the Appeal Decision issued by the Workers’ 
+Compensation Commissioner in this matter is AFFIRMED.  Costs are assessed to Petitioner. 
+ 
+IT IS SO ORDERED. 
+E-FILED                    CVCV063514 - 2023 JAN 30 02:53 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 9
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV063514
+KARENJEANNE DUNBAR V MENARDS INC
+Type:
+ORDER FOR JUDGMENT
+So Ordered
+Electronically signed on 2023-01-30 14:53:05
+E-FILED                    CVCV063514 - 2023 JAN 30 02:53 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 9

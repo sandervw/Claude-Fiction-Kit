@@ -1,0 +1,398 @@
+Case Number: 5053002
+Case Title:  TILTON, TERRY V. HJ HEINZ CO
+Doc Type:    Decision - District Court
+Source:      Tilton, Terry-5053002.District Court Decision.PDF
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT IN AND FOR POLK COUNTY 
+ 
+H.J. HEINZ COMPANY, 
+ 
+Employer, 
+LIBERTY MUTUAL INS. CO. 
+Insurance Carrier,  
+Collectively, Petitioners, 
+vs. 
+TERRY TILTON, 
+ 
+               Respondent. 
+ 
+ 
+ 
+Case No. CVCV065802 
+ 
+ 
+RULING ON PETITION FOR  
+JUDICIAL REVIEW 
+ 
+ 
+On December 1, 2023, the Court held a hearing on Petitioners’ H.J. Heinz Company 
+(Petitioner Heinz) and Liberty Mutual Ins. Co.’s (Petitioner Liberty) (collectively, Petitioners) 
+Request for Judicial Review. Attorney Nathan R. McConkey appeared on behalf of Petitioners. 
+Attorney Mindi M. Vervaecke appeared on behalf of Respondent, Terry Tilton (Respondent). The 
+Court, having heard the arguments of counsel, reviewed the file, and being fully advised in the 
+circumstances, finds as follows. 
+BACKGROUND FACTS AND PROCEEDINGS 
+ 
+ This case has a long factual history that was set forth in detail in both the Arbitration and 
+Appeal Decisions. Accordingly, the Court need not repeat such history in detail here. The Court 
+refers to the findings of fact as stated in Heather L. Palmer, Deputy Commissioner’s (the 
+Commissioner) decision and will discuss the portions relevant to the Court’s ruling.  
+STANDARD OF REVIEW 
+The Iowa Administrative Procedure Act, Iowa Code chapter 17A, governs the scope of the 
+Court’s review in workers’ compensation cases. Iowa Code § 86.26 (2011); Meyer v. IBP, Inc., 
+E-FILED                    CVCV065802 - 2024 JAN 12 02:12 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 13
+
+2 
+ 
+710 N.W.2d 213, 218 (Iowa 2006). “Under the Act, we may only interfere with the commissioner’s 
+decision if it is erroneous under one of the grounds enumerated in the statute, and a party’s 
+substantial rights have been prejudiced.” Id. A party challenging agency action bears the burden 
+of demonstrating the action’s invalidity and resulting prejudice. Iowa Code § 17A.19(8)(a). This 
+can be shown in a number of ways, including proof the action was ultra vires; legally erroneous; 
+unsupported by substantial evidence in the record when that record is viewed as a whole; or 
+otherwise, unreasonable, arbitrary, capricious, or an abuse of discretion. See Id. at (10). The district 
+court acts in an appellate capacity to correct errors of law on the part of the agency. Grundmeyer 
+v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002). 
+ “If the claim of error lies with the agency’s findings of fact, the proper question on review 
+is whether substantial evidence supports those findings of fact.” Meyer, 710 N.W.2d p. 219. 
+Factual findings regarding the award of workers’ compensation benefits are within the 
+commissioner's discretion. The Court is bound by the commissioner's findings of fact if they are 
+supported by substantial evidence. Mycogen Seeds v. Sands, 686 N.W.2d 457, 464-65 (Iowa 2004). 
+Substantial evidence is defined as, “evidence of the quality and quantity that would be deemed 
+sufficient by a neutral, detached, and reasonable person, to establish the fact at issue when the 
+consequences resulting from the establishment of that fact are understood to be serious and of great 
+importance.” Iowa Code § 17A.19(10)(f)(1); see also Nance v. Iowa Dep’t of Revenue, 908 
+N.W.2d 261, 267 (Iowa 2018).  
+In the context of compensation cases, the Court acknowledges that while it, “is correct that 
+we interpret workers’ compensation statutes in favor of the worker, we still must interpret the 
+provisions within the workers’ compensation statutory scheme ‘to ensure our interpretation is 
+harmonious with the statute as a whole.’” Chavez v. MS Tech. LLC, 972 N.W.2d 662, 668 (Iowa 
+E-FILED                    CVCV065802 - 2024 JAN 12 02:12 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 13
+
+3 
+ 
+2022) quoting Ramirez-Trujillo v. Quality Egg, L.L.C., 878 N.W.2d 759, 770 (Iowa 2016). “[T]he 
+commissioner's interpretation of the law is entitled to no deference because the interpretation of 
+the workers’ compensation statutes and related case law has not been clearly vested by a provision 
+of law in the discretion of the agency.” Schutjer v. Algona Manor Care Ctr., 780 N.W.2d 549, 558 
+(Iowa 2010) (internal citations omitted). The Court reviews the commissioner’s statutory 
+interpretation, “to correct errors of law on the part of the agency.” Teleconnect Co. v. Iowa State 
+Commerce Comm'n, 404 N.W.2d 158, 161 (Iowa 1987). 
+LAW AND ANALYSIS 
+Lack of Written Credibility Findings Does Not Constitute an Error of Law 
+ 
+Petitioners claim there is an error of law in the Commissioner’s Remand Decision on May 
+22, 2023 (the Remand Decision) because it did not include findings on Respondent’s credibility. 
+Petitioners assert the Commissioner not only has a duty to make credibility determinations but also 
+to write those findings of credibility into the decision. Petitioners further contend the Remand 
+Decision must be reversed and remanded for this reason.  
+ 
+To support their argument, Petitioners cite McDowell v. Town of Clarksville, 241 N.W.2d 
+904 (Iowa 1976) and Arndt v. City of Le Claire, 728 N.W.2d 389 (Iowa 2007). In the brief 
+discussions of credibility, both cases primarily set forth the duties of the Commissioner with 
+regards to witnesses and evidence. “It is the commissioner’s duty as the trier of fact to determine 
+the credibility of the witnesses, weigh the evidence, and decide the facts in issue.” Arndt, 728 
+N.W.2d p. 394–95. “[T]he fact finder must not arbitrarily or totally reject testimony; he has the 
+duty to weigh it and determine its credibility.” McDowell, 241 N.W.2d p. 908 (internal quotation 
+marks and citation omitted).  
+E-FILED                    CVCV065802 - 2024 JAN 12 02:12 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 13
+
+4 
+ 
+ 
+The Court finds a distinction between the duty to determine credibility and a requirement 
+to write the credibility findings into the decision. While Arndt and McDowell expressly emphasize 
+the duty of the commissioner to weigh and determine credibility findings, the Court finds no 
+language or implication in either case which mandates that credibility determinations be stated in 
+the decision as findings. There is also no indication that a lack of written credibility findings 
+constitutes an error of law which necessitates reversal. The Court finds Petitioners’ reliance on 
+McDowell and Arndt misplaced as neither case supports Petitioners’ contention. The 
+Commissioner may properly fulfill the duty of determining credibility without including the 
+credibility findings in the written decision. 
+In this case, the Court finds that, regardless of whether the findings are written into the 
+decision, the Commissioner’s ruling for Respondent sufficiently provides a clear implication as to 
+the Commissioner’s credibility determinations. Giving further insight into the Commissioner’s 
+credibility findings, the Remand Decision contains several statements where credibility and 
+persuasiveness are mentioned. (Remand Decision, p. 21, 23, 30, 31). The Court finds no error of 
+law and reversal is not appropriate on this basis. 
+The Finding of April 15, 2013, as Respondent’s Applicable Discovery Date Is 
+Supported by Substantial Evidence 
+  
+Petitioners argue the Commissioner’s calculated discovery date of April 15, 2013, for 
+Respondent’s injury is irrational, illogical, wholly unjustifiable, and not supported by substantial 
+evidence. Respondent argues the discovery date is correct under the standard for cumulative 
+injuries. 
+Respondent’s injuries are cumulative injuries. Cert. Rec. #9, p. 281, Wertz Letter to Liberty 
+Mutual, 10/14/13. The discovery date of a cumulative injury is when the claimant, “knew the 
+nature, seriousness and probable compensable character,” of the injury. Herrera v. IBP, Inc., 633 
+E-FILED                    CVCV065802 - 2024 JAN 12 02:12 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 13
+
+5 
+ 
+N.W.2d 284, 288 (Iowa 2001). Due to Respondent receiving treatment for her injuries prior to 
+April, 2013, Petitioners contend she should have been aware her condition was serious, having a 
+“permanent, adverse impact” on her employment. Herrera, 633 N.W. p. 288. This would put the 
+discovery date well before 2013, and Respondent’s claim would be barred for untimeliness and 
+lack of notice.  
+It is well established that challenging workers compensation agency findings on appeal is 
+a matter of substantial evidence. If the agency’s findings are supported by substantial evidence, 
+the Court is bound by the findings. Hough v. Iowa Dep't of Pers., 666 N.W.2d 168, 170 (Iowa 
+2003). “[T]he question on appeal is not whether the evidence supports a different finding than the 
+finding made by the commissioner, but whether the evidence supports the findings actually made.” 
+Meyer v. IBP, Inc., 710 N.W.2d 213, 218 (Iowa 2006) (emphasis added) (internal quotation marks 
+and citation omitted); see also Arndt, 728 N.W.2d at 393. Accordingly, the issue before the Court 
+is not whether a different discovery date could have been determined, but whether there is 
+substantial evidence on record to support the discovery date found by the Commissioner. 
+Here, the Commissioner found the discovery date to be April 15, 2013. Just as the Iowa 
+Court of Appeals had determined that the absence of work restrictions precluded a discovery date 
+prior to September 8, 2021, the Commissioner primarily relied on the fact that Respondent had not 
+previously received permanent work restrictions as the primary ground for determining that April 
+15, 2013, was the proper discovery date. (Remand Decision, p. 26); See Tilton v. H.J. Heinz Co., 
+938 N.W.2d 720 at *4 (Iowa Ct. App. July 24, 2019). 
+The Court finds that substantial evidence in the record supports the Commissioner’s 
+finding of April 15, 2013, as the discovery date. Similar to Herrera, the record reflects Respondent 
+received treatment for her injury prior to the discovery date and given no work restrictions. Herrera 
+E-FILED                    CVCV065802 - 2024 JAN 12 02:12 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 13
+
+6 
+ 
+633 N.W.2d p. 288–89. Notwithstanding absences for rest and treatment, Respondent was 
+consistently cleared to return to work. The Commissioner’s reasoning was provided: 
+No physician in this case provided Tilton with permanent restrictions before her 
+last day of employment on April 15, 2013 . . . Tilton testified on cross-examination 
+Dr. Bradley did not tell her that her condition in her spine was permanent at that 
+time. There is no evidence Dr. Bradley communicated his belief regarding the 
+permanent nature of Tilton’s condition to her in 2010. While Tilton was treated 
+extensively for low back pain over the course of many years, there is no evidence 
+any medical practitioner told Tilton her condition was permanent before April 15, 
+2013. I find the limitations period was tolled under the discovery rule until April 
+15, 2013, the last day she worked for Heinz.  
+ 
+(Remand Decision, p. 26). 
+The Court acknowledges that the absence or presence of work restrictions is not alone 
+dispositive. For example, in Herrera, the Iowa Supreme Court found the claimant would have not 
+known the seriousness or permanence of their injury, even after work restrictions were imposed. 
+The industrial commissioner found that on this date Herrera knew her injury was 
+serious because work restrictions were imposed. We find nothing in the record, 
+however, that would support a conclusion that a reasonable person in Herrera's 
+position would have been aware of the seriousness of her condition and its impact 
+on her employment at that time. 
+ 
+ 633 N.W. 2d p. 288-289 (emphasis added). 
+In this case, the Court finds the Commissioner’s finding is supported by items other than 
+the absence of work restrictions. The record establishes Respondent had been receiving treatment 
+for injuries as early as 2004, yet both appellate court decisions rejected a discovery date of 
+September 2010 and held that the discovery date had to be sometime after September 2010. Tilton 
+v. H.J. Heinz Co., 938 N.W.2d 720, WL 3317393, p. *4 (Iowa Ct. App. 2019).; Tilton v. H.J. Heinz 
+Co., 986 N.W.2d 869, WL 2824290 p. *3 (Iowa Ct. App. 2022). As a result, both decisions rejected 
+the reasoning that receiving treatment is enough to conclude that Respondent knew the seriousness 
+of her injury and the permanent, adverse effect it would have on her employment. Id. Additionally, 
+E-FILED                    CVCV065802 - 2024 JAN 12 02:12 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 13
+
+7 
+ 
+the Commissioner found credible Respondent’s testimony that although she was aware of her 
+injury, she did not know of a permanent adverse impact on her employment prior to April 2013 
+when she was no longer able to work. Remand Decision, p. 26. As the Commissioner pointed out, 
+if her physicians were aware, there is no report or correspondence on record establishing 
+Respondent was ever informed of the serious nature of her injury nor the permanency of her 
+condition. Finally, there is evidence to suggest Respondent had improved with rest and treatment 
+Cert. Rec. #4, p. 10; Cert. Rec. #9, p. 37. Under these circumstances, the Court finds substantial 
+evidence supports the Commissioner’s finding of April 15, 2013, as the applicable discovery date. 
+Based on that date, Respondent timely filed this action. As such, reversal is not appropriate on this 
+basis. 
+The Remand Decision’s Determination that Respondent’s Low Back and Mental 
+Conditions Were Causally Related to and Aggravated by Her Employment Is 
+Supported by Substantial Evidence 
+ 
+Petitioners argue substantial evidence does not support the agency’s finding that 
+Respondent’s low back and mental conditions were causally related to her employment. The crux 
+of Petitioners’ argument is that Respondent should not have been found credible and the 
+appropriate date of injury is 2001 rather than a discovery date of April 15, 2013. 
+[T]he Deputy Commissioner failed to address the fact that the opinions of Dr. 
+Mathew, Dr. Bradley and Dr. Hines were solely contingent upon Claimant’s 
+subjective complaints, which should not be believed given her lack of credibility . . 
+. many of these opinions are couched in terms of a date of injury of 2013 and not 
+the established date of injury of 2001. 
+ 
+Petitioners’ Brief, p. 29 (emphasis added). Petitioners’ brief proceeds to present evidence that 
+Petitioners believe is more persuasive than that relied on by the Commissioner.  
+However, as previously discussed, it is not the task of this Court to weigh evidence or the 
+credibility of the witnesses. Tim O'Neill Chevrolet, Inc. v. Forristall, 551 N.W.2d 611, 614 (Iowa 
+E-FILED                    CVCV065802 - 2024 JAN 12 02:12 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 13
+
+8 
+ 
+1996). “Making a determination as to whether evidence ‘trumps’ other evidence or whether one 
+piece of evidence is ‘qualitatively weaker’ than another . . . is not an assessment for the district 
+court . . . to make when it conducts a substantial evidence review of an agency decision.” Arndt, 
+728 N.W.2d at 394 .  
+Here, the Commissioner was presented with medical professionals’ testimony and records 
+opining Respondent’s injuries were or were not causally related to and aggravated by Respondent’s 
+work. Remand Decision, p. 23, 24; See generally, Cert. Rec. #9. Stated another way, the record 
+contains expert testimony that supports Petitioners and other expert testimony that supports 
+Respondent. The Commissioner based her finding on the testimony and evidence she determined 
+to be the most credible and persuasive.  
+Petitioners’ disagreement with the Commissioner’s finding does not render the medical 
+expert evidence as lacking credibility. Outside of Petitioners’ own assertion to the contrary, the 
+Court does not find a lack of evidence for the Commissioner’s credibility determination. Nor does 
+the Court find evidence the Commissioner’s credibility determination is an error of law which 
+warrants reversal. For these reasons, the Court finds substantial evidence exists to support the 
+finding that Respondent’s injuries are causally related to and were aggravated by Respondent’s 
+work. As such, reversal is not appropriate on this basis. 
+The Remand Decision’s Determination of Permanent Disability Is Supported by 
+Substantial Evidence 
+ 
+Petitioners argue the Commissioner’s determination of permanent disability is not 
+supported by substantial evidence because Respondent has demonstrated a lack of motivation to 
+return to work and her medical condition is minor. Petitioners also argue the Commissioner’s 
+failure to address the alleged lack of motivation is an error of law that requires reversal. The Court 
+briefly examines the general considerations for determining industrial disability.  
+E-FILED                    CVCV065802 - 2024 JAN 12 02:12 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 13
+
+9 
+ 
+Industrial disability is intended to measure an injured worker’s lost earning capacity 
+. . . This inquiry is a multi-factored test, including “consideration of not only the 
+claimant’s functional disability, but also [his] age, education, qualifications, 
+experience, and ability to engage in similar employment.” . . . The relevant question 
+thus is more than the worker’s physical ability . . . Instead, the focus is on the injured 
+worker’s ability to be gainfully employed. 
+ 
+Swiss Colony, Inc. v. Deutmeyer, 789 N.W.2d 129, 137–38 (Iowa 2010) (internal citations 
+omitted).  
+The Remand Decision illustrates the Commissioner’s finding is based on an examination 
+of Respondent’s earning capacity including her education, work experience, and medical 
+conditions. Remand Decision p. 30. The Commissioner cites the medical opinions of Dr. Mathew 
+and Dr. Mittauer who opined Respondent was not capable of working due to her physical and 
+mental injuries. Cert. Rec. #9, p. 16-19, Dr. Mathew Questionnaire; p. 172, Dr. Mittauer Report. 
+The Commissioner found both medical opinions persuasive. Remand Decision, p. 30-31. The 
+record also contains a vocational assessment and report from Laughlin Management which 
+concluded Respondent was unemployable. Cert. Rec. pp. 180-97, conclusion at p. 194.  
+Having considered Respondent’s education, work history, and vocational report in the 
+Remand Decision, the Court finds the Commissioner’s finding is supported by substantial 
+evidence. Because the finding is supported by substantial evidence, the Court further finds it 
+unnecessary to further address Respondent’s alleged lack of motivation or the Commissioner’s 
+credibility findings. Reversal is not appropriate on this basis. 
+The Record Contains Substantial Evidence to Support Penalty Benefits 
+ 
+Lastly, Petitioners argue the Commissioner’s award of penalty benefits is not supported by 
+substantial evidence and is an error of law. Petitioners continue to assert the date of injury is 2001 
+and the Commissioner awarded benefits based on the current Iowa Administrative Code Section 
+86.13 rather than the 2001 version. Petitioners claim this is an error of law that requires reversal. 
+E-FILED                    CVCV065802 - 2024 JAN 12 02:12 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 13
+
+10 
+ 
+The Court reiterates that Respondent was found to have a cumulative injury with an 
+applicable discovery date of April 15, 2013. As previously discussed, the discovery date finding 
+is supported by substantial evidence and is to be utilized as the established discovery date for any 
+filings or benefit calculations. Moreover, even if the 2001 version of the Code had been referenced, 
+the Commissioner found unreasonable investigation and delay on the part of Petitioners, which are 
+grounds for penalty under any version of section 86.13. See Iowa Code § 86.13(4)(c)(1); 
+Robbennolt v. Snap-On Tools Corp., 555 N.W.2d 229, 236–37 (Iowa 1996). As both versions of 
+section 86.13 prohibit unreasonable investigation and delay, the Court finds no error of law on this 
+basis. 
+Regarding the Commissioner’s finding of unreasonable investigation and delay, the Court 
+briefly reviews the timeline leading up to Petitioners denial of benefits. Petitioners were made 
+aware of Respondent’s work-related injury in May and August 2013. In September 2013, Dr. 
+Mathew provided Petitioner Liberty Mutual with medical confirmation of the injury and the opined 
+work-related cause. Cert. Rec. #9, p. 14, Dr. Mathew Letter to Liberty Mutual. Despite this, in 
+October 2013, Petitioners informed Respondent they had no medical report or showing of a work 
+injury and would be conducting an investigation. Cert. Rec. #9, p. 280, Liberty Mutual Letter. 
+Nearly a year later, in August 2014, Petitioners had Dr. Abernathy review Respondent’s medical 
+records without examining Respondent herself. Cert. Rec. #9, p. 225-250. From this record review, 
+Dr. Abernathy opined there had been no work injury. On this opinion, Petitioners informed 
+Respondent her claim had been denied.  
+Upon examination of the evidence, the Commissioner concluded Petitioners had not 
+conducted a reasonable investigation into Respondent’s claim. As well as finding the investigation 
+E-FILED                    CVCV065802 - 2024 JAN 12 02:12 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 13
+
+11 
+ 
+unreasonable, the Commissioner mentions that the subsequent denial resulted in a delay of 
+benefits.  
+Heinz and Liberty Mutual failed to pay Tilton any weekly workers’ compensation 
+benefits from the date she stopped working, April 15, 2013 through the date of the 
+hearing, March 16, 2016. Based on their failure to properly investigate the claim . 
+. . I find Tilton is entitled to an award of $20,000 in penalty benefits . . . 
+ 
+Remand Decision, p. 38. The Remand Decision discusses the specific record evidence the 
+Commissioner relied on reaching this conclusion. 
+I find Heinz and Liberty Mutual failed to conduct a reasonable investigation of 
+Tilton’s claim. Heinz and Liberty Mutual were aware Tilton was not working and 
+receiving long-term disability benefits for her low back condition. Pursuant to its 
+own inquiry in September 2013 Liberty Mutual was aware Dr. Mathew had opined 
+Tilton’s low back condition was caused by her work with Heinz. Heinz and Liberty 
+Mutual did not commence weekly benefits, request an IME, seek any medical 
+opinion contrary to Dr. Mathew’s opinion or conduct any other investigation into 
+Tilton’s claim. I find their investigation unreasonable.  
+ 
+Remand Decision p. 36. 
+  
+[C]ounsel for Tilton inquired on November 3, 2015, why defendants were not 
+providing Tilton with weekly workers’ compensation benefits given Dr. Mathew’s 
+September 10, 2013, letter. Counsel for Heinz and Liberty Mutual sent an email 
+stating he sent Dr. Mathew’s response to Heinz and Liberty Mutual as soon as it 
+was found. Liberty Mutual was in possession of the opinion for more than two years 
+at that point. On November 9, 2015, Tilton’s attorney again requested an 
+explanation why Liberty Mutual did not produce Dr. Mathew’s September 2013 
+report for two years. The record does not contain a response. 
+ 
+Id. p. 37. 
+ 
+Heinz and Liberty Mutual refused to pay any temporary or permanent disability 
+benefits after receiving multiple opinions from treating physicians causally relating 
+Tilton’s low back condition to her work for Heinz, opining the condition was 
+permanent, and stating she was unable to work because of her condition. I do not 
+find Heinz and Liberty Mutual conducted a reasonable investigation of Tilton’s 
+claim, that they had a reasonable basis to contest Tilton’s entitlement to benefits, 
+or that the claim was fairly debatable.  
+ 
+Id. p. 38. 
+ 
+E-FILED                    CVCV065802 - 2024 JAN 12 02:12 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 11 of 13
+
+12 
+ 
+ The Court finds there is substantial evidence in the record to support the Commissioner’s 
+conclusion that Respondent was entitled to penalty benefits. As such, the Court finds no error of 
+law due to the Commissioner using a current version of the statute and reversal is not appropriate 
+on this basis. 
+CONCLUSION 
+ 
+The Court finds Petitioners’ arguments primarily request the Court to use its own judgment 
+to replace the Commissioner’s credibility findings and the applicable discovery date. On judicial 
+review, the Court is concerned with substantial evidence and errors of law. The Court finds 
+substantial evidence for the Commissioner’s findings and no error of law in the Remand Decision. 
+For these reasons, the Court affirms the Commissioner’s findings.  
+ 
+It is therefore ORDERED that Petitioners’ Petition for Judicial Review is DENIED. 
+E-FILED                    CVCV065802 - 2024 JAN 12 02:12 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 12 of 13
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV065802
+HJ HEINZ COMPANY ET AL VS TERRY TILTON
+Type:
+ORDER FOR JUDGMENT
+So Ordered
+Electronically signed on 2024-01-12 14:12:16
+E-FILED                    CVCV065802 - 2024 JAN 12 02:12 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 13 of 13

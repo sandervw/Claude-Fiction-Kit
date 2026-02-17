@@ -1,0 +1,1823 @@
+Case Number: 22000570.01
+Case Title:  THU, KHIN V. TYSON FRESH MEATS, INC.
+Doc Type:    Decision - Deputy
+Source:      Thu Khin-22000570.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+KHIN THU, 
+  : 
+          File Nos.: 22000570.01 
+ 
+ 
+  : 
+ 
+                22701040.01 
+ 
+Claimant, 
+  : 
+ 
+ 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+        ARBITRATION DECISION 
+ 
+ 
+  :                  
+TYSON FRESH MEATS, INC., 
+  : 
+ 
+ 
+  :                            
+ 
+Employer, 
+  : 
+ Head Note Nos.: 1100; 1400; 1402; 
+ 
+Self-Insured, 
+  : 
+1402.40; 1800; 1801; 1802; 1803; 2500;  
+ 
+Defendants. 
+  : 
+ 2600; 2700; 3700 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+ 
+The claimant, Khin Thu, filed a petition for arbitration seeking workers’ 
+compensation benefits from self-insured employer Tyson Fresh Meats (“Tyson”).  J. 
+Richard Johnson appeared on behalf of the claimant.  Jason Wiltfang appeared on 
+behalf of the defendant.   
+ 
+The matter came on for hearing on November 28, 2023, before Deputy Workers’ 
+Compensation Commissioner Andrew M. Phillips.  Pursuant to an order of the Iowa 
+Workers’ Compensation Commissioner, the hearing occurred electronically via Zoom.  
+The hearing proceeded without significant difficulty.  
+ 
+The record in this case consists of Joint Exhibits 1-7, Claimant’s Exhibits 1-11, 
+and Defendant’s Exhibits A-D.  The exhibits were received and admitted into the record 
+with no objections. 
+The claimant testified on her own behalf with the assistance of interpreter Kyaw 
+Hla.  Jeanne Strand was appointed the official reporter and custodian of the notes of the 
+proceeding.  The evidentiary record closed at the conclusion of the hearing, and the 
+matter was considered fully submitted following briefing by the parties on January 5, 
+2024. 
+STIPULATIONS 
+ 
+Through the hearing report, as reviewed at the commencement of the hearing, 
+the parties stipulated and/or established the following: 
+File Number 22000570.01 
+1. There was an employer-employee relationship at the time of the alleged 
+injury.   
+ELECTRONICALLY FILED     2024-Mar-05  15:43:19     DIVISION OF WORKERS' COMPENSATION
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 2 
+ 
+ 
+2. That, although entitlement to temporary disability benefits cannot be 
+stipulated, the claimant was off of work from October 19, 2022, to April 3, 
+2023. 
+ 
+3. That, if the injury is found to be a cause of permanent disability and any 
+permanent partial disability benefits are awarded, the commencement date 
+for said benefits is April 4, 2023. 
+ 
+4. That, at the time of the alleged injury, the claimant’s gross earnings were nine 
+hundred eighty-nine and 36/100 dollars ($989.36) per week, and that she was 
+married and entitled to two exemptions.  As a result, the parties believe the 
+weekly rate to be six hundred forty-nine and 37/100 dollars ($649.37).   
+ 
+5. That, with regard to disputed medical expenses, the medical providers would 
+testify as to the reasonableness of their fees and/or treatment set forth in the 
+listed expenses, and the defendant would not offer contrary evidence as to 
+this issue.   
+ 
+6. That, with regard to the disputed medical expenses, the listed expenses are 
+at least causally connected to the medical condition(s) upon which the claim 
+of injury is based.   
+ 
+The defendant waived their affirmative defenses. Credits against any award are no 
+longer in dispute.  
+File Number 22701040.01 
+1. There was an employer-employee relationship at the time of the alleged 
+injury.   
+  
+2. That the claimant was off of work from October 19, 2022, to April 3, 2023.   
+ 
+3. That, at the time of the alleged injury, the claimant’s gross earnings were nine 
+hundred ninety-seven and 11/100 dollars ($997.11) per week, and that she 
+was married and entitled to two exemptions.  As a result, the parties believe 
+the weekly rate to be six hundred fifty-four and 17/100 dollars ($654.17).   
+  
+4. That, with regard to disputed medical expenses, the medical providers would 
+testify as to the reasonableness of their fees and/or treatment set forth in the 
+listed expenses, and the defendant would not offer contrary evidence as to 
+this issue.   
+ 
+5. That, with regard to the disputed medical expenses, the listed expenses are 
+at least causally connected to the medical condition(s) upon which the claim 
+of injury is based.   
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 3 
+ 
+  
+6. That the defendant is entitled to a credit under Iowa Code section 85.38(2) for 
+sick pay or disability income in the amount of one thousand nine hundred 
+thirteen and 60/100 dollars ($1,913.60).   
+ 
+The defendant waived their affirmative defenses. 
+ 
+The parties are now bound by their stipulations. 
+ 
+ISSUES 
+The parties submitted the following issues for determination: 
+File Number 22000570.01 
+1. Whether the claimant sustained an injury, which arose out of and in the 
+course of her employment on September 10, 2021. 
+  
+2. Whether the alleged injury is a cause of temporary disability during a period of 
+recovery.   
+ 
+3. Whether the alleged injury is a cause of permanent disability.   
+ 
+4. Whether the claimant is entitled to temporary disability and/or healing period 
+benefits from October 19, 2022, to April 3, 2023.    
+ 
+5. The extent of permanent disability benefits, if any are awarded. 
+  
+6. Whether the permanent disability is a scheduled member disability or an 
+industrial disability.   
+ 
+7. Whether the claimant is entitled to payment for certain medical expenses.   
+ 
+8. With regard to the disputed medical expenses: 
+ 
+a. Whether the fees or prices charged by the providers were fair and 
+reasonable. 
+b. Whether the treatment was reasonable and necessary. 
+c. Whether the listed expenses were causally connected to the work 
+injury.   
+d. Whether the requested expenses were authorized by the defendant.   
+  
+9. Whether the claimant is entitled to alternate medical care pursuant to Iowa 
+Code section 85.27.     
+ 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 4 
+ 
+10. Whether the claimant is entitled to a specific taxation of costs, and the 
+amount of those costs.  
+ 
+File Number 22701040.01 
+1. Whether the claimant sustained an injury, which arose out of and in the 
+course of her employment on March 9, 2022. 
+  
+2. Whether the alleged injury is a cause of temporary disability during a period of 
+recovery.   
+ 
+3. Whether the alleged injury is a cause of permanent disability.   
+ 
+4. Whether the claimant is entitled to temporary disability and/or healing period 
+benefits from October 19, 2022, to April 3, 2023.    
+ 
+5. The extent of permanent disability benefits, if any are awarded. 
+  
+6. Whether the permanent disability is a scheduled member disability or an 
+industrial disability.  
+ 
+7. Whether the proper commencement date for permanent partial disability 
+benefits, should any be awarded, is October 11, 2022, or April 4, 2023.  
+ 
+8. Whether the claimant is entitled to payment for certain medical expenses.   
+ 
+9. With regard to the disputed medical expenses: 
+ 
+a. Whether the fees or prices charged by the providers were fair and 
+reasonable. 
+b. Whether the treatment was reasonable and necessary. 
+c. Whether the listed expenses were causally connected to the work 
+injury.   
+d. Whether the requested expenses were authorized by the defendant.   
+  
+10. Whether the claimant is entitled to alternate medical care pursuant to Iowa 
+Code section 85.27.     
+ 
+11. Whether the claimant is entitled to a specific taxation of costs, and the 
+amount of those costs.  
+ 
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 5 
+ 
+Khin Thu, the claimant, was 57 years old at the time of the hearing.  (Testimony).  
+She is originally from Burma.  (Testimony).  While in Burma, she attended high school, 
+but did not graduate as she needed to care for her elderly parents.  (Testimony).  After 
+her parents passed away, she married in 2017.  (Testimony).  She then immigrated to 
+the United States of America in 2019.  (Testimony).  She originally arrived in Waterloo, 
+Iowa, as her husband resided there.  (Testimony).  She is a permanent resident of the 
+United States of America.  (Testimony).   
+After moving to Iowa, Ms. Thu took English language lessons at Hawkeye 
+Community College.  (Testimony).  However, she possessed only a small ability to read, 
+speak, or write in English.  (Testimony).  Accordingly, she testified with the assistance of 
+an interpreter.  (Testimony).   
+In early 2021, Ms. Thu began working at Tyson, where her husband worked.  
+(Testimony; Defendant’s Exhibit A:2).  Prior to beginning employment, on February 10, 
+2021, she was examined by a Tyson nurse.  (Testimony; Claimant’s Exhibit 4:27-30).  
+Ms. Thu testified that the nurse asked her questions about her health and examined 
+her.  (Testimony).  She indicated upon filling out the form that she did not have any 
+neck, back, shoulder, elbow, wrist, thumb, or finger issues at the time or prior to the 
+examination.  (CE 4:27).  Upon physically examining the claimant, no issues were noted 
+to the neck, shoulders, wrists, or hands.  (CE 4:29-30).   
+Ms. Thu initially worked in a job labeling pork tenderloins.  (Testimony).  
+Following her injury, she returned to a job labeling pork loins working 10 minutes on and 
+10 minutes off.  (Testimony; CE 6:33).  She would examine pork products as they came 
+down the line and labeled them as appropriate.  (Testimony).  If any piece of meat fell 
+off of the line, she had to discard it.  (Testimony).  She could not clearly testify as to the 
+size of the pieces of meat she had to remove.  (Testimony).  The claimant included a 
+job description for a strip tenderloins position, but testified that she worked in labeling at 
+the time of the loss.  (CE 3:25-26; Testimony).  Starting October 22, 2021, she worked 
+with a 15-minute break every hour.  (CE 6:34).  She inspected trim.  (CE 6:34).  This 
+continued until November 23, 2021.  (CE 6:36).  Starting on March 9, 2022, she worked 
+on the line labeling cryovac packaged boneless loins.  (CE 6:37).  This lasted until April 
+12, 2022.  (CE 6:37).   
+She recounted an incident on September 10, 2021, at about 12:45 a.m., wherein 
+she was told to perform an extra job picking up meat.  (Testimony).  She was working 
+with her back to an area when she was struck by a small cart in the shoulder.  
+(Testimony).  She testified that she was stuck between two carts and lost 
+consciousness.  (Testimony).  She awoke in the arms of her supervisors in pain.  
+(Testimony).  She was taken to the nurse’s station and provided with a cold compress.  
+(Testimony).  She was told to alternate heat and cold on the injured areas and provided 
+with painkillers.  (Testimony).  Her work was done for the day, so she returned home.  
+(Testimony).   
+A medical record produced by Tyson on September 10, 2021, following her 
+alleged injury is illuminating.  (Joint Exhibit 7:169).  Ms. Thu reported to the nurse with 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 6 
+ 
+her supervisor and an interpreter.  (JE 7:169).  When asking her to describe the 
+incident, Ms. Thu changed her story multiple times.  (JE 7:169).  One iteration was that 
+she was struck by a combo that was struck by a mule; another was that she was 
+between two combos when one was struck by a mule that pushed her into another 
+combo.  (JE 7:169).  She complained of pain in her left shoulder, but no redness, 
+bruising, or swelling was found upon examination.  (JE 7:169).  She was diagnosed with 
+a contusion of the left shoulder and told to alternate heat and cold.  (JE 7:169).  During 
+a subsequent examination on September 10, 2021, Ms. Thu was tearful.  (JE 7:169).  
+She refused to participate in active range of motion evaluation and guarded her left 
+shoulder.  (JE 7:169).  She grimaced during her evaluation, but upon examination, no 
+discoloration, swelling, or abnormalities were found.  (JE 7:169).   
+Tyson performed an investigation of the alleged incident.  (CE 7:38).  The driver 
+of the vehicle noted he blew his horn, at which time Ms. Thu ran between two combos.  
+(CE 7:38).  The driver brushed against Ms. Thu.  (CE 7:38).  Ms. Thu was counseled 
+not to run in front of vehicles at Tyson.  (CE 7:38).  Ms. Thu provided a statement 
+indicating that the combo or bin was struck by the vehicle which then struck her in the 
+shoulder.  (CE 8:39).   
+Ms. Thu followed up with the Tyson medical providers on September 13, 2021.  
+(JE 7:170).  She had an interpreter with her.  (JE 7:170).  Her physical examination 
+again showed no overt discoloration or swelling.  (JE 7:170).  Her diagnosis remained a 
+left shoulder contusion.  (JE 7:170).  She was provided with a heat pad to the left 
+shoulder.  (JE 7:170).   
+On September 15, 2021, Ms. Thu reported to the Tyson medical providers with 
+an interpreter.  (JE 7:170).  Ms. Thu complained that she was nauseated, dizzy, and not 
+feeling well.  (JE 7:170).  A COVID test was suggested.  (JE 7:170).  Upon physical 
+examination, no overt discoloration or swelling was seen.  (JE 7:170).   
+Ms. Thu reported to the Tyson medical providers again on September 21, 2021.  
+(JE 7:170-171).  She rated her pain 5 out of 10.  (JE 7:170).  She was feeling better, but 
+continued to have pain when turning her head to the left.  (JE 7:170).  Again, no bruising 
+or discoloration was seen in the left shoulder.  (JE 7:171).   
+On September 29, 2021, Ms. Thu followed- p with the Tyson medical providers 
+with an interpreter.  (JE 7:171).  She felt her shoulder was better.  (JE 7:171).  The 
+nurse noted no objective findings.  (JE 7:171).  The listed diagnosis remained a left 
+shoulder contusion.  (JE 7:171).   
+Ms. Thu saw the Tyson providers again on October 22, 2021, with assistance 
+from an interpreter.  (JE 7:171).  Ms. Thu presented in a tearful manner and requested 
+to be seen by a doctor for left shoulder pain.  (JE 7:171).  Ms. Thu refused to allow her 
+left shoulder to be examined, while claiming she could not move her arm due to the 
+pain.  (JE 7:171).  She returned to her job for 60 minutes at a time on October 22, 2021.  
+(Testimony; JE 7:175).  After the 60 minutes of work, she was provided with a 15-
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 7 
+ 
+minute break.  (Testimony).  Upon returning to work, Ms. Thu experienced pain.  
+(Testimony).   
+ 
+On October 26, 2021, Ms. Thu reported to the Tyson providers for continued 
+follow-up.  (JE 7:171).  She came with an interpreter.  (JE 7:171).  She was again tearful 
+in claiming that her shoulder worsened.  (JE 7:171).  She rated her pain 9 out of 10.  (JE 
+7:171).  She also resisted any objective assessment due to claimed inability to move 
+her left arm.  (JE 7:171).  The nurse again diagnosed Ms. Thu with a left shoulder 
+contusion.  (JE 7:172).    
+On November 1, 2021, Ms. Thu reported to MOHA On-Site Physician Services, 
+where Robert L. Gordon, M.D., M.S.P.H., examined her for complaints in her left 
+shoulder girdle region and left upper extremity.  (JE 1:1-2).  Ms. Thu told Dr. Gordon 
+that she was picking up skin in a plastic combo or bin when she was struck in the left 
+shoulder by another combo.  (JE 1:1).  This resulted in left shoulder pain and minimal 
+movement in the left shoulder.  (JE 1:1).  She rated her pain 9 out of 10 in her left 
+shoulder.  (JE 1:1).  Upon examination, Dr. Gordon found the claimant to have a full 
+range of motion in her cervical spine.  (JE 1:2).  Dr. Gordon attempted to examine the 
+claimant’s strength in her left shoulder, but he could not complete the full examination of 
+her strength or instability due to complaints of pain.  (JE 1:2).  Dr. Gordon diagnosed the 
+claimant with “[l]eft shoulder pain along with diffuse left upper extremity pain after 
+reported contusive injury of the scapular region….” with the majority of her symptoms 
+being in the left upper extremity.  (JE 1:2).  Dr. Gordon recommended x-rays of the left 
+shoulder, over-the-counter pain medications, and working with no use of the left upper 
+extremity.  (JE 1:2).  X-rays were later performed and were unremarkable.  (JE 1:3; 
+2:21-24).   
+After seeing Dr. Gordon, she continued to work, but worked at a slower pace.  
+(Testimony).  She testified that she has had to rely solely on her right side while at work.  
+(Testimony).   
+Ms. Thu returned to see Dr. Gordon again on November 9, 2021, for her ongoing 
+left shoulder pain.  (JE 1:7-11).   She indicated the pain was in her left cervical region 
+and left parascapular region.  (JE 1:7).  She complained of pain, numbness, and tingling 
+down her left arm.  (JE 1:7).  Despite performing light duty, Ms. Thu’s symptoms 
+worsened.  (JE 1:7).  Dr. Gordon could not assess the claimant’s impingement or 
+strength, as the claimant displayed pain upon palpation.  (JE 1:7).  Dr. Gordon 
+reiterated his diagnosis from the November 1, 2021, visit.  (JE 1:8).  He then 
+recommended an MRI of the cervical spine and left shoulder.  (JE 1:8).  He prescribed 
+Mobic, and continued his work restrictions.  (JE 1:8).  Mobic was later discontinued due 
+to stomach issues when Ms. Thu took it.  (JE 1:12).   
+Ms. Thu had an MRI of her cervical spine on November 17, 2021.  (JE 6:167).  
+The MRI showed mild disc bulging at C4-5 and C5-6.  (JE 6:167).  She also had a left 
+shoulder MRI, which showed capsulitis and bursitis, tendinosis of the supraspinatus 
+tendon, and a SLAP lesion.  (JE 6:168).  The radiologist noted that the SLAP lesion 
+appeared to be chronic in nature.  (JE 6:168).   
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 8 
+ 
+On November 23, 2021, Dr. Gordon examined Ms. Thu again for her left 
+shoulder pain complaints.  (JE 1:13-15).  Dr. Gordon noted that the MRI, performed on 
+November 17, 2021, showed capsulitis and bursitis, tendinosis of the supraspinatus, 
+and a chronic SLAP lesion.  (JE 1:13).  After speaking with the radiologist, they agreed 
+that the SLAP lesion was chronic in nature, and that the capsulitis, bursitis, and 
+tendinosis, were not consistent with any type of acute injury.  (JE 1:13).  Dr. Gordon 
+opined that these were more consistent with chronic related issues.  (JE 1:13).  Ms. Thu 
+continued to complain of left shoulder pain. (JE 1:13).  Dr. Gordon noted difficulty 
+conducting reliable range of motion measurement or strength measurement.  (JE 1:13).  
+Dr. Gordon examined the claimant’s right upper extremity, and she had no issues with 
+pain, strength, or range of motion.  (JE 1:14).  Dr. Gordon provided the following 
+diagnostic impression: 
+Report of left shoulder girdle region pain, left cervical pain, and 
+numbness/tingling/pain down the entirety of her left upper extremity 
+circumferentially.  She reports progression and worsening of her symptoms 
+despite being on light 
+duty. 
+ Her symptoms 
+are in a non-
+anatomical/physiological 
+distribution. 
+ Her examination 
+was non-
+physiological.  Left shoulder MRI and cervical MRI did not reveal any 
+evidence of an acute pathological process and the MRIs do not explain her 
+subjective complaints in which there are no true objective examination 
+findings.     
+(JE 1:14).  Dr. Gordon discharged Ms. Thu from his care with no work-related 
+permanent restrictions or impairment.  (JE 1:14).  The Tyson nurse indicated that Ms. 
+Thu was discharged to return to regular work due to her achieving maximum medical 
+improvement (“MMI”).  (JE 7:175).   
+Dr. Gordon released Ms. Thu to work on November 23, 2021, with no restrictions 
+and the ability to return to work.  (Testimony).  She then returned to her job at Tyson 
+and used her right arm to continue her job inspecting and labeling meat.  (Testimony).  
+On the same day, Tyson sent Ms. Thu a letter outlining the workers’ compensation 
+process, including medical care.  (CE 9:41).   
+An adjuster from Tyson sent Ms. Thu another letter on January 14, 2022.  (CE 
+9:42).  Tyson noted the opinions of Dr. Gordon that Ms. Thu’s injury was related to a 
+chronic condition.  (CE 9:42).  Accordingly, Tyson denied the workers’ compensation 
+claim related to September 10, 2021.  (CE 9:42).   
+On February 7, 2022, Ms. Thu wrote a letter to Tyson disputing the denial of her 
+workers’ compensation claim.  (DE C:21-28).  This letter was translated from Burmese 
+to English.  (DE C:21-22).  Ms. Thu stated that she was hit by a mule in September of 
+2021, and injured her shoulder.  (DE C:21).  She restated her allegation that she lost 
+consciousness.  (DE C:21).  She also repeated her claim that her arms are now of 
+unequal length.  (DE C:21).  She included photos of her arms in an attempt to prove this 
+assertion; however, the photos are not conclusive.  (DE C:21, 28).  She also alleged 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 9 
+ 
+that she experienced abdominal pain on the left side, which she appeared to attribute to 
+the work incident.  (DE C:22).   
+Ms. Thu testified that she then had another injury to her right side on March 9, 
+2022.  (Testimony).  She indicated that she moved meat with a hook using her right arm 
+so that it would not fall onto the floor as it piled up on the production line.  (Testimony).  
+This resulted in pain in her right arm.  (Testimony).  Tyson declined to provide care for 
+Ms. Thu’s alleged right upper extremity or shoulder injury, so she sought her own care.  
+(Testimony).   
+On the same day, Ms. Thu reported to the Tyson provider claiming an incident 
+occurred while working the conveyor belt.  (JE 7:175).  Ms. Thu claimed that “the 
+baggers told me to unjam the belt with a hook to make the belt move faster.  I felt pain 
+to my shoulder while I was unjamming the belt.”  (JE 7:175).  Ms. Thu also reported that 
+her right middle finger was “sticking down” starting three weeks prior.  (JE 7:175).  
+When asked why she did not report the issue to her supervisor, Ms. Thu was noted to 
+change her story on several occasions, along with providing different explanations that 
+were not related to the question asked.  (JE 7:175).  This is consistent with conduct that 
+I observed during her testimony.   
+On March 11, 2022, Ms. Thu returned to the Tyson provider voicing concerns 
+about right shoulder pain.  (JE 7:176).  She felt her pain was getting better.  (JE 7:176).  
+She was referred to a physical therapist for “early stretches,” but the therapist was 
+“unsuccessful assessing [her due to] resistance and [Ms. Thu] not being compliant and 
+not following instructions.”  (JE 7:176).   
+Ms. Thu reported decreased pain in her right shoulder on March 18, 2022.  (JE 
+7:176-177).   
+On March 25, 2022, Ms. Thu returned to the Tyson provider.  (JE 7:177).  She 
+displayed full range of motion in her right shoulder with no bruising or swelling.  (JE 
+7:177).   
+Ms. Thu requested to be sent to a doctor for her right shoulder, right index and 
+right middle finger pain on March 30, 2022.  (JE 7:177).  Ms. Thu opined that her fingers 
+worsened as she performed her job.  (JE 7:177).   
+On March 30, 2022, Ms. Thu completed a team member statement of injury or 
+illness.  (CE 8:40).  The report indicates that Ms. Thu worked in the date labeling 
+position, and reported the initial injury on September 3, 2022. [sic] (CE 8:40).  Ms. Thu 
+was opening “leakers” and throwing tenderloins on the line with a hook.  (CE 8:40).  She 
+described the injury as “gripping the hook mainly with two fingers…”  (CE 8:40).  She 
+indicated pain was in her right shoulder, right elbow, and right index and middle fingers.  
+(CE 8:40).   
+The claimant reported to Peoples Community Health Clinic (“Peoples”), in 
+Waterloo, Iowa, on April 4, 2022.  (JE 3:26-30).  Ms. Thu testified that Peoples was her 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 10 
+ 
+primary care provider.  (Testimony).  Ms. Thu complained of left shoulder pain that 
+began in September of 2021 when she was struck in the shoulder, and noted that the 
+“[T]yson nurse recommended to see pcp [sic] provider.”  (JE 3:26-27).  She further 
+complained of reduced range of motion in her left shoulder and a sensation that her left 
+arm was shorter than her right.  (JE 3:27).  She displayed reduced range of motion due 
+to pain with flexion.  (JE 3:28).  She had normal, pain-free range of motion with internal 
+and external rotation.  (JE 3:28).  The provider at Peoples diagnosed Ms. Thu with left 
+shoulder bursitis and pain in her left shoulder.  (JE 3:28).  The provider recommended a 
+consultation with an orthopedic provider and physical therapy.  (JE 3:29).   
+On April 12, 2022, Dr. Gordon saw Ms. Thu again.  (JE 1:16-18).  Ms. Thu 
+recounted the alleged March 9, 2022, incident wherein she was moving product down 
+the line using a hook.  (JE 1:16).  She told Dr. Gordon that this was not a task that she 
+usually performed, and that the meat product was “not heavy;” however, she felt pain in 
+her right shoulder, elbow, and wrist.  (JE 1:16).  She also experienced a triggering of the 
+right index and long digits, which she felt was caused by using a hook as noted.  (JE 
+1:16).  Dr. Gordon noted that Ms. Thu moved both upper extremities fully and “without 
+apprehension” while he collected a history from her.  (JE 1:16).  Upon physically 
+examining Ms. Thu, Dr. Gordon found no issues with range of motion or strength and 
+only found the claimant to have some mild tenderness.  (JE 1:16-17).  She showed no 
+triggering of her right index or long fingers.  (JE 1:17).  Dr. Gordon opined that Ms. Thu 
+had right shoulder pain, right elbow pain, right wrist pain, and a reported right index and 
+long digit pain or triggering, but that there were no objective signs of any of these issues 
+upon examination.  (JE 1:17).  Ms. Thu was discharged from care on April 12, 2022, 
+with no restrictions or permanent impairment.  (Testimony; JE 1:17).   
+Ms. Thu returned to Peoples for an urgent care visit on April 13, 2022.  (JE 3:31-
+35).  Ms. Thu complained of pain in the right wrist, shoulder, and fingers.  (JE 3:31).  
+She told the provider that her fingers hurt for the last three months, and that she “works 
+more with her right hand.”  (JE 3:32).  She also told the provider that she was having a 
+trigger finger in her right index finger.  (JE 3:33).  After examining the claimant, the 
+provider diagnosed her with right finger pain.  (JE 3:34).  She was advised to soak her 
+hand in warmer water, and prescribed an anti-inflammatory gel.  (JE 3:34).   
+On April 21, 2022, Ms. Thu returned to Peoples for a visit regarding her finger 
+pain.  (JE 3:36-39).  Ms. Thu told her primary care provider that her symptoms began 
+one month prior with no specific injury or trauma.  (JE 3:37).  She recounted repeatedly 
+using her hand while working at Tyson.  (JE 3:37).  Ms. Thu complained to the provider 
+of “trouble extending 2nd and 3rd finger from flexed position.”  (JE 3:37).  Ms. Thu also 
+complained of continued left shoulder pain.  (JE 3:37).  She was again diagnosed with 
+right finger pain and provided a prescription for an anti-inflammatory gel.  (JE 3:38). 
+Ms. Thu had an incident on May 12, 2022, wherein a fellow employee moved a 
+box that bent her right thumb backwards.  (JE 7:179).  She followed up several times in 
+May of 2022, for a contusion to her right thumb.  (JE 7:179-180).  She denied pain in 
+her right thumb by May 23, 2022.  (JE 7:180).   
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 11 
+ 
+Ms. Thu started therapy at Wheaton Franciscan in Waterloo, Iowa on May 24, 
+2022.  (JE 5:137-147).  She repeated her claim to the therapist that her left arm was 
+shorter than the right arm following her alleged injury.  (JE 5:137).  She indicated pain 
+with lifting her arm.  (JE 5:137).  The therapist observed that Ms. Thu had muscle 
+weakness, pain limiting function, range of motion deficits, and strength deficits.  (JE 
+5:137).  An interpreter indicated that Ms. Thu made rude comments throughout the 
+session, and the therapist noted that Ms. Thu was visibly upset at the outset of the 
+treatment.  (JE 5:138).  The therapist could not complete some testing of the shoulder 
+due to a high level of pain irritability.  (JE 5:138).   
+Gary Knudson, M.D., examined the claimant on June 8, 2022, for left shoulder 
+pain that radiated down her arm and caused decreased range of motion.  (JE 4:91-96).  
+She rated her pain 6 out of 10.  (JE 4:91).  Ms. Thu displayed normal range of motion in 
+her right shoulder, elbow, wrist and hand.  (JE 4:93).  She had reasonable range of 
+motion in her left elbow, wrist, and hand.  (JE 4:93).  She had limited range of motion in 
+her left shoulder with positive signs of impingement and pain at the extremes of range of 
+motion.  (JE 4:93).  Dr. Knudson noted she had “[q]uite a bit of complaints in the 
+periscapular region under the arm and axilla into the left chest wall region.”  (JE 4:93).  
+She could not raise her arm more than 90 degrees forward flexion, though Dr. Knudson 
+indicated he could get her to 130 degrees with “obvious significant discomfort.”  (JE 
+4:93).  Dr. Knudson reviewed the MRI of the left shoulder and concurred that it showed 
+capsulitis, bursitis, tendinosis of the supraspinatus tendon, and a SLAP lesion.  (JE 
+4:93).  He diagnosed Ms. Thu with left shoulder pain and a contusion of the left 
+shoulder.  (JE 4:93).  Dr. Knudson opined that it was difficult to determine from where 
+her pain derived, as the pain was “fairly diffuse.”  (JE 4:94).  He noted only a temporal 
+relationship between her injury and the beginning of her symptoms.  (JE 4:94).  He 
+recommended a joint injection and provided the same.  (JE 4:94).  Dr. Knudson then 
+wrote a letter indicating that Ms. Thu could return to work on June 9, 2022.  (JE 4:96).  
+There is no mention in the letter of any restrictions.  (JE 4:96).   
+Ms. Thu returned to the Tyson provider on June 27, 2022, requesting additional 
+treatment after MMI.  (JE 7:178).   
+On June 29, 2022, a Wheaton Franciscan physical therapist provided a physical 
+therapy progress note.  (JE 5:148-152).  Ms. Thu reported 75 percent improvement in 
+her shoulder, but she continued to have pain when she lifted her arm.  (JE 5:148).   
+On September 2, 2022, Ms. Thu needed a wheelchair while working at Tyson.  
+(JE 7:180-181).  She explained that the smell from the rendering portion of the plant 
+“became too much for her,” causing her to become nauseous and made it difficult for 
+her to breath.  (JE 7:181).   
+Ms. Thu had another follow-up visit at Peoples on September 7, 2022, for a 
+wellness examination and pain in her right hand.  (JE 3:40-45).  She complained of pain 
+in her right hand with associated numbness of the second and third fingers.  (JE 3:41).  
+She also complained of recurrent swelling in her right forearm.  (JE 3:41).  The provider 
+inquired as to the claimant’s left shoulder, and she noted that it was improved after 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 12 
+ 
+seeing an orthopedic physician and having an injection.  (JE 3:41).  Upon examination, 
+the provider observed that Ms. Thu had full range of motion in her right wrist and fingers 
+with no significant swelling.  (JE 3:42).  She was diagnosed with pain in her right hand 
+and left shoulder.  (JE 3:43).  The provider asked her to wear a wrist splint at night and 
+take naproxen.  (JE 3:43).   
+Dr. Gordon saw Ms. Thu again on October 11, 2022, for right upper extremity 
+complaints.  (JE 1:19-20).  Dr. Gordon referred to his April 12, 2022, report for “full 
+detail” on her issues.  (JE 1:19).  Ms. Thu continued to complain of pain in her right 
+shoulder and arm.  (JE 1:19).  Ms. Thu still worked in a low intensity labeling job.  (JE 
+1:19).  Dr. Gordon observed that Ms. Thu had full range of motion in the right shoulder 
+and right upper extremity with only mild tenderness upon palpation.  (JE 1:19).  She 
+also showed no triggering in her right index or long fingers.  (JE 1:20).  Dr. Gordon 
+again provided diagnoses which he opined had no objective findings upon examination.  
+(JE 1:20).  He again discharged the claimant with no permanent restrictions or 
+impairment.  (JE 1:20).     
+On October 19, 2022, Ms. Thu returned to Peoples for complaints concerning her 
+right finger including pain and triggering.  (JE 3:46-49).  Ms. Thu told the provider that 
+she could not straighten her third finger and had pain since March.  (JE 3:46).  Ms. Thu 
+requested to be kept off of work for the next three days.  (JE 3:47).  The provider 
+referred her to an orthopedic provider and provided her with a work note as requested.  
+(JE 3:48, 51).    
+Dr. Knudson saw Ms. Thu again on November 8, 2022.  (JE 4:97-106).  Ms. Thu 
+complained of right hand pain and decreased range of motion over the previous several 
+months.  (JE 4:97).  She told the doctor that this was due to overcompensating.  (JE 
+4:97).  Upon physical examination, Dr. Knudson noted that Ms. Thu had reasonable 
+range of motion in her right shoulder, but limited range of motion in her right wrist and 
+hand.  (JE 4:99).  She also had triggering of her right index finger which was “quite 
+painful for her.”  (JE 4:99).  X-rays showed “minimal scattered degenerative change 
+throughout the wrist and hand.”  (JE 4:99-100).  Dr. Knudson also noted that Ms. Thu 
+had limited range of motion in her left shoulder along with pain.  (JE 4:99).  Dr. Knudson 
+diagnosed the claimant with right hand pain, a trigger finger of the index finger of the 
+right hand, right wrist pain, and left shoulder pain.  (JE 4:100).  Dr. Knudson discussed a 
+right index trigger finger release surgery with the claimant.  (JE 4:100).  She accepted 
+this, and elected “to proceed with limitations at work with no work over the next few 
+weeks until we are able to operate on the index trigger finger.”  (JE 4:100).  Dr. Knudson 
+issued a letter indicating that the claimant would be off of work until one week following 
+her postoperative visit at which time she could return to work with no use of her right 
+upper extremity.  (JE 4:103).  She could return to full-time, regular duty work on January 
+6, 2023.  (JE 4:103).   
+Ms. Thu followed-up again with Peoples on November 18, 2022, for a 
+preoperative visit.  (JE 3:52-57).  Ms. Thu was set to have a release for her trigger 
+finger.  (JE 3:53).  The doctor approved her for surgery.  (JE 3:55).   
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 13 
+ 
+Ms. Thu had a right second finger trigger release performed on her by Dr. 
+Knudson on November 25, 2022.  (JE 4:107-109).  The surgery went well, and the 
+tendon was released.  (JE 4:107-109).   
+Dr. Knudson saw Ms. Thu for a post-surgical follow-up visit on December 1, 
+2022.  (JE 4:110-112).  She was doing “extremely well following the surgical release of 
+her index finger.”  (JE 4:110).  However, she reported limited range of motion in her 
+right wrist and hand along with pain throughout her right forearm.  (JE 4:110).  Dr. 
+Knudson diagnosed Ms. Thu with right wrist pain, right hand pain, trigger finger in the 
+right index finger, overuse syndrome, and overuse syndrome of the right upper 
+extremity.  (JE 4:112).  The doctor recommended continued restrictions for the next 
+month, along with occupational therapy.  (JE 4:112).  This was in order to “get some of 
+the other overuse problems [to] settle down.”  (JE 4:112).   
+On December 6, 2022, Ms. Thu started another round of therapy for her right 
+hand.  (JE 5:153-158).  Therapy was authorized through January 3, 2023.  (JE 5:153).  
+Her right finger seemed better, but she continued to have right thumb pain which she 
+had prior to her surgery.  (JE 5:153).  Ms. Thu told the therapist that she felt that her left 
+shoulder contributed to her right hand issues.  (JE 5:153).   
+Ms. Thu had another therapy visit on December 8, 2022.  (JE 5:158).  She 
+continued to have pain throughout both of her upper extremities.  (JE 5:158).   
+Ms. Thu continued her follow-up care with Dr. Knudson on December 29, 2022.  
+(JE 4:113-117).  Ms. Thu felt that therapy helped; however, a thumb brace provided to 
+her did not help.  (JE 4:113).  Dr. Knudson diagnosed Ms. Thu with right wrist pain, 
+overuse syndrome, and extensor tenosynovitis of the right wrist.  (JE 4:114-115).  Ms. 
+Thu was apprehensive about returning to work “given that she [could not] even pinch 
+with her thumb and index finger based on her pain in her wrist.”  (JE 4:113).  She 
+elected to pursue surgical intervention “to try to get back as quickly as possible,” as Dr. 
+Knudson opined “[s]he certainly has a lot of overuse issues throughout her upper 
+extremities…”  (JE 4:115).  The surgery to be performed was a right first dorsal 
+compartment tenosynovectomy and release.  (JE 4:115).  Dr. Knudson kept the 
+claimant off of work from December 29, 2022, to January 27, 2023, at which time she 
+could return to work without using her right hand until February 22, 2023.  (JE 4:117).   
+On January 12, 2023, Ms. Thu returned to Peoples for another pre-surgical visit.  
+(JE 3:58-63).  She was due to have another right hand surgery.  (JE 3:59).  She was 
+approved for the surgery by her primary care provider at Peoples.  (JE 3:61).   
+Dr. Knudson performed a right first dorsal compartment tenosynovectomy on 
+January 19, 2023.  (JE 4:118-123).  No complications were noted.  (JE 4:122).   
+Ms. Thu continued her care at Peoples on January 24, 2023.  (JE 3:64-68).  Ms. 
+Thu complained of pain in the left shoulder following various treatments.  (JE 3:65).  
+She was told to return to see Dr. Knudson.  (JE 3:67).   
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 14 
+ 
+On January 26, 2023, Ms. Thu saw Dr. Knudson again.  (JE 4:124-126).  Ms. 
+Thu told Dr. Knudson that her right arm pain increased and was going up into her 
+elbow.  (JE 4:124).  Her pain worsened at night when sleeping.  (JE 4:124).  Dr. 
+Knudson observed that Ms. Thu had pain proximal to the surgical site.  (JE 4:126).  Dr. 
+Knudson diagnosed her with right wrist pain, extensor tenosynovitis of the right wrist 
+and overuse syndrome.  (JE 4:125-126).  Dr. Knudson recommended occupational 
+therapy to increase flexibility in the forearm and wrist.  (JE 4:126).   
+On February 23, 2023, Ms. Thu returned to Peoples for complaints of left 
+shoulder pain.  (JE 3:69-74).  She also complained of vomiting and dizziness.  (JE 
+3:69).  She requested a work excuse, as she felt sick since her second hand surgery.  
+(JE 3:69).  Her third complaint pertained to her left shoulder and “left side of body 
+weakness.”  (JE 3:70).  Finally, she requested “[n]erve [p]ain [m]edication.”  (JE 3:70).  
+The provider gave her a work note until she could be seen by Dr. Knudson on March 6, 
+2023.  (JE 3:72).   
+Dr. Knudson examined Ms. Thu on March 6, 2023.  (JE 4:127-133).  Ms. Thu 
+complained of left shoulder pain shooting from her neck to her shoulder.  (JE 4:127).  
+She also complained of nausea and gagging.  (JE 4:127).  Ms. Thu and her husband 
+attributed all the foregoing symptoms to a September 10, 2021, work injury at Tyson, 
+and requested that the doctor document it accordingly.  (JE 4:127).  X-rays showed 
+moderate degeneration at the AC joint and a mild downsloping anterior acromion.  (JE 
+4:129).  Dr. Knudson noted limited left shoulder range of motion with “significant 
+discomfort which seems somewhat out of proportion.”  (JE 4:129).  She also had limited 
+motion and discomfort throughout her right hand and wrist.  (JE 4:129).  The doctor 
+diagnosed Ms. Thu with left shoulder pain, overuse syndrome, right hand pain, extensor 
+tenosynovitis of the right wrist, and neck pain.  (JE 4:129).  The doctor recommended 
+an intra-articular injection of the left shoulder.  (JE 4:130).  Dr. Knudson noted, “[i]f this 
+fails to provide significant benefit short-term I would likely not have much to offer her.”  
+(JE 4:130).  Dr. Knudson allowed Ms. Thu to return to work on March 6, 2023, with a 
+restriction of no use of her right or left upper extremity for four weeks.  (JE 4:132).   
+On March 21, 2023, Ms. Thu returned to Dr. Knudson’s office for an injection into 
+her left shoulder.  (JE 4:134-136).  The injection occurred with no complication.  (JE 
+3:134-136).   
+By April 4, 2023, Ms. Thu attended 10 sessions of physical therapy for right wrist 
+pain following her surgery.  (JE 5:160).  She found improvement following her surgeries.  
+(JE 5:160).  She felt 90 percent improvement.  (JE 5:162).   
+Ms. Thu went to Peoples again on April 25, 2023, complaining of vertigo.  (JE 
+3:77-80).  She also mentioned her left shoulder pain.  (JE 3:77).  She noted that Dr. 
+Knudson released her to work full duty on April 3, 2023, with no restrictions, but that she 
+still had not returned to work.  (JE 3:78).  She again requested a note keeping her off of 
+work, as she had “persistent pain and numbness in [her] right hand thumb and [first] 
+finger.”  (JE 3:78).  Upon physical examination, the provider noted that she was “very 
+sad, tearful, [and] slumped forward…” in a wheelchair.  (JE 3:79).  As the visit 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 15 
+ 
+progressed, the provider noted that her mood improved.  (JE 3:79).  She also displayed 
+“exaggerated weakness” in her right wrist.  (JE 3:79).  She was diagnosed with benign 
+paroxysmal vertigo, pain in her left shoulder, and pain in her right hand.  (JE 3:80).  She 
+was given prescription medications and told to follow-up at her next wellness 
+examination in September of 2023.  (JE 3:80).   
+On August 7, 2023, Ms. Thu again returned to Peoples for an urgent care visit.  
+(JE 3:81-82).  She complained of abdominal pain following taking prednisone for a rash.  
+(JE 3:82).   
+Ms. Thu had another visit for abdominal pain at Peoples on August 10, 2023.  
+(JE 3:83-87).  She made a brief mention of her left shoulder pain, but there is no 
+treatment provided for this condition.  (JE 3:83-87).   
+At the arrangement of claimant’s counsel, Ms. Thu had an IME with Farid 
+Manshadi, M.D., F.A.A.P.M.&R., on August 16, 2023.  (CE 2:7-13).  Dr. Manshadi is 
+board certified in physical medicine and rehabilitation.  (CE 2:16).  Ms. Thu’s husband 
+served as her interpreter for the IME.  (CE 2:7).  As part of his review, Dr. Manshadi 
+reviewed a number of medical records and job descriptions.  (CE 2:7).  Ms. Thu told Dr. 
+Manshadi that she continued to have constant neck pain, and an inability to sleep on 
+her left side.  (CE 2:10).  Her right shoulder was better than her left shoulder, but 
+overhead activities increased her pain in her right shoulder.  (CE 2:10).  She 
+complained of reduced grip strength in her right hand.  (CE 2:10).  She rated her left 
+shoulder pain as 6 to 7 out of 10, and told the doctor that she was unable to use her left 
+shoulder “much at all.”  (CE 2:10).  Her husband helped her do chores and other 
+activities around her house.  (CE 2:10).   
+Like other doctors, Dr. Manshadi reported difficulty examining the claimant, as 
+“she was holding her upper extremities in a stiffened manner.”  (CE 2:10).  He noted 
+further limited range of motion in both shoulders.  (CE 2:10).  Nevertheless, Dr. 
+Manshadi measured the range of motion in each of the claimant’s shoulders.  (CE 2:10-
+11).  He found the following: 
+ 
+Left 
+Right 
+Forward Flexion 
+60 degrees 
+138 degrees 
+Extension 
+30 degrees 
+53 degrees 
+Abduction 
+65 degrees 
+135 degrees 
+External Rotation 
+50 degrees 
+70 degrees 
+Internal Rotation 
+37 degrees 
+57 degrees 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 16 
+ 
+Adduction 
+40 degrees 
+48 degrees 
+(CE 2:10-11).  Dr. Manshadi measured the range of motion in the claimant’s right wrist.  
+(CE 2:11).  He found her to have 60 degrees of extension, 76 degrees of flexion, 22 
+degrees of radial deviation, and 26 degrees of ulnar deviation.  (CE 2:11).  Dr. 
+Manshadi found Ms. Thu to have tenderness to palpation along the right shoulder joint.  
+(CE 2:11).  She displayed reduced shoulder strength in the left shoulder.  (CE 2:11).  In 
+examining the left wrist, Dr. Manshadi found that Ms. Thu could not make a full fist.  (CE 
+2:11).   
+ 
+Based upon reviewing medical records, his examination, and interview with Ms. 
+Thu, Dr. Manshadi opined that Ms. Thu sustained a left shoulder injury as the result of 
+her work injury on September 10, 2021.  (CE 2:11).  Dr. Manshadi cited to the MRI 
+showing evidence of a SLAP lesion, capsulitis, bursitis, and tendinosis of the 
+supraspinatus tendon as evidence of the same.  (CE 2:11).  Since Ms. Thu continued to 
+have pain and reduced active range of motion, Dr. Manshadi opined the injury resulted 
+in a permanent impairment to the left shoulder.  Using pages 475-479 of the AMA 
+Guides to the Evaluation of Permanent Impairment, Fifth Edition, Dr. Manshadi arrived 
+at an 18 percent permanent impairment to the left upper extremity.  (CE 2:12).  He 
+further opined that Ms. Thu may require arthroscopic surgery to the left shoulder, 
+though he did not indicate what specific procedures may be needed during this 
+procedure.  (CE 2:12).   
+ 
+Dr. Manshadi also opined that the claimant sustained a neck injury with reduced 
+active range of motion, evidence of spasms in the left cervical paraspinals and the left 
+upper trapezius.  (CE 2:12).  He related this injury to the September 10, 2021, work 
+injury in stating, “[t]his neck injury is related to the trauma on its own and/or by 
+overcompensation of the cervical paraspinals and the left upper trapezius muscles.”  
+(CE 2:12).  Dr. Manshadi assigned permanent impairment of 5 percent of the whole 
+person based upon Table 15-5 on page 392 of the Guides.  (CE 2:12).  He opined that 
+Ms. Thu may benefit from trigger point injections into the cervical paraspinals or upper 
+trapezius muscles.  (CE 2:12).   
+ 
+Dr. Manshadi then provided an impairment based upon chronic pain in the left 
+shoulder that he attributed to the September 10, 2021, incident.  (CE 2:12).  He opined 
+that Ms. Thu required further medical treatment for this alleged chronic pain.  (CE 2:12).  
+He then provided a 2 percent whole person impairment based upon Chapter 18 of the 
+AMA Guides.  (CE 2:12).   
+ 
+Next, Dr. Manshadi turned to the claimant’s right shoulder issues.  (CE 2:12).  He 
+provided her with a diagnosis of right shoulder impingement syndrome as a result of the 
+overuse of her right upper extremity while performing her job at Tyson.  (CE 2:12).  He 
+made this opinion in spite of the lack of diagnostic evidence regarding her right 
+shoulder.  (CE 2:12).  He also opined that she had right shoulder tendinitis involving the 
+rotator cuff.  (CE 2:12).  Again, he had no objective basis noted for this diagnosis.  (CE 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 17 
+ 
+2:12).  He continued by providing a permanent impairment rating to the right shoulder 
+that he attributed to her work injury.  (CE 2:12).  He referenced pages 475 to 479 of the 
+Guides and assigned a 6 percent impairment to the right upper extremity.  (CE 2:12-13).  
+He felt that Ms. Thu was a candidate for a cortisone injection and physical therapy to 
+her right shoulder.  (CE 2:13).   
+ 
+Dr. Manshadi continued his report in opining as to the claimant’s trigger finger 
+release.  (CE 2:13).  He found that there was no impairment based upon the finger 
+triggering, as Ms. Thu had no issues with it at the time of her examination.  (CE 2:13).   
+ 
+Dr. Manshadi moved on to discussing the right wrist tenosynovitis and the 
+resulting mildly reduced active range of motion following this issue.  (CE 2:13).  Unlike 
+the other conditions, Dr. Manshadi does not explicitly attribute this to Ms. Thu’s work 
+activities.  (CE 2:13).  He provided an impairment rating of 1 percent to the right upper 
+extremity based upon Figure 16-31 in the Guides.  (CE 2:13).  He recommended no 
+further treatment for that issue.  (CE 2:13).   
+ 
+Finally, Dr. Manshadi provided the claimant with a 1 percent whole person 
+impairment based upon Chapter 18 of the Guides.  (CE 2:13).  Dr. Manshadi provided 
+this impairment based upon his opinions that the claimant had chronic pain in her right 
+upper extremity.  (CE 2:13).   
+On September 28, 2023, the claimant had a repeat visit at Peoples.  (JE 3:88-
+89).  There is mention of a left shoulder and neck pain, but there is no other information 
+contained in the record as to these issues.  (JE 3:88).  There is a brief mention of 
+fatigue associated with depression, but again there is no narrative report provided to 
+give context to this note.  (JE 3:88).   
+Charles Mooney, M.D., M.P.H., C.I.M.E., issued an IME report based upon an 
+examination of the claimant on October 23, 2023.  (DE B:2-20).  Dr. Mooney is board 
+certified in occupational medicine and a certified independent medical examiner.  (DE 
+B:20).  As part of preparing his report, Dr. Mooney reviewed a number of medical 
+records.  (DE B:2-11).  Dr. Mooney provided a synopsis of the care received by the 
+claimant for her left shoulder issues.  (DE B:11).  Specifically, Dr. Mooney recounted 
+that the claimant had imaging performed via MRI which showed left shoulder capsulitis 
+and bursitis along with a pre-existing SLAP lesion.  (DE B:11).  Dr. Gordon then 
+recorded that there was no evidence of any acute pathological processes, and that 
+neither the MRI nor any objective measures could explain the subjective complaints of 
+pain she experienced.  (DE B:11).   
+Dr. Mooney examined Ms. Thu with the assistance of an interpreter.  (DE B:12).  
+Despite the assistance of the interpreter, Dr. Mooney noted that communication 
+remained difficult.  (DE B:12).  Dr. Mooney noted that Ms. Thu jumped from “topic to 
+topic and mostly focused on telling me how the injury happened despite attempts at 
+redirection.”  (DE B:12).  Ms. Thu told Dr. Mooney that a mule struck her in the back on 
+September 10, 2021, which caused her to fall onto her left side.  (DE B:13).  She also 
+claimed to have hit her head and experienced a loss of consciousness.  (DE B:13).   
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 18 
+ 
+At the time of the IME, Ms. Thu rated her pain in her neck at 7 out of 10.  (DE 
+B:13).  She also told Dr. Mooney that she experienced pain from the left side of the 
+neck into the trapezius with rotation of her neck.  (DE B:13).  She claimed to experience 
+generalized numbness, weakness, and tingling in her left hand and upper extremity.  
+(DE B:13).  She also complained of left and right shoulder pain.  (DE B:13).  She rated 
+her pain 7 out of 10 in each shoulder.  (DE B:13).  Ms. Thu told the doctor that she now 
+felt her right middle finger was triggering.  (DE B:14).   
+Ms. Thu told Dr. Mooney that she required a great deal of assistance from her 
+husband, as she could not clean the house.  (DE B:14).  She also could not prepare 
+simple meals.  (DE B:14).  She could not do laundry.  (DE B:14).  She also reported a 
+number of in-home accidents, including falls, cuts, and burns.  (DE B:14).  She 
+experienced difficulty falling asleep, waking frequently during the evening, and returning 
+to sleep.  (DE B:14).  She also had pain while sitting in a chair for several hours or 
+walking for a few blocks.  (DE B:14).   
+Upon physical examination, Dr. Mooney observed that Ms. Thu ambulated with 
+an antalgic gait and dragging of her left leg.  (DE B:15).  She also ambulated with 
+assistance from a cane.  (DE B:15).  She told Dr. Mooney that she “has had problems 
+with her balance since the injury.”  (DE B:15).   
+Dr. Mooney measured Ms. Thu’s range of motion in her right and left shoulders.  
+(DE B:15).  Ms. Thu offered no motion whatsoever with her left shoulder and kept her 
+left arm in a rigid position.  (DE B:15).  Dr. Mooney observed that she kept her elbow at 
+a 90-degree angle with her left wrist in a limp position.  (DE B:15).  She also offered no 
+motion in the left wrist.  (DE B:15).  In measuring her right shoulder range of motion, Dr. 
+Mooney found the claimant to have 160 degrees of flexion, 140 degrees of abduction, 0 
+degrees of extension, 25 degrees of internal rotation, and 75 degrees of external 
+rotation.  (DE B:15).  The right wrist had 50 degrees of flexion, 30 degrees of extension, 
+20 degrees of radial deviation, and 20 degrees of ulnar deviation.  (DE B:15).  Dr. 
+Mooney did not consider the range of motion measurements to be valid, as he observed 
+a ”wide variation in repeated measures by greater than 10 degrees in all of these 
+readings.”  (DE B:15).  Dr. Mooney observed no evidence of atrophy in either upper 
+extremity.  (DE B:15).  Dr. Mooney found no evidence of triggering in any finger on the 
+right.  (DE B:16).  Sensation in the right upper extremity was intact.  (DE B:16).  Ms. Thu 
+claimed that she could not feel anything but pressure in her left arm.  (DE B:16).  Ms. 
+Thu displayed a 5-pound grip strength on the ride side, and offered no grip on the left 
+side.  (DE B:16).   
+Dr. Mooney also observed that Ms. Thu held her neck in a rigid position, except 
+when she answered questions or demonstrated how she was injured.  (DE B:15).  In 
+those situations, she vigorously moved her head without any difficulty.  (DE B:15).  She 
+offered some range of motion in her neck when Dr. Mooney examined her, but he 
+determined that these were not valid measurements because his observations of her 
+during the examination showed her moving her neck to a much greater distance.  (DE 
+B:15).  Dr. Mooney also heard Ms. Thu complain of pain with palpation to her cervical 
+spine; however, he observed no evidence of spasm or asymmetry.  (DE B:15).   
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 19 
+ 
+The doctor assessed Ms. Thu as follows: 
+1. Medical record evidence of injury occurring on 3/9/2021 involving a 
+contusion to left shoulder and claims of cervical spine pain.  There is 
+MRI evidence of mild degenerative disc disease and no objective 
+evidence of other injury.  There is further evidence of degeneration of 
+the acromioclavicular joint of the left shoulder as well as capsulitis and 
+bursitis.  She now has continuous complaints of neck pain and left 
+shoulder pain without objective findings of injury and evidence of 
+psychological overlay or cultural differences.   
+2. Complaints of right upper extremity pain including pain in the right elbow, 
+right wrist, right shoulder, without objective findings of injury.  Status post 
+trigger finger and first dorsal compartment releases.   
+3. Evidence of potential underlying psychiatric condition with symptoms 
+significant for depression with symptoms including unexplained weight 
+loss.   
+ 
+(DE B:16).  He elaborated on the above assessment in noting that Ms. Thu sustained a 
+contusion to her left shoulder with complaints of pain that were consistent with a neck 
+strain.  (DE B:16).  However, Dr. Mooney saw no objective evidence from Dr. Gordon or 
+the associated imaging to indicate anything more than minor trauma which should have 
+resolved within a reasonable timeframe.  (DE B:16).  Dr. Mooney opined that there was 
+no direct evidence that the claimant sustained a cumulative trauma issue as it related to 
+her right upper extremity.  (DE B:16).  Dr. Mooney further opined that there was “no 
+direct evidence” that the right trigger finger or de Quervain’s first dorsal compartment 
+release were related to Ms. Thu’s employment with Tyson.  (DE B:17).  The doctor 
+bolstered this opinion by keenly noting that Ms. Thu worked for Tyson for 18 months in 
+predominantly “very light activities” in the labeling position.  (DE B:17).  Based upon 
+this, it was “not medically reasonable to consider this activity as causing ‘cumulative 
+trauma.’”  (DE B:17).   
+ 
+With regard to the claimant’s left shoulder, Dr. Mooney opined that Ms. Thu’s 
+current complaints were related to an underlying condition and not the September 10, 
+2021, date of injury.  (DE B:17).  Again, Dr. Mooney noted the lack of significant 
+objective injury based upon examination and imaging.  (DE B:17).  Dr. Mooney 
+concurred with Dr. Gordon that Ms. Thu achieved MMI for her left shoulder and cervical 
+spine on November 23, 2021.  (DE B:17).   
+ 
+Defendant’s counsel asked Dr. Mooney to provide Ms. Thu with an impairment 
+rating pursuant to the AMA Guides to the Evaluation of Permanent Impairment, Fifth 
+Edition.  (DE B:17).  Dr. Mooney opined that no impairment rating could be offered, as 
+Ms. Thu resisted active motion in her left shoulder.  (DE B:17).  This prevented the 
+completion of reasonable range of motion measurements.  (DE B:17).  Dr. Mooney 
+continued, stating, “[i]t is my opinion that her complaints are not consistent with any 
+objective findings or findings on imaging, as such no permanent impairment can be 
+provided.”  (DE B:17).  With regard to the claimant’s cervical issues, Dr. Mooney found 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 20 
+ 
+evidence of degenerative changes in the lower cervical spine.  (DE B:17).  These were 
+age related and not related to the September 10, 2021, incident.  (DE B:17).  Therefore, 
+there was no ratable impairment to the cervical spine.  (DE B:17).  Even if it were 
+related, Dr. Mooney could not perform valid range of motion testing, so any impairment 
+rating would be invalid.  (DE B:17).   
+ 
+Dr. Mooney offered no restrictions and noted Dr. Knudson also released Ms. Thu 
+to work full duty with no restrictions despite her ongoing subjective complaints.  (DE 
+B:18).  He offered no recommendations for medical care related to any of the body parts 
+discussed herein; however, he opined that Ms. Thu had “significant mental health 
+complaints which may correlate with underlying depression.”  (DE B:18).  Based upon 
+this, Dr. Mooney recommended that Ms. Thu find treatment for her depression despite it 
+being unrelated to either alleged injury date.  (DE B:18).   
+The doctor turned to the right upper extremity.  (DE B:18).  He opined that Ms. 
+Thu had right ring finger triggering and secondary dorsal compartment tendinitis that 
+resolved following surgery.  (DE B:18).  However, there was no evidence of any specific 
+injury related to the ongoing complaints of right shoulder, right arm, right wrist, and right 
+hand pain.  (DE B:18).  Dr. Mooney could offer no diagnoses regarding the right upper 
+extremity issues, as “there [was] no specific diagnosis that [was] evident on 
+examination.”  (DE B:18).  Dr. Mooney stated unequivocally, “[i]t is my opinion that her 
+current complaints are unrelated to her previous work activities as described in the work 
+job descriptions….”  (DE B:18).  Rather, Ms. Thu’s conditions were personal in nature, 
+and “may be subsequently affected by her current mental status.”  (DE B:18).  Even if 
+there was an injury to the right upper extremity, Ms. Thu achieved MMI on April 3, 2023.  
+(DE B:18).   
+Dr. Mooney could not provide an impairment rating because of the invalid 
+measurements taken during the IME, as well as his opinion that Ms. Thu’s subjective 
+complaints of pain did not correlate with any objective findings.  (DE B:19).  He also 
+offered no permanent restrictions for the claimant’s right upper extremity, nor did he 
+recommend further medical treatment.  (DE B:19).   
+The IME concluded by asking Dr. Mooney whether he believed the symptoms 
+alleged to be associated with the March 9, 2022, date of injury to be sequelae 
+conditions of the September 10, 2021, incident.  (DE B:19).  Dr. Mooney cited to the 
+AMA Guides to the Evaluation of Disease and Injury Causation, Second Edition, 
+regarding this issue, and explained that the medical literature “does not support favoring 
+as a reasonable cause for development of symptoms in the contralateral extremity.”  
+(DE B:19).  Further, Dr. Mooney opined that rotator cuff lesions were seen with aging 
+and that activity is beneficial rather than detrimental.  (DE B:19).  In reviewing the job 
+descriptions, the doctor made mention that there was no significant “out of neutral 
+positioning” for the shoulder, and that any repetitive activity lacked force or an unusual 
+position.  (DE B:20).  Dr. Mooney concluded with the statement, “…even if symptoms in 
+the second limb develop after symptoms are present in the first limb (a temporal 
+relationship) there is no scientific support for the concept that having symptoms in the 
+first limb causes an increased rate of disease in the second limb.”  (DE B:19).   
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 21 
+ 
+Ms. Thu has not held a job since October of 2022.  (Testimony).  She stays home 
+now and performs exercises.  (Testimony).  However, she acknowledged that she 
+continues to be an employee of Tyson and testified that she wanted to return to work.  
+(Testimony).  Despite this desire, and a lack of restrictions, Ms. Thu has yet to contact 
+Tyson about returning to work.  (Testimony).   
+Her family doctor referred her for psychiatric care.  (Testimony).  Ms. Thu 
+testified that she desired additional or continued care for her shoulder so that she could 
+try to return to normal.  (Testimony).   
+When asked about her current complaints, Ms. Thu pointed to the left side of her 
+neck, indicated that she lost strength in the left side, and had pain in her left arm.  
+(Testimony).  She also testified that she had limited movement in her left arm and 
+difficulty sleeping.  (Testimony).  With regard to her right side, Ms. Thu testified that she 
+would like to have continued care regarding her right thumb.  (Testimony).  Ms. Thu also 
+testified to issues using her right hand; however, she gesticulated quite often and quite 
+vigorously during the hearing with her right hand.  (Testimony).   
+Ms. Thu also testified that she is having vertigo and dizziness.  (Testimony).  She 
+attributed these to her work at Tyson.  (Testimony).  These were also the reasons for 
+her upcoming visit to a neurologist in January of 2024.  (Testimony).  Upon cross-
+examination, Ms. Thu recounted having dizziness after taking an herbal extract at the 
+outset of the COVID-19 pandemic.  (Testimony).  She also claimed to have work stress 
+after being bullied by a supervisor who told her she was fired.  (Testimony).   
+CONCLUSIONS OF LAW 
+The party who would suffer loss if an issue were not established has the burden 
+of proving that issue by a preponderance of the evidence.  Iowa Rule of Appellate 
+Procedure 6.904(3).  
+Credibility 
+ 
+Before moving into the remainder of this decision, I want to call particular 
+attention to my view of the claimant’s credibility.  This begins with the claimant’s 
+description of the alleged September 10, 2021, work incident.  Initially, she told a nurse 
+at Tyson that she was struck by a “combo,” which is a large bin, that was first struck by 
+a small vehicle known as a mule.  A second version was that she was stuck between 
+two “combos” after one was struck by a mule.  Yet a third version was that she was 
+struck by a mule when attempting to get out of the way.   
+ 
+The same is true of the alleged March 9, 2022, injury.  Ms. Thu initially reported 
+that her right middle finger began “sticking down” several weeks prior.  She was asked 
+by a Tyson provider why she did not make any report of this at an earlier time, to which 
+she responded by changing her story on several occasions.   
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 22 
+ 
+She also was noted to provide differing explanations that had no relation to the 
+questions asked of her.  I observed the same technique or mannerism during the 
+arbitration hearing.  On at least one occasion, I had to warn Ms. Thu to answer the 
+question posed to her, as she often answered questions by meandering off onto a 
+tangent rather than answering the question posed to her by counsel.  Dr. Mooney 
+observed the same tactic during his IME interview in that Ms. Thu jumped “from topic to 
+topic and mostly focused on telling [him] how the injury happened despite attempts at 
+redirection.”   
+ 
+Further harming the claimant’s credibility is her initial description of her alleged 
+September 10, 2021, injury.  She indicated on her initial intake form that she had pain in 
+her left shoulder.  The contemporaneous medical records indicate the same.  However, 
+during her deposition testimony, and during her testimony during the hearing, she 
+claimed that she told the provider and translator that she experienced pain in her neck, 
+as well. 
+ 
+Ms. Thu also claimed on multiple occasions that her left arm somehow became 
+shorter than her right arm as a result of the alleged September 10, 2021, injury.  She 
+made this assertion on a number of occasions, including in a letter to Tyson.  She also 
+made mention of it during her hearing.  In a letter to Tyson, she included photos of this 
+alleged deformity.  It is plain to see from viewing the photographs, that Ms. Thu is 
+standing in an exaggerated manner in order to make it appear as though one arm is 
+longer than the other.   
+ 
+Continuing along these lines of exaggeration, there were several incidents during 
+medical examinations that Ms. Thu refused to allow a provider to examine her left 
+shoulder.  She displayed extreme pain behaviors on a number of occasions, which 
+prevented providers from completing an examination of her left shoulder.  These also 
+prevented range of motion measurements on a number of occasions.  Ms. Thu also 
+made the claim that her stomach was twisted or in pain due to her alleged work injury.  
+There is no medical evidence to affirm this allegation.  During additional examinations, 
+Ms. Thu was noted to display “exaggerated weakness,” and even reported to an 
+examination in a wheelchair.  Her own IME examiner, Dr. Manshadi, observed that Ms. 
+Thu held her upper extremities in a “stiffened manner.”  Upon arrival at the IME with Dr. 
+Mooney, Ms. Thu walked with an antalgic gait and dragged her left leg.  She also used 
+a cane.  Dr. Mooney identified several times during the IME in which Ms. Thu held her 
+extremities in rigid positions.   
+I would note that my observations of Ms. Thu during the hearing indicated the 
+gap between Ms. Thu’s perceptions and/or testimony, and reality.  Ms. Thu testified to 
+various difficulties with her right upper extremity and neck.  Yet, during the hearing, she 
+gesticulated in an exaggerated manner with her right arm, and seemed to move her 
+head and neck with no issue.  Dr. Mooney observed the same issues during his IME.  
+He observed that Ms. Thu would move her head and neck vigorously with no issues 
+when she answered questions or demonstrated how she was allegedly injured.   
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 23 
+ 
+ 
+Based upon the foregoing inconsistencies, and the claimant’s conduct during the 
+hearing, I found the claimant’s credibility to be extremely poor.  In fact, Ms. Thu’s 
+credibility was so poor that I afford little-to-no weight to any of her testimony regarding 
+her subjective issues.   
+Arising Out Of and In the Course Of… 
+There are two alleged dates of injury in this case.  The first stems from a 
+September 10, 2021, incident during which Ms. Thu was either struck by a mule or was 
+struck by a combo that was struck by a mule.  The second incident is from March 9, 
+2022.  Ms. Thu claims that this injury occurred due to overuse of her right arm as a 
+result of her left shoulder injury.  The claimant does not explicitly argue that this injury 
+was a sequela of the September 10, 2021, incident, nor does she explicitly argue that 
+this was a cumulative trauma. 
+To receive workers’ compensation benefits, an injured employee must prove, by 
+a preponderance of the evidence, that the employee’s injuries arose out of, and in the 
+course of the employee’s employment with the employer.  2800 Corp. v. Fernandez, 
+528 N.W.2d 124, 128 (Iowa 1995).  The words “arising out of” refer to the cause or 
+source of the injury.  The words “in the course of” refer to the time, place and 
+circumstances of the injury.  Id.  An injury arises out of employment when a causal 
+relationship exists between the employment and the injury.  Quaker Oats v. Ciha, 552 
+N.W.2d 143, 151 (Iowa 1996).  The injury must be a rational consequence of a hazard 
+connected with the employment and not merely incidental to the employment.  Koehler 
+Elec. v. Wills, 608 N.W.2d 1, 3 (Iowa 2000).  The Iowa Supreme Court has held that an 
+injury occurs “in the course of employment” when:  
+it is within the period of employment at a place where the employee 
+reasonably may be in performing his duties, and while he is fulfilling those 
+duties or engaged in doing something incidental thereto.  An injury in the 
+course of employment embraces all injuries received while employed in 
+furthering the employer’s business and injuries received on the employer’s 
+premises, provided that the employee’s presence must ordinarily be 
+required at the place of the injury, or, if not so required, employee’s 
+departure from the usual place of employment must not amount to an 
+abandonment of employment or be an act wholly foreign to his usual work.  
+An employee does not cease to be in the course of his employment merely 
+because he is not actually engaged in doing some specifically prescribed 
+task, if, in the course of his employment, he does some act which he deems 
+necessary for the benefit or interest of his employer.    
+Farmers Elevator Co., Kingsley v. Manning, 286 N.W.2d 174, 177 (Iowa 1979).    
+ 
+Ms. Thu sustained an injury on September 10, 2021, while she was working at 
+Tyson.  How exactly that injury occurred is not clear; however, she sustained an injury 
+while in the course of her employment with Tyson.  The question then becomes whether 
+the injury arose out of her employment with Tyson.  Tyson does not offer a counter-
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 24 
+ 
+argument as to this issue; however, it appears, despite the claimant’s lack of credibility, 
+that she injured her left shoulder as a result of the September 10, 2021, incident.   
+ 
+As it relates to her neck, there is insufficient proof that the claimant sustained an 
+injury that arose out of her employment with Tyson.  The initial forms and notes indicate 
+no complaints of neck pain.  As noted herein, Ms. Thu’s testimony is less than credible 
+as to a number of issues, including this one.  It was not until several weeks later that 
+she complained of pain upon turning her neck.  There is insufficient evidence in the 
+record for the claimant to carry her burden of proving that she also sustained a neck 
+injury on September 10, 2021, that arose out of her employment with Tyson.   
+ 
+Ms. Thu alleges that she sustained an injury on March 9, 2022.  She testified that 
+she moved meat with her right arm using a hook.  She told a Tyson provider that she 
+had an incident while working a conveyor belt in which she felt a sudden onset of pain in 
+her right shoulder while unjamming a belt.  She also reported that her right middle finger 
+was “sticking down” for the previous three weeks.  When asked by the Tyson provider 
+why she did not report this issue for several weeks, she changed her story several times 
+and began to offer explanations unrelated to the question at hand.  At the time in 
+question, it appears that Ms. Thu was working in a labeling position.  This position 
+required little heavy lifting.  She also was throwing pork tenderloins with her hook.  It is 
+common knowledge, and therefore not information that is extraneous to the record in 
+this case, that most pork tenderloins weigh no more than about 2 pounds.  While Ms. 
+Thu’s credibility is very poor, she was consistent following the alleged date of injury in 
+reporting pain in her right shoulder.  She also reports that the right shoulder pain began 
+with a sudden onset of pain.  Therefore, I find that Ms. Thu sustained an injury to her 
+right shoulder which arose out of and in the course of her employment on March 9, 
+2022.   
+A personal injury contemplated by the workers’ compensation law means an 
+injury, the impairment of health or a disease resulting from an injury which comes about, 
+not through the natural building up and tearing down of the human body, but because of 
+trauma.  The injury must be something that acts extraneously to the natural processes 
+of nature and thereby impairs the health, interrupts or otherwise destroys or damages a 
+part or all of the body.  Although many injuries have a traumatic onset, there is no 
+requirement for a special incident or unusual occurrence.  Injuries which result from 
+cumulative trauma are compensable.  However, increased disability from a prior injury, 
+even if brought about by further work, does not constitute a new injury.  St. Luke’s Hosp. 
+v. Gray, 604 N.W.2d 646 (Iowa 2000); Ellingson v. Fleetguard, Inc., 599 N.W.2d 440 
+(Iowa 1999); McKeever Custom Cabinets v. Smith, 379 N.W.2d 368 (Iowa 1985).  An 
+occupational disease covered by Iowa Code 85A is specifically excluded from the 
+definition of personal injury.  Iowa Code 85.61(4)(b); Iowa Code 85A.8; Iowa Code 
+85A.14. 
+When the injury develops gradually over time, the cumulative injury rule applies.  
+The date of injury for cumulative injury purposes is the date on which the disability 
+manifests.  Manifestation is best characterized as that date on which both the fact of the 
+injury and the causal relationship of the injury to the claimant’s employment would be 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 25 
+ 
+plainly apparent to a reasonable person.  The date of manifestation inherently is a fact-
+based determination.  The fact-finder is entitled to substantial latitude in making this 
+determination and may consider a variety of factors, none of which is necessarily 
+dispositive in establishing a manifestation date.  Among others, the facts may include 
+missing work when the condition prevents performing the job, or receiving significant 
+medical care for the condition.  For time limitation purposes, the discovery rule then 
+becomes pertinent.  The statute of limitations does not begin to run until the employee, 
+as a reasonable person, knows or should know, that the cumulative injury condition is 
+serious enough to have a permanent, adverse impact on his or her employment.  
+Herrera v. IBP, Inc., 633 N.W.2d 284 (Iowa 2001); Oscar Mayer Foods Corp. v. Tasler, 
+483 N.W.2d 824 (Iowa 1992); McKeever Custom Cabinets v. Smith, 379 N.W.2d 368 
+(Iowa 1985).   
+ 
+The questions surrounding Ms. Thu’s right fingers are more complex.  While she 
+reported the alleged pain and triggering on March 9, 2022, she was performing a 
+position that required very little exertion.  She labeled cryovac packaged boneless pork 
+loins.  There is not sufficient evidence to indicate how much exertion was required in 
+this position, but the claimant also did not provide credible evidence that this type of 
+work could result in a cumulative injury.  While Dr. Knudson described her injuries as an 
+overuse injury, he never provided an opinion on causation of the same.  Additionally, his 
+records are replete with mentions that Ms. Thu reported various causes to her injury.  
+As noted above, Ms. Thu is not an accurate historian, and I found her to be less than 
+credible in her testimony.  Therefore, Dr. Knudson’s opinions could be based upon an 
+inaccurate narrative.  The same is true of the opinions of Dr. Manshadi.  Most 
+persuasive on this issue are the opinions of Dr. Mooney, who noted that Ms. Thu’s light 
+exertional work was, “not medically reasonable to consider this activity as causing 
+‘cumulative trauma.’”  Therefore, I find that the claimant’s right hand, wrist, and finger 
+issues did not arise out of and in the course of her employment, and that they were not 
+cumulative injuries.   
+Causation 
+ 
+There are questions as to causation of temporary disability and permanent 
+disability regarding both the left and right shoulders.   
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is 
+probable, rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 
+148 (Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); 
+Sanchez v. Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996).    
+The question of medical causation is “essentially within the domain of expert 
+testimony.”  Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 844-45 (Iowa 
+2011).  The commissioner, as the trier of fact, must “weigh the evidence and measure 
+the credibility of witnesses.”  Id.  The trier of fact may accept or reject expert testimony, 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 26 
+ 
+even if uncontroverted, in whole or in part.  Frye, 569 N.W.2d at 156.  When considering 
+the weight of an expert opinion, the fact-finder may consider whether the examination 
+occurred shortly after the claimant was injured, the compensation arrangement, the 
+nature and extent of the examination, the expert’s education, experience, training, and 
+practice, and “all other factors which bear upon the weight and value” of the opinion.  
+Rockwell Graphic Sys., Inc. v. Prince, 366 N.W.2d 187, 192 (Iowa 1985).  Unrebutted 
+expert medical testimony cannot be summarily rejected.  Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910 (Iowa App. 1994).  Supportive lay testimony may be used 
+to buttress expert testimony, and therefore is also relevant and material to the causation 
+question.    
+Iowa employers take an employee subject to any active or dormant health 
+problems, and must exercise care to avoid injury to both the weak and infirm and the 
+strong and healthy.  Hanson v. Dickinson, 188 Iowa 728, 176 N.W. 823 (1920).  While a 
+claimant must show that the injury proximately caused the medical condition sought to 
+be compensable, it is well established that a cause is “proximate” when it is a 
+substantial factor, or even the primary or most substantial cause to be compensable 
+under the Iowa workers’ compensation system.  Miller v. Lauridsen Foods, Inc., 525 
+N.W.2d 417 (Iowa 1994); Blacksmith v. All-American, Inc., 290 N.W.2d 348 (Iowa 
+1980).    
+Regarding temporary disability and/or healing period benefits, the claimant offers 
+no arguments in her post-hearing briefing.  In the hearing report, Ms. Thu requests 
+temporary disability benefits from October 19, 2022, to April 3, 2023.  This appears to 
+be related to her right hand and wrist issues.  I previously determined that there was 
+insufficient evidence to prove that these injuries arose out of, and in the course of, the 
+claimant’s employment with Tyson.  Therefore, Ms. Thu is not entitled to temporary 
+disability benefits for these dates.  With regard to the left upper extremity, the only time 
+Ms. Thu was kept off of work for her alleged left shoulder issue was for four weeks 
+following March 6, 2023.  Even during this time, she was allowed to work without using 
+her left shoulder.  Dr. Knudson also allowed the claimant to work during this time 
+without using her right shoulder.  There is no evidence in the record to support that the 
+claimant did not work during this time.  See CE 10.  Therefore, I find that the claimant 
+failed to carry her burden to prove entitlement to temporary disability benefits.    
+Turning to permanent disability benefits, I will begin with an examination of the 
+September 10, 2021, incident.  The claimant alleges that she sustained an injury to her 
+left shoulder.  She also alleges injuries to her neck, which I previously found did not 
+arise out of, or in the course of, her employment with Tyson.  Therefore, I will examine 
+causation of this matter solely on the basis of impairment to her left shoulder.   
+The claimant reported her left shoulder injury immediately.  She began treating 
+with Tyson providers on the date of the injury.  During her initial examination, she 
+complained of pain in her left shoulder and was diagnosed with a contusion of the left 
+shoulder.  During this initial examination, she refused to participate in range of motion 
+evaluation.  When looking at her shoulder, the Tyson provider found no swelling, no 
+discoloration, no bruising, and no redness.  She was examined four days later, and 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 27 
+ 
+again no discoloration or swelling were observed.  On September 21, 2021, she again 
+exhibited no signs of bruising or discoloration in her left shoulder, despite allegedly 
+being either struck by a small mule vehicle or pinned between two large combo bins.  
+By the end of September of 2021, she felt her shoulder was better.   
+At the end of October, Ms. Thu requested to be seen by a doctor for her left 
+shoulder pain.  Despite this request, she would not allow her left shoulder to be 
+examined on multiple occasions.  By early November of 2021, Dr. Gordon began 
+treating Ms. Thu.  Dr. Gordon ordered x-rays, which were unremarkable.  An MRI 
+performed in mid-November of 2021, showed capsulitis, bursitis, tendinosis and a SLAP 
+lesion.  The radiologist and Dr. Gordon concurred that the SLAP lesion was chronic in 
+nature and not consistent with any acute injury.  During the course of this treatment, Dr. 
+Gordon could not obtain reliable range of motion measurements due to Ms. Thu’s 
+claimed pain levels or outright refusal to allow examination of her left shoulder.  Dr. 
+Gordon noted on November 23, 2021:  
+Report of left shoulder girdle region pain, left cervical pain, and 
+numbness/tingling/pain down the entirety of her left upper extremity 
+circumferentially.  She reports progression and worsening of her symptoms 
+despite being on light 
+duty. 
+ Her symptoms 
+are in a non-
+anatomical/physiological 
+distribution. 
+ Her examination 
+was non-
+physiological.  Left shoulder MRI and cervical MRI did not reveal any 
+evidence of an acute pathological process and the MRIs do not explain her 
+subjective complaints in which there are no true objective examination 
+findings.     
+Following this narrative report, Dr. Gordon discharged Ms. Thu with no restrictions for 
+her left shoulder.  He also opined she had no impairment.  During a subsequent visit 
+with Dr. Gordon related to her right shoulder issues, Dr. Gordon noted that Ms. Thu 
+moved both upper extremities fully and “without apprehension” when providing him with 
+a medical history.  She showed no issues with left upper extremity range of motion or 
+strength in April of 2022.   
+ 
+Ms. Thu then began seeing her primary care provider, who diagnosed her with 
+left shoulder bursitis and pain.  Dr. Knudson eventually began seeing the claimant in 
+June of 2022.  He noted that Ms. Thu had capsulitis, bursitis, tendinosis, and a SLAP 
+lesion in the left shoulder.  He diagnosed Ms. Thu with left shoulder pain and a left 
+shoulder contusion.  Dr. Knudson could not identify from where Ms. Thu’s pain derived, 
+as it was “fairly diffuse” throughout the left shoulder.  He also did not make any opinions 
+as to causation of the pain, noting only a temporal relationship between her injury and 
+alleged symptoms.  He recommended that Ms. Thu have a joint injection.   
+ 
+Dr. Knudson examined Ms. Thu again on March 6, 2023, for her ongoing left 
+shoulder complaints.  The doctor found Ms. Thu to have complaints of pain that were 
+“…somewhat out of proportion.”  Dr. Knudson recommended an injection to the left 
+shoulder and told Ms. Thu that, if this did not work, he would not have much to offer her 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 28 
+ 
+for treatment.  Dr. Knudson made no opinion as to whether Ms. Thu’s left shoulder 
+injuries caused a permanent impairment.   
+ 
+The claimant then saw Dr. Manshadi at the arrangement of her counsel for an 
+IME.  As noted previously, Dr. Manshadi relied upon the history provided by the 
+claimant.  He also interviewed her and examined her.  Ms. Thu is a poor historian and 
+not credible.  Therefore, the subjective complaints made to Dr. Manshadi are not seen 
+as accurate.  During his examination of the claimant, Dr. Manshadi found Ms. Thu to 
+hold her upper extremities in a stiffened manner.  Despite this, Dr. Manshadi somehow 
+conducted range of motion measurements, which he adopted.  Since Ms. Thu claimed 
+to have pain and reduced active range of motion, Dr. Manshadi opined that the left 
+shoulder injury resulted in permanent impairment to the left shoulder.  Dr. Manshadi 
+also opined that Ms. Thu had a permanent impairment to her neck due to the 
+September 10, 2021, incident.  I previously determined that the claimant did not provide 
+adequate evidence to carry their burden on this issue.   
+ 
+Dr. Mooney then conducted an IME on behalf of Tyson.  Dr. Mooney is board 
+certified in occupational medicine.  Dr. Mooney reviewed the imaging studies and 
+opined that Ms. Thu’s left shoulder SLAP lesion pre-existed her work injury.  Dr. 
+Mooney also made note of Ms. Thu’s demeanor in jumping from “topic to topic and 
+mostly focused on telling me how the injury happened despite attempts at redirection.”  
+Dr. Mooney attempted to examine Ms. Thu, but found that she kept her left arm in a 
+rigid position, resulting in no motion whatsoever in the left shoulder.  She also kept her 
+left elbow bent at a 90-degree angle with her wrist limp.  Despite this lack of motion and 
+Ms. Thu’s claim of no feeling in the left arm, Dr. Mooney found no evidence of muscle 
+atrophy in the left shoulder.  Dr. Mooney further observed that Ms. Thu held her neck in 
+a rigid position, except when answering questions, at which time she would vigorously 
+move her head and neck with no issues.  Dr. Mooney opined that the claimant 
+sustained a contusion to her left shoulder with complaints of pain consistent with a neck 
+strain; however, there was no objective evidence to suggest anything more than a minor 
+trauma which should have resolved in a reasonable time.  Dr. Mooney concluded that 
+the claimant did not have a permanent disability to her left shoulder.   
+ 
+An argument could be made that the September 10, 2021, incident lit-up or 
+aggravated a pre-existing condition in Ms. Thu’s left shoulder.  I find this argument 
+unpersuasive.  Numerous doctors found Ms. Thu to be magnifying her symptoms.  They 
+also found that the objective medical evidence did not correlate to her subjective 
+complaints.  Even Dr. Knudson, who appeared to be doing his best to treat Ms. Thu, 
+could only offer an injection in an effort to alleviate pain.  This is a further indication that 
+the objective studies and examinations did not correlate to Ms. Thu’s subjective 
+complaints.  For these reasons, I find that the claimant’s September 10, 2021, work 
+incident did not aggravate or light up a pre-existing injury in her left shoulder.   
+ 
+As noted herein, I found the claimant to be less than credible.  This is reinforced 
+by her conduct with various medical providers including notes that she held her left 
+upper extremity in a stiffened manner, that she would not allow her left arm range of 
+motion to be examined by treating physicians, and her general demeanor during the 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 29 
+ 
+hearing (including moving her right arm and neck rather vigorously during the hearing).  
+I find the opinions of Dr. Gordon and Dr. Mooney to be the most persuasive.  Dr. 
+Gordon, as the treating physician, noted the presence of a pre-existing SLAP lesion.  
+Dr. Mooney noted that the objective evidence showed that Ms. Thu had minor trauma 
+that should have resolved in a reasonable period of time.  Dr. Manshadi’s opinions were 
+based largely upon the subjective measurements provided during the IME and a less-
+than-credible narrative provided by Ms. Thu.  Therefore, I conclude that the claimant did 
+not meet her burden to prove that she suffered a permanent impairment to her left 
+shoulder.   
+ 
+Next, I turn to the right upper extremity.  I previously determined that the claimant 
+did not carry her burden of proof to show that issues relating to her right hand and wrist 
+arose out of and in the course of her employment with Tyson.  Therefore, I will examine 
+only whether the March 9, 2022, incident caused the claimant a permanent disability to 
+her right shoulder.   
+ 
+Again, Ms. Thu showed resistance to treatment when offered by a therapist.  She 
+quickly reported decreased pain in her right shoulder by March 18, 2022.  During a visit 
+with the Tyson provider on March 25, 2022, Ms. Thu showed full range of motion in her 
+right shoulder with no bruising or swelling.  Ms. Thu visited with Dr. Gordon regarding 
+her right upper extremity complaints on April 12, 2022.  Dr. Gordon observed Ms. Thu 
+moving her bilateral upper extremities with no issues during the appointment.  He also 
+observed that Ms. Thu had no issues with range of motion in her right shoulder.  He 
+concluded that there were no objective signs of any issues to the right shoulder.  He 
+discharged her from care on April 12, 2022, with no restrictions or permanent 
+impairment.   
+ 
+Dr. Gordon examined Ms. Thu again on October 11, 2022.  During this visit, Dr. 
+Gordon observed that Ms. Thu had no issues with range of motion in her right shoulder.  
+He documented that she had only mild tenderness to palpation in the right upper 
+extremity.  Again, Dr. Gordon opined that Ms. Thu had no objective findings based upon 
+his examination.  On November 8, 2022, Dr. Knudson opined that Ms. Thu had 
+reasonable range of motion in her right shoulder.   
+Dr. Manshadi examined Ms. Thu for an IME.  During this IME, Ms. Thu 
+complained of increased pain in her right shoulder with overhead activities.  The doctor 
+observed that Ms. Thu held her upper extremities in a stiffened manner.  Despite this, 
+the doctor conducted range of motion testing and issued an impairment rating based 
+upon the same.  Dr. Manshadi diagnosed the claimant with right shoulder impingement 
+syndrome as a result of overuse of her right upper extremity at Tyson.  This opinion was 
+issued in spite of the lack of objective or imaging evidence regarding the same.  Again, 
+Dr. Manshadi’s opinions were based upon subjective statements of the claimant, which 
+have proven to be less than forthright.  This calls into question the accuracy of Dr. 
+Manshadi’s opinions, especially in light of the lack of objective evidence of a right 
+shoulder injury.   
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 30 
+ 
+Finally, there is the report of Dr. Mooney.  The issues detected by Dr. Mooney 
+with regard to the claimant’s demeanor are again noted.  Ms. Thu complained of right 
+shoulder pain.  Dr. Mooney measured the claimant’s range of motion in her right 
+shoulder, and documented those measurements in his report.  However, Dr. Mooney 
+found wide variations in his measurements that were greater than 10 degrees.  Based 
+upon this, the doctor opined that the measurements were not valid.  The doctor also 
+found no evidence of muscle atrophy in the right shoulder.  Dr. Mooney diagnosed Ms. 
+Thu with right upper extremity pain without an objective finding of injury.  Dr. Mooney 
+opined, “[i]t is my opinion that her current complaints are unrelated to her previous work 
+activities as described in the work job descriptions…”   
+I find the opinions of Dr. Mooney to be the most persuasive.  In addition to the 
+opinions of Dr. Mooney, I would note the lack of objective evidence of any injury to the 
+shoulder.  Ms. Thu simply complains of pain.  Her complaints of pain are betrayed by 
+her conduct noted in medical visits and observed during the hearing.  Namely, the 
+claimant continued to gesticulate vehemently with her right arm despite claimed issues 
+to the same body part.  The opinions of Dr. Manshadi are rejected because they are 
+based upon a faulty premise and the claimant’s less-than-credible narrative.  Therefore, 
+I conclude that the claimant failed to prove that they sustained a permanent impairment 
+related to the alleged March 9, 2022, date of injury.   
+ 
+Considering the foregoing, there is no need to address whether the claimant’s 
+disability should be evaluated as a scheduled member or industrial disability, the extent 
+of permanent disability, whether the claimant is permanently and totally disabled, and 
+the proper commencement date of benefits.   
+Payment of Medical Expenses 
+ 
+The claimant requests an order for Tyson to pay for “treatment examinations, 
+surgeries, injections, physical therapy provided by Dr. Knudson and PCH…” by arguing 
+that these were necessary.  See Claimant’s Post-Hearing Brief, page 28.  The claimant 
+lists the requested medical expenses in their exhibits.   
+The employer shall furnish reasonable surgical, medical, dental, osteopathic, 
+chiropractic, podiatric, physical rehabilitation, nursing, ambulance, and hospital services 
+and supplies for all conditions compensable under the workers’ compensation law.  The 
+employer shall also allow reasonable and necessary transportation expenses incurred 
+for those services.  The employer has the right to choose the provider of care, except 
+where the employer has denied liability for the injury.  Iowa Code 85.27.  Holbert v. 
+Townsend Engineering Co., Thirty-second Biennial Report of the Industrial 
+Commissioner 78 (Review-Reopening, October 1975).   
+Pursuant to Iowa Code 85.27, claimant is entitled to payment of reasonable 
+medical expenses incurred for treatment of a work injury.  Claimant is entitled to an 
+order of reimbursement if he/she has paid those expenses.  Otherwise, claimant is 
+entitled only to an order directing the responsible defendants to make such payments 
+directly to the provider.  See Krohn v. State, 420 N.W.2d 463 (Iowa 1988).   
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 31 
+ 
+ 
+In cases where the employer’s medical plan covers the medical expenses, 
+claimant is entitled to an order of reimbursement only if he has paid treatment costs; 
+otherwise, the defendants are ordered to make payments directly to the provider.  See 
+Krohn, 420 N.W.2d at 463.  Where medical payments are made from a plan to which 
+the employer did not contribute, the claimant is entitled to a direct payment.  Midwest 
+Ambulance Service v. Ruud, 754 N.W.2d 860, 867-68 (Iowa 2008) (“We therefore hold 
+that the commissioner did not err in ordering direct payment to the claimant for past 
+medical expenses paid through insurance coverage obtained by the claimant 
+independent of any employer contribution.”).  See also Carl A. Nelson & Co. v. Sloan, 
+873 N.W.2d 552 (Iowa App. 2015)(Table) 2015 WL 7574232 15-0323.   
+The employee has the burden of proof to show medical charges are reasonable 
+and necessary, and must produce evidence to that effect.  Poindexter v. Grant’s Carpet 
+Service, I Iowa Industrial Commissioner Decisions, No. 1, at 195 (1984); McClellon v. 
+Iowa S. Util., 91-92, IAWC, 266-272 (App. 1992).    
+The employee has the burden of proof in showing that treatment is related to the 
+injury.  Auxier v. Woodward State Hospital-School, 266 N.W.2d 139 (Iowa 1978), 
+Watson v. Hanes Border Company , No. 1 Industrial Comm’r report 356, 358 (1980) 
+(claimant failed to prove medical charges were related to the injury where medical 
+records contained nothing related to that injury)  See also Bass v. Veith Construction 
+Corp., File No 5044438 (App. May 27, 2016)(Claimant failed to prove causal connection 
+between injury and claimed medical expenses); Becirevic v. Trinity Health, File No. 
+5063498 (Arb. December 28, 2018) (Claimant failed to recover on unsupported medical 
+bills). 
+Nothing in Iowa Code section 85.27 prohibits an injured employee from selecting 
+his or her own medical care at his or her own expense following an injury.  Bell Bros. 
+Heating and Air Conditioning v. Gwinn, 779 N.W.2d 193, 205 (Iowa 2010).  In order to 
+recover the reasonable expenses of the care, the employee must still prove by a 
+preponderance of the evidence that unauthorized care was reasonable and beneficial.  
+Id.  The Court in Bell Bros. concluded that unauthorized medical care is beneficial if it 
+provides a “more favorable medical outcome than would likely have been achieved by 
+the care authorized by the employer.”  Id.  Iowa Code section 85.27(4) also allows for a 
+claimant to choose their own care at the employer’s expense in the event of an 
+emergency, provided an agent for the employer cannot be immediately reached.   
+Tyson provided medical treatment with their own providers and Dr. Gordon.  Dr. 
+Gordon released the claimant from care, and returned her to work on a full-time basis 
+without restrictions.  This is reasonable care.  Additionally, the claimant was returned to 
+Dr. Gordon and provided reasonable care.  I previously determined that care related to 
+the right hand and wrist did not arise out of and in the course of Ms. Thu’s employment 
+with Tyson.  Therefore, care related to those conditions is not reimbursable.  I also find 
+that the care offered by Tyson regarding the left and right shoulders was reasonable 
+based upon the information in the record and the opinions of the various medical 
+providers.  As such, I decline to award the requested medical billing, or order Tyson to 
+reimburse the claimant for her medical expenses.   
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 32 
+ 
+Alternate Medical Care 
+Ms. Thu requests an order for alternate medical care to treat her neck, bilateral 
+shoulders, bilateral arms, and her right hand, based upon her chronic pain complaints.   
+Iowa Code section 85.27(4) provides, in relevant part: 
+For purposes of this section, the employer is obliged to furnish reasonable 
+services and supplies to treat an injured employee, and has the right to 
+choose the care….  The treatment must be offered promptly and be 
+reasonably suited to treat the injury without undue inconvenience to the 
+employee.  If the employee has reason to be dissatisfied with the care 
+offered, the employee should communicate the basis of such dissatisfaction 
+to the employer, in writing if requested, following which the employer and 
+the employee may agree to alternate care reasonably suited to treat the 
+injury.  If the employer and employee cannot agree on such alternate care, 
+the commissioner may, upon application and reasonable proofs of the 
+necessity therefor, allow and order other care. 
+Iowa Code section 85.27(4). See Pirelli-Armstrong Tire Co. v. Reynolds, 562 N.W.2d 
+433 (Iowa 1997).   
+“Iowa Code section 85.27(4) affords an employer who does not contest the 
+compensability of a workplace injury a qualified statutory right to control the medical 
+care provided to an injured employee.”  Ramirez-Trujillo v. Quality Egg, L.L.C., 878 
+N.W.2d 759, 769 (Iowa 2016) (citing R.R. Donnelly & Sons v. Barnett, 670 N.W.2d 190, 
+195, 197 (Iowa 2003)).  “In enacting the right-to-choose provision in section 85.27(4), 
+our legislature sought to balance the interests of injured employees against the 
+competing interests of their employers.”  Ramirez-Trujillo, 878 N.W.2d at 770-771 (citing 
+Bell Bros., 779 N.W.2d at 202, 207; IBP, Inc. v. Harker, 633 N.W.2d 322, 326-27 (Iowa 
+2001)).   
+The employer has the right to choose the provider of care, except where the 
+employer has denied liability for the injury.  Iowa Code section 85.27.  Holbert v. 
+Townsend Engineering Co., Thirty-second Biennial Report of the Industrial 
+Commissioner 78 (Review-Reopening, October 16, 1975).  An employer’s right to select 
+the provider of medical treatment to an injured worker does not include the right to 
+determine how an injured worker should be diagnosed, evaluated, treated, or other 
+matters of professional medical judgment.  Assmann v. Blue Star Food, File No. 866389 
+(Declaratory Ruling, May 18, 1988).   
+The employer must furnish “reasonable medical services and supplies and 
+reasonable and necessary appliances to treat an injured employee.”  Stone Container 
+Corp. v. Castle, 657 N.W.2d 485, 490 (Iowa 2003)(emphasis in original).  Such 
+employer-provided care “must be offered promptly and be reasonably suited to treat the 
+injury without undue inconvenience to the employee.”  Iowa Code section 85.27(4).   
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 33 
+ 
+By challenging the employer’s choice of treatment - and seeking alternate care – 
+claimant assumes the burden of proving the authorized care is unreasonable.  See e.g. 
+Iowa R. App. P. 6.904(3)(e); Bell Bros. Heating and Air Conditioning v. Gwinn, 779 
+N.W.2d 193, 209 (Iowa 2010); Long v. Roberts Dairy Co., 528 N.W.2d 122 (Iowa 1995).  
+An injured employee dissatisfied with the employer-furnished care (or lack thereof) may 
+share the employee’s discontent with the employer and if the parties cannot reach an 
+agreement on alternate care, “the commissioner may, upon application and reasonable 
+proofs of the necessity therefor, allow and order the care.”  Id.  “Determining what care 
+is reasonable under the statute is a question of fact.”  Long, 528 N.W.2d at 123; Pirelli-
+Armstrong Tire Co., 562 N.W.2d at 436.  As the party seeking relief in the form of 
+alternate care, the employee bears the burden of proving that the authorized care is 
+unreasonable.  Id. at 124; Gwinn, 779 N.W.2d at 209; Pirelli-Armstrong Tire Co., 562 
+N.W.2d at 436.  Because “the employer’s obligation under the statute turns on the 
+question of reasonable necessity, not desirability,” an injured employee’s dissatisfaction 
+with employer-provided care, standing alone, is not enough to find such care 
+unreasonable.  Id.   
+Treating physician Dr. Gordon determined that the claimant required no further 
+treatment.  Dr. Mooney, whose opinions I previously adopted, opined that the claimant 
+required no further medical care, except for psychiatric care for depression.  Dr. Mooney 
+opined this care would not be related to either of the alleged work incidents.  
+Additionally, her right wrist and hand issues did not arise out of, and in the course of, 
+her employment with Tyson.  The care provided has been reasonable.  The claimant did 
+not meet her burden of proof based upon her unreliable, subjective complaints, that not 
+continuing care is unreasonable.  I decline to order Tyson to provide alternate medical 
+care.   
+Costs 
+The claimant seeks an assessment of costs as listed in Claimant’s Exhibit 11.  
+The claimant also seeks an award of attorney’s fees based upon a section of the Iowa 
+Rules of Civil Procedure.  Costs are to be assessed at the discretion of the deputy 
+commissioner hearing the case.  See 876 Iowa Administrative Code 4.33; Iowa Code 
+section 10A.328.  876 Iowa Administrative Code 4.33(86) provides:  
+[c]osts taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+reviewing health service disputes.   
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 34 
+ 
+Pursuant to the holding in Des Moines Area Regional Transit Authority v. Young, 
+867 N.W.2d 839 (Iowa 2015), only the report of an IME physician, and not the 
+examination itself, can be taxed as a cost according to 876 IAC 4.33(6).  The Iowa 
+Supreme Court reasoned, “a physician’s report becomes a cost incurred in a hearing 
+because it is used as evidence in lieu of the doctor’s testimony,” while “[t]he underlying 
+medical expenses associated with the examination do not become costs of a report 
+needed for a hearing, just as they do not become costs of the testimony or deposition.”  
+Id.  (noting additionally that “[i]n the context of the assessment of costs, the expenses of 
+the underlying medical treatment and examination are not part of the costs of the report 
+or deposition”).  The commissioner has found this rationale applicable to expenses 
+incurred by vocational experts.  See  Kirkendall v. Cargill Meat Solutions Corp., File No. 
+5055494 (App. December 17, 2018); Voshell v. Compass Group, USA, Inc., File No. 
+5056857 (App. September 27, 2019).   
+ 
+The claimant seeks the following costs: 
+ 
+Filing Fee – September 10, 2021, incident 
+ 
+$103.00 
+ 
+Filing fee – March 9, 2022, incident 
+ 
+ 
+$103.00 
+ 
+Service Costs 
+ 
+ 
+ 
+ 
+ 
+$8.06 
+ 
+Court Reporter Transcript – Claimant Deposition 
+$56.00 
+In my discretion, I decline the award the claimant costs.  The parties shall bear their 
+own costs.   
+ 
+The claimant also requests an award of costs based upon Iowa Rule of Civil 
+Procedure 1.517(3)(b).  The claimant argues that Tyson “has denied the fact of the 
+injuries, that the injuries arose out of the Claimant’s employment with Tyson, or that the 
+injuries occurred in the course of Claimant’s employment.”  Specifically, in their post-
+hearing briefing, the claimant requests two thousand and 00/100 dollars ($2,000.00), 
+calculated as 10 hours at two hundred and 00/100 dollars ($200.00) per hour.   
+ 
+The claimant posed requests for admission to Tyson, to which Tyson responded.  
+With regard to the September 10, 2021, incident, Tyson responded as follows: 
+… 
+2. 
+That on the date alleged in the Claimant’s Petition, the 
+Claimant sustained a personal injury to her body. 
+Admit____ 
+ 
+ 
+ 
+Deny__X__ 
+Defendant denies that Claimant sustained an injury within the course 
+and scope of her employment on the alleged date in question; however, 
+Defendant acknowledges that Claimant reported an injury to her left 
+shoulder/upper extremity in the course and scope of employment on or 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 35 
+ 
+about the date in question, which would be limited to the scheduled 
+member, and Defendant further denies that her alleged injuries extend to 
+the body as a whole.   
+3. 
+That on the date alleged in the Claimant’s Petition, the 
+Claimant suffered an injury arising out of her employment. 
+Admit____ 
+ 
+ 
+ 
+Deny__X__ 
+See response to request no. 2. 
+4. 
+That on the date alleged in the Claimant’s Petition, the 
+Claimant suffered an injury in the course of her employment.   
+Admit____ 
+ 
+ 
+ 
+Deny__X__ 
+See response to request no. 2. 
+(CE 1:1-2).  The same requests for admission were propounded with regard to the 
+March 9, 2022, date of incident.   
+… 
+2. 
+That on the date alleged in the Claimant’s Petition, the 
+Claimant sustained a personal injury to her body. 
+Admit____ 
+ 
+ 
+ 
+Deny__X__ 
+Defendant denies that Claimant sustained an injury within the course 
+and scope of her employment on the alleged date in question; however, 
+Defendant acknowledges that Claimant reported an injury to her right 
+shoulder/upper extremity in the course and scope of employment on or 
+about the date in question, which would be limited to the scheduled 
+member, and Defendant further denies that her alleged injuries extend to 
+the body as a whole.   
+3. 
+That on the date alleged in the Claimant’s Petition, the 
+Claimant suffered an injury arising out of her employment. 
+Admit____ 
+ 
+ 
+ 
+Deny__X__ 
+Defendant denies that Claimant suffered an injury arising out of her 
+employment on the date alleged, but Defendant admits Claimant reported 
+pain in her right shoulder on the alleged date of injury. 
+4. 
+That on the date alleged in the Claimant’s Petition, the 
+Claimant suffered an injury in the course of her employment.   
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 36 
+ 
+Admit____ 
+ 
+ 
+ 
+Deny__X__ 
+See response to request no. 3. 
+(CE 1:4-5).   
+The Iowa Rules of Civil Procedure apply to contested case proceedings before 
+the workers’ compensation commissioner, unless they conflict with administrative rules, 
+statutes, or are obviously inapplicable to the workers’ compensation commissioner.  
+See 876 Iowa Administrative Code 4.35.   
+Iowa Rule of Civil Procedure 1.517 generally pertains to the consequences of a 
+failure to make disclosures or discovery.  Iowa Rule of Civil Procedure 1.517(3) more 
+specifically relates to a failure to admit, and the consequences therefrom.  Specifically, 
+Iowa Rule of Civil Procedure 1.517(3)(b) states as follows:  
+Expenses on failure to admit.  If a party fails to admit the genuineness of 
+any document or the truth of any matter as requested under rule 1.510, and 
+if the party requesting the admissions thereafter proves the genuineness of 
+the document or the truth of the matter, the requesting party may move for 
+an order requiring the other party to pay the reasonable expenses incurred 
+in making that proof, including reasonable attorney’s fees.  The court shall 
+make the order unless it finds any of the following: 
+(1) The request was held objectionable pursuant to rule 1.510. 
+  
+(2) The admission sought was of no substantial importance.   
+ 
+(3) The party failing to admit had reasonable grounds to believe that the 
+party might prevail on the matter. 
+ 
+(4) There was other good reason for the failure to admit.   
+ 
+I previously determined that the injuries to the claimant’s left shoulder and right 
+shoulder arose out of, and in the course of her employment.  After evaluating the 
+evidence, I determined that the claimant’s neck injury and right hand or wrist issues did 
+not arise out of and in the course of her employment with Tyson.  The admissions 
+sought were of substantial importance, and were not held to be objectionable.  
+Therefore, the question is whether the exceptions provided in Iowa Rule of Civil 
+Procedure 1.517(3)(b)(3) and (4) apply.  I do not find any “other good reason” for the 
+failure to admit, nor was one provided by Tyson.  Thus, the question is whether Tyson’s 
+failing to admit was based upon their reasonable grounds to believe that they may 
+prevail on the matter.   
+The Iowa Supreme Court previously held, “[a]lthough a trial may ultimately result 
+in a finding that matters denied were true, this does not necessarily mean the matters 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 37 
+ 
+were ‘unreasonably denied.’”  Koegel v. R Motors, Inc., 448 N.W.2d 452, 456 (Iowa 
+1989).  The Court lays out two prongs for evaluating these types of issues, the first of 
+which is whether the denying party had reasonable ground based upon what the party 
+knew at the time of the denial.  Id. at 457.  The second is that what constitutes a 
+reasonable ground is a factual determination, namely, “could a person in the denying 
+party’s position, armed with the information available at the time, reasonably believe 
+there was a basis to deny the request?”  Id.   
+It appears that the responses to the requests for admission were served on 
+claimant by the defendant via e-mail on February 2, 2023.  This is after Ms. Thu was 
+released from care by Dr. Gordon, who opined that Ms. Thu required no permanent 
+restrictions or impairment.  It also is after the claimant’s version of events of the 
+September 10, 2021, incident changed on several occasions.  These occurred after Dr. 
+Knudson issued an opinion that there was only a temporal relationship between the 
+incident and the injuries in question.  Therefore, I find that Tyson had reasonable 
+ground to issue their denials regarding the September 10, 2021, incident.  With regard 
+to the March 9, 2022, incident, the matter was disputed at hearing.  Simply finding that 
+the matters denied were true does not mean that Tyson unreasonably denied the 
+requests for admission.  Tyson had reasonable grounds based upon the information in 
+the record predating their responses to the requests for admission to deny these issues.  
+Therefore, I decline to award the claimant any costs for this issue. 
+ORDER 
+ 
+THEREFORE, IT IS ORDERED: 
+That the claimant shall take nothing further with regard to either alleged date of 
+injury. 
+That the defendant shall file subsequent reports of injury (SROI) as required by 
+this agency pursuant to 876 Iowa Administrative Code 3.1(2) and 876 Iowa 
+Administrative Code 11.7.   
+Signed and filed this __5th __ day of March, 2024. 
+ 
+The parties have been served, as follows: 
+J. Richard Johnson (via WCES) 
+Jason Wiltfang (via WCES) 
+            ANDREW M. PHILLIPS 
+               DEPUTY WORKERS’ 
+     COMPENSATION COMMISSIONER 
+
+THU V. TYSON FRESH MEATS, INC. 
+Page 38 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Division of Workers’ Compensation to file documents in paper form. If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa 
+Division of Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836. The notice of appeal 
+must be received by the Division of Workers’ Compensation within 20 days from the date of the decision. The appeal 
+period will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

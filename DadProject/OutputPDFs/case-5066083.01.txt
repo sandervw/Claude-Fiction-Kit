@@ -1,0 +1,718 @@
+Case Number: 5066083.01
+Case Title:  BOWMAN, ABBEY V. HY-VEE
+Doc Type:    Decision - Deputy
+Source:      Bowman Abbey-5066083.01d.pdf
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+ABBEY K. BOWMAN, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                       File No. 5066083.01 
+HY-VEE, INC., 
+  : 
+ 
+ 
+  :                      A R B I T R A T I O N  
+ 
+Employer, 
+  : 
+ 
+ 
+  :                           D E C I S I O N 
+and 
+ 
+  : 
+ 
+ 
+  : 
+EMC RISK SERVICES, L.L.C., 
+  : 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  :         Head Notes:  1703, 1802, 1803, 2501,  
+ 
+Defendants. 
+  :                               2502, 2907, 4000.2 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Abbey Bowman, claimant, filed a petition for arbitration against Hy-Vee, Inc., as 
+the employer and EMC Risk Services, L.L.C., as the insurance carrier.  This case came 
+before the undersigned for an arbitration hearing on July 31, 2020. 
+The parties filed a hearing report at the commencement of the hearing.  On the 
+hearing report, the parties entered into numerous stipulations.  Those stipulations were 
+accepted and no factual or legal issues relative to the parties’ stipulations will be made 
+or discussed.  The parties are now bound by their stipulations. 
+The evidentiary record includes Joint Exhibits 1 through 14, Claimant’s Exhibits 1 
+through 10, and Defendants’ Exhibits A through G.  Claimant testified on her own 
+behalf.  No other witnesses testified at trial.  The evidentiary record was suspended at 
+the conclusion of the arbitration hearing pending receipt of Joint Exhibit 14 and 
+Claimant’s Exhibit 10, both of which were timely filed and received into the evidentiary 
+record.   
+However, counsel for the parties requested an opportunity to file post-hearing 
+briefs.  This request was granted and both parties filed briefs simultaneously on August 
+31, 2020.  The case was considered fully submitted to the undersigned on that date. 
+ 
+ 
+ELECTRONICALLY FILED     2020-Nov-09  08:16:13     DIVISION OF WORKERS' COMPENSATION
+
+BOWMAN V. HY-VEE, INC. 
+Page 2 
+ISSUES 
+The parties submitted the following disputed issues for resolution: 
+1. 
+The extent of claimant’s entitlement to temporary total, temporary partial, 
+or healing period, benefits, if any. 
+2. 
+The extent of claimant’s entitlement to permanent disability, if any. 
+3. 
+The proper commencement date for permanent disability benefits, if any. 
+4. 
+Whether claimant is entitled to payment, reimbursement, or satisfaction of 
+past medical expenses, including medical mileage. 
+5. 
+Whether claimant is entitled to reimbursement for an independent medical 
+evaluation pursuant to Iowa Code section 85.39. 
+6. 
+Whether defendants are entitled to a credit for permanent partial disability 
+benefits paid to claimant. 
+7. 
+Whether defendants should be ordered to pay penalty benefits to claimant 
+for alleged unreasonable denial or delay in payment of benefits. 
+8. 
+Whether costs should be assessed and, if so, in what amount. 
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+Abbey Bowman, claimant, is a 45-year-old woman, who sustained an admitted 
+work injury on March 8, 2017.  On that date, Ms. Bowman worked for Hy-Vee as a 
+Chinese Express Supervisor.  As part of her duties, Ms. Bowman pulled on a grease pan 
+that weighed approximately 100 pounds.  Unfortunately, the pan was stuck and when 
+claimant pulled on it she experienced immediate symptoms, which included burning in 
+the back of her right arm.  She testified that the symptoms also ran up the back of her 
+arm into the right shoulder and, by the end of her shift, also radiated down into her right 
+forearm.  (Claimant’s testimony) 
+Hy-Vee sent claimant to an occupational medicine physician and claimant was 
+placed on temporary work restrictions.  Claimant testified that the medical providers 
+initially thought perhaps she had simply pulled a muscle in her right arm.  (Claimant’s 
+testimony)  She was later referred to an orthopaedic surgeon, Thomas S. Gorsche, M.D.  
+(Joint Exhibit 6) 
+Dr. Gorsche initially evaluated claimant on March 20, 2017.  He diagnosed 
+claimant with tendinitis in the right triceps as well as traumatic irritation of the ulnar nerve 
+with possible cubital tunnel syndrome of the right elbow.  (Joint Ex. 6, page 35)  On return 
+
+BOWMAN V. HY-VEE, INC. 
+Page 3 
+evaluation on April 3, 2017, Dr. Gorsche noted continued ulnar nerve irritation and 
+possible triceps insertional tendinitis.  He kept claimant off work and recommended 
+electrical studies of claimant’s right arm.  (Joint Ex. 6, p. 36) 
+The nerve conduction studies were negative.  Nevertheless, claimant’s elbow pain 
+continued.  Dr. Gorsche recommended a diagnostic injection and maintained claimant on 
+a restriction against working with the right arm.  (Joint Ex. 6, p. 37)   
+Dr. Gorsche also obtained an MRI of claimant’s right elbow.  On May 15, 2017, he 
+discussed the MRI results with claimant and explained that it was “totally normal.”  Dr. 
+Gorsche was unclear what was causing claimant’s ongoing symptoms in the right elbow.  
+He recommended a second opinion.  (Joint Ex. 6, p. 38)  The occupational medicine 
+physician concurred and defendants authorized a second orthopaedic evaluation with 
+Todd Johnston, M.D. 
+Dr. Johnston first evaluated claimant on July 19, 2017.  Dr. Johnston documented 
+that claimant’s chief complaint at that time was right elbow pain.  He diagnosed her with 
+an ulnar collateral ligament tear, mild tennis elbow, possible posterolateral plica syndrome 
+as well as valgus extension overload.  (Joint Ex. 9, p. 61)  Dr. Johnston noted objective 
+findings, including clicking and popping in the right elbow and recommended injections 
+into the right elbow to relieve symptoms.  (Joint Ex. 9, p. 61) 
+Unfortunately, symptoms did not resolve with an injection.  Dr. Johnston diagnosed 
+claimant with right elbow instability and recommended surgical intervention.  On August 
+11, 2017, Dr. Johnston performed a right elbow posterior arthrotomy with synovectomy.  
+His operative note indicates that he also performed an excision of an olecranon spur, a 
+lateral epicondylar release, as well as an ulnar collateral ligament reconstruction with 
+autograft and an ulnar nerve transposition.  (Joint Ex. 8, p. 52) 
+Unfortunately, in September 2017, Ms. Bowman reported residual numbness in 
+the ulnar distribution after surgery.  (Joint Ex. 9, p. 64)  At a follow-up in December 2017, 
+Ms. Bowman continued to report to Dr. Johnston that she had ongoing discomfort in her 
+right elbow and that the outside of her right elbow discolored.  However, she was working 
+full-duty at that point in time.  Dr. Johnston noted, “persistent pain in the posterior 
+compartment” and that “surgery has failed to address it.”  (Joint Ex. 9, p. 66)  That pain 
+worsened with attempts to perform heavy lifting, pushing, or pulling.  (Joint Ex. 9, p. 65)  
+Dr. Johnston diagnosed tendinitis of the right triceps, ongoing right elbow pain, and 
+neuritis of the right ulnar nerve at that evaluation and recommended a second surgical 
+procedure.  (Joint Ex. 9, pp. 66-67) 
+Ms. Bowman returned to surgery with Dr. Johnston on February 5, 2018.  Dr. 
+Johnston performed a right elbow arthroscopy, debridement, ulnar nerve neurolysis and 
+repair and reattachment of the right triceps tendon.  (Joint Ex. 8, p. 54)  At a follow-up 
+visit with Dr. Johnston on April 25, 2018, Ms. Bowman reported continued pain and 
+tenderness at the elbow, as well as numbness on the medial aspect of the elbow and 
+some swelling.  (Joint Ex. 9, p. 71)  Dr. Johnston discontinued physical therapy and 
+
+BOWMAN V. HY-VEE, INC. 
+Page 4 
+released claimant to return to full duty work without permanent work restrictions on April 
+25, 2018.  (Joint Ex. 9, p. 72) 
+However, claimant later returned for further evaluation by Dr. Johnston.  Dr. 
+Johnston determined that claimant was experiencing symptoms because some of her 
+right elbow hardware was backing out.  Once again, he recommended surgical 
+intervention for claimant’s right elbow.  On May 22, 2018, Dr. Johnston took claimant to 
+surgery for the third time to remove the painful hardware in claimant’s right elbow.  (Joint 
+Ex. 8, p. 56)   
+Claimant continued to complain of symptoms and returned for further care with Dr. 
+Johnston.  On July 2, 2018, Dr. Johnston noted claimant had a positive Spurling’s 
+maneuver and recommended a cervical spine MRI to determine whether claimant had a 
+herniated disc in her neck.  (Joint Ex. 9, p. 76)  On July 17, 2018, Dr. Johnston reviewed 
+claimant’s cervical MRI and recommended referral to a pain clinic for treatment of the 
+neck.  When asked about causation of the neck symptoms, Dr. Johnston noted that he 
+was “unsure,” stating, “The causation is unclear.”  (Joint Ex. 9, p. 77)  Defendants denied 
+liability at this point and challenge whether claimant’s neck symptoms or treatment are 
+causally related to the work injury.  In an October 25, 2018 report, Dr. Johnston offered 
+an opinion that claimant sustained a three percent permanent functional impairment of 
+her right upper extremity as a result of her March 8, 2017 work injury.  (Joint Ex. 9, p. 80) 
+Ultimately, claimant sought medical care for her neck through a pain clinic, was 
+referred to a neurosurgeon, and submitted to neck surgery.  Claimant asserts all of the 
+pain clinic treatment and neck surgery are causally related to the work injury.  Defendants 
+contest this and challenge causation of the neck condition and resulting treatment.  
+Instead, defendants point out pre-existing medical care of the neck, including treatment 
+after a motor vehicle accident in 2016. 
+Therefore, the primary and initial dispute in this case is whether the March 8, 2017 
+work injury caused or materially aggravated Ms. Bowman’s neck condition.  The 
+evidentiary record contains significant disagreement on this issue between the various 
+medical professionals.  Not surprisingly, each party obtained an independent medical 
+evaluation and each independent evaluator sided with the party that hired him to perform 
+his evaluation.  Farid Manshadi, M.D. performed an evaluation on March 11, 2020 and 
+authored a report dated April 27, 2020.  (Claimant’s Exhibit 2)  Dr. Manshadi opined that 
+the work injury caused ulnar neuropathy in claimant’s right arm.  He also opined that the 
+work injury caused a significant aggravation of a pre-existing lateral epicondylitis in 
+claimant’s right elbow.  (Claimant’s Ex. 2, p. 14) 
+Additionally, with respect to the neck condition, Dr. Manshadi opined: 
+Ms. Bowman sustained a neck injury as a result of the 03/08/17 work injury.  
+Again, I believe she has had issues with her neck prior to the work injury 
+mentioned above.  However, I believe the accident at work on 03/08/17 
+caused significant aggravation and eventually necessitated the neck  
+
+BOWMAN V. HY-VEE, INC. 
+Page 5 
+surgery by Dr. Buchanan which required a 3-level fusion at C5-6 and C6-7. 
+(Claimant’s Ex. 2, p. 14) 
+Defendants obtained an independent medical evaluation performed by Charles 
+Mooney, M.D. on June 22, 2020.  (Defendants’ Ex. A)  Dr. Mooney concurred that 
+claimant sustained an aggravation of her extensor tendinitis at the elbow and wrist as a 
+result of the March 2017 work injury.  He also concurs that claimant experienced an 
+increase in ulnar neuropathy as a result of the work injury, which resulted in surgical 
+intervention on the right elbow.  (Defendants’ Ex. A, p. 8) 
+However, Dr. Mooney diverges from Dr. Manshadi regarding the cause of Ms. 
+Bowman’s neck symptoms.  Dr. Mooney diagnosed claimant with two prior neck injuries 
+and opines that she had “advancing degenerative disc disease” prior to the March 8, 2017 
+work injury.  (Defendants’ Ex. A, p. 9)  Dr. Mooney opines: 
+[T]he medical record does not support that an injury occurred to her cervical 
+spine related to the incident of 3/8/2017.  It is my opinion that the medical 
+record clearly shows that Ms. Bowman was under the treatment of Dr. Afzal 
+and receiving epidural injections prior to the incident of 3/8/2017, and it is 
+my opinion that the incident would not cause objective advancement of the 
+cervical spine condition, as is documented by the MRI performed on 
+7/17/2018, and compared to the MRI prior to injury of 1/8/2016. 
+(Defendants’ Ex. A, p. 10)  Dr. Mooney further opines that “based on Bradford Hill 
+Causality Criteria of temporality, specificity and strength of association, that the incident 
+of 3/8/2017 did neither materially aggravate nor objectively advance her underlying 
+degenerative cervical condition.”  (Defendants’ Ex. A, p. 10) 
+Dr. Manshadi is a board-certified physical medicine and rehabilitation physician.  
+He does not appear to be a certified independent medical evaluator according to his 
+curriculum vitae.  (Claimant’s Ex. 3)  Dr. Mooney is a board certified occupational 
+medicine physician.  He is a member of the American Board of Independent Medical 
+Examiners.  (Defendants’ Ex. B)  Neither carries credentials that are so superior to the 
+other that their opinion necessarily carries greater weight.   
+Claimant’s testimony tends to bolster the opinions of Dr. Manshadi.  Ms. Bowman 
+testified that the pain she experienced in the back of her right arm improved after neck 
+surgery.  (Tr., p. 35)  Medical records document that the numbness in her right pinky 
+finger also improved after her neck surgery.  (Joint Ex. 13, pp. 104, 106)  The medical 
+records after claimant’s surgery also document increase in her right triceps strength.  
+(Joint Ex. 13, p. 102)  While claimant’s testimony was generally reasonable, it did not 
+convince me that Dr. Manshadi’s opinions were clearly more reliable and accurate than 
+those offered by Dr. Mooney. 
+Ultimately, my analysis turns to the opinions of the treating physicians.  
+Unfortunately, neither claimant nor defendants asked the treating surgeon, Russell I. 
+Buchanan, M.D., to offer an opinion on whether the March 2017 work injury caused or 
+
+BOWMAN V. HY-VEE, INC. 
+Page 6 
+materially aggravated Ms. Bowman’s neck condition.  However, several other treating 
+physicians did offer causation opinions. 
+Dr. Gorsche, is an orthopaedic surgeon and was the initial surgeon to treat Ms. 
+Bowman’s right arm.  Dr. Gorsche offered a report dated August 18, 2018 in which he 
+notes that he reviewed his office notes and that Ms. Bowman “never complained of any 
+neck pain.”  (Defendants’ Ex. D, p. 16)  Dr. Gorsche further explained that the medical 
+history claimant completed upon presenting to his office did not mention any complaints 
+of neck pain.  Dr. Gorsche further confirmed that he did not recall any complaints of neck 
+pain being expressed by claimant. 
+Dr. Gorsche also reviewed the MRI report of claimant’s neck dated July 13, 2018.  
+He noted that claimant did have complaints of paresthesias of her fourth and fifth fingers 
+on her right hand.  However, he noted that the MRI report did not suggest those symptoms 
+were related to a neck injury or that “there was any pressure on the C7-C8 nerve, which 
+controls the sensation of those digits.”  (Defendants’ Ex. D, p. 16)  Dr. Gorsche 
+acknowledged that he is not a neck surgeon but still opined, “there is no documentation 
+of her having any cervical issues while I treated her.”  (Defendants’ Ex. D, p. 16) 
+Orthopaedic care was later transferred from Dr. Gorsche to Dr.  Johnston.  Dr. 
+Johnston opined, if claimant’s right triceps pain was determined to be related to a neck 
+injury then it is likely related to her neck condition and aggravated by the work injury.  
+(Claimant’s Ex. 1, p. 1)  Defendants challenge this opinion, asserting that claimant did not 
+provide Dr. Johnston accurate information.  Specifically, defendants point to Dr. 
+Johnston’s July 17, 2018 office note.  In that note, Dr. Johnston records that claimant told 
+him, “she didn’t have neck problems until the elbow injury.”  (Joint Ex. 9, p. 77)  On that 
+date, Dr. Johnston stated that he was “unsure” and that “causation is unclear whether 
+claimant’s neck condition is related to the work injury.”  (Joint Ex. 9, p. 77) 
+Like Dr. Gorsche, it is apparent that Dr. Johnston does not treat neck injuries and 
+did not attempt to treat claimant’s neck.  Instead, Dr. Johnston recommended and referred 
+claimant to a pain specialist, Ashar Afzal, M.D., for evaluation and, if necessary, treatment 
+of her neck.  (Joint Ex. 9, p. 77)   
+Dr. Afzal actually treated claimant for neck pain prior to the work injury.  In August 
+2016, Dr. Afzal evaluated claimant for a chief complaint of neck pain.  At that time, Dr. 
+Afzal recorded that claimant’s neck pain had been ongoing for one year and noted that 
+her chronic neck pain was aggravated by a motor vehicle accident occurring on June 14, 
+2016.  (Joint Ex. 11, p. 84) 
+At Dr. Afzal’s August 11, 2016 evaluation, Ms. Bowman reported 7 out of 10 pain 
+levels associated with her neck.  She also reported prior treatments for her neck including 
+physical therapy, chiropractic manipulation and massage, as well as medication usage.  
+(Joint Ex. 11, p. 84)  Dr. Afzal reviewed an MRI of the neck, which had been performed 
+on August 1, 2016.  He diagnosed claimant with cervical radicular symptoms.  Dr. Afzal 
+recommended and performed an epidural steroid injection into claimant’s neck.  (Joint 
+
+BOWMAN V. HY-VEE, INC. 
+Page 7 
+Ex. 11, p. 85)  Dr. Afzal’s treatment in 2016 clearly refutes the medical history claimant 
+gave to Dr. Johnston in July 2018.  (Joint Ex. 9, p. 77) 
+Dr. Afzal evaluated claimant again on September 1, 2016 and repeated the 
+epidural steroid injection.  (Joint Ex. 11, p. 90)  Ms. Bowman did not return to Dr. Afzal’s 
+clinic again until August 16, 2018, when she was evaluated by Daniel G. Glascock, M.D.  
+Dr. Glascock recorded that claimant reported “decent relief” from the 2016 injections.  At 
+the time of his August 2018 evaluation, Dr. Glascock recorded that claimant sustained a 
+work related injury to her right elbow, submitted to three elbow surgeries, but continued 
+to experience pain in the right shoulder blade, extending towards the neck and also 
+radiating down the right shoulder and into the forearm.  Dr. Glascock recorded developing 
+weakness and numbness.  Dr. Glascock diagnosed claimant with cervical degenerative 
+spondylosis with cervical radicular symptoms.  (Joint Ex. 11, p. 93)  Dr. Glascock 
+performed an epidural injection at the C6-C7 level on August 16, 2018.  (Joint Ex. 11, p. 
+94) 
+Ms. Bowman returned to see Dr. Glascock on May 7, 2019.  He offered claimant 
+a surgical consultation at that time and records that claimant “absolutely declines.”  (Joint 
+Ex. 11, p. 95)  Upon claimant returning to the pain clinic on May 29, 2019, Dr. Afzal 
+evaluated her again.  Dr. Afzal recommended referral for a surgical evaluation with Dr. 
+Buchanan.  (Joint Ex. 11, p. 96)  Dr. Buchanan subsequently evaluated claimant, 
+recommended, and performed surgical intervention on claimant’s neck. 
+Having evaluated and treated claimant both before and after the work injury, Dr. 
+Afzal holds a unique perspective that no other physician offering a causation opinion 
+holds.  Defendants inquired of Dr. Afzal about his opinion regarding claimant’s neck injury.  
+On December 9, 2019, Dr. Afzal opined that he “cannot state within a reasonable degree 
+of medical certainly that Claimant’s May 8, 2017 right elbow injury aggravated Claimant’s 
+cervical condition.”  (Defendants Ex. C, p. 15)  Dr. Afzal’s opinion is offered as a “check 
+the box” opinion letter, rather than as a narrative prepared by Dr. Afzal.  Nevertheless, 
+the fact that Dr. Afzal evaluated claimant in 2016 and again after the 2018 work injury 
+leaves Dr. Afzal in a unique position. 
+Dr. Johnston suggested that the right triceps pain would be related to the work 
+injury and opined that the neck would be related if it were the cause of the right triceps 
+pain.  As noted, however, Dr. Johnston believed claimant had no prior neck condition 
+before he treated claimant.  This is inaccurate.  I am not confident that Dr. Johnston had 
+an accurate understanding of claimant’s medical history related to her neck.  Dr. Johnston 
+also acknowledged he is not a spine surgeon and referred claimant back to Dr. Afzal’s 
+clinic.  For these reasons, I do not give Dr. Johnston’s causation opinion significant weight 
+in this case. 
+Dr. Gorsche is also not a neck or spine specialist.  However, his comments that 
+the patient intake form and his medical notes demonstrate no complaints of neck 
+problems is somewhat instructive.  Dr. Gorsche also opined that there was no evidence 
+of pressure on the C7-C8 nerve root in claimant’s neck to explain claimant’s symptoms 
+
+BOWMAN V. HY-VEE, INC. 
+Page 8 
+into the fourth and fifth fingers of her right hand.  Dr. Glascock offered no opinion 
+regarding causation. 
+Considering all of the medical opinions in this record, I find the opinions of Dr. Afzal 
+to be the most informed and credible.  Dr. Afzal treated claimant before and after the work 
+injury.  He clearly understood that claimant had a prior neck injury, the significance of that 
+injury, and also knew about the work injury in this case.  Possessing all of the relevant 
+knowledge, Dr. Afzal opined that he cannot state within a reasonable degree of medical 
+certainty that the right elbow work injury materially aggravated claimant’s pre-existing 
+neck condition.  To the extent that Dr. Mooney’s opinions support and concur with Dr. 
+Afzal, I also adopt and accept those as accurate.  Ultimately, I find that claimant failed to 
+prove that the work injury caused or materially aggravated her neck condition or caused 
+the need for her neck surgery. 
+With respect to claimant’s right elbow injury, it appears that Dr. Johnston, Dr. 
+Mooney, and Dr. Manshadi all concur that claimant has achieved maximum medical 
+improvement.  I accept those opinions and find that Ms. Bowman’s right elbow injury 
+achieved maximum medical improvement prior to trial.   
+I previously noted Dr. Johnston’s three percent permanent impairment rating.  
+(Joint Ex. 7, p. 45)  Defendants also asked Dr. Mooney to comment on claimant’s right 
+arm impairment.  Dr. Mooney identified loss of extension in the right elbow, loss of two-
+point discrimination due to the ulnar nerve issues, and combined those impairments to 
+opine that Ms. Bowman sustained a total of 12 percent permanent functional impairment 
+of the right upper extremity.  (Defendants’ Ex. A, p. 9) 
+Claimant also requested an opinion from Dr. Manshadi pertaining to his right elbow 
+injury.  Dr. Manshadi identified a slightly worse extension measurement in claimant’s right 
+elbow than was identified by Dr. Mooney.  He concurred that claimant sustained reduced 
+sensation as a result of the ulnar nerve injury.  In total, Dr. Manshadi opined that Ms. 
+Bowman sustained 13 percent permanent functional impairment of the right upper 
+extremity as a result of the March 8, 2017 work injury.  (Claimant’s Ex. 2, p. 15) 
+Dr. Johnston’s functional impairment rating seems extremely low considering the 
+extent of the difficulties Ms. Bowman experienced in her right elbow.  Additionally, Dr. 
+Johnston’s impairment rating does not offer impairment for any loss of sensation caused 
+by the ulnar nerve injury.  Both Dr. Mooney and Dr. Manshadi identified impairment 
+related to the ulnar nerve.  Therefore, I do not find the impairment rating offered by Dr. 
+Johnston to be complete or convincing. 
+Noting that Dr. Mooney and Dr. Manshadi’s impairment ratings are quite similar 
+and having previously accepted Dr. Mooney’s causation opinion pertaining to the neck, I 
+find that Dr. Mooney’s impairment rating of 12 percent of the right upper extremity is the 
+most convincing and accurate assessment of claimant’s permanent loss of function of the 
+right arm.  Dr. Mooney’s impairment rating appears to consider claimant’s ongoing 
+complaints, including difficulties cooking, lifting heavy pans, difficulties opening jars, 
+difficulties cutting vegetables, as well as difficulties with household chores such as 
+
+BOWMAN V. HY-VEE, INC. 
+Page 9 
+vacuuming, carrying laundry, mopping, and yard work.  On the other hand, claimant has 
+found alternate employment and is currently working full-duty without permanent medical 
+restrictions at Lowe’s.  Therefore, I find that Dr. Mooney’s impairment rating conforms to 
+the difficulties expressed by claimant.  Claimant has proven a 12 percent permanent 
+functional impairment and loss of the right arm as a result of the March 8, 2017 work 
+injury. 
+Ms. Bowman seeks an award of healing period benefits from September 19, 2017 
+through October 17, 2017 and from August 29, 2019 through November 12, 2019.  The 
+latter time period occurs after Ms. Bowman submits to neck surgery.  The time period 
+from August 28, 2019 through November 12, 2019 is found not related to the March 8, 
+2017 work injury. 
+However, September 19, 2017 through October 17, 2017 represents the period of 
+time between Ms. Bowman’s termination by Hy-Vee and her obtaining a new full-time 
+position with Lowe’s.  Defendants put in very cursory evidence about claimant’s 
+termination.  In Defendants’ Exhibit F, page 18, defendants noted claimant’s reason for 
+separation as, “Conduct unbecoming a Hy-Vee employee.” 
+Claimant shed some light on this during her testimony.  She acknowledged that 
+she added some fuel saver credits to her Hy-Vee Fuel Saver Card after a purchase 
+because the system failed to add the rewards accurately.  She testified that she added 
+the credits to her card before she went for neck surgery.  Upon returning after surgery, 
+she was terminated by Hy-Vee.  (Claimant’s testimony) 
+It is reasonable and understandable why Hy-Vee would not want employees to 
+add credits to their own Fuel Saver Card.  At the very least, such conduct creates an 
+impression of theft, favoritism to management, or other “unbecoming” conduct.  While the 
+computer system at Hy-Vee likely did error and fail to credit Ms. Bowman appropriately 
+for her purchases toward her fuel saver credits, it is not reasonable or appropriate for a 
+member of management to add credits to their own card for the reasons stated above.   
+As will be described below, based upon prior agency case law and definitions, I 
+find Ms. Bowman’s conduct was serious and that it was the type of conduct that would 
+reasonably cause any employer to terminate any employee.  For the reasons outlined 
+below, I find that the conduct had serious adverse economic impact on the employer and 
+was more than inconsequential misconduct that employers typically overlook or tolerate. 
+The parties in this case also dispute the proper date upon which permanent 
+disability benefits should commence.  Ms. Bowman was off work after elbow surgeries.  
+However, she acknowledged that she returned to work after her August 11, 2017 surgery 
+on September 9, 2017.  I accept claimant’s testimony in this regard and find that claimant 
+returned to work for Menards on September 9, 2017. 
+However, reviewing the payment records produced at Defendants’ Exhibit G, I note 
+that claimant was paid healing period benefits from March 21, 2017 through April 9, 2017.  
+Healing period was then discontinued and no further claim for healing period benefits is 
+
+BOWMAN V. HY-VEE, INC. 
+Page 10 
+made for the period between April 10, 2017 through June 18, 2017.  (Defendants’ Ex. G, 
+p. 1; Hearing Report)  Contemporaneous medical records for this period suggest claimant 
+returned to work for Hy-Vee on at least light duty during that time.  (Joint Ex. 5, pp. 27, 
+30; Joint Ex. 6, pp. 36-38)  I find that Ms. Bowman initially returned to work and ended 
+her first healing period on April 10, 2017. 
+Defendants also assert a credit for payment of 30 weeks of permanent partial 
+disability at the rate of $432.19.  Review of Defendants’ Exhibit G discloses only three 
+payments toward permanent disability benefits totaling $9,803.12.  These benefits were 
+also supposed to include some interest owed and represent less than 30 weeks of 
+benefits at the weekly rate of $432.19.  I find that defendants proved they paid $9,803.12 
+toward their obligation for permanent partial disability benefits. 
+CONCLUSIONS OF LAW 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995).  Miller v. 
+Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 1994).  Unrebutted expert medical 
+testimony cannot be summarily rejected.  Poula v. Siouxland Wall & Ceiling, Inc., 516 
+N.W.2d 910 (Iowa App. 1994). 
+While a claimant is not entitled to compensation for the results of a preexisting 
+injury or disease, its mere existence at the time of a subsequent injury is not a defense.  
+Rose v. John Deere Ottumwa Works, 247 Iowa 900, 76 N.W.2d 756 (1956).  If the 
+claimant had a preexisting condition or disability that is materially aggravated, 
+accelerated, worsened or lighted up so that it results in disability, claimant is entitled to 
+recover.  Nicks v. Davenport Produce Co., 254 Iowa 130, 115 N.W.2d 812 (1962); 
+Yeager v. Firestone Tire & Rubber Co., 253 Iowa 369, 112 N.W.2d 299 (1961). 
+In this case, the initial and primary dispute is whether claimant’s March 8, 2017 
+work injury caused or materially aggravated her underlying and pre-existing neck 
+
+BOWMAN V. HY-VEE, INC. 
+Page 11 
+condition.  Having reviewed the pertinent medical causation opinions, I ultimately 
+accepted the opinions of Dr. Afzal and Dr. Mooney as the most convincing and credible 
+in this evidentiary record.  As a result, I found that claimant did not prove by a 
+preponderance of the evidence that her current neck condition or her neck surgery were 
+causally related to the March 8, 2017 work injury.  As such, I conclude claimant is not 
+entitled to healing period, permanent disability, or medical benefits relative to her neck 
+condition. 
+However, claimant sustained an admitted right elbow injury as a result of her 
+work activities on March 8, 2017.  All parties stipulate that Ms. Bowman sustained 
+permanent disability as a result of the right elbow injury.  The dispute between the 
+parties is the extent of claimant’s entitlement to permanent disability. 
+Having found that the alleged neck injury is not causally related to the work 
+injury, I conclude that claimant’s injury is limited to the right elbow and triceps.  Under 
+the Iowa Workers' Compensation Act, permanent partial disability is compensated either 
+for a loss or loss of use of a scheduled member under Iowa Code section 85.34(2)(a)-(t) 
+or for loss of earning capacity under section 85.34(2)(u).  The extent of scheduled 
+member disability benefits to which an injured worker is entitled is determined by using 
+the functional method.  Functional disability is "limited to the loss of the physiological 
+capacity of the body or body part.”  Mortimer v. Fruehauf Corp., 502 N.W.2d 12, 15 
+(Iowa 1993); Sherman v. Pella Corp., 576 N.W.2d 312 (Iowa 1998).  The fact finder 
+must consider both medical and lay evidence relating to the extent of the functional loss 
+in determining permanent disability resulting from an injury to a scheduled member.  
+Terwilliger v. Snap-On Tools Corp., 529 N.W.2d 267, 272-273 (Iowa 1995); Miller v. 
+Lauridsen Foods, Inc., 525 N.W.2d 417, 420 (Iowa 1994). 
+In this instance, I found Dr. Mooney’s opinions to be most credible and 
+convincing on the issue of permanent functional impairment.  Therefore, I also found 
+that claimant proved a 12 percent permanent functional impairment of her right arm.   
+Pursuant to Iowa Code section 85.34(2)(m)(2016), an injury to the arm is 
+compensated on a 250-week schedule.  An injury resulting in less than total disability of 
+a scheduled member is compensated proportionate to the maximum value of the 
+scheduled member.  Iowa Code section 85.34(2)(v) (2016).  In this case, Ms. Bowman 
+proved a 12 percent impairment, which entitles her to 30 weeks of permanent partial 
+disability benefits. 
+The parties also dispute the proper date for commencement of permanent partial 
+disability benefits.  Claimant asserts that permanent disability benefits should 
+commence on October 18, 2017 while defendants contend that permanent disability 
+should commence on September 9, 2017.  Claimant’s contention essentially represents 
+the date that she returned to work for a different employer, Lowe’s, while defendants’ 
+asserted date is a date that claimant returned to work for Menards. 
+Having pondered both parties’ arguments, I disagree with both parties’ 
+contentions.  In Evenson v. Winnebago Industries, Inc., 881 N.W.2d 360 (Iowa 2016), 
+
+BOWMAN V. HY-VEE, INC. 
+Page 12 
+the Iowa Supreme Court held that permanent disability benefits commence immediately 
+upon the termination of the initial healing period, even if claimant experienced 
+subsequent, intermittent healing periods.  The Court explained, “The date of Evenson’s 
+first return to work established the end of the healing period and the commencement of 
+PPD benefits because it was the earliest of the three triggering events prescribed in 
+section 85.34(1).”  Id. at 372.  The Court reached this conclusion stating, “the 
+commencement date for PPD benefits is not precluded by the act that he was entitled to 
+TPD benefits for subsequent weeks when he was medically restricted from working his 
+regular hours.”  Id. 
+In this case, claimant returned to work on April 10, 2017.  There was a distinctive 
+gap in any payment or claim for healing period benefits into June 2017.  Therefore, I 
+conclude that claimant’s initial healing period terminated and that permanent partial 
+disability benefit entitlement commenced on April 10, 2017.  Id. 
+Ms. Bowman also sought an award of additional healing period benefits.  Her 
+initial claim for healing period is from September 19, 2017 through October 17, 2017.  
+Claimant contends that she was off work during this period of time because she was 
+terminated by Hy-Vee on September 19, 2017 and did not find alternate employment 
+with Lowe’s until October 18, 2017.  Defendants contend that claimant was terminated 
+and that she was disqualified from recovering healing period benefits during this period 
+of time due to misconduct. 
+For misconduct to disqualify a person from compensation, the misconduct must 
+be tantamount to refusal to perform the offered work.  The misconduct must be serious 
+and the type of conduct that would cause any employer to terminate any employee.  
+The misconduct must have a serious adverse impact on the employer.  The misconduct 
+must be more than the type of inconsequential misconduct that employers typically 
+overlook or tolerate.  Brodigan v. Nutri-Ject Systems, Inc., File No. 5001106 (App. April 
+13, 2004); Wortley v. Lowe's Home Centers, Inc., File No. 1298582 (App. December 22, 
+2006).  An employee working with restrictions is not entitled to act with impunity toward 
+the employer and the employer's interests.  Nevertheless, not every act of misconduct 
+justifies disqualifying an employee from workers' compensation benefits even though 
+the employer may be justified in taking disciplinary action.  Franco v. IBP, Inc., File No. 
+5004766 (App. February 28, 2005). 
+In Reynolds v. Hy-Vee, Inc., File No. 5046203 (Appeal Decision October 2017), 
+the Iowa Workers’ Compensation Commissioner held that even small acts of theft 
+constitute conduct that would reasonably cause any employer to terminate any 
+employee.  In fact, the Commissioner found that the theft of cupcakes, a fountain drink, 
+and a couple of packs of cigarettes was serious, had a serious adverse impact on the 
+employer, and was more than inconsequential misconduct that employers typically 
+overlook or tolerate.   
+While the conduct in this case may have been to obtain legitimate credits to 
+which Ms. Bowman was entitled, the method she went about adding those credits to her 
+own account is tantamount to theft.  At the very least, it presents an inappropriate 
+
+BOWMAN V. HY-VEE, INC. 
+Page 13 
+appearance to other employees and the public of theft or inappropriate benefits for 
+management of Hy-Vee.  Given the Commissioner’s holding in Reynolds, I found that 
+Ms. Bowman’s conduct was serious and the type of conduct that would reasonably 
+cause any employer to terminate any employee.  I also found that the conduct 
+constituted a serious economic impact on the employer and was sufficiently 
+consequential misconduct that employers typically would not overlook this type of 
+conduct or tolerate it.  Reynolds v. Hy-Vee, Inc., File No. 5046203 (Appeal Decision 
+October 2017).  In reliance upon the holding in Reynolds and having reached these 
+findings and conclusions, I similarly conclude that claimant’s conduct was tantamount to 
+a refusal to perform light duty work and disqualifies claimant from receiving healing 
+period benefits from September 19, 2017 through October 17, 2017.   
+Ms. Bowman asserted a claim pursuant to Iowa Code section 86.13 for penalty 
+benefits for unreasonable delay or denial of the healing period benefits sought from 
+September 19, 2017 through October 17, 2017.  However, having concluded that 
+claimant failed to prove entitlement to the requested healing period benefits, claimant 
+did not establish an unreasonable delay or denial of benefits.  Having awarded none of 
+the claimed healing period benefits, I conclude that claimant’s penalty benefit claim 
+must also fail. 
+Claimant also sought healing period benefits for the period of time from August 
+28, 2019 through November 12, 2019.  Claimant was off work during this period of time 
+as a result of a neck surgery.  Having found that claimant failed to prove her neck 
+condition and neck surgery are causally related to the March 8, 2017 work injury, I 
+conclude that claimant is not entitled to healing period benefits during the time period 
+she was off work after her neck surgery. 
+Ms. Bowman sought award of past medical expenses related to treatment of her 
+neck condition.  However, I found and concluded that claimant failed to prove a causal 
+connection or material aggravation of her neck condition as a result of the March 8, 
+2017 work injury.  Therefore, I conclude claimant failed to prove entitlement to the past 
+medical expenses in Claimant’s Exhibit 8. 
+Claimant also sought award of medical mileage.  All treatment and medical 
+mileage summarized in Claimant’s Exhibit 7 after the last appointment with Dr. Todd 
+Johnston on July 2, 2018 pertains to claimant’s neck condition.  I conclude claimant 
+failed to prove causal connection between any of the identified treatment after July 2, 
+2018 and failed to prove entitlement to medical mileage for that treatment. 
+However, for the treatment rendered between April 3, 2018 and July 2, 2018, that 
+treatment was with and at the direction of an authorized provider, Dr. Todd Johnston, 
+and included treatment for claimant’s right elbow and triceps.  Claimant is entitled to 
+medical mileage, as outlined in Claimant’s Exhibit 7 for the treatment provided between 
+April 3, 2018 and July 2, 2018.  In total, claimant proved entitlement to medical mileage 
+reimbursement pursuant to Iowa Code section 85.27 totaling $58.08.  (Claimant’s 
+Exhibit 7) 
+
+BOWMAN V. HY-VEE, INC. 
+Page 14 
+Ms. Bowman also asserts a claim for reimbursement of her independent medical 
+evaluation.  Section 85.39 permits an employee to be reimbursed for subsequent 
+examination by a physician of the employee's choice where an employer-retained 
+physician has previously evaluated “permanent disability” and the employee believes 
+that the initial evaluation is too low.  The section also permits reimbursement for 
+reasonably necessary transportation expenses incurred and for any wage loss 
+occasioned by the employee attending the subsequent examination. 
+Defendants are responsible only for reasonable fees associated with claimant's 
+independent medical examination.  Claimant has the burden of proving the 
+reasonableness of the expenses incurred for the examination.  See Schintgen v. 
+Economy Fire & Casualty Co., File No. 855298 (App. April 26, 1991).  Claimant need 
+not ultimately prove the injury arose out of and in the course of employment to qualify 
+for reimbursement under section 85.39.  See Dodd v. Fleetguard, Inc., 759 N.W.2d 133, 
+140 (Iowa App. 2008). 
+In this case, the authorized orthopaedic surgeon, Dr. Johnston, provided 
+defendants an impairment rating for claimant’s right arm on October 25, 2018.  Claimant 
+did not obtain her independent medical evaluation with Dr. Manshadi until March 2020.  
+(Claimant’s Ex. 2)  Accordingly, I conclude that claimant established entitlement to 
+reimbursement for an evaluation with a physician of her choosing.  Iowa Code section 
+85.39. 
+Dr. Manshadi charged $2,200.00 for his independent medical evaluation (IME).  
+This amount is found reasonable under the circumstances and consistent with charges 
+from other providers providing reports before this agency.  Therefore, I conclude 
+claimant is entitled to reimbursement in the amount of $2,200.00.  Iowa Code section 
+85.39. 
+Claimant also seeks reimbursement for medical mileage to attend the IME with 
+Dr. Manshadi.  I conclude claimant is entitled to reimbursement for her attendance at 
+this IME.  Pursuant to Claimant’s Exhibit 7, claimant traveled 6.2 miles for this 
+evaluation.  Claimant is entitled to mileage reimbursement for her attendance at Dr. 
+Manshadi’s evaluation totaling $3.60.  Iowa Code section 85.39. 
+Ms. Bowman also seeks reimbursement of medical mileage to attend the 
+independent medical evaluation requested by defendants with Dr. Mooney.  Claimant 
+traveled 266 miles to attend this evaluation.  Iowa Code section 85.39 requires the 
+employer to furnish the employee transportation or pay the employee mileage to attend 
+an evaluation with defendants’ chosen physician.  Claimant is, therefore, entitled to 
+reimbursement of her mileage to attend the evaluation with Dr. Mooney in the amount of 
+$154.28.  Iowa Code section 85.39. 
+Defendants also asserted a credit for benefits paid to claimant.  Specifically, 
+defendants assert a credit for payment of 30 weeks of permanent partial disability 
+benefits at the weekly rate of $432.19.  However, I found that defendants actually paid 
+$9,803.12 toward permanent disability benefits owed.  Additionally, I note that the 
+
+BOWMAN V. HY-VEE, INC. 
+Page 15 
+commencement date precedes any of the parties’ contentions and that defendants owe 
+interest for those past due permanent partial disability benefits.  Iowa Code section 
+85.30.  Defendants are entitled to credit for the $9,803.12 in benefits paid.  The parties 
+should calculate the interest owed claimant and determine additional amounts of 
+permanent partial disability benefits owed pursuant to this decision.  If the parties 
+cannot mutually agree on the calculations, they may file a request for rehearing. 
+Finally, claimant seeks assessment of her costs.  Costs are assessed at the 
+discretion of the agency.  Iowa Code section 86.40.  In this instance, claimant has 
+recovered permanent disability, medical mileage, and her independent medical 
+evaluation fees.  I conclude it is reasonable to assess claimant’s costs, if otherwise 
+permissible. 
+Claimant initially seeks assessment for charges incurred for her attorney to 
+participate in a conference with Dr. Johnston on August 31, 2018.  (Claimant’s Ex. 9, p. 
+60)  This is not a taxable cost and is not awarded.   
+In her brief, claimant also asserts a request for assessment of her filing fee.  This 
+is a reasonable and permissible cost.  876 IAC 4.33(7).  I assess claimant’s expense for 
+her filing fee in the amount of $100.00 against defendants. 
+ORDER 
+THEREFORE, IT IS ORDERED: 
+Defendants shall pay claimant thirty (30.000) weeks of permanent partial 
+disability benefits commencing on April 10, 2017. 
+All weekly benefits shall be payable at the stipulated weekly rate of four hundred 
+thirty-two and 19/100 dollars ($432.19) per week. 
+The employer and insurance carrier shall pay accrued weekly benefits in a lump 
+sum together with interest at the rate of ten percent for all weekly benefits payable and 
+not paid when due which accrued before July 1, 2017, and all interest on past due 
+weekly compensation benefits accruing on or after July 1, 2017, shall be payable at an 
+annual rate equal to the one-year treasury constant maturity published by the federal 
+reserve in the most recent H15 report settled as of the date of injury, plus two 
+percent. See Gamble v. AG Leader Technology File No. 5054686 (App. Apr. 24, 2018). 
+Defendants are entitled to a credit against these permanent disability benefits 
+and interest owed thereon in the amount of nine thousand eight hundred three and 
+12/100 dollars ($9,803.12). 
+Defendants shall reimburse claimant’s independent medical evaluation fees 
+totaling two thousand two hundred and 00/100 dollars ($2,200.00). 
+
+BOWMAN V. HY-VEE, INC. 
+Page 16 
+Defendants shall reimburse claimant’s medical mileage, pursuant to both Iowa 
+Code section 85.27 and 85.39, totaling two hundred fifteen and 96/100 dollars 
+($215.96). 
+Defendants shall reimburse claimant’s costs totaling one hundred and 00/100 
+dollars ($100.00). 
+Defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1(2) and 876 IAC 11.7. 
+Signed and filed this 9th day of November, 2020. 
+ 
+ 
+The parties have been served as follows: 
+Benjamin Roth (via WCES) 
+Lindsey Mills (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal: This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Division of Workers’ Compensation to file documents in paper form.  If such permission has 
+been granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, 
+Iowa Division of Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of 
+appeal must be received by the Division of Workers’ Compensation within 20 days from the date of the decision.  
+The appeal period will be extended to the next business day if the last day to appeal falls on a weekend or legal 
+holiday. 
+   WILLIAM H. GRELL 
+             DEPUTY WORKERS’ 
+   COMPENSATION COMMISSIONER 

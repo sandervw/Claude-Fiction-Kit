@@ -1,0 +1,215 @@
+Case Number: 5064468
+Case Title:  COALE, JACQUES V. BARR NUNN TRANSPORTATION
+Doc Type:    Decision - District Court
+Source:      Coale, Jacques-5064468.District Court Decision.PDF
+========================================================================
+
+1 
+IN THE IOWA DISTRICT COURT IN AND FOR POLK COUNTY 
+ 
+JACQUES COALE 
+ 
+Claimant-Respondent, 
+ 
+ 
+ 
+ 
+v. 
+ 
+BARR-NUNN TRANSPORTATION, INC., 
+ 
+Employer-Petitioner, 
+ 
+YORK RISK SERVICES GROUP, 
+ 
+            Insurance Carrier-Petitioner.  
+ 
+ 
+ 
+ 
+       Case No. CVCV061910 
+ 
+RULING ON PETITION FOR  
+JUDICIAL REVIEW 
+ 
+ 
+In this Petition for Judicial Review, Petitioners Barr-Nunn Transportation, Inc. (“Barr-
+Nunn”) and York Risk Services Group seek review of the Iowa Workers’ Compensation 
+Commissioner’s Appeal Decision awarding benefits to Claimant Jacques Cole. This case came 
+before the Court for a hearing on February 4, 2022. Dillon Carpenter represented Petitioners. 
+Nicholas Pothitakis represented Mr. Coale. The matter is now fully briefed and submitted. 
+Introduction 
+ 
+It is undisputed that on February 28, 2018, Mr. Coale developed a foot injury while 
+employed as a truck driver for Barr-Nunn Transportation, Inc. (“Barr-Nunn”). He discovered on 
+his left foot multiple blisters with blood and fluid discharge. Barr-Nunn advised Mr. Coale to go 
+to an emergency room, and Mr. Coale did so. Although prescribed an antibiotic, Mr. Coale did 
+not get the prescription filled until at least March 7, 2018, when he sought additional treatment. 
+Over the course of this period, Mr. Coale’s wound became infected. Ultimately, Mr. Coale had 
+surgery on May 11, 2018, to amputate portions of three toes on his left foot. The fighting issue is 
+whether these injuries were caused by his job duties or were instead caused by his pre-existing 
+conditions.    
+E-FILED                    CVCV061910 - 2022 FEB 18 09:53 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 7
+
+2 
+ 
+The Deputy Workers’ Compensation Commissioner found that the injury was job-related 
+and awarded benefits in his November 18, 2020, Arbitration Decision. Iowa Workers’ 
+Compensation Commissioner Joseph S. Cortese II affirmed the Arbitration Decision in his May 
+5, 2021, Appeal Decision.1 Petitioners filed this Petition for Judicial Review on May 28, 2021.  
+ 
+Petitioners seek to overturn the Appeal Decision on numerous grounds. However, the 
+grounds all boil down to the assertion that the opinion of Petitioner’s hired expert should be 
+accepted over the opinions of other doctors who treated or examined Mr. Coale.  
+Standard of Review 
+Iowa Code Chapter 17A governs judicial review of final agency action. “Under the Act, 
+[the Court] may only interfere with the commissioner’s decision if it is erroneous under one of 
+the rounds enumerated in the statute, and a party’s substantial rights have been prejudiced.” 
+Meyer v. IBP, Inc., 710 N.W.2d 213, 218 (Iowa 2006). A party challenging agency action bears 
+the burden of demonstrating the action’s invalidity and resulting prejudice. Iowa Code 
+§17A.19(8)(a). In exercising the power of judicial review, the district court acts in an appellate 
+capacity. Nance v. Iowa Dept. of Revenue, 908 N.W.2d 261 (Iowa 2018) (quoting Mycogen 
+Seeds v. Sands, 686 N.W.2d 457, 463 (Iowa 2004)).  
+Where an agency has been clearly tasked with the power to make determinations of fact, 
+“it follows that application of the law to those facts is likewise ‘vested by a provision of law in 
+the discretion of the agency’.” Burton v. Hilltop Care Center, 813 N.W.2d 250, 256 (Iowa 2012) 
+(citing Mycogen Seeds v. Sands, 686 N.W.2d 457, 465 (Iowa 2004)). In reviewing factual 
+findings made by the Commissioner, the question is simply whether there is substantial evidence 
+                                                 
+1 Because the Arbitration Decision is more detailed and was affirmed by the Commissioner in all respects, 
+this Order will generally refer to the work of the Deputy Workers’ Compensation Commissioner who issued the 
+Arbitration Decision. 
+E-FILED                    CVCV061910 - 2022 FEB 18 09:53 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 7
+
+3 
+in the record to support the Commissioner’s findings. Iowa Code §17A.19(10)(f); see also Meyer 
+v. IBP, Inc., 710 N.W.2d 213, 219 (Iowa 2006).  
+Where the reviewing court is asked to review an agency’s interpretation of law, the level 
+of deference afforded depends on whether the authority to interpret that law has “clearly been 
+vested by a provision of law in the discretion of the agency.” Burton v. Hilltop Care Center, 813 
+N.W.2d 250, 256 (Iowa 2012). The determination of whether an injury arises out of and in the 
+course of employment is a determination clearly vested with the Workers’ Compensation 
+Commission. Thus, in reviewing the Commissioner’s application of the law to the facts in this 
+matter, this Court reviews for “correction of errors at law”. Waldinger Corp. v. Mettler, 817 
+N.W.2d 1, 7 (Iowa 2012).  
+ 
+The Iowa Supreme Court has instructed that “workers’ compensation law should be 
+liberally construed to accomplish the object and purpose of the legislation: to benefit the worker 
+and his dependents.” Dillinger v. City of Sioux City, 368 N.W.2d 176, 180 (Iowa 1985). 
+Whether an injury arose out of and in the course of employment presents a mixed question of 
+law and fact on appeal. Meyer v. IBP, Inc. 710 N.W.2d 213, 218 (Iowa 2006). After resolving 
+any dispute facts leading to the claimed injury, the agency then considers the legal question of 
+whether the facts demonstrate that the injury arose out of and in the course of employment. 
+Legal Analysis 
+ 
+Petitioners argue that the Commissioner erred in adopting the opinions of Mr. Coale’s 
+treating physicians rather than that of Petitioners’ hired expert, Dr. David Berg. Dr. Berg testified 
+as to his conclusion that Mr. Coale has Buerger’s disease and that this condition, rather than job 
+duties, caused the injuries at issue. Buerger’s disease restricts blood supply, which in turn makes 
+infection more likely. Dr. Berg also testified that the failure to treat the infection for 9-10 days 
+E-FILED                    CVCV061910 - 2022 FEB 18 09:53 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 7
+
+4 
+resulted in amputation. Mr. Coale was given a prescription for an antibiotic on February 28, 
+2018, but did not get it filled until at least March 7, 20182 
+ 
+Mr. Coale points out that his numerous treating medical professionals all attributed his 
+injuries, at least in part, to his duties as a driver for Barr-Nunn. Physician’s Assistant Lauren 
+Cartwright noted on May 31, 2018, that Mr. Coale “has to drive for 8 hours at a time without a 
+break.” Joint Exhibit 2-21. Dr. Jonathan Rayman checked “yes” on July 24, 2018, on a “check 
+the box” letter from counsel asking “Do you believe that Mr. Coale’s work activity in Late 
+February/early March of 2018 of driving for long periods of time was a substantial contributing 
+factor to his left foot condition and the progression of the left foot condition to the point where 
+you needed to perform surgery and amputation?” Claimant’s Exhibit 2. Dr. Mujahed Abbas 
+opined twice, on April 9, 2018, and July 10, 2018, that Mr. Coale’s injuries were “most likely 
+related to trauma related to this patient [sic] occupation.” Joint Exhibits 4-2 and 4-18. Dr. Sunil 
+Bansal conducted an independent medical examination and stated on June 17, 2019: “In my 
+medical opinion, Mr. Coale developed friction blisters across his left toes from driving for long 
+hours with a wet sock.” Claimant’s Exhibit 3-10 (Agency Record Vol. 2 p. 24). 
+ 
+Petitioners attempt to poke holes in these various opinions with varying degrees of 
+success. According to Petitioners PA Cartwright was misinformed when she thought Mr. Coale 
+drove 8 hours without a break; Dr, Rayman was just signing off on counsel’s language and may 
+have misunderstood how long Mr. Coale was driving without a break; Dr. Bansal misunderstood 
+the temporal aspect of the wet sock, saying the wet sock caused the blisters when Mr. Coale 
+testified that his sock got wet because the blisters broke and fluid leaked out. 
+                                                 
+2 Petitioners did not raise the affirmative defense that Mr. Coale’s conduct in not filling the prescription and 
+not promptly seeking follow-up treatment was an intervening cause of his eventual amputations. Thus, the Court 
+does not fully recount all of the delays in treatment between February 28, 2018, and the surgery on May 11, 2018. 
+E-FILED                    CVCV061910 - 2022 FEB 18 09:53 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 7
+
+5 
+ 
+The Deputy Workers’ Compensation Commissioner considered Petitioners’ arguments, 
+but determined that the medical opinions of Dr. Abbas and Dr. Rayman were “the most credible 
+and convincing.” Exhibit A p. 10. Further, unlike Dr. Berg, each of these professionals examined 
+Mr. Coale as opposed to just looking at medical records. The Court shares the view of the 
+Deputy Workers’ Compensation Commissioner that although some of the professionals may 
+have had inaccurate information about the precise number of hours driven by Mr. Coale on 
+February 28, 2018, they were aware that he was an over-the-road truck driver who was sedentary 
+for long periods. Further, Mr. Coale testified that he drove for seven hours and nine minutes on 
+February 27, 2018, and 8 hours and 14 minutes on February 26, 2018. Hearing Transcript p. 35, 
+lines 5-12. Given the limitations of the human bladder, the Court would find it surprising if the 
+doctors assumed seven- or eight-hour driving shifts occurred with no breaks whatsoever.  
+Dr. Rayman, like Dr. Berg, suspected Buerger’s disease, but that does not mean that the 
+disease, as opposed to truck driving, caused the injury. Dr. Rayman later treated Mr. Coale for a 
+foot ulcer that was definitively not caused by work (given that Mr. Coale had been off work for 
+months before this new development). However, this event, and the stated suspicion of Buerger’s 
+disease, had both already occurred before Dr. Rayman signed the medical opinion on July 24, 
+2018, attributing the injury to Mr. Coale’s work duties.  
+ 
+The role of this Court is not to make a determination as to which individual doctor’s 
+opinion is the most reliable. It is to evaluate the decision of the agency with the appropriate 
+degree of deference. When considering all of the strengths and weaknesses of all of the medical 
+opinions in the record, the Court finds there is substantial evidence supporting the agency’s 
+conclusion. The Court further does not find that the agency’s action was arbitrary, irrational or 
+capricious. Although Petitioners have called into question certain aspects of each of the 
+E-FILED                    CVCV061910 - 2022 FEB 18 09:53 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 7
+
+6 
+individual professional’s opinions, the Court finds that Petitioners cannot overcome the 
+cumulative effect of those opinions. Additionally, Dr. Berg’s opinion – based entirely on a 
+review of medical records – is not without its own drawbacks.  
+ 
+To be clear, Mr. Coale has an extensive medical history and many co-morbidities. He is 
+obese, a heavy smoker, and has peripheral neuropathy and vascular disease. However, a 
+claimant’s pre-existing conditions do not preclude recovery if the pre-existing condition is 
+“aggravated, accelerated, worsened or ‘lighted up’” by workplace activity such that it results in a 
+disability. Nicks v. Davenport Produce Co., 115 N.W.2d 812, 815 (1962). That is what the 
+Deputy Workers’ Compensation Commissioner found in this case.  Exhibit A p. 10 (“I found that 
+claimant proved by a preponderance of the evidence that he sustained an injury as a result of or 
+at least a material aggravation of his underlying condition as a result of his work activities on 
+February 28, 2018.”).  
+ 
+The Court affirms the agency’s conclusions that Mr. Coale sustained an injury arising out 
+of his employment and that his injury occurred in the course of his employment. The Court 
+affirms the agency’s conclusion that Mr. Coale’s injuries were caused or significantly 
+exacerbated by his professional duties on February 28, 2018. Thus, the Court also affirms the 
+determination that Mr. Coale’s injuries are compensable.  
+Although Petitioners challenge the agency’s findings regarding medical expenses, 
+permanency benefits, and healing benefits, those challenges are based entirely on the contested 
+conclusions that are affirmed by the Court. Thus, those challenges are rejected.  
+Conclusion 
+IT IS ORDERED THAT the Commissioner’s Appeal Decision awarding benefits to Mr. 
+Coale is AFFIRMED in all respects.  
+E-FILED                    CVCV061910 - 2022 FEB 18 09:53 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 7
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV061910
+JACQUES COALE VS BARR NUNN TRANSPORTATION ET
+AL
+Type:
+OTHER ORDER
+So Ordered
+Electronically signed on 2022-02-18 09:53:50
+E-FILED                    CVCV061910 - 2022 FEB 18 09:53 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 7

@@ -1,0 +1,345 @@
+Case Number: 1621904.01
+Case Title:  KELLY, BRIAN V. EAST SIDE JERSEY DAIRY/2ND INJ-FUND
+Doc Type:    Decision - District Court
+Source:      Kelly, Brian-1621904.01.District Court Decision.PDF
+========================================================================
+
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+EAST SIDE JERSEY DAIRY, INC., d/b/a 
+PRAIRIE FARMS DAIRY, AND 
+INDEMNITY INS. CO. OF N. AMERICA, 
+ 
+ 
+Petitioner, 
+ 
+v. 
+ 
+BRIAN KELLY, 
+ 
+           Respondent. 
+ 
+ 
+ 
+Case No. CVCV065328 
+ 
+ 
+ 
+RULING ON JUDICIAL REVIEW 
+ 
+I. 
+Introduction 
+The Petitioners East Side Jersey Dairy, Inc. and Indemnity Insurance Company of North 
+America, an employer and its workers’ compensation carrier (collectively referred to herein as 
+“East Side Jersey Dairy” or “Employer”) seek judicial review of a Worker’ Compensation 
+Commissioner (“Commissioner”) Appeal Decision issued March 7, 2023.    In relevant part, the 
+Commissioner found Respondent Brian Kelly (“Kelly”) had a permanent disability resulting 
+from an August 30, 2016 work injury that includes not only his right upper extremity but extends 
+into his right shoulder; that Kelly is entitled to receive industrial disability benefits for the injury; 
+and that Kelly’s industrial disability is 50 percent. 1 
+In the proceedings before the Commissioner, East Side Jersey Dairy contended Kelly’s 
+work injury was limited to his right upper extremity and did not extend into the shoulder.   In this 
+judicial review proceeding, however, the Employer has abandoned the argument Kelly’s 
+shoulder was not affected; in other words, the Employer is not now contesting the 
+Commissioner’s decision Kelly injured his right shoulder as well as his right arm.    The 
+                                                          
+1 The Commissioner affirmed without further analysis the decisions of the Deputy Commissioner on these issues.   
+The Deputy issued the Arbitration Decision on November 8, 2022. 
+E-FILED                    CVCV065328 - 2023 NOV 13 02:06 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 12
+
+2 
+ 
+Employer’s position now is the Commissioner erred in awarding Kelly benefits for permanent 
+partial disability because Kelly’s shoulder injury has not reached Maximum Medical 
+Improvement (MMI)2.   The Employer requests the court to reverse the Appeal Decision 
+awarding Kelly benefits for permanent partial disability/industrial disability and remand the case 
+to the Commissioner to determine what temporary benefits, if any, Kelly is entitled to receive 
+until his shoulder reaches MMI.    To the extent Kelly is found in the future to have a permanent 
+disability to his right shoulder because of this injury, the Employer proposes he seek permanency 
+benefits in a review-reopening.  
+II. 
+Factual and Procedural Background 
+ 
+Kelly worked as a mechanic for East Side Jersey Dairy, on the overnight shift.   On 
+August 30, 2016, while working alone, Kelly was removing a transmission from a semi to 
+replace the clutch.    Kelly was underneath the truck.  A strap holding the transmission broke, 
+which resulted in the 1,200-to-1,500-pound transmission falling on top of him.  Kelly was able to 
+move so the transmission did not fall on his chest and crush him.   But he could not move his 
+right arm out of the way in time, and the transmission fell on his right forearm and elbow, 
+trapping him there for an hour before being discovered by a co-worker.  
+Over the course of the next two years, Kelly had three surgeries on his right upper 
+extremity.  In February 2017 he underwent a decompression of the radial nerve in this right 
+elbow;  in October 2017 a radial nerve neuroplasty and right lateral epicondylectomy and 
+debridement;  and in April 2018 a right index, middle, and ring finger flexor tendon sheath 
+incision and release.   After the second surgery, Kelly’s right arm was immobilized for one 
+                                                          
+2 In its briefing before the Commissioner, the Employer contended the shoulder injury was not the result of the 
+August 30, 2016 accident, but argued in the alternative, should the Commissioner find the shoulder is affected, that 
+Kelly’s shoulder has not reached MMI.  
+E-FILED                    CVCV065328 - 2023 NOV 13 02:06 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 12
+
+3 
+ 
+month.  It was immobilized 2-3 weeks after the third surgery.  Kelly underwent physical therapy 
+after each surgery.  He was released for the last time from physical therapy in June 2018, and 
+except for two follow up visits thereafter, has had no further medical treatment for his right arm.   
+Kelly left his employment at East Side Jersey Dairy in October 2018 because he thought the 
+work was too heavy with his impaired right upper extremity.    He obtained other employment at 
+MH Equipment as a forklift mechanic, which is lighter work than his job at East Side Jersey 
+Dairy.  
+None of Kelly’s treating providers treated him for a right shoulder injury or opined he 
+had permanent impairment to his shoulder.   Robin Sassman, M.D., who conducted an 
+Independent Medical Examination on Kelly’s behalf in October 2021, is the first physician who 
+diagnosed Kelly with a right shoulder injury.   In her report, which Dr. Sassman issued on March 
+9, 2022, Dr. Sassman described Kelly’s diagnosis as, “right shoulder range of motion deficits 
+likely adhesive capsulitis from the immobilization after multiple right upper extremity surgeries 
+but cannot rule out intrinsic injury to the shoulder (rotator cuff or labrum).” 
+Dr. Sassman’s discussion of causation, further treatment, MMI, and permanency included 
+the following: 
+• [I]t is likely that the range of motion deficit of the right shoulder is due to the 
+prolonged and frequent immobilization of the right upper extremity due to the 
+injury of 8/30/2016 and the multiple surgeries thereafter.   
+• [O]ne cannot be sure that there is not a rotator cuff tear or a labrum tear without 
+obtaining an MRI.  If an MRI of the shoulder shows no structural injury to the 
+shoulder, I would recommend he be seen by a shoulder specialist to address the 
+adhesive capsulitis.   Mr. Kelly may also benefit from another opinion from an 
+E-FILED                    CVCV065328 - 2023 NOV 13 02:06 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 12
+
+4 
+ 
+orthopedic upper extremity specialist for the right upper extremity symptoms 
+since his symptoms have worsened over the previous few years.    
+• I would not place him at MMI until the treatment recommendations…are 
+completed.  Should he choose not to pursue these recommendations, or they are 
+not approved, I would place him at maximum medical improvement as 
+of…9/15/2021.    
+• For the right shoulder, the impairment due to range of motion of the right 
+shoulder…[is] a total of 14% upper extremity impairment.  
+Dr. Sassman’s report was issued only one month before the Arbitration Hearing.  Even 
+though Dr. Sassman’s report was the first time any physician opined Kelly had a right shoulder 
+injury caused by the August 30, 2016 accident, there is no evidence in the record the Employer 
+requested a continuance of the hearing so as to obtain another opinion concerning Kelly’s 
+shoulder.  There is no evidence the Employer offered since the Arbitration Decision to provide 
+the evaluation or treatment Dr. Sassman recommended.    
+Kelly testified he started having right shoulder symptoms when he returned to full duty at 
+East Side Jersey Dairy in 2018.   He testified that his shoulder symptoms have continued since he 
+started working at MH Equipment, but they have been constant, and not gotten any worse.  Kelly 
+also testified he is interested in obtaining a shoulder MRI per Dr. Sassman’s recommendation, 
+but there is no evidence that has occurred.   
+In the Arbitration Hearing, the principal dispute between the parties was whether the 
+effect of Kelly’s August 30, 2016 injury extended to his right shoulder.   Kelly claimed it did, 
+and therefore he was entitled to benefits for industrial disability.    The Employer claimed the 
+E-FILED                    CVCV065328 - 2023 NOV 13 02:06 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 12
+
+5 
+ 
+accident did not impact Kelly’s shoulder and therefore his permanency benefits are limited to a 
+scheduled member.3    
+The Deputy concluded, based upon Dr. Sassman’s opinion, that Kelly proved his 
+shoulder condition was a sequela of the original accident, and that Kelly has permanent disability 
+to his right shoulder as a result.  The Deputy did not expressly analyze, nor did the 
+Commissioner as part of the Appeal Decision, whether Kelly’s right shoulder had reached MMI.   
+By awarding benefits for industrial disability, the Commissioner necessarily determined, if only 
+by implication, that Kelly reached MMI.   
+III. 
+Standard of Review 
+ 
+Chapter 17A of the Iowa Code governs judicial review of administrative agency action. 
+The District Court acts in an appellate capacity to correct errors of law on the part of the agency. 
+Meyer v. IBP., 710 N.W.2d 213, 219 (Iowa 2006). The court “may grant relief if the agency 
+action has prejudiced the substantial rights of the petitioner, and the agency action meets one of 
+the enumerated criteria contained in section 17A.19(10)(a) through (n).” Burton v, Hilltop Care 
+Cntr., 813 N.W.2d 250, 256 (Iowa 2012) (quoting Evercom Sys., Inc. v. Iowa Utilities Bd., 805 
+N.W.2d 758, 762 (Iowa 2011)).  Where an agency has been “clearly vested” with a fact-finding 
+function, the appropriate “standard of review [on appeal] depends on the aspect of the agency’s 
+decision that forms the basis of the petition for judicial review” –that is, whether it involved an 
+issue of 1) findings of fact, 2) interpretation of law, or 3) application of law of fact. Burton, 813 
+N.W.2d.  
+                                                          
+3 Kelly’s injury occurred before the 2017 Amendments to Iowa Code § 85.34(2)(n), which made a shoulder injury 
+part of the schedule.  Prior to the amendment, shoulder injuries were treated as injuries to the body as a whole, and 
+therefore provided for recovery of benefits for industrial disability.  
+E-FILED                    CVCV065328 - 2023 NOV 13 02:06 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 12
+
+6 
+ 
+The Court may reverse, modify, or grant other relief when agency action is based on fact 
+determinations “not supported by substantial evidence in the record before the court when that 
+record is viewed as a whole.” Iowa Code § 17A.19(10)(f)(2001). “Substantial evidence is 
+statutorily defined as  
+The quantity and quality of evidence that would be deemed 
+sufficient by a neutral, detached and reasonable person, to establish 
+the fact at issue when the consequences resulting from the 
+establishment of that fact are understood to be serious and of great 
+importance. 
+ 
+Id. § 17A.19(10)(f)(1). However, if the error is predicated on an erroneous interpretation of the 
+law, we do not give deference to the worker’s compensation commissioner. Bell Bros. Heating 
+and Air Conditioning v. Gwinn, 779 N.W.2d 193 (Iowa 2010) (citing, Schadendorf v. Snap-on 
+Tools Corp., 757 N.W.2d 330, 334 (Iowa 2008).  
+IV. 
+Discussion 
+ 
+A claim for permanent disability benefits is not ripe until maximum medical 
+improvement has been achieved. Bell Bros. Heating and Air Conditioning v. Gwinn, 779 N.W.2d 
+193, 201-202 (Iowa 2010).   East Side Jersey Dairy contends there is “no evidence whatsoever 
+that [Kelly] has reached MMI for his shoulder condition,” therefore the Commissioner erred as a 
+matter of law in awarding benefits for permanent partial disability because of the shoulder.   
+Kelly argues, on the other hand, that there is evidence the shoulder reached MMI, in that Dr. 
+Sassman provided a provisional MMI date and rating in the event Kelly did not obtain the future 
+evaluation or treatment she recommended. 
+MMI generally occurs when the treating physician determines that the employee has 
+recovered as much as possible from the effects of an injury. Pitzer v. Rowley, 507 N.W.2d 389 
+(Iowa 1993); Armstrong Tire & Rubber Co. v. Kulbi, 312 N.W.2d 60,65 (Iowa Ct. App. 1981). 
+E-FILED                    CVCV065328 - 2023 NOV 13 02:06 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 12
+
+7 
+ 
+Additionally, an anticipated improvement in continuing pain, if medically indicated, may extend 
+the length of the healing period if substantial change in industrial disability is also expected to 
+result. Id. If it is not likely further treatment or continuing pain will decrease the extent of 
+industrial disability, then continued pain management should not prolong the healing period. Id.  
+The fundamental component of a permanent impairment is stabilization of the condition 
+or at least a finding that the condition is “not likely to remit in the future despite medical 
+treatment.” Bell Bros. Heating and Air Conditioning, 779 N.W.2d at 200 (quoting American 
+Medical Association, Guides to Evaluation of Permeant Impairment 27 (6th ed. 2008).    
+Stabilization is the event that allows a physician determine that a particular medical condition is 
+permanent. Id., citing, Municipality of Anchorage v. Leigh, 823 P.2d 1241, 1242 n. 3 (Alaska 
+1992) (“‘A physician can determine ... whether or not a particular medical condition has become 
+permanent because it is static or well-stabilized.’”  (quoting American Medical Association, 
+Guides to Evaluation of Permanent Impairment, Preface at x (2d ed. 1984))). 
+ 
+Dr. Sassman expressed two opinions about whether Kelly’s shoulder is at MMI, 
+depending upon whether he chooses to pursue and/or is authorized to pursue her 
+recommendations for further evaluation and future treatment.  If Kelly pursues the evaluation 
+and treatment, he will not be at MMI until those efforts are exhausted.  If he does not, Dr. 
+Sassman opined Kelly is at MMI as of September 25, 2021.  In that case, she also gave him a 
+permanent impairment rating to the shoulder.  
+ 
+There is other evidence, in addition to Dr. Sassman’s opinion, supporting a conclusion 
+Kelly’s shoulder reached MMI.   Kelly testified that his shoulder, while continuing to experience 
+symptoms, has been essentially stable since he left employment at East Side Jersey Dairy in 
+October 2018.   Even if Kelly pursues further evaluation or treatment, there is no basis to 
+E-FILED                    CVCV065328 - 2023 NOV 13 02:06 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 12
+
+8 
+ 
+conclude from the evidence in the record that future treatment will more likely than not 
+materially change his condition.  Dr. Sassman’s report provides no such assurances.  At best, it is 
+speculative based upon this record whether future treatment would make any difference in 
+Kelly’s permanent shoulder condition.   
+In short, there is evidence in the record from which the Commissioner could conclude 
+Kelly’s right shoulder has reached MMI, or that he has not.   The Commissioner concluded Kelly 
+sustained a permanent shoulder injury and is entitled to benefits for industrial disability for that 
+injury.  Such a conclusion necessarily presumes Kelly reached MMI.      
+The court finds the Commissioner’s decision is supported by substantial evidence in the 
+record as a whole.  The fact there is evidence that supports East Side Jersey Dairy’s position does 
+not mean the Commissioner’s ruling is not supported by substantial evidence.   Just because the 
+interpretation of the evidence is open to a fair difference of opinion does not mean the 
+Commissioner's decision is not supported by substantial evidence. ABC Disposal Sys., Inc. v. 
+Dep't of Natural Res., 681 N.W.2d 596, 603 (Iowa 2004).  “Evidence is not insubstantial merely 
+because it would have supported contrary inferences.” Reed v. Iowa Dep't of Transp., 478 
+N.W.2d 844, 846 (Iowa 1991). “Nor is evidence insubstantial because of the possibility of 
+drawing two inconsistent conclusions from it.” Id. The ultimate question for us is not whether the 
+evidence supports a finding different than the agency's but whether the evidence supports the 
+finding the agency actually made. See id. On judicial review, we “may interfere with the agency's 
+findings only if the evidence is uncontradicted and reasonable minds could not draw different 
+inferences.” Riley v. Oscar Mayer Foods Corp., 532 N.W.2d 489, 491 (Iowa Ct.App.1995).  
+Moreover, making a determination as to whether evidence “trumps” other evidence or 
+whether one piece of evidence is “qualitatively weaker” than another piece of evidence is not an 
+E-FILED                    CVCV065328 - 2023 NOV 13 02:06 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 12
+
+9 
+ 
+assessment for the district court to make when it conducts a substantial evidence review of an 
+agency decision. It is the agency’s duty as the trier of fact to determine the credibility of the 
+witnesses, weigh the evidence, and decide the facts in issue. The reviewing court only 
+determines whether substantial evidence supports a finding according to those witnesses whom 
+the agency believed.  Arndt v. City of Le Claire, 728 N.W.2d 389, 394–95 (Iowa 2007) (citations 
+and quotations omitted). 
+Bell Bros. Heating and Air Conditioning, the case upon which East Side Jersey Dairy 
+principally relies, is factually different than this case and does not support the conclusion the 
+Commissioner erred in awarding benefits for permanent disability for Kelly’s right shoulder.   In 
+Bell Bros., there were competing medical opinions on whether the claimant had an Achilles 
+tendon tear.  Id. at 198.   One physician, based upon an ultrasound test administered in his office, 
+opined the claimant had a tear and had permanent impairment as a result.  Id. Another physician 
+who examined the claimant after the ultrasound test found the Achilles tendon was intact, the 
+muscle normal, and there was no permanent impairment   Id.  Six days before the Arbitration 
+Hearing, the claimant underwent surgery by the first physician, ostensibly to repair the torn 
+tendon.  Id.  However, because the surgery had occurred so close in time to the hearing, there 
+was no evidence of what was found in the surgery.    
+The Commissioner ruled the injury caused permanent impairment, based upon the 
+opinion of the physician who did the surgery.   Id.   But the Commissioner found it was 
+premature to award benefits for permanent partial disability because the results of the surgery 
+were then unknown, and suggested permanency could be an issue for review-reopening.  Id.    
+On judicial review, the Iowa Supreme Court acknowledged it is possible in many cases to 
+decide the existence of permanent impairment in advance of a finding of MMI and before the 
+E-FILED                    CVCV065328 - 2023 NOV 13 02:06 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 12
+
+10 
+ 
+claim for permanent disability benefits is ripe for adjudication.   Id. at 201.    It was error in that 
+case, however, because the Commissioner relied upon the ultrasound test results “as the 
+justification to accept the medical opinion of [the claimant’s doctor] over the other medical 
+opinions, without evidence from the surgery confirming the existence of a tear and without 
+giving the other doctors an opportunity to review the ultrasound test results.”  Id.  
+The premature resolution of the issue of whether [claimant] suffered 
+permanent impairment undermined Bell Brothers' evidence of no 
+permanent impairment by leaving it with no meaningful opportunity 
+to challenge the diagnostic reliability of the ultrasound test or assess 
+whether the surgery performed less than a week before the 
+arbitration hearing confirmed the presence of a tendon tear. More 
+importantly, the commissioner knew evidence would be 
+forthcoming relevant to the nature and extent of Gwinn's permanent 
+impairment and a resolution of the conflicting medical opinions. 
+Id.  
+In this case, unlike in Bell Bros, the Employer offered no medical evidence to contest Dr. 
+Sassman’s opinions concerning Kelly’s right shoulder.    Nor did Kelly undergo medical 
+treatment just before the Arbitration Hearing, the outcome of which would affect the 
+determination of whether his right shoulder was injured and whether it sustained permanent 
+impairment.  The evidence in this case shows Kelly’s last medical treatment for his work-related 
+injury was in 2018, approximately four years before the Arbitration Hearing.   Kelly’s right 
+shoulder was essentially stable since 2018.   The Employer does not contend the Commissioner’s 
+finding of permanent disability was premature because it was denied the opportunity to challenge 
+Dr. Sassman’s opinions at the hearing.    The Employer simply contends the Commissioner 
+should have accepted the medical opinion Kelly had not reached MMI, rather than the opinion 
+that he had.   It is not for the court on judicial review to weigh which of view of the evidence was 
+more credible under the circumstances.  It is the Commissioner's responsibility to weigh 
+E-FILED                    CVCV065328 - 2023 NOV 13 02:06 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 12
+
+11 
+ 
+conflicting evidence and accept that which he finds most credible.  Broadlawns Med. Ctr. v. 
+Sanders, 792 N.W.2d 302, 307 (Iowa 2010).    
+ 
+V. 
+Ruling 
+ 
+The Workers’ Compensation Commissioner’s Appeal Decision issued March 7, 2023, is 
+AFFIRMED, in its entirety. 
+ 
+ 
+E-FILED                    CVCV065328 - 2023 NOV 13 02:06 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 11 of 12
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV065328
+EAST SIDE JERSEY DAIRY ET AL VS BRIAN KELLY
+Type:
+ORDER FOR JUDGMENT
+So Ordered
+Electronically signed on 2023-11-13 14:06:48
+E-FILED                    CVCV065328 - 2023 NOV 13 02:06 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 12 of 12

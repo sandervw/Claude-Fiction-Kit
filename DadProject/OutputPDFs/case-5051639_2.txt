@@ -1,0 +1,610 @@
+Case Number: 5051639
+Case Title:  DUNLAP, DYLAN V. VARIED INDUSTRIES
+Doc Type:    Decision - District Court
+Source:      Dunlap, Dylan-5051639.District Court Decision.pdf
+========================================================================
+
+1 
+ 
+ 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+__________________________________________________________________ 
+                                  
+ 
+VARIED INDUSTRIES AND GREAT              )            Case No. CVCV060172   
+WEST CASUALTY,       
+ 
+ 
+)                                                                                         
+ 
+ 
+ 
+ 
+ 
+ 
+)                                                                                         
+                        Petitioners,     
+ 
+)                                                                      
+                                
+ 
+ 
+ 
+)                                                                             
+v.       
+ 
+ 
+ 
+ 
+ 
+)                                                                                                    
+                                                                         
+)                                                                                              
+DYLAN DUNLAP,  
+ 
+ 
+ 
+) 
+ORDER ON JUDICIAL REVIEW  
+)                                         
+ Respondent.  
+ 
+) 
+__________________________________________________________________                     
+ 
+   
+            On May 8, 2020, Petitioners Varied Industries and Great West Casualty (together,   
+ Petitioner) filed a Petition for Judicial Review (the Petition) of the Iowa workers’ 
+compensation commissioner’s (the Commissioner) final decision in a review-reopening 
+contested case proceeding.  Telephonic oral argument was held on August 14, 2020.  Oral 
+argument was not reported.  
+            Petitioner was represented by attorney Tyler S. Smith for attorney Marshall Tuttle.    
+Respondent Dylan Dunlap (Respondent) was represented by attorney James M. Ballard.   
+Oral argument was not reported.   
+ 
+After careful consideration of the respective arguments of counsel, and upon 
+review of the certified agency record and the parties’ other filings and in light of the 
+relevant law,  the  court  finds  and  concludes  that  the  final  agency  decision  should  be  
+affirmed in all respects and the Petition should be dismissed for the following reasons.   
+BACKGROUND FACTS AND PROCEEDINGS 
+ 
+            A.          Work-Related Injury and Arbitration Decision.   On  July  23,  2014,   
+Respondent  sustained  a  work-related  injury  to  his  right  shoulder.  Respondent filed 
+his Original Notice and Petition for Arbitration and Medical Benefits on January 26, 2015.    
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+2 
+ 
+The arbitration hearing was held on April 26, 2016.  On August 30, 2016, a deputy 
+workers’ compensation commissioner (Deputy I) filed an Arbitration Decision finding 
+Respondent’s  right  shoulder  injury  sustained  on  July  23,  2014,  arose  out  of  and  in  
+the course of his employment by Petitioner.  Deputy I ordered Petitioner to pay 
+Respondent’s medical costs and authorized further treatment of Respondent’s right 
+shoulder.  Finally, the Deputy found Respondent was not entitled to temporary benefits 
+after December 16, 2014, because he had been offered suitable light duty work by 
+Petitioner within his restrictions, which he had refused.  This decision was not appealed.   
+   
+B.     Post-Arbitration Hearing Changes in Condition.  Several months 
+after the arbitration hearing, Respondent started a sequence of therapies designed to 
+improve his right shoulder.  He underwent two additional surgeries on his right shoulder, 
+received multiple injections, and received physical therapy.  The second shoulder surgery 
+was performed on August 31, 2016, by Dr. Nepola. (J. Ex. 2, at p. 24).  Respondent 
+reported the second surgery only made his symptoms worse. (Review-Reopen. Tr. at pp. 
+12-13).  Dr. Nepola thought the pain Respondent was experiencing was likely some form 
+of complex regional pain syndrome (CRPS). (J. Ex. 2, at p. 42).    
+          Petitioner referred Respondent to Dr. Simon for further treatment.  (Review-
+Reopen. Tr. at p. 14).  Dr. Simon assessed Respondent with complex regional pain 
+syndrome type I of the right upper extremity. (J. Ex. 4, at p. 64).  Dr. Simon tried a right 
+stellate ganglion block and trigger point injections, but neither relieved Respondent’s 
+pain.  (Review-Reopen. Tr. at p. 15).  With Respondent’s symptoms worsening, Dr.  Simon 
+referred Respondent to the Mayo Clinic. (Review-Reopen. Tr. at p. 16).    
+ 
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+3 
+ 
+On October 4, 2017, Respondent was seen by Dr. Elhassan, who recommended 
+performing a third surgery on Respondent’s right shoulder. (J. Ex. 6, at p. 81).  The 
+surgery was performed on November 27, 2017. (Id. at p. 86).  Like the second surgery, the 
+third surgery only made Respondent’s pain worse. (Review-Reopen. Tr. at p. 21). Dr. 
+Elhassan referred Respondent to Dr. Bengtson for further treatment.    
+          Dr.  Bengtson assessed Respondent with CRPS.  Dr. Bengtson performed two 
+additional stellate ganglion blocks with no benefit. (J. Ex. 6, at pp. 123-33).  Dr. Bengtson   
+referred Respondent to Dr. Hunt to determine whether he was a candidate for a spinal 
+cord stimulator.  (J. Ex.  6, at p. 133).    After  reviewing  Respondent’s  medical  records  
+and examining him, Dr. Hunt assessed Respondent with CRPS and determined he was 
+not a  candidate  for  a  spinal  cord  stimulator.  (J. Ex. 6, at p. 136).  On January 7, 2019, 
+Dr. Bengtson placed Respondent at maximum medical improvement (MMI). (Id. at p. 
+137).    
+          At Petitioner’s request, Dr. Mooney performed an independent medical evaluation   
+(IME) on Respondent on February 22, 2019.  Dr. Mooney agreed with the diagnosis of 
+right shoulder injury resulting in labral tear and neuropathic pain most consistent with 
+CRPS.  He assigned  a 20% whole person impairment rating as a result of the diagnosis of 
+CRPS and a 13% whole person impairment rating to Respondent’s right upper extremity. 
+(J. Ex. 7, at p. 146).  Dr. Mooney assigned permanent restrictions of no lifting over two 
+pounds.  Respondent could perform light activity assist with the right hand while using a 
+sling. (Id.)    
+          On March 5, 2019, Dr. Bengtson addressed Respondent’s permanent impairment 
+and restrictions.  He assigned a 32% impairment rating as a result of Respondent’s CRPS.  
+(J. Ex. 8). He also assigned permanent work restrictions of no use of right arm or hand 
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+4 
+ 
+for work-related activity, in addition to the restrictions of no pushing, pulling, or lifting 
+and rarely bending, stooping, squatting, twisting, or turning up to 5%.   Dr. Bengtson 
+further ordered Respondent not to operate power equipment. (J. Ex. 6, at p. 124).     
+         C.         Review-Reopening Petition.    On October 21, 2016, Respondent filed 
+a Petition for Review-Reopening.  The Petition was later dismissed without prejudice.  On 
+March 7, 2018, Respondent refiled the Petition for Review-Reopening.  This Petition 
+proceeded to hearing before Deputy II on March 5, 2019.   Five issues were presented at 
+the hearing.  First, whether Respondent had sustained a change in condition warranting 
+an award of industrial benefits.  Second, whether Respondent was entitled to intermittent 
+healing period benefits from August 31, 2016, through September 12, 2016, and 
+November 27, 2017, through January 6, 2019.  Third, the extent of Respondent’s 
+permanent disability.  Fourth, whether Respondent had proven he was permanently and 
+totally disabled under the statute.  Finally, Respondent’s entitlement to recover medical 
+expenses and costs. (Arb. Dec. at p. 3).    
+           D.        Review-Reopening Decision.    On  June  7,  2019,  Deputy  II  issued  
+her Review-Reopening Decision finding Respondent  had  met  his  burden  of  proof  that  
+he sustained a change of condition following the April 26, 2016, arbitration hearing.  
+Deputy II  also  (1)  found  Respondent  permanently  and  totally  disabled  under  the  
+statute, (2) awarded Respondent healing period benefits for the periods of August 31, 
+2016, through September 12, 2016, and November 27, 2017, through January 6, 2019, 
+when Respondent was taken completely  off  work,  and  (3)  found  Petitioner  responsible  
+for  Respondent’s medical expenses set forth in Exhibit 3, all causally related medical care, 
+and costs of the hearing. (06/07/19 Review-Reopen. Dec. at pp. 21 – 24).        
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+5 
+ 
+E. 
+Appeal 
+Decision. 
+Petitioner 
+sought 
+intra-agency 
+appeal. 
+The 
+Commissioner issued his Appeal Decision on April 9, 2020, affirming the Review-
+Reopening Decision in its entirety.1     
+F.       Judicial Review Petition.  On May 8, 2020, Petitioner filed the instant 
+Petition seeking reversal of the final agency decision in its entirety.    
+STANDARD OF REVIEW 
+ 
+          The Iowa Administrative Procedure Act, Iowa Code chapter 17A, governs appellate 
+review of agency action.  Iowa Code section 17A.19(10) provides that the court may affirm 
+the agency action or remand to the agency for further proceedings.  The court shall 
+reverse, modify, or grant other relief if it determines that a party’s substantial rights have 
+been prejudiced because of the agency action under enumerated circumstances. Iowa 
+Code § 17A.19(10)(a)-(n); Meyer v. IBP, Inc., 710 N.W.2d 213, 218-219 (Iowa 2006); 
+Sherman v. Pella Corp., 576 N.W. 2d 312, 316 (Iowa 1998); Second Injury Fund v. Nelson, 
+544 N.W.2d 258, 264 (Iowa 1995).    
+          The  standard  of  review  the  court  applies  varies  depending  on  the  type  of  
+error allegedly committed by the Commissioner.  Jacobson Transp. Co. v. Harris, 778 
+N.W.2d 192, 196 (Iowa 2010).  If the claim of error relates to the agency’s findings of fact, 
+the scope of review is whether substantial evidence supports the agency’s findings.  
+Meyer, 710 N.W.2d at 219; Iowa Code § 17A.19(10)(f).  Evidence is substantial if a 
+reasonable person would find the evidence adequate to reach the same conclusion.   
+Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (citing Ehteshamfar v. UTA 
+Engineered Sys. Div., 555 N.W.2d 450, 452 (Iowa 1996)).    
+                                                          
+1 Petitioner did not seek judicial review of Deputy II’s decision regarding medical expenses 
+and costs.    
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+6 
+ 
+          If the claim of error relates to the agency’s interpretation of law, the scope of review 
+is whether the agency’s interpretation was erroneous.  Meyer, 710 N.W.2d at 219. The 
+court will reverse the commissioner’s application of the law to the facts only if the 
+commissioner’s application is irrational, illogical or wholly unjustifiable.  Larson Mfg. Co. 
+v. Thorson, 763 N.W.2d 842, 850 (Iowa 2009); Iowa Code § 17A.19(10)(m).    
+          In  exercising  its  judicial  review  power,  the  district  court  acts  in  an  appellate 
+capacity. Mycogen Seeds v. Sands, 686 N.W.2d 457, 463 (Iowa 2004).  In that capacity, 
+the court must give deference to the commissioner’s appeal decision in accordance with 
+the standards stated in Iowa Code section 17A.19(10)(a)-(n).    
+                                                              ANALYSIS 
+           Petitioner asserts three issues on judicial review: First, whether the 
+Commissioner’s interpretation and application of Iowa Code section 85.33 was erroneous 
+(i.e., unreasonable, irrational, or wholly unjustifiable) in finding Respondent was entitled 
+to healing period benefits for the periods of August 31, 2016, through September 12, 2016, 
+and November 27, 2017, through January 6, 2019.  Second, whether the Commissioner’s 
+award of permanent and total disability benefits was based upon the odd-lot doctrine. 
+Third, whether substantial evidence supports the Commissioner’s award of permanent 
+and total disability benefits.     
+           A.        Interpretation and Application of Iowa Code Section 85.33.  
+Section 85.33 governs temporary disability benefits. It states in relevant part:   
+    1.  Except as provided in subsection 2 of this section, the employer shall 
+pay to an employee for injury producing temporary total disability, weekly 
+compensation benefits, as provided in section 85.32, until the employee has  
+returned  to  work  or  is  medically  capable  of  returning  to  employment 
+substantially similar to the employment in which the employee was engaged 
+at the time of injury, whichever occurs first.    
+ 
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+7 
+ 
+           . . . .   
+ 
+   3.  If an employee is temporarily, partially disabled and the employer for 
+whom  the  employee  was  working  at  the  time  of  injury  offers  to  the 
+employee  suitable  work  consistent  with  the  employee’s  disability  the 
+employee   shall   accept   the   suitable   work,   and   be   compensated   with 
+temporary partial benefits.  If the employee refuses to accept the suitable 
+work with the same employer, the employee shall not be compensated with 
+temporary partial, temporary total, or healing period benefits during the 
+period of the refusal.    
+ 
+Iowa Code §§ 85.33(1), (3).  When seeking to disqualify a recuperating employee from 
+weekly benefits under section 85.33(3), the employer has the initial burden of proof to  
+show the work was suitable, in other words, consistent with the disability.  When that 
+burden is met, the burden of proof then shifts to the employee to show that the work was   
+actually unsuitable.      
+          The Iowa Supreme Court (the Court) has held there is a two-part test to determine   
+eligibility for temporary partial, temporary total, and healing period benefits under 
+section 85.33(3):  (1) whether the employee was offered suitable work, (2) which the 
+employee refused.  If  both  elements  are  met,  benefits  cannot  be  awarded  under  
+section  85.33(3).   Schutjer v. Algona Manor Care Ctr., 780 N.W.2d 549, 559 (Iowa 
+2010).  If the employer fails to offer the employee suitable work, the employee will not be 
+disqualified from receiving benefits regardless of the employee’s motive for refusing the 
+unsuitable work.  Neal v. Annett Holdings, Inc., 814 N.W.2d 512, 519 (Iowa 2012).   
+           In the instant matter, the Commissioner found Respondent was entitled to healing 
+period benefits for the periods of August 31, 2016, through September 12, 2016, and 
+November 27, 2017, through January 6, 2019, when Respondent was taken completely off 
+work.  Petitioner contends the Commissioner’s interpretation and application of section 
+85.33(3) and the controlling case law is erroneous.   
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+8 
+ 
+           In Schutjer the Court stated:    
+ 
+[t]he issue was not whether Schutjer voluntarily quit, but whether Schutjer   
+ 
+was offered suitable work within her restrictions and whether she refused 
+it.  Only if she was offered such work and refused it would she be precluded   
+from receiving temporary partial, temporary total, or healing period 
+benefits. 
+   
+Schutjer, 780 N.W.2d at 558.  
+  
+          Petitioner relies on Schutjer to support its argument. Under Petitioner’s 
+interpretation of Schutjer, an employee would never be entitled to future healing period   
+benefits, even when the employee continues to receive treatment for his or her work-
+related injury and the employee’s temporary restrictions have changed.    
+         
+Respondent  argues  Schutjer  does  not  permanently  bar  a  claimant  from  ever  
+receiving  temporary  disability  benefits,  but  instead  bars  the  claimant  from  receiving   
+temporary disability benefits during the period of refusal.  In support of his interpretation 
+of Schutjer, Respondent relies on Polaris Industries, Inc. v. Doty, Case No. 16-0961, 2017   
+WL 362005 (Iowa Ct. App. Jan. 25, 2017).  In Doty the Iowa court of appeals affirmed the 
+district court’s decision affirming the commissioner’s appeal decision awarding 
+temporary total disability benefits to the claimant for the period of time she was unable 
+to work during a period of recuperation following injury. (Id. at *3).    
+    
+In the August 30, 2016, original Arbitration Decision, Deputy I found two things:    
+First, Respondent did return to work on light duty from approximately November 12, 
+2014.  The record suggests claimant worked until sometime before December 16, 2014.   
+(08/30/16 Arb. Dec. at p. 9, ¶ 6).  Second, Petitioner had offered Respondent suitable 
+light duty work within his restrictions after December 16, 2014, which he refused to 
+perform.  (08/30/16 Arb. Dec. at p. 10, ¶¶ 4 – 6).   Deputy I specifically found:   
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+9 
+ 
+There are two periods of time at issue in this case, involving light duty.  
+They are the periods between November 12, 3014, to December 16, 2014; and 
+the period of time following December 16, 2014. The record indicates 
+[Respondent] did work light duty at [Petitioner] between November 12, 2014, 
+to on or about December 16, 2014.    The majority of [Respondent’s] job duties 
+with [Petitioner], during this period of time, involved pushing buttons and 
+monitoring gauges.  A small amount of [Respondent’s] duties, during this 
+period, could require minimal use of the right hand.  Given this record,  it  is  
+found  the  light  duty given [Respondent]  during  the  period  of  November  
+12,  2014,  to  on  or  about December 16, 2014, was suitable. 
+     
+[Respondent] was given work restrictions by Dr. Potthoff on 
+December 16, 2014, of no pulling, pushing, or lifting with the right arm.   
+[Respondent] did not return to work after he was given these instructions 
+by Dr.  Potthoff.  In short, [Respondent] failed to give his employer the   
+opportunity to accommodate the December 16, 2014, work restrictions.  As   
+ 
+The work restrictions between November 12, 2014, to on or about 
+December 16, 2014, are found suitable, and [Respondent] failed to return to 
+work after given   the   December   16,   2014,   work   restrictions,   it   is   
+found  that  [Respondent] has failed to carry his burden of proof [that] light 
+duty work given after December 16, 2014, was not suitable.   
+ 
+Given this record, [Respondent] is not entitled to temporary benefits 
+by application of Iowa Code section 85.33(3).             
+ 
+(08/30/16 App. Dec. at p. 10, ¶¶ 4 – 6).  Respondent did not appeal or otherwise contest 
+these findings.  So it is the law of the case that Respondent worked in a light duty position  
+for Petitioner from November 12, 2014, through December 16, 2014, and did not return 
+to work after that, up to and including the April 26, 2016, arbitration hearing date.  But 
+the law  of  the  case  as  to  these  facts  does  not  answer  the  question  of  whether  
+Respondent experienced a change of condition after the original Arbitration Decision was 
+entered on August  30,  2016,  which  required  more  medical  interventions  aimed  at  
+resolving or lessening the effects of the work injury he sustained while employed by 
+Petitioner.     
+ 
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+10 
+ 
+          The certified agency record reveals the following relevant facts:  Petitioner was 
+ultimately purchased by Church & Dwight Co., Inc. (C & D) sometime in 2014.   (04/26/16 
+Def. Hrg.  Ex.  O, at p.  1).    On December 8, 2014, C & D offered Petitioner employment 
+with that company.  (Id. at ¶ 1).  Petitioner had until December 12, 2014,  within  which  
+to  sign  a  copy  of  the  letter  and  return  it  to  C & D’s  human  resources  department.  
+(Id. at ¶ 5).  He admitted at the March 5, 2019, hearing that he did not respond to C & D 
+and that he has not looked for other work since 2014:   
+           5          Q.  Now, my understanding is that you have not    
+           6         worked anywhere since 2014; right?   
+          7         A.  Correct.   
+          . . . .   
+ 
+           20        Q.  Well, . . .    
+            
+           22        . . . the point is that a new employer came in,   
+           23        and you were to fill out an application to go to the   
+           24        new employer, and you did not do that; right?   
+           25        A.  Yes. . . .   
+          . . . .   
+ 
+           6         Q.  And since that time you have not even   
+           7         applied for work anywhere else; right?   
+            8         A.  Correct.   
+          . . . .   
+ 
+           21        Q.  Would it also be fair to say, you know,    
+           22        you were asked about releasing, not looking for   
+           23       work, but the point is, would it be fair to say that   
+           24        for the last four years that you underwent three   
+           25        shoulder surgeries and multiple injections and 
+ 
+             1        blocks, always with the hope that you would get   
+            2         better, and more functional?   
+            3         A.  Yes.  And that’s why my depression has    
+            4        gotten worse.   
+            5         Q.  And you simply haven’t gotten more   
+            6         functional, have you?   
+            7         A.  No.   
+ 
+(03/05/19 Review-Reopen. Trans. at pp. 63 – 64, 67 – 68).    
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+11 
+ 
+         
+On August 31, 2016—one day after Deputy I issued his Arbitration Decision— 
+Respondent underwent a second surgery on his right shoulder and was taken off work by 
+the authorizing treating physician from August 31, 2016, through September 12, 2016.   
+(J. Ex. 2 at p. 28).   The treating physician took Respondent off work following a third 
+surgery from November 27, 2017, through January 6, 2019. (J. Ex. 6, at p. 92; J. Ex. 6 at 
+p. 125).    
+           The question for the court seems to be this:  Did Respondent’s condition change  
+after the arbitration hearing such that Petitioner was required to offer him new work that 
+accommodated his new restrictions, or did Respondent voluntarily quit by rejecting 
+suitable work offered by Petitioner, thereby relieving Petitioner from any further 
+responsibility?   
+           Deputy II answered these questions this way:  
+  
+ 
+[Section 85.33(3)] precludes an employee who refuses suitable work 
+offered by the employer, consistent with the employee’s disability, from 
+receiving temporary or healing period benefits during the period of refusal. 
+Id.; Neal v. Annett Holdings, Inc., 814 N.W.2d 512, 520 (Iowa 2012).  The 
+employer bears the burden of providing the affirmative defense.  Schutjer 
+v. Algona Manor Care Ctr., 780 N.W.2d 549, 559 (Iowa 2010).   
+ 
+The  issue  of  whether  an  employer  has  offered  suitable  work  is   
+ordinarily an issue for the trier of fact.  Neal, 814 N.W.2d at 518.  The Iowa   
+ 
+Supreme Court has held under the express wording of the statute, the 
+offered work must be suitable and consistent with the employee’s  disability 
+before  the  employee’s  refusal  to  accept  such  work  will  disqualify  [the 
+employee] from receiving temporary partial, temporary total, and healing 
+period benefits.  Id. at 519.   
+ 
+        
+In the August 2016 arbitration decision, the deputy workers’ 
+compensation commissioner found [Respondent] refused suitable work 
+and denied [Respondent’s] request for temporary benefits.  After the 
+original arbitration hearing, [Respondent’s] situation changed. Dr. 
+Nepola found [Respondent] needed additional surgery, he performed 
+surgery on [Respondent] on August 31, 2016, and he restricted 
+[Respondent] from working through September 12, 2016.  There is no 
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+12 
+ 
+evidence the [Petitioner] offered [Respondent] suitable work that he 
+refused after August 31, 2016. [Respondent] is entitled to healing period 
+benefits from August 31, 2016, through September 12, 2016.   
+ 
+       
+[Respondent] was also restricted from working by Dr. Elhassan at   
+the time of his surgery on November 27, 2017.  No evidence was presented   
+at hearing [that] [Petitioner] offered [Respondent] suitable work that he 
+refused from November 27, 2017, through January 6, 2019, or that he was   
+capable of returning to employment substantially similar to employment in   
+ which he was engaged at the time of the injury.  [Respondent] is entitled to   
+healing period benefits from August 31, 2016, though September 12, 2016, 
+and November 27, 2017, through January 6, 2019. At the stipulated rate of 
+$311.92 per week. 
+ 
+(06/07/19 Review-Reopen. Dec. at p. 21, ¶¶ 1 – 4) (emphasis added).  Deputy II also found 
+Respondent was not motivated to work.  (Id. at p. 23, ¶ 6).2    
+            The Commissioner adopted Deputy’s findings, noting that Deputy II provided a 
+well-reasoned analysis of all of the issued raised.3  The court agrees.    
+Treating physicians repeatedly took Respondent off work after the arbitration 
+hearing because he underwent surgeries intended to improve his work injury.  Like the 
+employee in Doty, Respondent could not work after his post-arbitration hearing change 
+in condition because he was medically restricted from doing so.    
+           Unlike the employee in Schutjer, there was no finding in the instant matter by the 
+agency either in the arbitration proceeding or the review-reopening proceeding that 
+Respondent was not credible.  The Schutjer decision suggests it is only possible for an 
+employee to receive temporary benefits if the employee undergoes further treatment and 
+is removed from all employment for the period of healing.  Once restricted work is 
+permitted for the employee, the healing period ends.  That appears to be exactly what 
+                                                          
+2 Respondent did apply for social security disability benefits, but his Application was 
+denied.  (Ex. A, p. 2). 
+3  The Commissioner adopted and affirmed Deputy II’s June 7, 2019, Review-Reopening 
+Decision as the final agency decision on April 9, 2020.  
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+13 
+ 
+happened under this record.   
+ 
+When the court considers the agency record as a whole and construes the relevant 
+law for the benefit of Respondent—as the court must—the court finds the Commissioner 
+did not misinterpret or misapply section 85.33, or ignore the Schutjer decision and the 
+Doty decision.                                         
+             The Commissioner’s interpretation of section 85.33 in determining that 
+Respondent is entitled to healing benefits from August 31,  2016, through September  12, 
+2016, and November 27, 2017, through January 6, 2019, at the stipulated rate of $311.92 
+per week is not erroneous (i.e., irrational, illogical, or wholly unjustifiable) and should be 
+affirmed.        
+         
+B.   
+Permanent and Total Disability – Odd-Lot Doctrine.   Petitioner 
+argues the Commissioner based his finding that Respondent was permanently and totally   
+disabled on the application of the odd-lot doctrine, which Respondent did not assert in 
+the Review-Reopening Petition.  However, Deputy II clearly states in her Review-
+Reopening Decision (adopted by the Commissioner) that she found Respondent to be 
+permanently and totally disabled under the statute. (06/07/19 Review Reopening Dec. at 
+p. 23, ¶ 6) (“Considering all of the factors  of  industrial  disability,  I  find  [Respondent]  
+is  permanently  and  totally  disabled under the statute, on the stipulated commencement 
+date of January 7, 2019, at the stipulated rate of $311.92 per week.”).    Deputy II’s decision 
+clearly outlines her analysis of the industrial disability factors relevant to Respondent’s 
+condition. Based upon those factors, Deputy II reasonably found Respondent 
+permanently and totally disabled under the statute.    
+ 
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+14 
+ 
+            As noted above,  the  Commissioner  in  his  de  novo  review  stated  that  Deputy  
+II had provided a “well-reasoned analysis” of all issues raised in the review reopening 
+proceeding and reaffirmed that Deputy II had based her finding of permanent and total 
+disability on the industrial disability analysis. (04/09/20 App. Dec. at p. 1, ¶ 4; p. 2,  
+¶¶ 7 – 8).  When this record is considered as a whole, Petitioner has failed to establish the 
+Commissioner based his ultimate finding of permanent and total disability on the 
+application of the odd-lot doctrine.   
+ 
+For the reasons that follow, the Commissioner’s findings on this issue should be 
+affirmed.   
+           C.       Permanent and Total Disability – Substantial Evidence.    
+Petitioner alternatively argues substantial evidence does not support the Commissioner’s 
+finding of permanent and total disability.    Petitioner argues the Commissioner failed to 
+consider medical evidence which showed Respondent could use his right arm more than 
+he testified to.  Petitioner further argues that Respondent’s age, educational history, 
+employment opportunities and testimony do not support a finding of permanent and total 
+disability.    
+           In deciding whether substantial evidence supports the Commissioner’s findings, 
+the court can only grant relief from the Commissioner’s decision if a determination of fact 
+by the Commissioner is not supported by substantial evidence in the record before the 
+court when that record is viewed as a whole. Gits Mfg. Co. v. Frank, 855 N.W.2d 195, 197 
+(Iowa 2014); Iowa Code § 17A.19(10)(f).  Petitioner at length highlights evidence in the 
+record the Commissioner did not rely upon in reaching his ultimate conclusion regarding 
+the extent of Respondent’s disability.   
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+15 
+ 
+A fair difference of opinion about interpretation of the evidence does not mean the 
+Commissioner’s decision is not supported substantial evidence.   It is well-settled that a 
+reviewing court should not consider evidence insubstantial merely because the court may 
+draw different conclusions.  Arndt v. City of Le Claire, 728 N.W.2d 389, 393 (Iowa 2007).    
+A claim of insubstantial evidence is not a question about what the Commissioner could 
+have found.  It is a question about what the Commissioner did find.                       
+           Here, the Commissioner reasonably adopted Deputy II’s decision.  Deputy II’s 
+decision  provides  a  detailed  review  and  analysis  of  Respondent’s  medical  history,  
+employment history, educational background, and physical limitations.  At the time of the 
+review-reopening hearing Respondent was twenty-eight years old. (Review-Reopen. Tr. 
+at p. 8; 06/07/19 Review-Reopen. Dec. at p. 23, ¶ 3).  He graduated from high school with 
+a C average.  (Review-Reopen. Tr. at pp. 38-39; 06/07/19 Review-Reopen. Dec. at p. 23, 
+¶ 4).  He attended community college for six months, earning C and D grades. (Review-
+Reopen. Tr. at pp. 38-39; 06/07/19 Review-Reopen. Dec. at p. 23, ¶ 4).  Respondent 
+testified he has not received any specialized training.  (Review-Reopen Tr. at p. 8; 
+06/07/19 Review-Reopen. Dec. at p. 23, ¶ 4).  His computer skills are limited to playing 
+videos on YouTube and checking his email. (Review-Reopen. Tr. at pp. 38-39; 06/07/19 
+Review-Reopen. Dec. at p. 23, ¶ 4).   He  has  no  formal  experience  using  computer  
+software  such  as  Microsoft  or  PowerPoint. (Review-Reopen. Tr. at p. 38; 06/07/19 
+Review-Reopen. Dec. at p. 23, ¶ 4).   
+          Respondent’s past employment history consists of working as a road construction 
+flagger and heavy equipment operator, a general laborer on a farm, and as a 
+laborer/supervisor for Petitioner. (Review-Reopen. Tr. at pp. 39-47; 06/07/19 Review-
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+16 
+ 
+Reopen. Dec. at p. 23, ¶ 5). He has never worked in an office setting or performed 
+sedentary work. (06/07/19 Review-Reopen. Dec. at p. 23, ¶ 5).   
+          Deputy II also outlined in her opinion the years of medical treatment Respondent 
+has undergone, as well as the functional impairment and permanent restrictions assigned 
+to him by Dr. Bengtson and Dr. Mooney.  Respondent’s inability to use his right arm is 
+well-documented in the medical records and hearing transcript.  As ultimately found by 
+the Commissioner, under the industrial disability analysis, Respondent is not capable of 
+returning to similar employment he previously performed.  (06/07/19 Review-Reopen. 
+Dec. at p. 23, ¶ 5; 04/09/20 Appeal Dec. at p. 2, ¶ 8).   
+         
+When  this  record  is  considered  as  a  whole,  the  court  finds  substantial  
+evidence supports the Commissioner’s ultimate finding that Respondent is permanently 
+and totally disabled.   In making this finding the Commissioner adopted Deputy II’s well-
+reasoned  and  detailed  opinion  reflecting  Deputy  II’s  consideration  of  Respondent’s  
+extensive  medical treatment, his physical inability to use his dominant right arm, and his 
+employment and educational background. The Commissioner’s decision finding 
+Respondent permanently and totally disabled should be affirmed.    
+                                                                 ORDER 
+ 
+          IT IS THEREFORE ORDERED, ADJUDGED AND DECREED that the  
+Commissioner’s award to Respondent of additional intermittent healing period benefits 
+from August 31, 2016, through September 12, 2016, and from November 27, 2017, 
+through  January  6,  2019,  at  the  stipulated  rate  of  $311.92  per  week  is  the  result  
+of  a  correct  interpretation and application of section 85.33 by the Commissioner and is 
+affirmed in its entirety.   
+ 
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+17 
+ 
+           IT IS FURTHER ORDERED, ADJUDGED AND DECREED that the  
+Commissioner’s  final  decision  finding  Respondent  permanently  and  totally  disabled   
+resulted from the application of the industrial disability analysis under section 85.34 and 
+not the application of the odd-lot doctrine.   
+           IT  IS  FURTHER  ORDERED,  ADJUDGED  AND  DECREED  that  that  
+the Commissioner’s final decision finding Respondent  permanently  and  totally  disabled  
+is supported by substantial evidence and is affirmed in its entirety.    
+           IT IS FURTHER ORDERED, ADJUDGED AND DECREED that the Petition 
+is dismissed and costs are assessed to Petitioner.    
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT
+
+State of Iowa Courts
+Type:
+OTHER ORDER
+Case Number
+Case Title
+CVCV060172
+VARIED INDUSTRIES ET AL VS DYLAN DUNLAP
+So Ordered
+Electronically signed on 2020-10-13 23:50:05     page 18 of 18
+E-FILED  2020 OCT 13 11:50 PM POLK - CLERK OF DISTRICT COURT

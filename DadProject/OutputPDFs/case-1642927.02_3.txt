@@ -1,0 +1,337 @@
+Case Number: 1642927.02
+Case Title:  SCHOENBERGER, SHANE V. ZEPHYR ALUMINUM PRODUCTS
+Doc Type:    Decision - District Court
+Source:      Schoenberger - Ruling on Petition for JR.PDF
+========================================================================
+
+1 
+ 
+ IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+ 
+SHANE A. SCHOENBERGER 
+ 
+         Claimant/Petitioner, 
+ 
+vs. 
+ 
+ZEPHYR ALUMINUM PRODUCTS, 
+ 
+         Employer/Respondent,  
+ 
+ACUITY A MUTUAL INSURANCE 
+COMPANY,  
+ 
+Insurance Carrier/Respondent. 
+ 
+ 
+      
+ 
+ 
+Case No. CVCV063079  
+ 
+ 
+ 
+ 
+RULING ON PETITION FOR 
+JUDICIAL REVIEW 
+ 
+On August 12, 2022, the above-captioned matter came before this Court for hearing. 
+Petitioner, Shane A. Schoenberger, appeared through attorney Thomas M. Wertz. Respondents 
+Zephyr Aluminum Products (“Zephyr”) and Acuity, A Mutual Insurance Company (“Acuity”) 
+were represented by attorney Stephanie L. Marett. After hearing the arguments of Counsel and 
+reviewing the court file, including the briefs filed by the parties and the Certified Administrative 
+Record, the Court enters this Order.   
+I. 
+BACKGROUND FACTS AND PROCEEDINGS 
+ 
+Shane A. Schoenberger filed a petition in arbitration with the Iowa Workers’ Compensation 
+Commission seeking workers’ compensation benefits from Zephyr, his employer, and Acuity as a 
+result of a stipulated injury sustained on September 18, 2017. Certified Administrative Record, 
+(“C.A.R.”), Part 2, p. 14. An Arbitration Decision was filed by a Deputy Commissioner on June 
+21, 2021. Id. p. 22.  
+ 
+The Deputy determined that Petitioner’s injury was to his left shoulder, including his 
+rotator cuff, supraspinatus tendon, and biceps long head tendon. Id. p. 18. As such, Petitioner’s left 
+E-FILED                    CVCV063079 - 2022 SEP 07 03:52 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 11
+ELECTRONICALLY FILED     2022-Sep-15  09:52:50     DIVISION OF WORKERS' COMPENSATION
+
+2 
+ 
+shoulder injury was determined to be a scheduled shoulder injury and was limited to a functional 
+impairment rating per Iowa Code section 85.34(2)(n). Id. The Deputy reached this determination 
+by relying on the Commissioner’s appeals decisions in Deng v. Farmland Foods, Inc., File No. 
+5061883 (App. Dec’n Sept. 29, 2020), Chavez v. MS Technology, LLC, File No. 506270 (App. 
+Dec’n Sept. 30, 2020), and Smidt v. JKB Restaurants, LC, File No. 5067766 (App. Dec’n Dec. 11, 
+2020). In Deng, Chavez, and Smidt, the Commissioner determined that all body parts Petitioner 
+injured in this case (rotator cuff, supraspinatus tendon, and biceps long head tendon) have been 
+determined to be parts of the shoulder covered by Iowa Code section 85.34(2)(n). C.A.R., Part 2, 
+p. 18. 
+ 
+There were two expert opinions regarding the permanent impairment rating of Petitioner’s 
+left shoulder. Dr. Field found that Petitioner sustained a 15% permanent impairment to the left 
+upper extremity. C.A.R., Part 2, p. 18; C.A.R., Part 3, p. 119. Dr. Kuhnlein found that Petitioner 
+sustained a 19% permanent impairment to the left upper extremity. C.A.R., Part 2, p. 18; C.A.R., 
+Part 3, p. 38. The Deputy gave the greatest weight to Dr. Kuhnlein’s rating of permanent 
+impairment because they were able to follow along with his analysis using AMA Guides to the 
+Evaluation of Permanent Impairment, fifth edition. C.A.R., Part 2, pp. 18-19. Thus, the Deputy 
+determined that Petitioner sustained a 19% permanent impairment to his left shoulder and was 
+entitled to 76 weeks of permanent partial disability benefits. Id. at 19. 
+ 
+The Deputy further found that Respondents were not liable for penalties under Iowa Code 
+section 86.13. Id. at 21. The Deputy determined the approximately six weeks between Petitioner’s 
+finding of maximum medical improvement (MMI) and impairment rating were not due to a delay 
+by Respondents and as such, a penalty was not appropriate. Id. The Deputy additionally concluded 
+that a penalty should not be imposed based on Respondents calculating Petitioner’s weekly 
+E-FILED                    CVCV063079 - 2022 SEP 07 03:52 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 11
+
+3 
+ 
+benefits incorrectly on several occasions. Id. The Deputy reached this determination because 
+Petitioner had provided incorrect information with regard to his number of dependents, and he had 
+multiple hourly rates and overtime. Id. Additionally, Respondents attempted to promptly issue 
+checks for underpayments and interest once a proper rate was able to be determined. Id. Thus, a 
+penalty was not found to be appropriate. 
+ 
+The Deputy did not rule on Petitioner’s claim that the statutory provisions of Iowa Code 
+sections 85.34(2)(n), 85.34(2)(v), and 85.34(2)(x) violate the Iowa Constitution because the 
+Agency has not been vested with the power to make such a ruling. Id. The Deputy also ordered 
+Respondents to pay all costs. Id. p. 22. 
+ 
+ Petitioner filed a Notice of Appeal with the Iowa Workers’ Compensation Commissioner 
+on July 9, 2021, appealing Deputy Christenson’s June 21, 2021, Arbitration Decision. Id. p. 11. 
+Petitioner appealed all adverse findings of fact and conclusions of law, with the exception of the 
+penalty claim related to the late initiation of permanent partial disability benefits. The other penalty 
+claim related to an allegedly improper calculation of benefits remained part of the appeal. Id. 
+ 
+The Commissioner filed an Appeal Decision on January 5, 2022. C.A.R., Part 1, p. 13. The 
+Commissioner adopted all parts of the Arbitration Decision not on appeal as part of his Appeal 
+Decision. Id. p. 14. The Commissioner additionally adopted the same analysis, findings, and 
+conclusions in full as those reached by the Deputy Commissioner on the appealed issues. Id. 
+ 
+Specifically, the Commissioner affirmed that Petitioner sustained a permanent scheduled 
+member disability of 19% to his left shoulder as a result of the work injury on September 18, 2017. 
+Id. The Commissioner also affirmed that Petitioner failed to prove his injury extends beyond his 
+left shoulder into his body as a whole and thus, industrial disability benefits were not appropriate. 
+Id. Additionally, the Commissioner affirmed that Petitioner is not entitled to receive penalty 
+E-FILED                    CVCV063079 - 2022 SEP 07 03:52 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 11
+
+4 
+ 
+benefits and that Respondents are to pay Petitioner’s costs of the arbitration proceeding. Id. Lastly, 
+the Commissioner affirmed that the Agency could not rule on Petitioner’s assertion that Iowa Code 
+sections 85.34(2)(n), 85.34(2)(v), and 85.34(2)(x), violate the Iowa Constitution and such claims 
+were preserved for potential judicial review. Id. Petitioner subsequently filed this Petition for 
+Judicial Review on February 2, 2022. Petition for Judicial Review (“Petition”), p. 1. 
+II. 
+SCOPE AND STANDARDS OF REVIEW 
+The Iowa Administrative Procedure Act (“IAPA”), Iowa Code Chapter 17A, governs the 
+scope of the Court’s review in workers’ compensation cases. Iowa Code § 86.26 (2021); Meyer v. 
+IBP, Inc., 710 N.W.2d 213, 218 (Iowa 2006). The Court’s review of final agency action is 
+“severely circumscribed.” Sellers v. Emp. Appeal Bd., 531 N.W.2d 645, 646 (Iowa Ct. App. 1995). 
+Nearly all disputes are won or lost at the agency level; the cardinal rule of administrative law is 
+that judgment calls are within the province of the administrative tribunal, not the courts. See id.  
+“Under the [IAPA], we may only interfere with the commissioner’s decision if it is 
+erroneous under one of the grounds enumerated in the statute, and a party’s substantial rights have 
+been prejudiced.” Meyer, 710 N.W.2d at 218. The party challenging agency action bears the 
+burden of demonstrating the action's invalidity and resulting prejudice. Iowa Code § 17A.19(8)(a). 
+This can be shown in a number of ways, including proof the action was ultra vires; legally 
+erroneous; unsupported by substantial evidence in the record when that record is viewed as a 
+whole; or otherwise, unreasonable, arbitrary, capricious, or an abuse of discretion. See id. § 
+17A.19(10). The district court acts in an appellate capacity to correct errors of law on the part of 
+the agency. Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002). 
+“If the claim of error lies with the agency’s findings of fact, the proper question on review 
+is whether substantial evidence supports those findings of fact” when the record is viewed as a 
+E-FILED                    CVCV063079 - 2022 SEP 07 03:52 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 11
+
+5 
+ 
+whole. Meyer, 710 N.W.2d at 219. Factual findings regarding the award of workers’ compensation 
+benefits are within the Commissioner’s discretion, so the Court is bound by the Commissioner’s 
+findings of fact if they are supported by substantial evidence. Clark v. Vicorp Rest., Inc., 696 
+N.W.2d 596, 604 (Iowa 2005). Substantial evidence is defined as evidence of the quality and 
+quantity “that would be deemed sufficient by a neutral, detached, and reasonable person, to 
+establish the fact at issue when the consequences resulting from the establishment of that fact are 
+understood to be serious and of great importance.” Iowa Code § 17A.19(10)(f)(1); Cedar Rapids 
+Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 850 (Iowa 2011). The burden on the movant to prove 
+there is not substantial evidence in the record is a heavy one. See McComas-Lacina Constr. v. 
+Drake, 884 N.W.2d 225 (Table), 2016 WL 2744948, at *1 (Iowa Ct. App. May 11, 2016) (“A case 
+reversing final agency action on the ground the agency’s action is unsupported by substantial 
+evidence . . . is the Bigfoot of the legal community - an urban legend, rumored to exist but never 
+confirmed.”) 
+The application of the law to the facts is also vested in the commissioner. Larson Mfg. Co. 
+v. Thorson, 763 N.W.2d 842, 850 (Iowa 2009). Accordingly, the Court will reverse only if the 
+commissioner’s application was “irrational, illogical, or wholly unjustifiable.” Id.; Iowa Code § 
+17A.19(10)(l). This standard requires the Court to allocate some deference to the commissioner’s 
+application of law to the facts, but less than it gives to the agency’s findings of fact. Larson, 763 
+N.W.2d at 850. 
+III. 
+MERITS 
+A. Industrial Disability per Iowa Code Section 85.34(2)(v) 
+Petitioner asserts that the Commissioner’s affirmance of the Arbitration Decision was in 
+violation of Iowa Code sections 17A.19(10)(a)-(n). Petition, pp. 1-2. Specifically, Petitioner 
+E-FILED                    CVCV063079 - 2022 SEP 07 03:52 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 11
+
+6 
+ 
+alleges that his injury should have been compensated for industrial disability based on scheduled 
+injuries to the shoulder and the arm under Iowa Code section 85.34(2)(v). 
+Respondents allege that Petitioner has changed his argument on how to extend his left 
+shoulder injury into the body as a whole over time because of the impact of two recent Iowa 
+Supreme Court opinions finding that shoulder injuries are scheduled member injuries under Iowa 
+Code section 85.34(2)(n). See Chavez v. MS Technology LLC, 972 N.W.2d 662, 668-669 (Iowa 
+2022); Deng v. Farmland Foods, Inc., 972 N.W.2d 727, 728 (Iowa 2022). At the Arbitration, 
+Petitioner argued that his left shoulder injury was an injury to his body as a whole. With that 
+argument now precluded by recent Iowa Supreme Court opinions, Petitioner now argues that he 
+sustained a permanent left shoulder injury and a permanent left arm injury, which would entitle 
+him to industrial disability under Iowa Code section 85.34(2)(v). See Anderson v. Bridgestone 
+Americas, Inc., File No. 5067475 (App. Dec’n Jan. 25, 2022); Carmer v. Nordstrom, Inc., File No. 
+1656062 (App. Dec’n Dec. 29, 2021).  
+Respondents assert that Petitioner’s new claim (left shoulder injury combined with left arm 
+injury) is not properly on appeal to this Court. Specifically, Respondents assert that Petitioner did 
+not preserve for appeal the issue that he sustained a permanent shoulder injury and a permanent 
+arm injury that should be compensated under Iowa Code section 85.34(2)(v) because it was not 
+presented and considered by the Commissioner on appeal due to it not being presented to the 
+Deputy Commissioner at the arbitration hearing. Respondents further argue that if the claim were 
+properly on appeal, Petitioner still failed to establish a permanent left arm injury, which would 
+make Iowa Code section 85.34(2)(v) irrelevant. 
+The district court’s appellate jurisdiction in this matter limits it to addressing only such 
+arguments as were raised and addressed by the agency. In contested cases the court’s review is 
+E-FILED                    CVCV063079 - 2022 SEP 07 03:52 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 11
+
+7 
+ 
+limited to those questions considered by the administrative agency. General Tel. Co. v. Iowa State 
+Commerce Comm’n, 275 N.W.2d 364, 367 (Iowa 1979). 
+An appellate court will consider only such questions as were raised and reserved in the 
+lower court. The same principle . . . applies on review by courts of determinations of 
+administrative agencies so as to preclude from consideration questions or issues which 
+were not properly raised in the proceedings before the agency. 
+ 
+Chicago and Northwestern Transp. v. Iowa Transp. Regulation Bd., 322 N.W.2d 273, 276 (Iowa 
+1982) (quoting 2 Am. Jur. 2d Administrative Law § 724, at 624 (1962) with footnotes deleted). A 
+party is precluded from raising issues in the district court that were not raised and litigated before 
+the agency. Interstate Power Co. v. Iowa State Commerce Comm'n, 463 N.W.2d 699, 701 (Iowa 
+1990). It is a fundamental doctrine of appellate review that issues must ordinarily be both raised 
+and decided by the lower tribunal before they can be decided on appeal. See Meier v. Senecaut, 
+641 N.W.2d 532, 537 (Iowa 2002). A failure to properly preserve an issue leaves nothing for the 
+appellate court to review. Our error preservation rules serve the salutary purpose of giving notice 
+to the court and opposing counsel what is being challenged. State v. Johnson, 476 N.W.2d 330, 
+334 (Iowa 1991). 
+In addition, the district court only reviews final agency action on judicial review, Iowa 
+Code § 17A.19(1), and the decision of the Workers’ Compensation Commissioner is the final 
+agency action. See Iowa Code § 86.24(5); see also Myers v. F.C.A. Servs., Inc., 592 N.W.2d 354, 
+358 (Iowa 1999) (“[D]eputy . . . commissioner’s proposed findings are not a consideration on 
+judicial review. Only final agency action is subject to judicial review.”). Thus, the Court is only 
+reviewing what was specifically raised and litigated before the Commissioner.   
+Petitioner asserts in his Reply Brief that although he did not argue an arm injury during 
+arbitration before the Deputy Commissioner, he raised it on appeal with the Commissioner, and 
+thus it was an alternate theory of recovery aside from the theory of a whole-body impairment. 
+E-FILED                    CVCV063079 - 2022 SEP 07 03:52 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 11
+
+8 
+ 
+However, the Commissioner can only review on appeal those things considered and ruled on in 
+the Arbitration Decision absent certain circumstances. Iowa Administrative Code section 876-4.28 
+provides: 
+The commissioner shall decide an appeal upon the record submitted to the deputy worker’s 
+compensation commissioner unless the commissioner is satisfied that there exists 
+additional material evidence, newly discovered, which could not with reasonable diligence 
+be discovered and produced at the hearing. 
+ 
+There is no indication that the Commissioner believed there to be additional material 
+evidence, newly discovered, which could not with reasonable diligence have been discovered and 
+produced at the arbitration hearing. Rather, the Commissioner specifically stated in his Appeal 
+Decision “I find the deputy commissioner provided a well-reasoned analysis of all the issues raised 
+in the arbitration proceeding.” C.A.R., Part 1, p. 14. The Commissioner did not make any 
+indication that the Arbitration Decision was improper or lacking any evidence. Nor was there any 
+mention of additional material evidence on appeal. Thus, the Commissioner could not consider the 
+Petitioner’s newly raised alternate theory of recovery on appeal. Additionally, the Court has 
+reviewed the hearing report and Petitioner’s post-hearing brief and finds no mention of the 
+alternate theory of recovery based on an alleged left arm injury. C.A.R., Part 2, pp. 52-55 and pp. 
+41-51. Rather, Petitioner argued that injuries “proximal (nearer to the center of the body) to the 
+glenohumeral joint are to be compensated as body as a whole injuries.” Id. p. 8.  
+Petitioner cites various cases asserting the position that failing to cite a specific statute does 
+not preclude an argument and, as such, failing to mention his alleged arm injury does not bar his 
+claim on appeal. Petitioner’s Reply Brief pp. 3-7. However, failing to cite a statute and failing to 
+put forth a specific theory of recovery are not the same.  The Deputy Commissioner was never 
+asked to consider the possibility that Claimant’s shoulder injury and arm injury should be jointly 
+considered to be an injury to the body as a whole.  
+E-FILED                    CVCV063079 - 2022 SEP 07 03:52 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 11
+
+9 
+ 
+Accordingly, to the extent Petitioner attempts to raise any arguments on judicial review 
+that were not raised and adjudicated at the agency level, the Court concludes such issues are not 
+properly before this Court. Thus, the Court concludes the Petitioner’s claim for industrial disability 
+compensation based on scheduled injuries to the shoulder and arm under Iowa Code section 
+85.34(2)(v) are not properly on appeal and the Court cannot review the issue. 
+B. Penalty Benefits 
+1. Late Initiation of Permanent Partial Disability Benefits 
+Petitioner asserted that the Commissioner erred in denying him penalty benefits for the 
+Respondents’ failure to timely initiate permanent partial disability benefits. However, in his Reply 
+Brief, Petitioner agrees that he waived his penalty claim related to late initiation of permanent 
+partial disability benefits on appeal. Reply Brief pp. 9-10. Thus, the Court concludes Petitioner’s 
+claim for penalty benefits due to Respondents’ late initiation of permanent partial disability 
+benefits is not properly on appeal and the Court cannot review the issue. 
+2. Incorrect Weekly Calculations  
+Petitioner also asserts that the Commissioner erred in denying him penalty benefits for 
+Respondents’ failure to calculate his correct weekly benefit rate. Respondents assert that the 
+Commissioner’s finding is supported by substantial evidence, and thus correct.  
+The Commissioner performed a detailed review of the evidentiary record and arguments 
+of the parties. Additionally, the Commissioner reviewed the analysis, findings of facts, and 
+conclusions of law of the Deputy Commissioner. C.A.R., Part 1, p. 14. The Commissioner found 
+that Respondents promptly issued checks for underpayments and interest once a proper rate was 
+determined. C.A.R., Part 2, p. 21. The Commissioner also found that there were issues with 
+Petitioner’s reporting of the number of his dependents, and that the case was complicated by his 
+E-FILED                    CVCV063079 - 2022 SEP 07 03:52 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 11
+
+10 
+ 
+multiple hourly rates as well as overtime issues. Id. Thus, the Commissioner determined that 
+Respondents were not acting without reasonable or probable cause in the delay as required by Iowa 
+Code section 86.13 and a penalty was not appropriate. 
+The record, when viewed as a whole, has substantial evidence to support the 
+Commissioner’s finding that penalty benefits for incorrect weekly benefit calculations were not 
+appropriate in this case. Specifically, there is evidence within the record that indicates to a neutral, 
+detached, and reasonable person, the determination that a penalty award was not appropriate, and 
+was supported by substantial evidence. Iowa Code § 17A.19(10)(f)(1); Cedar Rapids Cmty. Sch. 
+Dist. v. Pease, 807 N.W.2d 839, 850 (Iowa 2011). Accordingly, the Court concludes that the denial 
+of penalty benefits for incorrect weekly calculation of benefits is supported by substantial 
+evidence.  
+C. Constitutionality of Iowa Code Sections 85.34(2)(n), 85.34(2)(v), and 85.34(2)(x) 
+Petitioner throughout the course of the proceedings below has asserted that Iowa Code sections 
+85.34(2)(n), 85.34(2)(v), and 85.34(2)(x), are unconstitutional. However, Petitioner makes no 
+mention of the alleged unconstitutionality of Iowa Code sections 85.34(2)(n), 85.34(2)(v), and 
+85.34(2)(x) in his Judicial Review Brief. Thus, this issue is also waived. 
+IV. 
+CONCLUSION AND DISPOSITION 
+For all of the reasons set forth above, the Court concludes that Petitioner’s substantial rights 
+were not prejudiced. The Court further concludes there is substantial evidence in the record viewed 
+as a whole that the Commissioner’s decision was not irrational, illogical, or wholly unjustifiable, 
+or otherwise unreasonable, arbitrary, capricious, or an abuse of discretion in any way. Accordingly, 
+the Commissioner’s decision is AFFIRMED in all respects.  
+E-FILED                    CVCV063079 - 2022 SEP 07 03:52 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 11
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV063079
+SHANE SCHOENBERGER VS ZEPHYR ALUMINUM
+PRODUCTS ET AL
+Type:
+OTHER ORDER
+So Ordered
+Electronically signed on 2022-09-07 15:52:23
+E-FILED                    CVCV063079 - 2022 SEP 07 03:52 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 11 of 11

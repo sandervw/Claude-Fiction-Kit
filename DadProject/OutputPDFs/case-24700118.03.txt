@@ -1,0 +1,1362 @@
+Case Number: 24700118.03
+Case Title:  NELSON, DEAN V. MEDIACOM, LLC
+Doc Type:    Decision - Deputy
+Source:      Nelson Dean-22005240.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+DEAN NELSON, 
+   
+  : 
+ 
+ 
+  : 
+       File Nos. 22005240.01  
+Claimant, 
+  
+  : 
+ 
+           24700118.03 
+ 
+ 
+  : 
+vs. 
+ 
+   
+  : 
+ 
+ 
+  :                  
+MEDIACOM, LLC, 
+   
+  : 
+ 
+ 
+  : 
+ 
+ 
+  :              ARBITRATION DECISION 
+Employer, 
+   
+  : 
+ 
+ 
+  :                   
+and 
+ 
+   
+  : 
+ 
+ 
+  : 
+    
+TRAVELERS INDEMNITY CO. OF CT.,    
+  : 
+Head Notes:  2102; 2206; 2207 
+ 
+ 
+  : 
+ 
+ 
+  
+Insurance Carrier, 
+   
+  : 
+Defendants. 
+  
+  : 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Dean Nelson, claimant, filed two petitions in arbitration seeking workers’ 
+compensation benefits from Mediacom, LLC, employer, and Travelers Indemnity 
+Company of Connecticut, insurance carrier, as defendants. The hearing was held on 
+January 16, 2025.  Pursuant to an order from the Iowa Workers’ Compensation 
+Commissioner, this case was heard via videoconference using Zoom with all parties 
+and the court reporter appearing remotely.   
+The parties filed hearing reports at the commencement of the arbitration hearing.  
+On the hearing reports, the parties entered into various stipulations.  Those stipulations 
+were accepted and are hereby incorporated into this arbitration decision and no factual 
+or legal issues relative to the parties’ stipulations will be raised or discussed in this 
+decision.  The parties are now bound by their stipulations.  
+Dean Nelson was the only witness to testify live at the trial.  The evidentiary 
+record also consists of joint exhibits 1-7; claimant’s exhibits 1-6; and defendants’ exhibit 
+A.  The parties filed post-hearing briefs on February 24, 2025, at which time the case 
+was deemed fully submitted.  
+ 
+ 
+ELECTRONICALLY FILED     2025-Jun-17  11:13:00     DIVISION OF WORKERS' COMPENSATION
+
+NELSON V. MEDIACOM, LLC 
+Page 2 
+ 
+ 
+ISSUES 
+The parties identified the following disputed issues on their hearing reports: 
+File No. 22005240.01 
+1. The nature and extent of claimant’s entitlement to permanent disability 
+benefits from the October 18, 2021 date of injury.  
+2. The commencement date for permanent partial disability benefits.  
+3. Whether claimant is entitled to alternate medical care. 
+4. Whether claimant is entitled to reimbursement for an independent medical 
+examination pursuant to Iowa Code section 85.39. 
+5. Assessment of costs.  
+File No. 24700118.03 
+1. Whether claimant sustained an injury that arose out of and in the course of 
+his employment with Mediacom, LLC, on November 22, 2023.   
+2. If so, the nature of the injury claimant sustained on November 22, 2023.  
+3. Whether the claimant is entitled to temporary disability or healing period 
+benefits because of the alleged injury. 
+4. Whether claimant is entitled to penalty benefits. 
+ 
+5. Assessment of costs. 
+FINDINGS OF FACT 
+The undersigned, having considered all the evidence and testimony in the 
+record, finds as follows: 
+ 
+At the time of the hearing the claimant, Dean Nelson (hereinafter “Nelson”) was 
+58 years old. (Hearing Testimony, p. 16).  Nelson resides in Mason City, Iowa, with his 
+family. (Id.).  He graduated from Mason City High School in 1985. (Id.).  At the hearing, 
+Nelson described himself as an average student. (Id.).  After high school Nelson 
+attended one semester at NIACC, a community college in Mason City. (Id. at 17). 
+ 
+After high school, Nelson worked for Lea Mobile Glass installing glass in car 
+windshields and commercial storefronts. (Tr., p. 17).  Nelson testified he worked there 
+for four years. (Id.).  Nelson indicated he has worked for Mediacom for the past 28 
+
+NELSON V. MEDIACOM, LLC 
+Page 3 
+ 
+ 
+years.1 (Id. at 18).  The record does not contain any information about his employment 
+in the intervening years between Lea Mobile Glass and Mediacom.  
+Nelson started out as a technician at Mediacom, making $7.25 an hour. (Tr., p. 
+18).  In approximately 2021, Nelson changed jobs and became a maintenance worker. 
+(Id.).  In that position, he installs mainline cable with a bucket truck and a ladder. (Id. at 
+19).  He indicated this requires him to lift objects weighing between 20 and 85 pounds. 
+(Id.).  After his last raise in 2024, Nelson makes around $25.00 an hour. (Id.).   
+Nelson alleges he injured his back while working for Mediacom on October 18, 
+2021. (See Petition).  Nelson testified that he was attempting to fix a cable fiber cut. (Tr., 
+p. 21). He indicated they needed a fiber vault to fix the cable, so he and a co-worker 
+drove back to their office to get one. (Id.).  Nelson said the vault weighed 200 pounds. 
+(Id.).  Nelson testified that he felt a pull and his back gave out while they were lifting the 
+fiber vault. (Id. at 21-22).  Nelson and his co-worker finished the repair job. (Id. at 22).  
+Nelson informed his supervisor of the back injury the next morning, after feeling pain 
+while lifting a ladder. (Id. at 22).  Nelson said his supervisor instructed him to go to 
+urgent care for medical treatment. (Id.).   
+The first medical note in the hearing record is from Patricia Bischoff, NP. (JE 1, p. 
+1).  It is dated November 2, 2021.2 (Id.).  Ms. Bischoff is a nurse practitioner at 
+Healthworks Occupational Health. (Id.).  The note indicates that Nelson injured his back 
+while lifting a vault at work. (Id.).  He complained of radiating low back pain. (Id.).  Ms. 
+Bischoff diagnosed Nelson with a lumbar strain, provided sedentary work-restrictions 
+and prescribed prednisone and Voltaren gel. (Id. at 3).  Nelson followed-up with 
+Shannon Mobley, D.O., the next day. (Id. at 4). Dr. Mobley is an occupational physician 
+at Healthworks Occupational Health. (Id.).  Dr. Mobley’s treatment note indicates Nelson 
+has a prior back surgery in 1991, a laminectomy at L5-S1. (Id.; JE 4, p. 87).  Nelson 
+complained of low back pain that radiated down his right leg and left gluteal region. (JE 
+1, p. 4).  Dr. Mobley diagnosed him with low back pain with radiculopathy, right side 
+greater than left side. (Id.).  She ordered an x-ray, referred him to physical therapy, and 
+continued his work restrictions. (Id.).  The x-ray was taken later that day. (Id. at 5). It 
+showed multilevel degenerative disc disease, most advanced at L5-S1, and moderate 
+degenerative facet arthropathy bilaterally at L5-S1. (Id.). Dr. Mobley recommended 
+Nelson proceed with an MRI. (Id.). 
+On November 10, 2021, Nelson was evaluated by Howard Kim, M.D., at 
+Healthworks Occupational Health (JE 1, p. 6).  Nelson’s back pain had increased. (Id.).  
+Dr. Kim indicated that Nelson’s lumbar x-rays showed grade I retrolisthesis of L3 on L4, 
+L4 on L5 and L5 on SI, as well as advanced multilevel degenerative disk disease, most 
+advanced at L5-S1.  (Id.).  Dr. Kim diagnosed persistent low back pain with 
+radiculopathy and recommended Nelson get an MRI. (Id.).  Dr. Kim also recommended 
+he continue with sedentary work restrictions. (Id.).  
+Nelson’s MRI was performed on November 15, 2021. (JE 1, p. 11).  It showed 
+congenitally short pedicles with developmentally small canal, prior right lamina surgical 
+                                                 
+1 Nelson’s expert report indicates his Mediacom hire date w as October 21, 1996. (Cl Ex. 2, p. 12).   
+2 The medical records indicate Nelson took a w eek of vacation before seeking medical treatment. (See JE 1).   
+
+NELSON V. MEDIACOM, LLC 
+Page 4 
+ 
+ 
+changes at L5, and multilevel degenerative changes without significant stenosis at any 
+level. (Id.).  Dr. Kim reviewed the MRI on November 19, 2021. (Id. at 12).  Dr. Kim 
+recommended Nelson continue with physical therapy and work restrictions. (Id.).  He 
+also referred him to a pain specialist for further treatment. (Id.).  
+Nelson’s care was transferred to Ronald Kloc, D.O., a pain management doctor 
+at the Interventional Pain Management Clinic in Mason City, Iowa. (JE 2, pp. 15, 17).  
+Nelson’s first appointment at the Pain Management Clinic took place on December 10, 
+2021. (Id. at 15).  He complained of ongoing right leg pain that affected his ability to 
+work. (Id.).  Dr. Kloc diagnosed a disc bulge/herniation at L4-L5 with right leg 
+radiculopathy. (Id. at 17).  He recommended transforaminal epidural steroid injections at 
+L4-L5. (Id.).  Dr. Kloc performed Nelson’s first injection on January 6, 2022. (Id. at 21).  
+A second injection took place on January 27, 2022. (Id. at 23).   
+Nelson followed-up with Dr. Kloc on February 8, 2022. (JE 2, p. 24).  He 
+indicated the injections did not help much with his lumbar pain. (Id.).  Dr. Kloc stated he 
+had exhausted conservative therapies. (Id. at 26).  Nelson asked for a referral to a 
+neurosurgeon. (Id.).  Dr. Kloc stated that was reasonable and provided the referral. (Id.).  
+Dr. Kloc also prescribed Gabapentin. (Id.).  Nelson had another follow-up appointment 
+with Dr. Kloc on March 15, 2022. (Id. at 27).  He indicated the Gabapentin was making 
+him tired. (Id. at 29).  Dr. Kloc switched his medication to Lyrica. (Id.).   
+On April 15, 2022, Nelson was evaluated by Trevor Schmitz, M.D., an orthopedic 
+surgeon practicing at Iowa Ortho.  (JE 4, p. 55).  Nelson reported low back and bilateral 
+leg pain. (Id.).  Dr. Schmitz diagnosed him with congenital stenosis of the lumbar spine 
+and lumbar degenerative disc disease. (Id. at 57). Dr. Schmitz ordered an EMG of his 
+bilateral lower extremities and recommended a work hardening program. (Id.).  The 
+EMG was preformed on April 28, 2022. (Id. at 63).  It showed right L5 radiculopathy. (Id. 
+at 64).  Dr. Schmitz and Nelson decided to proceed with surgery. (Id. at 67).   
+On June 23, 2022, Dr. Schmitz performed a bilateral L4-L5 posterior lumbar 
+decompression and partial discectomy surgery. (JE 5, pp. 95-96).  Nelson received 
+follow-up treatment from Dr. Schmitz, as well as physical therapy.3 (See JE 4, pp. 70-
+91; See also Cl Ex. 2, p. 14).   
+On September 16, 2022, Dr. Schmitz released Nelson to return to work full duty 
+without restrictions. (JE 4, pp. 80-82).  Nelson’s back pain resolved after surgery, but he 
+continued to experience occasional right leg pain and weakness. (Id. at 81).  Dr. Nelson 
+placed him at maximum medical improvement (MMI) on that date and indicated he 
+could return if needed. (Id. at 82).  On September 28, 2022, defendants requested an 
+impairment rating from Dr. Schmitz. (Id. at 84).  He responded on February 15, 2023. 
+(Id.).  In his response, Dr. Schmitz indicated Nelson had sustained 10 percent whole 
+body impairment as a result of the October 18, 2021 date of injury and did not require 
+any permanent restrictions or additional medical care.  (Id.).   
+                                                 
+3 The physical therapy notes are not in the hearing record. How ever, according to claimant’s expert report, Nelson attended 
+physical therapy at Athletico PT preoperatively from April 26, 2022, through June 7, 2022, and postoperatively from August 10, 2022, 
+through September 19, 2022. (Cl Ex. 2, p. 14).  Claimant’s expert also notes Nelson met all his therapy goals at discharge for his job, 
+w hich is in the heavy category. (Id.).   
+
+NELSON V. MEDIACOM, LLC 
+Page 5 
+ 
+ 
+At the behest of his attorney, Nelson attended an independent medical exam 
+(IME) with Robert Rondinelli, M.D., on July 11, 2023. (Cl Ex. 2, p. 11).  Dr. Rondinelli 
+diagnosed a prior history of multilevel lumbar degenerative disk disease with a prior 
+hemilaminotomy at L5 in 1991; status post lumbar strain type injury on October 18, 
+2021; temporally-associated bilobed herniated nucleus pulposus at L4-L5 level with 
+symptomatic, EMG-proven L5 radiculopathy; problematic functional residual of the 
+above including a high perception of residual disability from his pre-injury baseline. (Id. 
+at 17).  He causally related the last three diagnoses to the October 18, 2021 date of 
+injury, indicating the work incident was a permanent material aggravation of his pre-
+existing lumbar condition. (Id. at 18-19).  Dr. Rondinelli placed him at MMI for the work 
+injury on the date of his examination, July 11, 2023. (Id. at 19).  He indicated that 
+Nelson qualified for DRE Lumbar Category III in the AMA Guides to the Evaluation of 
+Permanent Impairment, Fifth Edition, citing to Table 15-3, which carries a 10-13 percent 
+whole person impairment. (Id.).  He also provided an alternate impairment utilizing 
+range of motion (ROM) measurements. (Id. at 20).  Dr. Rondinelli indicated that Nelson 
+qualified for a 15 percent whole person impairment rating under that method, citing to 
+Tables 15-7, 15-8 and 15-9 of the Guides.  (Id.).  He declared that under the AMA 
+Guides, the higher rating should be utilized and assigned Nelson 15 percent whole 
+person impairment. (Id.).  Dr. Rondinelli also suggested permanent restrictions of 
+occasionally lifting 50 pounds and frequently lifting 25 pounds, which would place him in 
+the medium work category. (Id.).  He recommended Nelson avoid squatting and 
+running, and only occasionally bend, kneel, climb, or crawl. (Id.).  Dr. Rondinelli did not 
+recommend any additional treatment. (Id. at 19).  
+Nelson is also alleging he sustained a work-related injury to his right shoulder on 
+November 22, 2023. (See Petition).  Additionally, he is alleging a re-injury of his back on 
+that date. (Id.).  At the hearing, Nelson stated that he returned back to full-duty work for 
+Mediacom when Dr. Schmitz released him on September 16, 2022. (Tr., pp. 31-32).  He 
+testified that he was replacing old aerial cable on the second alleged date of injury. (Id. 
+at 33). He stated this required the use of a bucket truck and crescent wrenches. (Id.).  
+Nelson said he was using a wrench to remove an old fitting when he felt a pop in his 
+right shoulder, followed by severe pain. (Id.).  Nelson indicated he finished out the job of 
+replacing the cable. (Id.).  He reported the injury the following Monday because of the 
+Thanksgiving holiday. (Id.). Nelson also testified that the incident increased his back 
+pain and episodes of right leg weakness, but he didn’t say anything about it at the time 
+because his shoulder hurt more. (Id. at 34).   
+At the hearing, defendants introduced two emails from Nelson’s counsel.  (See 
+Ex. A).  Those emails are dated November 15, 2023, and November 20, 2023. (Id. at 1-
+2).  The first email states that Nelson called his office on November 14, 2023, to report a 
+significant increase in back pain. (Id. at 1).  The email stated that Nelson had recently 
+finished a week of being “on call,” which required him to work alone. (Id.).  His counsel 
+alleged this increased his back pain, making it hard for him to get in and out of his work 
+vehicle. (Id.).  Nelson’s counsel requested a return visit to his authorized doctor for 
+treatment. (Id.).  Counsel gave defendants a deadline of November 20, 2023, to 
+respond. (Id.).  
+
+NELSON V. MEDIACOM, LLC 
+Page 6 
+ 
+ 
+The second email is dated November 20, 2023. (Ex. A, p. 1).  The text indicates 
+it is a follow-up to the earlier email sent on November 15, 2023. (Id.).  It asks whether 
+defendants have authorized additional back care and states the claimant is going to file 
+an alternate care petition if it is not authorized. (Id.).  Defendants also submitted a copy 
+of the alternate care petition Nelson’s counsel filed on November 22, 2023. (Id. at 3-4).  
+It requests additional treatment for claimant’s “worsening and ongoing” back symptoms 
+from the October 18, 2021 date of injury. (Id.; see also Petition in File No. 
+22005240.02).  On December 6, 2023, Nelson voluntarily dismissed his alternate care 
+petition. (See Dismissal in File No. 22005240.02).  The dismissal indicates defendants 
+had already authorized the requested care. (Id.).  On March 7, 2024, Nelson filed a 
+second petition for alternate medical care for the October 18, 2021 date of injury. (See 
+Petition in File No. 22005240.03). This petition also requested treatment for Nelson’s 
+“worsening and ongoing” back symptoms from the October 18, 2021 date of injury. (Id.). 
+On March 20, 2024, Nelson once again dismissed this petition, stating that the hearing 
+was no longer necessary because defendants had already authorized the care. (See 
+Dismissal in File No. 22005240.03).  
+Nelson also filed several alternate care actions seeking treatment for his right 
+shoulder under the November 22, 2023 date of injury.  The first of these actions was 
+filed on February 14, 2024. (See Petition in File No. 24700118.01).  This petition sought 
+treatment recommended by claimant’s authorized medical provider. (Id.).  Nelson 
+voluntarily dismissed this petition on February 23, 2024. (See Dismissal in File No. 
+24700118.01).  In his dismissal, Nelson stated a hearing was no longer necessary 
+because defendants had already authorized the requested care. (Id.).  On March 7, 
+2024, Nelson filed a second alternate care action seeking treatment for his right 
+shoulder in connection with the alleged November 22, 2023 date of injury. (See Petition 
+in File No. 24700118.02).  On March 25, 2024, defendants answered admitting liability 
+for an April 22, 2015 date of injury, but denying liability for the November 22, 2023 date 
+of injury. (See Answer in File No. 24700118.02).  The agency dismissed the alternate 
+care petition on that same day. (See Order of Dismissal).   
+Nelson filed several alternate care petitions seeking treatment for his right 
+shoulder under the April 22, 2015 date of injury.  He filed the first petition for this date of 
+injury on March 7, 2024. (See Petition in File No. 1602684.01).  This was the same date 
+he filed his second petition for the alleged November 22, 2023 date of injury.  The 
+petition requested care for Nelson’s right shoulder. (Id.).  On March 20, 2024, Nelson 
+filed a motion to dismiss the action, indicating a hearing was not necessary because 
+defendants had already authorized the requested care. (See Dismissal in File No. 
+1602684.01).  The agency dismissed the action. (See Order of Dismissal in File No. 
+1602684.01).  On May 13, 2024, Nelson filed a second petition for alternate medical 
+care under the April 22, 2015 date of injury. (See Petition in File No. 1602684.02).  This 
+petition requested a CT scan of claimant’s right shoulder. (Id.).  On May 22, 2024, 
+defendants filed an answer admitting liability for an injury to Nelson’s right shoulder on 
+April 22, 2015. (See Answer in File No. 1602684.02).  The case proceeded to hearing.  
+On May 23, 2024, the undersigned issued an alternate care decision. (Alternate Care 
+Decision in File No. 1602684.02).  This decision found defendants had recently 
+authorized the CT scan, but the claimant still did not have an appointment date for the 
+
+NELSON V. MEDIACOM, LLC 
+Page 7 
+ 
+ 
+CT because Dr. Gibbon’s office wanted Nelson to fill out additional paperwork. (Alt Care 
+Decision, May 23, 2024).  The decision ordered defendants to schedule a date for the 
+CT scan within fourteen (14) days. (Id.). The CT scan finally took place on May 28, 
+2024. (JE 2, p. 48).  
+According to the medical records submitted at hearing, Eric Potthoff, D.O., at the 
+Mason City Clinic, evaluated Nelson for right shoulder pain on December 12, 2023.4 (JE 
+2, p. 37).  Dr. Potthoff’s impression was right shoulder pain with advanced glenohumeral 
+joint osteoarthritis, possibly with acute rotator cuff tear. (Id. at 39). He recommended an 
+MRI to check for a rotator cuff tear. (Id.).  Dr. Potthoff also explained that Nelson had 
+bone-on-bone arthritis in his shoulder joint, so his definitive treatment would be shoulder 
+replacement surgery. (Id.).  The MRI was performed on December 29, 2023. (Id. at 40).  
+It showed glenohumeral osteoarthritis with Walch S1 morphology and neutral glenoid 
+version, and bursal sided fraying of the anterior cable attachment of the supraspinatus 
+tendon without full thickness tearing. (Id.).   
+Nelson returned to the Mason City Clinic on January 9, 2024. (JE 2, p. 41). He 
+was evaluated by Timothy Gibbons, M.D. (Id.).  Dr. Gibbons is an orthopedic surgeon. 
+(See id. at 39).  According to the medical records, Dr. Gibbons operated on Nelson’s 
+right shoulder back in 2015 and in 2016, for a work-related injury, performing a right 
+shoulder arthroscopy to remove loose bodies and repair his superior and posterior 
+labrum, as well as a second right shoulder arthroscopy with suprapectoral biceps 
+tendon tenodesis. (Id. at 41).  Dr. Gibbons noted that Nelson “subsequently has 
+developed degenerative joint disease of his right shoulder and he says he is absolutely 
+miserable.” (Id.).  Dr. Gibbons noted he had not been able to work effectively with his 
+arm for several months and wanted definitive treatment. (Id.).  Dr. Gibbons diagnosed 
+right shoulder degenerative joint disease. (Id. at 42).  He noted some fraying in the 
+rotator cuff, but noted it was still generally intact. (Id.).  Dr. Gibbons recommended 
+Nelson proceed with an anatomic shoulder arthroplasty due to his age and job duties at 
+Mediacom. (Id.).   
+Nelson also saw Dr. Potthoff on January 9, 2024. (JE 2, p. 43).  Dr. Potthoff 
+reviewed the MRI and diagnosed Nelson with right shoulder pain with low-grade partial 
+thickness rotator cuff tearing and advanced glenohumeral joint osteoarthritis. (Id. at 45). 
+Dr. Potthoff indicated he normally does not recommend rotator cuff repair if a tear is less 
+than 50 percent. (Id.).  Dr. Potthoff opined Nelson’s marked degenerative changes were 
+present prior to his alleged injury date, but indicated the incident could have resulted in 
+some low-grade tearing of the rotator cuff, but he did not recommend surgery. (Id.).  Dr. 
+Potthoff thought Nelson’s primary problem was the osteoarthritis in his shoulder joint. 
+(Id.).  He indicated Nelson should see Dr. Gibbons for further treatment, and stated he 
+could participate in activities as his pain allowed. (Id.).   
+On February 5, 2024, defendants faxed Dr. Gibbons a request for a causation 
+opinion on Nelson’s shoulder issues. (JE 2, p. 46).  He responded on February 20, 
+2024. (Id.).  His response indicated that the work incident on November 22, 2023, 
+                                                 
+4According to the Alternate Care Decision issued in File No. 1602684.02, Nelson received treatment for his right shoulder 
+at urgent care before seeing Dr. Potthoff. (See Alternate Care Decision, May 23, 2024).  The treatment note from this visit is not 
+included in the hearing record. Nelson testified that the provider at urgent care referred him to Dr. Potthoff for additional treatment. 
+(Id.).    
+
+NELSON V. MEDIACOM, LLC 
+Page 8 
+ 
+ 
+caused a temporary agitation of a pre-existing condition. (Id.).  Dr. Gibbons opined that 
+the work incident did not materially aggravate Nelson’s pre-existing osteoarthritis. (Id.).  
+He, however, further stated, 
+I believe the amount of arthrosis in Mr. Nelson’s shoulder was 
+materially caused or aggravated by the injury that he sustained while 
+working for Mediacom in 2015.  I believe that injury was a significant 
+contributor to his current condition now.  I am very pessimistic about the 
+health of his shoulder in the long run. I would anticipate that at that [sic] 
+some point the patient would require an arthroplasty for definitive treatment.  
+(Id.).   
+There is a gap in the treatment records after Dr. Gibbon’s causation report. 
+During this time period, Nelson filed several alternate care petitions seeking additional 
+treatment for his right shoulder. (See above).  Nelson returned to the Mason City Clinic 
+on May 28, 2024. (JE 2, p. 48).  On that date, he underwent a CT of his right shoulder. 
+(Id.).  That CT showed advanced glenohumeral osteoarthritis. (Id.).  
+Nelson also returned to see Dr. Schmitz for right-sided low back pain and right leg 
+pain on May 31, 2024. (JE 4, p. 85).  He told Dr. Schmitz the pain started approximately 
+two months prior. (Id.).  Nelson reported clicking in his back. (Id.).  Dr. Schmitz offered 
+additional physical therapy and/or a repeat MRI. (Id. at 87).  Nelson indicated he wanted 
+to think about his options. (Id.).  Dr. Schmitz noted that Nelson was on light duty for his 
+shoulder complaints, he however did not add any additional restrictions for his back 
+complaints; he returned him back to work full duty without restrictions. (Id. at 85, 87).  At 
+the hearing, Nelson testified that he has decided to get the repeat MRI, but it has not yet 
+taken place. (Tr., p. 44).   
+In July 2024, Nelson’s attorney sought a records review from Brian Crites, M.D. 
+(JE 6, p. 97).  Dr. Crites is an orthopedic surgeon. (Cl Ex. 1).  Dr. Crites issued his 
+response on July 18, 2024. (JE 6, p. 97).  In it he indicates that the work incident on 
+November 22, 2023 materially aggravated Nelson’s pre-existing shoulder osteoarthritis. 
+(Id.).  Dr. Crites notes that operative reports from Nelson’s prior surgeries in 2015 and 
+2016 show existing arthritis, but the arthritis was asymptomatic until the work injury on 
+November 22, 2023, and it did not return back to baseline after the incident. (Id.).  Dr. 
+Crites also opines that the partial thickness tearing in Nelson’s rotator cuff was caused 
+by the work injury. (Id.).  He states that the “injury on 11/22/23 was a significant 
+contributing causal factor in the permanent material aggravation of Dean’s pre-existing 
+arthritis.  . . . Thus, his need for a right total shoulder is causally related to his 11/22/23 
+work injury.”  (Id.).   
+On July 16, 2024, defendants’ counsel sent Dr. Schmitz a request for a follow-up 
+report. (JE 4, p. 89).  In that report, Dr. Schmitz opines that Nelson’s current back and 
+leg complaints are not casually related to the October 18, 2021 date of injury. (Id.).  He 
+goes on to state, 
+The October 18, 2021, work accident does not represent a 
+substantial material cause of bringing about the need for the recommended 
+
+NELSON V. MEDIACOM, LLC 
+Page 9 
+ 
+ 
+physical therapy or MRI.  A MRI can always give more information on the 
+acuity of an injury; however, given his pain free interval I would state that 
+the need for this MRI would be more related to a personal underlying health 
+condition more so than an injury several years prior.  
+(Id.).   
+Nelson’s attorney met with Dr. Gibbons on July 23, 2024. (JE 2, p. 49). Following 
+that meeting, his attorney sent Dr. Gibbons a letter requesting an additional report. (Id.).  
+According to the letter, during the meeting they discussed Dr. Gibbon’s prior treatment 
+of Nelson in 2015 and 2016, including his diagnosis, two surgeries, MMI and discharge 
+date on October 11, 2016, and release to return to work without restrictions. (Id.).  
+According to claimant’s counsel letter, Nelson worked without documented issue or 
+complaints from his release in 2016 until the work injury on November 22, 2023. (Id.).  
+The letter goes on to state as follows, 
+Based upon the foregoing—in conjunction with the lack of 
+documented issues over the last eight (8) years, the 12/29/2023 MRI 
+results, the 5/30/24 CT scan results, your review of the medical records, 
+and your-first hand knowledge of Mr. Nelson’s treatment to date—you 
+believe that Mr. Nelson’s 11/22/23 work injury represented a substantial 
+casual, contributing, or materially aggravating factor, in Mr. Nelson’s right 
+shoulder, such that the incident accelerated the need for treatment of the 
+same.  Specifically, you stated that, while Mr. Nelson would have likely 
+required a total shoulder replacement at some arbitrary time in the future, 
+his 11/22/23 work injury accelerated his need for this procedure – 
+demonstrated by his lack of documented issues over the last eight (8) years 
+while performing the same or similar job with Mediacom; the 12/29/2023 
+MRI results; the 5/30/2024 CT scan results; your review of the medical 
+records; and your first-hand knowledge of Mr. Nelson’s treatment to-date.  
+(Id. at 50).  Claimant’s counsel also noted that Dr. Gibbons had reviewed Dr. Crites’ July 
+18, 2024 opinion and agreed with that opinion. (Id.).  The letter closes with “if the 
+preceding accurately represents your opinions based upon a reasonable degree of 
+medical certainty, please sign and date on the signature below.” (Id.). Dr. Gibbons 
+signed and returned the form to claimant’s counsel on August 7, 2024. (Id.).   
+On August 7, 2024, Dr. Gibbons performed a right total shoulder arthroplasty. (JE 
+7, p. 98).  Dr. Gibbon’s post-operative diagnosis was right shoulder degenerative joint 
+disease. (Id.).  The is the last treatment note in the hearing record. However, at the 
+hearing Nelson testified that he received post-operative physical therapy, as well as had 
+several follow-up appointments with Dr. Gibbons.5 (Tr., pp. 40-41).  Nelson was still 
+attending physical therapy and had a follow-up appointment scheduled with Dr. Gibbons 
+for January 28, 2025. (Id. at 41).  Nelson testified that the surgery helped with his 
+shoulder pain, but he was still experiencing issues with his strength and mobility/range-
+of-motion. (Id.).  Nelson also testified he continues to experience pain in his back and 
+                                                 
+5 In their post-hearing brief, defendants state they paid for Nelson’s right shoulder treatment, including his shoulder surgery 
+on August 7, 2024, under the April 22, 2015 date of injury. (See Defendants’ Post-Hearing Brief, p. 13). Nelson does not contest this 
+assertion, nor is he seeking reimbursement for medical expenses in this action.   
+
+NELSON V. MEDIACOM, LLC 
+Page 10 
+ 
+ 
+down his legs, and that the pain got more intense after the work incident on November 
+22, 2023. (Id. at 46-47, 53).   
+On November 26, 2024, Nelson’s attorney met with Dr. Schmitz. (JE 4, p. 90).6  
+During that meeting, Dr. Schmitz confirmed that he did not think Nelson’s current back 
+and leg symptoms were causally related to the October 18, 2021 date of injury. (Id. at 
+91). He, however, reiterated that an updated MRI was needed to properly diagnose his 
+complaints and determine whether those complaints are causally related to his alleged 
+work incident on November 22, 2023.  (Id.).   
+At the time of the hearing, Nelson was still an employee of Mediacom, but he 
+was on leave. (Tr., p. 19, 47).  The hearing record contains a letter to Nelson from Lisa 
+Wiblin, the human resources director at Mediacom. (Cl Ex. 5, p. 37).  The letter is dated 
+June 28, 2024. (Id.).  It indicates that Nelson has work restrictions of minimal, if any, use 
+of the right shoulder, no lifting above 20 pounds, no reaching above shoulder level and 
+only occasional gripping, driving and working in uncontrolled environments. (Id.).  It is 
+likely these restrictions are from Dr. Gibbons, but the hearing record does not contain 
+any restrictions or return to work notes from Dr. Gibbons, so that cannot be confirmed.  
+The letter from Mediacom indicates that Nelson is being placed on an extended leave of 
+absence not expected to exceed six months.  The letter goes on to state that Nelson 
+should notify Mediacom if he secures a medical release. (Id.).  It also encourages him to 
+apply for other positions at Mediacom that were compatible with his restrictions. (Id.).  
+Nelson has not applied for any other positions at Mediacom. (Id.). Nelson indicated he is 
+not currently receiving either workers’ compensation or unemployment benefits. (Tr., pp. 
+47-48).   
+CONCLUSIONS OF LAW 
+The party who would suffer loss if an issue were not established ordinarily has 
+the burden of proving that issue by a preponderance of the evidence.  Iowa R. App. P. 
+6.904(3)(e). 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the alleged injury occurred and that it both arose out of and in the course of the 
+employment.  Quaker Oats Co. v. Ciha, 552 N.W.2d 143, 150 (Iowa 1996); Miedema v. 
+Dial Corp., 551 N.W.2d 309, 311 (Iowa 1996).  The words “arising out of” refer to the 
+cause or source of the injury.  The words “in the course of” refer to the time, place, and 
+circumstances of the injury.  2800 Corp. v. Fernandez, 528 N.W.2d 124, 128 (Iowa 
+1995).  An injury arises out of employment when a causal relationship exists between 
+the injury and the employment.  Miedema, 551 N.W.2d at 311.  The injury must be a 
+rational consequence of a hazard connected with the employment and not merely 
+incidental to the employment.  Koehler Electric v. Wills, 608 N.W.2d 1, 3 (Iowa 2000); 
+Miedema, 551 N.W.2d at 311.  An injury occurs “in the course of” employment when it 
+happens within a period of employment at a place where the employee reasonably may 
+                                                 
+6 This letter also states that Nelson’s attorney met w ith Dr. Schmitz on July 12, 2024. (JE 4, p. 91).  There is, how ever, no 
+report from Dr. Schmitz documenting this meeting.  
+
+NELSON V. MEDIACOM, LLC 
+Page 11 
+ 
+ 
+be when performing employment duties and while the employee is fulfilling those duties 
+or doing an activity incidental to them.  Ciha, 552 N.W.2d at 150. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148, 153 
+(Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154, 156 (Iowa Ct. App. 
+1997); Sanchez v. Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  Expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646, 652 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410, 420 
+(Iowa 2001); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845, 853 (Iowa 
+1995).  Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 421 (Iowa 1994).  Unrebutted 
+expert medical testimony cannot be summarily rejected.  Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910, 911-92 (Iowa Ct. App. 1994). 
+When an expert's opinion is based upon an incomplete or incorrect history, it is 
+not necessarily binding on the commissioner or the court. It is then to be weighed, 
+together with other facts and circumstances, the ultimate conclusion being for the finder 
+of the fact.  Musselman v. Central Telephone Company, 261 Iowa 352, 360, 154 
+N.W.2d 128, 133 (1967); Bodish v. Fischer, Inc., 257 Iowa 516, 522, 133 N.W.2d 867, 
+870 (1965).  The commissioner as trier of fact has the duty to determine the credibility of 
+the witnesses and to weigh the evidence, together with the other disclosed facts and 
+circumstances, and then to accept or reject the opinion.  Dunlavey, 526 N.W.2d at 853. 
+File No. 22005240.01 
+Nelson is alleging compensable work-injuries on two different dates.  An injury to 
+his back on October 18, 2021, and injuries to his right shoulder and back on November 
+22, 2023.  Defendants admit that Nelson suffered a work-related injury to his back on 
+October 18, 2021, which caused permanency, but dispute the extent of that resulting 
+permanent disability.7  (See Hearing Report, File No. 22005240.01).  Based upon the 
+arguments in their post-hearing briefs, the parties agree that Nelson’s claim should be 
+determined under Iowa Code section 85.34(2)(v).  However, Nelson argues he should 
+                                                 
+7 On the hearing report, the parties stipulated claimant’s disability w as an industrial disability. (See Hearing Report, p. 2).  
+How ever, in their post-hearing brief, defendants clearly argue claimant should be compensated functionally under Iow a Code section 
+85.34(2)(v).  Given this, I find that defendants were only stipulating that claimant’s 2021 injury should be compensated under Iowa 
+Code section 85.34(2)(v), but not how  it should be compensated.   
+
+NELSON V. MEDIACOM, LLC 
+Page 12 
+ 
+ 
+be compensated industrially. (See Claimant’s Post-Hearing Brief, pp. 15-18).  
+Defendants claim he must be compensated functionally.  (See Defendants’ Post-
+Hearing Brief, pp. 8-9).  Iowa Code section 85.34(2)(v) (2021) states as follows: 
+ In all cases of permanent partial disability other than those described 
+or referred to in paragraphs “a” through “u”, the compensation shall be paid 
+during the number of weeks in relation to five hundred weeks as the 
+reduction in the employee’s earning capacity caused by the disability bears 
+in relation to the earning capacity that the employee possessed when the 
+injury occurred. A determination of the reduction in the employee’s earning 
+capacity caused by the disability shall take into account the permanent 
+partial disability of the employee and the number of years in the future it 
+was reasonably anticipated that the employee would work at the time of the 
+injury. If an employee who is eligible for compensation under this paragraph 
+returns to work or is offered work for which the employee receives or would 
+receive the same or greater salary, wages, or earnings than the employee 
+received at the time of the injury, the employee shall be compensated based 
+only upon the employee’s functional impairment resulting from the injury, 
+and not in relation to the employee’s earning capacity. Notwithstanding 
+section 85.26, subsection 2, if an employee who is eligible for compensation 
+under this paragraph returns to work with the same employer and is 
+compensated based only upon the employee’s functional impairment 
+resulting from the injury as provided in this paragraph and is terminated from 
+employment by that employer, the award or agreement for settlement for 
+benefits under this chapter shall be reviewed upon commencement of 
+reopening proceedings by the employee for a determination of any 
+reduction in the employee’s earning capacity caused by the employee’s 
+permanent partial disability. 
+Id. 
+On September 16, 2022, Dr. Schmitz placed Nelson at MMI for his back and 
+released him to return to work full duty without restrictions. (JE 4, pp. 80-82).  At the 
+hearing, Nelson confirmed that he did in fact return back to work at Mediacom full duty, 
+full time after Dr. Schmitz’s release. (Tr., p. 28).  At the time of his 2021 injury, Nelson 
+was making $1,161.09 per week. (Hearing Report, p. 2).  The parties did not provide a 
+breakdown of his hourly pay at that time, but during the hearing, Nelson testified that he 
+receives yearly raises at Mediacom, the last one in 2024, and after that raise he made 
+around $25.00 per hour. (Tr., p. 19).  Based upon these facts, I find that Nelson did 
+return back to work at Mediacom after the 2021 injury, and was making a greater salary, 
+wages or earnings than he received at the time of his injury. According to the hearing 
+evidence, Nelson worked full duty, full time for Mediacom, making more money than 
+prior to the 2021 injury date, from September 17, 2022, until approximately November 
+22, 2023, the date of his second alleged injury.8  At that point, Nelson was given 
+                                                 
+8 The first treatment note for Nelson’s right shoulder in the hearing record is from Dr. Potthoff on December 12, 2023. (See 
+JE 2, p. 37).  How ever, that note states that Nelson is “presently on light duty restrictions where he is not to do anything w ith the right 
+upper extremity.”  (Id.).  It is not clear w hen those restrictions were provided, or by w hom they w ere provided.  
+  
+
+NELSON V. MEDIACOM, LLC 
+Page 13 
+ 
+ 
+restrictions for his right shoulder. (See JE 2, p. 39).  He, however, continued to do light 
+duty work for Mediacom, apparently making his full wages, until June 28, 2024, when he 
+was placed on extended leave by Mediacom because his right shoulder restrictions 
+could no longer be accommodated. (Cl Ex. 5, p. 37).  The parties do not dispute these 
+facts/sequence of events.  They, however, argue about how the language of Iowa Code 
+section 85.34(2)(v) applies to these facts.  
+Nelson argues that he is entitled to industrial disability for the 2021 date of injury, 
+because he was on leave and not actively working at the time of the hearing in January 
+2025. (Claimant’s Post-Hearing Brief, p. 17-18). Defendants argue Nelson should be 
+compensated functionally because he returned back to work after the 2021 date of 
+injury, making the same or greater wages, and was still an employee of Mediacom at 
+the time of the 2025 arbitration hearing. (Defendants’ Post-Hearing Brief, pp. 8-9).  As 
+support for his position, Nelson cites to two arbitration decisions from this agency, 
+Schore v. Amazon.com Services, Inc., File No. 2200716.01, 2024 WL 3973669 (Arb. 
+Dec., Aug. 20, 2024), and Weimerskirch v. Progressive Processing, LLC., File No. 
+1655936.01, 2022 WL 17171467 (Arb. Dec., Oct. 21, 2022).  However, neither of those 
+arbitration decisions are binding on the undersigned, nor are they on point with the facts 
+of this case. In Weimerskirch, the claimant voluntarily quit his job with the defendant 
+employer. Weimerskirch, 2022 WL 17171467 at *6.  In Shore, the claimant was on 
+extended involuntary leave because of restrictions provided for the injury being litigated. 
+Shore, 2024 WL 3973669 at *9.  The facts of this case do not squarely fit under either 
+decision.  After his back injury, Nelson returned to work at Mediacom, working full duty 
+and making more money.  He then suffered a second alleged work-injury and was 
+placed on leave for restrictions causally related to that injury while treating and litigating 
+causation of that injury.  The cited arbitration decisions do not address how the 
+language of Iowa Code section 85.34(2)(v) should apply in this factual scenario when 
+there is an intervening injury.  
+The language at issue was added to Iowa Code section 85.34 in 2017. See Iowa 
+Code § 85.34(2)(v) (2017).  Given that it is a relatively recent addition to the statute, 
+there are no published decisions from the Iowa appellate courts that could guide the 
+undersigned in deciding how to interpret the word “termination” in this context.9  There 
+are, however, two appeal decisions from the Commissioner interpreting the newly 
+added language in Iowa Code section 85.34(2)(v).  Those are Martinez v. Pavlich, File 
+No. 5063900, 2020 WL 5412838 (App. Decision, July 30, 2020), and Dungan v. Den 
+Hartog Industries, File No. 21700246.01, 2023 WL 363118 (App. Decision, Jan. 13, 
+2023).  In Martinez, after the work injury, the claimant voluntarily resigned his 
+employment with the defendant employer and took a job with a different employer 
+making more money.  Martinez, 2020 WL 5412838 at *4.   The parties agreed that the 
+claimant was working full time and making more money when the case went to trial. Id. 
+Under this fact pattern, the Commissioner determined the claimant’s voluntary 
+                                                 
+9 See Martinez v. Pavlich, File No. 5063900, CVCV 060634 (Dist. Ct. Decision, April 21, 2021) (upholding the 
+Commissioner’s decision that a voluntary termination to take a job that made more money triggered industrial disability benefits under 
+Iow a Code section 85.34(2)(v)); Den Hartog Industries v. Dungan, 2025 WL 52449 (Iow a Ct. App. 2025) (upholding the 
+Commissioner’s determination that claimant voluntarily quitting his job w ith the defendant employer to move closer to his family 
+triggered industrial disability benefits under Iow a Code section 85.34(2)(v)).  The Dungan decision contains a robust dissent. See id. 
+at 4-8.  It has also been accepted for further review by the Iow a Supreme Court.   
+
+NELSON V. MEDIACOM, LLC 
+Page 14 
+ 
+ 
+termination triggered his entitlement to industrial disability benefits under the statutory 
+language.  Id. at *5.  Similarly, in Dungan, after the work injury the claimant voluntarily 
+resigned from his job with the defendant employer because he was moving to another 
+town. See Dungan v. Den Hartog Industries, File No. 21700246.01, 2022 WL 17170554 
+at *4 (Arb. Decision, Sept. 30, 2022). At the time of the hearing, the claimant was 
+working full time for another employer making more than he did at the time of the injury. 
+Id. at *5.  Once again, the Commissioner decided that the claimant’s voluntary 
+termination from the defendant employer triggered claimant’s entitlement to industrial 
+disability benefits. Dungan, 2023 WL 363118 at *1.   
+While these decisions are binding on the undersigned, they do not address the 
+situation presented in this case.  Nelson’s employment with Mediacom has not been 
+terminated, not by Nelson nor by Mediacom.  At the time of the hearing, Nelson was on 
+extended leave because of temporary shoulder restrictions, but he remained employed 
+at Mediacom.  Under the statutory language, in order to trigger entitlement to industrial 
+disability, a claimant must: 1) return to work with the same employer, 2) have already 
+been compensated functionally for the work injury, and 3) then the claimant must be 
+“terminated from employment by [the same] employer.” Iowa Code § 85.34(2)(v). 
+Nelson has not met those conditions.  According to the Iowa Court of Appeals,  
+Generally, termination of employment is the “complete severance of 
+an employer-employee relationship.” Termination of employment, Black's 
+Law Dictionary (10th ed. 2014). It means “something more than that the 
+employee stopped work or the employer stopped paying him.” Edwards v. 
+Equitable Life Assur. Soc., 296 Ky. 448, 177 S.W.2d 574, 577 (Ky. 1944). It 
+requires the intention by the employer or the employee to sever the 
+employment relationship combined with conduct sufficient to communicate 
+the intent to sever the employment relationship. See id.; see also Irving v. 
+Emp't Appeal Bd., 883 N.W.2d 179, 209 (Iowa 2016) (recognizing non-
+volitional, unexpected incarceration did not render termination voluntary, but 
+noting incarceration set in motion by volitional acts could).  
+Bradshaw v. Cedar Rapids Airport Commission, 903 N.W.2d 355, 360 (Iowa Ct. App. 
+2017).  Whether or not an employee has been terminated, either voluntarily or 
+involuntarily, is a fact question.  In this instance, there is insufficient evidence that 
+Mediacom intended to permanently sever its employment relationship with Nelson.  The 
+letter Mediacom sent on June 28, 2024, indicated they were unable to provide work that 
+accommodated Nelson’s right shoulder restrictions. (Cl Ex. 5, p. 37).  There is no 
+indication that those restrictions are permanent.  Additionally, the letter sent by 
+Mediacom indicates that Nelson should let them know when he is able to get a “medical 
+release for return to regular duty, with or without a requested accommodation . . . and 
+we will work with you on your placement in any vacant position for which you may be 
+qualified to perform.”  (Id.).  This is not a letter terminating Nelson’s employment.  The 
+evidence shows that Nelson is on leave from Mediacom for his shoulder restrictions, he 
+has not been terminated.  Under these facts, Nelson’s entitlement to industrial disability 
+under Iowa Code section 85.34(2)(v) is not triggered.  At this time, Nelson will be 
+
+NELSON V. MEDIACOM, LLC 
+Page 15 
+ 
+ 
+compensated functionally for his October 18, 2021 back injury.10  Iowa Code section 
+85.34(2)(v) limits functional compensation for a back injury to five hundred weeks.  Iowa 
+Code § 85.34(2)(v).   
+In all cases of permanent partial disability described in paragraphs “a” through 
+“u”, or paragraph “v” when determining functional disability and not loss of earning 
+capacity, the extent of loss or percentage of permanent impairment shall be determined 
+solely by utilizing the guides to the evaluation of permanent impairment, published by 
+the American Medical Association, as adopted by the workers' compensation 
+commissioner by rule pursuant to chapter 17A. Lay testimony or agency expertise shall 
+not be utilized in determining loss or percentage of permanent impairment pursuant to 
+paragraphs “a” through “u”, or paragraph “v” when determining functional impairment 
+and not loss of earning capacity.  Iowa Code § 85.34(2)(x).  The Commissioner has 
+instructed the agency to adopt ratings that comply with the AMA Guides, Fifth Edition, 
+and cautioned against utilizing ratings that do not comply.  See, e.g., Hill v. Vermeer 
+Corporation, File No. 5066032 (App. Dec., January 30, 2020).   
+ 
+There are two permanent impairment opinions in the record.  Dr. Schmitz 
+assigned Nelson 10 percent whole body impairment as a result of the October 18, 2021 
+date of injury. (JE 4, p. 84).  He, however, provides no citations for this rating. (Id.).  Dr. 
+Rondinelli provided two potential impairment ratings. (Cl Ex. 2, p. 19). He indicated that 
+under the AMA Guides, Fifth Edition, Nelson qualified for DRE Lumbar Category III, 
+which carries a 10-13 percent whole person impairment according to Table 15-3. (Id.).  
+Dr. Rondinelli also provided an alternate impairment utilizing ROM measurements. (Id. 
+at 20).  He stated that Nelson qualified for a 15 percent whole person impairment rating 
+under that method, citing to Tables 15-7, 15-8 and 15-9 of the AMA Guides.  (Id.).   
+  
+Ratings for injuries to the spine are covered by Chapter 15 of the AMA Guides.  
+See AMA Guides, p. 373.  Under Chapter 15, spinal injuries can be rated using either 
+the diagnosis-related estimate (DRE) method or the range-of-motion (ROM) method. Id. 
+at 379.  However, the language of the Guides clarifies that, “The DRE method is the 
+principal methodology used to evaluate an individual who has had a distinct injury.” Id.  
+The Guides states that the ROM method should only be used when: 1) the impairment 
+is not caused by an injury, 2) the cause of the condition is uncertain and the DRE 
+method does not apply, or 3) an individual cannot be easily categorized in a DRE class. 
+Id.  It further states that if the ROM method is used, the circumstances necessitating the 
+ROM rating need to be carefully outlined in writing. Id. Nelson suffered a distinct injury 
+to his lumbar spine on October 18, 2021. Following that injury, he was diagnosed with a 
+disc bulge/herniation at L4-L5 and underwent a bilateral L4-L5 posterior lumbar 
+decompression and partial discectomy surgery. (JE 2, p. 17; JE 5, pp. 95-96).  
+According to explanation provided in the AMA Guides, Nelson’s back injury should be 
+rated using the DRE method.  
+ 
+                                                 
+10 Under the language of the statute, Nelson retains his right to file a review -reopening action at a later date if either party 
+terminates his employment w ith Mediacom.  See Iow a Code § 85.34(2)(v).   
+
+NELSON V. MEDIACOM, LLC 
+Page 16 
+ 
+ 
+Dr. Schmitz assigned Nelson 10 percent whole body impairment as a result of 
+the October 18, 2021 date of injury. (JE 4, p. 84).  He, however, provided no citations for 
+this rating. (Id.).  Given this, the undersigned cannot determine whether his rating is 
+compliant with the AMA Guides.  Dr. Rondinelli provided two potential impairment 
+ratings. (Cl Ex. 2, p. 19).  He indicated that Nelson qualified for DRE Lumbar Category 
+III in the AMA Guides, which carries a 10-13 percent whole person impairment. (Id.).  He 
+also provided an alternate rating of 15 percent whole person utilizing ROM 
+measurements. (Id. at 20).  Nelson’s back condition was caused by a documented 
+injury, MRIs clearly identified the cause of his condition, and his injury can be easily 
+categoried into a DRE class.  Given the criteria outlined above, Nelson’s injury should 
+be rated utilizing the DRE method. Dr. Rondinelli’s report supports a minimum 
+permanent impairment rating of 10 percent whole body under the DRE method.  This is 
+in compliance with the AMA Guides.  It is adopted.  Nelson proved a minimum of 10 
+percent permanent functional impairment to his whole body.  He is entitled to an award 
+of 50 weeks of permanent partial disability benefits. Iowa Code § 85.34(2)(v).  According 
+to the hearing report, defendants paid Nelson 50 weeks of permanency benefits prior to 
+the hearing at the rate of $730.49 per week.  Defendants are entitled to credit for those 
+previously paid benefits.  
+ 
+The parties have a disagreement about the commencement date of Nelson’s 
+permanent benefits.  Iowa Code section 85.34(2) states as follows, 
+ 
+Compensation for permanent partial disability shall begin when it is 
+medically indicated that maximum medical improvement from the injury has 
+been reached and that the extent of loss or percentage of permanent 
+impairment can be determined by use of the guides to the evaluation of 
+permanent impairment . . .  
+ 
+Id.  Dr. Schmitz placed Nelson at MMI and released him to return to full-duty work 
+without restrictions on September 16, 2022. (JE 4, pp. 80-82).  Dr. Rondinelli placed 
+claimant at MMI on the date of his IME exam, July 11, 2023. (Cl Ex. 2, p. 19).  Nelson 
+did not seek or receive any medical treatment between Dr. Schmitz’s release date and 
+his IME with Dr. Rondinelli. (See JE 4, pp. 80-82; Cl Ex. 2, p. 11).  Additionally, Dr. 
+Rondinelli’s lowest proposed DRE rating is the same as the impairment rating provided 
+by Dr. Schmitz.  Given this, I find that Nelson reached MMI for his back injury on 
+September 16, 2022. Under the language of Iowa Code section 85.34, that is the 
+commencement date for his permanent benefits.  
+ 
+Nelson is also asserting a claim for alternate medical care for the October 18, 
+2021 date of injury.11  (See Hearing Report for File No. 22005240.01).  It is, however, 
+not clear what care he is requesting or for which date of injury it is sought.  His post-
+hearing brief intermixes the October 18, 2021 and November 22, 2023 dates of injury. 
+(See Claimant’s Post-Hearing Brief, pp. 33-37). Additionally, while Nelson’s brief 
+                                                 
+11 In his post-hearing brief, Nelson combines his request for alternate care for the October 18, 2021 date of injury w ith his 
+request for alternate care for the November 22, 2023 date of injury.  He also intermixes his request for shoulder care with his request 
+for back care. The requests will, how ever, be dealt w ith separately in this decision.  
+ 
+
+NELSON V. MEDIACOM, LLC 
+Page 17 
+ 
+ 
+mentions the repeat MRI recommended by Dr. Schmitz on May 31, 2024, it also 
+acknowledges that defendants have already agreed to provide the MRI. (Id. at 36).  
+During the hearing, Nelson testified that he wanted to return to see Dr. Schmitz for his 
+back complaints. (Tr., p. 51).  He also testified that the MRI had already been authorized 
+by defendants and was being scheduled.  (Id.).  The undersigned agrees that 
+defendants’ counsel represented to the agency that defendants had already authorized 
+the MRI under the November 22, 2023 date of injury, and they were in the process of 
+scheduling it at the time of hearing. (Id.; See also Defendants’ Post-Hearing Brief, p. 
+16).  Given the language of Nelson’s prior alternate care dismissals, it appears 
+defendants also made that representation to claimant prior to hearing. (See Dismissal in 
+File No. 22005240.02; Dismissal in File No. 22005240.03).  Given these numerous 
+representations, I find that defendants have already agreed to authorize the MRI 
+recommended by Dr. Schmitz; this request is moot.12  
+ 
+In his post-hearing brief, Nelson also requests an order from the agency granting 
+him the right to control his own care for the October 18, 2021 date of injury. (Claimant’s 
+Post-Hearing Brief, p. 43).  He states this is warranted because defendants are refusing 
+to authorize any treatment for his 2021 date of injury.  Iowa Code section 85.27(4) 
+provides, in relevant part: 
+For purposes of this section, the employer is obliged to furnish 
+reasonable services and supplies to treat an injured employee, and has the 
+right to choose the care . . . . The treatment must be offered promptly and 
+be reasonably suited to treat the injury without undue inconvenience to the 
+employee. If the employee has reason to be dissatisfied with the care 
+offered, the employee should communicate the basis of such dissatisfaction 
+to the employer, in writing if requested, following which the employer and 
+the employee may agree to alternate care reasonably suited to treat the 
+injury. If the employer and employee cannot agree on such alternate care, 
+the commissioner may, upon application and reasonable proofs of the 
+necessity therefor, allow and order other care. 
+Id.; see also, Pirelli-Armstrong Tire Co. v. Reynolds, 562 N.W.2d 433, 436-37 (Iowa 
+1997). Under this code section, the employer must furnish “reasonable medical services 
+and supplies and reasonable and necessary appliances to treat an injured employee.” 
+Stone Container Corp. v. Castle, 657 N.W.2d 485, 490 (Iowa 2003) (emphasis in 
+original). Such employer-provided care “must be offered promptly and be reasonably 
+suited to treat the injury without undue inconvenience to the employee.” Iowa Code § 
+85.27(4). 
+By challenging the employer’s choice of treatment - and seeking alternate care - 
+claimant assumes the burden of proving the authorized care is unreasonable. See e.g., 
+                                                 
+12 In his post-hearing brief Nelson states, “While the imaging has been authorized, Defendants appear to be w alking back 
+their authorization of this treatment, in the same breath.” (Claimant’s Post-Hearing Brief, p. 34).  The undersigned is clearly relying 
+upon that representation in declaring this request moot. See Winnebago Industries, Inc. v. Haverly, 727 N.W.2d 567, 573-574 (Iowa 
+2006) (explaining that judicial estoppel “prohibits a party who has successfully and unequivocally asserted a position in one proceeding 
+from asserting an inconsistent position in a subsequent proceeding.” quoting Wilson v. Liberty Mut. Group, 666 N.W.2d 163, 166 (Iowa 
+2003)).   
+
+NELSON V. MEDIACOM, LLC 
+Page 18 
+ 
+ 
+Iowa R. App. P. 14(f)(5); Bell Bros. Heating and Air Conditioning v. Gwinn, 779 N.W.2d 
+193, 209 (Iowa 2010); Long v. Roberts Dairy Co., 528 N.W.2d 122, 124 (Iowa 1995). An 
+injured employee dissatisfied with the employer-furnished care (or lack thereof) may 
+share the employee’s discontent with the employer and if the parties cannot reach an 
+agreement on alternate care, “the commissioner may, upon application and reasonable 
+proofs of the necessity therefor, allow and order the care.” Iowa Code § 85.27(4). 
+“Determining what care is reasonable under the statute is a question of fact.” Long, 528 
+N.W.2d at 123. As the party seeking relief in the form of alternate care, the employee 
+bears the burden of proving that the authorized care is unreasonable. Long, 528 N.W.2d 
+at 124; Gwinn, 779 N.W.2d at 209; Reynolds, 562 N.W.2d at 436. Because “the 
+employer’s obligation under the statute turns on the question of reasonable necessity, 
+not desirability,” an injured employee’s dissatisfaction with employer-provided care, 
+standing alone, is not enough to find such care unreasonable. Long, 528 N.W.2d at 124. 
+Nelson argues he is entitled to an order allowing him to control his own care for 
+the October 18, 2021 date of injury because defendants are not currently providing any 
+treatment. (Claimant’s Post-Hearing Brief, p. 43).  While that assertion is correct, the 
+hearing record also shows that no treater or expert has recommended any additional 
+treatment for that injury date.  In his November 26, 2024 report, Dr. Schmitz states that 
+the recommended MRI is to investigate the November 22, 2023 date of injury, not for 
+the October 18, 2021 date of injury.  (JE 4, p. 91).  Additionally, in his IME report Dr. 
+Rondinelli did not recommend any further treatment for the October 18, 2021 date of 
+injury. (Cl Ex. 2, p. 19).  Under this record, Nelson has not proven defendants’ offered 
+care was unreasonable; he has not shown he is entitled to alternate care for the 
+October 18, 2021 date of injury.  Nelson’s request for alternate care is denied.  
+Nelson also seeks an award of costs for the October 18, 2021 injury date. These 
+costs are outlined in Claimant’s Exhibit 6. (Cl Ex. 6, pp. 38-43).  Costs are to be 
+assessed at the discretion of the deputy commissioner hearing the case. See 876 IAC 
+4.33; Iowa Code § 10A.328.  Administrative Rule 4.33 provides as follows:  
+Costs taxed by the workers’ compensation commissioner or a deputy 
+workers’ commissioner shall be (1) attendance of a certified shorthand 
+reporter or presence of mechanical means at hearings and evidential 
+depositions, (2) transcription costs when appropriate, (3) costs of service of 
+the original notice and subpoenas, (4) witness fees and expenses as 
+provided by Iowa Code sections 622.69 and 622.72, (5) the costs of doctors’ 
+and practitioners’ deposition testimony, provided that said costs do not 
+exceed the amounts provided by Iowa Code sections 622.69 and 622.72, 
+(6) the reasonable costs of obtaining no more than two doctors’ or 
+practitioners’ reports, 
+(7) filing fees when 
+appropriate, including 
+convenience fees incurred by using the WCES payment gateway, and (8) 
+costs of persons reviewing health service disputes. 
+876 IAC 4.33.   
+Nelson incurred costs of $128.75 for the filing fee for his petition.  (Cl Ex. 6, p. 
+39).  Nelson was awarded benefits for the October 18, 2021 date of injury.  I conclude it 
+
+NELSON V. MEDIACOM, LLC 
+Page 19 
+ 
+ 
+is reasonable to assess his filing fee pursuant to 876 IAC 4.33(7).  On the Hearing 
+Report, Nelson also sought reimbursement for his IME with Dr. Rondinelli. (See Hearing 
+Report for File No. 22005240.01).  However, at the start of the hearing defendants’ 
+counsel stipulated to paying the cost of Dr. Rondinelli’s IME. (Tr., p. 8).  Given this 
+agreement, I find Nelson is entitled to reimbursement of $4,400.00 from defendants 
+pursuant to Iowa Code section 85.39.   
+File No. 22005240.01 
+Nelson is also alleging he suffered compensable injuries to his right shoulder and 
+back while working for Mediacom on November 22, 2023. (See Petition).  Defendants 
+deny that Nelson sustained a compensable injury on that date. (See Hearing Report).  
+Defendants allege his right shoulder condition stems from a prior work injury in 2015. 
+(Defendants’ Post-Hearing Brief, p. 13).  The statute of limitations for indemnity benefits 
+has run on that date of injury.  Defendants argue Nelson is alleging a new injury to his 
+right shoulder so that he can collect additional indemnity benefits. (Id.). They also state 
+that there is insufficient evidence Nelson injured his back on November 22, 2023, and 
+his complaints are from a pre-existing condition. (Id. at 15-16).   
+A personal injury contemplated by the workers’ compensation law means an 
+injury, the impairment of health or a disease resulting from an injury which comes about, 
+not through the natural building up and tearing down of the human body, but because of 
+trauma. The injury must be something that acts extraneously to the natural processes of 
+nature and thereby impairs the health, interrupts, or otherwise destroys or damages a 
+part or all of the body. Although many injuries have a traumatic onset, there is no 
+requirement for a special incident or an unusual occurrence. Injuries which result from 
+cumulative trauma are compensable. Increased disability from a prior injury, even if 
+brought about by further work, does not constitute a new injury, however. St. Luke’s 
+Hosp. v. Gray, 604 N.W.2d 646, 650-51 (Iowa 2000); Ellingson v. Fleetguard, Inc., 599 
+N.W.2d 440, 444 (Iowa 1999); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 
+845, 850-51 (Iowa 1995); McKeever Custom Cabinets v. Smith, 379 N.W.2d 368, 373-
+74 (Iowa 1985). An occupational disease covered by chapter 85A is specifically 
+excluded from the definition of personal injury. Iowa Code § 85.61(4)(b); Iowa Code § 
+85A.8; Iowa Code § 85A.14. 
+ While a claimant is not entitled to compensation for the results of a preexisting 
+injury or disease, its mere existence at the time of a subsequent injury is not a defense. 
+Rose v. John Deere Ottumwa Works, 247 Iowa 900, 908, 76 N.W.2d 756, 760-61 
+(1956). If the claimant had a preexisting condition or disability that is materially 
+aggravated, accelerated, worsened or lighted up so that it results in disability, claimant 
+is entitled to recover. Nicks v. Davenport Produce Co., 254 Iowa 130, 135, 115 N.W.2d 
+812, 815 (1962); Yeager v. Firestone Tire & Rubber Co., 253 Iowa 369, 374-75, 112 
+N.W.2d 299, 302 (1961).  Nelson bears the burden of proving by a preponderance of 
+the evidence that the November 22, 2023 injury date is a proximate cause of his alleged 
+shoulder and back injuries/conditions.  Frye, 569 N.W.2d at 156.  The possibility of 
+causation is not sufficient; a probability is necessary. Id. 
+The record contains several different causation opinions addressing Nelson’s 
+
+NELSON V. MEDIACOM, LLC 
+Page 20 
+ 
+ 
+right shoulder issues.  Dr. Potthoff diagnosed Nelson with right shoulder pain with low-
+grade partial thickness rotator cuff tearing and advancing glenohumeral joint 
+osteoarthritis. (JE 2, p. 45).  He opined that the degenerative changes were present 
+prior to the alleged injury date, but indicated the work incident could have resulted in 
+some low-grade tearing of the rotator cuff. (Id.).  Dr. Potthoff, however, did not 
+recommend surgery for the rotator cuff tear. (Id.).  Dr. Gibbons provided two different 
+causation opinions on the source of Nelson’s right shoulder issues. He diagnosed 
+Nelson with pre-existing degenerative joint disease. (Id. at 42).  When asked for an 
+initial causation opinion by the defendants in February 2024, he stated that the 
+osteoarthritis in Nelson’s shoulder was caused by the 2015 date of injury, and while the 
+2023 injury date may have caused a temporary agitation of that osteoarthritis, it did not 
+materially aggravate the condition and/or cause the need for his shoulder arthroplasty. 
+(Id. at 46).  However, Dr. Gibbons changed his opinion after meeting with Nelson’s 
+attorney in July 2024. (Id. at 49).  After that meeting, he provided a follow-up report 
+stating that the November 22, 2023 injury materially aggravated Nelson’s osteoarthritis 
+and accelerated his need for shoulder replacement surgery. (Id. at 50).  Finally, Nelson 
+obtained a records review from Dr. Crites. (See JE 6, p. 97).  Dr. Crites also opined that 
+the work incident on November 22, 2023, materially aggravated Nelson’s pre-existing 
+osteoarthritis. (Id.).  Dr. Crites notes that the arthritis was asymptomatic until the work 
+incident on November 22, 2023, and it did not return to its baseline condition after the 
+incident, causing Nelson’s need for the total shoulder arthroplasty. (Id.).   
+Out of those listed, the undersigned finds Dr. Crites’ report and Dr. Gibbon’s final 
+report to be the most persuasive.  Nelson has met his burden to prove a causal 
+relationship between the work incident on November 22, 2023, and his need for 
+shoulder surgery. Two of the three physicians believe that the work incident permanently 
+aggravated Nelson’s shoulder condition.  Dr. Crites and Dr. Gibbons believe the work 
+incident materially aggravated his osteoarthritis causing the need for his shoulder 
+replacement surgery.  There is evidentiary support for this position.  While Nelson’s 
+arthritis condition undoubtably started with his prior surgeries in 2015 and 2016, neither 
+party introduced any medical records showing him complaining about the condition 
+and/or seeking treatment for the arthritis until after the alleged work incident on 
+November 22, 2023.  This gap lends support for their assertion that the November 2023 
+work incident materially and permanently aggravated his pre-existing condition, causing 
+the need for his surgery in August 2024.  Additionally, in his first opinion finding no 
+causation, Dr. Gibbons indicated that Nelson’s shoulder would return to its baseline 
+condition approximately three months after the work incident. (See JE 2, p. 46).  That 
+did not occur.  Nelson continued to complain of symptoms in May 2024, and underwent 
+surgery in August 2024. (JE 2, p. 48; JE 7, p. 98).   The medical records show he did 
+not return to his baseline condition as Dr. Gibbons originally predicted.  I find Nelson 
+proved by a preponderance of the evidence that the November 22, 2023 work incident 
+materially aggravated his pre-existing osteoarthritis, causing the need for his total 
+replacement surgery in August 2024.  Nelson’s current right shoulder condition and 
+need for surgery arose out of and in the course of his employment with Mediacom on 
+November 22, 2023.  He has established a compensable work injury to his right 
+shoulder on that date.  
+
+NELSON V. MEDIACOM, LLC 
+Page 21 
+ 
+ 
+The evidence, however, does not support a finding that Nelson sustained a work-
+related injury to his back on November 22, 2023. According to the hearing evidence, 
+Nelson called his attorney to report increased back symptoms eight days prior to the 
+work incident on November 22, 2023. (Ex. A).  Nelson told his attorney that after a week 
+of “on call work,” he was having trouble getting in and out of his work truck. (Id. at 1).  At 
+that time, Nelson requested a return visit to Dr. Schmitz. (Id.).  This evidence shows that 
+Nelson’s increased back symptoms pre-dated the November 2023 injury date.  
+Additionally, there is no mention of back pain in Nelson’s early shoulder treatment 
+records.  Dr. Potthoff and Dr. Gibbons treated Nelson’s right shoulder for approximately 
+five months before he mentioned the supposedly related back pain. While Nelson’s 
+focus on his acute shoulder pain could explain a failure to report back symptoms in his 
+initial visit with Dr. Potthoff, it is not an adequate explanation for failing to mention the 
+symptoms for over five months.  Nelson’s allegedly related back complaints appear 
+identical to the complaints he had on November 14, 2023, prior to the injury date in 
+question, and he has not submitted any objective medical testing and/or expert opinions 
+proving a material aggravation or change in his back condition from the November 22, 
+2023 date of injury.13  Nelson carries the burden of proof in this proceeding; Nelson has 
+not met his burden as it pertains to his back claim. There is not substantial evidence to 
+support a finding that Nelson sustained a new back injury on November 22, 2023. 
+ 
+In their post-hearing brief, defendants argue Nelson should be judicially estopped 
+from claiming his right shoulder condition was caused by the work incident on 
+November 22, 2023, because he filed an alternate care petition requesting treatment for 
+his shoulder under the 2015 date of injury. (Defendants’ Post-Hearing Brief, p. 14).  
+Defendants argue they admitted liability for 2015 injury date and agreed to pay for the 
+care Nelson sought under that injury date. (Id. at 15).  They assert Nelson should be 
+bound by his assertion that his current shoulder injury and need for surgery was 
+causally related to the 2015 date of injury; He should not be able to now argue that 
+shoulder injury occurred on a different date so that he can collect indemnity benefits. 
+(Id.).   
+The doctrine of judicial estoppel is a “commonsense doctrine” that “prohibits a 
+party who has successfully and unequivocally asserted a position in one proceeding 
+from asserting an inconsistent position in a subsequent proceeding.” Vennerberg 
+Farms, Inc. v. IGF Insurance Co., 405 N.W.2d 810, 814 (Iowa 1987).  It is designed to 
+protect the integrity of the judicial process and applies to administrative proceedings as 
+well as court proceedings. Id.; Winnebago Indus., Inc. v. Haverly, 727 N.W.2d 567, 573-
+74 (Iowa 2006).  According to the Iowa Supreme Court,  
+ 
+A fundamental feature of the doctrine is the successful assertion of 
+the inconsistent position in a prior action.  Absent judicial acceptance of the 
+                                                 
+13 In his post-hearing brief, Nelson appears to argue that Dr. Schmitz’s opinion that he needs an updated MRI to determine 
+w hether the November 2023 injury date aggravated Nelson’s spine is sufficient proof he sustained a new  injury. (Claimant’s Post-
+Hearing Brief, pp. 32-33).  Dr. Schmitz did not provide a causation opinion for the November 22, 2023 date of injury.  He requested 
+further investigation.  Defendants stipulated on the hearing record that the MRI w as already authorized and in the process of being 
+scheduled (even though it is quite delayed). If the MRI results w arrant it, Nelson can exercise his right to file a review-reopening action 
+in this claim.   
+
+NELSON V. MEDIACOM, LLC 
+Page 22 
+ 
+ 
+inconsistent position, application of the rule is unwarranted because no risk 
+of inconsistent, misleading results exists.  
+ 
+Vennerberg Farms, 405 N.W.2d at 814.  The position must be judicially accepted for the 
+doctrine to apply. Tyson Foods, Inc. v. Hedlund, 740 N.W.2d 192, 197 (Iowa 2007).  
+The court has stated that a position is judicially accepted when it is material to the 
+holding in a prior proceeding. Id.; Wilson v. Liberty Mutual Group, 666 N.W.2d 163, 166-
+67 (Iowa 2003).  Examples of accepted positions include an employer’s admittance of 
+liability for injury dates in alternate care actions, as well as a claimant’s agreement that 
+a bona fide dispute existed as to his entitlement to benefits in a settlement agreement. 
+Id.; Winnebago Indus., 727 N.W.2d at 575. 
+ 
+Nelson filed several alternate care actions seeking treatment for his right 
+shoulder.  He filed actions on February 14, 2024, and March 7, 2024, seeking treatment 
+for his right shoulder under the November 22, 2023 date of injury.  He, however, also 
+filed two actions seeking alternate care for his right shoulder under the April 22, 2015 
+date of injury, one on March 7, 2024, and a second on May 13, 2024.  Nelson 
+voluntarily dismissed two of the petitions, and the agency dismissed the third petition 
+because defendants denied liability.  The fourth petition, the last filed under the April 22, 
+2015 date of injury, proceeded to a hearing.  After that hearing, the agency issued a 
+decision ordering defendants to schedule a date for the CT scan within fourteen (14) 
+days.   
+ 
+In the alternate care petition that went to hearing, Nelson asserted that his 
+current right shoulder condition was caused by the 2015 date of injury.  That case went 
+to hearing and the agency issued a decision in claimant’s favor.  Given this, at first 
+glance it would appear Nelson is judicially estopped from now asserting his right 
+shoulder condition was caused by the 2023 date of injury.   He successfully asserted an 
+inconsistent position in a prior proceeding and that position was accepted and relied 
+upon by the agency.  However, the courts recognize an exception to the application of 
+judicial estoppel when there has been “a significant change in the facts after the 
+admission . . . that could justify a change of position.” Winnebago, 727 N.W.2d at 575.  
+It appears that is what occurred in this case.  According to the timeline above, in 
+February 2024, defendants obtained a causation report from Dr. Gibbons, Nelson’s 
+treating physician.  (JE 2, p. 46).  The report opined that Nelson’s 2015 work injury was 
+the cause of his current right shoulder condition, as well as his need for a total shoulder 
+replacement. (Id.).  Nelson filed petitions for alternate medical care under the 2015 date 
+of injury after receiving Dr. Gibbon’s initial report.  The first was filed on March 7, 2024, 
+and the second on May 13, 2024.  Given this record, it is reasonable to assume Nelson 
+relied upon Dr. Gibbon’s report in filing those applications.  The agency’s alternate care 
+decision for the 2015 date of injury, which relied upon the assertions in Nelson’s 
+petition, was issued May 23, 2024.  Nelson’s attorney then met with Dr. Gibbons two 
+months later in July 2024, after which Gibbons issued his follow-up report, changing his 
+opinion and stating that Nelson’s need for total replacement surgery was caused by the 
+2023 date of injury.  Dr. Gibbons is the authorized treating physician for both the 2015 
+
+NELSON V. MEDIACOM, LLC 
+Page 23 
+ 
+ 
+and the 2023 dates of injury.  His opinion reversal significantly changed the evidence in 
+this case.  
+ 
+It should also be noted that defendants procured Dr. Gibbons’ initial report.  
+Thus, the opinions and positions espoused in that report were not asserted by Nelson, 
+they originated from defendants.  The doctrine of “judicial estoppel is intended to protect 
+the integrity of the fact-finding process by administrative agencies and courts . . . .” 
+Winnebago, 727 N.W.2d at 573.  This is not a case where a party obtained and 
+successfully utilized evidence espousing one position in an administrative proceeding 
+and then later purposefully procured contrary evidence and took the opposite position in 
+a later proceeding for financial gain.  There is no evidence that Nelson is attempting to 
+defraud the agency.  Defendants obtained Dr. Gibbon’s initial report and Nelson relied 
+upon that report to obtain medical care, which defendants agreed he was entitled to.  
+Nelson, however, has never agreed that his entitlement stems from the 2015 date of 
+injury. Nelson is not judicially estopped from claiming his current right shoulder condition 
+and need for surgery was caused by the November 22, 2023 work incident.14  
+ 
+Nelson seeks an award of temporary total or healing period benefits from June 
+29, 2024, through the present and continuing. (See Hearing Report).15  Healing period 
+benefits are payable to an injured worker who has suffered permanent partial disability. 
+Iowa Code § 85.34(1). Nelson’s right shoulder claim is not yet ripe for adjudication on 
+the issue of permanency, however, he underwent a total shoulder replacement surgery; 
+it is reasonable to infer he will have some permanent impairment.   
+ 
+Iowa Code section 85.34(1) provides that healing period benefits are payable to 
+an injured employee who has suffered permanent partial disability until (1) the employee 
+has returned to work; (2) it is medically indicated that significant improvement from the 
+injury is not anticipated; or (3) the employee is medically capable of returning to 
+employment substantially similar to the employment in which the employee was 
+engaged at the time of injury, whichever occurs first. The healing period can be 
+considered the period during which there is a reasonable expectation of improvement of 
+the disabling condition. See Armstrong Tire & Rubber Co. v. Kubli, 312 N.W.2d 60, 65 
+(Iowa Ct. App. 1981).  Maximum medical recovery is achieved when healing is 
+complete, and the extent of permanent disability can be determined. Id.  Healing period 
+benefits can be interrupted or intermittent. Teel v. McCord, 394 N.W.2d 405, 406 (Iowa 
+1986). 
+ 
+Nelson returned to light-duty, full-time work at Mediacom after the November 22, 
+2023 date of injury. He continued to work, apparently making his full wages, until June 
+28, 2024, when he was placed on extended leave by Mediacom because his shoulder 
+restrictions could not be accommodated.  Nelson was not working or receiving any 
+wages at the time of the hearing.  Nelson is entitled to a running healing period award 
+                                                 
+14 Both parties agree that Nelson is not at MMI for his right shoulder injury and that the injury is not ripe for adjudication on 
+the issue of permanency.  (See Hearing Report; Defendants’ Post-Hearing Brief, p. 16).   
+15 The Hearing Report originally requested healing period benefits starting on June 19, 2024. (See Hearing Report).  At the 
+beginning of the hearing, how ever, claimant’s counsel verbally amended this date to June 29, 2024. (Tr., p. 11).   
+
+NELSON V. MEDIACOM, LLC 
+Page 24 
+ 
+ 
+from the time he was placed on leave until he attains MMI for the shoulder injury or 
+returns to substantially similar employment.  
+ 
+Nelson also requests penalty benefits.  Specifically, Nelson claims he is entitled 
+to penalty benefits because defendants denied his 2023 right shoulder claim without a 
+reasonable basis.  (Claimant’s Post-Hearing Brief, pp. 37-41).  He also argues that 
+defendants failed to contemporaneously convey their reason for denial in violation of the 
+statute. (Id.).  Defendants’ post-hearing brief does not address Nelson’s request for 
+penalty benefits.   
+Penalty benefits are created by Iowa Code section 10A.315, which provides two 
+clear prerequisites before penalty benefits can be imposed: (1) “a delay in 
+commencement or termination of benefits” that occurs (2) “without reasonable or 
+probable cause or excuse.” Iowa Code § 10A.315. When the prerequisites have been 
+met, the Iowa Code instructs the commissioner “shall award” penalty benefits “up to fifty 
+percent of the amount of benefits that were unreasonably delayed or denied.” Id.  “To 
+receive a penalty benefit award under section 86.13,16 the claimant must first establish a 
+delay in the payment of benefits.” Schadendorf v. Snap–On Tools Corp., 757 N.W.2d 
+330, 334 (Iowa 2008).  “The burden then shifts to the employer to prove a reasonable 
+cause or excuse for the delay.” Id. at 334–35.  Weekly compensation payments are due 
+at the end of the compensation week. Robbennolt v. Snap-on Tools Corp., 555 N.W.2d 
+229, 235 (Iowa 1996).  At the time of the hearing, defendants had not volunteered any 
+indemnity benefits for the 2023 date of injury.  Therefore, Nelson has met his burden to 
+prove a delay in payment under Iowa Code section 10A.315; the burden now shifts to 
+defendants to prove there was a reasonable cause or excuse for the delay.    
+In Christensen v. Snap-on Tools Corp., 554 N.W.2d 254, 260 (Iowa 1996), the 
+Iowa Supreme Court declared, 
+A reasonable cause or excuse exists if either (1) the delay was 
+necessary for the insurer to investigate the claim or (2) the employer had a 
+reasonable basis to contest the employee's entitlement to benefits. A 
+“reasonable basis” for denial of the claim exists if the claim is “fairly 
+debatable.”  
+Id.   The reasonableness of the employer's actions “does not turn on whether the 
+employer was right. The issue is whether there was a reasonable basis for the 
+employer's position that no benefits were owing.” Keystone Nursing Care Ctr. v. 
+Craddock, 705 N.W.2d 299, 307-308 (Iowa 2005).  However, in order to be considered 
+“reasonable” under the statute, the employer’s basis or excuse must meet three criteria.  
+See Iowa Code § 10A.315(3)(c).  Those criteria are as follows: 
+                                                 
+16 Iow a Code section 10A.315 w as previously codified as Iow a Code section 86.13.  No substantive changes were made to 
+the statute w hen it w as transferred from section 86.13 to section 10A.315.  
+
+NELSON V. MEDIACOM, LLC 
+Page 25 
+ 
+ 
+(1) The excuse was preceded by a reasonable investigation and evaluation 
+by the employer or insurance carrier into whether benefits were owed to 
+the employee. 
+(2) The results of the reasonable investigation and evaluation were the 
+actual 
+basis upon 
+which 
+the employer 
+or insurance 
+carrier 
+contemporaneously relied to deny, delay payment of, or terminate 
+benefits.  
+(3)  The employer or insurance carrier contemporaneously conveyed the 
+basis for the denial, delay in payment, or termination of benefits to the 
+employee at the time of the denial, delay, or termination of benefits.  
+Id.  In Pettengill v. American Blue Ribbon Holdings. L.L.C., 875 N.W.2d 740, 747 (Iowa 
+Ct.  App. 2015), the Iowa Court of Appeals held that Iowa Code section 
+10A.315(4) “creates a mandatory timeline for the employer to follow in showing it had a 
+‘reasonable or probable cause or excuse’ for the termination of benefits.” Id. The 
+Pettengill Court explained that timeline as follows: 
+First, the employer's excuse for the termination must have 
+been preceded by an investigation, Id. § 86.13(4)(c)(1). Second, the results 
+of the investigation were “the actual basis . . . contemporaneously” relied on 
+by the employer in terminating the benefits. Third, the employer 
+“contemporaneously conveyed the basis for the . . . termination of 
+benefits  to the employee at the time of the . . . termination.” Id. § 
+86.13(4)(c)(3).  
+Id. (emphasis in original). It is defendant’s burden to show compliance with this statutory 
+provision in order to avoid the mandatory penalty assessment. Id. at 745.    
+Nelson asserts two different rationales for his penalty claim.  The first is that 
+defendants denied his 2023 shoulder claim without a reasonable basis.  Initially, 
+defendants had opinions from both Dr. Potthoff and Dr. Gibbons indicating that Nelson’s 
+shoulder osteoarthritis pre-existed the 2023 injury date, that the osteoarthritis was not 
+materially aggravated by the work incident, and that the incident did not cause his need 
+for total replacement surgery.  The undersigned did not adopt those opinions, but they 
+do establish a reasonable basis to contest Nelson’s right to benefits.  However, Dr. 
+Gibbons later changed his opinion after meeting with claimant’s counsel.  Dr. Potthoff 
+did not change his opinion, but he is also not Nelson’s treating surgeon and referred 
+Nelson to Dr. Gibbons for future care.  The question is whether defendants’ actions 
+were reasonable after they received Dr. Gibbons’ revised opinion in August 2024. Under 
+the statute, defendants’ duty to investigate is ongoing.  See Squealer Feeds v. 
+Pickering, 530 N.W.2d 678, 683 (Iowa 1995).  The record, however, is devoid of any 
+investigation efforts by defendants after their receipt of Dr. Gibbons’ new opinion.  Dr. 
+Gibbons was Nelson’s treating surgeon for both the 2015 and the 2023 injury dates; He 
+is arguably the doctor most familiar with Nelson’s health history and shoulder 
+conditions, as well as an experienced surgeon.  Defendants’ lack of follow-up does not 
+
+NELSON V. MEDIACOM, LLC 
+Page 26 
+ 
+ 
+seem reasonable under these circumstances.  Additionally, the undersigned cannot find 
+any evidence that defendants contemporaneously conveyed the basis for their denial to 
+Nelson in the hearing record.  Nelson has proven entitlement to penalty benefits.   
+The purpose of penalty benefits is both punishment for unreasonable conduct 
+and deterrence of similar conduct in future cases. Robbennolt, 555 N.W.2d at 237.  The 
+agency has discretion to determine the amount of the penalty imposed with a maximum 
+penalty of 50 percent of the amount of the delayed or denied benefits. Christensen, 554 
+N.W.2d at 261.  In determining the amount of the penalty, the agency shall consider 
+such factors as the length of the delay, the number of the delays, the information 
+available to the employer regarding the employee's injuries and wages, and prior 
+penalties imposed against the employer under section 10A.315.  Meyers v. Holiday 
+Express Corp., 557 N.W.2d 502, 505 (Iowa 1996).  Taking into consideration the above 
+factors, I find a penalty of $5,000.00 is appropriate.  
+Nelson also seeks an award of costs for the November 22, 2023 injury date. 
+These costs are outlined in Claimant’s Exhibit 6. (Cl Ex. 6, pp. 38-43).  Costs are to be 
+assessed at the discretion of the deputy commissioner hearing the case. See 876 IAC 
+4.33; Iowa Code § 10A.328.  Nelson incurred costs of $128.75 for the filing fee for his 
+petition.  (Cl Ex. 6, p. 39).  Nelson was awarded benefits for the November 22, 2023 
+date of injury.  It is reasonable to assess his filing fee pursuant to 876 IAC 4.33(7).   
+ 
+ORDER 
+THEREFORE, IT IS ORDERED: 
+Under File No. 22005240.01: 
+Defendants shall pay Nelson fifty (50) weeks of permanent partial disability 
+benefits at the stipulated rate of seven hundred twenty-four and 69/100 dollars 
+($724.69) per week commencing on September 16, 2022. Defendants, however, are 
+entitled to credit for previously paid permanent benefits.   
+Defendants shall pay accrued weekly benefits in a lump sum together with 
+interest at an annual rate equal to the one-year treasury constant maturity published by 
+the federal reserve in the most recent H15 report settled as of the date of injury, plus 
+two percent.    
+Defendants shall reimburse claimant for the IME conducted by Dr. Rondinelli in 
+July 2023 in the amount of four thousand four hundred dollars ($4,400.00).  
+Defendants shall pay costs of one hundred twenty-eight and 75/100 dollars 
+($128.75).   
+Defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1 (2) and 876 IAC 11.7. 
+ 
+ 
+ 
+
+NELSON V. MEDIACOM, LLC 
+Page 27 
+ 
+ 
+Under File No. 24700118.03: 
+ 
+Defendants shall pay claimant healing period from June 29, 2024, and continuing 
+for the period of claimant’s temporary disability as provided by section 85.34 of the Iowa 
+Code at the stipulated rate of seven hundred forty-eight and 73/100 dollars ($748.73) 
+per week.   
+Defendants shall pay accrued weekly benefits in a lump sum together with 
+interest at an annual rate equal to the one-year treasury constant maturity published by 
+the federal reserve in the most recent H15 report settled as of the date of injury, plus 
+two percent.    
+Defendants shall pay penalty benefits in the amount of five thousand and 00/100 
+dollars ($5,000.00). 
+Defendants shall pay costs of one hundred twenty-eight and 75/100 dollars 
+($128.75).   
+Defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1 (2) and 876 IAC 11.7. 
+  
+Signed and filed this ___17th ____ day of June, 2025. 
+   
+__________________________ 
+         AMANDA R. RUTHERFORD 
+              DEPUTY WORKERS’  
+    COMPENSATION COMMISSIONER 
+ 
+The parties have been served, as follows:  
+Bryant Engbers  
+(via WCES) 
+Caitlin Kilburg 
+(via WCES) 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 
+days from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of 
+appeal must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Workers’ Compensation Division to file documents in paper form. If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Workers’ 
+Compensation Division, 6200 Park Ave., Suite 100, Des Moines, Iowa 50321. The notice of appeal must be received 
+by the Workers’ Compensation Division within 20 days from the date of the decision. The appeal period will be 
+extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+ 

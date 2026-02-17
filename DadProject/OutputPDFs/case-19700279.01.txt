@@ -1,0 +1,822 @@
+Case Number: 19700279.01
+Case Title:  STEWART, JACKIE V. KPI CONCEPTS, INC.
+Doc Type:    Decision - Deputy
+Source:      Stewart Jackie-19700279.01d.pdf
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+JACKIE STEWART, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                      File No. 19700279.01 
+KPI CONCEPTS, LLC, 
+  : 
+ 
+ 
+  :                      A R B I T R A T I O N  
+ 
+Employer, 
+  : 
+ 
+ 
+  :                           D E C I S I O N 
+and 
+ 
+  : 
+ 
+ 
+  : 
+ACUITY INSURANCE, 
+  : 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  :               Headnotes:  1402.40, 1402.60, 
+ 
+Defendants. 
+  :                                    1800, 1803, 2500    
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+ 
+The claimant, Jackie Stewart, filed a petition for arbitration seeking workers’ 
+compensation benefits from KPI Concepts, LLC (“KPI”), and its insurer Acuity 
+Insurance.  Eric Loney appeared on behalf of the claimant.  Coreen Sweeney appeared 
+on behalf of the defendants.   
+ 
+The matter came on for hearing on September 28, 2020, before deputy workers’ 
+compensation commissioner Andrew M. Phillips.  An order issued on March 13, 2020, 
+and updated June 1, 2020, and August 14, 2020, by the Iowa Workers’ Compensation 
+Commissioner, In the Matter of Coronavirus/COVID-19 Impact on Hearings (Available 
+online at: https://www.iowaworkcomp.gov/order-coronavirus-covid-19 (last viewed 
+August 14, 2020)) amended the hearing assignment order in each case before the 
+Commissioner scheduled for an in-person regular proceeding hearing between March 
+18, 2020, and November 20, 2020.  The amendment makes it so that such hearings will 
+be held by Internet-based video, using CourtCall.  The parties appeared electronically, 
+and the hearing proceeded without significant difficulties.  The matter was fully 
+submitted on November 2, 2020, after briefing by the parties.     
+The record in this case consists of Joint Exhibits 1-7, Claimant’s Exhibits 1-8, and 
+Defendants’ Exhibits A-I.  Testimony under oath was also taken from the claimant, 
+Jackie Stewart, and KPI employee Derek Elmore.  Maria Taylor was appointed the 
+official reporter and custodian of the notes of the proceeding.   
+ 
+ELECTRONICALLY FILED     2020-Nov-30  09:19:28     DIVISION OF WORKERS' COMPENSATION
+
+STEWART V. KPI CONCEPTS, LLC 
+Page 2 
+STIPULATIONS 
+ 
+Through the hearing report, as reviewed at the commencement of the hearing, 
+the parties stipulated and/or established the following: 
+1. There was an employer-employee relationship at the time of the alleged injury. 
+  
+2. The claimant sustained an injury arising out of, and in the course of, employment, 
+on February 20, 2019. 
+ 
+3. The alleged injury is a cause of temporary disability during a period of recovery. 
+ 
+4. The claimant was single, and entitled to one exemption. 
+ 
+5. The costs listed in Claimant’s Exhibit 8 have been paid, including Sunil Bansal, 
+M.D.’s independent medical examination (“IME”) expense. 
+Additionally, entitlement to temporary disability and/or healing period benefits is no 
+longer in dispute, nor are credits against any award.  The defendants waived their 
+affirmative defenses. 
+The parties are now bound by their stipulations. 
+ISSUES 
+The parties submitted the following issues for determination: 
+1. Whether the alleged injury is a cause of permanent disability. 
+  
+2. The extent of permanent disability, if any is awarded. 
+ 
+3. Whether the disability is an industrial disability or considered under Iowa 
+Code section 85.34(2)(v).   
+ 
+4. Whether the commencement date for permanent partial disability benefits, if 
+any are awarded, is July 11, 2019, or August 7, 2020. 
+ 
+5. Whether the claimant’s gross earnings were $633.42 per week or $655.95 per 
+week.   
+ 
+6. Whether the weekly rate is $402.85 per week or $416.53 per week. 
+ 
+7. Whether the claimant is entitled to alternate medical care pursuant to Iowa 
+Code section 85.27 
+ 
+8. Whether the claimant is entitled to an assessment of costs.   
+ 
+
+STEWART V. KPI CONCEPTS, LLC 
+Page 3 
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+Jackie Stewart, the claimant, was 52 years old at the time of the hearing.  
+(Testimony).  He lives in Burlington, Iowa.  (Testimony).  He graduated from Burlington 
+High School in 1987.  (Testimony).  Mr. Stewart was an average to below average 
+student based upon his grades.  (Claimant’s Exhibit 4:1).  He attended a few semesters 
+at Kirkwood Community College, but did not obtain a degree.  (Testimony).   
+Mr. Stewart worked a variety of odd jobs, including: a cook at Spirit Hollow Golf 
+Club, as a house painter, and various positions at Wal-Mart.  (Defendants’ Exhibit A:3).  
+Mr. Stewart worked for Design and Engineering in New London making golf clubs for a 
+period of time.  (DE A:3).  From 2001 to 2004, Mr. Stewart worked at Mississippi Bakery 
+in Burlington, Iowa, where he baked pound cakes.  (DE A:3).  He left that position to 
+move to Cedar Rapids.  From about 2005 to 2007, Mr. Stewart detailed cars for Deery 
+Brothers in Burlington, Iowa.  (DE A:2).  He left Deery Brothers for Shottenkirk 
+Chevrolet, where he became a detail manager.  (DE A:2).  He moved to another 
+Shottenkirk location in Mount Pleasant, Iowa, where he worked from 2010 to 2015.  (DE 
+A:2).  Mr. Stewart had some disagreements with management at Shottenkirk and was 
+laid off.  (DE A:2).  Prior to joining KPI, Mr. Stewart had a brief period of unemployment.  
+(DE H).   
+ 
+Mr. Stewart began working for KPI in 2015.  (Testimony).  When he first started 
+at KPI, he worked in an area known as scrimming and packing wherein he put windmill 
+parts together.  (Defendants’ Exhibit H).  KPI then assigned him to cut planks with a 
+saw.  (DE H).  Mr. Stewart moved to a CNC machine referred to as a “Pamela” after 
+about one or two years with KPI.  (DE H).  After moving to the CNC machine, Mr. 
+Stewart remained on the CNC.  (DE H).  At the time of the alleged work injury, Mr. 
+Stewart worked as a CNC Operator.  (Testimony).  As a CNC Operator, his job 
+description included working with machines, feeding stock into machines, adjusting 
+machine tables, monitoring machine operation, working with blades, and loading or 
+unloading material from the machinery.  (CE 3:1-2).  Mr. Stewart testified that he would 
+get wood together, put wood on the CNC machine, cut parts, and pack the parts into 
+boxes.  (Testimony).  Mr. Stewart now works in an area known as check claims, 
+wherein he loads wood and other lumber onto a pallet.  (Testimony).  He indicated at 
+the arbitration hearing that his position is more physical now than his previous position.  
+(Testimony).   
+ 
+On February 20, 2019, Mr. Stewart claims that he was struck in the rear by a 
+moving forklift.  (Testimony).  He reported that he worked with another CNC operator 
+named Danni Maxwell.  (DE H; Testimony).  He and Ms. Maxwell looked into a box 
+containing parts to determine what additional parts needed to be cut.  (DE H).  As he 
+talked to his coworker, he reported being struck in the center of the back by something 
+on a pallet on a forklift.  (DE H).  This caused him to fall towards Ms. Maxwell.  (DE H).  
+Mr. Stewart described the impact as directly on his spinal column, but noted that he 
+
+STEWART V. KPI CONCEPTS, LLC 
+Page 4 
+never fell down since a combination of Ms. Maxwell and a box caught him.  (DE H).  Mr. 
+Stewart noted that Ms. Maxwell was pregnant at the time, and about his same size.  
+(DE H).   
+ 
+Mr. Stewart provided a number of medical records predating the date of injury at 
+issue in this matter.  On November 13, 2003, Mr. Stewart visited Patrick Hitchon, M.D. 
+at the University of Iowa Hospitals and Clinics.  (Joint Exhibit 1:1).  Dr. Hitchon’s record 
+noted a February of 2002 work injury, wherein Mr. Stewart lifted a 230-pound steel 
+beam, causing persistent low back pain.  (JE 1:1).  At that time, Mr. Stewart remained 
+unemployed.  (JE 1:1).  An MRI from April of 2003 showed no evidence of stenosis, disc 
+herniation or neoplastic processes.  (JE 1:1).  Dr. Hitchon diagnosed Mr. Stewart with 
+chronic low back pain without radiographic abnormality that was most likely muscular 
+ligamentous in nature and should resolve with the passage of time.  (JE 1:1).  Dr. 
+Hitchon recommended a physical therapy evaluation, and placed Mr. Stewart on a 30-
+pound lifting restriction “out of consideration for him” to be lifted on December 1, 2003.  
+(JE 1:1).  Dr. Hitchon placed Mr. Stewart at maximum medical improvement (“MMI”) on 
+January 1, 2004.  (JE 1:1).   
+ 
+Mr. Stewart reported to Great River Medical Center Emergency Room with low 
+back pain on March 26, 2010.  (JE 2:1-3).  He had back pain for two days after working 
+out.  (JE 2:2).  He indicated that he had symptoms for several years prior.  (JE 2:2).   
+ 
+On April 16, 2010, Mr. Stewart returned to the emergency room at Great River 
+Medical Center.  (JE 2:4-6).  His pain in his lower back began three days prior at work.  
+(JE 2:5).  The examining physician diagnosed him with thoracic strain.  (JE 2:6).   
+ 
+Mr. Stewart had x-rays of his cervical spine on May 14, 2012, at Great River 
+Medical Center.  (JE 2:7).  The x-rays showed an anterior fusion at C5-7.  (JE 2:7).   
+ 
+On June 14, 2016, Mr. Stewart returned to Great River Medical Center with a 
+complaint of left collarbone pain since bench pressing, and a friend had to help get 
+weight off of him.  (JE 2:8).  Chest x-rays and a chest CT were completed, which 
+showed no acute issues.  (JE 2:12).   
+ 
+On April 4, 2017, Mr. Stewart reported to Community Health Centers of SE Iowa 
+with complaints of left lower back pain, which he believed was due to kidney problems.  
+(JE 3:1-5).  He requested FMLA paperwork.  (JE 3:1).  The next day, Mr. Stewart was 
+evaluated by a behavioral health team regarding the need to cease marijuana use and 
+remain “clean and sober.”  (JE 3:8).   
+ 
+Mr. Stewart returned to Community Health Centers of SE Iowa with complaints of 
+nausea, anxiety, and what he felt were chronic kidney issues on October 5, 2017.  (JE 
+3:11-16).  The record indicated that nephrologists felt Mr. Stewart had no active kidney 
+issues.  (JE 3:11).   
+ 
+On October 10, 2017, Mr. Stewart again followed up with Community Health 
+Centers of SE Iowa with complaints of pain in his left chest.  (JE 3:17-21).  He felt a 
+
+STEWART V. KPI CONCEPTS, LLC 
+Page 5 
+great pressure in his left chest.  (JE 3:17).  Community Health Centers of SE Iowa sent 
+him to Great River Medical center due to a possible heart attack.  (JE 3:21).   
+ 
+Mr. Stewart followed up with Community Health Centers of SE Iowa for 
+complaints of chronic nausea, shortness of breath and GERD on October 16, 2017.  (JE 
+3:22-26).   
+ 
+On August 20, 2018, Mr. Stewart reported to Community Health Centers of SE 
+Iowa for chest pain and left flank pain.  (JE 3:27).  He also complained of diarrhea.  (JE 
+3:27).  The provider assessed him with viral gastritis.  (JE 3:30).   
+ 
+Mr. Stewart visited Steven Tekell, N.P. at Great River Health Systems for an 
+evaluation of low back pain.  (JE 4:1).  He complained of pain in his back only for the 
+past week since starting to feel ill.  (JE 4:1).  He further complained of dysuria, flank 
+pain, body aches, fever, and chills.  (JE 4:1).  Nurse Practitioner Tekell felt that this was 
+not an orthopedic issue, and recommended Mr. Stewart proceed to the emergency 
+department for evaluation.  (JE 4:1).   
+ 
+Mr. Stewart returned to Great River Medical Center on August 26, 2018, with 
+complaints of abdominal pain that began two days prior.  (JE 2:14-18).  Mr. Stewart was 
+diagnosed with acute lumbar back pain and acute abdominal pain.  (JE 2:17).   
+ 
+Mr. Stewart noted several emergent visits for abdominal pain and back pain 
+during his August 28, 2018, follow up visit at Community Health Centers of SE Iowa.  
+(JE 3:32-36).  He also reported a gradual onset of back pain with no injury.  (JE 3:32).  
+The lower back pain improved.  (JE 3:32).  His pain radiated to his right buttock.  (JE 
+3:32).  He was assessed with acute gastritis and chronic low back pain.  (JE 3:36).  The 
+notes indicated that Mr. Stewart went to an orthopedic appointment where he was told 
+he had no back issues.  (JE 3:36).   
+ 
+Nurse Practitioner Tekell examined Mr. Stewart on December 10, 2018, for an 
+evaluation of neck pain.  (JE 4:2).  Mr. Stewart complained that the neck pain began 
+about four months prior.  (JE 4:2).  Nothing helped relieve the pain.  (JE 4:2).  Mr. 
+Stewart also associated numbness and headaches with the pain.  (JE 4:2).  Mr. Stewart 
+told the provider that he experienced neck pain for “a couple years” but that it worsened 
+over the last few months.  (JE 4:2).  He reported seeing a neurologist for his numbness 
+and tingling.  (JE 4:2).  Nurse Practitioner Tekell reviewed an x-ray, which showed 
+advanced multilevel degenerative disc disease, most pronounced at C2-3 and C3-4.  
+(JE 4:3).  The spontaneous fusion of C5-7 was also noted.  (JE 4:3).  Nurse Practitioner 
+Tekell assessed Mr. Stewart with cervicalgia, and noted an unremarkable neurologic 
+examination.  (JE 4:3-4).  Nurse Practitioner Tekell also noted that Mr. Stewart had 
+advanced degenerative disc disease throughout his cervical spine.  (JE 4:4).  Nurse 
+Practitioner Tekell recommended physical therapy for six weeks.  (JE 4:4).   
+ 
+Mr. Stewart visited Neurology & Sleep Clinic, PLC, on December 18, 2018, 
+where Rebecca Zwanziger, A.R.N.P. examined him for complaints of “body numbness.”  
+(JE 5:1-3).  Mr. Stewart reported a headache and neck pain, and that the numbness 
+
+STEWART V. KPI CONCEPTS, LLC 
+Page 6 
+went in and out of his feet, neck, chest, and “everywhere.”  (JE 5:1).  Nurse Practitioner 
+Zwanziger found no neck stiffness or pain.  (JE 5:2).  Nurse Practitioner Zwanziger 
+recommended a bilateral lower extremity EMG, and an MRI of the brain.  (JE 5:3).   
+ 
+On December 26, 2018, Mr. Stewart returned to Community Health Centers of 
+SE Iowa with chronic complaints including a blister on his finger, neck pain, chest wall 
+pain, and nausea.  (JE 3:37-41).  He also indicated a concern with anxiety.  (JE 3:37).  
+The provider noted that Mr. Stewart had an MRI for his back and neck issues.  (JE 
+3:41).  The record noted that Mr. Stewart experienced a spontaneous fusion of C5-C7 
+based upon history.  (JE 3:41).   
+ 
+On January 24, 2019, Mr. Stewart returned to University of Iowa Hospitals and 
+Clinics due to chest pain determined to be consistent with musculoskeletal pain.  (JE 
+1:2).   
+ 
+During a February 25, 2019, visit to Community Health Centers of SE Iowa, Mr. 
+Stewart reported being struck by a forklift, which caused neck and back pain.  (JE 3:42).  
+The record noted Mr. Stewart’s history of degenerative disc disease.  (JE 3:42).   
+ 
+Mr. Stewart visited Great River Business Health on February 26, 2019, due to a 
+work incident wherein he reported standing by a part box when a forklift struck him.  (JE 
+6:1-4).  He reported pain in his lower back and cervical area.  (JE 6:1).  He considered 
+the pain severe, and described it as deep, sharp, throbbing, burning, and stiffness.  (JE 
+6:1).  Sarah Wingate, A.R.N.P. diagnosed Mr. Stewart with low back pain, and 
+unspecified injury of part of the neck.  (JE 6:2).  Nurse Practitioner Wingate placed Mr. 
+Stewart on restricted duty, and asked him to follow up in 10 days.  (JE 6:2).  Nurse 
+Practitioner Wingate restricted Mr. Stewart to limit lifting, pushing, and pulling to 10 
+pounds with both arms.  (JE 6:4).  Nurse Practitioner Wingate also provided a referral 
+for physical therapy.  (JE 6:4).  Mr. Stewart made no mention of his prior back injuries or 
+issues.  (Testimony).  He claimed that this was because they were caused by his kidney 
+problems.  (Testimony).  Mr. Stewart claimed that he could tell the difference between 
+his kidney pain and his alleged work injury issues.  (Testimony).   
+ 
+On March 7, 2019, Mr. Stewart returned to Great River Business Health for a 
+follow up examination.  (JE 6:5-6).  Mr. Stewart complained of neck and back pain of 9 
+out of 10.  (JE 6:5).  The pain was constant.  (JE 6:5).  Ice improved some of the pain.  
+(JE 6:5).  Mr. Stewart noted that he felt more pain up his back to his neck during 
+movement at work.  (JE 6:5).  Examination of Mr. Stewart’s neck and back showed 
+muscle spasm, muscle pain, and joint pain.  (JE 6:5).  The diagnoses continued to be 
+low back pain and unspecified superficial injury of the neck.  (JE 6:5).  His work 
+restrictions remained in force, and the provider requested he follow up after 4 to 5 
+sessions of physical therapy.  (JE 6:6).  The provider also prescribed cyclobenzaprine.  
+(JE 6:6).   
+ 
+Mr. Stewart commenced care with Rock Valley Physical Therapy on March 13, 
+2019, with complaints of muscle tightness and pain extending from his low back to his 
+
+STEWART V. KPI CONCEPTS, LLC 
+Page 7 
+neck.  (JE 7:1-4).  Mr. Stewart indicated that the pain was immediate and worsened 
+over the next few days.  (JE 7:1).  Bending caused some increase in pain.  (JE 7:1).   
+ 
+A March 29, 2019, note from Community Health Centers of SE Iowa indicated 
+that Mr. Stewart was discharged from Great River Medical Center on March 25, 2019, 
+for a dog bite.  (JE 3:43).  He took antibiotics and pain medications as ordered.  (JE 
+3:43).  Mr. Stewart testified that the dog bite kept him off of work for four months, and 
+included a three to four day hospitalization.  (Testimony).   
+ 
+On April 1, 2019, Mr. Stewart returned to Community Health Centers of SE Iowa 
+with a history of a dog bite and fever.  (JE 3:44-49).  The record indicated that Mr. 
+Stewart was separating his dogs from fighting, and ended up with a fractured and 
+lacerated hand.  (JE 3:44).  Mr. Stewart had surgery, and pain.  (JE 3:44).  He reported 
+running a fever for three days, as well as vomiting.  (JE 3:44).  The provider sent Mr. 
+Stewart to the emergency room.  (JE 3:49).   
+ 
+Mr. Stewart returned to Orthopaedic Specialists at Great River Health Systems 
+on April 9, 2019, where Craig A. Bottke, M.D., examined him.  (JE 4:6).  Dr. Bottke 
+noted that Mr. Stewart complained of right middle and ring finger injuries secondary to a 
+severe dog bite.  (JE 4:6).  Dr. Bottke made no mention of any neck or back pain in this 
+record.  (JE 4:6).   
+ 
+On April 16, 2019, Mr. Stewart followed up with Great River Business Health 
+where he complained of constant sharp, aching, burning, and stiffness in his neck and 
+lower back.  (JE 6:7).  He rated his pain 7 out of 10.  (JE 6:7).  Physical therapy 
+improved his pain.  (JE 6:8).  He indicated soreness when he sat for long periods of 
+time.  (JE 6:8).  Nurse Practitioner Wingate’s diagnoses remained low back pain and 
+unspecified superficial injury of the neck.  (JE 6:9).  Nurse Practitioner Wingate 
+continued restricted duty and recommended a completion of physical therapy.  (JE 6:9). 
+ 
+Mr. Stewart returned to Great River Business Health on May 29, 2019, with 
+continued complaints of lower back and neck pain.  (JE 6:11-12).  He rated his pain 6 
+out of 10, and found a little improvement since his last visit.  (JE 6:11).  Mr. Stewart 
+completed 10 sessions of physical therapy, which he noted improved his symptoms 
+slightly.  (JE 6:11).  He reported that his pain radiated up his back into his neck.  (JE 
+6:11).  Upon examination, Nurse Practitioner Wingate found muscle and joint pain, but 
+could not find muscle spasms.  (JE 6:11).  Mr. Stewart’s diagnoses remained the same.  
+(JE 6:12).  Nurse Practitioner Wingate continued Mr. Stewart’s work restrictions, but 
+also noted that Mr. Stewart remained off work until July 1, 2019, due to an unrelated 
+work incident.  (JE 6:12).  Nurse Practitioner Wingate also ordered an MRI.  (JE 6:12).   
+ 
+On July 14, 2019, Mr. Stewart reported to Great River Medical Center for an MRI 
+of the lumbar spine and cervical spine, as ordered by Nurse Practitioner Wingate.  (JE 
+6:14-17).  Pil Kang, M.D. interpreted the MRIs.  (JE 6:14-15).  Dr. Kang found disc 
+desiccation and mild to moderate disc height loss with a broad-based circumferential 
+disc bulge and very minimal effacement of the thecal sac at L3-4.  (JE 6:14).  Dr. Kang 
+also noted mild left sided neural foraminal compromise by a disc osteophyte complex.  
+
+STEWART V. KPI CONCEPTS, LLC 
+Page 8 
+(JE 6:14).  Dr. Kang found interval progression of degenerative disc disease and 
+underlying spinal stenosis at C2-3 and C3-4, and a congenital partial fusion of the C5-
+C6 levels “suggestive of Klippel-Feil syndrome.” 
+ 
+Mr. Stewart returned to Great River Business Health on June 20, 2019, after his 
+MRI with continued complaints of lower back pain and neck pain. (JE 6:18-19).  Mr. 
+Stewart reported worsening constant pain with difficulty with his range of motion.  (JE 
+6:18).  Mr. Stewart missed his previous appointment due to moving, but told Nurse 
+Practitioner Wingate that he did not lift anything heavy.  (JE 6:18).  Nurse Practitioner 
+Wingate continued to diagnose Mr. Stewart with low back pain and unspecified 
+superficial injury of the neck.  (JE 6:19).  Nurse Practitioner Wingate did not change his 
+restrictions, and noted that he continued to be off of work through July 1, 2019, due to a 
+non-work related injury.  (JE 6:20).  She also referred him to an orthopedic doctor due to 
+the MRI results.  (JE 6:20).  Subsequent notes indicated that the insurer denied the 
+relatedness of the lower back issues due to the MRI results.  (JE 6:21).  Derek Elmore, 
+the human resources and safety manager from KPI, testified that Mr. Stewart did not 
+return to his job until August 7, 2019.  (Testimony).    
+ 
+In a check box letter dated July 11, 2019, Nurse Practitioner Wingate indicated 
+that Mr. Stewart reached maximum medical improvement (“MMI”) related to the 
+February 20, 2019, work injury.  (JE 6:22).  Nurse Practitioner Wingate checked “no” 
+with regard to whether Mr. Stewart sustained any impairment from the February 20, 
+2019, work injury.  (JE 6:22).   
+ 
+Mr. Stewart called Community Health Centers of SE Iowa on August 22, 2019, 
+for a workers’ compensation injury visit.  (JE 3:51).  Mr. Stewart indicated that the claim 
+was denied.  (JE  3:51).  The nurses recommended he go to the emergency room or 
+Great River Quick Care due to it being a “legal issue.”   
+ 
+On August 22, 2019, Mr. Stewart reported to the emergency department at Great 
+River Medical Center with back and neck pain.  (JE 6:23-30).  Mr. Stewart claimed that 
+he went back to work that week, and his pain increased.  (JE 6:23).  The emergency 
+department provider limited lifting, pushing, and pulling to 10 pounds, indicated that 
+there should be no repeated bending, twisting, stooping, or reaching, and Mr. Stewart 
+should alternate standing and walking as tolerated.  (JE 6:31).  Mr. Stewart claimed that 
+KPI told him they had no work for him based upon these restrictions.  (Testimony).   
+ 
+Mr. Stewart reported to Community Health Centers of SE Iowa on August 26, 
+2019, for moderate-severe lower back, and neck pain.  (JE 3:53-59).  Mr. Stewart 
+desired a return to work and requested the same despite being in pain.  (JE 3:53).  Mr. 
+Stewart also noted his hand injury from the dog bite and that he was off work for almost 
+five months.  (JE 3:53).  The provider allowed Mr. Stewart to return to work without 
+restrictions.  (JE 3:58).  The provider also instructed Mr. Stewart to make his own 
+appointment with the orthopedic doctor.  (JE 3:58).  Mr. Stewart was diagnosed with 
+lumbar degenerative disc disease, and cervical pain.  (JE 3:60).  Mr. Stewart testified 
+that he needed to return to work and earn money, which is why he requested a release 
+to work.  (DE H).   
+
+STEWART V. KPI CONCEPTS, LLC 
+Page 9 
+ 
+On June 3, 2020, Mr. Stewart had a telehealth visit with Community Health 
+Centers of SE Iowa for continued neck and back pain over the previous several days.  
+(JE 3:61).  No injury, fall, lifting or pushing was noted.  (JE 3:61).  Mr. Stewart claimed 
+that he had a disc problem in his back.  (JE 3:61).     
+ 
+Mr. Stewart presented for an IME with Sunil Bansal, M.D., M.P.H. on August 7, 
+2020.  (CE 1:1-9).  Dr. Bansal is board certified in occupational medicine.  (CE 1:11).  
+Dr. Bansal reviewed the pertinent medical records, but of note, failed to review any 
+medical records predating the date of injury in this matter.  (CE 1:1-4).  Mr. Stewart 
+reported to Dr. Bansal that on February 20, 2019, a forklift approached him from the 
+rear, and struck him in the center of the back.  (CE 1:5).  Mr. Stewart further noted that 
+he began to fall, but was caught by a co-worker before he hit the ground.  (CE 1:5).  On 
+examination, Dr. Bansal found tenderness to Mr. Stewart’s neck over the paraspinal 
+musculature.  (CE 1:5).  Dr. Bansal also found tenderness to palpation over the lumbar 
+area.  (CE 1:5).  Dr. Bansal diagnosed Mr. Stewart with a neck strain, an L3-4 disc 
+bulge, and an aggravation of lumbar spondylosis.  (CE 1:7).  Dr. Bansal opined that Mr. 
+Stewart continued to have aching pain in his neck and back for which he took muscle 
+relaxers.  (CE 1:7).  Mr. Stewart told Dr. Bansal that bending forward aggravated the 
+pain.  (CE 1:7).  Dr. Bansal opined that the mechanism of injury was consistent with 
+causing Mr. Stewart’s back pain, and aggravating Mr. Stewart’s spondylosis.  (CE 1:7-
+8).  Dr. Bansal indicated that Mr. Stewart sustained no ratable impairment to his neck.  
+(CE 1:8).  Based upon his examination, Dr. Bansal opined that Mr. Stewart sustained a 
+5 percent whole person impairment rating based upon his radicular complaints, loss of 
+range of motion and guarding in his lower back.  (CE 1:8).  Dr. Bansal provided 
+permanent restrictions of no lifting greater than 40 pounds, and no frequent bending or 
+twisting.  (CE 1:9).  Dr. Bansal concluded that Mr. Stewart reached MMI on August 7, 
+2020, and required no additional medical care “aside from maintenance.”  (CE 1:9).   
+ 
+On August 21, 2020, Mr. Stewart reported to Great River Business Health for an 
+IME with James Milani, D.O., C.I.M.E.  (DE C:8-15).  Dr. Milani is a certified 
+independent medical examiner, and board certified in family practice.  (DE D:16-17).  
+Mr. Stewart reported his version of events, and included an allegation that his 
+supervisor “laughed” about the event.  (DE C:8).  About an hour after the incident, Mr. 
+Stewart felt the muscles in his back and neck tighten.  (DE C:8).  He reported leaving 
+work on the Wednesday of the incident, and did not return until the next Monday.  (DE 
+C:8).  At the time of the examination, Mr. Stewart reported to Dr. Milani that he ached 
+from his neck to his beltline down the center of his back.  (DE C:8-9).  Mr. Stewart told 
+Dr. Milani that if he does not perform stretching exercises, his symptoms worsen.  (DE 
+C:9).  Mr. Stewart claimed that the neck and back symptoms interfered with everything 
+he did, although they did not prevent him from performing any of his daily or work 
+activities.  (DE C:9).  Mr. Stewart reported that he loved his job at KPI.  (DE C:9).  Dr. 
+Milani reviewed the applicable medical records including those predating the work 
+incident.  (DE C:9-13).  Dr. Milani found tenderness to palpation along Mr. Stewart’s 
+spinous process.  (DE C:13).  Mr. Stewart claimed some stiffness after sitting for a short 
+time, but after moving and stretching, the stiffness resolved.  (DE C:13).  Dr. Milani also 
+found tenderness in the lumbar spinous processes.  (DE C:13).  Dr. Milani performed 
+range of motion testing to the cervical spine, thoracic spine, and lumbar spine.  (DE 
+
+STEWART V. KPI CONCEPTS, LLC 
+Page 10 
+C:14).  Dr. Milani’s diagnoses for Mr. Stewart included an acute cervical sprain/strain, 
+an acute lumbar sprain/strain, a history of chronic cervical pain, a history of chronic 
+lumbar pain, chronic cervical degenerative disc disease, cervical congenital fusion at C5 
+through C7, and lumbar degenerative disc disease.  (DE C:14).  Dr. Milani opined that 
+the acute cervical sprain/strain and acute lumbar sprain/strain were associated with the 
+February 20, 2019, work event.  (DE C:14).  Dr. Milani placed Mr. Stewart at MMI for the 
+February 20, 2019, work event, indicating that Mr. Stewart required no further treatment 
+besides routine stretching exercises.  (DE C:15).  Dr. Milani found zero percent whole 
+person impairment based upon his examination of the lumbar spine, thoracic spine, and 
+cervical spine.  (DE C:15).  Dr. Milani noted that range of motion is not a category 
+considered in impairment for this injury, and further indicated that no structural changes 
+to the back or neck were caused by this event.  (DE C:15).  Dr. Milani also noted that 
+the decreased range of motion found upon examination was due to an underlying issue 
+and not the February 20, 2019, work incident.  (DE C:15).  Dr. Milani assigned no 
+restrictions due to the February 20, 2019, work event.  (DE C:15).   
+ 
+In his deposition, Mr. Stewart noted that his spinal cord remained continuously 
+sore.  (DE H).  He also claimed that pain ran up and down his neck.  (DE H; Testimony).  
+He noted that his pain did not radiate, but localized itself to the spinal cord itself.  (DE 
+H).  Despite his history of back pain, which Mr. Stewart attributed to his kidney issues, 
+he indicated that the nature of the pain changed.  (DE H).  Despite his pain, Mr. Stewart 
+continued to do push-ups and sit-ups in addition to a recommended stretching routine 
+from his physical therapist.  (DE H).  Mr. Stewart claimed that he could not stand or 
+bend down for long periods of time because of his injury.  (DE H; Testimony).  He 
+indicated that he continued to work because he needs the money, but that it was 
+stressful for him.  (DE H).  He also indicated that he continues to experience pain every 
+day.  (DE H; Testimony).  Mr. Stewart noted that when he finishes a workday at KPI, he 
+aches, which causes him to sleep a great deal.  (Testimony).  He testified that he takes 
+muscle relaxers and ibuprofen for his back pain in order to work.  (Testimony).   
+ 
+Mr. Elmore testified that, at the time of Mr. Stewart’s work injury, he earned 
+$15.13 per hour.  (Testimony).  In May of 2019, Mr. Stewart’s pay increased to $15.43 
+per hour.  (Testimony).  In June of 2020, Mr. Stewart’s pay increased to $16.43 per 
+hour.  (Testimony).  Mr. Elmore testified that Mr. Stewart is a versatile employee who 
+can perform a number of different functions.  (Testimony).  Mr. Elmore also testified that 
+Mr. Stewart is a hard worker, who does whatever it takes to get the job done.  
+(Testimony).    
+CONCLUSIONS OF LAW 
+Permanent Disability 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is 
+probable, rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 
+
+STEWART V. KPI CONCEPTS, LLC 
+Page 11 
+148 (Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); 
+Sanchez v. Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996).   
+ 
+The question of medical causation is “essentially within the domain of expert 
+testimony.”  Cedar Rapids Cmty. Sch. Dist. V. Pease, 807 N.W.2d 839, 844-45 (Iowa 
+2011).  The commissioner, as the trier of fact, must “weigh the evidence and measure 
+the credibility of witnesses.”  Id.  The trier of fact may accept or reject expert testimony, 
+even if uncontroverted, in whole or in part.  Frye, 569 N.W.2d at 156.  When considering 
+the weight of an expert opinion, the fact-finder may consider whether the examination 
+occurred shortly after the claimant was injured, the compensation arrangement, the 
+nature and extent of the examination, the expert’s education, experience, training, and 
+practice, and “all other factors which bear upon the weight and value” of the opinion.  
+Rockwell Graphic Sys., Inc. v. Prince, 366 N.W.2d 187, 192 (Iowa 1985).  Unrebutted 
+expert medical testimony cannot be summarily rejected.  Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910 (Iowa App. 1994).  Supportive lay testimony may be used 
+to buttress expert testimony, and therefore is also relevant and material to the causation 
+question.   
+A personal injury contemplated by the workers’ compensation law means an 
+injury, the impairment of health or disease resulting from an injury which comes about, 
+not through the natural building up and tearing down of the human body, but because of 
+trauma.  The injury must be something that acts extraneously to the natural processes 
+of nature and thereby impairs the health, interrupts or otherwise destroys or damages a 
+part of all of the body.  Although many injuries have a traumatic onset, there is no 
+requirement for a special incident or an unusual occurrence.  Injuries which result from 
+cumulative trauma are compensable.  Increased disability from a prior injury, even if 
+brought about by further work, does not constitute a new injury, however.  St. Luke’s 
+Hosp. v. Gray, 604 N.W.2d 646 (Iowa 2000); Ellingson v. Fleetguard, Inc., 599 N.W.2d 
+440 (Iowa 1999); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 
+1995); McKeever Custom Cabinets v. Smith, 379 N.W.2d 368 (Iowa 1985).  An 
+occupational disease covered by chapter 85A is specifically excluded from the definition 
+of personal injury.  Iowa Code 85.61(4)(b); Iowa Code 85A.8; Iowa Code 85A.14.   
+ 
+While a claimant is not entitled to compensation for the results of a preexisting 
+injury or disease, its mere existence at the time of a subsequent injury is not a defense.  
+Rose v. John Deere Ottumwa Works, 247 Iowa 900, 76 N.W.2d 756 (1956).  If the 
+claimant had a preexisting condition or disability that is materially aggravated, 
+accelerated, worsened or lighted up so that it results in disability, the claimant is entitled 
+to recover.  Nicks v. Davenport Produce Cp., 254 Iowa 130, 115 N.W.2d 812 (1962); 
+Yeager v. Firestone Tire & Rubber Co., 253 Iowa 369, 112 N.W.2d 299 (1961). 
+ 
+In this case, Mr. Stewart has a lengthy history of complaints of lower back pain.  
+In 2003, Mr. Stewart lifted a steel beam, causing chronic low back pain.  In 2010, he 
+again complained of low back pain and visited the emergency room on at least two 
+occasions with complaints of lower back pain.  In 2016, he complained of issues with his 
+collarbone.  In 2017, he reported left lower back pain, which he related to his kidney 
+problems.  However, medical records indicate that nephrologists found no further kidney 
+
+STEWART V. KPI CONCEPTS, LLC 
+Page 12 
+issues.  Again in 2018, Mr. Stewart complained of lower back pain and had multiple 
+visits to providers complaining of lower back and neck pain.   
+ 
+On February 20, 2019, cargo on a forklift struck Mr. Stewart.  There are varying 
+descriptions of the incident, but the most plausible is that Mr. Stewart lost his balance to 
+some extent, and caught himself on a box and also with assistance from his pregnant 
+coworker, did not fall to the ground.  This indicates a mild impact from whatever cargo 
+struck Mr. Stewart.  Nevertheless, an impact occurred, and Mr. Stewart reported pain 
+shortly thereafter.  Mr. Stewart’s pain complaints were relatively consistent and were 
+followed with physical therapy.  In March of 2019, a dog bit Mr. Stewart’s hand.  This 
+caused broken bones and an infection.  Mr. Stewart required hospitalization for a short 
+period, and remained off work until August 7, 2019, when he returned to his job at KPI.  
+During the time that he remained off work, Mr. Stewart treated with Nurse Practitioner 
+Wingate for his ongoing neck and lower back complaints.  Eventually, she 
+recommended a referral to a spine doctor, but this was denied by Acuity after an MRI 
+report.  On July 11, 2019, Nurse Practitioner Wingate placed Mr. Stewart at MMI and 
+indicated later that he sustained no permanent impairment.  In late August of 2019, Mr. 
+Stewart returned to the emergency room with complaints of lower back and neck pain.  
+The emergency room physician provided him with restrictions.  Mr. Stewart claims that 
+KPI told him they could not accommodate those restrictions, so he went back to a 
+provider and had the restrictions removed because he needed to work.  After this time, 
+Mr. Stewart did not seek care for some time, based on the records in evidence.  His 
+next follow up was in June of 2020.   
+ 
+There are two IMEs in this case.  The claimant saw Dr. Bansal first.  Dr. Bansal 
+reviewed all of the pertinent records subsequent to the February 20, 2019, work 
+incident.  Dr. Bansal was either not provided, or did not review, any records from Mr. 
+Stewart’s prior lower back complaints.  Dr. Bansal opined that the work incident 
+aggravated Mr. Stewart’s lumbar spondylosis and caused a neck strain.  He provided a 
+5 percent body as a whole rating due to Mr. Stewart’s lower back complaints, but found 
+no ratable impairment to Mr. Stewart’s neck.  Dr. Bansal considered issues with range 
+of motion in his impairment rating.  Dr. Bansal also provided restrictions to include no 
+lifting more than 40 pounds, and no frequent bending or twisting.  Dr. Bansal made no 
+specific recommendations for further treatment beyond “maintenance” and indicated 
+that Mr. Stewart should continue his stretching regimen.   
+ 
+The claimant then visited Dr. Milani.  Mr. Stewart told Dr. Milani that if he does 
+not complete his stretching regimen, his back aches.  Dr. Milani examined Mr. Stewart, 
+and reviewed medical records including those from Mr. Stewart’s prior back injuries.  Dr. 
+Milani recommended no further care and provided a zero percent impairment rating to 
+the neck and back, including specifically the low back.  Dr. Milani, in a veiled criticism of 
+Dr. Bansal’s rating indicated that range of motion was not an appropriate consideration 
+in an impairment rating calculation, as there was no evidence of structural changes to 
+the back or neck caused by the work incident.   
+ 
+In this matter, I find Dr. Milani’s report more convincing than Dr. Bansal’s report.  
+First, Dr. Milani reviewed the totality of the medical records.  Mr. Stewart has a history of 
+
+STEWART V. KPI CONCEPTS, LLC 
+Page 13 
+lower back pain dating back to 2003.  While he attempts to explain away some of the 
+prior back pain complaints as related to his kidney issues, the records simply do not 
+bear out that explanation.  Therefore, Dr. Milani had the full, relevant history, on which 
+to make his report, whereas Dr. Bansal had a snapshot of only post-injury treatment.  
+Second, Dr. Milani’s rating included more detail as to his reasoning than Dr. Bansal’s.  
+Dr. Milani took the time to explain why he did not consider certain factors, such as range 
+of motion, in his report.  Finally, Dr. Milani’s report is buttressed by the rating provided 
+by a treating provider, Nurse Practitioner Wingate.  She treated Mr. Stewart for his 
+complaints, and chose to provide no impairment rating.  While I agree with the 
+claimant’s arguments that Nurse Practitioner Wingate did not perform a full rating 
+examination prior to issuing her rating, she treated and examined Mr. Stewart for some 
+time.  Therefore, her opinion is credible even if it is not the main opinion relied upon for 
+this finding.   
+ 
+Dr. Milani concluded that Mr. Stewart suffered no permanent impairment.  
+Therefore, I find that the claimant failed to carry their burden proving that Mr. Stewart’s 
+injury on February 20, 2019, caused a permanent disability.   
+ 
+Iowa Code 85.34(2)(v) states: 
+If an employee who is eligible for compensation under this paragraph 
+returns to work or is offered work for which the employee receives or 
+would receive the same or greater salary, wages, or earnings than the 
+employee received at the time of the injury, the employee shall be 
+compensated based only upon the employee’s functional impairment 
+resulting from the injury, and not in relation to the employee’s earning 
+capacity.   
+Compensation for permanent partial disability shall begin at the termination of the 
+healing period.  The healing period runs until one of three occurrences: (1) the worker 
+has returned to work; (2) the worker is medically capable of returning to substantially 
+similar employment; or, (3) the worker has achieved maximum medical recovery.  Iowa 
+Code section 84.34(1), See also Waldinger Corp. v. Mettler, 817 N.W.2d 1 (Iowa 2012); 
+Evenson v. Winnebago Industries, Inc., 881 N.W.2d 360 (Iowa 2012); Crabtree v. Tri-
+City Elec. Co., File No. 5059572 (App., March 20, 2020).  Compensation shall be paid in 
+relation to 500 weeks as the disability bears to the body as a whole.  Iowa Code section 
+85.34. 
+If the claimant carried their burden, I find that commencement for any permanent 
+disability benefits would appropriately be July 11, 2019.  July 11, 2019, is the date on 
+which Nurse Practitioner Wingate declared Mr. Stewart to reach MMI.  This occurred 
+prior to the claimant’s return to work only due to the fact that Mr. Stewart remained off 
+work at the time due to an unrelated injury to his hand.  If permanent disability benefits 
+were awarded, the commencement date would thus be July 11, 2019.   
+Upon returning to work, the evidence indicates that Mr. Stewart made the same 
+hourly rate of pay, and then received pay increases.  Therefore, if permanent disability 
+
+STEWART V. KPI CONCEPTS, LLC 
+Page 14 
+benefits were awarded, they would be awarded pursuant to Iowa Code section 
+85.34(2)(v).   
+Rate of Compensation 
+ 
+The parties have a dispute regarding the claimant’s weekly workers’ 
+compensation rate.  Iowa Code 85.36 states “[t]he basis of compensation shall be the 
+weekly earnings of the injured employee at the time of the injury.”  Weekly earnings are 
+defined as the gross salary, wages, or earnings of an employee had the employee 
+worked the customary hours for the full pay period in which the employee was injured 
+as the employer regularly required for work of employment.  Id.  The subsections of 
+Iowa Code 85.36 set forth methods for computing weekly earnings depending upon the 
+type of earnings and employment.   
+ 
+If an employee is paid on a daily, or hourly basis, or based upon output, weekly 
+earnings are computed by dividing by thirteen (13) the earnings over the thirteen (13) 
+week period immediately preceding the injury.  However, any week that does not fairly 
+reflect the employee’s customary earnings shall be replaced by the closest previous 
+week that is a fair representation of the employee’s customary earnings.  Iowa Code 
+85.36(6).  The calculation shall include shift differential pay, but not overtime or 
+premium pay in the calendar weeks immediately preceding the injury.  Id.  If the 
+employee was absent during the time period subject to calculation for personal reasons, 
+the weekly earnings are the amount the employee would have earned had the 
+employee worked when work was available to other employees in a similar occupation 
+for the employer.  Id.  For the reasons set forth above, I conclude that the claimant’s 
+gross weekly wages are $586.29.  This is based upon the information provided in 
+Defendants’ Exhibit F:20.  The rate calculated is lower than the gross weekly wage 
+alleged by the parties because it appears that the parties included overtime pay in their 
+calculation, which pursuant to the plain language of the statute, should not be included.  
+The claimant is single and entitled to one exemption.  Thus, the claimant’s weekly 
+workers’ compensation rate is three hundred seventy four and 88/100 dollars ($374.88).   
+Alternate Care Pursuant to Iowa Code section 85.27 
+Iowa Code section 85.27(4) provides, in relevant part: 
+For purposes of this section, the employer is obliged to furnish reasonable 
+services and supplies to treat an injured employee, and has the right to 
+choose the care….  The treatment must be offered promptly and be 
+reasonably suited to treat the injury without undue inconvenience to the 
+employee.  If the employee has reason to be dissatisfied with the care 
+offered, the employee should communicate the basis of such dissatisfaction 
+to the employer, in writing if requested, following which the employer and 
+the employee may agree to alternate care reasonably suited to treat the 
+injury.  If the employer and employee cannot agree on such alternate care, 
+the commissioner may, upon application and reasonable proofs of the 
+necessity therefor, allow and order other care.   
+
+STEWART V. KPI CONCEPTS, LLC 
+Page 15 
+The employer has the right to choose the provider of care, except where the employer 
+has denied liability for the injury.  Iowa Code section 85.27.  Holbert v. Townsend 
+Engineering Co., Thirty-second Biennial Report of the Industrial Commissioner 78 
+(Review-Reopening, October 16, 1975).  An employer’s right to select the provider of 
+medical treatment to an injured worker does not include the right to determine how an 
+injured worker should be diagnosed, evaluated, treated, or other matters of professional 
+medical judgment.  Assmann v. Blue Star Foods, File No. 866389 (Declaratory Ruling, 
+May 19, 1988).  Reasonable care includes care necessary to diagnose the condition 
+and defendants are not entitled to interfere with the medical judgment of its own treating 
+physician.  Pote v. Mickow Corp., File No. 694639 (Review-Reopening Decision, June 
+17, 1986).   
+ 
+By challenging the employer’s choice of treatment - and seeking alternate care – 
+claimant assumes the burden of proving the authorized care is unreasonable.  See e.g. 
+Iowa R. App. P. 14(f)(5); Bell Bros. Heating and Air Conditioning v. Gwinn, 779 N.W.2d 
+193, 209 (Iowa 2010); Long v. Roberts Dairy Co., 528 N.W.2d 122 (Iowa 1995).  
+Determining what care is reasonable under the statute is a question of fact.  Long v. 
+Roberts Dairy Co., 528 N.W.2d 122 (Iowa 1995). 
+ 
+An application for alternate medical care is not automatically sustained because 
+claimant is dissatisfied with the care he has been receiving.  Mere dissatisfaction with 
+the medical care is not ample grounds for granting an application for alternate medical 
+care.  Rather, the claimant must show that the care was not offered promptly, was not 
+reasonably suited to treat the injury, or that care was unduly inconvenient for the 
+claimant.  Id.  Because “the employer’s obligation under the statute turns on the 
+question of reasonable necessity, not desirability,” and injured employee’s 
+dissatisfaction with employer-provided care, standing alone, is not enough to find such 
+care unreasonable.  Id.  Reasonable care includes care necessary to diagnose the 
+condition, and defendants are not entitled to interfere with the medical judgement of its 
+own treating physician.  Pote v. Mickow Corp., File No. 694639 (Review-Reopening 
+Decision, June 17, 1986). 
+ 
+The claimant contends that he wishes to have care ordered pursuant to the 
+recommendation of Nurse Practitioner Wingate at the time of the denial issued by Acuity 
+in this case.  Nurse Practitioner Wingate’s recommendation occurred on June 20, 2019, 
+over one year prior to the evaluation by Dr. Bansal.  Dr. Bansal recommended 
+“maintenance” for Mr. Stewart’s condition, but did not define what that included.  
+Without defining further what “maintenance” means, it is not clear what further care Dr. 
+Bansal recommends.  Therefore, I find that the claimant failed to meet their burden of 
+proof, and decline to order provision of alternate care pursuant to Iowa Code section 
+85.27.   
+Costs 
+Claimant seeks the award of costs as outlined in Claimant’s Exhibit 8.  Costs are 
+assessed at the discretion of the deputy commissioner hearing the case.  See 876 Iowa 
+
+STEWART V. KPI CONCEPTS, LLC 
+Page 16 
+Administrative Code 4.33; Iowa Code 86.40.  876 Iowa Administrative Code 4.33(6) 
+provides:  
+[c]osts taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+reviewing health service disputes.   
+The administrative rule expressly allows for the taxation of costs for a filing fee.  In 
+this matter, the filing fee is $100.00.  I decline, in my discretion, to award costs in 
+this matter.   
+ORDER 
+ 
+THEREFORE, IT IS ORDERED: 
+The claimant shall take nothing regarding permanent disability. 
+The claimant’s request for alternate care is denied. 
+The claimant’s gross earnings are five hundred eighty six and 29/100 dollars 
+($586.29), which translates to a weekly compensation rate of three hundred seventy 
+four and 88/100 dollars ($374.88).   
+The parties shall bear their own costs. 
+That defendants shall be given credit for benefits previously paid, as stipulated 
+That defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to 876 IAC 3.1(2) and 876 IAC 11.7.   
+Signed and filed this 30th day of November, 2020. 
+   ANDREW M. PHILLIPS 
+               DEPUTY WORKERS’ 
+     COMPENSATION COMMISSIONER 
+
+STEWART V. KPI CONCEPTS, LLC 
+Page 17 
+ 
+The parties have been served, as follows: 
+Coreen Sweeney (via WCES) 
+Eric Loney (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal: This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Division of Workers’ Compensation to file documents in paper form.  If such permission has 
+been granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, 
+Iowa Division of Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of 
+appeal must be received by the Division of Workers’ Compensation within 20 days from the date of the decision.  
+The appeal period will be extended to the next business day if the last day to appeal falls on a weekend or legal 
+holiday. 

@@ -1,0 +1,128 @@
+Case Number: 5064897
+Case Title:  MARTIN, RICKY V. EARLING GRAIN AND FEED
+Doc Type:    Decision - Court of Appeals
+Source:      Martin, Ricky-5064897.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 21-1446 
+Filed March 30, 2022 
+ 
+ 
+EARLING GRAIN AND FEED and FIREMENS INSURANCE CO. OF 
+WASHINGTON DC, 
+ 
+Petitioners-Appellants, 
+ 
+vs. 
+ 
+RICKY MARTIN, 
+ 
+Respondent-Appellee. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, William P. Kelly, Judge. 
+ 
+ 
+An employer and its insurer appeal from a district court ruling upholding the 
+workers’ compensation commissioner’s decision.  AFFIRMED. 
+ 
+ 
+ 
+D. Brian Scieszinski of Bradshaw, Fowler, Proctor & Fairgrave, P.C., Des 
+Moines, for appellants. 
+ 
+Corey J.L. Walker of Walker, Billingsley & Bair, Newton, for appellee. 
+ 
+ 
+Considered by Schumacher, P.J., Ahlers, J., and Doyle, S.J.* 
+ 
+*Senior judge assigned by order pursuant to Iowa Code section 602.9206 
+(2022). 
+
+ 
+2
+DOYLE, Senior Judge. 
+ 
+Earling Grain and Feed and Firemens Insurance Company of Washington 
+DC appeal from an adverse ruling by the district court on their petition for judicial 
+review of the Iowa Workers’ Compensation Commissioner’s decision awarding 
+Ricky Martin permanent total disability benefits.  They contend the commissioner 
+erred by finding Martin sustained a permanent total disability, arguing Martin has 
+not reached maximum medical improvement (MMI).  They also challenge the 
+finding that Martin’s injuries are causally related to a work-related accident. 
+ 
+To begin, we note that our review of final agency action is “severely 
+circumscribed.”  Sellers v. Emp. Appeal Bd., 531 N.W.2d 645, 646 (Iowa Ct. App. 
+1995).  Nearly all disputes are won or lost at the agency level; the cardinal rule of 
+administrative law is that judgment calls are within the province of the 
+administrative tribunal, not the courts.  See id. 
+ 
+In the realm of workers’ compensation proceedings, it is the job of the 
+workers’ compensation commissioner—not the court—to weigh the evidence and 
+measure the credibility of witnesses.  See Cedar Rapids Cmty. Sch. Dist. v. Pease, 
+807 N.W.2d 839, 845 (Iowa 2011).  This includes questions of whether to accept 
+expert opinions and the amount of weight to accord them.  See id.  Medical 
+causation is a question of fact vested in the commissioner’s discretion.  See id. at 
+844.  Because these determinations remain within the agency’s exclusive domain 
+and the “peculiar province” of the commissioner, we cannot reassess the weight 
+of the evidence.  See id.; see also Robbennolt v. Snap–On Tools Corp., 555 
+N.W.2d 229, 234 (Iowa 1996).  In fact, “we are obliged to broadly and liberally 
+apply those findings to uphold rather than defeat the commissioner’s decision.”  
+
+ 
+3
+Pirelli–Armstrong Tire Co. v. Reynolds, 562 N.W.2d 433, 436 (Iowa 1997) (citation 
+and internal quotation marks omitted). 
+ 
+The agency’s fact findings are binding on us “if they are supported by 
+substantial evidence in the record before the court when that record is viewed as 
+a whole.”  Mike Brooks, Inc. v. House, 843 N.W.2d 885, 889 (2014) (internal 
+quotation marks and citation omitted).  “Substantial evidence” is “the quantity and 
+quality of evidence that would be deemed sufficient by a neutral, detached, and 
+reasonable person, to establish the fact at issue when the consequences resulting 
+from the establishment of that fact are understood to be serious and of great 
+importance.”  Iowa Code § 17A.19(10)(f)(1) (2021).  We do not determine “whether 
+evidence ‘trumps’ other evidence or whether one piece of evidence is ‘qualitatively 
+weaker’ than another piece of evidence.”  Arndt v. City of Le Claire, 728 N.W.2d 
+389, 394 (Iowa 2007).  Nor do we determine whether the evidence could support 
+a different finding.  See House, 843 N.W.2d at 889.  Instead, the only question is 
+whether substantial evidence supports the findings the agency made.  See id.  If 
+we, like the district court, conclude the commissioner’s findings are supported by 
+substantial evidence, we affirm.  See Neal v. Annett Holdings, Inc., 814 N.W.2d 
+512, 518 (Iowa 2012). 
+ 
+As the parties challenging the agency action, the appellants bear the burden 
+of proof.  See Good v. Iowa Dep’t of Hum. Servs., 924 N.W.2d 853, 860 (Iowa 
+2019).  And it is a high burden.  See McComas-Lacina Constr. v. Drake, No. 15-
+0922, 2016 WL 2744948, at *1 (Iowa Ct. App. May 11, 2016) (“A case reversing 
+final agency action on the ground the agency’s action is unsupported by substantial 
+evidence . . . is the Bigfoot of the legal community—an urban legend, rumored to 
+
+ 
+4
+exist but never confirmed.”).  The appellants repeat the same arguments raised 
+before and rejected by both the agency and district court.  On the issue of MMI, 
+the appellants emphasize the testimony of one expert who opined Martin’s 
+condition might improve with further treatment.1  But, as the district court noted, 
+the commissioner gave greater weight to the expert who opined Martin reached 
+MMI in August 2019.  And on the causality issue, the appellants highlight all 
+possible inconsistencies in Martin’s medical complaints.  But the district court again 
+noted the commissioner assigned greater credibility to the medical experts who 
+found a causal connection between Martin’s injuries and the work-related incident. 
+ 
+In applying the above standard-of-review precepts, and in giving the due 
+deference we are statutorily obligated to afford the commissioner’s findings of fact, 
+we approve of the reasons and conclusions in the district court’s ruling.  Further 
+discussion of the issues would be of no value.  See Iowa Ct. R. 21.26(1)(b), (d), 
+and (e).  For these reasons, we affirm the district court’s decision affirming the 
+Iowa Workers’ Compensation Commissioner’s decision. 
+ 
+AFFIRMED. 
+ 
+                                            
+1 The district court highlighted that testimony, which is speculative and concludes 
+with the expert stating that additional treatment “[m]ight improve [Martin’s] pain” 
+but “[w]on’t improve the other aspects of his condition.” 

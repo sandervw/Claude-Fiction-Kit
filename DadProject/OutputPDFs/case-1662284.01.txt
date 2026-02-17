@@ -1,0 +1,918 @@
+Case Number: 1662284.01
+Case Title:  LYNCH, GEORGE V. OUTDOOR GROUP LLC/2ND INJ-FUND
+Doc Type:    Decision - Deputy
+Source:      Lynch George-1662284.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+GEORGE LYNCH, 
+  : 
+ 
+ 
+  :                      File No. 1662284.01 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :  
+OUTDOOR GROUP, LLC, 
+  : 
+ 
+ 
+  :   
+ 
+Employer, 
+  : 
+        ARBITRATION DECISION 
+ 
+ 
+  :   
+and 
+ 
+  : 
+ 
+ 
+  : 
+THE CHARTER OAK FIRE INS. CO., 
+  : 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  : 
+ 
+ 
+  : 
+SECOND INJURY FUND OF IOWA, 
+  :       Head Note No.:  1402.40, 1803.1, 
+ 
+ 
+  : 
+ 
+ 
+    1803, 1804, 3202 
+ 
+Defendants. 
+  :  
+______________________________________________________________________ 
+Claimant George Lynch filed a petition in arbitration on April 13, 2020, alleging he 
+sustained injuries to the right side of his neck, right shoulder, right arm, right wrist, right 
+hand, and mental health while working for Defendant Outdoor Group LLC (“Outdoor 
+Group”) on March 5, 2018.  Lynch also stated a claim against Defendant Second Injury 
+Fund of Iowa (“Fund”) alleging a first loss to his right knee on July 24, 2012.  On April 
+29, 2020, Outdoor Group and its insurer, Defendant The Charter Oak Fire Insurance 
+Company (“Charter Oak”), filed an answer admitting Lynch sustained a work injury.  On 
+May 6, 2020, the Fund filed an answer. 
+An arbitration hearing was held via CourtCall video conference on June 8, 2021.  
+Attorney Randall Schueller represented Lynch.  Lynch appeared and testified.  Attorney 
+Julie Burger represented Outdoor Group and Charter Oak.  Assistant Attorney General 
+Meredith Cooney represented the Fund.  Joint Exhibits (“JE”) 1 through 13, and Exhibits 
+1 through 4, A through D, and AA through EE were admitted into the record.  The record 
+was held open through June 23, 2021, for the receipt of post-hearing briefs.  The briefs 
+were received and the record was closed. 
+The parties submitted a Hearing Report, listing stipulations and issues to be 
+decided.  The Hearing Report was approved and filed at the conclusion of the hearing.  
+Outdoor Group, Charter Oak, and the Fund waived all affirmative defenses.   
+ 
+ 
+ELECTRONICALLY FILED     2021-Dec-03  15:12:11     DIVISION OF WORKERS' COMPENSATION
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 2 
+STIPULATIONS 
+1. 
+An employer-employee relationship existed between Outdoor Group and 
+Lynch at the time of the alleged injury. 
+2. 
+Lynch sustained an injury, which arose out of and in the course of his 
+employment with the Outdoor Group on March 5, 2018. 
+3. 
+The alleged injury is a cause of temporary disability during a period of 
+recovery. 
+4. 
+Temporary benefits are no longer in dispute. 
+5. 
+The alleged injury is a cause of permanent disability. 
+6. 
+The commencement date for permanent partial disability benefits as to the 
+claim against Outdoor Group and Charter Oak is March 25, 2020. 
+7. 
+At the time of the alleged injury Lynch’s gross earnings were $1,538.46 
+per week, he was single and entitled to one exemption, and the parties believe the 
+weekly rate is $936.80.   
+8. 
+Prior to the hearing Lynch was paid one week of compensation at the rate 
+of $936.80 per week.   
+9. 
+Lynch sustained a prior qualifying loss to the right leg on July 24, 2012. 
+10. 
+The functional loss from the prior qualifying loss is 37 percent of the right 
+lower extremity. 
+11. 
+In his post-hearing brief, Lynch stipulated that if Lynch is not permanently 
+and totally disabled with respect to his claims against the Outdoor Group and Charter 
+Oak or the Fund, the Fund is entitled to a credit of 103.9 weeks and the commencement 
+date for permanent partial disability benefits against the Fund is August 15, 2020. 
+12. 
+Outdoor Group and Charter Oak agreed to pay the cost of Dr. Bansal’s 
+independent medical examination. 
+ISSUES 
+1. 
+What is the nature of the injury? 
+2. 
+What is the extent of disability? 
+3. 
+Did Lynch sustain a compensable loss to the right upper extremity on 
+March 5, 2018? 
+4. 
+If Lynch sustained a compensable loss to the right upper extremity on 
+March 5, 2018, what is the functional loss? 
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 3 
+5. 
+Is Lynch entitled to benefits from the Fund? 
+6. 
+If Lynch is entitled to benefits from the Fund, what is the commencement 
+date for permanent partial disability benefits? 
+FINDINGS OF FACT 
+Lynch lives in Melrose, Iowa.  (Transcript, page 10)  Lynch graduated from high 
+school in Michigan in 1977.  (Exhibits. 2, p. 3, 12; Tr., p. 11)  Lynch has not attended 
+any schooling since he graduated from high school.  (Tr., p. 12)  At the time of the 
+hearing he was 61.  (Tr., p. 10)   
+After graduating from high school Lynch worked as a delivery driver for one year.  
+(Exs. 2, p. 4; 3, p. 13)  From 1978 through 1986, Lynch worked as a head 
+groundskeeper and in maintenance for a college in Michigan until his position was 
+eliminated.  (Exs. 2, p. 4; 3, p. 13; Tr., p. 12)  From 1986 through 2002 he worked for 
+Simplex Products in manufacturing and research and development until his division was 
+sold to a competitor.  (Exs. 2, p. 4; 3, p. 13)  During most of his time at Simplex 
+Products Lynch worked in a supervisory role.  (Tr., p. 56)  From 2002 until 2003 he 
+worked for Senergy in manufacturing setup and research and development.  (Exs. 2, p. 
+4; 3, p. 14)  Lynch left because of the extensive travel requirements.  (Exs. 2, p. 4; 3, p. 
+14)  Lynch next worked for Ford Motor Company in manufacturing and supervising 
+employees.  (Exs. 2, p. 5; 3, p. 14; Tr., p. 53)  From 2004 through 2005 he worked as a 
+sales manager for Masterwall until his position was eliminated due to bankruptcy.  (Exs. 
+2, p. 5; 3, p. 14)   
+From 2005 through February 2016, Lynch operated Lynch Mob Calls, making 
+and tuning duck and goose calls.  (Exs. DD, p. 21; 2, p. 5; 3, p. 14; Tr., p. 13)  Duck and 
+goose calls are like musical instruments that contain reeds and have to be tuned.  
+Lynch’s now ex-wife was the owner of Lynch Mob Calls and Lynch did not receive a 
+salary from the business.  (Ex. DD, p. 21)  In 2006 Lynch began receiving Social 
+Security Disability Insurance (“SSDI”) benefits for a heart condition.  (Tr., p. 21)   
+On July 12, 2012, Lynch attended an appointment with Glenn Whitted, M.D., 
+complaining of right knee pain.  (JE 1, pp. 1-2)  Lynch reported having knee surgery 
+about 25 years before and reported he was experiencing worsening pain and problems 
+with ambulation due to his pain.  (JE 1, p. 2)  Dr. Whitted noted he had an antalgic gait 
+on the right and assessed Lynch with advanced osteoarthritis of the right knee and a 
+significant history of coronary artery disease.  (JE 1, p. 2)  Dr. Whitted prescribed Zipsor 
+and recommended a total knee replacement.  (JE 1, p. 2)  Lynch underwent a total right 
+knee replacement on July 24, 2012.  (JE 1, p. 4; Tr., p. 16)  Lynch testified his recovery 
+after surgery was difficult and he underwent two rounds of physical therapy.  (Tr., pp. 
+16-18)   
+Lynch was in the process of going through a divorce and Outdoor Group 
+approached him about selling Lynch Mob Calls.  (Tr., p. 21)  Outdoor Group sells 
+hunting equipment.  (Tr., pp. 18-19)  In February 2016, Lynch sold Lynch Mob Calls to 
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 4 
+Outdoor Group and he agreed to work for Outdoor Group.  (Exs. 2, p. 5; 3, p. 14; Tr., p. 
+15)  Outdoor Group agreed to pay Lynch a salary of $80,000.00 per year, plus royalties 
+based on sales under a five year contract.  (Exs. 2, p. 5; 3, p. 15; Tr., pp. 16, 19)  
+Lynch’s contract was scheduled to end in 2021.  (Tr., p. 41)  Lynch was still receiving 
+SSDI benefits for his heart condition at the time he sold Lynch Mob Calls.  (Tr., p. 21)  
+After he commenced employment with Outdoor Group Lynch’s SSDI benefits ceased.  
+(Tr., p. 22)  Lynch worked with the salesmen and he went on sales calls and attended 
+trade shows.  (Tr., p. 18)   
+Lynch testified on March 5, 2018, he was having constant pain in his right hand 
+and elbow from tuning calls.  (Tr., p. 23)  Lynch relayed many of the calls were out of 
+specification and he had a difficult time twisting the calls and getting them apart.  (Tr., p. 
+23)  Lynch approached Ann Spinney who worked in human resources for Outdoor 
+Group and reported he was having problems with his right upper extremity.  (Tr., pp. 23-
+24)   
+Lynch testified he has not worked since March 5, 2018.  (Tr., p. 27)  Lynch 
+relayed he received $80,000.00 in 2016 and in 2017, and the full amount of his monthly 
+payments for a few months in 2018, until his work injury.  (Tr., p. 77)  He did not receive 
+any payments under the contract with Outdoor Group in 2019, 2020, or 2021.  (Tr., pp. 
+77-78) 
+On March 20, 2019, Lynch presented to Gregory Bellisari, M.D., with Orthopedic 
+One in Ohio, complaining of right elbow pain for the past six months that had been 
+getting progressively worse with numbness and tingling radiating from his shoulder into 
+his arm and down his hand and fingertips, with the most tender spot on the medial side.  
+(JE 2, p. 8)  Lynch reported he engaged in a lot of gripping and twisting when working 
+with bird calls, which caused him to have significant pain and numbness.  (JE 2, p. 8)  
+Dr. Bellisari assessed Lynch with right elbow medial epicondylitis and right cubital 
+tunnel syndrome, noted Lynch’s symptoms were likely coming from cubital tunnel and 
+cervical radiculopathy consistent with double crush syndrome, recommended he rest 
+from doing repetitive work with his hands, recommended stretching and strengthening 
+exercises with physical therapy, and prescribed topical Pennsaid.  (JE 2, p. 9) 
+On April 1, 2019, Lynch underwent cervical spine magnetic resonance imaging.  
+(JE 2, p. 13)  The reviewing radiologist listed an impression of: 
+1. 
+Severe facet arthropathy on the right at C5-C6 with a small 
+joint effusion and reactive bone marrow edema in the facets suggesting 
+abnormal mechanical stress in this location.  Facet hypertrophy on the 
+right results in moderate foraminal narrowing. 
+2. 
+Moderate facet arthropathy on the right at C4-C5.  Facet 
+hypertrophy results in moderate right foraminal narrowing. 
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 5 
+3. 
+Disc bulge and annular tear at C6-C7 without spinal 
+stenosis.  Facet hypertrophy and uncovertebral osteophyte on the right 
+results in moderate right foraminal narrowing at this level. 
+4. 
+No significant spinal canal stenosis at any level. 
+(JE 2, p. 14)   
+On May 7, 2019, Lynch attended an appointment with Kellie Butler, NP, 
+complaining of right elbow, wrist, and right hand pain and swelling.  (JE 3, p. 25)  Lynch 
+reported the pain started after he performed repetitive motions while tuning duck calls.  
+(JE 3, p. 25)  Butler examined Lynch and diagnosed him with left elbow medial 
+epicondylitis and imposed restrictions of no lifting over 10 pounds per day, lifting up to 
+10 pounds up to three hours per day, no pushing or pulling, working with hot substances 
+up to eight hours per day, and working no more than 10 hours per day or 50 hours per 
+week.  (JE 3, pp. 25-28)   
+Lynch underwent right upper extremity nerve conduction studies on May 8, 2019 
+with William Fitz, M.D., with Orthopedic One.  (JE 2, p. 15)  Dr. Fitz noted the studies 
+“showed evidence of a moderate severity right median neuropathy at the wrist.  No 
+evidence of radiculopathy, plexopathy or ulnar neuropathy right upper extremity,” and 
+noted he was tender over the medial and lateral epicondyle on exam.  (JE 2, p. 15) 
+On May 13, 2019, Lynch returned to Butler, complaining of right elbow, wrist, and 
+right hand pain.  (JE 3, p. 29)  Lynch reported his symptoms were unchanged and were 
+exacerbated by direct pressure, gripping, lifting, motion at the elbow, motion at the wrist, 
+throwing and wrist movement, but not with arm extension, rotation of the forearm or 
+when using the hand or fingers.  (JE 3, p. 30)  Butler found Lynch was 50 percent of the 
+way toward meeting the physical requirements of his job and continued his restrictions.  
+(JE 3, pp. 31-32)   
+On May 20, 2019, Lynch attended an appointment with Michael Rerko, M.D., with 
+Orthopedic One, regarding his right upper extremity problems.  (JE 2, p. 16)  Dr. Rerko 
+assessed Lynch with right wrist carpal tunnel syndrome, right elbow medial 
+epicondylitis, and right lateral epicondylitis, and administered a Kenalog injection into 
+the right carpal tunnel.  (JE 2, pp. 16-17)    
+Lynch returned to Orthopedic One on May 23, 2019, and he was examined by 
+Kelley Clem, M.D., for a diagnostic ultrasound of the right elbow.  (JE 2, p. 19)  Dr. Clem 
+noted Lynch had persistent pain localized in the medial and lateral aspect of his elbow 
+with gripping and grasping activities.  (JE 2, p. 19)  Dr. Clem noted the lateral elbow 
+diagnostic ultrasound on the right showed his radiocapitellar joint was normal, his radial 
+collateral ligament was intact, and that he had severe extensor carpi radialis brevis.  (JE 
+2, p. 20)  Dr. Clem found the right elbow diagnostic ultrasound showed his ulnar nerve 
+was normal with no subluxation, and that he had moderate to severe tendinopathy of 
+the common flexor tendon.  (JE 2, p. 20)   
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 6 
+On June 6, 2019, Lynch attended an appointment with Dr. Rerko.  (JE 2, p. 21)  
+Dr. Rerko noted it was difficult to tell how much of his hand numbness and tingling was 
+due to carpal tunnel syndrome versus a possible neck impingement and that given he 
+received no improvement from the carpal tunnel injection, the chance of a full recovery 
+from a carpal tunnel release surgery was unpredictable.  (JE 2, p. 21)  Lynch relayed he 
+wanted to proceed with surgery.  (JE 2, p. 21)  Dr. Rerko performed a right carpal tunnel 
+release on Lynch on June 25, 2019.  (JE 5, p. 47)   
+Lynch returned to Dr. Rerko on July 29, 2019, regarding his right wrist and hand, 
+reporting his numbness and tingling had improved somewhat, but he still had difficulty 
+gripping and lifting, and complaining of right thumb basilar pain and finger stiffness and 
+pain over the A1 pulleys of the middle, ring, and small fingers.  (JE 2, p. 23)  Dr. Rerko 
+assessed Lynch with trigger middle, ring, and little fingers for the right hand, and 
+primary osteoarthritis of the first carpometacarpal joint of the right hand.  (JE 2, p. 23)  
+Dr. Rerko discussed splinting and injections with Lynch and Lynch underwent a right 
+thumb CMC joint injection.  (JE 2, p. 23)   
+After moving to Iowa from Ohio, Lynch attended an appointment with Jeffrey 
+Rodgers, M.D., with Des Moines Orthopaedic Surgeons, reporting his numbness 
+improved after right carpal tunnel release surgery.  (JE 6, p. 49)  Lynch relayed he 
+continued to have soreness in his palm, pain opening jars and reaching for door 
+handles, stiffness in his hand in the morning, pain in his medial elbow, and pain with 
+lifting.  (JE 6, p. 49)  Lynch reported some improvement since he had been off work.  
+(JE 6, p. 49)  Dr. Rodgers examined Lynch, assessed him with scar tenderness post 
+carpal tunnel release and right medial elbow tendinopathy, noted his palm tenderness 
+should improve over time, found it was fine to stop therapy given it was causing pain, 
+and discussed Tenex treatment for his elbow condition.  (JE 6, p. 50) 
+On October 2, 2019, Lynch attended a right medial Tenex tenotomy consultation 
+with Olaf Kaufman, M.D.  (JE 4, p. 41)  Dr. Kaufman ordered a right upper extremity 
+ultrasound, which he noted demonstrated moderate hypoechoic changes and thickening 
+of the right common flexor tendon and a tiny insertion enthesophyte.  (JE 4, p. 44)  Dr. 
+Kaufman examined Lynch, listed an impression of moderate right medial epicondylitis, 
+and stated that he would likely benefit from a right medial Tenex tenotomy procedure.  
+(JE 4, pp. 42-44)  Dr. Kaufman performed a percutaneous tenotomy of the right 
+common flexor tendon under ultrasound on October 30, 2019.  (JE 7, p. 51)   
+On November 21, 2019, Lynch returned to Dr. Kaufman’s office and was 
+examined by Rebecca Miller, P.A. (JE 4, p. 45)  Miller documented Lynch had 
+undergone a Tenex tenotomy four weeks ago and he was reporting his pain was worse 
+since the procedure.  (JE 4, p. 45)  Lynch complained of swelling in his medial 
+epicondyle and burning pain radiating to his fingers, stiffness, swelling, and a funny 
+feeling in his third and fourth digits, and decreased grip strength.  (JE 4, p. 45)  Miller 
+documented Dr. Kaufman stated it may take a while for the discomfort to resolve.  (JE 4, 
+p. 45)  Miller ordered physical therapy, prescribed meloxicam, and recommended Lynch 
+avoid activities with rotation and repetition and to continue to minimize use of his right 
+upper extremity.  (JE 4, p. 45)   
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 7 
+Lynch attended an appointment with John Piper, M.D., with the Iowa Clinic on 
+January 9, 2020, complaining of increased right-sided, sharp neck pain radiating up to 
+his right ear and down to his shoulder blade.  (JE 9, p. 54)  Lynch also complained his 
+right arm was burning, he was experiencing numbness tingling in his right hand and 
+weakness, and he had bilateral hand swelling.  (JE 9, p. 54)  Dr. Piper examined Lynch, 
+assessed Lynch with cervico-occipital neuralgia of the right side, noted he had 
+previously referred Lynch for a pain consult, which did not occur, and recommended a 
+pain consult.  (JE 9, pp. 55-56)   
+On January 20, 2020, Lynch attended a pain consult with Kellie Gates, M.D., with 
+the Iowa Clinic, complaining of posterior neck pain radiating into the right trapezius to 
+the right shoulder blade and into his right shoulder.  (JE 9, p. 57)  Lynch reported he 
+sometimes had shooting pain into his right ear and bilateral hand numbness.  (JE 9, p. 
+57)  Dr. Gates examined Lynch, noted cervical spine magnetic resonance imaging from 
+April 2019 showed multiple levels of facet arthrosis, most significantly on the right at C5-
+6 with fluid at the joint level, noted he had undergone cervical radiofrequency ablation 
+that did not provide much benefit, assessed him with spondylosis of the cervical region 
+without myelopathy or radiculopathy, cervico-occipital neuralgia of the right side, 
+myofascial pain, and occipital neuralgia of the right side, and ordered physical therapy, 
+a myofascial release and dry needling, and trigger point and occipital nerve blocks.  (JE 
+9, pp. 57-60)   
+Lynch returned to Dr. Gates on January 29, 2020, complaining of pain in the 
+back of his head radiating up and down into his right trapezius and right shoulder blade, 
+right arm pain down to his right hand with numbness in his right hand.  (JE 9, p. 62)  Dr. 
+Gates assessed Lynch with occipital neuralgia of the right side and myofascial pain, and 
+performed an occipital nerve injection.  (JE 9, pp. 62-63)   
+On February 25, 2020, Lynch attended an appointment with Dr. Gates reporting 
+he felt like someone had stabbed him with a knife that night, and that his occipital nerve 
+injection lasted about one week.  (JE 9, p. 65)  Dr. Gates examined Lynch, assessed 
+him with occipital neuralgia of the right side and spondylosis of the cervical region 
+without myelopathy or radiculopathy, ordered brain magnetic resonance imaging, and 
+prescribed gabapentin, inversion exercises and physical therapy.  (JE 9, pp. 65-69)   
+Benjamin Paulson, M.D., an orthopedic surgeon, conducted an independent 
+medical examination for Outdoor Group and Charter Oak on March 12, 2020.  (JE 10)  
+Dr. Paulson examined Lynch and assessed him with status post carpal tunnel release 
+and right elbow medial epicondylitis.  (JE 10)  Dr. Paulson found Lynch has ongoing 
+pain in his right medial elbow, which is consistent with right medial epicondylitis and 
+stated he believed his ongoing symptoms are the same disease process that started 
+with his initial injury on March 5, 2018.  (JE 10, p. 82)  Dr. Paulson documented Lynch 
+continues to have pain in his right medial elbow and noted medial epicondylitis is very 
+challenging to treat and is self-limiting in nature.  (JE 10, p. 82)  Dr. Paulson 
+recommended Lynch receive corticosteroid injections up to every three months for pain 
+relief or he may try braces to see if they provide relief.  (JE 10, p. 82)  Using Figures 16-
+34 and 16-37 of the Guides to the Evaluation of Permanent Impairment (AMA Press, 5th 
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 8 
+Ed. 2001) (“AMA Guides”), Dr. Paulson assigned a zero percent permanent impairment 
+of the right upper extremity and recommended no change in restrictions.  (JE 10, pp. 82, 
+84)   
+In response to an inquiry from the representative for Outdoor Group and Charter 
+Oak, Dr. Paulson sent a letter on March 19, 2020, opining Lynch reached maximum 
+medical improvement the date of his examination, March 12, 2020, and finding while 
+Lynch remains symptomatic for right medical epicondylitis, his condition is self-limiting in 
+nature and he “would expect the patient to have no permanent restrictions at this time.”  
+(JE 10, p. 85)   
+Outdoor Group terminated Lynch’s employment in March 2020.  (Exs. 2, p. 11; 4; 
+Tr., p. 15)  Outdoor Group informed Lynch he was being terminated because of the 
+Covid-19 crisis.  (Ex. 4)  After Outdoor Group terminated Lynch, Lynch reapplied for 
+SSDI benefits and his benefits were reinstated based on his heart condition.  (Ex. EE, p. 
+48; Tr., pp. 22-23, 70)  Lynch agreed his SSDI benefits were not reinstated based on his 
+knee, right upper extremity, or neck conditions.  (Tr., p. 70)  Lynch testified he has not 
+worked since his termination.  (Tr., pp. 15, 23) 
+On May 21, 2020, Dr. Kaufman imposed restrictions of no lifting over 15 pounds, 
+and to avoid repetitive and rotated motion.  (JE 4, p. 46)   
+On December 2, 2020, Lynch attended an appointment with Jun Xu, M.D., with 
+the Iowa Clinic, complaining of right sided cervical pain radiating into the right side of 
+the trapezius and medial aspect of the scapula on the right side and distal arm and 
+numbness in his arm.  (JE 9, p. 70)  Dr. Xu documented Lynch reported having diffuse 
+pain in his joints, including his bilateral hands, shoulder, knees, and the left side plantar 
+aspect of his foot.  (JE 9, p. 70)  Dr. Xu examined Lynch and noted cervical spine 
+magnetic resonance imaging showed foraminal stenosis more on the right side at C4-
+C5, C5-C6, and C6-C7, and documented his pain distribution is mostly along the C5 
+distribution.  (JE 9, pp. 72-73)  Dr. Xu assessed him with cervical radiculopathy, cervical 
+facet syndrome, and joint pain, and increased his gabapentin.  (JE 9, p. 73) 
+Lynch attended a follow-up appointment with Dr. Xu on January 12, 2021, for an 
+epidural steroid injection.  (JE 9, p. 75)  During an appointment on February 24, 2021, 
+Lynch reported having minimal symptoms for four weeks after the injection, noting his 
+pain had slowly returned.  (JE 9, p. 77).  Dr. Xu found Lynch had a good response to the 
+injection, which “relieved all the symptoms including the pain in the occiput to the neck 
+and to the dorsal scapular area as well as the arm,” and recommended bilateral nerve 
+conduction studies and repeated injections at C6-C7.  (JE 9, p. 78)   
+Lynch’s attorney referred Lynch to WorkWell for a functional capacity evaluation 
+with Daryl Short, DPT.  (JE 11)  Short found Lynch’s capabilities are in the mid-medium 
+category, “up to 40 pounds on an occasional basis at waist level) of physical demand.”  
+(JE 11, p. 87)  Short recommended, due to his decreased strength and endurance on 
+the right side of his neck/upper back/shoulder and right hand grip, that Lynch limit 
+elevated work and/or reaching at shoulder height and higher with material and 
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 9 
+nonmaterial handling to an occasional basis, and to limit twisting and grasping with just 
+his right hand.  (JE 11, pp. 87-88)   
+Sunil Bansal, M.D., an occupational medicine physician, conducted an 
+independent medical examination for Lynch on March 30, 2021, and issued his report 
+on May 4, 2021.  (JE 12)  Dr. Bansal examined Lynch and reviewed his medical 
+records.  (JE 12)   
+On exam, Dr. Bansal observed Lynch’s right elbow was tender to palpation over 
+the lateral and medial epicondylar areas, he had full range of motion, Tinel’s sign at the 
+elbow was negative, Cozen’s test was positive, and he had a strength deficit of 
+extension to 20 percent.  (JE 12, p. 121)  Dr. Bansal also examined his left elbow, which 
+he found had no tenderness to palpation and had full range of motion and strength.  (JE 
+12, p. 121)  With respect to his right wrist/hand, Dr. Bansal found Lynch had mild 
+tenderness to palpation of the volar aspect of the wrist, positive Tinel’s and Phalen’s 
+signs, negative Finkelstein’s test, full range of motion of the wrist and digits, and a “loss 
+of two-point sensory discrimination over the index and long fingers (12 mm), as well as 
+the ring and small fingers (10 mm).”  (JE 12, p. 122)  Dr. Bansal found his left wrist/hand 
+was not tender to palpation, he had full range of motion, and his sensation was intact.  
+(JE 12, p. 122)  Using the dynamometer, Dr. Bansal found Lynch had grip strength on 
+the right of 31 kilograms, 32 kilograms, and 32 kilograms, and on the left of 39 
+kilograms, 41 kilograms, and 38 kilograms.  (JE 12, p. 122)  Dr. Bansal found Lynch’s 
+right knee was tender to palpation over the entire knee, but worse over the medial joint 
+line, he had good mediolateral stability, he had flexion to 130 degrees, and he had no 
+lag in extension.  (JE 12, p. 122)  
+Dr. Bansal diagnosed Lynch with severe degenerative arthritis of the right knee 
+and status post right total knee replacement.  (JE 12, p. 123)  Using Table 17-33 of the 
+AMA Guides, he assigned a 37 percent lower extremity impairment, and assigned 
+permanent restrictions of no frequent kneeling or squatting and to avoid multiple stairs.  
+(JE 12, p. 123)   
+Dr. Bansal also diagnosed Lynch with a cervical strain, right shoulder referred 
+pain from the cervical spine, right medial epicondylitis, status post percutaneous 
+tenotomy of the right common flexor tendon using ultrasound guidance, right carpal 
+tunnel syndrome, status post right carpal tunnel release, and anxiety.  (JE 12, pp. 123-
+24)  Dr. Bansal opined Lynch developed right medial and lateral epicondylitis from 
+forcefully twisting and turning while making duck calls on a repetitive basis, that his job 
+tasks “would place significant pressure on the wrists based on repetition and the angle 
+in which he would position his wrists while forcefully grabbing, turning, gripping, and 
+twisting the defective duck calls, processing 10 to 20 calls per hour,” and opined under 
+the literature his duties qualified as having a strong potential for causing carpal tunnel 
+syndrome.  (JE 12, pp. 124-25)  Dr. Bansal opined there was insufficient medical 
+information to determine whether Lynch’s his neck and mental health conditions were 
+work-related.  (JE 12, p. 125)   
+ 
+ 
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 10 
+Using the AMA Guides, Dr. Bansal opined,  
+Right Elbow: 
+With reference to the AMA Guides to the Evaluation of Permanent 
+Impairment, Fifth Edition, specifically Tables 16-11 and 16-35, the 
+following calculation matrix is derived: 
+ 
+ 
+ 
+Strength Testing 
+ 
+% UE impairment 
+Extension: 
+ 
+20% deficit 
+ 
+ 
+4 
+Total elbow related impairment = 4% upper extremity impairment, 
+or a 2% impairment of the body as a whole. 
+RIGHT WRIST/HAND: 
+Right median nerve component (carpal tunnel syndrome). 
+With reference to the AMA Guides to the Evaluation of Permanent 
+Impairment, Fifth Edition, specifically Tables 16-10, and 16-15, he 
+qualifies for the following impairment values based on his digital sensory 
+deficits. 
+Severity of sensory deficit is 20% for the first and second digits. 
+Severity of motor deficit is 0%. 
+Maximum upper extremity impairment due to sensory deficit of the 
+median nerve below the mid forearm involving the radial and ulnar 
+palmar digital nerves of the index and long fingers is 9%, and the 
+thumb is 18% 
+Multiplied together:  (20% x 18%) + (20% x 9%) = 5% upper 
+extremity impairment, which equals a 3% impairment of the body as 
+a whole. 
+(JE 12, p. 126)  Dr. Bansal agreed with the restrictions assigned by the valid functional 
+capacity evaluation, finding Lynch’s recommended capabilities are in the mid-medium 
+category, “up to 40 pounds on an occasional basis at waist level) of physical demand,” 
+and recommended he limit elevated work and/or reaching at shoulder height and above 
+to an occasional basis for material and nonmaterial handling, and to limit twisting and 
+grasping just with his right hand to an occasional basis.  (JE 12, p. 126)  Dr. Bansal 
+found future treatment may include epicondylar steroid injections for maintenance of his 
+right elbow.  (JE 12, p. 127)   
+On May 6, 2021, Phil Davis, M.S., provided a vocational opinion for Lynch.  (JE 
+13)  Davis interviewed Lynch and reviewed his medical records.  (JE 13)  Davis opined 
+Lynch’s “ability to ‘tune’ animal calls at the rate and pace previously performed has 
+been effected as a result of his injuries.”  (JE 13, p. 133)  Davis noted Dr. Bansal had 
+placed Lynch in the medium physical demand level for lifting activities.  (JE 13, p. 133)  
+Davis further found for nonmaterial handling Lynch is limited with gripping, pinching, and 
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 11 
+over the shoulder height activities, and opined his limitations from his right knee of “no 
+kneeling or squatting,” place him within the sedentary to light physical demand level.  
+(JE 13, p. 13).  He then opined 89 percent of all occupations require full use and range 
+of motion with the upper extremities, and that Lynch is 90 percent precluded in his 
+ability to perform work involving the production of animal calls, and that he has lost 65 
+percent of his preinjury access to the labor market.  (JE 13, p. 133)  Davis’s opinion is 
+flawed.  Dr. Bansal did not recommend restrictions of no kneeling or squatting. 
+Rene Haigh, MS, CRC, provided a vocational opinion to the Fund on May 14, 
+2021.  (Ex. DD)  Haigh reviewed Lynch’s medical records, but she did not speak with 
+Lynch.  (Ex. DD; Tr., p. 31)  Haigh opined Lynch remains employable, and disagreed 
+with Davis’s opinion that he had lost access to greater than 65 percent of his preinjury 
+labor market.  (Ex. DD, p. 26)  While Haigh acknowledged “Lynch may have sustained 
+some loss of access to preinjury employment opportunities,” he did not sustain the level 
+the high percentage of vocational loss found by Davis.  (Ex. DD, p. 26)    
+Lynch testified his right knee causes him problems when he tries to lift things, 
+goes up steps, walks, and bends down.  (Tr., p. 32)  Lynch reported he cannot climb 
+ladders.  (Tr., p. 32)  Lynch relayed he has pain in his right hand, difficulty gripping and 
+lifting a gallon of milk, problems with coordination and dexterity in his right hand fingers, 
+and difficulty wiping his bottom.  (Tr., pp. 32-33)  Lynch struggles with writing since his 
+work injury and reported he is computer illiterate.  (Tr., p. 39)   
+Lynch also believes he has sustained a neck injury caused by having his head 
+down while working on the calls and twisting.  (Tr., p. 36)  Lynch relayed he has 
+problems when driving and keeping his head down.  (Tr., p. 37)  Lynch testified if he 
+does not keep his head up he will have pain from his neck that goes up into his ear and 
+to the right side of the head, and the pain causes migraines.  (Tr., p. 37)  Lynch denied 
+having neck pain before March 5, 2018.  (Tr., p. 37)   
+Lynch testified before his work injury, Lynch could hand tune 100 high end, 
+custom calls.  (Tr., p. 20)  Lynch could tune between 200 and 300 injected, lower end 
+calls per day.  (Tr., p. 20)  After his work injury he could tune about 25 high end, custom 
+calls per day and 100 lower end calls per day because of his dexterity and gripping 
+problems.  (Tr., p. 34) 
+Lynch has remarried and his wife has started a business called Legendary Gear 
+in January 2021.  (Tr., p. 35)  The business has two employees, Lynch and his wife.  
+(Tr., p. 68)  Legendary Gear has volunteers who make duck and goose calls and Lynch 
+assembles the calls.  (Tr., pp. 36, 68)  Lynch reported he is the face of the business and 
+he works with his wife on designing the products, but she runs the business.  (Tr., p. 36)  
+As of the date of the hearing the business had not made a profit.  (Tr., p. 36)  Lynch’s 
+wife plans to hire employees in the future.  (Tr., p. 68)  Lynch agreed on direct 
+examination he can tune 20 high-end calls per day.  (Tr., p. 35)  Since Lynch’s wife 
+started the business in January 2021, she has sold about 50 calls.  (Tr., p. 80)  The 
+weekend of the hearing Lynch was scheduled to talk to a group of people in St. Louis at 
+the Dive Bomb Squadfest about the calls his wife is selling.  (Tr., p. 44)  When Lynch 
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 12 
+worked for Outdoor Group he attended similar events to sell product.  (Tr., p. 45)  Lynch 
+was also going to judge a calling contest that weekend.  (Tr., pp. 45-46)  This is the first 
+show Lynch was attending since the pandemic, which prevented similar shows from 
+occurring.  (Tr., p. 47)   
+Lynch enjoys hunting.  (Tr., p. 71)  Lynch relayed he does not climb trees 
+anymore and stays on the ground while hunting.  (Tr., p. 71)  Lynch has a crossbow for 
+hunting deer.  (Tr., pp. 71, 73)  He reported he used to shoot a stickbow, but he cannot 
+do that anymore.  (Tr., p. 71)  The crossbow weighs six to eight pounds and he cranks it 
+with his left hand.  (Tr., pp. 72-73)  Lynch enjoys hunting waterfowl.  (Tr., p. 73)  When 
+he hunts waterfowl Lynch uses a shotgun weighing between six and seven pounds.  
+(Tr., pp. 73-74)  Lynch reported he uses his left hand to hold and point the gun and pulls 
+the trigger with his right hand.  (Tr., pp. 73-74)  Lynch relayed he cannot set up for 
+hunting and he lets the younger people he hunts with do that.  (Tr., p. 71)  Lynch 
+harvests one turkey, five ducks, and a dozen geese on average per year.  (Tr., pp. 74-
+75)  In the last year Lynch went deer hunting a dozen times.  (Tr., p. 75)  Lynch reported 
+he goes deer hunting by himself and within the last year he harvested one big buck.  
+(Tr., p. 76)  Lynch guts deer in the field, uses a four wheeler while hunting, and pulls up 
+to the deer and onto a trailer to drive it to a locker to be processed.  (Tr., p. 76)   
+CONCLUSIONS OF LAW 
+I. 
+Applicable Law 
+This case involves the issues of nature and extent of disability and entitlement to 
+benefits from the Fund under Iowa Code sections 85.34 and 86.40.  In 2017, the Iowa 
+Legislature enacted changes to Iowa Code chapters 85, 86, and 535 effecting workers’ 
+compensation cases.  2017 Iowa Acts chapter 23 (amending Iowa Code sections 85.16, 
+85.18, 85.23, 85.26, 85.33, 85.34, 85.39, 85.45, 85.70, 85.71, 86.26, 86.39, 86.42, and 
+535.3).  Under 2017 Iowa Acts chapter 23 section 24, the changes to Iowa Code 
+sections 85.16, 85.18, 85.23, 85.26, 85.33, 85.34, 85.39, 85.71, 86.26, 86.39, and 86.42 
+apply to injuries occurring on or after the effective date of the Act.  This case involves an 
+injury occurring after July 1, 2017, therefore, the provisions of the new statute involving 
+extent of disability under Iowa Code section 85.34 apply to this case.   
+The calculation of interest is governed by Deciga-Sanchez v. Tyson Foods, File 
+No. 5052008 (Ruling on Defendant’s Motion to Enlarge, Reconsider, or Amend Appeal 
+Decision Re: Interest Rate Issue), which holds interest for all weekly benefits payable 
+and not paid when due which accrued before July 1, 2017, is payable at the rate of ten 
+percent; all interest on past due weekly compensation benefits accruing on or after July 
+1, 2017, is payable at an annual rate equal to the one-year treasury constant maturity 
+published by the federal reserve in the most recent H15 report settled as of the date of 
+injury, plus two percent.  Again, given this case concerns an injury occurring after July 
+1, 2017, the new provision on interest applies to this case 
+ 
+ 
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 13 
+II. 
+Nature of the Injury – Cervical Spine and Mental Health Conditions 
+The parties stipulated Lynch sustained an injury to his right upper extremity on 
+March 5, 2018, which arose out of and in the course of his employment with Outdoor 
+Group.  Lynch contends he also sustained injuries to his cervical spine and mental 
+health caused by the work injury.  Outdoor Group and Charter Oak deny Lynch 
+sustained an injury to his cervical spine, mental health, and body as a whole caused by 
+the work injury and dispute extent of disability with respect to the right upper extremity.  
+The Fund also disputes extent of disability. 
+To receive workers’ compensation benefits, an injured employee must prove, by 
+a preponderance of the evidence, the employee’s injuries arose out of and in the course 
+of the employee’s employment with the employer.  2800 Corp. v. Fernandez, 528 
+N.W.2d 124, 128 (Iowa 1995).  An injury arises out of employment when a causal 
+relationship exists between the employment and the injury.  Quaker Oats Co. v. Ciha, 
+552 N.W.2d 143, 151 (Iowa 1996).  The injury must be a rational consequence of a 
+hazard connected with the employment, and not merely incidental to the employment.  
+Koehler Elec. v. Wills, 608 N.W.2d 1, 3 (Iowa 2000).  The Iowa Supreme Court has 
+held, an injury occurs “in the course of employment” when: 
+. . . it is within the period of employment at a place where the employee 
+reasonably may be in performing his duties, and while he is fulfilling those 
+duties or engaged in doing something incidental thereto.  An injury in the 
+course of employment embraces all injuries received while employed in 
+furthering the employer’s business and injuries received on the employer’s 
+premises, provided that the employee’s presence must ordinarily be 
+required at the place of the injury, or, if not so required, employee’s 
+departure from the usual place of employment must not amount to an 
+abandonment of employment or be an act wholly foreign to his usual work.  
+An employee does not cease to be in the course of his employment 
+merely because he is not actually engaged in doing some specifically 
+prescribed task, if, in the course of his employment, he does some act 
+which he deems necessary for the benefit or interest of his employer. 
+Farmers Elevator Co., Kingsley v. Manning, 286 N.W.2d 174, 177 (Iowa 1979).   
+The question of medical causation is “essentially within the domain of expert 
+testimony.”  Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 844-45 (Iowa 
+2011).  The commissioner, as the trier of fact, must “weigh the evidence and measure 
+the credibility of witnesses.”  Id.  The trier of fact may accept or reject expert testimony, 
+even if uncontroverted, in whole or in part.  Frye v. Smith-Doyle Contractors, 569 
+N.W.2d 154, 156 (Iowa Ct. App. 1997).  When considering the weight of an expert 
+opinion, the fact-finder may consider whether the examination occurred shortly after the 
+claimant was injured, the compensation arrangement, the nature and extent of the 
+examination, the expert’s education, experience, training, and practice, and “all other 
+factors which bear upon the weight and value” of the opinion.  Rockwell Graphic Sys., 
+Inc. v. Prince, 366 N.W.2d 187, 192 (Iowa 1985). 
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 14 
+It is well-established in workers’ compensation that “if a claimant had a 
+preexisting condition or disability, aggravated, accelerated, worsened, or ‘lighted up’ by 
+an injury which arose out of and in the course of employment resulting in a disability is 
+found to exist,” the claimant is entitled to compensation.  Iowa Dep’t of Transp. v. Van 
+Cannon, 459 N.W.2d 900, 904 (Iowa 1990).  The Iowa Supreme Court has held, 
+[a] disease which under any rational work is likely to progress so as to 
+finally disable an employee does not become a “personal injury” under our 
+Workmen’s Compensation Act merely because it reaches a point of 
+disablement while work for an employer is being pursued.  It is only when 
+there is a direct causal connection between exertion of the employment 
+and the injury that a compensation award can be made.  The question is 
+whether the diseased condition was the cause, or whether the 
+employment was a proximate contributing cause. 
+Musselman v. Cent. Tel. Co., 261 Iowa 352, 359-60, 154 N.W.2d 128, 132 (1967). 
+Lynch retained Dr. Bansal to conduct an independent medical examination.  Dr. 
+Bansal opined there was insufficient medical information to determine his neck and 
+mental health conditions were work-related.  (JE 12, p. 125)  No other physician in this 
+case has causally related Lynch’s alleged cervical spine and mental health conditions to 
+his work injury at Outdoor Group.  I find Lynch has failed to meet his burden of proof as 
+to his cervical spine and mental health conditions. 
+III. 
+Extent of Disability – Right Upper Extremity 
+Iowa Code section 85.34(2) governs compensation for permanent partial 
+disabilities.  The law distinguishes between scheduled and unscheduled disabilities.  
+The Division of Workers Compensation evaluates disability using two methods, 
+functional and industrial.  Simbro v. Delong’s Sportswear, 332 N.W.2d 886, 887 (Iowa 
+1983).   
+The Division applies the functional method for a scheduled injury to each part of 
+the body listed in the statute, including:  (1) a thumb; (2) a first finger; (3) a second 
+finger; (4) a third finger; (5) a fourth finger; (6) a first or distal phalange of the thumb or 
+any finger; (7) loss of more than one phalange of the thumb or a finger; (8) a great toe; 
+(9) one of the toes other than the great toe; (10) a first phalange of any toe; (11) loss of 
+more than one phalange of any toe; (12) a hand; (13) an arm; (14) a shoulder (added in 
+2017); (15) a foot; (16) a leg; (17) an eye; (18) “loss of an eye, the other eye having 
+been lost prior to the injury;” (19) hearing, other than occupational loss; (20) 
+occupational hearing loss; (21) “loss of both arms, or both hands, or both feet, or both 
+legs, or both eyes, or any two thereof, caused by a single accident;” and (22) 
+disfigurement of the face or head.  Iowa Code § 85.34(2)(a)-(u); Westling v. Hormel 
+Foods Corp., 810 N.W.2d 247, 252 (Iowa 2012).  Each of these subsections provides a 
+maximum number of weeks of compensation for the complete loss of a scheduled 
+member or body part.   
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 15 
+Since 2017, compensation or functional loss for scheduled injuries is determined 
+by taking the number of weeks allowed for a complete loss of the body part or 
+scheduled member, multiplied by a percentage of impairment determined using the 
+AMA Guides.  Iowa Code § 85.34(2)(x).  The statute also requires compensation be 
+awarded for functional loss if an employee returns to work or is offered work “for which 
+the employee receives or would receive the same or greater salary, wages, or earnings 
+than the employee received at the time of the injury.”  Id. § 85.34(2).  That provision 
+does not apply in this case.  The Division uses the industrial method for “all cases of 
+permanent partial disability other than those” set forth in Iowa Code section 85.34(2)(a) 
+through (u).  All other cases are classified as “unscheduled injuries.”  Westling, 810 
+N.W.2d at 252-53.  Compensation for unscheduled injuries is determined examining the 
+reduction of earning capacity.  Id. at 253.   
+As analyzed above, I found Lynch failed to establish he sustained injuries to his 
+cervical spine and mental health caused by the work injury.  Lynch has sustained an 
+injury to his right upper extremity only, a scheduled member.  Therefore, it is necessary 
+to determine extent of disability. 
+When determining compensation for functional loss for a scheduled member 
+disability, the extent of loss is to be determined “solely” by using the AMA Guides.  Iowa 
+Code § 85.34(2)(x).  The statute provides “[l]ay testimony or agency expertise shall not 
+be utilized in determining loss or percentage of permanent impairment pursuant to 
+paragraphs “a” through “u”, or paragraph “v” when determining functional disability and 
+not loss of earning capacity.  Id. 
+Two physicians have provided impairment ratings in this case, Dr. Paulson, an 
+orthopedic surgeon who performed an independent medical examination for Outlook 
+Group and Charter Oak, and Dr. Bansal, an occupational medicine physician who 
+performed an independent medical examination for Lynch.  Dr. Paulson assigned Lynch 
+a zero percent permanent impairment rating and no permanent work restrictions.  For 
+the right elbow, Dr. Bansal assigned Lynch a 4 percent upper extremity impairment, and 
+for his right wrist and hand, he assigned Lynch a 5 percent upper extremity impairment.  
+I find Dr. Bansal’s opinion more persuasive than Dr. Paulson’s opinion. 
+Dr. Bansal provided objective measurements from his examination in his report 
+supporting his conclusions.  Dr. Paulson did not provide any objective findings 
+supporting his opinions.  Lynch credibly testified at hearing regarding his ongoing 
+symptoms and limitations, consistent with Dr. Bansal’s findings.  I find Lynch has 
+sustained a 9 percent upper extremity impairment for his right upper extremity.  Under 
+the schedule, compensation for loss of an arm is limited to 250 weeks.  Iowa Code § 
+85.34(2)(m).  Lynch is entitled to 22.5 weeks of permanent partial disability benefits 
+from the Outlook Group and Charter Oak, at the stipulated weekly rate of $936.80, 
+commencing on the stipulated commencement date of March 25, 2020.  I also find Dr. 
+Bansal’s work restrictions to be Lynch’s permanent work restrictions. 
+ 
+ 
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 16 
+IV. 
+Fund Benefits 
+Lynch seeks benefits through the Fund and alleges he is permanently and totally 
+disabled.  The Fund contends it has no liability in this case.  Under Iowa Code section 
+85.64,  
+[i]f an employee who has previously lost, or lost the use of, one hand, one 
+arm, one foot, one leg, or one eye, becomes permanently disabled by a 
+compensable injury which has resulted in the loss of or loss of use of 
+another such member or organ, the employer shall be liable only for the 
+degree of disability which would have resulted from the latter injury if there 
+had been no preexisting disability.  In addition to such compensation, and 
+after the expiration of the full period provided by law for the payments 
+thereof by the employer, the employee shall be paid out of the “Second 
+Injury Fund” created by this subchapter the remainder of such 
+compensation as would be payable for the degree of permanent disability 
+involved after first deducting from such remainder the compensable value 
+of the previously lost member or organ.   
+Thus, an employee is entitled to Fund benefits if the employee establishes:  (1) the 
+employee sustained a permanent disability to a hand, arm, foot, leg, or eye, a first 
+qualifying injury; (2) the employee subsequently sustained a permanent disability to 
+another hand, arm, foot, leg, or eye, through a work-related injury, a second qualifying 
+injury; and (3) the employee has sustained a permanent disability resulting from the first 
+and second qualifying injuries exceeding the compensable value of the “previously lost 
+member.”  Gregory v. Second Injury Fund of Iowa, 777 N.W.2d 395, 398-99 (Iowa 
+2010).   
+Lynch and the Fund stipulated Lynch sustained a first qualifying loss to his right 
+leg on July 24, 2012, and that the functional loss from the first qualifying loss is 37 
+percent of the right lower extremity.  Under the schedule, the functional loss for a leg is 
+220 weeks.  Iowa Code § 85.34(2)(p).  37 percent of 220 weeks is 81.4 weeks.  The 
+Fund alleges Lynch has not sustained a second qualifying loss to his right upper 
+extremity as a result of the March 2018 injury.  As analyzed above, I found Lynch 
+sustained a functional loss of 9 percent of the right upper extremity and that Lynch is 
+entitled to 22.5 weeks of permanent partial disability benefits from Outdoor Group and 
+Charter Oak.  The permanent injury to his right upper extremity is a second qualifying 
+loss.  The total of the first and second losses, as stipulated by the parties is 103.9 
+weeks.  Given Lynch has sustained a first and a second loss, it is necessary to 
+determine the extent of industrial disability.   
+“Industrial disability is determined by an evaluation of the employee’s earning 
+capacity.”  Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 852 (Iowa 2011).  
+In considering the employee’s earning capacity, the deputy commissioner evaluates 
+several factors, including “consideration of not only the claimant’s functional disability, 
+but also [his] age, education, qualifications, experience, and ability to engage in similar 
+employment.”  Swiss Colony, Inc. v. Deutmeyer, 789 N.W.2d 129, 137-38 (Iowa 2010).  
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 17 
+The inquiry focuses on the injured employee’s “ability to be gainfully employed.”  Id. at 
+138.  
+The determination of the extent of disability is a mixed issue of law and fact.  
+Neal v. Annett Holdings, Inc., 814 N.W.2d 512, 525 (Iowa 2012).  Compensation for 
+permanent partial disability shall begin at the termination of the healing period.  Iowa 
+Code § 85.34(2).  Compensation shall be paid in relation to 500 weeks as the disability 
+bears to the body as a whole.  Id. § 85.34(2)(v).  When considering the extent of 
+disability, the deputy commissioner considers all evidence, both medical and 
+nonmedical.  Evenson v. Winnebago Indus., Inc., 881 N.W.2d 360, 370 (Iowa 2016).   
+In Iowa, a claimant may establish permanent total disability under the statute, or 
+through the common law odd-lot doctrine.  Michael Eberhart Constr. v. Curtin, 674 
+N.W.2d 123, 126 (Iowa 2004) (discussing both theories of permanent total disability 
+under Idaho law and concluding the deputy’s ruling was not based on both theories, 
+rather, it was only based on the odd-lot doctrine).  Under the statute, the claimant may 
+establish the claimant is totally and permanently disabled if the claimant’s medical 
+impairment together with nonmedical factors totals 100 percent.  Id.  The odd-lot 
+doctrine applies when the claimant has established the claimant has sustained 
+something less than 100 percent disability, but is so injured that the claimant is “unable 
+to perform services other than ‘those which are so limited in quality, dependability or 
+quantity that a reasonably stable market for them does not exist.’”  Id. (quoting Boley v. 
+Indus. Special Indem. Fund, 130 Idaho 278, 281, 939 P.2d 854, 857 (1997)).   
+“Total disability does not mean a state of absolute helplessness.”  Wal-Mart 
+Stores, Inc. v. Caselman, 657 N.W.2d 493, 501 (Iowa 2003) (quoting IBP, Inc. v. Al-
+Gharib, 604 N.W.2d 621, 633 (Iowa 2000)).  Total disability “occurs when the injury 
+wholly disables the employee from performing work that the employee’s experience, 
+training, intelligence, and physical capacity would otherwise permit the employee to 
+perform.”  IBP, Inc., 604 N.W.2d at 633.   
+At the time of the hearing Lynch was 61.  (Tr., p. 10)  Lynch graduated from high 
+school in 1977.  (Ex. 2, p. 3; Tr., p. 11)  Lynch has not attended any schooling since he 
+graduated from high school.  (Tr., p. 12)  I found Lynch to be articulate at hearing and I 
+believe he is capable of retraining.   
+In 2006 Lynch began receiving SSDI benefits for a heart condition.  (Tr., p. 21)  
+Despite this serious health condition, Lynch was able to secure full-time employment 
+with Outdoor Group, earning $80,000.00 per year.  After he commenced employment 
+with Outdoor Group Lynch’s SSDI benefits ceased.  (Tr., p. 22)  After Outdoor Group 
+terminated Lynch’s contract, Lynch reapplied for SSDI benefits, which the Social 
+Security Administration approved based on his heart condition only.   
+Dr. Bansal agreed with the restrictions assigned by the valid functional capacity 
+evaluation, finding Lynch’s recommended capabilities are in the mid-medium category, 
+“up to 40 pounds on an occasional basis at waist level) of physical demand,” and 
+recommended he limit elevated work and/or reaching at shoulder height and above to 
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 18 
+an occasional basis for material and nonmaterial handling, to limit twisting and grasping 
+just with his right hand to an occasional basis.  (JE 12, p. 126)  I found Dr. Bansal’s 
+restrictions to be Lynch’s permanent restrictions.   
+Davis did not correctly identify Dr. Bansal’s permanent restrictions, or fully 
+consider his transferable skills when rendering his vocational opinion.  I did not find 
+Davis’s opinion at all credible or useful.  I found Haigh’s report marginally helpful. 
+Lynch enjoys working in the animal call business.  Lynch has been the face of 
+the call businesses his wives have operated.  When he worked for Outdoor Group 
+Lynch worked with the salesmen and went on sales calls and attended trade shows.  
+(Tr., p. 18)  He engages in similar activities now and did before he worked for Outdoor 
+Group.  While the business had not generated a profit by the time of hearing, Lynch’s 
+wife started the business in January 2021.   
+Lynch also has extensive experience as a supervisor and in sales outside the call 
+business.  I believe he remains employable in work consistent with his restrictions.  At 
+the time of the hearing Lynch had not applied for any work following his work injury.  I 
+do not find he is motivated to work.  Considering all of the factors of industrial disability, 
+I find Lynch has sustained a 40 percent industrial disability, entitling him to 200 weeks of 
+permanent partial disability benefits.  I do not find he is permanently and totally disabled 
+under the statute or the odd-lot doctrine. 
+The Fund is responsible only for the amount of the industrial disability from which 
+the employee suffers, reduced by the compensable value of the first and second 
+injuries.  Second Injury Fund of Iowa v. Nelson, 544 N.W.2d 258, 269 (Iowa 1995).  In 
+the event the credits due to the Fund exceed the industrial disability resulting from the 
+qualifying injuries, the fund has no liability.  Crudo v. Second Injury Fund of Iowa, Case 
+No. 98-828 (Iowa App. July 23, 1999).  The parties stipulated the Fund is entitled to a 
+credit of 103.9 weeks.  200 weeks minutes 103.9 weeks is 96.1 weeks.  Lynch is 
+awarded 96.1 weeks of permanent partial disability benefits from the Fund, at the 
+stipulated weekly rate of $936.80, commencing on the stipulated commencement date 
+of August 15, 2020.    
+ORDER 
+IT IS THEREFORE ORDERED, THAT: 
+Outdoor Group and Charter Oak shall pay Lynch twenty-two and one-half (22.5) 
+weeks of permanent partial disability benefits, at the stipulated rate of nine hundred 
+thirty-six and 80/100 dollars ($936.80), commencing on the stipulated commencement 
+date of March 25, 2020. 
+Outdoor Group and Charter Oak are entitled to a credit for all benefits paid to 
+date. 
+ 
+ 
+
+LYNCH V. OUTDOOR GROUP LLC 
+Page 19 
+Outdoor Group and Charter Oak shall pay accrued weekly benefits in a lump 
+sum together with interest at an annual rate equal to the one-year treasury constant 
+maturity published by the federal reserve in the most recent H15 report settled as of the 
+date of injury, plus two percent. 
+The Fund shall pay Lynch ninety-six and .1 (96.1) weeks of permanent partial 
+disability benefits, at the stipulated rate of nine hundred thirty-six and 80/100 dollars 
+($936.80), commencing on the stipulated commencement date of August 15, 2020. 
+Outdoor Group and Charter Oak shall file subsequent reports of injury as 
+required by this agency pursuant to rules 876 IAC 3.1(2) and 876 IAC 11.7. 
+Signed and filed this _3rd _ day of December, 2021. 
+ 
+______________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+           HEATHER L. PALMER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEPUTY WORKERS’  
+ 
+ 
+ 
+ 
+ 
+ 
+  COMPENSATION COMMISSIONER 
+The parties have been served, as follows: 
+Randall Schueller (via WCES) 
+Julie Burger (via WCES)  
+Meredith Cooney (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address:  Workers’ Com pensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal pe riod 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 

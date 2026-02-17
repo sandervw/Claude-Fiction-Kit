@@ -1,0 +1,203 @@
+Case Number: 5067453.01
+Case Title:  DOTTS, TERRY V. CITY OF DES MOINES
+Doc Type:    Decision - District Court
+Source:      Dotts, Terry-5067453.01.District Court Decision.pdf
+========================================================================
+
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+TERRY M. DOTTS, 
+ 
+         Petitioner, 
+ 
+v. 
+ 
+CITY OF DES MOINES, IOWA, 
+ 
+         Respondent. 
+ 
+ 
+      
+Case No. CVCV059520 
+ 
+  
+ 
+RULING ON JUDICIAL REVIEW 
+ 
+ 
+This is a judicial review action from a decision of the Workers Compensation 
+Commissioner (the commissioner) regarding alternative medical care.  The court held a hearing 
+on May 29, 2020.  Chris Spaulding represented petitioner Terry Dotts.  Luke DeSmet 
+represented respondent City of Des Moines (the City).   
+STATEMENT OF THE CASE 
+ 
+The facts are largely taken from the decision of the deputy workers’ compensation 
+commissioner, but also directly from the medical notes.  Mr. Dotts was injured on January 29, 
+2019, when he slipped on some ice while working for the City.  Mr. Dotts suffered injuries to his 
+left shoulder and neck.  The City conceded that the injuries are work-related.  Mr. Dotts has seen 
+Dr. Stephen Aviles for the shoulder injury and undergone a rotator cuff repair.  The record shows 
+some continuing issues with the shoulder, but the subject of this case is the neck injury. 
+ 
+Mr. Dotts saw Dr. Trevor Schmitz on July 29, 2019.  Dr. Schmitz noted degeneration of 
+the cervical intervertebral disc, osteoarthritis of the cervical spine, and cervicalgia.  He ordered 
+an MRI before determining the next step.  Mr. Dotts saw Dr. Schmitz on October 2, 2019, for the 
+follow-up appointment.  Dr. Schmitz diagnosed Mr. Dotts with bilateral carpal tunnel syndrome 
+and cubital tunnel syndrome on his left side.  He wanted to refer Mr. Dotts to a hand surgeon for 
+evaluation for those conditions.  As to the neck, Dr. Schmitz advised his belief that the benefits 
+E-FILED  2020 JUN 22 9:16 AM POLK - CLERK OF DISTRICT COURT
+
+2 
+ 
+of surgery would not outweigh the risks.  He stated that he would see Mr. Dotts again on an as-
+needed basis.   
+ 
+There is no transcript of the hearing before the deputy, but the deputy stated in his ruling 
+that Mr. Dotts testified that he attempted to schedule a follow-up visit with Dr. Schmitz to 
+discuss treatment options other than surgery.  He reported that Dr. Schmitz told him that he had 
+nothing further to offer.  Mr. Dotts expressly requested additional treatment for his neck on 
+October 24, 2019.  The City responded by stating that Dr. Schmitz had placed Mr. Dotts on 
+maximum medical improvement (MMI).  There is no medical record confirming that Dr. 
+Schmitz will not see Mr. Dotts or that he has been placed at MMI.  At hearing, the City stated 
+that it would be willing to schedule a follow-up visit for Mr. Dotts with Dr. Schmitz.  Mr. Dotts 
+would like a second opinion, but there is no medical record recommending that request.   
+ 
+On November 25, 2019, Mr. Dotts filed an application for alternate care with the 
+commissioner.  He requested a second opinion for neck pain and limitations.  The deputy held a 
+hearing on December 9, 2019, and entered a ruling denying the request on the following day.  
+The deputy found that there was no medical support for a second opinion.  He found that the City 
+had offered a follow-up appointment with Dr. Schmitz, which could lead to a recommendation 
+for a second opinion, a referral to another provider, or some alternate treatment.  He further 
+found that Mr. Dotts had not alleged that his relationship with Dr. Schmitz had broken down, 
+although Mr. Dotts was frustrated with his continuing neck pain.  Dr. Schmitz had made a 
+referral regarding carpal tunnel and cubital tunnel syndromes, so he showed willingness to make 
+a referral with regard to these injuries.  For these reasons, the deputy found that the treatment 
+provided by the City was reasonable. 
+E-FILED  2020 JUN 22 9:16 AM POLK - CLERK OF DISTRICT COURT
+
+3 
+ 
+ 
+The deputy also noted that there were other means to obtain a second opinion.  Once Dr. 
+Schmitz released his impairment rating, Mr. Dotts would have a right to a second opinion for 
+rating purposes under Iowa Code section 85.27.  Treatment options could be included as part of 
+that evaluation.  Mr. Dotts could also obtain an evaluation at his own expense, and later seek 
+reimbursement for treatment at the final workers’ compensation hearing.  Also, Mr. Dotts could 
+file a later petition for alternate care if a later provider recommends different treatment.  
+STANDARD OF REVIEW 
+Chapter 17A of the Iowa Code governs judicial review of administrative agency action. 
+The district court acts in an appellate capacity to correct errors of law on the part of the agency. 
+Meyer v. IBP, Inc., 710 N.W.2d 213, 219 (Iowa 2006).  The court “may grant relief if the agency 
+action has prejudiced the substantial rights of the petitioner, and the agency action meets one of 
+the enumerated criteria contained in section 17A.19(10)(a) through (n).” Burton v. Hilltop Care 
+Cntr., 813 N.W.2d 250, 256 (Iowa 2012) (quoting Evercom Sys., Inc. v. Iowa Utilities Bd., 805 
+N.W.2d 758, 762 (Iowa 2011)).  
+The courts use a substantial evidence standard when considering challenges to findings of 
+fact in agency decisions.  A reviewing court can only disturb factual findings if they are “not 
+supported by substantial evidence in the record before the court when that record is reviewed as a 
+whole.”  Burton, 813 N.W.2d at 256 (quoting Iowa Code § 17A.19(10)(f)).  The Iowa Supreme 
+Court has outlined the court’s guidelines when reviewing substantial evidence claims under the 
+17A.19 standard as follows: 
+When reviewing a finding of fact for substantial evidence, we judge the finding in 
+light of all the relevant evidence in the record cited by any party that detracts from 
+that finding as well as all of the relevant evidence in the record cited by any party 
+that supports it.  Our review of the record is fairly intensive, and we do not simply 
+rubber stamp the agency finding of fact. 
+ 
+E-FILED  2020 JUN 22 9:16 AM POLK - CLERK OF DISTRICT COURT
+
+4 
+ 
+Evidence is not insubstantial merely because different conclusions may be drawn 
+from the evidence. To that end, evidence may be substantial even though we may 
+have drawn a different conclusion as fact finder. Our task, therefore, is not to 
+determine whether the evidence supports a different finding; rather, our task is to 
+determine whether substantial evidence, viewing the record as a whole, supports 
+the findings actually made. 
+ 
+Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 845 (Iowa 2011) (internal citations and 
+quotation marks omitted).  
+CONCLUSIONS OF LAW 
+ 
+Under the workers’ compensation statute, the employer has the obligation to furnish 
+reasonable medical services to treat an injured employee.  Iowa Code § 85.27.  In exchange for 
+this obligation, the employer has the right to choose the care.  Id.  If the employee is dissatisfied 
+with the care, the employee may communicate with the employer after which they may agree to 
+alternate care reasonably suited to treat the injury.  Id.  If they cannot agree, the employee may 
+file an application with the commissioner to make “reasonable proofs for the necessity 
+therefor[.]”  Id.   
+ 
+By challenging the employer's choice of treatment, the employee assumes the burden of 
+proving that the authorized care is unreasonable.  Long v. Roberts Dairy Co., 528 N.W.2d 122, 
+123 (Iowa 1995).  Determining what care is reasonable under the statute is a question of fact.  Id.  
+The ultimate question before the court on judicial review is whether substantial evidence 
+supports the reasonableness determination.  Newt Marine Serv. DBA v. Abitz, 885 N.W.2d 830 
+(Iowa Ct. App. 2016) (Table). 
+ 
+The competing sides of the reasonableness test were best explained and applied in Long 
+and Pirelli-Armstrong Tire Co. v. Reynolds, 562 N.W.2d 433 (Iowa 1997).  In Long, the treating 
+doctor had recommended further treatment at the Mayo Clinic or the University of Iowa Hospital 
+(UI).  Long, 528 N.W.2d at 124.  The employee initially sought treatment at Mayo, but the 
+E-FILED  2020 JUN 22 9:16 AM POLK - CLERK OF DISTRICT COURT
+
+5 
+ 
+employer chose UI after Mayo wanted to perform a costly test before beginning treatment.  The 
+employee filed an application for alternate care seeking treatment at Mayo.  The court affirmed 
+the commissioner’s finding that the employer’s choice of care reasonably met the employee’s 
+needs because the treating physician had recommended either provider as reasonable.  Id.  The 
+court made clear that the employee’s desire for a certain treatment or provider is not 
+determinative.  Id. (emphasis in text).  Rather, the employer’s obligation turns on the question of 
+reasonable necessity.  Id.   
+ 
+In Reynolds, the employee had been treated for approximately a year for a leg injury.  
+Reynolds, 562 N.W.2d at 437.  The court found substantial evidence to show that the employee’s 
+pain had increased and his leg atrophied during the course of treatment.  Id.  Because the 
+treatment provided by the employer-approved doctor had proven to be ineffective, the employee 
+showed that the employer’s care was not reasonably suitable to meet his medical needs.  Id.   
+ 
+The present case is more like Long, at least at this stage of the proceedings.  Mr. Dotts 
+only saw Dr. Schmitz on two occasions – once for the initial assessment and second to discuss 
+the MRI and potential treatment.  Dr. Schmitz discussed surgery but did not recommend surgery 
+due to the risks involved.  Dr. Schmitz referred Mr. Dotts for further treatment for his carpel 
+tunnel syndrome, but only stated that he would see him for his neck on an as needed basis.  His 
+notes reflect that he did not recommend, nor did he rule out, more moderate treatments such as 
+physical therapy or injections.  Mr. Dotts testified at hearing that he tried to see Dr. Schmitz, but 
+the doctor would not see him.  The City has offered to pay for another appointment with Dr. 
+Schmitz.  That seems reasonable at this point to determine Dr. Schmitz’s treatment 
+recommendation. 
+E-FILED  2020 JUN 22 9:16 AM POLK - CLERK OF DISTRICT COURT
+
+6 
+ 
+ 
+The standard of review is important in deciding this case.  The agency cited to the City’s 
+offer to pay for a return appointment with Dr. Schmitz to determine whether other forms of 
+treatment short of surgery he might recommend.  Mr. Dotts may have been told by Dr. Schmitz’s 
+office that he did not need to see him, but the medical notes do not reflect that.  Rather, the notes 
+state that Dr. Schmitz would see him as needed.  By returning to Dr. Schmitz, we will determine 
+whether he recommends some alternate care.  If Dr. Schmitz recommend some other provider or 
+treatment, Mr. Dotts can try that.  If not, he can pursue other options, which may include a new 
+application for medical care.  The commissioner’s decision is supported by substantial evidence 
+as there are facts in the record to show that the employer has offered reasonable care.   
+ 
+Mr. Dotts raised a concern with Iowa Code section 85.38(2) in that he may be responsible 
+to pay for an evaluation if he is dissatisfied with any recommendations Dr. Schmitz makes or 
+refuses to return to him.  That may be true, but if so, that is how the statute works.  The court 
+must decide the current dispute before based on the applicable law.  The law requires the court to 
+evaluate the agency’s decision based on the substantial evidence test.  The agency decision meets 
+that test, so the decision must be affirmed.     
+RULING 
+ 
+The agency decision is affirmed.  Petitioner shall pay any court costs.     
+E-FILED  2020 JUN 22 9:16 AM POLK - CLERK OF DISTRICT COURT
+
+State of Iowa Courts
+Type:
+OTHER ORDER
+Case Number
+Case Title
+CVCV059520
+TERRY M DOTTS VS CITY OF DES MOINES IOWA
+So Ordered
+Electronically signed on 2020-06-22 09:16:58     page 7 of 7
+E-FILED  2020 JUN 22 9:16 AM POLK - CLERK OF DISTRICT COURT

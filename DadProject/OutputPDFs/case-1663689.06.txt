@@ -1,0 +1,280 @@
+Case Number: 1663689.06
+Case Title:  WALTON, TERESA V. COMPASS GROUP
+Doc Type:    Decision - District Court
+Source:      Walton, Teresa-1663689.06.District Court Decision.PDF
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+TERESA WALTON,  
+ 
+Petitioner, 
+ 
+v. 
+ 
+COMPASS GROUP and NEW 
+HAMPSHIRE INSURANCE COMPANY, 
+ 
+Respondents. 
+ 
+ 
+Case No.  CVCV066011 
+ 
+ 
+ 
+RULING ON PETITION FOR  
+JUDICIAL REVIEW 
+Introduction 
+This is an administrative appeal from a decision by a Deputy acting with the 
+Workers’ Compensation Commissioner’s authorization dismissing Petitioner’s 
+application for alternate care that she brought pursuant to Iowa Code § 85.27(4). The 
+Court convened an unreported hearing by Zoom on January 26, 2024.  Petitioner 
+appeared by and through counsel, Mindi Vervaecke.  Respondent appeared by and 
+through counsel, Nathan McConkey.  
+Background Facts and Proceedings 
+ 
+On December 27, 2018, Teresa Walton (“Teresa”), sustained an injury to her left 
+knee, left hip, and back while working at Compass Group, and she sought workers’ 
+compensation benefits from Compass Group and its insurer, New Hampshire 
+Insurance Company (collectively “Compass”).  Ultimately, on June 20, 2022, Iowa 
+Workers’ Compensation Commissioner Joseph S. Cortese, II, filed his Appeal Decision 
+in which he concluded Teresa’s left knee, left hip, and back conditions were causally 
+related to her work injury, and he affirmed the employer’s responsibility to pay for 
+reasonable medical care to Teresa arising out of her injury. 
+ 
+Over four years later, on July 27, 2023, Teresa filed an alternate care petition 
+seeking treatment recommended by her authorized physical therapist, Sarah 
+Elkenberry, PT, and Brandt Corcan, PTA.  Compass filed an answer in which it 
+E-FILED                    CVCV066011 - 2024 FEB 07 02:19 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 9
+
+2 
+ 
+admitted liability for the claim related to Teresa’s left knee, left hip, and low back 
+injury; however, Compass denied liability for the alternate medical care claimed by 
+Teresa.  Compass’s denial of liability for the alternate care request made by Teresa was 
+supported by a written opinion from Dr. Sunny Kim, M.D., who opined that any 
+further medical treatment for Teresa back/hip would no longer be causally related to, 
+or necessitated by Teresa’s injury of December 27, 2018.   
+On August 8, 2023, Deputy Jennifer Garrish-Lampe who was acting with the 
+Workers’ Compensation Commissioner’s authorization, conducted a hearing on 
+Teresa’s alternate medical care application.  At the time of the hearing, Teresa clarified 
+that she was requesting authorization to go back to either Dr. Kim or her primary care 
+physician to review her case with regard to the need for an updated MRI.1 During the 
+hearing the Court received into evidence the written opinion of Dr. Kim referred to 
+above and two exhibits consisting of reports from Teresa’s physical therapists. 
+Teresa also testified at the hearing.  In her testimony, Teresa stated that she 
+was seeing her physical therapists as directed by Dr. Kim; however, she was still 
+experiencing pain in her low back, hip, and left leg.2  Teresa further testified that since 
+physical therapy was not working, her physical therapists recommended that she 
+return to her primary doctor as they recommended another MRI.3 In response to 
+questioning from Deputy Garrish-Lampe, counsel for Compass clarified that while    
+Dr. Kim agrees that a repeat MRI may be necessary to evaluate Teresa further, in his 
+opinion, any further medical treatment would not be causally connected to Teresa’s 
+December 27, 2018 injury.4 
+                                                 
+1 See, Transcription of Alternate Care Hearing (D0011) at page 3.  
+2 See, Transcription of Alternate Care Hearing (D0011) at page 5. 
+3 See, Transcription of Alternate Care Hearing (D0011) at page 5. 
+4 See, Transcription of Alternate Care Hearing (D0011) at page 8. 
+E-FILED                    CVCV066011 - 2024 FEB 07 02:19 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 9
+
+3 
+ 
+On August 10, 2023, Deputy Garrish-Lampe issued her decision dismissing 
+Teresa’s alternate care petition without prejudice.  In doing so, Deputy Garrish-Lampe 
+reasoned that since Compass denied liability for the claimed alternate care, she had 
+no choice but to dismiss the alternate care petition.  Deputy Garrish-Lampe reached 
+this conclusion because she held that the summary proceedings under which an 
+alternate care petition are decided as provided for in Iowa Code § 85.27(4) are not 
+designed to adjudicate claims where the compensability of a claim is disputed.   
+Deputy Garrish-Lampe’s decision constituted final agency action.  Teresa timely 
+sought judicial review of the dismissal of her alternate care petition.  In her judicial 
+review brief, Teresa raises a single claim:  Whether issue preclusion applies to bar 
+Compass from relitigating causation for Teresa’s ongoing medical care.  The Court will 
+examine Teresa’s claim in light of the following legal principles.    
+Standard Of Review 
+Chapter 17A of the Iowa Code governs judicial review of administrative agency 
+action. The district court acts in an appellate capacity to correct errors of law on the 
+part of the agency. Meyer v. IBP, Inc., 710 N.W.2d 213, 219 (Iowa 2006).  The court 
+“may grant relief if the agency action has prejudiced the substantial rights of the 
+petitioner, and the agency action meets one of the enumerated criteria contained in 
+section 17A.19(10)(a) through (n).” Burton v. Hilltop Care Cntr., 813 N.W.2d 250, 256 
+(Iowa 2012) (quoting Evercom Sys., Inc. v. Iowa Utilities Bd., 805 N.W.2d 758, 762 
+(Iowa 2011)). Where an agency has been “clearly vested” with a fact-finding function, 
+the appropriate “standard of review [on appeal] depends on the aspect of the agency's 
+decision that forms the basis of the petition for judicial review”—that is, whether it 
+involves an issue of 1) findings of fact, 2) interpretation of law, or 3) application of law 
+to fact. Burton, 813 N.W.2d at 256.  
+E-FILED                    CVCV066011 - 2024 FEB 07 02:19 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 9
+
+4 
+ 
+Review of findings of fact:  The courts use a substantial evidence standard 
+when considering challenges to findings of fact in agency decisions.  A reviewing court 
+can only disturb factual findings if they are “not supported by substantial evidence in 
+the record before the court when that record is reviewed as a whole.”  Burton, 813 
+N.W.2d at 256 (quoting Iowa Code § 17A.19(10)(f)).  The Iowa Supreme Court has 
+outlined the court’s guidelines when reviewing substantial evidence claims under the 
+17A.19 standard as follows: 
+When reviewing a finding of fact for substantial evidence, we judge the 
+finding in light of all the relevant evidence in the record cited by any 
+party that detracts from that finding as well as all of the relevant 
+evidence in the record cited by any party that supports it.  Our review of 
+the record is fairly intensive, and we do not simply rubber stamp the 
+agency finding of fact. 
+ 
+Evidence is not insubstantial merely because different conclusions may 
+be drawn from the evidence. To that end, evidence may be substantial 
+even though we may have drawn a different conclusion as fact finder. 
+Our task, therefore, is not to determine whether the evidence supports a 
+different finding; rather, our task is to determine whether substantial 
+evidence, viewing the record as a whole, supports the findings actually 
+made. 
+ 
+Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 845 (Iowa 2011) (internal 
+citations and quotation marks omitted). 
+Application of law to fact:  When a party challenges the ultimate conclusion 
+reached by the agency, then the challenge is to the agency's application of the law to 
+the facts.  In that event, the question on review is whether the agency abused its 
+discretion by, for example, employing wholly irrational reasoning or ignoring important 
+and relevant evidence.  Meyer, 710 N.W.2d at 219.  The court will only reverse the 
+agency’s application of law to the facts if it is irrational, illogical, or wholly 
+unjustifiable. Neal v. Annett Holdings, Inc., 814 N.W.2d 512, 518 (Iowa 2012).  
+ 
+ 
+E-FILED                    CVCV066011 - 2024 FEB 07 02:19 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 9
+
+5 
+ 
+Analysis 
+ 
+There is no dispute that Teresa suffered a compensable work-related injury on 
+December 27, 2018.  As a result, Compass was required to provide Teresa with 
+reasonable medical services and supplies. See, Iowa Code § 85.27(1).  Under chapter 
+85, in return for an employer's obligation “to furnish reasonable services and supplies 
+to treat an injured employee,” the employer generally possesses the right to choose the 
+care received.  See, Iowa Code § 85.27(4).  Section 85.27(4) further provides, in 
+relevant part: 
+If the employer chooses the care, the employer shall hold the employee 
+harmless for the cost of care until the employer notifies the employee that the 
+employer is no longer authorizing all or any part of the care and the reason for 
+the change in authorization .... The treatment must be offered promptly and be 
+reasonably suited to treat the injury without undue inconvenience to the 
+employee.  
+ 
+If the employee has reason to be dissatisfied with the care offered, the employee 
+should communicate the basis of such dissatisfaction to the employer, in 
+writing if requested, following which the employer and the employee may agree 
+to alternate care reasonably suited to treat the injury.  
+ 
+If the employer and employee cannot agree on such alternate care, the 
+commissioner may, upon application and reasonable proofs of the 
+necessity therefor, allow and order other care. (emphasis added) 
+ 
+Id. 
+Alternate medical care proceedings are summary proceedings. See, Iowa Admin. 
+Code r.876–4.1, 876–4 .48(7); See also Iowa Code § 85.27(4); McGowan v. Brandt 
+Constr. Co., No. 09-1033, 2010 WL 2079704, at *4 (describing alternate medical care 
+proceedings as summary proceedings).  In fact, the Commissioner must issue a 
+decision within ten days of the filing of an alternate care petition when a telephone 
+hearing is held or within fourteen days of an in-person hearing.  See, Iowa Code § 
+85.27(4); see also Iowa Admin. Code r.876–4.1, 876–4 .48(14).  All discovery must be 
+completed before the hearing. See, also Iowa Admin. Code r.876–4.1, 876–4 .48(9).  
+E-FILED                    CVCV066011 - 2024 FEB 07 02:19 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 9
+
+6 
+ 
+Because of the summary nature of the proceedings, Administrative rule  
+876–4 .48(6) provides that: 
+4.48(6) Employer liability.  Application cannot be filed under this rule if 
+the liability of the employer is an issue.  If an application is filed where the 
+liability of the employer is an issue, the application will be dismissed without 
+prejudice.   
+ 
+In this case, Deputy Garrish-Lampe concluded that dismissal without prejudice was 
+appropriate under Rule 4.86(6) as Compass denied liability because it denied that the 
+alternate medical care Teresa was requesting was casually connected to her original 
+work injury.  Teresa challenges this decision on judicial review contending that issue 
+preclusion applies to prevent Compass from relitigating causation. 
+The Iowa Supreme Court has adopted the following test for when issue 
+preclusion may be utilized in a subsequent court proceeding, holding:  
+(1) The issue concluded must be identical;  
+ 
+(2) The issue must have been raised and litigated in the prior action;  
+ 
+(3) The issue must have been material and relevant to the disposition 
+of the prior action; and 
+ 
+(4) The determination made of the issue in the prior action must have been 
+necessary and essential to the resulting judgment. 
+ 
+Hunter v. City of Des Moines, 300 N.W.2d 121, 123 (Iowa 1981).  
+ 
+The Court concludes that Teresa has not met this legal test.  As the Iowa Court 
+of Appeals has previously held, an employer may properly admit to an injury arising 
+out of and in the course of employment while still contesting liability for all of the 
+consequences and any disability claimed to result from such injury. See, McGowan v. 
+Brandt Constr. Co., No. 09–1033, 2010 WL 2079704, at *4 (Iowa Ct. App. May 26, 
+2010).  While this unpublished opinion is not binding precedent on this Court, the 
+Court finds the legal analysis of this case to be persuasive and the Court will follow it.   
+E-FILED                    CVCV066011 - 2024 FEB 07 02:19 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 9
+
+7 
+ 
+Additionally, in NID Inc. v. Monahan, No. 14-0292, 2015 WL 1332332 (Iowa Ct. 
+App. March 25, 2015), the Iowa Court of Appeals rejected an attempt to apply the 
+doctrine of judicial estoppel to prevent an employer from denying causation and 
+liability in an alternate care proceeding.  Read together, these cases stand for the 
+proposition that Compass is well within its rights to contest causation in an alternate 
+care proceeding as neither issue preclusion nor judicial estoppel prevents it from doing 
+so.  That is because there has not been a previous finding that Teresa’s need for an 
+updated MRI is casually related to her work injury, so no issue preclusion applies. 
+When Compass denied liability and supported its denial with expert opinion 
+evidence, Deputy Garrish-Lampe was required to dismiss Teresa’s alternate care 
+petition without prejudice.  Consequently, the Court concludes that there is no legal or 
+factual basis that justifies overturning the agency’s action in this case. 
+In reaching this decision, the Court is not unsympathetic to the petitioner’s 
+plight in this case as apparently even Dr. Kim recognizes that an updated MRI may be 
+necessary to further evaluate and direct her treatment.  Of course, Petitioner may 
+continue to advance her claim through alternate proceedings available to her under 
+chapter 85; however, as her counsel points out, such litigation tends to be drawn out 
+and protracted.   
+This means that, even if the Petitioner is ultimately successful in proving that 
+the medical care she has requested is causally related to her work injury, such care 
+may be delayed for many months or even years.  The Court can certainly conceive of a 
+statutory or regulatory framework where contested claims such as this one where the 
+sole dispute is limited to causation could easily be decided on a more expedited basis 
+while still protecting an employer’s interests.  But that is not the current system in 
+E-FILED                    CVCV066011 - 2024 FEB 07 02:19 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 9
+
+8 
+ 
+place and this Court is powerless to create such a system.  There being no error of law 
+committed by the agency, Teresa’s petition for judicial review must be denied.             
+ORDER 
+IT IS THEREFORE ORDERED, ADJUDGED, AND DECREED that the Request 
+for Judicial Review made by Petitioner is DENIED.  Court costs are taxed against 
+Petitioner. 
+E-FILED                    CVCV066011 - 2024 FEB 07 02:19 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 9
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV066011
+TERESA WALTON VS COMPASS GROUP AND NEW
+HAMPSHIRE INS CO
+Type:
+ORDER FOR JUDGMENT
+So Ordered
+Electronically signed on 2024-02-07 14:19:41
+E-FILED                    CVCV066011 - 2024 FEB 07 02:19 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 9

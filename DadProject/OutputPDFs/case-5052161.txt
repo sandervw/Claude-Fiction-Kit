@@ -1,0 +1,169 @@
+Case Number: 5052161
+Case Title:  MARRS, ROBERTA V. REGIONALCARE HOSPITAL PA
+Doc Type:    Decision - Court of Appeals
+Source:      Marrs, Roberta-5052161.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 19-2138 
+Filed February 17, 2021 
+ 
+ 
+REGIONAL CARE HOSPITAL PARTNERS, INC., and ZURICH AMERICAN 
+INSURANCE COMPANY, 
+ 
+Petitioners-Appellants, 
+ 
+vs. 
+ 
+ROBERTA MARRS, 
+ 
+Respondent-Appellee. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, David Porter, Judge. 
+ 
+ 
+An employer and its workers’ compensation insurance carrier appeal an 
+award of workers’ compensation benefits to an employee.  AFFIRMED. 
+ 
+ 
+Valerie A. Foote of Smith Mills Schrock Blades P.C., West Des Moines, for 
+appellants. 
+ 
+John P. Dougherty of Lawyer, Dougherty & Palmer, P.L.C., West Des 
+Moines, for appellee. 
+ 
+ 
+Considered by Doyle, P.J., and Tabor and Ahlers, JJ.
+
+ 
+2
+DOYLE, Presiding Judge. 
+ 
+Roberta Marrs injured her back and neck while working as a nurse at 
+Ottumwa Regional Health Center.  In the months that followed, Marrs received a 
+diagnosis of and treatment for thoracic and high-lumbar sprains.  Marrs received 
+a medical release to return to light-duty work four months after the date of injury, 
+but her employer never offered her light-duty work and stopped payment of 
+medical expenses and temporary benefits.   
+ 
+Although her lumbar pain resolved, Marrs continued to have pain in her 
+upper back and neck.  Several doctors agreed that a degenerative disc condition 
+in her cervical spine was the cause and recommended anterior cervical discectomy 
+and fusion (ACDF) surgery.  The question was whether it was related to her work 
+injury.  Dr. Chad Abernathey stated that he would not consider the ACDF surgery 
+“to be a work related surgical procedure.”  He also believed that Marrs reached 
+maximum medical improvement six months after the date of injury and had no 
+permanent impairment or physical restrictions.  But Dr. Sarkis Kaspar, who Marrs 
+sought treatment from through her private health insurance, believed the incident 
+that occurred at work either caused the injury to Marrs’s neck or materially 
+aggravated, lighted-up, or accelerated some pre-existing degenerative condition.  
+And Dr. Todd Harbach, who conducted an independent medical examination at 
+Regional Care’s request, agreed with Dr. Kaspar.  Dr. Harbach also determined 
+that Marrs had not reached maximum medical improvement and will have a 
+permanent impairment as a result of her work injury.   
+ 
+Marrs petitioned for workers’ compensation benefits from Regional Care 
+Hospital Partners, Inc., her employer, and American Zurich Insurance Company, 
+
+ 
+3
+her employer’s insurance carrier (collectively “Regional Care”).  Following a 
+hearing, a deputy workers’ compensation commissioner awarded Marrs healing 
+period benefits of $559.49 per week and ordered Regional Care to pay a $50,000 
+penalty and reimburse Marrs for medical expenses.  Regional Care appealed, and 
+the workers’ compensation commissioner affirmed the award of healing period 
+benefits but reduced the penalty from $50,000 to $39,000.  The district court 
+affirmed the commissioner on judicial review.  Regional Care appealed. 
+ 
+We review the district court’s ruling on judicial review under the standards 
+in the Iowa Administrative Procedure Act.  See Bell Bros. Heating & Air 
+Conditioning v. Gwinn, 779 N.W.2d 193, 199 (Iowa 2010).  Our review is limited to 
+determining whether the district court correctly applied the law in exercising its 
+review under Iowa Code section 17A.19(8) (2017).  See Tyson Foods, Inc. v. 
+Hedlund, 740 N.W.2d 192, 195 (Iowa 2007).  If we reach the same conclusions as 
+the district court, we affirm; if not, we reverse or modify.  See id. 
+ 
+Regional Care first challenges the evidence supporting the commissioner’s 
+finding that Marrs’s neck injury arose out of and in the course of her employment.  
+Because factual determinations are clearly vested in the discretion of the workers’ 
+compensation commissioner, we defer to the commissioner’s findings if they are 
+based on “substantial evidence in the record before the court when that record is 
+viewed as a whole.”  Larson Mfg. Co. v. Thorson, 763 N.W.2d 842, 850 (Iowa 
+2009) (quoting Iowa Code § 17A.19(10)(f)).  Substantial evidence is “the quantity 
+and quality of evidence that would be deemed sufficient by a neutral, detached, 
+and reasonable person, to establish the fact at issue when the consequences 
+resulting from the establishment of that fact are understood to be serious and of 
+
+ 
+4
+great importance.”  Iowa Code § 17A.19(10)(f)(1).  Rather than questioning 
+whether the evidence before us may support a different finding than that made by 
+the commissioner, we ask whether the evidence supports the finding actually 
+made.  See Larson Mfg. Co., 763 N.W.2d at 850. 
+ 
+The district court determined that substantial evidence supports the 
+commissioner’s finding regarding causation and that the commissioner correctly 
+applied the law to the facts in the case.  After weighing the opinions of the doctors 
+who examined Marrs, the commissioner found Dr. Abernathey’s unpersuasive 
+because the doctor “provided no explanation whatsoever.”  Instead, the 
+commissioner found Dr. Harbach’s opinion that the work injury aggravated a pre-
+existing condition—which is buttressed by Dr. Kaspar—to be most convincing.  It 
+the commissioner’s job to weigh these medical opinions, not that of the district 
+court or the court of appeals in conducting a substantial-evidence review.  See 
+Arndt v. City of Le Claire, 728 N.W.2d 389, 394 (Iowa 2007).  We agree with the 
+district court and affirm. 
+ 
+Regional Care also challenges the commissioner’s calculation of the weekly 
+benefit rate.   This determination is made by averaging the employee’s earnings in 
+the last thirteen consecutive calendar weeks leading up to the work injury.  See 
+Iowa Code § 85.36(6).  But if any week does not fairly reflect the employee’s 
+customary earnings, it is replaced “by the closest previous week with earnings that 
+fairly represent the employee's customary earnings.”  Id.  The commissioner 
+removed from the benefits calculation a two-week period during which Marrs 
+worked 54.75 regular hours versus all other relevant pay periods, in which Marrs 
+worked at least 62.5 regular hours.  Because we agree with the district court that 
+
+ 
+5
+the commissioner correctly applied the law to the facts and that substantial 
+evidence supports a finding that the two-week period did not represent Marrs’s 
+customary earnings, we affirm.   
+ 
+Finally, Regional Care challenges the commissioner’s assessment of 
+penalty benefits.  If an employer or its workers’ compensation carrier unreasonably 
+delays or terminates benefits, the commissioner can impose penalty benefits of 
+“up to fifty percent of the amount of benefits that were denied, delayed, or 
+terminated without reasonable or probable cause or excuse.”  Iowa Code 
+§ 86.13(4)(a).  The commissioner found Regional Care ceased payment of 
+benefits or medical expenses after November 17, 2014, when Marrs was released 
+to return to light-duty work.  The parties agreed that “roughly $80,000 of benefits 
+were unpaid at the time of the hearing.”  The commissioner found Regional Care 
+failed to pay the benefits without reasonable cause or excuse and determined that 
+a penalty “in the range of 50 percent is appropriate,” awarding $39,000 in penalty 
+benefits.   
+ 
+Regional Care argues it stopped paying benefits while Marrs was not 
+working due to conditions unrelated to her work injury.  It also claims that the 
+medical records show Marrs’s healing period had ended by November 26, 2014, 
+because her lumbar pain had “completely resolved,” her thoracic pain significantly 
+decreased, and her treating physician concluded there was “very little” to offer her 
+with regard to her remaining symptoms.  But even if it raised this argument in its 
+agency appeal, the only argument the commissioner addressed was Regional 
+Care’s claim it reasonably relied on Dr. Abernathey’s opinion to deny liability and 
+terminate benefits.  The commissioner rejected this claim, noting that Dr. 
+
+ 
+6
+Abernathy offered his opinion months after Regional Care stopped paying benefits 
+and that Regional Care offered no evidence that it properly communicated its 
+denial of benefits to Marrs.  We agree with the district court that substantial 
+evidence supports the finding that Regional Care failed to show it terminated 
+benefits for reasonable cause.   We therefore affirm. 
+ 
+AFFIRMED. 
+ 
+ 

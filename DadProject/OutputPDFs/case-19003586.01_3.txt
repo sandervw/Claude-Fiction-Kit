@@ -1,0 +1,273 @@
+Case Number: 19003586.01
+Case Title:  JAY, TRAVIS V. ARCHER SKID LOADER SERVICE LLC
+Doc Type:    Decision - District Court
+Source:      Jay, Travis-19003586.01.District Court Decision.PDF
+========================================================================
+
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+TRAVIS JAY, 
+            Petitioner, 
+ 
+vs. 
+ 
+ARCHER SKID LOADER SERVICE, 
+LLC, and GRINNELL MUTUAL. 
+            Respondents. 
+ 
+ 
+ 
+Case No. CVCV064318 
+ 
+RULING ON PETITION FOR JUDICIAL 
+REVIEW OF AGENCY DECISION 
+ 
+On April 14, 2023, the above-captioned matter came before this Court for hearing. 
+Petitioner Travis Jay was represented by attorney Brian Keit. Petitioner’s employer, Respondent 
+Archer Skid Loader Service, LLC (Archer), and its employer’s workers’ compensation carrier, 
+Respondent Grinnell Mutual (Grinnell), were represented by attorney Aaron T. Oliver. After 
+hearing the arguments of Counsel, and reviewing the court file, including the Certified 
+Administrative Record (“Cert. Rec.”), the Court enters this Order. 
+I. 
+BACKGROUND FACTS. 
+The review sought by this Petition is a reversal of the Appeal Decision (Decision) issued 
+by Iowa Workers’ Compensation Commissioner Joseph S. Cortese II (the Commissioner) on 
+August 23, 2022. The dispute was first heard by the Iowa Workers’ Compensation Commission 
+on July 15, 2021. Deputy Commissioner Benjamin G. Humphrey entered an Arbitration Decision 
+in the matter on March 17, 2022. Cert. Rec. pp. 45-57. Therein, the Deputy Commissioner awarded 
+Petitioner a 15% partial permanent disability (PPD) rating for impairment to Petitioner’s left 
+shoulder resulting from a workplace injury which occurred on September 19, 2019. Id. p. 56.  
+The Commissioner’s Decision generally affirmed the Deputy Commissioner’s factual 
+findings but made an alteration to the impairment rating chosen. The Deputy Commissioner’s 
+rating of 15% was the sum of 5% attributable to permanent range of motion damage and 10% 
+E-FILED                    CVCV064318 - 2023 MAY 22 10:56 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 9
+
+ 
+ 
+2 
+ 
+attributable to the operation performed on Petitioner. Id. pp. 50-51. Respondents appealed the 
+Arbitration Decision arguing the 15% impairment rating was not supported. Petitioner argued 
+before the Commissioner to uphold the Arbitration Decision. 
+The Commissioner’s task in deciding the impairment rating on appeal was one of parsing 
+expert credibility. Though both parties’ experts made similar medical findings, they differed in 
+their impairment rating attributable to the distal clavicle procedure that Petitioner underwent to 
+repair the injury. On one hand, the Respondent’s expert witness Dr. Vincent offered a rating of 
+0% for the distal clavicle excision. Id. pp. 7-9. Dr. Vincent’s opinion was quoted at length in the 
+Decision: 
+During a distal clavicle excision, one is removing a portion of diseased or 
+pathological bone. Consider the procedure, subacromial decompression, which 
+results in a small portion of the body. The bone is that is excised, however, is an 
+abnormality. Similarly, the patient undergoing an appendectomy for a diseased 
+infected tissue does not get a base impairment for the removal of the appendix. This 
+is because removal of this defective diseased tissue results in improved function, 
+not diminished function. Excision of an inferiorly spur from the distal clavicle 
+should approve function. Because removal of this liability is beneficial, it should 
+result in no and even perhaps negative impairment. 
+ 
+Id. p. 8 (emphasis added). Thus, the expert opinion offered by Dr. Vincent did not assign a rating 
+attributable to Petitioner’s distal clavicle excision. Dr. Vincent viewed the operation as one with 
+the potential to increase a patient’s use of their shoulder rather than one deserving a rating for a 
+PPD. Id. 
+ 
+Opposing Dr. Vincent’s opinion that “no impairment rating should be awarded based solely 
+on the distal clavicle procedures being performed” is the opinion and rating of Dr. Taylor.  Dr. 
+Taylor’s expert opinion and rating of 15% was adopted by the Deputy Commissioner, because it 
+was in line with the Fifth Edition of the American Medical Association’s (AMA) guidelines. Id. 
+p. 12. Without dismissing the medical expertise held by Dr. Vincent, the Deputy Commissioner 
+E-FILED                    CVCV064318 - 2023 MAY 22 10:56 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 9
+
+ 
+ 
+3 
+ 
+commented that Dr. Vincent’s medical opinion “does not govern determinations of functional 
+impairment under Iowa law. The Fifth Edition of the [AMA] Guides does.” Id. p. 55. The Deputy 
+Commissioner used Dr. Taylor’s expert opinion in the form of Petitioner’s PPD rating, because 
+his rating was more credible in that it did include a rating for the operation performed on Petitioner. 
+In the Deputy Commissioner’s words, 
+Table 16-27 on page 506 of the [AMA] Guides provides that a ten percent 
+impairment is used for distal clavicle resection . . . Dr. Vincent’s impairment rating 
+is given less weight because he intentionally did not follow the Guides. For this 
+reason, Dr. Taylor’s Opinion is more credible and is adopted. 
+ 
+Id. Between one expert opinion that accounted for a required rating and one that did not, the Deputy 
+Commissioner chose the former: Dr. Taylor’s 15% rating. 
+Under Iowa’s workers’ compensation laws, benefits for PPD are paid in monthly amounts 
+for a duration dependent upon the impairment rating. Iowa Code § 85.34(2). For an injury to the 
+shoulder, Iowa law establishes a starting schedule for the calculation of monthly obligations at 400 
+weeks. Id. § 85.34(2)(n). That number is multiplied by the PPD rating to arrive at the number of 
+weeks an amount will be owed. Id. § 85.34(2). Applying this process, the Deputy Commissioner 
+arrived at a calculation of 60 weeks of entitlement to benefits for PPD. Cert. Rec. p. 56.  
+The Commissioner upheld an award of stand-alone reimbursements to Petitioner in the 
+amounts of $103.00, $14.00, $285.00 and $88.15 for administrative costs incurred in the litigation, 
+“[w]ithout further analysis.” Id. The Commissioner additionally affirmed the Deputy 
+Commissioner’s factual finding that Petitioner suffered from PPD caused by the work injury, but 
+“modif[ied] in part” and “reverse[d] in part” the 15% PPD rating decided by the Deputy 
+Commissioner. Id. Respondents’ chief argument before the Commissioner was that the five 
+percent rating should not have been considered by the Deputy Commissioner due to a non-
+workplace reaggravation or reinjury of the same shoulder: 
+E-FILED                    CVCV064318 - 2023 MAY 22 10:56 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 9
+
+ 
+ 
+4 
+ 
+On appeal, defendants assert the deputy erred in finding claimant sustained a five 
+percent impairment rating for loss of motion. As noted by Dr. Taylor in his report, 
+the range of motion findings are similar. Defendants argue the difference is due to 
+a reinjury. I find the deputy commissioner properly found claimant’s reinjury was 
+temporary and did not result in any additional disability. 
+ 
+Id. pp. 10-11. Respondents do not argue before this Court that the Commissioner erred in affirming 
+the Deputy Commissioner’s finding that Petitioner did not suffer a re-injury of the shoulder that 
+would lessen Respondents’ liabilities on a contribution theory. Instead, Petitioner seeks judicial 
+review of the Commissioner’s reduction of the 15% rating found by the Deputy Commissioner. 
+Respondents desire that the Decision be affirmed in full. Resp’ts’ Br. 13. 
+ 
+The portion of the Deputy Commissioner’s Arbitration Decision that was reversed was his 
+calculation of the rating to be attributed to Petitioner’s distal clavicle excision. Having ruled out 
+Dr. Vincent’s rating because it did not include any rating for the procedure, the Deputy 
+Commissioner was left with the 15% rating offered by Dr. Taylor. However, Dr. Taylor’s rating 
+was also flawed for its failure to apply a modification coefficient to the rating. Cert. Rec. p. 12. 
+The Deputy Commissioner did not notice the error in Dr. Taylor’s calculation and issued the 15% 
+impairment rating without acknowledging its failure to apply a modification. The effect of not 
+applying the modifier was beneficial to Petitioner because the modifier reduces the impairment 
+rating. 
+The Commissioner’s Decision sums up the errors in both experts’ ratings and his decision 
+to set the disputed PPD rating at 7.5 percent: 
+Claimant underwent a distal clavicle excision. The AMA Guides direct the 
+physician to assign a rating for [the procedure] contrary to Dr. Vincent’s opinion. 
+The AMA Guides also require application of a 25 percent multiplier. This results 
+in a 2.5 percent impairment for a distal clavicle excision under the plain text of the 
+AMA Guides. I find claimant sustained a five percent permanent impairment for 
+loss of range of motion and additional 2.5 percent impairment for the distal clavicle 
+excision. Using . . . the AMA Guides, claimant has sustained seven percent 
+E-FILED                    CVCV064318 - 2023 MAY 22 10:56 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 9
+
+ 
+ 
+5 
+ 
+impairment and is entitled to 28 weeks of permanent partial disability benefits . . . 
+at the stipulated weekly rate of $950.24. 
+ 
+Id. Applying the modifier demanded by the AMA guides, the Commissioner began with an 
+impairment rating of 10%, accepting the Deputy Commissioner’s finding that Dr. Taylor’s rating 
+and opinion were more credible. Id. Then because the applicable modifier was 25%, the 
+impairment rating was reduced to one-fourth its original amount, 2.5%. Id. This was then added to 
+the 5% impairment rating to arrive at a PPD rating of 7.5%. 
+II. 
+STANDARD OF REVIEW. 
+A party to a workers’ compensation action may seek judicial review under Iowa Code 
+§17A.19(1) if they are “aggrieved or adversely affected by any final agency decision.” See Des 
+Moines Area Reg’l Transit Auth. v. Young, 867 N.W.2d 839, 841-42 (Iowa 2015). The standard of 
+review is controlled by the existence of a statute delegating the authority to exercise discretion to 
+decide an issue. “When discretion has been vested in the commissioner,” the Court should “reverse 
+only if the commissioner’s application was ‘irrational, illogical, or wholly unjustifiable.’” Id. at 
+842 (quoting Larson Mfg. Co. v. Thorson, 763 N.W.2d 842, 850 (Iowa 2009)); see also Iowa Code 
+§ 17A.19(10)(l). Where the commissioner has not been given authority to exercise discretion by 
+the legislature, the review is for errors at law. Iowa Code § 17A.19(10)(c). 
+“Application of workers’ compensation laws to facts as found by the commissioner is 
+clearly vested in the commissioner.” Midwest Ambulance Service v. Ruud, 754 N.W.2d 860, 864 
+(Iowa 2008) (citing Mycogen Seeds v. Sands, 700 N.W.2d 328, 330 (Iowa 2005)). The 
+commissioner’s findings are only reversed when they are not supported by substantial evidence 
+when the record is viewed as a whole. Iowa Code § 17A.19(10)(f). A finding of substantial 
+evidence occurs when a “neutral, detached, and reasonable person” determines that the evidence 
+is sufficient to establish a fact that has serious and important consequences. Id. § 17A.19(10)(f)(1). 
+E-FILED                    CVCV064318 - 2023 MAY 22 10:56 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 9
+
+ 
+ 
+6 
+ 
+Where the application of facts to law is vested in the commissioner’s discretion, an “irrational, 
+illogical, or wholly unjustifiable” application of law to fact is required for reversal. Id. § 
+17A.19(10)(m). 
+III. 
+ANALYSIS. 
+The Decision producing the decreased rating is challenged by Petitioner for two reasons. 
+First, Petitioner argues that the Commissioner acted outside his scope of authority by issuing his 
+own impairment rating rather than adopting one offered by a physician. Second, Petitioner alleges 
+that even if this was within the Commissioner’s authority, he nonetheless committed an error of 
+law when calculating the duration of Petitioner’s entitlements to PPD benefits from Respondents. 
+Petitioner’s argument that the PPD rating selected by the Commissioner must be one 
+offered by an expert witness is not persuasive. Iowa Code § 85.34(2)(x) provides: 
+In all cases of permanent partial disability . . . when determining functional 
+disability and not loss of earning capacity, the extent of loss or percentage of 
+permanent impairment shall be determined solely by utilizing the guides to 
+evaluation of permanent impairment, published by the American medical 
+association, as adopted by the workers’ compensation commission by rule pursuant 
+to chapter 17A. 
+ 
+Petitioner would have the Commissioner adopt a medical rating that would be in direct violation 
+of the AMA guidelines. Both expert opinions were flawed and adopting either in whole would 
+have been in violation of the Commissioner’s duty to calculate ratings in conformance with the 
+AMA’s guidelines. 
+The record indicates that the Commissioner avoided accepting an impairment rating that 
+controverts the plain meaning of Iowa Code § 85.34(2)(x). The Commissioner did so by correcting 
+the flaw in Dr. Taylor’s rating so that it was calculated correctly under the AMA guidelines. The 
+Court concludes the Commissioner did not act in excess of his authority when he issued his own 
+impairment rating. The Commissioner did not violate Iowa Code § 85.34(2)(x). To the contrary, 
+E-FILED                    CVCV064318 - 2023 MAY 22 10:56 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 9
+
+ 
+ 
+7 
+ 
+he promoted it by not accepting ratings that did not follow the provision’s demands of conformance 
+with the AMA. Given Dr. Taylor’s error, if the Commissioner had been required to accept one of 
+the doctor’s ratings, his only option would be Dr. Vincent’s rating of 0%. Such a decision would 
+have been worse for the Petitioner. The Commissioner did not exceed his authority.  
+Turning to the Petitioner’s second argument, the Court affirms the formula used by the 
+Commissioner to reach the 7.5% rating but finds error with the award of 28 weeks of benefits. 
+Weeks of benefits for a scheduled shoulder injury are calculated by multiplying the impairment 
+rating percent by 400. See Iowa Code § 85.34(2)(n). Petitioner points to the 5th Edition of AMA 
+Guidelines which states, “The final calculated whole person impairment rating, whether it is based 
+on the evaluation of one organ system or several organ systems, should be rounded to the nearest 
+whole number.” Ex. 3, p. 2. The AMA Guidelines offer direct corroboration that the 7.5% 
+impairment rating must be a whole number. There is no question the whole number used by the 
+Commissioner to calculate PPD benefits was the number seven rather than eight. 
+Respondents argue that the proper impairment rating is 7% because “the Commissioner 
+was not ‘rounding;’ he was making a disability determination.” Resp’ts’ Br. p. 9. Contrary to 
+Respondents’ assertion that the resulting 28 weeks awarded in the Decision was intentional, the 
+Commissioner made clear he assigned “a 2.5 percent impairment [rating] for the distal clavicle 
+excision under the plain text of the AMA Guidelines.” Cert. Rec. p. 12. The AMA guidelines 
+clearly establish that an impairment rating needs to be rounded to a whole number. Using standard 
+principles of mathematics, when 7.5 is rounded to the nearest whole number, the result is eight.  
+The Court concludes that the Commissioner’s award of 28 weeks of PPD benefits was an 
+error of law. When the 7.5 percent rating is rounded to the nearest whole number of 8 percent and 
+E-FILED                    CVCV064318 - 2023 MAY 22 10:56 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 9
+
+ 
+ 
+8 
+ 
+multiplied by the value over which the scheduled injury is to be compensated for, the resulting 
+period of benefits is 32 weeks. 
+IV. 
+DISPOSITION. 
+For all reasons set forth above, the Petitioner is awarded 32 weeks of benefits, payable in 
+the manner as if they had been awarded by the Iowa Workers’ Compensation Commission.  
+ 
+E-FILED                    CVCV064318 - 2023 MAY 22 10:56 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 9
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV064318
+TRAVIS JAY V ARCHER SKID LOADER SERVICE LLC
+Type:
+ORDER FOR JUDGMENT
+So Ordered
+Electronically signed on 2023-05-22 10:56:53
+E-FILED                    CVCV064318 - 2023 MAY 22 10:56 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 9

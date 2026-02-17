@@ -1,0 +1,1825 @@
+Case Number: 20700556.01
+Case Title:  NUSINOVIC, FIKRETA V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC
+Doc Type:    Decision - Deputy
+Source:      Nusinovic Fikreta-19001748.01D.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+FIKRETA NUSINOVIC, 
+  : 
+File Nos. 19001748.01, 20009674.01, 
+ 
+ 
+  : 
+ 
+     20700556.01, 21700201.01, 
+ 
+Claimant, 
+  :       
+     21700202.01, 21700203.01 
+ 
+ 
+  :       
+   
+vs. 
+ 
+  : 
+ 
+   
+ 
+ 
+  :                  
+UNITYPOINT HEALTH-WATERLOO/ 
+  : 
+       ARBITRATION DECISION 
+ALLEN HEALTH SYSTEMS, INC., 
+  : 
+ 
+ 
+  :                            
+ 
+Employer, 
+  : 
+Headnotes:   1402.30, 1402.40,  
+ 
+Self-Insured, 
+  : 
+ 
+ 
+1403.10, 1803, 1803.1, 
+ 
+Defendant. 
+  : 
+ 
+ 
+2501, 2701, 2907 
+______________________________________________________________________ 
+ 
+On June 16, 2020, Claimant Fikreta Nusinovic filed three petitions in arbitration 
+against Defendant UnityPoint Health-Waterloo/Allen Health Systems (“Allen Health”), 
+File Numbers 19001748.01, 20009674.01, 20700556.01.  In File Number 19001748.01, 
+Nusinovic alleges she sustained an injury to her right shoulder on May 3, 2019, from 
+repetitive trauma while working for Allen Health.  Allen Health filed an answer on July 6, 
+2020.  Nusinovic later amended her petition to also allege an injury to her right upper 
+extremity.  In File Number 20009674.01, Nusinovic alleges she sustained an injury to 
+her left upper extremity and left shoulder from repetitive trauma and overuse from her 
+right upper extremity injury on May 30, 2019.  Allen filed an answer on July 7, 2020.  In 
+file Number 20700556.01, Nusinovic alleges she sustained an injury to her back and 
+right lower extremity while working for Allen Health on September 10, 2019.  Allen 
+Health filed an answer on July 7, 2020.   
+On March 2, 2021, Nusinovic filed three additional petitions in arbitration against 
+Allen Health, File Numbers 21700201.01, 21700202.01, 21700203.01.  In File Number 
+21700201.01, Nusinovic alleges she sustained an injury to her back while attending a 
+functional capacity evaluation for Allen Health on January 14, 2021.  In File Number 
+21700202.01, Nusinovic alleges she sustained an injury to her right upper extremity and 
+right shoulder from lifting, pushing, pulling, and repetitive trauma while working for Allen 
+Health on February 1, 2021.  In File Number 21700203.01, Nusinovic alleges she 
+sustained an injury to her left shoulder from lifting, pushing, pulling, and repetitive 
+trauma while working for Allen Health on February 10, 2021.  Allen Health filed answers 
+on March 29, 2021.   
+An arbitration hearing was held via CourtCall video conference on October 29, 
+2021.  The transcript Allen Health filed provides Deputy Workers’ Compensation 
+Commissioner Joseph Walsh presided over the hearing, which is a scrivener’s error.  
+Deputy Workers’ Compensation Commissioner Heather Palmer presided over the 
+hearing.  Attorney Tom Drew represented Nusinovic.  Nusinovic appeared and testified.  
+ELECTRONICALLY FILED     2022-Feb-24  12:24:54     DIVISION OF WORKERS' COMPENSATION
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 2 
+ 
+Attorney Jennifer Clendenin represented Allen Health.  Mary Peterson appeared on 
+behalf of Allen Health, but did not testify.  Joint Exhibits (“JE”) 1 through 15, and 
+Exhibits 1 through 10 and A through N were admitted into the record.  The record was 
+held open through January 7, 2022, for the receipt of post-hearing briefs.  The briefs 
+were received and the record was closed. 
+The parties submitted Hearing Reports, listing stipulations and issues to be 
+decided.  Allen Health raised the affirmative defense of refusal of suitable work under 
+Iowa Code section 85.33 in all six files and unauthorized care under Iowa Code section 
+85.27 in File Numbers 20009674.01, 20700556.01, 21700201.01, 21700202.01, and 
+21700203.01, and waived all other affirmative defenses.  The Hearing Reports were 
+approved at the conclusion of the hearing.   
+FILE NO. 19001748.01 
+ 
+STIPULATIONS 
+ 
+ 
+1. 
+An employer-employee relationship existed between Allen Health and 
+Nusinovic at the time of the alleged injury. 
+ 
+2. 
+Nusinovic sustained an injury on May 3, 2019, which arose out of and in 
+the course of her employment with Allen Health. 
+ 
+3. 
+The alleged injury is a cause of temporary disability during a period of 
+recovery. 
+ 
+4. 
+Entitlement to temporary benefits is no longer in dispute. 
+ 
+5. 
+The alleged injury is a cause of permanent disability. 
+ 
+6. 
+At the time of the alleged injury, Nusinovic’s gross earnings were $680.76 
+per week, she was married and entitled to two exemptions, and the parties believe the 
+rate is $456.92. 
+ 
+7. 
+Medical benefits are no longer in dispute. 
+ 
+8. 
+Costs have been paid. 
+ISSUES 
+ 
+1. 
+What is the nature of the alleged injury? 
+ 
+2. 
+What is the extent of the disability? 
+ 
+3. 
+Is Nusinovic permanently and totally disabled under the statute or 
+common law odd-lot doctrine? 
+ 
+4. 
+What is the commencement date for permanency? 
+ 
+5. 
+Did Nusinovic refuse suitable work under Iowa Code section 85.33(3), 
+precluding her from receiving temporary disability benefits? 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 3 
+ 
+ 
+6. 
+Did Nusinovic refuse an offer of work at the same or greater salary, 
+wages, or earnings than she received at the time of the injury, and if so, is she only 
+entitled to the functional rating under Iowa Code section 85.34(2)(v)? 
+ 
+7. 
+If the injury is found to be a cause of permanent disability, what is the 
+commencement date for permanent partial disability benefits, if any are awarded? 
+ 
+8. 
+Does the successive disabilities provision of Iowa Code section 85.34(7) 
+apply? 
+ 
+9. 
+Did Allen Health pay Nusinovic 20 weeks of permanent partial disability 
+benefits at the rate of $466.68 per week for a total of $9,333.60, and was she paid 4 
+weeks and 5 days of temporary disability benefits at the rate of $466.68, for a total of 
+$2,199.93? 
+ 
+10. 
+Is Allen Health entitled to a credit for excess payments or overpayments 
+under Iowa Code section 85.34(4) or (5)? 
+ 
+11. 
+Should costs be assessed against either party? 
+FILE NO. 20009674.01 
+STIPULATIONS 
+ 
+1. 
+An employer-employee relationship existed between Allen Health and 
+Nusinovic at the time of the alleged injury. 
+ 
+2. 
+While entitlement to temporary benefits cannot be stipulated to, Nusinovic 
+has been off work since February 26, 2021.   
+ 
+3. 
+At the time of the alleged injury, Nusinovic’s gross earnings were $682.87 
+per week, she was married and entitled to two exemptions, and the parties believe the 
+rate is $458.14. 
+ISSUES 
+ 
+1. 
+Did Nusinovic sustain an injury which arose out of and in the course of her 
+employment with Allen Health on May 30, 2019? 
+ 
+2. 
+Is the alleged injury a cause of temporary disability during a period of 
+recovery? 
+3. 
+Is the alleged injury a cause of permanent disability? 
+4. 
+What is the nature of the alleged injury? 
+ 
+5. 
+Is Nusinovic entitled to a running award of temporary benefits 
+commencing on February 26, 2021? 
+ 
+6. 
+Did Nusinovic refuse suitable work under Iowa Code section 85.33(3), 
+precluding her from receiving temporary disability benefits? 
+ 
+7. 
+What is the extent of the disability? 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 4 
+ 
+ 
+8. 
+Is Nusinovic permanently and totally disabled under the statute or 
+common law odd-lot doctrine? 
+ 
+9. 
+Did Nusinovic refuse an offer of work at the same or greater salary, 
+wages, or earnings than she received at the time of the injury, and if so, is she only 
+entitled to the functional rating under Iowa Code section 85.34(2)(v)?   
+ 
+10. 
+If the injury is found to be a cause of permanent disability, what is the 
+commencement date for permanent partial disability benefits, if any are awarded? 
+ 
+11. 
+Does the successive disabilities provision of Iowa Code section 85.34(7) 
+apply? 
+ 
+12. 
+Is Allen Health entitled to a credit for excess payments or overpayments 
+under Iowa Code section 85.34(4) or (5)? 
+ 
+13. 
+Is Nusinovic entitled to payment of medical expenses? 
+ 
+14. 
+Is Allen Health entitled to a credit for medical/hospitalization expenses set 
+forth in Exhibit 8? 
+ 
+15. 
+Should costs be assessed against either party? 
+FILE NO. 20700556.01 
+STIPULATIONS 
+ 
+1. 
+An employer-employee relationship existed between Allen Health and 
+Nusinovic at the time of the alleged injury. 
+ 
+2. 
+Nusinovic sustained an injury on September 10, 2019, which arose out of 
+and in the course of her employment with Allen Health. 
+ 
+3. 
+The alleged injury is a cause of temporary disability during a period of 
+recovery. 
+ 
+4. 
+Although entitlement to temporary benefits cannot be stipulated to, 
+Nusinovic has been off work since February 26, 2021. 
+5. 
+The alleged injury is a cause of permanent disability. 
+ 
+6. 
+At the time of the alleged injury, Nusinovic’s gross earnings were $632.34 
+per week, she was married and entitled to two exemptions, and the parties believe the 
+rate is $429.52. 
+ 
+7. 
+Medical expenses are no longer in dispute. 
+ISSUES 
+ 
+1. 
+What is the nature of the injury? 
+ 
+2. 
+Is Nusinovic entitled to a running award of temporary benefits from 
+February 26, 2021? 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 5 
+ 
+ 
+3. 
+Did Nusinovic refuse suitable work under Iowa Code section 85.33(3), 
+precluding her from receiving temporary disability benefits? 
+ 
+4. 
+What is the extent of disability? 
+ 
+5. 
+Is Nusinovic permanently and totally disabled under the statute or 
+common law odd-lot doctrine? 
+ 
+6. 
+Did Nusinovic refuse an offer of work at the same or greater salary, 
+wages, or earnings than she received at the time of the injury, and if so, is she only 
+entitled to the functional rating under Iowa Code section 85.34(2)(v)? 
+7. 
+What is the commencement date for permanent partial disability benefits, 
+if any are awarded? 
+ 
+8. 
+Does the successive disabilities provision of Iowa Code section 85.34(7) 
+apply? 
+ 
+9. 
+Was Nusinovic paid 35 weeks of permanent partial disability benefits at 
+the rate of $429.52 per week for a total of $15,033.20, prior to the hearing? 
+ 
+10. 
+Is Allen Health entitled to a credit for excess payments or overpayments 
+under Iowa Code section 85.34(4) or (5)? 
+ 
+11. 
+Should costs be assessed against either party? 
+FILE NO. 21700201.01 
+STIPULATIONS 
+1. 
+An employer-employee relationship existed between Allen Health and 
+Nusinovic at the time of the alleged injury. 
+2. 
+Temporary benefits are no longer in dispute. 
+3. 
+If the injury is found to be a cause of permanent disability, the disability is 
+an industrial disability. 
+4. 
+At the time of the alleged injury, Nusinovic’s gross earnings were $640.97 
+per week, she was married and entitled to two exemptions, and the parties believe the 
+rate is $436.68. 
+ISSUES 
+ 
+1. 
+Did Nusinovic sustain an injury which arose out of and in the course of her 
+employment with Allen Health on January 14, 2021? 
+ 
+2. 
+Is the alleged injury a cause of temporary disability during a period of 
+recovery? 
+ 
+3. 
+Did Nusinovic refuse suitable work under Iowa Code section 85.33(3), 
+precluding her from receiving temporary disability benefits? 
+4. 
+Is the alleged injury a cause of permanent disability? 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 6 
+ 
+ 
+5. 
+What is the extent of the disability? 
+ 
+6. 
+Did Nusinovic refuse an offer of work at the same or greater salary, 
+wages, or earnings than she received at the time of the injury, and if so, is she only 
+entitled to the functional rating under Iowa Code section 85.34(2)(v)? 
+ 
+7. 
+If the injury is found to be a cause of permanent disability, what is the 
+commencement date for permanent partial disability benefits, if any are awarded? 
+ 
+8. 
+Does the successive disabilities provision of Iowa Code section 85.34(7) 
+apply? 
+ 
+9. 
+Is Nusinovic entitled to payment of medical expenses? 
+ 
+10. 
+Is Allen Health entitled to a credit for medical/hospitalization expenses set 
+forth in Exhibit 8 for payments made under a group plan under Iowa Code section 
+85.38? 
+ 
+11. 
+Should costs be assessed against either party? 
+FILE NO. 21700202.01 
+STIPULATIONS 
+1. 
+An employer-employee relationship existed between Allen Health and 
+Nusinovic at the time of the alleged injury. 
+2. 
+Temporary benefits are no longer in dispute. 
+3. 
+At the time of the alleged injury, Nusinovic’s gross earnings were $640.97 
+per week, she was married and entitled to two exemptions, and the parties believe the 
+rate is $436.68. 
+ISSUES 
+ 
+1. 
+Did Nusinovic sustain an injury which arose out of and in the course of her 
+employment with Allen Health on February 1, 2021? 
+ 
+2. 
+What is the nature of the injury? 
+3. 
+Is the alleged injury a cause of temporary disability during a period of 
+recovery? 
+ 
+4. 
+Did Nusinovic refuse suitable work under Iowa Code section 85.33(3), 
+precluding her from receiving temporary disability benefits? 
+5. 
+Is the alleged injury a cause of permanent disability? 
+ 
+6. 
+What is the extent of the disability? 
+ 
+7. 
+Is Nusinovic permanently and totally disabled under the statute or 
+common law odd-lot doctrine? 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 7 
+ 
+ 
+8. 
+Did Nusinovic refuse an offer of work at the same or greater salary, 
+wages, or earnings than she received at the time of the injury, and if so, is she only 
+entitled to the functional rating under Iowa Code section 85.34(2)(v)? 
+ 
+9. 
+If the injury is found to be a cause of permanent disability, what is the 
+commencement date for permanent partial disability benefits, if any are awarded? 
+ 
+10. 
+Does the successive disabilities provision of Iowa Code section 85.34(7) 
+apply? 
+11. 
+Is Allen Health entitled to a credit for excess payments or overpayments 
+under Iowa Code section 85.34(4) or (5)? 
+ 
+12. 
+Is Nusinovic entitled to payment of medical expenses? 
+ 
+13. 
+Is Allen Health entitled to a credit for medical/hospitalization expenses set 
+forth in Exhibit 8 for payments made under a group plan under Iowa Code section 
+85.38? 
+ 
+14. 
+Should costs be assessed against either party? 
+FILE NO. 21700203.01 
+STIPULATIONS 
+1. 
+An employer-employee relationship existed between Allen Health and 
+Nusinovic at the time of the alleged injury. 
+2. 
+Although entitlement cannot be stipulated to, Nusinovic has been off work 
+since February 26, 2021. 
+3. 
+At the time of the alleged injury, Nusinovic’s gross earnings were $640.97 
+per week, she was married and entitled to two exemptions, and the parties believe the 
+rate is $436.68. 
+ISSUES 
+1. 
+Did Nusinovic sustain an injury which arose out of and in the course of her 
+employment with Allen Health on February 10, 2021? 
+ 
+2. 
+What is the nature of the injury? 
+3. 
+Is the alleged injury a cause of temporary disability during a period of 
+recovery? 
+4. 
+Is Nusinovic entitled to a running award of temporary benefits from 
+February 26, 2021? 
+ 
+5. 
+Did Nusinovic refuse suitable work under Iowa Code section 85.33(3), 
+precluding her from receiving temporary disability benefits? 
+6. 
+Is the alleged injury a cause of permanent disability? 
+ 
+7. 
+What is the extent of the disability? 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 8 
+ 
+ 
+8. 
+Is Nusinovic permanently and totally disabled under the statute or 
+common law odd-lot doctrine? 
+ 
+9. 
+Did Nusinovic refuse an offer of work at the same or greater salary, 
+wages, or earnings than she received at the time of the injury, and if so, is she only 
+entitled to the functional rating under Iowa Code section 85.34(2)(v)? 
+ 
+10. 
+If the injury is found to be a cause of permanent disability, what is the 
+commencement date for permanent partial disability benefits, if any are awarded? 
+ 
+11. 
+Does the successive disabilities provision of Iowa Code section 85.34(7) 
+apply? 
+12. 
+Is Allen Health entitled to a credit for excess payments or overpayments 
+under Iowa Code section 85.34(4) or (5)? 
+ 
+13. 
+Is Nusinovic entitled to payment of medical expenses? 
+ 
+14. 
+Is Allen Health entitled to a credit for medical/hospitalization expenses set 
+forth in Exhibit 8 for payments made under a group plan under Iowa Code section 
+85.38? 
+ 
+15. 
+Should costs be assessed against either party? 
+FINDINGS OF FACT 
+ 
+Nusinovic was born in Bosnia and graduated from high school in 1991.  (Ex. K, p. 
+129; Tr., p. 24)  Nusinovic is married and she has lived in Waterloo for 18 years.  (Ex. K, 
+p. 129; Tr., p. 23)  According to the first reports of injury, at the time of the hearing she 
+was 49.   
+After moving to Waterloo, Nusinovic worked for Home Shopping Network for one 
+year and Beef Products for five and a half years.  (Tr., p. 23)  On December 24, 2006, 
+Nusinovic commenced employment with Allen Health as a housekeeper.  (Tr., p. 23)   
+As a housekeeper at Allen Health Nusinovic mopped floors, cleaned bathrooms, 
+cleaned patient beds, moved patient beds in and out of rooms, picked up laundry, and 
+removed the garbage.  (Tr., pp. 24-25)  Nusinovic reported when she worked on laundry 
+she would have to lift between 10 and 20 or 30 pounds.  (Tr., p. 25) 
+Nusinovic testified the morning of May 3, 2019, “I was mopping the PACU, the 
+recovery room, mopping the floors, and I felt a lot of heavy pain in my arm along the 
+shoulder, along down the arm, and I couldn’t handle the pain.”  (Tr., p. 25)  Nusinovic 
+relayed she told her supervisor she was not able to mop because of pain in her 
+shoulder going down her hand into her elbow and fingers.  (Tr., p. 25)  The first report of 
+injury provides Nusinovic’s right shoulder had constant pain “from recurring motion from 
+work duty.”  (JE 1, p. 1)   
+Nusinovic was examined by Jonathan Fields, M.D., an occupational medicine 
+specialist with UnityPoint – Allen Occupational Health (“Allen Occupational Health”).  
+(JE 2, p. 6)  Nusinovic relayed she had noticed pain, aching, tingling, and a loss of 
+strength in her right shoulder with symptoms going down her arm into her finger tips 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 9 
+ 
+while mopping and scrubbing, which worsened over time.  (JE 2, p. 6)  During a follow-
+up appointment, Dr. Fields diagnosed Nusinovic with a right rotator cuff shoulder strain 
+and bilateral carpal tunnel syndrome.  (JE 2, p. 11)   
+On May 16, 2019, Nusinovic underwent electrodiagnostic testing with Sangeeta 
+Shah, M.D., regarding her shoulder pain, elbow pain, wrist pain, and carpal tunnel 
+syndrome.  (JE 10)  Dr. Shah noted the needle EMG of her bilateral upper extremities 
+was normal, there was no evidence of radiculopathy or plexopathy, he listed an 
+impression of “[b]orderline grade 1/6 median nerve and treatment and bilateral wrist,” he 
+assessed Nusinovic with right shoulder pain and paresthesias and pain of the wrist 
+secondary to mild borderline carpal tunnel syndrome, he recommended she follow-up 
+with her workers’ compensation physician, and he documented Nusinovic would benefit 
+from wrist braces for bilateral carpal tunnel syndrome.  (JE 10, pp. 202-03)   
+On May 17, 2019, Nusinovic underwent right upper extremity magnetic 
+resonance imaging.  (JE 3, p. 62)  The reviewing radiologist listed an impression of 
+tendinosis with high-grade partial-thickness articular surface insertional tear of the 
+infraspinatus tendon and mild bursitis.  (JE 3, p. 62)   
+Nusinovic reported after her work injury she performed her job duties using her 
+left upper extremity.  (Tr., pp. 28-29)  Nusinovic testified she has pain on the top of her 
+shoulder that goes down her arm toward her hand.  (Tr., p. 30)  Nusinovic completed a 
+first report of injury form reporting she injured her left upper extremity by using her left 
+arm too much while she had restrictions for her right upper extremity.  (JE 1, p. 2)   
+ 
+On June 3, 2019, Nusinovic attended an appointment with Thomas Gorsche, 
+M.D., an orthopedic surgeon, for her right shoulder.  (JE 4, p. 73)  Dr. Gorsche noted 
+nerve conduction studies showed she has mild carpal tunnel syndrome.  (JE 4, p. 73)  
+Dr. Gorsche examined Nusinovic, assessed her with right shoulder pain, administered 
+an injection, and restricted her to light duty.  (JE 4, p. 75)   
+ 
+Nusinovic reported a 25 percent improvement from the injection, but she 
+continued to complain of global shoulder pain radiating up into her neck.  (JE 4, pp. 76, 
+79)  Dr. Gorsche performed another injection and continued her restrictions.  (JE 4, pp. 
+77-80)  During an appointment on July 23, 2019, Dr. Gorsche recommended a 
+diagnostic arthroscopy, subacromial decompression, rotator cuff repair if indicated, and 
+biceps tenotomy, if needed.  (JE 4, pp. 83-84)   
+ 
+Nusinovic testified on September 10, 2019, while walking from the parking lot into 
+the hospital she fell on her back and injured her wrist and back.  (Tr., p. 32)  Nusinovic 
+completed a first report of injury form stating she fell on the parking lot and slid on her 
+back injuring her right foot, right ankle, and right and left wrists.  (JE 1, p. 3)   
+ 
+Allen Health sent Nusinovic to Allen Occupational Health.  (JE 2, p. 14)  Kenneth 
+McMains, M.D., examined Nusinovic and diagnosed her with right hip and right foot 
+contusions and an abrasion of her right great toe and anterior right foot.  (JE 2, p. 17)  
+Dr. McMains prescribed tramadol and ice and heat as needed, and imposed restrictions 
+of no prolonged standing, walking, or sitting and to sit, stand, and walk as necessary.  
+(JE 2, p. 18)   
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 10 
+ 
+ 
+Nusinovic returned to Allen Occupational Health on September 17, 2019, 
+reporting she was still feeling pressure on her spine and hips.  (JE 2, p. 19)  Dr. 
+McMains diagnosed Nusinovic with low back pain, right shoulder pain, and right great 
+toe and foot pain and he released her to full duty.  (JE 2, pp. 21-22)   
+ 
+On September 23, 2019, Nusinovic attended an appointment with Matthew 
+Bollier, M.D., an orthopedic surgeon with the University of Iowa Hospitals and Clinics 
+(“UIHC”).  (JE 5, p. 85)  Dr. Bollier found her reported symptoms, physical examination 
+findings, and magnetic resonance imaging correlated well, opined her work for Allen 
+Health over the past seven years was a “significant factor/aggravation in causation of 
+the patient’s pain, imaging findings, and pathology,” and concluded “her work there is a 
+significant factor in her rot cuff tear and need for treatment.”  (JE 5, p. 88)  Dr. Bollier 
+diagnosed Nusinovic with chronic right shoulder pain, imposed restrictions of no lifting, 
+pulling, or pushing more than 5 pounds with the right arm, and no repetitive reaching 
+away from the body or above shoulder height with the right arm, and recommended 
+right shoulder arthroscopy, rotator cuff repair, biceps tenotomy, distal clavicle excision, 
+debridement and decompression.  (JE 5, pp. 88, 90)  Nusinovic underwent a right 
+shoulder arthroscopy, SLAP repair, subacromial decompression, distal clavicle excision, 
+and biceps tenotomy on October 23, 2019.  (JE 5, p. 91)   
+On November 7, 2019, Nusinovic returned to the UIHC, complaining of aching 
+right shoulder and arm pain.  (JE 5, p. 94)  Elayne Gustoff, ARNP, with Dr. Bollier’s 
+office, examined Nusinovic, recommended she remain in a sling for an additional two 
+weeks and remove the sling three to four times per day for gentle elbow, wrist, and 
+hand range of motion exercises, ordered physical therapy, and imposed restrictions of 
+no lifting, pushing, pulling, or reaching with the right arm.  (JE 5, pp. 95-96)   
+Nusinovic testified after her surgery at the UIHC, her hand was heavy, swollen, 
+numb, and a very dark color.  (Tr., p. 27)  Nusinovic relayed after the surgery her right 
+shoulder was “[v]ery bad.”  (Tr., p. 27)  Nusinovic reported she had difficulty grabbing, 
+squeezing, and reaching and severe pain from the top of her right shoulder extending 
+up toward her right trapezius area, and down to her elbow and into her wrist and fingers.  
+(Tr., pp. 27-28)   
+ 
+On December 6, 2019, Nusinovic returned to Dr. Bollier reporting her pain had 
+improved from before the surgery, but she was experiencing pain with increased activity 
+and stretching during physical therapy, and relaying she had returned to work with 
+restrictions.  (JE 5, p. 97)  Dr. Bollier told Nusinovic she needed to push her range of 
+motion and stretching through the pain, continued her pain medication and physical 
+therapy, and imposed restrictions of no reaching, no pushing, pulling, or reaching over 
+five pounds, and to take 20 minute breaks every four hours for stretching and icing her 
+shoulder.  (JE 5, pp. 101-02)   
+On February 3, 2020, Nusinovic attended an appointment with Sarvenaz Jabbari, 
+M.D., with Allen Occupational Health, complaining of back and right leg pain that is 
+stabbing and heavy since her fall that is worse when moving.  (JE 2, p. 23)   
+During an appointment with Dr. Bollier on February 14, 2020, Dr. Bollier 
+continued Nusinovic’s physical therapy, imposed restrictions of no lifting, pushing, or 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 11 
+ 
+pulling over 15 pounds, and below shoulder height only, and ordered an injection.  (JE 
+5, pp. 105-15)   
+Nusinovic returned to Dr. Jabbari on March 2, 2020.  (JE 2, p. 24)  Dr. Jabbari 
+imposed restrictions of no lifting over 15 pounds, occasional bending, and to sit, stand, 
+and walk as needed.  (JE 2, p. 24)   
+Nusinovic underwent lumbar spine magnetic resonance imaging on March 9, 
+2020.  (JE 3, p. 66)  The reviewing radiologist listed an impression of mild lumbar spine 
+levocurvature, and a right posterior disc herniation at L4-L5 that had developed since 
+the prior lumbar magnetic resonance imaging.  (JE 3, pp. 66-67)   
+On March 10, 2020, Nusinovic attended a follow-up appointment with Dr. 
+Jabbari.  (JE 2, p. 25)  Dr. Jabbari continued her restrictions and referred her to 
+neurosurgery.  (JE 2, p. 25)    
+On April 3, 2020, Nusinovic attended a telemedicine visit with Dr. Bollier, 
+complaining of sharp pain of the anterior right shoulder extending into her shoulder 
+blade when reaching overhead.  (JE 5, p. 118)  Nusinovic reported some improvement 
+in her pain following the previous injection and improvement in range of motion and 
+strength with physical therapy.  (JE 5, p. 118, 120)  Dr. Bollier imposed a 20 pound 
+lifting restriction and below shoulder height.  (JE 5, p. 121)   
+Nusinovic returned to Dr. Bollier on May 18, 2020, complaining of achy pain over 
+the lateral deltoid of the right shoulder with a burning sensation down her arm and 
+numbness into the long finger of her right hand.  (JE 5, p. 122)  Nusinovic had 
+completed physical therapy and had transitioned to a home exercise program.  (JE 5, p. 
+122)  Dr. Bollier found Nusinovic had reached maximum medical improvement and 
+using the Guides to the Evaluation of Permanent Impairment (AMA Press, 5th Ed. 2001) 
+(“AMA Guides”), Dr. Bollier assigned Nusinovic a permanent partial impairment of 5 
+percent to the right upper extremity, which is equivalent to 3 percent of the whole 
+person, based on “loss of forward flexion (2% upper extremity) and extension (1% upper 
+extremity) per figure 16-40 on page 476, loss of abduction (1% upper extremity) and 
+adduction (0% upper extremity) per figure 16-43 on page 477, loss of internal rotation 
+(1% upper extremity) per figure 16-46.”  (JE 5, pp. 125-26)  Dr. Bollier imposed a 20 
+pound lifting restriction below shoulder height and ordered a functional capacity 
+evaluation to determine permanent restrictions.  (JE 5, pp. 125-26, 128) 
+On May 20, 2020, Nusinovic attended an appointment with Chad Abernathey, 
+M.D., a neurosurgeon, complaining of low back pain radiating into her right lower 
+extremity with numbness and tingling extending into the right buttocks, thigh, and calf 
+following a September 10, 2019, work injury.  (JE 6, p. 159)  Dr. Abernathey noted 
+lumbosacral spine magnetic resonance imaging showed a small right L4-L5 disc 
+extrusion extending into the neuroforamen.  (JE 6, p. 159)  Dr. Abernathey 
+recommended surgery and an orthopedic evaluation of her right hip since she 
+complained of passive and active range of motion pain.  (JE 6, p. 159)   
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 12 
+ 
+Nusinovic underwent a functional capacity evaluation on May 22, 2020.  (Ex. G)  
+The evaluation was considered invalid due to an inconsistent performance.  (Ex. G, p. 
+72)  
+Dr. Bollier sent Allen Health a letter on May 27, 2020, noting Nusinovic 
+underwent a functional capacity evaluation on May 22, 2020, which was invalid.  (JE 5, 
+p. 130)  Dr. Bollier noted she had a small rotator cuff tear that was repaired and she had 
+good shoulder range of motion and he did not assign her any permanent restrictions.  
+(JE 5, p. 130)   
+ 
+On July 27, 2020, Dr. Abernathey performed a right L4-L5 partial 
+hemilaminectomy and discectomy.  (JE 6, p. 162)  Dr. Abernathey listed a post-
+operative diagnosis of right L5 radiculopathy and right L4-L5 disc extrusion.  (JE 6, p. 
+162)   
+ 
+Nusinovic returned to Dr. Abernathey after surgery, reporting she received 
+excellent relief of her preoperative pain.  (JE 6, p. 160)  Dr. Abernathey noted Nusinovic 
+had reported having hip pain since her injury and he recommended she undergo an 
+evaluation of her hip pain.  (JE 6, p. 160)   
+Nusinovic returned to Allen Occupational Health on August 20, 2020, 
+complaining of continuing right hip pain.  (JE 2, pp. 26-27)  The examining physician 
+diagnosed her with right trochanteric bursitis, administered an injection, continued her 
+physical therapy, and imposed restrictions of sitting, walking, and standing as tolerated.  
+(JE 2, pp. 26, 28)  During a recheck with Dr. Abernathey on September 14, 2020, 
+Nusinovic continued to complain of low back and right hip pain.  (JE 6, p. 160)     
+On September 17, 2020, Nusinovic underwent right lower extremity magnetic 
+resonance imaging.  (JE 3, p. 68)  The reviewing radiologist listed an impression of: 
+1.  Fluid/intra-articular gadolinium contrast filled cleft greater than ½ 
+the labral thickness with a wedge shaped appearance involving the 
+superior acetabular labrum coursing posteriorly-posterior inferiorly more 
+suspicious for tear (under surface labral detachment) than sub labral 
+sulcus; at least suggestion of additional anterosuperior-anterior acetabular 
+labral tear as well. 
+2.  Suggestion of very low-grade partial-thickness tearing of the 
+lateral rotators and gluteus minimus upon their insertion on the greater 
+trochanter. 
+3.  Mild bilateral trochanteric bursitis. 
+4.  Very mild right hip osteoarthritis. 
+(JE 3, p. 69) 
+On September 30, 2020, Nusinovic attended a follow-up appointment with Allen 
+Occupational Health.  (JE 2, p. 29)  The examining physician diagnosed her with a right 
+hip labral tear and continued her restrictions of sitting, standing, and walking as 
+tolerated.  (JE 2, p. 30)   
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 13 
+ 
+Nusinovic attended an appointment with Robert Westermann, M.D. with the 
+UIHC on October 12, 2020, complaining of persistent right hip pain radiating from her 
+low back down to her right foot following a September 10, 2019 work injury.  (JE 5, p. 
+133)  Dr. Westermann examined Nusinovic, assessed her with acute right hip pain, 
+opined her mechanism of injury is consistent with her pain and related to her work 
+injury, ordered an ultrasound guided intra-articular hip injection, and he deferred to Dr. 
+Abernathey’s work restrictions.  (JE 5, p. 134)   
+On November 3, 2020, Nusinovic returned to Dr. Westermann complaining of 
+sharp posterior radiating pain down the back of her leg that is worse with bending down 
+and forward and with excessive physical activity, with numbness and tingling into her 
+foot.  (JE 5, p. 136)  Dr. Westermann opined Nusinovic would not benefit from surgical 
+intervention given her lack of improvement following a diagnostic injection, 
+recommended she see an ultrasound/injection specialist for evaluation of gluteus 
+tendons for possible tendonitis, and recommended she follow up with Dr. Abernathey 
+because she could be having symptoms from her low back.  (JE 5, p. 138)   
+Nusinovic attended an appointment with Ryan Kruse, M.D. with the UIHC 
+Tendinopathy Clinic on November 23, 2020, for evaluation of chronic low back/right 
+hip/leg/foot pain after a September 10, 2019 work injury.  (JE 5, p. 141)  Dr. Kruse noted 
+he reviewed her right hip magnetic resonance imaging from September 17, 2020, which 
+showed a possible labral tear, mild gluteal tendinopathy and greater trochanteric bursitis 
+and she underwent a diagnostic ultrasound that day.  (JE 5, p. 144)  Dr. Kruse opined 
+his exam was consistent with mild glute tendinopathy and greater trochanteric bursitis, 
+but he believed the majority of her symptoms were coming from her back based on her 
+pain distribution and he recommended she follow up with Dr. Abernathey.  (JE 5, p. 
+144)   
+On December 2, 2020, Dr. Abernathey sent a letter to Allen Health’s counsel 
+stating, “I would consider her work incident on September 10, 2019 to be the material 
+cause for her presentation of a right L4-5 disc extrusion with lateral migration which 
+subsequently required surgical intervention.”  (Ex. B, p. 30) 
+On December 14, 2020, Nusinovic underwent lumbar spine magnetic resonance 
+imaging.  (JE 3, p. 63)  The reviewing radiologist listed an impression of a right 
+hemilaminectomy and right facetectomy at L4-L5, enhancing granulation tissue at L4-L5 
+surrounding the right L5 nerve root, no recurrent or residual disc herniation, and no 
+spinal stenosis or neural foraminal stenosis.  (JE 3, p. 64)   
+Nusinovic returned to Dr. Abernathey on December 21, 2020.  (JE 6, p. 161)  Dr. 
+Abernathey noted Dr. Westermann noted she had hip issues, but her condition did not 
+warrant an aggressive surgical approach, and lumbosacral magnetic resonance imaging 
+did not demonstrate a recurrence or residual herniation.  (JE 6, p. 161)  Dr. Abernathey 
+did not recommend any aggressive neurosurgical management and he deferred future 
+management of Nusinovic to Dr. Fields.  (JE 6, p. 161)   
+Nusinovic reported that after the surgery she had the same pain that felt like a 
+boiling heat in her back and that she has trouble sitting.  (Tr., p. 34)  Nusinovic relayed 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 14 
+ 
+since her fall she has had pain in her back going through her hip and down into her right 
+leg.  (Tr., p. 35)   
+Nusinovic returned to Allen Occupational Health on December 31, 2020, 
+complaining of right hip pain and reporting her right shoulder “is killing me.”  (JE 2, pp. 
+31-32)  The examining physician diagnosed her with right hip and groin pain with a 
+labral tear and chronic low back pain, ordered a functional capacity evaluation, and 
+restricted her from working.  (JE 2, pp. 33, 35)   
+On January 22, 2021, Nusinovic attended an appointment with Allen 
+Occupational Health for her right hip and lumbar pain.  (JE 2, p. 36)  The examining 
+physician diagnosed her with chronic right hip pain with a small labral tear and chronic 
+low back pain, placed her at maximum medical improvement without restrictions, and 
+discharged her from care.  (JE 2, pp. 36, 40)   
+On January 27, 2021, Nusinovic attended an appointment at UnityPoint Clinic 
+Express complaining of back pain after returning to work that day.  (JE 7, p. 163)  
+Shanon Bennett, PA-C, examined Nusinovic, assessed her with acute midline low back 
+pain with sciatica, prescribed pain medication, excused her from work that day and the 
+next day, and recommended Nusinovic follow up with workers’ compensation.  (JE 7, 
+pp. 164, 166)   
+Nusinovic returned to Allen Occupational Health on January 29, 2021, 
+complaining of low back and right hip pain.  (JE 2, p. 41)  The examining physician 
+diagnosed her with right hip pain and low back pain, recommended she work four hours 
+per day for two weeks and then return to her regular duties, found she was at maximum 
+medical improvement, discharged her from care, and recommended she follow up with 
+her primary care provider.  (JE 2, pp. 41, 43)   
+On February 1, 2021, Nusinovic completed a first report of injury reporting she 
+sustained injuries to her right upper extremity, shoulder, and wrist.  (JE 1, p. 4)  
+Nusinovic reported, “I was doing all housekeeping duties, such as mopping, pushing the 
+scrubber, stocking supplies, and wiping everything.  I had sharp pain in the R shoulder 
+radiating down the arm.”  (JE 1, p. 4)  That day Nusinovic attended an appointment with 
+Jessica Shea-Hebrink, ARNP, with UnityPoint Express, complaining of right shoulder 
+pain, when pushing a mop at work.  (JE 8, p. 169)  Shea-Hebrink examined Nusinovic, 
+assessed her with right shoulder acute pain, administered a Toradol injection, provided 
+her with an arm sling, and directed her to follow up with her primary care provider the 
+next day.  (JE 8, p. 170)   
+Nusinovic attended an appointment with Vinko Bogdanic, M.D., with UnityPoint 
+Internal Medicine to establish care on February 1, 2021.  (JE 9, p. 187)  Nusinovic 
+reported she injured her low back and right shoulder at work and underwent low back 
+and shoulder surgery.  (JE 9, p. 187)  Nusinovic complained of pain from her neck, 
+shoulder, low back, and right hip.  (JE 9, p. 187)  Dr. Bogdanic assessed her with 
+chronic right shoulder pain, chronic midline low back pain without sciatica, cervical 
+herniated disc, chronic pain syndrome, and chronic right hip pain.  (JE 9, p. 190)  Dr. 
+Bogdanic recommended a referral to an orthopedic surgeon, and he stated he could not 
+restrict her from working.  (JE 9, p. 190)   
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 15 
+ 
+Nusinovic attended an appointment with Dr. Jabbari on February 4, 2021, 
+reporting she sustained an injury the first day she returned to full duty work following 
+right shoulder surgery.  (JE 2, p. 44)  Nusinovic complained of pain in her right shoulder 
+and down her arm with mopping and numbness and tingling through her lower arm into 
+her hand and fingers.  (JE 2, p. 44)  Dr. Jabbari found her range of motion was severely 
+limited in her right shoulder, elbow, and wrist, diagnosed Nusinovic with right shoulder 
+and arm pain, stated the cause of her problem was not known, prescribed meloxicam 
+and cyclobenzaprine, recommended restricted duty, and referred her to Dr. Bollier.  (JE 
+2, pp. 45-47)  
+On February 8, 2021, Nusinovic attended an appointment with Katie Wilcox, 
+ARNP with UnityPoint Express, complaining of low back pain that goes into her buttocks 
+hip area.  (JE 8, p. 174)  Nusinovic relayed she had been wiping and dusting at work 
+and started having pain in her back all of a sudden and left work due to the pain.  (JE 8, 
+p. 174)  Wilcox assessed Nusinovic with chronic back pain, prescribed a Medrol 
+dosepak, and directed her to follow up with workers’ compensation and with Dr. 
+Abernathey.  (JE 8, p. 175)   
+Nusinovic completed a first report of injury on February 10, 2021, reporting she 
+injured her left arm “when pulling the fire door loose from the magnet for the purpose of 
+dusting behind it,” noting she felt a “pop” in her left shoulder and burning, sharp pain.  
+(JE 1, p. 5)   
+The next day Nusinovic attended an appointment with Dr. Jabbari, reporting she 
+heard a pop in her left shoulder with sharp, burning pain while pulling a fire door while 
+dusting.  (JE 2, pp. 49-50)  Dr. Jabbari diagnosed Nusinovic with acute on chronic left 
+shoulder pain, imposed restrictions of no lifting, pulling or pushing over five pounds with 
+the left arm, and referred her to Dr. Bollier.  (JE 2, pp. 49-52)   
+On February 11, 2021, Dr. Fields provided an impairment rating for Allen Health.  
+(Ex. C)  Dr. Fields opined, “Mrs. Nusinovic’s current complaints do not correlate with the 
+objective findings on lumbar MRI or right hip arthrograms,” and stated he did not have 
+an objective basis for which to perform an impairment rating under the AMA Guides.  
+(Ex. C, p. 44) 
+On February 15, 2021, Nusinovic attended an appointment with Dr. Bollier 
+regarding right shoulder pain following a new work injury when opening fire doors.  (JE 
+5, p. 149)  Dr. Bollier noted Nusinovic had been off work for over a year and that her 
+tenderness was consistent with myofascial pain related to transitioning back to work.  
+(JE 5, p. 152)  Dr. Bollier recommended a home exercise program with finger walks, 
+light stretching and strengthening to improve her pain with NSAIDs, heat and ice and he 
+released her to return to work without restrictions.  (JE 5, pp. 152, 154)   
+Nusinovic returned to Dr. Bogdanic on February 16, 2021, complaining of 
+significant pain.  (JE 9, p. 197)  Dr. Bogdanic recommended she see a neurosurgeon 
+and a pain specialist, and he restricted her from working until February 25, 2021.  (JE 9, 
+pp. 197-98)   
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 16 
+ 
+On February 18, 2021, Nusinovic underwent left shoulder magnetic resonance 
+imaging.  (JE 3, p. 71)  The reviewing radiologist listed an impression of tendinosis with 
+partial-thickness tears of the supraspinatus and infraspinatus tendons and anterior 
+superior labral tear with multi septated paralabral cysts.  (JE 3, p. 72)   
+Dr. Abernathey examined Nusinovic on February 22, 2021, for an impairment 
+rating.  (JE 6, p. 161)  Dr. Abernathey noted she continued to demonstrate excellent 
+relief of her pre-operative symptomatology, but she reported residual low back pain and 
+right groin pain.  (JE 6, p. 161)  Dr. Abernathey opined Nusinovic had reached 
+maximum medical improvement and “[b]ased upon the AMA Guidelines for chronic pain, 
+decreased range of motion of the lumbosacral spine, previous disc extrusion, and 
+subsequent surgery, I would consider the patient to have a 7% whole body impairment 
+rating.”  (JE 6, p. 161)  Pursuant to a request from counsel for Allen Health, Dr. 
+Abernathey issued a letter, opining Nusinovic reached maximum medical improvement 
+as of February 22, 2021, he did not believe she needed additional treatment for her 
+lumbar spine noting her recent magnetic resonance imaging was unrevealing, her 
+neurologic function is intact, and her symptoms are subjective without objective findings, 
+and he did not believe she needed any permanent work restrictions.  (Ex. B, p. 38) 
+On February 23, 2021, Nusinovic returned to Dr. Jabbari following magnetic 
+resonance imaging.  (JE 2, pp. 54-55)  Dr. Jabbari noted the imaging showed partial 
+thickness tears of the supraspinatus and infraspinatus, subchondral cysts, and a labral 
+tear.  (JE 2, p. 55)  Nusinovic reported her whole left arm was numb with a needle-like 
+sensation starting in her shoulder that radiates down.  (JE 2, p. 55)  Dr. Jabbari 
+diagnosed Nusinovic with acute on chronic left shoulder pain that is “now not work 
+related.”  (JE 2, p. 55)  Dr. Jabbari noted her symptoms and physical examination did 
+not match well with her magnetic resonance imaging results and noted she could not 
+relate her pathology on examination to be the result of reaching to open the door at 
+work, noting “[a]n event like this could not cause a material aggravation of shoulder 
+pathology,” recommended she see her primary care provider for an evaluation of the 
+etiology of her pain, and released her to full duty.  (JE 2, pp. 55-57)   
+On February 24, 2021, Nusinovic returned to Dr. Shah for an evaluation of her 
+left shoulder pain on a referral from Dr. Fields.  (JE 10, p. 206)  Nusinovic reported she 
+had been working using her left upper extremity and she heard a snap at her left 
+shoulder when lifting heavy boxes, and since that time she was experiencing severe left 
+shoulder pain, some paresthesias, and pain radiating from her shoulder down into her 
+arm.  (JE 10, p. 206)  Dr. Shah performed electrodiagnostic testing of the upper 
+extremities, found her needle EMG of the bilateral upper extremities was normal, there 
+was no evidence of radiculopathy, and he listed an impression of “[b]orderline grade 1/6 
+median nerve and treatment and bilateral wrist.”  (JE 10, p. 211)   
+Nusinovic returned to Wilcox with UnityPoint Express on February 25, 2021, 
+complaining of terrible pain in her right shoulder and arm after mopping at work.  (JE 8, 
+p. 180)  Nusinovic reported she had undergone right rotator cuff surgery and she 
+reported she had never been the same since surgery.  (JE 8, p. 180)  Wilcox 
+administered a Toradol shot, prescribed a Medrol Dosepak, and imposed a restriction of 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 17 
+ 
+no use of the right upper extremity and shoulder until she followed up with occupational 
+medicine.  (JE 8, pp. 179, 181-82, 184) 
+On March 3, 2021, Nusinovic returned to Dr. Fields following electromyography.  
+(Ex. C, p. 44a)  Dr. Fields noted her electromyography study of her bilateral upper 
+extremities was normal, with no evidence of radiculopathy, and noted she exhibited 
+“borderline grade 1 out of 6 median nerve at the bilateral wrists.”  (Ex. C, pp. 44a-44b)  
+Dr. Fields diagnosed Nusinovic with chronic bilateral wrist pain that is a personal 
+condition not related to her work activities at Allen Health.  (Ex. C, p. 44b)  Dr. Fields 
+released Nusinovic from treatment, found she could return to regular duty, and due to 
+her concern about her ability to perform her job he recommended a fitness for duty 
+examination.  (JE 2, p. 59; Ex. C, p. 44b)   
+Nusinovic returned to Dr. Bollier on March 8, 2021, regarding her left shoulder.  
+(JE 5, p. 155)  Nusinovic relayed her left shoulder pain started when she was using her 
+left arm at work and she reported a fall at work on September 10, 2020.  (JE 5, p. 155)  
+Dr. Bollier listed an impression of a left shoulder degenerative partial rotator cuff tear 
+related to preexisting tendinosis and degeneration and concluded her condition was 
+related to wear and tear of the left shoulder over many years.  (JE 5, p. 157)  Dr. Bollier 
+opined, “the mechanism of opening the fire doors in February 2021 would not be 
+expected to cause the left partial rotator cuff tear seen on MRI,” noting she had left 
+shoulder pain before this episode, and he found her “left shoulder overcompensation is 
+not deemed a work injury.”  (JE 5, p. 157)   
+Robin Sassman, M.D., an occupational medicine physician, conducted an 
+independent medical examination for Nusinovic on April 6, 2021, and issued her report 
+on May 10, 2021.  (Ex. 1)  Nusinovic underwent a functional capacity evaluation with 
+WorkWell, ordered by her attorney on April 12, 2021.  (Ex. 2)  The physical therapist 
+found the exam was valid and that Nusinovic is capable of work in the sedentary 
+demand level, finding she can front carry up to 5 pounds on an occasional basis and 10 
+pounds on a rare basis.  (Ex. 2, pp. 36-37)  Dr. Sassman reviewed and used the report 
+as part of her report.   
+Dr. Sassman reviewed Nusinovic’s medical records and examined her.  (Ex. 1)  
+Dr. Sassman diagnosed Nusinovic with a right shoulder rotator cuff tear, status post 
+right shoulder arthroscopy, SLAP repair, subacromial decompression, distal clavicle 
+excision, and biceps tenotomy, left shoulder pain with magnetic resonance imaging 
+evidence of a labral tear and partial thickness tears of the supraspinatus and 
+infraspinatus tendons, right hip pain with magnetic resonance imaging evidence of a 
+right hip labral tear and symptoms of trochanteric bursitis, low back pain with magnetic 
+resonance imaging evidence of a disc herniation status post right L4-L5 partial 
+hemilaminectomy and discectomy, and right SI joint pain.  (Ex. 1, p. 19)   
+Dr. Sassman opined Nusinovic sustained an injury to her right shoulder causing 
+her need for surgery and ongoing symptoms on May 3, 2019, and opined she 
+aggravated her right shoulder on February 1, 2021, when she was mopping and noted 
+increased pain in her right shoulder.  (Ex. 1, p. 19)   
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 18 
+ 
+Nusinovic alleges she injured her left shoulder by using it more when she was on 
+restrictions for her right upper extremity in May 2019.  Dr. Sassman documented 
+Nusinovic noted symptoms in her shoulder when she was on restrictions for her right 
+upper extremity, and opined pulling on a fire door caused Nusinovic to sustain a left 
+shoulder labral tear and tendinosis with partial thickness tears of the supraspinatus and 
+infraspinatus tendons on February 10, 2021.  (Ex. 1, p. 20)  Dr. Sassman opined the 
+September 10, 2019 fall caused her L4-L5 disc herniation and right hip problems.  (Ex. 
+1, p. 20)   
+Dr. Sassman opined Nusinovic had not reached maximum medical improvement, 
+but stated if she did not seek additional treatment, she would place her at maximum 
+medical improvement on April 12, 2021, the date of the second functional capacity 
+examination.  (Ex. 1, p. 26)  Dr. Sassman recommended repeat right shoulder magnetic 
+resonance imaging for Nusinovic’s ongoing symptoms, a second opinion from an 
+orthopedic specialist of the left shoulder to determine if any further surgical 
+recommendations would be made, a second opinion from an orthopedic specialist of her 
+right hip, and an evaluation by a pain management specialist to determine if an SI joint 
+injection would be of value.  (Ex. 1, pp. 26-27)   
+For the May 3, 2019 injury to the right shoulder, using Figures 16-40, 16-43, and 
+16-46 of the AMA Guides, Dr. Sassman assigned Nusinovic a 5 percent upper extremity 
+impairment for loss of flexion, 1 percent upper extremity impairment for loss of 
+extension, 4 percent upper extremity impairment for loss of abduction, 0 percent upper 
+extremity impairment for loss of adduction, 2 percent upper extremity impairment for 
+loss of internal rotation, and 1 percent upper extremity impairment for loss of external 
+rotation, for a total 13 percent upper extremity impairment.  (Ex. 1, p. 27)  For the distal 
+clavicle excision, using Table 16-27, Dr. Sassman assigned a 10 percent upper 
+extremity impairment.  (Ex. 1, p. 27)  Using the combined values chart, Dr. Sassman 
+assigned a 22 percent upper extremity impairment, which she converted to a 13 percent 
+whole person impairment.  (Ex. 1, p. 27)   
+For the February 10, 2021, injury to the left shoulder, using Figures 16-40, 16-43, 
+and 16-46 of the AMA Guides, Dr. Sassman assigned Nusinovic a 5 percent upper 
+extremity impairment for loss of flexion, 1 percent upper extremity impairment for loss of 
+extension, 4 percent upper extremity impairment for loss of abduction, 0 percent upper 
+extremity impairment for loss of adduction, 2 percent upper extremity impairment for 
+loss of internal rotation, and 0 percent upper extremity impairment for loss of external 
+rotation, for a total 12 percent upper extremity impairment, which she converted to a 7 
+percent whole person impairment.  (Ex. 1, p. 28)   
+For the September 10, 2019, injury, Dr. Sassman found Nusinovic falls within 
+DRE Lumbar Category II, and assigned a 5 percent whole person impairment.  (Ex. 1, 
+p. 28)  For the right hip, Dr. Sassman assigned a 20 percent lower extremity impairment 
+for loss of flexion, which she converted to an 8 percent whole person impairment.  (Ex. 
+1, p. 28)  Using the combined values chart, she combined the impairments and found 
+Nusinovic sustained a 13 percent impairment.  (Ex. 1, p. 28)   
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 19 
+ 
+Dr. Sassman recommended restrictions for lifting, pushing, pulling, and carrying 
+from floor to waist up to 10 pounds occasionally, and 20 pounds from waist to shoulder 
+level with her elbows at her sides occasionally, no lifting, pushing, pulling, or carrying 
+with her arms outstretched away from her body or above shoulder height, no use of 
+vibratory or power tools, and to limit standing and walking to an occasional basis with 
+the ability to frequently change positions.  (Ex. 1, p. 29)   
+Dr. Abernathey responded to a check-the-box letter on August 18, 2021, stating 
+his opinions set forth in his February 22, 2021 letter continued to be his opinions.  (Ex. 
+B, p. 39)  Dr. Abernathey agreed he did not have any specific recommendations for 
+Nusinovic’s hip and he deferred to Dr. Fields to determine whether she needed 
+additional treatment.  (Ex. B, p. 40)   
+On August 20, 2021, Dr. Smith responded to a check-the-box letter from counsel 
+for Allen Health agreeing he became a personal medical provider for Nusinovic in 2012, 
+and when he evaluated her on September 25, 2019 for dysuria, his office note did not 
+reflect she reported any specific back, hip, or shoulder complaints.  (Ex. E, pp. 61-62)  
+Dr. Smith further agreed when he evaluated Nusinovic in December 2019 she reported 
+she had been off work after shoulder surgery, he treated her for sinus congestion and 
+blood pressure issues, but his office notes do not reflect she reported any back or hip 
+complaints.  (Ex. E, p. 62)  Dr. Smith agreed when he evaluated Nusinovic in August 
+2020 for sinus pressure she told him her back was doing better and she did not have 
+any other concerns.  (Ex. E, p. 62)  Dr. Smith agreed when he evaluated Nusinovic on 
+March 11, 2021 for sinus congestion and pressure, his office notes do not reflect she 
+reported any issues with back and shoulder pain.  (Ex. E, p. 62)  Dr. Smith agreed when 
+he evaluated Nusinovic on March 17, 2021 for left shoulder pain she had weakness in 
+grip strength and requested a referral to Dr. Hart, but his office was notified Dr. Hart was 
+not in her network for her insurance.  (Ex. E, p. 63)  Dr. Smith agreed he evaluated 
+Nusinovic again on April 7, 2021, for her annual physical and her mood and sleep were 
+good, her back exam was negative, her gait was normal, and he instructed her to diet, 
+exercise, and lose weight.  (Ex. E, p. 63)  Dr. Smith agreed he had no opinion on 
+whether Nusinovic’s left shoulder problems and need for any medical treatment for her 
+shoulder is in any way related to a work injury at Allen hospital.  (Ex. E, p. 63)  Dr. Smith 
+agreed he has not issued any work restrictions for Nusinovic.  (Ex. E, p. 64)  When 
+asked whether he believed she could return to work he responded no “that’s not up to 
+me – up to ortho.”  (Ex. E, p. 64)  Dr. Smith has not evaluated Nusinovic since April 7, 
+2021.  (Ex. E, p. 63) 
+Dr. Bollier sent a letter to Allen Health’s counsel on August 30, 2021, responding 
+to questions she posed.  (Ex. A)  Dr. Bollier noted he last evaluated Nusinovic’s right 
+shoulder on February 15, 2021, and her left shoulder on March 8, 2021.  (Ex. A, p. 17)  
+Dr. Bollier stated he did not recommend any additional treatment for her right shoulder 
+and maintained she sustained a 5 percent permanent impairment to her right shoulder.  
+(Ex. A, pp. 17, 19)  Dr. Bollier further stated, 
+I disagree with the 22% right upper extremity impairment given by Dr. 
+Sassman.  We use the 5th edition Guides to calculate the impairment 
+rating and use the same approach to determine impairment in every case.  
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 20 
+ 
+We don’t assign the 10% upper extremity impairment for distal clavicle 
+resection as this is a chronic degenerative condition and the need for AC 
+joint arthroplasty was not caused by the work injury.  We did perform distal 
+clavicle excision at the time of her October 2019 right shoulder surgery 
+because we wanted to address all pain generators.  However, her work 
+injury didn’t cause the AC joint arthroplasty.  This is a chronic 
+degenerative condition.  In addition, our determination of range of motion 
+impairment is based on the accepted method of calculating active 
+shoulder range of motion in all planes.  We stand by our range of motion 
+determination from May 2020. 
+(Ex. A, p. 18)   
+ 
+Dr. Bollier does not recommend any additional treatment for the February 2021 
+work injury, stating he did not believe any new structural damage occurred in February 
+2021 and he did not believe she sustained any permanent impairment related to the 
+February 1, 2021 work incident.  (Ex. A, p. 20)   
+With respect to the February 10, 2021 work injury, Dr. Bollier stated he 
+reviewed Nusinovic’s left shoulder magnetic resonance imaging and examined 
+her after the incident, and opined: 
+I disagree with Dr. Sassman’s assessment that the February 10th 2021 
+work injury was a direct and causal factor in relationship to the left 
+shoulder MRI findings.  The reported mechanism of injury would not be 
+expected to cause the MRI findings.  In addition, the left shoulder MRI 
+showed degenerative tendinosis and tearing which develops over many 
+years.  I don’t believe the February 10th 2021 caused a material 
+aggravation or was a contributing factor to the left shoulder MRI findings.  
+In addition, I don’t believe that the May 30th 2019 work incident caused a 
+left shoulder injury. 
+(Ex. A, p. 20)  Dr. Bollier stated while Nusinovic may need additional treatment for her 
+left shoulder, the need for treatment is related to her preexisting degenerative shoulder 
+condition and not the February 10, 2021 incident.  (Ex. A, pp. 20-21)  Dr. Bollier did not 
+assign any permanent work restrictions for the May 2019 or February 2021 incidents.  
+(Ex. A, p. 21)   
+On August 31, 2021, Dr. Kruse responded to a check-the-box letter from Allen 
+Health’s counsel agreeing he administered an injection in her right shoulder in February 
+2020 and an injection in her right hip in November 2020 and performed a diagnostic 
+ultrasound of her right hip in November 2020.  (Ex. D, p. 47)  Dr. Kruse agreed he 
+believes the possible labral tear on her right hip magnetic resonance imaging scan was 
+an incidental finding unrelated to her September 2019 fall, and that he is not 
+recommending any additional treatment for her right hip/groin for any of the possible 
+findings on the magnetic resonance imaging scan.  (Ex. D, p. 47)  Dr. Kruse further 
+agreed he did not issue any work restrictions for Nusinovic.  (Ex. D, p. 48)   
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 21 
+ 
+ 
+On October 1, 2021, Dr. Bogdanic’s office sent a check-the-box letter by 
+facsimile to Allen Health’s counsel, which is signed by Dr. Bogdanic, but not dated.  (Ex. 
+F)  Dr. Bogdanic agreed he evaluated Nusinovic on two occasions, February 1, 2021, 
+and February 16, 2021 and she had not returned to his office since February 16, 2021.  
+(Ex. F, p. 66)  Dr. Bogdanic agreed on February 16, 2021, he issued a temporary work 
+restriction of no work until February 25, 2021, and he did not extend the restriction and 
+has not issued any temporary or permanent work restrictions for Nusinovic since the 
+February 25, 2021 restriction expired.  (Ex. F, p. 67)   
+CONCLUSIONS OF LAW 
+I. 
+Applicable Law 
+These cases involve the issues of nature and extent of disability, entitlement to 
+temporary benefits, refusal of suitable work, an offer of work at the same or greater 
+salary, wages, or earnings, recovery of medical bills, and recovery of costs under Iowa 
+Code sections 85.27, 85.33, 85.34, and 86.40.  In 2017, the Iowa Legislature enacted 
+changes to Iowa Code chapters 85, 86, and 535 effecting workers’ compensation 
+cases.  2017 Iowa Acts chapter 23 (amending Iowa Code sections 85.16, 85.18, 85.23, 
+85.26, 85.33, 85.34, 85.39, 85.45, 85.70, 85.71, 86.26, 86.39, 86.42, and 535.3).  Under 
+2017 Iowa Acts chapter 23 section 24, the changes to Iowa Code sections 85.16, 85.18, 
+85.23, 85.26, 85.33, 85.34, 85.39, 85.71, 86.26, 86.39, and 86.42 apply to injuries 
+occurring on or after the effective date of the Act.  The alleged injuries in these cases all 
+occurred after the changes to the statute, therefore, the new provisions of the statute 
+apply to these cases.   
+The calculation of interest is governed by Deciga-Sanchez v. Tyson Foods, File 
+No. 5052008 (Ruling on Defendant’s Motion to Enlarge, Reconsider, or Amend Appeal 
+Decision Re: Interest Rate Issue), which holds interest for all weekly benefits payable 
+and not paid when due which accrued before July 1, 2017, is payable at the rate of 10 
+percent; all interest on past due weekly compensation benefits accruing on or after July 
+1, 2017, is payable at an annual rate equal to the one-year treasury constant maturity 
+published by the federal reserve in the most recent H15 report settled as of the date of 
+injury, plus two percent. 
+II. 
+Arising Out of and in the Course of Employment 
+ 
+To receive workers’ compensation benefits, an injured employee must prove, by 
+a preponderance of the evidence, the employee’s injuries arose out of and in the course 
+of the employee’s employment with the employer.  2800 Corp. v. Fernandez, 528 
+N.W.2d 124, 128 (Iowa 1995).  An injury arises out of employment when a causal 
+relationship exists between the employment and the injury.  Quaker Oats Co. v. Ciha, 
+552 N.W.2d 143, 151 (Iowa 1996).  The injury must be a rational consequence of a 
+hazard connected with the employment, and not merely incidental to the employment.  
+Koehler Elec. v. Wills, 608 N.W.2d 1, 3 (Iowa 2000).  The Iowa Supreme Court has 
+held, an injury occurs “in the course of employment” when: 
+it is within the period of employment at a place where the employee 
+reasonably may be in performing his duties, and while he is fulfilling those 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 22 
+ 
+duties or engaged in doing something incidental thereto.  An injury in the 
+course of employment embraces all injuries received while employed in 
+furthering the employer’s business and injuries received on the employer’s 
+premises, provided that the employee’s presence must ordinarily be 
+required at the place of the injury, or, if not so required, employee’s 
+departure from the usual place of employment must not amount to an 
+abandonment of employment or be an act wholly foreign to his usual work.  
+An employee does not cease to be in the course of his employment 
+merely because he is not actually engaged in doing some specifically 
+prescribed task, if, in the course of his employment, he does some act 
+which he deems necessary for the benefit or interest of his employer. 
+Farmers Elevator Co., Kingsley v. Manning, 286 N.W.2d 174, 177 (Iowa 1979).   
+The question of medical causation is “essentially within the domain of expert 
+testimony.”  Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 844-45 (Iowa 
+2011).  The commissioner, as the trier of fact, must “weigh the evidence and measure 
+the credibility of witnesses.”  Id.  The trier of fact may accept or reject expert testimony, 
+even if uncontroverted, in whole or in part.  Frye v. Smith-Doyle Contractors, 569 
+N.W.2d 154, 156 (Iowa Ct. App. 1997).  When considering the weight of an expert 
+opinion, the fact-finder may consider whether the examination occurred shortly after the 
+claimant was injured, the compensation arrangement, the nature and extent of the 
+examination, the expert’s education, experience, training, and practice, and “all other 
+factors which bear upon the weight and value” of the opinion.  Rockwell Graphic Sys., 
+Inc. v. Prince, 366 N.W.2d 187, 192 (Iowa 1985). 
+It is well established in workers’ compensation that “if a claimant had a 
+preexisting condition or disability, aggravated, accelerated, worsened, or ‘lighted up’ by 
+an injury which arose out of and in the course of employment resulting in a disability is 
+found to exist,” the claimant is entitled to compensation.  Iowa Dep’t of Transp. v. Van 
+Cannon, 459 N.W.2d 900, 904 (Iowa 1990).  The Iowa Supreme Court has held, 
+a disease which under any rational work is likely to progress so as to 
+finally disable an employee does not become a “personal injury” under our 
+Workmen’s Compensation Act merely because it reaches a point of 
+disablement while work for an employer is being pursued.  It is only when 
+there is a direct causal connection between exertion of the employment 
+and the injury that a compensation award can be made.  The question is 
+whether the diseased condition was the cause, or whether the 
+employment was a proximate contributing cause. 
+Musselman v. Cent. Tel. Co., 261 Iowa 352, 359-60, 154 N.W.2d 128, 132 (1967). 
+ 
+ 
+The parties agree Nusinovic sustained injuries arising out of and in the course of 
+her employment with Allen Health on May 3, 2019, and on September 10, 2019, but 
+disagree on nature and extent of disability.  Nusinovic alleges she sustained injuries to 
+her left shoulder on May 30, 2019, back and hip on January 14, 2021, right shoulder on 
+February 1, 2021, and left shoulder on February 10, 2021.  Allen Health rejects her 
+assertions.   
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 23 
+ 
+ 
+A. 
+May 30, 2019 Left Shoulder/Upper Extremity Injury 
+ 
+No physician has opined Nusinovic sustained a temporary or permanent 
+impairment to her left shoulder or upper extremity as a result of the alleged May 30, 
+2019 injury.  I find Nusinovic has failed to establish she sustained an injury to her left 
+shoulder on May 30, 2019, arising out of and in the course of her employment with Allen 
+Health.  Given this finding, the remaining issues involving the May 30, 2019 injury date 
+are moot.   
+B. 
+January 14, 2021 Back and Hip Injury 
+ 
+Nusinovic alleges she sustained an injury to her back and hip during a January 
+14, 2021, functional capacity evaluation.  No physician has opined Nusinovic sustained 
+a temporary or permanent impairment to her back or hip as a result of the alleged 
+January 14, 2021 injury.  I find Nusinovic has failed to establish she sustained an injury 
+to her back on January 14, 2021, arising out of and in the course of her employment 
+with Allen Health.  Given this finding, the remaining issues involving the January 14, 
+2021 injury date are moot.    
+ 
+C. 
+February 1, 2021 Right Shoulder/Upper Extremity Injury 
+ 
+Nusinovic alleges she sustained an injury to her right shoulder or upper extremity 
+on February 1, 2021.  No physician has opined Nusinovic sustained a temporary or 
+permanent impairment to her right shoulder as a result of the alleged February 1, 2021 
+injury.  I find Nusinovic has failed to establish she sustained an injury to her right 
+shoulder on February 1, 2021, arising out of and in the course of her employment with 
+Allen Health.  Given this finding, the remaining issues involving the February 1, 2021, 
+injury date are moot.   
+ 
+D. 
+February 10, 2021 Left Shoulder Injury or Upper Extremity 
+ 
+Nusinovic alleges she sustained an injury to her left shoulder or upper extremity 
+on February 10, 2021, when she opened a fire door at work.  Three physicians have 
+given causation opinions in this case, Dr. Jabbari, a treating occupational medicine 
+physician, Dr. Bollier, a treating orthopedic surgeon, and Dr. Sassman, an occupational 
+medicine physician who performed an independent medical examination for Nusinovic.  
+I find the opinion of Dr. Bollier, as supported by Dr. Jabbari, to be the most persuasive.   
+ 
+Dr. Sassman causally related Nusinovic’s left shoulder magnetic resonance 
+imaging findings to her work, finding she reported left shoulder symptoms after she 
+sustained an injury to her right shoulder, 
+[t]hen on 2/10/2021 she injured her left shoulder when she was pulling on 
+a fire door and heard and felt a pop in her left shoulder.  A subsequent 
+MRI of the left shoulder on 2/18/2021 showed tendinosis with partial 
+thickness tears of the supraspinatus and infraspinatus tendons.  Anterior 
+superior labral tear was also noted.  She has not had further treatment on 
+her left shoulder to date.  It is my opinion that the injury of 2/10/2021 is a 
+direct and causal factor of the abnormalities noted on the MRI.  Supporting 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 24 
+ 
+this opinion is the mechanism of injury and the fact that her left shoulder 
+symptoms have been persistent since that time.   
+(Ex. 1, p. 20)   
+Before Dr. Sassman provided her opinion, Dr. Jabbari opined Nusinovic’s left 
+shoulder problems were not work-related, noting her symptoms and physical 
+examination did not match well with her magnetic resonance imaging results and noted 
+she could not relate her pathology on examination to be the result of reaching to open 
+the door at work, finding, “[a]n event like this could not cause a material aggravation of 
+shoulder pathology,” and recommending she see her primary care provider for an 
+evaluation of the etiology of her pain, and then released her to full duty.  (JE 2, pp. 55-
+57)  Likewise, Dr. Bollier, a treating physician who is a recognized expert at the UIHC, 
+also opined her left shoulder degenerative partial rotator cuff tear was related to 
+preexisting tendinosis and degeneration, concluding her condition was related to wear 
+and tear of the left shoulder over many years and finding “the mechanism of opening 
+the fire doors in February 2021 would not be expected to cause the left partial rotator 
+cuff tear seen on MRI,” noting she had left shoulder pain before this episode and “left 
+shoulder overcompensation is not deemed a work injury.”  (JE 5, p. 157)  Dr. Sassman 
+did not address the opinions of Dr. Jabbari and Dr. Bollier or explain how opening a fire 
+door could cause the pathology seen on imaging and exam. 
+ 
+Dr. Bollier reviewed Dr. Sassman’s opinion, noting he had reviewed Nusinovic’s 
+magnetic resonance imaging and examined her after the incident, opining,   
+I disagree with Dr. Sassman’s assessment that the February 10th 2021 
+work injury was a direct and causal factor in relationship to the left 
+shoulder MRI findings.  The reported mechanism of injury would not be 
+expected to cause the MRI findings.  In addition, the left shoulder MRI 
+showed degenerative tendinosis and tearing which develops over many 
+years.  I don’t believe the February 10th 2021 caused a material 
+aggravation or was a contributing factor to the left shoulder MRI findings.  
+In addition, I don’t believe that the May 30th 2019 work incident caused a 
+left shoulder injury. 
+(Ex. A, p. 20)  Dr. Bollier noted Nusinovic’s imaging taken eight days after the alleged 
+injury showed degenerative tendinosis and tearing that develops over many years.  Dr. 
+Sassman’s report does not address the degenerative nature of the findings.  She does 
+not describe a lighting up of a preexisting condition, rather she described an alleged 
+acute injury when Nusinovic heard a pop in her left shoulder while opening the fire door.  
+I do not find her opinion persuasive.  Based on the foregoing, I find Nusinovic has failed 
+to prove she sustained an injury to her left shoulder or left upper extremity caused by 
+the alleged February 10, 2021 work injury.  Given this finding, the remaining issues 
+involving the February 10, 2021, injury date are moot.  
+III. 
+Nature and Extent of May 3, 2019 Injury 
+ 
+A. 
+Nature of the Injury 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 25 
+ 
+ 
+Nusinovic alleges the May 3, 2019 injury to her right upper extremity/shoulder 
+extends into her body as a whole, and should include impairment related to the distal 
+clavicle excision.  Allen Health rejects her assertion she has sustained an impairment to 
+her body as a whole. 
+Workers’ Compensation Commissioner Joseph Cortese, II has issued three 
+opinions governing the nature of alleged shoulder injuries, which are binding in this case 
+and are incorporated by reference.  Deng v. Farmland Foods, Inc., File No. 5061883, 
+2020 WL 5893577 (Sept. 29, 2020 Iowa Workers’ Comp. Comm’n) (injuries to the 
+infraspinatus and labrum are included in the definition of the shoulder); Chavez v. MS 
+Technology, LLC, File No. 5066270, 2020 WL 6037534 (Sept. 30, 2020 Iowa Workers’ 
+Comp. Comm’n) (claimant who underwent extensive debridement of the labrum, biceps 
+tendon, and subacromial space with biceps tenotomy and a subacromial 
+decompression sustained an injury to the shoulder and not the body as a whole),  
+Welch v. Seneca Tank, File No. 1647781.01, 2021 WL 4977381 (Oct. 20, 2021 Iowa 
+Workers’ Comp. Comm’n) (claimant’s distal clavicle excision for a shoulder surgery 
+should be compensated as a shoulder injury).   
+On October 23, 2019, Dr. Bollier performed a right shoulder arthroscopy, SLAP 
+repair, subacromial decompression, distal clavicle excision, and biceps tenotomy on 
+Nusinovic.  (JE 5, p. 91)  Nusinovic did not sustain a break of her clavicle itself at work, 
+rather, the distal clavicle excision was performed to improve her shoulder symptoms 
+and function.  The Commissioner has opined the above injuries are to be compensated 
+as injuries to the shoulder.  I am bound to follow his opinions.  I find Nusinovic sustained 
+an injury to her shoulder and not to her body as a whole.   
+ 
+B. 
+Extent of Disability, Credit, and Alleged Overpayment 
+ 
+Iowa Code section 85.34(2) governs compensation for permanent partial 
+disabilities.  The law distinguishes between scheduled and unscheduled disabilities.  
+The Division of Workers’ Compensation evaluates disability using two methods, 
+functional and industrial.  Simbro v. Delong’s Sportswear, 332 N.W.2d 886, 887 (Iowa 
+1983).   
+ 
+The Division applies the functional method for a scheduled injury to each part of 
+the body listed in the statute, including the loss of an arm and loss of a shoulder.  Iowa 
+Code § 85.34(2); Westling v. Hormel Foods Corp., 810 N.W.2d 247, 252 (Iowa 2012).  
+Each of these subsections provides a maximum number of weeks of compensation for 
+the complete loss of a scheduled member or body part.   
+Since 2017, compensation or functional loss for scheduled injuries is determined 
+by taking the number of weeks allowed for a complete loss of the body part or 
+scheduled member, multiplied by a percentage of impairment determined using the 
+AMA Guides.  Iowa Code § 85.34(2)(x).  The statute also requires compensation be 
+awarded for functional loss if an employee returns to work or is offered work “for which 
+the employee receives or would receive the same or greater salary, wages, or earnings 
+than the employee received at the time of the injury.”  Id. § 85.34(2).   
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 26 
+ 
+The Division uses the industrial method for “all cases of permanent partial 
+disability other than those” set forth in Iowa Code section 85.34(2)(a) through (u).  All 
+other cases are classified as “unscheduled injuries.”  Westling, 810 N.W.2d at 252-53.  
+Compensation for unscheduled injuries is determined examining the reduction of 
+earning capacity.  Id. at 53.   
+In 2017, the Iowa Legislature made substantial changes to Iowa Code chapter 
+85, including a change to how compensation is determined for an injury “for a loss of a 
+shoulder.”  Before 2017, shoulder injuries were treated as injuries to the body as whole 
+and were compensated industrially under what is now Iowa Code section 85.34(2)(v) 
+(2017), formerly Iowa Code section 85.34(2)(u) (2016).  Second Injury Fund of Iowa v. 
+Nelson, 544 N.W.2d 258 (Iowa 1995).  In 2017, the Legislature enacted Iowa Code 
+section 85.34(2)(n), which provides “compensation shall be paid as follows . . . .(n) For 
+the loss of a shoulder, weekly compensation during four hundred weeks.”   
+ 
+As analyzed above, I found Nusinovic sustained a loss to her shoulder, a 
+scheduled member and her recovery is limited to functional loss under the statute.  Two 
+physicians have given impairment ratings in this case, Dr. Sassman and Dr. Bollier.  I 
+find Dr. Sassman’s rating to be the most persuasive.   
+ 
+On May 18, 2020, Dr. Bollier assigned Nusinovic a permanent partial impairment 
+of 5 percent to the right upper extremity, based on “loss of forward flexion (2% upper 
+extremity) and extension (1% upper extremity) per figure 16-40 on page 476, loss of 
+abduction (1% upper extremity) and adduction (0% upper extremity) per figure 16-43 on 
+page 477, loss of internal rotation (1% upper extremity) per figure 16-46.”  (JE 5, pp. 
+125-26)  He listed range of motion findings for the right shoulder of abduction to 140 
+degrees, forward flexion of 160 degrees, internal rotation of 70 degrees, external 
+rotation of 80 degrees, adduction of 40 degrees and extension of 40 degrees.  (JE 5, p. 
+125)  Dr. Bollier did not list any comparison findings for the left shoulder.   
+On April 6, 2021, Dr. Sassman examined Nusinovic, and later issued her report, 
+opining she reached maximum medical improvement if she did not seek additional 
+treatment on April 12, 2021, the date of the second functional capacity evaluation.  Dr. 
+Sassman assigned Nusinovic a 5 percent upper extremity impairment for loss of flexion, 
+1 percent upper extremity impairment for loss of extension, 4 percent upper extremity 
+impairment for loss of abduction, 0 percent upper extremity impairment for loss of 
+adduction, 2 percent upper extremity impairment for loss of internal rotation, and 1 
+percent upper extremity impairment for loss of external rotation, for a total 13 percent 
+upper extremity impairment.  (Ex. 1, p. 27)  For the distal clavicle excision, using Table 
+16-27, Dr. Sassman assigned a 10 percent upper extremity impairment.  (Ex. 1, p. 27)  
+Using the combined values chart, Dr. Sassman assigned a 22 percent upper extremity 
+impairment.  (Ex. 1, p. 27)  Dr. Sassman recorded her findings on exam, as follows:  
+flexion of 110 degrees for the right and left shoulders, extension of 30 degrees for the 
+right shoulder and 45 degrees for the left shoulder, abduction of 100 degrees for both 
+shoulder, adduction of 40 degrees for the right shoulder and 50 degrees for the left 
+shoulder, external rotation of 30 degrees for the right shoulder and 70 degrees for the 
+left shoulder, and internal rotation of 50 degrees for the right shoulder and 60 degrees 
+for the left shoulder.  (Ex. 1, p. 17)   
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 27 
+ 
+ 
+Dr. Bollier challenged Dr. Sassman’s rating on August 30, 2021, noting he last 
+evaluated Nusinovic’s right shoulder on February 15, 2021, and that he maintained she 
+had sustained a 5 percent permanent impairment to her right shoulder.  (Ex. A, pp. 17, 
+19)  Dr. Bollier stated he did not assign a 10 percent upper extremity impairment for the 
+distal clavicle resection because it “is a chronic degenerative condition and the need for 
+AC joint arthroplasty was not caused by the work injury.  We did perform distal clavicle 
+excision at the time of her October 2019 right shoulder surgery because we wanted to 
+address all pain generators.  However, her work injury didn’t cause the AC joint 
+arthroplasty.  This is a chronic degenerative condition.”  (Ex. A, p. 18)  He further stated 
+he stood by his range of motion calculations.  (Ex. A, p. 18)   
+ 
+During an appointment on September 23, 2019, Dr. Bollier found Nusinovic’s 
+reported symptoms, physical examination, and findings on examination and magnetic 
+resonance imaging correlated well, and opined her work for Allen Health over the past 
+seven years was a “significant factor/aggravation in causation of the patient’s pain, 
+imaging findings, and pathology,” and that “her work there is a significant factor in her 
+rot cuff tear and need for treatment.”  (JE 5, p. 88)  He then recommended right 
+shoulder arthroscopy, rotator cuff repair, biceps tenotomy, distal clavicle excision, 
+debridement and decompression.  (JE 5, pp. 88, 90)  Dr. Bollier did not state the need 
+for a distal clavicle excision was unrelated to the work injury at that time.  Moreover, his 
+opinion on August 30, 2021, does not address whether the right shoulder injury 
+aggravated, accelerated, or lit up her condition, causing the need for the distal clavicle 
+excision.  Dr. Sassman most recently examined Nusinovic’s right shoulder.  For these 
+reasons, I find her rating most persuasive.   
+In her post-hearing brief, Nusinovic conceded that if it is found she has reached 
+maximum medical improvement for the May 3, 2019 work injury, the conversion date for 
+permanency is May 18, 2020, the date of Dr. Bollier’s rating.  (Claimant’s Brief at 12)  I 
+find Nusinovic has sustained a 22 percent impairment to her right shoulder caused by 
+the work injury, entitling her to 88 weeks of permanent partial disability benefits, at the 
+stipulated rate of $456.92, commencing on May 18, 2020.   
+The parties stipulated her weekly rate for this claim is $456.92.  Allen Health paid 
+Nusinovic 4 weeks and 5 days of temporary disability benefits at the rate of $466.68 per 
+week, for an excess of $45.88 beyond what she was entitled to receive, and 20 weeks 
+of permanent partial disability benefits at the rate of $466.68 per week, $195.20 beyond 
+what she was entitled to receive under Iowa Code section 85.34(5).  Iowa Code section 
+85.34(5) provides,  
+[i]f an employee is paid any weekly benefits in excess of that required by 
+this chapter and chapters 85A, 85B, and 86, the excess paid by the 
+employer shall be credited against the liability of the employer for any 
+future weekly benefits due pursuant to subsection 2, for any current or 
+subsequent injury to the same employee. 
+Under the plain meaning of the statute, Allen Health is entitled to a credit for the excess 
+$45.88 paid in temporary benefits and $195.20 paid in permanent partial disability 
+benefits based on the incorrect rate.   
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 28 
+ 
+IV. 
+September 10, 2019 Injury 
+ 
+Nusinovic alleges she is entitled to industrial disability benefits for permanent 
+injuries she sustained to her low back and right hip when she fell in the parking lot at 
+work on September 10, 2019.  Allen Health admits Nusinovic sustained a permanent 
+impairment to her low back caused by the work injury, but denies Nusinovic sustained a 
+permanent impairment to her hip or that she needs additional treatment for her right hip 
+condition.  Allen Health alleges Nusinovic is not entitled to any additional benefits 
+beyond the 7 percent rating it paid because she refused an offer of work at a greater 
+wage and she is only entitled to recover for her functional loss in this case.  Nusinovic 
+disputes Allen Health’s contention. 
+ 
+A. 
+Nature of the Injury 
+ 
+The parties agree Nusinovic sustained a permanent impairment to her low back 
+caused by the work injury.  Both Dr. Abernathey and Dr. Sassman opined Nusinovic 
+sustained a permanent impairment to her low back caused by the work injury.  
+Nusinovic alleges she sustained a permanent impairment to her right hip caused by the 
+work injury.  Allen Health rejects her assertion.  Four physicians have provided 
+causation opinions on her hip condition, Dr. Westermann, a treating physician at the 
+UIHC, Dr. Kruse, a treating physician at the UIHC, Dr. Sassman, an occupational 
+medicine physician who conducted an independent medical examination for Nusinovic, 
+and Dr. Fields, a treating occupational medicine physician.  I find Dr. Sassman’s opinion 
+to be the most persuasive, as supported by Dr. Westermann’s opinion.   
+ 
+Shortly after Dr. Abernathey performed surgery on her low back, Nusinovic 
+complained of right hip pain.  She was referred to Dr. Westermann at the UIHC.  Dr. 
+Westermann examined Nusinovic, assessed her with acute right hip pain, opined the 
+mechanism of her injury is consistent with her work injury and ordered an ultrasound-
+guided intra-articular hip injection.  (JE 5, p. 134)  When Nusinovic returned to Dr. 
+Westermann, she continued to complain of hip pain.  (JE 5, p. 136)  Dr. Westermann 
+opined Nusinovic would not benefit from surgical intervention given her lack of 
+improvement with diagnostic injection, recommended she see an ultrasound/injection 
+specialist for evaluation of gluteus tendons for possible tendonitis and to follow up with 
+Dr. Abernathey because she may be having symptoms from her low back.  (JE 5, p. 
+138)  Dr. Westermann never opined Nusinovic’s acute right hip pain was unrelated to 
+the work injury. 
+ 
+Dr. Westermann referred Nusinovic to Dr. Kruse, also with the UIHC.  Dr. Kruse 
+reviewed right hip magnetic resonance imaging from September 17, 2020, which 
+showed a possible labral tear, mild gluteal tendinopathy and greater trochanteric bursitis 
+and she underwent a diagnostic ultrasound that day.  (JE 5, p. 144)  Dr. Kruse opined 
+his exam was consistent with mild glute tendinopathy and greater trochanteric bursitis, 
+but he believed the majority of her symptoms were coming from her back based on her 
+pain distribution and he recommended she follow up with Dr. Abernathey.  (JE 5, p. 
+144)  Dr. Kruse later responded to a check-the-box letter, agreeing he did not 
+recommend additional treatment for her right hip and that he believes “the possible tear 
+on her right hip MRI scan was an incidental finding unrelated to the September 2019 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 29 
+ 
+fall.”  (Ex. D, p. 47)  Dr. Kruse did not provide any handwritten comments or explain his 
+finding.   
+Dr. Fields placed Nusinovic at maximum medical improvement for her right hip 
+on January 22, 2021 and found he “did not have a medical explanation for her pain 
+symptomatology,” and further opined “Mrs. Nusinovic’s current complaints do not 
+correlate with the objective findings on lumbar MRI or right hip arthrograms,” stating he 
+did not have an objective basis for which to perform an impairment rating under the 
+AMA Guides.  (Ex. C, p. 44)  Thus, Dr. Fields found no objective evidence supporting 
+she sustained a permanent impairment to her lumbar spine or right hip.  His findings 
+regarding her lumbar spine are contrary to Dr. Abernathey’s finding she sustained a 
+permanent impairment to her lumbar spine.  I do not find Dr. Fields’ opinion persuasive. 
+ 
+Dr. Sassman diagnosed Nusinovic with right hip pain with magnetic resonance 
+imaging evidence of a right hip labral tear and symptoms of trochanteric bursitis.  (Ex. 1, 
+p. 19)  Dr. Sassman opined her fall was a causal factor in the hip condition, noting, 
+[a]n MRI of the hip on 9/17/2020 showed a tear of the superior acetabular 
+labrum and the suggestion of an additional anterosuperior-anterior 
+acetabular labral tear as well.  There was very low-grade, partial thickness 
+tearing of the lateral rotators and gluteus minimus at the insertion on the 
+greater trochanter.  Mild bilateral trochanteric bursitis and very mild right 
+hip osteoarthritis was also noted.  The treatment done to-date on the right 
+hip has not been successful. 
+(Ex. 1, p. 20)  Dr. Sassman then assigned a 20 percent lower extremity impairment for 
+loss of flexion of the right hip, which she converted to an 8 percent whole person 
+impairment.  (Ex. 1, p. 28)   
+ 
+There is no evidence Nusinovic complained of right hip pain before the 
+November 2019 injury.  Following lumbar spine surgery Nusinovic consistently 
+complained of right hip pain, which is documented in her medical records, and is 
+consistent with Dr. Sassman’s opinion, as supported by Dr. Westermann’s findings.  I 
+find Nusinovic sustained a permanent injury to her right hip caused by the fall.   
+ 
+B. 
+Extent of Disability 
+ 
+Dr. Abernathey assigned Nusinovic a 7 percent permanent impairment rating 
+“[b]ased upon the AMA Guidelines for chronic pain, decreased range of motion of the 
+lumbosacral spine, previous disc extrusion, and subsequent surgery.”  (JE 6, p. 161)  
+Dr. Sassman assigned Nusinovic a 5 percent permanent impairment rating for her 
+lumbar spine.  (Ex. 1, p. 28)  Dr. Abernathey’s training is superior to Dr. Sassman’s 
+training.  He also performed surgery on Nusinovic and I find his opinion most persuasive 
+regarding the extent of her functional disability to her back. 
+Dr. Sassman also assigned Nusinovic an 8 percent permanent impairment for 
+her right hip.  (Ex. 1, p. 28)  Under the Combined Values Chart on Page 604 of the AMA 
+Guides, Nusinovic has sustained a 14 percent whole person impairment. 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 30 
+ 
+Dr. Abernathey did not assign Nusinovic any permanent restrictions.  Dr. 
+Sassman assigned restrictions that are based, in part, on limitations caused by her right 
+and left lower extremities.   
+ 
+Allen Health avers Nusinovic is only entitled to her functional rating because 
+Allen Health offered her a position in May 2021 making greater earnings than she was 
+making at the time of the September 10, 2019 work injury.  Nusinovic rejects Allen 
+Health’s assertion.   
+ 
+One of the many changes to Iowa Code section 85.34 involves the return to work 
+or offer of work at the same or greater salary, wages, or earnings the employee 
+received at the time of the injury.  Under Iowa Code section 85.34(2)(v), governing 
+industrial disabilities,  
+[i]f an employee who is eligible for compensation under this paragraph 
+returns to work or is offered work for which the employee receives or 
+would receive the same or greater salary, wages, or earnings than the 
+employee received at the time of the injury, the employee shall be 
+compensated based only upon the employee’s functional impairment 
+resulting from the injury, and not in relation to the employee’s earning 
+capacity.  Notwithstanding section 85.26, subsection 2, if an employee 
+who is eligible for compensation under this paragraph returns to work with 
+the same employer and is compensated based only upon the employee’s 
+functional impairment resulting from the injury as provided in this 
+paragraph and is terminated from employment by that employer, the 
+award or agreement for settlement for benefits under this chapter shall be 
+reviewed upon commencement of reopening proceedings by the 
+employee for a determination of any reduction in the employee’s earning 
+capacity caused by the employee’s permanent partial disability 
+The parties stipulated Nusinovic has not returned to work since February 26, 
+2021.  There was no evidence presented Allen Health terminated Nusinovic’s 
+employment prior to the hearing.  The parties also stipulated at the time of the alleged 
+injury Nusinovic’s gross earnings were $632.34 per week.  Nusinovic worked full-time, 
+and under the stipulation her hourly wage was $15.80 per hour. 
+Allen Health avers Nusinovic is only entitled to her functional impairment for the 
+September 10, 2019, because in May 2021, Allen Health offered her a position as an 
+administrative assistant consistent with Dr. Sassman’s restrictions, earning $17.75 per 
+hour, which is more than her wages at the time of the work injury.  
+Allen Health’ counsel sent Nusinovic’s counsel a letter on May 17, 2021, offering 
+her a full-time administrative assistant position within Dr. Sassman’s recommended 
+restrictions, earning wages of $17.75 per hour, and attaching the job description.  (Ex. 
+4, pp 74-78)  On cross-examination, Nusinovic admitted after Dr. Sassman issued her 
+report and recommended permanent restrictions, Allen Health offered her a position 
+within Dr. Sassman’s restrictions, at a higher wage than she was earning at the time of 
+the work injury, as follows, 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 31 
+ 
+ Q. A week later you’re offered a new job from Allen.  Do you recall 
+that? 
+ A. 
+Correct. 
+ Q. Okay.  It’s not in housekeeping work that you were doing before in 
+2021.   This one is more of a sedentary administrative job; is that fair to 
+say? 
+ A. 
+Yes. 
+ Q. All right.  So you got an offer of the job within Doctor Sassman’s 
+restrictions on April 17, 2021 [sic]; correct? 
+ A. 
+Correct. 
+ Q. And I think they even said they’d be willing to work with you, you 
+can sit or stand, and wanted you even just to come in and look at the job 
+and see how they could arrange your work stations for you and to 
+accommodate you.  Do you recall that? 
+ A. 
+Yes. 
+ Q. Did you go back to Allen and look at the job? 
+ A. 
+No. 
+ Q. Did you call Allen and talk to them about the job? 
+ A. 
+No. 
+ Q. At any time since May 17, 2021, have you ever gone in and looked 
+at the job or called Allen to talk about the job and how you could do the 
+work? 
+ A. 
+No. 
+ Q. This was going to be a full-time job paying $17.75 an hour; correct? 
+ A. 
+Correct. 
+ Q. Okay.  And you did not accept the job; is that fair to say? 
+ A. 
+Due to pain, no. 
+ Q. In fact, you rejected the job at that time and said if we would 
+provide treatment and surgery for your left shoulder you would review jobs 
+from Allen; isn’t that correct? 
+ A. 
+Correct. 
+(Tr., pp. 92-93) 
+ 
+Allen Health offered Nusinovic work at a greater wage than she was earning at 
+the time of the work injury consistent with Dr. Sassman’s recommended permanent 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 32 
+ 
+restrictions and she refused the work.  As analyzed above, I also found Nusinovic failed 
+to prove she sustained an injury to her left shoulder arising out of and in the course of 
+her employment with Allen Health.  Under the statute, Nusinovic is only entitled to 
+recover the functional loss for her low back and right hip injury, or 70 weeks of 
+permanent partial disability benefits, at the stipulated rate of $632.34 per week, 
+commencing on April 12, 2021, the date Dr. Sassman found she reached maximum 
+medical improvement if additional treatment was not provided for her shoulders.  Given 
+my finding Nusinovic reached maximum medical improvement for her low back and right 
+hip, I find she is not entitled to a running award of temporary benefits from April 26, 
+2021, for her low back and right hip conditions.   
+ 
+V. 
+Medical Bills 
+ 
+Nusinovic seeks to recover medical bills for treatment she received on January 
+27, 2021, February 1, 2021, February 8, 2021, February 16, 2021, and February 25, 
+2021.  (Ex. 8)  The bills total $1,391.00.  Nusinovic’s insurer paid $397.26, Nusinovic 
+paid copayments, and the total outstanding balance after adjustments is $725.32.  Allen 
+Health avers Nusinovic is not entitled to recover the bills because the bills are for 
+unauthorized treatment.   
+An employer is required to furnish reasonable surgical, medical, dental, 
+osteopathic, chiropractic, podiatric, physical rehabilitation, nursing, ambulance, hospital 
+services and supplies, and transportation expenses for all conditions compensable 
+under the workers’ compensation law.  Iowa Code § 85.27(1).  The employer has the 
+right to choose the provider of care, except when the employer has denied liability for 
+the injury.  Id.  “The treatment must be offered promptly and be reasonably suited to 
+treat the injury without undue inconvenience to the employee.”  Id. § 85.27(4).  If the 
+employee is dissatisfied with the care, the employee should communicate the basis for 
+the dissatisfaction to the employer.  Id.  If the employer and employee cannot agree on 
+alternate care, the commissioner “may, upon application and reasonable proofs of the 
+necessity therefor, allow and order other care.”  Id.  The statute requires the employer to 
+furnish reasonable medical care.  Id. § 85.27(4); Long v. Roberts Dairy Co., 528 N.W.2d 
+122, 124 (Iowa 1995) (noting “[t]he employer’s obligation under the statute turns on the 
+question of reasonable necessity, not desirability”).  The Iowa Supreme Court has held 
+the employer has the right to choose the provider of care, except when the employer 
+has denied liability for the injury, or has abandoned care.  Iowa Code § 85.27(4); Bell 
+Bros. Heating & Air Conditioning v. Gwinn, 779 N.W.2d 193, 204 (Iowa 2010).   
+The bills that are the subject of Exhibit 8, with the exception of the February 25, 
+2021 bill, are for treatment for Nusinovic’s back complaints.  I do not find Nusinovic is 
+entitled to recover the bill from the February 25, 2021, treatment.  The amount 
+outstanding for this visit is $279.00.  Based on the evidence presented at hearing, I find 
+the remainder of the treatment provided to Nusinovic set forth in Exhibit 8 was 
+reasonable and beneficial to Nusinovic.  Bell Bros. Heating & Air Conditioning, 779 
+N.W.2d at 206; Brewer-Strong v. HNI Corp., 913 N.W.2d 235 (Iowa 2018).  I find Allen 
+Health is responsible for the bills set forth in Exhibit 8, with the exception of the bill for 
+the treatment she received on February 25, 2021, and must reimburse Nusinovic for the 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 33 
+ 
+copayments she paid.  Allen Health is entitled to a credit for all medical bills paid by 
+Nusinovic’s group health insurance through Allen Health.   
+VI. 
+Costs 
+ 
+Nusinovic seeks to recover the $103.00 filing fees for each case, $992.00 for the 
+functional capacity evaluation, and $1,750.00 for the vocational evaluation.  (Ex. 9)  
+Iowa Code section 86.40, provides, “[a]ll costs incurred in the hearing before the 
+commissioner shall be taxed in the discretion of the commissioner.”  Rule 876 Iowa 
+Administrative Code 4.33, provides costs may be taxed by the deputy workers’ 
+compensation commissioner for:  (1) the attendance of a certificated shorthand reporter 
+for hearings and depositions; (2) transcription costs; (3) the cost of service of the 
+original notice and subpoenas; (4) witness fees and expenses; (5) the cost of doctors’ 
+and practitioner’s deposition testimony; (6) the reasonable cost of obtaining no more 
+than two doctors’ or practitioners’ reports; (7) filing fees; and (8) the cost of persons 
+reviewing health service disputes.  The rule allows for the recovery of the filing fees, and 
+for the cost of two reports.  Nusinovic was only successful in two of the six cases she 
+filed.  I find she is entitled to recover $206.00 for the filing fees for File Numbers 
+19001748.01 and 20700556.01.  I also find she is entitled to recover the cost of the 
+second functional capacity evaluation, which was used by Dr. Sassman in her report.  I 
+did not find she was successful in proving she sustained a loss of earning capacity. 
+Using my discretion, I decline to award the cost of the vocational evaluation   
+ORDER 
+ 
+IT IS THEREFORE ORDERED, THAT: 
+For File Numbers 20009674.01, 21700201.01, 21700202.01, and 21700203.01: 
+Claimant shall take nothing. 
+For File Number 19001748.01: 
+Defendant shall pay Claimant 88 weeks of permanent partial disability benefits, 
+at the stipulated weekly rate of four hundred fifty-six and 92/100 dollars ($456.92), 
+commencing on May 18, 2020. 
+Defendant is entitled to a credit of two hundred forty-one and 08/100 dollars 
+($241.08) for overpaid benefits paid based on an incorrect rate and for all weekly 
+benefits paid to date. 
+Defendant shall pay accrued weekly benefits in a lump sum together with interest 
+at an annual rate equal to the one-year treasury constant maturity published by the 
+federal reserve in the most recent H15 report settled as of the date of injury, plus two 
+percent. 
+Defendant shall reimburse claimant one hundred three and 00/100 dollars 
+($103.00) for the filing fee. 
+ 
+ 
+
+NUSINOVIC V. UNITYPOINT HEALTH-WATERLOO/ALLEN HEALTH SYSTEMS, INC. 
+Page 34 
+ 
+For File 20700556.01: 
+Defendant shall pay Claimant 70 weeks of permanent partial disability benefits, 
+at the stipulated weekly rate of six hundred thirty-two and 34/100 dollars ($632.34), 
+commencing on April 12, 2021. 
+Defendant is entitled to a credit for all weekly benefits paid to date. 
+Defendant is responsible for the medical bills set forth in Exhibit 8 consistent with 
+this decision.   
+Defendant shall reimburse claimant one hundred three and 00/100 dollars 
+($103.00) for the filing fee. 
+For File Numbers 19001748.01 and 20700556.01: 
+ 
+Defendant shall reimburse claimant nine hundred ninety-two and 00/100 dollars 
+($992.00) for the cost of the functional capacity evaluation. 
+For All Files: 
+Defendant shall file subsequent reports of injury as required by this agency 
+pursuant to rules 876 IAC 3.1(2) and 876 IAC 11.7. 
+Signed and filed this ____24th ____ day of February, 2022. 
+ 
+ 
+______________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+           HEATHER L. PALMER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEPUTY WORKERS’  
+ 
+ 
+ 
+ 
+ 
+ 
+  COMPENSATION COMMISSIONER 
+ 
+The parties have been served as follows: 
+ 
+Tom Drew (via WCES) 
+ 
+Jennifer Clendenin (via WCES) 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal period 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 

@@ -1,0 +1,146 @@
+Case Number: 5068734
+Case Title:  HAVILL, WARREN A V. QUAKER OATS COMPANY
+Doc Type:    Decision - Court of Appeals
+Source:      Havill, Warren-5068734.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 21-1740 
+Filed June 15, 2022 
+ 
+ 
+WARREN HAVILL, 
+ 
+Plaintiff-Appellant, 
+ 
+vs. 
+ 
+QUAKER OATS COMPANY and INDEMNITY INSURANCE COMPANY OF 
+NORTH AMERICA, 
+ 
+Defendants-Appellees. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Paul D. Scott, Judge. 
+ 
+ 
+Warren Havill appeals the district court’s affirmance of the workers’ 
+compensation commissioner’s finding that Havill’s workers’ compensation claim 
+was barred on statute-of-limitation grounds.  AFFIRMED. 
+ 
+ 
+ 
+Nate Willems of Rush & Nicholson, P.L.C., Cedar Rapids, for appellant. 
+ 
+Kent M. Smith of Smith Mills Schrock Blades P.C., West Des Moines, for 
+appellees. 
+ 
+ 
+ 
+Considered by Vaitheswaran, P.J., and Tabor and Badding, JJ.
+
+ 
+2
+VAITHESWARAN, Presiding Judge. 
+ 
+Warren Havill began working for Quaker Oats Company in 1984.  He 
+applied for workers’ compensation benefits on June 18, 2019, alleging hearing loss 
+from noise exposure, with a cumulative injury date of June 10, 2019.  He 
+characterized the condition as tinnitus, marked by a constant sound of cicadas or 
+crickets in his left ear.  Quaker responded with an assertion that the claim was 
+barred by the applicable two-year statute of limitations.  See Iowa Code § 85.26(1) 
+(2019) (requiring an employee to file a claim “within two years from the date of the 
+occurrence of the injury for which benefits are claimed”).1  A deputy workers’ 
+compensation commissioner agreed with Quaker.  On intra-agency appeal, the 
+workers’ compensation commissioner affirmed the deputy’s decision in its entirety.  
+The commissioner determined that Havill “knew, or should have known, by fall 
+2016, the nature of his tinnitus condition, the seriousness of the condition, and the 
+possible compensable nature of the condition.”  The district court affirmed the 
+agency decision.  Havill appealed.   
+ 
+As we recently stated, “The law is well established.”  City of Harlan v. 
+Thygesen, No. 21-0265, 2022 WL 951137, at *1 (Iowa Ct. App. Mar. 30, 2022).  
+Both sides cite and apply Herrera v. IBP, Inc., 633 N.W.2d 284, 287 (Iowa 2001).  
+There, the court stated that for cumulative injuries, “The preferred analysis is to 
+first determine the date the injury is deemed to have occurred . . . and then to 
+                                            
+1 The provision was amended to state, “For the purposes of this section, ‘date of 
+the occurrence of the injury’ means the date that the employee knew or should 
+have known that the injury was work-related.”  2017 Iowa Acts ch. 23, § 3.  The 
+amended provision applies to injuries occurring on or after July 1, 2017.  See id. 
+§ 24.  Havill’s injury preceded that date. 
+
+ 
+3
+examine whether the statutory period commenced on that date or whether it 
+commenced upon a later date based upon application of the discovery rule.”  
+Herrera, 633 N.W.2d at 288.  The court explained, “[A]lthough an injury may have 
+occurred, the statute of limitations period does not commence until the employee, 
+acting as a reasonable person, recognizes its ‘nature, seriousness and probable 
+compensable character.’”  Id. (citation omitted). 
+ 
+The deputy commissioner whose decision the commissioner affirmed 
+applied each component of the discovery rule.  In pertinent part, the deputy 
+determined: (1) “[t]he sheer number of inciden[ts] and diagnoses, including a 
+worsening in the fall of 2016, and early part of 2017 show that Mr. Havill was aware 
+of the nature of his hearing and tinnitus issues prior to June of 2017”; (2) “a 
+reasonable person would be concerned about the occurrence in the fall of 2016, 
+and early parts of 2017, as evidenced by the fact that the claimant sought care for 
+his ears” at the time “despite [earlier] recommendations to do so”; and (3) “in the 
+fall of 2016, Mr. Havill experienced an episode of tinnitus that was so severe it 
+caused him to have an emotional reaction, including the need to lie down” and 
+“[t]he subsequent treatment” he obtained amounted to “a reasonable . . . 
+investigat[ion] [of] the cause of his tinnitus.”   
+ 
+Like the district court, we conclude substantial evidence supports the 
+agency’s findings.  See Iowa Code § 17A.19(10)(f)(1).  We further conclude the 
+commissioner’s application of law to fact was not “irrational, illogical, or wholly 
+unjustifiable.”  See id. § 17A.19(10)(m).  Finally, to the extent Havill argues the 
+agency misinterpreted the law, we discern no error in its legal conclusions.   
+
+ 
+4
+ 
+In reaching these conclusions, we have considered Havill’s assertion that 
+he was not aware the condition was serious enough to have a “permanent adverse 
+impact” on his employability before July 14, 2017.  See Herrera, 633 N.W.2d at 
+288 (“[B]y virtue of the discovery rule, the statute of limitations will not begin to run 
+until the employee also knows that the physical condition is serious enough to have 
+a permanent adverse impact on the claimant’s employment or employability.”).  
+Havill relies on medical notes from that date, which he asks us to accept as the 
+triggering date for statute-of-limitations purposes.  We are hard-pressed to discern 
+how those notes are more probative on the permanency issue than notes from a 
+visit at least four months earlier.  On February 10, 2017, a provider summarized 
+Havill’s complaint of “constant buzzing” for “4 days . . . straight,” diagnosed him 
+with “[t]innitus” and “[s]ensorineural hearing loss,” and recommended a hearing aid 
+and an MRI.  The July 14, 2017 notes referred to Havill’s belief that “[t]he tinnitus 
+. . . seem[ed] to have improved” and only recommended “follow up on an as-
+needed basis.”  In short, the July 14, 2017 notes could be construed as less 
+probative on the permanency question than the earlier notes.  While Quaker’s 
+response that Havill’s tinnitus had no impact on his employment—let alone a 
+permanent one—arguably cuts against a finding that the statute of limitations 
+began to run at all, resolution of whether Havill “knew, or should have known, of 
+the nature, seriousness, and probable compensability of her injury” was ultimately 
+“a question of fact to be determined by the commissioner.”  Midwest Ambulance 
+Serv. v. Ruud, 754 N.W.2d 860, 865 (Iowa 2008).  The commissioner did not 
+explicitly address the permanency question, but the agency’s implicit finding that 
+this prong of the Herrera test was satisfied is supported by substantial evidence.  
+
+ 
+5
+See id. at 866 (“Mere recognition that there is substantial contrary evidence in the 
+record does not mean that the commissioner’s determination may be successfully 
+attacked on appeal.”).  
+ 
+We have also considered Havill’s contention that the commissioner 
+“misuse[d]” the holding in Ranney v. Parawax Co., 582 N.W.2d 152 (Iowa 1998) 
+to establish his knowledge of “the probable compensable nature” of his injury at 
+the point when the injury manifested itself.  The deputy correctly cited Ranney for 
+the proposition that a claimant has an obligation to investigate the compensable 
+nature of the injury—an obligation the commissioner determined Havill satisfied.   
+ 
+Like the district court, we affirm the commissioner’s decision in its entirety. 
+ 
+AFFIRMED.  

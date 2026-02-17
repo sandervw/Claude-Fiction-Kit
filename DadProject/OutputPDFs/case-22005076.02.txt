@@ -1,0 +1,271 @@
+Case Number: 22005076.02
+Case Title:  TUTTLE DONALD V. ARCHER DANIELS MIDLAND COMPANY
+Doc Type:    Decision - District Court
+Source:      Tuttle, Donald-22705076.02.District Court Decision.PDF
+========================================================================
+
+IN THE IOWA DISTRICT COURT IN AND FOR POLK COUNTY 
+ 
+ARCHER DANIELS MIDLAND, 
+Petitioner, Defendant 
+ 
+v. 
+ 
+DONALD TUTTLE, 
+Respondent, Claimant 
+ 
+ 
+ 
+CASE NO.: CVCV065942 
+ 
+RULING ON PETITION FOR 
+JUDICIAL REVIEW 
+ 
+ 
+ 
+This matter came before the Court on a Petition for Judicial Review from a 
+final decision of the Iowa Workers’ Compensation Commission.  A hearing was held 
+on February 16, 2024. Petitioner, Archer Daniels Midland (“ADM”) appeared through 
+counsel, Brandon Lobberecht.  Respondent, Donald Tuttle, appeared through counsel 
+Dennis Currell. Upon review of the court file and applicable law, the Court enters the 
+following order: 
+ 
+I. 
+BACKGROUND FACTS  
+Donald Tuttle sustained two work related injuries, one to his left knee, and the 
+other a head injury. Tuttle suffered the injury to his left knee while working on 
+January 21, 2018. He returned to work from that injury, and sustained his head 
+injury on April 14, 2022. 
+ 
+A. LEFT KNEE 
+ 
+ADM authorized the University of Iowa Hospitals and Clinics (“UIHC”) as 
+treating provider for Tuttle’s knee injury.  ADM accepted compensability of the knee 
+claim and provided treatment, including left knee arthroscopic surgery on February 
+28, 2018. In November 2020, the doctors at UIHC opined that Tuttle needed a left 
+knee replacement.  Tuttle chose to get a second opinion at Mayo Clinic, and pursued 
+care for his knee injury there. While Mayo Clinic believed knee replacement would 
+be needed down the road, they provided knee injections to delay the need for that 
+surgery; this was in light of concerns regarding surgical risks related to Tuttle’s 
+E-FILED                    CVCV065942 - 2024 MAR 04 12:33 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 8
+
+MRSA. Mayo Clinic determined that knee replacement should only be considered 
+when Tuttle “completely exhausted nonoperative management.” Claimant’s wife, 
+Michelle Tuttle, testified at the alternate medical claims hearing that the injections 
+provided at the Mayo Clinic are done with imaging, which is not how the injection at 
+the University of Iowa was done. She also stated that while Tuttle has ongoing issues 
+with his knee, he was able to return to work at ADM because of the treatment he 
+received at the Mayo Clinic for his knee; he was able to work at ADM until he suffered 
+his head injury there. 
+ 
+B. HEAD INJURY 
+ 
+When Tuttle received his head injury, he was originally seen at a Unity Point 
+urgent care clinic. Urgent Care sent him to the St. Luke’s Hospital’s Emergency 
+Department, who told to follow up with his family physician, Dr. Jill Flory, in one 
+week.  Tuttle was directed to follow up with ADM’s provider, St. Luke’s Work Well.  
+He attended one appointment on May 3, 2022, but no doctor was present, nor was 
+anyone from ADM.  Further, Work Well staff did not have any records or seem to 
+know why Tuttle was there.  ADM attempted to reschedule an examination at Work 
+Well, but Tuttle did not go to that appointment and instead continued treatment 
+through Dr. Flory. Dr. Flory made multiple recommendations and referrals, including 
+referrals to the Mayo Clinic and to Dr. Alzohaili, an endocrinologist who diagnosed 
+Tuttle with pituitary dysfunction and growth hormone deficiency. Dr. Alzohaili 
+recommended Tuttle receive regular and ongoing injections of human growth 
+hormone (HGH) for the remainder of his life. 
+ 
+Tuttle had an independent medical examination with Dr. Jonathon Fields on 
+September 29, 2022. Dr. Fields provided an updated report on February 28, 2023, 
+which recommended a second opinion to a local endocrinologist at Mayo Clinic or the 
+University of Iowa, because Dr. Alzohaili is in Detroit, Michigan. Mayo Clinic 
+declined to see Tuttle for a second opinion, and an endocrinologist at the University 
+of Iowa did not have time to see Tuttle until last August 2023 at the earliest. 
+ 
+E-FILED                    CVCV065942 - 2024 MAR 04 12:33 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 8
+
+II. 
+STANDARD OF REVIEW 
+Final decisions rendered by the Iowa Workers’ Compensation Commission are 
+reviewed under Iowa Code Chapter 17A, the Iowa Administrative Procedures Act.1 
+“Under the Act, [a court] may only interfere with the commissioner’s decision if it is 
+erroneous under one of the grounds enumerated in the statute, and a party’s 
+substantial rights have been prejudiced.”2 The standard of review depends on the 
+type of error alleged by the Petitioner.3 
+If the alleged error is one of fact, the standard of review is whether the findings 
+are supported by substantial evidence.4 “[A] reviewing court can only disturb those 
+factual findings if they are ‘not supported by substantial evidence in the record before 
+the court when that record is reviewed as a whole.’”5 Additionally, in workers’ 
+compensation cases, factual questions are “delegated by the legislature to the 
+[C]ommissioner.”6 Consequently, the Court does not apply a “scrutinizing analysis” 
+to factual findings of the Commissioner, but only reverses the Commissioner’s 
+findings if they are not supported by substantial evidence.7 
+“Evidence is substantial if a reasonable person would find the evidence 
+adequate to reach the same conclusion.”8 The Court is “not to determine whether the 
+evidence supports a different finding; rather, our task is to determine whether 
+substantial evidence, viewing the record as a whole, supports the findings actually 
+made.”9 
+                                                          
+1 Ramirez-Trujillo v. Quality Egg, L.L.C., 878 N.W.2d 759, 768 (Iowa 2016), reh’g denied (May 27, 
+2016); see Iowa Code § 86.26 (2019). 
+2 Meyer v. IBP, Inc., 710 N.W.2d 213, 219 (Iowa 2006). 
+3 Jacobson Transp. Co. v. Harris, 778 N.W.2d 192, 196 (Iowa 2010). 
+4 Harris, 778 N.W.2d at 196; Schutjer v. Algona Manor Care Ctr., 780 N.W.2d 549, 557 (Iowa 2010). 
+5 Burton v. Hilltop Care Center, 813 N.W.2d 250, 256 (Iowa 2012) (quoting Iowa Code § 17A.19(10)(f)). 
+6 Larson Mfg. Co., v. Thorson, 763 N.W.2d 842, 850 (Iowa 2009). 
+7 Mercy Med. Ctr. v. Healy, 801 N.W.2d 865, 870 (Iowa App. 2011) (citing Midwest Ambulance Serv. 
+v. Ruud, 754 N.W.2d 860, 864, 866 (Iowa 2008)).  
+8 Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002) (citing Ehteshamfar v. UTA 
+Engineered Sys. Div., 555 N.W.2d 450, 452 (Iowa 1996)). 
+9 Cedar Rapids Community School District v. Pease, 807 N.W.2d 839, 845 (Iowa 2011) (internal 
+citations and quotations omitted). 
+E-FILED                    CVCV065942 - 2024 MAR 04 12:33 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 8
+
+If the claimed error is in the ultimate conclusion reached, “then the challenge 
+is to the agency’s application of the law to the facts.”10 In workers’ compensation 
+cases, “[t]he application of the law to the facts is also an enterprise vested in the 
+[C]ommissioner.” As such, this Court “reverse[s] only if the [C]ommissioner's 
+application was irrational, illogical, or wholly unjustifiable.”11  
+ 
+III. 
+TUTTLE’S PETITION FOR JUDICIAL REVIEW – KNEE INJURY 
+A. STANDARD OF REVIEW 
+ 
+Initially, the parties dispute the standard of review for the Deputy’s 
+determination. ADM argues the Deputy failed to find ADM did not meet its statutory 
+requirements under Iowa Code section 85.27(4), and therefore review is for errors at 
+law. Tuttle counters that the Deputy made a finding of reasonableness—or, in this 
+case, whether ADM’s care was unreasonable because Tuttle had the burden—which 
+is a question of fact that must only be reviewed for whether substantial evidence 
+supports the factual decision. The Court has long held that “[d]etermining what care 
+is reasonable under the statute is a question of fact.”12 
+ 
+B. FINDING OF UNREASONABLENESS 
+As in Long, “[t]he ultimate question is whether, in choosing the University of 
+Iowa Hospitals . . . the employer met its obligation under Iowa Code section 85.27 ‘to 
+furnish reasonable services’ for the treatment of claimant’s injuries.”13 The Deputy 
+found that the doctors at UIHC still recommend total knee replacement. This was 
+supported by a letter from Dr. Bollier at UIHC, which state’s Mayo Clinic’s 
+“recommendation of knee replacement is the same as our opinion . . . There are just 
+as many well-trained joint replacement surgeons in Iowa and our joint replacement 
+specialists at The University of Iowa would be happy to take care of him.”14  Although 
+                                                          
+10 Meyer, 710 N.W.2d at 219. 
+11 Healy, 801 N.W.2d at 870 (citing Larson Mfg., 763 N.W.2d at 850). 
+12 Long v. Roberts Dairy Co., 528 N.W.2d 122, 123 (Iowa 1995). 
+13 Id. 
+14 Def. Ex. A2. 
+E-FILED                    CVCV065942 - 2024 MAR 04 12:33 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 8
+
+ADM argues on appeal that “[t]he only reason Mayo Clinic may have offered more or 
+different care than UIHC is because Claimant chose to forego pursuing any further 
+care with UIHC,” that argument is not supported by the record.15 The exhibits 
+submitted for the alternate medical care hearing include UIHC’s letter discussed 
+above, and email correspondence wherein ADM’s counsel in July and December 2021 
+indicating care continues to be authorized at UIHC—“please review the UIHC 
+opinion letter dated 11-24-20.”16 
+The Deputy accurately articulated the applicable law—that Tuttle had the 
+burden of proving the authorized care is unreasonable and it was a question of 
+reasonable necessity, not desirability. And while the Deputy stated there were 
+“documented concerns with claimant having a total knee replacement surgery, given 
+his history of MRSA,” the Deputy never made an express finding that ADM’s care 
+was unreasonable. The Deputy implied that ADM’s offered care—total knee 
+replacement surgery—was unreasonable because surgery came with a significant 
+risk and should be pushed out as far as possible, but that key finding is not expressly 
+included in the Decision. The Deputy made findings supported by substantial 
+evidence that Dr. Duck’s treatment at Mayo Clinic was “more extensive and better 
+suited to treat claimant’s knee injury.” However, this finding only comes into play 
+after a determination ADM’s care is unreasonable. Because that express finding is 
+not in the Ruling, this case must be remanded on that issue. The Deputy 
+Commissioner shall clarify whether ADM’s care plan of UIHC is unreasonable. 
+ 
+IV. 
+TUTTLE’S PETITION FOR JUDICIAL REVIEW – HEAD INJURY 
+A. FLOW OF AUTHORIZATION 
+ADM asserts the Deputy’s finding that “Dr. Flory was the initial authorized 
+treating physician, and there is no evidence her authorization has been revoked” is 
+not only not supported by substantial evidence, but is factually erroneous. Tuttle’s 
+wife’s testimony supports ADM’s argument: “We were advised that we were going to 
+                                                          
+15 Petitioner’s Judicial Review Brief, p. 13 (emphasis in original). 
+16 Def. Ex. B4. 
+E-FILED                    CVCV065942 - 2024 MAR 04 12:33 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 8
+
+have to go to WorkWell. Because he had a phone call from someone at ADM . . .we 
+were going to have to go to WorkWell, because ADM said they were not going to pay 
+for him to go to any further appointments to Dr. Flory’s”17 After WorkWell did not 
+have Tuttle on their calendar for the May 3 appointment, ADM did reset an 
+appointment for May 16, 2022; however, Tuttle chose not to attend that appointment, 
+and instead continued treatment with Dr. Flory.18 “[A]n employer may establish it is 
+not liable for the cost of care an employee received from an authorized medical 
+provider if it proves by a preponderance of the evidence that the employee knew or 
+reasonably should have known . . . the employer no longer authorized the care the 
+employee received at the time the employee received it.”19 The Deputy’s finding that 
+“Dr. Flory was the initial authorized treating physician, and there is no evidence her 
+authorization has been revoked” was not supported by substantial evidence.  
+ 
+B. ALTERNATE MEDICAL CARE 
+ADM contends that Mayo Clinic was the authorized treating provider for 
+Tuttle’s head injury starting in February 2023, following the independent medical 
+examination by Dr. Fields in September 2022. Mayo Clinic declined treatment, and 
+an endocrinologist at the University of Iowa could not see Tuttle until August 2023. 
+The Deputy found that this was an unreasonable delay in treatment, and therefore 
+ADM’s offered treatment was not offered promptly. As discussed above, 
+reasonableness is a fact question.20 Substantial evidence supports this finding, 
+especially since ADM did nothing between setting a May 16, 2022, appointment at 
+WorkWell, and the September 2022 IME. ADM’s request that Tuttle wait until 
+August 2023 to see their doctor at the University of Iowa would have caused further 
+delays in treatment. The Deputy’s found that the HGH injections provided benefit, 
+and stopping the injections had a negative effect. The care authorized by ADM was 
+                                                          
+17 Tr. 42:18–43:2. 
+18 Tr. 48:5–49:4. 
+19 Ramirez-Trujillo v. Quality Egg, L.L.C., 878 N.W.2d 759, 776–77 (Iowa 2016). 
+20 Long, 528 N.W.2d at 123 (Iowa 1995). 
+E-FILED                    CVCV065942 - 2024 MAR 04 12:33 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 8
+
+inferior and less extensive than other available care requested by Tuttle. The 
+Deputy’s decision with respect to the head injury is upheld. 
+ 
+C. SCOPE OF AUTHORIZATION 
+The  Deputy ordered ADM to authorize and pay for Tuttle’s treatment related 
+to his head injury with Dr. Alzohaili, including authorization of the prescription for 
+human growth hormone injections. ADM argues the Deputy ordered “ADM to 
+authorize, in essence, any future and unknowable treatment recommendations of Dr. 
+Alzohaili pertaining to his head injury claim” and that is a legally erroneous 
+application of Iowa Code section 85.27(4). ADM cites no caselaw to support this 
+preposition. ADM merely suggests “the Deputy should have simply ordered ADM to 
+authorize and provide for the injections (either through May Clinic or, if it refuses to 
+do so, through Dr. Alzohaili’s office).”  As discussed above, Mayo Clinic declined to 
+provide a second opinion regarding Dr. Alzohaili’s treatment with HGH injections. 
+The Deputy’s authorization was limited to “treatment related to [Tuttle’s] head 
+injury,” including the prescription for HGH injections. This was not an abuse of 
+discretion. 
+ 
+ 
+V. 
+DISPOSITION 
+IT IS THE ORDER OF THE COURT that Decision of the Deputy 
+Commissioner by REMANDED to the agency for a more specific finding regarding 
+whether UIHC’s care was unreasonable with respect to the knee injury.  
+IT IS FURTHER ORDERED that the Decision is AFFIRMED with respect to 
+the alternate medical care decision for the head injury. 
+E-FILED                    CVCV065942 - 2024 MAR 04 12:33 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 8
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV065942
+ARCHER DANIELS MIDLAND VS DONALD TUTTLE
+Type:
+ORDER FOR JUDGMENT
+So Ordered
+Electronically signed on 2024-03-04 12:33:51
+E-FILED                    CVCV065942 - 2024 MAR 04 12:33 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 8

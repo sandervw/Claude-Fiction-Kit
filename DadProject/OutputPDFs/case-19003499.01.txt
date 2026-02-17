@@ -1,0 +1,785 @@
+Case Number: 19003499.01
+Case Title:  COX, BRETT F V. BRIDGESTONE FIRESTONE
+Doc Type:    Decision - Deputy
+Source:      Cox Brett-19003499.01D.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+BRETT F. COX, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                     File No. 19003499.01 
+BRIDGESTONE AMERICAS, INC., 
+  : 
+ 
+ 
+  :                 ARBITRATION  DECISION 
+ 
+Employer, 
+  : 
+ 
+ 
+  : 
+and 
+ 
+  : 
+ 
+ 
+  : 
+OLD REPUBLIC INSURANCE 
+  : 
+COMPANY, 
+  : 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  : 
+ 
+Defendants. 
+  :              Head Note Nos.:  1803, 1803.1 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+ 
+The claimant, Brett Cox, filed a petition for arbitration seeking workers’ 
+compensation benefits from Bridgestone Americas, Inc. (“Bridgestone”), and its insurer 
+Old Republic Insurance Company.  Richard Schmidt appeared on behalf of the 
+claimant.  Timothy Wegman appeared on behalf of the defendants.   
+ 
+The matter came on for hearing on October 21, 2020, before Deputy Workers’ 
+Compensation Commissioner Andrew M. Phillips.  An order issued on March 13, 2020, 
+and updated June 1, 2020, and August 14, 2020, by the Iowa Workers’ Compensation 
+Commissioner, In the Matter of Coronavirus/COVID-19 Impact on Hearings (Available 
+online at: https://www.iowaworkcomp.gov/order-coronavirus-covid-19 (last viewed 
+August 14, 2020)) amended the hearing assignment order in each case before the 
+Commissioner scheduled for an in-person regular proceeding hearing between March 
+18, 2020, and November 20, 2020.  The amendment makes it so that such hearings will 
+be held by Internet-based video, using CourtCall.  The parties appeared electronically, 
+and the hearing proceeded without significant difficulties.  Originally, briefing was due 
+on December 7, 2020; however, the claimant filed a motion to extend the deadline to 
+December 14, 2020.  The undersigned granted the motion.  The matter was fully 
+submitted on December 14, 2020, after briefing by the parties.     
+The record in this case consists of Joint Exhibits 1-10.  Neither the claimant, nor 
+defendants submitted any additional exhibits.  Testimony under oath was also taken 
+ELECTRONICALLY FILED     2021-Mar-09  08:48:25     DIVISION OF WORKERS' COMPENSATION
+
+COX V. BRIDGESTONE AMERICAS, INC. 
+Page 2 
+ 
+ 
+from the claimant, Brett Cox.  Amy Rose was appointed the official reporter and 
+custodian of the notes of the proceeding.   
+STIPULATIONS 
+ 
+Through the hearing report, as reviewed at the commencement of the hearing, 
+the parties stipulated and/or established the following: 
+1. There was an employer-employee relationship at the time of the alleged 
+injury. 
+2. The claimant sustained an injury arising out of, and in the course of, 
+employment, on May 22, 2018. 
+3. The alleged injury is a cause of temporary disability during a period of 
+recovery. 
+4. The alleged injury is a cause of permanent disability.   
+5. The commencement date for permanent partial disability benefits, if any are 
+awarded, is March 23, 2020.   
+6. The claimant’s gross earnings were $955.16 per week.  The claimant was 
+single, and entitled to one exemption.  The resulting weekly rate of 
+compensation is $569.06.   
+7. Prior to the hearing, the claimant was paid 40 weeks of permanent partial 
+disability compensation at $569.06 per week.   
+8. The costs requested by the claimant have been paid.   
+Additionally, entitlement to temporary disability and/or healing period benefits is no 
+longer in dispute.  The defendants waived their affirmative defenses. 
+The parties are now bound by their stipulations. 
+ISSUES 
+The parties submitted the following issues for determination: 
+1. The extent of permanent disability, if any is awarded. 
+2. Whether the disability is a scheduled member disability to the shoulder 
+pursuant to Iowa Code section 85.34(2)(n) or an industrial disability.   
+3. Whether Iowa Code section 85.34(2)(v) applies to disability benefits.   
+
+COX V. BRIDGESTONE AMERICAS, INC. 
+Page 3 
+ 
+ 
+4. If the claimant’s injuries are found to be an industrial disability and/or whole 
+body injury, whether the defendants are entitled to apportionment with a prior 
+workers’ compensation claim. 
+5. Whether the claimant is entitled to payment of medical expenses.  At hearing, 
+the parties clarified that the claimant is seeking payment for out-of-pocket 
+expenses, such as deductibles and copays.   
+6. Whether the claimant is entitled to reimbursement for an independent medical 
+examination (“IME”) pursuant to Iowa Code section 85.39.   
+7. Whether the claimant is entitled to an assessment of costs.   
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+Brett Cox, the claimant, was 50 years old at the time of the hearing.  (Testimony).  
+He graduated from Saydel High School in 1988.  (Testimony).  Mr. Cox then attended 
+one and a half years of college.  (Testimony).  He is single, and was single at the time of 
+the work incident.  (Testimony).  He has no dependent children.  (Testimony).   
+Prior to Mr. Cox’s employment at Bridgestone, he served time in prison for a 
+felony conviction from 1992 to 1993.  (Testimony).  After his release from prison, he 
+worked for Archer TV & Appliance doing sales and delivery.  (Testimony).  He then 
+worked for Rex TV & Appliance as a store manager.  (Testimony).  He then worked as a 
+subcontractor for Regency Homes doing construction cleanup.  (Testimony).   
+Mr. Cox is employed at Bridgestone.  (Testimony).  He has worked there since 
+2004.  (Testimony).  He currently works as a rubber trucker.  (Testimony).  As a rubber 
+trucker, he operates a forklift to haul 3,000 pound skids of folded rubber around the tire 
+factory to keep machines loaded.  (Testimony).  At times he exits the forklift in order to 
+adjust rubber if it falls down.  (Testimony).  He currently makes $22.45 per hour.  
+(Testimony).  He works about the same amount of hours as he did at the time of the 
+injury.  (Testimony).   
+In May of 2018, at the time of his work injury, Mr. Cox worked in a position titled 
+“relief.”  (Testimony).  He worked in this position for 12 to 13 years.  (Testimony).  As a 
+relief person, he travelled the production line and allowed fellow employees to take a 
+break three to five times per day.  (Testimony).  He earned $21.83 per hour at the time 
+of his injury.  (Testimony).  Positions on the production line included: operating, mill 
+tending, booking, painting, and tray trucking.  (Testimony).  In the operating position, the 
+employee loads preformed steel into a machine, and allows rubber to come through the 
+preformed steel.  (Testimony).  The rubber is then measured for width and weight.  
+(Testimony).  The rubber proceeds down the line to the mill tending position.  
+(Testimony).  The mill tender loads the rubber into a mill, transfers the rubber from a mill 
+
+COX V. BRIDGESTONE AMERICAS, INC. 
+Page 4 
+ 
+ 
+to a conveyer to another mill and down the line.  (Testimony).  The rubber proceeds to 
+booking.  (Testimony).  Bookers lead the rubber through a knife, and swing it into trays.  
+(Testimony).  They also measure the length, width, and weight of the rubber and swing 
+the pieces into a tray.  (Testimony).  The tray trucker then moves those trays to storage 
+for a tire builder to retrieve.  (Testimony).  A painter paints the ends of rubber pieces so 
+that they can be stuck together during the tire building process.  (Testimony).  Mr. Cox 
+testified that the relief position is much more physically demanding than the rubber 
+trucker position.  (Testimony).   
+Mr. Cox moved to the rubber trucker position at the recommendation of Dr. Troll.  
+(Testimony).  Mr. Cox testified that, in order to change jobs to an open position, a 
+Bridgestone employee must sign up to show interest in the position.  (Testimony).  The 
+position is awarded based upon seniority.  (Testimony).  In this case, Mr. Cox told his 
+supervisor of his issues, and was told of the rubber trucker opening.  (Testimony).  He 
+applied for, and received, the position.  (Testimony).   
+Mr. Cox opined that if he remained in the relief position, he would now earn 
+$25.30 per hour.  (Testimony).  However, he felt that he could no longer do the relief job 
+because he could not tend a mill and could not be an operator.  (Testimony).  These 
+positions involve lifting that he believes he could not perform anymore.  (Testimony).   
+Mr. Cox had a previous work injury to his right side.  (Testimony).  He had a 
+surgery to his right shoulder, and no longer has difficulties to his right shoulder.  
+(Testimony).  He entered into a settlement for his right shoulder for 15 percent industrial 
+disability, which equates to 75 weeks of permanency benefits.  (Testimony).   
+Some medical records related to Mr. Cox’s previous work injury were included in 
+the joint exhibits included in the record.  Mark Fish, D.O., F.A.O.A.O. issued a letter 
+dated January 13, 2015, to the claimant’s attorney.  (Joint Exhibit 1:1).  Dr. Fish noted 
+that he last saw Mr. Cox on November 17, 2014.  (JE 1:1).  Dr. Fish assessed Mr. Cox 
+with a 13 percent impairment rating to his right shoulder.  (JE 1:1).   
+On May 18, 2018, Mr. Cox worked on a mill known as “Tuber 7,” which operated 
+differently than other mills.  (Testimony).  As he pulled a strip of rubber off of the mill 
+and onto a conveyer, he felt pain in his left shoulder and top chest area.  (Testimony).  
+He reported to medical immediately and informed Dr. Troll of his issue.  (Testimony).  
+Dr. Troll recommended that he “ice it down.”  (Testimony). 
+Mr. Cox reported to Bridgestone’s in-house healthcare providers on May 22, 
+2018.  (JE 2:3).  Dr. Troll examined the claimant.  (JE 2:3).  Mr. Cox initially thought that 
+the pain was in his clavicle region, but he found it was now more superior to that in the 
+trapezius region.  (JE 2:3).  Mr. Cox reported to Dr. Troll that he moved to a new 
+machine requiring different movements, at which time his pain increased.  (JE 2:3).  Dr. 
+Troll diagnosed Mr. Cox with left shoulder impingement syndrome.  (JE 2:3).  Dr. Troll 
+recommended that Mr. Cox work at his own pace and come to the medical department 
+to ice his shoulder two times per shift.  (JE 2:3).   
+
+COX V. BRIDGESTONE AMERICAS, INC. 
+Page 5 
+ 
+ 
+On May 24, 2018, Mr. Cox reported to Dr. Troll with continued left shoulder 
+complaints.  (JE 2:2-3).  Dr. Troll found impingement signs in Mr. Cox’s left shoulder 
+and noted that Mr. Cox returned for a re-evaluation.  (JE 2:3).  Mr. Cox indicated that 
+the pain occurred in the anterior aspect of his left shoulder.  (JE 2:3).  Dr. Troll noted 
+that Mr. Cox should continue to work at his own pace and use ice and topical agents for 
+the pain.  (JE 2:3).  Dr. Troll told Mr. Cox to return for care as needed.  (JE 2:3).   
+On June 26, 2018, Mr. Cox reported to Pete Goshorn, R.N. at Bridgestone 
+requesting ice to his left shoulder.  (JE 2:2).  Nurse Goshorn recommended that Mr. Cox 
+visit Dr. Troll in the morning.  (JE 2:2).   
+Mr. Cox again reported to Dr. Troll on June 27, 2018, with left shoulder pain.  (JE 
+2:2).  Dr. Troll noted that he previously diagnosed Mr. Cox with impingement syndrome 
+in May, but noted that a re-examination indicated that Mr. Cox’s symptoms were 
+suggestive of biceps tendonitis with mild impingement.  (JE 2:2).  Mr. Cox indicated that 
+his current job required different shoulder positions and reaching.  (JE 2:2).  Mr. Cox 
+told Dr. Troll that ice relieved his pain. (JE 2:2).  Mr. Cox rejected steroid injections, as 
+they interfered with his diabetes.  (JE 2:2).  Dr. Troll’s impression was: “[p]ersistent left 
+shoulder pain with some impingement signs and possible rotator cuff tendonitis.”  (JE 
+2:2).  Dr. Troll recommended that Mr. Cox continue working at his own pace, and 
+suggested that Mr. Cox pursue a different job within the plant to prevent further shoulder 
+symptoms.  (JE 2:2).   
+On March 7, 2019, Dr. Troll examined Mr. Cox for shoulder pain that began in 
+April of 2018.  (JE 2:1-2).  Dr. Troll noted that Mr. Cox ultimately switched to a forklift 
+job, but continued to have pain and a decreased range of motion in his left shoulder.  
+(JE 2:2).  Mr. Cox indicated that his shoulder pain caused difficulty sleeping.  (JE 2:2).  
+Dr. Troll found decreased range of motion in Mr. Cox’s left shoulder.  (JE 2:2).  Dr. Troll 
+diagnosed Mr. Cox with persistent left shoulder pain, and noted that Mr. Cox had 
+positive impingement signs.  (JE 2:2).  Dr. Troll recommended obtaining an MRI.  (JE 
+2:2).   
+Based upon Dr. Troll’s order, Mr. Cox reported to Mercy Medical Imaging for a 
+left shoulder MRI on March 25, 2019.  (JE 3:1).  Kraig Kirkpatrick, M.D. interpreted the 
+MRI.  (JE 3:1).  Dr. Kirkpatrick’s impressions included: 
+1. Moderate tendinosis involving the superior aspect of the 
+subscapularis and the anterior aspect of the supraspinatus tendon.  
+There is no full-thickness rotator cuff tear or atrophy of the cuff 
+musculature.   
+2. Moderate tendinosis along the intra-articular course of the biceps 
+tendon.   
+3. Degenerative fraying of the superior labrum.   
+(JE 3:1).   
+
+COX V. BRIDGESTONE AMERICAS, INC. 
+Page 6 
+ 
+ 
+On April 3, 2019, Mike Dreibelbeis, A.T.C., P.T., noted that Mr. Cox arrived with 
+“long-term complaints of limited left shoulder range of motion and pain.”  (JE 2:1).  Mr. 
+Dreibelbeis found reduced range of motion in the left shoulder.  (JE 2:1).  Mr. 
+Dreibelbeis informed Mr. Cox that he should avoid overdoing activity, and provided an 
+exercise program.  (JE 2:1).  Dr. Troll reviewed MRI results with Mr. Cox, which showed 
+moderate tendinosis involving the subscapularis tendon, supraspinatus tendon, and the 
+biceps tendon.  (JE 2:1).  Dr. Troll recommended that Mr. Cox undertake an exercise 
+program provided by a physical therapist.  (JE 2:1).  Neither provider gave Mr. Cox any 
+work restrictions.  (JE 2:1).   
+Mr. Cox followed up with Mr. Dreibelbeis June 19, 2019.  (JE 2:4).  Mr. Cox 
+reported falling asleep in a recliner chair, and upon awakening, experienced shoulder 
+soreness.  (JE 2:4).  Mr. Dreibelbeis suspected that the soreness was due to an 
+irritation of his biceps and supraspinatus area.  (JE 2:4).  Mr. Dreibelbeis worked with 
+Mr. Cox on shoulder mobility exercises.  (JE 2:4).   
+Mr. Cox visited Dr. Troll at Bridgestone again on July 8, 2019.  (JE 2:4).  Mr. Cox 
+worked with physical therapy to restore range of motion.  (JE 2:4).  Dr. Troll noted that 
+the previous MRI showed degenerative changes including tendinosis and fraying at the 
+labrum.  (JE 2:4).  Dr. Troll concluded, “I think he is likely as good as he is going to get 
+given the status of his degenerative shoulder.”  (JE 2:4).  Dr. Troll returned Mr. Cox to 
+regular duty with no restrictions.  (JE 2:4).  Mr. Dreibelbeis also worked with Mr. Cox on 
+physical therapy.  (JE 2:4).  Mr. Cox reported that his exercises were not progressing 
+and that he felt as though he was not improving.  (JE 2:4).  Mr. Dreibelbeis found that 
+Mr. Cox’s range of motion was good and his strength was adequate.  (JE 2:4).   
+Brandon Madson, M.D., of CIA DSM Parks Area FM, examined Mr. Cox on 
+October 14, 2019, for Mr. Cox’s complaints of left shoulder pain. (JE 4:1).  Mr. Cox told 
+Dr. Madson that he had an MRI showing “frayed tendons and tendonosis.”  (JE 4:1).  
+Dr. Madson noted Mr. Cox’s previous physical therapy visits.  (JE 4:1).  Mr. Cox told Dr. 
+Madson that he was informed that nothing further could be done for him.  (JE 4:1).  Mr. 
+Cox requested a referral to Dr. Crites at Capitol Orthopedics.  (JE 4:1).  Dr. Madson 
+provided the referral, as requested.  (JE 4:1). 
+On October 28, 2019, Mr. Cox returned to Dr. Fish’s office with complaints of left 
+anterior and posterior shoulder pain, along with pain in his left biceps.  (JE 1:3-4).  Mr. 
+Cox indicated that his pain began in May or June of 2018, and occurred without 
+incident.  (JE 1:3).  He told Dr. Fish that he performed a lot of overhead and rowing type 
+activities at work.  (JE 1:3).  He also complained of pain into his neck.  (JE 1:3).  Dr. 
+Fish reviewed the MRI of Mr. Cox’s left shoulder.  (JE 1:3).  The MRI showed type II 
+acromion, mild to moderate AC arthrosis, and partial articular-sided tearing of the 
+anterior supraspinatus.  (JE 1:4).  The MRI also showed partial tearing of the 
+subscapularis superiorly, “consistent with a rotator cuff interval type tear.”  (JE 1:4).  Dr. 
+Fish noted that Mr. Cox attended physical therapy for adhesive capsulitis.  (JE 1:4).  Mr. 
+Cox complained of difficulty sleeping and pain while driving.  (JE 1:4).  Dr. Fish opined 
+that Mr. Cox’s rotator cuff symptomatology caused his pain.  (JE 1:4).  Dr. Fish opined 
+that conservative care would no longer provide complete relief, and Mr. Cox would 
+
+COX V. BRIDGESTONE AMERICAS, INC. 
+Page 7 
+ 
+ 
+benefit from a shoulder arthroscopy with rotator cuff repair.  (JE 1:4).  The surgery could 
+also include other procedures to Mr. Cox’s shoulder.  (JE 1:4).  Mr. Cox wanted to 
+discuss the surgery with his fiancée.  (JE 1:4).   
+On November 26, 2019, Mr. Cox reported to the Surgery Center of Des Moines.  
+(JE 5:1-3).  Dr. Fish performed a left shoulder arthroscopy, biceps tenotomy, 
+debridement of the labrum, subacromial bursectomy, subacromial decompression, distal 
+claviculectomy, and arthroscopic supraspinatus tear.  (JE 5:1).  Dr. Fish’s postoperative 
+diagnoses were: “[b]iceps tedinosis with impingement, AC arthrosis with full-thickness 
+anterolateral supraspinatus tear with rotator interval tear.”  (JE 5:1).   
+Mr. Cox returned to Dr. Fish’s office on December 12, 2019, for his first 
+postoperative visit.  (JE 1:6-7).  He did well post-surgery, and wore a sling.  (JE 1:7).  X-
+rays taken during the visit showed evidence of subacromial decompression and a distal 
+clavicle excision.  (JE 1:7).  Dr. Fish initiated physical therapy and requested that Mr. 
+Cox return in four weeks.  (JE 1:7).   
+On January 9, 2020, Mr. Cox returned to Dr. Fish’s office for continued post-
+surgical monitoring.  (JE 1:13-14).  Mr. Cox remained in his sling, and worked with 
+physical therapy.  (JE 1:14).  Mr. Cox complained of cramping and muscle knots, but 
+improved slowly.  (JE 1:14).  Dr. Fish allowed Mr. Cox to discontinue use of the sling, 
+and continue with physical therapy.  (JE 1:14).  Dr. Fish requested that Mr. Cox return in 
+six weeks.  (JE 1:14).   
+Dr. Fish responded to a letter from Mr. Wegman with a letter dated February 12, 
+2020.  (JE 1:16-17).  Dr. Fish noted that Mr. Cox never related a specific incident that 
+caused his injury or pain, but that he related that he performed repetitive activities at 
+Bridgestone.  (JE 1:16).  Dr. Fish opined that Mr. Cox should reach maximum medical 
+improvement (“MMI”) between three and six months after the November 26, 2019, 
+surgery.  (JE 1:16).  Dr. Fish confirmed that he treated Mr. Cox for a condition limited to 
+the shoulder and shoulder girdle complex.  (JE 1:17).  The injury did not include the 
+neck or any other part of the body.  (JE 1:17).   
+On February 20, 2020, Dr. Fish examined Mr. Cox for an additional post-surgical 
+follow up.  (JE 1:18-20).  Mr. Cox reported continued physical therapy, and that the 
+recovery with his left shoulder resulted in more pain than his right.  (JE 1:19).  Mr. Cox 
+expressed displeasure with his healing progress.  (JE 1:19).  Dr. Fish found 
+supraspinatus tendinosis, and noted that Mr. Cox’s diabetes could contribute to his 
+stiffness and delayed healing.  (JE 1:19).   
+Mr. Cox followed up with Dr. Fish on March 23, 2020.  (JE 1:21-23).  Dr. Fish 
+reviewed Mr. Cox’s history and noted that Mr. Cox continued to work with physical 
+therapy.  (JE 1:22).  Mr. Cox denied any pain in the shoulder, and indicated that he 
+returned to all of his activities of daily living with no difficulties.  (JE 1:22).  Dr. Fish 
+allowed him to return to work.  (JE 1:22).   
+
+COX V. BRIDGESTONE AMERICAS, INC. 
+Page 8 
+ 
+ 
+On May 15, 2020, Dr. Fish wrote a letter to Mr. Wegman indicating that he 
+“essentially” placed Mr. Cox at MMI on March 23, 2020, and returned him to full duty.  
+(JE 1:24).  Dr. Fish provided an impairment rating, and indicated that based upon a 
+range of motion analysis, Mr. Cox experienced a one percent impairment for his flexion, 
+zero percent impairment for his abduction and four percent impairment for his internal 
+rotation.  (JE 1:24).  Dr. Fish found some reductions in strength, as well.  (JE 1:24).  
+Considering all of the aspects of an impairment rating, Dr. Fish provided Mr. Cox with 
+an eight percent impairment rating to his left upper extremity.  (JE 1:24).  He equated 
+this to a five percent whole person impairment rating.  (JE 1:24).   
+Mr. Cox returned to Dr. Fish’s office on June 4, 2020, complaining of continued 
+pain in the anterior aspect of his left shoulder.  (JE 1:25-28).  According to Dr. Fish, Mr. 
+Cox pointed “specifically to the insertion of the proximal bicep tendon.”  (JE 1:26).  Dr. 
+Fish injected Celestone with assistance from ultrasound into Mr. Cox’s left shoulder.  
+(JE 1:27).  Dr. Fish opined that Mr. Cox had symptomatology of adhesive capsulitis and 
+scapulothoracic dysfunction.  (JE 1:28).  Dr. Fish told Mr. Cox that adhesive capsulitis is 
+more common in diabetics.  (JE 1:28).  Dr. Fish prescribed meloxicam and requested 
+that Mr. Cox return in four to five weeks.  (JE 1:28).   
+Charles A. Wenzel, D.O., J.D., M.P.H., C.I.M.E., performed an IME on Mr. Cox 
+on June 18, 2020.  (JE 6:1-14).  Dr. Wenzel noted that he refers to different portions of 
+the shoulder area as the shoulder area or as their specific anatomic structures.  (JE 
+6:1).  Dr. Wenzel reviewed Mr. Cox’s job functions and his medical history.  (JE 6:1-5).  
+Mr. Cox told Dr. Wenzel that the injection performed on June 4, 2020, did not provide 
+any relief.  (JE 6:5).  Mr. Cox complained of pain 3/10 that did not increase with his work 
+activities.  (JE 6:5).  When he reached overhead, his pain increased to 8-9/10.  (JE 6:5).  
+Mr. Cox reported working full time with no restrictions. (JE 6:5).  Mr. Cox also told Dr. 
+Wenzel that he could no longer ride his motorcycle. (JE 6:7).  Dr. Wenzel examined Mr. 
+Cox and found deficits in range of motion for his left glenohumeral joint.  (JE 6:7-8).  Dr. 
+Wenzel diagnosed Mr. Cox as follows: 
+1. Left impingement syndrome 
+2. Left supraspinatus tear 
+3. Left labral tear 
+4. Left biceps tendon tear 
+5. Status post left shoulder arthroscopy, biceps tenotomy, labral 
+debridement, subacromial bursectomy, subacromial 
+decompression (acromioplasty and coracoacromial release), 
+distal clavicle excision, and supraspinatus repair on 11/26/2019 
+(JE 6:8).  Dr. Wenzel opined that Mr. Cox was injured on May 22, 2018, when he lifted 
+or moved rubber pre-forms while working.  (JE 6:8).  He related the left impingement 
+syndrome and left “supraspinatus/labral/biceps tendon tears” to Mr. Cox’s work with 
+
+COX V. BRIDGESTONE AMERICAS, INC. 
+Page 9 
+ 
+ 
+Bridgestone.  (JE 6:8).  Testing during the IME revealed “possible ongoing labral and 
+biceps pathology.”  (JE 6:8).  Based upon this, Dr. Wenzel recommended a second 
+orthopedic opinion regarding Mr. Cox’s ongoing left shoulder pain and functional 
+deficits.  (JE 6:8).  Based upon the second opinion, Dr. Wenzel found that Mr. Cox had 
+not reached MMI.  (JE 6:8).   
+Dr. Wenzel provided a detailed left shoulder impairment rating analysis.  (JE 
+6:13).  Dr. Wenzel’s analysis was as follows: 
+- 
+6 percent upper extremity impairment for flexion of 90 degrees 
+- 
+2 percent upper extremity impairment for extension of 20 degrees 
+- 
+3 percent upper extremity impairment for abduction of 110 degrees 
+- 
+1 percent upper extremity impairment for adduction of 20 degrees 
+- 
+2 percent upper extremity impairments for external rotation of 15 degrees 
+- 
+2 percent upper extremity impairments for internal rotation of 50 degrees 
+(JE 6:13).  Dr. Wenzel combined these for a 16 percent upper extremity impairment 
+rating for abnormal motion.  (JE 6:13).  Dr. Wenzel placed a 10 percent upper extremity 
+impairment rating for Mr. Cox’s distal clavicle resection, which was multiplied with a 
+modifier to provide a 3 percent right upper extremity impairment rating.  (JE 6:13).  Dr. 
+Wenzel combined the 16 percent impairment rating and 3 percent impairment rating for 
+a 19 percent upper extremity impairment rating, pursuant to the combined values chart 
+of the AMA Guides to the Evaluation of Permanent Impairment, Fifth Edition .  (JE 6:13).  
+Dr. Wenzel converted this to an 11 percent whole person impairment rating.  (JE 6:13).   
+ 
+Dr. Wenzel provided Mr. Cox with temporary restrictions since his opinion was 
+that Mr. Cox had not reached MMI.  (JE 6:13).  The restrictions included lifting 10 
+pounds occasionally over Mr. Cox’s shoulder or away from his body, and occasional 
+work at or above the shoulder height.  (JE 6:13).   
+At the time of the hearing, Mr. Cox testified that pain occurred in the top of his 
+chest, from his collarbone to his neck and surrounding the shoulder capsule on a daily 
+basis.  (Testimony).  He did not report any difficulty working as a rubber trucker.  
+(Testimony).   
+CONCLUSIONS OF LAW 
+Permanent Disability 
+Under the Iowa Workers’ Compensation Act, permanent partial disability is 
+compensated either for a loss of use of a scheduled member under Iowa Code 
+85.34(2)(a)-(u) or for loss of earning capacity under Iowa Code 85.34(2)(v).  The extent 
+of scheduled member disability benefits to which an injured worker is entitled is 
+
+COX V. BRIDGESTONE AMERICAS, INC. 
+Page 10 
+ 
+ 
+determined by using the functional method.  Functional disability is “limited to the loss of 
+the physiological capacity of the body or body part.”  Mortimer v. Fruehauf Corp., 502 
+N.W.2d 12, 15 (Iowa 1993); Sherman v. Pella Corp., 576 N.W.2d 312 (Iowa 1998).   
+ 
+An injury to a scheduled member may, because of after effects or compensatory 
+change, result in permanent impairment of the body as a whole.  Such impairment may 
+in turn be the basis for a rating of industrial disability.  It is the anatomical situs of the 
+permanent injury or impairment which determines whether the schedules in Iowa Code 
+85.34(a) – (u) are applied.  Lauhoff Grain Co. v. McIntosh, 395 N.W.2d 834 (Iowa 
+1986); Blacksmith v. All-American, Inc., 290 N.W.2d 348 (Iowa 1980); Dailey v. Pooley 
+Lumber Co., 233 Iowa 758, 10 N.W.2d 569 (1943); Soukup v. Shores Co., 222 Iowa 
+272, 268 N.W. 598 (1936).   
+ 
+In 2017, the legislature made significant changes to Iowa Code Chapter 85.  
+Among these changes, the legislature included Iowa Code section 85.34(2)(n), making 
+the “shoulder” a scheduled member.  The main dispute regarding permanency in this 
+case is whether the claimant’s disability is to his “shoulder” under Iowa Code section 
+85.34(2)(n), or an unscheduled disability under Iowa Code section 85.34(2)(v).   
+ 
+In September of 2020, the Commissioner filed two appeal decisions addressing 
+the 2017 addition of Iowa Code section 85.34(2)(n).  The first such case was Deng v. 
+Farmland Foods, File No. 5061883 (App. September 29, 2020).  The Commissioner 
+held in Deng that Iowa Code 85.34(2)(n) was ambiguous as to the definition of the 
+shoulder.  The Commissioner examined the intent of the legislature and determined: 
+I recognize the well-established standard that workers’ compensation 
+statutes are to be liberally construed in favor of the worker, as their primary 
+purposes [sic] is to benefit the worker.  See Des Moines Area Reg’l Transit 
+Auth. v. Young, 867 N.W.2d 839, 842 (Iowa 2015) (citations omitted); Xenia 
+Rural Water Dist. v. Vegors, 786 N.W.2d 250, 257 (Iowa 2010) (“We apply 
+the workers’ compensation statute broadly and liberally in keeping with its 
+humanitarian objective….”); Griffin Pipe Prods. Co. v. Guarino, 663 N.W.2d 
+862, 865 (Iowa 2003) (“[T]he primary purpose of chapter 85 is to benefit the 
+worker and so we interpret this law liberally in favor of the employee.”).  This 
+liberal construction, however, cannot be performed in a vacuum.  As 
+discussed above, several of the principles of statutory construction indicate 
+the legislature did not intend to limit the definition of “shoulder” under section 
+85.34(2)(n) to the glenohumeral joint.  For these reasons, I conclude 
+“shoulder” under section 85.34(2)(n) is not limited to the glenohumeral joint.   
+Claimant’s injury in this case was to the infraspinatus muscle.  As 
+discussed, the infraspinatus is part of the rotator cuff, and the rotator cuff’s 
+main function is to stabilize the ball-and-socket joint.  As noted by both Dr. 
+Bansal and Dr. Bolda, the rotator cuff is generally proximal to the joint.  
+However, because the rotator cuff is essential to the function of the 
+glenohumeral joint, it seems arbitrary to exclude it from the definition of 
+“shoulder” under section 85.34(2)(n) simply because it “originates on the 
+
+COX V. BRIDGESTONE AMERICAS, INC. 
+Page 11 
+ 
+ 
+scapula, which is proximal to the glenohumeral joint for the most part.”  (Def. 
+Ex. A, [Depo. Tr., 27]).  In other words, being proximal to the joint should 
+not render the muscle automatically distinct.    
+Given the entwinement of the glenohumeral joint and the muscles that make 
+up the rotator cuff, including the infraspinatus, and the importance of the 
+rotator cuff to the function of the joint, I find the muscles that make up the 
+rotator cuff are included within the definition of “shoulder” under section 
+85.34(2)(n).  Thus, I find claimant’s injury to her infraspinatus should be 
+compensated as a shoulder under section 85.34(2)(n).  The deputy 
+commissioner’s determination that claimant’s infraspinatus injury is a whole 
+body injury that should be compensated industrially under section 
+85.34(2)(v) is therefore respectfully reversed.   
+Deng at 10-11.   
+A second case, Chavez v. MS Technology, LLC, File No. 5066270 (App. 
+September 30, 2020), applied the logic of Deng to another shoulder case.  The 
+Commissioner affirmed his holding in Deng, and further noted: 
+[C]laimant’s subacromial decompression was performed to remove scar 
+tissue and fraying between the supraspinatus and the underside of the 
+acromion.  As discussed above, the acromion forms part of the socket and 
+helps protect the glenoid cavity, and as such, I found it is closely 
+interconnected with the glenohumeral joint in both location and function.  
+And as discussed in Deng, I found the supraspinatus – a muscle that forms 
+the rotator cuff – to be similarly entwined with the glenohumeral joint.  Thus, 
+claimant’s subacromial decompression impacted two anatomical parts that 
+are essential to the functioning of the glenohumeral joint; in fact, the 
+procedure was actually performed to improve function of the joint.  As such, 
+I find any disability resulting from her subacromial decompression should 
+be compensated as a shoulder under section 85.34(2)(n).   
+I therefore find none of claimant’s injuries are compensable as 
+unscheduled, whole body injuries under section 85.34(2)(v).  The deputy 
+commissioner’s finding that claimant sustained an injury to her body as a 
+whole is therefore respectfully reversed.   
+Chavez at 6.  In Chavez, the claimant suffered injuries to her supraspinatus, 
+infraspinatus, and subscapularis muscles.  Id. at 3.  She also suffered a tear to the 
+biceps tendon and labrum, as discovered during an arthroscopic surgery.  Id.  She had 
+a surgical repair of her rotator cuff, along with “extensive debridement of the labrum, 
+biceps tendon, and subacromial space with biceps tenotomy, subacromial 
+decompression.”  Id.   
+ 
+As noted in other cases, post Deng and Chavez, the key holdings of those cases 
+include: 
+
+COX V. BRIDGESTONE AMERICAS, INC. 
+Page 12 
+ 
+ 
+1. The definition of a “shoulder” is ambiguous in section 85.34(2)(n).  Deng at 4.   
+2. There is no “ordinary” meaning of the word shoulder.  Deng at 5.   
+3. The appropriate way to interpret the statute is to examine the legislative 
+history.  Deng at 5.   
+4. The legislature did not intend to limit the definition of a “shoulder” to the 
+glenohumeral joint.  Rather, the legislature intended to include the 
+entwinement of the glenohumeral joint and the muscles that make up the 
+rotator cuff.  Deng at 11.   
+See e.g. Retterath v. John Deere Waterloo Works, File No. 5067003 (Arb. Dec. 22, 
+2020).   
+ 
+In the instant case, Dr. Fish’s post-operative diagnoses included: biceps 
+tenodesis with impingement, AC arthrosis with full-thickness anterolateral supraspinatus 
+tear with rotator interval tear.  (JE 5:1).  Dr. Wenzel, the claimant’s IME doctor, 
+diagnosed Mr. Cox with left impingement syndrome, left supraspinatus tear, left labral 
+tear, left biceps tendon tear, and status post-operatively.  (JE 6:8).  Dr. Fish conducted 
+a left shoulder arthroscopic surgery on Mr. Cox.  (JE 5:1).  Within the bounds of the 
+arthroscopic procedure, Dr. Fish performed the following: biceps tenotomy, debridement 
+of the labrum, subacromial bursectomy, subacromial decompression, distal 
+claviculectomy, and an infraspinatus repair.  (JE 5:1; 6:8).   
+ 
+Dr. Fish noted that he treated Mr. Cox for an injury to his shoulder and shoulder 
+girdle complex.  (JE 1:17).  He noted that the injury did not include the neck or any other 
+part of Mr. Cox’s body.  (JE 1:17).  Dr. Wenzel attempts to explain his way around the 
+shoulder and shoulder girdle, but his explanations do not comport with the rulings in 
+Deng and Chavez.   
+ 
+In this case, as in Deng and Chavez, the claimant suffered injuries to the 
+infraspinatus, supraspinatus, biceps tendon, and labrum.  Also like in Deng and Chavez, 
+the claimant underwent a subacromial decompression and biceps tenotomy.  The 
+biggest difference in this case is that the claimant also had a distal claviculectomy and a 
+subacromial bursectomy.  Dr. Wenzel notes that the subacromial bursa lies under the 
+acromion on top of the supraspinatus muscle.  He notes that the subacromial bursa, 
+“acts as a cushion to reduce friction on the underlying supraspinatus muscle as it moves 
+the glenohumeral joint.”  (JE 6:10-11).  Dr. Wenzel further notes that the distal end of 
+the clavicle forms the acromioclavicular joint overlying the glenohumeral joint.  (JE 6:9).  
+Based upon the anatomic descriptions and images in Dr. Wenzel’s report, I find that the 
+acromioclavicular joint and the distal claviculectomy performed by Dr. Fish and thus the 
+resulting disability are “closely entwined with the glenohumeral joint both in location and 
+function.”  See e.g. Chavez at 5.  Finally, Dr. Fish notes that he treated Mr. Cox for his 
+shoulder and shoulder girdle complex.  (JE 1:17).  Clearly, Dr. Fish considered the 
+treatment provided to be to the shoulder and/or areas closely connected to the 
+shoulder, such as the shoulder girdle.   
+
+COX V. BRIDGESTONE AMERICAS, INC. 
+Page 13 
+ 
+ 
+ 
+Considering the foregoing, the claimant’s injury should be compensated pursuant 
+to Iowa Code section 85.34(2)(n) as disability to a shoulder.  Thus, this is a scheduled 
+disability case, and Iowa Code section 85.34(2)(v) does not apply.  Accordingly, there is 
+no need to assess the defendants’ arguments regarding apportionment, as this is a 
+separate and distinct injury from claimant’s prior right shoulder injury.   
+ 
+Since this case involves disability to a scheduled member under Iowa Code 
+85.34(2)(n), the extent of impairment is “limited to the loss of the physiological capacity 
+of the body or body part.”  Mortimer v. Fruehauf Corp., 502 N.W.2d 12, 15 (Iowa 1993); 
+Sherman v. Pella Corp., 576 N.W.2d 312 (Iowa 1998).  The two impairment ratings 
+provided in this case pertain to the upper extremity.  In Deng, the Commissioner applied 
+the upper extremity impairment rating to the shoulder injury at issue because the rating 
+physician in that case utilized the upper extremity rating in order to provide an 
+impairment rating.  Deng at 11-12.  Additionally, the Commissioner noted in Deng, that 
+the agency has historically not utilized a whole person impairment rating for a single 
+scheduled member injury.  Id.  Dr. Fish provided an 8 percent impairment rating to the 
+upper extremity.  Dr. Wenzel provided a 19 percent impairment rating to the upper 
+extremity.   
+ 
+Having considered the evidence in the record, I find that the claimant suffered an 
+8 percent functional impairment to his left shoulder, as assigned by Dr. Fish.  I find Dr. 
+Fish’s opinion more credible and consistent with other evidence in the record.  Dr. Fish 
+treated the claimant for not only this injury, but also for an injury to Mr. Cox’s right 
+shoulder.  He also performed surgery on the claimant.  He examined the claimant prior 
+to the surgery, and after the claimant returned to work.  While Dr. Wenzel provided a 
+thorough report, the claimant’s history with Dr. Fish, and the expertise of Dr. Fish as an 
+orthopedic surgeon was more credible than that of Dr. Wenzel in this matter.  The 
+claimant is entitled to 8 percent of 400 weeks, or 32 weeks of compensation 
+commencing on March 23, 2020.   
+Reimbursement of Medical Expenses 
+The hearing report indicated that the claimant’s outstanding medical expenses 
+are located in Joint Exhibit 7.  In reviewing the evidence, it appears that additional 
+medical expenses are contained in Joint Exhibit 8.   
+The employer shall furnish reasonable surgical, medical, dental, osteopathic, 
+chiropractic, podiatric, physical rehabilitation, nursing, ambulance, and hospital services 
+and supplies for all conditions compensable under the workers’ compensation law.  The 
+employer shall also allow reasonable and necessary transportation expenses incurred 
+for those services.  The employer has the right to choose the provider of care, except 
+where the employer has denied liability for the injury.  Iowa Code 85.27.  Holbert v. 
+Townsend Engineering Co., Thirty-second Biennial Report of the Industrial 
+Commissioner 78 (Review-Reopening, October 1975).   
+ 
+Pursuant to Iowa Code 85.27, claimant is entitled to payment of reasonable 
+medical expenses incurred for treatment of a work injury.  Claimant is entitled to an 
+
+COX V. BRIDGESTONE AMERICAS, INC. 
+Page 14 
+ 
+ 
+order of reimbursement if he/she has paid those expenses.  Otherwise, claimant is 
+entitled only to an order directing the responsible defendants to make such payments 
+directly to the provider.  See Krohn v. State, 420 N.W.2d 463 (Iowa 1988).   
+ 
+In cases where the employer’s medical plan covers the medical expenses, 
+claimant is entitled to an order of reimbursement only if he has paid treatment costs; 
+otherwise, the defendants are ordered to make payments directly to the provider.  See 
+Krohn, 420 N.W.2d at 463.  Where medical payments are made from a plan to which 
+the employer did not contribute, the claimant is entitled to a direct payment.  Midwest 
+Ambulance Service v. Ruud, 754 N.W.2d 860, 867-68 (Iowa 2008) (“We therefore hold 
+that the commissioner did not err in ordering direct payment to the claimant for past 
+medical expenses paid through insurance coverage obtained by the claimant 
+independent of any employer contribution.”).  See also Carl A. Nelson & Co. v. Sloan, 
+873 N.W.2d 552 (Iowa App. 2015) (Table) 2015 WL 7574232 15-0323.   
+The employee has the burden of proof to show medical charges are reasonable 
+and necessary, and must produce evidence to that effect.  Poindexter v. Grant’s Carpet 
+Service, I Iowa Industrial Commissioner Decisions, No. 1, at 195 (1984); McClellon v. 
+Iowa Southern Utilities, File No. 8904090 (App. Dec. January 31, 1992).    
+The employee has the burden of proof in showing that treatment is related to the 
+injury.  Auxier v. Woodard State Hospital School, 266 N.W.2d 139 (Iowa 1978), Watson 
+v. Hanes Border Company, No. 1 Industrial Comm’r report 356, 358 (1980) (claimant 
+failed to prove medical charges were related to the injury where medical records 
+contained nothing related to that injury)  See also Bass v Vieth Construction Corp., File 
+No 5044438 (App. May 27, 2016) (Claimant failed to prove causal connection between 
+injury and claimed medical expenses); Becirevic v Trinity Health Corporation, File No. 
+5063498 (Arb. December 28, 2018) (Claimant failed to recover on unsupported medical 
+bills). 
+In this case, the claimant seeks reimbursement for medical expenses as listed in 
+Joint Exhibits 7 and 8.  Mr. Cox’s employer-provided health insurance paid for his 
+medical care.  The parties stipulated that the claimant’s injury arose out of and in the 
+course of employment on May 22, 2018.  The parties also stipulated that the alleged 
+injury caused temporary disability during a period of recovery and that the alleged injury 
+caused permanent disability.  No evidence was presented that the billing was 
+unreasonable.  In this case, the treatment for which the billing was incurred is treatment 
+for the left shoulder.  The left shoulder injury was caused by the claimant’s work at 
+Bridgestone.  The claimant requests reimbursement for out–of-pocket expenses for 
+copayments or deductibles.   
+The defendants are ordered to reimburse the claimant for the following bills and 
+amounts: 
+Capital Orthopaedics & Sports Medicine (JE 7:3; 8:8; 8:9) - $145.00 
+ILH Outpatient “Therapy” (JE 8:3, 5) - $550.00 
+
+COX V. BRIDGESTONE AMERICAS, INC. 
+Page 15 
+ 
+ 
+UnityPoint Physical Therapy (JE 8:4, 6) - $241.40 
+Surgery Center of West Des Moines (JE 8:10-11) - $674.94 
+The total reimbursement is thus one thousand six hundred eleven and 34/100 dollars 
+($1,611.34).   
+Reimbursement for an IME pursuant to Iowa Code section 85.39 
+ 
+Iowa Code section 85.39(2) states, in pertinent part: 
+If an evaluation of permanent disability has been made by a physician 
+retained by the employer and the employee believes this evaluation to be 
+too low, the employee shall, upon application to the commissioner and 
+upon delivery of a copy of the application to the employer and its 
+insurance carrier, be reimbursed by the employer the reasonable fee for a 
+subsequent examination by a physician of the employee’s own choice, 
+and reasonably necessary transportation expenses incurred for the 
+examination.   
+Iowa Code 85.39(2).   
+ 
+Defendants are responsible only for reasonable fees associated with claimant’s 
+independent medical examination.  Claimant has the burden of proving the 
+reasonableness of the expenses incurred for the examination.  See Schintgen v. 
+Economy Fire & Casualty Co., File No. 855298 (App. April 26, 1991).  Claimant need 
+not prove the injury arose out of and in the course of employment to qualify for 
+reimbursement under section 85.39.  See Dodd v. Fleetguard, Inc., 759 N.W.2d 133, 
+140 (Iowa App. 2008).   
+ 
+Iowa Code section 85.39 was amended in 2017 to state: 
+An employer is only liable to reimburse an employee for the cost of an 
+examination conducted pursuant to this subsection if the injury for which 
+the employee is being examined is determined to be compensable under 
+this chapter or chapter 85A or 85B.  An employer is not liable for the cost 
+of such an examination if the injury for which the employee is being 
+examined is determined not to be a compensable injury.  A determination 
+of the reasonableness of a fee for an examination made pursuant to this 
+subsection shall be based on the typical fee charged by a medical 
+provider to perform an impairment rating in the local area where the 
+examination is conducted.   
+Iowa Code section 85.39(2).   
+ 
+The claimant requests reimbursement for the IME of Dr. Wenzel.  Joint Exhibit 
+8:2 includes the invoice for Dr. Wenzel’s IME and report, which totals $3,310.50.  Dr. 
+Fish provided an impairment rating on May 15, 2020.  Dr. Wenzel examined the 
+
+COX V. BRIDGESTONE AMERICAS, INC. 
+Page 16 
+ 
+ 
+claimant and provided an impairment rating on June 18, 2020.  While Dr. Fish was not  
+retained by the defendants explicitly for a rating, Dr. Fish still provided a rating and was 
+the treating physician.  Dr. Wenzel’s examination and rating occurred after Dr. Fish’s 
+examination and rating.  Therefore, the claimant is entitled to reimbursement for the 
+$3,310.50 IME costs of Dr. Wenzel. 
+Costs 
+ 
+Claimant seeks the award of costs as outlined in Joint Exhibit 8:1.  Costs are to 
+be assessed at the discretion of the deputy commissioner hearing the case.  See 876 
+Iowa Administrative Code 4.33; Iowa Code 86.40.  876 Iowa Administrative Code 
+4.33(6) provides:  
+[c]osts taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+reviewing health service disputes.   
+The administrative rule expressly allows for taxation of costs for the filing fee of 
+$100.00.  In my discretion, I decline to award costs in this matter.   
+ORDER 
+ 
+THEREFORE, IT IS ORDERED: 
+The defendants are to pay unto claimant thirty-two (32) weeks of permanent 
+partial disability benefits at the rate of five hundred sixty-nine and 06/100 dollars 
+($569.06) per week from the commencement date of March 23, 2020.   
+The defendants shall reimburse the claimant one thousand six hundred eleven 
+and 34/100 dollars ($1,611.34) for payments made by the claimant pertaining to 
+copayments and deductibles regarding medical treatment.   
+The defendants shall reimburse the claimant three thousand three hundred ten 
+and 50/100 dollars ($3,310.50) for Dr. Wenzel’s IME pursuant to Iowa Code section 
+85.39.   
+The parties shall bear their own costs. 
+That defendants shall be given credit for benefits previously paid, as stipulated. 
+
+COX V. BRIDGESTONE AMERICAS, INC. 
+Page 17 
+ 
+ 
+That defendants shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to 876 IAC 3.1(2) and 876 IAC 11.7.   
+Signed and filed this        9th        day of March, 2021. 
+The parties have been served, as follows: 
+Richard R. Schmidt (via WCES) 
+Timothy W. Wegman (via WCES) 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 
+20 days from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The 
+notice of appeal must be filed via Workers’ Compensation Electronic System (WCES) unless the filing 
+party has been granted permission by the Division of Workers’ Compensation to file documents in paper 
+form.  If such permission has been granted, the notice of appeal must be filed at the following address: 
+Workers’ Compensation Commissioner, Iowa Division of Workers’ Compensation, 150 Des Moines 
+Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be received by the Division of 
+Workers’ Compensation within 20 days from the date of the decision.  The appeal period will be 
+extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+   ANDREW M. PHILLIPS 
+               DEPUTY WORKERS’ 
+     COMPENSATION COMMISSIONER 

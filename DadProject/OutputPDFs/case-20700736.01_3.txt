@@ -1,0 +1,494 @@
+Case Number: 20700736.01
+Case Title:  LOEW, JUSTIN V. MENARD, INC.
+Doc Type:    Decision - District Court
+Source:      Loew, Justin-20700736.01.District Court Decision.PDF
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+JUSTIN LOEW, 
+ 
+Petitioner/Claimant/Counterclaim 
+Respondent, 
+ 
+vs.  
+ 
+MENARD, INC., 
+ 
+Respondent/Employer/ 
+Counterclaim Petitioner, 
+ 
+XL INSURANCE AMERICA, 
+ 
+Respondent/Insurance 
+Carrier/Counterclaim Petitioner. 
+ 
+ 
+      
+ 
+ 
+Case No. CVCV063592 
+ 
+ 
+ 
+ 
+RULING ON PETITION FOR 
+JUDICIAL REVIEW 
+ 
+On August 26, 2022, the above-captioned matter came before this Court for hearing. 
+Petitioner, Justin Loew, appeared through Attorney Paul Thune. Respondents, Menard, Inc., 
+(Menards) and XL Insurance America, (XL), were represented by Attorney Rachael D. Neff.  After 
+hearing the arguments of Counsel and reviewing the court file, including the briefs filed by the 
+parties and the Certified Administrative Record, the Court now enters the following ruling.  
+I. 
+BACKGROUND FACTS AND PROCEEDINGS 
+Petitioner filed two petitions in arbitration with the Iowa Workers’ Compensation 
+Commissioner seeking workers’ compensation benefits from Menards, his employer, and XL, 
+Menards’ insurer, as a result of an alleged work injury sustained on August 13, 2018, and a 
+cumulative injury sustained on March 13, 2019. Certified Record, (CR), Part 1, p. 65. An 
+Arbitration Decision was filed by a Deputy Commissioner on December 15, 2021. Id. at 87. 
+As it relates to his most recent claims, the Deputy took extensive note of Petitioner’s 
+previous workers’ compensation case, File Number 5057482. Id. at 65. In File Number 5057482, 
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 17
+
+2 
+ 
+Petitioner was determined to have sustained a work injury on March 19, 2015, along with a reinjury 
+during physical therapy for the March 2015 injury. Id. As a result of the injury and subsequent 
+reinjury, Petitioner was determined to have sustained a 30% industrial disability. Id. As such, 
+Petitioner was awarded 150 weeks of permanent partial disability benefits, in addition to other 
+relief. Id. The Arbitration Decision was appealed and affirmed in its entirety on appeal by 
+Commissioner Joseph S. Cortese II. Id. 
+Related to his most recent claims, the Deputy determined they pertain to alleged injuries 
+that occurred after July 1, 2017. Id. at 79. As such, she determined that Petitioner’s case would be 
+subject to the changes made in 2017 by the Iowa Legislature to Iowa Code chapters 85, 86, and 
+535. Id. The Deputy determined that Petitioner sustained an injury arising out of and in the course 
+of his employment with Menards on August 13, 2018, and a cumulative injury which manifested 
+on March 13, 2019. Id. at 84. As such, she determined that Petitioner sustained permanent 
+impairment caused by his work injures. Id. In reaching this determination, the Deputy gave the 
+greatest weight to Dr. Bansal’s opinion, as supported by Dr. Mouw’s opinion. Id. at 81.  
+Specifically, she determined that Dr. Bansal’s opinion, as an occupational medicine 
+physician who performed an independent medical examination (IME) for Petitioner, supported by 
+Dr. Mouw’s opinion, as a treating neurosurgeon of Petitioner, was the most persuasive opinion. 
+Id. Drs. Bansal and Mouw both opined that Petitioner’s work injury in August 2018 caused his 
+L3-L4 disc pathology. Id. at 83. Dr. Bansal further opined that Petitioner’s continued lifting after 
+the August 2018 injury led to the advancement and migrations of the L3-L4 disc protrusion. Id. 
+The Deputy found that Dr. Bansal’s opinion regarding the advancement and migration of the L3-
+L4 disc protrusion was supported by Petitioner’s testimony and his medical records. Id. However, 
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 17
+
+3 
+ 
+she did note Petitioner’s credibility was at issue but, ultimately, that Petitioner was a credible 
+witness. Id.  
+There was one expert opinion regarding the functional loss rating of Petitioner. Id. at 85. 
+Dr. Bansal opined that Petitioner sustained a 28% permanent partial impairment to his lumbar 
+spine, 20% of which was from his prior work injury, and 8% of which was due to the August 2018 
+injury. Id. Dr. Bansal did not find that Petitioner sustained any additional functional loss 
+attributable to the March 2019 work injury. Id. The Deputy adopted Dr. Bansal’s impairment 
+rating. Id. She further determined that Petitioner was only entitled to functional loss per the 2017 
+changes by the Iowa Legislature because he remained employed with Menards and he was earning 
+greater wages than what he did at the time of injury in 2018. Id. at 86. As such, the Deputy 
+concluded that the previous 30% industrial disability awarded for the 2015 work injury provided 
+Menards with a credit and, thus, Petitioner was not entitled to any additional benefits for the 2018 
+work injury resulting in 28% functional loss. Id. 
+It was further found by the Deputy that the care Petitioner received from Drs. Kirkle, 
+Elwood, and Mouw, along with services from Grundy County Hospital and Agape Therapy, were 
+related to his work injuries, that they were beneficial, reasonable, and necessary. Id. As such, she 
+found Menards and XL responsible for said past medical care, along with all future causally 
+connected medical treatment. Id. However, she did not find that Petitioner was entitled to recover 
+the $300.00 cost of his telephone conference with Dr. Mouw from August 2020, because there was 
+no indication that the fee was for the doctor’s report. Id. at 87. 
+Petitioner filed a Notice of Appeal with the Iowa Workers’ Compensation Commissioner 
+on December 29, 2021, appealing the Deputy’s December 15, 2021 Arbitration Decision. Id. at 
+64. Respondents, Menards and XL, filed a cross-appeal. Id. at 12. The Commissioner filed an 
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 17
+
+4 
+ 
+Appeal Decision on April 12, 2022. Id. at 14. The Commissioner adopted all parts of the 
+Arbitration Decision not on appeal as part of his Appeal Decision. Id. at 13. The Commissioner 
+additionally adopted the same analysis, findings, and conclusions in full as those reached by the 
+Deputy on the appealed issues. Id.  
+Specifically, the Commissioner affirmed that Petitioner met his burden of proof, proving 
+that he sustained work-related injuries on August 13, 2018, and on March 13, 2019. Id. He also 
+affirmed that Petitioner sustained permanent functional impairment to 8% of his body as a whole 
+because of the August 13, 2018 work injury and that Petitioner sustained no permanent functional 
+impairment as a result of the March 13, 2019 cumulative work injury. Id. The Commissioner 
+further affirmed that Petitioner’s finding of 28% functional impairment for the 2015 and 2018 
+injuries combined provides Respondents with a credit, based on the 30% award previously paid. 
+Id. As such, he affirmed that Petitioner is not entitled to receive any additional benefits for the 8% 
+functional impairment sustained as a result of the August 13, 2018 work injury. Id. 
+Furthermore, he affirmed that Respondents were responsible for the care and services 
+Petitioner received from Drs. Kirkle, Elwood, and Mouw, along with services from Grundy County 
+Hospital and Agape Therapy, in addition to all future causally related medical care. Id. He also 
+affirmed that Petitioner is not entitled to reimbursement of $300.00 for the telephone conference 
+with Dr. Mouw. Id. Lastly, the Commissioner ordered the parties to split the costs of the appeal, 
+including the cost of the hearing transcript. Id. at 14. Petitioners subsequently filed this Petition 
+for Judicial Review on April 20, 2022. Petition for Judicial Review (Pet.), p. 1. Respondents filed 
+a Counterclaim Petition on May 12, 2022. Appearance, Answer, and Counterclaim of Respondents 
+(AAC), p. 1. 
+ 
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 17
+
+5 
+ 
+II. 
+SCOPE AND STANDARDS OF REVIEW 
+The Iowa Administrative Procedure Act (IAPA), Iowa Code Chapter 17A, governs the 
+scope of the Court’s review in workers’ compensation cases. Iowa Code § 86.26 (2021); Meyer v. 
+IBP, Inc., 710 N.W.2d 213, 218 (Iowa 2006). The Court’s review of final agency action is 
+“severely circumscribed.” Sellers v. Emp. Appeal Bd., 531 N.W.2d 645, 646 (Iowa Ct. App. 1995). 
+Nearly all disputes are won or lost at the agency level; the cardinal rule of administrative law is 
+that judgment calls are within the province of the administrative tribunal, not the courts. See id.  
+“Under the [IAPA], we may only interfere with the Commissioner’s decision if it is 
+erroneous under one of the grounds enumerated in the statute, and a party’s substantial rights have 
+been prejudiced.” Meyer, 710 N.W.2d at 218. The party challenging agency action bears the 
+burden of demonstrating the action's invalidity and resulting prejudice. Iowa Code § 17A.19(8)(a). 
+This can be shown in a number of ways, including proof the action was ultra vires; legally 
+erroneous; unsupported by substantial evidence in the record when that record is viewed as a 
+whole; or otherwise, unreasonable, arbitrary, capricious, or an abuse of discretion. See id. § 
+17A.19(10). The district court acts in an appellate capacity to correct errors of law on the part of 
+the agency. Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002). 
+“If the claim of error lies with the agency’s findings of fact, the proper question on review 
+is whether substantial evidence supports those findings of fact” when the record is viewed as a 
+whole. Meyer, 710 N.W.2d at 219. Factual findings regarding the award of workers’ compensation 
+benefits are within the Commissioner’s discretion, so the Court is bound by the Commissioner’s 
+findings of fact if they are supported by substantial evidence. Clark v. Vicorp Rest., Inc.,                 
+696 N.W.2d 596, 604 (Iowa 2005). Substantial evidence is defined as evidence of the quality and 
+quantity “that would be deemed sufficient by a neutral, detached, and reasonable person, to 
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 17
+
+6 
+ 
+establish the fact at issue when the consequences resulting from the establishment of that fact are 
+understood to be serious and of great importance.” Iowa Code § 17A.19(10)(f)(1); Cedar Rapids 
+Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 850 (Iowa 2011). The burden on the movant to prove 
+there is not substantial evidence in the record is a heavy one. See McComas-Lacina Constr. v. 
+Drake, 884 N.W.2d 225 (Table), 2016 WL 2744948, at *1 (Iowa Ct. App. May 11, 2016) (“A case 
+reversing final agency action on the ground the agency’s action is unsupported by substantial 
+evidence . . . is the Bigfoot of the legal community - an urban legend, rumored to exist but never 
+confirmed.”) 
+The application of the law to the facts is also vested in the Commissioner. Larson Mfg.    
+Co. v. Thorson, 763 N.W.2d 842, 850 (Iowa 2009). Accordingly, the Court will reverse only if the 
+Commissioner’s application was “irrational, illogical, or wholly unjustifiable.” Id.; Iowa Code § 
+17A.19(10)(l). This standard requires the Court to allocate some deference to the Commissioner’s 
+application of law to the facts, but less than it gives to the agency’s findings of fact. Larson,          
+763 N.W.2d at 850. “[I]f the claimed error pertains to the agency’s interpretation of law, then the 
+question on review was whether the agency’s interpretation was wrong.” Tripp v. Scott Emergency 
+Communication Center, 977 N.W.2d 459, 464 (Iowa 2022) (citing Meyer v. IBP, Inc., 710 N.W.2d 
+213, 219 (Iowa 2006)). 
+III. 
+MERITS 
+A. Petition for Judicial Review 
+1. Credit for previous benefits paid per Iowa Code section 85.34(7) 
+Petitioner asserts that the Commissioner’s affirmance of the Arbitration Decision in full 
+was in violation of Iowa Code sections 17A.19(10)(a)-(n). Pet., p. 2. Specifically, Petitioner asserts 
+that he should have been entitled to payment for his 8% functional impairment rating from the 
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 17
+
+7 
+ 
+August 13, 2018 injury. Petitioner supports his assertion by arguing that the previous 30% award 
+of permanent disability based on an industrial disability is different than his current award of 8% 
+functional impairment. As such, Petitioner asserts that allowing Respondents a credit for a previous 
+30% industrial disability award paid was an error of law. It is important to note that all parties 
+agree that, per Iowa Code section 85.34(2)(v), Petitioner is only entitled to functional impairment, 
+as he has remained employed with Menards earning the same, or greater, wages since the injury 
+in August 2018.  
+Respondents assert that the Commissioner did not err in concluding that Petitioner was not 
+entitled to additional permanency benefits pursuant to Iowa Code section 85.34(7), based on his 
+prior award of 30% industrial disability related to his 2015 work injury. Specifically, Respondents 
+assert that there is no distinction between disability, functional impairment, and loss of earning 
+capacity. Rather, disability encompasses both loss of earning capacity and functional impairment. 
+As such, Respondents contend that Petitioner has already been paid for his disability and, thus, a 
+credit is appropriate.  
+Petitioner asserts that Iowa Code section 85.34(2)(v) provides a distinction between 
+functional impairment and loss of earning capacity. As such, Petitioner asserts that when Iowa 
+Code section 85.34(2)(v) is read in conjunction with Iowa Code section 85.34(7), there is a 
+distinction. Thus, Petitioner argues that he should be entitled to payment for his 8% functional 
+impairment, as it is different than his previous 30% industrial disability award.  
+Petitioner’s case is subject to the changes made in 2017 by the Iowa Legislature to Iowa 
+Code chapters 85, 86, and 535. CR, Part 1, p. 79. In interpreting a statute or regulation, the courts 
+“consider the plain meaning of the relevant language in the context of the entire statute to 
+determine whether there is an ambiguity.” State v. Doe, 903 N.W.2d 347, 351 (Iowa 2017) (citing 
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 17
+
+8 
+ 
+State v. Nall, 894 N.W.2d 514, 518 (Iowa 2017)). If the statute or regulation is unambiguous, the 
+Court must apply that plain meaning. Id. “Words are given their ordinary and common meaning 
+by considering the context within which they are used absent a statutory definition or an 
+established meaning in the law.” City of Des Moines v. Emp. Appeal Bd., 722 N.W.2d 183, 196 
+(Iowa 2006). However, the Court resorts to such rules of construction only when the terms of a 
+statute are ambiguous. State v. Haberer, 532 N.W.2d 757, 759 (Iowa 1995). 
+In order to properly determine whether Respondents are due a credit, Iowa code section 
+85.34 and its amendments must be interpreted to ascertain the legislature’s intent in making the 
+changes. “When determining legislative intent, we look first to the language of the statute.”       
+State v. Soboroff, 798 N.W.2d 1, 6 (Iowa 2011). “We determine legislative intent from the words 
+chosen by the legislature, not what it should or might have said.” Reg'l Util. Serv. Sys. v. City of 
+Mount Union, 874 N.W.2d 120, 124 (Iowa 2016). “Absent a statutory definition or an established 
+meaning in the law, words in the statute are given their ordinary and common meaning by 
+considering the context within which they are used.” Swiss Colony, Inc. v. Deutmeyer, 789 N.W.2d 
+129, 136–37 (Iowa 2010). We also look to the purpose of the statute for aid in gleaning legislative 
+intent. State v. Hensley, 911 N.W.2d 678, 682 (Iowa 2018). 
+In the context of workers’ compensation cases, the Court acknowledges that while it “is 
+correct that we interpret workers’ compensation statutes in favor of the worker, we still must 
+interpret the provisions within the workers’ compensation statutory scheme ‘to ensure our 
+interpretation is harmonious with the statute as a whole.’” Chavez v. MS Tech. LLC, 972 N.W.2d 
+662, 668 (Iowa 2022) (quoting Ramirez-Trujillo v. Quality Egg, L.L.C., 878 N.W.2d 759, 770 
+(Iowa 2016)). “Our supreme court has determined the legislature has not vested the commissioner 
+with the authority to interpret section 85.34(7).” Polaris Indus., Inc. v. Hesby, 881 N.W.2d 471 
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 17
+
+9 
+ 
+(Table), 2016 WL 541081, at *4. (Iowa Ct. App. Feb. 10, 2016). “Therefore, we review the 
+commissioner's statutory interpretation ‘to correct errors of law on the part of the agency.’” Id. 
+(quoting Teleconnect Co. v. Iowa State Commerce Comm'n, 404 N.W.2d 158, 161 (Iowa 1987)). 
+ 
+The 2017 Legislative amendments changed subsection 7 of Iowa Code section 85.34, 
+labeled “Successive Disabilities.” Iowa Code § 85.34(7). This subsection is particularly relevant 
+in determining whether a credit is due to Respondents under chapter 85. As such, the Court will 
+briefly address the intent and language of the amendments to subsection 7. 
+Initially, subsection 7 was added in 2004 as a completely new subsection during previous 
+amendments to Iowa Code section 85.34. 2004 Iowa Acts 1st Extraordinary Sess. ch. 1001, § 11. 
+Importantly, this preceding and original version of subsection 7 included a formula for how 
+apportionment or credit should be calculated for successive injuries with the same employer: 
+a. An employer is fully liable for compensating all of an employee's disability that 
+arises out of and in the course of the employee's employment with the employer. 
+An employer is not liable for compensating an employee's preexisting disability 
+that arose out of and in the course of employment with a different employer or from 
+causes unrelated to employment. 
+b. If an injured employee has a preexisting disability that was caused by a prior 
+injury arising out of and in the course of employment with the same employer, and 
+the preexisting disability was compensable under the same paragraph of section 
+85.34, subsection 2, as the employee's present injury, the employer is liable for the 
+combined disability that is caused by the injuries, measured in relation to the 
+employee's condition immediately prior to the first injury. In this instance, the 
+employer's liability for the combined disability shall be considered to be already 
+partially satisfied to the extent of the percentage of disability for which the 
+employee was previously compensated by the employer. 
+Iowa Code § 85.34(7)(a)(b) (pre-2017 amendments) (emphasis added). 
+The insertion of this first subsection 7 was helpfully accompanied by a statement which 
+unambiguously set forth the legislative intent behind the 2004 amendments. “[T]he statement 
+explained the statutory changes would ‘prevent all double recoveries and all double reductions in 
+workers' compensation benefits for permanent partial disability.’” Roberts Dairy v. Billick,           
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 17
+
+10 
+ 
+861 N.W.2d 814, 820, as amended (June 11, 2015) (quoting 2004 Iowa Acts 1st Extraordinary 
+Sess. ch. 1001, § 20 (emphasis added)). From the plain language in the legislature’s statement, it 
+is clear subsection 7 was added with the intent to extinguish opportunities for double recovery, 
+specifically in cases where a claimant had previously been compensated for the injury by the same 
+employer. 
+In furtherance of its stated goal to prevent double recovery in such cases, the original 
+subsection included language which allowed for partial satisfaction of compensation, “to the extent 
+of the percentage . . . for which the employee was previously compensated by the employer.” Id. 
+After the 2017 amendments, the subsection now reads, in part: 
+An employer is liable for compensating only that portion of an employee's disability 
+that arises out of and in the course of the employee's employment with the employer 
+and that relates to the injury that serves as the basis for the employee's claim for 
+compensation under this chapter, or chapter 85A, 85B, or 86. An employer is not 
+liable for compensating an employee's preexisting disability that arose out of and 
+in the course of employment from a prior injury with the employer, to the extent 
+that the employee's preexisting disability has already been compensated under this 
+chapter, or chapter 85A, 85B, or 86. An employer is not liable for compensating 
+an employee's preexisting disability that arose out of and in the course of 
+employment with a different employer or from causes unrelated to employment. 
+Iowa Code § 85.34(7) (post-2017 amendments) (emphasis added). 
+In evaluating the language of the amended subsection, the Court notes the legislature 
+removed the language providing a set formula for calculating a credit, yet preserved language 
+asserting that an employer is not liable “to the extent that the employee’s preexisting disability has 
+already been compensated under this chapter.” Id. (emphasis added). The Court also notes the 
+legislature retained the language which prohibits compensation for a disability arising out of and 
+in the course of employment with a different employer. The Court further observes the 
+amendments contain no supplemental language frustrating, removing, or prohibiting 
+apportionment or credit for successive injuries with the same employer. 
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 17
+
+11 
+ 
+The Court finds no language in the statute which prohibits or could be interpreted to intend 
+to prohibit credit or apportionment. Thus, the 2017 amendments’ principal change to subsection 7 
+is merely the removal of a set formula for calculating a credit. Although there may be multiple 
+reasons for this removal, the Court need only discern whether the legislature intended to rescind 
+its original objective of preventing double recovery by permitting apportionment or credit for past 
+compensation with the same employer. 
+Due to the legislature’s unequivocal statement of intent behind subsection 7 and keeping 
+the provision for credit or apportionment, the Court concludes the legislature intended to permit 
+credit and apportionment to prevent double recovery in cases of past compensation with the same 
+employer. Furthermore, the Court notes there is no distinction based on how compensation occurs. 
+Based on the plain language of the statute, it is clear that Iowa Code section 85.34(7) is intended 
+to prevent an employer from compensating an employee twice for the same disability. The Court 
+cannot read into the statute a distinction based on type of disability benefits paid. Thus, the 
+argument that Petitioner asserts - that he should be paid for his 8% functional impairment because 
+it is different than his previous 30% loss industrial disability award - must fail.  
+Accordingly, the Court concludes the Commissioner did not commit an error of law in 
+awarding Respondents a credit for the previous 30% award paid, per Iowa Code section 85.34(7). 
+The Commissioner did not commit an error of law, because Iowa Code section 85.34(7) does not 
+make a distinction based on the type of disability benefits paid. Rather, the intent of Iowa Code 
+section 85.34(7) is to prevent an employer from compensating an employee twice for the same 
+disability. Petitioner in this case was already awarded a 30% industrial disability for his March 
+2015 injury and subsequent reinjury. Petitioner is presently 28% disabled from the August 2018 
+injury. Thus, his disability has not extended past the previous award of 30%. Furthermore, because 
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 11 of 17
+
+12 
+ 
+the Commissioner did not commit an error of law, his finding is rational, logical, and wholly 
+justifiable. Larson, 763 N.W.2d at 850; Iowa Code § 17A.19(10)(l). 
+2. Impairment rating in relation to both injuries 
+Petitioner further asserts in his Petition for Judicial Review that his 8% functional 
+impairment rating should have been related to his August 13, 2018 injury and his cumulative injury 
+on March 13, 2019. However, neither party briefed this issue.  Accordingly, the Court takes no 
+action on this claim advanced by Petitioner.     
+B. Counterclaim Petition for Judicial Review 
+1. Finding of injuries on August 13, 2018 and March 13, 2019 
+Respondents assert that the Commissioner’s finding that Petitioner sustained new, 
+compensable injuries arising out of and in the course of his employment on August 13, 2018, and 
+March 13, 2019, was in violation of Iowa Code sections 17A.19(10)(a)-(n). AAC, p. 2. 
+Specifically, Respondents assert that the Commissioner erred in concluding that Petitioner carried 
+his burden of proof that he sustained compensable injuries to his low back arising out of and in the 
+course of his employment with Menards on both August 13, 2018, and March 13, 2019. As such, 
+Respondents assert the Commissioner did not follow the substantial evidence in the case.  
+Furthermore, Respondents assert that the respective opinions of Drs. Bansal and Mouw 
+were based on incomplete and inaccurate information. As such, Respondents assert the 
+Commissioner did not afford them the proper weight and, rather, should have relied on the opinions 
+of the other two doctors, Schmitz and Harbach. Additionally, Respondents assert the 
+Commissioner erred in affording weight to Petitioner’s testimony. Lastly, Respondents assert that 
+if the Commissioner’s causation opinions were to be affirmed, that Petitioner’s increased disability 
+must be attributed to his 2015 work injury.  
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 12 of 17
+
+13 
+ 
+Petitioner asserts in his reply brief that the MRI findings, together with the causation 
+opinions of Drs. Bansal and Mouw, provide substantial evidence to support the Commissioner’s 
+findings of medical causation. Petitioner further asserts that he has been found credible by the 
+Commissioner. As such, his testimony is reliable and can be afforded weight. Petitioner also asserts 
+that the Commissioner did not err in affording Drs. Bansal’s and Mouw’s opinions more weight, 
+as they made detailed findings regarding expert opinions.  
+The Commissioner performed a detailed review of the evidentiary record and arguments 
+of the parties. Specifically, the Commissioner found that Petitioner met his burden of proof, 
+proving that he sustained work-related injuries on August 13, 2018, and on March 13, 2019. In 
+reaching this determination, the Commissioner made extensive findings regarding Petitioner’s 
+injuries and subsequent treatment. Furthermore, the Commissioner also made extensive findings 
+regarding the expert opinions in the case. He weighed each expert’s opinion in great detail, 
+including considering what medical information each expert had considered in forming their 
+respective opinions. 
+As such, the record, when viewed as a whole, has substantial evidence to support the 
+Commissioner’s finding that Petitioner sustained injuries that arose out of and in the course of his 
+employment with Menards. Such evidence includes, but is not limited to, the testimony of experts, 
+along with extensive medical records. Thus, there is evidence within the record that indicates to a 
+neutral, detached, and reasonable person that the conclusion that Petitioner sustained work injuries 
+was appropriate and was supported by substantial evidence. Iowa Code § 17A.19(10)(f)(1); Pease., 
+807 N.W.2d at 850. Accordingly, the Court concludes that the finding that Petitioner suffered 
+work-related injuries on August 13, 2018, and on March 13, 2019, is supported by substantial 
+evidence. Furthermore, because Petitioner was found to have sustained new injuries separate and 
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 13 of 17
+
+14 
+ 
+different from his March 2015 injuries, Respondents’ argument that Petitioner’s symptoms are a 
+mere aggravation of his 2015 injuries fails.  
+The agency, as the fact finder, determines the weight to be given to any expert testimony. 
+Sherman v. Pella Corp., 576 N.W.2d 312, 321 (Iowa 1998); Dodd v. Fleetguard, Inc., 759 N.W.2d 
+133, 138 (Iowa Ct. App. 2008). Such weight depends on the accuracy of the facts relied upon by 
+the expert and other surrounding circumstances. Id. The Commissioner may accept or reject the 
+expert opinion in whole or in part. Sherman, 576 N.W.2d at 321. 
+Making a determination as to whether evidence “trumps” other evidence or whether 
+one piece of evidence is “qualitatively weaker” than another piece of evidence is 
+not an assessment for the district court or the court of appeals to make when it 
+conducts a substantial evidence review of an agency decision. 
+ 
+Arndt v. City of Le Claire, 728 N.W.2d 389, 394 (Iowa 2007). Furthermore, when the Court 
+reviews factual questions delegated by the legislature to the Commissioner such as the one here, 
+the question before the Court is not whether the evidence might support different findings than 
+those made by the Commissioner but whether the evidence supports the findings actually made. 
+St. Luke's Hosp. v. Gray, 604 N.W.2d 646, 649 (Iowa 2000). Thus, although there may be evidence 
+here to support a different finding, there clearly is evidence in the record to support the findings 
+made by the Commissioner regarding whether Petitioner had sustained work-related injuries 
+arising out of and in the course of his employment with Menards on August 13, 2018, and        
+March 13, 2019. Evidence in support of an agency decision is not insubstantial merely because it 
+would have supported contrary inferences, nor is evidence insubstantial because of the possibility 
+of drawing two inconsistent conclusions from it. City of Hampton v. Iowa Civil Rights Comm'n, 
+554 N.W.2d 532, 536 (Iowa 1996). Furthermore, based on the substantial evidence supporting the 
+Commissioner’s determination, his application of law to the facts was rational, logical, and wholly 
+justifiable. Larson, 763 N.W.2d at 850; Iowa Code § 17A.19(10)(l). 
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 14 of 17
+
+15 
+ 
+ 
+The agency, as the fact finder, also determines the weight to be given to lay testimony. “It 
+is the Commissioner’s duty as the trier of fact to determine the credibility of the witnesses, weigh 
+the evidence, and decide the facts in issue.” Arndt, 728 N.W.2d at 394-95 (citations omitted). “The 
+reviewing court only determines whether substantial evidence supports a finding according to 
+those witnesses whom the [commissioner] believed.” Id. at 395 (internal quotations and citations 
+omitted). The Supreme Court of Iowa has held: 
+The law requires the commissioner to consider all evidence, both medical and nonmedical, 
+in arriving at a disability determination. We have held that lay witness testimony is relevant 
+and material on the issue of cause and extent of an injury. However, it is a basic tenet of 
+law that it remains within the province of the industrial commissioner to weigh the facts 
+present to him and it is entirely within his right to reject any evidence he considers less 
+reliable than other contradictory testimony.  
+Terwilliger v. Snap-On Tools Corp., 529 N.W.2d 267, 273 (Iowa 1995) (internal citations omitted). 
+As such, it is clear from the record the Commissioner found Petitioner to be a credible witness. In 
+reaching his determination, the Commissioner found that during his testimony Petitioner engaged 
+in direct eye contact, had an appropriate rate of speech, did not engage in furtive movements, and 
+had clear and consistent memory. CR, Part 1, p. 83. The Commissioner’s finding that Petitioner is 
+a credible witness is within his power to do so, and he based it on reasonable facts. As such, the 
+Commissioner did not err in finding that Petitioner and his testimony was credible.  
+IV. 
+CONCLUSION AND DISPOSITION 
+For all the reasons set forth above, the Court concludes that Petitioner’s substantial rights 
+were not prejudiced. Specifically, the Court concludes that Respondents were entitled to a credit 
+per Iowa Code section 85.34(7). Thus, Petitioner is not entitled to payment for his present 8% 
+functional impairment rating.  
+Also, for all the reasons set forth above, the Court concludes that Respondents’ substantial 
+rights were not prejudiced. More specifically, the Court concludes that Petitioner did sustain new, 
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 15 of 17
+
+16 
+ 
+compensable injuries arising out of and in the course of his employment with Respondents on 
+August 13, 2018, and a cumulative injury on March 13, 2019. The Court further concludes there 
+is substantial evidence in the record, when viewed as a whole, to support the Commissioner’s 
+decision. The Commissioner’s decision was not irrational, illogical, or wholly unjustifiable, or 
+otherwise unreasonable, arbitrary, capricious, or an abuse of discretion in any way.  
+Accordingly, the Court concludes both Petitioner’s Petition for Judicial Review and 
+Respondents’ Counterclaim Petition must be DENIED. The Commissioner’s decision is 
+AFFIRMED in its entirety. 
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 16 of 17
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV063592
+JUSTIN LOEW VS MENDARD INC ET AL
+Type:
+OTHER ORDER
+So Ordered
+Electronically signed on 2022-10-27 12:18:26
+E-FILED                    CVCV063592 - 2022 OCT 27 12:18 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 17 of 17

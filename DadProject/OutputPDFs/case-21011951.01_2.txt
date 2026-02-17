@@ -1,0 +1,291 @@
+Case Number: 21011951.01
+Case Title:  TUTTLE, MICHELLE V. ARCHER DANIELS MIDLAND COMPANY
+Doc Type:    Decision - District Court
+Source:      Tuttle, Michelle-20700753.01.District Court Remand Decision.PDF
+========================================================================
+
+ IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+MICHELLE TUTTLE, 
+ 
+                  Petitioner,  
+ 
+ 
+v. 
+ 
+ARCHER DANIELS MIDLAND CO., 
+ 
+                   Respondent. 
+ 
+ 
+ 
+Case No. CVCV061544 
+ 
+ 
+ 
+RULING ON PETITION FOR JUDICIAL 
+REVIEW 
+ 
+I. 
+Introduction 
+Before the court is Petitioner Michelle Tuttle’s (“Tuttle”) Recast Amended Petition for 
+Judicial Review, filed April 7, 2023.  Tuttle submitted a brief in support of her Petition.  
+Respondent Archer Daniels Midland Co. (“ADM”) submitted a resistance and supporting brief.  
+Tuttle submitted a reply.  Both parties have submitted appendices containing hundreds of pages 
+of documents.  The court heard oral argument on August 4, 2023.   
+The court has reviewed the petition and supporting briefs and appendices the parties filed, 
+considered their arguments and authorities, and now enters this ruling. 
+II. 
+Procedural Background 
+The subject of the Recast Amended Petition for Judicial Review is a December 31, 2020 
+ruling of a Deputy Workers’ Compensation Commissioner (“Deputy”) on a motion ADM filed to 
+quash an agency subpoena.  Tuttle had caused to be served a subpoena on Chad Abernathey, 
+M.D., a neurosurgeon ADM retained to perform an Independent Medical Examination (IME) on 
+Tuttle.  The subpoena, which was served on Dr. Abernathey at his home after regular business 
+hours, demanded Dr. Abernathey produce documents and things in his possession relating to his 
+IME of Tuttle, including, among other things, records, communications with ADM and its 
+E-FILED                    CVCV061544 - 2023 SEP 22 02:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 10
+
+2 
+ 
+counsel, and video images of Tuttle.  Tuttle already had many of the records the subpoena 
+demanded, but she was specifically trying to obtain copies of video images she believed ADM 
+provided to Dr. Abernathey. ADM had explicitly denied these images existed in its written 
+answers to Tuttle’s interrogatories.  In response to the service of the subpoena on Dr. 
+Abernathey, ADM filed a Motion with the Workers’ Compensation Commissioner 
+(“Commissioner”) to Quash or Enter Protective Order, and for Sanctions.     
+In the December 31, 2020 ruling on ADM’s motion, the Deputy denied the Motion to 
+Quash the subpoena on the ground that the Commissioner lacked jurisdiction to enforce 
+subpoena compliance.  The Deputy nonetheless granted ADM’s Motion for Protective Order to 
+limit the scope of the subpoena, finding that the subpoena was overly broad, because it 
+demanded documents Tuttle was not entitled to receive under the rules of discovery.  Finally, the 
+Deputy granted ADM’s request for sanctions, finding that Tuttle intended to harass Dr. 
+Abernathey by having the subpoena served at his home after business hours, and because the 
+documents demanded in the subpoena could have been obtained by filing a discovery motion 
+rather that serving a subpoena.1  The sanction imposed was to order Tuttle to pay ADM $3,900, 
+the cost of Dr. Abernathey’s IME.2   
+On January 15, 2021, Tuttle filed a Motion to Reconsider, Enlarge, and Amend the ruling 
+granting the protective order and imposing sanctions.  On January 20, 2021, the Deputy denied 
+the motion.  On February 8, 2021, Tuttle filed an “Application for Interlocutory Appeal of 
+Agency Adjudications on Contested Subpoenas and Request for Expedited Ruling.”  This was an 
+                                                          
+1 Tuttle also caused subpoenas virtually identical to the subpoena served on Dr. Abernathey to be served on two 
+employees of ADM.  The Deputy granted the protective order with respect to the employees’ subpoenas, but did not 
+impose sanctions.  
+2 ADM claims Dr. Abernathey refused to continue serving as an expert in the case because he was served a 
+subpoena at his home.   
+E-FILED                    CVCV061544 - 2023 SEP 22 02:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 10
+
+3 
+ 
+intra-agency appeal to the Commissioner.  See Iowa Admin. Code 876-4.27.  On February 19, 
+2021, the Commissioner denied the Application.  The Commissioner concluded that ruling on 
+the Deputy’s interlocutory order would not materially affect the final decision in the case and 
+determining the correctness of that ruling on an interlocutory basis would not serve the interests 
+of justice better than preserving the issue for review when all the issues in the case are decided. 
+On March 19, 2021, Tuttle filed in this court a Petition for Writ of Certiorari, pursuant to 
+Iowa R. Civ. P. 1.1401, naming the Commissioner as the defendant.  Tuttle alleged she was 
+entitled to a writ of certiorari because the Commissioner exceeded its proper jurisdiction and 
+acted illegally by entering a protective order purporting to limit documents Dr. Abernathey was 
+obligated to produce in response to the subpoena and by imposing sanctions for counsel’s actions 
+in connection with service of the subpoena.    
+On May 11, 2021, the Commissioner filed a Motion to Dismiss the Petition for Writ of 
+Certiorari.  On May 21, 2021, ADM filed a Motion to Intervene in the writ of certiorari 
+proceedings.  On August 10, 2021, the court ruled on both the Motion to Dismiss and the Motion 
+to Intervene.  The court denied ADM’s Motion to Intervene, but granted the Commissioner’s 
+Motion to Dismiss the Petition for Writ of Certiorari.  With respect to the dismissal of Tuttle’s 
+petition, the court concluded that a writ of certiorari was not available because the exclusive 
+means for Tuttle to challenge an action of the Commissioner was pursuant to the judicial review 
+procedures in Iowa Code Chapter 17A. 
+On September 7, 2021, Tuttle filed a Notice of Appeal of the court’s August 10, 2021 
+ruling.  On January 25, 2023, the Iowa Court of Appeals issued its opinion, reversing the 
+dismissal of the Tuttle’s petition and remanding to this court for further proceedings. The Court 
+of Appeals agreed with this court that Tuttle’s exclusive means to challenge a decision of the 
+E-FILED                    CVCV061544 - 2023 SEP 22 02:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 10
+
+4 
+ 
+Commissioner was a petition for judicial review under Chapter 17A.  However, the Court of 
+Appeals also ruled this court should have treated Tuttle’s Petition for Writ of Certiorari as a 
+Petition for Judicial Review because, even though improper in form, the Petition otherwise 
+satisfied the requirements of Chapter 17A.19.     
+On remand, the Court of Appeals ordered Tuttle to file a recast petition for judicial 
+review that names ADM as the respondent instead of the Commissioner.  Tuttle complied with 
+that order on April 7, 2023, filing the “Recast Amended Petition for Judicial Review” that is now 
+before the court.     
+III. 
+Discussion 
+The Commissioner’s Order that is the subject of Tuttle’s Recast Petition for Judicial 
+Review is interlocutory.  See Tuttle v. Iowa Workers’ Comp. Com’r, 991 N.W.2d 545, 2023 WL 
+4105478 at *5 (Iowa Ct. App. Jan. 25, 2023).   As such, the Court of Appeals ordered this court 
+to consider two questions before reaching the merits of Tuttle’s claims:  first, whether adequate 
+administrative remedies have been exhausted; and second, whether review of the final agency 
+would not provide an adequate remedy.  Id.  Only if both questions are answered in the 
+affirmative will the court consider the merits of Tuttle’s claims.  Id.  
+A. Exhaustion of Adequate Administrative Remedies 
+  
+There is no doubt Tuttle has available to her administrative remedies, which, if 
+exhausted, would permit the same questions presented in her Recast Amended Petition for 
+Judicial Review to be presented to the court at a later time, once there is a final agency 
+adjudication of her workers’ compensation claim.  Counsel informed the court during oral 
+argument that a hearing on all remaining issues in Tuttle’s contested case has already occurred, 
+E-FILED                    CVCV061544 - 2023 SEP 22 02:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 10
+
+5 
+ 
+and a ruling from the Deputy is pending. 3  Once the Deputy issues a ruling, either party may 
+pursue intra-agency appeal to the Commissioner, and the Commissioner may again be presented 
+the issue whether the Deputy erred in imposing sanctions and limiting the scope of Tuttle’s 
+subpoenas.  See Iowa Code § 17A.15 (allowing for proposed decisions and intra-agency review); 
+Id. § 86.24 (providing for appeals within the office of Workers’ Compensation Commissioner, 
+and that the decision of the workers’ compensation commissioner is the final agency action).  
+The Commissioner may affirm, modify, or reverse the Deputy’s decision on those subjects.  Id.  
+§ 86.24(2).  The Commissioner’s decision on the intra-agency review will be the final agency 
+action and subject to judicial review. 4   
+In short, in the event Tuttle pursues intra-agency appeal after the Deputy’s forthcoming 
+ruling, the Commissioner will have the opportunity to reverse or modify the Deputy’s imposition 
+of sanctions and order limiting the scope of Tuttle’s subpoenas.  Such a ruling would potentially 
+render moot the issue presented in the Recast Amended Petition for Judicial Review that is the 
+subject of this proceeding.  On the other hand, if the Commissioner affirms the Deputy’s 
+December 31, 2020 Ruling, Tuttle will have the right to seek judicial review of such decision, 
+which will then be final agency action.  See Iowa Admin. Code r. 876-4.27.    
+Tuttle contends these administrative remedies available to her are not adequate, and 
+therefore she should not be required to exhaust them before this court rules on the merits of her 
+claims.  Tuttle argues the Deputy’s December 31, 2020 Ruling is a legal nullity because the 
+Commissioner lacks jurisdiction to “adjudicate contested subpoenas.”  According to Tuttle, no 
+                                                          
+3 ADM’s counsel represented that ADM identified as a contested issue the Deputy’s December 31, 2020 ruling that 
+is the subject of this judicial review proceeding, which means the Deputy could potentially re-visit his previous 
+rulings imposing sanctions and limiting the scope of the subpoena.    
+4 The Commissioner may also remand to the deputy commissioner for further proceedings.  A deputy’s rulings after 
+remand would be subject to intra-agency review, and ultimately judicial review. 
+E-FILED                    CVCV061544 - 2023 SEP 22 02:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 10
+
+6 
+ 
+adequate administrative remedy can exist where an agency has no power to act in the first place.  
+In effect, Tuttle contends, the Commissioner is legally incapable of correcting a Deputy’s ruling 
+that is null and void from its inception.  Tuttle argues she should not be required to pursue an 
+administrative remedy that cannot provide her relief.  
+Tuttle may be correct the Commissioner is not authorized to limit the scope of an agency 
+subpoena or to impose sanctions relating to the issuance such a subpoena.  See Iowa Code § 
+17A.13(1) (“On contest, the court shall sustain the subpoena…[i]n proceedings for enforcement, 
+the court shall issue an order…” (emphasis added)); Dunlap v. Action Warehouse Co., 824 
+N.W.2d 545, 550 (Iowa Ct. App. 2021) (holding the Workers’ Compensation Commissioner has 
+no authority to hold a party in contempt for failure to comply with a subpoena, as only the 
+district court is authorized to impose contempt).  But the lack of such authority does not render 
+the Deputy’s ruling null and void from its inception and incapable of correction on intra-agency 
+review or judicial review.    
+Tuttle equates the absence of delegated authority to the agency with a lack of subject 
+matter jurisdiction.  Subject matter jurisdiction is the power of a court to hear and determine 
+cases of the general class to which the proceedings in question belong, not merely the particular 
+case then occupying the court’s attention.  E.g., Klinge v. Bentien, 725 N.W.2d 13, 15 (Iowa 
+2006).  If a court enters a judgment without jurisdiction over the subject matter, the judgment is 
+void and subject to collateral attack.  Id. at 16.  However, this case does not present a question of 
+subject matter jurisdiction, because the Commissioner is authorized to hear and determine 
+Tuttle’s contested workers’ compensation claims.  See Iowa Code § 86.14 (in contested cases 
+before the Commissioner “all matters relevant to a dispute are subject to inquiry”).  Tuttle’s 
+claim is that the Deputy’s ruling was ultra vires, or beyond the agency’s authority, because the 
+E-FILED                    CVCV061544 - 2023 SEP 22 02:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 10
+
+7 
+ 
+Deputy was not delegated the authority to rule on certain issues relating to agency subpoenas.  
+An agency ruling that is ultra vires is not void from its inception, and a party may challenge such 
+agency action through judicial review.  Iowa Code § 17A.19(10)(b) (on judicial review the court 
+may grant relief if the agency action is “beyond the authority delegated to the agency by any 
+provision of law or in violation of any provision of law”); see also Fogle v. Pella Corp., 752 
+N.W.2d 453, 2008 WL 2038798, at *1 (Iowa Ct. App. May 14, 2008)  (stating that on judicial 
+review a party challenging agency action can show “the action’s invalidity … in a number of 
+ways, including proof the action was ultra vires…”).  
+UE Local 893/IUP v. State, 928 N.W.2d 51, 65-66 (Iowa 2019), does not support Tuttle’s 
+argument that she is entitled to bypass administrative remedies in this case.  In UE Local, a 
+public-employee union sued the State of Iowa to force the State to perform a collective 
+bargaining agreement or to award damages for failing to comply with the agreement.  The State 
+moved to dismiss the union’s lawsuit on the ground that the union was required to exhaust 
+administrative remedies with the Public Employee Relations Board (PERB) before seeking relief 
+from the district court.  Id.  at 66.  The Iowa Supreme Court rejected the State’s argument, and 
+held the union was not required to exhaust administrative remedies because PERB did not have 
+jurisdiction over breach of contract claims.  PERB is authorized to adjudicate prohibited practice 
+complaints, in which a party may allege an employer or union has interfered with employees’ 
+collective bargaining rights.  See Iowa Code § 20.10 (listing prohibited practices).   But the court 
+found there is no prohibited practice based upon breach of a collective bargaining agreement.  
+UE Local, 928 N.W.2d at 66.  In other words, the union was not required to exhaust 
+administrative remedies because the agency could not remedy any part of the wrong for which 
+the union was seeking relief.  Id. at 66.    
+E-FILED                    CVCV061544 - 2023 SEP 22 02:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 10
+
+8 
+ 
+ 
+In contrast, this matter does not involve an issue where the Commissioner lacks 
+jurisdiction over the underlying dispute.  The Commissioner has jurisdiction over Tuttle’s claim 
+involving an alleged on-the-job injury.  The question presented here is whether the 
+Commissioner has the statutory authority within the context of a contested case to impose 
+sanctions because of counsel’s conduct in connection with the issuance of subpoena and/or to 
+limit the scope of the subpoena.  Whether the Deputy’s ruling exceeded the authority delegated 
+to the Commissioner by any provision of law or was in violation of any provision of law is a 
+proper subject for judicial review.  Iowa Code § 17A.19(10)(b).  If the Deputy was wrong in 
+imposing sanctions and/or limiting the scope of the subpoena, the Commissioner can correct the 
+wrong on intra-agency review or the court can correct it on judicial review from the final agency 
+action.   As no stay has been issued in the underlying contested case, there is potential for 
+conflicting rulings if this court decides the merits of Tuttle’s claim on interlocutory judicial 
+review while the same issue is pending before the Commissioner.  The administrative remedies 
+available to Tuttle in this case are adequate, and she is required to exhaust such remedies before 
+seeking review in this court. 
+B. Would Review of Final Agency Action Not Provide an Adequate Remedy? 
+ 
+Final agency action does not provide an adequate remedy only if a party is faced with 
+actual or imminent irreparable harm if the administrative proceedings are completed. 
+(A)bsent a showing that plaintiff is faced with the actual or imminent peril of 
+sustaining irreparable harm that is, real and serious injury if the pending 
+administrative proceedings are continued to their final completion, the sole 
+allegation that the administrative agency has or is about to exceed its jurisdiction 
+is not of itself sufficient to invoke injunctive relief to enable a court to examine 
+forthwith the basis of the agency's jurisdiction. 
+ 
+E-FILED                    CVCV061544 - 2023 SEP 22 02:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 10
+
+9 
+ 
+Richards v. Iowa State Com. Comm'n, 270 N.W.2d 616, 624 (Iowa 1978) (alteration in original) 
+(quoting Thomas v. Ramberg, 240 Minn. 1, 5, 60 N.W.2d 18, 20–21 (1953)). 
+Ordinarily, monetary losses caused by either administrative proceeding expenses or the 
+deprivation of earnings are insufficient to constitute irreparable injury of substantial dimension.  
+Riley v. Boxa, 542 N.W.2d 519, 522 (Iowa 1996).  Tuttle is not being ordered to take any action 
+in the interim, and no penalties, civil or criminal, would accrue by waiting for final review. 
+Requiring Tuttle to wait for final review is not the practical equivalent of a decision on the 
+substantive issue as in mootness situations. The delay may be inconvenient to the parties, but this 
+does not affect the adequacy of the remedy.  See Richards, 270 N.W.2d at 621.  Therefore, the 
+court finds final agency action will provide Tuttle an adequate remedy. 
+IV. 
+Ruling 
+Tuttle has failed to exhaust adequate administrative remedies, and final review of the 
+Workers’ Compensation Commissioner’s final agency action will provide an adequate remedy.  
+Therefore, Tuttle is required to exhaust administrative remedies before seeking judicial review.   
+IT IS THEREFORE ORDERED that Plaintiff’s Recast Amended Petition for Judicial 
+Review is DISMISSED.   
+ 
+E-FILED                    CVCV061544 - 2023 SEP 22 02:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 10
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV061544
+MICHELLE TUTTLE VS IOWA WORKERS COMPENSATION
+COMMISSIONER
+Type:
+ORDER REGARDING DISMISSAL
+So Ordered
+Electronically signed on 2023-09-22 14:20:08
+E-FILED                    CVCV061544 - 2023 SEP 22 02:20 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 10

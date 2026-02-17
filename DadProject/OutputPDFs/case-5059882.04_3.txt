@@ -1,0 +1,294 @@
+Case Number: 5059882.04
+Case Title:  DE MALDONADO, GRACIELA V. WATERLOO COMMUNITY SCHOOL DISTRICT
+Doc Type:    Decision - Court of Appeals
+Source:      Demaldonado, Graciela-5059882.04.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 22-0845 
+Filed February 8, 2023 
+ 
+ 
+WATERLOO COMMUNITY SCHOOL DISTRICT and UNITED WISCONSIN 
+INSURANCE COMPANY, 
+ 
+Plaintiffs-Appellants/Cross-Appellees, 
+ 
+vs. 
+ 
+GRACIELA DeMALDONADO, 
+ 
+Defendant-Appellee/Cross-Appellant. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Scott D. Rosenberg 
+(dismissal) and Heather L. Lauber (merits), Judges. 
+ 
+ 
+An employer appeals the denial of its petition for judicial review of the 
+agency decision to order alternate medical care and challenges the cross-appeal 
+as untimely.  The employee cross-appeals the denial of her motion to dismiss the 
+petition for judicial review.  AFFIRMED ON APPEAL AND CROSS-APPEAL. 
+ 
+ 
+Laura Ostrander of Accident Fund Holdings, Inc., Lansing, Michigan, for 
+appellants. 
+ 
+Gary Nelson and Casey Steadman of Rush & Nicholson P.L.C., Cedar 
+Rapids, for appellee. 
+ 
+ 
+Considered by Tabor, P.J., and Schumacher and Chicchelly, JJ.
+
+ 
+2
+TABOR, Presiding Judge. 
+ 
+A school district appeals the district court’s denial of its petition for judicial 
+review of an agency decision that authorized alternate care for an employee 
+injured on the job.  The employee cross-appeals arguing the petition for judicial 
+review should have been dismissed as untimely.  Like the district court, we find the 
+employer timely challenged the agency decision.  But also like the district court, 
+we find that the school district should have authorized the alternate care.   
+I.  Facts and Prior Proceedings 
+ 
+Graciela DeMaldonado worked as a custodian for the Waterloo Community 
+School District.  In 2017, she fell at work and injured her back, hips, legs, and 
+knees.  She asserts she also developed anxiety, depression, and chronic pain.   
+ 
+After several years of treatment, she petitioned the Iowa Workers’ 
+Compensation Commission for alternate care.  She was dissatisfied with the care 
+provided because the school district refused to authorize pain management, 
+referred her to providers unsuited to treating her condition, “lie[d] about 
+authorization,” and interfered with the care she sought from her own selected 
+providers.  She sought referral to pain management services with Dr. Stanley 
+Mathew “or another pain management specialist.”  Finally, she asked the agency 
+to find that the school district’s “offered care is not suitable treatment” and that it 
+“abandoned care for ongoing interference.”   
+ 
+In a September 2021 ruling, the deputy commissioner granted her petition 
+in part and denied it in part.  On the one hand, that ruling found the offered care 
+was not reasonable treatment for DeMaldonado’s condition and ordered the school 
+district to authorize pain management with Dr. Mathew.  On the other hand, the 
+
+ 
+3
+ruling found insufficient proof that the school district abandoned DeMaldonado’s 
+care.  Still, it cautioned the school district that “reasonable care includes care 
+necessary to diagnose the condition” and not to “interfere with the medical 
+judgment of its own treating physician.”   
+ 
+The school district petitioned for judicial review.  The district court affirmed 
+the agency.  The school district appeals; DeMaldonado cross-appeals.   
+II.  Scope and Standard of Review 
+ 
+The district court may grant relief to a petitioner seeking judicial review of 
+an agency action only when the agency action (1) prejudiced the petitioner's 
+substantial rights and (2) falls within one of the criteria set forth in Iowa Code 
+section 17A.19(10) (2020).  See Burton v. Hilltop Care Ctr., 813 N.W.2d 250, 256 
+(Iowa 2012).  “[T]he commissioner as the fact finder has the responsibility for 
+determining credibility of the witnesses, and we are bound by the commissioner’s 
+findings if supported by substantial evidence.”  Sherman v. Pella Corp., 576 
+N.W.2d 312, 320 (Iowa 1998).  “Ultimately, the question is not whether the 
+evidence might support a different finding, but whether the evidence supports the 
+findings actually made.”  Id.  If we reach the same conclusions as the district court, 
+we affirm; if not, we reverse or modify.  See id.  Our standard of review therefore 
+depends on the issues raised on appeal.  See Jacobson Transp. Co. v. Harris, 778 
+N.W.2d 192, 196 (Iowa 2010).   
+ 
+“We review a district court’s ruling on a motion to dismiss for the correction 
+of errors at law.”  Struck v. Mercy Health Servs.-Iowa Corp., 973 N.W.2d 533, 538 
+(Iowa 2022) (citation omitted).  
+
+ 
+4
+III.  Analysis 
+ 
+The most logical way to proceed is to first address DeMaldonado’s cross-
+appeal from the denial of her motion to dismiss the judicial review petition.  After 
+that, we will review the school district’s appeal of the alternate care decision. 
+A. Timeliness of judicial review petition  
+ 
+On cross-appeal, DeMaldonado contends the district did not timely petition 
+for judicial review.1  Here, we must digress for a little more background.  In spring 
+2021, DeMaldonado applied for alternate medical care, but then voluntarily 
+dismissed the application without prejudice (case number 5059882.03).  
+DeMaldonado refiled in September (case number 5059882.04) and the deputy 
+commissioner entered the alternate care order on September 23.   
+ 
+When the school district petitioned for judicial review, DeMaldonado moved 
+to dismiss.  In its petition, the school district cited case number 5059882.03.  That 
+application was dismissed without prejudice on July 19.  Judicial review petitions 
+must be filed within thirty days.  Iowa Code § 17A.19(3).  So, DeMaldonado 
+argued, the judicial review petition—dated September 29—was untimely.   
+ 
+The district court denied the dismissal motion on December 9.  It found the 
+school district’s petition for judicial review “can only be in reference to the [deputy 
+commissioner’s] [d]ecision filed on September 23, 2021, case No. 5059882.04.”  
+So it allowed the petition to proceed.  DeMaldonado insists the district court should 
+ 
+1 The school district argues that DeMaldonado “did not preserve error” on the 
+cross-appeal.  But its argument contests the timeliness of the cross-appeal, not 
+error preservation.  And the argument lacks merit.  DeMaldonado timely filed her 
+cross-appeal from the April 28, 2022 ruling on the merits.  See Iowa R. 
+App. 6.101(2)(b).  The December 9, 2021 order was not a final appealable ruling. 
+
+ 
+5
+have dismissed the school district’s petition for judicial review as untimely 
+appealing case number 5059882.03.  According to DeMaldonado, “There should 
+be limitations for how far a ‘scrivener error’ can be extended.”   
+ 
+We look to the content of a filing to determine its real nature.  See Iowa 
+Elec. Light & Power Co. v. Lagle, 430 N.W.2d 393, 395 (Iowa 1988).  True, the 
+petition makes one reference to the wrong case number.  But it also discusses the 
+commissioner’s alternate care decision in some detail.  It prays for a reversal of 
+that alternate care decision based on Dr. Mathew being an “inappropriate” 
+authorized treating physician and “after the Claimant and Claimant’s Counsel 
+withheld medical records from this physician.”  Those details were not relevant to 
+the 5059882.03 case dismissal.  The content shows the school district petitioned 
+for judicial review of the final agency decision authorizing alternate care, not the 
+agency decision granting a voluntary motion to dismiss an application for alternate 
+care.  We find no error in the court’s decision. 
+B. Alternate Care Decision 
+ 
+Having found the judicial review petition to be timely, we proceed to the 
+merits of the school district’s claims.  We begin with the workers’ compensation 
+statute providing injured employees with a way to receive alternate medical care.  
+Iowa Code section 85.27(4) states 
+the employer is obliged to furnish reasonable services and supplies 
+to treat an injured employee, and has the right to choose the 
+care. . . . The treatment must be offered promptly and be reasonably 
+suited to treat the injury without undue inconvenience to the 
+employee.  If the employee has reason to be dissatisfied with the 
+care offered, the employee should communicate the basis of such 
+dissatisfaction to the employer, in writing if requested, following 
+which the employer and the employee may agree to alternate care 
+reasonably suited to treat the injury.  If the employer and employee 
+
+ 
+6
+cannot agree on such alternate care, the commissioner may, upon 
+application and reasonable proofs of the necessity therefor, allow 
+and order other care. 
+ 
+ 
+This procedure “permits disputes over the medical care for compensable 
+injuries to be quickly resolved in advance of a contested case hearing on a claim 
+for workers’ compensation benefits.”  R.R. Donnelly & Sons v. Barnett, 670 N.W.2d 
+190, 195 (Iowa 2003).  The commissioner may order alternate care if the treatment 
+provided by the employer is not prompt or reasonably suited to treat the injury or if 
+the treatment causes “undue inconvenience to the employee.”  Id.  The employee 
+bears the burden of proving the medical care authorized by the employer is 
+unreasonable.  Id.  “[W]hen evidence is presented to the commissioner that the 
+employer-authorized medical care has not been effective and that such care is 
+‘inferior or less extensive’ than other available care requested by the employee, 
+the commissioner is justified by section 85.27 to order the alternate care.”  Pirelli-
+Armstrong Tire Co. v. Reynolds, 562 N.W.2d 433, 437 (Iowa 1997) (internal 
+citation omitted).   
+ 
+Here, the school district disputes the agency’s findings and objects to the 
+deputy commissioner’s designation of Dr. Mathew to treat DeMaldonado.  The 
+agency found  
+[T]he care offered by [the school district] is not reasonable.  First, [the 
+school district] ha[s] offered physical therapy.  Ms. DeMaldonado has 
+declined this offer.  Ms. DeMaldonado has already attended over 120 
+physical therapy visits.  Even Dr. Fields has concluded those visits 
+are enough.  I conclude that the physical therapy offered by the 
+defendants is inferior to the treatment sought by the claimant.  
+Second, [the school district] ha[s] offered an appointment with a 
+clinical psychologist.  There is no evidence in this case that any 
+medical provider has recommended Ms. DeMaldonado see a clinical 
+psychologist.  Dr. Field recommended a neuropsychiatrist, but that is 
+different than what [the school district] ha[s] offered.  I conclude [the 
+
+ 
+7
+school district’s] offer to send Ms. DeMaldonado to Daniel Tranel, 
+Ph.D., is not reasonable.  I further conclude that [the school district’s] 
+offer is inferior to the treatment claimant is seeking. 
+ 
+The school district argues the record lacked substantial support for the agency’s 
+finding that a neuropsychological consult was unreasonable and inferior to the care 
+that DeMaldonado was seeking from Dr. Mathew.  The school district insists that 
+it complied with recommendations from Dr. Jonathan Fields, DeMaldonado’s 
+treating physician. 
+ 
+But the agency record is not as clear as the school district contends.  Dr. 
+Fields examined DeMaldonado and determined she had “completed a full course 
+of physical therapy with no change in symptoms.”  He stated, “I would not 
+recommend any further physical therapy.”  Dr. Fields could not determine the 
+cause of her ongoing back and knee pain and had no further treatment 
+recommendations.  Instead, he recommended she “be evaluated by a 
+neuropsychologist such as Dr. [Daniel] Tranel at the University of Iowa.”2  The 
+school district authorized that evaluation, but DeMaldonado declined to go.  In his 
+deposition, Dr. Fields also recommended referral to a neuropsychiatrist and a 
+physiatrist who could identify other ongoing issues and non-physical sources of 
+her pain.  When asked whether a pain specialist would be appropriate, he 
+acknowledged that a neuropsychiatrist could identify issues treatable by a pain 
+specialist.  When asked whether Dr. Tranel was qualified to treat DeMaldonado, 
+Dr. Field reiterated that “at this point we need a referral to a neuropsychiatrist.”  
+And he repeated his belief that DeMaldonado had sufficient physical therapy.   
+ 
+2 Dr. Tranel had a doctoral degree in clinical psychology. 
+
+ 
+8
+ 
+Several years earlier, DeMaldonado had seen Dr. Mathew.  His opinion was 
+that her pain had neurological, not psychiatric, origin.  He believed DeMaldonado 
+would benefit from pain medication management supervised by a physiatrist and 
+pain specialist like himself.  In her alternate care application, DeMaldonado asked 
+for authorization to begin treatment with Dr. Mathew, which the agency granted.   
+ 
+Substantial evidence supports the agency’s conclusion that DeMaldonado 
+has had ample physical therapy without significant improvement.  She continued 
+to experience pain in her back and legs.  In her affidavit, she described an 
+examination with Dr. Nicholas Bingham.  Dr. Bingham told her she “could not be 
+diagnosed” and offered her a course of physical therapy.  She declined, explaining 
+that past physical therapy made her feel worse.  In response, Dr. Bingham 
+withdrew his suggestion.  Assuming that physical therapy was still on the table, it 
+was not a reasonable service offer.   
+ 
+The school district next disputes the agency’s finding that no medical 
+provider has recommended she see a clinical psychologist.  Like the district court, 
+we agree that finding is not supported by substantial evidence.  Dr. Fields did make 
+that recommendation in a July 2021 examination report.  And he did suggest Dr. 
+Tranel.  But in depositions, that recommendation changed to emphasize the need 
+for a psychiatric evaluation first.  And Dr. Fields agreed that a physiatrist could 
+make that determination.  Dr. Fields also agreed he could not explain “how Dr. 
+Tranel does his work.”  The record contains no evidence that Dr. Tranel is qualified 
+to evaluate or treat DeMaldonado.  Instead, DeMaldonado requested treatment by 
+Dr. Mathew, who has already seen her, and determined that her pain is 
+neurological and that she could benefit from pain medication and management.  
+
+ 
+9
+Substantial evidence supports the agency conclusions that physical therapy and a 
+clinical psychology evaluation with Dr. Tranel are not reasonable offers of further 
+treatment under the circumstances and treatment with a pain specialist is the 
+superior treatment option.   
+ 
+We turn now to the authorization of Dr. Mathew as DeMaldonado’s 
+physiatrist and pain specialist.  The school district claims it was inappropriate for 
+the agency to approve Dr. Mathew because he was willing to “issue multiple check-
+the-box opinions” drafted by DeMaldonado’s counsel even though counsel 
+withheld documents about their client’s lifting restrictions in an earlier case.  The 
+school district believes that history should disqualify Dr. Mathew as an expert and 
+treatment provider in this case.   
+ 
+The district court found no merit in these accusations.  Nor do we.  At the 
+hearing on alternative care, the school district mentioned document withholding.  
+DeMaldonado’s counsel explained that during an earlier proceeding, they 
+discovered medical records dating from 2001 and promptly provided those records 
+to Dr. Mathew.  Because no other evidence speaks to this situation, it does not 
+disqualify Dr. Mathew as an expert in DeMaldonado’s case or from treating her.   
+ 
+According to Dr. Fields, a physiatrist and pain specialist would provide 
+appropriate evaluation and treatment for DeMaldonado.  Thus, the agency properly 
+determined that Dr. Mathew was a suitable alternate care option considering 
+DeMaldonado’s needs.   
+ 
+AFFIRMED ON APPEAL AND CROSS-APPEAL. 

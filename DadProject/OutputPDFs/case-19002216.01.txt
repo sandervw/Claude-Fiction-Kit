@@ -1,0 +1,464 @@
+Case Number: 19002216.01
+Case Title:  HERMANSTORFER, SHERYL K V. LENNOX INDUSTRIES INC
+Doc Type:    Decision - District Court
+Source:      Hermanstorfer, Sheryl-19002216.01.District Court Decision.PDF
+========================================================================
+
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+ 
+SHERYL HERMANSTORFER, 
+ 
+Petitioner, 
+v. 
+LENNOX INDUSTRIES, INC. and 
+INDEMNITY INS. CO. OF N. 
+AMERICA, 
+      Respondents. 
+ 
+ 
+Case No. CVCV066037 
+ 
+ORDER RE: PETITION FOR 
+JUDICIAL REVIEW 
+ 
+ 
+On February 2, 2024, this matter came before the court for oral argument on 
+the petition for judicial review. Petitioner Sheryl Hermanstorfer (“Hermanstorfer”) 
+was represented by attorney James M. Ballard. Respondents Lennox Industries, 
+Inc. (“Lennox”) and Indemnity Insurance Company of North America were 
+represented by attorney Robert C. Gainer. After hearing the arguments of counsel 
+and reviewing the court file, including the briefs filed by the parties and the 
+certified administrative record, the court reverses the commissioner’s decision and 
+remands the case to the commissioner. 
+BACKGROUND FACTS 
+Hermanstorfer sustained a work injury to her head, neck, and vision on 
+August 21, 2019, while working at Lennox Industries, Inc. She filed her petition 
+for arbitration and medical benefits on October 11, 2021. Hearing commenced on 
+E-FILED                    CVCV066037 - 2024 APR 11 03:17 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 15
+
+October 19, 2022, before Deputy Workers’ Compensation Commissioner William 
+Grell. 
+The issues presented for hearing were: 1) whether Hermanstorfer was 
+entitled to permanent partial disability, 2) whether the permanent disability should 
+be compensated on a functional impairment basis or under an industrial disability 
+analysis, 3) her correct average weekly wage (AWW) and weekly workers’ 
+compensation rate (WWCR), 4) her entitlement to reimbursement of her section 
+85.39 independent medical examination,1 and 5) taxation of her costs.  
+The deputy commissioner filed his arbitration decision on April 4, 2023. In 
+that decision he found Hermanstorfer sustained a 7% permanent functional 
+impairment of the whole person. He determined that Hermanstorfer’s AWW at the 
+time of her injury was $880.89 and her applicable WWCR at $580.56. Based upon 
+her AWW the deputy commissioner found Hermanstorfer’s post-injury earnings 
+were slightly more than she earned at the time of her injury. Accordingly, the 
+deputy commissioner found Hermanstorfer’s permanent partial disability recovery 
+was limited to the functional rating assigned by Dr. Wolfe. He ordered respondents 
+to reimburse her costs at $350.33. 
+                                               
+1 At the workers’ compensation hearing, respondents conceded she was entitled to 
+reimbursement for her section 85.39 independent medical examination. 
+E-FILED                    CVCV066037 - 2024 APR 11 03:17 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 15
+
+Hermanstorfer timely appealed the decision to the commissioner on April 
+20, 2023. Respondents cross-appealed on April 24, 2023. Hermanstorfer argued 
+that the deputy commissioner erred in calculating her AWW by including 
+nonrepresentative weeks in which she had taken FMLA leave for personal reasons 
+and 2) the deputy commissioner erred in not awarding industrial disability based 
+upon his erroneous AWW calculation. The commissioner filed his appeal decision 
+on August 14, 2023, affirming the deputy commissioner’s decision. The present 
+petition for judicial review was filed on September 8, 2023. 
+Calculation of AWW 
+The deputy commissioner found that it was typical for Hermanstorfer to 
+work between 32 and 51 hours per week immediately before her work injury.2 He 
+further found that she “earned $11,451.62 during the 13 earliest typical, or 
+representative, weeks immediately preceding her work injury.”3 Dividing this 
+amount by 13 weeks he established her gross AWW at $880.89.4  
+Hermanstorfer contends the deputy commissioner erred because he utilized 
+weeks of earnings which were atypical because she took FMLA leave for personal 
+                                               
+2 Cert. Record, Arbitration Decision, at 5. (The court will refer to the deputy 
+commissioner’s decision throughout since it is this decision that sets forth the basis 
+of the appeal. The court recognizes the commissioner affirmed the deputy 
+commissioner’s decision.). 
+3 Id. at 6. 
+4 Id. 
+E-FILED                    CVCV066037 - 2024 APR 11 03:17 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 15
+
+reasons – leave due to a non-job related medical issue. Hermanstorfer contends this 
+is a violation of Iowa Code section 85.36(6) which states, in relevant part:  
+ 
+6. In the case of an employee who is paid on a daily or hourly basis, or 
+by the output of the employee, the weekly earnings shall be computed 
+by dividing by thirteen the earnings, including shift differential pay 
+but not including overtime or premium pay, of the employee earned in 
+the employ of the employer in the last completed period of thirteen 
+consecutive calendar weeks immediately preceding the injury. If the 
+employee was absent from employment for reasons personal to 
+the employee during part of the thirteen calendar weeks 
+preceding the injury, the employee’s weekly earnings shall be the 
+amount the employee would have earned had the employee 
+worked when work was available to other employees of the 
+employer in a similar occupation. A week which does not fairly 
+reflect the employee’s customary earnings shall be replaced by the 
+closest previous week with earnings that fairly represent the 
+employee’s customary earnings.5 
+  
+Hermanstorfer contends the deputy commissioner should not have used the 
+weeks of April 28, May 19, June 2, June 9, and June 16, 2019 because they were 
+below her customary earnings. She asserts the evidence established her earnings 
+were below her customary workweek because she took FMLA leave due to her 
+personal health condition.6 Thus, pursuant to the second and third sentences in 
+section 85.36(6) the deputy commissioner should have excluded those weeks as 
+nonrepresentative and included five other weeks which were representative. 
+                                               
+5 Iowa Code § 85.36(6) (emphasis added). 
+6 Cert. Rec., Ex. 4, pp 39-40 and Tr. Pp. 55-66. 
+E-FILED                    CVCV066037 - 2024 APR 11 03:17 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 15
+
+A comparison of Ex. 4, pp. 37-38 and the deputy commissioner’s wage 
+calculation chart demonstrates that the deputy commissioner agreed with 
+Hermanstorfer and removed many of the weeks from consideration asserted by her 
+except the weeks noted above.7  Notably, the weeks excluded by Hermanstorfer 
+and the deputy commissioner included April 21, May 26, June 30, July 7, August 4 
+and August 11. Hermanstorfer excluded them because she had taken FMLA leave.8 
+They were excluded by the deputy commissioner because they were below 32 
+hours.9 Hermanstorfer further asserts the deputy commissioner should have 
+included the weeks of April 7, March 31, March 3, February 17, and February 10, 
+2019 because they represented customary work weeks and during these weeks she 
+did not take any FMLA leave.10 Including those weeks would raise her AWW to 
+$1,006.65 and her WWCR to $655.14.11 
+ 
+Respondents contend that the deputy commissioner’s decision correctly 
+determined what Hermanstorfer’s customary weekly earnings were. They argued, 
+in their post-hearing brief to the deputy commissioner, that the evidence 
+established that Hermanstorfer customarily worked 25-35 hours in the 13 weeks 
+prior to the injury. Respondents provided a chart to the deputy commissioner 
+                                               
+7 Cert. Rec., compare Ex. 4, pp. 4-37 and 4-38 with Arb. Dec. at 5. 
+8 Cert. Rec., Ex. 4, pp. 4-37 and 4-38 
+9 Cert. Rec., Arb. Dec. at 5. 
+10 Cert. Rec., Ex. 4, at 4-37 to 4-38. 
+11 Cert. Rec. Ex. 4, at 4-38. 
+E-FILED                    CVCV066037 - 2024 APR 11 03:17 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 15
+
+demonstrating this.12 The average hours worked were 31.69. Respondents also 
+argued that Hermanstorfer while asserting she stopped attending physical therapy 
+for her vestibular dysfunction on June 19, 2019, and returned to work without 
+restrictions, she continued to take FMLA leave of 9.30 hours per week.13 The 
+vestibular dysfunction was the medical condition that caused Hermanstorfer to take 
+FMLA leave during this time. Later in the same brief, respondents demonstrated 
+that during weeks Hermanstorfer argued should be excluded from the calculation 
+of her AWW she averaged 10.5 hours of FMLA leave and the weeks she wanted 
+included in that calculation she utilized 9 hours of FMLA leave.14 Respondents 
+argued that “[t]he best way to approximate Claimant’s customary earnings is to 
+exclude weeks containing FMLA only if they altered the normal number of hours 
+that Claimant customarily worked.”15 Respondents further argued only the weeks 
+of July 7 and May 26, 2019 should be excluded from the thirteen weeks prior to the 
+injury date giving Hermanstorfer a AWW of $799.64 and a WWCR of $529.06.16 
+Finally, respondents argued that she was only entitled to permanent partial 
+disability recovery limited to the functional rating assigned by Dr. Wolfe. 
+                                               
+12 Cert. Rec., Defendant’s Post-Hearing Brief, at 17 (citing Ex. 4, pp. 4-44 to 4-58). 
+13 Cert. Rec., Ex. 4, p 4-40. 
+14 Cert. Rec., Defendants’ Post Hearing Brief, at 31-32 (citing Ex. 4, pp.4-37 to 4-
+38, and 4-40). 
+15 Cert. Rec., Defendants’ Post Hearing Brief, at 32.  
+16 Id. 
+E-FILED                    CVCV066037 - 2024 APR 11 03:17 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 15
+
+ANALYSIS  
+ 
+In reviewing an agency decision the court is required to consider the 
+evidence that supports the challenged finding and the evidence that detracts from 
+it.17 In reviewing the record the court is not to determine whether there is evidence 
+to support a decision the commissioner did not make but to determine if there is 
+substantial evidence to support the decision made by the commissioner.18 If the 
+court could have reached a different conclusion the court is not to reverse unless 
+the commissioner’s decision is not supported by substantial evidence.19 If the 
+challenge is the commissioner misinterpreted the language of the statute the court 
+must determine whether the commissioner’s interpretation is erroneous, and if so, 
+substitute its judgment for that of the commissioner.20  
+When we interpret a statute, we attempt to give effect to the general 
+assembly's intent in enacting the law. IBP, Inc. v. Harker, 633 N.W.2d 
+322, 325 (Iowa 2001). Generally, this intent is gleaned from the 
+language of the statute. State v. Casey's Gen. Stores, Inc., 587 N.W.2d 
+599, 601 (Iowa 1998). To ascertain the meaning of the statutory 
+language, we consider the context of the provision at issue and strive 
+to interpret it in a manner consistent with the statute as an integrated 
+whole. McSpadden v. Big Ben Coal Co., 288 N.W.2d 181, 188 (Iowa 
+1980). With respect to the workers' compensation statute in particular, 
+we keep in mind that the primary purpose of chapter 85 is to benefit 
+                                               
+17 Iowa Code § 17A.19(10(f)(3); Wal-Mart Stores, Inc. v. Caselman, 657 N.W.2d 
+493, 499 (Iowa 2003) 
+18 Musselman v. Cent. Tel. Co., 154 N.W.2d 128, 130 (Iowa 1967) 
+19 Christiansen v. Iowa Bd. of Educational Examiners, 831 N.W.2d 179, 192 (Iowa 
+2013) 
+20 Iowa Code § 17A.19(10)(c); Meyer v. IBP, Inc., 710 N.W.2d 213, 219 (Iowa 
+2006). 
+E-FILED                    CVCV066037 - 2024 APR 11 03:17 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 15
+
+the worker and so we interpret this law liberally in favor of the 
+employee. Stone Container Corp., 657 N.W.2d at 489; Harker, 633 
+N.W.2d at 325.21 
+ 
+If the challenge is the commissioner misapplied the law to the facts the district 
+court can only reverse the if the application of the law to the facts was irrational, 
+illogical, or wholly unjustifiable.22 
+Hermanstorfer asserts that the deputy commissioner misinterpreted section 
+85.36(6) and misapplied the law to the facts. The deputy commissioner 
+misinterpreted section 85.36(6) by including weeks she missed time from work 
+while on FMLA leave due to a personal medical condition which altered her 
+customary work week. By including these weeks, she contends the deputy 
+commissioner’s application of the law to the facts was erroneous because it did not 
+follow the plain language of the statute.  
+The court does not find the deputy commissioner misinterpreted section 
+85.36 as to the standard he was to apply in determining earnings. As the deputy 
+commissioner noted he was to use what were the “usual or typical” earnings for the 
+employee.23 He specifically stated, “[t]he standard is whether the earnings are 
+                                               
+21 Griffin Pipe Prod. Co. v. Guarino, 663 N.W.2d 862, 864–65 (Iowa 2003); 
+Maguire v. Fulton, 179 N.W.2d 508, 510 (Iowa 1970) (“It [the statute] should be 
+construed so that effect is given to all its provisions and no part will be inoperative 
+or superfluous, void or insignificant.”). 
+22 Mercy Med. Center v. Healy, 801 N.W.2d 865, 870 (Iowa Ct. App. 2011). 
+23 Cert. Rec., Arb. Dec., at 9. 
+E-FILED                    CVCV066037 - 2024 APR 11 03:17 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 15
+
+customary for the employee, not whether the absence was anticipated.”24 This 
+analysis seems consistent with the statute and the appellate decisions construing 
+this portion of the statute.  
+Hermanstorfer’s criticism is that the deputy commissioner should not have 
+included the weeks when she took FMLA because section 85.36(6) based upon the 
+last two sentences of the statute, which provides:  
+If the employee was absent from employment for reasons personal to 
+the employee during part of the thirteen calendar weeks preceding the 
+injury, the employee’s weekly earnings shall be the amount the 
+employee would have earned had the employee worked when work 
+was available to other employees of the employer in a similar 
+occupation. A week which does not fairly reflect the employee's 
+customary earnings shall be replaced by the closest previous week 
+with earnings that fairly represent the employee's customary 
+earnings.25 
+ 
+This portion of the statute was added to section 85.36(6) with a 2000 
+amendment.26 Initially, our supreme court determined the amendment did not 
+change the law rather it “clarified the legislature’s intent that a nonrepresentative 
+week be excluded from the calculation of an employee’s compensation rate.”27 The 
+court affirmed this conclusion later when it stated: 
+                                               
+24 Id. (citing Jacobson Transp. Co. v. Harris, 778 N.W.2d 192, 198 (Iowa 2010). 
+25 Iowa Code § 85.36(6) 
+26 Griffin Pipe Products Co. v. Guarino, 663 N.W.2d 862, 867 (Iowa 2003) 
+(emphasis original); See also 2000 Acts, ch 1007, § 2. 
+27 Griffin Pipe Products Co. v. Guarino, 663 N.W.2d at 867. 
+E-FILED                    CVCV066037 - 2024 APR 11 03:17 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 15
+
+Thus, in our interpretation of section 85.36, both before and after the 
+addition of the language at issue in this case, we have determined that 
+one must look to the earnings themselves to see if they are customary. 
+The reason for the variance in earnings is not determinative of 
+whether a week's earnings should be replaced because they are not 
+customary.28  
+ 
+The court elucidated upon this statement in a footnote. 
+The reason for nontypical wages is relevant if the employee was 
+absent from work for reasons personal to the employee. As previously 
+noted, section 85.36(6) provides for a different method of addressing 
+a nontypical week of earnings due to personal reasons. In that case, 
+the weekly wages must be replaced with the wages the employee 
+“would have earned had the employee worked when work was 
+available” to the employer's workers performing in a similar 
+occupation. Iowa Code § 85.36(6).29 
+ 
+ 
+Thus, while normally the reason for the variance is not important, the reason 
+becomes important when the personal reason causes the atypical earnings. If 
+personal reasons cause the earnings to be atypical, the commissioner is to disregard 
+that week and replace it with a representative week. A review of her work records 
+demonstrate her health condition which caused her to use FMLA caused her 
+workweek hours (earnings) to be atypical.  
+ 
+The chart below is a modification of the deputy commissioner’s chart by 
+adding columns for the number of FMLA hours taken, the hours worked without 
+                                               
+28 Jacobson Transp. Co. v. Harris, 778 N.W.2d 192, 198 (Iowa 2010) (emphasis 
+added). 
+29 Id., at 198 n.9 (emphasis added). 
+E-FILED                    CVCV066037 - 2024 APR 11 03:17 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 15
+
+FMLA leave, and total hours including FMLA leave. This chart was created to 
+demonstrate the impact of Hermanstorfer taking FMLA leave. 
+During the week ending June 16, 2019, Hermanstorfer took 8 hours of 
+FMLA thus she would have worked 40 hours and not 32 if she had not been 
+required to take FMLA leave due to her medical condition. During the week 
+ending June 9, 2019, she took 8 hours of FMLA thus she would have worked 40 
+hours and not 32. During the week ending June 2, 2019, she took 8 hours of FMLA 
+thus she would have worked 42 hours and not 34. During the week ending May 19, 
+2019, she took 8 hours of FMLA thus she would have worked 42 hours and not 34. 
+During the week ending April 28, 2019, she took 8 hours of FMLA thus she would 
+have worked 41 hours and not 33. This indicates but for having to take FMLA 
+leave due to her medical condition she would have had earnings which were 
+customary, i.e., forty or more hours per week.30 Working 40 or more hours was 
+what she testified she previously customarily worked.31 
+ 
+                                               
+30 See generally Mercy Medical Center v. Healy, 801 N.W.2d 865, 871 (Iowa Ct. 
+App. 2011) (“if we are to approximate the earnings [Healy] would have been 
+entitled to had she worked the full pay period in which the employee was injured, 
+as regularly required by the defendant employer, the more rational approach is to 
+simply multiply claimant’s customary weekly hours to her hourly rate. . .at the 
+time of injury.”). 
+31 Cert. Rec., Hearing Transcript, at 54:17 – 55:1 and 56:14-19. 
+E-FILED                    CVCV066037 - 2024 APR 11 03:17 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 11 of 15
+
+Pay Period 
+End Date 
+Regular 
+Hours/OT 
+Hours 
+Holiday/Vacation 
+Hours 
+Total Hours 
+w/o FMLA 
+Hours 
+FMLA 
+Hours32 
+Total Hours 
+with FMLA 
+6/16/19 
+16 
+16 
+32 
+8 
+40 
+6/9/19 
+24 
+8 
+32 
+8 
+40 
+6/2/19 
+18 
+16 
+34 
+8 
+42 
+5/19/19 
+22 
+12 
+34 
+8 
+42 
+4/28/19 
+17 
+16 
+33 
+8 
+41 
+Avg. Hours 
+ 
+ 
+ 
+ 
+41 
+ 
+ 
+In reaching his conclusion about Hermanstorfer’s AWW, the deputy 
+commissioner ignored the second and third sentences of section 85.36(6) when he 
+found:  
+I find that claimant established a pattern of work prior to the injury 
+date in which she required medical leave and did not work 50 hours 
+per week during at least the six months immediately preceding her 
+injury. I find that it was customary for claimant to take this leave and 
+work less than 50 hours in a week quite frequently.33 
+ 
+These statements demonstrate the deputy commissioner did not consider the 
+personal that caused reason Hermanstorfer not to work her typical week. This 
+conclusion is contrary to the plain language of section 85.36(6) and the court’s 
+                                               
+32 Cert. Rec., Ex. 4, at 4-40. 
+33 Cert. Rec., Arb. Dec. at 4 (While the deputy commissioner found that 
+Hermanstorfer did not work 50 hours per week the court is not suggesting this 
+finding is inaccurate. The evidence established she customarily worked 40 or more 
+hours per week.).  
+E-FILED                    CVCV066037 - 2024 APR 11 03:17 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 12 of 15
+
+footnote in Jacobson where the court stated that the reason for the nontypical 
+earnings should be considered if the the personal reason impacts the employee’s 
+customary earnings that week should be replaced.34 
+ 
+Likewise, the deputy commissioner’s conclusion is contrary to the court’s 
+statement in Griffin Pipe. The court there in approving the commissioner’s 
+conclusion stated: 
+We agree with the agency that the issue under section 85.36 “is 
+whether the hours of work in any particular workweek are 
+representative of the hours typically or customarily worked by an 
+employee during a typical or customary full week of work.” (Emphasis 
+added.) This interpretation is most consistent with the language of the 
+statute, which directs that the basis for computation of the weekly rate 
+is to be the earnings that the “employee would have been entitled to 
+had the employee worked the customary hours for the full pay period 
+in which the employee was injured.” Iowa Code § 85.36 (emphasis 
+added); accord James R. Lawyer & Judith A. Higgs, Iowa Workers' 
+Compensation Law and Practice § 12–4, at 123 (3d ed.1999) (stating 
+weeks that contain “absences due to illness, vacation or other causes 
+... are not representative of [the worker's] earnings” and are 
+routinely excluded from the rate calculation).35 
+ 
+Based upon the plain language of section 85.36(6) and the previous 
+decisions construing section 85.36 the court finds the deputy commissioner 
+misapplied the law to the facts and the weeks of April 28, May 19, June 2, June 9, 
+and June 16, 2019, should not have been included in Hermanstorfer’s AWW. Their 
+                                               
+34 Jacobson Transp. Co. v. Harris, 778 N.W.2d at 198 n.9. 
+35 Griffin Pipe Products v. Guarino, 663 N.W.2d at 866 (italicized emphasis 
+original) (bold and italicized emphasis added). 
+E-FILED                    CVCV066037 - 2024 APR 11 03:17 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 13 of 15
+
+inclusion was illogical, irrational, and wholly unjustified. The deputy 
+commissioner should have replaced them with weeks that were representative of 
+her customary workweek.    
+Hermanstorfer also contends that the deputy commissioner erred by 
+compensating her based upon a functional impairment. This was derived primarily 
+based upon his determination that Hermanstorfer was making more in her present 
+position with Lennox by comparing her AWW with her present earnings.36 The 
+court finds that since the AWW was not calculated correctly, the commissioner 
+must reevaluate its conclusion on this issue once Hermanstorfer’s AWW is 
+calculated correctly. Accordingly, the court finds this issue must likewise be 
+reexamined upon remand. 
+IT IS THEREFORE ORDERED the decision of the commissioner is 
+reversed. The court remands the case to the commissioner to determine 
+Hermanstorfer’s AWW in accordance with this opinion and to determine whether 
+her compensation should be based upon a functional impairment or an industrial 
+disability once her AWW is determined in accordance with section 85.36(6).  
+                                               
+36 Cert. Rec., Arb. Dec. at 9-10. 
+E-FILED                    CVCV066037 - 2024 APR 11 03:17 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 14 of 15
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV066037
+SHERYL HERMANSTORFER VS LENNOX INDUSTRIES ET
+AL
+Type:
+OTHER ORDER
+So Ordered
+Electronically signed on 2024-04-11 15:17:22
+E-FILED                    CVCV066037 - 2024 APR 11 03:17 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 15 of 15

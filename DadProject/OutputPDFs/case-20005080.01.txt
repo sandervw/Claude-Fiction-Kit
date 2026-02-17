@@ -1,0 +1,382 @@
+Case Number: 20005080.01
+Case Title:  FINNEGAN, MICHAEL V. N&M TRANSFER CO. INC.
+Doc Type:    Decision - Deputy
+Source:      Finnegan Michael-20005080.01D.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+MICHAEL FINNEGAN, 
+  : 
+ 
+ 
+  :  
+ 
+  File No. 20005080.01 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                  
+N & M TRANSFER CO., INC., 
+  : 
+ 
+ARBITRATION DECISION 
+ 
+ 
+  :                            
+ 
+Employer, 
+  : 
+ 
+ 
+  :                         
+and 
+ 
+  : 
+ 
+ 
+  : 
+TRAVELERS INDEMNITY CO. OF CT,   : 
+ 
+ 
+  : 
+        Head Note Nos: 1803.1, 2502 
+ 
+Insurance Carrier, 
+  : 
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+ 
+STATEMENT OF THE CASE 
+ 
+Claimant, Michael Finnegan, filed a petition in arbitration seeking workers’ 
+compensation benefits from N & M Transfer Co., Inc. (N & M), employer, and Travelers 
+Indemnity Company of CT, insurer, both as defendants.  This matter was heard on May 
+22, 2023, with a final submission date of August 1, 2023. 
+ 
+The record in this case consists of Joint Exhibit 1, Claimant’s Exhibits 1-6, 
+Defendants’ Exhibits A-B, and the testimony of claimant. 
+STIPULATIONS 
+The parties filed a hearing report at the commencement of the arbitration 
+hearing.  On the hearing report, the parties entered into various stipulations.  All of 
+those stipulations were accepted and are hereby incorporated into this arbitration 
+decision and no factual or legal issues relative to the parties’ stipulations will be raised 
+or discussed in this decision.  The parties are now bound by their stipulations. 
+ISSUES 
+1. The extent of claimant’s entitlement to permanent partial disability benefits. 
+ 
+2. Whether claimant is entitled to reimbursement for an independent medical 
+evaluation (IME) under Iowa Code section 85.39. 
+ 
+ELECTRONICALLY FILED     2023-Dec-04  13:48:20     DIVISION OF WORKERS' COMPENSATION
+
+FINNEGAN V. N & M TRANSFER CO., INC. 
+Page 2 
+ 
+FINDINGS OF FACT 
+ 
+Claimant was 63 years old at the time of hearing.  Claimant graduated from high 
+school.  He completed a truck driving course at a community college.  At the time of 
+hearing claimant still had a valid CDL.  (Hearing Transcript, pages 10-13) 
+ 
+Claimant has driven cement trucks and dump trucks.  He has worked as an over-
+the-road truck driver.  At the time of hearing, claimant had been working for N & M for 
+approximately 13 years.  (Tr., p. 11) 
+ 
+On April 20, 2020, claimant was making a delivery for N & M.  At the delivery, 
+claimant went to pull out the lift gate on his truck and felt a pop in his lower back.  (Tr., 
+p. 13) 
+ 
+Claimant was evaluated at Genesis Occupational Health on April 20, 2020.  
+Claimant had back pain with radicular pain into both legs.  He was assessed as having  
+lower back pain with radiculopathy.  (Claimant’s Exhibit 1, page 2) 
+ 
+On May 18, 2020, claimant had an MRI of the lumbar spine.  It showed multi-
+level degenerative changes with mild to moderate stenosis and foraminal narrowing.  
+(Ex. 1, pp. 3, 5) 
+ 
+On June 8, 2020, claimant was evaluated by Sanjay Sundar, M.D., an orthopedic 
+specialist.  A left sacroiliac joint injection was recommended.  (Ex. 1, p. 6)  On June 22, 
+2020, claimant had that injection.  (Ex. 1, p. 8)  On July 21, 2020, claimant had bilateral 
+sacroiliac joint injections.  (Ex. 1, p. 8)   
+ 
+On December 10, 2021, claimant underwent a diagnostic lumbar medial branch 
+block.  (Ex. 1, p. 6) 
+ 
+On January 6, 2022, claimant was evaluated by Myles Luszczyk, D.O.  Claimant 
+had back pain for approximately 2 years.  Dr. Luszczyk recommended against surgery.  
+(Ex. 1, pp. 6-7) 
+ 
+On January 12, 2022, claimant discussed implantation of a temporary spinal cord 
+stimulator (SCS) with Dr. Sundar.  (Ex. 1, p. 7) 
+ 
+On April 28, 2022, claimant had the temporary spinal cord stimulator placed.  
+(Ex. 1, p. 9) 
+ 
+Claimant said that in January 2021 he slipped on ice at an N & M terminal and 
+dislocated his shoulder.  Claimant had rotator cuff surgery for the injury.  He said he 
+was off work for approximately 8 months for the injury. The January 2021 slip and fall is 
+not at issue regarding the April 20, 2020, back injury.  (Tr., pp. 19-20) 
+ 
+On July 21, 2022, claimant had a permanent SCS placed.  (Ex. 1, p. 9) 
+ 
+On October 27, 2022, claimant underwent a functional capacity evaluation (FCE).  
+It found claimant gave a valid effort in testing.  Claimant was found to be able to work in 
+the heavy demand vocational category.  He was limited to lifting up to approximately 65 
+pounds occasionally floor to waist, and pushing and pulling up to 77 pounds 
+occasionally.  He was also limited to bilaterally carrying 53 pounds occasionally.  (Ex. 4) 
+
+FINNEGAN V. N & M TRANSFER CO., INC. 
+Page 3 
+ 
+ 
+In a November 30, 2022 letter, Dr. Sundar opined claimant could work full time.  
+He limited claimant to floor to waist lifting of 50 pounds occasionally and carrying 40 
+pounds occasionally.  (Ex. 3) 
+ 
+Claimant testified he returned to work in approximately October or November of 
+2022.  (Tr., p. 20) 
+ 
+In a May 4, 2023 report, Sunil Bansal, M.D., gave his opinions of claimant’s 
+condition following an IME.  Dr. Bansal found that claimant had a 12 percent permanent 
+impairment and fell into the DRE lumbar category III under the AMA Guides to the 
+Evaluation of Permanent Impairment (Fifth Edition).  He agreed with the permanent 
+restrictions advised by Dr. Sundar.  Dr. Bansal noted claimant would require 
+maintenance for the SCS.  (Ex. 1, pp. 13-14) 
+ 
+In an April 26, 2023 report, Camilla Frederick, M.D., gave her opinion of 
+claimant’s condition.  She found claimant had a 10 percent permanent impairment to the 
+body as a whole.  Dr. Frederick noted claimant’s radicular complaints were dramatically 
+reduced with the use of the SCS.  (Joint Exhibit 1, page 8) 
+ 
+Claimant testified that before his April 2020 back injury he worked days.  (Tr., p. 
+22)  He testified that since returning to work he has been placed on a job where he 
+drives at night.  (Tr., p. 25)  Claimant testified he would like to return to working days, 
+but his employer has not given him any reason why he continues to work at night.  (Tr., 
+pp. 27-28) 
+ 
+Claimant was released to return to work at full duty in October 2022.  (Tr., p. 30)  
+Claimant began a new line driving job beginning on November 8, 2022.  (Tr., pp. 30-31; 
+Defendants’ Exhibit A, page 3) 
+ 
+Claimant testified that before he returned to work he went to his employer 
+regarding finding a job within his work restrictions.  (Tr., p. 21)  Prior to his injury, 
+claimant worked for N & M as a “peddle driver.”  As a peddle driver, claimant was 
+required to lift.  Claimant testified he did not have to lift at every stop, but he was 
+required to lift occasionally as a peddle driver.  (Tr., p. 30)  Claimant worked days as a 
+peddle driver. 
+ 
+When claimant returned to work full time after his injury he was moved to a job as 
+a line driver.  The job requires claimant to drive a truck at night from N & M’s docks in 
+Eldridge, Iowa, to Neenah, Wisconsin.  Claimant said that as a line driver he is paid 
+$280.00 per night and was no longer paid per stop.  (Tr., pp. 28-29)  Claimant said the 
+line driver position does not require any lifting.  (Tr., pp. 30-31) 
+ 
+Claimant testified he was making more income before his injury than at the time 
+of hearing (because of the cost of living).  (Tr., p. 28)  He also testified at hearing that 
+his “. . . wages from when I got hurt have gone up.”  (Tr., p. 32) 
+ 
+As noted above, claimant began his line driving job on November 8, 2022.  His 
+first check for that period is dated November 18, 2022.  (Ex. A, p. 3)  From November 8, 
+2022, through March 31, 2023, claimant had the following earnings: 
+
+FINNEGAN V. N & M TRANSFER CO., INC. 
+Page 4 
+ 
+ 
+PAY DATE 
+GROSS WAGES 
+1 
+11/18/2022 
+$1,147.44 
+2 
+11/25/2022 
+$1,463.83 
+3 
+12/2/2022 
+$1,399.36 
+4 
+12/9/2022 
+$1,424.66 
+5 
+12/16/2022 
+$1,420.45 
+6 
+12/23/2022 
+$1,501.19 
+7 
+12/30/2022 
+$1,433.10 
+8 
+1/6/2023 
+$583.66 
+9 
+1/13/2023 
+$1,519.88 
+10 
+1/20/2023 
+$1,476.49 
+11 
+1/27/2023 
+$590.59 
+12 
+2/3/2023 
+$1,164.31 
+13 
+2/10/2023 
+$864.80 
+14 
+2/17/2023 
+$1,176.97 
+15 
+2/24/2023 
+$1,151.66 
+16 
+3/10/2023 
+$894.33 
+17 
+3/17/2023 
+$1,147.44 
+18 
+3/24/2023 
+$1,472.27 
+19 
+3/31/2023 
+$1,155.88 
+ 
+TOTAL 
+$22,988.31 
+ 
+CONCLUSIONS OF LAW 
+ 
+The first issue to be determined is the extent of claimant’s entitlement to 
+permanent partial disability benefits. 
+ 
+The party who would suffer loss if an issue were not established has the burden 
+of proving that issue by a preponderance of the evidence.  Iowa R. App. P. 6.904(3). 
+ 
+Iowa Code section 85.34(2)(v)(2017) provides, in relevant part:  
+ 
+If an employee who is eligible for compensation under this paragraph 
+returns to work or is offered work for which the employee receives or 
+would receive the same or greater salary, wages, or earnings than the 
+employee received at the time of the injury, the employee shall be 
+compensated based only upon the employee’s functional impairment 
+resulting from the injury, and not in relation to the employee’s earning 
+capacity.  
+ 
+ 
+One of the central issues in this case is whether claimant is to be awarded 
+permanent partial disability benefits for his neck injury as an industrial disability or as a 
+functional injury.  The parties agree claimant sustained a permanent disability from the 
+April 20, 2020, work injury.  Claimant contends he is not making the same or greater 
+wages than he was at the time of injury, and therefore should be compensated under an 
+industrial disability analysis.  Defendants contend claimant’s salary after the date of 
+
+FINNEGAN V. N & M TRANSFER CO., INC. 
+Page 5 
+ 
+injury is greater or equal to that before his injury, and therefore, claimant is to be 
+compensated under a functional analysis. 
+ 
+ 
+The parties stipulate that claimant’s average weekly wages prior to the date of 
+injury were $1,114.00 per week.  (Hearing Report)  Claimant’s average weekly wages 
+between November 13, 2022 through March 31, 2023, were approximately $1,209.91  
+($22,988.31 divided by 19). (Ex. A, pp. 3-21) 
+ 
+ 
+Claimant’s testimony regarding his post-injury earnings is ambiguous.  At hearing 
+claimant testified his wages since his injury have increased.  Given this record, claimant 
+has failed to carry his burden of proof that his earnings have decreased since his return 
+to work.  As a result, claimant’s injury is assessed as a functional loss under Iowa Code 
+section 85.34(2)(v). 
+ 
+ 
+Two experts have opined regarding claimant’s functional impairment.  Both 
+experts placed claimant in the DRE category III of the Guides.  Dr. Bansal evaluated 
+claimant once for an IME.  He found that claimant had a 12 percent permanent 
+impairment to the body as a whole due to his lumbar injury.  (Ex. 1, p. 13) 
+ 
+ 
+Dr. Frederick treated claimant for a period of time.  She opined that claimant had 
+a 10 percent permanent impairment to the body as a whole. (JE 1, p. 8) 
+ 
+ 
+Table 15-3 of the Guides allows for a finding of 10-13 percent permanent 
+impairment under the lumbar category DRE III.  Claimant’s credible testimony is that he 
+still has radicular symptoms due to his lower back condition.  Claimant had several 
+injections for his back condition.  He has an implanted spinal cord stimulator.  He has 
+lifting and carrying restrictions that have required him to work a night shift.  Given these 
+facts, it is found that Dr. Bansal’s functional rating is more convincing than that of Dr. 
+Frederick’s.  Claimant is due 60 weeks of permanent partial disability benefits (12 
+percent x 500 weeks). 
+ 
+ 
+The final issue to be determined is whether claimant is entitled to reimbursement 
+for the costs associated with Dr. Bansal’s IME.  Defendants indicated at hearing that 
+they believed that the IME had been paid.  (Tr., pp. 5-6)  Defendants did not dispute 
+liability for the IME.  Given this record, defendants shall reimburse claimant for costs 
+associated with Dr. Bansal’s IME.   
+ 
+ORDER 
+ 
+THEREFORE IT IS ORDERED: 
+ 
+That defendants shall pay claimant sixty (60) weeks of permanent partial 
+disability benefits at the rate of six hundred seventy-six and 37/100 dollars ($676.37) 
+per week commencing on October 6, 2022.  
+ 
+
+FINNEGAN V. N & M TRANSFER CO., INC. 
+Page 6 
+ 
+That defendants shall pay accrued weekly benefits in a lump sum together with 
+interest at an annual rate equal to the one-year treasury constant maturity published by 
+the federal reserve in the most recent H15 report settled as of the date of injury, plus 
+two percent.  
+That defendants shall be given credit for benefits previously paid. 
+That defendants shall reimburse claimant for costs associated with Dr. Bansal’s 
+IME. 
+That defendants shall file subsequent reports of injury as required by this agency 
+under Rule 876 IAC 3.1(2). 
+Signed and filed this __4th _ day of December, 2023. 
+ 
+ 
+The parties have been served, as follows: 
+William Bribriesco (via WCES) 
+ 
+Kevin Rutan (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal period 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+  
+ 
+  
+     JAMES F. CHRISTENSON 
+          DEPUTY WORKERS’ 
+ COMPENSATION COMMISSIONER 

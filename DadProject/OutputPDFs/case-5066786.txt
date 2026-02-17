@@ -1,0 +1,878 @@
+Case Number: 5066786
+Case Title:  PINCKNEY, DENNIS V. MILLS FLEET FARM
+Doc Type:    Decision - Deputy
+Source:      Pinckney Dennis-5066786D.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+DENNIS PINCKNEY, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                         File No. 5066786 
+MILLS FLEET FARM, 
+  : 
+ 
+ 
+  :                 ARBITRATION  DECISION 
+ 
+Employer, 
+  : 
+ 
+ 
+  : 
+and 
+ 
+  : 
+ 
+ 
+  : 
+SENTINEL INSURANCE 
+  : 
+COMPANY, 
+  : 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  :      Head Note Nos.:  1402.80, 1801.1, 1803 
+ 
+Defendants. 
+  :      2206, 2502, 2907 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Claimant, Dennis Pinckney, filed a petition in arbitration for workers’ 
+compensation benefits against Mills Fleet Farm, Inc., defendant employer, and Sentinel 
+Insurance Company, defendant insurer.  The undersigned heard this case on 
+December 10, 2019, in Des Moines, Iowa.   
+The parties filed a hearing report at the commencement of the hearing.  On the 
+hearing report, the parties entered into numerous stipulations.  Those stipulations were 
+accepted and no factual or legal issues relative to the parties’ stipulations will be made 
+or discussed.  The parties are now bound by their stipulations.   
+The evidentiary record includes Joint Exhibits 1 through 9, Claimant’s Exhibits 1 
+through 6, and Defendants’ Exhibits A through F.  Claimant testified on his own behalf.  
+Lisa Reitan, a representative from the defendant employer, also provided testimony.  
+The evidentiary record closed at the conclusion of the arbitration hearing.   
+Counsel for the parties requested the opportunity to file post-hearing briefs.  
+Their request was granted.  All parties filed their post-hearing briefs on January 28, 
+2020, at which time the case was deemed fully submitted to the undersigned.   
+ 
+ 
+ELECTRONICALLY FILED     2020-Jul-07  13:11:29     DIVISION OF WORKERS' COMPENSATION
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 2 
+ 
+ 
+ISSUES 
+The parties submitted the following disputed issues for resolution in File No. 
+5066786: 
+1. Whether the stipulated injury caused temporary disability and, if so, the extent of 
+claimant’s entitlement to temporary disability benefits, if any; 
+2. Whether the stipulated injury caused permanent disability and, if so, the nature 
+and extent of claimant’s entitlement to permanent disability benefits, if any;  
+3. Whether claimant is entitled to reimbursement for the medical expenses in 
+Exhibit 2, and, if awarded, the reasonableness of the independent medical 
+examination (IME) fees; 
+4. Whether claimant is entitled to reimbursement of an IME under Iowa Code 
+section 85.39 
+5. Whether claimant is entitled to an award of penalty benefits under Iowa Code 
+section 86.13; and 
+6. Costs. 
+FINDINGS OF FACT 
+Dennis Pinckney was born in May 1954, making him 65 years old on the date of 
+the evidentiary hearing.  (Hearing Transcript, page 8)  Mr. Pinckney did not graduate 
+from high school; however, he did obtain a High School Equivalency Certificate, or 
+GED.  (Hr. Tr., p. 36)  Claimant’s employment history largely consists of work as a 
+delivery driver for various companies.  (Exhibit 3, p. 11)  Claimant worked as a driver for 
+Victoria Cleaners from January 2007 to January 2015.  (Ex. B, p. 1)  In this role, 
+claimant would drive to various locations and pick-up or deliver items.  At hearing, 
+claimant testified he left Victoria Cleaners because the job required him to work too 
+many hours of overtime.  (Hr. Tr., p. 38)  A medical record from a prior workers’ 
+compensation claim reports claimant left Victoria Cleaners because he was unable to 
+pick up certain items due to his low back symptoms.  (See Ex. E, p. 1)  Claimant 
+subsequently worked a few months as a part-time delivery driver for Pizza Hut.  (Hr. Tr., 
+p. 39)  He would later accept a position with the defendant employer.   
+Pinckney began working as a part-time service technician in the automotive 
+department for the defendant employer on May 15, 2015.  (Hr. Tr., p. 9)  He transitioned 
+into full-time work approximately six months thereafter.  (Hr. Tr., p. 11)  Claimant’s job 
+duties consisted of servicing automobiles, which included changing oil, adjusting 
+alignments, installing various auto parts, and repairing various auto parts such as tires, 
+shocks, and exhausts.  (Hr. Tr., p. 9) 
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 3 
+ 
+ 
+On August 24, 2018, Pinckney was working for Mills Fleet Farm and engaged in 
+his normal job duties.   Claimant was lifting a large tire onto a machine when his back 
+“popped.”  (Hr. Tr., p. 14)  Pinckney reported the injury to his supervisor and finished out 
+his shift.  (Id.)  Defendants concede that Pinckney injured his low back as a result of 
+lifting the tire, but dispute whether claimant has proven he sustained a permanent injury. 
+(Hearing Report) 
+The next day, claimant presented to work and told the same supervisor he could 
+hardly walk.  Claimant filled out an injury report and requested medical treatment.  (Hr. 
+Tr., p. 15)  The injury report provides that claimant did not initially think much of the 
+injury, because it had been a “reoccurring incident.”  (Ex. 4, p. 20) 
+At hearing, claimant testified that the pain he experienced after the August 24, 
+2018, incident was in the same location as the pain he experienced following an injury 
+at Victoria Cleaners in November 2013.  (Hr. Tr., p. 46) 
+At this juncture, it is worth discussing claimant’s pre-existing low back treatment 
+and symptoms. 
+Medical records in evidence reflecting Pinckney’s pre-existing low back treatment 
+and symptoms date back to 2006. (See JE2, p. 6; JE3, p. 1)  While the actual report is 
+not in evidence, medical records reference the fact claimant obtained an MRI of his 
+lumbar spine in August 2006.  (See JE2, p. 6; JE3, p. 1)   
+Claimant sustained a prior injury to his lumbar spine while working for Victoria 
+Cleaners in November 2013.  (Hr. Tr., p. 40; See Ex. E)  On the date of injury, claimant 
+and a co-worker were picking up a cast iron sewing machine when claimant felt a “pop” 
+in his low back.  (Ex. E, p. 2)  Claimant experienced immediate pain in his low back that 
+he described as a tight, burning sensation.  (Id.)  Initially, claimant was diagnosed with a 
+lumbar strain.  His authorized treating physician prescribed him medication and referred 
+him to physical therapy.  (Id.)  Despite complaints of ongoing pain, claimant’s treating 
+physician discharged him from medical treatment in December 2013.  (Ex. E, p. 3)   
+On or about July 19, 2014, claimant aggravated his low back condition while 
+loading some landscaping bricks into his truck.  (Hr. Tr., p. 42; See Ex. E, p. 3)  On 
+July 21, 2014, claimant also noticed an increase in pain and numbness down his lower 
+extremity after lifting an 80-pound bag at work.  (JE2, p. 1)  Claimant complained of 
+bilateral low back pain and numbness in his foot.  (Id.)  At hearing, claimant testified he 
+experienced pain in his low back, buttocks, and bilateral lower extremities following the 
+July 2014 incident.  (Hr. Tr., p. 49) 
+An MRI, dated August 11, 2014, revealed mild midline disk herniation at L1-L2, a 
+small extruded disk herniation at L3-L4, and a broad based, left-sided disc protrusion at 
+L4-L5 that produced mild mass effect on the budding left L5 nerve root.  (Id.) 
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 4 
+ 
+ 
+Claimant presented to David Hatfield, M.D. for an orthopedic evaluation on 
+August 21, 2014.  He continued to describe low back, bilateral buttock, and left leg pain.  
+(JE4, p. 2)  Claimant’s pain diagram depicts the feeling of numbness/tingling down the 
+left lower extremity, with burning, numbness/tingling in the bilateral feet.  (JE4, p. 6)  
+Claimant relayed that his pain was sharp, burning, and constant throughout the day.  
+(Id.)  Dr. Hatfield documented a positive straight leg raise, bilaterally.  (Id.)  Dr. Hatfield 
+did not feel claimant was a surgical candidate at the time.  Instead, he recommended 
+epidural steroid injections (ESI); however, claimant did not pursue the same.  (See JE4, 
+p. 1)  At hearing, claimant confirmed Dr. Hatfield offered him epidural steroid injections.  
+(Hr. Tr., p. 67) 
+Between August 2014 and May 2015, claimant regularly presented for 
+chiropractic treatments in Altoona, Iowa.  (See Ex. E, p. 3) 
+Claimant presented to Robin Sassman, M.D. for an IME on May 13, 2015.  (Ex. 
+E, p. 1)  He described pain in his low back, left hip, groin, and left testicle.  (Ex. E, p. 4)  
+Claimant told Dr. Sassman that he is never pain free.  (Id.)  Claimant was not operating 
+under any restrictions at the time of his examination; however, he did relay that he self-
+restricted his lifting.  (Id.)  Dr. Sassman diagnosed claimant with low back pain with 
+radiculopathy, and MRI evidence of disk herniation at L1-L2, L3-L4, and L4-L5.  (Ex. E, 
+p. 6)  Like Dr. Hatfield, Dr. Sassman recommended claimant pursue epidural steroid 
+injections through a pain management specialist.  (Id.)  Dr. Sassman further opined that 
+if the ESI was ineffective, claimant should pursue a second opinion from a 
+neurosurgeon due to the multiple levels of herniation and his ongoing symptoms.  (Id.)  
+In terms of permanent impairment, Dr. Sassman assigned 18 percent impairment to the 
+whole person for deficits in range of motion and multiple disk herniations.  (Ex. E, p. 7)  
+For permanent restrictions, Dr. Sassman recommended claimant limit lifting, pushing, 
+pulling, and carrying to 20 pounds, rarely, from floor-to-waist, 20 pounds, occasionally, 
+from waist to shoulder, and 20 pounds, rarely, above shoulder height.  Dr. Sassman 
+also recommended that claimant limit sitting, standing, and walking to an occasional 
+basis.  (Id.)   
+At hearing, claimant could not recall whether Dr. Sassman recommended 
+permanent restrictions in 2015.  (Hr. Tr., p. 55)  In any event, it does not appear as 
+though claimant adopted or adhered to the recommendations contained in Dr. 
+Sassman’s IME report.  
+Claimant ultimately settled his workers’ compensation claim for the November 
+2013 work injury on a compromise settlement basis in January 2016.  (Ex. D)  
+Returning to the matter at hand, defendants initially authorized medical treatment 
+through Concentra Occupational Health; however, because Concentra was not open on 
+Saturday, August 25, 2018, defendants authorized medical treatment through 
+Broadlawns Medical Center.  (Hr. Tr., p. 16; See JE6, p. 1)  
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 5 
+ 
+ 
+Lisa Klock, D.O., of Broadlawns administered a Toradol injection and ordered x-
+rays of claimant’s lumbar spine.  The x-rays revealed degenerative changes, but no 
+other acute abnormalities.  (JE6, p. 3) 
+Claimant presented to Carlos Moe, D.O. of Concentra on August 28, 2018.  (See 
+JE7)  Dr. Moe prescribed physical therapy and returned claimant to work with 
+restrictions of no lifting or pushing greater than 10 pounds, no bending at the waist, and 
+no kneeling.  (JE7, p. 10)   
+Dr. Moe continued to treat claimant throughout September and part of October 
+2018.  (See JE7, pp. 4-72)  In total, claimant presented for 6 medical appointments with 
+Dr. Moe and 11 physical therapy appointments.  (Hr. Tr., pp. 19-20; See JE7)  Claimant 
+consistently reported low back pain and decreased range of motion throughout his 
+course of treatment.  (See JE7, pp. 6, 18-19, 22-23, 26-27, 30-31, 36-37, 41-42, 53-54, 
+57-58, 63, 66, 70)  The majority of the Concentra medical records in evidence are from 
+physical therapy.    
+While it does not appear the incident resulted in a material aggravation, it is 
+worth noting that at his September 11, 2018, physical therapy appointment, claimant 
+relayed that he had recently attempted to lift a tire at his home and experienced an 
+aggravation of his low back pain.  Claimant acknowledged that such an activity fell 
+outside of his 10-pound lifting restriction.  (JE7, p. 26) 
+On September 21, 2018, claimant presented to physical therapy with 4/10 pain in 
+the lumbar spine.  Claimant told his physical therapist that this was his “normal 
+soreness.”  (JE7, p. 45)  Claimant reported that he was often sore following work.  
+Claimant’s physical therapist explained to claimant that such soreness was rather 
+normal and expected.  (Id.)   
+On September 24, 2018, claimant again reported 4/10 pain and provided this 
+was his usual level of pain “from years ago.”  (JE7, p. 49) 
+Claimant last presented to Dr. Moe on October 15, 2018.  (JE7, p. 66)  At this 
+final visit, claimant continued to complain of pain, tenderness, and decreased range of 
+motion with some radicular symptoms down the left lower extremity.  (Id.)  At claimant’s 
+request, Dr. Moe referred him for an independent evaluation to assess his current status 
+and need for permanent work restrictions.  (JE7, p. 67)   
+On February 8, 2019, claimant presented to Todd Harbach, M.D. for an 
+orthopedic evaluation.  (JE8, p. 1)  Dr. Harbach diagnosed claimant with lower back 
+pain, lumbar spondylosis, and left lower extremity pain.  (Id.)  Following his examination, 
+Dr. Harbach ordered an MRI of claimant’s lumbar spine.  (Id.) 
+The MRI, dated March 6, 2019, revealed loss of disk height at L1-L2, L2-L3, and 
+L3-L4, posterior high intensity zones indicative of annular tears at L3-L4 and L4-L5, and 
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 6 
+ 
+ 
+a small posterior disk bulge to the right at L3-L4 that could be compressing the exiting 
+right L4 nerve root.  (See JE8, p. 6) 
+Claimant returned to Dr. Harbach on March 11, 2019.  Claimant continued to 
+complain of pain with activity; however, he noted that working part-time was helping to 
+improve his pain.  After reviewing claimant’s MRI, Dr. Harbach opined claimant had 
+reached a plateau in his treatment and placed claimant at maximum medical 
+improvement (MMI).  At hearing, claimant confirmed he reported minimal complaints to 
+Dr. Harbach in March 2019.  (Hr. Tr., p. 67)  Dr. Harbach released claimant to full duty 
+work, without restrictions, on March 20, 2019.  (JE8, p. 6)  Dr. Harbach opined,  
+I would not recommend he get into a manual labor-type job where he does 
+heavy, heavy lifting because of his age and the normal degeneration of his 
+lumbar spine.  His work or any work is not responsible for normal 
+degeneration but work can aggravate that degeneration.  His work could 
+have done that and he is now recovered to his baseline with just minimal 
+discomfort. 
+(Id.)  At hearing, claimant testified he continued to experience issues within his 
+low back at the time Dr. Harbach released him to full duty work.  (Hr. Tr., p. 23)   
+Two days after his release, claimant applied for a part-time position as a delivery 
+driver at Hy-Vee.  (Ex. C, p. 1; Hr. Tr., p. 62)  Claimant testified he was hired 
+immediately.  (Hr. Tr., p. 61)  On his application for employment, claimant provided that 
+he would have no problems being on his feet for extended periods of time, or repeatedly 
+bending and lifting.  Claimant further provided he could meet the physical expectations 
+of the job.  (Ex. C, p. 3)   
+Claimant terminated his employment with the defendant employer, citing 
+“[r]etirement” and “better pay,” on March 21, 2019.  (Hr. Tr., pp. 34, 60, 82)  His last day 
+of work for the defendant employer was March 16, 2019.  Ms. Reitan testified claimant 
+did not indicate he was terminating his employment as a result of issues related to his 
+back injury.  (Hr. Tr., p. 82)  Ms. Reitan also testified claimant’s regular, full-time position 
+would have been available to him had he not quit on March 21, 2019.  (Hr. Tr., pp. 83-
+84) 
+As a delivery driver, claimant loads and unloads a van with food and delivers said 
+food to customers.  (Hr. Tr., p. 35)  He works alone.  (Hr. Tr., p. 65)  The physical 
+requirements of the delivery driver position include the ability to perform medium work, 
+“occasionally lifting or carrying objects of no more than 50 pounds, with frequent 
+standing, walking, and lifting/carrying of objects of no more than 25 pounds.”  (Ex. C, 
+p. 5) 
+Claimant continues to work 25 hours per week at Hy-Vee.  (Hr. Tr., p. 34)  He is 
+meeting all of the physical expectations of his position.  (Hr. Tr., p. 64)  He plans to 
+continue working for Hy-Vee indefinitely.  (Hr. Tr., pp. 43-44) 
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 7 
+ 
+ 
+There is some dispute as to whether claimant personally notified the defendant 
+employer of Dr. Harbach’s release to full-duty work.  Claimant asserts he provided the 
+medical release to the defendant employer, and the defendant employer did not offer to 
+return him to his full-duty position.  Defendants assert claimant did not provide the 
+medical release to the defendant employer and instead sought out and obtained 
+alternative employment.  Defendants imply claimant had no motivation to return to his 
+full-time, full duty position given his voluntary transfer to the gate guard position, and his 
+decision to seek a different part-time job through Hy-Vee.  Defendants further assert 
+that claimant would have been able to return to his full duty position if they were aware 
+of the medical release, assuming claimant wanted to return to the same.    
+Dr. Harbach’s medical release was generated and signed on March 12, 2019.  
+(See JE8, p. 6)  Claimant did not specifically testify that he provided this particular 
+medical release to the defendant employer; however, he did testify he brought 
+paperwork to his supervisor after every medical appointment.  (Hr. Tr., p. 24)  The 
+parties appear to agree that the claims adjustor received the medical release at some 
+point in time; however, they disagree as to when the adjustor received the report.  
+Claimant asserts the adjustor would have received the medical release immediately, 
+while defendants assert the adjustor did not receive the medical release until March 20, 
+2019, when the document shows it was faxed from Dr. Harbach’s office.  (See JE8, p. 
+6)   
+Presumably, this dispute arises out of the 2017 amendment to Iowa Code section 
+85.34, providing injured workers are only entitled to payment of their functional 
+impairment if they return to work or are offered work for which they will receive or would 
+receive the same or greater wages than they received at the time of the injury.  If 
+claimant was not offered a return to his full duty position, an argument would exist that 
+he is entitled to industrial disability benefits. 
+Outside of independent medical examinations, claimant did not present for any 
+additional medical treatment related to his low back condition between March 20, 2019, 
+and the date of the evidentiary hearing.  (Hr. Tr., p. 24)  Claimant is not currently 
+presenting for any medical treatment related to his low back condition.  He does not 
+have any plans to seek additional treatment at this time.  He is not taking any 
+prescription or over-the-counter medications for pain.  (Hr. Tr., p. 66) 
+Claimant relies upon the medical opinion of Sunil Bansal, M.D., in support of his 
+claim that he sustained permanent disability as a result of the stipulated low back injury 
+on August 24, 2018.  
+Claimant presented for an independent medical examination, conducted by Dr. 
+Bansal, on September 25, 2019.  (Ex. 1, p. 1)  Claimant continued to complain of low 
+back pain, with radiating pain into his left lower extremity and foot.  (Ex. 1, p. 4)  
+Claimant reported the ability to sit for one hour.  He provided he walks all day at work 
+and can lift 30 pounds.  (Id.)  Dr. Bansal diagnosed claimant with annular tears and disc 
+bulging at L3-L4 and L4-L5.  (Ex. 1, p. 6)  He agreed with Dr. Harbach that claimant 
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 8 
+ 
+ 
+reached MMI on March 11, 2019.  (Id.)  Dr. Bansal assigned five percent (5%) 
+impairment to the body as a whole and recommended a 30-pound permanent lifting 
+restriction.  (Ex. 1, p. 7)  Dr. Bansal further recommended claimant avoid frequent 
+bending, twisting, and prolonged sitting greater than 30 minutes at a time.  (Id.) 
+Dr. Bansal’s report includes a summary of the medical records he reviewed prior 
+to reaching his ultimate conclusions.  The summary does not include the August 2006 
+MRI, the August 2014 MRI, or any medical records pertaining to the November 2013 
+and July 2014 injuries.  (See Ex. 1, pp. 1-4)  The report does, however, detail that 
+claimant had previously injured his back after lifting a cast-iron object.  (Ex. 1, p. 5)  The 
+report goes on to provide that claimant received chiropractic treatment, but no injections 
+or surgical intervention.  (Id.)  The report provides claimant’s pain resolved with 
+chiropractic manipulations.  (Id.) 
+Claimant’s annular tears and disc bulging at L3-L4 and L4-L5 were objectively 
+present on claimant’s pre-existing MRI report, dated August 11, 2014.  Dr. Bansal’s 
+report does not address how the August 24, 2018, work injury materially aggravated or 
+worsened claimant’s annular tears and disc bulges at L3-L5; his report does not 
+address the 2014 MRI report at all.  Rather, Dr. Bansal attributes the annular tears and 
+disc bulging to the August 24, 2018, work injury.  Moreover, Dr. Bansal incorrectly 
+believed claimant’s 2013 and 2014 symptoms resolved following chiropractic treatment.  
+At hearing, claimant acknowledged that he occasionally experienced problems within 
+his low back prior to August 24, 2018.  (Hr. Tr., p. 60)  Due to the fact Dr. Bansal did not 
+have an opportunity to review claimant’s pre-existing medical records, I find Dr. Bansal’s 
+report is based on an inaccurate or incomplete medical history.   
+Additionally, the evidentiary record does not support a finding that the restrictions 
+recommended by Dr. Bansal accurately reflect claimant’s physical capabilities.  
+Claimant certified on his job application that he was capable of performing all essential 
+functions.  Claimant continues to perform work as a delivery driver for Hy-Vee Catering, 
+which requires him to occasionally lift and carry up to 50 pounds, and frequently stand, 
+walk, lift, and carry objects up to 25 pounds.  (Ex. C, p. 5)  He is able to perform all of 
+the essential functions of his job and claimant plans to continue working for Hy-Vee as 
+long as they will have him.  For these reasons, I decline to adopt the permanent 
+restrictions recommended by Dr. Bansal.  
+Due to the fact Dr. Bansal’s medical opinions are based on an inaccurate or 
+incomplete medical history, and because I find Dr. Bansal’s restrictions do not 
+accurately reflect claimant’s capabilities, I do not find Dr. Bansal’s report to be 
+persuasive.   
+It is clear claimant sustained an injury to his low back on August 24, 2018.  This 
+much is stipulated to on the hearing report.  In order to prove he sustained permanent 
+disability as a result of the August 24, 2018, work injury, claimant had to show that his 
+pre-existing condition was materially and permanently aggravated by the August 24, 
+2018, work injury.  I find claimant failed to do so.  When considering the evidentiary 
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 9 
+ 
+ 
+record as a whole, I find claimant sustained a temporary flare-up of his pre-existing low 
+back condition on August 24, 2018.   
+Mr. Pinckney asserts a claim for temporary partial disability (TPD) benefits 
+between September 1, 2018, and March 11, 2019.  (Ex. 5, p. 37)  Exhibit 5 provides 
+sufficient evidence of TPD benefits owed.  I find claimant is entitled to TPD benefits for 
+the time period of September 1, 2018, to October 27, 2018, provided in Exhibit 5. 
+Mr. Pinckney asserts a claim for temporary partial disability benefits between 
+November 12, 2018, and March 11, 2019, based on the fact he sustained a temporary 
+partial reduction in his earning ability after he was transitioned from a full-time position 
+to a part-time position.  Defendants essentially contend Pinckney was offered light duty 
+work consistent with his medical restrictions, but claimant declined the offered work by 
+voluntarily transitioning to a part-time position.  In order to be compensable, the 
+temporary reduction in earning ability must be a result of the work injury.   
+The defendant employer was able to accommodate claimant’s restrictions.    
+Claimant’s light duty work consisted of working as an advisor at the front of the auto 
+service center on a full-time basis.  (Hr. Tr., pp. 79-80)  As an advisor, claimant 
+answered phones and scheduled appointments for customers.  (Hr. Tr., pp. 29-30)  
+Defendants elected to pay claimant his pre-injury rate of pay. (See Hr. Tr., p. 29)  
+Claimant testified the advisor position was stressful.  (Hr. Tr., p. 30)   
+Effective November 12, 2018, the defendant employer transferred claimant to the 
+part-time position of gate guard.  (Hr. Tr., pp. 31-32)  As a part-time gate guard, 
+claimant worked approximately 26 hours per week.  Due to the change to part-time 
+work, claimant lost his full-time benefits and received significantly less money.  (Hr. Tr., 
+p. 31)  Claimant worked as a gate guard for the remainder of his time with the defendant 
+employer.  (Hr. Tr., p. 33)   
+The parties dispute how it came to be that claimant was transferred to the gate 
+guard position.  According to claimant, the transfer was an involuntary one, made by 
+management.  (Hr. Tr., p. 30)  Claimant testified that he, “asked them if there was 
+anyplace else [he could work].”  (Id.)  Claimant implies he was assigned to work the 
+gate guard position and he then asked if there were any other positions he could move 
+into.   
+Lisa Reitan, the human resources business partner for the defendant employer, 
+provided a different rendition of how it came to be that claimant was transferred to a 
+part-time position.  According to Ms. Reitan and the defendant employer, claimant 
+asked if there was “anyplace else” he could work other than the auto shop.  More 
+specifically, Ms. Reitan provided,  
+[Claimant] approached my office, said he had talked to his auto service 
+center manager Mat Miner saying that he wanted to step to a part-time 
+position.  However, there were no part-time positions in the auto service 
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 10 
+ 
+ 
+center at that time, so the only part-time position that we had at that time 
+was a gate guard position.  I gave him the job description, let him know 
+that the pay would be decreased and that his benefits would stop as a full-
+time employee. 
+(Hr. Tr., p. 80)  Ms. Reitan testified that the defendant employer did not, in any fashion, 
+direct, coordinate, or begin the discussions regarding claimant’s change to a part-time 
+position. (Hr. Tr., pp. 80-81)  Ms. Reitan further testified that claimant’s personnel record 
+would only have contained paperwork memorializing a change in claimant’s job status if 
+the change in job status was involuntary. (Hr. Tr., pp. 86-87)  The only document in the 
+evidentiary record referencing a change in position provides, “As your employment with 
+Fleet Farm has changed from Full-Time to Part-Time, please see the following 
+allocation of benefits.”  (Ex. 4, p. 22)  In a perfect world, the defendant employer would 
+include documentation explaining the reasoning behind all changes of employment.  
+Clearly, that did not happen in this situation. 
+After reviewing the evidentiary record and considering all testimony provided, I 
+find claimant’s transition to the part-time gate guard position was likely voluntary.  
+Ms. Reitan provided clear and convincing testimony regarding the events that preceded 
+claimant’s transition to part-time employment.  In contrast, claimant did not address how 
+it came to be that he was being transferred, only that he was in fact transferred and that 
+it was at management's discretion.  Claimant was not positive he received the letter 
+documenting the transition and its impact on his full-time benefits.  Claimant did not 
+expressly dispute that the conversation between claimant and Ms. Reitan occurred.  He 
+did, however, provide testimony that implied some form of communication occurred 
+between he and management.  On cross-examination, claimant’s attorney did not 
+address the alleged conversation with Ms. Reitan.  Claimant was not called to rebut the 
+testimony of Ms. Reitan.  
+While it is undisputed claimant made less money in the part-time gate guard 
+position, it is claimant who bears the burden of proving the reduction in earnings was 
+causally related to the work injury.  Claimant failed to carry that burden in this matter.  I 
+found claimant failed to prove his transition to part-time employment was involuntary.  I 
+further find claimant failed to prove the reduction in earnings he experienced after 
+November 11, 2018, was a result of the work injury.  There is little to no evidence 
+claimant was incapable of completing the job duties assigned to him in the full-time 
+advisor position.  There is no evidence claimant sought a transfer due to ongoing pain 
+or discomfort resulting from his light duty position.  For these reasons, I find claimant 
+failed to carry his burden of proving entitlement to temporary partial disability benefits 
+between November 12, 2018, and March 11, 2019. 
+Based on the testimony provided at hearing, defendants no longer dispute 
+liability for the Broadlawns medical bill contained in Exhibit 2. 
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 11 
+ 
+ 
+For reasons that will be discussed in the Conclusions of Law section, I find 
+claimant is entitled to reimbursement for Dr. Bansal’s IME report under Iowa Code 
+section 85.39.   
+Claimant demonstrated a denial, delay in payment, or termination in benefits.  
+Claimant is entitled to penalty benefits for the unreasonable delay in paying TPD 
+benefits between September 1, 2018, and October 28, 2018. 
+CONCLUSIONS OF LAW 
+The parties have stipulated that claimant sustained a work-related injury on 
+August 24, 2018.  The initial dispute between the parties is whether claimant’s 
+August 24, 2018, stipulated work injury resulted in temporary disability.   
+Following the August 24, 2018, work injury, claimant was assigned a light duty 
+position.  Claimant continued to work on a full-time basis.  He received the same rate of 
+pay he was earning prior to the August 24, 2018, work injury.  (Hr. Tr., p. 29)  Claimant 
+held this light duty position until November 11, 2018.  Although claimant was working on 
+a full-time basis and receiving his pre-injury rate of pay, it cannot be said claimant was 
+capable of returning to substantially similar employment during this time. 
+An employee is entitled to appropriate temporary partial disability benefits during 
+those periods in which the employee is temporarily, partially disabled.  An employee is 
+temporarily, partially disabled when the employee is not capable of returning to 
+employment substantially similar to the employment in which the employee was 
+engaged at the time of the injury, but is able to perform other work consistent with the 
+employee's disability.  Temporary partial benefits are not payable upon termination of 
+temporary disability, healing period, or permanent partial disability simply because the 
+employee is not able to secure work paying weekly earnings equal to the employee's 
+weekly earnings at the time of the injury.  Iowa Code section 85.33(2). 
+Claimant seeks temporary partial disability benefits from September 1, 2018, 
+through March 11, 2019. 
+Claimant produced no evidence of the actual hours he worked for the week of 
+September 1, 2018.  Claimant either failed to seek or failed to include the necessary 
+documentation to establish his claim for TPD benefits for the week of September 1, 
+2018.  Claimant did, however, produce evidence of his hours worked and total earnings 
+for pay periods ending on September 29, 2018; October 13, 2018; and October 27, 
+2018.  Claimant earned less than his average weekly wage during these time periods.  I 
+find claimant’s TPD calculations to be correct for the abovementioned pay periods.  I 
+find claimant has established entitlement to TPD benefits for pay periods ending on 
+September 29, 2018; October 13, 2018; and October 27, 2018. 
+With respect to all pay periods between November 12, 2018, and March 11, 
+2019, I found claimant failed to produce convincing evidence that his transition to 
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 12 
+ 
+ 
+part-time employment was involuntary.  The party who would suffer loss if an issue were 
+not established has the burden of proving that issue by a preponderance of the 
+evidence.  Iowa R. App. P. 6.14(6).  Therefore, claimant had the burden to establish 
+entitlement to the temporary partial disability benefits he now seeks.  I did not find 
+claimant’s testimony regarding his transition to part-time work convincing.  Instead, I 
+found claimant voluntarily requested a transfer to part time work as testified to by 
+Ms. Reitan.  As such, I find claimant failed to establish entitlement to any temporary 
+disability benefits between November 12, 2018, and March 11, 2019. 
+The next issue to be decided in this case is whether claimant’s August 24, 2018, 
+injury resulted in permanent disability.   
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke's Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995). 
+While a claimant is not entitled to compensation for the results of a preexisting 
+injury or disease, its mere existence at the time of a subsequent injury is not a defense.  
+Rose v. John Deere Ottumwa Works, 247 Iowa 900, 76 N.W.2d 756 (1956).  If the 
+claimant had a preexisting condition or disability that is materially aggravated, 
+accelerated, worsened or lighted up so that it results in disability, claimant is entitled to 
+recover.  Nicks v. Davenport Produce Co., 254 Iowa 130, 115 N.W.2d 812 (1962); 
+Yeager v. Firestone Tire & Rubber Co., 253 Iowa 369, 112 N.W.2d 299 (1961). 
+The parties stipulated to claimant sustaining an injury arising out of and in the 
+course of employment on August 24, 2018.  (Hearing Report, File No. 5066786).  As a 
+result of this injury, defendants authorized treatment with Dr. Moe of Concentra Medical 
+Center.  (JE7)  At claimant’s request, Dr. Moe referred claimant to orthopedic specialist, 
+Dr. Harbach.  Dr. Harbach placed claimant at MMI for his August 24, 2018, injury, on 
+March 11, 2019.  (JE8, p. 6)  Dr. Harbach opined claimant’s work for the defendant 
+employer is not responsible for normal degeneration.  He further opined the August 24, 
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 13 
+ 
+ 
+2018, work injury could have aggravated the pre-existing condition; however, in his 
+opinion, claimant had recovered and returned to baseline.  (Id.)  I understand this to be 
+an opinion that claimant’s injury was temporary in nature.    
+Dr. Harbach’s opinion is consistent with the evidentiary record as a whole.   
+Like the injury claimant sustained in November 2013, claimant experienced a 
+“pop” in his low back after lifting a heavy item.  Claimant received conservative 
+treatment, including physical therapy.  Approximately one month after the August 24, 
+2018, injury, claimant presented to physical therapy reporting “normal soreness” and his 
+usual level of pain “from years ago.”  (JE7, pp. 45, 49)  Claimant’s physical therapist 
+relayed that such soreness was rather normal and to be expected.  (JE7, p. 45)  The 
+March 6, 2019, MRI report revealed annular tears at L3-L4 and L4-L5, and a small 
+posterior disc bulge to the right at L3-L4.  (JE8, p. 6)  While there is no expert opinion 
+addressing the similarities between the two MRI reports, the findings of the 2019 MRI 
+report appear to be substantially similar to the 2014 MRI report.  (Compare JE8, p. 6 
+with JE3, pp. 1-2)   
+Claimant was placed at MMI on March 11, 2019.  Shortly thereafter, claimant 
+presented for an IME with Dr. Bansal.  Dr. Bansal diagnosed claimant with annular tears 
+and disc bulging at L3-L4 and L4-L5.  (Ex. 1, p. 6)  In May 2015, Dr. Sassman 
+diagnosed claimant with low back pain with radiculopathy and MRI evidence of disk 
+herniation at L1-L2, L3-L4, and L4-L5.  (Ex. E, p. 6)  In the same May 2015 report, Dr. 
+Sassman assigned 18 percent impairment to the whole person as a result of claimant’s 
+low back condition, and recommended permanent restrictions.  Dr. Sassman provided 
+claimant should limit lifting, pushing, pulling, and carrying to 20 pounds from floor-to-
+waist, rarely, 30 pounds from waist-to-shoulder, occasionally, and 20 pounds above 
+shoulder height, rarely.  (Ex. E, p. 7)  In 2019, Dr. Bansal assigned 5 percent 
+impairment to the whole person and recommended a blanket 30-pound permanent 
+lifting restriction.  (Ex. 1, p. 7) 
+Claimant was not a surgical candidate following the November 2013 and July 
+2014 injuries, and no physician has opined claimant became a surgical candidate 
+following the August 24, 2018, work injury.   
+The undersigned is cognizant of the fact claimant obtained a full-time, full-duty 
+position with the defendant employer following the November 2013 and July 2014 
+injuries.  The undersigned is also cognizant of the fact there is no evidence in the record 
+to show claimant had any difficulties completing his job duties for the defendant 
+employer between his date of hire and August 24, 2018.  This is the strongest evidence 
+that claimant sustained a permanent injury on August 24, 2018.  That being said, 
+claimant was released without restrictions on March 11, 2019.  He has not presented for 
+medical care related to his low back since that time.  Three days after being released 
+without restrictions, claimant filled out a job application asserting he had “no problems” 
+with being on his feet for extended periods of time, repetitive bending, or repetitive 
+lifting.  (Ex. C, p. 3)  Claimant’s current position requires him to lift between 25 and 50 
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 14 
+ 
+ 
+pounds.  (Ex. C, p. 5)  At hearing, claimant testified he is meeting all of the physical 
+expectations of his position.  (Hr. Tr., p. 64)  While it is true claimant’s current position is 
+part-time, it is also true that claimant did not test his ability to return to his full-time, full-
+duty position with the defendant employer.  Moreover, he did not test his ability to return 
+to full-time employment with any employer.  Claimant applied for and accepted a part-
+time position with Hy-Vee with the knowledge that he had been released to return to 
+work without restrictions.     
+Dr. Bansal is the only physician in the evidentiary record to provide claimant 
+sustained permanent disability as a result of the August 24, 2018, work injury.  I found 
+Dr. Bansal’s IME report was based on an incomplete medical history and his permanent 
+restrictions do not accurately reflect claimant’s physical capabilities.  As such, I reject 
+the opinions of Dr. Bansal in this case.   
+Instead, I find the opinions of Dr. Harbach persuasive on the issue of whether 
+claimant sustained permanent disability as a result of the August 24, 2018, work injury.  
+As explained above, Dr. Harbach’s opinion is consistent with the evidentiary record as a 
+whole.  Having found the opinions of Dr. Harbach most convincing, by a preponderance 
+of the evidence, I found claimant failed to carry his burden of proving the August 24, 
+2018, injury resulted in permanent disability.   
+I specifically find that Mr. Pinckney has a long-standing, deteriorating spine 
+condition in his low back.  He has had ongoing symptoms in his low back and lower 
+extremities since at least November 2013.  I find that claimant has not proven the 
+August 24, 2018, work injury caused or materially aggravated his pre-existing low back 
+condition.  Mr. Pinckney likely experienced a temporary increase in symptoms 
+subsequent to the lifting injury on August 24, 2018.  After approximately one month, 
+claimant’s pain had returned to normal levels. 
+Mr. Pinckney seeks an order requiring defendants to reimburse his independent 
+medical examination fees pursuant to Iowa Code section 85.39.  Section 85.39 permits 
+an employee to be reimbursed for subsequent examination by a physician of the 
+employee's choice where an employer-retained physician has previously evaluated 
+permanent disability and the employee believes that the initial evaluation is too low.  
+Defendants are responsible only for reasonable fees associated with claimant's 
+independent medical examination.  Claimant has the burden of proving the 
+reasonableness of the expenses incurred for the examination.  See Schintgen v. 
+Economy Fire & Casualty Co., File No. 855298 (Appeal April 26, 1991). 
+The Iowa Workers' Compensation Commissioner has noted that the Iowa 
+Supreme Court adopted a strict and literal interpretation of Iowa Code section 85.39 
+in Des Moines Area Regional Transit Authority v. Young, 867 N.W.2d 839 (Iowa 2015).  
+See Cortez v. Tyson Fresh Meats. Inc., File No. 5044716 (Appeal December 2015).  
+The Commissioner has taken a similar strict interpretation of the pre-requisites set forth 
+in Iowa Code section 85.39.  See Reh v. Tyson Foods, Inc., File No. 5053428 (Appeal 
+March 2018). 
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 15 
+ 
+ 
+Prior to the court's decision in Young, this agency had held that a release to 
+full-duty work coupled with the failure to expressly opine as to impairment produces an 
+inference that the employer-retained physician did not believe the injured worker 
+sustained permanent impairment related to the injury.  Countryman v. Des Moines 
+Metro Transit Authority, File No. 5009718 (App. March 16, 2006); Kuntz v. Clear Lake 
+Bakery, File No. 1283423 (Rehearing July 13, 2004). 
+The supreme court's decision in Young, as well as several recent appeal 
+decisions, support a finding that said inference is no longer applicable to open the door 
+for injured workers to obtain a section 85.39 examination.  Instead, there must be a 
+definitive permanent impairment rating rendered by a physician selected by the 
+defendants before the injured worker qualifies for an independent medical evaluation 
+pursuant to Iowa Code section 85.39. 
+In cases where defendants have denied liability, the commissioner has 
+concluded that medical opinions or reports obtained for the purposes of determining 
+causation, regardless of whether they are obtained from a treating or expert physician, 
+are not the equivalent of an impairment rating for purposes of Iowa Code section 85.39.  
+See Reh, File No. 5053428 (App. March 2018); Soliz v. Farmland Foods, Inc., File 
+No. 5047856 (App. March 2018). 
+In cases where defendants have accepted liability but have not obtained an 
+impairment rating, the commissioner has concluded that a release to full-duty work and 
+placement at MMI, coupled with a failure to expressly opine as to impairment, is not the 
+equivalent of an impairment rating for purposes of Iowa Code section 85.39.  Sainz v. 
+Tyson Fresh Meats, Inc., File No. 5053964 (App. September 2018).   
+Defendants still have an obligation, in the course of their ongoing duty to 
+investigate an injured worker's claim, to inquire into the extent of permanent impairment 
+following the end of a healing period.  See Moffitt v. Estherville Foods, Inc., File Nos. 
+5029474, 5029475, and 5029476 (App. September 21, 2011).  Failure to make such an 
+inquiry can result in the assessment of penalty benefits.  See Stroud v. Square D, File 
+No. 5013498 (App. June 21, 2006). 
+If defendants unduly delay in seeking an examination under section 85.39, or fail 
+to obtain an evaluation of permanent impairment altogether, the supreme court has held 
+that the injured worker's recourse is a request to the commissioner to appoint an 
+independent physician to examine the injured worker and make a report.  See Young, 
+867 N.W.2d 839, 845 (Iowa 2015); Iowa Code section 86.38.  In practice, the looming 
+threat of penalty benefits for failure to investigate the extent of permanent impairment, 
+once communicated, should encourage timely action. 
+If an injured worker wants to be reimbursed for the expenses associated with a 
+disability evaluation by a physician selected by the worker, the process established by 
+the legislature must be followed. This process permits the employer, who must pay the 
+benefits, to make the initial arrangements for the evaluation and only allows the 
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 16 
+ 
+ 
+employee to obtain an independent evaluation at the employer's expense if dissatisfied 
+with the evaluation arranged by the employer. Young, at 847 (citing Iowa Code § 85.39) 
+In this case, there is clear evidence that claimant requested to be seen by an 
+independent physician for a disability evaluation. (JE7, p. 71)  Pursuant to claimant’s 
+request, the authorized treating physician referred claimant for an “Independent Medical 
+Exam.” (Id.)  At the time Dr. Moe referred claimant to Dr. Harbach, defendants had 
+accepted claimant’s low back injury as compensable.  It cannot be said that defendants 
+referred claimant to Dr. Harbach for purposes of obtaining a causation opinion.  By 
+scheduling claimant for an appointment with Dr. Harbach, the defendants “[made] the 
+initial arrangements for the evaluation.” Young, at 847 (citing Iowa Code § 85.39)  
+Claimant, dissatisfied with the evaluation arranged by the employer, presented to 
+Dr. Bansal for an independent evaluation.  This case is distinguishable from Sainz, as 
+claimant definitively requested an IME from defendants prior to seeking his own 
+independent evaluation, he was not simply released by his authorized treating 
+physician.  Claimant took an active role in securing a disability evaluation from the 
+defendant employer.  While the disability evaluation did not result in an impairment 
+rating, this does not change the substance of the evaluation.   
+Therefore, I conclude that claimant met his burden of establishing entitlement to 
+reimbursement of Dr. Bansal's independent medical examination fees pursuant to Iowa 
+Code section 85.39.  I further find defendants failed to provide convincing evidence that 
+Dr. Bansal’s IME fees are unreasonable.  As such, I find Dr. Bansal’s IME fees are 
+reasonable.   
+The next issue for determination is whether claimant is entitled to penalty 
+benefits under Iowa Code section 86.13 and, if so, how much.   
+Iowa Code section 86.13(4) provides: 
+a. If a denial, a delay in payment, or a termination of benefits 
+occurs without reasonable or probable cause or excuse known to the 
+employer or insurance carrier at the time of the denial, delay in payment, 
+or termination of benefits, the workers' compensation commissioner shall 
+award benefits in addition to those benefits payable under this chapter, or 
+chapter 85, 85A, or 85B, up to fifty percent of the amount of benefits that 
+were denied, delayed, or terminated without reasonable or probable cause 
+or excuse. 
+b. The workers' compensation commissioner shall award benefits 
+under this subsection if the commissioner finds both of the following facts: 
+(1) The employee has demonstrated a denial, delay in 
+payment, or termination in benefits. 
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 17 
+ 
+ 
+(2) The employer has failed to prove a reasonable or probable 
+cause or excuse for the denial, delay in payment, or termination of 
+benefits. 
+c. In order to be considered a reasonable or probable 
+cause or excuse under paragraph “b”, an excuse shall satisfy all of the 
+following criteria: 
+(1) The excuse was preceded by a reasonable investigation 
+and evaluation by the employer or insurance carrier into whether 
+benefits were owed to the employee. 
+(2) The results of the reasonable investigation and evaluation 
+were the actual basis upon which the employer or insurance carrier 
+contemporaneously relied to deny, delay payment of, or terminate 
+benefits. 
+(3) The employer or insurance carrier contemporaneously 
+conveyed the basis for the denial, delay in payment, or termination of 
+benefits to the employee at the time of the denial, delay, or termination 
+of benefits. 
+In Christensen v. Snap-on Tools Corp., 554 N.W.2d 254 (Iowa 1996), and Robbennolt 
+v. Snap-on Tools Corp., 555 N.W.2d 229 (Iowa 1996), the supreme court said: 
+Based on the plain language of section 86.13, we hold an employee is 
+entitled to penalty benefits if there has been a delay in payment unless the 
+employer proves a reasonable cause or excuse.  A reasonable cause or 
+excuse exists if either (1) the delay was necessary for the insurer to 
+investigate the claim or (2) the employer had a reasonable basis to 
+contest the employee's entitlement to benefits.  A “reasonable basis” for 
+denial of the claim exists if the claim is “fairly debatable.”  
+Christensen, 554 N.W.2d at 260. 
+An issue of law is fairly debatable if viable arguments exist in favor of each party.  
+Covia v. Robinson, 507 N.W.2d 411 (Iowa 1993).  An issue of fact is fairly debatable if 
+substantial evidence exists which would support a finding favorable to the employer.  
+Gilbert v. USF Holland, Inc., 637 N.W.2d 194 (Iowa 2001). 
+An employer's bare assertion that a claim is fairly debatable is insufficient to 
+avoid imposition of a penalty.  The employer must assert facts upon which the 
+commissioner could reasonably find that the claim was “fairly debatable.”  Meyers v. 
+Holiday Express Corp., 557 N.W.2d 502 (Iowa 1996). 
+The employer's failure to communicate the reason for the delay or denial to the 
+employee contemporaneously with the delay or denial is not an independent ground for 
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 18 
+ 
+ 
+imposition of a penalty.  Keystone Nursing Care Center v. Craddock, 705 N.W.2d 299 
+(Iowa 2005). 
+If the employer fails to show reasonable cause or excuse for the delay or denial, 
+the commissioner shall impose a penalty in an amount up to 50 percent of the amount 
+unreasonably delayed or denied.  Christensen v. Snap-on Tools Corp., 554 N.W.2d 254 
+(Iowa 1996).  The factors to be considered in determining the amount of the penalty 
+include the length of the delay, the number of delays, the information available to the 
+employer and the employer's past record of penalties.  Robbennolt, 555 N.W.2d at 238. 
+By this decision, the undersigned determined claimant is entitled to TPD benefits.  
+At the time of the evidentiary hearing, defendants had paid no TPD benefits to claimant.  
+As such, unpaid benefits exist.  Claimant has established a delay in payment of benefits 
+as required by section 86.13(4). 
+Pursuant to section 86.13(4)(b)(2), the burden therefore shifts to defendants to 
+establish a reasonable or probable cause or excuse for the delay.  Section 86.13(4)(c) 
+sets forth the elements defendants must satisfy in order to establish the existence of a 
+reasonable or probable cause or excuse for the delay.   
+In their post-hearing brief, defendants maintain that claimant is not entitled to 
+TPD benefits.  Defendants offer no other argument regarding penalty.  Defendants 
+failed to establish the existence of a reasonable or probable cause or excuse for their 
+delay.  As such, penalty benefits are warranted on this basis.  Penalty benefits are 
+applicable for the TPD benefits in question at the rate of 50 percent.  Fifty (50) percent 
+of $327.91 is $163.96.   
+The final issue for determination is a specific taxation of costs pursuant to Iowa 
+Code section 86.40 and rule 876 IAC 4.33.  
+Claimant requests taxation of the cost of the filing fee ($100.00).  Defendants 
+concede liability for the cost of the filing fee ($100.00).   
+ORDER 
+Defendants shall pay claimant temporary partial disability benefits from 
+September 29, 2018, through October 27, 2018, for a combined total amount of three 
+hundred twenty-seven and 91/100 dollars ($327.91), as set forth in Claimant’s Exhibit 5, 
+page 36.   
+The employer and insurance carrier shall pay accrued weekly benefits in a lump 
+sum together with interest payable at an annual rate equal to the one-year treasury 
+constant maturity published by the federal reserve in the most recent H15 report settled 
+as of the date of injury, plus two percent, as required by Iowa Code section 85.30. 
+Defendants have agreed to pay the outstanding Broadlawns medical bill 
+contained in Exhibit 2.   
+
+PINCKNEY V. MILLS FLEET FARM 
+Page 19 
+ 
+ 
+Defendants shall reimburse claimant for Dr. Bansal's independent medical 
+evaluation pursuant to Iowa Code section 85.39 in the amount of two thousand six 
+hundred forty-one and 00/100 dollars ($2,641.00). 
+Defendants shall pay claimant penalty benefits in the amount of one hundred 
+sixty-three and 96/100 dollars ($163.96). 
+Defendants shall reimburse claimant costs totaling one hundred and 00/100 
+dollars ($100.00). 
+Pursuant to rule 876 IAC 3.1(2), defendants shall file subsequent reports of injury 
+as required by this agency. 
+Signed and filed this        7th       day of July, 2020. 
+ 
+ 
+                MICHAEL J. LUNN 
+ 
+ 
+ 
+ 
+ 
+ 
+                          DEPUTY WORKERS’ 
+ 
+ 
+ 
+ 
+ 
+             COMPENSATION COMMISSIONER 
+The parties have been served, as follows: 
+Thomas A. Palmer (via WCES) 
+Lee Pomeroy Hook (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party 
+appeals within 20 days from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa 
+Administrative Code.  The notice of appeal must be filed via Workers’ Compensation Electronic 
+System (WCES) unless the filing party has been granted permission by the Division of Workers’ 
+Compensation to file documents in paper form.  If such permission has been granted, the notice 
+of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa 
+Division of Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  
+The notice of appeal must be received by the Division of Workers’ Compensation within 20 days 
+from the date of the decision.  The appeal period will be extended to the next business day if the 
+last day to appeal falls on a weekend or legal holiday. 

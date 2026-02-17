@@ -1,0 +1,284 @@
+Case Number: 5043612
+Case Title:  STREIT, KENNY V. STREIT CONSTRUCTION INC
+Doc Type:    Decision - Court of Appeals
+Source:      Streit, Kenny-5043612.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 19-0615 
+Filed November 4, 2020 
+ 
+ 
+KENNETH HENRY STREIT, 
+ 
+Plaintiff-Appellant, 
+ 
+vs. 
+ 
+STREIT CONSTRUCTION, INC. and EMC INSURANCE COMPANIES, 
+ 
+Defendants-Appellees. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Webster County, Thomas J. Bice, 
+Judge.   
+ 
+ 
+The employee appeals from the district court’s review of the workers’ 
+compensation commissioner ruling finding the employee failed to establish his 
+injury arose out of and in the course of his employment.  REVERSED AND 
+REMANDED. 
+ 
+ 
+Jerry L. Schnurr III of Schnurr Law Firm, P.C., Fort Dodge, for appellant. 
+ 
+Matthew A. Grotnes of Hopkins & Huebner, P.C., Des Moines, for 
+appellees. 
+ 
+ 
+Considered by Tabor, P.J., and May and Greer, JJ.
+
+ 
+2
+GREER, Judge.   
+ 
+Kenneth Streit petitioned for workers’ compensation benefits, alleging his 
+2012 MRSA1 infection arose out of and in the course of his employment.2  His 
+employer, Streit Construction, Inc.,3 and his employer’s insurance company, EMC 
+Insurance Companies, denied liability, and the matter proceeded to a contested 
+hearing. 
+ 
+The deputy commissioner entered a ruling in October 2015, noting that 
+Streit’s petition was “based on the assertion he suffered cuts and scrapes while 
+doing construction work, which resulted in him contracting a MRSA infection” and 
+concluding Streit met this burden to prove he sustained a work injury.  According 
+to the deputy, “Wherever claimant was exposed to MRSA, it has been established 
+it entered [Streit’s] body through the work-related cuts and scrapes.  That is what 
+makes his MRSA infection a work-related injury.”   
+ 
+In December 2016, the commissioner reversed the deputy’s ruling, finding 
+Streit “failed to carry his burden of proof that he sustained an injury arising out of 
+and in the course of his employment on October 13, 2012.”  In reaching this 
+conclusion, the commissioner quoted extensively from the report of Dr. John 
+                                                          
+1 MRSA stands for Methicillin-resistant Staphyloccus aureau, a group of Gram-
+positive bacteria common in hospitals, prisons, and nursing homes, where people 
+with open wounds, invasive devices such as catheters, and weakened immune 
+systems are at greater risk of hospital-acquired infection.  MRSA: General 
+Information, 
+Ctrs. 
+for 
+Disease 
+Control 
+& 
+Prevention, 
+https://www.cdc.gov/mrsa/community/index.html (last visited Oct. 13, 2020).  
+2 At about the same time he learned he had contracted MRSA, Streit began 
+experiencing pain in his back and his right leg.  He alleges his ongoing back 
+condition relates to the MRSA infection.    
+3 Kenneth Streit owns Streit Construction, Inc., but he receives an hourly wage for 
+the hours he worked.  He has worked reduced hours since he contracted MRSA. 
+
+ 
+3
+Kuhnlein.  Dr. Kuhnlein offered what amounted to a legal opinion on causation; he 
+asserted that Streit had to prove he acquired MRSA—not just the cuts and scrapes 
+into which MRSA entered his body—from the work site to “close the causation 
+loop.”  According to Dr. Kuhnlein, which the commissioner cited approvingly: 
+To say that [Streit] had open wounds while working therefore his 
+MRSA is work-related is insufficient, as the other half of the argument 
+is missing. 
+ 
+ . . . It must be shown that he was exposed to the MRSA in 
+some work environment, or at least was in an environment where it 
+was more likely than not that such work related exposure occurred 
+in appropriate fashion. 
+ 
+ 
+On judicial review, the district court found the commissioner erred in his 
+interpretation of a provision of law.  See Iowa Code § 17A.19(10)(c) (2018) (“The 
+court shall reverse . . . if it determines that substantial rights of the person seeking 
+judicial relief have been prejudiced because the agency action is . . . [b]ased upon 
+an erroneous interpretation of a provision of law whose interpretation has not 
+clearly been vested by a provision of law in the discretion of the agency.”).  Streit 
+alleged he suffered an on-the-job injury; Iowa Code chapter 85 controls recovery 
+for a workers’ compensation injury,4 and Iowa Code chapter 85A controls recovery 
+for occupational diseases.5  The district court concluded the commissioner, relying 
+                                                          
+4 “In order to qualify for workers’ compensation benefits under chapter 85, the 
+employee must demonstrate ‘(1) the claimant suffered a “personal injury,” (2) the 
+claimant and the respondent had an employer-employee relationship, (3) the injury 
+arose out of the employment, and (4) the injury arose in the course of the 
+employment.’”  IBP, Inc. v. Burress, 779 N.W.2d 210, 214 (Iowa 2010) (citation 
+omitted).   
+5 “[T]o recover under chapter 85A, ‘the disease must be causally related to the 
+exposure to harmful conditions of the field of employment,’ and ‘those harmful 
+conditions must be more prevalent in the employment concerned than in everyday 
+life or in other occupations.’”  Burress, 779 N.W.2d at 214 (citation omitted).  “The 
+term ‘exposure’ in this context involves a passive relationship between the worker 
+
+ 
+4
+on Dr. Kuhnlein’s assertion that Streit “must first prove he was exposed to MRSA 
+in the workplace,” incorrectly applied the causation standard for occupational 
+diseases rather than the standard for injuries.  The district court found that the 
+commissioner treated “Streit’s MRSA as an occupational disease rather than an 
+injury.”  In other words, the court determined it was error to require Streit to prove 
+exposure to the harmful conditions (MRSA) of the field of employment to meet his 
+burden of establishing injury causation; instead, the question was whether the 
+injuryarose out of and in the course of employment under chapter 85.  Based on 
+this error, the district court remanded the case to the commissioner to apply the 
+correct law in deciding whether Streit proved his injury arose out of and in the 
+course of his employment.   
+ 
+On remand to the commissioner, the commissioner again found that Streit 
+had not met his burden to show his injury was work-related.  In this stage, the 
+commissioner summarized the factual findings by detailing the medical evidence 
+submitted in the case.  Then, in the conclusions of law, the commissioner stated, 
+“The first issue to be determined, on remand, is whether claimant carried his 
+burden of proof he sustained an injury, under Chapter 85, that arose out of and in 
+the course of employment.”  Focusing on the MRSA condition, the commissioner 
+concluded that Streit “failed to carry his burden of proof his alleged MRSA condition 
+arose out of and in the course of employment.”  The commissioner noted, “In this 
+case, three experts have opined there is insufficient evidence claimant contracted 
+                                                          
+and his work environment rather than an event or occurrence or series of 
+occurences which constitute injury.”  Perkins v. HEA of Iowa, Inc., 651 N.W.2d 40, 
+43 (Iowa 2002). 
+
+ 
+5
+MRSA at work,” and “[t]here is no evidence [Streit] came into contact with MRSA 
+at work.  The record actually suggests [he] may have come in to contact with MRSA 
+at home.”  So, Streit argues, when applying the facts to law, the commissioner 
+again applied the chapter 85A standard, instead of requiring Streit to show whether 
+the disease could be an injury.  See Perkins, 651 N.W.2d at 43–44 (noting a 
+disease can be an injury when “the germs gain entrance through a scratch or 
+through unexpected or abnormal exposure to infection”).  And, in the remand 
+decision of the commissioner there were no factual findings made as to whether 
+the cuts and scratches were an injury from the job site and the MRSA was a 
+sequela6 of that injury.   
+ 
+On judicial review the second time, the district court affirmed the 
+commissioner, applying the same standard the commissioner had on remand.  The 
+district court stated: 
+[Streit’s] “best case” evidence concerning establishing a nexus 
+between the MRSA and his work comes from a report authored by 
+Dr. Comstock.  In his report, Dr. Comstock states, “ . . . the 
+overwhelming possibility is that the illness arose out of his working 
+conditions.” (Emphasis added.).  Other physicians offering reports 
+explicitly deny any demonstrable relationship between the MRSA 
+infection and Mr. Streit’s workplace, particularly as to a specific time 
+and date. 
+ 
+Of importance to the Court is [Streit’s] failure to cite to an Iowa 
+case in which an employee was awarded benefits for an injury-based 
+infection or disease where the source of the infection was not present 
+on the job site. . . .  There is no evidence [Streit] came in contact with 
+MRSA at work.  Here, [Streit] has failed to carry his burden of proof 
+that his MRSA infection arose out of and in the course of his 
+employment. 
+ 
+                                                          
+6 “The workers’ compensation commission has defined ‘sequela’ as ‘an after effect 
+or secondary effect of an injury.’”  Huffey v. Second Injury Fund of Iowa, No. 18-
+2055, 2020 WL 1548490, at *1 n.1 (Iowa Ct. App. Apr. 1, 2020) (citation omitted).  
+
+ 
+6
+(First alteration in original.) 
+ 
+ 
+Streit appealed.  He argues the commissioner made an error at law on 
+remand when he required Streit to prove exposure to MRSA at the work site to 
+prove injury causation.  In response, his employer argues that case law requires 
+that the work site be the source of the infection to prove a work-related injury.  In 
+the alternative, the employer argues we can affirm because, even if the source of 
+the MRSA is irrelevant, we could find that Streit failed to prove the scrapes and 
+cuts by which MRSA entered his body occurred in the course of his employment. 
+ 
+Our analysis is short.  The scope of review in cases arising out of the Iowa 
+Administrative Procedures Act is limited to the corrections of errors at law.  Foods, 
+Inc. v. Iowa Civil Rights Comm’n, 318 N.W.2d 162, 165 (Iowa 1982).  A district 
+court decision rendered in an appellate capacity is reviewed to determine whether 
+the district court correctly applied the law.  Id.   
+ 
+So here we apply the standards of section 17A.19(8) to the agency action 
+to determine whether our conclusions are the same as the district court’s.  Jackson 
+Cnty. Pub. Hosp. v. Pub. Emp. Rels. Bd., 280 N.W.2d 426, 429–30 (Iowa 1979).  
+We broadly construe the commissioner’s findings to uphold, rather than defeat the 
+commissioner’s decision.  Second Injury Fund v. Hodgins, 461 N.W.2d 454, 456 
+(Iowa 1990).  We must examine whether the commissioner’s conclusions are 
+supported by substantial evidence in the record made before the agency when the 
+record is viewed as a whole.  Second Injury Fund of Iowa v. Bergeson, 526 N.W.2d 
+543, 546 (Iowa 1995).  But, the agency’s findings of fact are binding on the 
+appellate court if supported by substantial evidence in the record as a whole.  
+Suluki v. Emp. Appeal Bd., 503 N.W.2d 402, 404 (Iowa 1993).  Finally, we are not 
+
+ 
+7
+bound by an agency’s interpretation of statutes or legal conclusions.  See Gaffney 
+v. Dep’t of Emp. Servs., 540 N.W.2d 430, 433 (Iowa 1995).   
+ 
+But, our review is complicated by the law-of-the-case doctrine and a 
+question about the commissioner’s findings of fact.  See New Midwest Rentals, 
+LLC v. Iowa Dep’t of Commerce, Alcoholic Beverages Div., 910 N.W.2d 643, 650 
+(Iowa Ct. App. 2018) (concluding that with no appeal from the first district court 
+determination of law, that decision was binding on both the agency and on any 
+further appeals in the same case).  Still, we see no reason for the employer to 
+appeal the legal determination that chapter 85, not chapter 85A, applied to the 
+case as it was the correct legal conclusion.  The missing step complicating our 
+review comes at the fact-finding stage. 
+ 
+Finding that the MRSA exposure did not occur at the job site, we still have 
+no conclusive answer from the commissioner about whether Streit proved that the 
+cuts and scrapes occurred at the worksite as a work injury and whether the MRSA 
+is a sequela of that work injury.  In the first decision, the commissioner determined 
+ 
+But in the decision on remand, under the appropriate statutory standard, there 
+were no factual findings related to the determination of the cuts or abrasions as a 
+work injury.  With that question unanswered, a substantial evidence review of the 
+
+ 
+8
+decision is inapplicable.  See Meyer v. IBP, Inc., 710 N.W.2d 213, 218-19 (Iowa 
+2006).  As a result, we must find that the agency action is unreasonable and 
+illogical.  See Iowa Code § 17A.19(10)(i), (j), (m); JBS Swift & Co. v. Hedberg, 873 
+N.W.2d 276, 281 (Iowa Ct. App. 2015).  “When the commissioner fails to consider 
+all the evidence, the appropriate remedy is ‘remand for the purpose of allowing the 
+agency to re-evaluate the evidence’ unless the facts are established as a matter 
+of law.”  Hedberg, 873 N.W.2d at 281 (citation omitted); see also Meyer, 710 
+N.W.2d at 225 (stating the remedy for failure to consider all evidence “is to remand 
+the case for a decision by the commissioner on the existing record”); Huffey, 2020 
+WL 1548490, at *5 (finding a remand necessary for the agency to evaluate the 
+conflicting expert testimony on the sequela issue).   
+ 
+But even so, Streit’s employer argues we can resolve the question of 
+causation by affirming on alternative grounds that Streit’s scrapes and cuts that 
+allowed the MRSA to enter his body were not sustained at work.  As noted above, 
+whether Streit obtained the cuts and scrapes at work is a fact question, which is 
+left to the commissioner.  See Arndt v. City of LeClaire, 728 N.W.2d 389, 394–95 
+(Iowa 2007) (“It is the commissioner’s duty as the trier of fact to determine the 
+credibility of witnesses, weigh the evidence, and decide the facts in issue.”).  And 
+the commissioner made no such finding. 
+ 
+Finally, Streit asks that we reinstate the ruling of the deputy commissioner 
+rather than reverse and remand to the commissioner again.  See Iowa Code 
+§ 17A.19(10) (“The court may affirm the agency action or remand to the agency 
+for further proceedings.  The court shall reverse, modify, or grant other appropriate 
+relief from agency action . . . if it determines the substantial rights of the person 
+
+ 
+9
+seeking judicial relief have been prejudiced . . . .” (emphasis added)).  Streit has 
+not provided, and we have not found, any case law where this remedy has been 
+given.   
+ 
+We reverse and remand to the commissioner to consider whether Streit 
+proved (1) Streit suffered cuts or scrapes at work and (2) the MRSA infection is a 
+sequela of cuts or scrapes he suffered at work.     
+ 
+REVERSED AND REMANDED.   
+ 

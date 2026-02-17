@@ -1,0 +1,221 @@
+Case Number: 21005075.01
+Case Title:  HORNE, BERNARD V. UNITED TECHNOLOGIES CORPORATION/2ND INJ-FUND
+Doc Type:    Decision - District Court
+Source:      Ruling on Petition for Judicial Review 050724.pdf
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+BERNARD HORNE, 
+ 
+         Petitioner, 
+ 
+vs. 
+ 
+UNITED TECHNOLOGIES CORP., 
+NEW HAMPSHIRE INSURANCE CO., 
+SECOND INJURY FUND OF IOWA, 
+ 
+         Respondents. 
+ 
+      
+Case No. CVCV065936 
+ 
+ 
+ 
+RULING ON PETITION FOR  
+JUDICIAL REVIEW  
+ 
+ 
+This matter came before the Court on March 8, 2024. The Petitioner, Bernard Horne 
+(“Horne”), was represented at the hearing by Nathan Willems and Emily Schott Hood. The 
+Respondent, Second Injury Fund of Iowa (“Fund”), was represented by Sarah Timko. After 
+hearing the arguments of counsel, reviewing the court file, the briefs filed by both parties and the 
+Certified Administrative Record, the Court now enters the following ruling.  
+I. 
+BACKGROUND FACTS AND PROCEEDINGS. 
+ 
+On September 5, 2019, Horne was unloading file cabinets from shipping pallets as an 
+assembly line operator at United Technologies Corporation (“UTC”). Pet. Brief 3. Horne picked 
+up a file cabinet and stepped away from the pallet holding the cabinet, he stepped in between the 
+slats of the pallet and lost his balance. Id. As a result, Horne experienced sharp pain on the right 
+side of his neck, his right shoulder, and his right elbow along with burning on the right side of his 
+neck. Id. From September 2019 to April 2022, Horne sought medical treatment with numerous 
+medical providers for his September 5, 2019 work-related injuries. Arb. Dec. 3-9. One such 
+medical treatment included an arthroscopic rotator cuff repair of the subscapularis tendon, 
+debridement of a supraspinatus tear, arthroscopic SLAP repair, and arthroscopic biceps tenodesis 
+of the right shoulder performed by Dr. David Hart on April 19, 2021. Id. at 8. Dr. Hart opined that 
+E-FILED                    CVCV065936 - 2024 MAY 07 10:58 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 7
+ELECTRONICALLY FILED     2024-May-10  14:20:49     DIVISION OF WORKERS' COMPENSATION
+
+2 
+ 
+Horne had a type II SLAP tear and partial rotator cuff repairs, subscapularis and supraspinatus of 
+the right shoulder. Id. 
+ 
+Horne underwent an independent medical examination (“IME”) with Dr. Mark Taylor on 
+February 21, 2022. Arb. Dec. 10. In relation to his work injury, Dr. Taylor diagnosed Horne with 
+a prior extension of pain into the right upper extremity down to the elbow, right-sided lateral 
+epicondylitis, improved, right-sided rotator cuff tears of the supraspinatus and subscapularis, a 
+SLAP tear with rotator cuff repair, SLAP repair and biceps tenodesis. Arb. Dec. 10. He concluded 
+that Horne’s right elbow injury was directly and causally related to the September 5, 2019, work 
+injury and that Horne reached maximum medical improvement on December 22, 2021. Id. at 11.  
+ 
+On May 26, 2021, Horne filed a petition before the Iowa Workers’ Compensation 
+Commissioner alleging that he (1) sustained an injury to his right upper extremity during the course 
+of his employment with UTC, and (2) sustained a second qualifying injury eligible for Fund 
+benefits.1 Arb. Dec. 1. The case was heard by the Deputy Commissioner who ruled, in part, that 
+Horne had a permanent impairment of his right shoulder and right arm, arising out of a single 
+accident on September 5, 2019. Rehearing Dec. 1. The Deputy also found that the right arm portion 
+of Horne’s injury was a qualifying second loss entitling Horne to Fund benefits. Arb. Dec. 21-22. 
+The appeal confirmed the arbitration decision on June 29, 2023. Rehearing Dec. 1. 
+ 
+The Fund filed an application for rehearing asserting that prior agency case law holds that 
+permanent impairment of an arm and shoulder injury, arising out of a single incident, is not 
+compensable as a scheduled member injury, but is compensable under Iowa Code Section 
+85.34(2)(v) Id. The Commissioner reversed his prior decision on the basis that Horne failed to 
+carry his burden of proof to establish that he sustained a second qualifying injury for purposes of 
+                                                          
+1 The parties stipulated that Horne sustained a first qualifying loss to his right leg on January 2, 2019. 
+E-FILED                    CVCV065936 - 2024 MAY 07 10:58 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 7
+
+3 
+ 
+Fund benefits on July 31, 2023. Arb. Dec. 3. The Commissioner reached this conclusion by relying 
+on the decision of Anderson v. Bridgestone Americas, Inc., which found that disability to two 
+members from one injury could only be compensated under subsection (v). Rehearing Dec. 2 
+(citing Anderson v. Bridgestone Americas, Inc., File No. 5067475 (Iowa Worker’s Comp. Comm. 
+Sept. 2, 2021), aff’d, CVCV063124 (Polk Cnty. Dist. Ct., Aug. 3, 2022)). 
+ 
+On August 17, 2023, Horne filed a Petition for Judicial Review in the District Court. Horne 
+argues the Commissioner erred in finding he failed to prove a second qualified injury and was not 
+entitled to Second Injury Fund benefits.  
+II. 
+SCOPE AND STANDARD OF REVIEW. 
+ 
+The Iowa Administrative Procedure Act, Iowa Code Chapter 17A, governs the scope of the 
+Court’s review in workers' compensation cases. Iowa Code § 86.26; Meyer v. IBP, Inc., 710 
+N.W.2d 213, 218 (Iowa 2006). A party challenging agency action bears the burden of 
+demonstrating the action's invalidity and resulting prejudice. Iowa Code § 17A.19(8)(a). The 
+Petitioner is claiming error with the agency’s interpretation of the law; therefore, the question on 
+review is whether the agency’s interpretation was erroneous. See Meyer, 710 N.W.2d at 219. If the 
+error was erroneous, the court may substitute its interpretation for the agency’s. Id. (citing Clark 
+v. Vicorp Rests., Inc., 696 N.W.2d 596 (Iowa 2005)). The Court is not bound by an agency’s legal 
+conclusions and may correct misapplications of the law. Ginsburg v. Iowa Dept of Transp., 508 
+N.W.2d 663, 664 (Iowa 1993); Sallis v. Employment Appeal Bd., 437 N.W.2d 895, 896 (Iowa 
+1989). Ultimately, the workers' compensation law should be liberally construed to accomplish the 
+object and purpose of the legislation: to benefit the worker and his dependents. Dillinger v. City of 
+Sioux City, 368 N.W.2d 176, 180 (Iowa 1985). 
+ 
+E-FILED                    CVCV065936 - 2024 MAY 07 10:58 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 7
+
+4 
+ 
+III. 
+MERITS. 
+ 
+The issue before this Court is whether Horne’s injury to his right upper extremity is a 
+second qualifying injury under Iowa Code Section 85.64(1).2 
+ 
+Iowa Code Section 85.64(1) states: 
+If an employee who has previously lost, or lost the use of, one hand, one arm, one foot, one 
+leg, or one eye, becomes permanently disabled by a compensable injury which has resulted 
+in the loss of or loss of use of another such member or organ, the employer shall be liable 
+only for the degree of disability which would have resulted from the latter injury if there 
+had been no pre-existing disability. In addition to such compensation, and after the 
+expiration of the full period provided by law for the payments thereof by the employer, the 
+employee shall be paid out of the “Second Injury Fund ” created by this division the 
+remainder of such compensation as would be payable for the degree of permanent disability 
+involved after first deducting from such remainder the compensable value of the previously 
+lost member or organ. 
+ 
+Second Inj. Fund of Iowa v. George, 737 N.W.2d 141, 146 (Iowa 2007) (alteration in original).  
+ 
+To successfully claim Second Injury Fund benefits, a claimant needs to prove, “(1) the 
+employee has either lost, or lost the use of[,] a hand, arm, foot, leg, or eye; (2) the employee 
+sustained the loss, or loss of use of[,] another such member…through a work related…injury; and 
+(3) there must be some permanent disability from the injuries.” Second Inj. Fund of Iowa v. Shank, 
+516 N.W.2d 808, 812 (Iowa 1994); Anderson v. Second Inj. Fund of Iowa, 262 N.W.2d 789, 790 
+(Iowa 1978). Both the first and second injuries must be scheduled injuries to invoke Fund liability. 
+Shank, 516 N.W.2d at 814. Scheduled member injuries are those parts of the body specifically 
+listed in Iowa Code Section 85.34(2)(a)-(t). Saylor v. Manpower Inc., No. 01-0560, 2002 WL 
+31425208, *4 (Iowa Ct. App. Oct. 30, 2002). Whereas injuries to the body as a whole are 
+unscheduled injuries and are not subject to Fund liability. Second Inj. Fund of Iowa v. Nelson, 544 
+N.W.2d 258, 268 (Iowa 1995). 
+                                                          
+2 The parties do not contest that the January 2019 injury to Horne’s leg is a qualifying first loss injury and that 
+Horne’s right shoulder and right arm injury in September 2019 arise out of the course of his employment with UTC. 
+E-FILED                    CVCV065936 - 2024 MAY 07 10:58 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 7
+
+5 
+ 
+ 
+Here, the Commissioner relied on the district court case, Anderson v. Bridgestone 
+Americas, Inc. in determining that a second injury to an arm and a shoulder caused by a single 
+accident was not a scheduled member injury. Arb. Dec. 2-3. In his finding, the Commissioner 
+stated, “[t]he District Court in Anderson found that a claimant with an arm and a shoulder injury, 
+caused by a single incident, should receive workers’ compensation benefits under Iowa Code 
+Section 85.34(2)(v). That should be the outcome in this case.” Id.  
+However, on March 29, 2024, the Iowa Supreme Court overturned the Commissioner’s 
+decision and the district court’s decision in the Anderson case. The Anderson Court ruled that a 
+shoulder and an arm injury should be compensated as scheduled injuries under Iowa Code Section 
+85.34(2)(m) and (n), respectively, and not as unscheduled injuries under Iowa Code Section 
+85.34(2)(v). Bridgestone Americas, Inc., et al. v. Anderson, No. 22-1328, 2024 WL 1334165, at 
+*4 (Iowa Sup. Ct. March 29, 2024). The Court held: 
+An injury can be unscheduled only if it fits in paragraph (v). And by its plain terms, 
+paragraph (v) can only apply to injuries other than those … described or referred to in 
+paragraphs ‘a’ through ‘u.’ But Anderson’s injuries are not other than those … described 
+or referred to in paragraphs ‘a’ through ‘u.’ Anderson’s injuries are to his shoulder and 
+arm. Both are “described or referred to” in the schedule composed of paragraphs ‘a’ 
+through ‘u.’   
+ 
+Id. (citing Iowa Code Section 85.34(2)(v) (alteration in original) (citations and internal quotation 
+marks omitted)). Because the Commissioner based his decision in part on Anderson, when finding 
+that Horne’s injuries were unscheduled and should fall under Iowa Code Section 85.34(2)(v), this 
+Court must reverse and remand this case to the Iowa Workers’ Compensation Commission in light 
+of the Iowa Supreme Court’s decision in Bridgestone Americas Inc. v. Anderson. 
+IV. 
+CONCLUSION AND DISPOSTION. 
+ 
+For all the reasons set forth above, the Court concludes the Commissioner erred in his 
+interpretation of the law to the facts, given the Iowa Supreme Court’s reversal decision in the 
+E-FILED                    CVCV065936 - 2024 MAY 07 10:58 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 7
+
+6 
+ 
+Anderson case. Therefore, the Commissioner is to enter a finding on the basis that Horne’s 
+September 5, 2019 right shoulder and right arm injuries should be classified as scheduled member 
+injuries in determining whether Horne is entitled to receive Second Injury Fund benefits. 
+IT IS THE ORDER OF THE COURT that the Iowa Workers’ Compensation 
+Commissioner’s Appeal Decision is REVERSED AND REMANDED. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E-FILED                    CVCV065936 - 2024 MAY 07 10:58 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 7
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV065936
+BERNARD HORNE VS UNITED TECHNOLOGIES CORP ET
+AL
+Type:
+ORDER FOR JUDGMENT
+So Ordered
+Electronically signed on 2024-05-07 10:58:23
+E-FILED                    CVCV065936 - 2024 MAY 07 10:58 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 7

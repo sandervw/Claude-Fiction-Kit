@@ -1,0 +1,546 @@
+Case Number: 20001051.03
+Case Title:  DENEMARK, BRIAN V. ARCHER DANIELS MIDLAND
+Doc Type:    Decision - District Court
+Source:      Denemark, Brian-20001051.02.District Court Decision.PDF
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+BRIAN DENEMARK, 
+ 
+         Petitioner, 
+ 
+vs. 
+ 
+ARCHER DANIELS MIDLAND 
+COMPANY, 
+ 
+         Respondent. 
+ 
+      
+Case Nos. CVCV061078, CVCV061434 
+ 
+ 
+RULING ON JUDICIAL REVIEW 
+ 
+I. INTRODUCTION 
+ 
+Before the Court are consolidated petitions for judicial review filed on December 9, 2020 
+and March 3, 2021. Petitioner Brian Denemark (“Denemark”), filed his consolidated brief on April 
+5, 2021. Respondent Archer Daniels Midland Company (“ADM”) filed its brief on April 30, 2021. 
+Denemark filed a reply on May 14, 2021. The parties’ counsel presented arguments at a hearing 
+on June 4, 2021. Dennis Currell represented Denemark. Peter J. Thill and Jacob V. Kline 
+represented ADM. After hearing arguments of counsel and reviewing the court file, including the 
+briefs filed by both parties and the certified administrative records, the Court now enters the 
+following ruling. 
+II. FINDINGS OF FACT 
+ 
+On December 16, 2019, Denemark suffered a left wrist injury while working for ADM. 
+(Alt. Care Pet. 1, Denemark Ex. 1, at 1). He received treatment from Dr. Meiying Kuo (“Dr. Kuo”) 
+at Physician’s Clinic of Iowa (“PCI”), which ADM authorized. (Id.). ADM sent its agent, Karl 
+Schewe (“Schewe”) to attend some of Denemark’s appointments at PCI through January 2020. 
+(Alt. Care Pet. 1, Denemark Ex. 4). Denemark received authorized injections for his left wrist on 
+February 7, 2020 and June 9, 2020. (Alt. Care Pet. 1, Denemark Ex. 1, at 1). 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 18
+
+2 
+ 
+ 
+On August 18, 2020, Dr. Kuo proposed a surgical option to treat Denemark’s left wrist 
+condition: a left wrist arthroscopy and debridement of the TFCC. (Id. at 2). On August 20, 2020, 
+a PCI nurse advised Denemark that he could not schedule his surgery until thirty days after his 
+cardiac ablation due to his use of a blood thinner. (Alt. Care Pet. 1, Denemark Ex. 2). On September 
+11, 2020, Denemark informed PCI he had been off blood thinners for twenty-one days and wanted 
+to schedule the surgery. (Id.). On September 18, 2020, ADM, through its third-party administrator 
+for workers’ compensation, ESIS, informed PCI that it had concerns about Denemark and was 
+going to investigate causation. (Id.). PCI scheduled surgery for October 5, 2020. (Alt. Care Pet. 1, 
+Ex. 6). ADM did not complete its causation investigation in time and PCI cancelled the scheduled 
+surgery. (Id.). On October 16, 2020, Denemark requested pain medication from Dr. Kuo who 
+declined and directed him to contact his primary care physician. (Id.). On October 21, 2020, ADM 
+notified PCI that ADM authorized the proposed surgery. (Alt. Care Pet. 1, ADM Ex. A1). 
+ 
+On October 22, 2020, PCI sent an authorization form to ADM seeking approval of PCI’s 
+referral of Denemark to the University of Iowa Hospitals & Clinics (“UIHC”) hand surgery 
+department for transfer of care. (Alt. Care Pet. 1, ADM Ex. B2). On November 1, 2020, ADM 
+authorized PCI’s requested transfer of Denemark’s care to the UIHC hand surgery department. 
+(Alt. Care Pet. 1, ADM Ex. C3). On November 15, 2020, ADM informed Denemark he had an 
+appointment with the hand surgeon Dr. Ericka Lawler (“Dr. Lawler”) at UIHC on November 24, 
+2020, which UIHC later rescheduled for December 3, 2020. (Alt. Care Pet. 1, ADM Ex. D4). 
+Denemark attended the December 3, 2020 appointment at UIHC with transportation provided by 
+ADM. (Alt. Care Dec. 01/26/21, at 2). Denemark scheduled his authorized left wrist surgery for 
+December 29, 2020. (Id.). On December 16, 2020, Denemark cancelled his surgery due to a 
+conflicting dental appointment he had scheduled for the same date. (Id.). Denemark rescheduled 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 18
+
+3 
+ 
+his surgery for January 12, 2021 with a mandatory pre-surgical COVID screening on January 11, 
+2021. (Id.). ADM agreed to provide transportation for both appointments, but failed to arrange 
+transport for the COVID screening. (Alt. Care Pet. 2, Denemark Exs. 2, 3, 4, 5, 6). Denemark 
+attempted to get to the COVID screening on his own by driving from Cedar Rapids to leave his 
+dog with his grandmother in Monticello and then driving to Iowa City. (Alt. Care Dec. 01/26/21, 
+at 2). While he was driving, UIHC called to inform him it was too late to get the test results back 
+in time for the surgery. (Id.). Without ADM’s transportation, Denemark was unable to obtain the 
+necessary COVID screening on January 11, 2020, so UIHC cancelled his surgery on January 12, 
+2020. (Id.). UIHC rescheduled his surgery for January 29, 2021 with a mandatory COVID 
+screening on January 28, 2021. (Alt. Care Pet. 2, Denemark Ex. 8). ADM provided transportation 
+to those appointments and Denemark underwent the authorized surgery on January 29, 2021. 
+Following surgery, Denemark is receiving follow-up care. 
+ 
+Denemark filed his first application for alternate medical care on November 3, 2020. He 
+alleged ADM intentionally interfered with the medical care recommended by ADM’s selected 
+authorized treating provider by having Schewe attend appointments, delaying surgery by seeking 
+an improper causation opinion, and transferring him to UIHC. He sought the ability to direct his 
+own care. On November 17, 2020, Deputy Commissioner Heather L. Palmer (the “Deputy 
+Commissioner”) entered an order denying relief. The Deputy Commissioner did not find Schewe’s 
+testimony persuasive to support ongoing interference. She held that Denemark did not establish 
+ADM had abandoned care or that the care offered was ineffective, inferior, or less extensive than 
+the care requested by Denemark, so he was not entitled to direct his own care. On November 27, 
+2020, Denemark filed a motion to exceed page limits, to reopen the record for consideration of 
+newly discovered evidence, and to reconsider, enlarge, and amend the alternate medical care 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 18
+
+4 
+ 
+decision. On December 4, 2020, the Deputy Commissioner denied Denemark’s motion. Denemark 
+filed an appeal of the Deputy Commissioner’s decisions in the district court on December 9, 2020. 
+ 
+On January 13, 2021, Denemark filed his second application for alternate medical care. He 
+alleged ADM intentionally failed to provide transportation to interfere with his medical care and 
+sought an order for surgery with Dr. Lawler, uninterrupted follow-up care, and the ability to self-
+direct his care. On January 26, 2021, the Deputy Commissioner denied the application for alternate 
+medical care, because she held Denemark had not proven ADM engaged in ongoing interference, 
+abandoned care, or offered care that was ineffective, inferior, or less extensive than the care 
+Denemark requested. With ADM’s consent, she ordered that ADM shall provide transportation for 
+the COVID screening and surgery and shall follow all treatment recommendations from Dr. 
+Lawler following surgery. On February 1, 2021, Denemark filed a motion to reconsider, enlarge, 
+and amend the alternate medical care decision. The Deputy Commissioner denied the motion on 
+February 5, 2021. On March 3, 2021, Denemark filed an appeal of the Deputy Commissioner’s 
+decisions on his second application in the district court. The Court consolidated the appeals on 
+March 18, 2021. 
+ 
+On appeal, Denemark argues the agency made factual and legal errors by failing to find 
+that ADM intentionally interfered with the prompt receipt of medical care. He believes ADM 
+intentionally interfered with his medical care by (1) causing Schewe to improperly influence 
+medical decisions at Denemark’s appointments, (2) causing the adjuster to cancel the October 5, 
+2020 surgery, (3) causing the transfer of Denemark’s care to UIHC, and (4) promising to provide 
+transportation to the January 11, 2021 COVID screening but failing to do so, causing the 
+cancellation of the January 12, 2021 surgery. He argues the agency made legal errors by refusing 
+to acknowledge undue inconvenience as an element, failing to recognize that ADM’s causation 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 18
+
+5 
+ 
+investigation was improper, and wrongly requesting that Denemark’s counsel clarify what remedy 
+he sought. Denemark argues the agency decisions departed from agency precedents without 
+adequate explanation, because prior precedents prohibit employers from denying recommended 
+medical care or unilaterally transferring care to another provider. Denemark asks the Court to 
+reverse the agency rulings and order that ADM allow Denemark to self-direct his care. In the 
+alternative, Denemark asks the Court to remand to the agency with instructions to order ADM to 
+allow Denemark to self-direct his care. 
+III. STANDARD OF REVIEW 
+ 
+The Iowa Administrative Procedure Act, Chapter 17A of the Iowa Code, governs judicial 
+review of administrative agency decisions. The court shall reverse, modify, or grant other 
+appropriate relief from final agency action if it determines the substantial rights of a petitioner 
+have been prejudiced by any of the means set forth in Iowa Code section 17A.19(10)(a)-(n). 
+Review of agency action is at law, not de novo, and is limited to the record made before the agency. 
+Taylor v. Iowa Dep’t of Job Serv., 362 N.W.2d 534, 537 (Iowa 1985). Additional evidence or 
+issues not considered by the agency cannot be considered by the court. Iowa Code § 17A.19(7); 
+Meads v. Iowa Dep’t of Social Servs., 366 N.W.2d 555, 559 (Iowa 1985). The court may not 
+substitute its judgment for that of the agency. Mercy Health Center v. State Health Facilities 
+Council, 360 N.W.2d 808, 809 (Iowa 1985). The court may not usurp the agency's function of 
+making factual findings. McSpadden v. Big Ben Coal Co., 288 N.W.2d 181, 186 (Iowa 1980). 
+The court shall reverse, modify, or grant other appropriate relief from agency action if the 
+agency action was based upon a determination of fact clearly vested by a provision of law in the 
+discretion of the agency that is not supported by substantial evidence in the record before the court 
+when that record is viewed as a whole. Iowa Code § 17A.19(10)(f). “Record viewed as a whole” 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 18
+
+6 
+ 
+means that the adequacy of the evidence in the record before the court to support a particular 
+finding of fact, must be judged in light of all the relevant evidence in the record cited by any party 
+that detracts from the findings, as well as all of the relevant evidence in the record cited by any 
+party that supports it. § 17A.19(10)(f)(3). This includes any determinations of veracity by the 
+presiding officer who personally observed the demeanor of the witnesses and the agency's 
+explanation of why the relevant evidence in the record supports its material findings of fact. Id.  
+The evidence need not amount to a preponderance in order to be substantial evidence, but 
+a mere scintilla will not suffice. Elliot v. Iowa Dep’t of Transp., 377 N.W.2d 250, 256 (Iowa Ct. 
+App. 1985). Substantial evidence means the quantity and quality of evidence that would be deemed 
+sufficient by a neutral, detached and reasonable person, to establish the fact at issue when the 
+consequences resulting from the establishment of that fact are understood to be serious and of great 
+importance. Iowa Code § 17A.19(10)(f)(1). The fact that two inconsistent conclusions can be 
+drawn from the evidence does not mean that one of those conclusions is unsupported by substantial 
+evidence. Moore v. Iowa Dep’t of Transp., 473 N.W.2d 230, 232 (Iowa Ct. App. 1991). The 
+relevant inquiry is not whether the evidence might support a different finding, but whether the 
+evidence supports the findings actually made. Id. 
+The commissioner has a duty to state the evidence relied upon and detail the reasons for 
+any conclusions. Pitzer v. Rowley Interstate, 507 N.W.2d 389, 392 (Iowa 1993) (citing Catalfo v. 
+Firestone Tire & Rubber Co., 213 N.W.2d 506, 510 (Iowa 1973)). This requirement is satisfied if 
+the reviewing court is able to determine with reasonable certainty the factual basis on which the 
+administrative officer acted. Id. at 393. Courts understand that an administrative agency “cannot 
+in its decision set out verbatim all testimony in a case.” Id. at 392 (citing McDowell v. Town of 
+Clarksville, 241 N.W.2d 904, 908 (Iowa 1976)) “Nor, when the agency specifically refers to some 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 18
+
+7 
+ 
+of the evidence, should the losing party be able, ipso facto, to urge successfully that the agency 
+did not weigh all the other evidence.” Id. An agency decision is final if supported by substantial 
+evidence. Robbennolt v. Snap-On Tools Corp., 555 N.W.2d 229, 234 (Iowa 1996). 
+The court shall also reverse, modify, or grant other appropriate relief from agency action 
+if such action was based upon an erroneous interpretation of a provision of law whose 
+interpretation has not clearly been vested by a provision of law in the discretion of the agency. 
+Iowa Code § 17A.19(10)(c). The court shall not give deference to the view of the agency with 
+respect to particular matters that have not been vested by a provision of law in the discretion of the 
+agency. § 17A.19(11)(b). However, appropriate deference is given when the contrary is true. § 
+17A.19(11)(c). The agency's findings are binding on appeal unless a contrary result is compelled 
+as a matter of law. Ward v. Iowa Dep’t of Transp., 304 N.W.2d 236, 238 (Iowa 1981). 
+Additionally, a reviewing court must also reverse, modify, or grant other appropriate relief 
+when the agency's decision is “[b]ased upon an irrational, illogical, or wholly unjustifiable 
+application of law to fact that has clearly been vested by a provision of law in the discretion of the 
+agency.” Iowa Code § 17A.19(10)(m). “In order to determine an employee's right to benefits, 
+which is the agency's responsibility, the agency, out of necessity, must apply the law to the facts.” 
+Mycogen Seeds v. Sands, 686 N.W.2d 457, 465 (Iowa 2004). Because the agency has been 
+entrusted with the responsibility of applying the law to the facts, the “agency's application of the 
+law to the facts can only be reversed if we determine such an application was ‘irrational, illogical, 
+or wholly unjustifiable.’” Id. (citing Iowa Code § 17A.19(10)(m)). 
+“The findings of the commissioner are akin to a jury verdict, and we broadly apply them 
+to uphold the commissioner's decision.” Quaker Oats Co. v. Ciha, 552 N.W.2d 143, 150 (Iowa 
+1996) (quoting Second Inj. Fund v. Shank, 516 N.W.2d 808, 812 (Iowa 1994) (citation omitted)). 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 18
+
+8 
+ 
+“We may reverse, modify, affirm or remand the case to the commissioner for further proceedings 
+if we conclude the agency's action is affected by an error at law or if it is not supported by 
+substantial evidence.” Id. at 150. 
+IV. CONCLUSIONS OF LAW 
+A. Overview of Alternate Medical Care 
+ 
+Iowa Code section 85.27(4) provides in relevant part: 
+For purposes of this section, the employer is obliged to furnish reasonable services 
+and supplies to treat an injured employee, and has the right to choose the care. If 
+the employer chooses the care, the employer shall hold the employee harmless for 
+the cost of care until the employer notifies the employee that the employer is no 
+longer authorizing all or any part of the care and the reason for the change in 
+authorization. 
+. . . 
+The treatment must be offered promptly and be reasonably suited to treat the injury 
+without undue inconvenience to the employee. If the employee has reason to be 
+dissatisfied with the care offered, the employee should communicate the basis of 
+such dissatisfaction to the employer, in writing if requested, following which the 
+employer and the employee may agree to alternate care reasonably suited to treat 
+the injury. If the employer and employee cannot agree on such alternate care, the 
+commissioner may, upon application and reasonable proofs of the necessity 
+therefor, allow and order other care. 
+ 
+Iowa Code § 85.27(4).  
+An employer gains the right to choose an employee’s care after the employer concedes the 
+compensability of the injury and authorizes care. Ramirez-Trujillo v. Quality Egg, L.L.C., 878 
+N.W.2d 759, 772 (Iowa 2016). In exchange for the right to choose the care, the employer must pay 
+for the cost of care up to the time when the employer notifies the employee it is no longer 
+authorizing care. Id. 
+ 
+If an employee is dissatisfied with the offered care, the statute provides a process for 
+seeking alternate care. The employee must notify the employer of his dissatisfaction. § 85.27(4). 
+The employer and employee may agree to alternate care. Id. Where they cannot reach an 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 18
+
+9 
+ 
+agreement, the commissioner has discretionary authority to order alternate care, including self-
+directed care, if the treatment the employer offers fails to meet any one of three qualifications: the 
+treatment must be (1) prompt, (2) reasonably suited to treat the injury, and (3) without undue 
+inconvenience to the claimant. West Side Transport v. Cordell, 601 N.W.2d 691, 693–94 (Iowa 
+1999). 
+B. Review of Factual Findings and Application of Facts to Law 
+ 
+Denemark argues the Deputy Commissioner made factual and legal errors by failing to find 
+ADM intentionally interfered with the prompt receipt of medical care when ADM (1) caused 
+Schewe to improperly influence medical decisions at Denemark’s appointments, (2) caused the 
+adjuster to cancel the October 5, 2020 surgery, (3) caused the transfer of Denemark’s care to UIHC, 
+and (4) caused the cancellation of the January 12, 2021 surgery by promising to provide 
+transportation to the January 11, 2021 COVID screening but failing to do so. There is substantial 
+evidence under Iowa Code section 17A.19(10)(f) to support the conclusion that none of the alleged 
+interferences prevented Denemark from receiving prompt care or receiving care reasonably suited 
+to treat his injury, or caused him to suffer undue inconvenience. Further, the Deputy 
+Commissioner’s application of the facts to the law in holding Denemark received prompt care, 
+received reasonable care, and did not suffer undue inconvenience was not irrational, illogical, or 
+wholly unjustifiable under section 17A.19(10)(m). 
+ 
+Schewe stopped attending Denemark’s medical appointments after January 2020. (Alt. 
+Care Dec. 11/17/20, at 1). Dr. Kuo did not recommend surgery until August 18, 2020. (Alt. Care 
+Pet. 1, Denemark Ex. 1, at 2). The time gap indicates it is unlikely Schewe’s presence caused any 
+delay in Denemark undergoing surgery. There was also testimony at the arbitration hearing about 
+the effect of Schewe’s presence at the appointments that supports the Deputy Commissioner’s 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 18
+
+10 
+ 
+findings. The Deputy Commissioner “d[id] not find the testimony regarding Schewe persuasive to 
+support ongoing interference.” (Alt. Care Dec. 11/17/20, at 4). This credibility determination by 
+the presiding officer is influential in assigning weight to the testimony. Iowa State Fairgrounds 
+Sec. V. Iowa C.R. Comm’n, 322 N.W.2d 293, 295 (Iowa 1982). The lack of persuasive testimony 
+about Schewe and the time gap between Schewe’s attendance and the surgery proposal are 
+substantial evidence that Schewe’s presence did not interfere with Denemark’s treatment. It was 
+reasonable for the Deputy Commissioner to hold Schewe’s presence did not overly interfere with 
+his care. 
+ 
+There was substantial evidence that ADM’s role in the cancellation of the October 5, 2020 
+surgery did not result in the failure to provide prompt medical care or undue inconvenience. Aside 
+from ADM’s actions, there was already going to be a necessary thirty-day delay between the 
+surgery proposal and the surgery, because Denemark needed to be off blood thinners for thirty 
+days prior to surgery. (Alt. Care Pet. 1, Denemark Ex. 2). Through ESIS, ADM notified PCI that 
+it wanted to investigate causation before authorizing surgery. (Id.). PCI planned to wait to schedule 
+surgery until after ADM provided authorization. (Alt. Care Pet. 1, Ex. 6). Instead, PCI scheduled 
+surgery for October 5 before receiving authorization. (Id.). PCI had to cancel the scheduled 
+procedure because ADM did not provide authorization until October 21, 2020. (Id.; Alt. Care Pet. 
+1, ADM Ex. A1). The Deputy Commissioner could have interpreted these events as PCI 
+prematurely scheduling surgery when it knew ADM had not provided authorization, meaning PCI 
+was responsible for the cancellation. There was only a two-month delay between Dr. Kuo 
+proposing surgery and ADM authorizing the surgery, thirty days of which would have happened 
+anyway due to the blood thinners. The two-month delay, the necessary thirty-day delay for 
+Denemark to get off blood thinners, and PCI scheduling the surgery prematurely are substantial 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 18
+
+11 
+ 
+evidence that ADM’s role in the cancellation of the October 5, 2020 surgery did not prevent 
+Denemark from receiving prompt and reasonable care or cause him to suffer undue inconvenience. 
+It was reasonable for the Deputy Commissioner to conclude the limited delay and PCI’s 
+responsibility for scheduling the surgery prematurely meant ADM did not improperly interfere 
+with Denemark’s care. 
+ 
+There was substantial evidence that ADM’s role in the transfer of Denemark’s care to 
+UIHC did not prevent prompt and reasonable medical care or cause undue inconvenience. The 
+employer authorization form dated October 22, 2020 shows that Dr. Kuo referred Denemark to the 
+UIHC hand department and requested authorization for the transfer from ADM. (Alt. Care Pet. 1, 
+ADM Ex. B2). ADM completed the form and authorized the transfer on November 1, 2020. (Alt. 
+Care Pet. 1, ADM Ex. C3). ADM informed Denemark he had an appointment with Dr. Lawler. 
+(Alt. Care Pet. 1, ADM Ex. D4). Denemark voluntarily attended the appointment and scheduled 
+surgery with Dr. Lawler. (Alt. Care Dec. 01/26/21, at 2). The evidence supports the conclusion 
+that ADM did not transfer Denemark’s care improperly and unilaterally, but simply authorized the 
+transfer that Dr. Kuo initiated. Denemark seems to have gone along with the transfer. Under these 
+circumstances, there would be little delay or inconvenience for Denemark. The Deputy 
+Commissioner’s conclusions were reasonable. 
+ 
+There was substantial evidence that ADM’s failure to provide transportation and the 
+resulting cancellation of the January 12, 2021 surgery did not prevent prompt and reasonable 
+medical care or cause Denemark to suffer undue inconvenience. While ADM failed to follow 
+through with its promise to provide transportation on January 11 and indirectly caused the 
+cancellation of the January 12 surgery, UIHC quickly rescheduled Denemark’s COVID screening 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 11 of 18
+
+12 
+ 
+for January 28 and his surgery for January 29. The Deputy Commissioner could have reasonably 
+found that a delay of two weeks did not rise to the level of interference required in section 85.27(4). 
+ 
+There was substantial evidence that ADM’s interference with Denemark’s treatment was 
+not intentional, even if its actions caused some delay and inconvenience. There is little or no 
+evidence to suggest that ADM had ulterior motives to prevent Denemark from receiving proper 
+care when it sent Schewe to Denemark’s appointments, conducted a causation investigation, 
+authorized transfer of care to UIHC, and failed to provide transportation to the COVID screening. 
+The main indication that ADM’s interference was intentional was that there were four alleged 
+interferences. As explained above, it was reasonable for the Deputy Commissioner to conclude the 
+interferences had minimal effect, so the existence of the four instances alone does not compel the 
+conclusion that ADM intentionally interfered. The emails between the parties’ counsel regarding 
+transportation to the COVID screening could go either way, but nonetheless provide substantial 
+evidence that the failure to provide transportation was a mistake. At first, ADM’s counsel believed 
+Denemark failed to go to his appointment and was unaware ADM had not arranged transport. (Alt. 
+Care Pet. 2, Denemark Ex.4). ADM’s counsel readily agreed to provide transportation to the 
+rescheduled appointments for January 28 and 29. (Alt. Care Pet. 2, Denemark Ex. 8). These 
+communications could suggest ADM simply made an administrative error. It was reasonable for 
+the Deputy Commissioner to conclude any interference with Denemark’s care was unintentional. 
+ 
+There was substantial evidence to support the Deputy Commissioner’s factual findings 
+under section 17A.19(10)(f) and her application of the facts to the law was not irrational, illogical, 
+or wholly unjustifiable under section 17A.19(10)(m). 
+C. Review of Legal Interpretations 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 12 of 18
+
+13 
+ 
+ 
+Denemark contends the Deputy Commissioner improperly interpreted Iowa Code section 
+85.27(4). The legislature did not clearly vest the interpretation of section 85.27(4) in the discretion 
+of the workers’ compensation commissioner, so courts do not defer to the commissioner’s 
+interpretation of the provision. Ramirez-Trujillo, 878 N.W.2d at 770. The Court will review the 
+Deputy Commissioner’s interpretation of section 85.27(4) for errors of law under section 
+17A.19(10)(c). Id. 
+Denemark argues the Deputy Commissioner made a legal error by failing to consider undue 
+inconvenience as a factor justifying alternate medical care under section 85.27(4). In both alternate 
+medical care decisions, the Deputy Commissioner cited section 85.27(4) for the rule that the 
+employer must offer treatment without undue inconvenience to the employee. (Alt. Care Dec. 
+11/17/20, at 3; Alt. Care Dec. 01/26/21, at 3). Referencing the rule indicates the Deputy 
+Commissioner considered undue inconvenience as a factor. The only indication she did not 
+consider undue inconvenience is that she did not explicitly state Denemark did not suffer undue 
+inconvenience. However, her consideration of the factual circumstances and her reference to the 
+rule is enough to conclude she properly considered undue inconvenience in her analysis of whether 
+Denemark was entitled to alternate medical care. She did not make a legal error by failing to 
+consider undue inconvenience. 
+ 
+Denemark argues the Deputy Commissioner made a legal error by not holding it was 
+improper for ADM to initiate a causation investigation on September 18, 2020, after ADM had 
+already conceded to the compensability of his injury. Denemark believes that once an employer 
+concedes to compensability, the employer must promptly furnish care and cannot later question 
+causation. He argues an employer must pay for whatever care an authorized provider recommends 
+without question, because the employer cannot exercise medical judgment. 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 13 of 18
+
+14 
+ 
+ 
+Denemark is correct that an employer cannot practice medicine and must follow the 
+recommendations of authorized medical providers, because interfering with recommended 
+treatment constitutes a failure to provide care reasonably suited to treat the injury under section 
+85.27(4). Lamphier v. Schlee Masonry, File No. 5039649, 2012 WL 1373790, at *4 (Alt. Care 
+Dec. Apr. 16, 2012). However, ADM did not practice medicine or interfere with Dr. Kuo’s surgery 
+recommendation. ADM examined whether Denemark’s injury that needed surgery in August 2020 
+was the same workplace injury from December 2019, or whether there was some intervening 
+cause, unrelated to the workplace injury, that necessitated surgery. “Once an employer’s right to 
+control medical care attaches under section 85.27(4), ‘it remains with the employer under the 
+statute until the employer denies the injury is work-related, withdraws authorization of the care, or 
+until the commissioner orders alternative care.’” Ramirez-Trujillo, 878 N.W.2d at 772 (quoting 
+Bell Bros. Heating and Air Conditioning v. Gwinn, 779 N.W.2d 193, 207 (Iowa 2010)).  
+A dispute between the parties as to the nature or extent of a physical or mental 
+disability arising from an injury for which the employer has acknowledged liability 
+during the time medical care is controlled by the employer, is not a ground, standing 
+alone, for a determination that the employer has forfeited its right to select medical 
+care. 
+ 
+Gwinn, 779 N.W.2d at 207. 
+ADM did not withdraw its concession that Denemark’s workplace injury was 
+compensable. It did not deny the injury was work-related or withdraw authorization of care. It did 
+not seek a second opinion about whether surgery was appropriate or try to switch providers to one 
+that would not recommend surgery. ADM simply disputed the nature and extent of Denemark’s 
+workplace injury, including whether the workplace injury had a causal connection to the injury 
+that needed surgery. ADM’s investigation was permissible under the statute without forfeiting its 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 14 of 18
+
+15 
+ 
+right to select medical care. The Deputy Commissioner did not make a legal error by not 
+recognizing ADM’s causation investigation as improper. 
+ 
+Denemark argues the Deputy Commissioner made a legal mistake by asking his counsel 
+what remedies Denemark sought, rather than exercising discretion to choose an appropriate 
+remedy. This is not a legal error. Courts and agencies commonly limit relief to the relief a claimant 
+requests. The Deputy Commissioner only considering the relief Denemark requested did not 
+prevent her from considering Denemark’s legal claims fairly and thoroughly. 
+The Deputy Commissioner did not make an error of law under section 17A.19(10)(c). 
+D. Consistency with Agency Precedents 
+ 
+Denemark contends the Deputy Commissioner failed to follow agency precedents without 
+explanation. Section 17A.19(10)(h) requires the Court to grant relief where the claimant’s 
+substantial rights have been prejudiced because the agency action “is inconsistent with the 
+agency’s prior practice or precedents, unless the agency has justified that inconsistency by stating 
+credible reasons sufficient to indicate a fair and rational basis for the inconsistency.” Iowa Code § 
+17A.19(10)(h). The Court reviews allegations pursuant to section 17A.19(10)(h) under the 
+unreasonable, arbitrary, capricious, or abuse of discretion standard. Off. of Consumer Advoc. v. 
+Iowa Utils. Bd., 770 N.W.2d 334, 341 (Iowa 2009). 
+Denemark contends the Deputy Commissioner failed, without explanation, to follow 
+agency precedent that holds employers cannot exercise medical judgment and interfere with 
+authorized providers’ treatment recommendations.1 As explained above, ADM did not exercise 
+                                                          
+1 Lamphier, 2012 WL 1373790, at *4; Crawford v. Bridgestone/Firestone, File No. 5024746, 
+2008 WL 376151, at *3 (Alt. Care Dec. Feb. 5, 2008); Smith v. Broadlawns Med. Ctr., File No. 
+5015626, 2005 WL 1252286, at *2–*3 (Alt. Care Dec. May 23, 2005); McFarland v. Amana 
+Soc’y Builders, File No. 5008275, 2003 WL 215054477, at *2–*3 (Alt. Care Dec. May 20, 
+2003); Dal Ponte v. Care Initiatives, File No. 5007191, 2003 WL 21503350, at *2 (Alt. Care 
+Dec. May 6, 2003); Burkett v. Com-Force, File No. 1199960, 2001 WL 34111196, at *2–*4 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 15 of 18
+
+16 
+ 
+medical judgment or interfere with Dr. Kuo’s surgery recommendation. A dispute over the nature 
+and extent of injury does not undo an employer’s concession that an injury is compensable or take 
+away the employer’s right to choose care. Gwinn, 779 N.W.2d at 207. The statute allowed ADM 
+to investigate the cause of Denemark’s injury after Dr. Kuo recommended surgery to ensure it was 
+still a result of the workplace injury. Therefore, the Deputy Commissioner did not fail to follow 
+agency precedent that employers cannot practice medicine or second-guess authorized providers’ 
+recommendations. 
+ 
+Denemark argues the Deputy Commissioner failed, without explanation, to follow agency 
+precedent that holds employers cannot unilaterally transfer an employee’s care to another 
+provider.2 As explained above, substantial evidence supports the factual finding that ADM did not 
+unilaterally transfer Denemark’s care to UIHC. Dr. Kuo referred Denemark to UIHC and ADM 
+authorized the transfer. The Deputy Commissioner’s decisions were consistent with prior 
+precedent because ADM did not initiate an improper transfer of care. 
+ 
+The Deputy Commissioner did not fail to follow agency precedent under section 
+17A.19(10)(h). 
+E. Requested Relief 
+ 
+Denemark seeks relief in the form of an order that ADM allow Denemark to self-direct his 
+care. In the alternative, Denemark asks the Court to remand to the agency with instructions to order 
+                                                          
+(Arb. Dec. Aug. 16, 2001); Cahill v. S. & H. Fabricating & Eng’g, File No. 1138063 (Alt. Care 
+Dec. May 30, 1997); Boggs v. Cargill, Inc., File No. 1050396 (Alt. Care Dec. Jan. 31, 1994); 
+Pote v. Mickow, Corp., File No. 694639 (Review-Reopening Dec. June 17, 1986). 
+2 Crawford, 2008 WL 376151, at *3; Smith, 2005 WL 1252286, at *3–*4; McFarland, 2003 WL 
+215054477, at *2–*3; Dal Ponte, 2003 WL 21503350, at *2; Burkett, 2001 WL 34111196, at 
+*2–*4; LaRue v. Blake Byrket Trucking, File No. 1265132, 2000 WL 33992836 (Alt. Care Dec. 
+Aug. 7, 2000); Cahill, File No. 1138063; Fowler v. Iowa Culvert Builders, File No. 987055, 
+1994 WL 16034930, at *1–*2 (Alt. Care Dec. Mar. 7, 1994); Santucci v. Air and Water Techs., 
+File No. 967995, 1993 WL 13021475, at *5 (Apr. 20, 1993); Pote, File No. 694639. 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 16 of 18
+
+17 
+ 
+ADM to allow Denemark to self-direct his care. Even if Denemark were successful in showing 
+reversible error, the Court could not grant the requested relief. The commissioner’s authority under 
+section 85.27(4) to order alternate medical care is discretionary, not mandatory. Under the 
+mandatory-permissive canon, unless context indicates otherwise, mandatory words, such as 
+“shall” or “must,” impose a duty or state a requirement, while permissive words, such as “may,” 
+grant discretion. Iowa Code § 4.1(30); Kopecky v. Iowa Racing and Gaming Comm’n, 891 N.W.2d 
+439, 443–44 (Iowa 2017). The provision states, “If the employer and employee cannot agree on 
+such alternate care, the commissioner may, upon application and reasonable proofs of the necessity 
+therefor, allow and order other care.” Iowa Code § 85.27(4) (emphasis added). If the claimant 
+shows that treatment is not prompt, not reasonably suited to treat the injury, or not without undue 
+inconvenience, then the commissioner can choose whether to order alternate medical care. 
+Denemark would not have an absolute entitlement to alternate medical care, even if he showed 
+ADM’s failure to meet one of the factors. Therefore, the Court cannot order alternate medical care 
+or instruct the Deputy Commissioner to order alternate medical care. 
+V. RULING 
+ 
+IT IS THEREFORE ORDERED that the Iowa Workers’ Compensation Deputy 
+Commissioner’s decisions of November 17, 2020, December 4, 2020, January 26, 2021, and 
+February 5, 2021 are AFFIRMED. 
+ 
+Costs are taxed to Denemark. 
+ 
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 17 of 18
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV061078
+BRIAN DENEMARK VS ADM
+Type:
+OTHER ORDER
+So Ordered
+Electronically signed on 2021-07-03 13:46:10
+E-FILED                    CVCV061078 - 2021 JUL 03 01:46 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 18 of 18

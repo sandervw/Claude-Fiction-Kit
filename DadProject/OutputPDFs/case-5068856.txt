@@ -1,0 +1,410 @@
+Case Number: 5068856
+Case Title:  HEILMAN, AUSTIN V. LANDUS COOPERATIVE
+Doc Type:    Decision - District Court
+Source:      Heilman, Austin-5068856.District Court Decision.pdf
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+LANDUS COOPERATIVE 
+and 
+Nationwide Agribusiness INS., 
+Petitioners, 
+v. 
+ 
+AUSTIN HEILMAN 
+Respondent. 
+ 
+ 
+Case No. CVCV058918 
+ 
+ 
+RULING ON PETITION FOR JUDICIAL REVIEW 
+ 
+This is a petition for judicial review from a final decision of an Iowa Workers’ Compensation 
+Deputy Commissioner. The Court heard this matter on January 24, 2020. Petitioners appeared through 
+attorney Jeffrey Lanz. Respondent appeared through attorney Janece Valentine. After considering the 
+arguments of the parties and having reviewed the file and the applicable case law, the Court now enters 
+the following ruling. 
+INTRODUCTION 
+A. Factual Background  
+Petitioners seek review of an alternate medical care decision of Iowa Workers’ Compensation 
+Deputy Commissioner Toby Gordon. Respondent Austin Heilman worked for Landus Cooperative. On 
+June 1, 2018, he sustained a workplace injury to his back. Heilman initially saw physician Dr. Vitritto-
+Khan on June 5, 2018 for low back pain from the injury. She recommended physical therapy and work 
+restrictions. Heilman went to a number of physical therapy appointments and had an MRI taken.    
+Petitioners later authorized Heilman to receive treatment from Dr. Steven Meyer. Dr. Meyer 
+referred Heilman to E-3 Work Therapy Services for a functional capacity evaluation (FCE), which was 
+E-FILED  2020 APR 09 5:12 PM POLK - CLERK OF DISTRICT COURT
+
+2 
+ 
+conducted on December 5, 2018. Pet’r’s Ex. A. The results of the evaluation indicated that Heilman met 
+“the material handling demands for a Heavy demand vocation….” Id.  
+On December 6, 2018, Heilman slipped on ice at work, twisted and almost fell, apparently 
+reaggravating his previous back injury. On December 8, 2018, Heilman again slipped on ice and fell, this 
+time at his home. This fall also apparently negatively impacted his back.     
+On December 19, 2018, Heilman saw Dr. Meyer again. In Dr. Meyer’s office notes, he noted that 
+since Heilman’s FCE, Heilman had the above near and complete falls, and that he subsequently has had 
+severe back pain. Pet’r’s Ex. B. Dr. Meyer physically examined Heilman and found that he continued to 
+have “significant tenderness to palpation of lower lumbar spine in the midline and paraspinal lumbar 
+musculature.” Id. Based on a review of Heilman’s MRI, Dr. Meyer concluded that Heilman had “profound 
+L4-L5 and L5-S1 [lumbar] facet arthropathy.”Id. In the Plan section of his notes, Dr. Meyer opined that 
+they would “proceed with bilateral L4-5 and L5-S1 facet injections” for Heilman’s condition and he 
+recommended that Heilman “continue to work on his core strengthening, aerobic exercise program” and 
+return in three to four weeks. Id. Dr. Meyer acknowledged that Heilman had a valid FCE but noted that 
+following the evaluation Heilman stated he had profound back pain for several days following the exam. 
+Id. 
+In a January 7, 2019 letter in response to questions submitted to him by Petitioner Nationwide, Dr. 
+Meyer explained that when he examined Heilman on December 19, 2018 “it appeared to me that [Heilman] 
+had an exacerbation of his previous condition consistent with significant lumbar facet arthropathy and 
+degenerative disk disease.” Pet’r’s Ex. C. He further explained that Heilman’s current work restrictions 
+“are based upon a re-aggravation of his previous condition but are related to the injury earlier in the month 
+of December.” Id. Dr. Meyer noted that Heilman’s permanent work restrictions are based on his December 
+2015 FCE. Id. Finally, Dr. Meyer opined that he thought Heilman had reached MMI, with the understanding 
+that he might require a spinal fusion in the future. Id. 
+On February 6, 2019, Heilman saw Dr. Meyer for his followup appointment. Dr. Meyer observed 
+that Heilman did not undergo the facet injections he ordered because “[Heilman’s] workplace has now 
+E-FILED  2020 APR 09 5:12 PM POLK - CLERK OF DISTRICT COURT
+
+3 
+ 
+decided to deny any further treatment of his work related injury.” Resp’t’s Ex. 2. In the Plan section of his 
+notes, Dr. Meyer “highly recommend[ed] that [Heilman] undergo the facet injections that were previously 
+ordered [and] [c]ontinue with his core strengthening and flexibility program.” Id. Dr. Meyer expressed 
+confidence that, after the injections, Heilman would be able to return to work within the parameters set by 
+his December 2015 FCE. Id.      
+On May 1, 2019, Heilman saw Dr. Meyer again. Per Dr. Meyer’s notes, Heilman was back because 
+of “his unremitting, excruciating midline back pain. [Heilman] states that while he was able to do a day of 
+work within the confines of his functional capacity, ever since he took the near fall at work in December, 
+after a day of work that has any type of manual component, he is basically bedridden for the next 2 days. 
+He is quite concerned about his ability to fulfill his employment obligations.” Pet’r’s Ex. D. Dr. Meyer 
+stated Heilman had “profound tenderness to palpation of the midline and paraspinal lumbar musculature.” 
+His assessment was “[o]going repetitive exacerbation of lumbar back pain.” And in the Plan section of Dr. 
+Meyer’s notes he opined: 
+I do not think that [Heilman] is able to function under his current functional capacity, 
+especially since his second injury, so I would recommend that he undergo a repeat FCE to 
+see if things have changed since his injury in December [2018], and then we will make 
+further decision. Once again, I admonished him to try to avoid surgical intervention at all 
+cost, because I do not think he would be a good candidate on the basis of his age and his 
+work requirements. 
+Id. 
+Petitioners declined to authorize the second FCE recommended by Dr. Meyer and on June 10, 2019, 
+they sent Heilman to Dr. William Boulden for an Independent Medical Examination (IME). Dr. Boulden 
+reviewed Heilman’s medical records, including his MRI. Pet’r’s Ex. E. Dr. Boulden’s diagnosis was low 
+back pain secondary to degenerative disc disease. Id. He opined that the pathological processes [i.e. the 
+degenerative changes] were present before Heilman’s June 1, 2018 workplace injury. Id. He did not think 
+the work injury caused any material aggravation to Heilman’s underlying pathology, concluding that 
+Heilman’s work injuries were strictly subjective, because there was nothing objective. Id. 
+Dr. Boulden contended, with respect to Heilman’s June 1, 2018 injury, that he reached MMI on 
+December 5, 2018. Id. Dr. Boulden had similar thoughts concerning Heilman’s December 6, 2018 injury, 
+E-FILED  2020 APR 09 5:12 PM POLK - CLERK OF DISTRICT COURT
+
+4 
+ 
+and opined that Heilman’s MMI date was six to eight weeks following the injury. Pet’r’s Ex. E. With respect 
+to workplace restrictions, Dr. Boulden noted that Heilman’s December 5, 2018 FCE “showed him to be 
+functioning quite well” and recommended the work restrictions therein. Id. In his view, the December, 2018 
+FCE was adequate and Heilman did not need another one. Id. Dr. Boulden further opined that he did not 
+think Heilman had adequate physical therapy core strengthening exercises, and recommended that any 
+future treatment should strictly be a core exercise program, of which he “highly recommended the German 
+ball stabilization program.” Id.  
+B. Procedural History 
+On July 1, 2019, Heilman filed an Application for Alternate Medical Care pursuant to Iowa Code 
+Section 85.27. In his application, Heilman requested an order compelling Petitioners to cover the FCE 
+recommended by Dr. Meyer, his authorized treating physician. Deputy Workers’ Compensation 
+Commissioner Toby Gordon held a hearing on the matter on July 12, 2019. Petitioners accepted liability 
+for Heilman’s June 1, 2018 and December 6, 2018 work injuries and Heilman’s condition that was the 
+subject of the alternate care proceeding. Per their hearing testimony, Petitioners explained they denied 
+authorization for the FCE because “[they did not] feel that FCE is medical treatment. It's nothing that's 
+going to help claimant improve his condition at all. It's just a test, so we don't believe that fits under 85.27 
+as medical treatment.” Additionally, they noted that they believed the German stabilization exercise 
+program that Dr. Boulden recommended was not unreasonable. On the other hand, Heilman contended that 
+an FCE fits under Section 85.27 and that it was not appropriate for Petitioners to cut off the treatment 
+recommended by his authorized treating physician with an IME recommendation that suggested an FCE 
+was not needed.  
+Per his July 15, 2019 decision, the Deputy Commissioner ordered Petitioners to authorize and pay 
+for the FCE recommended by Dr. Meyer. The Deputy Commissioner found Petitioners’ argument that tests 
+such as an FCE are not appropriate for an alternate care application unpersuasive.  
+The Deputy Commissioner then proceeded to the second question presented: whether or not the 
+care authorized by Petitioners was unreasonable. He noted that, to be successful in his application for 
+E-FILED  2020 APR 09 5:12 PM POLK - CLERK OF DISTRICT COURT
+
+5 
+ 
+alternate care, Heilman bore the burden of establishing the authorized care was unreasonable and identified 
+several rule statements relevant to the issue, stating: 
+An application for alternate medical care is not automatically sustained because claimant 
+is dissatisfied with the care he has been receiving. Mere dissatisfaction with the medical 
+care is not ample grounds for granting an application for alternate medical care. Rather the 
+claimant must show that the care was not offered promptly, was not reasonably suited to 
+treat the injury, or that the care was unduly inconvenient for the claimant. Long v. Roberts 
+Dairy Co., 528 N.W.3d 122 (Iowa 1995).  
+ 
+In his rule statement, the Deputy Commissioner went on to cite a declaratory ruling and review-reopening 
+decision of the agency, noting: 
+An employer’s right to select the provider of medical treatment to an injured worker does 
+not include the right to determine how an injured worker should be diagnosed, evaluated, 
+treated, or other matters of professional medical judgment. Assmann v. Blue Star Foods, 
+File No. 866389 (Declaratory Ruling, May 19, 1988).  
+ 
+And that: 
+Reasonable care includes care necessary to diagnose the condition, and defendants are not 
+entitled to interfere with the medical judgment of its own treating physician. Pote v. 
+Mickow Corp., File No. 694639 (review-reopening decision, June 17, 1986). 
+ 
+The Deputy Commissioner then proceeded to his analysis of the issue, stating 
+In this case, the authorized treating physician recommended an FCE, which [Petitioners] 
+have not authorized. The purpose of the recommended FCE is to ‘see if things have 
+changed since his injury in December [2018].’ This recommendation is based on the 
+concern [that] Dr. Meyer does ‘not think that [Heilman] is able to function under his current 
+functional capacity,’ which is based on an earlier FCE. In other words the presently 
+recommended FCE is to determine [Heilman’s] condition to ensure the present restrictions 
+are appropriate or adjust them according to the new FCE.  
+... 
+I conclude based on the above stated law that failure to authorize the FCE as recommended 
+by the authorized treating physician, which will assist with the establishment of current 
+and safe restrictions, is unreasonable.  
+ 
+On September 13, 2019 Petitioners filed for judicial review of the Deputy Commissioner’s 
+decision.  
+STANDARD OF REVIEW 
+ 
+Chapter 17A of the Iowa Code governs judicial review of Iowa Workers’ Compensation cases. Bell 
+Bros. Heating v. Gwinn, 779 N.W.2d 193, 199 (Iowa 2010).  Pursuant to a  February 16, 2015 standing 
+E-FILED  2020 APR 09 5:12 PM POLK - CLERK OF DISTRICT COURT
+
+6 
+ 
+order of  the Iowa Workers’ Compensation Commissioner, Deputy Commissioners are delegated authority 
+to issue final agency decisions in alternate medical care proceedings. As such, the Deputy Commissioner’s 
+decision constitutes a final agency action for the purposes of judicial review.  
+The district court acts in an appellate capacity to correct errors of law by the agency. Meyer v. IBP, 
+Inc., 710 N.W.2d 213, 219 (Iowa 2006). The Court “may grant relief if the agency action has prejudiced 
+the substantial rights of the petitioner, and the agency action meets one of the enumerated criteria contained 
+in section 17A.19 (10) (a) through (n).” Burton v. Hilltop Care Cntr., 813 N.W.2d 250, 256 (Iowa 2012) 
+(quoting Evercom Sys., Inc. v. Iowa Utilities Bd., 805 N.W.2d 758, 762 (Iowa 2011)).  
+Where an agency has been “clearly vested” with fact-finding authority, the appropriate “standard 
+of review [on appeal] depends on the aspect of the agency’s decision that form the basis of the petition for 
+judicial review.”. Burton, 813 N.W.2d at 256. The standard of review varies depending on whether the 
+alleged error involves an issue of (1) findings of fact, (2) interpretation of law, or (3) an application of the 
+law to facts. 
+The Court must also grant appropriate relief from agency action if such action was “[b]ased upon 
+an erroneous interpretation of a provision of law whose interpretation has not clearly been vested by a 
+provision of law in the discretion of the agency.” Iowa Code § 17A.19(10)(c). With respect to such 
+provisions of law, the Court is not required to defer to the agency’s interpretation. Iowa Code § 
+17A.19(11)(b). Additionally, the Court must grant relief from agency action that is “[b]ased upon an 
+irrational, illogical, or wholly unjustifiable interpretation of a provision of law,” based upon a 
+misapplication of law to the facts, or “[o]therwise unreasonable, arbitrary, capricious, or an abuse of 
+discretion.” Iowa Code § 17A.19(1)(l–n). 
+If “the claim of error lies with the ultimate conclusion reached, then the challenge is to the agency’s 
+application of the law to the facts, and the question on review is whether the agency abused its discretion 
+by, for example, employing wholly irrational reasoning or ignoring important and relevant evidence.” 
+Meyer, 710 N.W.2d at 219. In other words, the Court will only reverse the Commissioner’s application of 
+law to the facts if “it is ‘irrational, illogical, or wholly unjustifiable.’” Neal, 814 N.W.2d at 518 (quoting 
+E-FILED  2020 APR 09 5:12 PM POLK - CLERK OF DISTRICT COURT
+
+7 
+ 
+Lakeside Casino v. Blue, 743 N.W.2d 169, 173 (Iowa 2007); see also Burton, 813 N.W.2d at 256 (“When 
+application of law to fact has been clearly vested in the discretion of an agency, a reviewing court may only 
+disturb the agency’s application of the law to the facts of a particular case if that application is ‘irrational, 
+illogical, or wholly unjustifiable.’”). 
+If the alleged error is one of fact, the standard of review is whether the findings are supported by 
+substantial evidence. Harris, 778 N.W.2d at 196; Schutjer v. Algona Manor Care Ctr., 780 N.W.2d 549, 
+557 (Iowa 2010). “[A] reviewing court can only disturb those factual findings if they are ‘not supported by 
+substantial evidence in the record before the court when that record is reviewed as a whole.’” Burton, 813 
+N.W.2d at 256 (quoting Iowa Code § 17A.19(10)(f)). The Court “is limited to the findings that were actually 
+made by the agency and not other findings the agency could have made.” Id. "The commissioner, not the 
+court, weighs the evidence." Ward v. Iowa Dep't of Transp., 304 N.W.2d 236, 237 (Iowa 1981). “[C]ourts 
+must not simply rubber stamp the agency fact finding without engaging in a fairly intensive review of the 
+record to ensure that the fact finding is itself reasonable.” Wal-Mart Stores, Inc. v. Caselman, 657 N.W.2d 
+493, 499 (Iowa 2003) (internal quotations and citation omitted). 
+“Evidence is substantial if a reasonable person would find the evidence adequate to reach the same 
+conclusion.” Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002) (citing Ehteshamfar v. 
+UTA Engineered Sys. Div., 555 N.W.2d 450, 452 (Iowa 1996)).  
+ANALYSIS 
+In this appeal, Petitioners ask the Court to review the Deputy Commissioner’s alternate care 
+decision. On appeal, Petitioners make two arguments for error on the part of the Deputy Commissioner. 
+Each will be addressed in turn. 
+Petitioners first contend the Deputy Commissioner erred in determining that the FCE Heilman 
+sought in his alternate care application was an appropriate subject for an alternate care proceeding under 
+Iowa Code Section 85.27. Petitioners contend the Deputy Commissioner’s decision was not supported by 
+substantial evidence and was not consistent with agency precedent.  
+E-FILED  2020 APR 09 5:12 PM POLK - CLERK OF DISTRICT COURT
+
+8 
+ 
+Numerous deputy commissioner decisions have considered this question over the years. Petitioners 
+highlight Heitman where a deputy workers’ compensation commissioner faced a similar issue and reviewed 
+past deputy commissioners’ decisions. See Heitman v. Seaton Corp., File No. 506002 (Alternate Medical 
+Care, Sept. 2015). The Heitman deputy commissioner concluded that whether an FCE is properly 
+considered medical treatment under Iowa Code section 85.27 is a fact-specific determination. The deputy 
+commissioner then outlined the agency’s precedent on the matter, explaining: 
+If the [FCE] is conducted for purposes of determining ranges of motions and other factors 
+necessary for rendering a permanent impairment rating or establishing (or defending) a 
+claim for permanent disability, the functional capacity evaluation is not likely to be 
+considered medical treatment pursuant to Iowa Code section 85.27. Crawford v. Maytag 
+Co., File No. 5022533 (Alternate Medical Care February 2008).  
+ 
+On the other hand, if the purposes of the [FCE] is to help the treating physician to diagnose, 
+or quantify, claimant’s residual functional abilities for purposes of assisting the physician 
+to outline permanent work restrictions, then the [FCE] is more like treatment and is 
+compensable pursuant to Iowa Code section 85.27. Sears v. Midwest Continental, Inc., File 
+No. 5029555 (Alternate Medical Care July 2009).  
+ 
+In Heitman, the deputy commissioner found that the purpose of the FCE at issue was to assess the claimant's 
+residual physical and functional capabilities to outline medical restrictions for employment activities, or in 
+other words “to assist in establishing [the] claimant’s work restrictions,” and concluded the FCE was 
+treatment or diagnosis under Iowa Code section 85.27.  
+While the Deputy Commissioner did not cite to previous agency precedent on the FCE issue here, 
+he found the FCE in this case similar to an x-ray, in that it is used to assess the patient’s existing condition 
+and may or may not lead to any additional treatment or change in treatment. Additionally, the Deputy 
+Commissioner identified Dr. Meyer’s basis for recommending the FCE to support his determination. To 
+reiterate the facts section above, Dr. Meyer explained he recommended the FCE because: 
+I do not think that [Heilman] is able to function under his current functional capacity, 
+especially since his second injury, so I would recommend that he undergo a repeat FCE to 
+see if things have changed since his injury in December [2018], and then we will make 
+further decision. 
+ 
+Petitioners suggest the clear purpose of the FCE Dr. Meyer recommended was to determine the 
+permanent disability level that Heilman will contend he is entitled to from his second work injury, and 
+E-FILED  2020 APR 09 5:12 PM POLK - CLERK OF DISTRICT COURT
+
+9 
+ 
+concluded this case was more similar to Crawford where the deputy commissioner determined that the FCE 
+was not medical care under section 85.27. Petitioners posit that “[t]here is no mention in Dr. Meyer’s notes 
+indicating the FCE is for another purpose, and he makes no mention of any additional treatment.” The Court 
+does not find this argument or the facts cited to support it persuasive. Dr. Meyer’s notes from Heilman’s 
+May 1, 2019 appointment make no suggestion that the FCE was to determine Heilman’s permanent 
+disability level.  
+Petitioners also point out that the Deputy Commissioner stated the purpose of the FCE was to 
+determine Heilman’s present capabilities, and to see if things have changed since his December injury, 
+based on Dr. Meyer’s concern that Heilman might not be able to function under his current functional 
+capacity. Immediately after this, the Deputy Commissioner also stated that “[i]n other words the presently 
+recommended FCE is to determine [Heilman’s] condition to ensure the present restrictions are appropriate 
+or adjust them according to the new FCE.” Rather than supporting the Petitioners’ argument, the Court 
+finds these facts support the Deputy Commissioner’s finding that the FCE recommended by Dr. Meyer was 
+appropriately categorized as medical treatment under Section 85.27.  This is because the Court finds the 
+basis for the FCE at issue in this case, to assess Heilman’s then-current condition to better inform his work 
+restrictions, to be similar to the bases in the agency decisions in Heitman and Sears, where the agency found 
+the FCE’s to be medical treatment under Iowa Code section 85.27. As such, the Court concludes that the 
+Deputy Commissioner’s decision is supported by substantial evidence and  is consistent with the agency’s 
+prior practices and precedent.1 
+                                                          
+1 As noted in Cannon v. Whited, 810 N.W.2d 532 n.2 (Iowa Ct. App. 2012), this Court also recognizes  that the 
+“‘controlling legal standards are those set out in the workers' compensation statutes and in this court's opinions, not 
+in prior agency decisions.’ Finch v. Schneider Specialized Carriers, Inc., 700 N.W.2d 328, 332 (Iowa 2005); accord 
+Keystone Nursing Care Ctr. v. Craddock, 705 N.W.2d 299, 304 n.2 (Iowa 2005) (‘[T]he commissioner's final 
+decision is judged against the backdrop of the workers' compensation statute and the Iowa appellate cases 
+interpreting it, not previous agency decisions.’). But see Iowa Code § 17A.19(10)(h) (authorizing reversal on 
+‘[a]ction other than a rule that is inconsistent with the agency's prior practice or precedents, unless the agency has 
+justified that inconsistency by stating credible reasons sufficient to indicate a fair and rational basis for the 
+inconsistency’).” 
+E-FILED  2020 APR 09 5:12 PM POLK - CLERK OF DISTRICT COURT
+
+10 
+ 
+Next, Petitioners assert that, in finding that Heilman was entitled to alternate medical care, the 
+Deputy Commissioner’s decision was erroneous as a matter of law and his application of law to facts was 
+irrational, illogical, and wholly unjustifiable. Petitioners also take issue with the Deputy Commissioner’s 
+apparent reliance on Pote, an agency-review reopening decision.  
+Petitioners first contend the Deputy Commissioner erred as a matter of law by not applying the 
+proper legal test in granting Heilman’s alternate care application. The Court first notes the controlling case 
+law on the matter, as succinctly summarized in Lynch Livestock, Inc. v. Bursell, 870 N.W.2d 274 (Table) 
+(Iowa Ct. App. 2015), is as follows:  
+The employee requesting the care has the burden to prove the care being offered by the 
+employer is unreasonable. R.R. Donnelly & Sons v. Barnett, 670 N.W.2d 190, 196-96 (Iowa 
+2003). ‘“Determining what care is reasonable under the statute is a question of fact.’” 
+Pirelli-Armstrong Tire Co. v. Reynolds, 562 N.W.2d 433, 436 (Iowa 1997) (quoting Long 
+v. Roberts Dairy Co., 528 N.W.2d 122, 123 (Iowa 1995)). But, if the employee proves the 
+care authorized by the employer has not been effective and that the care is inferior or less 
+extensive than the care requested by the employee, the agency is justified in ordering the 
+alternate care. Id. at 437. 
+ 
+Additionally, as cited by the Deputy Commissioner in Long, unreasonableness can be shown where the 
+claimant shows either that the care was not offered promptly, was not reasonably suited to treat the injury, 
+or that the care was unduly inconvenient for the claimant. Long v. Roberts Dairy Co., 528 N.W.3d 122, 123 
+(Iowa 1995).  
+ 
+As an initial matter, the Court finds that the Deputy Commissioner cited the correct case law with 
+respect to the burden of proof in alternate medical care proceedings. Nevertheless, Petitioners observe that 
+in this case the Deputy Commissioner determined that the failure of Petitioners to authorize the FCE 
+recommended by Heilman’s authorized treating physician was unreasonable. They contend that the finding 
+the Deputy Commissioner needed to make was that the care being offered to Heilman, in the form of 
+physical therapy recommended by Dr. Boulden, was unreasonable, and because he did not, he committed 
+an error of law.  
+ 
+On this point, the Court disagrees. While the Deputy Commissioner’s ultimate finding was not 
+stated with perfect clarity, by finding Petitioners’ failure to authorize the FCE was unreasonable, the logical 
+E-FILED  2020 APR 09 5:12 PM POLK - CLERK OF DISTRICT COURT
+
+11 
+ 
+complement of that proposition is that the care the Petitioners offered, which did not include provisions for 
+an FCE, was unreasonable. The Court finds this case is distinguishable from Bursell where the Iowa Court 
+of Appeals found fault with the application of law to fact of the agency’s alternate care decision because 
+“[n]owhere in the decision did the deputy commissioner conclude that the care being offered by the 
+employer was unreasonable, had not been effective, or was inferior or less extensive.” Bursell, 870 N.W.2d 
+at 274.  
+Nevertheless, the Court does take issue with whether the Deputy Commissioner applied the correct 
+law to the facts in reaching his ultimate determination which, as noted above, was phrased appropriately.  
+In applying the law to the facts the Deputy Commissioner stated:  
+I conclude based on the above stated law that failure to authorize the FCE as recommended 
+by the authorized treating physician, which will assist with the establishment of current 
+and safe restrictions, is unreasonable. 
+ 
+In the Court’s view, the above-stated law the Deputy Commissioner was relying on and the law the 
+agency’s decision rested on were the prior agency rulings in Assman and Pote, and not case law of Iowa 
+courts, such as Long, which provides Court sanctioned grounds for establishing the care authorized by the 
+employer is unreasonable. In Respondent's brief, Heilman apparently agrees, citing Pote and Assmann as 
+the law on which the Deputy Commissioner reached his conclusion.  Pote explains that employers cannot 
+interfere with the medical judgment of their own treating physician and that reasonable care includes care 
+necessary to diagnose the claimant’s condition. In Bursell, the Iowa Court of Appeals encountered a similar 
+situation, observing that the agency cited Pote in its alternate medical care decision for the proposition that 
+an employer is “not entitled to interfere with the medical judgment of its own treating physician.” The Court 
+pointed out that the Pote case itself was not an alternate medical care decision and explained it was “not 
+bound by the agency's precedent and offer[s] no opinion on whether this is a correct statement of the law 
+as that issue is not before us on appeal.” This court observes that the “controlling legal standards are those 
+set out in the workers' compensation statutes and in this court's opinions, not in prior agency decisions.” 
+Finch v. Schneider Specialized Carriers, Inc., 700 N.W.2d 328, 332 (Iowa 2005). As such, this Court finds 
+the Deputy Commissioner’s over-reliance on Assmann and Pote in reaching its ultimate conclusion to be 
+E-FILED  2020 APR 09 5:12 PM POLK - CLERK OF DISTRICT COURT
+
+12 
+ 
+misplaced. Because the agency failed to apply the correct legal standard to the facts of the case, i.e. the 
+legal standards set out in the workers’ compensation statutes and Iowa courts’ opinions, the Court finds the 
+agency's decision was irrational, illogical, and wholly unjustifiable and must be remanded to the agency to 
+apply the correct standard to Heilman’s application for alternate medical care.  
+CONCLUSION 
+IT IS THEREFORE ORDERED the Deputy Commissioner’s alternate care decision is 
+AFFIRMED in part and REMANDED back to the agency to rule on Respondent’s alternate medical care 
+application consistent with the Court’s ruling.   
+Costs of the appeal are taxed to Petitioners. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E-FILED  2020 APR 09 5:12 PM POLK - CLERK OF DISTRICT COURT
+
+State of Iowa Courts
+Type:
+OTHER ORDER
+Case Number
+Case Title
+CVCV058918
+LANDUS COOPERATIVE ET AL VS AUSTIN HEILMAN
+So Ordered
+Electronically signed on 2020-04-09 17:12:17     page 13 of 13
+E-FILED  2020 APR 09 5:12 PM POLK - CLERK OF DISTRICT COURT

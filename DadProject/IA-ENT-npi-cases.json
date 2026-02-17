@@ -1,0 +1,185 @@
+{
+  "query": {
+    "taxonomy_description": "Otolaryngology",
+    "state": "IA",
+    "distance_from": "Washington, IA 52353"
+  },
+  "filter": "distance_washington_iowa_miles < 100",
+  "total_filtered_results": 10,
+  "results": [
+    {
+      "npi": "1730173592",
+      "first_name": "BRUCE",
+      "last_name": "GANTZ",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-2173",
+        "fax: 319-356-3967"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": [
+        "case-21008913.01.txt"
+      ],
+      "in_favor": 0,
+      "total_cases": 1
+    },
+    {
+      "npi": "1326031733",
+      "first_name": "MARLAN",
+      "last_name": "HANSEN",
+      "credentials": "MD",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-353-7151",
+        "fax: 319-356-4108"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": [
+        "case-19700200.01.txt",
+        "case-20008020.01.txt",
+        "case-21005432.01.txt"
+      ],
+      "in_favor": 0,
+      "total_cases": 3
+    },
+    {
+      "npi": "1255626685",
+      "first_name": "SCOTT",
+      "last_name": "OWEN",
+      "credentials": "M.D.",
+      "address": "200 HAWKINS DR, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-1616"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": [
+        "case-20008596.01.txt",
+        "case-5061914.02.txt"
+      ],
+      "in_favor": 0,
+      "total_cases": 2
+    },
+    {
+      "npi": "1174904890",
+      "first_name": "ADAM",
+      "last_name": "SCHWALJE",
+      "credentials": "M.D., D.M.A.",
+      "address": "200 HAWKINS DR, DEPT OF OTOLARYNGOLOGY - HEAD AND NECK SURGERY, IOWA CITY, IA, 52242-1009",
+      "contact-info": [
+        "319-356-3574",
+        "fax: 319-356-4547"
+      ],
+      "distance_washington_iowa_miles": 26.8,
+      "cases-involved": [
+        "case-20008596.01.txt"
+      ],
+      "in_favor": 1,
+      "total_cases": 1
+    },
+    {
+      "npi": "1740718931",
+      "first_name": "ELYSE",
+      "last_name": "HANLY",
+      "credentials": "MD, PhD",
+      "address": "2615 NORTHGATE DR, IOWA CITY, IA, 52245-9565",
+      "contact-info": [
+        "319-351-5680"
+      ],
+      "distance_washington_iowa_miles": 28.1,
+      "cases-involved": [
+        "case-20008596.01.txt"
+      ],
+      "in_favor": 1,
+      "total_cases": 1
+    },
+    {
+      "npi": "1063492361",
+      "first_name": "JENNIFER",
+      "last_name": "BERGE",
+      "credentials": "M.D.",
+      "address": "1225 S GEAR AVE, STE 255, WEST BURLINGTON, IA, 52655-1691",
+      "contact-info": [
+        "319-752-2725",
+        "fax: 319-753-1084"
+      ],
+      "distance_washington_iowa_miles": 42.6,
+      "cases-involved": [
+        "case-20009106.01.txt",
+        "case-22700080.01.txt"
+      ],
+      "in_favor": 0,
+      "total_cases": 2
+    },
+    {
+      "npi": "1629028956",
+      "first_name": "KEVIN",
+      "last_name": "CARPENTER",
+      "credentials": "MD",
+      "address": "202 10TH STREET SE, CEDAR RAPIDS, IA, 52403-2404",
+      "contact-info": [
+        "319-399-2022",
+        "fax: 319-399-2014"
+      ],
+      "distance_washington_iowa_miles": 47.3,
+      "cases-involved": [
+        "case-22700950.01.txt",
+        "case-5064694.01.txt"
+      ],
+      "in_favor": 1,
+      "total_cases": 2
+    },
+    {
+      "npi": "1750330684",
+      "first_name": "SCOTT",
+      "last_name": "HUEBSCH",
+      "credentials": "MD",
+      "address": "202 10TH STREET SE, CEDAR RAPIDS, IA, 52403-2404",
+      "contact-info": [
+        "319-399-2022",
+        "fax: 319-399-2014"
+      ],
+      "distance_washington_iowa_miles": 47.3,
+      "cases-involved": [
+        "case-5064694.01.txt"
+      ],
+      "in_favor": 0,
+      "total_cases": 1
+    },
+    {
+      "npi": "1225087281",
+      "first_name": "JEFFREY",
+      "last_name": "KRIVIT",
+      "credentials": "MD",
+      "address": "202 10TH STREET SE, CEDAR RAPIDS, IA, 52403-2404",
+      "contact-info": [
+        "319-399-2022",
+        "fax: 319-399-2014"
+      ],
+      "distance_washington_iowa_miles": 47.3,
+      "cases-involved": [
+        "case-5064599.01.txt"
+      ],
+      "in_favor": 0,
+      "total_cases": 1
+    },
+    {
+      "npi": "1144439548",
+      "first_name": "MICHAEL",
+      "last_name": "TELISAK",
+      "credentials": "M.D.",
+      "address": "202 10TH ST SE, SUITE 200, CEDAR RAPIDS, IA, 52403-2414",
+      "contact-info": [
+        "319-399-2022",
+        "fax: 319-399-2014"
+      ],
+      "distance_washington_iowa_miles": 47.3,
+      "cases-involved": [
+        "case-5066923.txt",
+        "case-5068734.txt"
+      ],
+      "in_favor": 1,
+      "total_cases": 2
+    }
+  ]
+}

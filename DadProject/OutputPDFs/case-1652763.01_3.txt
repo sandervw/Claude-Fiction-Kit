@@ -1,0 +1,478 @@
+Case Number: 1652763.01
+Case Title:  DAVIS, JAMIE V. GORDON FOOD - IOWA CHAIN
+Doc Type:    Decision - District Court
+Source:      Davis,Jamie-Ruling on Pet for Jud Rev 11-15-22.pdf
+========================================================================
+
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+ 
+JAMIE DAVIS, 
+ 
+               Petitioner, 
+ 
+vs. 
+ 
+GORDON FOOD SERVICE, INC. and 
+STANDARD FIRE INSURANCE 
+COMPANY, 
+ 
+               Respondents. 
+ 
+ 
+          CASE NO. CVCV063594 
+ 
+ 
+ 
+RULING ON PETITION  
+FOR JUDICIAL REVIEW 
+ 
+ 
+This is a judicial review proceeding in which the petitioner seeks judicial review 
+of a decision of the worker’s compensation commissioner dated April 13, 2022 in which 
+the commissioner affirmed the deputy’s decision that the respondents had established the 
+defense of intoxication pursuant to Iowa Code §85.16 and that the petitioner would not 
+receive benefits.  The issues before the court on judicial review are:  1) whether the 
+commissioner correctly concluded that Iowa’s workplace drug testing statute (Iowa Code 
+§730.5) is not applicable to worker’s compensation proceedings; and 2) whether the 
+commissioner correctly determined that the petitioner had failed to overcome the 
+intoxication presumption in Iowa Code §85.16.   
+ 
+The appropriate standard of review for this court is governed by Iowa Code 
+§17A.19(10).  Whether an agency’s interpretation of statutory language is to be given any 
+deference is dependent upon whether the legislature has clearly vested that agency with 
+interpretive authority: 
+When the legislature has clearly vested authority to 
+interpret statutory language in an agency, we will defer to 
+an agency interpretation of that language.  Thus, when the 
+legislature has clearly vested the agency with interpretive 
+E-FILED                    CVCV063594 - 2022 NOV 15 04:00 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 14
+
+2 
+ 
+authority, we will reverse an agency decision only when its 
+interpretation of statutory language is irrational, illogical, 
+or wholly unjustifiable.  If the legislature did not clearly 
+vest the agency with interpretive authority, however, we 
+review questions of statutory interpretation for correction 
+of errors at law. 
+ 
+Ramirez-Trujillo v. Quality Egg, L.L.C., 878 N.W.2d 759, 768 (Iowa 2016) (internal 
+citations and quotation marks omitted).  Iowa courts have repeatedly held that the 
+workers’ compensation commissioner has not been clearly vested with interpretative 
+authority over the workers’ compensation statutes in chapter 85; the mere fact that the 
+commissioner necessarily must interpret statutory language in carrying out its duties is 
+insufficient to show such authority has been clearly vested in that agency.  Id. at 769-70; 
+see also Bluml v. Dee Jay’s Inc., 920 N.W.2d 82, 84 (Iowa 2018) (“In recent years, we 
+have repeatedly declined to give deference to the commissioner’s interpretations of 
+various provisions in chapter 85”) (citation omitted).  Likewise, there is nothing in the 
+language of either Iowa Code §85.15 or §730.5 to suggest that either statute should be 
+subject to the special expertise of the commissioner.  Id.  Accordingly, the 
+commissioner’s statutory interpretation will be reviewed for errors at law.  Iowa Code 
+§17A.19(10)(c) (2021); Chavez v. MS Technology LLC, 972 N.W.2d 662, 666 (Iowa 
+2022). 
+ 
+The agency’s factual determinations regarding the applicability of the intoxication 
+defense would be clearly vested by a provision of law in the discretion of the agency, as it 
+must make such findings to determine any claimant’s rights to benefits under chapter 85.  
+Mycogen Seeds v. Sands, 686 N.W.2d 457, 465 (Iowa 2004); Regional Care Hospital 
+Partners, Inc. v. Marrs, 2021 WL 609072 *1 (Iowa Ct.App., Case No. 19-2138, filed 
+February 17, 2021).  Accordingly, the reviewing court is bound by the commissioner’s 
+E-FILED                    CVCV063594 - 2022 NOV 15 04:00 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 14
+
+3 
+ 
+findings of fact if supported by substantial evidence in the record before the court when 
+that record is viewed as a whole.  2800 Corp. v. Fernandez, 528 N.W.2d 124, 126 (Iowa 
+1995); Iowa Code §17A.19(10)(f) (2021). 
+ 
+Substantial evidence is defined for purposes of the Administrative Procedure Act 
+as “the quantity and quality of evidence that would be deemed sufficient by a neutral, 
+detached, and reasonable person, to establish the fact at issue when the consequences 
+resulting from the establishment of that fact are understood to be serious and of great 
+importance.”  Iowa Code §17A.19(10)(f)(1) (2021).  Viewing the record as a whole 
+requires the court to review not only the relevant evidence in the record cited by any 
+party that supports the agency’s findings of fact, but also any such evidence cited by any 
+party that detracts from those findings along with any determinations of veracity made by 
+the presiding officer who personally observed the demeanor of the witnesses and the 
+agency’s explanation of why the relevant evidence in the record supports its material 
+findings of fact.  Iowa Code §17A.19(10)(f)(3) (2021); Acuity Ins. v. Foreman, 684 
+N.W.2d 212, 216 (Iowa 2004), abrogated on other grounds in Kohlhaas v. Hog Slat, Inc., 
+777 N.W.2d 387, 391-92 (Iowa 2009). 
+Substantial evidence is not absent simply because it is possible to draw different 
+conclusions from the same evidence.  Id.; see also Riley v. Oscar Mayer Foods Corp., 
+532 N.W.2d 489, 491-92 (Iowa App. 1995) (“The focus of the judicial inquiry is whether 
+the evidence is sufficient to support the decision made, not whether it is sufficient to 
+support the decision not made.”).  This would be the appropriate deference afforded to 
+this agency function, as required by Iowa Code §17A.19(11)(c).  Mycogen, 686 N.W.2d 
+at 465.  Accordingly, the petitioner may not rely upon the argument that his position may 
+E-FILED                    CVCV063594 - 2022 NOV 15 04:00 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 14
+
+4 
+ 
+be supported by a preponderance of the evidence; rather, the burden is upon him to show 
+that the commissioner’s determination is lacking in substantial evidence.  Midwest 
+Ambulance Service v. Ruud, 754 N.W.2d 860, 865 (Iowa 2008). 
+The court on judicial review is required to engage in a “fairly intensive review” of 
+the record to ensure the agency’s fact finding was reasonable.  Neal, 814 N.W.2d at 525; 
+Univ. of Iowa Hosps. v. Waters, 674 N.W.2d 92, 95 (Iowa 2004).   However, courts on 
+judicial review may not engage in a “scrutinizing analysis,” or something that would 
+resemble de novo review, as such a standard of review “would tend to undercut the 
+overarching goal of the workers’ compensation system.”  Neal, 814 N.W.2d at 525; 
+Midwest Ambulance, 754 N.W.2d at 866.  That purpose has been consistently 
+summarized as follows: 
+The fundamental reason for the enactment of this 
+legislation is to avoid litigation, lessen the expense incident 
+thereto, minimize appeals, and afford an efficient and 
+speedy tribunal to determine and award compensation 
+under the terms of this act. 
+ 
+It was the purpose of the legislature to create a tribunal to 
+do rough justice-speedy, summary, informal, untechnical. 
+With this scheme of the legislature we must not interfere; 
+for, if we trench in the slightest degree upon the 
+prerogatives of the commission, one encroachment will 
+breed another, until finally simplicity will give way to 
+complexity, and informality to technicality. 
+ 
+Zomer v. West Farms Inc., 666 N.W.2d 130, 133 (Iowa 2003) (quoting Flint v. City of 
+Eldon, 191 Iowa 845, 847, 183 N.W. 344, 345 (1921)); see also Arndt v. City of Le 
+Claire, 728 N.W.2d 389, 394 (Iowa 2007) (“Making a determination as to whether 
+evidence ‘trumps’ other evidence or whether one piece of evidence is ‘qualitatively 
+weaker’ than another piece of evidence is not an assessment for the district court or the 
+E-FILED                    CVCV063594 - 2022 NOV 15 04:00 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 14
+
+5 
+ 
+court of appeals to make when it conducts a substantial evidence review of an agency 
+decision”). 
+ 
+On the other hand, the application of the law by the commissioner to its own 
+factual determinations requires a different standard upon judicial review.  As the 
+application of law to facts is also vested in the discretion of the agency, it is only to be 
+reversed if found to be irrational, illogical or wholly unjustifiable.  Jacobson Transp. Co. 
+v. Harris, 778 N.W.2d 192, 196 (Iowa 2010); Iowa Code §17A.19(10)(m) (2021): 
+A decision is irrational when it is not governed by or 
+according to reason.  A decision is illogical when it is 
+contrary to or devoid of logic.  A decision is unjustifiable 
+when it has no foundation in fact or reason. 
+ 
+The Sherwin-Williams Co. v. Iowa Dep’t of Revenue, 789 N.W.2d 417, 432 (Iowa 2010) 
+(internal quotation marks and citations omitted).  The difference between these varying 
+standards of review was best summarized in this quote from the Iowa Supreme Court: 
+Although a claim of insubstantial evidence is usually used 
+to challenge findings of fact, we understand how it can be 
+implicated, as in this case, in a challenge to a legal 
+conclusion.  Error occurs when the commissioner makes a 
+legal conclusion based on facts that are inadequate to 
+satisfy the governing legal standards.  Yet, a claim of 
+insubstantial evidence to support a legal conclusion does 
+not give rise to the standard of review applicable to the 
+claim of substantial evidence to support the factual findings 
+by the commissioner.  When the commissioner takes a 
+piece of evidence and uses it to draw a legal conclusion…, 
+we do not review the conclusion by looking at the record as 
+a whole to see if there was substantial evidence that could 
+have supported the ultimate decision, as argued by IBP in 
+this case.  Instead, we review the decision made.  If the 
+commissioner fails to consider relevant evidence in making 
+a conclusion, fails to make the essential findings to support 
+the legal conclusion, or otherwise commits an error in 
+applying the law to facts, we remand for a new decision 
+unless it can be made as a matter of law. 
+ 
+E-FILED                    CVCV063594 - 2022 NOV 15 04:00 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 14
+
+6 
+ 
+Meyer v. IBP, Inc., 710 N.W.2d 213, 219-20 n.1 (Iowa 2006).  As a result, even if this 
+determines that the commissioner’s factual findings are supported by substantial 
+evidence, this is only the beginning of the analysis.  If the commissioner’s factual 
+findings are upheld, this court must then determine “whether the agency abused its 
+discretion by, for example, employing wholly irrational reasoning or ignoring important 
+and relevant evidence.”  Id. at 219. 
+ 
+Taking the agency record as a whole, the following facts were available to the 
+commissioner:  The petitioner was 49 years of age at the time of hearing before the 
+deputy commissioner.  He was hired by Gordon Foods in February of 2018 as a chain 
+delivery truck driver.  In that job, he drove a set route between Des Moines and Sioux 
+City; he would leave Des Moines on Sunday evenings at around midnight, after a conduct 
+a pre-trip inspection of the truck.  His first stop in Sioux City would be at Mercy 
+Hospital, where he would be required to move 200 to 300 pounds of food up steps using a 
+hand cart.  Typically, after the Mercy Hospital stop, he would make additional stops at a 
+college and multiple restaurants before going to a local hotel to sleep.  He would then 
+make one more stop in Sioux City the next day (Tuesday) and return to Des Moines.  He 
+would have Wednesdays off and then repeat the same route on Thursday and Friday. 
+ 
+On August 23, 2018 (a Thursday), the petitioner was in the midst of his unloading 
+at Mercy Hospital when he felt his back “give out.”  He testified that he had delivered 
+eight to ten loads up the stairs, and he was at the “very top step [preparing to] go to turn 
+to pull the cart up the last step” when he was injured.  He was unable to move, and 
+eventually was assisted back to his truck after 35 to 40 minutes of lying on the ground.  
+He contacted his supervisor, Bob Bonea, over the phone; Bonea told him to call an 800 
+E-FILED                    CVCV063594 - 2022 NOV 15 04:00 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 14
+
+7 
+ 
+number to schedule treatment and that someone would be finishing his route.  Bonea 
+drove a van to Sioux City yet that day and finished the petitioner’s route.  The petitioner 
+eventually drove the van back to Des Moines after he evaluated; he had to use his left 
+foot to drive because of his back pain.   
+ 
+The petitioner went to Mercy Business Health Services in Sioux City to be 
+evaluated after calling the 800 number given to him by Bonea.  In addition to being 
+evaluated for his injury there, he was also given a drug test.  This type of testing is 
+required at Gordon Foods whenever an employee is injured on the job.  The Sioux City 
+facility obtained a urine sample from the petitioner, which tested positive for 
+methamphetamine and amphetamines.   The test results were communicated on 
+September 4, 2018.  The test utilized a single urine sample; the sample was not split.  A 
+follow-up report from the author of the report, Dr. Jerome Cooper, dated October 15, 
+2020 provided that 1) the way the testing was done would eliminate the potential for false 
+positives; 2) other than diet pills, there are no current prescriptions for 
+methamphetamines; 3) methamphetamine is quickly metabolized, which would include 5 
+days or less; 4) methamphetamine can cause hallucinations, hyperactivity and confusion; 
+5) he had no concerns regarding the collection methods or chain of custody in regarding 
+to the petitioner’s urine sample; and 6) the testing was valid. 
+ 
+The petitioner testified at hearing that he was not surprised by the positive drug 
+results, as he admitted to using methamphetamine three to four days prior to the test and 
+he knew that “it takes four to five days to get out of your system.”  The petitioner had 
+been a methamphetamine user in the past, which resulted in a lengthy incarceration in 
+E-FILED                    CVCV063594 - 2022 NOV 15 04:00 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 14
+
+8 
+ 
+federal prison from late 1999 to September of 2016.1  The petitioner testified that using 
+methamphetamine can cause irritability, loss of equilibrium, fidgeting, as well as the 
+inability to control one’s hands or legs; he described these physical reactions as “almost 
+kind of like being—having a—being drunk, unable to control yourself.”  He denied being 
+high on methamphetamine on the day of the injury, and testified that no one he 
+encountered that day said anything about him being impaired.2   
+ 
+As a result of the positive drug test, the petitioner’s employment with Gordon 
+Foods was terminated.  The use of the drug test in question and the eventual termination 
+of the petitioner’s employment was all consistent with the drug testing policy set out in 
+the employee handbook used by Gordon Foods, which the petitioner received when he 
+started there.  On September 13, 2018, the petitioner’s worker’s compensation claim was 
+formally denied on the basis of the positive test result, referencing the language in Iowa 
+Code §85.16. 
+ 
+The matter came to hearing before Deputy Commissioner Heather Palmer on 
+August 2, 2021.  An arbitration decision was entered on November 5, 2021; that decision 
+determined that the positive test result created a presumption of intoxication for purposes 
+of §85.16, which had not been rebutted by the petitioner.  The deputy rejected the 
+petitioner’s argument that the drug testing report was inadmissible as a result of the 
+testing procedures not conforming to Iowa Code §730.5; in so holding, she ruled that 
+recent amendments to §85.16 (which went into effect July 1, 2017), by not referring to 
+                                                 
+1 He was placed on probation for 10 years following his release from prison.  The positive drug test resulted 
+in him serving four months in prison; he was still on probation at the time of hearing. 
+2 He also testified that a methamphetamine “high” usually lasted six to eight hours.   
+E-FILED                    CVCV063594 - 2022 NOV 15 04:00 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 14
+
+9 
+ 
+§730.5, referenced a legislative intent to not have the latter statute be applicable in a 
+worker’s compensation proceeding: 
+Iowa Code section 85.16 does not mention Iowa Code 
+section 730.5, or the requirements of the section for 
+employee drug and alcohol testing.  Iowa Code section 
+85.16 applies to all employers, both public and private.  
+Iowa Code section 730.5 governs drug and alcohol testing 
+in the “private sector.”  Certainly, when the Iowa 
+Legislature modified Iowa Code section 85.16 in 2017, it 
+was aware of Iowa Code section 730.5 and chose not to 
+include the drug and alcohol testing requirements of that 
+section to be applied to workers’ compensation cases.3 
+ 
+  In coming to this conclusion, the deputy found as follows: 
+Davis avers he was not intoxicated at the time of his injury 
+and that he has overcome the presumption.  No one was 
+present at the time Davis was injured.  Bonea did not 
+physically see Davis on the date of his injury.  And while 
+Davis drove the company van back to Des Moines without 
+incident, the fact he did so does not prove he was not 
+intoxicated.  Davis presented self-serving testimony that he 
+was not intoxicated.  He presented no expert report, expert 
+testimony, or published studies supporting his self-serving 
+testimony.  He did not call any witnesses at hearing who 
+observed him on the date of the accident.   
+ 
+ 
+The arbitration decision was appealed to Workers Compensation Commissioner 
+Joseph Cortese II, who entered his appeal decision on April 13, 2022.   In that decision, 
+the commissioner affirmed the deputy’s findings of fact and conclusions of law as “a 
+well-reasoned analysis of all the issues raised in the arbitration proceeding.”  Specifically, 
+the commissioner held that the respondents had carried their burden of proof to establish 
+                                                 
+3 The deputy also distinguished two earlier cases (both pre-amendment to §85.16) that disallowed the use of 
+a drug test obtained in violation of §730.5 in disqualifying an employee from receiving unemployment 
+benefits.  Eaton v. Iowa Employment Appeal Bd., 602 N.W.2d 553 (Iowa 1999); Harrison v. Iowa 
+Employment Appeal Bd., 659 N.W.2d 581 (Iowa 2003).  The deputy noted, “Again, the Iowa Legislature 
+would have been aware of these cases when it enacted changes to Iowa Code section 85.16.  I do not find 
+either case controlling in this workers’ compensation case.” 
+E-FILED                    CVCV063594 - 2022 NOV 15 04:00 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 14
+
+10 
+ 
+that the petitioner was intoxicated when he was injured, and that the petitioner had failed 
+to overcome the presumption that the intoxication was a substantial factor in causing the 
+work injury.  Accordingly, the commissioner ruled that the petitioner was to take nothing 
+from this proceeding.  A timely petition for judicial review was filed on May 3, 2022. 
+ 
+Applicability of §730.5.  When the legislature enacted Iowa Code §730.5 in its 
+original form, the statute explicitly provided that it was not applicable to “drug tests 
+conducted to determine if an employee is ineligible to receive workers’ compensation 
+under section 85.16, subsection 2.”  1987 Iowa Acts ch. 208, §1.  That language was 
+removed when the statute was rewritten in 1998; there is no reference to the worker’s 
+compensation process in the current version of §730.5(2).  1998 Iowa Acts ch. 1011, §1.  
+However, the 1998 rewrite provided for the following language in another section, which 
+continues to the present day: 
+8.  Drug or alcohol testing.  Employers may conduct drug 
+or alcohol testing as provided in this subsection: 
+…. 
+ 
+f.  Employers may conduct drug or alcohol testing in 
+investigating accidents in the workplace in which the 
+accident resulted in an injury to a person for which injury, 
+if suffered by an employee, a record or report could be 
+required under chapter 88, or resulted in damage to 
+property, including to equipment, in an amount reasonably 
+estimated at the time of the accident to exceed one 
+thousand dollars. 
+ 
+Iowa Code §730.5(8)(f) (2021).  The petitioner argues that this language mandates that 
+any drug testing to establish an intoxication defense under §85.16 must comply with the 
+procedures set forth in §730.5 or be excluded as evidence on that issue.  While 
+compelling at first blush, the argument fails to recognize the impact of later legislative 
+action taken in 2017 amending §85.16(2).  The court agrees with the commissioner’s 
+E-FILED                    CVCV063594 - 2022 NOV 15 04:00 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 14
+
+11 
+ 
+conclusion that the 2017 amendment evinces a legislative intent that the procedures in 
+§730.5 are not required to establish an intoxication defense under §85.16. 
+ 
+The amendment to §85.16 added subsection (2)(b), which created the presumption 
+and burden-shifting that is at the heart of the present dispute.  That language reads as 
+follows: 
+b. For the purpose of disallowing compensation under this 
+subsection, both of the following apply: 
+ 
+(1) If the employer shows that, at the time of the injury or 
+immediately following the injury, the employee had 
+positive test results reflecting the presence of alcohol, or 
+another narcotic, depressant, stimulant, hallucinogenic, or 
+hypnotic drug which drug either was not prescribed by an 
+authorized medical practitioner or was not used in 
+accordance with the prescribed use of the drug, it shall be 
+presumed that the employee was intoxicated at the time of 
+the injury and that intoxication was a substantial factor in 
+causing the injury. 
+ 
+(2) Once the employer has made a showing as provided in 
+subparagraph (1), the burden of proof shall be on the 
+employee to overcome the presumption by establishing that 
+the employee was not intoxicated at the time of the injury, 
+or that intoxication was not a substantial factor in causing 
+the injury. 
+ 
+Iowa Code §85.16(2)(b) (2021).  This language would be applicable to the present case, 
+as it applies to injuries occurring on or after July 1, 2017. 2017 Iowa Acts ch. 23, §24.   
+ 
+When the legislature amended §85.16 in 2017, it could have specified that any 
+testing utilized to create a presumption of intoxication had to comply with the 
+requirements of §730.5.  Its failure to be so specific is evidence that the legislature did 
+not intend that the provisions of §730.5 were grafted onto the process available to 
+employers under §85.16: 
+E-FILED                    CVCV063594 - 2022 NOV 15 04:00 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 11 of 14
+
+12 
+ 
+In the field of statutory interpretation, legislative intent is 
+expressed by omission as well as by inclusion.  The express 
+mention of certain conditions of entitlement implies the 
+exclusion of others. 
+ 
+Barnes v. Iowa Dep’t of Transp., 385 N.W.2d 260, 263 (Iowa 1986); Baird v. Oldfield, 
+2006 WL 3615053 *2 (Iowa Ct.App., Case No. 05-2043, filed December 13, 2006) 
+(failure to include mention of a private cause of action for violations of Door-to-Door 
+Sales Act revealed legislative intent to exclude private remedy).  The commissioner 
+correctly held that Iowa Code §730.5 does not apply in a worker’s compensation 
+proceeding in gauging an employer’s intoxication defense. 
+ 
+Evidence of rebutting presumption.  There being no other challenge to the test 
+results utilized by Gordon Food herein, they create a presumption that the petitioner was 
+intoxicated at the time of his injury and that this intoxication was a substantial factor in 
+causing his injury.  Iowa Code §86.15(2)(b)(1)(2021).  The burden then shifts to the 
+petitioner to establish the contrary (either that he was not intoxicated or that the 
+intoxication was not a substantial factor in causing his injury).  The only evidence offered 
+by the petitioner in this regard was 1) his own denials of intoxication; and 2) his driving 
+of the company van back to Des Moines after he was evaluated in Sioux City.  The 
+commissioner weighed the competing evidence and found the petitioner’s lacking in 
+credibility.  It is not the job of the district court on judicial review to reweigh that 
+evidence.  Westling v. Hormel Foods Corp., 810 N.W.2d 247, 254 (Iowa 2012); Titan 
+Tire Corp. v. Employment Appeal Bd., 641 N.W.2d 752, 755 (Iowa 2002) (“[W]e do not 
+reassess the weight to be accorded various items of evidence.  Weight of evidence 
+remains within the agency’s exclusive domain”). 
+E-FILED                    CVCV063594 - 2022 NOV 15 04:00 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 12 of 14
+
+13 
+ 
+ 
+This is consistent with the longstanding deference given to an agency’s credibility 
+determinations in determining whether substantial evidence supports a factual finding: 
+It is the commission's role to determine the credibility of 
+the witnesses[, a]nd the reviewing court only determines 
+whether substantial evidence supports a finding according 
+to those witnesses whom the commissioner believed. 
+ 
+ConAgra Foods, Inc. v. Moore, 2022 WL 1658707 *3 (Iowa Ct.App., Case No. 21-0339, 
+filed May 25, 2022) (quoting Arndt, 728 N.W.2d at 394-95).  The commissioner found 
+the petitioner’s denials to be self-serving and lacking corroboration, and therefore not 
+credible.  The court accepts this determination as appropriate, and finds that the 
+commissioner’s ultimate conclusion that the petitioner failed to rebut the statutory 
+presumption of intoxication was both supported by substantial evidence and was neither 
+irrational, illogical nor wholly justifiable.  That decision will likewise be affirmed. 
+ 
+IT IS THEREFORE ORDERED that the decision of the workers’ compensation 
+commissioner previously entered in this matter on April 13, 2022 is affirmed in its 
+entirety.  The costs associated with this proceeding are assessed to the petitioner. 
+ 
+In addition to all other persons entitled to a copy of this order, the Clerk shall provide a 
+copy to the following: 
+ 
+Workers’ Compensation Commissioner 
+1000 E. Grand Ave. 
+Des Moines, IA  50319-0209 
+ 
+Re:  File No. 1652763.01 
+ 
+ 
+ 
+E-FILED                    CVCV063594 - 2022 NOV 15 04:00 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 13 of 14
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV063594
+JAMIE DAVIS VS GORDON FOOD SERVICE INC ET AL
+Type:
+OTHER ORDER
+So Ordered
+Electronically signed on 2022-11-15 16:00:52
+E-FILED                    CVCV063594 - 2022 NOV 15 04:00 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 14 of 14

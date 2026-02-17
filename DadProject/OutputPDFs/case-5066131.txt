@@ -1,0 +1,1593 @@
+Case Number: 5066131
+Case Title:  GALLEGOS, PEDRO V. SHELLY KRIEG INC
+Doc Type:    Decision - Deputy
+Source:      Gallegos Pedro5066131d.pdf
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+PEDRO TARELO GALLEGOS, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                          File No. 5066131 
+SHELLY KRIEG INC., 
+  : 
+ 
+ 
+  :                      A R B I T R A T I O N  
+ 
+Employer, 
+  : 
+ 
+ 
+  :                           D E C I S I O N 
+and 
+ 
+  : 
+ 
+ 
+  : 
+GRINNELL SELECT INSURANCE 
+  : 
+COMPANY, 
+  :      Headnotes: 1108.20, 1108.50, 1402.30, 
+ 
+ 
+  :             1402.40, 1802, 1803.1, 1804, 2204, 
+ 
+Insurance Carrier, 
+  :           2206  2501, 2502, 2907, 3002, 4100 
+ 
+Defendants. 
+  :       
+______________________________________________________________________ 
+Claimant Pedro Gallegos filed a petition in arbitration on September 21, 2018, 
+alleging he sustained injuries to his left lower extremity, bilateral shoulders, bilateral 
+upper extremities, back, and body burns while working for the defendant, Shelly Krieg 
+Inc. (“the Employer”), on March 23, 2018.  The Employer and its insurer, the defendant, 
+Grinnell Select Insurance Company (“Grinnell”), filed an answer on September 25, 
+2018.  Gallegos later amended his petition to include permanent total disability, odd-lot, 
+and a claim for penalty benefits.   
+An arbitration hearing was held in Des Moines on October 1, 2019.  At hearing 
+Gallegos further alleged he sustained a mental injury caused by the work injury.  
+Attorney Thomas Drew represented Gallegos.  Gallegos appeared and testified.  
+Attorney Stephen Spencer represented the Employer and Grinnell.  David Krieg, Shelly 
+Krieg, and Mary Kay Ireland appeared and testified on behalf of the Employer and 
+Grinnell.  Karen Deters provided Spanish interpretation services during the hearing.  
+Joint Exhibits (“JE”) 1 through 13, and Exhibits 1 through 13 and A through K were 
+admitted into the record.  The record was held open through November 22, 2019, for 
+the receipt of post-hearing briefs.  The briefs were received and the record was closed.   
+At the start of the hearing the parties submitted a hearing report, listing 
+stipulations and issues to be decided.  The Employer and Grinnell waived all affirmative 
+defenses.   
+ 
+ 
+ELECTRONICALLY FILED     2020-Feb-20  16:04:09     DIVISION OF WORKERS' COMPENSATION
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 2 
+ 
+ 
+STIPULATIONS 
+1. 
+An employer-employee relationship existed at the time of the alleged 
+injury. 
+2. 
+Gallegos sustained an injury on March 23, 2018, which arose out of and in 
+the course of his employment. 
+3. 
+The alleged injury is a cause of temporary disability during a period of 
+recovery. 
+4. 
+The alleged injury is a cause of permanent disability. 
+5. 
+At the time of the alleged injury Gallegos was married and entitled to three 
+exemptions. 
+6. 
+Costs have been paid. 
+ISSUES 
+1. 
+What is the nature of the injury? 
+2. 
+What is the extent of disability? 
+3. 
+Has Gallegos established he is permanently and totally disabled under the 
+statute or common law odd-lot doctrine? 
+4. 
+Is Gallegos entitled to temporary disability benefits? 
+5. 
+Are the Employer and Grinnell entitled to a credit? 
+6. 
+What is the commencement date for permanent partial disability benefits? 
+7. 
+What is the rate? 
+8. 
+Is Gallegos entitled to payment of medical expenses? 
+9. 
+Is Gallegos entitled to recover the cost of an independent medical 
+examination? 
+10. 
+Is Gallegos entitled to an award of penalty benefits for an alleged failure to 
+pay temporary partial disability benefits? 
+11. 
+Should costs be assessed against either party? 
+ 
+ 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 3 
+ 
+ 
+FINDINGS OF FACT 
+Gallegos is married with three children.  (Exhibit 6, page 65)  Gallegos was born 
+in Michoacan, Mexico, and he moved to the United States as a teenager.  (Transcript, p. 
+13)  Gallegos completed the sixth grade in Mexico, and ninth and tenth grades in 
+California.  (Ex. 6, p. 66; Tr., pp. 13-14, 43, 45)  Gallegos reported he did not do well in 
+high school because he did not understand English well.  (Tr., p. 14)  Gallegos testified 
+he can read and write in Spanish, but not in English.  (Tr., pp. 15-16)  Gallegos has a 
+driver’s license.  (Tr., p. 16)   
+After high school Gallegos returned to Mexico for a period of time.  (Tr., pp. 46-
+47)  Gallegos returned to the United States approximately twenty-seven years ago.  
+(Tr., p. 47)  Gallegos has not completed any education beyond the tenth grade.  (Tr., p. 
+14)  At the time of the hearing he was forty-eight.  (Tr., p. 13)   
+After moving to the United States, Gallegos worked as a farmhand, picking 
+avocados and citrus fruit.  (Tr., p. 16)  Gallegos later worked for an Italian restaurant 
+preparing pizzas, and as a lawn care worker.  (Ex. 6, pp. 67-68; Tr., pp. 16-17)  
+Gallegos has worked with hogs for two farming operations for many years.  (Tr., pp. 17-
+18)  Gallegos reported his agricultural work was heavy in nature and required him to 
+bend, stoop, and lift.  (Tr., p. 17)   
+The Employer hired Gallegos in November 2011.  (Ex. 6, p. 73)  Shelly and 
+David Krieg are married farmers who grow crops and raise livestock.  (Tr., p. 69)  Shelly 
+Krieg is the owner of the Employer or the hog operation Gallegos worked for at the time 
+of his work injury.  The operation is farrow-to-finish and produces roughly 35,000 hogs 
+per year.  (Tr., pp. 69-70)  During various stages of development, the hogs are moved 
+to different buildings on the Employer’s property.  (Tr., pp. 69-70)   
+While working for the Employer, Gallegos was responsible for checking the 
+nurseries and finish buildings, working with hogs weighing between twelve and 300 
+pounds, performing daily chores, including walking pens and alleys, climbing gates, 
+checking and adjusting feeders, removing dead animals, sorting pens and animals, 
+vaccinating hogs, maintaining rodent traps, washing livestock trailers and hog buildings, 
+cleaning the shop area, and loading hogs for market.  (Ex. 6, p. 73)  Gallegos testified 
+the job required constant pulling, climbing, stooping, and bending.  (Tr., p. 19)  Gallegos 
+reported he had to jump over the pens and twist at the waist.  (Tr., p. 19)  Gallegos did 
+not have access to an interpreter while working for the Employer and the Kriegs spoke 
+to him in English.  (Tr., pp. 15, 45)   
+On March 23, 2018, Gallegos was moving hogs for the Employer.  (Tr., p. 21)  
+Gallegos noticed a heater was not working properly.  (Tr., p. 21)  Gallegos disconnected 
+the heater and there was an explosion.  (Tr., pp. 21-22)  Gallegos cannot recall the 
+explosion.  (Tr. p. 22)  After the explosion Gallegos woke up ten to fifteen feet from 
+where the explosion took place.  (Tr., p. 22)  The explosion destroyed the building 
+where the heater was located. 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 4 
+ 
+ 
+Gallegos could not stand and called for help.  (Tr., p. 22)  Gallegos recalled 
+having swelling and pain in his foot, burns on his face, and problems or pain in his 
+shoulder and lower back near his waistline.  (Tr., pp. 23-24)  Gallegos was transported 
+by ambulance to the hospital.  (Tr., p. 23)   
+Gallegos was admitted to the hospital and released the next morning.  (JE 5, p. 
+29; Tr., p. 24)  A head computerized tomography exam, chest x-ray, and left foot x-ray 
+were normal.  (JE 5, pp. 33-34, 38-39)  Gallegos complained of pain in his face, a gritty 
+feeling in his eyes, and he was assessed with partial-thickness facial burns.  (JE 5, p. 
+37)  Gallegos testified after his discharge from the hospital his foot was badly swollen, 
+he could not walk, and he was experiencing bad back pain.  (Tr., p. 24)   
+On March 30, 2018, Gallegos attended an appointment with Cynthia Guthmiller, 
+ARNP, complaining of leg pain.  (JE 8, p. 83)  Guthmiller diagnosed Gallegos with a 
+burn, a deep vein thrombosis (“DVT”) of the left lower extremity, prescribed Silvadene, 
+Eliquis, and Hydrocodone-Acetaminophen, and ordered Gallegos to wear TED hose on 
+both legs and to elevate his legs.  (JE 8, pp. 84-85)  Gallegos testified at that time he 
+was having pain in his foot, back, shoulder, and face.  (Tr., p. 25) 
+On April 10, 2018, Gallegos attended an appointment with Alexandria Kohn, 
+ARNP, for a second opinion, complaining of right shoulder blade, mid back, and lower 
+back pain starting in his trapezius muscle and radiating down into the lower portion of 
+his back, left ankle pain, difficulty bearing weight on the left lower extremity, and itching 
+and pain in his face.  (JE 2, p. 4)  Gallegos expressed anxiety about the accident, noting 
+he was concerned his wife could be burned while cooking on the stove, and reporting 
+he had woken his wife up at night to check the heater that was making a noise.  (JE 2, 
+p. 4)  Kohn assessed Gallegos with burns to his face, left wrist, and ear, bilateral eye 
+irritation, mid to lower back pain, itching of the face, anxiety related to trauma, left ankle 
+pain, and DVT of the left lower extremity, recommended Gallegos complete the burn 
+care ordered by the trauma surgeon, prescribed medication and an ankle brace, and 
+ordered physical therapy.  (JE 2, pp. 6-7) 
+Gallegos testified, “[s]ince the day of the accident, my attitude changed a lot.  I 
+got mad about just any little thing.”  (Tr., p. 25)  On April 24, 2018, Gallegos attended a 
+psychiatric diagnostic evaluation appointment with Leslie McDonald-Gonzalez, LISW, 
+with Siouxland Mental Health Center, reporting he was anxious about returning to work 
+because he would have to work with heaters again.  (JE 1, p. 1)  Gallegos reported 
+having some flashbacks and being more sensitive to certain things since the accident, 
+including the furnace kicking on, and plugging in or unplugging items.  (JE 1, p. 1)  
+McDonald-Gonzalez assessed Gallegos with adjustment disorder with mixed anxiety 
+and depressed mood and noted Gallegos was not interested in services.  (JE 1, p. 2)   
+Gallegos returned to Kohn on April 26, 2018, reporting his symptoms had 
+improved overall, but he was experiencing pain in his low back that was interfering with 
+his sleep.  (JE 2, p. 8)  Kohn noted Gallegos’s burns on his wrist and face had 
+improved, but he had difficulty with flexion and extension of his back and bending to the 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 5 
+ 
+ 
+right side.  (JE 2, p. 8)  Kohn noted Gallegos had sustained burns to his eyes, and 
+documented Gallegos was using eye drops for the irritation.  (JE 2, p. 8)  Gallegos 
+reported he had attended an appointment with Siouxland Mental Health Center and they 
+were not recommending follow-up care.  (JE 2, p. 8)  Kohn assessed Gallegos with 
+burns to the face, left wrist, and ear, bilateral eye irritation, and lower back pain, and 
+noted his face itching had resolved, and his anxiety related to trauma, ankle pain, and 
+DVT of the lower extremity were resolving.  (JE 2, p. 10)  Kohn discontinued the 
+compression stocking, continued Gallegos’s Eliquis, eye drops, Biotin, and amino 
+collagen C, prescribed Lyrica, encouraged icing, ordered lumbar spine magnetic 
+resonance imaging, and restricted Gallegos from working.  (JE 2, p. 11)   
+Gallegos underwent lumbar spine magnetic resonance imaging on May 2, 2018.  
+(JE 3, p. 21)  The reviewing radiologist listed an impression of degenerative changes to 
+the lumbar spine, resulting in mild thecal sac effacement and mild to moderate neural 
+foraminal narrowing.  (JE 3, p. 22)  Gallegos testified for the first few months following 
+the accident he was in a lot of pain and his condition did not change much.  (Tr., p. 26) 
+On May 11, 2018, Gallegos attended an appointment with Kohn.  (JE 2, p. 12)  
+Kohn noted Gallegos’s range of motion in his low back, left shoulder, and left ankle had 
+improved, but he continued to have problems with his low back when bending to the left 
+side.  (JE 2, p. 13)  Kohn continued his medications, continued his physical therapy, and 
+released him to return to work on May 14, 2018, with restrictions of no work over four 
+hours at a time, no lifting, bending or twisting, occasional squatting and kneeling “very 
+minimally,” and sitting and standing, as needed.  (JE 2, pp. 13-14) 
+Gallegos testified when he returned to work, Dave Krieg, his boss, told him he 
+would be doing easier work, and to work on the mousetraps on the perimeter of the 
+pens on the outside of the finishers, and to make sure the pigs had enough feed and 
+water.  (Tr., pp. 27, 76)  Krieg testified he told Gallegos to do “whatever you’re 
+comfortable doing.”  (Tr., p. 76)  Gallegos reported when he went to change out the food 
+in the traps he had to constantly bend down, which bothered his back.  (Tr., p. 27)  
+Gallegos testified he told Krieg what was going on, and Krieg sent him home.  (Tr., p. 
+27) 
+Gallegos returned to Kohn on May 18, 2018, reporting when he returned to work 
+the Employer told him the Employer was unable to accommodate his work restrictions.  
+(JE 2, p. 15)  Kohn noted Gallegos’s affect and mood were normal, but he expressed 
+some concern about wondering if his employer believed him about his injury.  (JE 2, p. 
+15)  Kohn released Gallegos to return to work up to four hours per day, with restrictions 
+of occasional bending, squatting, and kneeling “very minimally,” no twisting, and 
+occasional lifting up to ten pounds, discontinued his Hydrocodone, continued his other 
+medications and physical therapy, and prescribed Tizanidine to assist with muscle 
+tension.  (JE 2, p. 15) 
+On May 22, 2018, Bruce Elkins, M.D., an occupational medicine physician, 
+performed an independent medical examination of Gallegos for the Employer and 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 6 
+ 
+ 
+Grinnell.  (Ex. B)  Dr. Elkins reviewed Gallegos’s medical records and examined him.  
+(Ex. B)  Dr. Elkins noted Gallegos continued to use moisturizer and sun screen for 
+burns to his face and left wrist, eye drops for minimal remaining irritation from flash 
+burns to his eyes.  He complained of minimal discomfort in his right shoulder and left 
+foot and ankle, and he complained of low back pain that is still significant at times, 
+especially with activity or when attempting to lift more than twenty-two pounds.  (Ex. B, 
+p. 12)  Dr. Elkins noted Gallegos denied experiencing radiating pain from his low back, 
+numbness, or tingling, and that Gallegos reported “significant anxiety-related symptoms 
+initially after the accident, however these are now much improved and he denies current 
+need for evaluation or treatment of any mental-health related issues.  He does not feel 
+that he will have any psychological difficulties with resuming his prior work, even when 
+required to plug in heaters or work with/around electricity/outlet such as changing light 
+bulbs.”  (Ex. B, p. 13)   
+Dr. Elkins diagnosed Gallegos with resolving facial and left wrist burns, a right 
+shoulder sprain, left foot and ankle sprain, history of left leg DVT, adjustment disorder, 
+and symptomatic exacerbation of pre-existing lumbar degenerative disc disease related 
+to the March 2018 work injury.  (Ex. B, p. 13)  Dr. Elkins recommended additional 
+physical therapy and a gradual return to work duties for Gallegos’s lumbar spine 
+condition and opined Gallegos had not reached maximum medical improvement.  (Ex. 
+B, p. 14)   
+On May 29, 2018, Gallegos attended a follow-up appointment with Kohn, 
+complaining of increased back pain and shoulder pain, some tightness near his scapula, 
+and left ankle pain with internal rotation and flexion.  (JE 2, p. 18)  Kohn restricted 
+Gallegos from working, ordered work hardening, continued his physical therapy, and 
+referred Gallegos to a foot and ankle specialist.  (JE 2, p. 19)   
+On June 5, 2018, Gallegos attended an appointment with Michael Nguyen, M.D., 
+with CNOS.  (JE 6, p. 40)  Dr. Nguyen reviewed Gallegos’s imaging, examined him, 
+ordered additional imaging of the left lower extremity and right shoulder, and imposed 
+work restrictions of no lifting over twenty pounds occasionally, no reaching above the 
+shoulder with the left arm, and occasional work with restricted standing for no more than 
+four hours without being able to rest.  (JE 6, pp. 41-43)  Gallegos received left midfoot 
+and right shoulder magnetic resonance imaging.  (JE 6, pp. 45-46)  The reviewing 
+radiologist listed an impression of elongated os peroneum without bone edema and no 
+demonstrated occult fracture in the left lower extremity, mild supraspinatus tendinosis 
+without demonstrated rotator cuff tear, suspected posterior labral tear, and mild 
+acromioclavicular arthrosis.  (JE 6, pp. 45-46) 
+Gallegos returned to Dr. Nguyen on June 20, 2018, to discuss his imaging.  (JE 
+6, p. 47)  Dr. Nguyen assessed Gallegos with left foot and ankle tendinitis, a right 
+posterior labral tear, and low back pain.  (JE 6, p. 48)  Dr. Nguyen noted there was 
+evidence of a posterior labral tear and referred him to Brian Johnson, M.D., an 
+orthopedic surgeon, for evaluation and management, documented the imaging of 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 7 
+ 
+ 
+Gallegos’s lumbar spine and left ankle did not show anything surgical, and ordered 
+physical therapy.  (JE 6, pp. 47-48) 
+On July 23, 2018, Gallegos returned to Dr. Nguyen complaining of right shoulder, 
+low back, left foot, and ankle pain.  (JE 6, p. 49)  Dr. Nguyen assessed Gallegos with 
+low back pain with facet hypertrophy and left foot and ankle tendinitis.  (JE 6, p. 49)  Dr. 
+Nguyen recommended an immobilization belt, injections, and therapy for his low back, 
+and to continue with a home exercise program for his left lower extremity.  (JE 6, p. 49) 
+During an appointment with Dr. Nguyen on August 22, 2018, Gallegos reported 
+his back brace was helpful.  (JE 6, p. 52)  Dr. Nguyen discontinued Gallegos’s physical 
+therapy for his back, recommended home exercises for his low back pain, and 
+continued his shoulder physical therapy.  (JE 6, p. 52) 
+After his shoulder surgery Gallegos attempted to return to work.  (Tr., p. 31)  
+Gallegos testified Krieg had him go and check some areas with pigs and when he 
+started jumping into the pens to check the pigs his lower back hurt.  (Tr., p. 31)  
+Gallegos was also using a power washer, which he reported put pressure on his 
+shoulder and bothered his back.  (Tr., p. 31)  Krieg denied he ever had Gallegos 
+perform work with a power washer.  (Tr., pp. 76, 79)  Krieg reported the only power 
+washer set up is for cleaning off boots at the shop.  (Tr., p. 77) 
+On September 10, 2018, Gallegos attended a follow-up appointment with Dr. 
+Nguyen.  (JE 6, p. 53)  Gallegos complained of pain with power washing at work.  (JE 6, 
+p. 53)  Dr. Nguyen assessed Gallegos with L5-S1 bilateral foraminal stenosis and a left 
+peroneal strain and recommended an epidural flood for his low back.  (JE 6, p. 54)  Dr. 
+Nguyen opined “[a]ll of these injuries I do believe are related to the explosion and are 
+symptomatic and being treated appropriately at this time.”  (JE 6, p. 54) 
+Gallegos attended an appointment with Dr. Johnson on October 12, 2018, 
+complaining of right shoulder pain.  (JE 6, p. 55)  Dr. Johnson noted Gallegos had 
+received injections for his right shoulder pain.  (JE 6, p. 55)  Dr. Johnson assessed 
+Gallegos with a right shoulder SLAP tear with associated impingement, biceps 
+tendinopathy, and symptomatic AC degenerative joint disease, discussed treatment 
+options with Gallegos, and noted Gallegos wanted to proceed with surgery.  (JE 6, p. 
+56) 
+On October 30, 2018, Dr. Johnson performed a diagnostic arthroscopy and 
+biceps tenotomy on Gallegos’s right shoulder.  (JE 4, p. 23)  Dr. Johnson listed post-
+operative diagnoses of right shoulder impingement syndrome, SLAP tear, symptomatic 
+AC degenerative joint disease, and anterior and superior labral tearing.  (JE 4, p. 23) 
+Gallegos received lumbar spine magnetic resonance imaging on November 27, 
+2018.  (JE 5, p. 25)  The reviewing radiologist listed an impression of multilevel 
+degenerative changes, most notable at L5-S1 where there is a moderate to large disc 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 8 
+ 
+ 
+bulge/osteophyte complex, bilateral facet arthrosis, and bilateral foraminal narrowing.  
+(JE 5, p. 26) 
+On December 5, 2018, Gallegos returned to Dr. Nguyen, complaining of low back 
+pain.  (JE 6, p. 57)  Dr. Nguyen noted imaging showed a worsening of his L5-S1 
+foraminal stenosis with an increasing disc bulge, combined with bilateral facet 
+arthropathy, and “a little bit more worsening on the left than the right for foraminal 
+stenosis, which actually probably corresponds to that lingering pain he has had from his 
+ankle.”  (JE 6, p. 57)  Dr. Nguyen assessed Gallegos with bilateral foraminal stenosis, 
+left worse than right, with left leg radicular features, and referred Gallegos to Michael 
+Espiritu, M.D., an orthopedic spine surgeon, for a surgical evaluation.  (JE 6, pp. 57-58) 
+Gallegos attended an appointment with Dr. Espiritu on December 19, 2018, 
+complaining of low back pain.  (JE 6, p. 59)  Dr. Espiritu reviewed Gallegos’s imaging 
+and examined him, assessed him with lumbosacral disc degeneration at L5-S1, noted 
+he did not believe Gallegos was a surgical candidate, and he found Gallegos had 
+reached maximum medical improvement for his back.  (JE 6, p. 60)   
+On January 4, 2019, Gallegos attended an appointment with Dr. Johnson, 
+reporting he had noticed swelling or fluid on his right elbow over the last month.  (JE 6, 
+p. 62)  With respect to his right shoulder, Dr. Johnson performed an injection into the 
+shoulder, continued physical therapy, and imposed restrictions of lifting up to fifty 
+pounds, occasional overhead reaching, frequent pushing and pulling, gripping, and 
+pinching.  (JE 6, p. 63)  Dr. Johnson assessed Gallegos with right elbow bursitis, and 
+recommended Gallegos wait three months before performing an aspiration.  (JE 6, p. 
+63) 
+On January 16, 2019, the Employer and Grinnell offered Gallegos modified duty 
+work at Mission of the Messiah, working thirty hours per week, and earning $22.75 per 
+hour, starting on January 23, 2019.  (Ex. 5, pp. 59-60)  Gallegos reported the Employer 
+sent him there as a volunteer for six months.  (Tr., p. 32)  Gallegos sorted merchandise, 
+placed prices on merchandise, and helped with sweeping.  (Tr., p. 32)  When he started 
+with Mission of Messiah, Gallegos received two checks, one from the Employer, and 
+one from the insurance company.  (Tr., pp. 58, 62)  Shelly Krieg testified at the time he 
+worked there the Employer paid Gallegos $7.50 per hour.  (Tr., p. 97)  His normal wage 
+was $17.00 per hour.  (Tr., p. 98) 
+Gallegos attended an appointment with Dr. Johnson on February 1, 2019, 
+reporting the shoulder injection dramatically helped his shoulder pain.  (JE 6, p. 64)  Dr. 
+Johnson assessed Gallegos with right shoulder impingement and biceps tendinitis, and 
+olecranon bursitis of the right elbow, recommended Gallegos work on home therapy 
+exercises, and imposed restrictions of lifting up to fifty pounds, occasional overhead 
+reaching, and frequent pushing, pulling, gripping, and pinching with the right shoulder 
+and aspirated the right elbow.  (JE 6, pp. 64-65)   
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 9 
+ 
+ 
+On March 8, 2019, Gallegos returned to Dr. Johnson, noting the aspiration had 
+resolved his right elbow issue, but reporting his right shoulder remained stiff, but was 
+better since surgery.  (JE 6, p. 66)  Gallegos reported his back was bothering him more 
+than his shoulder.  (JE 6, p. 66)  Dr. Johnson recommended a functional capacity 
+evaluation and noted “[a]s far as having been involved in an explosion and the PTSD, 
+but overall, just the anxiety and weight of having to deal with this injury and the burden 
+of going back with a not perfect body to work, I think he could benefit possibly from 
+seeing the psychologist again.”  (JE 6, p. 66)  
+Gallegos attended a follow-up appointment with Dr. Johnson on April 3, 2019, 
+regarding his right shoulder.  (JE 6, pp. 67, 77)  Dr. Johnson noted the results of the 
+functional capacity evaluation were invalid, and documented Gallegos had 
+posttraumatic stress disorder and anxiety.  (JE 6, pp. 67-68, 77-78)  Dr. Johnson 
+deferred to Dr. Elkins on permanent restrictions given the invalid functional capacity 
+evaluation, and noted Gallegos reported his main complaint was his low back.  (JE 6, 
+pp. 68, 78)   
+On April 18, 2019, Dr. Elkins conducted a second independent medical 
+examination of Gallegos for the Employer and Grinnell.  (Ex. B)  Dr. Elkins again 
+reviewed Gallegos’s medical record and examined him.  (Ex. B)  Dr. Elkins diagnosed 
+Gallegos with status post right shoulder arthroscopy, adjustment disorder versus 
+primary mood disorder, and symptomatic exacerbation of pre-existing lumbar 
+degenerative disc disease related to the March 2018 work injury.  (Ex. B, p. 18)  Dr. 
+Elkins found Gallegos had not reached maximum medical improvement for the 
+adjustment/mood disorder and for his right shoulder injury, and noted appropriate 
+current work restrictions included no lifting over twenty pounds with occasional bending 
+and twisting.  (Ex. B, p. 18)    
+On June 12, 2019, Robert Arias, Ph.D., conducted a neuropsychological 
+evaluation of Gallegos for the Employer and Grinnell.  (Ex. A)  Dr. Arias performed a 
+neuro PSI 2 Neuropsychological Testing Battery, Test of Memory Malingering, Green’s 
+Word Memory Test, MMPI-2, and conducted a clinical interview with Gallegos, 
+Gallegos’s wife, and an interpreter.  (Ex. A, pp. 3, 8)  Gallegos testified Dr. Arias asked 
+him many questions that he did not understand, and reported he was confused and his 
+head hurt bad when he left.  (Tr., p. 35)  During the testing Gallegos had access to an 
+interpreter.  (Tr., p. 65)   
+Dr. Arias noted on the Green’s Word Memory Test, Gallegos failed all five 
+conditions, noting the test “has been shown to be approximately 100% accurate in 
+identifying good or poor effort in simulator studies.  Notably, two of the five scores fell 
+markedly below empirically established cut-offs, at levels seldom seen in clinical 
+practice. . . .Failure on two more independent performance validity indices has been 
+shown to equate with at least a 95% level of accuracy at identifying individuals with non-
+credible cognitive performance.”  (Ex. A, pp. 3, 8)  Dr. Arias concluded on the TONI-4, 
+Gallegos obtained a standard score of 80, corresponding to the low average to 
+borderline range of intellectual functioning, and on the Neuro PSI-2 Index Scores, 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 10 
+ 
+ 
+Gallegos obtained an attention and executive functions total index score of 111, which 
+is above average, a memory total index of 94, which is average, and an attention and 
+memory total index score of 99, which is average.  (Ex. A, pp. 3, 8)  Dr. Arias found the 
+results of the MMPI-2 were considered invalid due to extreme symptom minimization, 
+noting Gallegos’s lie score was more than four standard deviations above the mean, 
+invalidating the results.  (Ex. A, pp. 4, 9)  Dr. Arias noted Gallegos’s clinical profile 
+nevertheless contained three out of ten significant elevations indicating somatic 
+complaints despite his psychological symptom minimization and noted his somatic 
+complaints are likely to be of a neurological nature.  (Ex. A, pp. 4, 9)  Dr. Arias 
+concluded:  
+[t]hese results revealed failures on multiple independent performance 
+validity measures indicating suboptimal effort or an intent to perform 
+poorly.  Secondary gain factors are the most parsimonious explanation for 
+this performance.  It is notable that these results provide convergent data 
+with regard to the patient’s physical therapy evaluation results of March 
+19, 2019, which “were not always consistent with anatomical and 
+physiological principles” rendering the results invalid.  He also had an 
+elevated score on the Waddell’s protocol, “indicating that there is a non-
+organic component to his pain and disability.”  There was suggestion of 
+“very poor effort that is not necessarily related to pain, impairment, or 
+disability.”  He has also been found to have no focal neurological deficits 
+by Dr. Espiritu, who also gave him no restrictions with regard to his back. 
+Moreover, the nature of his injury, with reported brief 
+unconsciousness/posttraumatic amnesia and no other neurological 
+complications, would typically resolve within 10-14 days in terms of any 
+cognitive or emotional symptoms, but at a maximum of three months.  
+Individuals with similar mild traumatic brain injuries have been shown to 
+have complete resolution of symptoms within this time frame definitively.  
+This was also the conclusion reached by the American Medical 
+Association, American Psychological Association, Board of Healthcare, 
+Department of Veterans Administration, Department of Defense, as well 
+as six meta-analyses representing hundreds of studies and thousands of 
+individuals. 
+Emotionally, he does present with subjective reports of concerns with 
+regard to returning “to normal life.”  Although he does not present as 
+meeting diagnostic criteria for a separate mental disorder.  To be 
+diagnosed even with a simple Adjustment Disorder, DSM-5 criteria require 
+“marked distress that is in excess of what would be expected from 
+exposure to the stressor, and/or significant impairment in social or 
+occupational (academic) functioning.  He does not meet these criteria at 
+this time.  He has also been noted in an IME at Elkins Medical Services on 
+May 22, 2018, to not present as having “any psychological difficulties with 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 11 
+ 
+ 
+resuming his prior work, even when required to plug in heaters or work 
+with/around electricity/outlet, such as changing lightbulbs.” 
+Of final note, his cognition in this evaluation was within expected limits 
+of variability for any normally functioning individual.  Across numerous 
+measures administered to any normal individual, the scatter of test results 
+is expected to conform to a normal curve distribution.  Thus, a small 
+percentage of scores outside of normal limits are expected in any normally 
+functioning individual.  His test data approximate this pattern.  The non-
+credible performance on multiple validity measures, both in this 
+evaluation, as well as in the previous physical therapy evaluation also 
+would be of concern with regard to interpreting any of his data as reflective 
+of a genuine impairment. 
+(Ex. A, pp. 1-2, 6-7)  Dr. Arias found no treatment was indicated from the March 23, 
+2018 incident, opined Gallegos reached maximum medical improvement from a 
+neuropsychological standpoint on June 23, 2018, and assigned no work restrictions.  
+(Ex. A, pp. 2, 7)   
+On July 25, 2019, Dr. Elkins issued an addendum to the second independent 
+medical examination of Gallegos after reviewing the June 12, 2019 neuropsychological 
+evaluation.  (Ex. B)  Dr. Elkins found Gallegos had reached maximum medical 
+improvement and recommended no permanent work restrictions for Gallegos.  (Ex. B, p. 
+20)   
+On July 17, 2019, Jacqueline Stoken, D.O., a physiatrist, conducted an 
+independent medical examination for Gallegos, and issued her report on July 30, 2019.  
+(Ex. 1)  Dr. Stoken reviewed Gallegos’s medical records and examined him.  (Ex. 1)  Dr. 
+Stoken opined the March 2018 explosion caused or aggravated Gallegos’s injuries to 
+his left lower extremity, bilateral shoulders, bilateral upper extremities, back, body 
+burns, and post-traumatic stress.  (Ex. 1, p. 12)   
+Using the Guides to the Evaluation of Permanent Impairment (AMA Press, 5th 
+Ed. 2001) (“AMA Guides”), Dr. Stoken assigned no impairment rating for Gallegos’s left 
+lower extremity or body burns.  (Ex. 1, pp. 11-12)  Dr. Stoken did not issue an 
+impairment rating for a mental health condition, noting Gallegos “may benefit from 
+psychological counseling to address his mixed anxiety and depressed mood.”  (Ex. 1, p. 
+12)  Referring to Table 15-3, page 384 of the AMA Guides, Dr. Stoken opined Gallegos 
+falls into DRE Lumbar Category II for his low back pain, with a five to eight percent 
+impairment of the whole person due to chronic lumbar pain, noting prior to the work 
+injury he was able to work full duty without restrictions or pain that restricted his 
+function.  (Ex. 1, p. 12)   
+With respect to his right shoulder, Dr. Stoken opined, under Chapter 16, Figure 
+16-1b, page 437, he has ten percent impairment of the left upper extremity due to  
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 12 
+ 
+ 
+deficits in range of motion.  Dr. Stoken further found,  
+[u]sing the Guides, Chapter 16, table 16-35, page 510, he has 6% Upper 
+Extremity Impairment due to deficits of flexion strength, 3% Upper 
+Extremity Impairment due to deficits in abduction strength, 2% Upper 
+Extremity Impairment due to deficits in adduction strength, and 2% Upper 
+Extremity Impairment due to deficits in internal rotation strength. 
+Using the Guides, Chapter 16, table 16-27, page 506, he is allowed 
+10% Left Upper Extremity Impairment due to distal clavicle excision. 
+Using the Guides, Combined Values Chart, page 604, in combining 
+the above impairments of 10% + 10% + 6% + 3% + 2% +2% = 28% Left 
+Upper Extremity Impairment. 
+Using the Guides, Chapter 16, table 16-3, page 439, this converts to 
+17% Impairment of the Whole Person. 
+(Ex. 1, p. 11)  Dr. Stoken assigned permanent work restrictions of lifting up to eighteen 
+pounds on a frequent basis, twenty-five pounds on an occasional basis, and thirty-five 
+pounds on a rare basis, placing Gallegos into the light to medium category of work.  (Ex. 
+1, p. 11)   
+Gallegos attended a functional capacity evaluation with Todd Schemper, PT, 
+DPT, with WorkWell, on July 26, 2019.  (Ex. 2)  Schemper opined Gallegos gave 
+maximal effort on the test items as evidenced by predictable patterns of movement and 
+found the results of the evaluation were valid.  (Ex. 2, p. 20)  Schemper opined: 
+1. 
+These projections are for 8 hours per day and 40 hours per week at 
+the levels indicated on the FCE Test Results and Interpretation grid. 
+2. 
+The client’s capabilities are in the light category of (waist to floor 
+lifting up to 20 pounds on an occasional basis and 30 pounds on a rare 
+basis) of physical demand characteristics.  Specific capabilities are noted 
+with the FCE Test Results and Interpretation grid. 
+3. 
+His ability with front carrying did fall within the medium category, 
+carrying up to 30 pounds occasionally and 40 pounds rarely. 
+(Ex. 2, pp. 20-21)  No physician has adopted the findings from the functional capacity 
+evaluation conducted by Schemper. 
+Jeff Johnson, M.S., conducted a vocational evaluation for Gallegos on July 17, 
+2019, and issued his report on August 14, 2019.  (Ex. 3)  Gallegos’s attorney provided 
+Johnson with a copy of Dr. Stoken’s and Schemper’s functional capacity evaluation.  
+(Ex. 3, p. 32)  Johnson noted Gallegos’s work history includes working as a fruit harvest 
+worker, cook helper, laborer for landscape, and farmworker for livestock.  (Ex. 3, p. 33)  
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 13 
+ 
+ 
+When Johnson met with Gallegos, Gallegos was working for Mission of Messiah six 
+hours per day sorting and pricing donated items.  (Ex. 3, p. 33)  Johnson found 
+Gallegos had performed work throughout his life in the medium and heavy exertional 
+levels, and noted Gallegos’s work restrictions place him in the light exertion level of 
+work.  (Ex. 3, p. 34)   
+Johnson opined Gallegos had incurred an eighty-five percent loss of access to 
+employment as a result of the March 2018 work injury.  (Ex. 3, pp. 35, 38)  Johnson 
+identified six job openings that may fall within Gallegos’s permanent work restrictions, 
+including grounds crew, earning $13.00 per hour, groundskeeper/gardener earning 
+$11.00 to $14.00 per hour, groundskeeper, janitorial worker earning $10.50 per hour, 
+dishwasher earning $10.50 per hour, and custodian earning $9.00 per hour.  (Ex. 3, p. 
+37)   
+On August 2, 2019, Mission of the Messiah notified Gallegos he was through with 
+his position.  (Ex. 8, p. 77a)  Gallegos’s attorney notified the Employer Gallegos would 
+be returning to work on August 5, 2019.  (Ex. 8, p. 77a)  Gallegos’s attorney wrote the 
+attorney for the Employer and Grinnell on August 7, 2019, noting Gallegos had returned 
+to work on August 5, 2019, David Krieg told him he did not have work for him, and when 
+Gallegos called the next day, Krieg again stated he did not have work for him.  (Ex. 8, p. 
+77a)  Gallegos testified when he tried to return to work Krieg told him he did not have 
+any work for him to do on one occasion.  (Tr., p. 37)  Gallegos reported on the last 
+occasion he told Krieg his back hurt and Krieg sent him home.  (Tr., p. 37) 
+On August 27, 2019, Dr. Elkins issued a permanent impairment rating, after 
+reviewing additional medical records and examining Gallegos.  (Ex. B)  Gallegos 
+reported he was continuing to experience low back pain associated with right leg pain 
+that radiates to the bottom of his right foot that is worse with activity, but without 
+numbness or tingling, right shoulder discomfort that is worse since surgery and left 
+shoulder discomfort from overuse due to the right shoulder injury, without numbness or 
+tingling, left foot and ankle discomfort that is more pronounced and frequent since he 
+was released to return to work, and a buzzing sensation in both ears that began at the 
+time of the work incident.  (Ex. B, pp. 22-23)  
+Using the AMA Guides, Dr. Elkins issued impairment ratings for Gallegos’s 
+injuries.  (Ex. B)  With respect to his low back, using page 384 of the AMA Guides, Dr. 
+Elkins opined Gallegos fell in DRE Category I and assigned a zero percent impairment 
+rating.  (Ex. B, p. 24)  Dr. Elkins found Gallegos’s current complaints had not been 
+consistently present since the time of injury and his current complaints of low back pain 
+and right radicular symptoms were distinctly different medically from his prior symptoms 
+with left radicular complaints, and opined given there was no confirmation of the specific 
+source of the pain, Gallegos did not meet the Category II criteria.  (Ex. B, p. 24)   
+Dr. Elkins found Gallegos had sustained a mild ankle sprain of the anterior 
+talofibular ligament, noting there were no current findings consistent with the prior 
+diagnosis of left peroneal strain for which he was placed at maximum medical 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 14 
+ 
+ 
+improvement by his treating orthopedist on November 6, 2018.  (Ex. B, p. 25)  Dr. Elkins 
+found the condition had resolved without a residual impairment.  (Ex. B, p. 25)   
+With respect to Gallegos’s his right shoulder, Dr. Elkins opined using the AMA 
+Guides at page 476, 
+shoulder flexion and extension (impairment percentage of the upper 
+extremity):  FF 3%; extension 1%; Abduction 4%.  These add to yield 8% 
+of the upper extremity for range of motion loss.  Distal clavicle excision is 
+applicable under “other conditions”, Section 16.7:  10% of the upper 
+extremity from Table 16-7, page 506.  These values combine to 17% of 
+the upper extremity.  This would convert to a 10% of the whole person for 
+the right shoulder. 
+(Ex. B, p. 25)  Dr. Elkins did not evaluate Gallegos for a mental health permanent partial 
+impairment, noting he erroneously determined Gallegos had reached maximum medical 
+improvement for his mental health condition on July 25, 2019, using South Dakota 
+criteria for determining maximum medical improvement for a mental health condition.  
+(Ex. B, p. 25)   
+On September 5, 2019, Gallegos attended an appointment with Amy Payne, PA-
+C, with Family Health Care, regarding anxiety and depression.  (JE 8, p. 80)  Payne 
+assessed Gallegos with an adjustment disorder with mixed emotional features, and 
+prescribed Cymbalta.  (JE 8, p. 82)  Payne did not opine Gallegos had sustained a 
+permanent mental health condition caused by his work injury. 
+On September 10, 2019, Gallegos’s attorney sent a letter to the attorney for the 
+Employer and Grinnell, reporting that day Gallegos returned to work with a workers’ 
+compensation temporary/transitional duty assignment form served by the attorney for 
+the Employer and Grinnell, and David Krieg informed Gallegos he knew nothing of the 
+“return to work form” and sent him home.  (Ex. 8, p. 77c)   
+The attorney for the Employer and Grinnell responded on September 16, 2019, 
+stating the temporary/transitional duty assignment form he served was an old form and 
+nothing to do with his client’s current employment status.  (Ex. 14, p. 104)  The letter 
+notified Gallegos’s attorney when his client showed up for work on August 6, 2019, he 
+told the Employer he could not do his job because of symptoms in his body, including 
+his ears, and the Employer believed he was refusing to return to work and that he had 
+quit or abandoned his job after being released by his physicians.  (Ex. 14, p. 104)  
+Gallegos testified he wanted to return to work.  (Tr., p. 40)   
+Gallegos has not sought work since his work injury.  (Tr., pp. 65-66)  At hearing 
+Gallegos testified he did not believe he could perform his regular job for the Employer 
+because he cannot sort the small pigs, pull dead pigs, climb ladders to check the food, 
+jump the pens, or twist his back.  (Tr., p. 40)  Gallegos reported he did not believe he 
+could perform any of his past work with his current problems.  (Tr., pp. 40-41)  Gallegos 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 15 
+ 
+ 
+relayed he did not believe he could work for McDonald’s because he could not stand on 
+his feet for eight hours per day with his back condition, and he cannot communicate with 
+people.  (Tr., p. 40)   
+At the time of the hearing Gallegos was taking gabapentin, naproxen, Lisinopril, 
+and duloxetine.  (Tr., p. 41)  During the hearing Gallegos testified approximately four to 
+five months before the hearing he started hearing a buzzing in his ears that is always 
+there.  (Tr., p. 36)  Gallegos testified his shoulder pain is better, but his foot and back 
+pain are the same.  (Tr., p. 52)  Gallegos admitted he told Dr. Stoken his shoulder, 
+back, and foot bothered him.  (Tr., p. 52)  Gallegos stated he believes his back 
+restrictions are that he cannot carry, pull, or lift.  (Tr., p. 41)   
+CONCLUSIONS OF LAW 
+I. 
+Applicable Law 
+This case involves several issues, including causation, temporary benefits, 
+nature and extent of disability, commencement date for permanency, rate, penalty, 
+recovery of medical bills, recovery of the cost of an independent medical examination, 
+and interest under Iowa Code sections 85.27, 85.33, 85.34, 85.36, 85.39, 86.13, and 
+535.3.  In March 2017, the legislature enacted changes (hereinafter “Act”) relating to 
+workers’ compensation in Iowa.  2017 Iowa Acts chapter 23 (amending Iowa Code 
+sections 85.16, 85.18, 85.23, 85.26, 85.33, 85.34, 85.39, 85.45, 85.70, 85.71, 86.26, 
+86.39, 86.42, and 535.3).  Given the work injury in this case occurred in March 2018, 
+the changes to Iowa Code chapters 85, 86, and 535 apply to this case. 
+II. 
+Nature of Disability 
+To receive workers’ compensation benefits, an injured employee must prove, by 
+a preponderance of the evidence, the employee’s injuries arose out of and in the course 
+of the employee’s employment with the employer.  2800 Corp. v. Fernandez, 528 
+N.W.2d 124, 128 (Iowa 1995).  An injury arises out of employment when a causal 
+relationship exists between the employment and the injury.  Quaker Oats v. Ciha, 552 
+N.W.2d 143, 151 (Iowa 1996).  The injury must be a rational consequence of a hazard 
+connected with the employment, and not merely incidental to the employment.  Koehler 
+Elec. v. Willis, 608 N.W.2d 1, 3 (Iowa 2000).  The Iowa Supreme Court has held, an 
+injury occurs “in the course of employment” when: 
+it is within the period of employment at a place where the employee 
+reasonably may be in performing his duties, and while he is fulfilling those 
+duties or engaged in doing something incidental thereto.  An injury in the 
+course of employment embraces all injuries received while employed in 
+furthering the employer’s business and injuries received on the employer’s 
+premises, provided that the employee’s presence must ordinarily be 
+required at the place of the injury, or, if not so required, employee’s 
+departure from the usual place of employment must not amount to an 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 16 
+ 
+ 
+abandonment of employment or be an act wholly foreign to his usual work.  
+An employee does not cease to be in the course of his employment 
+merely because he is not actually engaged in doing some specifically 
+prescribed task, if, in the course of his employment, he does some act 
+which he deems necessary for the benefit or interest of his employer. 
+Farmers Elevator Co. v. Manning, 286 N.W.2d 174, 177 (Iowa 1979).  The parties agree 
+Gallegos sustained a work injury, but disagree on the nature and extent of his injury. 
+The question of medical causation is “essentially within the domain of expert 
+testimony.”  Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 844-45 (Iowa 
+2011).  The commissioner, as the trier of fact, must “weigh the evidence and measure 
+the credibility of witnesses.”  Id.  The trier of fact may accept or reject expert testimony, 
+even if uncontroverted, in whole or in part.  Frye, 569 N.W.2d at 156.  When considering 
+the weight of an expert opinion, the fact-finder may consider whether the examination 
+occurred shortly after the claimant was injured, the compensation arrangement, the 
+nature and extent of the examination, the expert’s education, experience, training, and 
+practice, and “all other factors which bear upon the weight and value” of the opinion.  
+Rockwell Graphic Sys., Inc. v. Prince, 366 N.W.2d 187, 192 (Iowa 1985). 
+It is well-established in workers’ compensation that “if a claimant had a 
+preexisting condition or disability, aggravated, accelerated, worsened, or ‘lighted up’ by 
+an injury which arose out of and in the course of employment resulting in a disability 
+found to exist,” the claimant is entitled to compensation.  Iowa Dep’t of Transp. v. Van 
+Cannon, 459 N.W.2d 900, 904 (Iowa 1990).  The Iowa Supreme Court has held, 
+a disease which under any rational work is likely to progress so as to 
+finally disable an employee does not become a “personal injury” under our 
+Workmen’s Compensation Act merely because it reaches a point of 
+disablement while work for an employer is being pursued.  It is only when 
+there is a direct causal connection between exertion of the employment 
+and the injury that a compensation award can be made.  The question is 
+whether the diseased condition was the cause, or whether the 
+employment was a proximate contributing cause. 
+Musselman v. Cent. Tel. Co., 261 Iowa 352, 359-60, 154 N.W.2d 128, 132 (1967). 
+A. 
+Injury to the Left Lower Extremity and Burns to the Face and Left 
+Upper Extremity 
+Gallegos contends the work injury caused permanent disfigurement and pain to 
+his face and left arm as a result of the burn, and to his left lower extremity.  The 
+Employer and Grinnell agree Gallegos sustained an injury to his left lower extremity and 
+burns to his face and left arm caused by the work injury, but aver Gallegos sustained no 
+permanent impairment caused by the work injury.   
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 17 
+ 
+ 
+Dr. Elkins conducted an independent medical examination for the Employer and 
+Grinnell and Dr. Stoken performed an independent medical examination for Gallegos.  
+Neither expert assigned a permanent impairment rating for Gallegos’s burns or for his 
+left lower extremity.  (Exs. 1, pp. 11-12; B, p. 25)  Gallegos has not met his burden of 
+proof he sustained permanent impairments to his left lower extremity or to his face or 
+left arm from his burns.  
+B. 
+Buzzing or Tinnitus 
+At hearing Gallegos alleged he sustained buzzing or tinnitus caused by the work 
+injury.  The Employer and Grinnell reject his assertion.  The work injury occurred in 
+March 2018.  No medical provider has causally connected Gallegos’s reported buzzing 
+or symptoms of tinnitus to the work injury.  No medical provider has opined Gallegos 
+sustained permanent buzzing in his ears or tinnitus caused by the March 2018 work 
+injury.  Gallegos has not established he sustained buzzing in his ears or tinnitus caused 
+by the March 2018 work injury.   
+C. 
+Mental Health Condition 
+Treating ARNPs McDonald-Gonzalez and Kohn, Dr. Elkins, an occupational 
+medicine physician who conducted an independent medical examination of Gallegos for 
+the Employer and Grinnell, Dr. Johnson, a treating orthopedic surgeon who operated on 
+Gallegos, Dr. Arias, a licensed psychologist who conducted a neuropsychological 
+evaluation of Gallegos, and Dr. Stoken, a physiatrist who conducted an independent 
+medical examination of Gallegos, have examined Gallegos and provided diagnoses 
+and/or opinions on his mental health.  I find the opinion of Dr. Arias, who conducted 
+neuropsychological testing on Gallegos, to be the most persuasive.   
+On April 10, 2018, ARNP McDonald-Gonzalez diagnosed Gallegos with an 
+adjustment disorder with mixed anxiety and depressed mood and she noted Gallegos 
+was not interested in any service at that time.  (JE 1, p. 2)  ARNP McDonald-Gonzalez 
+has not diagnosed Gallegos with a permanent mental health condition caused by the 
+work injury. 
+On April 26, 2018, ARNP Kohn assessed Gallegos with anxiety related to 
+trauma, and documented McDonald-Gonzalez’ office was not recommending follow-up 
+care.  (JE 2, pp. 8, 10)  During an appointment on May 11, 2018, Kohn documented 
+Gallegos’s affect and mood were normal, but he expressed some concern about 
+whether his employer believed him about his injury.  (JE 2, p. 15)  ARNP Kohn has not 
+diagnosed Gallegos with a permanent mental health condition caused by the work 
+injury. 
+Dr. Elkins conducted three independent medical examinations of Gallegos.  
+During the first examination on May 22, 2018, Dr. Elkins diagnosed Gallegos with an 
+adjustment disorder, noting after the accident Gallegos initially complained of 
+“significant anxiety-related symptoms,” but “these are now much improved and he 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 18 
+ 
+ 
+denies current need for evaluation or treatment of any mental-health related issues.  He 
+does not feel that he will have any psychological difficulties with resuming his prior work, 
+even when required to plug in heaters or work with/around electricity/outlet such as 
+changing light bulbs.”  (Ex. B, p. 13)  During the second examination on April 18, 2019, 
+Dr. Elkins diagnosed Gallegos with adjustment disorder versus primary mood disorder.  
+(Ex. B, p. 18)  Dr. Elkins opined Gallegos needed treatment “for the apparent 
+adjustment/mood disorder that has likely resulted from the work incident,” and noting he 
+advised Gallegos “to follow up with his treating provider for consideration of initiation of 
+an anti-depressant (for pain and mood).”  (Ex. B, p. 18)  During his third independent 
+medical examination of Gallegos in August 2019, Dr. Elkins documented “[t]he ongoing 
+mental health issues were not addressed, as the specific criteria for compensability of 
+the mental health issues under Iowa’s workers’ compensation rules is not known to this 
+examiner.”  (Ex. B, p. 25)  Dr. Elkins did not diagnose Gallegos with a permanent 
+mental health condition caused by the work injury. 
+On March 8, 2019, following Gallegos’s right shoulder surgery, Dr. Johnson, an 
+orthopedic surgeon, recommended a functional capacity evaluation and noted “[a]s far 
+as having been involved in an explosion and the PTSD, but overall, just the anxiety and 
+weight of having to deal with this injury and the burden of going back with a not perfect 
+body to work, I think he could benefit possibly from seeing the psychologist again.”  (JE 
+6, p. 66)  During an appointment on April 3, 2019, Dr. Johnson documented Gallegos 
+had posttraumatic stress disorder and anxiety.  (JE 6, pp. 67-68, 77-78)  Dr. Johnson 
+has not opined whether Gallegos has sustained a permanent mental health condition 
+caused by the work injury. 
+Dr. Arias, a psychologist conducted a neuropsychological evaluation of Gallegos 
+on June 12, 2019.  Dr. Arias found the testing was invalid, determined Gallegos did not 
+meet the diagnostic criteria for a separate mental disorder, and recommended no 
+additional treatment.  (Ex. A)  Gallegos did not seek an opinion from any of his treating 
+providers or another provider after Dr. Arias issued his opinion. 
+Dr. Stoken conducted an independent medical examination of Gallegos on July 
+17, 2019.  (Ex. 1)  Dr. Stoken’s report indicates she obtained a “Beck’s Depression 
+Inventory score” that indicates Gallegos may need medical treatment and “Hamilton 
+Anxiety Rating Score, ” which “places him in the category of mild to moderate anxiety.”  
+(Ex. 1, p. 10)  In the impression section of her report, Dr. Stoken listed six items, 
+including “[a]djustment disorder with mixed anxiety and depressed mood.”  (Ex. 1, pp. 
+10-11)  Dr. Stoken did not assess or diagnose Gallegos with post-traumatic stress 
+disorder.  When issuing her impairment rating, Dr. Stoken opined the explosion “caused 
+or aggravated the patient’s injury to the left lower extremity, bilateral shoulders, bilateral 
+upper extremities, back, body burns, PTSD, and body as a whole.”  (Ex. 1, p. 2)  Dr. 
+Stoken did not opine the work injury caused or aggravated an adjustment disorder with 
+mixed anxiety and depressed mood.   
+Dr. Stoken did not assign an impairment rating to Gallegos for post-traumatic 
+stress disorder or adjustment disorder with mixed anxiety and depressed mood.  (Ex. 1, 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 19 
+ 
+ 
+p. 12)  Dr. Stoken did not opine Gallegos sustained a permanent mental health 
+impairment or find he had not reached maximum medical improvement with respect to 
+any mental health condition.  (Ex. 1, p. 12)  Dr. Stoken stated she believed Gallegos 
+“may benefit from psychological counseling.”  (Ex. 1, p. 12)  She did not recommend a 
+referral to a psychiatrist or psychologist for treatment of any mental health condition.   
+Dr. Arias was deposed on September 24, 2019.  Dr. Arias testified the cognitive 
+tests and validity tests his staff administered to Gallegos were in Spanish, and the 
+cognitive tests administered to Gallegos were specifically normed on Hispanic, Spanish 
+speaking people.  (Ex. 13, p. 32)  Dr. Arias testified Gallegos performed in an invalid 
+manner within a reasonable degree of neuropsychological certainty and that he 
+performed in a non-credible fashion.  (Ex. 13, pp. 35-36)   
+While Dr. Arias is not familiar with the training of Dr. Johnson or Dr. Elkins, he 
+opined he did not see that either Dr. Johnson or Dr. Elkins used any objective tests 
+when diagnosing Gallegos with mental health conditions.  (Ex. 13, p. 37)  In contrast, 
+Dr. Arias used objective tests during his examination of Gallegos.  Dr. Arias also has 
+specialized training and experience in evaluating people with post-traumatic stress 
+disorder.  (Ex. 13, p. 43)  Dr. Arias has been a recent speaker on post-traumatic 
+disorder for workers’ compensation symposiums in Kansas and Nebraska.  (Ex. 13, p. 
+43)   
+Dr. Arias testified during his evaluation Gallegos did not meet the criteria for a 
+diagnosis of post-traumatic stress disorder.  (Ex. 13, p. 44)  Dr. Arias reported Dr. 
+Stoken’s impairment rating is inconsistent with her diagnosis, noting “[s]o she makes 
+reference at the end to PTSD as something as though she opined that he has PTSD, 
+but she didn’t actually diagnose him with PTSD which is contradictory.”  (Ex. 13, p. 47)  
+Dr. Arias agreed with the statement “in fact, her assessment included was adjustment 
+disorder with mixed anxiety and depressed mood, that’s different than PTSD, right?”  
+(Ex. 13, p. 47)  Dr. Arias opined Dr. Stoken’s report is “[o]verly inclusive and overly 
+diagnostic in the end,” in that she “has an endorsement, apparently, that there’s PTSD 
+when there was no actual diagnosis of PTSD given.”  (Ex. 13, p. 48)  Dr. Arias relayed 
+Dr. Stoken did not administer any validity tests to discern the validity of Gallegos’s 
+complaints, and noted the Beck Depression Inventory she administered is a subjective 
+test that does not have a built-in validity component.  (Ex. 13, pp. 46-49)   
+Based on the record evidence, I find Gallegos sustained a temporary mental 
+health impairment caused by the work injury, as supported by the opinions of 
+McDonald-Gonzalez, Dr. Elkins, and Dr. Johnson.  Gallegos’s treating providers have 
+not opined he has a permanent mental health condition.  Dr. Stoken’s opinion is 
+inconsistent and conclusory.  I do not find it persuasive.  I find Dr. Arias’s opinion to be 
+the most persuasive for the reasons discussed above.  Based on the foregoing, I do not 
+find Gallegos has established he has sustained a permanent mental health impairment 
+caused by the work injury. 
+ 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 20 
+ 
+ 
+D. 
+Low Back 
+Dr. Elkins and Dr. Stoken provided competing opinions on whether Gallegos has 
+sustained a permanent impairment to his lumbar spine caused by the work injury.  I find 
+Dr. Stoken’s opinion to be more persuasive than Dr. Elkins’s opinion on causation.   
+Dr. Elkins opined Gallegos falls in DRE Category I and that he has not sustained 
+a permanent impairment.  (Ex. B, p. 24)  In support of his opinion, Dr. Elkins found “[t]he 
+current complaints have not been consistently present since the time of injury.  The 
+current complaints of low back pain and right radicular symptoms is [sic] distinctly 
+different medically than the previous back symptoms with left radicular complaints.”  
+(Ex. B, p. 24)   
+Dr. Stoken diagnosed Gallegos with a history of lumbar spondylosis, lumbar facet 
+syndrome, and chronic low back pain, and opined the work injury aggravated Gallegos’s 
+back condition.  (Ex. 1, pp. 10-12)  Using the AMA Guides, Dr. Stoken assigned 
+Gallegos an eight percent whole person impairment for chronic lumbar pain, finding 
+before the work injury Gallegos was able to work full duty without restrictions or pain 
+restricting his function.  (Ex. 1, p. 12)   
+There is no record evidence Gallegos complained of low back symptoms or that 
+he sought treatment for his low back before the work injury.  After the explosion, which 
+also caused a traumatic injury to his right shoulder, requiring surgery, Gallegos 
+complained of back pain.  During his appointment with Kohn on April 10, 2018, Kohn 
+documented Gallegos was complaining of low back pain.  (JE 2, p. 4)  Gallegos 
+continued to complain of low back pain to Kohn, Dr. Elkins, Dr. Nguyen, and Dr. 
+Johnson.  (See e.g., JE 2, p. 8, 13, 18; JE 6, pp. 48-49, 57, 66; Ex. B, p. 12)  Based on 
+the foregoing, I find Gallegos has established the work injury aggravated, accelerated, 
+worsened, or “lighted up” his back condition. 
+E. 
+Bilateral Shoulders and Upper Extremities 
+Gallegos contends he sustained permanent impairments to his bilateral 
+shoulders and upper extremities caused by the work injury.  The Employer and Grinnell 
+aver he has only sustained a permanent impairment to his right shoulder.  Drs. Elkins 
+and Stoken provided impairment ratings in this case for the right upper extremity or 
+shoulder.  (Ex. 1, p. 11)  Dr. Stoken assigned a 28% upper extremity impairment, which 
+she converted to a 17% whole person impairment.  (Ex. 1, p. 11)  Dr. Elkins assigned 
+an 8% permanent impairment for loss of range of motion, and a 10% permanent 
+impairment due to distal clavicle excision.  (Ex. B, p. 25)  While Dr. Stoken’s report 
+contains errors at page 11, where she refers to the left shoulder, instead of the right in 
+the text, under the heading “Right Upper Extremity/Shoulder Injury,” I find these errors 
+to be scrivener’s errors.  (Ex. 1, p. 11)  Dr. Stoken’s objective findings from her 
+examination, found at Exhibit 1, page 16, clearly refer to the right shoulder.  
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 21 
+ 
+ 
+Dr. Stoken and Dr. Elkins both assigned a 10% impairment due to distal clavicle 
+excision, and disagree some on their range of motion findings.  (Ex. 1, p. 11; Ex. B, p. 
+25)  Dr. Elkins did not address Dr. Stoken’s strength findings, or list any of his objective 
+findings apart from forward flexion, extension, and abduction.  (Ex. 1, pp. 11, 16; Ex. B, 
+p. 25) 
+With respect to range of motion for the right shoulder, Dr. Stoken found Gallegos 
+had 140 degrees for forward flexion and assigned a 3% permanent impairment, 40 
+degrees for extension and assigned a 1% permanent impairment, 30 degrees for 
+adduction and assigned a 1% impairment, 130 degrees for abduction and assigned a 
+2% permanent impairment, 40 degrees for internal rotation and assigned a 3% 
+permanent impairment, and 60 degrees for external rotation.  (Ex. 1, p. 16)  Dr. Elkins 
+documented he found Gallegos had 140 degrees for forward flexion, 100 degrees for 
+abduction, 40 degrees for extension, 40 degrees for adduction, and full range of motion 
+for internal and external rotation, and he assigned a 10% total upper extremity 
+impairment for the right shoulder.  (Ex. B, p. 24)  Dr. Stoken and Dr. Elkins both 
+assigned no impairment for external rotation.  Dr. Stoken assigned a 3% impairment for 
+her finding of 40 degrees internal rotation.  (Ex. 1, p. 16)  While Dr. Elkins noted the 
+results of his testing of internal rotation and external rotation were normal, he did not list 
+the values supporting his finding in his report.  (Ex. B, p. 24)   
+Dr. Stoken assigned a 10% impairment due to deficits in range of motion, a 6% 
+impairment due to deficits in flexion strength, a 3% impairment due to deficits in 
+abduction strength, a 2% impairment due to deficits in adduction strength, a 2% 
+impairment due to deficits in internal rotation strength, and a 10% impairment due to 
+distal clavicle excision.  (Ex. 1, p. 11)  Dr. Stoken attached a copy of her measurements 
+to her report.  (Ex. 1, p. 16)  Dr. Elkins’s report contains no findings with respect to 
+strength.  (Ex. B)  Dr. Elkins did not address Dr. Stoken’s strength findings in his report.  
+(Ex. B)  Dr. Elkins did not attach or discuss his measurements in his report.  For this 
+reason, I find Dr. Stoken’s opinion more persuasive.  Gallegos has established he 
+sustained a permanent impairment to his right shoulder caused by the work injury.   
+No physician has opined Gallegos has sustained an impairment to his left 
+shoulder caused by the work injury.  I do not find Gallegos has met his burden of proof 
+that he sustained a temporary or permanent impairment to his left shoulder. 
+Dr. Stoken recommended permanent restrictions of no lifting over eighteen 
+pounds on a frequent basis, no lifting over twenty-five pounds on an occasional basis, 
+and no lifting over thirty-five pounds on a rare basis, placing Gallegos in the light to 
+medium category of work.  (Ex. 1, p. 12)  Dr. Stoken did not recommend any additional 
+restrictions beyond lifting restrictions.  Given that I found Dr. Stoken’s opinions with 
+respect to Gallegos’s low back and shoulder to be the most persuasive, I adopt her 
+restrictions as Gallegos’s permanent restrictions.   
+ 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 22 
+ 
+ 
+III. 
+Rate 
+The parties stipulated at the time of the alleged injury Gallegos was married and 
+entitled to three exemptions, but disagree upon the rate.  Gallegos avers his rate is 
+$610.20, and the Employer and Grinnell paid him benefits at the weekly rate of $593.82.  
+In their post-hearing brief, the Employer and Grinnell aver the weekly rate is actually 
+$592.12 and the rate of $593.82 should stand.   
+Iowa Code section 85.36 sets forth the basis for determining an injured 
+employee’s compensation rate.  Mercy Med. Ctr. v. Healy, 801 N.W.2d 865, 870 (Iowa 
+Ct. App. 2011).  The basis of compensation shall be the “weekly earnings of the injured 
+employee at the time of the injury.”  Iowa Code § 85.36.  The statute defines “weekly 
+earnings” as  
+gross salary, wages, or earnings of an employee to which such employee 
+would have been entitled had the employee worked the customary hours 
+for the full pay period in which the employee was injured, as regularly 
+required by the employee’s employer for the work or employment for 
+which the employee was employed . . . rounded to the nearest dollar. 
+Id.  The term “gross earnings” is defined as “recurring payments by employer to the 
+employee for employment, before any authorized or lawfully required deduction or 
+withholding of funds by the employer, excluding irregular bonuses, retroactive pay, 
+overtime, penalty pay, reimbursement of expenses, expense allowances, and the 
+employer’s contribution for welfare benefits.”  Id. § 85.61.  Weekly earnings for 
+employees paid on an hourly basis shall be computed by dividing by thirteen the 
+earnings, including shift differential pay but not including overtime or premium pay, of 
+the employee earned in the employ of the employer in the last completed period of 
+thirteen consecutive calendar weeks immediately preceding the injury.  If the employee 
+was absent from employment for reasons personal to the employee during part of the 
+thirteen calendar weeks preceding the injury, the employee’s weekly earnings shall be 
+the amount the employee would have earned had the employee worked when work was 
+available to other employees of the employer in a similar occupation.  A week which 
+does not fairly reflect the employee’s customary earnings shall be replaced by the 
+closest previous week with earnings that fairly represent the employee’s customary 
+earnings.  Id. § 85.36(6).  Thus under the statute, overtime is counted hour for hour, and 
+shift differential, vacation, and holiday pay are also included.  Irregular pay is not 
+included.   
+Gallegos produced his paychecks from June 11, 2017, through March 19, 2018.  
+(Ex. 10, p. 82)  Gallegos was paid straight wages of $17.00 per hour for the first 100 
+hours per paycheck.  (Tr., pp. 65, 100)  He received overtime compensation at the rate 
+of $25.50 per hour for all hours exceeding 100 in a pay period.  (Tr., pp. 65, 100)  Under 
+the statute, overtime is compensated hour for hour.  Thus, for the eighteen weeks 
+before the work injury, Gallegos worked the following hours, when his overtime pay is 
+divided by $25.50 to determine the straight hours of overtime, added to the regular 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 23 
+ 
+ 
+hours, multiplied by seventeen, for his gross weekly wages for determining his weekly 
+rate, as follows: 
+Week Ending Regular Pay 
+Overtime 
+Hours  
+Gross Pay 
+3/19/18 
+$1,700.00 
+$207.40 
+108.13  
+$1,832.21 
+3/4/18 
+$1,700.00 
+$255.00 
+110 
+ 
+$1,870.00 
+2/19/18 
+$1,700.00 
+$268.60 
+110.53  
+$1,879.01 
+2/5/18 
+$1,673.37 
+$0 
+98.43 
+ 
+$1,673.37 
+1/22/18 
+$1,700.00 
+$231.62 
+109.08  
+$1,854.36 
+1/7/18 
+$   329.00 
+$0 
+19.35 
+ 
+$   329.00 
+12/11/17 
+$   804.38 
+$0 
+47.32 
+ 
+$   804.38 
+11/27/17 
+$1,700.00 
+$306.85 
+112.03  
+$1,904.51 
+11/12/17 
+$1,700.00 
+$184.45 
+107.23  
+$1,822.91 
+Looking at Gallegos’s earnings from June 11, 2017 through March 19, 2018, the 
+records show that during holiday weeks, his wages were substantially less than normal.  
+(Ex. 10, p. 82)  Gallegos typically worked at least 100 hours.  I find the weeks ending 
+December 11, 2017, and January 7, 2018, are not representative.  Gallegos did work 
+less than 100 hours occasionally during non-holiday weeks, such as the week ending 
+February 5, 2018.  (Ex. 10, p. 82)  I find this week representative.  Taking the above pay 
+periods which are representative, totaling $12,836.37, divided by fourteen, results in 
+gross weekly wages of $916.88, which is rounded to $917.00.  Under the ratebook in 
+place at the time of the work injury, Gallegos’s weekly rate is $596.64.1   
+IV. 
+Extent of Disability 
+As noted above, I found Gallegos sustained permanent impairments to his 
+shoulder and back.  At the time of the hearing he was not working.  Therefore, under the 
+new provisions of the statute, the extent of his disability is determined under an 
+industrial analysis.  (Iowa Code § 85.34(2)(v) (2018).  “Industrial disability is determined 
+by an evaluation of the employee’s earning capacity.”  Cedar Rapids Cmty. Sch. Dist. V. 
+Pease, 807 N.W.2d 839, 852 (Iowa 2011). 
+                                            
+1  http://www.iowaworkcomp.gov/sites/authoring.iowadivisionofworkcomp.gov/files/2017-
+2018ratebook.pdf. 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 24 
+ 
+ 
+In considering the employee’s earning capacity, the deputy commissioner 
+evaluates several factors, including “consideration of not only the claimant’s functional 
+disability, but also [his] age, education, qualifications, experience, and ability to engage 
+in similar employment.”  Swiss Colony, Inc. v. Deutmeyer, 789 N.W.2d 129, 137-38 
+(Iowa 2010).  The inquiry focuses on the injured employee’s “ability to be gainfully 
+employed.”  Id. at 138.  
+The determination of the extent of disability is a mixed issue of law and fact.  
+Neal v. Annett Holdings, Inc., 814 N.W.2d 512, 525 (Iowa 2012).  Compensation for 
+permanent partial disability begins at the termination of the healing period.  Iowa Code § 
+85.34(2).  Compensation is paid in relation to 500 weeks as the disability bears to the 
+body as a whole.  Id. § 85.34(2)(u).  When considering the extent of disability, the 
+deputy commissioner considers all evidence, both medical and nonmedical.  Evenson v. 
+Winnebago Indus., Inc., 818 N.W.2d 360, 370 (Iowa 2016).  The Iowa Supreme Court 
+has held, “it is a fundamental requirement that the commissioner consider all evidence, 
+both medical and nonmedical.  Lay witness testimony is both relevant and material upon 
+the cause and extent of injury.”  Evenson, 881 N.W.2d 360, 369 (Iowa 2016) (quoting 
+Gits Mfg. Co. v. Frank, 855 N.W.2d 195, 199 (Iowa 2014)). 
+Gallegos contends he is permanently and totally disabled under the statute or 
+alternatively, under the common law odd-lot doctrine.  The Employer and Grinnell reject 
+his assertion. 
+In Iowa, a claimant may establish permanent total disability under the statute, or 
+through the common law odd-lot doctrine.  Michael Eberhart Constr. v. Curtain, 674 
+N.W.2d 123, 126 (Iowa 2004) (discussing both theories of permanent total disability 
+under Idaho law and concluding the deputy’s ruling was not based on both theories, 
+rather, it was only based on the odd-lot doctrine).  Under the statute, the claimant may 
+establish the claimant is totally and permanently disabled if the claimant’s medical 
+impairment together with nonmedical factors totals 100 percent.  Id.  The odd-lot 
+doctrine applies when the claimant has established the claimant has sustained 
+something less than 100 percent disability, but is so injured that the claimant is “unable 
+to perform services other than ‘those which are so limited in quality, dependability or 
+quantity that a reasonably stable market for them does not exist.’”  Id. (quoting Boley v. 
+Indus. Special Indem. Fund, 130 Idaho 278, 281, 939 P.2d 854, 857 (1997)).   
+“Total disability does not mean a state of absolute helplessness.”  Walmart 
+Stores, Inc. v. Caselman, 657 N.W.2d 493, 501 (Iowa 2003) (quoting IBP, Inc. v. Al-
+Gharib, 604 N.W.2d 621, 633 (Iowa 2000)).  Total disability “occurs when the injury 
+wholly disables the employee from performing work that the employee’s experience, 
+training, intelligence, and physical capacity would otherwise permit the employee to 
+perform.”  IBP, Inc., 604 N.W.2d at 633. 
+As discussed above, I adopted Dr. Stoken’s permanent restrictions.  Dr. Stoken 
+recommended permanent restrictions of no lifting over eighteen pounds on a frequent 
+basis, no lifting over twenty-five pounds on an occasional basis, and no lifting over 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 25 
+ 
+ 
+thirty-five pounds on a rare basis.  (Ex. 1, p. 12)  She did not recommend any additional 
+restrictions beyond lifting restrictions.  (Ex. 1) 
+Gallegos has limited education.  He has not graduated from high school.  At the 
+time of the hearing he was forty-eight.  While Gallegos’s education is limited, I observed 
+he was articulate at hearing and he followed questions posed of him clearly while 
+testifying.  And while Gallegos does not speak English fluently, he passed a driver’s 
+license examination in English.  Based on my observations of Gallegos at hearing, I 
+believe Gallegos is capable of retraining. 
+The Employer and Grinnell did not obtain a vocational evaluation in this case.  
+Johnson performed a vocational evaluation for Gallegos in July 2019 and issued his 
+report in August 2019.  (Ex. 3)  In reaching his conclusions, Johnson relied on the 
+reports from Dr. Stoken, and the second functional capacity evaluation report, which no 
+physician has adopted.  Johnson found the work Gallegos had performed throughout 
+his life has been in the medium to heavy exertional levels and noted Gallegos’s work 
+restrictions place him in the light exertion level of work.  (Ex. 3, p. 34)  His findings do 
+not mirror those of Dr. Stoken.  Johnson noted he had identified six job openings that 
+fall within Gallegos’s permanent restrictions, including grounds crew, earning $13.00 per 
+hour, groundskeeper/gardener, earning $11.00 to $14.00 per hour, groundskeeper with 
+an unknown salary, janitorial worker, earning $10.50 per hour, dishwasher, earning 
+$10.50 per hour, and custodian, earning $9.00 per hour.  (Ex. 3, p. 37)   
+I do not find Gallegos is motivated to work.  At the time of the hearing Gallegos 
+had not applied for any jobs since his work injury.  Based on all of the evidence 
+presented at hearing I find Gallegos has sustained a sixty percent industrial disability.   
+Alternatively, Gallegos contends he is permanently and totally disabled under the 
+odd-lot doctrine.  As discussed above, at the time of the hearing Gallegos had not 
+applied for any jobs since his work injury.  Gallegos did not present any evidence of the 
+job market in the locality where he lives.  I do not find he has established he is 
+permanently and totally disabled under the odd-lot doctrine. 
+I find the commencement date for permanency is July 30, 2019, the date of Dr. 
+Stoken’s report opining Gallegos had reached maximum medical improvement and 
+assigning Gallegos a permanent impairment rating.  Iowa Code § 85.34 (2018) 
+(compensation for permanent partial disability benefits commences “when it is medically 
+indicated that maximum medical improvement from the injury has been reached and the 
+extent of loss or percentage of permanent impairment can be determined” under the 
+AMA Guides).  Gallegos is awarded 300 weeks of permanent partial disability benefits, 
+at the rate of $596.64 per week, commencing on July 30, 2019. 
+ 
+ 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 26 
+ 
+ 
+V. 
+Temporary Benefits 
+Gallegos alleges he is entitled to temporary partial disability benefits for the 
+periods he was working and earning less than his normal wage of $17.00 per hour for 
+the Employer from the date of the work injury through July 29, 2019.   
+Iowa Code section 85.33 (2018) governs temporary disability benefits, and Iowa 
+Code section 85.34 governs healing period and permanent disability benefits.  Dunlap v. 
+Action Warehouse, 824 N.W.2d 545, 556 (Iowa Ct. App. 2012).   
+An employee has a temporary partial disability when because of the employee’s 
+medical condition, “it is medically indicated that the employee is not capable of returning 
+to employment substantially similar to the employment in which the employee was 
+engaged at the time of the injury, but is able to perform other work consistent with the 
+employee’s disability.”  Iowa Code § 85.33(2).  Temporary partial disability benefits are 
+payable, in lieu of temporary total disability and healing period benefits, due to the 
+reduction in earning ability as a result of the employee’s temporary partial disability, and 
+“shall not be considered benefits payable to an employee, upon termination of 
+temporary partial or temporary total disability, the healing period, or permanent partial 
+disability, because the employee is not able to secure work paying weekly earnings 
+equal to the employee’s weekly earnings at the time of the injury.”  Id.   
+As a general rule, “temporary total disability compensation benefits and healing-
+period compensation benefits refer to the same condition.”  Clark v. Vicorp Rest., Inc., 
+696 N.W.2d 596, 604 (Iowa 2005).  The purpose of temporary total disability benefits 
+and healing period benefits is to “partially reimburse the employee for the loss of 
+earnings” during a period of recovery from the condition.  Id.  Temporary total, 
+temporary partial, and healing period benefits can be interrupted or intermittent.  Teel v. 
+McCord, 394 N.W.2d 405 (Iowa 1986); Stourac-Floyd v. MDF Endeavors, File No. 
+5053328 (App. Sept. 11, 2018); Stevens v. Eastern Star Masonic Home, File No. 
+5049776 (App. Dec. Mar. 14, 2018).  The appropriate type of benefit depends on 
+whether or not the employee has a permanent disability.  Dunlap, 824 N.W.2d at 556.  
+As discussed above, Gallegos has sustained a permanent impairment, therefore any 
+temporary benefits he is entitled to are healing period benefits. 
+At hearing Gallegos presented a summary document, Exhibit 11, page 83, 
+alleging he was underpaid temporary partial disability benefits for twenty-eight weeks 
+while he was working for Mission of Messiah from January 21, 2019, through August 5, 
+2019.  Gallegos did not attach any wage records to his summary.  In his post-hearing 
+brief Gallegos did not address the dates he believes he was underpaid.   
+At hearing Gallegos admitted the Employer sent him a separate check from the 
+insurance company when he was working for Mission of Messiah.  (Tr., p. 62)  Gallegos 
+also admitted there was a time when the Employer stopped paying him wages and he 
+only received a weekly check from Grinnell at the rate he was paid at the time of the 
+hearing.  (Tr., p. 63)  At hearing Shelly Krieg testified the Employer initially paid 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 27 
+ 
+ 
+Gallegos $7.50 per hour when he worked at Mission of Messiah.  (Tr., p. 97)  After the 
+Employer stopped paying wages to Gallegos for the charitable, alternative, light-duty 
+assignment at Mission of Messiah, on March 18, 2019, Grinnell paid Gallegos 
+temporary total disability or healing period benefits commencing on March 18, 2019.  
+This is reflected through Exhibit G, pages 40 through 43.  The Employer and Grinnell 
+then paid Gallegos permanent partial disability benefits starting on July 29, 2019.  (Ex. 
+G, p. 42)  Gallegos has not established he is entitled to $4,828.60 in temporary partial 
+disability benefits from January 21, 2019 through August 5, 2019.  Given the rate 
+calculation above, Gallegos was underpaid temporary benefits of $2.82 per week.  
+Gallegos is entitled to temporary benefits at the correct rate for the weeks set forth in 
+Exhibit G. 
+VI. 
+Medical Bills 
+An employer is required to furnish reasonable surgical, medical, dental, 
+osteopathic, chiropractic, podiatric, physical rehabilitation, nursing, ambulance, hospital 
+services and supplies, and transportation expenses for all conditions compensable 
+under the workers’ compensation law.  Iowa Code § 85.27(1).  The employer has the 
+right to choose the provider of care, except when the employer has denied liability for 
+the injury.  Id.  “The treatment must be offered promptly and be reasonably suited to 
+treat the injury without undue inconvenience to the employee.”  Id. § 85.27(4).  If the 
+employee is dissatisfied with the care, the employee should communicate the basis for 
+the dissatisfaction to the employer.  Id.  If the employer and employee cannot agree on 
+alternate care, the commissioner “may, upon application and reasonable proofs of the 
+necessity therefor, allow and order other care.”  Id.  The statute requires the employer to 
+furnish reasonable medical care.  Id. § 85.27(4); Long v. Roberts Dairy Co., 528 N.W.2d 
+122, 124 (Iowa 1995) (noting “[t]he employer’s obligation under the statute turns on the 
+question of reasonable necessity, not desirability”).  The Iowa Supreme Court has held 
+the employer has the right to choose the provider of care, except when the employer 
+has denied liability for the injury, or has abandoned care.  Iowa Code § 85.27(4); Bell 
+Bros. Heating & Air Conditioning v. Gwinn, 779 N.W.2d 193, 204 (Iowa 2010).   
+While the employer retains the right to choose the employee’s medical care 
+under the statute, the employee is not prohibited from seeking his or her own care when 
+the employer denies compensability for the injury or the employee “abandons the 
+protections of section 85.27 or otherwise obtains his or her own medical care 
+independent of the statutory scheme.”  Brewer Strong v. HNI Corp., 913 N.W.2d 235, 
+248 (Iowa 2018) (quoting Bell Bros. Heating & Air Conditioning v. Gwinn, 779 N.W.2d 
+193, 204 (Iowa 2010).  In Brewer-Strong and Gwinn, the court held the employer’s duty 
+to furnish reasonable medical care includes unauthorized care if the employee is able to 
+prove “by a preponderance of the evidence that such care was reasonable and 
+beneficial” under the totality of the circumstances.  Id. (quoting Gwinn, 779 N.W.2d at 
+206).  The court further held “unauthorized medical care is beneficial if it provides a 
+more favorable medical outcome than would likely have been achieved by the care 
+authorized by the employer.”  Id. 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 28 
+ 
+ 
+Gallegos has outstanding balances of $1,600.00 from Dunes Anesthesia, P.C. 
+from February 13, 2019, and $225.00 from Family Care of Siouxland dated September 
+5, 2019.  (Ex. 9)  The parties did not address medical bills in their post-hearing briefs.   
+The September 5, 2019 appointment is for anxiety and depression.  As analyzed 
+above, I found Gallegos failed to establish he has sustained a permanent mental health 
+impairment caused by the work injury.  The Employer and Grinnell are not responsible 
+for the September 5, 2019 bill from Family Health of Siouxland.  No information was 
+produced concerning the outstanding $1,600.00 bill from Dunes Anesthesia, P.C.  The 
+Employer and Grinnell are not responsible for the bill, but remain responsible for all 
+causally related medical bills and treatment. 
+VII. 
+Penalty Benefits 
+Gallegos seeks an award of penalty benefits for a delay in paying temporary 
+partial disability benefits.  The Employer and Grinnell aver no penalty benefits should be 
+awarded.   
+Iowa Code section 86.13 governs compensation payments.  Under the statute’s 
+plain language, if there is a delay in payment absent “a reasonable or probable cause or 
+excuse,” the employee is entitled to penalty benefits, of up to fifty percent of the amount 
+of benefits that were denied, delayed, or terminated without reasonable or probable 
+cause or excuse.  Iowa Code § 86.13(4); see also Christensen v. Snap-On Tools Corp., 
+554 N.W.2d 254, 260 (Iowa 1996) (citing earlier version of the statute).  “The application 
+of the penalty provision does not turn on the length of the delay in making the correct 
+compensation payment.”  Robbennolt v. Snap-On Tools Corp., 555 N.W.2d 229, 236 
+(Iowa 1996).  If a delay occurs without a reasonable excuse, the commissioner is 
+required to award penalty benefits in some amount to the employee.  Id.   
+The statute requires the employer or insurance company to conduct a 
+“reasonable investigation and evaluation” into whether benefits are owed to the 
+employee, the results of the investigation and evaluation must be the “actual basis” 
+relied on by the employer or insurance company to deny, delay, or terminate benefits, 
+and the employer or insurance company must contemporaneously convey the basis for 
+the denial, delay, or termination of benefits to the employee at the time of the denial, 
+delay, or termination of benefits.  Iowa Code § 86.13(4).  An employer may establish a 
+“reasonable cause or excuse” if “the delay was necessary for the insurer to investigate 
+the claim,” or if “the employer had a reasonable basis to contest the employee’s 
+entitlement to benefits.”  Christensen, 554 N.W.2d at 260.  “A ‘reasonable basis’ for 
+denial of the claim exists if the claim is ‘fairly debatable.’”  Burton v. Hilltop Care Ctr., 
+813 N.W.2d 250, 267 (Iowa 2012).  “Whether a claim is ‘fairly debatable’ can generally 
+be determined by the court as a matter of law.”  Id.  The issue is whether the employer 
+had a reasonable basis to believe no benefits were owed to the claimant.  Id.  “If there 
+was no reasonable basis for the employer to have denied the employee's benefits, then 
+the court must ‘determine if the defendant knew, or should have known, that the basis 
+for denying the employee's claim was unreasonable.’”  Id. 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 29 
+ 
+ 
+Benefits must be paid beginning on the eleventh day after the injury, and “each 
+week thereafter during the period for which compensation is payable, and if not paid 
+when due,” interest will be imposed.  Iowa Code § 85.30.  In Robbennolt, the Iowa 
+Supreme Court noted, “[i]f the required weekly compensation is timely paid at the end of 
+the compensation week, no interest will be imposed . . . . As an example, if Monday is 
+the first day of the compensation week, full payment of the weekly compensation is due 
+the following Monday.”  Robbennolt, 555 N.W.2d at 235.  A payment is “made” when the 
+check addressed to the claimant is mailed, or personally delivered to the claimant.  
+Meyers v. Holiday Express Corp., 557 N.W.2d 502, 505 (Iowa 1996) (abrogated by 
+Keystone Nursing Care Ctr. v. Craddock, 705 N.W.2d 299 (Iowa 2005) (concluding the 
+employer’s failure to explain to the claimant why it would not pay permanent benefits 
+upon the termination of healing period benefits did not support the commissioner’s 
+award of penalty benefits)). 
+When considering an award of penalty benefits, the commissioner considers “the 
+length of the delay, the number of the delays, the information available to the employer 
+regarding the employee’s injuries and wages, and the prior penalties imposed against 
+the employer under section 86.13.”  Schadendorf v. Snap-On Tools Corp., 757 N.W.2d 
+330, 336 (Iowa 2008).  The purposes of the statute are to punish the employer and 
+insurance company and to deter employers and insurance companies from delaying 
+payments.  Robbennolt, 555 N.W.2d at 237.   
+As analyzed above, I did not find Gallegos established he was underpaid 
+temporary partial disability benefits.  Gallegos received temporary benefits at the weekly 
+rate of $593.82.  The correct weekly rate is $596.64.  The exhibits do not demonstrate 
+Gallegos challenged the rate calculation and that the Employer and Grinnell ignored his 
+challenge.  As analyzed above, neither party correctly determined the rate in this case.  
+I decline to award penalty benefits to Gallegos in this case.   
+VIII. 
+Independent Medical Examination 
+Gallegos seeks to recover the $3,800.00 cost of Dr. Stoken’s independent 
+medical examination.  The Employer and Grinnell aver Gallegos is not entitled to 
+recover the cost of the independent medical examination under Iowa Code section 
+85.39 because no impairment rating had been issued before Dr. Stoken conducted her 
+independent medical examination. 
+After receiving an injury, the employee, if requested by the employer, is required 
+to submit to examination at a reasonable time and place, as often as reasonably 
+requested to a physician, without cost to the employee.  Iowa Code § 85.39 (2018).  If 
+an evaluation of permanent disability has been made by a physician retained by the 
+employer and the employee believes the evaluation is too low, the employee “shall, 
+upon application to the commissioner and upon delivery of a copy of the application to 
+the employer and its insurance carrier, be reimbursed by the employer the reasonable 
+fee for a subsequent examination by a physician of the employee’s own choice . . . .”  
+Id.  Dr. Stoken conducted an independent medical examination for Gallegos on June 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 30 
+ 
+ 
+12, 2019, and issued her report on July 25, 2019.  Dr. Elkins did not issue an 
+impairment rating until August 27, 2019.  No physician provided an impairment rating 
+before Dr. Stoken provided her rating in this case.  Gallegos is not entitled to recover 
+the cost of Dr. Stoken’s independent medical examination under Iowa Code section 
+85.39.     
+IX. 
+Costs 
+Gallegos seeks to recover $100.00 for the filing fee, $95.32 for service of a 
+witness subpoena on for David Krieg, $220.00 for roundtrip mileage for Krieg, $35.00 
+for Krieg’s witness fee, $3,800.00 for Dr. Stoken’s independent medical examination 
+and report, $992.00 for the functional capacity evaluation conducted by WorkWell, 
+$1,750.00 for the vocational evaluation and report, $3,000.00 for the deposition of Dr. 
+Arias, and $499.24 for the transcript of Dr. Arias’s deposition.  (Exs. 12-13)  The 
+Employer and Grinnell aver Gallegos is not entitled to recover the costs he seeks. 
+Iowa Code section 86.40, provides, “[a]ll costs incurred in the hearing before the 
+commissioner shall be taxed in the discretion of the commissioner.”  Rule 876 IAC 
+4.33(6), provides 
+[c]osts taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by 
+Iowa Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, (8) costs of persons reviewing 
+health service disputes.  
+A. 
+Filing Fee and Deposition Transcript 
+The administrative rule expressly allows for the recovery of the filing fee and 
+deposition transcript.  876 IAC 4.33(6).  Using my discretion, I find Gallegos is entitled to 
+recover the $100.00 filing fee and the $499.00 fee for the transcript.   
+B. 
+Subpoena, Mileage, and Witness Fee for David Krieg and Witness 
+Fee for Dr. Arias 
+Gallegos seeks to recover $220.00 in mileage for Krieg, $35.00 for Krieg’s 
+witness fee, and $95.32 for service of a witness subpoena on David Krieg to compel 
+him to attend the arbitration hearing.  The administrative rule expressly allows for the 
+recovery of the cost of service of subpoenas and for witness fees and expenses as 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 31 
+ 
+ 
+provided in Iowa Code section 622.69, which pertains to lay witnesses and Iowa Code 
+section 622.72, which pertains to expert witnesses.  Id.  
+1. 
+Fees for David Krieg’s Appearance at Hearing 
+David Krieg was not designated as an expert witness, and thus, the provisions of 
+Iowa Code section 622.69 apply.  Iowa Code section 622.69 provides, in part, 
+“[w]itnesses shall receive ten dollars for each full day’s attendance, and five dollars for 
+each attendance less than a full day, and mileage expenses pursuant to section 
+602.1509 for each mile actually traveled.”  No evidence was presented that the mileage 
+paid exceeded the actual mileage David Krieg drove roundtrip to the hearing.   
+Under the administrative rules and the statute, Gallegos is entitled to recover 
+$10.00 for the witness fee, $220.00 for mileage, and $95.32 for service of the 
+subpoena.  Iowa Code § 622.69; 876 IAC 4.33(6). 
+2. 
+Fee for Dr. Arias’s Deposition 
+Gallegos seeks to recover the $3,000.00 deposition witness fee he incurred to 
+take the deposition of Dr. Arias.  As noted above, the administrative rule allows for the 
+recovery of expert witness fees in accordance with Iowa Code section 622.72.  876 IAC 
+4.33(6).  Iowa Code section 622.72, provides, 
+[w]itnesses called to testify only to an opinion founded on special study or 
+experience in any branch of science, or to make scientific or professional 
+examinations and state the result thereof, shall receive additional 
+compensation, to be fixed by the court, with reference to the value of the 
+time employed and the degree of learning or skill required; but such 
+additional compensation shall not exceed one hundred fifty dollars per day 
+while so employed. 
+The statute does not allow for recovery of a fee exceeding $150.00.  Gallegos is entitled 
+to recover $150.00 for Dr. Arias’s expert witness fee.   
+C. 
+Dr. Stoken’s Examination and Report 
+In the case of Des Moines Area Regional Transit Authority v. Young, the Iowa 
+Supreme Court held: 
+[w]e conclude section 85.39 is the sole method for reimbursement of an 
+examination by a physician of the employee’s choosing and that the 
+expense of the examination is not included in the cost of a report.  Further, 
+even if the examination and report were considered to be a single, 
+indivisible fee, the commissioner erred in taxing it as a cost under 
+administrative rule 876-4.33 because the section 86.40 discretion to tax 
+costs is expressly limited by Iowa Code section 85.39. 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 32 
+ 
+ 
+867 N.W.2d 839, 846-47 (Iowa 2015).  Thus, under Young, Gallegos is not entitled to 
+recover the cost of Dr. Stoken’s examination under rule 876 Iowa Administrative Code 
+4.33.  Dr. Stoken’s bill is itemized.  Dr. Stoken billed $1,400.00 for her examination and 
+$2,400.00 for her report.  (Ex. 12, p. 85)  While the Employer and Grinnell aver Dr. 
+Stoken’s bill is unreasonable, they have presented no documentary evidence supporting 
+their bare assertion.  Using my discretion, I find Gallegos is entitled to recover the 
+$2,400.00 cost of Dr. Stoken’s report. 
+D. 
+Reports 
+Gallegos also seeks to recover the $1,750.00 cost of the vocational evaluation 
+and report, and the $992.00 cost of the functional capacity evaluation.  (Ex. 12, pp. 88-
+91)  The administrative rule only allows for the recovery of the reasonable cost of two 
+doctors’ or practitioners’ reports.  Given Gallegos was awarded the cost of Dr. Stoken’s 
+report, he is only entitled to recover the cost of one additional report under the 
+administrative rule.  876 IAC 4.33.   
+In the case of Drake v. Cedar Rapids Cmty. Sch. Dist., File No. 5051095 
+(Remand Dec. Apr. 10, 2019), the Iowa District Court for Polk County remanded the 
+matter to Workers’ Compensation Commissioner Joseph Cortese to determine whether 
+the claimant was entitled to recover the cost of a vocational assessment and report 
+under rule 876 Iowa Administrative Code 4.33.  Commissioner Cortese noted the 
+preparation of a vocational expert report is a cost that can be taxable.  The district court 
+found the agency erred in concluding it was precluded by law from taxing the full cost of 
+the vocational assessment and report under Young.  The district court held the decision 
+of whether to tax the vocational assessment and report was within the discretion of the 
+agency.  Commissioner Cortese noted based on the district court’s remand decision, 
+the Division of Workers’ Compensation is not bound by Young, in determining costs 
+under 876 Iowa Administrative Code 4.33 pertaining to vocational expert assessments 
+and reports and the taxing of a vocational assessment and report is within the discretion 
+of the agency.  As to the merits of the case, Commissioner Cortese found the arbitration 
+decision gave little weight to the vocational expert’s opinions, and awarded the $390.00 
+cost of the report only.  Unlike that case, I found the report beneficial.  Using my 
+discretion, I find Gallegos is entitled to recover the $1,750.00 cost of the vocational 
+assessment and report.  I decline to award the cost of the functional capacity 
+evaluation. 
+ORDER 
+IT IS THEREFORE ORDERED, THAT: 
+Defendants shall pay the claimant three hundred (300) weeks of permanent 
+partial disability benefits at the weekly rate of five hundred ninety-six and 64/100 dollars 
+($596.64), commencing on July 30, 2019. 
+
+GALLEGOS V. SHELLY KRIEG INC. 
+Page 33 
+ 
+ 
+Based on an incorrect rate calculation, the claimant was underpaid two and 
+82/100 dollars ($2.82) in healing period benefits per week.  Defendants shall pay the 
+claimant an additional two and 82/100 dollars ($2.82) per week for all healing period 
+benefits set forth in Exhibit G. 
+Defendants shall pay accrued weekly benefits in a lump sum together with 
+interest payable at an annual rate equal to the one-year treasury constant maturity 
+published by the federal reserve in the most recent H15 report settled as of the date of 
+injury, plus two percent.   
+Defendants shall receive a credit for all benefits paid to date.   
+Defendants shall reimburse the claimant one hundred and 00/100 dollars 
+($100.00) for the filing fee, four hundred ninety-nine and 00/100 dollars ($499.00) for the 
+deposition transcript, ten and 00/100 dollars ($10.00) for the witness fee, two hundred 
+twenty and 00/100 dollars ($220.00) for witness mileage, ninety-five and 32/100 dollars 
+($95.32) for service of the subpoena, one hundred fifty and 00/100 dollars ($150.00) for 
+the expert witness fee, two thousand four hundred and 00/100 dollars ($2,400.00) for 
+Dr. Stoken’s report, and one thousand seven hundred fifty and 00/100 dollars 
+($1,750.00) for the vocational evaluation and report. 
+Defendants shall file subsequent reports of injury as required by this agency 
+pursuant to rules 876 IAC 3.1(2) and 876 IAC 11.7. 
+Signed and filed this 20th day of February, 2020. 
+ 
+______________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+           HEATHER L. PALMER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEPUTY WORKERS’  
+ 
+ 
+ 
+ 
+ 
+ 
+  COMPENSATION COMMISSIONER 
+ 
+The parties have been served, as follows: 
+ 
+Stephen Spencer (via WCES) 
+Tom Drew (via WCES) 
+ 
+Right to Appeal: This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Division of Workers’ Compensation to file documents in paper form.  If such permission has 
+been granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, 
+Iowa Division of Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of 
+appeal must be received by the Division of Workers’ Compensation within 20 days from the date of the decision.  
+The appeal period will be extended to the next business day if the last day to appeal falls on a weekend or legal 
+holiday. 

@@ -1,0 +1,238 @@
+Case Number: 20006580.01
+Case Title:  LIFORD, TERESA V. CHRISTENSEN FARMS/2ND INJ-FUND
+Doc Type:    Decision - Court of Appeals
+Source:      Liford, Teresa-1580224.01.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 22-1747 
+Filed August 9, 2023 
+ 
+ 
+TERESA LIFORD, 
+ 
+Petitioner-Appellant, 
+ 
+vs. 
+ 
+CHRISTENSEN FARMS, ACE AMERICAN INSURANCE CO., and SECOND 
+INJURY FUND OF IOWA, 
+ 
+Respondents-Appellees. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Appanoose County, Lucy J. Gamon, 
+Judge. 
+ 
+ 
+Teresa Liford appeals the district court’s ruling that she is not entitled to 
+Second Injury Fund benefits.  AFFIRMED.   
+ 
+ 
+Michael O. Carpenter (until withdrawal) and Bryan J. Goldsmith of Gaumer, 
+Emanuel, Carpenter & Goldsmith, P.C., Ottumwa, for appellant. 
+ 
+Abigail A. Wenninghoff of Kuper, Wenninghoff & Block, PC, LLO Omaha, 
+for appellees Christensen Farms and Ace American Insurance Co. 
+ 
+Brenna Bird, Attorney General, and Sarah C. Timko, Assistant Attorney 
+General, for appellee Second Injury Fund of Iowa. 
+ 
+ 
+Considered by Schumacher, P.J., and Chicchelly and Buller,  JJ.
+
+ 
+2
+CHICCHELLY, Judge. 
+ 
+Teresa Liford appeals the district court’s ruling, which affirmed that she was 
+not entitled to Second Injury Fund benefits for a left knee injury.  The deputy 
+commissioner determined that the injury developed as a sequela to the right knee 
+injury that occurred at Liford’s job, which did not justify awarding benefits from the 
+Fund.  Liford contends that she proved her injury was separate and distinct for the 
+purpose of the second-injury claim.  She also argues the “separate and distinct” 
+rule cannot be applied to Second Injury Fund cases due to their conflicting 
+purposes.  Because substantial evidence shows the left knee injury was a sequela 
+to the right knee injury, we affirm the district court’s decision. 
+I. 
+Facts and Prior Proceedings 
+ 
+In the spring of 2014, Liford was working as a farrower for Christensen 
+Farms.  This job involved caring for the sows and piglets on the farm and moving 
+the livestock.  On March 10th, 2014, while reaching for a piglet, Liford’s right knee 
+gave out, and she fell to the floor hitting both knees.  She saw her family physician 
+for this injury, with a chief complaint of pain in the right knee.  Despite a right knee 
+meniscectomy performed by Dr. Vincent Christopher and physical therapy, Liford 
+reports the pain persisted. 
+ 
+On December 5th, 2014, Liford visited a family practice for bilateral knee 
+pain, reporting an onset of pain sometime between October and November after 
+returning to work.  Again, she was referred to Dr. Vincent, this time for magnetic 
+resonance imaging (MRI) of the left knee.  Liford’s left knee pain was traced back 
+to overuse from her “babying” the right knee, as well as adjustments to a new 
+workplace layout with more twisting in small spaces.  She was diagnosed with a 
+
+ 
+3
+left medial meniscal tear.  While no specific injury to the left knee was noted, Liford 
+was scheduled for a meniscectomy for that knee. 
+ 
+Liford filed for worker’s compensation for both knee injuries, naming her 
+employer as well as the Second Injury Fund.  From the medical reports and Liford’s 
+testimony, a deputy commissioner found that Christensen Farms was liable under 
+the worker’s compensation statute.  She also found that the left knee injury 
+developed as a sequela from the right knee injury.  This was based primarily on 
+the report from Dr. John Kuhnlein, who performed an independent medical 
+examination and affirmed Dr. Vincent’s conclusion that the left knee injury was a 
+sequela.  The deputy commissioner found that Liford was not entitled to second-
+injury benefits as she had failed to prove that the December 5th incident resulted 
+from a separate and distinct injury.  This was affirmed by the commissioner on 
+appeal, as well as the district court following judicial review.  Liford appeals the 
+district court’s ruling.  
+II. 
+Analysis 
+A. Standard of Review 
+ 
+We review workers’ compensation decisions under the standards set in 
+chapter 17A (2021).  In this case, the agency’s decision was based on the 
+interpretation of the worker’s compensation statute.  “Interpretation of the workers’ 
+compensation statute is an enterprise that has not been clearly vested by a 
+provision of law in the discretion of the commissioner.”  Gregory v. Second Injury 
+Fund of Iowa, 777 N.W.2d 395, 397 (Iowa 2010).  We reverse the agency’s 
+decision if it is based on an “erroneous interpretation” of the law.  Id.  Further, 
+
+ 
+4
+because Liford raises an issue of proof of a factual finding, we review the decision 
+for substantial evidence.  Iowa Code § 17A.19(10)(f). 
+B. Proof of Second Injury 
+ 
+We first consider whether Liford met her burden of proving she sustained a 
+second, separate injury that qualifies her for compensation from the Fund.  Liford 
+asserts that the commissioner incorrectly interpreted Gumm v. Easter Seal Soc’y 
+of Iowa, resulting in an erroneous application to the facts.  943 N.W.2d 23, 25 (Iowa 
+2020).  While Liford claims that she only raises a question of law, it follows that we 
+must determine whether there was substantial evidence after considering the 
+proper reading of Gumm.  Id.  
+ 
+An individual may receive compensation from the Second Injury Fund by 
+showing (1) past loss of a hand, arm, foot, leg, or eye, (2) another compensable, 
+work-related injury to such member or organ, and (3) permanent injury.  Iowa Code 
+§ 85.64(1) (2019); see also Second Injury Fund of Iowa v. Bergeson, 526 N.W.2d 
+543, 547–48 (Iowa 1995).  Liford argues the commissioner’s ruling misstated the 
+holding in Gumm by requiring a showing that “the subsequent condition of the 
+claimant [was not] a consequence of the first injury.”  943 N.W.2d at 33.  Instead, 
+Liford asserts the holding in Gumm is captured in the first sentence, which limits 
+the “separate and distinct” rule to cumulative injuries stemming solely from 
+aggravation of the original injury.  Id at 25.  From this, Liford contends the 
+commissioner should have evaluated whether her second injury was solely the 
+result of aggravation of the first injury.   
+ 
+Like the district court, we disagree with this premise.  While Liford quotes 
+the beginning of Gumm, she omits the rest of the paragraph, which relates the 
+
+ 
+5
+cumulative-injury standard to the relevant issue of review-reopening.  Those 
+circumstances are not before us today.  Further, the court in Gumm clearly states 
+its holding, which ultimately rules on the issue of review-reopening.1  Id. at 33.  If 
+a cumulative injury is found, then the injury must be distinct and separate, with the 
+language in Gumm suggesting that aggravation is one factor in determining that 
+separate injury.  Id.  
+ 
+Even if Gumm did apply in this case, it does not require that the agency 
+conclude the second injury was in fact solely the result of aggravation from the first 
+injury.  The district court correctly stated that the burden of proof is on the 
+petitioner; Gumm was not intended to shift that burden to the defendant.  See id. 
+at 28.2  All relevant factors were considered, including the timing of both injuries 
+and Liford’s symptoms prior to getting the original injury evaluated. 
+ 
+Liford also cites Second Injury Fund of Iowa v. Greenman, which more 
+closely reflects the fact pattern here.  No. 05-0855, 2006 WL 3017955, at *1 (Iowa 
+Ct. App. Oct. 25, 2006).  In both cases, the claimants injured an extremity on one 
+side before bringing an injury for the other side; Liford asserts the distinction 
+between two separate body parts was the force behind the decision to award SIF 
+benefits.  Yet, Greenman addresses other factors that led to this decision, such as 
+the duties being performed when each injury manifested.  2006 WL 3017955, 
+ 
+1 “[We] hold the commissioner and the district court correctly ruled that where a 
+claimant has received disability benefits for a prior compensable injury, the 
+claimant is limited to the review-reopening remedy for additional disability benefits 
+unless she can prove she has suffered another injury.”  Gumm, 943 N.W.2d at 33. 
+2 “A compensable review-reopening claim filed by an employee requires proof by 
+a preponderance of evidence that the claimant’s condition is proximately caused 
+by the original injury.”  Gumm, 943 N.W.2d at 28 (internal quotation marks and 
+citation omitted). 
+
+ 
+6
+at *4.3  Even though the second injury was in the nature of a sequela to the first 
+injury, the court in Greenman still emphasized that the second injury could not be 
+“merely a consequence” of the first.  2006 WL 3017955, at *2.  As the district court 
+stated, we are not compelled to find the same outcomes among all similar cases.  
+The record demonstrates the substantial evidence necessary to support the finding 
+that Liford did not have a separate and distinct second injury.   
+C. Applicability of “Separate and Distinct” to Second Injury Fund 
+Claims 
+ 
+Next, Liford argues the “separate and distinct” rule does not apply to the 
+Second Injury Fund because of their contradictory purposes.  She asserts that 
+applying this rule to this form of compensation results in a greater award for her, 
+less accurately reflecting what her employer actually paid.  We disagree with this 
+interpretation. 
+i. Error Preservation 
+ 
+The Fund argues this issue was not expressly raised before or decided by 
+the agency or the district court on judicial review.  Liford contends the argument is 
+merely “additional ammunition” for her preserved claim.  See JBS Swift & Co. v. 
+Ochoa, 888 N.W.2d 887, 893 (Iowa 2016).  Assuming the issue is properly before 
+us, we resolve this claim on the merits. 
+ 
+ 
+ 
+3 Greenman injured her right arm “repeatedly lifting tubes out of a packer,” while 
+her left arm was injured doing computer work.  Greenman, 2006 WL 3017955, 
+at *4. 
+
+ 
+7
+ii. Merits 
+ 
+The Second Injury Fund was intended to encourage employers to hire 
+previously disabled employees, while the “separate and distinct” rule was intended 
+to prevent claim splitting when employees attempted to collect on cumulative 
+injuries.  Second Injury Fund of Iowa v. Shank, 516 N.W.2d 808, 812 (Iowa 1994); 
+Excel v. Smithart, 645 N.W.2d 891, 898 (Iowa 2002).  From this, Liford concludes 
+that the “separate and distinct” rule was not meant to be applied in this case.  While 
+Liford does accurately state the purpose of the Second Injury Fund, she 
+misconstrues the process by which the court assesses its obligations.  
+ 
+With a second-injury claim, the employer is responsible for the injury caused 
+during the employment, while the Second Injury Fund is responsible for the 
+cumulative effect of the injuries; however, the obligations of the Fund are not 
+assessed until the liability of the employer has been decided.  Second Injury Fund 
+v. Neelans, 436 N.W.2d 355, 358 (Iowa 1989); Second Injury Fund of Iowa v. 
+Braden, 459 N.W.2d 467, 473 (Iowa 1990).  This does not indicate the explicit 
+claim splitting that Liford asserts.  Additionally, the language in section 85.64 
+suggests the commissioner should analyze for two distinct injuries as the code 
+references a “previous” injury, and the second injury must be deemed 
+compensable.  Iowa Code § 85.64(1); Bergeson, 526 N.W.2d at 547–48.  This is 
+further evidenced by the fact that, as the Fund points out, there is no requirement 
+that the first injury be work-related.  Gregory, 777 N.W.2d at 400 (Iowa 2010). 
+ 
+As the Fund argues, the commissioner assessed the employer’s liability for 
+the alleged injury to the left knee before assessing the Fund’s involvement and 
+found no compensable injury separate from the incident on March 10th.  The 
+
+ 
+8
+findings clearly state that the right knee injury was compensable while the left knee 
+injury was deemed a sequela.  Again, this finding has substantial evidence to 
+support it, and we find that Liford did not satisfy the necessary elements to earn 
+her benefits from the Second Injury Fund.  For these reasons, we affirm the district 
+court’s ruling. 
+ 
+AFFIRMED. 
+ 

@@ -1,0 +1,1276 @@
+Case Number: 5063710
+Case Title:  HASTINGS JR, HOWARD V. ORKIN PEST CONTROL
+Doc Type:    Decision - Deputy
+Source:      Hastings Howard-5063710d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+HOWARD HASTINGS, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  :                      File No. 5063710 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :  
+ORKIN PEST CONTROL, 
+  : 
+       ARBITRATION DECISION 
+ 
+ 
+  :  
+ 
+Employer, 
+  : 
+ 
+ 
+  :  
+and 
+ 
+  : 
+ 
+ 
+  : 
+NEW HAMPSHIRE INSURANCE, 
+  :                Head Note Nos.:  1803 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  : 
+ 
+Defendants. 
+  :  
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Claimant Howard Hastings seeks workers’ compensation benefits from the 
+defendants, employer Orkin Pest Control (Orkin) and insurance carrier New Hampshire 
+Insurance (NHI). The undersigned presided over an arbitration hearing on September 
+24, 2021, held by internet-based video under order of the Commissioner. Hastings 
+participated personally and through attorney Mark J. Sullivan. The defendants 
+participated by and through attorney Tiernan T. Siems. 
+ISSUES 
+Under rule 876 IAC 4.19(3)(f), the parties jointly submitted a hearing report 
+defining the claims, defenses, and issues submitted to the presiding deputy 
+commissioner. The hearing report was approved and entered into the record via an 
+order because it is a correct representation of the disputed issues and stipulations in 
+this case. The parties identified the following disputed issues in the hearing report: 
+1) Is the stipulated work injury the cause of a temporary period during a period 
+of recovery from July 23, 2018, through August 31, 2019? 
+2) What is the nature and extent of permanent disability, if any, caused by the 
+stipulated work injury? 
+3) If Hastings is entitled to permanent disability benefits, what is the 
+commencement date? 
+ELECTRONICALLY FILED     2022-Jul-15  09:41:10     DIVISION OF WORKERS' COMPENSATION
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 2 
+4) Is Hastings entitled to recover the cost of an independent medical 
+examination (IME) under Iowa Code section 85.39? 
+5) Is Hastings entitled to a penalty under Iowa Code section 85.60? 
+6) Is Hastings entitled to reimbursement of the medical expenses in Claimant’s 
+Exhibit 12? 
+7) Is Hastings entitled to reimbursement of the mileage in Claimant’s Exhibit 
+15? 
+8) Is Hastings entitled to taxation of the costs against the defendants? 
+STIPULATIONS 
+ 
+In the hearing report, the parties entered into the following stipulations: 
+1) An employer-employee relationship existed between Hastings and Orkin at 
+the time of the alleged injury. 
+2) Hastings sustained an injury on August 11, 2016, which arose out of and in 
+the course of his employment with Orkin. 
+3) If the injury is found to be a cause of permanent disability, the disability is an 
+industrial disability. 
+4) At the time of the stipulated injury: 
+a) Hastings’s gross earnings were seven hundred fifty-six and 91/100 
+dollars ($756.91) per week. 
+b) Hastings was married. 
+c) Hastings was entitled to three exemptions. 
+5) Prior to hearing, the defendants paid to Hastings 101.571 weeks of 
+compensation at the rate of five hundred four and 99/100 dollars ($504.99) 
+per week. 
+The parties’ stipulations in the hearing report are accepted and incorporated into 
+this arbitration decision. The parties are bound by their stipulations. This decision 
+contains no discussion of any factual or legal issues relative to the parties’ stipulations 
+except as necessary for clarity with respect to disputed factual and legal issues. 
+FINDINGS OF FACTS 
+The evidentiary record in this case consists of the following:  
+ Joint Exhibits (Jt. Ex.) 1 through 7; 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 3 
+ Claimant’s Exhibits (Cl. Ex.) 1 through 15;  
+ Defendants’ Exhibits (Def. Ex.) B and C through J; and 
+ Hearing testimony by Hastings and his wife, Michelle Hastings.  
+After careful consideration of the evidence and the parties’ post-hearing briefs, the 
+undersigned enters the following findings of fact. 
+Hastings was fifty years of age at the time of hearing. (Hrg. Tr. p. 67) He is right-
+hand dominant. (Def. Ex. F, p. 3, Depo. Tr. p. 9) The weight of the evidence establishes 
+Hastings was born with an abnormality in his right shoulder, but he experienced no 
+issues relating to this condition prior to August 11, 2016. 
+Growing up, Hastings worked on his family’s farm. (Hrg. Tr. p. 69) He was a good 
+student in high school, from which he graduated in 1991. (Hrg. Tr. pp. 67–68) During 
+high school, he worked at a general store and doing summertime maintenance at the 
+local college, which included mowing grass and janitorial work. (Hrg. Tr. p. 70) 
+After high school, Hastings served in the United States Air Force. (Hrg. Tr. p. 68–
+69) Hastings had his enlistment cut short because the recruiter did not provide the Air 
+Force with all of his medical records, so he received an honorable discharge during his 
+second year. (Hrg. Tr. pp. 68–69) He had not obtained a postsecondary degree or 
+certificate before the hearing in this case. (Hrg. Tr. p. 68) 
+After Hastings left the Air Force, he returned to the Dubuque area. (Hrg. Tr. p. 
+70) He worked for a tree service trimming trees around powerlines. (Hrg. Tr. p. 70) This 
+required him to climb trees and powerline poles, sometimes as high as one hundred 
+feet in the air, while carrying chainsaws, to reach the tree branches he needed to trim. 
+(Hrg. Tr. pp. 70–71) Hastings next worked performing construction work such as 
+roofing, siding, remodeling, and pouring concrete. (Hrg. Tr. pp. 71–72)  
+In 1998, Orkin hired Hastings. (Hrg. Tr. p. 72) Initially, Hastings worked 
+seasonally spraying poison in barns to kill flies and spiders. (Hrg. Tr. p. 72–73) Orkin 
+paid Hastings a commission for each job. (Hrg. Tr. p. 73) He then became an hourly 
+employee who worked year-round for Orkin, doing a combination of sales and service 
+work. (Hrg. Tr. pp. 73–74) 
+Hastings voluntarily quit his job at Orkin in 2002 because he did not like the 
+occasional layoffs that were part of his employment there. (Hrg. Tr. p. 75) He purchased 
+a restaurant on contract that he operated. (Hrg. Tr. p. 75) The restaurant generated 
+enough revenue to pay for its operations but not enough for Hastings to take a salary. 
+(Hrg. Tr. p. 76) Consequently, Hastings lost money on the venture and returned the 
+restaurant to the people with whom he had contracted to buy it. (Hrg. Tr. p. 76)  
+ 
+ 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 4 
+Hastings got a job with BFI, a waste management company, driving a truck and 
+collecting the contents of trash and recycling bins in small cities near Dubuque. (Hrg. Tr. 
+pp. 76–77) In November of 2003, BFI discharged Hastings after the truck he was driving 
+crashed into the back of another BFI truck due to a brake issue. (Hrg. Tr. p. 77) 
+In or around June of 2004, Orkin hired Hastings again. (Hrg. Tr. p. 78) He started 
+out doing farm jobs before moving to residential work. (Hrg. Tr. p. 78) Hastings worked 
+in sales at Orkin from 2010 to 2015. (Hrg. Tr. pp. 79–80) He then transitioned back to 
+doing a combination of sales and service work. (Hrg. Tr. p. 80) 
+In March of 2015, Hastings fell while working a job for Orkin and injured his right 
+wrist. (Hrg. Tr. p. 89) He ultimately underwent a computed tomography (CT) scan of his 
+injured arm, which showed a congenitally deformed right shoulder. (Hrg. Tr. p. 90–91) 
+However, Hastings did not learn of this finding at the time. (Hrg. Tr. pp. 91, 102) 
+On August 11, 2016, Orkin dispatched Hastings to treat a two-story home 
+infested with bed bugs in Darlington, Wisconsin. (Hrg. Tr. p. 81) Typically, Orkin 
+assigned two employees for a job of this size. (Hrg. Tr. p. 87) However, it sent only 
+Hastings to perform this one. (Hrg. Tr. p. 87) 
+A heat treatment consists of multiple steps. First, Hastings dusted the wall voids 
+with a poisonous dust to kill any bed bugs that might have gotten into them. (Hrg. Tr. p. 
+83–84) He then set up for the heating process, which involves stapling heat blankets on 
+the windows and moving furniture. (Hrg. Tr. p. 84) Next, Hastings set up the heat-treat 
+unit, which weighs about two hundred pounds, burns propane to create heat, and has a 
+fan that blows the heat into the house. (Hrg. Tr. pp. 85–86) He also set up four fans, 
+each weighing between fifty and seventy pounds, throughout the house to ensure the 
+heat was properly distributed to kill the bed bugs. (Hrg. Tr. pp. 86, 106)  
+Hastings set the heat-treat unit to raise the temperature in the home to one 
+hundred fifty-eight degrees because the furniture in the house must reach one hundred 
+twenty-eight degrees to kill the bed bugs. (Hrg. Tr. p. 86) He used a probe to measure 
+the temperature of furniture and would move items as needed to ensure they reached 
+the proper killing temperature. (Hrg. Tr. p. 86) It took Hastings five or six hours to 
+complete the heat treatment. (Hrg. Tr. p. 87) 
+After Hastings finished the heat treatment, he removed the equipment from the 
+home. (Hrg. Tr. p. 97) When Hastings went to pick up a fan on the second floor of the 
+home, he felt a pinch in the back of his right arm, around the area of his triceps muscle. 
+(Hrg. Tr. p. 97) His arm then felt heavy with pain in the area of his biceps after the pinch 
+sensation. (Hrg. Tr. pp. 97, 105–06) Hastings also began to feel nauseous. (Hrg. Tr. p. 
+98)  
+Hastings telephoned his supervisor at Orkin and left a message. (Hrg. Tr. p. 98) 
+He finished loading the trailer before his boss returned his call. (Hrg. Tr. p. 98) His boss 
+asked if he had been drinking water, which he had, and then instructed him to drive 
+back to the office with the vehicle’s air conditioning on high. (Hrg. Tr. p. 98)  
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 5 
+Hastings followed his boss’s instructions. (Hrg. Tr. p. 98) He did not notice that 
+his right arm swelled up during the drive. (Hrg. Tr. p. 99) When Hastings arrived at the 
+office, his boss looked him over, told him he had “a Popeye arm,” and directed him to go 
+home to ice his arm. (Hrg. Tr. p. 99) Hastings’s arm had also turned red in the biceps 
+area. (Hrg. Tr. p. 99) He went home and iced his injured arm. (Hrg. Tr. p. 99) 
+Hastings returned to work the next day and began performing paperwork. (Hrg. 
+Tr. p. 99) The redness of Hastings’s right arm had turned to purple. (Hrg. Tr. p. 100; Jt. 
+Ex. 1, p. 1) He felt pain throughout his right arm and in his right shoulder. (Hrg. Tr. p. 
+102) Hastings was having a hard time lifting his right arm higher than his chest due to 
+swelling. (Hrg. Tr. p. 101; Jt. Ex. 1, p. 1) His boss observed that his right arm was more 
+swollen than it had been the day before, so he called Orkin risk management. (Hrg. Tr. 
+pp. 99–100) His boss then drove him to Tri-State Occupational Health to obtain care for 
+his injured right arm. (Hrg. Tr. pp. 100–01)  
+Erin Kennedy, M.D., examined Hastings and noted in pertinent part: 
+[A]s exam ensues, he clearly becomes more uncomfortable. There is 
+redness from the shoulder down the arm. It is most impressive over the 
+bicep. There is small bruise over the bicep area. There is swelling 
+throughout the right arm. He has [full range] of motion at right digits, 
+wrists, elbow. He has difficulty lifting right arm over midchest level. He 
+does so passively. Palpation of bicep and tricep are both sore. However, 
+he reports abrupt worsening of throbbing pain and radiating pain after 
+palpation of bicep. There is possible [P]opeye deformity. 
+(Jt. Ex. 1, p. 1)  
+Dr. Kennedy assigned Hastings work restrictions and ordered magnetic 
+resonance imaging (MRI). (Jt. Ex. 1, pp. 1–2) The MRI showed a “congenital glenoid 
+abnormality with labral tearing.” (Jt. Ex. 1, p. 4) Dr. Kennedy noted the “markedly 
+deformed and abnormal glenoid with posterior dysplasia was best demonstrated on the 
+CAT scan of March 2015.” (Jt. Ex. 1, p. 6) Dr. Kennedy opined that, “even if there is a 
+congenital or preexisting structural issue, something has happened to cause swelling, 
+redness, bruising that is very evident even today and the abrupt reduction of function in 
+terms of motion and strength of the shoulder.” (Jt. Ex. 1, p. 4) 
+Dr. Kennedy observed, “There appears to be significant separation of the 
+posterior superior, posterior, and posterior inferior labrum either representing a tear or 
+congenital anomaly.” (Jt. Ex. 1, p. 6) She also noted, “The anterior labrum is somewhat 
+difficult to evaluate and is intact inferiorly. There may be a large labral foramen or less 
+likely a partial tear of the anterior labrum.” (Jt. Ex. 1, p. 6) Because the “vascular 
+concern” was out of Dr. Kennedy’s “realm of expertise,” she referred Hastings to James 
+Nepola, M.D., at the University of Iowa Hospitals and Clinics (UIHC). (Jt. Ex. 1, p. 6) 
+ 
+ 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 6 
+Hastings had an appointment with Dr. Nepola on September 27, 2016. (Jt. Ex. 4, 
+p. 13) Dr. Nepola noted Hastings complained of continued pain in his triceps, cramping 
+in his forearm and upper arm, burning near his axilla in his upper arm, and venous 
+streaking. (Jt. Ex. 4, p. 13) He opined Hastings had a “congenital dysplastic glenoid and 
+hypertrophic labrum” and “traumatic findings on imaging or exam today.” (Jt. Ex. 4, p. 
+14) Dr. Nepola referred Hastings to a vascular specialist. (Jt. Ex. 4, p. 14) 
+Andrei Odobescu, M.D., examined Hastings on October 25, 2016, to determine if 
+he had a venous malformation. (Jt. Ex. 4, p. 17) He noted the discoloration and swelling 
+in Hastings’s arm had subsided and he complained of some cramping in the forearm 
+and upper arm. (Jt. Ex. 4, p. 17) Dr. Odobescu concluded, “The swelling appears to 
+have been posttraumatic which is not in keeping with a venous malformation.” (Jt. Ex. 4, 
+p. 18) The MRI and history Hastings relayed reinforced this conclusion. (Jt. Ex. 4, p. 18) 
+Dr. Odobescu concluded Hastings had a “partial occlusion of the right subclavian vein” 
+and referred him to the UIHC vascular surgery department. (Jt. Ex. 4, p. 18) 
+On October 31, 2016, Rachael Nicholson, M.D., examined Hastings and ordered 
+magnetic resonance venography (MRV) to determine if Hastings had thoracic outlet 
+syndrome and a multiplanar MRI of the brachial plexus. (Jt. Ex. 4, pp. 19–21) The MRV 
+was consistent with thoracic outlet syndrome. (Jt. Ex. 4, p. 23) The MRI did not show an 
+injury to the brachial plexus. (Jt. Ex. 4, p. 24) A subsequent electromyography (EMG) 
+did not show any permanent nerve damage suggestive of cramps in the forearm. (Jt. 
+Ex. 4, p. 25) 
+Chandan Reddy, M.D., saw Hastings on November 29, 2016. (Jt. Ex. 4, p. 25) 
+He noted Hastings was still having problems moving his arm. (Jt. Ex. 4, p. 25) Dr. 
+Reddy diagnosed Hastings with subclavian vein thrombosis and thoracic outlet 
+syndrome, recommended continuing physical therapy and deferred to Luigi Pascarella, 
+M.D., on the question of surgery. (Jt. Ex. 4, p. 25–26) 
+Dr. Pascarella examined Hastings on December 1, 2016. (Jt. Ex. 4, p. 29) He 
+noted Hastings complained of ongoing pain and numbness in his arm. (Jt. Ex. 4, p. 29) 
+Dr. Pascarella recommended right thoracic outlet decompression with a brachial plexus 
+neurolysis. (Jt. Ex. 4, p. 29) On December 21, 2016, Drs. Reddy and Pascarella 
+performed a brachial plexus neurolysis, resection of the first rib, and resection of 
+anterior scalene muscles. (Jt. Ex. 4, pp. 37–47) Because the blood clot in Hastings’s 
+neck was larger than anticipated, Dr. Pascarella informed him that they were worried 
+about how well they were able to seal the artery after removing the clot. (Hrg. Tr. p. 117) 
+On December 25, 2016, UIHC discharged Hastings. (Jt. Ex. 4, p. 50) 
+The next day, Hastings experienced shortness of breath, coughing, nausea, and 
+neck issues. (Jt. Ex. 4, p. 50; Hrg. Tr. p. 118) He telephoned the nurse case manager 
+assigned to his workers’ compensation claim and she directed him to go to the 
+emergency room (ER). (Jt. Ex. 4, p. 50; Hrg. Tr. p. 118) Hastings did as instructed and 
+went to the Finely Hospital ER in Dubuque, where the doctors arranged for 
+transportation by ambulance to UIHC in Iowa City. (Hrg. Tr. p. 118) A chest x-ray and 
+CT scan showed fluid had built up in the area where he had undergone surgery. (Jt. Ex. 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 7 
+4, pp. 50–52) UIHC placed Hastings on oxygen and sent him home. (Jt. Ex. 4, p. 55; 
+Hrg. Tr. pp. 118–19)  
+Hastings continued to have shortness of breath and on January 9, 2017, he woke 
+up coughing and gasping for air. (Jt. Ex. 4, p. 55) He complained of feeling feverish with 
+chills and experiencing fatigue and lack of appetite. (Jt. Ex. 4, p. 55) Physicians at UIHC 
+performed thoracentesis, which revealed the fluid to be blood. (Jt. Ex. 4, pp. 58–59; Hrg. 
+Tr. pp. 119–20) On January 13, 2017, Hastings underwent right thoracoscopic 
+decortication by Evgeny Arshava, M.D. (Jt. Ex. 4, pp. 60–61) Dr. Arshava removed the 
+fluid that had built up in Hastings’s chest cavity and repaired his damaged artery. (Hrg. 
+Tr. p. 121–23) Hastings had to wear a cast to immobilize his shoulder. (Hrg. Tr. p. 125)  
+Hastings followed up with Dr. Pascarella on February 16, 2017, complaining of 
+weakness in his right arm after the thoracoscopic decortication. (Jt. Ex. 4, p. 68) Dr. 
+Pascarella referred him to Dr. Reddy and prescribed valium and aggressive physical 
+therapy. (Jt. Ex. 4, p. 69) Dr. Reddy agreed with Dr. Pascarella’s prescription of 
+aggressive physical therapy for at least three months and assigned Hastings work 
+restrictions. (Jt. Ex. 4, p. 69–70)  
+Hastings participated in physical therapy in an effort to rehabilitate his shoulder. 
+(Hrg. Tr. p. 127) Hastings had eighty physical therapy appointments from February 
+2017 through August 2017. (Hrg. Tr. p. 127) Physical therapy initially helped reduce the 
+pain Hastings felt in his neck and improved his mobility. (Jt. Ex. 4, p. 71–76) 
+On April 11, 2017, Dr. Pascarella noted after a long discussion with Hastings on 
+his surgeries, “I believe his current symptoms may be ascribed to a locked shoulder 
+problem due probably to inactivity, that predates his TOS surgery and had worsened 
+after the VATS thoracoscopy.” (Jt. Ex. 4, p. 76) Hastings began to have issues as he 
+progressed in physical therapy. (Jt. Ex. 4, p. 77) He dislocated his shoulder three times 
+in late April when attempting to lift a five-pound weight, which was extremely painful. (Jt. 
+Ex. 4, p. 77; Hrg. Tr. p. 128) Drs. Pascarella and Reddy referred Hastings to Dr. Nepola 
+for further evaluation of his shoulder. (Jt. Ex. 4, p. 78) 
+Hastings began to receive care for his mental health in April of 2017. (Jt. Ex. 6, 
+pp. 174–85) The defendants authorized care at Hillcrest Family Services. (Hrg. Tr. pp. 
+137–38) Hastings treated at Hillside with psychiatrist, Mark Mittauer, M.D., and therapist 
+Richard Corfman. (Jt. Ex. 6, pp. 186–222)  
+The first attorney to serve as claimant’s counsel in this case sent Dr. Reddy a 
+check-box letter dated May 15, 2017. (Cl. Ex. 3, pp. 15–16) On the question of whether 
+Dr. Reddy referred Hastings for treatment of a shoulder condition caused, aggravated, 
+or materially contributed to by the work injury, Dr. Reddy indicated in the positive. (Cl. 
+Ex. 3, p. 15) He also indicated that the need for surgery, if recommended by Dr. Nepola, 
+was caused by the work injury. (Cl. Ex. 3, p. 15) Dr. Reddy signed and dated his 
+answers on May 19, 2017. (Cl. Ex. 3, p. 15) 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 8 
+On July 18, 2017, Hastings saw Dr. Nepola, who noted, “He inexplicably has had 
+worsening of his shoulder, possibly due to neurologic dysfunction versus residual 
+stiffness secondary to immobilization.” (Jt. Ex. 4, p. 84) Dr. Nepola ordered an MRI and 
+CT scan, which showed no rotator cuff tear, mild degenerative changes, and glenoid 
+dysplasia. (Jt. Ex. 4, p. 93) Dr. Nepola recommended a glenohumeral injection to 
+determine if this is the main source of Hastings’s shoulder pain. (Jt. Ex. 4, p. 93)  
+Two weeks later, Eric Aschenbrenner, M.D., administered the injection. (Jt. Ex. 4, 
+p. 97) Hastings informed Dr. Nepola on the day after the injection it had substantially 
+improved his shoulder pain for a short time. (Jt. Ex. 4, pp. 98–99; Hrg. Tr. p. 132) Dr. 
+Nepola opined Hastings’s congenitally dysplastic glenoid was “likely leading to internal 
+derangement and early arthritis in his shoulder.” (Jt. Ex. 4, p. 100) He recommended 
+conservative treatment for as long as possible before considering a total shoulder 
+replacement. (Jt. Ex. 4, p. 99) 
+On September 26, 2017, Hastings saw Dr. Nepola complaining of aching and 
+stabbing shoulder pain, intermittent numbness in his right forearm and right upper chest, 
+pain in his right shoulder when he lifts his left arm, and sensitivity to heat and cold. (Jt. 
+Ex. 4, p. 104) Dr. Nepola and Hastings “had a long discussion that he may be at the 
+beginning of a series of surgeries that will result in worse, untreatable shoulder pain” 
+and that “[t]here is not shoulder treatment that will make his shoulder normal.” (Jt. Ex. 4, 
+p. 106) Hastings decided to move forward with a total right shoulder replacement with 
+custom glenoid prosthesis. (Jt. Ex. 4, pp. 106–117) He continued care with Dr. Nepola 
+while the custom prosthesis was fabricated. (Jt. Ex. 4, p. 119–22; Hrg. Tr. p. 135)  
+Defense counsel arranged for Hastings to undergo an IME with Robert L. 
+Broghammer, M.D., on January 8, 2018. (Def. Ex. B, p. 1) Dr. Broghammer reviewed 
+medical records relating to Hastings’s care and issued an IME report. (Def. Ex. B, pp. 
+1–15) On the question of whether further surgical intervention was reasonable and 
+necessary, he opined that a total shoulder replacement by Dr. Nepola was “[t]he only 
+long-term solution.” (Def. Ex. B, p. 15) 
+In a letter dated January 19, 2018, the attorney who first represented Hastings in 
+this case asked Dr. Nepola to opine with respect to what caused the need for the total 
+shoulder replacement surgery. (Cl. Ex. 4, p. 17) Dr. Nepola responded in a letter dated 
+May 25, 2018. (Cl. Ex. 4, pp. 18–19) On the question of whether Hasting’s work injury 
+caused or contributed to the need for the procedure, Dr. Nepola opined: 
+Yes, to the nearest degree of medical certainty, it is likely that the reported 
+work injury at least exacerbated his congenital shoulder condition. I have 
+not seen any documentation indicating Mr. Hastings complained of 
+shoulder pain or dysfunction prior to the reported work incident, despite 
+his congenital condition. The mechanism of injury (distraction of the 
+shoulder with heavy lifting) is consistent with at least exacerbating and 
+possibly materially aggravating his underlying condition. He has continued 
+to complain of symptoms since the time of his injury, despite other 
+interventions. For these reasons it is likely that the reported work injury at 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 9 
+least contributed to the need for surgery, again, to the nearest degree of 
+medical certainty. 
+(Cl. Ex. 4, pp. 18–19) 
+In response to the question Hastings’s work injury at Orkin caused his shoulder 
+condition to become symptomatic requiring the surgery, Dr. Nepola stated: 
+Yes, according to the history given by the patient and the provided 
+documentation, Mr. Hastings had a functional shoulder prior to the work 
+incident. As above, the mechanism is consistent with causing at least an 
+exacerbation or “lighting up” of the pre-existing shoulder condition, and 
+possibly materially aggravated it. To the nearest degree of medical 
+certainty the work injury contributed to the current need for surgery. 
+(Cl. Ex. 4, p. 19) 
+In response to a letter from defense counsel, Dr. Broghammer issued a second 
+IME report on June 22, 2018, after reviewing additional medical records. (Def. Ex. B, pp. 
+17–18) As an initial matter, Dr. Broghammer did not address whether the work injury 
+aggravated or lighted up Hastings’s previously asymptomatic congenital defect. (Def. 
+Ex. B, pp. 28–29) This fact makes his opinions less persuasive. As discussed below, 
+there are additional facts that make his opinions lack credibility. 
+Defense counsel asked if Dr. Broghammer was “able to determine that the 
+claimed injury was due to a congenital abnormality.” (Def. Ex. B, p. 26) He answered in 
+the affirmative, explaining: 
+The medical records are quite clear in this regard. Mr. Hastings was noted 
+on several imaging examinations to have a congenitally dysplastic glenoid 
+with hypertrophy of the labrum. As you know the congenital means 
+present from birth. In addition, an imaging study completed prior to the 
+worker’s alleged injury with a CAT scan completed in March 2015 
+demonstrated an abnormal glenoid with posterior dysplasia. These 
+changes and findings would not be consistent with an acute injury but 
+would instead be due to a congenital abnormality. 
+(Def. Ex. B, p. 27)  
+Dr. Broghammer makes no mention of Hastings being asymptomatic before he 
+lifted the fan while working for Orkin. He does not explain why Hastings would develop 
+symptoms immediately after lifting the fan because of the congenital abnormality that 
+was asymptomatic before lifting the fan. This undermines the credibility of his opinion on 
+causation. 
+The defendants denied liability for Hastings’s ongoing medical care after Dr. 
+Broghammer issued his report on causation. (Hrg. Tr. pp. 137–38; Cl. Ex. 14, p. 135; 
+Def. Ex. D, pp. 2–3) The defendants’ denial of Hastings’s claim effectively meant he had 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 10 
+to cease care at Hillside for his mental health. (Hrg. Tr. p. 138) At the time of the denial, 
+Hastings was under a health insurance policy provided through Michelle’s work. (Hrg. 
+Tr. p. 138) Under that policy, he would have had to pay two hundred dollars per 
+appointment at Hillside. (Hrg. Tr. p. 138) That amount was too expensive, given their 
+financial status with him off work and no longer receiving workers’ compensation, so 
+Hastings stopped seeing Dr. Mittauer and Corfman. (Hrg. Tr. p. 138) 
+Dr. Nepola performed the total shoulder replacement surgery on August 31, 
+2018. (Jt. Ex. 4, pp. 123–26; Hrg. Tr. p. 138–39) In a letter dated September 4, 2018, 
+Dr. Nepola restricted Hastings from pushing or pulling with his right arm for two months 
+and gave him permanent work restrictions of no lifting more than five pounds with his 
+right arm. (Jt. Ex. 4, p. 131) He participated in approximately thirty sessions of physical 
+therapy following the surgery to help build up strength in his arm. (Hrg. Tr. pp. 142–44; 
+Jt. Ex. 4, p. 145) 
+On August 19, 2020, claimant’s counsel wrote to Dr. Nepola requesting he 
+provide his opinion on causation with respect to thoracic outlet decompression surgery 
+and to provide permanent functional impairment for all conditions he believes to be 
+related to Hastings’s work injury. (Cl. Ex. 4, pp. 20–21) Dr. Nepola responded in a letter 
+dated September 22, 2020. (Cl. Ex. 4, pp. 22–23) With respect to the surgeries 
+Hastings underwent before his total shoulder replacement, he opined: 
+To the nearest degree of medical certainty, I believe Mr. Hasting[s]’s need 
+for the right thoracic outlet decompression surgery on 12/21/2016 by Dr. 
+Chandan Reddy and Dr. Luigi Pascarella for venous outlet syndrome, was 
+directly caused by the marked compromise of his right upper extremity 
+vasculature, which ensued at the time of the injury he sustained at work 
+on 08/11/2016. The recovery from the surgery was complicated by 
+persistent pleural effusion/hemothorax, which necessitated the VAT 
+thorascopic decortication procedure, completed by Dr. Arshava on 
+01/13/2017. Therefore, to the nearest degree of medical certainty, the 
+need for both surgeries were caused by the work injury sustained on 
+08/11/2016. 
+(Cl. Ex. 4, p. 22) Dr. Nepola refused the request to opine on permanent functional 
+impairment. (Cl. Ex. 4, p. 23) 
+Claimant’s counsel arranged for an IME with Robin Sassman, M.D. (Cl. Ex. 7) Dr. 
+Sassman performed a records review and examined Hastings on December 9, 2020. 
+(Cl. Ex. 7, pp. 60–78) On causation, Dr. Sassman opined the work injury was the most 
+likely cause of Hastings’s thoracic outlet syndrome and the persistent pleural effusion 
+was a sequela of his thoracic outlet decompression surgery. (Cl. Ex. 7, p. 80) With 
+respect to the right total shoulder replacement, Dr. Sassman opined that because 
+Hastings was asymptomatic in his shoulder before the work injury, had his right 
+shoulder immobilized for about two months following the thoracic outlet decompression 
+and the strength and neurological status of his shoulder deteriorated during this time, 
+the work injury and the subsequent care Hastings received for it were substantial 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 11 
+aggravating factors of his congenital shoulder condition, necessitating the procedure. 
+(Cl. Ex. 7, p. 80)  
+Dr. Sassman found Hastings reached maximum medical improvement on August 
+31, 2019, one year after the date of Dr. Nepola’s surgery. (Cl. Ex. 7, p. 82) Dr. Sassman 
+used the Fifth Edition of the American Medical Association (AMA) Guides to the 
+Evaluation of Permanent Impairment (Guides) to opine on Hastings’s permanent 
+functional impairment. (Cl. Ex. 7, p. 82) She used Figures 16-40, 16-43, and 16-46 to 
+conclude Hastings sustained a twenty-four percent impairment to the right upper 
+extremity. (Cl. Ex. 7, p. 82) Dr. Sassman found he sustained a twenty-four percent 
+upper extremity impairment due to the arthroplasty based on Table 16-27. (Cl. Ex. 7, p. 
+82) For Hastings’s residual nerve impairment relative to the brachial plexus and thoracic 
+outlet syndrome, she used the procedures set forth in Guides, Example 16-10, and 
+Tables 16-10 and 16-11 to conclude he sustained a forty-seven percent upper extremity 
+impairment or twenty-eight percent to the whole person. (Cl. Ex. 7, pp. 83–84) Dr. 
+Sassman then used the Combined Values Chart on page 604 to find Hastings has 
+sustained a forty-six percent whole person impairment caused by the work injury. (Cl. 
+Ex. 7, p. 84) 
+Defense counsel shared Dr. Nepola’s opinions with Dr. Broghammer and asked 
+his opinion after reading them. (Def. Ex. B, pp. 30–34) In a letter dated December 16, 
+2020, he affirmed his opinion on the cause of Hastings’s need for thoracic outlet 
+decompression surgery “was necessitated by his congenital abnormalities, including his 
+cervical rib” and doubled down on the cervical rib as the most likely cause without 
+addressing Dr. Nepola’s observation, based on his firsthand experience as a treating 
+physician, that Hastings did not have a cervical rib. (Def. Ex. B, p. 32–34) Dr. 
+Broghammer did not address Dr. Nepola’s opinion that the work injury was the cause of 
+the need for Hastings to undergo total shoulder replacement surgery. (Def. Ex. B, pp. 
+32–34) Nor did Dr. Broghammer specifically address whether the work injury 
+aggravated or lighted up Hastings’s congenital condition. (Def. Ex. B, pp. 32–34) 
+Defense counsel shared Dr. Sassman’s report with Dr. Broghammer and 
+requested his assessment, which he provided in a letter dated January 26, 2021. (Def. 
+Ex. B, pp. 35–38) Dr. Sassman’s report did not change Dr. Broghammer’s opinion on 
+causation. (Def. Ex. B, p. 37) He affirmed that he believed Hastings’s subclavian 
+thrombosis was likely caused by the presence of a cervical rib. (Def. Ex. B, p. 37) 
+Claimant’s counsel followed up with Dr. Nepola in multiple letters seeking 
+additional information. (Cl. Ex. 4, pp. 24–28) In a letter dated February 22, 2021, Dr. 
+Nepola stated he had reviewed Hastings’s medical records, including the report by Dr. 
+Broghammer of January 26, 2021, and the report by Dr. Sassman of January 4, 2021. 
+(Cl. Ex. 4, p. 29) Dr. Nepola concurred with Dr. Sassman’s permanent functional 
+impairment rating. (Cl. Ex. 4, p. 32) 
+ 
+ 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 12 
+As discussed above, Dr. Broghammer opined Hastings developed thoracic outlet 
+syndrome because of he had a cervical rib. (Def. Ex. B, p. 27) He also stated the cause 
+of Hastings requiring total shoulder replacement was his congenital condition as 
+opposed to the work injury. (Def. Ex. B, p. 27) Dr. Nepola explained that he disagreed 
+with Dr. Broghammer’s opinion because: 
+Hasting[‘s] work related incident of 8/11/2016 was related to a change in 
+the condition of his right arm and shoulder. As I have written before, the 
+acute injury noted by both Drs. Erin Kennedy and Scott Schemmel of Mr. 
+Hastings[‘s] right upper extremity, involving swelling, pain, and 
+discoloration with distention of his venous system commensurate with the 
+“varicosities” seen was to the nearest reasonable degree of medical 
+certainty due to the incident lifting the 80-poung fan while he was working 
+for Orkin on that day. This started the cascade of events that likely the 
+acute thrombosis of his subclavian [sic] vein which then became chronic 
+several weeks later. Dr. Broghammer states that in his medical opinion 
+“while Mr. Hastings may not have had symptoms before his alleged injury[, 
+i]n my medical opinion to a reasonable degree of medical certainty the 
+active [act of] picking up a large fan would not rise to the level of materially 
+exacerbating, accelerating beyond normal progression, or ‘lighting up’ the 
+pre-existing condition.” This is not true. I have seen many cases of 
+thoracic outlet syndrome. These are difficult diagnoses and are often 
+missed by evaluating physician[s] unfamiliar with the condition. There is 
+plentiful medical literature regarding thoracic outlet syndrome and its 
+etiologies. Both traumatic and atraumatic etiologies have been 
+documented in literature. One such trauma related injury, Paget-
+Schroetter Syndrome is a known condition to be “effort-induced.” It is 
+certainly rate, but it is very real. Treatment often involves requirement to 
+decompress the thoracic outlet by releasing the scalenus anterior muscle 
+and resecting the first rib when necessary. Dr. Broghammer as he is likely 
+unfamiliar with this condition and its surgical treatment refers to the 
+resection of a “cervical rib” which can be an instigating pathologic 
+anatomic entity. Were he to have read the record carefully he would have 
+noted that neither in the imaging report nor in the operative note does 
+anyone refer to a cervical rib. Mr. Hastings had his first rib removed which 
+is more usual when this procedure is undertaken. 
+(Cl. Ex. 4, p. 31) Dr. Nepola reiterated his opinion that the work injury caused the need 
+for the surgeries performed by Drs. Pascarella and Reddy on December 21, 2016, and 
+Dr. Arshava on December 21, 2016, “which was a sequela” of the first surgery. (Cl. Ex. 
+4, p. 32) 
+Further, Dr. Nepola opined: 
+[R]egarding his shoulder problem associated with an injury to a 
+congenitally abnormal right shoulder with a dysplastic glenoid, shoulder 
+pain was never clinically noted as a problem by the patent before his injury 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 13 
+of 8/11/2016. He certainly was predisposed to having a shoulder problem. 
+But it was the incident lifting the fan on 8/11/2016 with subsequent effort 
+induced thoracic outlet syndrome with all of its attendant trauma that 
+reduced his shoulder from being able to be elevated overhead to 140 
+degrees on the day of his visit with me in 2016 to a markedly painful and 
+dysfunctional shoulder which can only lift to 40 degrees when he was 
+referred back to me after his surgeries on 11/7/2017. Had this incident not 
+happened I must opine that his shoulder may never have come to a 
+shoulder replacement. But unfortunately, the trauma of 8/11/2016 started 
+a chain of events which ultimately left the patient and I have no choice but 
+to perform the shoulder arthroplasty which we did and which improved but 
+did not restore his shoulder to [. . .] normal state. 
+(Cl. Ex. 4, p. 32) 
+Unlike Dr. Broghammer, who performed a records review, Dr. Nepola was 
+personally involved in Hastings’s care at the time and later performed surgery on him. 
+Dr. Nepola is also well known to the agency due to his extensive experience treating 
+shoulders. Dr. Nepola’s statement regarding whether Hastings had a cervical rib is 
+therefore most persuasive. Dr. Broghammer’s opinion on the cause of Hastings 
+developing thoracic outlet syndrome is not credible. The same is true of his opinion that 
+the need for thoracic outlet decompression was secondary to his congenital 
+abnormality. Dr. Nepola’s opinion on what caused the need for total shoulder 
+replacement more persuasive than Dr. Broghammer’s. 
+Claimant’s counsel sought the opinion of Dr. Mittauer, Hastings’s psychiatrist, 
+regarding his diagnoses, their cause, and any disability they caused. (Cl. Ex. 9, pp. 
+100–01) In a letter dated July 25, 2021, Dr. Mittauer shared his diagnoses of Major 
+Depressive Disorder (single episode, moderate severity), Post-Traumatic Stress 
+Disorder (PTSD), Generalized Anxiety Disorder, Other Specified Anxiety Disorder 
+(stress-induced panic attacks), and Insomnia Disorder. (Cl. Ex. 9, p. 102) Dr. Mittauer 
+opined all of these conditions were caused by the stipulated work injury and that he 
+erroneously attributed the cause of Hastings’s PTSD to childhood abuse in his initial 
+intake note and subsequently repeated that mistake. (Cl. Ex. 9, p. 103) Dr. Mittauer 
+clarified that the sole cause of Hastings’s PTSD was the work injury. (Cl. Ex. 9, p. 103) 
+Dr. Mittauer shared that he has prescribed antidepressants (venlafaxine, 
+duloxetine, trazodone, and mirtazapine), antianxiety medications (hydroxyzine, 
+prazosin, and gabapentin), and hypnotic medications for sleep (mirtazapine, solpidem, 
+and trazodone). (Cl. Ex. 9, p. 102) He shared he has maximized the dose of some of 
+these prescriptions. (Cl. Ex. 9, p. 102) Dr. Mittauer opined Hastings “will most likely not 
+experience significant improvement of or resolution of his psychiatric conditions. As long 
+as he has severe pain, and associated disability, his symptoms of depression, anxiety, 
+and insomnia will persist.” (Cl. Ex. 9, p. 103) 
+ 
+ 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 14 
+Dr. Mittauer used Chapter 14 of the Guides to assess Hastings’s permanent 
+impairment from psychiatric conditions caused by the work injury as follows: 
+Regarding Activities of Daily Living, the rating is Class 3 (moderate 
+impairment). His symptoms impair his sleep, ability to drive, sexual 
+functioning, and personal hygiene. 
+Regarding Social Functioning, the rating is Class 4 (marked impairment). 
+His is very irritable and this interferes with interactions with others. 
+Regarding Concentration, Persistence and Pace, the rating is Class 4 
+(marked impairment). His symptoms interfere with his ability to 
+concentrate on tasks, complete tasks efficiently and maintain pace. 
+Regarding Adaptation, the rating is Class 5 (extreme impairment). His 
+symptoms interfere with his ability to report to work consistently, interact 
+with others, make decisions, and complete tasks especially complex ones. 
+(Cl. Ex. 9, p. 103)  
+Claimant’s counsel requested opinions from Corfman, Hastings’s therapist, about 
+his mental health conditions and opinion on their cause. (Cl. Ex. 8, pp. 93–94) In a letter 
+dated July 30, 2021, Corfman opined Hastings was receiving psychotherapy with him 
+for major depressive disorder, post-traumatic stress disorder (PTSD), generalized 
+anxiety disorder, and anxiety/panic disorder. (Cl. Ex. 8, p. 95) Corfman also shared 
+Hastings has symptoms of anxiety and depression and major insomnia related to body 
+pain. (Cl. Ex. 8, p. 95) He opined the diagnoses were “precipitated” by the stipulated 
+work injury. (Cl. Ex. 8, p. 95) Corfman has extensive experience treating individuals with 
+these diagnoses. (Cl. Ex. 8, pp. 96–98) 
+Corfman described Hastings’s symptoms thusly: 
+Mr. Hastings has moderate impairment of sleep, motivation, ability to drive 
+and perform physical tasks, sexual functioning, and personal hygiene. He 
+is irritable and agitated most of the time which interferes with his familial 
+and social functioning and relationships. He has difficulty concentrating, 
+focusing, and following through due to his sleep difficulties, physical pain, 
+and psychological despair. 
+(Cl. Ex. 8, p. 95) 
+Corfman opined Hastings had “shown brief moments of positive response but 
+none that have been of a lasting nature.” (Cl. Ex. 8, p. 95) According to Corfman, 
+Hastings is unlikely to experience significant improvement or resolution of his 
+psychiatric conditions because his ongoing physical symptoms fuel his conditions. (Cl. 
+Ex. 8, p. 95) 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 15 
+The opinions of Corfman and Dr. Mittauer are persuasive. The weight of the 
+evidence in this case shows it is more likely than not the stipulated work injury caused 
+Major Depressive Disorder (single episode, moderate severity), Post-Traumatic Stress 
+Disorder (PTSD), Generalized Anxiety Disorder, Other Specified Anxiety Disorder 
+(stress-induced panic attacks), and Insomnia Disorder. The work injury is the cause of 
+permanent mental impairment. Hastings has undergone care for these conditions with 
+Corfman and Dr. Mittauer that is reasonable, necessary, and beneficial. Hastings 
+incurred the costs for this care detailed in Claimant’s Exhibits  
+On September 21, 2021, Dr. Pascarella testified in a deposition for this case. 
+(Def. Ex. G) Between the care he provided to Hastings and the deposition, he changed 
+employers from UIHC to the University of North Carolina. (Def. Ex. G, p. 18, Depo. Tr. 
+p. 5) Dr. Pascarella testified that when making a determination on causation, he prefers 
+to collect as much information as possible, including medical records from before the 
+injury in question. (Def. Ex. G, p. 3, Depo. Tr. p. 10) However, he did not obtain any 
+such preexisting records in this case. (Def. Ex. G, p. 3, Hrg. Tr. p. 10) 
+Dr. Pascarella testified that in his experience more than seventy percent of 
+people with cervical ribs do not have thoracic outlet syndrome and the remainder 
+develop it. (Def. Ex. G, p. 2, Depo. Tr. pp. 6, 8) With respect to the stipulated work 
+injury, Dr. Pascarella initially testified: 
+I think he used to work at Orkin, he was an Orkin man, and he was lifting I 
+think a fan or something really heavy. And I think it stretched the muscles 
+in his neck -- or his upper extremity, following which he developed two 
+conditions that are very important to consider; number one, upper 
+extremity – neck and upper extremity pain, and number two, evidence of 
+thrombosis, of a clot [. . .] of the subclavian vein. 
+Okay. Now, before this accident at work, Mr. Hastings was a functional 
+individual in my – in my recollection of Mr. Hastings in addition per the 
+notes that I have been reading my notes as well. 
+(Def. Ex. G, p. 2, Depo. Tr. pp. 6–7) 
+When asked about the work injury Hastings sustained when lifting a fan, 
+Dr. Pascarella further testified: 
+So I see this very often actually in patients with thoracic outlet syndrome. 
+Now, while etiology of thoracic outlet syndrome is essentially unknown, 
+however, a number of patient[s] present[] to our observation after [m]any 
+type[s] of incidents and accidents involving [the] neck, involve the upper 
+extremity, including lifting heavy objects. Okay. And in particular in these 
+patients there is an increased effort in the muscles in the neck, in 
+particular in this area and in this area, and causing essentially stretching 
+of these muscles and sometimes stretching of the nerve that runs here. 
+**** 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 16 
+And in some patients also the effort may cause clotting, clotting of veins. 
+(Def. Ex. G, p. 6, Depo. Tr. pp. 22–23)  
+Dr. Pascarella also explained that the work injury causing Hastings’s thoracic 
+outlet syndrome was his hypothesis. (Def. Ex. G, p. 6, Depo. Tr. p. 24) When claimant’s 
+counsel asked whether the work injury was more likely than not the cause of Hastings’s 
+thoracic outlet syndrome, Dr. Pascarella initially testified, “Yes. For me, I mean, while I 
+don’t do independent medical examinations, okay, the base of my experience with 
+patients with thoracic outlet syndrome, these type of accidents at work may cause these 
+problems. (Def. Ex. G, pp. 6–7, Depo. Tr. pp. 24–25)  
+Dr. Pascarella testified that the work injury causing Hastings’s thoracic outlet 
+syndrome was both “likely” and “possible.” (Def. Ex. F, p. 7, Depo. p. 27) He then 
+explained that the words “likely” and “possible” have the same meaning to him. (Def. Ex. 
+F, p. 7, Depo. Tr. p. 28) Dr. Pascarella was unable to articulate a clear explanation of 
+how the words have the same meaning to him. Dr. Pascarella’s inability to clearly 
+articulate the meaning he ascribes to both “likely” and “possible” and the fact he did not 
+review all of Hastings’s medical records before testifying in the deposition undermine 
+the persuasiveness of Dr. Pascarella’s opinion. 
+For the reasons discussed above, the opinions of Drs. Broghammer and 
+Pascarella are unpersuasive and the opinions of Drs. Nepola and Sassman are more 
+credible. The weight of the evidence establishes the work injury Hastings sustained on 
+August 11, 2016, was a significant factor in causing the need for the surgeries 
+performed by Drs. Reddy, Pascarella, Arshava, and Nepola. It is more likely than not 
+the work injury resulted in Hastings sustained a permanent functional impairment of 
+forty-eight percent to the whole body. 
+Dr. Mittauer and Corfman left Hillside after Hastings stopped receiving care from 
+them as a result of the defendants denying his workers’ compensation claim. (Hrg. Tr. 
+pp. 146–47) Hastings qualified for Medicare and has a new private health insurance 
+policy. (Hrg. Tr. p. 146) This allowed him to resume care with Dr. Mittauer and Corfman 
+for his continuing mental health conditions. (Hrg. Tr. p. 146–47) The care Dr. Mittauer 
+and Corfman provide is beneficial to Hastings. (Hrg. Tr. pp. 161–62) 
+Hastings received care after the defendants denied his workers’ compensation 
+claim. While private insurance covered a share of the expenses for this care, Hastings 
+has had to cover some of it out of pocket. It is more likely than not the expenses set 
+forth in Claimant’s Exhibit 15 are related to the work injury. Further, the evidence shows 
+the mileage itemized in Claimant’s Exhibit 12 is related to that care. 
+Hastings never returned to work at Orkin after a supervisor instructed him to 
+leave the premises on August 13, 2016. (Hrg. Tr. pp. 102–103) While Hastings had a 
+conversation about potentially taking a regional management job with Orkin, those talks 
+fell through because of his ongoing workers’ compensation claim. (Hrg. Tr. pp. 129–30) 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 17 
+The weight of the evidence establishes Orkin chose to end its employment relationship 
+because it did not have work within his permanent work restrictions. 
+In January of 2021, Barbara Laughlin, M.A., performed an employability 
+assessment of Hastings. (Cl. Ex. 6, p. 35) Laughlin reviewed medical records relating to 
+Hastings’s injuries, interviewed Hastings, reviewed interrogatory answers from the 
+litigation of this case, and performed labor market research before issuing a report 
+dated January 2, 2021. (Cl. Ex. 6, pp. 35–55) She concluded he had sustained a 46.2 
+percent loss of generally transferrable occupations under Dr. Nepola’s work restrictions 
+and a 93.9 percent loss to all directly transferable occupations based on Dr. Sassman’s 
+work restrictions. (Cl. Ex. 6, pp. 45–46) She noted Hastings is not skilled at using 
+computers, he can no longer use his CDL as an over-the-road trucker, and his 
+permanent work restrictions. (Cl. Ex. 6, pp. 48–49) Laughlin further opined Hastings 
+would require a high level of accommodation and his physical limitations due to the will 
+affect his ability to get hired. (Cl. Ex. 6, pp. 48–49) 
+Hastings credibly described his symptoms at the time of hearing during his 
+testimony. He testified he continued to experience pain in his shoulder area and arm. 
+(Hrg. Tr. p. 148) On a good day, he rates his pain at a level of two or three on a scale 
+from zero to ten. (Hrg. Tr. p. 148) Activity and weather changes can increase his pain. 
+(Hrg. Tr. p. 148) He continued to experience what he described as a “charley horse” in 
+his right biceps on a regular basis when his muscle knots up. (Hrg. Tr. pp. 150–51) 
+Ongoing tingling and numbness are also a recurrent part of Hastings’s life. (Hrg. 
+Tr. p. 151) He experienced numbness in his right forearm and down through his ring 
+and pinky fingers. (Hrg. Tr. p. 151) The tingling and numbness are constant. (Hrg. Tr. p. 
+151) Using his right arm to perform tasks such as typing or picking up an object makes 
+the sensation worse. (Hrg. Tr. p. 152) 
+Hastings also experiences limited function with his right arm. He generally avoids 
+using his right arm for lifting. (Hrg. Tr. pp. 149, 160–61) Hastings has problems writing 
+longhand, typing, and texting with his right arm. (Hrg. Tr. pp. 149–50) He also has 
+limited range of motion with his right shoulder and, consequently, his right arm as well. 
+(Hrg. Tr. p. 152) Hastings struggles opening jars because of the weakness in his right 
+hand that has resulted from his total right shoulder replacement. (Hrg. Tr. p. 153) 
+Hastings had muscles removed as part of the treatment for his shoulder. (Hrg. Tr. 
+pp. 154–55) This has reduced the range of motion in his neck, which means he can no 
+longer move his head like he could before the work injury. (Hrg. Tr. pp. 154–55) 
+Hastings also experiences numbness in his upper right chest after the surgeries. (Hrg. 
+Tr. p. 155)  
+The injury has permanently impacted Hastings’s ability to breath. (Hrg. Tr. p. 
+156) Extreme hot or cold temperatures and humidity give him trouble breathing with his 
+right lung. (Hrg. Tr. p. 156–57) This, in turn, makes physical activity such as walking 
+more difficult for Hastings. (Hrg. Tr. p. 156) 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 18 
+The physical limitations stemming from the work injury limit Hastings in his 
+household and grooming activities. (Hrg. Tr. p. 163) He is unable to mow his lawn or 
+shovel snow, so he hires neighborhood kids to do so. (Hrg. Tr. p. 163) Hastings is 
+unable to reach under his left arm with his right arm, so he had to install a shower head 
+that he can move to reach this area of his body. (Hrg. Tr. p. 163) He has had to develop 
+new ways to dress himself, due to his right arm’s limited function, which makes it take 
+longer. (Hrg. Tr. p. 163–64) 
+Further, the stipulated work injury and resultant surgeries have limited Hastings’s 
+hobbies. Hastings attempted to fish on one occasion and while he could cast left-
+handed, he could not hold the rod and reel in a fish. (Hrg. Tr. p. 166) He attempted to 
+shoot left-handed to see if he would still be able to hunt but he is not coordinated 
+enough to do so. (Hrg. Tr. p. 166)  
+There was also testimony during Hastings’s deposition and the hearing on dart-
+throwing. This testimony is of little probative value regarding the disputed factual and 
+legal issues submitted to the agency in this case. Nonetheless, the defendants have 
+argued Hastings’s testimony regarding dart-throwing undermines his credibility to such 
+an extent it renders all of his testimony unreliable. Defense counsel even accused 
+Hastings of perjury during the hearing. (Hrg. Tr. pp. 240, 241, 243) The undersigned 
+finds the defendants’ characterizations of Hastings’s testimony unpersuasive. Hastings 
+generally provided credible testimony in this case. With respect to his dart-throwing, the 
+weight of the evidence establishes the following. 
+Hastings has fun throwing darts. (Def. Ex. F, p. 9, Depo Tr. pp. 30–31) Hastings 
+was an avid dart-thrower before the stipulated work injury, throwing three or four nights 
+per week in leagues and six or seven days per week total. (Hrg. Tr. p. 167) He 
+participated in tournaments, once placing as high as seventeenth in singles in a world 
+tournament held in Chicago. (Hrg. Tr. p. 168)  
+After the injury, Hastings throws darts less often even though doctors 
+encouraged him to participate because the motions involved in the activity would be 
+beneficial to his right arm and shoulder. (Hrg. Tr. pp. 167–71; Def. Ex. F, pp. 8–9, 13–
+14, Depo. Tr. pp. 29–33, 49–50, 60) The work injury has limited Hastings’s right-arm 
+function such that he has to hold it up with his left hand to throw darts right-handed or 
+he has to throw left-handed. (Def. Ex. F, pp. 14–16, Depo. Tr. pp. 50–60; Hrg. Tr. p. 59) 
+The work injury’s impact on how often Hastings throws darts includes him quitting 
+entirely for periods of time before trying again later. (Def. Ex. F. p. 16–17, Depo. Tr. pp. 
+60–64; Hrg. Tr. pp. 198–201) At no time did Hastings intend to quit throwing darts 
+forever. (Hrg. Tr. p. 240) Hastings has thrown in multiple dart leagues since the injury. 
+(Hrg. Tr. pp. 206–240) 
+There was also an issue that came to light at hearing regarding the failure to 
+disclose a document relating to dart-throwing that Hastings obtained after defense 
+counsel orally requested records showing “how often [Hastings had] thrown darts and 
+how [he] did” during Hastings’s deposition, which took place on September 17, 2021, 
+after discovery had closed under the Hearing Assignment Order the agency issued in 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 19 
+this case. (Def. Ex. F, p. 19, Depo. Tr. pp. 72–73; Hrg. Tr. pp. 201–03, 216–18, 230) 
+Hastings and his wife believed in good faith the document was of little probative value 
+with respect to his dart-throwing activities. (Hrg. Tr. pp. 216–17, 230) Claimant’s 
+counsel stated he reached the same conclusion which is why he did not turn over the 
+document to defense counsel until its existence came to light during the hearing. (Hrg. 
+Tr. pp. 217–18, 230) The undersigned finds that the record contains insufficient 
+information from which to make findings of fact by a preponderance of the evidence 
+regarding what the document’s contents reflects other than the fact that Hastings 
+participated in dart-throwing leagues before and after his injury, which is undisputed 
+between the parties. (Hrg. Tr. pp. 221–30) 
+The record also establishes it is more likely than not that neither Hastings nor his 
+wife knew there was a website containing information about their dart-throwing before 
+the hearing. (Hrg. Tr. pp. 63, 201–16) Defense counsel independently discovered the 
+website and Hastings learned of its existence during cross-examination at hearing. (Hrg. 
+Tr. pp. 215–16) There is an insufficient basis in the record from which to conclude 
+Hastings or his wife knew of the website before the hearing and attempted to hide it 
+from anyone.  
+Hastings is motivated to work. He has applied for multiple jobs. (Hrg. Tr. p. 178) 
+However, Hastings has been rejected due to the permanent work restrictions assigned 
+by Dr. Nepola. (Hrg. Tr. pp. 178–80) Hastings applied for disability benefits from the 
+federal Social Security Administration (SSA) through the carrier that held the long-term 
+disability policy under which he collected benefits. (Hrg. Tr. p. 180) On September 28, 
+2018, the SSA issued a decision finding him eligible for benefits. (Hrg. Tr. p. 182–84; Cl. 
+Ex. 13, pp. 123–29)  
+Hastings continues to receive care for his injuries. He is on a schedule to follow 
+up annually with Dr. Nepola. (Hrg. Tr. p. 161) He sees Corfman biweekly for counseling 
+that is helpful to his mental health. (Hrg. Tr. pp. 161–62) Hastings sees Dr. Mittauer 
+approximately once per month for medication relating to his mental health, which helps 
+his condition. (Hrg. Tr. p. 162) 
+CONCLUSIONS OF LAW 
+In 2017, the Iowa legislature amended the Iowa Workers’ Compensation Act. 
+See 2017 Iowa Acts, ch. 23. The 2017 amendments apply to cases in which the date of 
+an alleged injury is on or after July 1, 2017. Id. at § 24(1); see also Iowa Code § 3.7(1). 
+Because the injury at issue in this case occurred before July 1, 2017, the Iowa Workers’ 
+Compensation Act in effect before the 2017 amendments applies. Smidt v. JKB 
+Restaurants, LC, File No. 5067766 (App. Dec. 11, 2020). 
+1 .  
+H e a l i n g  P e r i o d  B e n e f i t s .  
+An injured employee is entitled to temporary total disability (TTD) or healing 
+period (HP) benefits when the employee is unable to work during a period of 
+convalescence caused by a work injury. Iowa Code §§ 85.33(1), 85.34(1); see also 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 20 
+Evenson v. Winnebago Indust., 881 N.W.2d 360, 373 (Iowa 2016). Temporary benefits 
+compensate an employee for lost wages. Mannes v. Fleetguard, Travelers Ins. Co., 770 
+N.W.2d 826, 830 (Iowa 2009). Whether an employee’s injury causes a permanent 
+disability dictates whether the employee’s temporary benefits are considered TTD or 
+HP. Bell Bros. Heating & Air Conditioning v. Gwinn, 779 N.W.2d 193, 200 (Iowa 2010) 
+(citing Clark v. Vicorp Rests., Inc., 696 N.W.2d 596, 604–05 (Iowa 2005)). If there is a 
+permanent disability, the benefits are considered HP; if not, they are TTD. See id. As 
+discussed below, Hastings has sustained a permanent disability so the type of 
+temporary benefits at issue are healing period benefits. 
+Iowa Code section 85.34(1) provides “alternative markers of the end of the 
+healing period.” Waldinger Corp. v. Mettler, 817 N.W.2d 1, 9 (Iowa 2012); see also 
+Evenson v. Winnebago Indus., 881 N.W.2d 360, 372 (Iowa 2012). The alternative 
+markers are when the injured employee: 
+ 
+1) Returns to work; 
+2) Reaches maximum medical improvement (MMI) for the injury; or 
+3) Is medically capable of returning to employment substantially similar to that 
+which the employee was engaged at the time of injury. Iowa Code § 85.34(1); 
+Evenson, 881 N.W.2d at 372. 
+The first of the alternative markers to occur ends a healing period. Id.; Evenson, 
+881 N.W.2d at 372 (Iowa 2012); Crabtree v. Tri-City Elec. Co., File No. 5059572, pp. 
+2−3 (App., Mar. 20, 2020). PPD benefits “begin at the termination of the healing period.” 
+Id. at § 85.34(2); Evenson, 881 N.W.2d at 372. As found above, Hastings reached MMI 
+on August 31, 2019. He is therefore entitled to healing period benefits from July 23, 
+2018, the last day before the defendants denied the claim and ceased payment of 
+benefits, through August 30, 2019. This time period equals fifty-seven weeks and four 
+days or 57.57 weeks. 
+2 .  
+P e r m a n e n t  D i s a b i l i t y.  
+Iowa Code section 85.34(3) is entitled, “Permanent total disability,” but does not 
+define the term or contain a framework for determining whether an injured employee is 
+permanently and totally disabled due to a work injury. The Iowa Supreme Court has 
+held the factors used to evaluate industrial disability under section 85.34(2)(v) are also 
+used to determine whether a work injury has caused permanent total disability under 
+section 85.34(3). See Wal-Mart Stores, Inc. v. Caselman, 657 N.W.2d 493, 495 (Iowa 
+2003) (quoting Guyton v. Irving Jensen Co., 373 N.W.2d 101, 103 (Iowa 1985)).  
+In Guyton v. Irving Jensen Co., 373 N.W.2d 101 (Iowa 1985), the Iowa court 
+formally adopted the “odd-lot doctrine.”  Under that doctrine a worker becomes an 
+odd-lot employee when an injury makes the worker incapable of obtaining employment 
+in any well-known branch of the labor market.  An odd-lot worker is thus totally disabled 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 21 
+if the only services the worker can perform are “so limited in quality, dependability, or 
+quantity that a reasonably stable market for them does not exist.”  Id., at 105. 
+Under the odd-lot doctrine, the burden of persuasion on the issue of industrial 
+disability always remains with the worker.  Nevertheless, when a worker makes a prima 
+facie case of total disability by producing substantial evidence that the worker is not 
+employable in the competitive labor market, the burden to produce evidence showing 
+availability of suitable employment shifts to the employer.  If the employer fails to 
+produce such evidence and the trier of facts finds the worker does fall in the odd-lot 
+category, the worker is entitled to a finding of total disability.  Guyton, 373 N.W.2d at 
+106. 
+The extent of an injured employee’s industrial disability is based on consideration 
+of the following factors: functional disability, age, education, qualifications, work 
+experience, inability to engage in similar employment, earnings before and after the 
+injury, motivation to work, personal characteristics, and the employer’s inability to 
+accommodate the injured employee’s functional limitations. See Neal v. Annett 
+Holdings, Inc., 814 N.W.2d 512, 526 (Iowa 2012); IBP, Inc. v. Al-Gharib, 604 N.W.2d 
+621, 632–33 (Iowa 2000); E.N.T. Assoc. v. Collentine, 525 N.W.2d 827, 830 (Iowa 
+1994); Ehlinger v. State, 237 N.W.2d 784, 792 (Iowa 1976). Even under the odd-lot 
+doctrine, the trier of fact is free to determine the weight and credibility of evidence in 
+determining whether the worker’s burden of persuasion has been carried, and only in an 
+exceptional case would evidence be sufficiently strong as to compel a finding of total 
+disability as a matter of law.  Guyton, 373 N.W.2d at 106. 
+The Iowa Supreme Court has quoted the Commissioner with approval for the 
+principle that under the Iowa Workers’ Compensation Act, “‘[t]otal disability does not 
+mean a state of absolute helplessness.’” Caselman, 657 N.W.2d at 501 (quoting Al-
+Gharib, 604 N.W.2d at 633). “Such disability occurs when the injury wholly disables the 
+employee from performing work that the employee's experience, training, intelligence, 
+and physical capacities would otherwise permit the employee to perform.” Al-Gharib, 
+604 N.W.2d at 633 (citing Diederich v. Tri–City Ry., 219 Iowa 587, 593–94, 258 N.W. 
+899, 902 (1935)). A finding that claimant could perform some work despite claimant's 
+physical and educational limitations does not foreclose a finding of permanent total 
+disability.  See Chamberlin v. Ralston Purina, File No. 661698 (App. October 1987); 
+Eastman v. Westway Trading Corp., II Iowa Industrial Commissioner Report 134 (App. 
+May 1982). “Simply put, the question is this: Are there jobs in the community that the 
+employee can do for which the employee can realistically compete?” Second Injury 
+Fund of Iowa v. Shank, 516 N.W.2d 808, 815 (Iowa 1994) (citing Guyton v. Irving 
+Jensen Co., 373 N.W.2d 101, 103, 104 (Iowa 1985)). 
+Moreover: 
+Another important factor in the consideration of permanent and total 
+disability cases is the employer's ability to retain the injured worker with an 
+offer of suitable work. The refusal or inability of the employer to return a 
+claimant to work in any capacity is, by itself, significant evidence of a lack 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 22 
+of employability. Clinton v. All-American Homes, File No. 5032603 (App. 
+April 17, 2013); Western v. Putco Inc., File Nos. 5005190 /5005191 (App. 
+July 29, 2005); Pierson v. O'Bryan Brothers, File No. 951206 (App. Jan. 
+20, 1995); Meeks v. Firestone Tire & Rubber Co., File No. 876894 (App. 
+Jan. 22, 1993); see also Larson, Workers' Compensation Law, Section 
+57.61, pps. 10-164.90-95; Sunbeam Corp. v. Bates, 271 Ark 385, 609 
+S.W.2d 102 (1980); Army & Air Force Exchange Service v. Neuman, 278 
+F.Supp. 865 (W.D. La 1967); Leonardo v. Uncas Manufacturing Co., 77 
+R.I. 245, 75 A.2d 188 (1950). An employer knows the demands that are 
+placed on its workforce. Its determination that the worker is too disabled 
+for it to employ is entitled to considerable weight. If the employer in whose 
+employ the disability occurred is unwilling or unable to accommodate the 
+disability, there is no reason to expect some other employer to have more 
+incentive to do so. 
+McNitt v. Nordstrom, Inc., File No. 5065697 (Rehrg. July 20, 2020) (aff’d and adopted 
+as final agency decision, App. Aug. 7, 2020). 
+Hastings was fifty years old at the time of hearing. He was right-hand dominant 
+before the work injury. The injury to his right shoulder has caused significant physical 
+limitations with his once-dominant arm and hand.  
+Hastings has a significant functional impairment rating from his physical injuries. 
+He also has a permanent mental disability stemming from the work injury. He has 
+significant permanent work restrictions due to his physical limitations following the work 
+injury and resultant surgeries. 
+The evidence shows him to be a motivated worker, primarily in jobs with physical 
+demands beyond what he is currently capable of performing. Hastings’s permanent 
+work restrictions prevent him from returning to his past jobs as a janitor, trimming trees, 
+working construction, or as an employee of Orkin, as evidenced by Orkin never offering 
+him employment after he was placed on restrictions following the work injury. As 
+discussed above, Hastings’s work at Orkin was a hybrid of service and sales. There is 
+an insufficient basis in the record from which to conclude Hastings could obtain 
+employment in a job that is strictly sales. 
+Further, Laughlin performed an employability assessment of Hastings in early 
+2021 that noted he is not skilled at using computers, he can no longer use his CDL as 
+an over-the-road trucker, and his permanent work restrictions. She concluded he had 
+sustained a 46.2 percent loss of generally transferrable occupations under Dr. Nepola’s 
+work restrictions and a 93.9 percent loss to all directly transferable occupations based 
+on Dr. Sassman’s work restrictions. Laughlin further opined Hastings would require a 
+high level of accommodation and his physical limitations due to the will affect his ability 
+to get hired. The defendants did not offer any vocational analysis in rebuttal to 
+Laughlin’s report. 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 23 
+For these reasons, Hastings has met his burden of proof on permanent total 
+disability under the Iowa Workers’ Compensation Act. The jobs he is physically capable 
+of performing “so limited in quality, dependability, or quantity that a reasonably stable 
+market for them does not exist.”  Guyton, 373 N.W.2d at 105. The evidence establishes 
+the stipulated work injury prevents him from performing work that his experience, 
+training, intelligence, and physical capacities would otherwise permit him to perform. 
+Hastings has sustained permanent total disability from the work injury. 
+3 .  
+R a t e .  
+The parties stipulated Hastings’s gross earnings on the stipulated injury date 
+were seven hundred fifty-six and 91/100 dollars ($756.91) per week. They also 
+stipulated he was married and entitled to three exemptions at the time in question. 
+Based on the parties’ stipulations, Hastings’s workers’ compensation rate is five 
+hundred four and 99/100 dollars ($504.99) per week. 
+4 .  
+M e d i c a l  E x p e n se s .  
+For all compensable injuries under Iowa Code chapter 85 or 85A, the employer 
+must “furnish reasonable surgical, medical, dental, osteopathic, chiropractic, podiatric, 
+physical rehabilitation, nursing, ambulance, and hospital services and supplies therefor 
+and shall allow reasonably necessary transportation expenses incurred for such 
+services.” Iowa Code § 85.27(1). Here, the defendants until they denied liability and 
+refused care. After they did so, Hastings got care on his own. 
+The defendants’ denial of liability means they lost the right to choose the care for 
+the work injury. Winnebago Indus., Inc. v. Haverly, 727 N.W.2d 567, 575 (Iowa 2006) 
+(citing Trade Prof’ls, Inc. v. Shriver, 661 N.W.2d 119, 124 (Iowa 2003)). Hastings could 
+therefore obtain reasonable care from any provider for the injury, at his expense, and 
+seek reimbursement for such care through this contested case proceeding. See Trade 
+Prof’ls, 661 N.W.2d at 121–25 (affirming on judicial review an agency decision ordering 
+the payment of medical expenses for unauthorized care because the defendants denied 
+liability for the alleged injury and therefore lost the right to control care). As found above, 
+Hastings is entitled to reimbursement for the medical expenses in Claimant’s Exhibit 15. 
+5 .  
+M i l e a g e .  
+The employer must reimburse an employee who sustains a compensable injury 
+under Iowa Code chapter 85 for the reasonable and necessary transportation costs 
+incurred by the employee when obtaining care for the work injury. Iowa Code 
+§ 85.27(1). An employee is required to submit for examination for the employee’s work-
+related injury “without cost to the employee.” Iowa Code § 85.39(1). If an employee is 
+required to leave work for which the employee is being paid wages to attend the 
+requested examination, . . . the employee shall be furnished transportation to and from 
+the place of examination, or the employer may elect to pay the employee the 
+reasonable cost of the transportation.” Id.  
+ 
+ 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 24 
+Transportation costs under Iowa Code sections 85.27 and 85.39 include, but are 
+not limited to, all mileage incident to the use of a private auto. 876 IAC 8.1(2). “For 
+annual periods beginning July 1, 2006, and thereafter, the per-mile rate shall be the rate 
+allowed by the Internal Revenue Service for the business standard mileage rate in effect 
+on July 1 of each year.” Id. As found above, Hastings is entitled to reimbursement for 
+the mileage as set forth in Claimant’s Exhibit 12. 
+6 .  
+P e n a l t y.  
+“Because penalty benefits are a creature of statute, our discussion begins with 
+an examination of the statutory parameters for such benefits.” Keystone Nursing Care 
+Ctr. v. Craddock, 705 N.W.2d 299, 307 (Iowa 2005). Under Iowa Code section 
+86.13(4)(a) 
+If a denial, a delay in payment, or a termination of benefits occurs without 
+reasonable or probable cause or excuse known to the employer or 
+insurance carrier at the time of the denial, delay in payment, or termination 
+of benefits, the workers' compensation commissioner shall award benefits 
+in addition to those benefits payable under this chapter, or chapter 85, 
+85A, or 85B, up to fifty percent of the amount of benefits that were denied, 
+delayed, or terminated without reasonable or probable cause or excuse. 
+This provision “codifies, in the workers’ compensation insurance context, the common 
+law rule that insurers with good faith disputes over the legal or factual validity of claims 
+can challenge them, if their arguments for doing so present fairly debatable issues.” 
+Covia v. Robinson, 507 N.W.2d 411, 412 (Iowa 1993) (citing Dirks v. Farm Bureau Mut. 
+Ins. Co., 465 N.W.2d 857, 861 (Iowa 1991) and Dolan v. Aid Ins. Co., 431 N.W.2d 790, 
+794 (Iowa 1988)). “The purpose or goal of the statute is both punishment and 
+deterrence.” Robbennolt v. Snap-On Tools Corp., 555 N.W.2d 229, 237 (Iowa 1996). 
+The legislature established in Iowa Code section 86.13(4)(b) a burden-shifting 
+framework for determining whether penalty benefits must be awarded in a workers’ 
+compensation case. See 2009 Iowa Acts ch. 179, § 110 (codified at Iowa Code 
+§ 86.13(4)(b)); see also Pettengill v. Am. Blue Ribbon Holdings, LLC, 875 N.W.2d 740, 
+746–47 (Iowa App. 2015) as amended (Feb. 16, 2016) (discussing the burden-shifting 
+required by the two-factor statutory test). The employee bears the burden to establish a 
+prima facie case for penalty benefits. See Iowa Code § 86.13(4)(b). To do so, the 
+employee must demonstrate a denial, delay in payment, or termination of workers’ 
+compensation benefits. Iowa Code § 86.13(4)(b)(1). If the employee fails to prove a 
+denial, delay, or termination, there can be no award of penalty benefits and the analysis 
+stops. See id. at § 86.13(4)(b); see also Pettengill, 875 N.W.2d at 747. However, if the 
+employee makes the requisite showing, the burden of proof shifts to the employer. See 
+id. at § 86.13(4)(b); see also Pettengill, 875 N.W.2d at 747. 
+ 
+ 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 25 
+To avoid an award of penalty benefits, the employer must “prove a reasonable or 
+probable cause or excuse for the denial, delay in payment, or termination of benefits.” 
+Iowa Code§ 86.13(4)(b)(2). An excuse must meet all of the following criteria to be “a 
+reasonable or probable cause or excuse” under the statute: 
+(1) The excuse was preceded by a reasonable investigation and 
+evaluation by the employer or insurance carrier into whether benefits were 
+owed to the employee. 
+(2) The results of the reasonable investigation and evaluation were the 
+actual basis upon which the employer or insurance carrier 
+contemporaneously relied to deny, delay payment of, or terminate 
+benefits. 
+(3) The employer or insurance carrier contemporaneously conveyed the 
+basis for the denial, delay in payment, or termination of benefits to the 
+employee at the time of the denial, delay, or termination of benefits. 
+Id. § 86.13(4)(c).  
+This paragraph creates a mandatory timeline for the employer to follow in 
+showing it had a “reasonable or probable cause or excuse” for the 
+termination of benefits. Iowa Code § 86.13(4)(c)(1)-(3). First, the 
+employer's excuse for the termination must have been preceded by an 
+investigation. Id. § 86.13(4)(c)(1). Second, the results of the investigation 
+were “the actual basis ... contemporaneously ” relied on by the employer 
+in terminating the benefits. Third, the employer 
+“contemporaneously conveyed the basis for the ... termination of benefits 
+to the employee at the time of the ... termination.” Id. § 86.13(4)(c)(3) 
+Pettengill, 875 N.W.2d at 747 (emphasis in original). “An employer cannot unilaterally 
+decide to terminate an employee's benefits without adhering to Iowa Code section 
+86.13; to allow otherwise would contradict the language of that section.” Id. 
+“A ‘reasonable basis’ for denial of the claim exists if the claim is ‘fairly 
+debatable.’” Keystone Nursing Care Ctr., 705 N.W.2d at 307 (quoting Christensen v. 
+Snap-On Tools Corp., 554 N.W.2d 254, 260 (Iowa 1996)). A claim may be fairly 
+debatable because of a good faith legal or factual dispute. See Covia, 507 N.W.2d at 
+416 (finding a jurisdictional issue fairly debatable because there were “viable arguments 
+in favor of either party”).  “[T]he reasonableness of the employer’s denial or termination 
+of benefits does not turn on whether the employer was right. The issue is whether there 
+was a reasonable basis for the employer’s position that no benefits were owing.” 
+Keystone Nursing Care Ctr., 705 N.W.2d at 307–08.  
+The defendants denied Hastings’s claim and ceased payment of benefits 
+because of Dr. Broghammer’s opinion on causation. The weight of the evidence shows 
+this position was reasonable under the circumstances. Even after Dr. Nepola’s opinion, 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 26 
+the question was fairly debatable. Therefore, Hastings has failed to prove entitlement to 
+a penalty. 
+7 .  
+I M E .  
+Under Iowa Code section 85.39, an injured employee is entitled to get an IME 
+with a doctor of the employee’s choice in response to an opinion on permanent disability 
+issued by a doctor of the employer’s choice with which the employee disagrees. Before 
+September 1, 2021, the Commissioner recognized a distinction between a medical 
+opinion on causation and one on the nature and extent of permanent disability when 
+determining whether the cost of an IME may be reimbursed to the claimant under Iowa 
+Code section 85.39. Barnhart v. John Deere Dubuque Works of Deere & Company, File 
+No. 5065851, p. 2 (App. Mar. 27, 2020) (citing Reh v. Tyson Foods, Inc., File No. 
+5053428 (App. Mar. 26, 2018)). Under this agency precedent, an injured employee 
+could only obtain reimbursement for an IME in response to an opinion on permanent 
+impairment by an employer-chosen doctor. Id. No reimbursement was available if the 
+employer-chosen doctor opined only on causation. Id. 
+On September 1, 2021, the Iowa Court of Appeals issued its opinion in Kern v. 
+Fenchel, Doster & Buck, P.L.C., No. 20-1206 (Iowa App. Sep. 1, 2021). The court 
+reversed an agency decision denying IME reimbursement because the employer-
+chosen doctor had opined only on causation and had not addressed what, if any, 
+disability the claimant had sustained. Id. In doing so, the court determined the agency 
+had erroneously interpreted Iowa Code section 85.39 and Iowa Supreme Court 
+precedent construing it. Id. The court concluded that an employer-chosen doctor’s 
+opinion finding that a workers’ alleged injury or condition did not arise out of and in the 
+course of the workers’ employment constitutes an opinion of no disability and the cost of 
+an IME sought due to disagreement with such an opinion is reimbursable under section 
+85.39. Id.  
+In this case, Dr. Broghammer issued an opinion on causation. He then affirmed 
+this opinion multiple times. It is effectively an opinion of no permanent disability 
+stemming from the work injury. Therefore, Hastings is entitled to reimbursement for the 
+full cost of Dr. Sassman’s IME, which equals six thousand six hundred dollars 
+($6,600.00). 
+8 .  
+C o s t s .  
+Iowa Code section 86.40 gives the agency the discretion to tax costs. “Fee-
+shifting statutes using ‘all costs’ language have been construed ‘to limit reimbursement 
+for litigation expenses to those allowed as taxable court costs.’” Des Moines Area Reg'l 
+Transit Auth. v. Young, 867 N.W.2d 839, 846 (Iowa 2015) (quoting Riverdale v. Diercks, 
+806 N.W.2d 643, 660 (Iowa 2011)). Statutes and administrative rules providing for 
+recovery of costs are strictly construed. Id. (quoting Hughes v. Burlington N. R.R., 545 
+N.W.2d 318, 321 (Iowa 1996)).  
+ 
+ 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 27 
+Rule 876 IAC 4.33 allows taxation of the following costs: 
+ Attendance of a certified shorthand reporter or presence of mechanical 
+means at hearings and evidential depositions, 876 IAC 4.33(1); 
+ Transcription costs when appropriate, 876 IAC 4.33(2);  
+ Costs of service of the original notice and subpoenas, 876 IAC 4.33(3); 
+ Witness fees and expenses as provided by Iowa Code sections 622.69 
+and 622.72, 876 IAC 4.33(4); 
+ Costs of doctors’ and practitioners’ deposition testimony, provided that 
+said costs do not exceed the amounts provided by Iowa Code sections 
+622.69 and 622.72, 876 IAC 4.33(5); 
+ Reasonable costs of obtaining no more than two doctors’ or 
+practitioners’ reports, 876 IAC 4.33(6); 
+ Filing fees when appropriate, including convenience fees incurred by 
+using the payment gateway on the Workers’ Compensation Electronic 
+System (WCES), 876 IAC 4.33(7); and 
+ Costs of persons reviewing health service disputes, 876 IAC 4.33(8). 
+The assessment of costs includes “the reasonable costs of obtaining no more 
+than two doctors’ or practitioners’ reports.” 876 IAC 4.33.  
+A “report” is a “formal oral or written presentation of facts or a 
+recommendation for action.” Black's Law Dictionary 1492 (10th ed.2014). 
+The word “obtain” is used as a modifier in the rule and means “[t]o bring 
+into one's own possession; to procure, esp[ecially] through effort.” Id. at 
+1247. Thus, the concept of obtaining a report for a hearing is separate 
+from the concept of a physical examination. A “physical examination” is 
+“[a]n examination of a person's body by a medical professional to 
+determine whether the person is healthy, ill, or disabled.” Id. at 680. The 
+concept of “obtaining” a report is separate from the process of “obtaining” 
+an examination. Our legislature recognized as much by separately 
+authorizing the commissioner to appoint “a duly qualified, impartial 
+physician to examine the injured employee and make report.” Iowa Code § 
+86.38. A medical report for purposes of a hearing is aligned with a 
+prehearing medical deposition. In the context of the assessment of costs, 
+the expenses of the underlying medical treatment and examination are not 
+part of the costs of the report or deposition. 
+Young, 867 N.W.2d at 845–46. The Commissioner has ruled “the court’s rationale 
+equally applicable to the expenses incurred by vocational experts.” Simmer v. Menard, 
+Inc., File No. 5041139 (App. Apr. 29, 2020) (citing Kirkendall v. Cargill Meat Solutions 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 28 
+Corp., File No. 5055494 (App. Dec. 17, 2009) and Voshell v. Compass Group, USA, 
+Inc., File No. 5056857 (App. Sep. 27, 2019))  
+Under Rule 876 IAC 4.33 allows taxation as a cost “the reasonable costs of 
+obtaining no more than two doctors’ or practitioners’ reports.” As an administrative rule 
+that provides for recovery of costs, it is strictly construed.  Young, 867 N.W.2d at 846 
+(quoting Hughes v. Burlington N. R.R., 545 N.W.2d 318, 321 (Iowa 1996)). The “no 
+more than two” language limits taxation of costs to two or less reports. Simmer v. 
+Menard, Inc., File No. 5041139 (App. Apr. 29, 2020) Consequently, only the cost of Dr. 
+Mittauer’s report ($1,350.00) and Barbara Laughlin’s vocational report ($1,240.00) are 
+taxed against the defendants.  
+The one hundred eighty-two and 60/100 dollars ($182.60) for the hearing 
+transcript is also taxed against the defendants under rule 876 IAC 4.33(2). However, the 
+cost of the SSA file relating to Hastings’s claim for disability benefits is not taxed 
+because an agency rule does not expressly allow it. 
+ORDER 
+Based on the above findings of fact and conclusions of law, it is ordered: 
+1) The defendants shall pay to Hastings fifty-seven point five seven (57.57) 
+weeks of healing period benefits at the rate of five hundred four and 99/100 
+dollars ($504.99) per week. 
+2) The defendants shall pay to Hastings permanent total disability benefits at the 
+rate of five hundred four and 99/100 dollars ($504.99) per week from the 
+commencement date of August 31, 2019. 
+3) The defendants shall pay accrued weekly benefits in a lump sum. 
+4) The defendants shall pay interest on unpaid weekly benefits awarded herein 
+as set forth in Iowa Code section 85.30. 
+5) The defendants are to be given the credit for benefits previously paid for the 
+stipulated amount. 
+6) The defendants shall file subsequent reports of injury as required by Rule 876 
+IAC 3.1(2). 
+7) The defendants shall reimburse Hastings for the medical expenses in 
+Claimant’s Exhibit 15. 
+8) The defendants shall reimburse Hastings for the mileage in Claimant’s Exhibit 
+12. 
+9) The defendants shall reimburse Hastings six thousand six hundred dollars 
+($6,600.00) for Dr. Sassman’s IME. 
+
+HASTINGS V. ORKIN PEST CONTROL 
+Page 29 
+10) The defendants shall pay to Hastings the following amounts for the following 
+costs: 
+a) One hundred dollars and 00/100 ($100.00) for the filing fee; 
+b) One thousand three hundred fifty dollars ($1,350.00) for the cost of the 
+expert report by Dr. Mittauer; 
+c) One thousand two hundred forty dollars ($1,240.00) for the cost of the 
+vocational report by Barbara Laughlin; and 
+d) One hundred eighty-two and 60/100 dollars ($182.60) for the cost of 
+the arbitration hearing transcript. 
+11) The defendants shall hold Hastings harmless for reasonable care relating to 
+his work injury, including but not limited to follow-up care with Dr. Nepola for 
+his right total shoulder replacement, and ongoing mental health care with Dr. 
+Mittauer, and Corfman. 
+Signed and filed this 15th day of July, 2022. 
+ 
+ 
+ 
+BEN HUMPHREY 
+Deputy Workers’ Compensation Commissioner 
+ 
+The parties have been served, as follows: 
+ 
+Mark J. Sullivan (via WCES) 
+ 
+Tiernan T. Siems (via WCES) 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal period 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 

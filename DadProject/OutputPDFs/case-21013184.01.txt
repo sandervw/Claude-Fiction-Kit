@@ -1,0 +1,939 @@
+Case Number: 21013184.01
+Case Title:  MEDHAUG, TYE V. BURKE CORPORATION
+Doc Type:    Decision - Deputy
+Source:      Medhaug Tye-21013184.01D.pdf
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+TYE MEDHAUG, 
+  : 
+          File No. 21013184.01 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+      ARBITRATION DECISION 
+vs. 
+ 
+  : 
+ 
+ 
+  :                           
+BURKE CORPORATION, 
+  : 
+ 
+ 
+  :                               
+ 
+Self-Insured Employer, 
+  : 
+Head Note Nos.:  1100, 1108, 1402.30, 
+ 
+ 
+  :        1402.50, 1403.30, 2401, 2501, 2701, 
+ 
+Defendant. 
+  :        2803         
+ 
+ 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+ 
+ 
+Claimant Tye Medhaug filed a petition in arbitration seeking worker’s 
+compensation benefits against Burke Corporation, self-insured employer, for an alleged 
+work injury date of January 17, 2021. The arbitration hearing began before the 
+undersigned on June 2, 2022. (See Claimant’s Exhibit 9, pg. 63; Transcript Volume 1, 
+page 1). Pursuant to an order of the Iowa Workers’ Compensation Commissioner, this 
+case took place live video hearing via Zoom, with all parties and the court reporter 
+appearing remotely. One of defendant’s witnesses, Robert Foglesong, testified out of 
+order due to his availability. (Cl. Ex. 9, p. 64; Tr. Vol. I, pp. 4-5) After Mr. Foglesong 
+testified, claimant orally moved to amend the date of injury to conform to proof. (Cl. Ex. 
+9, p. 70; Tr. Vol. I, pp. 27-29) Counsel provided argument, and over defendant’s 
+objections, the motion to amend was granted to conform to the proof in the record. (Cl. 
+Ex. 9, pp. 70-72; Tr. Vol. I, pp. 29-37) However, the amendment substantially changed 
+the issues, as defendant had alleged an affirmative defense of lack of timely notice 
+pursuant to Iowa Code section 85.23. The changed date of injury affected that defense. 
+As such, the hearing was recessed in order to allow defendants time to investigate the 
+case and present a full defense, given the amended date of injury. (Cl. Ex. 9, pp. 72-73; 
+Tr. Vol. I, pp. 37-39). 
+ 
+The hearing resumed on October 11, 2022, on which date it was completed.  
+ 
+The parties filed a hearing report. On the hearing report, the parties entered into 
+numerous stipulations. Those stipulations were accepted and no factual or legal issues 
+relative to the parties’ stipulations will be made or discussed. The parties are now bound 
+by their stipulations. 
+ 
+The evidentiary record includes Joint Exhibits 1 through 9, Claimant’s Exhibits 1 
+through 12, and Defendants’ Exhibits A through I.  
+ 
+ELECTRONICALLY FILED     2023-Jun-02  12:32:09     DIVISION OF WORKERS' COMPENSATION
+
+MEDHAUG V. BURKE CORPORATION 
+Page 2 
+Claimant testified on his own behalf. Dickie Medhaug also testified on behalf of 
+claimant. Robert Foglesong and Robert Gray testified on behalf of the employer. The 
+evidentiary record was left open at the conclusion of the evidentiary hearing to allow for 
+claimant’s exhibit 12, which was submitted shortly thereafter. The parties submitted 
+post-hearing briefs on November 18, 2022, and the case was considered fully submitted 
+on that date. 
+ 
+ISSUES1 
+ 
+1. 
+Whether claimant sustained an injury arising out of and in the course of 
+employment on or around January 17, 2021; 
+2. 
+Whether claimant provided defendant employer with proper notice of his claim 
+under Iowa Code section 85.23; 
+3. 
+Payment of medical expenses; 
+4. 
+Alternate medical care; and 
+5. 
+Taxation of costs. 
+ 
+FINDINGS OF FACT 
+ 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+ 
+At the time of hearing, claimant was 37 years old. (Hearing Transcript, Volume II, 
+p. 71) Claimant lives with his wife and their children in Marshalltown, Iowa. Claimant 
+attended Marshalltown High School but did not graduate. He later earned his GED. (Tr., 
+p. 72) He worked at Wendy’s fast-food restaurant during high school, and then worked 
+at Lennox for a short time. (Tr., pp. 72-73) On November 27, 2006, claimant began 
+working for JBS. (Defendant’s Exhibit C, p. 19) Claimant sustained a right shoulder 
+injury on February 20, 2008, while working at JBS, which ultimately resulted in surgery 
+that took place in 2010. (Def. Ex. C, pp. 19-21) It appears he returned to work at JBS 
+following surgery for a period of time, but it is unclear when he left his employment at 
+JBS. (Def. Ex. C, p. 22) 
+ 
+In 2011, claimant went to work with his father. The two started a tree service 
+business called Tye’s Touch, which was later renamed Dickie’s Tree Service. (Tr., pp. 
+60; 66-67) There are some inconsistencies in the record as to how long claimant 
+worked with his father. Dickie Medhaug, claimant’s father, testified that claimant left the 
+business in 2017 or 2018 due to a family dispute. (Tr., pp. 60-61) Claimant testified that 
+it was 2017 when he left, which is consistent with his answers to interrogatories. (Tr., p. 
+73; Def. Ex. F, p. 27) However, on job applications he indicated he worked there until 
+November of 2019. (Def. Ex. A, pp. 2-3; Def. Ex. B, p. 14) He testified at hearing that he 
+must have written the year down incorrectly on the job applications. (Tr., pp. 85-86) 
+ 
+                                                          
+1 Claimant included a claim for penalty benefits on the hearing report. However, in claimant’s brief, that 
+claim was withdrawn as claimant has not yet had surgery and as such, no healing period benefits have 
+yet to accrue should the claim be found compensable. 
+
+MEDHAUG V. BURKE CORPORATION 
+Page 3 
+Claimant testified that he next went to work for Iowa Premium in Tama and was 
+then incarcerated for a short period of time. (Tr., p. 73) He then went to work at Lennox. 
+His application for employment at Lennox is dated November 12, 2019. (Def. Ex. B, p. 
+15) His employment with Lennox was terminated on August 26, 2020, due to failing to 
+show up for work, as well as exceeding the allotted number of absences during his 
+employment. (Def. Ex. B, pp. 16-18)  
+ 
+Claimant began working at Burke Corporation, defendant employer, on August 
+24, 2020. (Def. Ex. A, p. 1) He was hired as a laborer. Robert Foglesong was his 
+supervisor and testified that claimant worked in the receiving department unloading 
+trailers. (Cl. Ex. 9, p. 64; Tr. Vol. I, p. 5) Mr. Foglesong testified that claimant’s job was 
+to unload incoming trailers, including the spice trailer. (Cl. Ex. 9, p. 65; Tr. Vol. I, p. 6) 
+He stated that most of the spice came in 50-pound bags, but some are lighter.  
+ 
+Claimant testified that he was injured at work while he was restacking or 
+reorganizing bags of spices on a pallet. (Tr., pp. 75-76) He was in the process of 
+transferring one pallet of spice to another because it needed to be restacked and 
+secured as some of the product had fallen over on the first pallet. (Tr., p. 76) He 
+reached down for a bag to stack on the new, organized stack, and as he was placing it 
+on the new stack, he felt his left shoulder pop. (Tr., p. 75)  
+ 
+The events following this alleged incident, as well as the date on which it 
+occurred, are in dispute. Claimant initially plead December 1, 2020, as the date of 
+injury. (See Original Notice and Petition, filed April 6, 2021) At claimant’s deposition, 
+taken April 7, 2022, claimant’s attorney advised that the actual date of injury was 
+uncertain, and it may have been later than December of 2020. (Def. Ex. I, pp. 44-45; 
+Depo. Tr., pp. 25-26) Claimant then testified that he thought the injury occurred in either 
+December of 2020 or January of 2021. (Def. Ex. I, p. 45; Depo. Tr., p. 26) Then, as 
+noted above, during the first part of the hearing, claimant orally moved to amend the 
+date of injury to conform to proof. (Cl. Ex. 9, p. 70; Tr. Vol. I, pp. 27-29) After argument 
+from both parties, the undersigned granted the motion and paragraph three of the 
+petition was amended to allege the date of injury was “on or about January 17, 2021.” 
+(See Ruling on Claimant’s Oral Motion to Amend Petition, filed June 2, 2022) 
+ 
+The date of injury is significant in this case as defendant has alleged a notice 
+defense. Defendant argues that claimant did not report a work injury until March 17, 
+2021. If the date of injury was actually December 1, 2020, failing to report the injury until 
+March 17, 2021 would violate the notice provisions of Iowa Code section 85.23. 
+However, if the date of injury is on or around January 17, 2021, then claimant reported 
+the injury timely. In other words, it is not disputed that on March 17, 2021, defendant 
+had notice of claimant’s alleged injury. That means that if the injury occurred any time 
+prior to December 17, 2020, claimant did not provide timely notice of the claim under 
+section 85.23. 
+ 
+Claimant has testified repeatedly that he reported the injury immediately after it 
+occurred. At both his deposition and at hearing, claimant testified that after he felt the 
+
+MEDHAUG V. BURKE CORPORATION 
+Page 4 
+pop in his shoulder, he went to his supervisor, Bob Foglesong, and told him what 
+happened. (Tr., p. 76; Def. Ex. I, p. 45; Depo. Tr., p. 26) According to claimant, Mr. 
+Foglesong told him to go to see the company nurse, but she was not there. When 
+claimant returned and advised Mr. Foglesong that the nurse was out, he testified that 
+Mr. Foglesong said he would send the nurse an email. (Tr., p. 76; Def. Ex. I, p. 45; 
+Depo. Tr., pp. 26-27) The next day, claimant asked Mr. Foglesong about it, and was told 
+that the nurse said to ice his shoulder and it would be okay. (Tr., pp. 76-77; Def. Ex. I, p. 
+45; Depo. Tr., p. 27) Claimant testified that a month or two later, his shoulder was 
+getting worse and he was having trouble sleeping, so he went back to the nurse, which 
+is when he learned that there were no records of his initial report of the injury. (Tr., p. 
+77; Def. Ex. I, p. 45; Depo. Tr., pp. 27-28) As such, the official report of injury is dated 
+March 17, 2021. (Def. Ex. A, p. 6) 
+ 
+Claimant testified that after he saw the nurse, his supervisor, Mr. Foglesong, was 
+called, along with Robert Gray. (Def. Ex. I, p. 45; Depo. Tr., pp. 28-29) He stated that 
+Mr. Foglesong admitted he had lost the initial paperwork regarding the injury, and Mr. 
+Gray “jumped him pretty hard” about it. (Def. Ex. I, pp. 45-46; Depo. Tr., pp. 29-30; See 
+also Tr., pp. 88-89) Claimant said coworkers named Sheila and Brenda were there. 
+Claimant said he was then put on a light duty job and was to see the in-house physical 
+therapist for initial treatment. (Def. Ex. I, p. 46; Depo. Tr., p. 30) 
+ 
+Robert Foglesong testified at the first part of the hearing on June 2, 2022. (Cl. 
+Ex. 9) He was the production supervisor between December 2020 and March 2021, and 
+claimant worked directly under him during those times. (Cl. Ex. 9, pp. 64-65; Tr. Vol. I, 
+pp. 5-6) He testified about the protocol for when an employee reports an injury. (Cl. Ex. 
+9, p. 65; Tr., Vol. I, pp. 6-7) He stated that the employee would be asked to complete an 
+injury report with the supervisor, and there is a form attached where the employee is 
+asked to rate their pain each day for the next seven days on a scale of zero to ten. The 
+employee would also be sent to the in-house nurse in order to determine whether 
+treatment was needed. (Cl. Ex. 9, p. 65; Tr., Vol. I, p. 7) Mr. Foglesong denied that 
+claimant ever reported an injury to him in December of 2020 or January of 2021. (Cl. 
+Ex. 9, p. 65; Tr., Vol. I, pp. 7-8) He stated that if claimant had gone to the nurse and 
+found she was not there, he would have had claimant return the next day, and would 
+have still completed an injury report, as that is the procedure. (Cl. Ex. 9, p. 65; Tr., Vol. 
+I, p. 8) He denied sending any emails to the nurse regarding claimant and denied telling 
+claimant the nurse said to ice his shoulder. He further denied being disciplined or 
+otherwise engaging in a conversation with Mr. Gray regarding a failure to report 
+claimant’s alleged injury. (Cl. Ex. 9, p. 65; Tr., Vol. I, pp. 8-9)  
+ 
+Mr. Foglesong agreed, however, that claimant did report a shoulder injury to him, 
+and he believed it was sometime in March, 2021. (Cl. Ex. 9, pp. 66-67; Tr., Vol. I, pp. 
+13-14) He could not recall all of the details but thought claimant reported the injury 
+occurred while lifting a bag of spice. (Cl. Ex. 9, p. 67; Tr., Vol. I, p. 15) He agreed that 
+he and claimant completed the injury report on March 17, 2021, because it was his 
+practice to complete the report as soon as he is made aware of an injury. (Cl. Ex. 9, p. 
+67; Tr., Vol. I, pp. 15-16) He further testified that once the injury was reported, claimant 
+
+MEDHAUG V. BURKE CORPORATION 
+Page 5 
+would have been seen by the company nurse and, if needed, the on-site physical 
+therapist. (Cl. Ex. 9, p. 69; Tr., Vol. I, p. 25) He had no knowledge of claimant receiving 
+any medical care following the in-house treatment. (Cl. Ex. 9, p. 70; Tr., Vol. I, p. 26) Mr. 
+Foglesong is no longer an employee of Burke, and left employment there at the end of 
+March, 2022. (Cl. Ex. 9, p. 66; Tr., Vol. I, p. 12) 
+ 
+Robert Gray also testified, via deposition on September 28, 2022, and at hearing 
+on October 11, 2022. (Cl. Ex. 5, p. 35; Tr., pp. 91-97) Mr. Gray is the lead supervisor of 
+operations at Burke and has worked there for 35 years. (Cl. Ex. 5, p. 36; Depo. Tr., pp. 
+6-7) He testified at his deposition that he first came to learn about claimant’s work injury 
+during one of his daily walk-throughs of the plant. (Cl. Ex. 5, p. 36; Depo. Tr., p. 8) He 
+noticed that claimant was not on the dock, and asked Mr. Foglesong where he was. 
+That was when he was told claimant had an injury. Mr. Gray said he told Mr. Foglesong 
+to be sure to get his paperwork done. About one week later, the company nurse and the 
+safety manager asked Mr. Gray whether there was any light-duty work available for 
+claimant, and he said yes. (Cl. Ex. 5, p. 37; Depo. Tr., pp. 11-12) He recalled the light 
+duty work he provided for claimant was meat inspection. (Cl. Ex. 5, p. 38; Depo. Tr., p. 
+14) He also recalled that claimant’s injury occurred when he was moving spice.  
+ 
+Mr. Gray denied, both at his deposition and at hearing, that he ever reprimanded 
+Mr. Foglesong for failing to file an injury report. (Tr., pp. 91-92; Cl. Ex. 5, p. 39; Depo. 
+Tr., p. 18) He also testified, at hearing, that the stacks of spice bags on pallets are 4.5 to 
+5 feet tall at most. (Tr., p. 92) Therefore, he did not believe claimant would have lifted a 
+bag of spice as high as or over shoulder level. (Tr., pp. 92-93) He confirmed, however, 
+that there are times when a pallet of spice bags will need to be restacked due to some 
+of the boxes falling off the side. (Tr., pp. 95-96)  
+ 
+I find both Mr. Foglesong and Mr. Gray to be credible witnesses. There was 
+nothing about either gentleman that gave me reason to doubt their veracity. However, I 
+also find claimant to be a credible witness. He is not the best historian. However, his 
+general description of how the work injury occurred has not waivered. The only 
+inconsistencies in claimant’s testimony occur when he is asked about dates. This is true 
+regarding his reporting of the injury, and true regarding his work history. However, while 
+he may have difficulty keeping timelines straight, the other details regarding his injury 
+were clear and consistent. During hearing he engaged in direct eye contact, his rate of 
+speech was appropriate, and he did not engage in any furtive movements. Overall, from 
+my observation of claimant’s demeanor at hearing, he appeared sincere. Poor 
+historians can be credible witnesses. Overall, claimant is found to be credible. 
+ 
+There are additional records that support claimant’s allegation that the injury 
+occurred on or around January 17, 2021. There is no dispute that defendant employer 
+had notice of the injury on March 17, 2021. On that date, claimant and his supervisor, 
+Mr. Foglesong, completed an injury report. (Def. Ex. A, p. 6) The report notes that the 
+left shoulder injury occurred when claimant was stacking bags of spice and felt his 
+shoulder pop. Claimant reported his pain at a level 8 out of 10 on each day he worked 
+for the next week. (Def. Ex. A, p. 7) On March 18, 2021, claimant saw Jason Horras, 
+
+MEDHAUG V. BURKE CORPORATION 
+Page 6 
+DPT, who provides in-house physical therapy to Burke employees. (Cl. Ex. 9, p. 67; Tr. 
+Vol. I, p. 16; Def. Ex. A, p. 11) His notes indicate that claimant reported left shoulder 
+pain originally two months prior while lifting at work. (Def. Ex. A, p. 11) The pain then 
+got better, but got worse again over the last few days. He reported he had not been 
+lifting but had mainly been driving a forklift. He rated his pain at a level 8 or 9 out of 10, 
+and said it was horrible at night. He indicated he does not do any other outside work 
+and was not sure what caused the recent exacerbation. The note also indicates that 
+claimant said he reported the incident and irritation two months prior, but there were no 
+records found and claimant’s supervisor did not recall any prior report. The record 
+concludes with the sentence: “Possible other activities outside of work caused 
+exacerbated situation.” DPT Horras provided claimant with a sling, and advised he 
+should rest his arm and avoid lifting. He told claimant to return the following Monday. 
+ 
+Claimant next saw DPT Horras on the following Monday, which was March 22, 
+2021. (Def. Ex. A, p. 10) He reported using the sling, but was “still miserable.” He was 
+unable to sleep and felt no better. He again denied “having or doing outside work.” 
+Moderate to severe palpable tenderness was noted on objective examination. DPT 
+Horras noted that claimant had left shoulder pain “for many weeks,” and that the exact 
+cause was “unknown but may be outside of work activity.” His report states that no 
+reports of an incident were found, and that claimant was very adamant he wanted to 
+seek help. The plan was to have the on-site nurse work with the safety manager to set 
+up an evaluation with occupational health. In the meantime, claimant was to continue to 
+use ice and the sling, work in the meat inspection department, and not use his left upper 
+extremity.  
+ 
+There is another note dated March 22, 2021, from the in-house nurse at Burke. 
+(Def. Ex. A, p. 9) The signature is illegible, but Robin Sly, who is a nurse once 
+contracted to work at Burke, testified in her deposition that the nurse who saw claimant 
+was Tiffany McSkimming. (Cl. Ex. 4, p. 27; Depo. Tr., p. 8) Nurse McSkimming asked 
+claimant how the injury happened and reported that he stated he was “stacking spices 
+two months ago and felt a pop. (Def. Ex. A, p. 9) He said he told Bob [Robert 
+Foglesong] and was told that the nurse told him to use ice. I do not recall seeing him for 
+this – and I know that Bob and I would both have any injured employee see one of us 
+nurses and not just ‘apply ice’ and call it good.” She then states that claimant agreed he 
+had not seen the nurse after his initial report, but two weeks prior while driving a forklift 
+he noted his shoulder was not getting any better. This is consistent with what claimant 
+reported to DPT Horras. Nurse McSkimming then states that claimant “declines (sic) 
+doing any sort of side work outside of Burke. I asked him flat out, with Jason [Horras] 
+present. If he is, he just lied to us about it. His face is bright red, like sunburnt.” 2 The 
+note continues to state that claimant was not happy about his inability to sleep at night, 
+and stated he was “worn out” emotionally and physically. He requested to see a doctor 
+and said he “wants it fixed.” Nurse McSkimming then noted that she thought he was 
+“magnifying the pain,” and x-rays would help confirm or eliminate whether something 
+                                                          
+2 Claimant testified at hearing that he has a condition called discoid lupus, which can cause a rash on his 
+face and make it look sunburnt. (Tr., pp. 78-79) Medical records confirm this diagnosis. (Jt. Ex. 1, p. 3) 
+
+MEDHAUG V. BURKE CORPORATION 
+Page 7 
+was wrong. She then stated, “My guess is, is that he wants some stronger pain 
+medication as well.” (Def. Ex. A, p. 9) 
+ 
+It appears Nurse McSkimming was out of the country and unavailable to testify 
+live at hearing or via deposition. (See Cl. Ex. 7, p. 52; Depo Tr., p. 18)  However, as 
+noted above, Robin Sly testified via deposition taken on September 28, 2022. (Cl. Ex. 4) 
+Ms. Sly is a registered nurse who worked for MedCore during the relevant time and was 
+contracted through MedCore to provide nursing services at Burke. (Cl. Ex. 4, p. 27; 
+Depo. Tr., p. 5) Nurse Sly testified that she did not directly deal with claimant, but the 
+other nurse, Tiffany McSkimming, mainly handled his case. (Cl. Ex. 4, pp. 27-28; Depo. 
+Tr., pp. 8-12) She did not personally observe any “drug seeking” behavior from claimant 
+and did not know what Nurse McSkimming meant in her note regarding stronger pain 
+medication. (Cl. Ex. 4, p. 28; Depo. Tr., pp. 9-10) She did recall that claimant was 
+eventually sent to see an occupational health doctor. (Cl. Ex. 4, pp. 28-29; Depo. Tr., 
+pp. 12-13) She also testified that she had heard somewhere that claimant had another 
+business “on the side,” she thought perhaps tree trimming. (Cl. Ex. 4, p. 29; Depo. Tr., 
+pp. 14-15) After reviewing Nurse McSkimming’s notes, Nurse Sly could not say with 
+certainty what caused or contributed to his shoulder injury. (Cl. Ex. 4, pp. 29-30; Depo. 
+Tr., pp. 15-19) 
+ 
+Claimant saw Sherman Jew, D.O., at Occupational Medicine Clinic on March 22, 
+2021. (Joint Exhibit 7, p. 48) His note indicates claimant reported that he started having 
+left shoulder pain two months prior. He explained that he was restacking a pallet with 
+bags of spices, reached down to grab a bag of spice, reached up and extended his arm 
+to stack the bag and felt a pop. He described again telling his supervisor, his supervisor 
+emailing the nurse, and later telling claimant to ice the shoulder. He stated that the pain 
+had gotten worse in the past week and was now radiating to his back and he had 
+numbness in his left thumb. (Jt. Ex. 7, p. 49) The on-site physical therapy he had done 
+was not helping, nor were over-the-counter pain medications. On physical examination, 
+Dr. Jew found pain with flexion and extension plus signs of impingement. He 
+recommended using Bengay, a Lidocaine patch, ice, and daily shoulder exercises. (Jt. 
+Ex. 7, p. 50) 
+ 
+Claimant returned to see Dr. Jew on March 31, 2021. (Jt. Ex. 7, p. 51) At that 
+time, his pain was unchanged, and he reported numbness in the left thumb into the 
+wrist, as well as pain radiating up his neck on the left side. (Jt. Ex. 7, p. 52) He reported 
+that he was “taking some time off” from work, in the hope the pain would improve. 
+Physical examination of the shoulder was essentially the same, an examination of the 
+neck was noted to be “abnormal,” with palpable pain in the lower, mid c-spine and left 
+SCM (sternocleidomastoid muscle), and pain and stiffness in SCMs with rotation. X-rays 
+showed nothing acute. Dr. Jew noted that the cause of claimant’s problem appeared to 
+be, in part, related to work activities. He recommended claimant start physical therapy, 
+and provided prescription medications, including amitriptyline and Medrol. (Jt. Ex. 7, p. 
+53) 
+ 
+
+MEDHAUG V. BURKE CORPORATION 
+Page 8 
+Claimant returned to Dr. Jew on April 12, 2021. (Jt. Ex. 7, p. 57) He reported he 
+had been terminated from employment and was not working. Employment records show 
+he was terminated on April 6, 2021, due to unexcused absences. (Def. Ex. A, p. 12) 
+Claimant reported that he still had no improvement but had been attending physical 
+therapy twice per week. (Jt. Ex. 7, p. 58) Physical examination was largely unchanged. 
+Dr. Jew recommended claimant avoid repetitive use of his left arm and avoid lifting 
+above chest level and ordered an MRI and continued physical therapy. (Jt. Ex. 7, pp. 
+59-60) He was to return in ten days for follow-up.  
+ 
+Claimant did not receive the MRI that Dr. Jew recommended. He testified that his 
+physical therapy was also cancelled at that point. (Tr., pp. 79-80) He does not know 
+who cancelled it, but it occurred after his termination from employment. He was not 
+allowed to return to Dr. Jew, and it appears his claim was then denied. (See also Def. 
+Ex. I, pp. 46-47; Depo. Tr., pp. 33-34) While there is no formal letter denying the claim 
+in evidence, claimant filed his petition in this matter on April 6, 2021, and defendant filed 
+an answer denying the claim on April 15, 2021.  
+ 
+I find that defendant employer had actual notice of the alleged work injury no 
+later than March 17, 2021. All of the medical evidence in the file supports that the injury 
+occurred on or around January 17, 2021 – about two months prior to the formal report of 
+injury. There is nothing to indicate the injury occurred earlier than that, other than the 
+original petition, which has since been amended to conform to the evidence. There is no 
+requirement in the statute that the claimant must provide a date certain when 
+giving notice. The statute merely requires that the employer have notice of the 
+occurrence of an injury. As such, I find that defendant had timely notice of claimant’s 
+injury claim under Iowa Code section 85.23. 
+ 
+Defendant also argues that claimant cannot meet his burden to prove that an 
+injury actually occurred, due to his inconsistent testimony regarding how it occurred, 
+and the lack of medical causation evidence. With respect to how the injury occurred, 
+claimant has consistently stated that the injury occurred while he was transferring 50-
+pound bags of spice from one pallet to another. This is the information he told his 
+supervisor when he reported the injury, the in-house nurse and physical therapist at 
+Burke, the outside medical providers he saw, and was his testimony at both his 
+deposition and at hearing. The idea that he may have been injured while working at a 
+side job is not supported by the evidence. Both claimant and his father testified that 
+claimant was not working for Dickie’s Tree Service in 2020 or early 2021. (Tr., pp. 62, 
+82, 89-90) Claimant testified he did not have any outside employment, including roofing 
+work or construction work, while he worked at Burke. (Tr., pp. 89-90)  
+ 
+Additionally, the witnesses who were deposed did not provide any actual proof 
+that claimant was injured elsewhere. Sheila Tankersly works as a facilities technician at 
+Burke. (Cl. Ex. 8, p. 59; Depo. Tr., p. 7) She was a trainer in the grind room when 
+claimant worked there, and testified at her deposition that she had heard claimant was 
+also doing roofing work and felt that was how he was injured. (Cl. Ex. 8, p. 60; Depo. 
+Tr., p. 9) She testified that a coworker, Brenda Valladares, told her that claimant had 
+
+MEDHAUG V. BURKE CORPORATION 
+Page 9 
+hurt himself roofing one weekend. (Cl. Ex. 8, p. 59; Depo. Tr., pp. 9-10) However, when 
+Brenda Valladares was deposed, she denied telling Ms. Tankersly that he injured his 
+shoulder doing roofing work. (Cl. Ex. 6, p. 45; Depo. Tr., p. 10) She later testified that 
+claimant told her he was working construction but did not tell her he was injured at the 
+other job. (Cl. Ex. 6, p. 45; Depo. Tr., p. 11) She then said she only knew he had pain in 
+his shoulder, and she did not know where the injury occurred, at Burke or somewhere 
+else. (Cl. Ex. 6, p. 45; Depo. Tr., p. 12) When questioned by defense counsel, she 
+clarified that she told Ms. Tankersly that claimant had another job, but she did not know 
+if it was roofing and thought it was construction. (Cl. Ex. 6, p. 46; Depo. Tr., p. 14) 
+However, she denied saying he was injured at his other job, because she did not know 
+where it happened. Overall, Ms. Valladares’ testimony was confusing and did not 
+appear to be reliable as she was adamant she did not know where or how claimant 
+injured his shoulder. The fact that Ms. Tankersly’s source of the information regarding 
+the alleged side job was not reliable does not lend credence to the argument that 
+claimant was injured someplace other than Burke. 
+ 
+James Stevens also testified via deposition.  (Cl. Ex. 7) He works as the safety 
+manager at Burke. (Cl. Ex. 7, p. 52; Depo. Tr., p. 19) He also testified that he heard 
+from Ms. Tankersly that claimant had a roofing business at the same time he worked for 
+Burke. (Cl. Ex. 7, p. 57; Depo. Tr., pp. 37-38) As noted above, the source of Ms. 
+Tankersly’s information was not reliable. Claimant denies having a roofing or other 
+construction business and denies working anywhere else while he was employed at 
+Burke. 
+ 
+With respect to the mechanism of injury, defendant argues that claimant’s 
+testimony that he was stacking 50-pound bags of spices and had to lift the bags at and 
+above shoulder level was not credible. First, claimant’s testimony at hearing was that he 
+reached down to pick up a bag of spice and stack it on an organized stack and he felt 
+his shoulder pop. (Tr., p. 75) This is consistent with his deposition testimony, in which 
+he said he was stacking bags of spices, and lifted one and went to extend his arms out 
+to stack it up on top of the pile on the pallet and felt something in his shoulder pop. (Def. 
+Ex. I, p. 44; Depo. Tr., pp. 24-25) This testimony is also consistent with how he 
+described the injury to Dr. Jew. (Jt. Ex. 7, p. 48) On cross-examination, he was asked if 
+he ever described lifting above shoulder level when injured, and he responded, 
+“eventually the stacks get that high, yes.” (Tr., p. 83) He also noted that 50 pounds was 
+just his estimate of the weight. (Tr., pp. 83-84) 
+ 
+Mr. Gray testified that the stacks of spices are generally 4.5 to 5 feet tall. (Tr., p. 
+92) He also testified that stacks of salt bags only reach waist-level. (Tr., p. 93) Mr. 
+Foglesong testified that most of the bags of spice are 50 pounds, but some are lighter. 
+(Cl. Ex. 9, p. 65; Tr. Vol. I, p. 6) According to medical records, claimant is 69 inches tall. 
+(Jt. Ex. 7, p. 49) This means if a stack of spices were to reach 54 to 60 inches tall, in 
+order to place a bag on top of the stack, claimant would have to reach up to about 
+shoulder level. As such, defendant’s argument is not convincing in this regard. 
+ 
+
+MEDHAUG V. BURKE CORPORATION 
+Page 10 
+Looking at the medical evidence, after his claim was denied, claimant did not 
+seek treatment on his own until he saw Brian Crites, M.D., on May 9, 2022. (Jt. Ex. 9, p. 
+63) At his deposition he testified that he did not know he could use his health insurance 
+to see a doctor for his work injury, and he did not want to get into trouble. (Def. Ex. I, p. 
+47; Depo. Tr., pp. 34-35) Dr. Crites noted that claimant had injured his left shoulder 
+about one year prior while working, when lifting a 50-pound bag of spice to shoulder 
+height. (Jt. Ex. 9, p. 64) He felt a pop, and had experienced loss of motion, loss of 
+strength, popping, and catching, as well as numbness and tingling into his left thumb. 
+He reported previously completing two full months of physical therapy with minimal 
+improvement. Dr. Crites’ assessment was possible rotator cuff tear, and he ordered an 
+MRI. (Jt. Ex. 9, p. 65) 
+ 
+The MRI took place on May 16, 2022. (Jt. Ex. 9, p. 66) Kraig Kirkpatrick, M.D., 
+read the results, and his impression was mild AC joint osteoarthritis with 2 to 3 
+millimeter hypertrophic changes. He also found the underlying rotator cuff to be intact. 
+Claimant returned to Dr. Crites the same day, and Dr. Crites reported that the MRI 
+showed moderate tendinopathy of the supraspinatus with a central area of partial tear of 
+approximately 80 percent of the tendon thickness. (Jt. Ex. 9, p. 69) He also found 
+severe AC joint arthropathy. Dr. Crites discussed both surgical and nonsurgical 
+treatment options with claimant, and claimant wanted to proceed with surgery. Dr. Crites 
+recommended arthroscopy of the left shoulder with mini open cuff repair, subacromial 
+decompression, and distal clavicle excision.  
+ 
+On May 18, 2022, Dr. Crites signed a letter, authored by claimant’s attorney, in 
+which he confirmed his opinion that claimant’s left shoulder injury and need for 
+treatment was related to the work injury. (Cl. Ex. 1, p. 1) The letter indicates that Dr. 
+Crites was provided with Dr. Jew’s medical records as well. Claimant returned to Dr. 
+Crites on June 6, 2022. (Jt. Ex. 9, p. 70) The records of that date indicate that claimant 
+had been scheduled for surgery, but his insurance denied the surgery and was requiring 
+claimant to perform two different forms of 12 weeks of non-operative treatment. (Jt. Ex. 
+9, p. 71) Dr. Crites notes that claimant already completed approximately 2 months of 
+physical therapy with Story Medical in Nevada. As such, he gave claimant a 
+subacromial injection, and told him to follow up as needed. (Jt. Ex. 9, p. 72)  
+ 
+On June 2, 2022, defense counsel wrote to Dr. Crites, with additional questions. 
+(Cl. Ex. 1, pp. 3-4) In that letter, defense counsel notes that claimant had surgery on his 
+right shoulder in 2009, after which he complained of “severe pain” until 2018. (Cl. Ex. 1, 
+p. 3) However, in July of 2018, the records indicate claimant had ongoing struggles with 
+opiate use for the prior 8 years, which started after surgery, as well as 
+methamphetamine use. (Cl. Ex. 1, p. 3; See also Jt. Ex. 2, pp. 7-30) Defense counsel 
+also pointed out inconsistencies in the records regarding the exact date of injury. (Cl. 
+Ex. 1, p. 3) Defense counsel then asked a series of questions, which Dr. Crites 
+answered on July 22, 2022. (Cl. Ex. 1, pp. 5-6)  
+ 
+Dr. Crites’ response indicated that it was possible that claimant’s date of injury 
+was anywhere between December 1, 2020 and March 17, 2021. (Cl. Ex. 1, p. 5) He 
+
+MEDHAUG V. BURKE CORPORATION 
+Page 11 
+also stated that despite the inconsistencies in the date of injury, he still opined that the 
+incident at work when he felt his shoulder pop while moving bags of spice was a direct 
+and/or aggravating factor in his left shoulder injury. He further noted that it is not 
+uncommon for patients to have “vague recollections of specific dates.” Dr. Crites noted 
+he was not aware that claimant had not worked since April of 2021, but stated that it is 
+not unusual that his symptoms progressed with time regardless of activity. He did not 
+believe there was any reason claimant would not be able to drive a car over the past 
+year, and he again reiterated that claimant’s current shoulder condition was related to 
+his employment. (Cl. Ex. 1, p. 6) Finally, in response to the question of whether he still 
+recommended surgery knowing claimant’s history of methamphetamine and opioid 
+abuse, Dr. Crites stated that a history of addiction is not an absolute contraindication for 
+other medical treatment, and it would be unethical for him to withhold treatment 
+because of that prior history. However, he noted that such a history is not entirely 
+discounted, and postoperative pain management would be altered with things such as 
+pain contracts and treatment with a certified pain specialist.  
+ 
+Claimant returned to Dr. Crites on August 3, 2022. (Jt. Ex. 9, p. 76) His condition 
+had not changed, and Dr. Crites noted that physical therapy and cortisone injection had 
+both failed. (Jt. Ex. 9, p. 78) He continued to recommend surgery, and claimant again 
+wished to proceed. It appears surgery was scheduled for August 25, 2022. (Jt. Ex. 9, 
+pp. 78-79) Claimant’s attorney sent another letter to Dr. Crites on August 4, 2022, again 
+asking him to confirm his opinion that the left shoulder injury was caused by claimant’s 
+work, and that the surgery was necessitated by the work injury. (Cl. Ex. 1, p. 8) Dr. 
+Crites signed the letter on August 8, 2022, indicating his agreement.  
+ 
+On August 23, 2022, claimant had another MRI of the left shoulder. (Jt. Ex. 9, p. 
+87) It is unclear why the second MRI was ordered, but it was similar to the prior MRI on 
+May 16, 2022. Dr. Kirkpatrick again read the results as showing no rotator cuff or labral 
+pathology, and mild AC joint osteoarthritis with 2 to 3 millimeter hypertrophic changes. It 
+is unclear why the second surgery was cancelled, but it appears to have something to 
+do with claimant’s insurance. (See Cl. Ex. 2, p. 13) As of the date of hearing, claimant 
+had not had any surgery for his left shoulder condition. (Tr., p. 81) 
+ 
+Defendant solicited an opinion from Steven Aviles, M.D. (Def. Ex. D) Defendant’s 
+initial letter to Dr. Aviles is not in evidence, but his response, dated September 12, 
+2022, indicated he reviewed medical records from Burke, Dr. Jew, and Dr. Crites. 3 (Def. 
+Ex. D, p. 23) Dr. Aviles noted that both MRI reports were read by Dr. Kirkpatrick, 
+“esteemed musculoskeletal fellowship trained radiologist,” and he read the MRIs as 
+normal with the exception of mild arthritis at the acromioclavicular joint. In response to 
+defendant’s questions, Dr. Aviles opined that on his own review of both MRIs, he 
+agreed with Dr. Kirkpatrick that he saw no evidence of any rotator cuff pathology on 
+either MRI. (Def. Ex. D, pp. 23-24) Based on the results of both MRIs, he would not 
+recommend surgery to claimant’s left shoulder. (Def. Ex. D, p. 24) He further stated that 
+he did not see any MRI findings that correlated to any “pop or acute lifting injury” in the 
+                                                          
+3 Dr. Aviles letter states he reviewed records from “York Corporation,” which appears to be a 
+typographical error as the records were from Burke Corporation. 
+
+MEDHAUG V. BURKE CORPORATION 
+Page 12 
+left shoulder. He saw no evidence of swelling, bleeding, or edema in the subacromial 
+space, and no evidence of any fluid in the joint to suggest inflammation or bleeding. He 
+saw no evidence of any soft tissue injury or any acute lifting injury. Dr. Aviles opined 
+that the report of a “pop” and instant pain in the shoulder was not consistent with 
+claimant’s ability to continue to work with no complaints, visible signs of pain, or 
+reduction in hours. He states it is traditionally “very difficult” to do a manual labor job 
+with an acute shoulder injury. He stated that claimant’s history of substance abuse 
+caused him to worry about the credibility of his subjective complaints. Finally, with 
+respect to “the inconsistent dates in reporting,” he did not believe an injury occurred 
+while claimant was working at Burke. That, combined with the two normal MRI studies, 
+led him to “feel very comfortable indicating” there was not injury at Burke. He opined the 
+date of maximum medical improvement (MMI) would be claimant’s last visit with Dr. 
+Jew, on April 12, 2021, and that claimant would have zero permanent impairment. (Def. 
+Ex. D, pp. 24-25) He did not believe claimant required any permanent restrictions or 
+future medical care. (Def. Ex. D, p. 25) 
+ 
+Dr. Crites was provided with a copy of Dr. Aviles’ letter, and prepared a response 
+dated October 17, 2022. (Cl. Ex. 12, p. 88) Dr. Crites noted that “medicine is both an art 
+and a science,” and agreed that Dr. Kirkpatrick is a well-respected musculoskeletal 
+radiologist. He then stated that the interpretation of an MRI image is an example of both 
+the art and science aspect of medicine. Because it is an interpretation of a computer-
+generated image, two different, well trained medical professionals can have different 
+interpretations of the same image. He also noted that MRIs are not infallible, and it is 
+not uncommon for surgeons to find pathology during surgery that did not show up on 
+the MRI. In this case, Dr. Crites respectfully disagreed with Dr. Kirkpatrick’s 
+interpretations of the MRIs. Dr. Crites noted that he interpreted specific images as 
+showing a partial thickness tear and based his interpretation on 25-years of experience 
+viewing MRI images and what he has found during surgery. He acknowledged that his 
+interpretation might be wrong, as no one is 100 percent accurate, but noted that he also 
+uses his clinical exam, which is consistent with rotator cuff pathology. He also noted that 
+claimant failed “extensive” nonoperative treatment for his pain, including injections and 
+physical therapy. He stated that even if he is wrong and claimant does not have a 
+significant rotator cuff tear, “his clinical picture and course would warrant a shoulder 
+arthroscopy with subacromial decompression and distal clavicle excision or at the very 
+least a diagnostic arthroscopy.”  
+ 
+Dr. Crites also pointed out that he previously addressed the date of injury and 
+substance abuse issues in his previous letters and added that at no time in any 
+interaction with him had claimant tried to use this shoulder injury to obtain narcotic 
+medications. Dr. Crites does not believe claimant’s remote history of substance abuse 
+has any correlation to his current credibility.  
+ 
+I find Dr. Crites’ opinions to be the most credible. He has personally examined 
+claimant on more than one occasion. (Jt. Ex. 9) Dr. Aviles, to the contrary, has neither 
+examined nor interviewed claimant personally. Defendant urges that Dr. Aviles’ opinions 
+are more credible and attempts to discredit Dr. Crites’ opinions. Defendant argues that 
+
+MEDHAUG V. BURKE CORPORATION 
+Page 13 
+Dr. Crites’ opinions are based on “nothing more than a discussion with claimant’s 
+counsel and a few records from Dr. Jew.” (Def. Brief, p. 9) Defendant further argues that 
+after a single visit with claimant, Dr. Crites recommended surgery rather than 
+conservative care or injections. Additional issues defendant has with Dr. Crites include 
+his lack of explanation for why his interpretation of the MRI was different from Dr. 
+Kirkpatrick’s; the lack of information he provided about why the injection failed; his 
+failure to recommend physical therapy; his ignorance of the mechanism of injury; his 
+refusal to “objectively review all new medical information;” his misstatement of the 
+medical history; and his statement that claimant never tried to obtain narcotics when “at 
+claimant’s first medical visit it was noted that claimant was already on Tramadol.” (Def. 
+Brief, pp. 7-12) 
+ 
+First, claimant’s first visit with Dr. Crites took place on May 9, 2022. At the outset, 
+it should be noted that the record does not state that claimant was taking Tramadol at 
+that time; rather, it indicates that claimant is allergic to Tramadol. (Jt. Ex. 9, p. 63) This 
+is consistent with other medical records in evidence noting his allergy to Tramadol. (See 
+Jt. Ex. 1, p. 2) Second, Dr. Crites notes at that first visit that claimant had previously 
+completed two full months of physical therapy. (Jt. Ex. 9, p. 64) Defendant insists that 
+claimant never attended physical therapy, because it was not approved when the claim 
+was denied. (Def. Brief, p. 9) However, Dr. Jew’s records indicate claimant was 
+attending physical therapy, and claimant testified that he had been attending but future 
+appointments were cancelled when the claim was denied. (See Jt. Ex. 7, pp. 52-59; Tr., 
+p. 79) Finally, Dr. Crites did not recommend surgery at the first visit with claimant. He 
+recommended an MRI and wanted to see him back after the study. (Jt. Ex. 9, p. 65) 
+After his review of the MRI, he discussed both surgical and nonsurgical options with 
+claimant, and claimant wished to proceed with the surgery. (Jt. Ex. 9, p. 69) 
+ 
+With respect to defendant’s other critiques of Dr. Crites’ opinions, I find that Dr. 
+Crites did appear to have an accurate understanding of the mechanism of injury, as he 
+notes the injury occurred when claimant was lifting a 50-pound bag of spice to shoulder 
+height and felt a pop. (Jt. Ex. 9, p. 64) It is well documented in the records that claimant 
+had a cortisone injection that failed. (Jt. Ex. 9, p. 78) Additionally, Dr. Crites did review 
+and consider “all new medical information,” when he reviewed Dr. Aviles’ report and 
+responded on October 17, 2022. (Cl. Ex. 12, p. 88) He explained in detail why he 
+disagreed with Dr. Kirkpatrick’s interpretation of the MRI studies, and why he continues 
+to recommend surgery. Dr. Crites’ opinions are based on multiple visits with claimant 
+that included physical examinations, as well as prior medical records, claimant’s history, 
+the mechanism of injury, and failed conservative measures including physical therapy 
+and an injection. 
+ 
+To the contrary, Dr. Aviles’ opinion is based on a review of medical records. (Def. 
+Ex. D) He did not have the opportunity to examine or interview claimant personally. It 
+appears he did not have an accurate understanding of claimant’s work after the injury, 
+as he notes that claimant continued to do manual labor after the injury. (Def. Ex. D, p. 
+24) In fact, claimant worked mainly driving a forklift after the injury, until he was placed 
+on light duty and ultimately terminated for unexcused absences. Claimant related the 
+
+MEDHAUG V. BURKE CORPORATION 
+Page 14 
+absences to his injury, stating he was in too much pain to drive to work. (Tr., pp. 86-87) 
+It is unclear what information Dr. Aviles was provided regarding claimant’s prior issues 
+with substance abuse, or what basis he had for his concerns in that regard without 
+speaking to claimant directly. Finally, his declaration of MMI as of claimant’s last visit 
+with Dr. Jew is inconsistent with Dr. Jew’s own records, as he recommended an MRI 
+and additional physical therapy at his last visit. (Jt. Ex. 7, pp. 59-60) If claimant was at 
+MMI and did not require additional medical treatment at that time, Dr. Jew would not 
+have made said recommendations. 
+ 
+Based on the evidence as a whole, I find that claimant sustained an injury to his 
+left shoulder arising out of and in the course of his employment with Burke, on or around 
+January 17, 2021. He timely reported the injury on March 17, 2021. Therefore, 
+defendants are liable for claimant’s left shoulder injury, and shall provide reasonable 
+medical treatment pursuant to Iowa Code section 85.27. 
+ 
+CONCLUSIONS OF LAW 
+The party who would suffer loss if an issue were not established ordinarily has 
+the burden of proving that issue by a preponderance of the evidence. Iowa R. App. P. 
+6.904(3)(e). The claimant has the burden of proving by a preponderance of the 
+evidence that the alleged injury actually occurred and that it both arose out of and in the 
+course of the employment. Quaker Oats Co. v. Ciha, 552 N.W.2d 143, 150 (Iowa 1996); 
+Miedema v. Dial Corp., 551 N.W.2d 309, 311 (Iowa 1996). The words “arising out of” 
+refer to the cause or source of the injury. The words “in the course of” refer to the time, 
+place, and circumstances of the injury. 2800 Corp. v. Fernandez, 528 N.W.2d 124, 128 
+(Iowa 1995). An injury arises out of the employment when a causal relationship exists 
+between the injury and the employment. Miedema, 551 N.W.2d at 311. The injury must 
+be a rational consequence of a hazard connected with the employment and not merely 
+incidental to the employment. Koehler Elec. v. Wills, 608 N.W.2d 1, 3 (Iowa 2000); 
+Miedema, 551 N.W.2d at 311. An injury occurs “in the course of” employment when it 
+happens within a period of employment at a place where the employee reasonably may 
+be when performing employment duties and while the employee is fulfilling those duties 
+or doing an activity incidental to them. Ciha, 552 N.W.2d at 150. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based. A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause. A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible. George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony. The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question. The weight to be given to an 
+
+MEDHAUG V. BURKE CORPORATION 
+Page 15 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances. The 
+expert opinion may be accepted or rejected, in whole or in part. St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995). Miller v. 
+Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 1994).  
+A personal injury contemplated by the workers’ compensation law means an 
+injury, the impairment of health or a disease resulting from an injury which comes about, 
+not through the natural building up and tearing down of the human body, but because of 
+trauma. The injury must be something that acts extraneously to the natural processes of 
+nature and thereby impairs the health, interrupts or otherwise destroys or damages a 
+part or all of the body. Although many injuries have a traumatic onset, there is no 
+requirement for a special incident or an unusual occurrence. Injuries which result from 
+cumulative trauma are compensable. Increased disability from a prior injury, even if 
+brought about by further work, does not constitute a new injury, however. Id.; see also 
+Ellingson v. Fleetguard, Inc., 599 N.W.2d 440 (Iowa 1999); McKeever Custom Cabinets 
+v. Smith, 379 N.W.2d 368 (Iowa 1985).   
+The first issue for consideration is whether claimant has sustained an injury 
+arising out of and in the course of his employment. Defendants argue that claimant has 
+not met his burden to prove his injuries were caused by his employment, due to his 
+“inconsistent testimony on how and when the injury occurred as well as how and when it 
+was reported.” Defendants also argue that claimant lacks persuasive medical causation 
+for the injury. A large portion of the argument is based on defendants’ position that 
+claimant is not credible. However, as noted above, I found that overall, claimant was a 
+credible witness.  
+When assessing witness credibility, the trier of fact “may consider whether the 
+testimony is reasonable and consistent with other evidence, whether a witness has 
+made inconsistent statements, the witness’s appearance, conduct, memory and 
+knowledge of the facts, and the witness’s interest in the [matter].” State v. Frake, 450 
+N.W.2d 817, 819 (Iowa 1990). As noted above, claimant is not the best historian. 
+However, his testimony was consistent regarding how the injury occurred, and his 
+recollection of reporting the injury. The only inconsistencies in claimant’s testimony 
+occur when he is asked about dates. This is true regarding his reporting of the injury, 
+and true regarding his work history. I do not find the inconsistencies in his testimony 
+regarding the timeline of events warrant a finding that he is not a credible witness. 
+Based on my personal observations of his rate of speech, eye contact, and body 
+language, I found him to be a credible witness at hearing.  
+I also found the opinions of Dr. Crites to be more credible than those expressed 
+by Dr. Aviles. As detailed above, Dr. Crites had the benefit of examining and 
+interviewing claimant and has formed his opinions and made his recommendations for 
+treatment based on a full picture of claimant’s condition. His opinions are entitled to 
+more weight. Based on all of the evidence in the record, I found that claimant has met 
+
+MEDHAUG V. BURKE CORPORATION 
+Page 16 
+his burden to prove he sustained a left shoulder injury arising out of and in the course of 
+his employment with defendant employer. 
+The next issue to determine is whether claimant provided timely notice of the 
+injury to defendant employer under Iowa Code section 85.23. The Iowa Workers' 
+Compensation Act imposes time limits on injured employees both as to when they must 
+notify their employers of injuries and as to when injury claims must be filed. Iowa Code 
+section 85.23 requires an employee to give notice of the occurrence of an injury to the 
+employer within 90 days from the date of the occurrence, unless the employer has 
+actual knowledge of the occurrence of the injury. 
+The purpose of the 90-day notice or actual knowledge requirement is to give the 
+employer an opportunity to timely investigate the facts surrounding the injury. The actual 
+knowledge alternative to notice is met when the employer, as a reasonably 
+conscientious manager, is alerted to the possibility of a potential compensation claim 
+through information which makes the employer aware that the injury occurred and that it 
+may be work related. Dillinqer v. City of Sioux City, 368 N.W.2d 176 (Iowa 
+1985); Robinson v. Department of Transp., 296 N.W.2d 809 (Iowa 1980). 
+Failure to give notice is an affirmative defense which the employer must prove by 
+a preponderance of the evidence. DeLong v. Highway Commission, 229 Iowa 700, 295 
+N.W. 91 (1940). In this case, it is undisputed that defendant employer had notice of the 
+injury on March 17, 2021. Based on the evidence detailed above, I found that the injury 
+occurred on or around January 17, 2021. As such, defendant has not established its 
+notice defense pursuant to Iowa Code section 85.23. 
+Claimant seeks payment of medical expenses and alternate medical care under 
+Iowa Code section 85.27. Under Iowa law, once defendant denied compensability for 
+claimant’s alleged injuries, it lost the right to choose the medical providers for that care 
+during the period of denial. “[T]he employer has no right to choose the medical care 
+when compensability is contested.” Bell Bros. Heating & Air Conditioning v. Gwinn, 779 
+N.W.2d 193, 204 (Iowa 2010).   Further, when compensability is contested, “the 
+employer cannot assert an authorization defense in response to a subsequent claim by 
+the employee for the expenses of the alternate medical care.” R. R. Donnelly & Sons v. 
+Barnett, 670 N.W.2d at 197-198 (Iowa 2003). As such, claimant is entitled to 
+reimbursement for medical care he received related to the left shoulder injury after the 
+date of defendant’s denial. 
+The next issue to determine is claimant’s request for alternate medical care 
+pursuant to Iowa Code section 85.27. Under Iowa law, the employer shall furnish 
+reasonable surgical, medical, dental, osteopathic, chiropractic, podiatric, physical 
+rehabilitation, nursing, ambulance and hospital services and supplies for all conditions 
+compensable under the workers’ compensation law. The employer shall also allow 
+reasonable and necessary transportation expenses incurred for those services. The 
+Iowa Supreme Court has held the employer has the right to choose the provider of care, 
+except when the employer has denied liability for the injury or has abandoned 
+care. Iowa Code § 85.27(4); Bell Bros., 779 N.W.2d at 204. If the employee establishes 
+
+MEDHAUG V. BURKE CORPORATION 
+Page 17 
+the compensability of the injury at a contested case hearing, then the statutory duty of 
+the employer to furnish medical care for compensable injuries emerges to support an 
+award of reasonable medical care the employer should have furnished from the 
+inception of the injury had compensability been acknowledged. Id. 
+Defendant has not authorized medical care since their denial of the claim in April 
+2021. Therefore, claimant has proven that the employer is not authorizing medical care 
+that is effective and reasonably suited to treat his injury. Defendant shall authorize and 
+pay for all reasonable and causally related expenses with respect to claimant’s ongoing 
+treatment related to his left shoulder injury, including but not limited to additional 
+treatment with Dr. Crites. 
+Finally, claimant has requested a taxation of costs. Assessment of costs is a 
+discretionary function of this agency. Iowa Code § 86.40. Costs are to be assessed at 
+the discretion of the deputy commissioner or workers’ compensation commissioner 
+hearing the case. 876 IAC 4.33. Claimant has requested reimbursement of the following 
+costs: 
+ 
+Filing fee - $103.00 
+ 
+Huney-Vaughn Court Reporters, deposition transcript - $110.40 
+ 
+Huney-Vaughn Court Reporters, hearing transcript - $96.60 
+ 
+Dr. Crites – responsive report - $350.00 
+ 
+Sweeney Court Reporting – deposition transcripts - $1,389.68 
+(Cl. Ex. 3, pp. 14-25) 
+ 
+All of the costs that claimant has requested are allowed under Rule 876-4.33. 
+Claimant was successful in his claim. As such I exercise my discretion and award 
+claimant total costs in the amount of $2,049.68. 
+ 
+ORDER 
+ 
+THEREFORE, IT IS ORDERED: 
+ 
+ 
+Claimant is entitled to alternate medical care. Defendant shall immediately 
+authorize and timely pay for claimant’s continuing care related to the compensable left 
+shoulder injury with providers of claimant’s choice, including but not limited to Dr. Brian 
+Crites, M.D. 
+Defendant is responsible for any causally related medical care claimant received 
+related to the left shoulder injury after the date of defendant’s denial. 
+ 
+ 
+Defendant shall reimburse claimant’s costs in the amount of two thousand forty-
+nine and 68/100 dollars ($2,049.68), as outlined above. 
+
+MEDHAUG V. BURKE CORPORATION 
+Page 18 
+ 
+Defendant shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1(2) and 876 IAC 11.7. 
+Signed and filed this    2nd    day of June, 2023. 
+ 
+ 
+______________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+         JESSICA L. CLEEREMAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEPUTY WORKERS’  
+ 
+ 
+ 
+ 
+ 
+ 
+  COMPENSATION COMMISSIONER 
+ 
+The parties have been served, as follows: 
+ 
+Christopher Spaulding (via WCES) 
+ 
+Abigail Wenninghoff (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days from 
+the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code. The notice of appeal must be filed 
+via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission by the 
+Division of Workers’ Compensation to file documents in paper form. If such permission has been granted, the notice of 
+appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa Division of Workers’ 
+Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836. The notice of appeal must be received by the 
+Division of Workers’ Compensation within 20 days from the date of the decision. The appeal period will be extended to 
+the next business day if the last day to appeal falls on a weekend or legal holiday.  

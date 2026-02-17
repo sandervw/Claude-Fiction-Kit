@@ -1,0 +1,436 @@
+Case Number: 5058256
+Case Title:  PRUIS, TIMOTHY V. MEDPLAST INC
+Doc Type:    Decision - Court of Appeals
+Source:      Pruis, Timothy-5058256.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 21-1650 
+Filed December 7, 2022 
+ 
+ 
+MEDPLAST and CONTINENTAL INDEMNITY COMPANY, 
+ 
+Petitioners-Appellants, 
+ 
+vs. 
+ 
+TIMOTHY PRUIS, 
+ 
+Respondent-Appellee. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Michael D. Huppert, 
+Judge. 
+ 
+ 
+An employer appeals a district court’s decision on judicial review affirming 
+an award of workers’ compensation benefits.  AFFIRMED.  
+ 
+ 
+Lindsey E. Mills and Rachael D. Neff of Smith Mills Schrock Blades P.C., 
+West Des Moines, for appellants. 
+ 
+Mark J. Sullivan of Reynolds & Kenline, L.L.P., Dubuque, for appellee. 
+ 
+ 
+Considered by Vaitheswaran, P.J., and Tabor and Badding, JJ. 
+ 
+ 
+ 
+
+ 
+2
+BADDING, Judge. 
+ 
+In this appeal hinging on competing expert opinions, MedPlast and 
+Continental Indemnity Company (MedPlast) challenge the district court’s decision 
+on judicial review to affirm the award of workers’ compensation benefits to Timothy 
+Pruis.  MedPlast claims the court erred in affirming two findings by the Iowa 
+Workers’ Compensation Commission: (1) that Pruis sustained injuries to his head, 
+neck, vision, and mental health as a result of a work injury; and (2) that Pruis was 
+permanently and totally disabled.  Because MedPlast’s claims would require us to 
+reweigh the expert opinions on these issues, we affirm.    
+I. 
+Background Facts and Proceedings 
+ 
+Timothy Pruis has worked in the plastic manufacturing industry since high 
+school, where he got his start at his father’s business.  For most of his career, Pruis 
+held supervisory positions, at times overseeing up to one hundred employees.  His 
+most recent job in that industry was at MedPlast as a third-shift production 
+supervisor.  During his shift, Pruis oversaw twenty to twenty-five employees and 
+was responsible for keeping the production line moving.   
+ 
+On August 11, 2016, near the end of his shift, Pruis was called over to a 
+plastic molding machine that was not functioning properly.  Upon inspection, Pruis 
+realized that he needed to climb into the machine to look at the injection mold.  He 
+grabbed a solid steel tie bar above his head to pull himself up.  As he did so, Pruis 
+hit the right side of his head on the bar.  The impact “jarred his teeth,” and he 
+dropped back to the floor.  Pruis said he saw little yellow stars and felt immediate 
+pain in his neck, head, and shoulders.  
+
+ 
+3
+ 
+Pruis went back to his office and laid his head back until the end of his shift.  
+He vomited once while still at work.  After his boss arrived, Pruis told him what 
+happened.  He does not remember much after that.  Pruis drove himself home but 
+got confused on the way and had to call his family for help.  When Pruis got home, 
+his daughter took him to the emergency room.  Pruis was confused during the 
+examination—not knowing his middle name or how many children he had.  A 
+CT scan of his cervical spine showed only degenerative changes, and a head CT 
+showed no acute intracranial process.  The emergency room provider assessed 
+Pruis with a very severe concussion and traumatic brain injury.  Because he 
+needed a higher level of care than that particular facility could give him, he was 
+transferred by ambulance to another area hospital.  
+ 
+Pruis was admitted overnight and, after twenty-four hours, his confusion had 
+resolved.  He reported no significant headaches with improved neck pain.  An MRI 
+showed no acute abnormalities.  Pruis was discharged to the care of his family and 
+told to stay off work until further evaluation.  A week later, Pruis saw Dr. Steven 
+Fowler for a follow-up.  He reported that any activity triggered severe headaches 
+and that his balance was slightly off.  Dr. Fowler diagnosed Pruis with post-
+concussive syndrome, referred him to a concussion clinic, and told him to remain 
+off work.  
+ 
+Pruis was never able to return to work at MedPlast because of his ongoing 
+symptoms, which included daily headaches, nausea, difficulty concentrating and 
+focusing, memory loss, balance and gait problems, and dizziness.  He was seen 
+by several doctors before making his way to Dr. DeAnn Fitzgerald via a referral 
+from a neurologist about five months after his injury.     
+
+ 
+4
+ 
+Dr. Fitzgerald is an optometrist with a general practice, who also runs Vision 
+in Motion—a rehabilitation clinic for patients with traumatic brain injuries, strokes, 
+and concussions.  She is a certified credentialed ImPACT consultant and vice 
+president of the Neuro-Optometric Rehab Association.  Pruis first saw Dr. 
+Fitzgerald at her general practice where she prescribed glasses and tinted lenses 
+to help with his sensitivity to light.  She also recommended visual/vestibular 
+rehabilitation and multisystem therapy at her rehabilitation clinic.  Pruis noticed an 
+improvement in his balance and gait with those therapies, which also made his 
+eyes work better together.  Pruis received various treatments at the clinic for more 
+than two years, during which time his symptoms continued to improve, though they 
+remained present.  Pruis’s son, who drove him to the appointments with Dr. 
+Fitzgerald, said his father’s treatment there was the most helpful out of any that he 
+had.    
+ 
+Despite the success Pruis experienced at Dr. Fitzgerald’s clinic, MedPlast 
+ended its authorization for further medical or mental-health treatment after 
+neuropsychological assessments by its expert, Dr. Daniel Tranel.  Pruis then 
+experienced a significant regression in his symptoms, although he tried to continue 
+what treatment he could afford on his own.  At his initial examination with Dr. 
+Tranel, Pruis underwent a battery of tests, which showed deficits in attention, 
+working memory, speed of processing, mental control, and language.  Yet Dr. 
+Tranel concluded that Pruis’s results did not show cognitive impairment or 
+neurological dysfunction, suggesting they were due instead to Pruis’s moderate 
+symptoms of depression.  Dr. Tranel ultimately concluded that the August 2016 
+work accident did not cause any permanent neurological or mental injury and that 
+
+ 
+5
+Pruis was able to return to work with no restrictions.  A later report from Dr. Tranel 
+suggested Pruis was malingering because his condition had continued to decline.   
+ 
+MedPlast’s other expert, Dr. R.L. Broghammer, concurred with Dr. Tranel.  
+A specialist in occupational and environmental medicine, Dr. Broghammer found 
+Pruis did not have any head condition related to his work injury, despite Pruis’s 
+continued symptoms.  He noted that Pruis had a history of headaches before his 
+work injury, along with degenerative changes of the cervical spine.  Dr. 
+Broghammer felt Pruis’s vision issues were “due entirely to the aging process,” 
+disagreeing with Dr. Fitzgerald’s contrary opinion connecting those issues with 
+Pruis’s work injury.  In the end, Dr. Broghammer concluded that none of Pruis’s 
+conditions were related to his work injury.  He too felt that Pruis did not need any 
+further treatment and was able to return to work. 
+ 
+Pruis’s experts and treating physicians disagreed.  Dr. Todd Harbach, an 
+orthopedic surgeon who treated Pruis’s neck pain from November 2017 through 
+January 2018, noted that Pruis had chronic degenerative changes in his cervical 
+spine at C4–C5 and C5–C6.  Unlike Dr. Broghammer, however, Dr. Harbach found 
+that Pruis’s “injury to his head, which also involves his cervical spine, lit up his pre-
+existing degenerative conditions.”  Occupational medicine specialist, Dr. Mark 
+Taylor, agreed with that assessment following his independent medical 
+examination of Pruis.  Dr. Taylor diagnosed Pruis with persistent cervicalgia with 
+right greater than left pain; paresthesia into the upper extremities and abnormal 
+cervical spine MRI; traumatic brain injury with post-concussive syndrome and mild 
+neurocognitive disorder; and persistent headaches and dizziness related to post-
+concussive syndrome, all of which he connected to Pruis’s work injury.   
+
+ 
+6
+ 
+As for Pruis’s head injury and vision, Dr. Fitzgerald testified in a deposition 
+that Pruis has poor “focus and attention” and would be unable to complete an eight-
+hour work day due to his “high fatigability.”  She stated that he will need ongoing 
+therapy to improve his balance and cognition, without which he would continue to 
+experience a decline in his memory and ability to concentrate.  Dr. Fitzgerald 
+concluded Pruis had suffered a 20% deficit in his right eye and a 10% deficit in his 
+left eye.   
+ 
+An independent medical examination performed by Pruis’s other expert, 
+psychiatrist Dr. Kunal Patra, tracked these opinions.  Pruis’s son and daughter 
+brought him to his appointment with Dr. Patra.  Pruis’s daughter told Dr. Patra that 
+her father was a changed person in terms of his personality.  He was quick to anger 
+and low on patience.  Pruis’s son reported similar changes, noting that before his 
+injury, Pruis was a very “self-reliant and proud” man who enjoyed outdoor activities 
+and cooking.  But after his injury, Pruis was “almost unrecognizable,” according to 
+his son, and barely able to do simple things, like cook a frozen pizza. 
+ 
+After visiting with Pruis’s children, reviewing his medical records, and 
+examining him, Dr. Patra found Pruis was suffering from major depressive 
+disorder, mild neurocognitive disorder, personality disorder, generalized anxiety, 
+and post-concussion syndrome.  He linked those conditions to Pruis’s traumatic 
+brain injury stemming from the August 2016 work injury.  Dr. Patra recognized that 
+Pruis had depression before the accident but believed it was in remission because 
+he was functioning well at work and in his family life.  As for Dr. Tranel’s opinion 
+that Pruis’s symptoms were “inconsistent with normal recovery trajectory” from 
+mild traumatic brain injuries, Dr. Patra disagreed, explaining: 
+
+ 
+7
+While normal trajectory is something we can expect in most 
+individuals, we cannot say that is the case with all individuals with 
+mild traumatic brain injury.  Studies have highlighted poor 
+neuropsychological outcomes even among individuals with mild to 
+moderate traumatic brain injury. . . .  These impairments can hinder 
+functional recovery including, cognitive readiness to work, to go to 
+school, and in some cases independent living.  About 10% of 
+individuals with traumatic brain injury have persistent post 
+concussive symptoms, including headache, fatigue, concentration 
+difficulty, irritability, anxiety, depression, and sensitivity to light and 
+noise.  
+ 
+Pruis suffered from all of those impairments, which Dr. Patra concluded were 
+permanent.  He assigned Pruis with a 22% whole person impairment.  
+ 
+In June 2019, Pruis petitioned for workers’ compensation benefits, alleging 
+injuries to his head, neck, vision, and mental health as a result of his August 2016 
+work injury.  At the arbitration hearing, Pruis, his son, and his common-law wife 
+testified about Pruis’s ongoing symptoms.  He still has headaches, which cause 
+pressure in and behind his right eye, leaving him with a persistent level of pain.  
+The pain gets triggered by loud noises, physical activity, looking at digital screens, 
+and having to concentrate.  His right eye is watery, and both eyes are sensitive to 
+light.  Pruis gets dizzy “every time he looks up.”  When that happens, he can barely 
+walk and has to find the nearest place to lay down.  Pruis stated he still has neck 
+pain and numbness in his arm.  He also has significant memory loss.  Pruis can’t 
+remember his childhood, his children’s birthdays, or people he used to know.  His 
+speech has become “gargled and slurred,” and he has difficulty finding words.  He 
+will often go into a “zone[d] out” state.  
+ 
+After the hearing, the deputy commissioner ruled that Pruis sustained 
+injuries to his neck, head, vision, and mental health as a result of his work injury, 
+which rendered him permanently and totally disabled under the industrial disability 
+
+ 
+8
+factors.  On MedPlast’s appeal from the deputy commissioner’s decision, the 
+commissioner affirmed the decision in its entirety.  MedPlast then filed an 
+unsuccessful petition for judicial review, leading to this appeal.  
+ 
+II. 
+Standards of Review 
+ 
+“Our decision is controlled in large part by the deference we afford to 
+decisions of administrative agencies.”  Cedar Rapids Cmty. Sch. Dist. v. Pease, 
+807 N.W.2d 839, 844 (Iowa 2011).  Iowa Code chapter 17A governs judicial review 
+of decisions by the workers’ compensation commission.  Neal v. Annett Holdings, 
+Inc., 814 N.W.2d 512, 518 (Iowa 2012).  The district court on judicial review serves 
+as an appellate court to correct any legal error by the commissioner.  See 
+Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002).  In 
+reviewing the district court’s ruling, we apply the relevant chapter 17A standard to 
+decide whether we reach the same result as that court.  See Warren Props. v. 
+Stewart, 864 N.W.2d 307, 311 (Iowa 2015).   
+ 
+For MedPlast’s causation challenge, we limit our review to whether the 
+commissioner’s finding is supported by substantial evidence when the agency 
+record is viewed as a whole.  See Iowa Code § 17A.19(10)(f) (2021); Pease, 807 
+N.W.2d at 844–45.  “Evidence is substantial if reasonable minds could accept it as 
+adequate to reach the same findings.”  Tim O’Neill Chevrolet, Inc. v. Forristall, 551 
+N.W.2d 611, 614 (Iowa 1996).    
+ 
+The industrial disability issue, on the other hand, is a mixed question of law 
+and fact.  See Neal, 814 N.W.2d at 525.  We review the findings of fact for 
+substantial evidence.  Id.  But as for the agency’s application of law to those facts 
+in making its industrial disability determination, “we will not disrupt the agency’s 
+
+ 
+9
+decision unless it is ‘irrational, illogical, or wholly unjustifiable.’”  Id. (citation 
+omitted); accord Iowa Code § 17A.19(10)(m). 
+III. 
+Analysis 
+ 
+A. 
+Causation 
+ 
+ 
+“Expert testimony is ordinarily necessary to establish a causal connection 
+between the injury and the disability for which benefits are sought.”  Grundmeyer, 
+649 N.W.2d at 752.   
+The commissioner must consider such testimony together with all 
+other evidence introduced bearing on the causal connection between 
+the injury and the disability.  The commissioner, as the fact finder, 
+determines the weight to be given to any expert testimony.  Such 
+weight depends on the accuracy of the facts relied upon by the expert 
+and other surrounding circumstances.  The commissioner may 
+accept or reject the expert opinion in whole or part. 
+ 
+Id. (cleaned up).   
+ 
+In weighing the competing expert opinions on Pruis’s head, vision, and 
+mental injuries, the deputy commissioner found that when viewing the record as a 
+whole, “the opinions of Dr. Patra and Dr. Taylor are more persuasive than those of 
+Dr. Tranel and Dr. Broghammer.”  The deputy reasoned: 
+ 
+It is not known what records were provided to Dr. Tranel, but 
+in his initial report, he incorrectly stated that Mr. Pruis went to the 
+emergency room the day of the work accident, but then did not seek 
+any medical care for several months [after] . . . .  However, the 
+records demonstrate that after Mr. Pruis was seen at the emergency 
+room on the date of the injury he saw Dr. Fowler and underwent 
+numerous physical and occupational therapy sessions prior to 
+seeing [a neurologist].  Additionally, it is not clear from Dr. Tranel’s 
+report if he was aware of Mr. Pruis[’s] pre-injury level of functioning.  
+Mr. Pruis[’s] job required that he was capable of supervising a 
+workforce of up to 25 production workers and overseeing high-speed 
+production of plastic injection molding products.  Dr. Tranel does not 
+explain how some of the low test results fit with Mr. Pruis[’s] ability to 
+perform his job prior to the injury.  Additionally, Dr. Tranel initially 
+stated (although later recanted) that Dr. Fitzgerald’s treatment 
+
+ 
+10 
+actually made Mr. Pruis[’s] conditions worse.  This opinion is not 
+consistent with what Mr. Pruis[’s] own son . . . witnessed regarding 
+that treatment.  [He] credibly testified at the hearing . . . that the 
+treatment helped reduce the frequency of the glazing over and foggy 
+state that Mr. Pruis would otherwise experience on a frequent basis.  
+ 
+ 
+As for Pruis’s neck injury, the deputy found “the opinions of Dr. Taylor and 
+Dr. Harbach to be more persuasive than those of Dr. Broghammer.”  The deputy 
+reached that conclusion because Dr. Broghammer “did not provide any convincing 
+rationale to support” his opinion that “Pruis had multilevel cervical spondylosis with 
+multilevel central canal and neural foraminal stenosis due to preexisting changes 
+of the cervical spine” that were unrelated to the work injury. 
+ 
+MedPlast challenges these findings by the deputy, which were affirmed by 
+the commissioner, arguing (1) Dr. Patra “only examined Pruis on one single 
+occasion, over two years after the work injury” and “ignore[d] Pruis’s history” of 
+taking Prozac to treat his depression before the work injury; (2) Dr. Fitzgerald 
+lacked a complete “understanding of Pruis’s pre-injury vision condition”; (3) “Pruis 
+did not seek medical care for his alleged neck condition until November 2017, over 
+one year after the work injury”; and (4) MedPlast’s experts were more qualified 
+than Pruis’s, who failed to account for his preexisting conditions.   
+ 
+Distilled down, all of these arguments simply ask us to reweigh the 
+competing expert opinions.  “But such weighing is outside our mission.”  ConAgra 
+Foods, Inc. v. Moore, No. 21-0339, 2022 WL 1658707, at *3 (Iowa Ct. App. May 25, 
+2022).  It is instead “within the ‘peculiar province’ of the commission whether to 
+accept or reject an expert opinion.”  Id. (quoting Pease, 807 N.W.2d at 845); accord 
+Arndt v. City of Le Claire, 728 N.W.2d 389, 394 (Iowa 2007) (“Making a 
+determination as to whether evidence ‘trumps’ other evidence or whether one 
+
+ 
+11 
+piece of evidence is ‘qualitatively weaker’ than another piece of evidence is not an 
+assessment for the [reviewing court] to make . . . .”).  Neither the district court, nor 
+this court on appeal, is “at liberty to accept contradictory opinions of other experts 
+in order to reject the finding of the commissioner,” Pease, 807 N.W.2d at 850, 
+which is what MedPlast would have us do.  Because the agency’s findings are 
+supported by substantial evidence in the record, we affirm.    
+ 
+B. 
+Industrial Disability  
+ 
+Permanent total disability is determined by the employee’s industrial 
+disability.  Hill v. Fleetguard, Inc., 705 N.W.2d 665, 673 (Iowa 2005).  Industrial 
+disability is “based upon a loss in earning capacity, which rests on a comparison 
+of what the injured worker could earn before the injury as compared to what the 
+same person could earn after the injury.”  Id. (citation omitted).  Loss of earning 
+capacity is determined “by considering the employee’s functional impairment, age, 
+education, work experience, qualifications, ability to engage in similar employment, 
+and adaptability to retraining to the extent any of these factors affect the 
+employee’s prospects for relocation in the job market.”  Id.  The agency considered 
+these and other factors in finding that fifty-nine-year-old Pruis was “permanently 
+and totally disabled as a result of the August 11, 2016 work injury.”   
+ 
+MedPlast’s primary argument against this finding is that “Pruis has 
+conclusively and unequivocally demonstrated his ability to return to gainful 
+employment in the competitive labor market.”  MedPlast points out that after his 
+work injury, Pruis was employed at Home Depot for about two months and then at 
+Harbor Freight Tool for close to one year.  But the work he did for those 
+employers—things like attaching UPC labels and pricing information on 
+
+ 
+12 
+merchandise, stocking shelves, and setting displays—was a far cry from the skilled 
+labor he performed in plastic manufacturing for his entire work career.  Tellingly, 
+Pruis never returned to work with MedPlast before it closed the plant in 2018.  See 
+Clark v. Vicorp Rests., Inc., 696 N.W.2d 596, 606 (Iowa 2005) (recognizing the 
+“principle that an employer’s refusal to give any sort of work to a claimant after the 
+claimant suffers a work-related injury may justify an award of disability”). 
+ 
+As for the jobs Pruis was able to obtain, the deputy found he resigned from 
+Home Depot “because he knew he was going to be terminated due to poor 
+attendance.”  And at Harbor Freight, Pruis again quit instead of “being terminated 
+for poor performance” after being written up for problems with the cash register.  
+His son, who went to visit him at that job, testified that unlike Pruis’s past 
+supervisory employment where he was the “go-to guy,” his Harbor Freight co-
+workers “said they had to watch him very closely and follow him around.”  This fits 
+with Dr. Patra’s conclusions about Pruis’s employability, specifically that his 
+“cognitive functioning coupled with his underlying mood and anxiety issues make 
+it quite difficult for him to currently manage responsibilities in a dynamic and 
+competitive job environment.”  On top of those issues, Pruis was physically limited 
+in lifting; working with computers; and exposure to heights, loud machinery, or 
+heavy equipment. 
+ 
+These factors led Pruis’s vocational expert to conclude that he would be 
+“unable to perform any jobs in the labor market.”  The commission credited that 
+expert’s opinion over the opinions of MedPlast’s vocational experts, with the 
+deputy finding that no one from those experts’ agency “ever contacted Mr. Pruis, 
+spoke to him, or offered him any assistance in updating his resume or obtaining 
+
+ 
+13 
+employment.  Given Mr. Pruis[’s] difficulty with wor[d] finding and poor 
+performances in interviews, I find [that] failure to even speak with Mr. Pruis 
+disturbing.”  See Arndt, 728 N.W.2d at 395 (“The reviewing court only determines 
+whether substantial evidence supports a finding according to those witnesses 
+whom the commissioner believed.” (cleaned up)).  The deputy further noted that 
+Pruis contacted all of the jobs listed in MedPlast’s vocational reports and “was told 
+either they were not hiring or that he was under or over qualified.”    
+ 
+In the end, the commissioner affirmed the deputy’s finding that 
+ 
+Pruis has demonstrated that he is motivated to return to the 
+workforce.  He has applied for and even interviewed for numerous 
+jobs.  He was able to secure employment with two employers since 
+the accident.  Unfortunately, those periods of employment were 
+unsuccessful.  Even during the time when he was able to remain 
+employed, Mr. Pruis struggled to perform his job duties and would 
+come home at the end of his shift mentally and physically exhausted. 
+ 
+. . . Pruis has made a reasonable, but unsuccessful effort to 
+find steady employment.  Considering [Pruis’s] age, educational 
+background, employment history, inability to retrain, motivation to 
+return to the workforce, permanent impairment, and permanent 
+restrictions, and the other industrial disability factors set forth by the 
+Iowa Supreme Court, . . . he has proven he is permanently and totally 
+disabled as a result of the August 11, 2016 work injury. 
+ 
+ 
+“Because the agency considered the proper factors in assessing the 
+claimant’s industrial disability and because the agency’s findings with respect to 
+those factors are supported by substantial evidence,” Keystone Nursing Care Ctr. 
+v. Craddock, 705 N.W.2d 299, 307 (Iowa 2005), we affirm the commissioner’s 
+award of permanent total disability benefits to Pruis. 
+ 
+AFFIRMED. 
+ 
+ 
+ 
+ 

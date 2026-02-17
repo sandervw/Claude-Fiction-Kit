@@ -1,0 +1,905 @@
+Case Number: 23700364.01
+Case Title:  RYNER, REGINA V. TENNECO
+Doc Type:    Decision - Deputy
+Source:      Ryner Regina-23700364.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+REGINA RYNER, 
+No. 23700364.01 
+ 
+Claimant, 
+vs. 
+ 
+ 
+TENNECO, 
+ARBITRATION DECISION 
+ 
+Employer, 
+CORVEL, 
+Headnotes:  1803 
+ 
+Insurance Carrier, 
+ 
+Defendants. 
+I.  
+STATEMEN T OF TH E C AS E 
+Claimant Regina Ryner seeks workers’ compensation benefits from the 
+defendants, employer Tenneco and insurance carrier Corvel. The undersigned presided 
+over an arbitration hearing on May 28, 2024. Ryner participated personally and through 
+attorney Nicholas G. Pothitakis. The defendants participated by and through attorney 
+Michael S. Roling. 
+II.  
+ISSU ES  
+Under Iowa Administrative Code rule 876—4.19(3)(f), the parties jointly 
+submitted a hearing report defining the claims, defenses, and issues submitted to the 
+presiding deputy commissioner. The hearing report was approved and entered into the 
+record via an order because it is a correct representation of the disputed issues and 
+stipulations in this case. The parties identified the following disputed issues in the 
+hearing report: 
+1) Did Ryner sustain an injury arising out of and in the course of her 
+employment with Tenneco on August 6, 2021? 
+2) Is Ryner entitled to temporary total disability (TTD) or healing period (HP) 
+benefits from August 6, 2021, through October 18, 2021? 
+3) What is the nature and extent of permanent disability, if any, caused by the 
+alleged injury? 
+ELECTRONICALLY FILED     2025-Mar-21  14:19:51     DIVISION OF WORKERS' COMPENSATION
+
+RYNER V. TENNECO 
+Page 2 
+ 
+4) Is Ryner entitled to payment of medical expenses? 
+5) Are the defendants entitled to a credit against any award? 
+6) Is Ryner entitled to taxation of the costs against the defendants? 
+III .  
+STIP U LATION S 
+ 
+In the hearing report, the parties entered into the following stipulations: 
+1) An employer-employee relationship existed between Ryner and Tenneco at 
+the time of the alleged injury. 
+2) The commencement date for permanent partial disability (PPD) benefits, if 
+any are awarded, is October 18, 2021. 
+3) At the time of the stipulated injury: 
+a) Ryner’s gross earnings were $1,273.91 per week. 
+b) Ryner was single. 
+c) Ryner was entitled to one exemption. 
+4) Prior to hearing, the defendants paid to Ryner short-term disability benefits in 
+the amount of $2,577.23. 
+The parties’ stipulations in the hearing report are accepted and incorporated into 
+this arbitration decision. The parties are bound by their stipulations. This decision 
+contains no discussion of any factual or legal issues relative to the parties’ stipulations 
+except as necessary for clarity with respect to disputed factual and legal issues. 
+IV.  
+FIN D IN GS OF FAC T  
+The evidentiary record in this case consists of the following:  
+ Joint Exhibits JE1 through JE8; 
+ Claimant’s Exhibits 1 through 11;  
+ Defendants’ Exhibits A through J; and 
+ Hearing testimony by Ryner.  
+After careful consideration of the evidence and the parties’ post-hearing briefs, the 
+undersigned enters the following findings of fact.  
+Ryner was 66 years of age at the time of hearing. She is four feet, eleven inches 
+in height. Ryner smoked cigarettes for about 40 years. (Testimony) 
+
+RYNER V. TENNECO 
+Page 3 
+ 
+Prior to August 6, 2021, Ryner had one instance of back pain for which she 
+received care. She experienced hip pain that caused her to seek chiropractic care and 
+ultimately receive an injection that helped alleviate her symptoms. Ryner was not 
+diagnosed with osteoporosis prior to August 6, 2021. (Testimony) 
+Ryner graduated from Burlington High School, but did not participate in any 
+postsecondary education or training. Her first job after graduating high school was in 
+production at a satellite dish manufacturer. She left after three months to take a job at 
+the munitions manufacturing plant. Ryner worked for about four and one-half years in 
+assembly at the plant. (Testimony)  
+In 1990, Ryner left the munitions plant for a better job at Champion spark plugs. 
+She worked at the same plant from then until the date of hearing through various 
+changes in corporate ownership and rebrands. Ryner first started working on a gap-set 
+machine. Her next job was inspecting or auditing parts, duties she performed off and on 
+during her employment. (Testimony)  
+A .  
+I n j u r y.  
+On August 6, 2021, Ryner was working a 12-hour shift for Tenneco at the over-
+sort table. During a typical shift, Ryner lifted between 60 and 80 trays of spark plugs. 
+Lifting trays of spark plugs was part of Ryner’s assigned job duties that day. (Testimony) 
+At around 2:00 p.m., Ryner was in a standing position and leaned over a table to 
+pick up a tray of spark plugs at slightly higher than shoulder height. As soon as Ryner 
+picked up the tray, she felt a pop in the middle of her back, just below her shoulder 
+blades, and the onset of pain. She immediately set the tray down. This was the first time 
+in her life she had experienced this type of back pain. (Testimony) 
+Based on the undersigned’s firsthand observations of Ryner’s demeanor during 
+her hearing testimony, she was credible. Ryner credibly testified that she experienced 
+no symptoms in her back similar to those she experienced after lifting the tray of 
+sparkplugs at Tenneco on August 6, 2021. Reinforcing this conclusion is the lack of any 
+evidence to the contrary. The weight of the evidence establishes Ryner’s back was 
+asymptomatic until immediately after she felt a pop in it while lifting the tray of 
+sparkplugs during her shift at Tenneco. 
+The parties dispute the weight of the tray of spark plugs that caused Ryner to 
+experience a pop in her back and the onset of pain while lifting it. Initially, Tenneco took 
+the position that the tray weighed between five and seven pounds. Later, it changed its 
+position, asserting the tray weighed about 12 pounds.  
+On August 19, 2021, an agent of the defendants (JB) took a recorded statement 
+from Ryner (RR) that included the following interaction: 
+JB: 
+Okay, can you describe for me what you were doing and what body 
+part you hurt? 
+
+RYNER V. TENNECO 
+Page 4 
+ 
+RR: 
+I was picking something up and I reached over the table and 
+something popped in my back. 
+JB: 
+And what were you picking up? 
+RR: 
+Uh, a tray of spark plugs. 
+JB: 
+And how much do those approximately weigh? 
+RR: 
+Uh, I’m not sure. It depends on what kind of spark plugs there are. 
+JB: 
+Are they like really heavy or? 
+RR: 
+There’s like 120 in each tray and depending on how big or how 
+small the spark plugs are they can be anywhere from 10 to 20 
+pounds. 
+JB: 
+Each plug? 
+RR: 
+No, just the tray. 
+(Ex. JE7, p. 94) 
+In support of the defendants’ position, they submitted an affidavit executed by 
+Tabitha Rosauer, Ryner’s supervisor at the time of the injury. (Ex. H) In it, Rosauer 
+states, “Around the time of the alleged work incident, Regina Ryner was required to lift 
+spark plugs on a tray that weighed, on average, a total of 12.175 pounds. (Ex. H, p. 24) 
+Attached to the affidavit is Exhibit A, a picture of a tray of spark plugs on a scale that 
+reads 12.175 pounds. (Ex. H, pp. 25–26)  
+Rosauer does not state in the affidavit what type of spark plugs Ryner lifted when 
+she felt a pop and pain in her back or the type of spark plugs photographed on the 
+scale. (Ex. H, pp. 24–26) Nor does Rosauer state that she witnessed Ryner performing 
+work at the time of the injury. (Ex. H, pp. 24–26) The weight of the evidence establishes 
+that Rosauer was not present at the time of Ryner’s back injury and has no firsthand 
+knowledge of the type of spark plugs Ryner was lifting when she felt a pop and the 
+onset of pain in her back. 
+After learning that the defendants disagreed with her regarding the weight of the 
+tray, Ryner weighed a tray holding the type of spark plugs that she had lifted when she 
+felt the pop in her back followed by pain on August 6, 2021. The tray weighed 17.715 
+pounds. Ryner took a picture of the tray on a scale to document its weight. (Testimony; 
+Exs. 2–3)  
+The undersigned finds Ryner’s hearing testimony regarding the weight of the tray 
+of spark plugs she was lifting at the time of her back injury most persuasive. She 
+testified under oath, subject to cross-examination, on the question and her demeanor 
+indicated she was giving credible testimony. Further, she had firsthand knowledge of 
+
+RYNER V. TENNECO 
+Page 5 
+ 
+what type of spark plugs she lifted, was able to approximate the tray of spark plugs for 
+purposes of weighing it, and documented the weight with a photograph. In contrast, 
+there is an insufficient basis in the record from which to find Rosauer was present at the 
+time of Ryner’s injury, that she witnessed firsthand or had knowledge of the specific 
+type of spark plugs that were on the tray Ryner lifted at the time of injury. The weight of 
+the evidence establishes that Ryner lifted a tray of spark plugs weighing 17.715 pounds 
+at the time she felt a pop in her back followed by the onset of pain on August 6, 2021. 
+Because Ryner was in pain, she set down the tray of spark plugs and left her 
+work area to go to a supervisor’s office so she could report the injury. But no supervisor 
+was there. Ryner then went to the first aid office and no one was there, so Ryner laid 
+down to try to alleviate her pain. After laying down for about 20 minutes without anyone 
+returning to the office, Ryner got up and returned to the supervisor’s office where she 
+reported the injury and her supervisor completed a report. (Testimony) Ryner completed 
+an “Employee Accident Statement” form in which she stated she hurt her back in its 
+middle when “[l]ifting a full tray of plugs.” (Ex. JE5, p. 73–74) 
+B . 
+C a r e .  
+After leaving work that Friday, Ryner’s back tightened up and began spasming. 
+She laid down to rest it, but that provided minimal benefit. Ryner’s daughter-in-law is a 
+nurse, so she went to the store and got her over-the-counter medication to help alleviate 
+her symptoms. (Testimony) 
+Ryner’s symptoms made it difficult for her to sleep that weekend. She tried 
+telephoning Tenneco but got no response. She stayed in bed on Saturday and Sunday, 
+her scheduled days off, and did not hear back from Tenneco. (Testimony) 
+On Sunday night, Ryner’s son took her to the emergency room (ER), where 
+Loren Reed, M.D., examined her. (Ex. JE1, p. 5; Testimony) Dr. Reed noted Ryner 
+stated she “[w]as lifting something at work a couple days ago and had sudden onset 
+right thoracic back pain. No fall or injury.” (Ex. JE1, p. 5)  Ryner received an injection for 
+her pain, which allowed her to get some sleep that night. (Ex. JE1, p. 9; Testimony) 
+On Monday morning, Ryner called Tenneco human resources (HR) and left a 
+voicemail. Then she called the union office. The union got in touch with Tenneco HR on 
+her behalf. (Testimony) 
+The defendants arranged care with the occupational medicine clinic at Southeast 
+Iowa Regional Medical Center. (Ex. JE1, pp. 14) The medical records from the visit 
+include the following note: 
+[Ryner] reports that this started Friday, 8/6/21, she noticed it after lifting a 
+tray of spark plugs, which according to the employer would weigh 5–7 lbs. 
+She has developed severe pain in the thoracic spine, between the 
+shoulder blades. Radiates to the right, about to the axillary line. 
+
+RYNER V. TENNECO 
+Page 6 
+ 
+(Ex. JE1, p. 14) X-rays showed “an age-indeterminate anterior compression fracture at 
+the mid thoracic spine.” (Ex. JE1, pp. 12, 15) 
+Under “Discussion/Plan” in the medical records, Rhea Allen, M.D., opined: 
+Point tenderness corresponds to the x[-]ray finding of compression 
+fracture, mid-thoracic. She has multiple risk factors for osteoporosis:  PPI 
+use, age, smoking. I explained to her that the compression fracture would 
+be due to osteoporosis, that lifting 5–7 lbs would not be the cause. In my 
+opinion, to a reasonable degree of medical certainty, her compression 
+fracture is a personal medical issue, not related to her work. She was 
+unhappy about this. She wants a different pain medication, I explained 
+that she would need to get that from her PCP or treating provider. She 
+plans to go to Steindler Ortho. I noted on the status report that she is 
+unable to work today, will need to get return to work from PCP or treating 
+provider. 
+(Ex. JE1, p. 16) 
+Ryner’s daughter worked at Steindler Orthopedic Clinic and arranged an 
+appointment for her to see Andrew Rendoff, PA-C, on August 10, 2021. (Testimony; Ex. 
+JE-3, p. 28–29) Rendoff noted in the recitation of the history of Ryner’s complaints that 
+“x-rays were obtained showing evidence of an age-indeterminate compression fracture.” 
+(Ex. JE3, p. 28) He opined that Ryner “does appear to have an acute compression 
+fracture.” (Ex. JE3, p. 29) Rendoff ordered magnetic resonance imaging (MRI) to 
+confirm, took Ryner off work, and prescribed a thoracolumbar sacral orthosis (TLSO) 
+brace. (Ex. JE-3, pp. 29–30) 
+On August 16, 2021, Ryner requested medical leave from Tenneco due to her 
+back injury. (Ex. JE5, p. 73) She explained that she had sustained an injury while 
+working that necessitated a back brace. (Ex. JE5, p. 73) Ryner requested leave from 
+that date until October 5, 2021, with her return-to-work date identified as October 6, 
+2021. (Ex. JE5, p. 73) 
+Ryner underwent an MRI of the thoracic spine without contrast on August 20, 
+2021, that Paul Shogan, D.O., read to show a T8 compression fracture deformity with 
+loss of height measuring “approximately 50%” and minimal retropulsion. (Ex. JE1, p. 19) 
+Because of the findings, Dr. Shogan recommended another MRI, which Rendoff 
+discussed with her at a follow-up exam after which he planned to continue her brace of 
+eight more weeks. (Ex. JE3, pp. 33–35) On August 27, 2021, Ryner underwent another 
+thoracic MRI, with and without contrast, that Robert Nodstrom, M.D., interpreted to 
+show “a mild wedge compression deformity of T8 with mild marrow edema and 
+heterogeneity with some enhancement, likely reflecting a subacute compression 
+fracture.” (Ex. JE1, p. 21 (original in all capital letters))  
+On September 7, 2021, Ryner followed up at Steindler. (Ex. JE3, p. 37) She told 
+Rendoff that her pain was “dramatically better with the TLSO brace.” (Ex. JE3, p. 37) 
+
+RYNER V. TENNECO 
+Page 7 
+ 
+Ryner denied numbness, tingling to the extremities, and bowel or bladder dysfunction. 
+(Ex. JE3, p. 37) Rendoff assigned her a two-pound lifting restriction, with plans to 
+gradually increase the weight she was lifting. (Ex. JE3, p. 38) 
+Because of Ryner’s restrictions, her physical activity was limited. (Ex. JE3, p. 40) 
+Rendoff prescribed physical therapy for her hip and back. (Ex. JE3, p. 40) They agreed 
+to push back her follow-up appointment until after she completed physical therapy. (Ex. 
+JE3, p. 40) However, because of how her injury occurred and the defendants’ denial of 
+her workers’ compensation claim, she had trouble getting her personal health insurance 
+carrier to authorize physical therapy. (Ex. JE3, p. 45) 
+Ryner returned to Steindler on October 5, 2021, to see Rendoff. (Ex. JE3, pp. 
+41–43) Ryner complained of occasional upper back stiffness but no symptoms 
+suggesting a nerve issue. (Ex. JE3, p. 41) Rendoff advised her to advance out of the 
+TLSO brace and assigned her a 10-pound lifting restriction. (Ex. JE3, p. 43) He 
+released Ryner to return to work in accordance with her work restrictions on October 11, 
+2021. (Ex. JE3, pp. 42, 44) 
+During Ryner’s appointment with Rendoff on November 2, 2021, she shared her 
+ongoing issues getting physical therapy authorized and how they had limited her to 
+home therapy, which she was working on. (Ex. JE3, p. 45) Ryner had been able to get 
+back to working 12-hour shifts for Tenneco. (Ex. JE3, p. 45) She shared that her 
+symptoms were better with walking, worse with prolonged sitting, and complained of a 
+pressure-type sensation in her back. (Ex. JE3, p. 45) Rendoff advised Ryner she should 
+start physical therapy as soon as possible and continued her 10-pound lifting restriction. 
+(Ex. JE3, pp. 45, 47) 
+Claimant’s counsel contacted Rendoff to request his opinion on whether Ryner’s 
+injury arose out of and in the course of her employment with Tenneco. (Ex. 1, p. 1; JE4, 
+p. 60) He based his opinion on his understanding that “she was performing lifting 
+activities at work when she felt a pop in her back and felt severe pain.” (Ex. 1, p. 1) 
+Rendoff opined: 
+Although there was some discussion from another physician concerning 
+osteoporosis, I do not believe that would be the direct cause of her 
+condition. The MRI showed an acute T-8 compression fracture. If she truly 
+does have osteoporosis, she may be more susceptible to this type of 
+injury, but it is nonetheless a work-related injury from the incident as 
+described by her. 
+(Ex. 1, p. 1) 
+Ryner underwent her initial assessment with Rock Valley Physical Therapy on 
+November 17, 2021. (Ex. JE4, p. 60) She shared that her pain was improving, but her 
+back was nonetheless weak and stiff or tight. (Ex. JE4, p. 60) Ryner felt scared to do 
+anything physically because she knew her back was weak due to the inactivity following 
+
+RYNER V. TENNECO 
+Page 8 
+ 
+the work injury and the time it took to get physical therapy approved. (Ex. JE4, p. 60) 
+Chris Schroeder, PT, developed a two-month care plan for Ryner. (Ex. JE4, pp. 60–62) 
+Ryner next saw Rendoff on December 1, 2021. (Ex. JE3, p. 48) Despite 
+complaints of pain and cramping in her back around the area of injury, Ryner shared 
+that she was doing better overall. (Ex. JE3, p. 48) Rendoff directed Ryner to continue 
+physical therapy. (Ex. JE3, p. 49) Due to her symptoms that day, he ordered a muscle 
+relaxant and continued anti-inflammatories. (Ex. JE3, p. 49) Rendoff also continued her 
+10-pound lifting restriction. (Ex. JE3, p. 51) 
+On January 11, 2022, Ryner reported to Rendoff gradual improvement of her 
+symptoms despite some soreness around the periscapular region. (Ex. JE3, p. 52) She 
+felt comfortable increasing her lifting restriction to 15 pounds. (Ex. JE3, p. 52) Rendoff 
+continued physical therapy, increased her lifting restriction as discussed, and imposed 
+the limitation of no lifting overhead. (Ex. JE3, pp. 53, 55) 
+Ryner had her last physical therapy session on January 21, 2022. (Ex. JE4, p. 
+70) She reported being able to bid out of her typical job and tolerate other work stations 
+without pain or difficulty. (Ex. JE4, p. 70) Ryner was working six days a week, between 
+8 and 12 hours each shift. (Ex. JE4, p. 70) Michael Davis, PTA, noted Ryner’s gains 
+through her work in physical therapy and her home exercise program and released her 
+from physical therapy. (Ex. JE4, pp. 70–72) 
+Ryner returned for another appointment with Rendoff on March 2, 2022. (Ex. 
+JE3, p. 56) She reported she had been diagnosed with osteoporosis and started on 
+Prolia. (Ex. JE3, p. 56) Ryner reported the only time she felt achiness was in cold 
+weather and was back to working six 12-hour shifts per week. (Ex. JE3, p. 56) She told 
+Rendoff she felt comfortable returning to work without any accommodations. (Ex. JE3, 
+p. 56) 
+Rendoff opined Ryner was “doing very well.” (Ex. JE3, p. 57) He found that 
+Ryner had reached MMI, released her from care, and released her to return to work 
+without restriction. (Ex. JE3, pp. 57, 59) Rendoff encouraged her to return to full-duty 
+work. (Ex. JE3, p. 57) 
+C . 
+O p i n i o n s  b y  N o n - Tr e a t i ng  E x p e r t s .  
+1 .  
+I M E  b y  S u n i l  B a n s a l ,  D . O .  
+Claimant’s counsel arranged for Ryner to undergo an IME by Dr. Bansal on 
+August 12, 2022. (Ex. 3, p. 5) As part of the IME, Dr. Bansal reviewed medical records 
+relating to care Ryner received for her fractured vertebrae, performed an in-person 
+examination, obtained a history from Ryner, and questioned her about her status at the 
+time of the IME. (Ex. 3, pp. 5–18) Dr. Bansal then used this information to answer 
+questions from claimant’s counsel. (Ex. 3, pp. 17–18) His IME report is dated November 
+4, 2022. (Ex. 3, p. 18) 
+
+RYNER V. TENNECO 
+Page 9 
+ 
+On examination, Dr. Bansal noted tenderness to palpation over the mid-to-lower 
+thoracic back. (Ex. 3, p. 16) He diagnosed her with a T8 compression fracture of 
+approximately 50% vertebral body height loss.” (Ex. 1, p. 17) On the question of 
+permanent impairment, Dr. Bansal used the Fifth Edition of the American Medical 
+Association (AMA) Guides to the Evaluation of Permanent Impairment (Guides) to 
+opine: 
+Per Table 15-4, she meets the criteria for a Thoracic Category III 
+impairment as she has between a 25–50% compression fracture of a 
+vertebral body. As she is on the higher end, she is assigned an 18% 
+whole person impairment. 
+(Ex. 3, p. 18) 
+Dr. Bansal further opined Ryner needed no additional care for her injury. (Ex. 1, 
+p. 18) He assigned her work restrictions of no lifting greater than 25 pounds, no frequent 
+bending or twisting, and no prolonged sitting greater than one hour at a time. (Ex. 1, p. 
+18) 
+Dr. Bansal issued an invoice for the IME and report. (Ex. 8, p. 34) The invoice 
+contained a line item for the examination in the amount of $541.00 and one for the 
+report in the amount of $2,455.00. (Ex. 8, p. 34) The total cost Dr. Bansal charged for 
+his IME is $2,996.00. (Ex. 8, p. 34) 
+2 .  
+I M E  b y  W i l l i a m  B o u l d e n ,  M . D .  
+Defense counsel arranged for Dr. Boulden to perform an IME of Ryner. (Ex. E) 
+Dr. Boulden performed a records review, in-person examination, and discussed Ryner’s 
+history with her. (Ex. E, pp. 17–21) He then offered his opinion on causation and 
+permanent impairment. (Ex. E, pp. 20–21) 
+Dr. Boulden opined that he does not believe the mechanism of injury described 
+by Ryner caused the injury because of her osteoporosis, history of smoking, and 
+chronic use of protein pump inhibitors. (Ex. E, p. 21) According to Dr. Boulden, “The 
+patient definitely, by testing, had osteoporosis; therefore the fracture itself was caused 
+by the fact of her bone being osteoporotic. The mechanism of injury she has described I 
+do not think is significant enough.” (Ex. E, p. 21) He further asserted, “I think at best it 
+was an aggravation of a pre-existing pathological process. In other words, the 
+compression fracture could have been caused by anything with normal daily living 
+activities because of the significant osteoporosis she has.” (Ex. C, p. 21) 
+On the question of permanent impairment, Dr. Boulden disagreed with Dr. 
+Bansal’s opinion: 
+The patient has also seen Dr. Bansal who stated that she had an acute 
+fracture since she had more than a 50 percent compression fracture, so 
+he rated her out with 18 percent for this acute fracture. It is interesting that 
+
+RYNER V. TENNECO 
+Page 10 
+ 
+the radiologist never called this an acute fracture and they have never 
+mentioned that this was a greater than 50 percent compression fracture. 
+In their records, they stated that this was mild compression, which I would 
+agree with totally. 
+(Ex. C, p. 19) Because of Dr. Boulden’s belief that the fracture was less than 50 
+percent, he concluded that Ryner’s impairment rating “should have been more of an 
+eight (8) percent rating of the fracture.” (Ex. C, p. 20) There is no mention of what 
+edition of the Guides Dr. Boulden used in rendering his permanent impairment rating, so 
+there is an insufficient basis in the record from which to conclude it is more likely than 
+not he used the Fifth Edition. 
+Defense counsel followed up with Dr. Boulden, providing him with Rosauer’s 
+affidavit averring the “tray weighed an average of 12.175 pounds.” (Ex. C, p. 22) Dr. 
+Boulden opined this information did not change his opinions. (Ex. C, p. 22) There is no 
+indication Dr. Boulden considered the information Ryner provided that establishes the 
+tray she lifted at work when she felt a pop and the sudden onset of pain weighed 17.715 
+pounds. (Ex. C) 
+3 .  
+R e c o r d s  R e v i e w  b y  K e l s e y  M o r a n ,  M . D .  
+Defense counsel arranged for a records review by Dr. Moran for the purpose of a 
+causation opinion on whether Ryner’s description of the work incident would cause the 
+compression fracture shown on the MRI. (Ex. B, pp. 2–3) Defense counsel provided 
+some background information to Dr. Moran. (Ex. B, pp. 2–3) This included, but was not 
+limited to, the statement that Tenneco estimates the tray Ryner was lifting when she felt 
+the pop in her back followed by the onset of pain weighed between five and seven 
+pounds while Ryner estimated it weighed between 10 and 20 pounds. (Ex. B, p. 3) 
+In a letter dated March 7, 2024, Dr. Moran provided her opinion on causation. 
+(Ex. C, pp. 11–14) Dr. Moran stated that “the weight of the tray between 8 and 20 lbs. is 
+likely not significant to the question as to the cause of the compression fracture.” (Ex. C, 
+p. 11) Further, Dr. Moran explained that the MRIs showed no underlying tumor or 
+infection, which meant the question was whether Ryner sustained a “benign . . . 
+traumatic or osteoporotic compression fracture.” (Ex. C, p. 11) Dr. Moran further 
+asserted (sic): 
+Benign (not due to weakened bone from tumor or infection) compression 
+fractures with this level of height loss and marrow swelling are almost 
+always from: 
+1. Significant trauma with axial loading or forced flexion injury or, 
+2. Severe osteoporosis. 
+(Ex. C, p. 12)  
+
+RYNER V. TENNECO 
+Page 11 
+ 
+Dr. Moran expanded on her either-or framing of the question: 
+The type of significant trauma required for the axial loading or forced 
+flexion injuries require very significant trauma such as a fall onto the 
+buttocks or a motor vehicle collision exerting a large amount of force along 
+the length of the spine. The other potential cause for the compression 
+fracture seen in this situation is severe osteoporosis which can also cause 
+fractures such as this from general weakening of the bones from mineral 
+loss.  
+(Ex. C, p. 12) 
+Dr. Moran concluded: 
+[T]he mechanism of injury she has described (lifting and twisting with a 
+tray of plugs) more likely than not did not cause the fracture. The 
+underlying severe osteoporosis, as Dr. Allen had mentioned, is a very 
+important factor in development of compression fractures. The patient 
+definitely, by testing, had severe osteoporosis; therefore the fracture itself 
+was caused by the fact of her bone being osteoporotic. The mechanism of 
+injury she has described with lifting the tray is not normally significant 
+enough to cause this sort of fracture, and as stated previously[,] even if 
+the patient’s underlying osteoporosis was severe enough for this low level 
+force to cause a spinal fracture, she would be at risk of fractures from 
+myriad other low force activities of daily living so isolating this as the 
+cause would be very difficult. 
+(Ex. C, p. 13) 
+V. 
+C ON C LU SION S OF LAW. 
+In 2017, the Iowa legislature amended the Iowa Workers’ Compensation Act. 
+See 2017 Iowa Acts, ch. 23. The 2017 amendments took effect on July 1, 2017. Id. at § 
+24(1); see also Iowa Code § 3.7(1). Because the alleged injury at issue in this case 
+occurred after July 1, 2017, the Iowa Workers’ Compensation Act, as amended in 2017, 
+applies. See Stiles v. Annett Holdings, Inc., Iowa Workers’ Comp. Comm’r No. 5064673, 
+2020 WL 6037539 *2 (App., Oct. 2, 2020). The alleged injury in this case took place on 
+August 6, 2021, so that year’s edition of the Iowa Code governs. 
+A .  
+C a u s a t i o n .  
+The Iowa Workers’ Compensation Act “covers any and all personal injuries” 
+relating to an employee’s work. Hanson v. Dickinson, 188 Iowa 728, 176 N.W. 823, 824 
+(1920). Under section 85.3(1), an employer covered by the Act must “provide, secure, 
+and pay compensation according to the provisions of this chapter for any and all 
+personal injuries sustained by an employee arising out of and in the course of the 
+employment.” The legislature has codified a partial definition of “personal injury” in 
+
+RYNER V. TENNECO 
+Page 12 
+ 
+section 85.61(4) that is not applicable in the current case. Rather, the expanded 
+definition of “personal injury” as articulated by the Iowa Supreme Court in its seminal 
+Almquist v. Shenandoah Nurseries, Inc. governs: 
+“an injury to the body, the impairment of health, or a disease, not excluded 
+by the act, which comes about, not through the natural building up and 
+tearing down of the human body, but because of a traumatic or other hurt 
+or damage to the health or body of an employee.... The injury to the 
+human body here contemplated must be something, whether an accident 
+or not, that acts extraneously to the natural processes of nature, and 
+thereby impairs the health, overcomes, injures, interrupts, or destroys 
+some function of the body, or otherwise damages or injures a part or all of 
+the body.”  
+Dunlavey v. Econ. Fire & Cas. Co., 526 N.W.2d 845, 850–51 (Iowa 1995) (quoting 
+Almquist, 218 Iowa 724, 732, 254 N.W. 35, 39 (1934)) (citations omitted in Dunlavey). 
+“In order for an injury to be compensable in Iowa, there must be ‘a connection 
+between the injury and the work.’” Lakeside Casino v. Blue, 743 N.W.2d 169, 173 (Iowa 
+2007) (quoting Meyer v. IBP, Inc., 710 N.W.2d 213, 221 (Iowa 2006)). To recover, a 
+claimant must prove by a preponderance of the evidence that the injury for which the 
+claimant is seeking workers’ compensation arose: 
+1) Out of the claimant’s employment; and 
+ 
+2) In the course of the claimant’s employment. St. Luke’s Hosp. v. Gray, 604 
+N.W.2d 646, 652 (Iowa 2000) (citing Quaker Oats Co. v. Ciha, 552 N.W.2d 
+143, 150 (Iowa 1996)); see also Miedema v. Dial Corp., 551 N.W.2d 309, 311 
+(Iowa 1996).  
+“‘The two tests are separate and distinct.’” Blue, 743 N.W.2d at 174 (quoting 
+Miedema, 551 N.W.2d at 311). Under Iowa law, “‘both must be satisfied in order for an 
+injury to be deemed compensable.’” Id. (quoting Miedema, 551 N.W.2d at 311). In this 
+case, the parties dispute only whether the injury arose out of employment. 
+“An injury ‘arises out of’ employment if there is a causal connection between the 
+employment and the injury.” Gray, 604 N.W.2d at 652 (citing Bailey v. Batchelder, 576 
+N.W.2d 334, 338 (Iowa 1998)). “‘In other words, the injury must not have coincidentally 
+occurred while at work, but must in some way be caused by or related to the working 
+environment or the conditions of [the] employment.’” Blue, 743 N.W.2d at 174. (quoting 
+Miedema, 551 N.W.2d at 311).  
+Taking the words themselves, one is first struck by the fact that in the 
+“arising” phrase the function of the employment is passive while in the 
+“caused by” phrase it is active. When one speaks of an event “arising out 
+of employment,” the initiative, the moving force, is something other than 
+the employment; the employment is thought of more as a condition out of 
+
+RYNER V. TENNECO 
+Page 13 
+ 
+which the event arises than as the force producing the event in affirmative 
+fashion. 
+Meyer v. IBP, Inc., 710 N.W.2d 213, 223 (Iowa 2006) (quoting 1 Arthur Larson & Lex K. 
+Larson, Larson’s Workers’ Compensation Law (2005) § 3.06, at 3-7 to 3-8 (emphasis in 
+original)). 
+“[S]ubject to ‘limited exceptions,’” the Iowa Supreme Court has “‘abandoned’ or 
+‘discarded’ the increased-risk test in favor of the actual-risk test” when determining 
+whether an employee’s injury arises out of employment under the Iowa Workers’ 
+Compensation Act. Bluml v. Dee Jay’s Inc., 920 N.W.2d 82, 85–86 (Iowa 2018) (quoting 
+Blue, 743 N.W.2d at 177, n.7). The actual risk rule holds: 
+If the nature of the employment exposes the employee to the risk of such 
+an injury, the employee suffers an accidental injury arising out of and 
+during the course of the employment. And it makes no difference that the 
+risk was common to the general public on the day of injury. 
+Blue, 743 N.W.2d at 174 (quoting Hanson v. Reichelt, 452 N.W.2d 164, 168 (Iowa 
+1990)).  
+Relatedly, the Iowa Supreme Court has long held the type of movement is not 
+dispositive on the question of whether an injury arose out of employment under the Iowa 
+Workers’ Compensation Act: 
+If in doing his work the employee, in a usual or unusual manner, lifts an 
+object, stoops, or takes a step, or makes any movement of his limbs or 
+body, and such exertion unexpectedly and unintentionally results in an 
+injurious strain upon his nerves, muscles, heart, or any other organ, so as 
+to incapacitate him for work, the event or result is an injury as 
+contemplated in the act. 
+Almquist, 218 Iowa 724, 254 N.W. at 41. 
+Thus, in accordance with longstanding caselaw precedent by which the agency is 
+bound, the inquiry under the actual risk rule focuses on the circumstances surrounding 
+the injurious movement, not the movement itself. The reason for this is commonsense. 
+The human body can only move in so many ways, so the type of movement, standing 
+alone, cannot dictate whether the injury that results is within the purview of the statute. 
+Otherwise, the scope of our workers’ compensation scheme would be limited, which 
+would run contrary to the precedent underpinning the Iowa Supreme Court’s adoption of 
+the actual risk rule: 
+We think the actual risk rule is the better rule and more in line with how we 
+construe our Workers' Compensation Act. We construe the Act liberally in 
+favor of the employee; we resolve all doubts in favor of the employee. 
+
+RYNER V. TENNECO 
+Page 14 
+ 
+Hanson, 452 N.W.2d at 168 (citing Teel v. McCord, 394 N.W.2d 405, 406–07 (Iowa 
+1986)).  
+Dr. Allen, Dr. Boulden, and Dr. Moran suggest that because Ryner’s 
+osteoporosis placed her at a greater risk of sustaining a fractured vertebrae, activities of 
+daily living outside of work could have caused the fracture. But this is unavailing for two 
+reasons. First, as discussed above, the actual risk rule governs in Iowa under binding 
+Iowa Supreme Court precedent. Second, as found above, the weight of the evidence 
+establishes Ryner’s back was asymptomatic until she attempted to lift the tray of 
+sparkplugs while working at Tenneco. 
+An expert opinion on causation may not be considered in isolation; rather, it must 
+be considered along with all other evidence bearing upon the causal connection 
+between the injury and the disability. See Schujter v. Algona Manor Care Ctr., 780 
+N.W.2d 549, 560 (Iowa 2010); see also Nellis v. Quealy, 237 Iowa 507, 512, 21 N.W. 
+584, 586 (Iowa 1946). Moreover, the Iowa Supreme Court has long held that an injured 
+worker’s credible testimony regarding the onset of symptoms “must be given 
+considerable weight on the issue of causal connection.” Hinrichs v. Davenport 
+Locomotive Works, 203 Iowa 1395, 214 N.W. 585, 586 (Iowa 1927). In the current case, 
+while it is possible that Ryner could have fractured her vertebrae while performing an 
+activity of daily living outside of work, it is improbable because the evidence establishes 
+she experienced no symptoms relating to her fractured vertebrae until after she felt a 
+pop in her back while attempting to lift the tray of sparkplugs at work. The 
+persuasiveness of the opinions by Dr. Allen, Dr. Moran, and Dr. Boulden is undermined 
+by the fact that they give insufficient weight to the undisputed facts regarding the onset 
+of Ryner’s symptoms. As a result, their expert opinions are not “consistent with all the 
+testimony and of the greater credibility” in this case. Id. 
+Further undermining the credibility of the opinions rendered by Dr. Allen, Dr. 
+Moran, and Dr. Boulden is their approach to causation as a binary question. In their 
+formulation, the question is framed as an either-or proposition: Either Ryner’s 
+osteoporosis or lifting the tray of spark plugs caused the injury. This is an incorrect 
+proposition under Iowa workers’ compensation law. 
+An injured worker is not entitled to workers’ compensation “for the results of a 
+pre-existing injury or disease,” but “the mere existence thereof at the time of a 
+subsequent injury is not a defense.” Nicks v. Davenport Produce Co., 254 Iowa 130, 
+135, 115 N.W.2d 812, 815 (Iowa 1962). In this case, Ryner is not seeking workers’ 
+compensation for her osteoporosis; she is seeking benefits for a fractured vertebrae. 
+And her osteoporosis is not a defense to her claim. 
+“For workers' compensation purposes a cause is proximate if it is a cause; it 
+need not be the only cause.” Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 420 (Iowa 
+1994). Thus, if a personal health condition such as osteoporosis increases a worker’s 
+susceptibility to injury and the injury arises out of and in the course of the workers’ 
+employment, it is compensable under the Iowa Workers’ Compensation Act. See St. 
+Luke’s Hosp. v. Gray, 604 N.W.2d 646, 652 (Iowa 2000); see also Ziegler v. U.S. 
+
+RYNER V. TENNECO 
+Page 15 
+ 
+Gypsum Co., 252 Iowa 613, 620, 106 N.W.2d 591, 595 (Iowa 1960); Hanson v. 
+Dickinson, 176 N.W. 823, 824–25 (Iowa 1920). “If the employment of claimant resulted 
+in a personal injury aggravating her already impaired physical condition, she is entitled 
+to compensation to the extent of that injury.” Nicks, 254 Iowa at 135,115 N.W.2d at 815. 
+Here, Rendoff is a physician’s assistant and Ryner’s primary care provider for the 
+fractured vertebrae. Rendoff’s opinion on causation stands against those of M.D.’s. 
+Rendoff’s opinion is nonetheless more persuasive than those of Dr. Allen, Dr. Boulden, 
+and Dr. Moran when considered against the competent evidence in the record and 
+governing precedent on causation in workers’ compensation claims under Iowa law. A 
+doctor’s credentials do not trump the facts underlying the opinion or Iowa law. 
+Only Rendoff considered how Ryner’s osteoporosis and the work activity of lifting 
+the tray of spark plugs were both causative factors of the compression fracture to her 
+vertebrae. Because Rendoff’s opinion is based on a more accurate understanding of the 
+facts and application of the causation standard in workers’ compensation cases under 
+Iowa law, it is adopted. Ryner has met her burden of proof. The weight of the evidence 
+shows that the act of lifting the tray of spark plugs while performing work duties was a 
+significant factor in causing Ryner’s fractured vertebrae, need for care, and permanent 
+impairment. 
+B . 
+H P  B e n e f i t s .  
+In section 4 of the Hearing Report, the parties stipulated that if the defendants 
+are liable for the work injury, Ryner is entitled to HP benefits from August 6, 2021, 
+through October 18, 2021. As concluded above, Ryner met her burden of proof on 
+causation and as discussed below, that injury resulted in permanent impairment. The 
+parties also stipulated in section 9(b) of the Hearing Report that the defendants are 
+entitled to a credit of $2,577.23 under Iowa Code section 85.38(2). Therefore, Ryner is 
+entitled to HP benefits from August 6, 2021, through October 18, 2021, minus the 
+stipulated credit. 
+C . 
+P e r m a n e n cy  B e n e f i t s .  
+Over a century ago, the Iowa legislature created our workers’ compensation 
+system. See 1913 Iowa Acts ch. 147; see also Baker v. Bridgestone/Firestone, 872 
+N.W.2d 672, 676–80 (Iowa 2015) (discussing the history of workers’ compensation and 
+the policy considerations behind it). Workers’ compensation is “a creature of statute.” 
+Darrow v. Quaker Oats Co., 570 N.W.2d 649, 652 (Iowa 1997). This means an injured 
+employee’s “right to workers' compensation is purely statutory.” Downs v. A & H Const., 
+Ltd., 481 N.W.2d 520, 527 (Iowa 1992).  And “it is the legislature’s prerogative to fix the 
+conditions under which the act’s benefits may be obtained.” Darrow, 570 N.W.2d at 652. 
+At its inception as now, the Act “provides for work[ers’] compensation for injuries 
+received in the course of employment” and “creates a special tribunal,” the 
+commissioner, with exclusive jurisdiction “to hear and dispose of such claims.” Des 
+Moines Union Ry. Co. v. Funk, 164 N.W. 648, 649–650 (Iowa 1917); see also Tweeten 
+
+RYNER V. TENNECO 
+Page 16 
+ 
+v. Tweeten, 999 N.W.2d 270, 275 (Iowa 2023). The legislature codified a mandate that 
+in cases before the commissioner, “Process and procedure under this act shall be as 
+summary as reasonably may be.” 1913 Iowa Acts ch. 147, § 25.  
+The Iowa Supreme Court recognized early in its workers’ compensation 
+jurisprudence that “proceedings under the Work[ers’] Compensation Act . . . are 
+intended to be simple and informal.” Fischer v. W.F. Priebe & Co., 178 Iowa 512, 160 
+N.W. 48, 50 (1916). And in its seminal Flint v. City of Eldon holding, the court 
+elaborated: 
+The purpose, intent, and scheme of workmen's compensation legislation is 
+well understood, and its historical significance has been frequently 
+expressed in decisions. 
+The fundamental reason for the enactment of this legislation is to avoid 
+litigation, lessen the expense incident thereto, minimize appeals, and 
+afford an efficient and speedy tribunal to determine and award 
+compensation under the terms of this act. 
+191 Iowa 845, 183 N.W. 344, 345 (1921). The court then quoted from a New York case 
+for the following proposition, which the court has reiterated over the subsequent 
+decades: 
+It was the purpose of the Legislature to create a tribunal to do rough 
+justice--speedy, summary, informal, untechnical. With this scheme of the 
+Legislature we must not interfere; for, if we trench in the slightest degree 
+upon the prerogatives of the Commission, one encroachment will breed 
+another, until finally simplicity will give way to complexity, and informality to 
+technicality. 
+Id. at 345 (quoting Rhyner v. Hueber Bldg. Co., 171 App. Div. 56, 156 N. Y. Supp. 903); 
+see also Cross v. Hermanson Bros., 235 Iowa 739, 742, 16 N.W.2d 616, 618 (1944) 
+(quoting Flint, 183 N.W. at 345); Henderson v. Iles, 248 Iowa 847, 852, 82 N.W.2d 731, 
+734 (Iowa 1957); Nicks v. Davenport Produce Co., 254 Iowa 130, 134, 115 N.W.2d 812, 
+814–15 (Iowa 1962) (quoting Cross, 235 Iowa at 742, 16 N.W.2d at 618); Second Injury 
+Fund v. Hodgins, 461 N.W.2d 454, 456 (Iowa 1990) (quoting Nicks, 254 Iowa at 134, 
+115 N.W.2d at 814–15); Zomer, 666 N.W.2d at 133 (quoting Flint, 183 N.W. at 345); 
+Marovec v. PMX Indus., 693 N.W.2d 779, 787 (Iowa 2005) (quoting Zomer, 666 N.W.2d 
+at 133).  
+Under Flint and its progeny, “the commissioner has the responsibility for deciding 
+cases in an expeditious and timely manner.” Marovec, 693 N.W.2d at 787. The rule that 
+simplicity prevails over complexity in workers’ compensation cases has governed 
+workers’ compensation procedure for over 100 years. After enactment of the Iowa 
+Administrative Procedure Act, Iowa Code chapter 17A, and other legislative changes, 
+the statutory mandate of speediness remains expressly in effect today.  
+
+RYNER V. TENNECO 
+Page 17 
+ 
+Iowa Code section 86.18(1) provides, “Evidence, process and procedure in 
+contested case proceedings or appeal proceedings within the agency under this 
+subchapter and chapters 85 and 85A shall be as summary as practicable consistent 
+with the requirements of chapter 17A.” And section 86.14(1) states, “In an original 
+proceeding, all matters relevant to a dispute are subject to inquiry.” As the Marovec 
+court observed, the language the court used in Flint is as true today as it was in 1921. 
+693 N.W.2d at 787. 
+In cases stemming from a work injury before July 1, 2017, permanent partial 
+disability to an unscheduled body party caused by a work injury was “compensated by 
+the industrial disability method which takes into account the loss of earning capacity.” Id. 
+(citing Mortimer, 502 N.W.2d at 14–15); see also Mannes v. Fleetguard, Inc., 770 
+N.W.2d 826, 830 (Iowa 2009) (quoting Oscar Mayer Foods Corp. v. Tasler, 483 N.W.2d 
+824, 831 (Iowa 1992)). An industrial disability analysis was used regardless of whether 
+the injured employee returned to work with the defendant-employer or the level of 
+earnings at the time of hearing relative to the date of injury. See Mannes v. Fleetguard, 
+Inc., 770 N.W.2d 826, 830 (Iowa 2009) (quoting Oscar Mayer Foods Corp. v. Tasler, 
+483 N.W.2d 824, 831 (Iowa 1992)); see also Quaker Oats Co. v. Ciha, 552 N.W.2d 143, 
+158 (Iowa 1996); Arrow-Acme Corp. v. Bellamy, 500 N.W.2d 92, 95 (Iowa App. 1993). 
+With the 2017 amendments, the legislature carved out an exception to this general rule 
+that created a speedy resolution to disputes regarding the extent of permanent disability 
+by creating a new mandatory bifurcated litigation process on the issue of permanent 
+disability under certain circumstances. See 2017 Iowa Acts ch. 23, § 8 (now codified at 
+Iowa Code § 85.34(2)(v)). This 2017 statutory change is the first instance of the 
+legislature rolling back the Flint rule by elongating the litigation process for ultimate 
+disposition of a workers’ compensation case before the agency. 
+The statute now articulates an exception to when the agency may make a 
+determination on an injured employee’s entitlement to industrial disability benefits and 
+the circumstances triggering a mandatory bifurcated litigation process as follows: 
+If an employee who is eligible for compensation under this paragraph 
+returns to work or is offered work for which the employee receives or 
+would receive the same or greater salary, wages, or earnings than the 
+employee received at the time of the injury, the employee shall be 
+compensated based only upon the employee’s functional impairment 
+resulting from the injury, and not in relation to the employee’s earning 
+capacity. Notwithstanding section 85.26, subsection 2, if an employee who 
+is eligible for compensation under this paragraph returns to work with the 
+same employer and is compensated based only upon the employee's 
+functional impairment resulting from the injury as provided in this 
+paragraph and is terminated from employment by that employer, the 
+award or agreement for settlement for benefits under this chapter shall be 
+reviewed upon commencement of reopening proceedings by the 
+employee for a determination of any reduction in the employee's earning 
+capacity caused by the employee's permanent partial disability. 
+
+RYNER V. TENNECO 
+Page 18 
+ 
+Iowa Code § 85.34(2)(v).  
+Thus, the 2017 amendments changed the statute so that its text expressly 
+incorporates the agency’s review-reopening process to create a mandatory bifurcated 
+litigation process when a criterion identified in the text is met. See, Dungan v. Den 
+Hartog Indus., Iowa Workers’ Comp. Comm’r No. 1657969.01, 2023 WL 363118, *15–
+*16 (Arb. Sep. 20, 2022), aff’d 2023 WL 363118 (App. Jan. 13, 2023); see also Den 
+Hartog Indus. v. Dungan, No. 23-1402, 2025 WL 52449 (Iowa App., Jan. 9, 2025) 
+(Table). Under Iowa Code section 86.14(2), review-reopening is a process by which a 
+determination of the claimant’s entitlement to compensation is revisited due to a change 
+in condition. Green v. N. Cent. Iowa Reg’l Solid Waste Auth., 989 N.W.2d 144, 146–47 
+(Iowa 2023). Under the Iowa Workers’ Compensation Act, the “‘commissioner finds the 
+facts as they stand at the time of hearing and should not speculate about the future 
+course of a claimant’s condition.’” Id. at 147 (quoting Kohlhaas v. Hog Slat, Inc., 777 
+N.W.2d 387, 392 (Iowa 2009)). If a party believes the claimant’s condition has changed 
+when compared to that at the time of hearing, the party may apply to the agency for 
+review-reopening. See id. at 146–47. 
+Under Iowa Code section 85.34(2)(v), an injured employee who returns to work 
+with the defendant-employer earning the same or more as the employee earned at the 
+time of injury is limited to permanency benefits based solely on the extent of permanent 
+impairment and not industrial disability. The only way such an employee may obtain 
+permanency benefits based on the extent of industrial disability caused by the work 
+injury is via the bifurcated litigation process set forth in the statutory text. Section 
+85.34(2)(v) expressly allows a claimant to seek a new agency determination on the 
+permanency issue using an industrial disability analysis only if the defendant-employer 
+terminates the claimant’s employment after the initial agency award or approval of the 
+parties’ agreement for settlement. Presumably, this is because the defendant-
+employer’s discharge of the claimant after the award or agreement for settlement 
+creates a potential change in the claimant’s condition from that at the time of hearing or 
+settlement that could trigger reopening the determination of permanent disability. See 
+id. at 146–49; see also Stuart v. Dicketen Masch Plastics, LLC, 998 N.W.2d 192, 2023 
+WL 7014183, *2–*4 (Iowa App. 2023) (Table). 
+Here, the parties agree that Ryner returned to work with Tenneco after the work 
+injury at the same or higher earnings level as on the injury date. Ryner remained 
+employed at Tenneco at that earnings level as of the hearing date. Therefore, her 
+permanency benefits are determined solely based on the permanent impairment caused 
+by the work injury. 
+The legislature has made the Guides dispositive on this question: 
+[W]hen determining functional disability and not loss of earning capacity, 
+the extent of loss or percentage of permanent impairment shall be 
+determined solely by utilizing the guides to the evaluation of permanent 
+impairment, published by the American medical association, as adopted 
+by the workers’ compensation commissioner by rule pursuant to chapter 
+
+RYNER V. TENNECO 
+Page 19 
+ 
+17A. Lay testimony or agency expertise shall not be utilized in determining 
+loss or percentage of permanent impairment pursuant to paragraphs “a” 
+through “u”, or paragraph “v” when determining functional disability and 
+not loss of earning capacity. 
+Iowa Code § 85.34(2)(x).  
+Under Iowa Administrative Code rule 876—2.4, the agency uses the Fifth Edition 
+of the Guides. The persuasiveness of an expert’s opinion on the extent of an injured 
+worker’s permanent impairment is dependent in part on using the correct edition of the 
+Guides under section 85.34(2)(x) and rule 876—2.4. In the current case, the record 
+supports the finding that only one expert determined Ryner’s permanent impairment 
+solely by utilizing the Fifth Edition of the Guides. 
+As found above, there is an insufficient basis in the evidence from which to 
+conclude Dr. Boulden used the Fifth Edition of the Guides. In comparison, Dr. Bansal 
+expressly noted using the Fifth Edition of the Guides when rendering his opinion on 
+permanent impairment. Therefore, Dr. Bansal’s opinion is more persuasive than Dr. 
+Boulden’s. 
+Reinforcing this conclusion is the fact that Dr. Boulden misrepresented Dr. 
+Bansal’s opinion when critiquing it in his report. Dr. Bansal did not state that Ryner 
+sustained a compression fracture with greater than a 50 percent height loss, as Dr. 
+Boulden asserts. Rather, Dr. Bansal expressly diagnosed Ryner with, “T8 compression 
+fracture of approximately 50% vertebral body height loss,” based on Dr. Shogan’s MRI 
+reading of August 20, 2021. (Ex. 3, p. 17) Dr. Boulden’s assertion is therefore false. 
+This false criticism further undermines his credibility on the question of permanency. 
+Ryner has satisfied her burden of proof on the question of permanent 
+impairment. The evidence shows it is more likely than not that the compression fracture 
+to her vertebrae caused her to sustain a permanent impairment of 18 percent to the 
+whole body. Because the spine is an unscheduled body part, entitlement to benefits is 
+based on 500 weeks. 18 percent multiplied by 500 weeks is 90 weeks. Ryner is 
+therefore entitled to 90 weeks of permanency benefits from the stipulated 
+commencement date of October 18, 2021. 
+D . 
+R a t e .  
+The parties stipulated Ryner’s gross earnings on the stipulated injury date were 
+$1,273.91 per week. They also stipulated she was single and entitled to one exemption 
+at the time. Based on the parties’ stipulations, Ryner’s workers’ compensation rate is 
+$765.61 dollars per week. 
+E . 
+M e d i c a l  B e n e f i t s .  
+For all compensable injuries under Iowa Code chapter 85 or 85A, the employer 
+must “furnish reasonable surgical, medical, dental, osteopathic, chiropractic, podiatric, 
+
+RYNER V. TENNECO 
+Page 20 
+ 
+physical rehabilitation, nursing, ambulance, and hospital services and supplies therefor 
+and shall allow reasonably necessary transportation expenses incurred for such 
+services.” Iowa Code § 85.27(1). The defendants’ denial of liability in this case means 
+they lost the right to choose the care received by Ryner for the work injury. Winnebago 
+Indus., Inc. v. Haverly, 727 N.W.2d 567, 575 (Iowa 2006) (citing Trade Prof’ls, Inc. v. 
+Shriver, 661 N.W.2d 119, 124 (Iowa 2003)). Ryner was free to obtain reasonable care 
+from any provider for the injury, at her expense, and seek reimbursement for such care 
+through this contested case proceeding. See Trade Prof’ls, 661 N.W.2d at 121–25 
+(affirming on judicial review an agency decision ordering the payment of medical 
+expenses for unauthorized care because the defendants denied liability for the alleged 
+injury and therefore lost the right to control care). The undersigned finds the medical 
+expenses detailed in Claimant’s Exhibit 4 are related to the work injury, reasonable, and 
+necessary, which means the defendants must hold her harmless for them. 
+F .  
+C o s t s .  
+“All costs incurred in the hearing before the commissioner shall be taxed in the 
+discretion of the commission.” Iowa Code § 86.40. “Fee-shifting statutes using ‘all costs’ 
+language have been construed ‘to limit reimbursement for litigation expenses to those 
+allowed as taxable court costs.’” Des Moines Area Reg'l Transit Auth. v. Young, 867 
+N.W.2d 839, 846 (Iowa 2015) (quoting Riverdale v. Diercks, 806 N.W.2d 643, 660 (Iowa 
+2011)). Statutes and administrative rules providing for recovery of costs are strictly 
+construed. Id. (quoting Hughes v. Burlington N. R.R., 545 N.W.2d 318, 321 (Iowa 
+1996)). Because Ryner prevailed on the disputed issues of causation and extent of 
+permanent impairment, she is entitled to an award of $125.30 for the cost of the filing 
+fee of the petition as well as the convenience fee for paying electronically on the 
+Workers’ Compensation Electronic System (WCES)  Iowa Administrative Code rule 
+876—4.33(7). 
+VI.  
+OR D ER . 
+Based on the above findings of fact and conclusions of law, it is ordered: 
+1) The defendants shall pay to Ryner ninety (90) weeks of permanency benefits 
+at the rate of seven hundred sixty-five and 61/100 dollars ($765.61) per week 
+from the stipulated commencement date. 
+2) The defendants shall pay to Ryner healing period benefits for the time period 
+from August 6, 2021, through October 18, 2021, minus the stipulated credit 
+amount. 
+3) The defendants shall pay accrued weekly benefits in a lump sum. 
+4) The defendants shall pay interest on unpaid weekly benefits awarded herein 
+as set forth in Iowa Code section 85.30. 
+
+RYNER V. TENNECO 
+Page 21 
+ 
+5) The defendants shall file subsequent reports of injury as required by Rule 876 
+IAC 3.1(2). 
+6) The defendants shall pay to Ryner one hundred twenty-five and 30/100 
+dollars ($125.30) for the filing fee as a taxed cost. 
+Signed and filed this 21st day of March, 2025. 
+ 
+ 
+ 
+BENJAMIN G. HUMPHREY 
+Deputy Workers’ Compensation Commissioner 
+ 
+Served via the Workers’ Compensation Electronic System (WCES): 
+Nicholas G. Pothitakis, Attorney for Claimant 
+Michael S. Roling, Attorney for Defendants 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Workers’ Compensation Division to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Workers’ 
+Compensation Division, 6200 Park Avenue, Suite 100, Des Moines, Iowa 50321.  The notice of appeal must be 
+received by the Workers’ Compensation Division within 20 days from the date of the decision.  The appeal period will 
+be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+ 

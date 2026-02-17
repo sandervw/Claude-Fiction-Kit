@@ -1,0 +1,835 @@
+Case Number: 22003777.01
+Case Title:  JACOBS, DANNY V. ARCHER DANIELS MIDLAND COMPANY
+Doc Type:    Decision - Deputy
+Source:      Jacobs Danny-22003777.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+DANNY JACOBS, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  :                  File No. 22003777.01 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :  
+ARCHER DANIELS MIDLAND CO., 
+  : 
+       ARBITRATION DECISION 
+ 
+ 
+  :  
+ 
+Employer, 
+  : 
+ 
+Self-Insured Defendant. 
+  :  
+Head Note Nos: 1108.50; 1803; 2206 
+ 
+ 
+  : 
+ 
+ 
+      2907 
+ 
+ 
+       
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Danny Jacobs, claimant, filed a petition in arbitration seeking workers’ 
+compensation benefits from Archer Daniels Midland Co., employer and self-insured 
+defendant.  The hearing was held on May 31, 2024. Pursuant to an order from the Iowa 
+Workers’ Compensation Commissioner, this case was heard via videoconference using 
+Zoom with all parties and the court reporter appearing remotely.   
+The parties filed a hearing report at the commencement of the arbitration 
+hearing.  On the hearing report, the parties entered into various stipulations.  Those 
+stipulations were accepted and are hereby incorporated into this arbitration decision and 
+no factual issues relative to the parties’ stipulations will be raised or discussed in this 
+decision.  The parties are now bound by their stipulations.  
+Danny Jacobs and Jessica Krob testified live at the trial.  The evidentiary record 
+also includes joint exhibits 1-8, claimant’s exhibits 1-11, and defendant’s exhibits A-K.  
+All exhibits were received into the record without objection.   
+The parties submitted post-hearing briefs by July 12, 2024, at which time the 
+case was fully submitted to the undersigned.  
+ISSUES 
+The parties identified the following disputed issues on the hearing report: 
+1. Whether the alleged injury on February 18, 2022 resulted in any permanent 
+disability; and if so,  
+ 
+2. The nature and extent of claimant’s entitlement to permanent disability 
+benefits.  
+ 
+3. Whether claimant is entitled to penalty benefits.  
+ 
+ELECTRONICALLY FILED     2024-Nov-20  14:18:32     DIVISION OF WORKERS' COMPENSATION
+
+JACOBS V. ARCHER DANIELS MIDLAND CO. 
+Page 2 
+ 
+4. Whether claimant is entitled to payment of the medical expenses listed in 
+claimant’s exhibit 11. 
+ 
+5. Whether claimant is entitled to alternate medical care. 
+ 
+6. Assessment of costs.  
+FINDINGS OF FACT 
+The undersigned, having considered all the evidence and testimony in the 
+record, finds as follows: 
+At the time of the hearing the claimant, Danny Jacobs (hereinafter “Jacobs”) was 
+64 years old. (Hearing Transcript, p. 13). Jacobs resides in Marion, Iowa. (Claimant’s 
+Exhibit 9, p. 115).  He graduated from Fairfield High School in 1980. (Id. at 116).  While 
+in high school, Jacobs held part-time jobs at a grocery store, stocking and carrying 
+groceries out to customer’s cars, and at a flower shop making deliveries and taking care 
+of plants. (Id. at 117; Cl Ex. 4, p. 84).  He also worked at Dexter Foundry during summer 
+break. (Cl Ex. 4, p. 84).   
+After graduating from high school, Jacobs worked for JI Case, assembling tractor 
+cabs, as well as crawlers and bulldozers. (Cl Ex. 4, p. 84).  He did that job for 
+approximately one year before taking a position as a correctional officer at the Iowa 
+State Penitentiary.  (Id.).  Jacobs worked for the Penitentiary for approximately four 
+years. (Id.).  From 1985 to 1986, he worked as an electroplating operator at Thomas & 
+Betts Electronics. (Id.).  In 1988, Jacobs took a job with Ralston Purina Company on the 
+assembly line making cat and dog food.  (Id.).  He worked for Ralston Purina for 
+approximately seven years, leaving in 1995. (Id.).   
+Jacobs briefly worked for a temp agency, before securing a job with Cargill in 
+1996. (Cl Ex. 4, p. 83).  From 1996 to 2000, he worked at two different Cargill locations 
+shoveling soybeans, loading railcars, and sample testing products. (Id.).  From 2000 to 
+2001, Jacobs worked for Pella Windows, assembling windows. (Id.).  He did not work 
+from 2001 through 2013, spending some of that time incarcerated and some taking care 
+of his ailing parents. (Id.).  From 2013 to 2017, Jacobs worked at McBeth Auto & 
+Wrecker, taking parts off old cars, as well as changing tires and oil. (Id.).  In 2017, 
+Jacobs also worked for Advance Services, a temp agency, and for Church & Dwight 
+Co., making cattle feed and loading semis. (Id.).  
+In November 2017, ADM hired Jacobs to work as a mill utility operator. (Cl Ex. 4, 
+p. 84).  ADM is a milling corn processing plant. (Cl Ex. 9, p. 120).  They make ethanol, 
+corn starch, corn oil, and gluten. (Id.; see also Tr., p. 89).  In the mill utility position, 
+Jacobs disassembled and cleaned Merkle bowls, which are large three-ton vessels 
+used to separate products. (Tr., p. 23).  At the hearing, Jacobs testified that he cleaned 
+three to five bowls a day and the process took around three and a half hours. (Id. at 24).  
+He also assisted operators, hosed streams, and worked on sump pumps. (Id. at 23-25).  
+Jacobs worked as a utility mill operator for two years. (Id. at 25).  In 2019, Jacobs bid 
+
+JACOBS V. ARCHER DANIELS MIDLAND CO. 
+Page 3 
+ 
+into a utility position in the dry starch department. (Id.).  This job required him to load 
+bags of cereal using a forklift and then cut open the bags to dump their contents in 
+repackaging. (Id. at 25-26).  He also swept and cleaned. (Id. at 26).  Jacobs also 
+worked for a time in the feed house at ADM, physically loading and unloading railcars 
+and semi-trucks. (Id.).  At the hearing, Jacobs testified that the feed house position 
+involved a lot of walking, kneeling and squatting, as well as going up and down stairs 
+and it bothered his right knee. (Id. at 26-29).  Jacobs requested a transfer back to the 
+utility mill operator position. (Id. at 28-29).  
+Jacobs alleges he suffered a work-related injury to his right knee while working at 
+ADM on February 18, 2022. (See Petition).  He also alleges sequela injuries to his low 
+back, and bilateral wrists. (Id.).  On the date of the alleged injury Jacobs was working as 
+a utility mill operator. (Tr., p. 30).  At the hearing, Jacobs testified that several other 
+employees had been playing practical jokes on him at work. (Id. at 31).  Jacobs stated 
+that on the alleged injury date, they took the wheels off his chair in the mill utility control 
+room and tied his chair to a table with zip ties. (Id.).  Jacobs indicated he noticed the zip 
+ties and cut them off the chair but did not notice the missing wheels. (Id.).  He tried to sit 
+down in the chair, but it tipped over and he fell out onto the ground. (Id. at 31-32).  
+Jacobs testified he landed on the concrete floor, striking his right knee and head. (Id. at 
+33). There were no witnesses to Jacobs’ fall. (Id. at 96).  
+After the incident Jacobs went back to work. (Tr., p. 33).  He did not report it to 
+his supervisor. (Id.).  Jacobs testified that after his shift was over, he noticed that his 
+knee was starting to swell.  (Id.).  The alleged incident took place on a Friday. (Id.).  
+Jacobs was not scheduled to work on Saturday, Sunday or Monday. (Id.).  Jacobs 
+returned back to work on Tuesday, February 22, 2022. (Id. at 34).  Jacobs testified that 
+he did not report the work injury on that date because he was afraid of getting in trouble. 
+(Id.).  Jacobs testified that his right knee was still hurting, so he called Steindler 
+Orthopedic and made an appointment. (Id. at 35).  
+According to the medical records, Jacobs was evaluated by Ashley Reed, PA-C, 
+at the Steindler Clinic on February 25, 2022. (Joint Exhibit 1, p. 14).  Jacobs complained 
+of pain in the anterior medial and lateral joint line of his right knee that began several 
+weeks prior. (Id.).  Ms. Reed noted that Jacobs had seen David Steinbronn, M.D., an 
+orthopedic surgeon at Steindler Clinic previously for right knee pain and that he had an 
+existing diagnosis of medial osteoarthritis, as well as a medial meniscus tear in that 
+knee. (Id.).  The medical records show that Jacobs received treatment at Steindler 
+Clinic for right knee complaints in 2019. (Id. at 1-13).  Jacobs started treating with Dr. 
+Steinbronn for right knee pain on July 12, 2019. (Id. at 1).  Dr. Steinbronn’s treatment 
+note indicates Jacobs was experiencing knee pain, swelling, and intermittent weakness, 
+feeling like his knee could give out, as well as loss of feeling in his bilateral feet. (Id.). 
+Jacobs told Dr. Steinbronn that he had a significant stroke in 2016, “which affected his 
+right lower extremity and he has since ambulated with a limp.” (Id.).  Dr. Steinbronn 
+diagnosed him with right knee pain with mild arthritis and an effusion, as well as residual 
+weakness after a stroke in 2016. (Id. at 2).  He aspirated Jacobs’ knee and gave him a 
+cortisone injection. (Id.).  Dr. Steinbronn returned him to work without restrictions, but 
+
+JACOBS V. ARCHER DANIELS MIDLAND CO. 
+Page 4 
+ 
+noted Jacobs planned to bid into a new job at work because of his knee pain.1 (Id. at 3).  
+Jacobs continued to experience knee pain after the injection. (Id. at 6).  Dr. Steinbronn 
+ordered an MRI. (Id. at 8).  It showed a mixed partial and full-thickness horizontal tear of 
+the medial meniscus body and posterior horn, a severe partial-thickness horizontal tear 
+of the lateral meniscus body and small portion of the posterior horn, and severe medial 
+compartment chondromalacia.  (Id. at 9).  Dr. Steinbronn recommended that Jacobs 
+continue with conservative treatment until the knee became too painful, at which point 
+they would proceed with a partial knee replacement. (Id. at 10).  Dr. Steinbronn felt 
+Jacobs was not a candidate for a knee arthroscopy because of his advanced 
+osteoarthritis. (Id. at 11).  Jacobs’ last appointment with Dr. Steinbronn took place on 
+November 4, 2019.  (Id.).  Dr. Steinbronn’s notes indicate Jacobs still had pain over the 
+medial aspect of his right knee, as well as occasional popping, and feeling like the knee 
+was going to give out. (Id.).  Dr. Steinbronn offered to proceed with a medial 
+unicompartmental arthroplasty, but Jacobs indicated he wanted to take some time and 
+consider his options. (Id. at 13).  During the February 25, 2022 appointment, Ms. Reed 
+obtained new x-rays.  (JE 1, p. 15).  They showed moderate medial compartment DJD 
+with associated subchondral sclerosis. (Id.).  Reed administered a cortisone injection to 
+Jacobs’ right knee and gave him a hinged knee brace. (Id.).   
+On February 25, 2022, Jacobs reported the alleged zip-tie incident and his work 
+injury to his supervisor, Jessica Krob. (Tr., p. 93).  ADM then directed him to the Work 
+Well Clinic for further medical care. (Id. at 38).  Work Well, however, did not have any 
+open appointments that day so Jacobs went to Unity Point Urgent Care on March 1, 
+2022. (JE 3, p. 28).  He was evaluated by Rachel Blackford, ARNP. (Id.). She 
+diagnosed him with acute right knee pain, gave him a shot of Toradol, and work 
+restrictions, and recommended he follow up with Work Well. (Id. at 30).  Jacobs was 
+seen at Work Well on March 9, 2022, by Shirley Pospisil, M.D. (JE 4, p. 35).  Dr. 
+Pospisil diagnosed him with right knee pain and ordered an MRI. (Id. at 36).  The MRI 
+took place on March 17, 2022.  (Id. at 38).  It showed horizontal/oblique tears of his 
+medial and lateral menisci and diffuse full-thickness chondral loss of the central medial 
+compartment. (Id.).  Following the MRI, Jacobs was referred to Kyle Switzer, M.D., an 
+orthopedic surgeon at Physicians’ Clinic of Iowa. (Id. at 38). Jacobs’ first appointment 
+with Dr. Switzer took place on April 5, 2022. (JE 5, p. 75).  Dr. Switzer diagnosed him 
+with tears of the medial and lateral meniscus of the right knee and primary 
+osteoarthritis. (Id. at 76).  He discussed treatment options with Jacobs. (Id.).  Jacobs 
+expressed his desire to proceed with a right knee arthroscopy with partial medial and 
+lateral meniscectomy and chondroplasty. (Id.).   
+Jacobs had a follow-up appointment with Dr. Pospisil on April 20, 2022. (JE 4, p. 
+40).  He complained of low back pain and numbness in his right foot and toes.  (Id.).  Dr. 
+Pospisil diagnosed him with low back pain with right lower extremity radiating pain and 
+ordered an MRI of his lumbar spine. (Id.).  Her treatment note indicates Jacobs had a 
+very antalgic gait and that might be contributing to the back pain. (Id.).  The MRI was 
+                                                 
+1 Jacobs testified that he was no longer allowed to work in the feed house after his right knee treatment. 
+(Tr., pp. 67-68).  ADM’s exhibits contain a piece of paper entitled “Bidding Restrictions.” (Ex. E, p. 68).  It is dated 
+August 7, 2019, and states Jacobs is no longer eligible to bid into jobs in Feedhouse Utility. (Id.).   
+
+JACOBS V. ARCHER DANIELS MIDLAND CO. 
+Page 5 
+ 
+not performed until June 9, 2022. (Id. at 42).  It showed a disc bulge at L5-S1 and mild 
+degenerative disc and hypertrophic facet changes of the lumbar spine. (Id. at 43).  
+According to the medical records, Jacobs treated with chiropractor Chris Smith, 
+DC, in 2018 for neck, lumbar back, and bilateral sacroiliac (SI) joint pain. (JE 2, p. 18).  
+His pain complaints began after moving a washer and dryer. (Id.).  Jacobs received 
+treatment from Dr. Smith on May 21, 2018, and May 22, 2018. (Id. at 18-21).  He 
+returned to Dr. Smith on April 22, 2019, stating his neck, upper back, and lower back 
+pain returned after lifting and twisting on April 18, 2019. (Id. at 22).  His next 
+appointment with Dr. Smith took place on September 19, 2019. (Id. at 23).  Dr. Smith’s 
+treatment note indicates Jacobs’ back pain had increased in the “last 2-3 months due to 
+a physically demanding job.” (Id.).  Jacobs returned for chiropractic treatment on his 
+neck and lumbar spine again on November 5, 2019, December 4, 2020, and December 
+10, 2020. (Id. at 24-26).  Jacobs’ final appointment with Dr. Smith took place on July 13, 
+2021. (Id. at 27).  At that appointment he complained of neck, lumbar back and bilateral 
+SI joint pain. (Id.).  Dr. Smith diagnosed him with intervertebral disc degeneration of the 
+lumbar region. (Id.).  
+Jacobs returned to see Dr. Pospisil on June 15, 2022. (Id. at 44).  Dr. Pospisil’s 
+treatment note from that date states that Jacobs’ knee surgery had to be rescheduled 
+due to transportation issues, as well as a positive COVID test.  (Id.; see also JE 5, p. 
+92).  It also indicated that he was still experiencing tingling and numbness in his toes 
+and heel, but his orthopedist thought it was unrelated to his knee injury. (JE 4, p. 44).  
+Dr. Pospisil noted his lumbar MRI showed mild disc bulges throughout. (Id.).  She 
+referred him to the pain clinic for further treatment of his back complaints. (Id.).  
+On August 26, 2022, Dr. Switzer performed a right knee partial medial and lateral 
+meniscectomy with chondroplasty. (See Tr., p. 42; JE 5, pp. 109-110).  Jacobs received 
+follow-up treatment from Dr. Switzer, as well as attended physical therapy at Rock 
+Valley Physical Therapy. (See JE 6, pp. 133-147).  
+Jacobs had a follow-up appointment with Dr. Switzer on September 7, 2022. (JE 
+5, p. 98).  Dr. Switzer’s treatment note says that Jacobs fell the Monday after surgery. 
+(Id.).  No other information is provided about the fall. (Id.).  Dr. Switzer noted Jacobs 
+had an effusion on his knee and recommended an aspiration to remove fluid from the 
+knee, as well as an injection. (Id. at 99).  This was performed. (Id.).  Jacobs returned to 
+Dr. Switzer’s office on September 15, 2022.  The note from this visit indicates the 
+purpose of this visit was for the fitting of a locking knee brace. (Id. at 100).  
+On October 5, 2022, Jacobs presented to Dr. Pospisil complaining of bilateral 
+wrist pain. (JE 4, p. 45).  He told Dr. Pospisil that he fell on September 13, 2022, due to 
+knee instability, and landed on his outstretched hands. (Id.).  He told her his hands had 
+been painful and tingly since two days after that fall. (Id.).  Dr. Pospisil diagnosed 
+Jacobs with bilateral wrist and forearm pain following a fall, and low back pain with right 
+lower extremity radiating pain. (Id.).  She gave him wrist splints and ordered x-rays. (Id. 
+at 46).  The x-rays showed mild to moderate osteoarthritis, but no fractures or soft 
+tissue injuries. (Id. at 48-51).  
+
+JACOBS V. ARCHER DANIELS MIDLAND CO. 
+Page 6 
+ 
+An EMG was taken of Jacobs’ right lower extremity on October 25, 2022. (JE 5, 
+p. 113). It showed mild axonal sensorimotor polyneuropathy, but no radiculopathy, focal 
+neuropathy, plexopathy or myopathy. (Id. at 114).  On October 27, 2022, Jacobs 
+followed up with Dr. Switzer. (Id. at 101).   Dr. Switzer’s treatment note indicates 
+Jacobs’ knee was hyperextending when he walked. (Id.).  He also complained of 
+weakness and locking and catching. (Id.).  He told Dr. Switzer he’d had multiple falls. 
+(Id. at 102).  Dr. Switzer felt his pain complaints were out of proportion. (Id.).  He 
+ordered a new MRI. (Id.).   
+Jacobs’ next appointment was with Dr. Pospisil on November 14, 2022. (JE 4, p. 
+52). He was there to discuss his bilateral wrist pain. (Id.).  Jacobs told Dr. Pospisil that 
+he had fallen 32 times because of knee instability.2 (Id.).  He did not think the wrist 
+splints were helping. (Id.).  Dr. Pospisil diagnosed him with low back pain with right knee 
+and right lower extremity radiating pain, bilateral wrist pain after fall.  (Id.).  She ordered 
+EMGs of his bilateral upper extremities. (Id. at 53).   
+On November 21, 2022, Jacobs had a new MRI taken of his right knee. (JE 8, 
+pp. 156-157).  The test showed: 1) complex tears of both menisci (there may have been 
+a prior partial medial meniscectomy with recurrent tear, 2) interval increase in thickening 
+and increased signal in the superior portion of the medial collateral ligament suggesting 
+a partial tear, 3) partial tear in the fibular collateral ligament, progressed from previous 
+study, 4) mild quadriceps tendinopathy, 5) moderate joint effusion, and 6) no evidence 
+of bony injury. (Id. at 157).   
+The bilateral upper extremity EMGs were performed on December 13, 2022. (JE 
+5, pp. 115-123).  They showed bilateral median neuropathies at the wrists that were 
+moderate in severity and distal prolongation of the right ulnar motor nerve response 
+suggestive of a possible mild ulnar neuropathy at the wrist.  (Id. at 115).  Thomas 
+Rodgers, D.O., the test administrator, indicated the results were consistent with bilateral 
+carpal tunnel syndrome. (Id.).   
+Jacobs followed up with Dr. Switzer on December 15, 2022. (JE 5, pp. 125-127).  
+Dr. Switzer diagnosed him with a tear of the medial collateral ligament in the right knee, 
+status post medial meniscectomy, left knee pain, and a hyperextension deformity of the 
+right knee with increased laxity of his MCL. (Id. at 126). Dr. Switzer applied a fiberglass 
+cast to his right leg to deal with the increased laxity. (Id.).  Dr. Switzer noted that Jacobs 
+had increased laxity in both knees, so he did not think it was related to the work injury 
+on February 18, 2022. (Id. at 127).  He did not recommend further surgery. (Id.).  
+Jacobs returned to see Dr. Switzer on December 20, 2022, complaining about his cast. 
+(Id. at 129-130).  He returned again on January 26, 2023. (Id. at 131-132).  His cast had 
+broken in half. (Id.).  Dr. Switzer noted he also had a wound on the back of his Achilles 
+tendon. (Id. at 131).  Dr. Switzer’s treatment note also mentioned him being in an 
+                                                 
+2 Jacobs was questioned about this figure during his deposition. (Cl Ex. 9, p. 135).  He testified that he 
+created a list of every fall he had and gave it to Dr. Pospisil. (Id.).  This list is not in the hearing record.  
+
+JACOBS V. ARCHER DANIELS MIDLAND CO. 
+Page 7 
+ 
+accident and a broken knee brace.3 (Id.). Dr. Switzer indicated he did not think a knee 
+replacement was a good idea due to Jacobs’ MCL laxity and continued smoking. (Id. at 
+132).  Dr. Switzer put him in a new knee brace. (Id.). 
+Jacobs returned to Dr. Pospisil on February 28, 2023.  (JE 4, p. 57).  He 
+complained of low back pain with radiation, right foot numbness, and bilateral carpal 
+tunnel symptoms. (Id.).  Dr. Pospisil did not think the bilateral carpal tunnel was causally 
+related to the work injury. (Id.).  She also opined that his mild length dependent 
+polyneuropathy could be caused by a nutritional vitamin imbalance, alcoholism, 
+exposure to toxins, liver and/or kidney disorders, hormonal imbalances, an immune 
+disease, and/or vascular and blood problems. (Id. at 58).  She ordered a new MRI of his 
+low back. (Id.). The MRI took place on March 8, 2023. (Id. at 60-61).  It revealed low-
+grade degeneration of the lumbar spine with more advanced disc predominate 
+degeneration at L5-S1 with possible irritation and/or impingement of the bilateral S1 and 
+L5 nerve roots.  (Id. at 61).  Radiology recommended an epidural steroid injection. (Id.).   
+Dr. Pospisil reviewed the MRI results with Jacobs on March 13, 2023. (Id. at 62).  
+She asked if he drank alcohol and/or whether he had been diagnosed with diabetes. 
+(Id.).  He indicated he did not have diabetes. (Id.).  Dr. Pospisil stated that the carpal 
+tunnel symptoms and right foot numbness did not appear to be related to his back.  
+(Id.).  She referred him to the pain clinic for treatment.  (Id.).  
+On May 2, 2023, Jacobs was evaluated by Tork Harman, M.D., at St. Luke’s 
+Interventional Pain Clinic. (JE 8, p. 158).  Dr. Harman diagnosed him with lumbosacral 
+degenerative disc disease, lumbar foraminal stenosis, and lumbosacral radiculitis. (Id.).  
+He noted a small broad-based disc bulge at L5-S1 but no high-grade central 
+impingement. (Id. at 159).  He also noted numbness and tingling in both feet consistent 
+with peripheral neuropathy. (Id. at 161).  Dr. Harman gave Jacobs an epidural steroid 
+injection.  (Id. at 162).   
+Jacobs followed up with Dr. Pospisil for his back pain on May 22, 2023. (JE 4, p. 
+65).  He indicated his right lower extremity pain was better, but still had slight pain in his 
+right buttock. (Id.).  His right foot numbness was unchanged. (Id.).  Dr. Pospisil’s note 
+indicated that Dr. Harman told Jacobs the numbness did not follow the L5-S1 
+distribution, and he did not know the source of the pain/neuropathy. (Id.).  Dr. Pospisil 
+did not think his right foot numbness was related to the work injury. (Id.). She indicated 
+he could return as needed. (Id. at 66).  
+On June 1, 2023, Dr. Pospisil issued an impairment report. (JE 4, p. 69).  She 
+opined Jacobs had 1 percent whole person permanent impairment for his medial 
+meniscectomy, citing to Table 17-33 of the AMA Guides to the Evaluation of Permanent 
+Impairment, Fifth Edition.  (Id.).  She, however, wrote that she wasn’t sure whether the 
+impairment was related to the work incident, as Jacobs had a known meniscal tear prior 
+to the incident. (Id.).   
+                                                 
+3 During his deposition Jacobs testified that his car was rear-ended in January 2023, on Blairs Ferry Road, 
+and a drum fell onto the brace, bending it. (Cl Ex. 9, p. 134).   
+
+JACOBS V. ARCHER DANIELS MIDLAND CO. 
+Page 8 
+ 
+On June 29, 2023, Dr. Harman gave Jacobs a second epidural steroid injection. 
+(JE 8, pp. 176-182).  Jacobs returned to Dr. Pospisil on July 24, 2023. (JE 4, pp. 70-71).  
+Dr. Pospisil’s treatment note indicates Jacobs had been having heartburn since his 
+second epidural injection, as well as instant right arm numbness that he later said went 
+away. (Id. at 70).  Jacobs told Dr. Pospisil he did not have any pain and was ready to be 
+discharged. (Id.).  She placed him at maximum medical improvement (MMI) and 
+discharged him from her care without restrictions. (Id.).   
+The hearing record contains several expert opinions.  Dr. Bollier performed a 
+records’ review at ADM’s request. (See Defendant’s Exhibit B).  He issued a report on 
+April 29, 2023.  (Id. at 21).  In that report, Dr. Bollier diagnosed Jacobs with a temporary 
+aggravation of right knee pain, right degenerative-type meniscal tearing and right knee 
+degenerative arthritis. (Id. at 35).  Dr. Bollier opined that the February 18, 2022 work 
+injury had caused a temporary aggravation of Jacobs’ knee pain, but that the underlying 
+meniscal tear and arthritis conditions were degenerative and not causally related to the 
+work incident. (Id. at 35-36).  His report states that Jacobs’ “subjective complaints 
+worsened after the work incident, there is no objective evidence that the work incident 
+caused or aggravated the degenerative condition.” (Id. at 36).  Dr. Bollier indicated 
+Jacobs would likely need a total knee replacement in the future, but the need for that 
+surgery was not causally related to the February 18, 2022 work incident; it was 
+necessitated by his pre-existing knee conditions. (Id.).   He did not believe Jacobs 
+needed any additional treatment because of the work injury, placed him at MMI on May 
+18, 2022, did not assign him any permanent impairment because of the work incident 
+and/or suggest permanent work restrictions. (Id.).  
+On August 11, 2023, Jacobs attended an independent medical evaluation (IME) 
+with Trevor Schmitz, M.D., at ADM’s request. (Ex. A, p. 5).  Dr. Schmitz diagnosed 
+Jacobs with self-reported axial low back pain along with right leg radicular complaints. 
+(Id. at 11).  He also documented EMG findings consistent with neuropathy and 
+multilevel degenerative changes throughout his lumbar spine. (Id.).  Dr. Schmitz, 
+however, determined that Jacobs’ lumbar spine and right lower extremity/foot conditions 
+were degenerative and not causally related to the February 18, 2022 work injury. (Id. at 
+12).   He did not assign Jacobs any permanent impairment for the above diagnoses and 
+did not recommend any permanent work restrictions for the conditions. (Id.).   
+ 
+On September 21, 2023, Jacobs attended a second IME with Farid Manshadi, 
+M.D., at his attorney’s request. (Cl Ex. 1, p. 1).  Dr. Manshadi diagnosed him with a right 
+knee injury, and right-sided low back pain with right lower extremity radiculopathy, 
+probably at L5-S1, as well as bilateral carpal tunnel syndrome as a sequela injury.  (Id. 
+at 7-8). He causally related all of these diagnoses to the work injury on February 18, 
+2022.  (Id.).  Dr. Manshadi opined that Jacobs’ bilateral carpal tunnel symptoms were 
+caused by numerous falls onto his hands because of his right knee instability. (Id. at 8).  
+Dr. Manshadi also thought his use of crutches contributed to the carpal tunnel 
+symptoms. (Id.).  He assigned Jacobs 10 percent permanent impairment to the right 
+lower extremity for his knee injury, citing to Table 17-33 of the AMA Guides to the 
+Evaluation of Permanent Impairment, Fifth Edition. (Id. at 8).  He also assigned 15 
+
+JACOBS V. ARCHER DANIELS MIDLAND CO. 
+Page 9 
+ 
+percent whole person impairment for Jacobs’ bilateral carpal tunnel syndrome, citing to 
+Tables 16-10, 16-11 and 16-15 of the AMA Guides. (Id. at 8-9).  Finally, Dr. Manshadi 
+indicated Jacobs’ low back injury fell under DRE Lumbar Category 2, and assigned him 
+6 percent whole person impairment, citing to Table 15-3 of the AMA Guides.  (Id. at 9).  
+He suggested permanent work restrictions of no lifting more than 10 pounds; avoid 
+bending, stooping or twisting at the waist; no prolonged standing or walking for more 
+than 15-20 minutes; avoid crawling, ladders and stairs; sit, stand and walk as needed, 
+and limit repetitious gripping activities to an occasional basis. (Id. at 9).  Dr. Manshadi 
+also recommended Jacobs proceed with bilateral carpal tunnel releases, a total knee 
+arthroplasty, and epidural steroid injections for his back complaints. (Id. at 8-9).   
+ 
+Jacobs attended a third IME at his attorney’s behest on December 7, 2023. (Cl 
+Ex. 2, p. 10).  This took place with Mark Taylor, M.D.  (Id.).  Dr. Taylor diagnosed him 
+with right knee arthralgia, meniscal tears, and chondromalacia of the medial 
+compartment post right knee arthroscopy with chondroplasty and partial medial and 
+partial lateral meniscectomy; persistent knee arthralgia with MRI evidence of recurrent 
+meniscal tear; chronic lumbago and radiculitis with radiation into the right buttock/leg; 
+and bilateral carpal tunnel syndrome per EMG. (Id. at 22-23).  Dr. Taylor causally related 
+all of these diagnoses to the February 18, 2022 injury date. (Id. at 23).  Dr. Taylor 
+assigned 10 percent permanent impairment to Jacobs’ right lower extremity for his 
+partial medial and partial lateral meniscectomy, citing to Table 17-33 of the AMA Guides, 
+Fifth Edition. (Id. at 25).  He indicated Jacobs fell under DRE Category 2 for his back 
+condition, and assigned him 7 percent whole person impairment, citing to Table 15-3 of 
+the AMA Guides.  (Id. at 26-27).  Dr. Taylor opined that it was premature to assign 
+impairment to Jacobs’ bilateral upper extremities, as Jacobs was likely a candidate for 
+carpal tunnel release surgery, and his impairment should be rated after the surgery.  (Id. 
+at 26).  Dr. Taylor recommended Jacobs see an upper extremity specialist to discuss 
+proceeding with the carpal tunnel release surgery. (Id.).  He also recommended Jacobs 
+see an orthopedic specialist for his back complaints, attend additional physical therapy, 
+and see a pain management specialist. (Id. at 27).  Dr. Taylor suggested a referral to a 
+joint replacement specialist and physical therapy for Jacobs’ knee. (Id. at 25).   He 
+agreed with Dr. Manshadi’s suggested 10-pound lifting restriction, but also indicated 
+Jacobs might be able to handle lifting 15-20 pounds at or near waist and chest level. (Id. 
+at 27).  Dr. Taylor also indicated he should have the ability to alternate sitting, standing, 
+and walking for comfort. (Id.).  He suggested Jacobs curtail sitting, standing and/or 
+walking to 15 to 30-minute periods before taking a break. (Id. at 27-28).  He also stated 
+Jacobs should avoid crawling, climbing ladders, forceful and repetitive gripping and 
+grasping with his hands, and rarely use stairs or vibratory/power tools. (Id. at 28).   
+ 
+ADM asked Dr. Schmitz to review the IME reports authored by Dr. Manshadi and 
+Dr. Taylor.  (Ex. A, p. 13).  Dr. Schmitz sent a follow-up report on April 1, 2024. (Id. at 
+16).   Dr. Schmitz disagreed that Jacobs’ lumbar spine condition was a sequela injury 
+from the February 2022 work incident. (Id.).  Dr. Schmitz reiterated that Jacobs had 
+previously treated with a chiropractor for low back pain and had an MRI that showed 
+only chronic degenerative changes, nothing acute. (Id.).  He indicated Jacobs’ back had 
+returned back to its baseline status by July 24, 2023, and had no structural impairment. 
+(Id.).  Dr. Schmitz also addressed Dr. Taylor’s conclusion that Jacobs’ low back 
+
+JACOBS V. ARCHER DANIELS MIDLAND CO. 
+Page 10 
+ 
+condition was caused by his altered gait after his knee injury, as well as several post-
+injury falls. (Id.).  He indicated that Dr. Taylor’s conclusion was flawed because Jacobs 
+suffered from an altered gait and low back pain prior to the work injury. (Id.).  Further, Dr. 
+Schmitz thought Jacobs’ EMG results were likely caused by his 2016 stroke. (Id.).  He 
+did not believe the work fall led to any significant change in his physical conditions, and 
+he did not believe Jacobs needed any permanent work restrictions because of the work 
+injury. (Id. at 17).   
+ 
+ADM also asked Dr. Pospisil to review Dr. Manshadi’s and Dr. Taylor’s IME 
+reports. (Ex. C, p. 41).  Dr. Pospisil issued a report on April 23, 2024. (Id. at 44).  Dr. 
+Pospisil opined that Jacobs suffered from longstanding known medial and lateral 
+meniscal tearing in his right knee, as well as degenerative arthritis. (Id.).  Dr. Pospisil 
+indicated that Jacobs may have had an increase in pain when he fell, but she agreed 
+with Dr. Bollier’s orthopedic assessment that there was “no clear indication that the 
+menisci were torn further from the event.” (Id.).  Dr. Pospisil was also asked to comment 
+on whether Jacobs’ bilateral carpal tunnel syndrome was causally related to the work 
+incident. (Id. at 45).  On April 30, 2024, she opined that Jacobs’ bilateral carpal tunnel 
+median nerve changes were likely not work related. (Id.).  While she conceded that 
+trauma can cause carpal tunnel nerve damage, she was not convinced that Jacobs had 
+actually fallen 32 times after his knee surgery.  (Id.).  Additionally, Dr. Pospisil noted that 
+Jacobs had peripheral neuropathy that was not work related. (Id.).   
+ 
+The hearing record also contains numerous vocational evaluations.  On January 
+16, 2024, Jacobs obtained an employability assessment from Barbara Laughlin, M.A. 
+(Cl Ex. 3, p. 32). Ms. Laughlin interviewed Jacobs, reviewed his treatment records, and 
+the opinions of Dr. Bollier, Dr. Manshadi, Dr. Taylor, and Dr. Schmitz, as well as the job 
+demands for Jacobs’ past positions at ADM. (Id. at 32-33).  Jacobs told Ms. Laughlin 
+that he had no computer skills beyond what he learned at ADM, and that he could only 
+walk comfortably for 10 minutes, stand for 30 minutes, and sit for 15 minutes before 
+needing to lie down. (Id. at 36, 38).  He also indicated that he suffered from finger 
+numbness and dropped things daily. (Id. at 38).   
+ 
+Ms. Laughlin opined that under Dr. Manshadi’s suggested restrictions Jacobs 
+had a 100 percent loss of all semi-skilled and skilled occupations in the closest match 
+jobs, a 100 percent loss of all semi-skilled and skilled occupations in the good match 
+jobs, as well as a 100 percent loss of all unskilled occupations.  (Cl Ex. 3, p. 43).  
+Utilizing the restrictions suggested by Dr. Taylor, Ms. Laughlin opined Jacobs had a 100 
+percent loss of all semi-skilled and skilled occupations in the closest match jobs, a 100 
+percent loss of all semi-skilled and skilled occupations in the good match jobs, and a 
+96.7 percent loss of all unskilled occupations.  (Id. at 44).  Ms. Laughlin stated that 
+given his restrictions, Jacobs would be unable to locate or obtain employment in any 
+well-known branch of the labor market, and jobs he may find are so limited in quality, 
+quantity, or dependability that there is no reasonably stable labor market for them. (Id. at 
+46).  
+ 
+On January 26, 2024, ADM obtained an employability analysis from Lana Sellner, 
+MS, CRC, CEAS II, REAS.  (Ex. D, p. 49).  Prior to issuing her report, Ms. Sellner 
+reviewed Jacobs’ treatment records, the opinions from Dr. Bollier, Dr. Manshadi, Dr. 
+
+JACOBS V. ARCHER DANIELS MIDLAND CO. 
+Page 11 
+ 
+Taylor, and Dr. Schmitz, Jacobs’ answers to interrogatories, and Ms. Laughlin’s 
+employability analysis. (Id.).  She had also done a prior site visit to observe Jacobs’ 
+position at ADM. (Id. at 53).  Ms. Sellner did not meet with Jacobs prior to issuing her 
+report. (Id. at 49).  Ms. Sellner opined that Jacobs had no occupational loss under the 
+opinions of Dr. Bollier, Dr. Pospisil and Dr. Schmitz because they had not assigned any 
+work restrictions. (Id. at 52).  Ms. Sellner found four open positions that Jacobs could 
+still perform under Dr. Manshadi’s suggested restrictions. (Id.).  Those jobs were: a 
+production scheduler at a coop, earning $26.02 an hour; a customer operations 
+specialist at a windows, siding and door company, earning $16-17 an hour; a front desk 
+clerk for a hotel, making $14 an hour; and a maintenance call center representative, 
+which pays $18.50 an hour. (Id.).  Ms. Sellner identified three potential positions that 
+Jacobs could perform under Dr. Taylor’s suggested restrictions.  (Id. at 52-53).  Those 
+jobs were: a shuttle driver for a car dealership, earning $15.10 an hour; a lot driver for a 
+car rental company, making $12 an hour; and a Lyft driver, wage unknown. (Id.).  Ms. 
+Sellner also reviewed Ms. Laughlin’s report. (Id. at 53).  She disagreed that Jacobs’ age, 
+educational background, computer skills, and suggested work restrictions rendered him 
+unable to obtain employment in any well-known branch of the labor market. (Id. at 52-
+57).   
+ 
+In April 2024, Jacobs’ counsel asked Ms. Laughlin to provide a rebuttal to Ms. 
+Sellner’s report. (Cl Ex. 3, p. 49).  She issued her rebuttal assessment on April 17, 
+2024. (Id.).  In it, Ms. Laughlin takes issue with the list of computer skills Ms. Sellner 
+said Jacobs obtained and utilized in his job at ADM. (Id.).  She argues that many of the 
+“skills” utilized by Ms. Sellner in her vocational assessment are not actually skills, but 
+rather soft skills, basic skills, knowledge or temperaments. (Id. at 50-52).  Ms. Laughlin 
+opines that Ms. Sellner’s report fails to utilize appropriate skills individualized to Jacobs’ 
+past work, utilizes aggregated data, and fails to list complete job postings for the open 
+positions she found.  (Id. at 55).  Ms. Laughlin also indicated that she contacted the 
+employers for the job listings provided in Ms. Sellner’s report. (Id. at 55-59).  According 
+to Ms. Laughlin’s report, each employer she contacted indicated Jacobs did not have 
+the necessary skills and/or could not physically perform the position listed. (Id.).   
+ 
+ 
+ADM also requested a rebuttal report. (Ex. D, p. 59).  Ms. Sellner issued her 
+rebuttal report on April 30, 2024. (Id.).  Ms. Sellner reviewed Ms. Laughlin’s rebuttal 
+report, as well as Jacobs’ deposition transcript prior to issuing her second report. (Id.).  
+Ms. Sellner concluded that Ms. Laughlin’s critique of the skills listed in her vocational 
+assessment was irrelevant.  (Id.).  She stated that vocational specialists are not required 
+to define each skill a job utilizes but reiterated that while soft skills are not essential job 
+criteria, they are still assets to employers and considered in hiring decisions. (Id. at 59-
+60).  Ms. Sellner indicated that Ms. Laughlin’s reported conversations with the 
+employers listed in her report did not change her opinion on whether Jacobs could 
+perform the positions listed, because she did not know the entirety of what Ms. Laughlin 
+said to those employers. (Id. at 60).  For example, were Ms. Laughlin’s questions 
+leading? (Id.).  Did Ms. Laughlin ever ask about acceptable accommodations and/or 
+training provided to new hires? (Id.).  Ms. Sellner also disagreed with some of the new 
+job requirements Ms. Laughlin listed, such as the lifting requirements for the driving 
+
+JACOBS V. ARCHER DANIELS MIDLAND CO. 
+Page 12 
+ 
+position at a car dealership. (Id. at 61).  Ms. Sellner reiterated that in her opinion Jacobs 
+is capable of finding work within his labor market with the restrictions suggested by Dr. 
+Taylor and Dr. Manshadi. (Id.).   
+ 
+ 
+At the hearing, Jacobs testified that ADM fired him on March 9, 2022. (Tr., p. 54).  
+He indicated that he was fired for engaging in horseplay. (Id.).  Jessica Krob testified on 
+behalf of ADM at the hearing. (Id. at 88).  She is the mill department superintendent at 
+ADM. (Id. at 89).  She was one of Jacobs’ supervisors. (Id.).  Krob also testified about 
+Jacobs’ termination. (Id. at 94).  She indicated that Jacobs called her on February 22, 
+2022, to report horseplay by other ADM employees. (Id. at 91).  She testified that 
+Jacobs accused another employee of harassment. (Id. at 92).  Jacobs, however, did not 
+mention his fall on February 18, 2022, during that phone call.4 (Id. at 91). After receiving 
+his phone call, Krob held a meeting with Jacobs’ entire department to discuss 
+appropriate work conduct. (Id. at 92).  Following that meeting, Krob indicated that other 
+employees came forward and stated Jacobs had been spraying another employee with 
+a water hose and engaging in water fights/horseplay. (Id.).  Krob stated that when asked 
+about the alleged horseplay, Jacobs admitted to bringing a water hose into the control 
+room and threatening to pour a water bottle over another employee’s head. (Id. at 95).  
+Krob indicated these incidents occurred on February 18, 2022, the same day as Jacobs’ 
+alleged work injury. (Id. at 96).  Krob testified that ADM follows a progressive discipline 
+program, which indicates a verbal warning, a written warning, a final written warning, 
+and then finally termination. (Id. at 94).  Krob testified that all four of the people who 
+were involved in the water fight received their next stage of discipline.  (Id.).  Jacobs, 
+however, was already at the final written warning stage when the horseplay incident 
+occurred. (Id.).  His next step of progressive discipline was termination. (Id.).  ADM’s 
+exhibits contain several pages of documents detailing Jacobs’ past work violations for 
+absenteeism, failure to follow work instructions and safety guidelines, refusal to take 
+necessary tests, combative behavior, and prior incidents of horseplay with co-workers. 
+(Ex. E, pp. 69-76).  In January 2022, Jacobs was given a one-day suspension for failure 
+to follow lock-out rules. (Id. at 76).  There is a locker clean out form, dated March 11, 
+2022, detailing the belongings that were returned to Jacobs after his termination, but no 
+other documents memorializing his termination. (Id. at 77).   
+ 
+At the hearing, Jacobs testified he continues to experience instability and 
+episodes of hyperextension in his knee, difficulty walking, back pain, hip pain, bilateral 
+wrist pain and numbness, as well as issues with dropping objects. (Tr., p. 55).  He 
+indicated his symptoms are worse today than when he was released from care in 2023, 
+especially in his wrists and hands. (Id. at 80-82).  Jacobs testified he does not currently 
+have health insurance. (Id. at 60).  He was covered by Medicaid until approximately a 
+month prior to hearing, when his insurance company changed, and he neglected to fill 
+out some necessary paperwork. (Id. at 61).  He plans to re-apply for Medicaid coverage. 
+(Id.).  He is currently treating at the Community Health Free Clinic for his blood 
+                                                 
+4 Krob testified that they also investigated Jacobs’ allegation that his co-workers zip tied his chair to a table. 
+(Tr., p. 96).  The other employees indicated they had no knowledge of the zip-tie incident.  (Id.).   No one corroborated 
+his allegations. (Id.).   
+
+JACOBS V. ARCHER DANIELS MIDLAND CO. 
+Page 13 
+ 
+pressure, but has not sought any treatment for his knee, back, or bilateral hands since 
+being released in 2023. (Id. at 82-83).   
+ 
+At the hearing, ADM introduced surveillance video of Jacobs dated January 11, 
+2023, through January 14, 2023.  (Ex. K).  It shows Jacobs entering and leaving an 
+apartment building several times, walking down steps and around a parking lot, talking 
+to neighbors, getting into and out of a car, as well as a U-Haul van that required him to 
+go up and down two steps, watching a tow truck driver unload a car with a broken 
+taillight, and driving the U-Haul van out of the parking lot.  (Id.).  Jacobs walks with a 
+slight limp but does not appear unstable and does not stumble during the video.  (Id.).  
+He is not utilizing crutches, a walker, or a cane in the video. (Id.).  He also does not 
+have any trouble driving the U-Haul van. (Id.).  At the hearing, Jacobs testified that his 
+limp is more pronounced today than it was at the time of the video. (Tr., p. 86).  
+ 
+Jacobs was not working at the time of the hearing.  He testified he was receiving 
+Social Security retirement benefits. (Tr., p. 57).  He has been receiving those benefits 
+since October 2022. (Cl Ex. 9, pp. 116-117).  He has not applied for any jobs since 
+being terminated by ADM. (Id. at 138).  During his deposition, Jacobs talked about 
+meeting with Iowa Workforce Development to explore potential jobs. (Id.).  He, however, 
+did not mention Iowa Workforce Development during the hearing.    
+The undersigned does not find Jacobs’ testimony credible.  He made statements 
+that are not supported and/or directly contradicted by the hearing evidence.  For 
+example, Jacobs insisted that he did not engage in horseplay on February 18, 2022, 
+and that the employees who zip-tied his chair were harassing him. (See Tr., pp. 54, 57-
+58, 91-92).  He, however, gave a detailed account of spraying them with water hoses in 
+retaliation earlier that evening during his deposition. (Cl Ex. 9, pp. 125-126).  He was 
+also written up in December 2021 for horseplay. (Ex. E, p. 73).  Jacobs testified that 
+since February 18, 2022, he has walked with a pronounced limp and requires a walker 
+to move about his room/apartment. (Tr., pp. 56, 79-80; Cl Ex. 2, p. 20).  However, 
+surveillance video taken in January 2023, shows him walking up and down stairs and 
+through a parking lot without a walker and only a slight limp. (Ex. K).  Jacobs told Dr. 
+Pospisil that he fell 32 times after his surgery because of knee instability. (JE 4, p. 52).  
+There is, however, scant medical evidence to corroborate so many falls. Jacobs never 
+sought medical attention from Dr. Pospisil or Dr. Switzer after any of these alleged falls. 
+That does not appear reasonable and/or feasible.  Given the above, this deputy does 
+not put much weight on his testimony.  
+CONCLUSIONS OF LAW 
+The party who would suffer loss if an issue were not established ordinarily has 
+the burden of proving that issue by a preponderance of the evidence.  Iowa R. App. P. 
+6.904(3)(e). 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the alleged injury occurred and that it both arose out of and in the course of the 
+employment.  Quaker Oats Co. v. Ciha, 552 N.W.2d 143, 150 (Iowa 1996); Miedema v. 
+
+JACOBS V. ARCHER DANIELS MIDLAND CO. 
+Page 14 
+ 
+Dial Corp., 551 N.W.2d 309, 311 (Iowa 1996).  The words “arising out of” refer to the 
+cause or source of the injury.  The words “in the course of” refer to the time, place, and 
+circumstances of the injury.  2800 Corp. v. Fernandez, 528 N.W.2d 124, 128 (Iowa 
+1995).  An injury arises out of the employment when a causal relationship exists 
+between the injury and the employment.  Miedema, 551 N.W.2d at 311.  The injury must 
+be a rational consequence of a hazard connected with the employment and not merely 
+incidental to the employment.  Koehler Electric v. Wills, 608 N.W.2d 1, 3 (Iowa 2000); 
+Miedema, 551 N.W.2d at 311.  An injury occurs “in the course of” employment when it 
+happens within a period of employment at a place where the employee reasonably may 
+be when performing employment duties and while the employee is fulfilling those duties 
+or doing an activity incidental to them.  Ciha, 552 N.W.2d at 150. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148, 153 
+(Iowa 1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154, 156 (Iowa Ct. App. 
+1997); Sanchez v. Blue Bird Midwest, 554 N.W.2d 283, 285 (Iowa Ct. App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646, 652 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410, 420 
+(Iowa 2001); Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845, 853 (Iowa 
+1995).  Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 421 (Iowa 1994).  Unrebutted 
+expert medical testimony cannot be summarily rejected.  Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910, 911-12 (Iowa Ct. App. 1994). 
+When an expert's opinion is based upon an incomplete or incorrect history, it is 
+not necessarily binding on the commissioner or the court. It is then to be weighed, 
+together with other facts and circumstances, the ultimate conclusion being for the finder 
+of the fact.  Musselman v. Central Telephone Company, 154 N.W.2d 128, 133 (Iowa 
+1967); Bodish v. Fischer, Inc., 257 Iowa 516, 522, 133 N.W.2d 867, 870 (1965).  The 
+commissioner as trier of fact has the duty to determine the credibility of the witnesses 
+and to weigh the evidence, together with the other disclosed facts and circumstances, 
+and then to accept or reject the opinion.  Dunlavey, 526 N.W.2d at 853. 
+Jacobs alleges work-related injuries to his right knee, low back, and bilateral 
+wrists as a result of his fall on February 18, 2022. (See Petition).  He relies upon the 
+opinions of Dr. Taylor and Dr. Manshadi to prove his claims.  I do not find either report 
+persuasive.  In his report, Dr. Taylor opines that Jacobs injured his low back during the 
+
+JACOBS V. ARCHER DANIELS MIDLAND CO. 
+Page 15 
+ 
+fall on February 18, 2022, because he did “a twisting-type motion as he forcefully fell to 
+the ground.” (Cl Ex. 2, p. 24).  This statement is not supported by the hearing record.  
+Jacobs has been asked to describe the February 18, 2022 fall many times throughout 
+this litigation.  (See Tr., pp. 32-33; Cl Ex. 9, p. 127; JE 1, p. 14; JE 3, p. 28).  He has 
+never described a back twisting motion as indicated in Dr. Taylor’s report.  (See Tr., pp. 
+32-33; Cl Ex. 9, p. 127; JE 1, p. 14; JE 3, p. 28). Dr. Taylor’s back opinion is based upon 
+an inaccurate history.  
+In his report, Dr. Taylor also admits that Jacobs had documented meniscal tears 
+in his right knee prior to the work incident on February 18, 2022. (Cl Ex. 2, p. 24). He, 
+however, opines that Jacobs’ current right knee complaints are causally related to the 
+work incident because it aggravated his pre-existing arthritis.  (Id.).  Yet, he does not 
+assign Jacobs any permanent impairment for his arthritis; he only assigns impairment 
+for the meniscectomy, a surgery that in his opinion was necessary prior to the work 
+injury and unrelated to the work incident.  (Id.).  He also does not point to any objective 
+testing in the hearing record showing the work incident substantially worsened Jacobs’ 
+arthritic condition. In 2019, Dr. Steinbronn had already diagnosed Jacobs with 
+osteoarthritis and severe medial compartment chondromalacia. (See JE 1, pp. 9-13). Dr. 
+Taylor does not point to objective testing showing that the work fall caused those pre-
+existing conditions to worsen.  Further, Dr. Taylor opines that the cause of Jacobs’ 
+bilateral knee hyperextension, a source of his instability, is unclear; he does not causally 
+connect the laxity to the work injury. (Id. at 25).  This tracks with Dr. Switzer’s opinion 
+that Jacobs’ bilateral knee laxity was unrelated to the work incident. (See JE 5, p. 127).  
+Finally, he opines Jacobs’ bilateral carpal tunnel symptoms were caused by his many 
+falls after the alleged February 18, 2022 date of injury. (See Cl Ex. 2, p. 25).  As noted 
+above, however, the medical evidence does not support Jacobs’ allegation of falling 32 
+times after his knee surgery.  Given the above issues, the undersigned does not find Dr. 
+Taylor’s opinion persuasive.  
+Dr. Manshadi’s report is very terse.  He opines that the work injury on February 
+18, 2022, was a substantial contributing factor in producing Jacobs’ right-sided low back 
+pain with radiculopathy likely at L5-S1,5 and that it was also a materially aggravating 
+factor in Jacobs’ knee injury and need for arthroscopic surgery, and that his bilateral 
+carpal tunnel was a sequela caused by his numerous post-surgery falls and use of 
+crutches. (Cl Ex. 1, pp. 7-8).  Dr. Manshadi, however, does not provide any further 
+analysis to explain these alleged causal relationships.  (Id.).  He does not adequately 
+address Jacobs’ prior medical treatment and pre-existing diagnoses, his EMG results, 
+the results of his imaging tests, and/or the contrary opinions of Dr. Pospisil and Dr. 
+Switzer, his treating physicians.  Additionally, like Dr. Taylor, Dr. Manshadi only assigns 
+permanent impairment for Jacobs’ meniscectomy, a surgery to repair tears he acquired 
+prior to the work incident on February 18, 2022, but he does not assign any impairment 
+                                                 
+5 Dr. Harman’s treatment records indicate Jacobs’ numbness does not follow the L5-S1 distribution. (See, 
+e.g., JE 4, p. 65).   Additionally, the EMG taken of his right lower extremity showed mild axonal sensorimotor 
+polyneuropathy, but no radiculopathy. (JE 5, p. 114).  Dr. Harman indicated the EMG results showed length 
+dependent polyneuropathy. (JE 8, p. 170).   
+
+JACOBS V. ARCHER DANIELS MIDLAND CO. 
+Page 16 
+ 
+for an aggravation to Jacobs’ osteoarthritis.  Given these inconsistencies, I do not find 
+Dr. Manshadi’s report convincing.  
+The objective evidence shows that Jacobs already had meniscal tears and 
+degenerative arthritis in his right knee prior to the February 18, 2022 work incident.  
+While his pain complaints increased after the incident, there is no objective medical 
+evidence that the incident caused and/or accelerated these conditions.  There is also 
+insufficient medical evidence of a causal relationship between Jacobs’ back and 
+bilateral arm conditions and the alleged work incident.  I conclude Jacobs failed to meet 
+his burden of proof to show he sustained a permanent injury that arose out of and in the 
+course of his employment with ADM on February 18, 2022.  He is not awarded any 
+permanent partial disability benefits in this action. Because Jacobs failed to meet his 
+burden of proof on causation, the remaining issues of whether claimant is entitled to 
+penalty benefits, the payment of medical expenses, and entitlement to alternate medical 
+care are moot; the undersigned will make no fact findings on those issues.  
+Finally, Jacobs seeks an award of costs, which are outlined in claimant’s exhibit 
+11. (Cl Ex. 11, pp. 175-190).  Costs are to be assessed at the discretion of the deputy 
+commissioner hearing the case. See 876 IAC 4.33; Iowa Code § 10A.328.  
+Administrative Rule 4.33 provides as follows:  
+Costs taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and practitioners’ 
+deposition testimony, provided that said costs do not exceed the amounts 
+provided by Iowa Code sections 622.69 and 622.72, (6) the reasonable 
+costs of obtaining no more than two doctors’ or practitioners’ reports, (7) 
+filing fees when appropriate, including convenience fees incurred by using 
+the WCES payment gateway, and (8) costs of persons reviewing health 
+service disputes. 
+876 IAC 4.33.   
+ 
+Jacobs incurred costs of $128.75 for the filing fee for his petition and $8.10 for 
+service of that petition on ADM.  (Cl Ex. 11, p. 175).  He also seeks reimbursement for 
+the cost of Dr. Taylor’s report in the amount of $5,940.00, and the cost of ordering his 
+own deposition transcript in the amount of $624.50. (Id.). Jacobs received temporary 
+partial benefits as a result of the February 18, 2022 work incident.  I conclude it is 
+reasonable to assess his filing fee and service costs pursuant to 876 IAC 4.33(7), as 
+well as his deposition transcript charges pursuant to 876 IAC 4.33(2), as the deposition 
+was utilized and cited to in this decision.  I did not find Dr. Taylor’s report persuasive and 
+did not rely upon it in this decision.  I conclude it is not appropriate to assess the cost of 
+Dr. Taylor’s report against ADM.  
+
+JACOBS V. ARCHER DANIELS MIDLAND CO. 
+Page 17 
+ 
+ 
+I assess costs totaling $761.35. 
+ORDER 
+THEREFORE, IT IS ORDERED: 
+Claimant shall take no permanency benefits from this proceeding.  
+Defendant shall pay costs of seven hundred sixty-one and 35/100 dollars 
+($761.35).   
+Defendant shall file subsequent reports of injury (SROI) as required by this 
+agency pursuant to rules 876 IAC 3.1 (2) and 876 IAC 11.7. 
+Signed and filed this _20th __ day of November, 2024. 
+ 
+   
+__________________________ 
+         AMANDA R. RUTHERFORD 
+              DEPUTY WORKERS’  
+    COMPENSATION COMMISSIONER 
+ 
+The parties have been served, as follows:  
+Robert Legislador (via WCES) 
+Peter Thill (via WCES) 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Division of Workers’ Compensation to file documents in paper form. If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers ’ Compensation Commissioner, Iowa 
+Division of Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836. The notice of appeal 
+must be received by the Division of Workers’ Compensation within 20 days from the date of the decision. The appeal 
+period will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+  
+ 
+ 

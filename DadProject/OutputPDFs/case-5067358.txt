@@ -1,0 +1,1253 @@
+Case Number: 5067358
+Case Title:  HANEY, DANIEL R V. ARCONIC
+Doc Type:    Decision - Deputy
+Source:      Haney Daniel-5067358D.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+DANIEL HANEY, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+     File No. 5067358 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                  
+ARCONIC, INC., 
+  : 
+ 
+ARBITRATION DECISION 
+ 
+ 
+  :                         
+ 
+Employer, 
+  : 
+ 
+ 
+  :                         
+and 
+ 
+  : 
+ 
+ 
+  : 
+INDEMNITY INSURANCE COMPANY 
+  : 
+OF NORTH AMERICA, 
+  : 
+ 
+ 
+  : 
+      Head Notes: 1108.50, 1402.30,  
+ 
+Insurance Carrier, 
+  : 
+      1403.30, 1803, 2208, 2402, 2501 
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+Daniel Haney filed a petition in arbitration seeking workers’ compensation 
+benefits from employer Arconic, Inc. and insurance carrier Indemnity Insurance 
+Company of North America for alleged occupational hearing loss and tinnitus.  
+The agency held a hearing in Davenport, Iowa. The undersigned presided. 
+Haney participated personally and through attorney Brian T. Fairfield. The defendants 
+participated through attorney Jane V. Lorentzen. 
+ISSUES 
+Under agency rule 876 IAC 4.19(3)(f), the parties jointly submitted a hearing 
+report identifying the following disputed issues: 
+1) Did Haney sustain injuries, in the form of occupational hearing loss and 
+tinnitus, which arose out of and in the course of his employment with Arconic 
+on May 7, 2018? 
+2) Did Haney timely commence this action under Iowa Code section 85.26? 
+3) If the alleged injuries arose out of and in the course of his employment with 
+Arconic, what is the nature and extent of Haney’s permanent disability 
+relating to the injuries, if any? 
+ELECTRONICALLY FILED     2021-Oct-05  14:44:01     DIVISION OF WORKERS' COMPENSATION
+
+HANEY V. ARCONIC, INC. 
+Page 2 
+ 
+4) Is Haney entitled to payment of medical expenses relating to the alleged 
+injuries? 
+5) Are costs taxed against Haney or the defendants? 
+ After discussion of the disputed issues at hearing, the undersigned issued an 
+order adopting the hearing report as part of the record in this case because it accurately 
+reflects the disputed issues submitted to the agency for determination. 
+STIPULATIONS 
+ 
+In the hearing report, the parties also entered into the following stipulations: 
+1) An employer-employee relationship existed between Haney and Arconic at 
+the time of the alleged work injury. 
+2) At the time of the alleged work injuries: 
+a) Haney’s gross earnings were one thousand two hundred thirty-five and 
+42/100 ($1,235.42) per week. 
+b) Haney was married. 
+c) Haney was entitled to two exemptions. 
+3) With respect to the disputed medical expenses: 
+a) Although disputed, the medical providers would testify as to the 
+reasonableness of their fees and/or treatment set forth in the listed 
+medical expenses and the defendants are not offering contrary 
+evidence. 
+b) Although causal connection of the medical expenses to a work injury 
+cannot be stipulated, the listed expenses are at least causally 
+connected to the medical condition upon which Haney’s claim of injury 
+is based. 
+The parties’ stipulations in the hearing report are accepted and incorporated into 
+this arbitration decision. This decision contains no discussion of any factual or legal 
+issues relative to the parties’ stipulations unless necessary for clarity. The parties are 
+bound by their stipulations. 
+FINDINGS OF FACT 
+The evidentiary record in this case consists of the following:  
+ Joint Exhibits 1 through 3; 
+
+HANEY V. ARCONIC, INC. 
+Page 3 
+ 
+ Claimant’s Exhibits 1 through 5;  
+ Defendants’ Exhibits A through E; and 
+ Hearing testimony by Haney and Adrianne Stoltenberg, an industrial hygienist 
+employed by Arconic.  
+ 
+After careful consideration of all evidence in the record and the parties’ post-
+hearing briefs, the undersigned makes the following findings of fact. 
+Haney was 57 years old at the time of hearing. (Hrg. Tr. p. 10) He has achieved 
+a GED. (Hrg. Tr. p. 10) Haney has taken some postsecondary courses, but has not 
+earned a postsecondary degree or certificate. (Hrg. Tr. p. 10) 
+In Haney’s younger years, he liked to attend concerts. (Ex. C, p. 15) He attended 
+concerts primarily in the 1980s. (Ex. C, p. 15; Hrg. Tr. p. 44) The concerts were mostly 
+outdoors. (Ex. C, p. 15) Usually, he stayed in the back. (Ex. C, p. 16) 
+Haney mowed lawns growing up. (Ex. C, p. 17; Hrg. Tr. p. 45) He lived in an 
+apartment for several years before buying his first house in the 1990s. (Ex. C, p. 17; 
+Hrg. Tr. p. 45) Haney has been mowing the lawns of his houses since that time. For the 
+12 or 13 years before the hearing, Haney has worn hearing protection while mowing. 
+(Ex. C, p. 18; Hrg. Tr. pp. 42–43) 
+Haney infrequently fired guns in his youth and has not done so in over 25 years. 
+(Hrg. Tr. p. 41) Haney uses a chainsaw to cut down trees on his property, but less often 
+than once per year on average in the roughly 16 years he has lived at his current 
+residence. (Ex. C, Hrg. Tr. pp. 41–42) He also has saws that he uses on occasion 
+around the house, while wearing hearing protection. (Ex. C, p. 19) 
+Haney’s mother has had no issues with her hearing. (Hrg. Tr. p. 40) Neither have 
+his three siblings. (Hrg. Tr. p. 40) Haney’s father sustained hearing loss that led to him 
+getting hearing aids after the age of 70. (Hrg. Tr. p. 39) There is insufficient evidence in 
+the record from which to conclude Haney’s father sustained hearing loss due to a 
+genetic condition. 
+The weight of the evidence shows Haney has had multiple jobs during his career, 
+but none with a work environment as consistently as loud as the one at Arconic, which 
+specializes in aluminum manufacturing. (Ex. B, p. 5; Cl. Ex. 1, Depo Ex. E, p. 34; Hrg. 
+Tr. p. 11) Haney worked for Iowa Beef Processing in Joslin, Illinois, for about nine 
+years. (Hrg. Tr. pp. 11–12) He began working on the kill floor, where he wore plastic 
+earplugs for protection, and worked his way up the organizational ladder to the job of 
+supervisor. (Hrg. Tr. p. 12) Haney credibly testified he did not notice any problems with 
+his hearing while working for Iowa Beef Processing. (Hrg. Tr. pp. 12–13) After Iowa 
+Beef Processing, Haney installed lawn sprinklers for Suburban Landscape for the 
+summer of 1994. (Hrg. Tr. pp. 11–12) 
+
+HANEY V. ARCONIC, INC. 
+Page 4 
+ 
+Arconic hired Haney in or around 1995. (Hrg. Tr. p. 11) Prior to going to work 
+with Arconic, Haney did not seek a doctor’s care for hearing-related issues. (Hrg. Tr. p. 
+13) The work environment at Arconic is loud enough that the company has implemented 
+a hearing protection program, which Stoltenberg oversees. (Hrg. Tr. 60) As part of the 
+program, Arconic has set standards defining what is acceptable noise exposure for its 
+workforce:  exposure over a 12-hour period to 83 decibels and over an eight-hour period 
+to 85 decibels. (Hrg. Tr. p. 61)  
+Arconic requires employees to wear hearing protection in certain parts of its 
+facility as part of its hearing protection program. (Hrg. Tr. p. 45) Haney wore molded or 
+fitted earplugs and foam earplugs for protection throughout his employment with 
+Arconic. (Hrg. Tr. p. 16) The molded hearing protection is customized to the individual 
+worker so that it cannot be worn incorrectly. (Hrg. Tr. pp. 62–63)  
+Despite Arconic’s hearing-protection mandate, employees regularly remove 
+hearing protection when they need to talk to one another about how to address issues 
+on the floor. (Hrg. Tr. p. 25) According to the questionnaire Haney filled out for Richard 
+Tyler, Ph.D., he removed his hearing protection to talk with others six to 20 times per 
+day for time periods of less than a minute to as many as 10 minutes at a time. (Cl. Ex. 
+1, Depo. Ex. E, p. 31) 
+Haney initially worked in the conventional end of the Arconic aerospace 
+department, which had some noise but nothing like what he experienced on the job after 
+changing positions in 2002. (Hrg. Tr. pp. 13–14) In 2002, He moved to the department’s 
+continuance end, processing coil. (Hrg. Tr. p. 14) In the continuance end of the 
+department, Haney worked on the one and two 84-inch line, the continuous skin pass 
+mill, the 86-inch continuous heat treat, the 12-coil slitter, and 4 prep. (Hrg. Tr. p. 14)  
+Haney was exposed to loud noise on a “fairly consistent” basis between 2002 
+and 2018. (Hrg. Tr. p. 15) The degree of Haney’s exposure depended on his assigned 
+duties. (Hrg. Tr. p. 15) For example, working on the 84-inch shears, he experienced 
+loud noises all day because that is where the metal is cut. (Hrg. Tr. p. 15) In contrast, 
+Haney explained, the entry had more periodic loud noise: 
+On the entry end, when we finish a coil, it falls off of a mandril, which is a 
+device that holds the coil in place. When we finish, the coil falls off of 
+there, and depending on how heavy a gauge it is, it slams against the 
+equipment like a plate. And as it goes in, it is usually fairly loud. You can 
+pretty much hear it throughout the whole end of the department. 
+(Hrg. Tr. pp. 15–16) 
+Arconic ran noise tests at the machines Haney and his coworkers used. On 
+August 8, 2014, Arconic sent a memo to staff, including Haney, regarding the noise 
+levels it measured. (Cl. Ex. 1, Depo. Ex. B) The memo contained a time weighted 
+average (TWA) for the machines the employees worked during the years 2006, 2007, 
+and 2008 (Historical) and 2014 (Current): 
+
+HANEY V. ARCONIC, INC. 
+Page 5 
+ 
+PC 
+Historical 
+Current 
+12 Slitter 
+89.6 
+85.3 
+2 Slitter 
+85.7 
+81.9 
+60” 
+85.3 
+81 
+4 Coil Prep 
+88.4 
+85.1 
+1-84” 
+89.6 
+86.8 
+86” 
+86 
+85.2 
+(Cl. Ex. 1, Depo. Ex. B, p. 9)  
+The reduction in noise exposure is due largely to changes Arconic made in its 
+use of compressed air. (Cl. Ex. 1, Depo. Ex. B, p. 9) It is more likely than not Haney was 
+exposed to higher noise levels from 2002 through at least 2008, the last year of the 
+“Historical” measurements cited by Arconic in the memo.  
+Arconic also tracked Haney’s personal exposure to noise during part of his 
+employment. 
+Start Date 
+End Date 
+Job 
+Maximum 
+TWA dbA 
+Average 
+TWA, dbA 
+12/13/2005 
+2/29/2008 
+Flat Sheet Coil Operator 
+87.8 
+84.5 
+3/1/2008 
+3/1/2008 
+Flat Sheet Coil Operator 
+92.9 
+88.9 
+3/2/2009 
+3/15/2009 
+Coil Finishing Operator 
+92.1 
+88.7 
+3/16/2009 
+10/30/2016 
+Sheet Finish Coil Operator 
+88.0 
+85.4 
+10/31/2016 
+4/9/2017 
+Sheet 84 Operator 
+85.1 
+79.4 
+4/10/2017 
+12/31/2018 
+Sheet 86 Operator 
+85.8 
+81.8 
+ (Ex. C; Cl. Ex. 1, Depo. Ex. A) 
+There is no data in the evidentiary record from Haney’s early years of 
+employment with Arconic. Nonetheless, the record shows Haney worked around 
+pneumatic shears during this time. Defense expert Mark Zlab, M.D., noted, “This 
+entailed a great deal of noise. Hearing protection was provided.” (Ex. B, p. 5) 
+Prior to 2006, Arconic employees worked eight hours daily from Monday through 
+Friday. (Hrg. Tr. p. 17) In 2006, Arconic changed the schedule to a 12-hour workday. 
+(Hrg. Tr. p. 17) Haney typically worked 12-hour days during a 36- or 48-hour week. 
+(Hrg. Tr. p. 17) If he worked overtime, he would work about 56 hours in a week. (Hrg. 
+Tr. p. 17) 
+
+HANEY V. ARCONIC, INC. 
+Page 6 
+ 
+Generally, Arconic does not unilaterally assign employees to work in specific 
+jobs. (Hrg. Tr. p. 46) Arconic has a seniority system in place for when incumbent 
+employees change jobs. (Hrg. Tr. p. 46) An employee may choose to bid on an open 
+job. (Hrg. Tr. p. 46) The decision to bid for a job is voluntary. (Hrg. Tr. p. 46) If the 
+employee bids and has the most seniority, the employee gets to work that job. (Hrg. Tr. 
+p. 46) Based on the totality of the evidence, it is more likely than not a collective 
+bargaining agreement (CBA) with a union governs employee transfers. 
+On May 7, 2018, Haney bid into a different job. (Hrg. Tr. p. 28) Haney moved 
+from working on the floor, in close proximity to noise-producing machinery, to the pulpit 
+of the 86-inch line, which is inside. (Hrg. Tr. pp. 28–29, 45–46) He runs a machine 
+inside that controls speed and tension and monitors quality using cameras. (Hrg. Tr. p. 
+28) The job is less noisy. (Hrg. Tr. p. 29) Haney does not have to wear hearing 
+protection while performing duties in the pulpit. (Hrg. Tr. p. 29) 
+Despite bidding into a job based in the pulpit, Haney still experiences loud noise 
+while working. He testified he occasionally has to go to the floor to work through 
+problems with the crew. (Hrg. Tr. p. 29) Haney testified this can take anywhere from 45 
+minutes to an entire workday. (Hrg. Tr. p. 49) He estimated he had to work an entire 
+workday on the floor about a dozen times in his two years working the pulpit job. (Hrg. 
+Tr. p. 56) Haney is also exposed to noise when walking to and from break, during which 
+time Arconic requires him to wear ear protection. (Hrg. Tr. p. 47)  
+Haney was still working in the position based primarily in the pulpit on the date of 
+hearing. (Hrg. Tr. p. 28) In response to a question about whether he hoped the job 
+would be permanent, Haney testified, “I’m hoping, yes.” (Hrg. Tr. p. 30). But it is 
+possible another worker with more seniority could bump Haney out of the pulpit job 
+under the Arconic transfer system. (Hrg. Tr. p. 49)  
+Neither Haney’s hearing loss nor his tinnitus has impacted his earnings at 
+Arconic. (Hrg. Tr. p. 52) He testified that he received raises under the contract. (Hrg. Tr. 
+p. 52) Haney was earning higher pay at the time of hearing than he was in May of 2018. 
+(Hrg. Tr. p. 52) There is no indication he has worked fewer hours due to either his 
+hearing loss or tinnitus.  
+As part of Arconic’s hearing protection program, it annually tests the hearing of 
+employees, including Haney. (Hrg. Tr. pp. 25–26) With respect to the disputed issues in 
+this case, the record establishes David Tutor, M.D., the Arconic medical director, was 
+the first medical professional to review Haney’s hearing tests and offer an opinion on 
+the cause of the hearing loss they reflect.  
+On April 27, 2018, Dr. Tutor performed an audiometric review and work 
+relatedness determination of Haney’s hearing loss by reviewing the company testing of 
+both ears from April 26, 1995, to February 15, 2018. (Ex. A, p. 1) Dr. Tutor did not 
+address Haney’s tinnitus. (Ex. A, p. 1) As part of the review, Dr. Tutor noted (sic): 
+
+HANEY V. ARCONIC, INC. 
+Page 7 
+ 
+[Haney] has a confirmed left ear 10dB STS with a 25 average. His left ear 
+audiograms did show a “notch” in 3, 4, or 6K with recovery at 8K from 
+1995-2006, but showed the employee to have “normal” hearing, that is no 
+hearing loss. Hearing loss in the left ear is noted to have commenced 
+around 2007 and has progressed rapidly over the interval 10 years in a 
+SNHL pattern. There is no noise notch at 3, 4, or 6K plus no recovery at 
+8K. In fact, 8K has “lead the way” with the loss. This represents a left ear 
+accelerated asymmetrical hearing loss pattern over the past 10 years and 
+should receive further audiology or ENT workup. The hearing loss now 
+exceeds that which would be expected with noise exposure alone. 
+(Ex. A, p. 1) 
+It is Dr. Tutor’s impression that Haney “has diffuse sloping hearing loss left ear 
+consistent with SNHL but in a pattern not consistent with NIHL. Consider age, genetic, 
+or medical condition as cause.” (Ex. A, p. 1) Dr. Tutor further opined, “Work related 
+determination is that this employee’s left ear hearing loss is not consistent with noise 
+induced hearing loss and should be considered a potential medical exception case and 
+not recorded on the OSHA log.” (Ex. A, p. 1) He recommended advising Haney to seek 
+care from his personal physician or a specialist to rule out hearing loss due to a medical 
+condition. (Ex. A, p. 1) 
+In addition to hearing loss, Haney has experienced ringing in his ears. (Hrg. Tr. p. 
+31) In Haney’s right ear, it manifests as a high-pitched buzzing noise since around 
+2007. (Hrg. Tr. p. 32) He has experienced a similar buzzing in his left ear from 2015 or 
+2016 forward. (Hrg. Tr. pp. 32–33) The ringing has grown louder with time. (Hrg. Tr. pp. 
+31–32) 
+Haney credibly described how the tinnitus has impacted his life. The tinnitus can 
+be heavy on Haney’s mind. (Hrg. Tr. p. 34) It makes communicating frustrating because 
+he has to be in the same room and facing the person with whom he is attempting to 
+communicate. (Hrg. Tr. p. 35) This impacts him at work and at home. (Hrg. Tr. p. 34) 
+Haney’s tinnitus makes it hard for him to understand certain parts of speech 
+because they are similar in sound to the buzzing. (Hrg. Tr. p. 33) The problem is 
+particularly pronounced when he attempts to listen to women and children talk and the 
+noise when pronouncing certain sounds relating to letters and letter combinations like 
+“s”, “ph”, and “th.” (Hrg. Tr. p. 33) Haney described an example of how this impacts him 
+at work: 
+[S]ometimes when I’m out on the floor or having to talk to somebody 
+through the PA, understanding what they are saying can be difficult. If, 
+like, we are trying to talk at a distance, like, 5 or 6 feet with my earplugs in, 
+usually I can’t even understand what they are saying; whereas other 
+people that I work with can usually understand what they are saying. 
+(Hrg. Tr. p. 34) 
+
+HANEY V. ARCONIC, INC. 
+Page 8 
+ 
+In order to hear what coworkers are saying, Haney has to get closer to them or 
+have another coworker repeat what was said. (Hrg. Tr. p. 34) He also feels compelled to 
+remove his hearing protection to better communicate. (Hrg. Tr. p. 34) Haney believes he 
+would not have to remove his hearing protection as often as he does if he did not 
+experience the buzzing from tinnitus. (Hrg. Tr. p. 34) 
+ 
+Dr. Tyler performed an assessment of Haney’s hearing loss. (Cl. Ex. 1) Dr. Tyler 
+had Haney complete a questionnaire relating to hearing loss, tinnitus, and causation. 
+(Ex. 1, Depo. Tr. pp. 5–6; Ex. 1, Depo. Ex. E, pp. 30–36) In Haney’s responses to the 
+questionnaire, he stated his work included exposure to impulsive noise, like banging or 
+clanging. (Cl. Ex. 1, Depo. Ex. E, p. 31) He also shared with Dr. Tyler that Arconic 
+required hearing protection, but that he had to remove it to effectively communicate 
+when speaking with other workers. (Cl. Ex. 1, Depo. Ex. E, p. 31) 
+In addition to the answers to the questionnaire, Dr. Tyler reviewed records 
+relating to Haney’s hearing and performed an interview by telephone. (Ex. 1, Depo. Tr. 
+p. 7) Based on his review of the records, answers to the questionnaire, and phone 
+conversation with Haney, Dr. Tyler issued a report dated January 5, 2019. (Cl. Ex. 1, 
+Depo. Ex. D, p. 15) The evidence establishes this is the first time a medical professional 
+informed Haney that his work at Arconic caused permanent hearing loss or tinnitus, and 
+that the tinnitus resulted in a permanent disability.  
+Dr. Tyler opined Haney’s years of working in an environment with a time-
+weighted average (TWA) of 88 decibels was excessive. (Ex. 1, Depo. Tr. p. 10) After 
+considering Haney’s work environment and other possible causes, he concluded the 
+most likely primary cause of Haney’s hearing loss and tinnitus was noise exposure while 
+working for many years at Arconic. (Ex. 1, Depo. Tr. p. 10) Dr. Tyler found Haney’s 
+hearing tests at Arconic instructive on causation:  
+[T]he audiogram back in 1995 is within normal limits. Normal limits are 
+usually considered 0 to 25 dB hearing level. And over time the hearing 
+became worse and became worse in the high frequencies. There is 
+something called a noise-induced notch that happens with noise exposure 
+when that’s the most probable cause, and what that means is that hearing 
+is worse at 3 or 4 or 6,000 hertz and then gets better at 8,000 hertz. And 
+the interesting thing is that it does not matter whether it’s low-frequency 
+noise or high-frequency noise, it doesn’t matter if it’s continuous noise or 
+impulsive noise, one always gets a noise-induced notch, and that’s likely 
+as a result of the mechanics of the cochlea, of the inner ear, for hearing. 
+(Ex. 1, Depo. Tr. p. 13)  
+When asked why the notch is indicative of noise-induced hearing loss, Dr. Tyler 
+explained human and animal studies have shown “that’s where hearing loss due to 
+noise starts and any other cause of hearing loss, like the aging or medications or 
+disease process, does not have a hearing loss audiogram that is shaped like that.” (Ex. 
+1, Depo. Tr. pp. 13–14) In Dr. Tyler’s report, he opines Haney’s audiograms show a 
+
+HANEY V. ARCONIC, INC. 
+Page 9 
+ 
+notch in his right ear beginning in 2000 and in his left ear in 2006. (Ex. 1, Depo. Ex. D, 
+p. 18) Moreover, he states Haney’s 2018 audiograms “show a clear noise-induced 
+notch in both ears” that is “non-disputable.” (Ex. 1, Depo. Ex. D, p. 18) 
+Dr. Tyler has worked with people suffering from tinnitus for over 30 years. (Ex. 1, 
+Depo. Tr. pp. 19–20) He explained, “Tinnitus is when you hear a sound in your ears on 
+a regular basis that’s not associated with an acoustic stimuli on the outside.” (Ex. 1, 
+Depo. Tr. p. 19) Tinnitus may impact a person’s hearing, sleep, concentration, thoughts, 
+and emotions. (Ex. 1, Depo. Tr. p. 20) Dr. Tyler further opined that the most common 
+cause of tinnitus is noise exposure. (Ex. 1, Depo. Tr. p. 20) In his expert opinion, the 
+cause of Haney’s bilateral tinnitus is noise exposure while working at Arconic. (Ex. 1, 
+Depo. Tr. p. 21) 
+Dr. Tyler used a custom formula he devised for rating impairment caused by 
+tinnitus to assess Haney. He did so using a scale from zero (least) to 100 (most) in the 
+areas of concentration, emotional well-being, hearing, and sleep. (Cl. Ex. 1, p. 21) He 
+then averaged them and multiplied the average by .60 based on a valuation derived 
+from comparing the maximum impairment ratings in the Fifth Edition of the American 
+Medical Association (AMA) Guides to the Evaluation of Permanent Impairment (Guides) 
+for emotional or behavioral, mental status, two impaired upper extremities, and 
+blindness, and then arriving at his own percentage rating for tinnitus, based on his 
+professional experience. (Cl. Ex. 1, pp. 22–23) Based on this calculation, Dr. Tyler 
+opined that Haney’s whole body impairment from tinnitus is 19 percent. (Cl. Ex. 1, p. 23) 
+During Dr. Tyler’s deposition, defense counsel asked him about the formula he 
+used to determine Haney’s impairment relating to tinnitus: 
+Q. 
+Has your method calculating [impairment relating to] tinnitus been 
+endorsed by the [Guides]? 
+A. 
+Absolutely not. 
+Q. 
+And in fact the [Guides] provide that on page 246, tinnitus in the 
+presence of unilateral or bilateral hearing impairment may impair 
+speech discrimination, therefore add up to 5 percent for tinnitus in 
+the presence of measurable hearing loss if the tinnitus impacts the 
+ability to perform activities of daily living. 
+ 
+What was your impairment rating for tinnitus with Mr. Haney? 
+A. 
+Well, I’ll say the [Guides] – What you’re reading from is only in the 
+chapter on hearing, and the [Guides] also allow calculations and 
+contributions to people’s distress and emotional consequences, 
+which can be added to the hearing loss rating in that guide. 
+Q. 
+Did you calculate impairment for emotional distress in accordance 
+with the [Guides]? 
+
+HANEY V. ARCONIC, INC. 
+Page 10 
+ 
+A. 
+No. I don’t believe the [Guides] are appropriate and don’t 
+specifically address tinnitus in a very appropriate way. 
+I’ve been on committees from the National Academy of Science, for 
+example, where they indicate that the consequences of tinnitus in 
+some people can be much, much more severe than the 
+consequences of hearing loss. There are people, for example that 
+can – [. . .] 1 For example, people commit suicide because of 
+tinnitus. 
+(Cl. Ex. 1, Depo. pp. 44–45) 
+Dr. Tyler co-authored “Noise-Induced Tinnitus,” AAOHN J. Sep 1987; 35(9) 403-
+6. (Cl. Ex. 1, Depo. Ex. 1) The article states, “A complete history and physical 
+examination must be performed to rule out the presence of other more life-threatening 
+diseases, such as acoustic neuromas, meningiomas, and other central nervous system 
+lesions. (Cl. Ex. 1, Depo. Ex. 1, p. 1) Further, according to Dr. Tyler and his co-author, 
+an exam is “followed by a complete medical examination with blood pressure and 
+consultation with an otolaryngologist for neurotologic examination.” (Cl. Ex. 1, Depo. Ex. 
+1, p. 2) 
+The article of which Dr. Tyler is a co-author also states tinnitus “is commonly 
+reported by the victim of noise-induced hearing loss (NIHL) but may represent the first 
+symptom of a variety of disease processes. Tinnitus is directly related to noise 
+exposure. There is a 70% increased risk of developing tinnitus with a positive history of 
+occupational noise exposure when compared to those without a history of noise 
+exposure.” (Cl. Ex. 1, Depo. Ex. 1, p. 1)  
+Dr. Zlab, an otolaryngologist hired by Arconic for this case, examined Haney on 
+January 7, 2020, and opined on the cause of his hearing loss and tinnitus, as well as its 
+extent. (Ex. B, pp. 2–4) Dr. Zlab performed a physical examination of Haney, including 
+his ears. (Ex. B, p. 6) Dr. Zlab issued a report based on the examination and a review of 
+Haney’s records and the exam.  (Ex. B) 
+In the report, Dr. Zlab noted Haney was exposed to “kitchen noise but nothing of 
+significance” when he worked at a restaurant in the early ‘80s. (Ex. B, p. 5) Moreover, 
+he stated “[m]andatory hearing protection was observed” when Haney worked for Iowa 
+Beef Packers and Haney had “[n]o noise exposure” when installing sprinklers for 
+Suburban Landscape. (Ex. B, p. 5) With respect to noise exposure outside of 
+employment, Dr. Zlab stated: 
+Noise outside of the work environment entails usual and routine 
+lawnmowing. Minimal woodworking. He does report to me that he does 
+wear hearing protection when yardwork is being completed. 
+                                                 
+1 Defense counsel objected to Dr. Tyler’s answer as unresponsive. That objection is overruled. 
+
+HANEY V. ARCONIC, INC. 
+Page 11 
+ 
+(Ex. B, p. 5) 
+Dr. Zlab did not directly address Dr. Tyler’s opinion or articulate why he 
+disagreed with it. (Ex. B) He summarized Haney’s hearing tests at Arconic, viewing 
+these as the most important records included in his review. (Ex. B, p. 5) He concluded, 
+“At no time has the configuration of the hearing loss [been] consistent with noise 
+damage.” (Ex. B, p. 7) He did not elaborate on what type of hearing loss configuration is 
+consistent with noise damage. (Ex. B, p. 7)  
+Dr. Zlab also offered the following opinion on causation (sic): 
+After reviewing his history, past audiograms, [and] noise levels in the 
+factory, I have come to the conclusion that while he does suffer a mild to 
+moderate sensorineural hearing loss bilaterally, it does not appear to be 
+as a result of noise exposure in the work environment. The tinnitus which 
+he is experiencing would be associated with his hearing loss. There are no 
+treatment options for tinnitus. Hearing aids with benefit him in day-to-day 
+activities. As always, noise protection should be observed. 
+(Ex. B, p. 7)  
+Dr. Zlab did not further elaborate on the reasoning behind his causation opinion. 
+Thus, he offered a conclusory statement on causation with regards to Haney’s hearing 
+loss and tinnitus. Dr. Zlab did not identify any diseases that might have caused Haney’s 
+tinnitus. (Ex. B) He provided no impairment rating relating to Haney’s tinnitus. (Ex. B) 
+Haney’s personal physician referred him to Audiology Consultants. (Hrg. Tr. p. 
+36) Audiology Consultants recommended hearing aids. (Hrg. Tr. p. 36) Haney ultimately 
+obtained hearing aids. (Hrg. Tr. p. 36) He paid the bills for the care he received from 
+Audiology Consultants ($120) and hearing aids ($4,900). (Hrg. Tr. p. 36; Cl. Exs. 3, 4) 
+Haney does not wear his hearing aids while working because care providers 
+advised him the effect would be too loud and intense, which would likely further damage 
+his hearing. (Hrg. Tr. p. 37) He has experienced some improvement when wearing the 
+hearing aids outside of work. (Hrg. Tr. p. 37) Haney does not have to have the volume 
+turned up as high on the television or radio to hear and is better able to understand 
+family members when they speak. (Hrg. Tr. pp. 37–38) However, the hearing aids do 
+not reduce the buzzing Haney experiences due to tinnitus, though they are equipped to 
+emit white noise, which Dr. Tyler opined may help combat the effects of his tinnitus. 
+(Hrg. Tr. pp. 38, 51) 
+CONCLUSIONS OF LAW 
+In 2017, the Iowa legislature amended the Iowa Workers’ Compensation Act. 
+See 2017 Iowa Acts, ch. 23. The 2017 amendments apply to cases in which the alleged 
+date of injury is on or after July 1, 2017. Id. at § 24(1); see also Iowa Code § 3.7(1). 
+Because the injuries or conditions at issue in this case are alleged to have occurred 
+
+HANEY V. ARCONIC, INC. 
+Page 12 
+ 
+after July 1, 2017, the Iowa Workers’ Compensation Act, as amended in 2017, applies. 
+See, e.g., Smidt v. JKB Restaurants, LC, File No. 5067766 (App. Dec. 11, 2020). 
+1. 
+Timeliness. 
+Arconic has asserted the affirmative defense that Haney did not timely initiate 
+this case under Iowa Code section 85.26. During the review of the hearing report, the 
+parties and undersigned affirmed Arconic was asserting this affirmative defense without 
+further discussion. (Hrg. Tr. p. 5) Arconic makes one mention of the affirmative defense 
+in its post-hearing brief, under the “Procedural” section. (Def. Brief, p. 2) Arconic did not 
+include elsewhere in the brief any argument with respect to how the facts of the case or 
+law support a finding in its favor on the statute of limits question. (See Def. Brief)  
+By failing to brief on the timeliness issue, Arconic has effectively left it to the 
+agency to comb through the evidence and research the law in support of its affirmative 
+defense. It would be unjust for the agency to take on such a role. Consequently, Arconic 
+waived its affirmative defense when it failed to brief the issue with citations to the 
+evidentiary record and law. Arconic has therefore failed to meet its burden of proof on 
+the affirmative defense of an untimely claim under Iowa Code section 85.26.  
+Further, even assuming arguendo it is appropriate for a presiding deputy to 
+consider a disputed issue in the hearing report that the party asserting it did not 
+substantively address in its post-hearing brief, the evidence shows Haney’s claims are 
+not untimely under the law. 
+a. 
+Occupational Hearing Loss. 
+If Arconic meant to attack the timeliness of Haney’s occupational hearing loss 
+claim, it has failed. As discussed in Section 2(b) below, the “date of occurrence” under 
+Iowa Code section 85B.8(1) has not taken place in this case, so Haney’s occupational 
+hearing loss claim is not ripe for determination and the statute of limitations has not yet 
+begun to run. There is no basis under the law to conclude Haney’s occupational hearing 
+loss claim is untimely. 
+b. 
+Tinnitus. 
+This decision assumes arguendo Arconic intended to attack the timeliness of 
+Haney’s tinnitus claim. As discussed below, Haney proved it is more likely than not his 
+work at Arconic caused his tinnitus. Haney has shown his tinnitus is a cumulative injury, 
+caused by years of working in a noisy environment at Arconic. 
+“By their very nature, cumulative injuries develop over time and eventually result 
+in a compensable disability.” Larson Mfg. Co., Inc. v. Thorson, 763 N.W.2d 842, 851 
+(Iowa 2009) (citing McKeever, 379 N.W.2d at 373). Under the cumulative injury rule, the 
+date of injury is the date on which the disability manifests itself. Larson, 763 N.W.2d at 
+852; see also Herrera v. IBP, Inc., 633 N.W.2d 284, 287 (Iowa 2001). And the 
+
+HANEY V. ARCONIC, INC. 
+Page 13 
+ 
+manifestation date of a cumulative injury is when the claimant, as a reasonable person, 
+would be plainly aware that: 
+1) The claimant suffers from a condition or injury; and 
+2) This condition or injury was caused by the claimant’s employment. Id.; see 
+also Herrera, 633 N.W.2d at 287 (quoting Orr v. Lewis Cent. Sch. Dist., 298 
+N.W.2d 256, 257 (Iowa 1980). 
+Under the discovery rule for cumulative injuries, the limitations period for giving 
+notice to the employer does not begin to run until the claimant knows that the physical 
+condition is serious enough to have a permanent adverse impact on the claimant’s 
+employment or employability. Id. This is the point in time when the claimant, as a 
+reasonable person, knew or should have known of the nature, seriousness, and 
+probable compensable character of the injury or condition. Id.; see also Iowa Code 
+§ 85.26(1) (defining the “date of occurrence of the injury” for statute of limitations 
+purposes as “the date that the employee knew or should have known that the injury was 
+work-related”). 
+Haney worked for over a decade in a noisy environment at Arconic. He first 
+noticed buzzing in his left ear in or around 2007 and in his right ear in or around 2015 or 
+2016. But it was not unreasonable for him to believe the buzzing would cease after he 
+stopped working in the noisy environment; after all, no doctor had told him he had 
+permanent tinnitus or that it was caused by his work at Arconic. In May of 2018, Haney 
+transferred out of the noisy environment, to the pulpit. Haney later saw Dr. Tyler, who 
+issued a report dated January 5, 2019.  
+Thus, Dr. Tyler was the first medical professional to tell him his tinnitus was 
+caused by his employment and it had caused permanent damage. The evidence 
+establishes the date of Dr. Tyler’s report is the date on which Haney knew or should 
+have known his tinnitus was work-related and the cause of permanent disability under 
+the Iowa Workers’ Compensation Act. Haney filed his petition within two years of the 
+date of Dr. Tyler’s report. 
+For these reasons, Arconic has failed to meet its burden of proof on the question 
+of timeliness. The evidence does not show it is more likely than not Haney knew or 
+should have known his tinnitus was caused by his employment and is permanent in 
+nature more than two years before he filed his petition. Arconic’s affirmative defense 
+fails. 
+2. 
+Occupational Hearing Loss. 
+a. 
+Causation. 
+Haney seeks workers’ compensation benefits under the Iowa Occupational 
+Hearing Loss Act, Iowa Code chapter 85B. The record shows the question of causation 
+in this claim is intertwined with the same for his tinnitus claim. Further, the question of 
+
+HANEY V. ARCONIC, INC. 
+Page 14 
+ 
+whether a transfer constitutes the “date of occurrence of the injury” under Iowa Code 
+section 85B.8(1) and makes the claim ripe for determination on the question of 
+permanent disability, requires a determination of whether the transfer is “from excessive 
+noise exposure employment” under the statute. Therefore, it is appropriate to address 
+the question of causation regarding Haney’s occupational hearing loss claim regardless 
+of whether his occupational hearing loss claim is ripe under Iowa Code 85B.8(1). 
+“The legislature responded to medical awareness of the potential for hearing loss 
+due to prolonged exposure to excessive noise by enacting chapter 85B, removing many 
+obstacles to proving an occupational hearing loss.” Muscatine Cty. v. Morrison, 409 
+N.W.2d 685, 687 (Iowa 1987). Iowa Code section 85B.4(1) defines “excessive noise 
+exposure” to mean “exposure to sound capable of producing occupational hearing loss.” 
+Further, the statute includes a table outlining time and intensity exposure standards that 
+create a presumption on the question of whether a claimant’s employment caused 
+hearing loss. Id. at 686–88. 
+By adopting time and intensity exposure standards, the legislature did not 
+seek to rule out hearing losses that do not rise to those levels; rather, the 
+legislature sought to simplify prior problems of proof by recognizing 
+presumptive exposure levels for gradual noise-induced hearing loss. 
+When the tables are not implicated, the claimant must prove the loss of 
+hearing was due to exposure at work to sound capable of producing that 
+loss. Duration and intensity of exposure will be helpful to prove the 
+necessary link between noise at work and the hearing loss. Other causes 
+of the hearing loss may be explored by the employer or its insurer in 
+defense of the claim. 
+Id. at 687–88. 
+In the current case, the evidence does not establish Haney was exposed to noise 
+levels working at Arconic that create a presumption under the statute that his 
+employment caused his hearing loss. This is due in large part to the fact the tables 
+codified by the legislature end at eight hours of exposure and Haney worked 12-hour 
+shifts for about 12 years while working on the floor. Because the tables are not 
+implicated, it is appropriate to consider the evidentiary record, including the duration and 
+intensity of Haney’s noise exposure and the expert opinions on medical causation. 
+“Medical causation ‘is essentially within the domain of expert testimony.’” Cedar 
+Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 845 (Iowa 2011) (quoting Dunlavey 
+v. Economy Fire and Cas. Co., 526 N.W.2d 845, 853 (Iowa 1995)). “With regard to 
+expert testimony[,] [t]he commissioner must consider [such] testimony together with all 
+other evidence introduced bearing on the causal connection between the injury and the 
+disability. The commissioner, as the fact finder, determines the weight to be given to 
+any expert testimony. Such weight depends on the accuracy of the facts relied upon by 
+the expert and other surrounding circumstances. The commissioner may accept or 
+reject the expert opinion in whole or in part.’” Schutjer v. Algona Manor Care Ctr., 780 
+
+HANEY V. ARCONIC, INC. 
+Page 15 
+ 
+N.W.2d 549, 560 (Iowa 2010) (quoting Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 
+744, 752 (Iowa 2002)).  
+The evidence shows Haney was exposed to noisy work conditions that produced 
+sound capable of causing hearing loss. For the last 12 or so years of his time working 
+on the floor, he was subject to noise levels during shifts lasting 12 hours, a time duration 
+not listed in Iowa Code section 85B.5(1). And while Arconic took commonsense steps to 
+reduce employee noise exposure, this took place after Haney had worked on the floor 
+for several years—meaning it is more likely than not he was exposed to higher noise 
+levels during the time he was working eight-hour shifts, though the measured noise 
+levels were lower than those codified by the legislature for such duration. Lastly, there is 
+the reality that Haney had to remove his hearing protection with regularity when 
+performing his job duties on the floor in order to communicate with other employees. 
+As an initial matter, Dr. Tutor’s opinion on causation with respect to Haney’s 
+hearing loss is unavailing. He states Haney’s hearing loss was not caused by noise 
+exposure at work because there was not a qualifying notch, even though there is plainly 
+a notch. Dr. Tutor also suggested age as an alternative cause to Haney’s employment 
+even though Iowa law requires an adjustment for age when determining occupational 
+hearing loss. See 876 IAC 8.10. Put otherwise, hearing loss causation in Iowa is not an 
+either-or proposition between age and noise exposure at work. The law accepts that 
+both can be causes of hearing loss and requires an adjustment for an employee’s age-
+related hearing loss when determining that which is attributable to employment.  
+Dr. Zlab’s opinion is also unpersuasive on causation. He did not give a detailed 
+explanation as to why the information he reviewed led him to believe Haney’s hearing 
+loss is not caused by employment at Arconic. Instead, Dr. Zlab made a conclusory 
+statement without mentioning Haney’s removal of hearing protection to communicate 
+with coworkers multiple times in a given day for periods of time up to ten minutes, a fact 
+included in the questionnaire answers Haney provided to Dr. Tyler. Moreover, Dr. Zlab 
+did not explain why his opinion differed from Dr. Tyler’s regarding the observable 
+“notch” in Haney’s audiograms. Presumably, if the foundation of Dr. Tyler’s opinion is off 
+base, Dr. Zlab, as the expert retained by the defendants to opine on causation and 
+disability, could have articulated why. Moreover, Dr. Zlab’s physical examination did not 
+result in the finding of an articulated alternative cause. 
+Dr. Tyler gave credible and persuasive testimony during his deposition on the 
+cause of Haney’s occupational hearing loss. He gave a thorough explanation for why 
+the notch shown on Haney’s audiograms led him to believe his hearing loss was caused 
+by noise exposure, most likely from employment at Arconic. Dr. Tyler also explained 
+that he believed it was likely Arconic did not properly measure impulsive noise to which 
+Haney was exposed during his shifts working on the floor. Dr. Tyler’s opinion on the 
+cause of Haney’s hearing loss is most persuasive based on the totality of the evidence.  
+Haney has met his burden of proof. Noise exposure while working at Arconic is 
+the primary factor causing Haney’s hearing loss. The evidence shows it is more likely 
+
+HANEY V. ARCONIC, INC. 
+Page 16 
+ 
+than not that he has sustained hearing loss arising out of and in the course of his 
+employment with Arconic.  
+b. 
+Ripeness. 
+The Iowa Occupational Hearing Loss Act provides: 
+A claim for occupational hearing loss due to excessive noise exposure 
+may be filed beginning one month after separation from the employment in 
+which the employee was subjected to excessive noise exposure. The date 
+of the injury shall be the date of occurrence of any one of the following 
+events: 
+a. Transfer from excessive noise exposure employment by an employer. 
+b. Retirement. 
+c. Termination of the employer-employee relationship. 
+Iowa Code § 85B.8(1). 
+In the current case, Arconic employed Haney at the time of hearing, so neither 
+retirement nor termination can be a qualifying occurrence. The question is whether 
+Haney’s most recent transfer constitutes an occurrence under section 85B.8(1)(a).  
+As an initial matter, Arconic contends it did not transfer Haney so his job change 
+cannot qualify under section 85B.1(a). The evidence establishes it is more likely than 
+not Arconic agreed to a seniority-based bidding system for jobs at the facility where 
+Haney works. Haney transferred using this system. Thus, while Haney may have 
+initiated the transfer and obtained it due to his seniority status, he did so via a system 
+Arconic is at least in part responsible for putting in place and administering. Haney’s 
+transfer is therefore of a type that constitutes a transfer “by an employer,” under the 
+statute, because it occurred using a system to which Arconic agreed and helps 
+administer. 
+The analysis now shifts to whether the transfer is one “from excessive noise 
+exposure employment.” The Iowa Supreme Court considered in John Deere Dubuque 
+Works of Deere & Co. v. Weyant, 442 N.W.2d 101 (Iowa 1989), what constitutes the 
+“date of occurrence” of a hearing loss injury when an employee transferred positions. 
+After holding the earliest of the three alternative events under section 85B.8(1) triggers 
+the statute of limitations, the court considered whether Weyant’s transfer qualified under 
+section 85B.8(1)(a) to ripen his claim and trigger the statute of limitations. Weyant, 442 
+N.W.2d at 104–05.  
+With respect to Weyant’s employment with John Deere, the court recited the 
+following findings of fact: 
+
+HANEY V. ARCONIC, INC. 
+Page 17 
+ 
+During his employment with Deere, Weyant had been exposed to noise 
+levels measured as high as 91 decibels (dBA) and held more than forty 
+positions in the plant. The last position Weyant held was that of stores and 
+tool crib attendant, which he held from November 15, 1982 until his 
+retirement. While working as a tool crib attendant, Weyant was exposed to 
+noise levels averaging 73 dBA. Prior to being assigned the tool crib 
+position, Weyant had worked as a foundry inspector since December 17, 
+1979. As a foundry inspector, Weyant was exposed to noise levels of 89 
+dBA. 
+Id. at 103.  
+The court also quoted the Commissioner’s decision on appeal affirming the 
+deputy’s decision:  
+[T]he record reveals that claimant [Weyant] was subject to reassignment 
+to varying levels of noise exposure. He experienced those transfers 
+numerous times throughout his employment with defendant [Deere]. 
+Claimant's move from the inspector position to the tool crib attendant 
+position was not a transfer within the meaning of section 85B.8. Rather, 
+such action was merely a reassignment within the same work force and 
+subject to change. 
+Id. at 104–05 (alterations in original). 
+The court adopted the test articulated by the presiding deputy in the arbitration 
+decision for determining whether a transfer qualifies as an occurrence under the statute, 
+which consists of the following prongs: 
+1) Did the change in employment result in a clearly recognizable change in 
+employment status? 
+2) Did the change provide a reduction of noise exposure to a level that is not 
+capable of producing an occupational hearing loss? 
+3) Was the change permanent or indefinite in the sense that there is no 
+reasonable expectation that the worker will be returned to a position with 
+excessive noise level exposure in the ordinary course of operations in the 
+employer’s business? 
+4) Did the change actually continue for at least six months? 
+Id. at 105.  
+The court adopted this framework because it “provides that the change of 
+employment must be a specific change to a low noise area which is not part of a normal 
+or periodic rotation of employees” and “takes into account the prevailing view that a 
+permanent hearing loss cannot be validly measured until approximately six months’ 
+
+HANEY V. ARCONIC, INC. 
+Page 18 
+ 
+separation from the noisy environment.” Id. (citing John Deere Dubuque Works of Deere 
+& Co. v. Meyers, 410 N.W.2d 255, 257 (Iowa 1987)). 
+ 
+With respect to the first prong of the Weyant test, Haney’s change in job resulted 
+in a clearly recognizable change in employment status. He moved from the 84-inch to 
+the 86-inch line. In Haney’s new job, he works primarily within the pulpit as opposed to 
+the floor. Moreover, his job duties have substantively changed as a result even if he 
+must work on the floor to perform some of them.  
+The second factor cuts against Haney’s claim being ripe. Haney’s change in jobs 
+caused a reduction in noise exposure. But Haney must still work on the floor, subject to 
+the noise levels he alleges caused his occupational hearing loss. Thus, the evidence 
+does not support the conclusion that he is six months’ removed from working in a noisy 
+environment. It shows that, while Haney spends the majority of his time in his new job 
+working in a relatively quiet environment, he must return to work in the noisy 
+environment periodically when business need dictates. 
+Combining the third and fourth elements, at the time of hearing, Haney had held 
+his new position for more than six months. Unlike the claimant in Weyant, there is no 
+indication Arconic had reassigned him multiple times to work other jobs. But that, 
+standing alone, does not mean the record supports the conclusion Haney’s transfer is 
+not subject to change. Rather, the evidence establishes Haney’s transfer would be 
+subject to change if another Arconic employee, with more seniority, chose to bid into it. 
+Consequently, the record does not support the conclusion there is no reasonable 
+expectation Haney will not be returned to a position with excessive noise level exposure 
+in the ordinary course of operations in Arconic’s business.  
+For these reasons, Haney has failed to establish a qualifying transfer under the 
+Weyant test. While Haney might have a ripe occupational hearing loss claim in the 
+future, no “occurrence” has occurred under section 85B.8(1)(a) because Haney 
+continues to work periodically in a noisy environment. Consequently, it is inappropriate 
+to make a determination regarding the extent of Haney’s hearing loss at this time.  
+3. 
+Tinnitus. 
+a. 
+Causation. 
+The law cited above regarding causation in workers’ compensation cases applies 
+to Haney’s tinnitus claim just as to his occupational hearing loss claim. Dr. Tyler gave a 
+detailed, well-reasoned explanation for why he believes Haney’s tinnitus was caused by 
+his work. He credibly testified the most common cause of tinnitus is noise exposure. 
+Further, Dr. Tyler’s questionnaire included questions about the frequency with which 
+Haney removed his hearing protection while in a high noise environment at work and 
+how long such removal lasted.  
+Dr. Zlab’s opinion is not as detailed as Dr. Tyler’s. Dr. Zlab did not provide 
+deposition testimony expanding on his written opinion like Dr. Tyler did. Dr. Zlab 
+
+HANEY V. ARCONIC, INC. 
+Page 19 
+ 
+provided little analysis of Haney’s tinnitus, opining, “The tinnitus which he is 
+experiencing would be associated with his hearing loss.” 
+Dr. Tyler’s opinion on the cause of Haney’s tinnitus is most persuasive. Dr. Tyler 
+gave a detailed explanation for why the noise levels Haney experienced while working 
+for Arconic would cause his hearing loss and tinnitus. The detail and reasoning in Dr. 
+Tyler’s opinions are more persuasive than the cursory assessment in Dr. Zlab’s report 
+on causation.  
+Moreover, Dr. Tyler’s opinion as an expert in this case is reinforced by the article 
+he co-authored and that is in evidence. Specifically, the fact that tinnitus “is commonly 
+reported by the victim of noise-induced hearing loss (NIHL) but may represent the first 
+symptom of a variety of disease processes. Tinnitus is directly related to noise 
+exposure. There is a 70% increased risk of developing tinnitus with a positive history of 
+occupational noise exposure when compared to those without a history of noise 
+exposure.” (Cl. Ex. 1, Depo. Ex. 1, p. 1)  
+Haney has met his burden of proof on causation. The evidence shows it is more 
+likely than not Haney’s tinnitus arose out of and in the course of his employment due to 
+noise exposure. The analysis now moves to whether Haney has proven his tinnitus 
+caused a permanent disability. 
+b. 
+Permanent Disability. 
+The “broad purpose of workers’ compensation” is “to award compensation (apart 
+from medical benefits), not for the injury itself, but the disability produced by a physical 
+injury.” Bell Bros. Heating and Air Conditioning v. Gwinn, 779 N.W.2d 193, (Iowa 2010) 
+(citing 4 Arthur Larson & Lex K. Larson, Larson’s Workers’ Compensation Law § 80.02, 
+at 80–2 (2009)). With the 2017 amendments, the legislature altered how this is done 
+under the Iowa Workers’ Compensation Act. Multiple of these legislative changes are at 
+issue in the current case. 
+Tinnitus is an unscheduled injury under the Iowa Workers’ Compensation Act. 
+Ehteshamfar v. UTA Engineered Sys. Div., 555 N.W.2d 450, 453–54 (Iowa 1996). Prior 
+to the 2017 amendments, unscheduled injuries such as tinnitus were automatically 
+compensated based on the impact on the claimant’s earning capacity using the 
+industrial disability framework. See, e.g., id. For injuries on or after July 1, 2017, 
+however, the legislature codified at Iowa Code section 85.34(2)(v) a new requirement 
+for industrial disability to be considered: 
+If an employee who is eligible for compensation under this paragraph 
+returns to work or is offered work for which the employee receives or 
+would receive the same or greater salary, wages, or earnings than the 
+employee received at the time of the injury, the employee shall be 
+compensated based only upon the employee’s functional impairment 
+resulting from the injury, not in relation to the employee’s earning capacity. 
+
+HANEY V. ARCONIC, INC. 
+Page 20 
+ 
+The record shows that at the time of hearing, Haney was still working for Arconic 
+in the pulpit position into which he bid. There is no indication tinnitus has reduced the 
+salary, wages, or earnings Haney receives. See McCoy v. Menard, Inc., File No. 
+1651840.01 (App. Apr. 9, 2021). Therefore, under the statute, Haney’s entitlement to 
+benefits must be determined based only upon his functional impairment resulting from 
+tinnitus, not in relation to his earning capacity. 
+Another requirement the legislature added to the Iowa Workers’ Compensation 
+Act in 2017 governs the determination of Haney’s functional disability. Before the 2017 
+amendments, the agency could use all evidence in the administrative record, as well as 
+agency expertise, when determining the permanent disability of an injured worker. See, 
+e.g., Miller v. Lauridsen Foods, Inc., 525 N.W.2d 417, 421 (Iowa 1994). Under agency 
+rules before the 2017 amendments, the Guides were considered a “useful tool in 
+evaluating disability.” Seaman v. City of Des Moines, File Nos. 5053418, 5057973, 
+5057974 (App. Oct. 11, 2019) (quoting Bisenius v. Mercy Med. Ctr., File No. 5036055 
+(App. Apr. 1, 2013)).  
+However, in cases involving injuries on or after July 1, 2017, the Guides are now 
+more than a tool; they are dispositive. 
+[W]hen determining functional disability and not loss of earning capacity, 
+the extent of loss or percentage of permanent impairment shall be 
+determined solely by utilizing the guides to the evaluation of permanent 
+impairment, published by the American medical association, as adopted 
+by the workers’ compensation commissioner by rule pursuant to chapter 
+17A. Lay testimony or agency expertise shall not be utilized in determining 
+loss or percentage of permanent impairment pursuant to paragraphs “a” 
+through “u”, or paragraph “v” when determining functional disability and 
+not loss of earning capacity. 
+Iowa Code § 85.34(2)(x).  
+Thus, the Iowa Workers’ Compensation Act now limits the determination of what, 
+if any, permanent disability Haney has sustained due to only his functional impairment. 
+In making that determination, the agency is prohibited from using lay testimony or 
+agency expertise by Iowa Code section 85.34(2)(x). Under the statute, that 
+determination must be made “solely by utilizing” the Fifth Edition of the Guides. 
+Chapter 11 of the Guides covers assessments of various conditions, including 
+tinnitus. The introduction to the chapter advises, “Before using the information in this 
+chapter, the Guides user should become familiar with Chapters 1 and 2 and the 
+Glossary.” Guides at 246. The Glossary provides in pertinent part: 
+Disability  Alteration of an individual’s capacity to meet personal, social, 
+or occupational demands or statutory or regulatory requirements because 
+of an impairment. Disability is a relational outcome, contingent on the 
+environmental conditions in which activities are performed. 
+
+HANEY V. ARCONIC, INC. 
+Page 21 
+ 
+**** 
+Functional limitations  The inability to completely perform a task due to 
+an impairment. In some instances, functional limitations may be overcome 
+through modifications in the individual’s personal or environmental 
+accommodations. 
+**** 
+Impairment  A loss, loss of use, or derangement of any body part, organ 
+system, or organ function. 
+**** 
+Impairment evaluation  A medical evaluation performed by a physician, 
+using a standard method as outlined in the Guides, to determine 
+permanent impairment associated with a medical condition. 
+**** 
+Impairment percentages or ratings  Consensus-derived estimates that 
+reflect the severity of the impairment and the degree to which the 
+impairment decreases an individual’s ability to perform common activities 
+of daily living as listed in Table 1-2 
+Id. at 600–01. 
+Chapter 1, “Philosophy, Purpose, and Appropriate Use of the Guides,” further 
+provides: 
+Impairment percentages or ratings developed by medical specialists are 
+consensus-derived estimates that reflect the severity of the medical 
+condition and the degree to which the impairment decreases an 
+individual’s ability to perform common activities of daily living (ADL), 
+excluding work. Impairment ratings were designed to reflect functional 
+limitations and not disability. The whole person impairment percentages 
+listed in the Guides estimate the impact of the impairment on the 
+individual’s overall ability to perform activities of daily living, excluding 
+work, as listed in Table 1-2. 
+Id. at 4 (emphasis in original). Table 1-2 shows the activities of daily living as 
+follows: 
+
+HANEY V. ARCONIC, INC. 
+Page 22 
+ 
+Activity 
+Example 
+Self-care, personal hygiene 
+Urinating, defecating, brushing teeth, combing 
+hair, bathing, dressing oneself, eating 
+Communication 
+Writing, typing, seeing, hearing, speaking 
+Physical activity 
+Standing, sitting, reclining, walking, climbing 
+stairs 
+Sensory function 
+Hearing, seeing, tactile feeling, tasting, smelling 
+Nonspecialized hand activities 
+Grasping, lifting, tactile discrimination 
+Travel 
+Riding, driving, flying 
+Sexual function 
+Organs, ejaculation, lubrication, erection 
+Sleep 
+Restful, nocturnal sleep pattern 
+And Table 1-3 contains a list of scales for the measurement of instrumental activities of 
+daily living and activities of daily living. Id. at 6–7.  
+The Guides also explain why work is not considered in their framework for 
+assessing impairment: 
+The medical judgment used to determine the original impairment 
+percentages could not account for the diversity or complexity of work but 
+could account for daily activities common to most people. Work is not 
+included in the clinical judgment for impairment percentages for several 
+reasons: (1) work involves many simple and complex activities; (2) work is 
+highly individualized, making generalizations inaccurate; (3) impairment 
+percentages are unchanged for stable conditions, but work and 
+occupations change; and (4) impairments intereact with such other factors 
+as the worker’s age, education, and prior work experience to determine 
+the extent of work disability. [ . . . ] 
+As a result, impairment ratings are not intended for use as direct 
+determinants of work disability. When a physician is asked to evaluate 
+work-related disability, it is appropriate for a physician knowledgeable 
+about the work activities of the patient to discuss the specific activities the 
+worker can and cannot do, given the permanent impairment. 
+Id. at 5. 
+The Guides go on to emphasize: 
+Impairment percentages derived from the Guides criteria should not 
+be used as direct estimates of disability. Impairment percentages 
+
+HANEY V. ARCONIC, INC. 
+Page 23 
+ 
+estimate the extent of the impairment on the whole person 
+functioning and account for basic activities of daily living, not 
+including work. The complexity of work activities requires individual 
+analyses. Impairment assessment is a necessary first step for 
+determining disability. 
+Id. at 13 (emphasis in original). 
+Now back to Chapter 11, where the Guides address the criteria for rating 
+impairment due to hearing loss as follows: 
+Criteria for evaluating hearing impairment are established through hearing 
+threshold testing, which serves as the most reproducible of the measures 
+of hearing. Therefore, estimate an impairment percentage based on the 
+severity of the hearing loss, which accounts for changes in the ability to 
+perform activities of daily living. Tinnitus in the presence of unilateral or 
+bilateral hearing impairment may impair speech discrimination. Therefore, 
+add up to 5% for tinnitus in the presence of measurable hearing loss if the 
+tinnitus impacts the ability to perform activities of daily living. 
+Id. at 246.  
+Thus, the Guides set forth a clear framework for assessing what, if any, disability 
+tinnitus has caused an affected worker. The question presented in the current case is 
+whether Haney has proffered sufficient evidence to establish a functional disability 
+under the Iowa Workers’ Compensation Act, as amended in 2017. Put otherwise, does 
+the record support a determination of permanent disability made “solely by utilizing” the 
+Guides? 
+The evidence shows Dr. Tyler did not follow the Guides for assessing disability 
+relating to tinnitus in arriving at his rating for Haney. During Dr. Tyler’s deposition 
+testimony, he explained that he believes the Guides do not provide a framework for 
+assessing impairment relating to tinnitus that accurately reflects the impact the condition 
+has on a worker. Thus, while Dr. Tyler referenced the Guides in his report, he did not 
+utilize them as they are intended to be used by their own terms or as required under 
+Iowa Workers’ Compensation Act, as amended in 2017.  
+Instead, Dr. Tyler compared what he believes to be the potential scope of the 
+disability tinnitus can cause to the framework the Guides provide for assessing 
+impairment caused by other conditions. In doing so, he rejected the Guides’ method for 
+calculating disability relating to tinnitus and came up with his own. The Commissioner 
+has previously considered Dr. Tyler’s approach and concluded, “‘Dr. Tyler appears to 
+have crafted his own impairment rating system which diverges significantly from the 
+AMA Guides.’” Seaman, File Nos. Files Nos. 5053418, 5057973, 505797 (quoting 
+Ament v. Quaker Oats Company, File Nos. 5044298, 5044299 (App. Mar. 17, 2016)). 
+During Dr. Tyler’s deposition in the current case, he confirmed the Commissioner’s 
+impression of his system, testifying it is “[a]bsolutely not” endorsed by the Guides. 
+
+HANEY V. ARCONIC, INC. 
+Page 24 
+ 
+For these reasons, the record shows Dr. Tyler did not determine Haney’s 
+functional impairment relating to his tinnitus “solely by utilizing” the Guides, as required 
+under Iowa Code section 85.34(2)(x). Haney has therefore failed to meet his burden of 
+proof on the question of permanent disability under the Iowa Workers’ Compensation 
+Act, as amended in 2017. There is an insufficient basis in the evidence from which to 
+conclude Haney had sustained a permanent functional impairment relating to the 
+tinnitus caused by his employment with Arconic as of January 5, 2019, the date of Dr. 
+Tyler’s report. 
+4. 
+Medical Benefits. 
+The parties identify reimbursement for care as a disputed issue in the hearing 
+report. Haney submitted a bill for $120 from Audiology Consultants and another for 
+$4,900 for his hearing aids. Haney paid these bills. In the hearing report, the parties 
+dispute whether: 
+ The care is reasonable and necessary; 
+ 
+ The fees or prices charged by providers are fair and reasonable; and 
+ The expenses are causally connected to the work injury. 
+While the defendants mention Haney submitted bills relating to care in the introduction 
+of their brief, they did not advance an argument on whether he should be reimbursed for 
+those expenses. 
+Iowa Code section 85.27(1) states: 
+The employer, for all injuries compensable under this chapter or chapter 
+85A, shall furnish reasonable surgical, medical, dental, osteopathic, 
+chiropractic, podiatric, physical rehabilitation, nursing, ambulance, and 
+hospital services and supplies therefor and shall allow reasonably 
+necessary transportation expenses incurred for such services. The 
+employer shall also furnish reasonable and necessary crutches, artificial 
+members and appliances but shall not be required to furnish more than 
+one set of permanent prosthetic devices. 
+As discussed above, Haney’s hearing loss and tinnitus arose out of and in the 
+course of his employment with Arconic. Therefore, under the Iowa Workers’ 
+Compensation Act, Arconic must hold Haney harmless for reasonable care relating to 
+the conditions. The parties dispute whether this includes costs relating to hearing aids. 
+With respect to the reasonableness and necessity of Haney obtaining hearing 
+aids, Dr. Tutor, Arconic’s medical director, recommended Haney see his personal 
+physician regarding his hearing loss. Haney did just that. Haney’s personal physician 
+then referred him to Audiology Consultants, an act from which it is reasonable to infer 
+
+HANEY V. ARCONIC, INC. 
+Page 25 
+ 
+he believed the care was reasonable and necessary. Moreover, Dr. Zlab, the defense 
+expert, opined, “Hearing aids will benefit [Haney] in day-to-day activities.”  
+Thus, Haney acted in response to referrals from Dr. Tutor and his personal 
+physician, as well as Dr. Zlab, regarding additional care for his hearing loss. The 
+evidence shows Haney sought care that was reasonable and necessary. It was also 
+beneficial, as demonstrated by the weight of the evidence establishing the hearing aids 
+have benefited his ability to hear. 
+For these reasons, Haney has met his burden on his right to be held harmless for 
+the cost of care from Audiology Consultants and for his hearing aids. The evidence 
+establishes the disputed care was reasonable, necessary, and beneficial. He is entitled 
+to reimbursement for medical expenses as well as ongoing care relating to his hearing 
+loss and tinnitus. 
+5. 
+Costs. 
+“All costs incurred in the hearing before the [C]ommissioner shall be taxed in the 
+discretion of the [C]ommissioner.” Iowa Code § 86.40. “Fee-shifting statutes using ‘all 
+costs’ language have been construed ‘to limit reimbursement for litigation expenses to 
+those allowed as taxable court costs.’” Des Moines Area Reg'l Transit Auth. v. Young, 
+867 N.W.2d 839, 846 (Iowa 2015) (quoting Riverdale v. Diercks, 806 N.W.2d 643, 660 
+(Iowa 2011)). Statutes and administrative rules providing for recovery of costs are 
+strictly construed. Id. (quoting Hughes v. Burlington N. R.R., 545 N.W.2d 318, 321 (Iowa 
+1996)).  
+Under the administrative rules governing contested case proceedings before the 
+Iowa workers’ compensation commissioner, hearing costs shall include: 
+ Attendance of a certified shorthand reporter or presence of mechanical 
+means at hearings and evidential depositions; 
+ Transcription costs when appropriate;  
+ Costs of service of the original notice and subpoenas; 
+ Witness fees and expenses as provided by Iowa Code sections 622.69 and 
+622.72; 
+ Costs of doctors’ and practitioners’ deposition testimony, provided that said 
+costs do not exceed the amounts provided by Iowa Code sections 622.69 and 
+622.72; 
+ Reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports; 
+
+HANEY V. ARCONIC, INC. 
+Page 26 
+ 
+ Filing fees when appropriate, including convenience fees incurred by using 
+the payment gateway on the Workers’ Compensation Electronic System 
+(WCES); and 
+ Costs of persons reviewing health service disputes. 
+876 IAC 4.33.  
+In the current case, both parties have asked the opposing side be taxed costs. 
+Because Haney has prevailed on the majority of the disputed issues (and the question 
+of ripeness also implicates the statute of limitations, which supports filing even if the 
+issue is disputed to ensure the claim is not lost), Arconic is not entitled to a taxation of 
+costs. That leaves the question of Haney’s costs, which consists of the bill for Dr. Tyler’s 
+report. 
+Dr. Tyler charged Haney for 9.2 hours of work at $195 per hour, for a total of 
+$1,794. (Cl. Ex. 5) There is a note, “Reading documents, preparation of letter.” (Cl. Ex. 
+5) But there is not a more detailed itemization regarding how many hours Dr. Tyler 
+spent on his report as compared to reading documents. 
+“[A] physician’s report becomes a cost incurred in a hearing because it is used as 
+evidence in lieu of the doctor’s testimony. The underlying medical expenses associated 
+with the examination do not become costs of a report needed for a hearing, just as they 
+do not become costs of the testimony or deposition.” Young, 867 N.W.2d at 846. 
+Activities such as “research and review of the file are akin to expenses associated with 
+an examination and therefore cannot be taxed” as the cost of a report. Voshell v. 
+Compass Group, USA, Inc./Chartwells d/b/a Au Bon Pain Café, File No. 5056857, p. 7 
+(App. Sep. 27, 2019) (citing Young, 867 N.W.2d at 847, and Kirkendall v. Cargill Meat 
+Solutions Corp., File No. 5055494 (App. Dec. 17, 2018)).  
+Because the evidence does not allow for the determination of what time Dr. Tyler 
+spent reviewing records and examining Haney as opposed to preparing the report, the 
+costs relating to the report are unknown and cannot be taxed. The parties shall be 
+responsible for paying their own costs. 
+CONCLUSION 
+It is therefore ordered: 
+1) Haney shall take no benefits at this time. 
+2) The defendants shall reimburse Haney for care as follows: 
+a) One hundred twenty and 00/100 dollars ($120.00) for the care he 
+received from Audiology Consultants; and 
+b) Four thousand nine hundred and 00/100 dollars ($4,900.00) for 
+hearing aids. 
+
+HANEY V. ARCONIC, INC. 
+Page 27 
+ 
+3) The defendants shall hold Haney harmless for future reasonable care relating 
+to his hearing loss or tinnitus. 
+4) The defendants shall file subsequent reports of injury as required by rule 876 
+IAC 3.1(2). 
+5) The parties shall be responsible for paying their own hearing costs. 
+Signed and filed this ____5th _____ day of October, 2021. 
+ 
+   ________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+     BENJAMIN G. HUMPHREY 
+ 
+ 
+ 
+ 
+ 
+ 
+                     DEPUTY WORKERS’ 
+ 
+ 
+ 
+ 
+ 
+          COMPENSATION COMMISSIONER 
+ 
+The parties have been served, as follows: 
+ 
+Brian Fairfield (via WCES) 
+ 
+Jane Lorentzen (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal period 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 

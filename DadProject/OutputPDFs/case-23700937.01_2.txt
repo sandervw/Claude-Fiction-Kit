@@ -1,0 +1,528 @@
+Case Number: 23700937.01
+Case Title:  TOE, CAROLINE V. KRAFT HEINZ FOOD COMPANY
+Doc Type:    Decision - District Court
+Source:      Toe, Caroline-23700937.01.District Court Decision.PDF
+========================================================================
+
+1 
+ 
+   IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+ 
+CAROLINE TOE, 
+           Claimant/Petitioner, 
+ 
+v. 
+ 
+KRAFT HEINZ FOOD COMPANY, 
+           Employer, 
+ 
+INDEMNITY INSURANCE COMPANY 
+OF NORTH AMERICA, 
+           Insurance Carrier, 
+ 
+           Defendants/Respondents. 
+ 
+ 
+Case No. CVCV068847  
+ 
+ORDER ON PETITION FOR JUDICIAL 
+REVIEW 
+ 
+ 
+ 
+The Court heard this matter on August 8, 2025, on Petitioner’s Petition for Judicial 
+Review of the Iowa Workers’ Compensation Commissioner’s March 10, 2025 Appeal Decision. 
+Having reviewed the parties’ briefs, the certified agency record, and the applicable law, the 
+Court enters the following Order. 
+I. PROCEDURAL HISTORY 
+ 
+Petitioner Caroline Toe filed an Iowa Civil Rights Act (ICRA) complaint with the Iowa 
+Civil Rights Commission (ICRC) on January 9, 2023, alleging sex discrimination arising from 
+her employment with Defendant Kraft Heinz Food Company. The ICRC administratively closed 
+her complaint on May 3, 2023, determining she was not entitled to relief under Iowa Code § 
+216.6. Petitioner subsequently requested formal withdrawal of her ICRA complaint. 
+ 
+On November 6, 2023, Petitioner filed a workers' compensation claim seeking benefits 
+for mental-mental and mental-physical injuries allegedly arising from the same employment 
+incidents. On August 19, 2024, Defendants moved for summary judgment, arguing preemption. 
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 17
+
+2 
+ 
+Deputy Commissioner Andrew Phillip granted the motion on September 24, 2024, and denied 
+Petitioner's motion to reconsider on October 30, 2024. 
+ 
+Commissioner Joseph S. Cortese II affirmed the Deputy’s rulings on March 10, 2025. 
+Petitioner timely filed her Petition for Judicial Review. 
+II. STANDARD OF REVIEW 
+ 
+Judicial review of an agency decision is governed by the Iowa Administrative Procedure 
+Act, Iowa Code Chapter 17A. Iowa Code § 10A.322 (formerly § 86.26); Meyer v. IBP, Inc., 710 
+N.W.2d 213, 218 (Iowa 2006). Although the Commissioner resolved this case through summary 
+judgment, the resulting ruling constitutes final agency action and is reviewed under Chapter 17A, 
+not under the de novo standard applicable to summary judgment in district court. See generally 
+Renda v. Iowa Civil Rights Commission, 784 N.W.2d 8, 10-11 (Iowa 2010). 
+ 
+Pursuant to Iowa Code § 17A.19(10), a reviewing court may reverse, modify, or grant 
+other appropriate relief if the agency's action is legally erroneous, unsupported by substantial 
+evidence, or otherwise unreasonable, arbitrary, or capricious. A court may only interfere with the 
+commissioner's decision if it is erroneous under one of the grounds enumerated in the statute, 
+and a party's substantial rights have been prejudiced. Id. The district court acts in an appellate 
+capacity to correct errors of law by the agency. Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 
+744, 748 (Iowa 2002). The party challenging an agency decision bears the burden of 
+demonstrating the action's invalidity and resulting prejudice. Iowa Code § 17A.19(8)(a). 
+ 
+ 
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 17
+
+3 
+ 
+III. PETITIONER'S ARGUMENTS 
+ 
+Petitioner argues the agency erred in four ways: 
+ 
+First, Petitioner argues the dismissal was arbitrary and capricious under Iowa Code § 
+17A.19(10)(n) because she never pursued civil remedies under the ICRA, and the two-year 
+statutory period to request a right-to-sue letter has now expired. 
+ 
+Second, Petitioner contends the agency's interpretation of Ottumwa Housing Authority v. 
+State Farm Fire & Casualty Co., 495 N.W.2d 723 (Iowa 1993), is irrational under Iowa Code § 
+17A.19(10)(l) because her case differs from Ottumwa where plaintiffs actively pursued civil 
+litigation. 
+ 
+Third, Petitioner asserts the agency's application of law defies logic under Iowa Code § 
+17A.19(10)(m) because the agency relied on a theoretical possibility rather than actual facts. 
+ 
+Fourth, Petitioner maintains the agency failed to consider that both Defendants and the 
+ICRC determined her facts did not support an ICRA sex discrimination claim under Iowa Code § 
+17A.19(10)(j). 
+IV. ANALYSIS 
+A. Threshold Issue: Preemption as a Subject Matter Jurisdiction Bar 
+ 
+As a threshold matter, the preemption doctrine applied by the agency operates as a 
+limitation on the workers' compensation agency's subject matter jurisdiction. See generally 
+Ottumwa Housing Authority v. State Farm Fire & Casualty Co., 495 N.W.2d 723, 729 (Iowa 
+1993); Greenland v. Fairtron Corp., 500 N.W.2d 36, 37 (Iowa 1993), Channon v. United Parcel 
+Serv., Inc., 629 N.W.2d 835, 857 (Iowa 2001). When comprehensive civil rights remedies are 
+available for the same conduct alleged in a workers' compensation claim, the statutory quid pro 
+quo that gives the workers' compensation system its exclusive jurisdiction is extinguished. See 
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 17
+
+4 
+ 
+Ottumwa Housing Authority, 495 N.W.2d at 729: Karen D. Gillespie, File No. 1042214, 1994 
+WL 16029584, at *2 (Iowa Indus. Comm’r Oct. 24, 1994), Barbara D. Odell, File No. 1134607, 
+1999 WL 33619868, at *1 (Iowa Indus. Comm’r Mar. 9, 1999), and Gary L. Louvar, File 
+No.504837, 2018 WL 1952780, at *14 (Iowa Indus. Comm’r Apr. 9, 2018). This is not a merits 
+determination but rather a jurisdictional prerequisite to the agency's authority to adjudicate the 
+claim. 
+B. The Controlling Legal Standard: Availability, Not Pursuit 
+ 
+Before addressing Petitioner's four arguments, the Court must clarify the controlling legal 
+standard that governs all of them. The Iowa Supreme Court in Ottumwa Housing Authority held 
+that the “quid pro quo is gone when a sex discrimination claim under the state or federal statutes 
+is available for the same acts alleged in the workers' compensation proceeding.” Baird v. 
+Ottumwa Cmty. Sch. Dist., 551 N.W.2d 874, 876 (Iowa 1996) citing Ottumwa Housing 
+Authority, 495 N.W.2d at 729. 
+ 
+The critical term is "available." The preemption analysis turns on whether alternative 
+statutory remedies are legally available to the claimant, not on whether the claimant actually 
+pursues those remedies, intends to pursue them, or would likely succeed in obtaining them. This 
+distinction is fundamental to all four of Petitioner's arguments. 
+ 
+Three principles follow from this standard: First, the existence of a statutory right to 
+pursue civil remedies establishes "availability" even if that right has not been exercised. A 
+statutory mechanism is not "theoretical" merely because the claimant chooses not to use it. Iowa 
+Code § 216.16(3)(a)(4) created an actual, enforceable legal right for Petitioner to request a right-
+to-sue letter within two years of the ICRC's administrative closure. This right existed as a matter 
+of law throughout the agency's consideration of this case. Second, jurisdictional determinations 
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 17
+
+5 
+ 
+based on availability are assessed at the time of the agency's ruling, not at some later date when 
+statutory periods may have expired. At all relevant times, September 24, 2024, October 30, 2024, 
+and March 10, 2025, the two-year statutory window remained open (the ICRC closed Petitioner's 
+complaint on May 3, 2023, making the right-to-sue letter available until May 3, 2025). Third, 
+subjective statements of intent not to pursue available remedies cannot override the objective 
+existence of those remedies. Jurisdictional rules cannot rest on representations that may change 
+at any time. Otherwise, claimants could manipulate jurisdictional requirements by temporarily 
+disclaiming intent to pursue available remedies. 
+ 
+These principles, derived from Ottumwa Housing Authority and applied by the agency, 
+provide the framework for analyzing each of Petitioner's arguments. 
+C. Substantial Evidence Supports the Agency's Factual Findings 
+ 
+Respondents correctly argue that substantial evidence supports the agency's factual 
+findings. The undisputed facts establish: (1) Petitioner filed an ICRA complaint on January 9, 
+2023, based on sexual harassment allegations; (2) Petitioner's workers' compensation claim, filed 
+November 6, 2023, arose from the same incidents; (3) at the time of all agency rulings, Petitioner 
+retained the statutory right to request a right-to-sue letter; and (4) Petitioner neither requested 
+such a letter nor pursued civil remedies. 
+ 
+While Petitioner characterizes her appeal as challenging pure legal conclusions under §§ 
+17A.19(10)(j), (l), (m), and (n), the substantial evidence standard applies to the agency’s factual 
+determinations underlying those legal conclusions. Even applying the legal error standards 
+Petitioner advocates, however, the agency’s decision withstands scrutiny. 
+ 
+ 
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 17
+
+6 
+ 
+D. Petitioner’s First Argument: The Agency’s Decision Was Not Arbitrary or Capricious 
+Under Iowa Code § 17A.19(10)(n) 
+ 
+ 
+Petitioner argues the agency's dismissal was arbitrary and capricious because she never 
+pursued civil remedies under the ICRA and the two-year statutory period has now expired. This 
+argument fails because it misapplies the controlling legal standard explained above. 
+1. Jurisdictional Determinations Are Made at the Time of the Agency's Ruling 
+The subsequent expiration of the two-year statutory window on May 3, 2025, after all agency 
+rulings were issued, cannot retroactively confer jurisdiction that did not exist when the agency 
+ruled. This principle follows directly from the availability standard: if the remedies were 
+available when the agency ruled, preemption applies regardless of later developments. 
+ 
+Accepting Petitioner’s argument would create perverse incentives, allowing claimants to 
+file ICRA complaints, simultaneously file workers’ compensation claims, strategically delay 
+proceedings, and then argue that the passage of time eliminated the preemption bar. This 
+approach would undermine both the workers’ compensation system’s exclusivity and the ICRA’s 
+comprehensive remedial scheme. 
+2. Failure to Pursue Available Remedies Does Not Confer Jurisdiction 
+ 
+Respondents correctly argue that Petitioner's failure to request a right-to-sue letter from 
+the Iowa Civil Rights Commission and pursue her civil remedies in state or federal court does 
+not give the workers' compensation agency subject matter jurisdiction over claims she made on 
+the basis of sexual harassment, since such claims are compensable under the Iowa Civil Rights 
+Act. 
+ 
+The critical question is not whether Petitioner actually pursued ICRA remedies, but 
+whether those remedies were available to her. During the entire time the agency considered this 
+matter, Petitioner had the statutory right to request a right-to-sue letter. Iowa Code § 
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 17
+
+7 
+ 
+216.16(3)(a)(4). Petitioner's voluntary choice not to exercise this right does not transform the 
+jurisdictional analysis. 
+ 
+The Deputy Commissioner correctly observed that counsel’s representation of 
+Petitioner’s intent “does not” bind the claimant, and “there is nothing preventing the claimant 
+from seeking alternate counsel and pursuing her civil remedies under the ICRA during the two-
+year period.” (10/30/2024 Ruling at 3). This reflects the reality that jurisdictional determinations 
+must rest on objective legal availability, not subjective and changeable intent. Circumstances 
+change, counsel changes, and litigation strategies evolve. 
+3. Administrative Closure and Formal Withdrawal Do Not Eliminate Statutory Rights 
+ 
+Petitioner emphasizes that she formally withdrew her ICRA complaint and that the ICRC 
+administratively closed it. Neither action eliminates the statutory availability of civil remedies 
+during the two-year period provided by Iowa Code § 216.16(3)(a)(4). 
+ 
+The statute expressly provides that a complainant may request a right-to-sue letter within 
+two years of the ICRC's notice that it will not issue a finding. This right exists independently of 
+whether the complaint remains pending before the ICRC. Administrative closure is explicitly not 
+an adjudication on the merits and does not bar pursuit of civil remedies through the right-to-sue 
+process. See generally Petro v. Palmer College of Chiropractic, 945 N.W.2d 763 (2020). 
+ 
+Petitioner's formal withdrawal reflects her decision not to participate in the ICRC's 
+administrative process, but the statute does not condition the right-to-sue mechanism on 
+maintaining an active administrative complaint. During the entire two-year statutory period, 
+Petitioner could have requested, and the ICRC would have been statutorily obligated to issue—a 
+right-to-sue letter authorizing civil litigation. 
+ 
+ 
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 17
+
+8 
+ 
+ 
+4. The Agency’s Decision Was Rational and Consistent with the Workers’ Compensation 
+Quid Pro Quo 
+ 
+ 
+The agency's decision serves the legitimate purpose of maintaining the exclusivity of the 
+workers' compensation system where the Legislature has provided comprehensive alternative 
+remedies. Iowa's workers' compensation scheme is premised on a fundamental exchange: 
+employees surrender common law tort rights in exchange for prompt, no-fault benefits. Tripp v. 
+Scott Emergency Commc'n Ctr., 977 N.W.2d 459, 464 (Iowa 2022). 
+ 
+When alternative statutory schemes provide comprehensive remedies for the same 
+conduct, as the ICRA does for sex discrimination, and those remedies remain available, the 
+employee has not truly surrendered common law rights. Rather, the employee retains those rights 
+in modified statutory form through the ICRA. 
+ 
+Petitioner's situation results from her own litigation choices. She filed an ICRA 
+complaint, chose not to pursue it administratively, chose not to request a right-to-sue letter 
+during the statutory period, and chose not to file civil litigation. These choices prevented her 
+from obtaining ICRA remedies, but they were choices made when those remedies remained 
+legally available. 
+ 
+For these reasons, the agency’s dismissal was not arbitrary or capricious under Iowa 
+Code § 17A.19(10)(n). 
+E. Petitioner’s Second Argument: The Agency’s Interpretation of Ottumwa Housing 
+Authority Was Not Irrational Under Iowa Code § 17A.19(10)(l) 
+ 
+ 
+Petitioner contends the agency's interpretation of Ottumwa Housing Authority is irrational 
+because her case differs from Ottumwa, where plaintiffs actively pursued civil litigation. This 
+argument misconstrues Ottumwa's holding and improperly attempts to limit its scope. 
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 17
+
+9 
+ 
+1. Ottumwa Established the Availability Standard Applied Here 
+ 
+In Ottumwa, the plaintiffs were actively litigating in state and federal courts, which made 
+the preemption issue obvious. However, the Court did not limit its holding to cases of active 
+litigation. Rather, the Court articulated a broader principle focused on "availability." As stated 
+previously, the Iowa Supreme Court in Ottumwa Housing Authority held that the “quid pro quo 
+is gone when a sex discrimination claim under the state or federal statutes is available for the 
+same acts alleged in the workers' compensation proceeding.” Baird v. Ottumwa Cmty. Sch. Dist., 
+551 N.W.2d 874, 876 (Iowa 1996) citing Ottumwa Housing Authority, 495 N.W.2d at 729. 
+ 
+The agency's interpretation, that availability, rather than active pursuit, triggers 
+preemption, is entirely consistent with both the language and rationale of Ottumwa Housing 
+Authority. Limiting preemption to cases of active litigation would create an irrational loophole: 
+claimants could avoid preemption by delaying civil litigation until after obtaining workers' 
+compensation benefits, then pursuing ICRA claims for the same conduct. Such a result would 
+eviscerate the exclusivity principle and permit the exact double recovery that the preemption 
+doctrine prevents. 
+2. Baird Is Distinguishable Because the ICRA Claim Had Been Resolved 
+ 
+Petitioner argues her case is analogous to Baird v. Ottumwa Community School District, 
+551 N.W.2d 874 (Iowa 1996). In Baird, the plaintiff had settled and resolved her ICRA claim 
+before filing her workers' compensation claim. The Court held that a genuine issue of material 
+fact existed regarding whether the workers' compensation claim involved different conduct. The 
+Court noted that the settlement "may be viewed as a method by which Baird's employer bought 
+its peace on the civil rights claim, leaving the pending workers' compensation proceeding to run 
+its course." Id. at 876. 
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 17
+
+10 
+ 
+ 
+The critical distinction is that in Baird, the plaintiff had already pursued and resolved her 
+ICRA claim through settlement, thereby extinguishing the availability of future ICRA remedies. 
+The only remaining question was whether the two claims involved the same conduct, a factual 
+dispute requiring trial. Id. 
+ 
+Here, Petitioner has neither pursued nor resolved her ICRA claim. She received no 
+settlement, no damages, and no consideration for releasing her civil rights claims. ICRA 
+remedies remained legally available throughout the agency proceedings. This case, therefore, 
+falls squarely within Ottumwa Housing Authority, not Baird. 
+3. Both Claims Arise from Identical Conduct 
+ 
+The Baird court noted that "not all circumstances that would create a compensable claim 
+for emotional distress benefits under our decision in Dunlavey... would give rise to a sexual 
+discrimination claim under section 601A.6 [now Iowa Code § 216.6]." 551 N.W.2d at 876. This 
+observation addresses whether the two claims involve the same underlying conduct. 
+ 
+Here, there is no factual dispute about the identity of conduct. Petitioner's ICRA 
+complaint alleged that male coworkers exposed themselves to her and engaged in sexually 
+harassing conduct. Her workers' compensation claim alleges mental-mental and mental-physical 
+injuries arising from these same incidents of sexual harassment.  
+ 
+Because the same factual conduct underlies both claims, the Baird analysis is 
+inapplicable. The agency correctly determined that Ottumwa Housing Authority governs this 
+case. For these reasons, the agency's interpretation of Ottumwa Housing Authority was not 
+irrational under Iowa Code § 17A.19(10)(l). 
+ 
+ 
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 17
+
+11 
+ 
+F. Petitioner's Third Argument: The Agency's Application of Law Was Not Illogical Under 
+Iowa Code § 17A.19(10)(m) 
+ 
+ 
+Petitioner asserts the agency's application of law defies logic because the agency relied 
+on a "theoretical possibility" rather than actual facts, would lead to absurd results, and leaves 
+Petitioner without a remedy. Each contention fails. 
+1. Legal Availability Is an Actual Fact, Not a Theory 
+ 
+Petitioner characterizes the agency's analysis as based on "theoretical" availability. This 
+characterization misunderstands the nature of statutory rights. The availability of a right-to-sue 
+letter under Iowa Code § 216.16(3)(a)(4) during the two-year statutory period was not 
+theoretical; it was an actual, concrete legal right established by statute. A statutory right is not 
+"theoretical" merely because it has not been exercised. Had Petitioner requested a right-to-sue 
+letter during the statutory period, the ICRC would have been legally obligated to issue it. The 
+existence of this enforceable legal right is a factual reality governed by the availability standard 
+explained in Section B above. 
+2. The Agency's Analysis Does Not Lead to Absurd Results 
+ 
+Petitioner argues the agency's logic would permit dismissal of any workers' compensation 
+claim based on the theoretical possibility of filing a tort action, even where Iowa's exclusivity 
+doctrine (Iowa Code § 85.20) bars such claims. This argument misapprehends the distinction 
+between hypothetical actions that would fail as a matter of law and actual statutory remedies 
+created by the Legislature. For instance, an employee cannot file a viable negligence action 
+against an employer for work-related injuries because such claims are barred by statute. (See 
+Mehmedovic v. Tyson Foods Inc., 21 N.W.3d 412, 426 (2025). By contrast, the ICRA provides 
+an actual, viable statutory remedy, with its own procedural mechanisms, that the Legislature 
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 11 of 17
+
+12 
+ 
+specifically designed to address employment discrimination. The distinction is between remedies 
+the law prohibits and remedies the law affirmatively creates. 
+3. Sexual Harassment Claims Are Compensable Under the ICRA 
+ 
+Respondents correctly emphasize that sexual harassment claims of the type Petitioner 
+alleged are compensable under the Iowa Civil Rights Act. Iowa Code § 216.6 prohibits sex 
+discrimination in employment, including sexual harassment. The ICRA provides comprehensive 
+remedies, including compensatory damages, back pay, front pay, emotional distress damages, 
+and attorney fees. Iowa Code § 216.16(1). 
+ 
+Petitioner argues that because the ICRC administratively closed her complaint and 
+Defendants denied her allegations, the claims are not "compensable." This conflates 
+compensability with the likelihood of success. A claim is compensable if it falls within the scope 
+of remedies provided by statute, not based on whether the claimant would ultimately prevail. The 
+record establishes that Petitioner alleged sexual harassment by male coworkers. Such allegations, 
+if proven, would constitute sex discrimination compensable under Iowa Code § 216.6. Whether 
+Petitioner could prove her allegations is a merits question irrelevant to the compensability and 
+availability analysis. 
+4. Petitioner’s Lack of Remedy Results from Her Own Litigation Choices 
+ 
+Petitioner argues the agency's decision leaves her without any remedy. The Iowa 
+Legislature provided comprehensive remedies for sex discrimination through the ICRA. When 
+the Legislature provides such alternative remedies, and those remedies remain available to the 
+claimant, the workers' compensation system need not provide duplicative relief. 
+ 
+Petitioner's situation results from her litigation choices. She filed an ICRA complaint, 
+chose not to pursue it administratively, chose not to request a right-to-sue letter during the 
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 12 of 17
+
+13 
+ 
+statutory period, and chose not to file civil litigation. These choices prevented her from obtaining 
+ICRA remedies, but they were choices made when those remedies remained legally available. 
+The agency properly applied the preemption doctrine to prevent circumvention of the exclusivity 
+system. For these reasons, the agency’s application of law to the facts was not illogical under 
+Iowa Code § 17A.19(10)(m). 
+G. Petitioner’s Fourth Argument: The Agency Did Not Fail to Consider Relevant Evidence 
+Under Iowa Code § 17A.19(10)(j) 
+ 
+ 
+Petitioner maintains the agency failed to consider that both Defendants and the ICRC 
+determined her facts did not support an ICRA sex discrimination claim. This argument 
+mischaracterizes both the record and the preemption analysis. 
+1. The ICRC's Administrative Closure Is Not a Merits Determination 
+ 
+The ICRC’s administrative closure reflects a preliminary determination that the agency 
+would not pursue the matter administratively, not a merits determination that the allegations 
+would fail to establish sex discrimination. The ICRC issues closure determinations for various 
+reasons, including resource constraints, evidentiary insufficiency at the preliminary stage, and 
+strategic priorities. Critically, administrative closure does not affect the availability of the right-
+to-sue mechanism. Iowa Code § 216.16(3)(a)(4) expressly contemplates that complainants may 
+request right-to-sue letters after the ICRC declines to pursue administrative relief. 
+2. Defendants’ Denial Does Not Affect Compensability or Availability 
+ 
+Defendants' denial of Petitioner's allegations reflects their litigation posture and factual 
+defenses, not a concession regarding the compensability of such claims under Iowa law. Every 
+contested case involves disputes about underlying facts. Sexual harassment allegations of the 
+type Petitioner made are unquestionably compensable under Iowa Code § 216.6, regardless of 
+whether Defendants contest the facts. 
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 13 of 17
+
+14 
+ 
+ 
+Petitioner conflates two distinct concepts: (1) whether a claim, if proven, would be 
+compensable under the statute; and (2) whether the claimant can prove the necessary facts. 
+Defendants' denial addresses only the latter. 
+3. Petitioner's Clarification Does Not Alter the Availability Analysis 
+ 
+In her Reply Brief, Petitioner clarifies that she is not arguing there are 
+"additional/different facts" in her workers' compensation claim versus her ICRA complaint. 
+Rather, she argues the agency failed to consider that both Defendants and the ICRC expressly 
+stated the facts underlying her workers' compensation claim did not support a sex discrimination 
+claim under Iowa Code § 216.6. This clarification does not change the analysis. Even accepting 
+Petitioner's characterization, that Defendants denied liability and the ICRC found her allegations 
+insufficient, this does not eliminate the availability of the right-to-sue mechanism. The statute 
+provides that a complainant may request a right-to-sue letter within two years of the ICRC's 
+determination not to issue a finding, regardless of the reason for that determination. Iowa Code § 
+216.16(3)(a)(4). Whether the ICRC closed the case due to insufficient evidence, lack of probable 
+cause, or any other reason, the statutory pathway to civil litigation remained open. The 
+preemption analysis does not turn on whether preliminary evaluations by the ICRC or denials by 
+Defendants suggest the claim lacks merit. It turns on whether the statutory mechanism for 
+pursuing civil remedies remained available, and here, it unquestionably did throughout the entire 
+time period relevant to the agency's rulings. 
+4. The Preemption Analysis Does Not Require Merits Assessment 
+ 
+The agency was not required to assess the likelihood that Petitioner would prevail in civil 
+litigation. The relevant questions for preemption are: (1) whether ICRA remedies were available; 
+(2) whether those remedies would address the same conduct alleged in the workers' 
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 14 of 17
+
+15 
+ 
+compensation claim; and (3) whether Petitioner had the statutory right to pursue those remedies 
+during the relevant time period. The answer to all three questions is yes. The merits of the 
+underlying discrimination claim, including credibility, proof, and affirmative defenses, are 
+irrelevant to the preemption analysis. Ottumwa Housing Authority does not require an evaluation 
+of claim strength. The case holds that when civil rights remedies are available for the same 
+conduct, preemption applies. 495 N.W.2d at 729. Availability is a question of statutory scope 
+and procedure, not factual or legal merit. 
+V. CONCLUSION 
+ 
+The Iowa Workers' Compensation Commissioner correctly determined that Petitioner's 
+workers' compensation claim was preempted by the availability of civil remedies under the Iowa 
+Civil Rights Act. At all times relevant to the agency's rulings, Petitioner retained the statutory 
+right to pursue comprehensive remedies through the ICRA's right-to-sue mechanism. 
+ 
+The agency properly applied the availability standard articulated in Ottumwa Housing 
+Authority v. State Farm Fire & Casualty Co.: when civil rights remedies are available for the 
+same conduct alleged in a workers' compensation claim, the statutory quid pro quo is 
+extinguished and preemption applies. The agency's interpretation of this standard was not 
+irrational. The agency's application of law was logical and consistent with statutory purposes. 
+The agency properly considered all relevant evidence and correctly focused on legal availability 
+rather than speculative merits assessments. The agency's decision was not arbitrary or capricious. 
+ 
+Substantial evidence supports the agency's factual findings. Respondents correctly argue 
+that Petitioner's failure to request a right-to-sue letter and pursue civil remedies does not confer 
+subject matter jurisdiction on the workers' compensation agency over sexual harassment claims 
+compensable under the Iowa Civil Rights Act. 
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 15 of 17
+
+16 
+ 
+ 
+Petitioner has not demonstrated that the agency's decision meets any of the grounds for 
+reversal under Iowa Code § 17A.19(10). Accordingly, the Court affirms the agency's decision. 
+IT IS THEREFORE ORDERED: 
+1. Petitioner Caroline Toe's Petition for Judicial Review is DENIED. 
+2. The Iowa Workers' Compensation Commissioner's March 10, 2025, Appeal Decision is 
+AFFIRMED. 
+3. This matter is DISMISSED WITH PREJUDICE. 
+4. Petitioner shall bear court costs. 
+IT IS SO ORDERED. 
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 16 of 17
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV068847
+CAROLINE TOE VS KRAFT HEINZ FOOD COMPANY ET AL
+Type:
+ORDER FOR JUDGMENT
+So Ordered
+Electronically signed on 2025-11-09 18:56:44
+E-FILED                    CVCV068847 - 2025 NOV 09 06:56 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 17 of 17

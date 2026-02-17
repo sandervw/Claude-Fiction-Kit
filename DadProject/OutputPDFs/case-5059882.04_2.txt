@@ -1,0 +1,268 @@
+Case Number: 5059882.04
+Case Title:  DE MALDONADO, GRACIELA V. WATERLOO COMMUNITY SCHOOL DISTRICT
+Doc Type:    Decision - District Court
+Source:      Demaldonado, Graciela-5059882.04.District Court Decision.PDF
+========================================================================
+
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+WATERLOO COMMUNITY SCHOOL 
+DISTRICT, and 
+UNITED WISCONSIN INSURANCE 
+COMPANY 
+                            Petitioners, 
+ 
+v. 
+ 
+GRACIELA DE MALDONADO, 
+                            Respondent. 
+ 
+ 
+Case No.        CVCV062582 
+ 
+ 
+ 
+ 
+ 
+RULING ON PETITION FOR JUDICIAL 
+REVIEW 
+ 
+ 
+ 
+Before the Court is the petitioners’ September 29, 2021, Petition for Judicial Review. The 
+Court held a hearing on March 4, 2022. Having reviewed the parties’ briefs, and the relevant 
+statutes and case law, the Court enters the following order. 
+BACKGROUND FACTS AND PROCEEDINGS 
+ 
+At this time, the parties’ dispute centers on the sufficiency of the continued medical care 
+offered by the petitioners, Waterloo Community School District and United Wisconsin Insurance 
+Company (“the District”) to the respondent Graciela de Maldonado (“de Maldonado”). For 
+purposes of the application for alternate medical care, the District accepted liability for the injury 
+and the medical treatment at issue. (Tr. p. 1).  The District is offering de Maldonado a 
+neuropsychological referral and additional physical therapy. (Ex. 2; Ex. 4; Ex. B). De Maldonado 
+seeks a pain management referral.  (Tr. p. 2; Ex 1).  The facts enumerated herein are those directly 
+relevant to de Maldonado’s continued medical care.  
+De Maldonado sustained a workplace injury to her back and knees on June 14, 2017. (Ex. 
+1).  As part of her course of treatment, De Maldonado completed 120 physical therapy sessions.  
+(Ex. 2).  These physical therapy sessions did not alleviate de Maldonado’s pain, and instead, 
+increased it.  (Ex. 3). Despite all previous treatment interventions, de Maldonado continues to have 
+E-FILED                    CVCV062582 - 2022 APR 28 02:41 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 9
+
+2 
+ 
+pain. (Ex. A; Ex. 4).  Jonathan Fields, M.D., has been treating de Maldonado for her work place 
+injury.  (Ex. 2). In 2021, Dr. Fields referred de Maldonado to Daniel Tranel, Ph.D., for a 
+“neuropsych” evaluation to determine if her pain was physical or psychiatric.  (Ex. 2; Ex B). De 
+Maldonado declined to attend the evaluation and instead requested to have her treatment 
+transferred to Stanley Mathew, M.D., a pain management specialist. (Ex 6).  Dr. Mathew found 
+that de Maldonado’s pain was neurological not psychiatric, and he offered to provide pain 
+management services to her. (Ex. 1). According to Dr. Mathew, de Maldonado’s pain would 
+decrease and she would see an increase in her quality of life with pain management services. (Ex 
+1).   
+ 
+On August 17, 2021, de Maldonado presented at the office of Nichols Bingham, M.D. (Ex. 
+4). Dr. Bingham’s record from the August 17, 2021, appointment indicates he “had offered 
+additional physical therapy.”  (Ex. 4). De Maldonado declined to participate in any additional 
+physical therapy sessions.  (Ex. 4). As such, Dr. Bingham released Respondent from his care. (Ex. 
+4). 
+The District denied de Maldonado’s request for pain management services, and she filed a 
+Petition for Alternate Medical Care (AMC) on September 9, 2021, with Iowa Workforce 
+Development (the Agency). On September 23, 2021, the Agency granted de Maldonado’s request 
+and order the District to authorize care with Dr. Mathew. The District appealed the Agency’s 
+decision to this Court. 
+Additional facts will be discussed below. 
+STANDARD OF REVIEW 
+The Iowa Administrative Procedure Act, Iowa Code chapter 17A, governs the scope of the 
+Court’s review in workers' compensation cases. Iowa Code § 86.26 (2019); Meyer v. IBP, Inc., 
+E-FILED                    CVCV062582 - 2022 APR 28 02:41 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 9
+
+3 
+ 
+710 N.W.2d 213, 218 (Iowa 2006). “Under the Act, [the court] may only interfere with the 
+commissioner's decision if it is erroneous under one of the grounds enumerated in the statute, and 
+a party's substantial rights have been prejudiced.” Meyer, 710 N.W.2d at 218.  A party challenging 
+agency action bears the burden of demonstrating the action's invalidity and resulting prejudice. 
+Iowa Code § 17A.19(8)(a). This can be shown in a number of ways, including proof the action 
+was ultra vires; legally erroneous; unsupported by substantial evidence in the record when that 
+record is viewed as a whole; or otherwise unreasonable, arbitrary, capricious, or an abuse of 
+discretion. See id. § 17A.19(10). The district court acts in an appellate capacity to correct errors of 
+law on the part of the agency. Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 
+2002). 
+“If the claim of error lies with the agency's findings of fact, the proper question on review 
+is whether substantial evidence supports those findings of fact” when the record is viewed as a 
+whole. Meyer, 710 N.W.2d at 219. Factual findings regarding the award of workers' compensation 
+benefits are within the commissioner's discretion, so the Court is bound by the commissioner's 
+findings of fact if they are supported by substantial evidence. Mycogen Seeds v. Sands, 686 N.W.2d 
+457, 464-65 (Iowa 2004). Substantial evidence is defined as evidence of the quality and quantity 
+“that would be deemed sufficient by a neutral, detached, and reasonable person, to establish the 
+fact at issue when the consequences resulting from the establishment of that fact are understood to 
+be serious and of great importance.” Iowa Code § 17A.19(10)(f)(1); Mycogen, 686 N.W.2d at 464. 
+“When reviewing a finding of fact for substantial evidence, we judge the finding ‘in light of all the 
+relevant evidence in the record cited by any party that detracts from that finding as well as all of 
+the relevant evidence in the record cited by any party that supports it.’” Cedar Rapids Comm. Sch. 
+Dist. v. Pease, 807 N.W.2d 839, 845 (Iowa 2011) (quoting Iowa Code § 17A.19(10)(f)(3)).   
+E-FILED                    CVCV062582 - 2022 APR 28 02:41 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 9
+
+4 
+ 
+“Evidence is not insubstantial merely because different conclusions may be drawn from 
+the evidence.” Pease, 807 N.W.2d at 845. “To that end, evidence may be substantial even though 
+we may have drawn a different conclusion as fact finder.” Id. “Judicial review of a decision of the 
+[Commission] is not de novo, and the commissioner's findings have the force of a jury verdict.” 
+Holmes v. Bruce Motor Freight¸ 215 N.W.2d 296, 297-98 (Iowa 1974). 
+MERITS 
+ 
+Under the alternate medical care statute, “the employer is permitted to choose the care. By 
+challenging the employer's choice of treatment—and seeking alternate care—[the employee] 
+assume[s] the burden of proving that the authorized care is unreasonable.”  Pirelli-Armstrong Tire 
+Co. v. Reynolds, 562 N.W.2d 433, 436 (Iowa 1997) (internal citations omitted); see also Long v. 
+Roberts Dairy Co., 528 N.W.2d 122, 123 (Iowa 1995) (claimant bears the burden of proving to 
+the agency that the authorized care is unreasonable or inferior to the desired medical treatment). 
+“The question is one of reasonable necessity not desirability.” Id. at 124. “Determining what care 
+is reasonable under the statute is a question of fact.” Id. at 123. “The commissioner—not the 
+court—weighs the evidence, and we are obliged to broadly and liberally apply those findings to 
+uphold rather than defeat the commissioner's decision.” Id.  
+Accordingly, only upon a determination that substantial evidence does not support the 
+Agency’s finding of unreasonableness or inferiority, will the Court reverse. Iowa Code § 
+17A.19(10). The Agency is justified in ordering alternate care when the employer authorized care 
+has not been effective and evidence shows that such care is “inferior or less extensive” care than 
+other available care requested by the employee. Long, 528 N.W.2d at 124; Pirelli-Armstrong Tire 
+Co., 562 N.W.2d at 437. 
+ 
+Here, the Agency concluded: 
+E-FILED                    CVCV062582 - 2022 APR 28 02:41 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 9
+
+5 
+ 
+[T]he care offered by defendants is not reasonable. First, [Petitioners] have offered 
+physical therapy. Ms. de Maldonado has declined this offer. Ms. de Maldonado has 
+already attended over 120 physical therapy visits. Even Dr. Fields has concluded 
+those visits are enough. I conclude that the physical therapy offered by the 
+defendants is inferior to the treatment sought by the claimant. Second, defendants 
+have offered an appointment with a clinical psychologist. There is no evidence in 
+this case that any medical provider has recommended Ms. de Maldonado see a 
+clinical psychologist. Dr. Fields recommended a neuropsychiatrist, but that is 
+different than what defendants have offered. I conclude defendants’ offer to send 
+Ms. de Maldonado to Daniel Tranel, Ph.D. is not reasonable. I further conclude that 
+defendants’ offer is inferior to the treatment claimant is seeking. 
+ 
+Alternate Medical Care Decision at 5. 
+ 
+The parties dispute whether the District’s offer of additional physical therapy is appropriate 
+medical care for de Maldonado.  At the time of the hearing, Deputy Pals found it was unclear 
+whether any doctor recommended de Maldonado engage in additional physical therapy sessions. 
+(AMC Dec. 3). Assuming a doctor was recommending she complete additional physical therapy, 
+Deputy Pals found such a recommendation to be ineffective and inferior to the treatment sought 
+by de Maldonado.  (AMC Dec. 3). This finding is supported by substantial evidence and is not 
+irrational, illogical or wholly unjustifiable.  De Maldonado had engaged in 120 physical therapy 
+sessions over the course of her treatment.  (Ex. 2).  Those sessions aggravated de Maldonado’s 
+pain.  (Ex. 3).   After learning about de Maldonado’s extensive physical therapy history, Dr. 
+Bingham may have rescinded his recommendation for additional physical therapy.  (AMC. Dec. 
+3). Even if Dr. Bingham’s recommendation was not rescinded, the District’s chosen doctor, Dr. 
+Fields, concluded that the 120 sessions de Maldonado completed were sufficient.  (Ex. 2).  
+Accordingly, there is substantial evidence in the record to conclude the offer of additional physical 
+therapy is not appropriate medical care for de Maldonado.  In contrast, there is no evidence in the 
+record to suggest that de Maldonado would benefit from additional physical therapy.  See Ex. 4 
+(“[de Maldonado] has taken extensive physical therapy, without positive result.”) 
+E-FILED                    CVCV062582 - 2022 APR 28 02:41 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 9
+
+6 
+ 
+ 
+In addition to physical therapy, and some time prior to Dr. Fields’ deposition, the District 
+also offered de Maldonado a neuropsychological referral with Dr. Tranel. (Ex. B; Ex. 2; Ex. 6). At 
+the time of the deposition, Dr. Fields confirmed he had made a “neuropsych” referral for de 
+Maldonado with Dr. Tranel.  (Ex. 2). Dr. Fields made this recommendation after first considering 
+a referral to a physiatrist.  (Ex. 2).  Dr. Fields determined it was more appropriate for de Maldonado 
+to see a “neuropsychiatrist” to determine if her ongoing pain was physical or psychiatric in nature.  
+(Ex. 2).  Despite the fact that during his deposition, Dr. Fields repeatedly stated he was referring 
+de Maldonado to a “neuropsychiatrist,” Dr. Fields made direct reference to Dr. Tranel, a clinical 
+psychologist.  (Ex. 2).   De Maldonado disputed a neuropsychological referral was appropriate 
+care for her ongoing pain. (Ex. 2; Ex. 6). 
+ 
+The Deputy agreed with de Maldonado, and there is substantial evidence in the record to 
+support the Deputy’s conclusion.  First, although Dr. Fields referred to Dr. Tranel by name, Dr. 
+Fields clearly articulated that a neuropsychiatric evaluation was the appropriate evaluation for de 
+Maldonado.  (Ex. 2).  The purpose of the referral was to help ascertain the origin of de Maldonado’s 
+pain.  (Ex. 2).  There is no evidence in the record to support a conclusion that a clinical psychologist 
+has the training and expertise needed to complete a neuropsychiatric evaluation.  Additionally, as 
+the Deputy noted, the District scheduled a neuropsychological examination, not a neuropsychiatric 
+one.  The record is devoid of evidence to suggest these two evaluations are the same or 
+substantially similar—that they would both assist in determining whether the nature of pain is 
+psychiatric or physical.  Finally, Dr. Fields was unable to comment on how Dr. Tranel, who is not 
+a medical doctor, would be able to complete his work or how he could assess physical symptoms.  
+(Ex. 2).  Accordingly, the Deputy’s finding was not irrational, illogical or wholly unjustifiable. 
+E-FILED                    CVCV062582 - 2022 APR 28 02:41 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 9
+
+7 
+ 
+ 
+Even assuming, however, that a neuropsychological is the same or substantially similar to 
+a neuropsychiatric evaluation, there is still substantial evidence to support the Deputy’s finding 
+that such an evaluation was inappropriate and inferior care for de Maldonado.  Dr. Fields had 
+previously considered making a referral to a physiatrist for de Maldonado.(Ex. 2).  According to 
+Dr. Fields, a physiatrist can be helpful in treating a patient’s pain.  (Ex. 2).  Dr. Mathew is a 
+physiatrist and a pain specialist.  (Ex. 2; Ex. 6).  He has more training to treat pain symptoms than 
+Dr. Fields does.  (Ex. 2).  Dr. Mathew is willing to treat de Maldonado and believes her pain will 
+decrease with such treatment.  (Ex. 1).  Based on these facts, there is substantial evidence in the 
+record to support the Deputy’s finding that the District’s offered care was inferior to that sought 
+by de Maldonado. While the District argues that there is substantial evidence to support a 
+resolution in its favor, the question for the Court is not whether it could draw another conclusion, 
+but whether there is substantial evidence to support the one made by the Agency. Pease, 807 
+N.W.2d at 845. In this case, the Court finds substantial evidence supports the Agency’s decision 
+and that it is valid. 
+ 
+In addition to its substantial evidence argument, the District also asserts the Court should 
+reverse the Deputy’s ruling because Dr. Mathew is an inappropriate treatment provider.  
+Specifically, the District argues the Court should not trust Dr. Mathew’s recommendations or 
+treatment because of his close relationship with de Maldonado’s counsel.  The Agency, however, 
+is on the front lines of workers’ compensation cases.  It is familiar with the expert witnesses utilized 
+by claimant and respondents’ counsel, not only in this case, but also in general.  It is in the best 
+position to evaluate the expert witnesses in any given case.  The Agency, as the fact finder, 
+determines the weight to be given to any expert testimony.  Sherman v. Pella Corp., 576 N.W.2d 
+312, 321 (Iowa 1998); Dodd v. Fleetguard, Inc., 759 N.W.2d 133, 138 (Iowa Ct. App. 2008).  Such 
+E-FILED                    CVCV062582 - 2022 APR 28 02:41 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 9
+
+8 
+ 
+weight depends on the accuracy of the facts relied upon by the expert and other surrounding 
+circumstances.  Id.  The commissioner may accept or reject the expert opinion in whole or in part.  
+Sherman, 576 N.W.2d at 321. 
+Making a determination as to whether evidence “trumps” other evidence or whether 
+one piece of evidence is “qualitatively weaker” than another piece of evidence is 
+not an assessment for the district court or the court of appeals to make when it 
+conducts a substantial evidence review of an agency decision. 
+ 
+Arndt v. City of Le Claire, 728 N.W.2d 389, 394 (Iowa 2007).   
+ 
+Here, the Deputy found Dr. Mathew was a proper treating physician.  The Deputy had Dr. 
+Mathew’s opinions and Dr. Fields’ testimony to consider when making her decision.  Even Dr. 
+Fields acknowledged that Dr. Mathew was a physiatrist and was qualified to treat de Maldonado’s 
+pain symptoms. The Agency was within its discretion to give more weight to Dr. Matthew’s 
+opinions.  Sherman, 576 N.W.2d at 321. 
+ORDER 
+ 
+IT IS ORDERED therefore that Petitioners’ Petition for Judicial Review is DENIED.  
+Costs are assessed to the Petitioners. 
+E-FILED                    CVCV062582 - 2022 APR 28 02:41 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 9
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV062582
+WATERLOO COMMUNITY SCHOOL DIST ET AL VS
+GRACIELA DEMALDONADO
+Type:
+OTHER ORDER
+So Ordered
+Electronically signed on 2022-04-28 14:41:00
+E-FILED                    CVCV062582 - 2022 APR 28 02:41 PM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 9

@@ -1,0 +1,228 @@
+Case Number: 24008201.01
+Case Title:  COFFMAN, JOSHUA V. BRIDGESTONE AMERICAS TIRE OPERATIONS, LLC
+Doc Type:    Decision - Commissioner
+Source:      Coffman Joshua-24008201.01a 1.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+JOSHUA COFFMAN, 
+  : 
+ 
+ 
+  : 
+          File No. 24008201.01 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+ 
+                    
+vs. 
+ 
+  : 
+ 
+ 
+ 
+ 
+  : 
+ 
+  
+BRIDGESTONE AMERICAS TIRE 
+  : 
+ 
+ APPEAL DECISION 
+OPERATIONS, L.L.C., 
+  : 
+      
+ 
+ 
+  :                            
+ 
+Employer, 
+  :                     
+ 
+ 
+  : 
+OLD REPUBLIC INSURANCE CO., 
+  : 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  : 
+ 
+Defendants. 
+  :                    Head Note:  5-8889   
+ 
+ 
+  : 
+ 
+______________________________________________________________________ 
+Claimant appeals from a September 8, 2025 arbitration decision and October 6, 
+2025 Ruling on Claimant’s Motion for Rehearing.  Defendants respond to the appeal 
+and urge it be fully affirmed.  The presiding deputy commissioner held an arbitration 
+hearing in this case on June 24, 2025, and the case was fully submitted before the 
+deputy on July 15, 2025. 
+In the arbitration decision, the deputy commissioner found that claimant failed to 
+prove he sustained an alleged December 17, 2023 work injury.  That decision is not the 
+subject of this appeal.  However, the deputy commissioner also concluded that claimant 
+sustained a cumulative work injury that manifested by at least January 24, 2024.  The 
+deputy commissioner found that claimant did not give notice of the alleged injury until 
+filing his petition on May 7, 2024.  The deputy concluded that the notice was beyond the 
+90-day statutory requirement and barred recovery under the notice defense in Iowa 
+Code section 85.23. 
+On appeal, claimant contends the deputy erred in finding that claimant did not 
+give notice until filing his petition.  Claimant contends that he reported a fall on ice on 
+January 19, 2024 and that the employer received timely notice or had actual knowledge 
+of claimant’s work injury.  Claimant further contends that the discovery rule applies and 
+that his 90-day window for reporting the injury did not commence until he received a 
+written report from a physician, documenting that his injury was work related.  
+Specifically, claimant urges that “it is an overstatement to infer that the Tweeten opinion 
+nullifies the application of the discovery rule here.”  (Claimant’s Appeal Brief, page 5)  
+Instead, claimant urges a separate standard such that a “claimant cannot provide notice 
+of an injury until it has both manifested and been discovered by the claimant.”  
+ELECTRONICALLY FILED     2026-Jan-28  08:54:18     DIVISION OF WORKERS' COMPENSATION
+
+COFFMAN V. BRIDGESTONE AMERICAS TIRE OPERATIONS, L.L.C. 
+Page 2 
+ 
+ 
+(Claimant’s Appeal Brief, p. 7) (emphasis in original)  Defendants respond to the appeal 
+and urge that the arbitration decision and ruling on rehearing be affirmed in their 
+entirety. 
+Pursuant to Iowa Code section 10A.321 and section 17A.15(3), I performed a de 
+novo review of the evidentiary record and the detailed arguments of the parties.  Those 
+portions of the proposed arbitration decision pertaining to issues not raised on appeal 
+are adopted as part of this appeal decision.  With respect to the issues properly raised 
+on appeal, I affirm the arbitration decision with the following analysis: 
+I concur with the deputy commissioner’s findings of fact relative to the issue of 
+notice.  Specifically, I concur that the claimant’s cumulative work injury manifested on or 
+before January 24, 2024.  If forced to select a specific manifestation date, I conclude 
+that claimant’s injury manifested on January 23, 2024.  On that date, claimant reported 
+to a treating medical provider that his heavy work for this employer may have caused 
+his symptoms.  (Joint Exhibit 2, p. 13)   
+In 2017, the Iowa legislature amended Iowa Code section 85.23.  That statute 
+now provides: 
+Unless the employer or the employer’s representative shall have actual 
+knowledge of the occurrence of an injury received within ninety days from 
+the date of the occurrence of the injury, or unless the employee or 
+someone on the employee’s behalf or a dependent or someone on the 
+dependent’s behalf shall give notice thereof to the employer within ninety 
+days from the date of the occurrence of the injury, no compensation shall 
+be allowed.  For the purposes of this section, “date of the occurrence of 
+the injury” means the date that the employee knew or should have known 
+that the injury was work-related. 
+I concur with the deputy commissioner’s finding that “The defendants did not 
+receive formal notice of a work-related injury until May 2024 when claimant filed his 
+petition.”  I also concur with the deputy commissioner that “A reasonable manager in 
+defendants’ position is not required to assume that every extended medical absence is 
+due to a work-related injury, particularly when the employee denied any injuries just 
+days before.”  Therefore, I conclude the employer did not have actual knowledge of the 
+injury and that defendants proved they did not receive notice of this injury until May 
+2024. 
+By January 23, 2024, claimant reported to a medical provider that his injury may 
+be related to his heavy work activities.  By that date, claimant knew or should have 
+known that the injury was work-related.  Iowa Code section 85.23.  Accordingly, 
+claimant’s injury manifested on January 23, 2024.  Claimant was required by the clear 
+and explicit language of Iowa Code section 85.23 to give notice of that injury within 90 
+days of its manifestation.  In fact, claimant did not give notice until the filing of a petition 
+in May 2024, after the 90-day notice period.  Therefore, I conclude that defendants 
+
+COFFMAN V. BRIDGESTONE AMERICAS TIRE OPERATIONS, L.L.C. 
+Page 3 
+ 
+ 
+carried their burden of proof on the notice defense and that claimant is barred from 
+recovery under the notice defense.  Iowa Code section 85.23. 
+Claimant urges application of the discovery rule to toll his deadline for giving 
+notice of his injury.  As noted above, claimant urges “it is an overstatement to infer that 
+the Tweeten opinion nullifies the application of the discovery rule here.”  (Claimant’s 
+Appeal Brief, page 5)  Instead, he urges a separate standard such that a “claimant 
+cannot provide notice of an injury until it has both manifested and been discovered by 
+the claimant.”  Claimant’s assertion is not supported by the clear language of Iowa Code 
+section 85.23.   
+Iowa Code section 85.23 clearly requires notice within 90 days of the date of 
+manifestation.  Claimant urges the insertion of language or a requirement (that the injury 
+has “been discovered by the claimant”) not included in the specific legislative enactment 
+of Iowa Code section 85.23.  This agency is “bound to apply the statutes as enacted by 
+the general assembly.”  Tweeten v. Tweeten, 999 N.W.2d 270, 282 (Iowa 2023).  
+Claimant’s construction “would add words to the statute that the general assembly did 
+not—something we cannot do.”  Id. at 281. 
+The Iowa Supreme Court interpreted the language of the statute of limitations, 
+Iowa Code section 85.26.  That statute includes the same language to define the “date 
+of the occurrence of the injury” as Iowa Code section 85.23.  In Tweeten, the Iowa 
+Supreme Court determined that the discovery rule does not apply under the specific 
+language defining the date of the occurrence of the injury contained in Iowa Code 
+section 85.26. 
+Common sense, principles of statutory construction, and consistency all suggest 
+that the same phrase and definition in Iowa Code section 85.23 would be interpreted 
+consistently with the manner in which it was interpreted and applied in Tweeten.  In fact, 
+this issue has come before an appellate court already.  In Tyler v. Tyson Fresh Meats, 
+Inc., 4 N.W.3d 721 (Iowa Ct. App. 2024) (table of unpublished decisions) (2024 WL 
+470352), the Iowa Court of Appeals considered this issue and determined that the 
+discovery rule does not apply under Iowa Code section 85.23 for the exact rationale 
+explained by the Iowa Supreme Court in Tweeten. 
+I conclude that the discovery rule does not apply.  I conclude that the employer 
+did not have actual knowledge of claimant’s cumulative injury, that claimant failed to 
+give timely notice of his injury to the employer, and that defendants carried their burden 
+of proof pursuant to Iowa Code section 85.23.  Therefore, I also conclude that this claim 
+is barred pursuant to Iowa Code section 85.23. 
+Therefore, I affirm the arbitration decision and ruling on motion for rehearing in 
+their entirety. 
+ 
+ 
+
+COFFMAN V. BRIDGESTONE AMERICAS TIRE OPERATIONS, L.L.C. 
+Page 4 
+ 
+ 
+ORDER 
+IT IS THEREFORE ORDERED: 
+The September 8, 2025 arbitration decision and the October 6, 2025 ruling on 
+claimant’s motion for rehearing are affirmed in their entirety with the above additional 
+analysis. 
+The order in the arbitration decision splitting the cost of the hearing transcript is 
+rescinded or amended. 
+Instead, claimant shall bear the costs of appeal, including the full cost of the 
+hearing transcript. 
+Signed and filed this ___28th ___ day of January, 2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      WILLIAM H. GRELL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                          INTERIM WORKERS’  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     COMPENSATION COMMISSIONER 
+ 
+The parties have been served, as follows: 
+Nathaniel Boulton  (via WCES) 
+Bryan Hatch  
+ (via WCES) 
+ 
+ 
+ 

@@ -1,0 +1,424 @@
+Case Number: 5056493.01
+Case Title:  STUART, DEBRA V. DICKTEN MASCH PLASTICS
+Doc Type:    Decision - District Court
+Source:      Stuart, Debra-5056493.01.District Court Decision.pdf
+========================================================================
+
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+ 
+DEBRA STUART, 
+ 
+               Petitioner, 
+ 
+vs. 
+ 
+DICKTEN MASCH PLASTICS and 
+EMPLOYERS PREFERRED INS. CO., 
+ 
+               Respondents. 
+ 
+ 
+          CASE NO. CVCV063926 
+ 
+ 
+ 
+RULING ON PETITION  
+FOR JUDICIAL REVIEW 
+ 
+ 
+ This is a judicial review proceeding in which the petitioner seeks judicial review 
+of a decision of the worker’s compensation commissioner dated June 15, 2022 in which 
+the commissioner affirmed the deputy’s decision that the petitioner had not established 
+that she was entitled to a review-reopening due to a substantial change in condition 
+subsequent to a settlement reached in 2017.  The issue before the court on judicial review 
+is whether that decision was correct. 
+ 
+The appropriate standard of review for this court is governed by Iowa Code 
+§17A.19(10).   Any factual determinations would be clearly vested by a provision of law 
+in the discretion of the agency, as it must make such findings to determine any claimant’s 
+rights to benefits under chapter 85.  Mycogen Seeds v. Sands, 686 N.W.2d 457, 465 
+(Iowa 2004); Regional Care Hospital Partners, Inc. v. Marrs, 2021 WL 609072 *1 (Iowa 
+Ct.App., Case No. 19-2138, filed February 17, 2021).  Accordingly, the reviewing court 
+is bound by the commissioner’s findings of fact if supported by substantial evidence in 
+the record before the court when that record is viewed as a whole.  2800 Corp. v. 
+Fernandez, 528 N.W.2d 124, 126 (Iowa 1995); Iowa Code §17A.19(10)(f) (2021). 
+E-FILED                    CVCV063926 - 2022 DEC 13 10:51 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 1 of 12
+
+2 
+ 
+ 
+Substantial evidence is defined for purposes of the Administrative Procedure Act 
+as “the quantity and quality of evidence that would be deemed sufficient by a neutral, 
+detached, and reasonable person, to establish the fact at issue when the consequences 
+resulting from the establishment of that fact are understood to be serious and of great 
+importance.”  Iowa Code §17A.19(10)(f)(1) (2021).  Viewing the record as a whole 
+requires the court to review not only the relevant evidence in the record cited by any 
+party that supports the agency’s findings of fact, but also any such evidence cited by any 
+party that detracts from those findings along with any determinations of veracity made by 
+the presiding officer who personally observed the demeanor of the witnesses and the 
+agency’s explanation of why the relevant evidence in the record supports its material 
+findings of fact.  Iowa Code §17A.19(10)(f)(3) (2021); Acuity Ins. v. Foreman, 684 
+N.W.2d 212, 216 (Iowa 2004), abrogated on other grounds in Kohlhaas v. Hog Slat, Inc., 
+777 N.W.2d 387, 391-92 (Iowa 2009). 
+Substantial evidence is not absent simply because it is possible to draw different 
+conclusions from the same evidence.  Id.; see also Riley v. Oscar Mayer Foods Corp., 
+532 N.W.2d 489, 491-92 (Iowa App. 1995) (“The focus of the judicial inquiry is whether 
+the evidence is sufficient to support the decision made, not whether it is sufficient to 
+support the decision not made.”).  This would be the appropriate deference afforded to 
+this agency function, as required by Iowa Code §17A.19(11)(c).  Mycogen, 686 N.W.2d 
+at 465.  Accordingly, the petitioner may not rely upon the argument that his position may 
+be supported by a preponderance of the evidence; rather, the burden is upon him to show 
+that the commissioner’s determination is lacking in substantial evidence.  Midwest 
+Ambulance Service v. Ruud, 754 N.W.2d 860, 865 (Iowa 2008). 
+E-FILED                    CVCV063926 - 2022 DEC 13 10:51 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 2 of 12
+
+3 
+ 
+The court on judicial review is required to engage in a “fairly intensive review” of 
+the record to ensure the agency’s fact finding was reasonable.  Neal, 814 N.W.2d at 525; 
+Univ. of Iowa Hosps. v. Waters, 674 N.W.2d 92, 95 (Iowa 2004).   However, courts on 
+judicial review may not engage in a “scrutinizing analysis,” or something that would 
+resemble de novo review, as such a standard of review “would tend to undercut the 
+overarching goal of the workers’ compensation system.”  Neal, 814 N.W.2d at 525; 
+Midwest Ambulance, 754 N.W.2d at 866.  That purpose has been consistently 
+summarized as follows: 
+The fundamental reason for the enactment of this 
+legislation is to avoid litigation, lessen the expense incident 
+thereto, minimize appeals, and afford an efficient and 
+speedy tribunal to determine and award compensation 
+under the terms of this act. 
+ 
+It was the purpose of the legislature to create a tribunal to 
+do rough justice-speedy, summary, informal, untechnical. 
+With this scheme of the legislature we must not interfere; 
+for, if we trench in the slightest degree upon the 
+prerogatives of the commission, one encroachment will 
+breed another, until finally simplicity will give way to 
+complexity, and informality to technicality. 
+ 
+Zomer v. West Farms Inc., 666 N.W.2d 130, 133 (Iowa 2003) (quoting Flint v. City of 
+Eldon, 191 Iowa 845, 847, 183 N.W. 344, 345 (1921)); see also Arndt v. City of Le 
+Claire, 728 N.W.2d 389, 394 (Iowa 2007) (“Making a determination as to whether 
+evidence ‘trumps’ other evidence or whether one piece of evidence is ‘qualitatively 
+weaker’ than another piece of evidence is not an assessment for the district court or the 
+court of appeals to make when it conducts a substantial evidence review of an agency 
+decision”). 
+ 
+On the other hand, the application of the law by the commissioner to its own 
+E-FILED                    CVCV063926 - 2022 DEC 13 10:51 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 3 of 12
+
+4 
+ 
+factual determinations requires a different standard upon judicial review.  As the 
+application of law to facts is also vested in the discretion of the agency, it is only to be 
+reversed if found to be irrational, illogical or wholly unjustifiable.  Jacobson Transp. Co. 
+v. Harris, 778 N.W.2d 192, 196 (Iowa 2010); Iowa Code §17A.19(10)(m) (2021): 
+A decision is irrational when it is not governed by or 
+according to reason.  A decision is illogical when it is 
+contrary to or devoid of logic.  A decision is unjustifiable 
+when it has no foundation in fact or reason. 
+ 
+The Sherwin-Williams Co. v. Iowa Dep’t of Revenue, 789 N.W.2d 417, 432 (Iowa 2010) 
+(internal quotation marks and citations omitted).  The difference between these varying 
+standards of review was best summarized in this quote from the Iowa Supreme Court: 
+Although a claim of insubstantial evidence is usually used 
+to challenge findings of fact, we understand how it can be 
+implicated, as in this case, in a challenge to a legal 
+conclusion.  Error occurs when the commissioner makes a 
+legal conclusion based on facts that are inadequate to 
+satisfy the governing legal standards.  Yet, a claim of 
+insubstantial evidence to support a legal conclusion does 
+not give rise to the standard of review applicable to the 
+claim of substantial evidence to support the factual findings 
+by the commissioner.  When the commissioner takes a 
+piece of evidence and uses it to draw a legal conclusion…, 
+we do not review the conclusion by looking at the record as 
+a whole to see if there was substantial evidence that could 
+have supported the ultimate decision, as argued by IBP in 
+this case.  Instead, we review the decision made.  If the 
+commissioner fails to consider relevant evidence in making 
+a conclusion, fails to make the essential findings to support 
+the legal conclusion, or otherwise commits an error in 
+applying the law to facts, we remand for a new decision 
+unless it can be made as a matter of law. 
+ 
+Meyer v. IBP, Inc., 710 N.W.2d 213, 219-20 n.1 (Iowa 2006).  As a result, even if this 
+determines that the commissioner’s factual findings are supported by substantial 
+evidence, this is only the beginning of the analysis.  If the commissioner’s factual 
+E-FILED                    CVCV063926 - 2022 DEC 13 10:51 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 4 of 12
+
+5 
+ 
+findings are upheld, this court must then determine “whether the agency abused its 
+discretion by, for example, employing wholly irrational reasoning or ignoring important 
+and relevant evidence.”  Id. at 219. 
+ 
+Taking the agency record as a whole, the following facts were available to the 
+commissioner:  Stuart was injured while on the job for Dickten Masch Plastics on July 
+19, 2012; specifically, she sustained a serious injury to her ankle, which ultimately 
+affected her gait and resulted in severe pain in her low back.  After extensive treatment 
+and multiple surgeries, her treating physician (Dr. Daniel Miller) deemed her to have 
+reached maximum medical improvement in a note dated April 22, 2015, in which he 
+assessed her as having a permanent impairment of 3% to the whole person and 7% to the 
+lower extremity.  She was reevaluated by Dr. Miller on December 7, 2016 at the request 
+of the employer.  That evaluation report (dated January 9, 2017) reads in pertinent part as 
+follows: 
+It is my opinion that the right hip pain is referred from the 
+back.  Ms. Stuart has pre-existing, progressive back issue.  
+Although the back issue is pre-existing to the work injury, I 
+believe that the abnormal gait as a result of the ankle injury 
+from the work accident July 19, 2012, is exacerbating the 
+low back pain.  I do not believe that the residual ankle pain 
+is causing aggravation or advancement of her pre-existing 
+back issue.  That is, degenerative disk disease of the lumbar 
+back progressed and caused pain/discomfort without the 
+ankle injury. 
+ 
+ 
+Dr. Miller found that Stuart had sustained a partial permanent impairment to her 
+low back of 3%.  He noted that no new work restrictions or treatment were noted for the 
+low back issue.  He confirmed in a follow-up note to counsel for the employer signed 
+January 25, 2017 that Stuart did not have an aggravation of her pre-existing low back 
+condition from her altered gait and her work injury did not cause any structural change in 
+E-FILED                    CVCV063926 - 2022 DEC 13 10:51 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 5 of 12
+
+6 
+ 
+her underlying back condition.  However in a subsequent note to Stuart’s counsel signed 
+on February 13, 2017, Dr. Miller agreed that, assuming Stuart’s back condition was 
+asymptomatic on the date of her work injury, her altered gait caused an aggravation, 
+lighting up or acceleration of her pre-existing degenerative back condition. 
+ 
+While Stuart’s first claim was pending, she was able to return to work with 
+restrictions; specifically, she was advised that she was to do “sit down work only.”  
+Specifically, she inspected wires on medical equipment to ensure quality control.  At the 
+time she deposed in February of 2017, she testified that there were others who also 
+performed this job; however, at the review-reopening hearing she testified that the job 
+had not previously existed.1  She did the work from a high back chair on wheels that 
+allowed her to move without standing up.  Other employees would bring the equipment 
+to her for inspection and then take them away.  She was allowed frequent breaks as the 
+constant sitting would cause her back to get stiff and she would need to get up and walk 
+around; she testified at hearing that other workers were not given breaks as frequently.  
+Her intention was to continue to work with her employer until she was able to retire.  She 
+had worked for DMP and its predecessor since 2004; she testified at hearing that she 
+would not have been able to perform any of the other jobs she had done previously for 
+these employers. 
+ 
+ 
+On April 5, 2017, the parties entered in to an agreement for settlement pursuant to 
+Iowa Code §85.35(2).  In that agreement, the parties stipulated that Stuart had sustained a 
+permanent partial disability for 35% of the body as a whole.  Among the supporting 
+documentation for the agreement was the aforementioned evaluation from Dr. Miller 
+                                                 
+1 Her hearing testimony was corroborated by Karen Knox-Clinton, a former co-worker. 
+E-FILED                    CVCV063926 - 2022 DEC 13 10:51 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 6 of 12
+
+7 
+ 
+dated January 9, 2017, as well as her deposition and a functional capacity evaluation 
+(FCE) report dated February 3, 2015.  The agreement was approved by the commissioner 
+on May 4, 2017. 
+ 
+The plant where Stuart was employed closed in April of 2020.  The present 
+review-reopening proceeding was filed on May 8, 2020.  At the review-reopening hearing 
+held on August 10, 2021, Stuart testified at length regarding her educational limitations; 
+she spoke in particular about her inability to comprehend the most basic mathematical 
+functions (specifically fractions used in measures and measurements).2  She testified that 
+in her opinion she would not have been able to get a job anywhere else in the job market 
+without the accommodations provided to her by her employer.   
+ 
+The deputy commissioner entered her review-reopening decision on February 9, 
+2022.  She concluded that Stuart had failed to establish a change in her functional 
+impairment from the time of the settlement until the hearing.  In this regard, she 
+discounted Stuart’s testimony and that of her lay witnesses that she had worsened since 
+the settlement and instead relied on the objective findings from two FCEs performed by 
+Dr. Jacqueline Stoken in 2017 and 2021, as well as the results of an independent medical 
+examination performed by Dr. William Boulden in July of 2021.  The deputy also 
+concluded that Stuart’s economic condition had not changed as a result of her injury: 
+Claimant also contends that she sustained an economic 
+change of condition due to the work injury.  Ms. Stuart has 
+demonstrated that her economic condition has changed 
+since the AFS.  However, I found the reason that her 
+employment ended was because the entire plant closed and 
+this was not related to the original work injury.  
+Furthermore, claimant’s argument that termination form an 
+                                                 
+2 Her 2017 deposition testimony was much more limited in this regard; she only testified that she dropped 
+out of school in the 10th grade because she “couldn’t comprehend what [she] was getting out of it,” that she 
+had difficulty in school and may have taken some remedial classes for reading. 
+E-FILED                    CVCV063926 - 2022 DEC 13 10:51 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 7 of 12
+
+8 
+ 
+accommodated job amounts to a change of condition is not 
+persuasive.  In support of her position, Ms. Stuart relies on 
+Gallardo v. Firestone Tire & Rubber Co., 482 N.W.2d 393 
+(1992).  However, the Gallardo case is distinguishable form 
+Ms. Stuart’s case because Mr. Gallardo’s condition 
+deteriorated after the time of the initial award.  In Ms. 
+Stuart’s case, her condition did not deteriorate after the 
+time of the AFS.  At the time of the AFS, the parties 
+entered into several stipulations including the amount of 
+Ms. Stuart’s loss of earning capacity.  At that time, the 
+injured worker’s present ability to earn in the competitive 
+job market without regard to the accommodation furnished 
+by one’s present employer was to be taken into account.  
+Although Ms. Stuart lost her job since the AFS, the facts 
+and circumstances related to her earning capacity remain 
+the same and were known at the time of the original 
+settlement.  I conclude Ms. Stuart has failed to demonstrate 
+by a preponderance of the evidence that she sustained an 
+economic change of condition related to the work injury.   
+ 
+ 
+The deputy’s decision was appealed to the commissioner, who affirmed the 
+decision in its entirety after adopting the deputy’s analysis, findings and conclusions after 
+a de novo review.  The commissioner specifically affirmed the deputy’s credibility 
+findings regarding the testimony of Stuart and her witnesses, presumably on the issue of 
+the claimed deterioration of Stuart’s condition since the settlement.  The commissioner’s 
+appeal decision was filed on June 15, 2022; a timely petition for judicial review was 
+commenced on June 23, 2022. 
+ 
+In a review-reopening proceeding arising from either an award or an agreement 
+for settlement, “the inquiry shall be into whether or not the condition of the employee 
+warrants an end to, diminishment of, or increase of compensation so awarded or agreed 
+upon.”  Iowa Code §86.14(2) (2021).  When an employee seeks an increase in 
+compensation, the employee bears the burden of establishing by a preponderance of the 
+evidence that her current condition was proximately caused by the original injury.  
+E-FILED                    CVCV063926 - 2022 DEC 13 10:51 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 8 of 12
+
+9 
+ 
+Kohlhaas, 777 N.W.2d at 391.  The change can be brought about because of a 
+deterioration in the claimant’s physical condition or a change in earning capacity without 
+a change in physical condition.   U.S. West Communications, Inc. v. Overholser, 566 
+N.W.2d 873, 875 (Iowa 1997).  In the present case, Stuart is not contesting the 
+commissioner’s determination that her physical condition had not deteriorated since the 
+settlement; her sole focus in seeking judicial review is the decision that the closing of the 
+plant (and resulting removal of the accommodated job) by itself does not trigger a right to 
+a review-reopening.  As such, the issue is whether that decision (and its necessary 
+application of law to facts) was irrational, illogical or wholly unjustifiable, as defined 
+above.3   
+ 
+When a settlement is reached in a workers’ compensation case, the claimant’s loss 
+of earning capacity is properly viewed in terms of her present ability to earn in the 
+competitive job market without regard to the accommodation furnished by the employer.  
+Overholser, 566 N.W.2d at 876 (citing Thilges v. Snap-On Tools Corp., 528 N.W.2d 614, 
+617 (Iowa 1995)).  Absent some indication that the commissioner’s approval of the 
+agreement for settlement adjusted Stuart’s disability rating downward because of her 
+employer’s accommodation, see Gallardo v. Firestone Tire & Rubber Co., 482 N.W.2d 
+393, 396 (Iowa 1992); Overholser, 566 N.W.2d at 876, a reexamination of an employee’s 
+earning capacity should not be based on that same accommodation.  See Kohlhaas, 777 
+N.W.2d at 391 (commissioner may not redetermine condition of employee established in 
+prior award). 
+                                                 
+3 There is no dispute as to whether the factual determinations used by the commissioner to conclude that no 
+change in earning capacity had occurred were supported by substantial evidence. 
+E-FILED                    CVCV063926 - 2022 DEC 13 10:51 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 9 of 12
+
+10 
+ 
+ 
+In the present case, there is no indication that the agreement for settlement was 
+based on a lesser disability rating resulting from the accommodation provided by Stuart’s 
+employer.  Therefore, the mere fact that this accommodation ended with the plant closing 
+does not entitle Stuart to a review-reopening.  There is nothing within the present record 
+that would allow for the conclusion that the earlier settlement was “a distortion of 
+[Stuart’s] true earning capacity.”4  Accordingly, the commissioner’s decision to deny 
+Stuart’s request for a review-reopening on the basis that the plant closing ended her 
+accommodated job was a correct application of the law to the facts at hand.  As this is the 
+only basis upon which Stuart seeks judicial review,5 the commissioner’s decision will be 
+affirmed. 
+                                                 
+4 There is authority for the proposition that providing an accommodation can “cast light on the injured 
+worker’s ability to earn a living in the market place.”  Murillo v. Blackhawk Foundry, 571 N.W.2d 16, 18 
+(Iowa 1997).  Specifically, the court in Murillo established the rule that “an employer’s special 
+accommodation for an injured worker can be factored into the award determination to the limited extent the 
+work in the newly created job discloses that the worker has a discerned earning capacity….[and that t]o 
+qualify as discernible, it must appear that the new job is not just ‘make work’ provided by the employer, 
+but is also available to the injured worker in the competitive market.”  Id.; see also Norton v. Hy-Vee, Inc., 
+2017 WL 5178989 **6-7 (Iowa Ct.App., Case No. 16-1299, filed November 8, 2017).  To the degree that 
+Stuart is attempting to fit within this analysis by arguing that she is presumably totally disabled with the 
+end of her accommodated job, she is not assisted by these cases.  While Murillo was remanded back to the 
+commissioner, that was the result of a new rule of law being promulgated, an argument not available to 
+Stuart.  571 N.W.2d at 19.  Likewise, in Norton, the court found that the commissioner had not artificially 
+adjusted the claimant’s disability rating downward based on the accommodation, but had “wanted to assure 
+Norton that a review-reopening proceeding would be available should her earning capacity change in the 
+future” for reasons not attributable to her present condition.  2017 WL 5178989 at *7.  These cases support 
+the contention that the examination of the impact of an accommodation on an injured worker’s earning 
+capacity must be addressed at the time the award or settlement is reached, and not in a subsequent review-
+reopening proceeding pertaining only to the accommodation.  “[O]nce there has been an agreement or 
+adjudication the commissioner, absent appeal and remand of the case, has no authority on a later review to 
+change the compensation granted on the same or substantially same facts as those previously considered.”  
+Kohlhaas, 777 N.W.2d at 393 (citation omitted); see also Anderson News v. Reins, 2014 WL 5862155 *3 
+(Iowa Ct.App., Case No. 14-0038, filed November 13, 2014). 
+5 Stuart did include a brief point regarding the quality of the opinions provided by the vocational expert 
+retained by the respondents, Julie Svec.  However, the commissioner never looked at Svec’s opinions in 
+addressing whether review-reopening was appropriate; therefore, it is not before the court on judicial 
+review.  See Interstate Power Co. v. Iowa State Commerce Comm’n, 463 N.W.2d 699, 701 (Iowa 1990) 
+(“[A] party is precluded from raising issues in the district court that were not raised and litigated before the 
+agency”). 
+E-FILED                    CVCV063926 - 2022 DEC 13 10:51 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 10 of 12
+
+11 
+ 
+ 
+IT IS THEREFORE ORDERED that the decision of the workers’ compensation 
+commissioner previously entered in this matter on June 15, 2022 is affirmed in its 
+entirety.  The costs associated with this proceeding are assessed to the petitioner. 
+ 
+In addition to all other persons entitled to a copy of this order, the Clerk shall provide a 
+copy to the following: 
+ 
+Workers’ Compensation Commissioner 
+1000 E. Grand Ave. 
+Des Moines, IA  50319-0209 
+ 
+Re:  File No. 5056493.01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E-FILED                    CVCV063926 - 2022 DEC 13 10:51 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 11 of 12
+
+State of Iowa Courts
+Case Number
+Case Title
+CVCV063926
+DEBRA STUART VS DICKTEN MASCH PLASTICS LLC ET
+AL
+Type:
+OTHER ORDER
+So Ordered
+Electronically signed on 2022-12-13 10:51:35
+E-FILED                    CVCV063926 - 2022 DEC 13 10:51 AM             POLK    
+CLERK OF DISTRICT COURT                    Page 12 of 12

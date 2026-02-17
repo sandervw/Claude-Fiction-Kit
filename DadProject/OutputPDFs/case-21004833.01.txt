@@ -1,0 +1,675 @@
+Case Number: 21004833.01
+Case Title:  MEYERS, WILLIAM V. LAZER SPOT, INC.
+Doc Type:    Decision - Deputy
+Source:      Meyers William-21004833.01D.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+SHARON MURRAY as Conservator 
+  : 
+of WILLIAM MEYERS, 
+  : 
+ 
+ 
+  :  
+ 
+File No. 21004833.01 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                ARBITRATION DECISION  
+LAZER SPOT, INC., 
+  : 
+ 
+ 
+  :                            
+ 
+Employer, 
+  : 
+ 
+ 
+  :                         
+and 
+ 
+  : 
+ 
+ 
+  : 
+GREAT AMERICAN ALLIANCE  
+  : 
+INSURANCE CO., 
+  : 
+           Headnotes:  1402.30 
+ 
+ 
+  : 
+ 
+Insurance Carrier, 
+  : 
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+ 
+STATEMENT OF THE CASE 
+ 
+Claimant, Sharon L. Murray as conservator of William L. Meyers, filed a petition 
+in arbitration seeking workers’ compensation benefits from Lazer Spot, Inc. (Lazer), 
+employer, and Great American Alliance Insurance Company, insurer, both as 
+defendants.  This matter was heard on April 22, 2022, with a final submission date of 
+May 20, 2022.   
+ 
+The record in this case consists of Joint Exhibits 1 through 16, Claimant’s 
+Exhibits 1 through 21, Defendants’ Exhibits A through P, and the testimony of William 
+Meyers, Sharon Murray, and Toby Denning. 
+ 
+At hearing, claimant moved to exclude the reports and statements of Don 
+Presley, Karen Baker, an OSHA report, and the report of Andrew Rentschler, Ph.D. 
+ 
+Mr. Presley was the safety manager for defendant employer at the time of the 
+accident.  Ms. Baker’s statement was made as a part of the OSHA investigation.  Ms. 
+Baker was a first responder EMT who came to claimant’s aid at the time of injury.  The 
+OSHA investigator report was created as a part of a government investigation following 
+claimant’s injury.  Dr. Rentschler is an accident reconstruction specialist, and his expert 
+opinion was requested by the defendants regarding causation of claimant’s accident.  
+All statements and reports were served timely.  Claimant’s objections to the statements 
+and the reports were denied at hearing.  (Hearing Transcript, pages 6-10) 
+ELECTRONICALLY FILED     2022-Jul-28  11:03:03     DIVISION OF WORKERS' COMPENSATION
+
+MEYERS V. LAZER SPOT, INC. 
+Page 2 
+ 
+ 
+In his brief, claimant again argues to exclude the report and statements of Mr. 
+Presley, the statement of Ms. Baker, the statement of Owen Lamphier, the statement of 
+Toby Denning, and statements made in the OSHA report. 
+ 
+Technical rules of evidence do not apply in administrative proceedings.  IBP, Inc. 
+v. Al-Gharib, 604 N.W.2d 621, 630 (Iowa 2000) 
+ 
+Exclusion of evidence is the most severe sanction under the rules of civil 
+procedure concerning discovery and is justified only when prejudice would result.  
+Schoenfeld v. FDL Foods, Inc., 560 N.W.2d 595, 598 (Iowa 1997). 
+ 
+As noted above, Mr. Presley was the safety manager for defendant employer at 
+the time of injury.  Statements made in his report were made a part of his investigation 
+of the injury at issue.  Any statements made by Mr. Presley are corroborated, in part, by 
+statements made by Mr. Denning, Mr. Lamphier and Ms. Baker.  Mr. Presley was at 
+hearing, and claimant could have easily called him to testify at hearing but failed to do 
+so.  Defendants’ motion to exclude Mr. Presley’s statement and reports are again 
+denied. 
+ 
+Mr. Lamphier’s statement was made a part of the investigation done by Mr. 
+Presley.  Mr. Lamphier’s statements, in part, are corroborated by the statements made 
+by Mr. Denning, Mr. Presley, and Ms. Baker.  Defendants’ motion to exclude Mr. 
+Lamphier’s statement is denied. 
+ 
+Mr. Denning testified at hearing.  Mr. Denning was the last person to be with 
+claimant prior to his accident.  His statement is corroborated, in part, by his testimony at 
+hearing.  Claimant’s motion to exclude Mr. Denning’s statement is denied.   
+ 
+The statements of Ms. Baker, Mr. Presley, Mr. Denning, and Mr. Lamphier 
+corroborate each other.  They are also corroborated by Mr. Denning’s testimony.  The 
+OSHA report was apparently a document served by defendants in discovery.  OSHA 
+reports are routinely compiled and used to analyze workplace accidents.  Claimant’s 
+motion to exclude the OSHA report, and the statements made in the report, are again 
+denied.   
+STIPULATIONS 
+The parties filed a hearing report at the commencement of the arbitration 
+hearing.  On the hearing report, the parties entered into various stipulations.  All of 
+those stipulations were accepted and are hereby incorporated into this arbitration 
+decision and no factual or legal issues relative to the parties’ stipulations will be raised 
+or discussed in this decision.  The parties are now bound by their stipulations. 
+ISSUES 
+1. Whether claimant sustained an injury that arose out of and in the course of 
+employment. 
+ 
+2. Whether the injury is a cause of permanent disability; and if so, 
+ 
+
+MEYERS V. LAZER SPOT, INC. 
+Page 3 
+ 
+ 
+3. The extent of claimant’s entitlement to permanent partial disability benefits.  
+ 
+4. Whether claimant’s claim is barred by operation of Iowa Code section 85.16. 
+ 
+5. Whether there is a causal connection between the injury and the claimed medical 
+expenses. 
+ 
+6. Whether claimant is entitled to alternate medical care.  
+ 
+7. Whether the defendants are liable for a penalty under Iowa Code section 86.13. 
+FINDINGS OF FACT 
+ 
+Claimant was 62 years old at the time of hearing.  Claimant graduated from high 
+school.  Claimant has learning disability issues.  (Tr., pp. 42, 66-67) 
+ 
+Claimant has worked as a busboy, dishwasher, stocker, forklift operator and 
+security guard.  (Tr., pp. 42-43; Defendants’ Exhibit A) 
+ 
+At the time of injury, claimant had worked for Lazer for approximately 8 years.  
+Claimant’s job duties with Lazer required him to sweep out semi-trailers.  Claimant 
+worked full time and occasionally overtime.  (Tr., pp. 43-44) 
+ 
+Claimant’s prior medical history is relevant.  Claimant was assessed as having 
+mild speech retardation when he was 5 years old.  In 1964 claimant was recommended 
+to be placed in special education classes.  (Joint Exhibit 1, p. 1)  In the same year, 
+claimant was evaluated at the University of Iowa Hospitals in Iowa City.  He was 
+assessed, at that time, as having encephalopathy due to a congenital defect, arrested 
+hydrocephalus and mild retardation.  (JE 1, pp. 4-5) 
+ 
+In December of 2015 claimant was evaluated at Mercy Medical Center for 
+complaints of headaches and an abnormal CT scan.  Claimant was found to have atrial 
+fibrillation the night prior.  He had tingling on the right side of his face and intermittent 
+headaches for the past week.  (JE 2, p. 10) 
+ 
+Claimant indicated nausea and speech difficulty.  Claimant was assessed as 
+having a headache and a right frontal arachnoid cyst.  (JE 2, pp. 10-14) 
+ 
+On December 19, 2016, claimant was seen by David Glassman, M.D., for 
+evaluation of atrial fibrillation with rapid ventricular response (RVR).  Claimant was 
+prescribed Relafen for his condition, but he was unsure if he was taking it.  Claimant 
+had right-sided facial numbness.  A head CT scan, echo and stress test were 
+recommended.  A social worker was consulted for medical compliance.  (JE 2, pp. 15-
+20)  He was assessed as having chronic atrial fibrillation and hyperthyroid.  (JE 2, p. 20) 
+ 
+A CT scan was done on December 19, 2016.  It showed a hyperdense right 
+middle cerebral artery.  Claimant was recommended to have a CT angiogram and a 
+brain MRI.  (JE 2, p. 23) 
+
+MEYERS V. LAZER SPOT, INC. 
+Page 4 
+ 
+ 
+On March 27, 2018, claimant was evaluated by Matthew Aucutt, D.O.  Claimant 
+felt his throat was closing off and his face was numb and hot.  Claimant reported similar 
+symptoms in the past.  The reason for claimant’s symptoms was unclear.  (JE 2, pp. 26-
+28) 
+ 
+On June 29, 2018, claimant was seen at Mercy Medical Center for evaluation of 
+stroke symptoms.  Claimant indicated he had stopped taking medication a month prior 
+to his condition as he could not afford it.  (JE 2, p. 34) 
+ 
+Claimant worked for Lazer at the International Paper facility in Cedar Rapids.  
+Toby Denning testified he worked at Lazer sweeping out trailers with claimant.  He said 
+brooms and blowers were used to clean out debris from the back of trailers.  Debris was 
+then moved into the Lazer facility.  The material is blown or swept out on the concrete 
+floor in the facility.  The debris is then pushed past barriers referred to as “Jersey 
+barriers.”  The Jersey barriers are concrete covered in hard orange plastic.  Mr. Denning 
+said the debris in the area is then picked up by a “clamp truck.”  (Tr., pp. 20-21) 
+ 
+Mr. Denning said he and claimant began the shift at 5:30 a.m. on March 2, 2019.  
+Mr. Denning stated claimant did not act ill that morning.  Mr. Denning said that after he 
+and claimant finished cleaning a trailer, they went into the “sweep shack.”  Mr. Denning 
+said he was sitting in a chair in the sweep shack before claimant came into the shack.  
+He said claimant sat down in the chair and then immediately got up.  Mr. Denning said 
+claimant quickly left the shack.  He said he heard a noise like claimant vomiting.  He 
+said that when the vomiting stopped, he stepped outside of the shed and found claimant 
+on the ground.  (Tr., pp. 22-23, 29-30) 
+ 
+Mr. Denning said claimant’s left side of his body was against the barrier.  Mr. 
+Denning said that he did not observe bleeding.  He did see some vomit on the opposite 
+side of the barrier where claimant was found and on claimant’s mouth.  He said that 
+when he could not get a response from claimant, he radioed for help.  (Tr., p. 30) 
+ 
+Mr. Denning did not see claimant fall, pass out, or vomit.  (Tr., p. 23) 
+ 
+Exhibit A is a handwritten statement from Mr. Denning dated March 2, 2019.  
+Exhibit A is consistent with testimony given by Mr. Denning at hearing.   
+ 
+Claimant was transported from Lazer to Mercy Medical Center by ambulance.  
+Records from Mercy indicated the cause of claimant’s fall was unclear.  Claimant could 
+have had a fall and traumatic head injury or a medical event that led to the fall and skull 
+fracture.  (JE 7, p. 65)  A CT scan of the skull showed extensive cranial fractures 
+including a right basal skull fracture, a comminuted left occipital fracture, and a fracture 
+of the left greater sphenoid wing.  The CT scan also showed extensive bilateral 
+subdural and subarachnoid hemorrhages.  (JE 7, p. 88)  Given his condition, claimant 
+was transferred to the University of Iowa Hospitals & Clinics (UIHC).  (JE 8, pp. 98-99) 
+ 
+Claimant was admitted to the UIHC on March 2, 2019.  Claimant had multiple 
+intracranial injuries.  He was intubated in the emergency department at Mercy.  (JE 9, 
+pp. 101-102) 
+
+MEYERS V. LAZER SPOT, INC. 
+Page 5 
+ 
+ 
+Sharon Murray is claimant’s sister.  She was eventually appointed as conservator 
+and guardian for claimant along with her son, Dallas.  (Tr., pp. 39, 68)  Ms. Murray 
+testified she first became aware of claimant’s injury when her son, Dallas, called her to 
+tell her that claimant was being taken to the hospital by ambulance.  (Tr., p. 44)  She 
+said she went to the emergency room at Mercy, and at that time staff were trying to 
+assess claimant’s injuries.  (Tr., p. 46)  Staff asked Ms. Murray to get claimant’s 
+medication.  Claimant had taken medication for his atrial fibrillation condition.  Ms. 
+Murray said that she went to the UIHC when claimant was being transported to Iowa 
+City.  (Tr., pp. 47-49) 
+ 
+Ms. Murray said that when she was en route to Iowa City, she spoke to 
+claimant’s supervisor “Bill” (no last name given).  Bill told Ms. Murray that claimant had 
+a “medical condition.”  Ms. Murray indicated she had difficulty believing that claimant’s 
+injuries were due to his heart condition.  She said that claimant had situations in the 
+past when his heart would beat too fast, but claimant would sit down and be fine.  (Tr., 
+pp. 50-51)  Ms. Murray said that when she showed up at the UIHC, staff told her 
+claimant’s injuries were serious and that claimant might die.  (Tr., pp. 48-49)  She said 
+that while claimant was in the hospital at the UIHC, she called Cedar Rapids Police as 
+she was concerned that claimant could have been assaulted at work.  (Tr., pp. 52-53) 
+Records indicate a social worker at the UIHC also contacted the Cedar Rapids 
+Police as claimant’s injuries were “inconsistent” with the reported cause of the injury (JE 
+15, p. 377) 
+Cedar Rapids police eventually performed an investigation of claimant’s accident 
+with Lazer at the International Paper facility.  Video footage from an officer camera, and 
+what appears to be a squad car camera, are found in Exhibit 16.  The footage shows 
+the officer investigating the accident, John Dunkelberger, driving to the International 
+Paper facility, waiting in his car, and speaking with security staff (JE 16) 
+Video footage labeled qja01902_20190505174612e0 shows Officer 
+Dunkelberger investigating the area where claimant fell.  In the video Officer 
+Dunkelberger talks with Owen Lamphier and two other unidentified workers.  Mr. 
+Lamphier indicates he was the second person at the accident shortly after it happened.  
+Footage indicates claimant and Mr. Denning were sitting in the sweep shack when 
+claimant rushed out of the sweep shack.  Approximately 30 seconds later, Mr. Denning 
+ran out of the shack and found claimant lying on the ground, face up, next to the 
+barricade.  Mr. Lamphier indicated claimant’s head was pointing towards dock doors.  
+Claimant was lying against the barricade on the side of the sweep shack.  Vomit was 
+found on the opposite side of the barricade.  (See also JE15, pp. 378-379) 
+The investigation was later closed and found to be a non-criminal incident. (JE 
+15) 
+ 
+An incident report of the accident was made by Lazer.  The report indicates Mr. 
+Denning and claimant were in the sweep shack when claimant sat for a short time and 
+then got up and acted like he was going to vomit.  Claimant went to the door.  Mr. 
+Denning followed and found claimant lying beside a barricade.  The report indicates it 
+
+MEYERS V. LAZER SPOT, INC. 
+Page 6 
+ 
+was unknown what caused claimant to be ill and found that it was not caused by an 
+accident, but was due to a “personal illness.”  (Ex. C) 
+ 
+In an investigation statement, Don Presley, the safety director for Lazer, 
+indicated that Mr. Denning told him that claimant sat in the chair in the sweep shack for 
+approximately 5 seconds, when claimant acted like he was going to throw up.  Claimant 
+quickly ran out of the sweep shack.  Mr. Denning said he went out of the sweep shack 
+shortly after the claimant left and found claimant lying next to a barricade.  Claimant had 
+vomited on the barricade.  Mr. Presley opined that claimant fell after he got sick.  (Ex. D) 
+ 
+In the OSHA investigation statement, Karen Baker indicated that she was an 
+EMS person who was called to the docks at the time of the injury.  She found claimant 
+on his back on the floor and claimant was nonresponsive.  Ms. Baker did not think 
+claimant’s accident was a workplace injury.  (Ex. I, p. 55) 
+ 
+Ms. Murray testified claimant was in the ICU at the UIHC for approximately 17 
+days and was in a coma during that time.  (Tr., p. 52)  She testified that at one point, 
+staff at the UIHC counseled the family to take claimant off life support and let claimant 
+die.  (Tr., p. 59)  Ms. Murray testified that she was traumatized by this, and that it was a 
+miracle that claimant was still alive.  (Tr., pp. 36, 55) 
+ 
+Records indicate claimant began to open his eyes on March 14, 2019, and was 
+able to follow single commands at about that time.  (JE 9, p. 155)  Claimant was 
+extubated on March 15, 2019.  (JE 9, p. 155)  On March 18, 2019, claimant was able to 
+move his upper and lower extremities, follow simple commands, and respond to 
+questions by shaking his head.  (JE 9, p. 168) 
+ 
+Claimant was discharged from the UIHC on March 25, 2019, and moved to On 
+With Life in Ankeny, Iowa, for brain injury rehabilitation services.  On With Life is a 
+facility offering inpatient and outpatient resources and rehabilitation for patients with 
+head injuries.  (JE 9, pp. 182, 186; JE 10, p. 209; Tr., pp. 56-57) 
+ 
+Claimant was transferred to On With Life on March 25, 2019.  (JE 10, p. 209; JE 
+9, p. 182)  While at On With Life, claimant underwent physical, speech and occupational 
+therapy and rehabilitation.  (JE 10)  Claimant was discharged from On With Life on July 
+18, 2019.  (JE 10, p. 280)  Claimant and his family were recommended to be involved 
+with the Brain Injury Association of Iowa.  (JE 10, p. 285) 
+ 
+On August 27, 2019, claimant was evaluated by Qadnana Anwar, M.D., with 
+UnityPoint to establish care.  Claimant was undergoing speech therapy, physical 
+therapy, and occupational therapy.  (JE 12, pp. 326-329) 
+ 
+Claimant returned to Dr. Anwar on September 16, 2019.  Claimant indicated he 
+wanted to return to work and wanted to be driving again.  Claimant was told to return to 
+driving slowly and to avoid driving at night or more than 50 miles per hour.  (JE 12, p. 
+331) 
+ 
+After his release from On With Life, claimant continued to undergo speech and 
+occupational therapy through UnityPoint at St. Luke’s.  Claimant was discharged from 
+
+MEYERS V. LAZER SPOT, INC. 
+Page 7 
+ 
+occupational and physical therapy on October 21, 2019.  Records from speech therapy 
+noted claimant was close to baseline functioning on discharge.  (JE 4; JE 5, p. 53) 
+ 
+On May 19, 2021, claimant underwent an independent neuropsychological exam 
+performed by John Walker, III, Psy.D., ABPP-CN.  Claimant was assessed as having an 
+intellectual disability, a major neurocognitive disorder due to a history of an intellectual 
+disability, and a traumatic brain injury.  Claimant was found to be limited for all activities.  
+He was limited from working around machinery.  He was limited from attending to and 
+recalling more than two-step commands or greater.  Dr. Walker did not believe claimant 
+could make further cognitive improvement and believed claimant’s status was stable 
+from a neurocognitive perspective.  (Claimant’s Exhibit 7, pp. 72-73) 
+ 
+In an August 3, 2021, report, Charles Mooney, M.D., gave his opinions of 
+claimant’s condition following a records review.  Dr. Mooney assessed claimant as 
+having an unwitnessed fall resulting in multiple cranial fractures and subarachnoid 
+bleeds with a loss of consciousness.  (Ex. G, p. 23)  He opined that based upon his 
+review of statements and investigation of all the injuries he did not believe this was an 
+occupational or work-related injury.  He opined that claimant’s work activities were not 
+associated with the injury.  (Ex. G, p. 23) 
+ 
+In a March 7, 2021 report, David Segal, M.D., gave his opinions of claimant’s 
+condition following an independent medical evaluation (IME).  Dr. Segal assessed 
+claimant as having a traumatic brain injury, concussion and extensive bilateral subdural 
+and subarachnoid hemorrhages, a diffuse axonal injury, and extensive cranial fractures, 
+permanent brain damage and post-concussive syndrome with cognitive deficits.  (Ex. 5, 
+p. 24)  Dr. Segal opined,  
+“Meyers was alone in the work area.  Because of the severe nature of 
+the skull and brain injuries, the most likely mechanism of injury within Mr. 
+Meyers’ work environment is that he slipped and fell onto the back of his 
+head on the concrete floor.  There are other possibilities of how this 
+injury occurred, and all are causally related to the work environment, and 
+in all likely scenarios, the condition of Mr. Meyers’ employment placed 
+him at an increased risk of injury.”   
+(Ex. 5, p. 18)  Dr. Segal also opined that he found it unlikely that claimant suffered his 
+injury from passing out and slumping to the floor.  He opined that given the location and 
+severity of claimant’s skull fractures, it is unlikely claimant merely fell to the floor.  (Ex. 5, 
+p. 18)  
+ 
+Dr. Segal offered approximately seven possible scenarios for how claimant’s 
+accident could have happened.  He opined that the most likely circumstance occurred 
+when claimant could have slipped backwards and fell before he entered the sweep 
+shack with Mr. Denning.  (Ex. 5, p. 19) 
+ 
+Dr. Segal also opined that claimant might have fallen from a height, slipped on 
+debris, was hit with a fork or forklift, fell from the jarring of a dock, or was assaulted.  
+(Ex. 5, pp. 21-22)  Dr. Segal opined it was not likely claimant sustained an injury while 
+falling on a barricade or had a seizure.  He opined that it was not likely claimant had an 
+
+MEYERS V. LAZER SPOT, INC. 
+Page 8 
+ 
+illness that caused him to fall and slump and hit the back of his head on the floor.  (Ex. 
+5, pp. 21-22) 
+ 
+Dr. Segal found claimant at maximum medical improvement (MMI) as of March 2, 
+2021.  (Ex. 5, p. 35)  He opined that claimant had a 32 percent permanent impairment 
+to the body as a whole due to cognitive impairments, emotional and behavioral 
+disorders, headaches, vestibular dysfunction, and sleep disorder.  (Ex. 5, pp. 35-38) 
+ 
+Dr. Segal recommended claimant have further medical treatment including 
+neurological consultation, neuropsychological therapy, vestibular evaluation and 
+therapy, and hearing evaluations.  (Ex. 5, p. 33)  He restricted claimant to only 1-2 
+hours of activity for a 2-3 hour workday.  He recommended claimant avoid use of 
+ladders and only engage in rare driving.  (Ex. 5, p. 40) 
+ 
+In a March 1, 2022 report, Andrew Rentschler, Ph.D., gave his opinions of 
+claimant’s accident.  Dr. Rentschler has a Ph.D. in bioengineering.  His resume 
+indicates his research included investigation of biomechanics of gait and falls in order to 
+mitigate injuries.  He has also performed clinical studies to gauge injury potential.  His 
+area of specialties include, but are not limited to, injury causation biomechanics, gait 
+and fall analysis, and injury mechanism analysis.  (Ex. F) 
+ 
+Dr. Rentschler noted claimant’s skull fracture and brain injury resulted from blunt 
+force trauma to the head.  (Ex. E, p. 15) 
+ 
+Dr. Rentschler noted that there was no evidence, either physical or testimonial, 
+that claimant slipped or tripped and fell due to environmental or physical conditions in 
+the work area.  (Ex. E, p. 15)  He noted the only evidence of what occurred prior to the 
+fall are statements made by Mr. Denning.  As noted in Mr. Presley’s report,  
+“Billy [sic] came in, sat down in the other chair for . . .  maybe 5 seconds 
+and then his eyes got big and he was acting like he was going to throw up.  
+Toby said Billy [sic] got up quickly and went out of the sweep shack.  Toby 
+said . . . he got up and went out the door just seconds after Billy [sic] had 
+left.  When Toby exited the sweep shack, Billy [sic] was laying on the floor 
+beside the barricade.”  
+(Ex. D, p. 8; Ex. E, p. 15)  Photos of this incident were taken three hours after the 
+accident and do not show a tripping or slipping hazard.  (Ex. E, p. 16)   
+ 
+Dr. Rentschler indicated, given the evidence, it appeared claimant left the sweep 
+shack and vomited on the back of the concrete barrier.  This was indicative that 
+claimant did not slip and fall as he was able to vomit on the opposite side of the barrier.  
+There was no evidence claimant tripped and fell in the area of the barricade.  Dr. 
+Rentschler indicated that evidence showed claimant reached the barricade and vomited 
+on the barricade.  He opined that claimant’s fall was more consistent with a 
+physiological event, such as a syncopal episode, as opposed to a physical disruption of 
+his ambulatory process.  (Ex. E, p. 16) 
+ 
+In a March 20, 2022 note, Dr. Mooney indicated he had reviewed Dr. Segal’s 
+report.  Dr. Mooney noted that information provided did not identify an occupational 
+
+MEYERS V. LAZER SPOT, INC. 
+Page 9 
+ 
+hazard related to claimant’s injury and there is no work activity taking place at the time 
+of injury.  (Ex. G, p. 25) 
+ 
+On March 23, 2022, Dr. Segal issued a supplemental report.  He disagreed with 
+the opinions of Dr. Mooney and Dr. Rentschler.  Dr. Segal again opined that although 
+the accident was unwitnessed, he believed that because of the impact to the back of 
+claimant’s skull, this suggested that the workplace directly contributed to claimant’s 
+injuries.  (Ex. 6, pp. 60-62) 
+ 
+Ms. Murray testified that she is not aware if claimant had passed out or had a 
+seizure either before or after the accident.  (Tr., p. 60)  She said claimant has balance 
+issues since the accident.  She says occasionally claimant will “check out” mentally.  
+Ms. Murray said that claimant can drive, but has to have someone in the car with him.  
+(Tr., pp. 61-62) 
+ 
+Ms. Murray said that claimant had not returned to employment, and she did not 
+believe claimant was capable of returning to work.  (Tr., pp. 62-64)  She said that 
+claimant has difficulty following directions.  (Tr., p. 64)  She said that claimant has been 
+awarded Social Security Disability benefits based on his injury.  (Tr., p. 65) 
+ 
+Ms. Murray said that before the accident, claimant was self-sufficient and that he 
+was able to work.  Since the accident, claimant lives with Ms. Murray.  Ms. Murray said 
+that she had to take a job to accommodate claimant.  She said that family members 
+have moved into her house to help care for claimant.  (Tr., p. 66) 
+CONCLUSIONS OF LAW 
+ 
+The first issue to be determined is whether claimant’s injury arose out of and in 
+the course of employment. 
+ 
+The party who would suffer loss if an issue were not established has the burden 
+of proving that issue by a preponderance of the evidence.  Iowa R. App. P. 6.904(3). 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the alleged injury actually occurred and that it both arose out of and in the course of the 
+employment.  Quaker Oats Co. v. Ciha, 552 N.W.2d 143 (Iowa 1996); Miedema v. Dial 
+Corp., 551 N.W.2d 309 (Iowa 1996).  The words “arising out of” refer to the cause or 
+source of the injury.  The words “in the course of” refer to the time, place, and 
+circumstances of the injury.  2800 Corp. v. Fernandez, 528 N.W.2d 124 (Iowa 1995).  
+An injury arises out of the employment when a causal relationship exists between the 
+injury and the employment.  Miedema, 551 N.W.2d 309.  The injury must be a rational 
+consequence of a hazard connected with the employment and not merely incidental to 
+the employment.  Koehler Elec. v. Wills, 608 N.W.2d 1 (Iowa 2000); Miedema, 551 
+N.W.2d 309.  An injury occurs “in the course of” employment when it happens within a 
+period of employment at a place where the employee reasonably may be when 
+performing employment duties and while the employee is fulfilling those duties or doing 
+an activity incidental to them.  Ciha, 552 N.W.2d 143. 
+
+MEYERS V. LAZER SPOT, INC. 
+Page 10 
+ 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995).  Miller v. 
+Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 1994).  Unrebutted expert medical 
+testimony cannot be summarily rejected.  Poula v. Siouxland Wall & Ceiling, Inc., 516 
+N.W.2d 910 (Iowa App. 1994). 
+Idiopathic falls are those that originate from a claimant’s personal condition or 
+personal weakness.  See Bluml v. Dee Jay's Inc., 920 N.W.2d 82, 84 (Iowa 2018) (“It is 
+not disputed that this case involves an idiopathic fall.  Bluml fell on February 15, 2012, 
+because he had a seizure.  The seizure was unrelated to Bluml's work.”); see also 
+Koehler Elec. v. Wills, 608 N.W.2d 1, 4 (Iowa 2000) (citing 1 Arthur Larson, Workmen's 
+Compensation Law § 12.11, at 3–356 (1994) (referring to falls that originate from a 
+cause personal to the claimant as “idiopathic”)).     
+When a claimant slips or trips or falls for no specifically identifiable reason, the 
+cause is “unexplained”—not idiopathic.  See Bartle v. Sidney Care, Inc., No. 09-1371, 
+slip op. at 2 (Iowa Court of Appeal)(October 15, 2003); see also Ottumwa Regional 
+Health Center v. Mitchell, No. 07-1496, slip op. at 3 (Iowa Court of Appeals)(April 9,  
+2008) (noting claimant sustained an unexplained fall when her foot went out from under 
+her with no apparent cause).   
+The Iowa Supreme Court indicated, in Bluml v. Dee Jay’s Inc.,920 N.W.2d 82 
+(2018), that different standards apply depending on whether the fall at issue is idiopathic 
+or unexplained.  Because the claimant in Bluml sustained an idiopathic fall, the court 
+determined he had the burden to meet the “increased-risk test”—which requires proof 
+that “‘a condition of his [or her] employment increased the risk of injury.’” Id. at 91 (citing 
+Koehler Elec., 608 N.W.2d at 5).  In a footnote, the court also provided that “[t]he actual-
+risk rule we relied upon in Lakeside Casino v. Blue, 743 N.W.2d 169 (Iowa 2007) 
+remains appropriate for unexplained rather than idiopathic injuries . . .” Id. at 91. For 
+unexplained falls, the “actual-risk test” applies.  This requires proof that “‘the 
+employment subjected [the] claimant to the actual risk that caused the injury.’” Lakeside 
+
+MEYERS V. LAZER SPOT, INC. 
+Page 11 
+ 
+Casino, 743 N.W.2d at 176 (quoting 1 Arthur Larson & Lex K. Larson, Larson’s 
+Workers’ Compensation Law § 3.04, at 3-5 (2007)).     
+More specifically, under the actual-risk doctrine, the injury must result from a 
+condition, risk, or hazard of employment. See id. at 178; see also Hanson v. Reichelt, 
+452 N.W.2d 164, 168 (Iowa 1990) (“If the nature of the employment exposes the 
+employee to the risk of such an injury, the employee suffers an accidental injury arising 
+out of and during the course of the employment.”).   
+Three experts have opined regarding causation in this case.  Dr. Mooney 
+performed a records review regarding claimant’s fall.  Based on the statements and 
+investigative reports, Dr. Mooney opined that there was no occupational hazard and 
+claimant’s work activities were not directly associated with the injury.  (Ex. G, p. 24) 
+Dr. Rentschler issued an opinion regarding causation in this case.  Dr. 
+Rentschler has a Ph.D. in bioengineering.  His CV indicates his research includes 
+investigating biomechanics of gait and falls in order to mitigate injuries.  He has been 
+involved in clinical studies to gauge injury potential.  His areas of specialties include, but 
+are not limited to, injury causation biomechanics, gait and fall analysis and injury 
+mechanism analysis.  (Ex. F)  Dr. Rentschler indicated, given the evidence, claimant 
+suddenly left the sweep shack and vomited on the back of a concrete barrier.  He 
+opined claimant’s fall was more consistent with a physiological event as opposed to a 
+trip and fall.  (Ex. E, p. 16) 
+Dr. Segal’s CV is not in evidence.  Based on his letterhead, Dr. Segal is an M.D. 
+and also has a J.D.  Dr. Segal routinely acts as an expert witness in hearings before this 
+division and performs IMEs.  There is no evidence in the record that Dr. Segal has any 
+education, training, or experience regarding accident reconstruction.   
+As noted above, no one knows how the accident happened as no one witnessed 
+the accident.  Dr. Segal offers approximately seven different scenarios of how 
+claimant’s accident occurred.  He suggests the most probable scenario is one where 
+claimant fell, hit his head, got up and then went to the sweep shack before suddenly 
+appearing ill and leaving the shack.  (Ex. 5, p. 19)  There is no evidence in the record 
+that claimant had a fall before he entered the sweep shack.  Dr. Segal also offers 
+scenarios that claimant was hit by a forklift, fell when a dock was suddenly jarred, or 
+was assaulted.  (Ex. 5, pp. 19-22)  There is no evidence in the record to support any of 
+these possible scenarios.   
+No one witnessed claimant’s fall.  No one can state for certain what caused 
+claimant to sustain his injuries.  Dr. Segal speculates that claimant “. . . had to have 
+slipped on something.”  (Ex. 5, p. 18)  This speculation is not supported by any witness 
+statements, any medical records, or any other medical evidence.  In brief, Dr. Segal’s 
+numerous scenarios are guesses how claimant could have potentially sustained his 
+injury based upon the nature of his skull fractures. 
+
+MEYERS V. LAZER SPOT, INC. 
+Page 12 
+ 
+Dr. Segals’ opinions regarding causations are also problematic for another 
+reason.  As noted above, Dr. Rentschler has a Ph.D. in bioengineering.  Dr. Rentschler 
+has performed clinical studies to gauge injury potential and his specialties include injury 
+causation biomechanics, gait and fall analysis, and injury mechanism analysis.  (Ex. F)  
+Dr. Segal’s CV is not in evidence.  There is no evidence in the record that Dr. Segal has 
+any training, experience, or education regarding the area of accident reconstruction.   
+Dr. Segal’s opinions regarding causation are based on a number of possible 
+accident scenarios.  Speculation regarding the various scenarios is not corroborated by 
+any written statements or other medical evidence.  Dr. Segal lacks the skill, knowledge, 
+experience, training, or education to testify as to how an unwitnessed accident 
+occurred.  Based on this, it is found his opinions regarding causation of the injury in this 
+case are not convincing.   
+As noted, the evidence in this case is clear that no one actually witnessed 
+claimant’s injury.  No one knows what caused claimant to sustain his injury.  Given this 
+record, it is found that claimant’s injury is an unexplained fall.  As detailed above, for 
+unexplained falls, the actual-risk test applies.  This requires proof that the employment 
+subjected claimant to actual risks that caused the injury.  More specifically, the injury 
+must result from a condition, risk, or hazard of employment.  Lakeside Casino, 743 N.W. 
+2d at 176-178.  
+Dr. Segal’s multiple scenarios on how claimant fell are found to be unconvincing.  
+Dr. Mooney opined that claimant’s work activities were not directly associated with the 
+injury.  Dr. Rentschler opines that claimant’s fall is consistent with a physiological event 
+as opposed to a slip and fall.  There is little in the record indicating that the flooring 
+where claimant fell placed claimant at a risk or hazard.  Given this record, claimant has 
+failed to carry his burden of proof he sustained an injury that arose out of and in the 
+course of employment from an unexplained fall. 
+Assuming for argument’s sake claimant’s fall is characterized as an idiopathic 
+fall, claimant would still fail to carry his burden of proof his injury arose out of and in the 
+course of employment.  As noted above, in an idiopathic fall, claimant has the burden of 
+proof to meet the “increased risk test.”  That is, does a condition of claimant’s 
+employment increase his risk of injury.  Bluml, 920 N.W. 2d, 82, 91. 
+As detailed, Dr. Segal’s multiple scenarios of how claimant was injured are found 
+not convincing.  Dr. Mooney opined claimant’s work activity was not directly associated 
+with the injury.  Dr. Rentschler opines claimant’s fall is more consistent with a 
+physiological event rather than a slip and fall.  There is no evidence in the record that 
+the hardness of the flooring where claimant was found increased the risk of injury 
+sustained by claimant.  Given this record, claimant has also failed to carry his burden of 
+proof he sustained an injury that arose out of and in the course of employment due to 
+an idiopathic fall.   
+The record indicates claimant had a mental disability before his injury.  Despite 
+this disability, he held a number of jobs, was apparently a good employee, and was 
+
+MEYERS V. LAZER SPOT, INC. 
+Page 13 
+ 
+largely self-sustaining.  After his injury, he has not been able to return to employment.  
+In order to care for claimant, his sister has radically changed her life and job.  
+Claimant’s family has to monitor claimant due to his brain injury.  These are all people to 
+be admired. 
+However, because claimant sustained a horrendous injury, and because his 
+family and claimant are remarkable people, does not change the burden of proof 
+claimant must carry in order to prove the issue of causation.  As claimant has failed to 
+carry his burden of proof his injury arose out of and in the course of employment, all 
+other issues are moot. 
+ORDER 
+ 
+THEREFORE IT IS ORDERED: 
+ 
+That claimant shall take nothing from these proceedings. 
+ 
+That both parties shall pay their own costs. 
+Signed and filed this ____28th ____ day of July, 2022. 
+ 
+ 
+The parties have been served, as follows: 
+Saffin Parrish-Sams (via WCES) 
+ 
+Paul Salabert, Jr. (via WCES) 
+Lindsey Mills (via WCES) 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal period 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday.  
+     JAMES F. CHRISTENSON 
+          DEPUTY WORKERS’ 
+ COMPENSATION COMMISSIONER 

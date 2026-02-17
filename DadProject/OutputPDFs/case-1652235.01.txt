@@ -1,0 +1,494 @@
+Case Number: 1652235.01
+Case Title:  TURNER, DONALD R V. NCI BUILDING SYSTEMS
+Doc Type:    Decision - Court of Appeals
+Source:      Turner - Court of Appeals Decision.PDF
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 23-1003 
+Filed January 9, 2025 
+ 
+ 
+DONALD TURNER, 
+ 
+Petitioner/Cross Respondent-Appellant/Cross-Appellee, 
+ 
+vs. 
+ 
+NCI BUILDING SYSTEMS and LIBERTY MUTUAL INSURANCE COMPANY, 
+ 
+Respondents/Cross Petitioners-Appellees/Cross-Appellants. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Jeanie Vaudt, Judge. 
+ 
+A worker appeals, and an employer cross-appeals, the district court’s denial 
+of their petition and cross-petition for judicial review of the workers’ compensation 
+commissioner’s ruling.  AFFIRMED ON APPEAL AND CROSS-APPEAL.  
+ 
+ 
+Thomas M. Wertz and Mindi M. Vervaecke of Wertz Law Firm, P.C., Cedar 
+Rapids, for appellants. 
+ 
+Christopher S. Spencer and Stephen W. Spencer of Peddicord Wharton, 
+LLP, West Des Moines, for appellees. 
+ 
+ 
+Heard by Schumacher, P.J., and Ahlers and Langholz, JJ.
+1 of 17
+ELECTRONICALLY FILED            JAN 09, 2025            CLERK OF SUPREME COURT
+ELECTRONICALLY FILED     2025-Jan-09  14:52:07     DIVISION OF WORKERS' COMPENSATION
+
+ 
+2
+LANGHOLZ, Judge. 
+ 
+After suffering serious injuries from a thirty-foot fall onto a concrete floor at 
+work, Donald Turner was awarded permanent partial disability benefits by the 
+workers’ compensation commissioner.  Neither Turner nor his employer, NCI 
+Building Systems, was completely satisfied with the commissioner’s decision.  So 
+they both petitioned for judicial review.  
+ 
+NCI seeks reversal of the commissioner’s decision that the work injury 
+caused Turner’s mental-health condition, arguing the decision is unsupported by 
+substantial evidence and based in part on a medical report that Turner submitted 
+after the hearing.  In contrast, Turner challenges the commissioner’s finding that 
+the mental-health condition is not permanent and contends that we should find that 
+it is—and thus increase his permanent disability award—or remand to the 
+commissioner to award healing-period benefits that he did not originally request. 
+ 
+Separate from the mental-health-condition issues, NCI also seeks reversal 
+of the commissioner’s finding that Turner’s physical injuries resulted in an 
+unscheduled industrial disability rather than scheduled injuries, despite NCI’s 
+contrary admission.  And NCI argues that even if it is an industrial disability, the 
+evidence does not support the commissioner’s forty percent award. 
+ 
+The district court affirmed the commissioner, and both parties again appeal.  
+But we agree that the evidentiary ruling was not an abuse of discretion, all the 
+challenged 
+findings 
+are 
+supported by 
+substantial evidence, 
+and 
+the 
+commissioner’s decision is not otherwise unreasonable, arbitrary, capricious, 
+irrational, illogical, or wholly unjustifiable on any issue properly preserved for our 
+review.  We thus affirm on both the appeal and cross-appeal. 
+2 of 17
+
+ 
+3
+I. 
+Background Facts and Proceedings 
+ 
+Turner was employed by NCI as a full-time maintenance technician.  At 
+work in August 2018, Turner used a scissor lift to perform maintenance on a crane 
+roughly thirty feet in the air.  The crane moved, knocking over the scissor lift and 
+crashing Turner to the concrete floor below.  Turner was severely injured, suffering 
+a vertebral compression fracture, several rib fractures, a mildly displaced right 
+shoulder blade fracture, a fractured right tibia (lower leg), a fractured left calcaneus 
+(heel) and multiple fractures in his right foot and ankle.  He was air-flighted to the 
+University of Iowa Hospitals and Clinics, where he was hospitalized for twenty-two 
+days.  He had multiple surgeries.  And even after his release, his continued 
+treatment was extensive.   
+ 
+Eleven months after his injury, Turner returned to his maintenance position 
+with NCI.  His pay and job requirements stayed the same.  But many work activities 
+were painful, and Turner took breaks as he needed to relieve his constant pain. 
+ 
+Turner worked until January 2020, when NCI offered him a voluntary 
+furlough.  He did not return from the furlough until March, then worked one month 
+before the COVID-19 pandemic shut down NCI’s operations and he was 
+furloughed again.  He remained furloughed until his position was downsized and 
+cut in September.  Turner received severance pay as a result, and he filed for 
+disability benefits shortly after.   
+ 
+After his employment with NCI ended, Turner began telling his doctors that 
+he was suffering from mental-health issues.  One doctor’s notes from November 
+reported that he was “quite down and demoralized” and was “having significant 
+discomfort” that affected “the quality of his life.”  Another noted that his “mood has 
+3 of 17
+
+ 
+4
+been [a]ffected by the pain and being let go by his work.”  And Turner was 
+diagnosed with situational depression and prescribed medication to treat it.  Turner 
+believes that his mental-health condition stems from the pain suffered from the 
+work injury and is proximately caused by the injury. 
+ 
+This proceeding started when Turner petitioned for workers’ compensation 
+benefits against NCI and its insurer, Liberty Mutual Insurance Company.1  The 
+claim was heard by a deputy commissioner at a video hearing in May 2021.  At the 
+hearing, Turner asked to hold the record open for the submission of two additional 
+reports—a rebuttal report by his expert witness and an evaluation by a pain 
+psychologist at an appointment scheduled to take place days after the video 
+hearing.  The deputy commissioner agreed to hold the record open for the rebuttal 
+report but not for the pain psychologist’s evaluation.  Turner still submitted the pain 
+psychologist’s evaluation with a renewed motion to admit it. 
+ 
+In a February 2022 decision, the deputy commissioner found that Turner 
+proved “permanent impairment in the bilateral lower extremities, left shoulder, and 
+thoracic spine” caused by the thirty-foot fall at work.  And reasoning that this was 
+an unscheduled injury compensated as an industrial disability, the deputy 
+commissioner found that Turner proved a forty percent loss of earning capacity as 
+a result of the work injury.  The deputy commissioner denied Turner’s renewed 
+request to admit the pain psychologist’s evaluation—accepting it only as an offer 
+ 
+1 Because the interests of NCI and its insurer are fully aligned in this appeal and 
+the underlying workers’ compensation proceeding, for simplicity we do not 
+distinguish between them and refer to either or both as NCI throughout this opinion. 
+4 of 17
+
+ 
+5
+of proof—and rejected Turner’s argument that his mental-health condition 
+stemmed from the work injury.2 
+ 
+Turner unsuccessfully sought rehearing before the deputy commissioner.  
+And then both Turner and NCI appealed the decision to the workers’ compensation 
+commissioner.  The commissioner reversed the deputy commissioner’s decision 
+in part and affirmed it in part.  The commissioner agreed with Turner that the record 
+should have been held open to admit the pain psychologist’s evaluation.  And 
+conducting an extensive de novo review of all the evidence, the commissioner 
+found that Turner had proved his mental-health condition was caused by the work 
+injury.  Even so, the commissioner found that Turner had not proved that the 
+mental-health condition was permanent and thus concluded that “no additional 
+industrial disability benefits should be awarded at this time.”  The commissioner 
+also rejected NCI’s challenges to the forty percent industrial disability award 
+without additional analysis. 
+ 
+Turner petitioned—and NCI cross-petitioned—for judicial review of the 
+commissioner’s decision under Iowa Code chapter 17A (2022).  The parties made 
+essentially the same arguments they do here.  And the district court rejected them 
+all, affirming the commissioner’s decision in its entirety in a thorough twenty-two-
+page ruling.  So both parties again appeal.   
+ 
+II. 
+Mental-Health Condition  
+A judicial review proceeding is appellate in nature—in the district court too.  
+See Black v. Univ. of Iowa, 362 N.W.2d 459, 462–63 (Iowa 1985).  So on appeal, 
+ 
+2 The decision also resolved several other disputes that are not at issue on appeal. 
+5 of 17
+
+ 
+6
+we apply the same statutory standards of review of the agency action as the district 
+court.  See Carreras v. Iowa Dep’t of Transp., 977 N.W.2d 438, 444 (Iowa 2022).  
+A court “shall reverse” an agency action if the petitioner shows the action 
+was “[b]ased upon a determination of fact clearly vested by a provision of law in 
+the discretion of the agency that is not supported by substantial evidence in the 
+record before the court when that record is viewed as a whole.”  Iowa Code 
+§ 17A.19(10)(f).  On a challenge to an agency’s “application of law to fact,” we will 
+reverse only when the action is “[b]ased upon an irrational, illogical, or wholly 
+unjustifiable application.”  Id. § 17A.19(10)(m).  And reversal is also warranted if 
+the petitioner shows the agency’s decision is “otherwise unreasonable, arbitrary, 
+capricious, or an abuse of discretion.”  Id. § 17A.19(10)(n). 
+Challenging agency action on any of these bases—rather than an error of 
+law—is a heavy lift.  See McComas-Lacina Constr. v. Drake, No. 15-0922, 2016 
+WL 2744948, at *1 (Iowa Ct. App. May 11, 2016) (“A case reversing final agency 
+action on the ground the agency’s action is unsupported by substantial evidence 
+or is irrational, illogical, or wholly unjustifiable is the Bigfoot of the legal 
+community—an urban legend, rumored to exist but never confirmed.”).  “It is the 
+commissioner’s duty as the trier of fact to determine the credibility of the witnesses, 
+weigh the evidence, and decide the facts in issue.”  Arndt v. City of Le Claire, 728 
+N.W.2d 389, 394–95 (Iowa 2007).  So the fight on factual matters and judgment 
+calls is fought mainly before the agency—not a court.  See Sellers v. Emp’t Appeal 
+Bd., 531 N.W.2d 645, 646 (Iowa Ct. App. 1995). 
+Evidence is substantial if it “would be deemed sufficient by a neutral, 
+detached, and reasonable person, to establish the fact at issue when the 
+6 of 17
+
+ 
+7
+consequences resulting from the establishment of that fact are understood to be 
+serious and of great importance.”  Iowa Code § 17A.19(10)(f)(1).  “Evidence is not 
+insubstantial just because it could lead reasonable minds to different conclusions.”  
+Archer Daniels Midland v. Williams, 3 N.W.3d 231, 234 (Iowa Ct. App. 2023).  We 
+do not ask “whether the evidence supports a different finding; rather, our task is to 
+determine whether substantial evidence, viewing the record as a whole, supports 
+the findings actually made.”  Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 
+839, 845 (Iowa 2011).  And “evidence may be substantial even though we may 
+have drawn a different conclusion as fact finder.”  Id. 
+ 
+Admissibility of the Pain Psychologist’s Evaluation.  Before considering the 
+substantive challenges to the commissioner’s decision on Turner’s mental-health 
+condition, we must first address NCI’s claim that the decision was based on 
+improperly admitted evidence.  Turner asked for the record to be held open so he 
+could introduce a pain psychologist’s evaluation from an appointment scheduled 
+just after the hearing in the case.  The deputy commissioner declined to leave the 
+record open to allow admission, reasoning that the evidence would be cumulative, 
+prejudicial to NCI, and delay the decision-making process.  But the commissioner 
+disagreed and admitted the report.  The commissioner reasoned that the report 
+was not cumulative and that NCI—rather than Turner—was responsible for the 
+delay because NCI had refused authorization when Turner had scheduled the 
+appointment five months earlier and resisted Turner’s application for alternate care 
+seeking authorization for the appointment before relenting and authorizing the 
+appointment only shortly before the hearing. 
+7 of 17
+
+ 
+8
+ 
+We review the commissioner’s decision on whether to permit admission of 
+untimely evidence under its rules for abuse of discretion.  See Hagen v. Serta/Nat’l 
+Bedding Co., 1 N.W.3d 1, 4–5 (Iowa 2024); see also Haynes v. Second Inj. Fund, 
+547 N.W.2d 11, 14 (Iowa Ct. App. 1996) (reviewing decision whether to leave the 
+record open for more evidence for abuse of discretion).  Deference is particularly 
+appropriate on such decisions “because the commissioner is statutorily required 
+to ‘[a]dopt and enforce rules necessary to implement’ Iowa’s workers’ 
+compensation laws.”  Hagen, 1 N.W.3d at 4 (quoting Iowa Code § 86.8(1)(a) 
+(2021))3 (alteration in original).  So we apply a “lenient standard,” viewing the 
+agency record with an eye to “uphold, rather than defeat, the agency’s decision” 
+unless the decision is “clearly against reason and evidence.”  Id. at 5–6 (cleaned 
+up).  
+ 
+The commissioner’s decision to admit the report was not clearly against 
+reason and evidence.  The record supports the commissioner’s finding that NCI 
+caused the delay in submitting the report by refusing to authorize the scheduling 
+of the appointment until just before the hearing and it was not unreasonable for the 
+court to factor that into his decision.  It matters not that the commissioner might 
+well have chosen to exercise his discretion to exclude the report, “because the 
+commissioner has the ultimate responsibility for deciding cases in an expeditious 
+and timely manner, and we should not infringe upon a decision that is well within 
+his prerogative.”  Id. at 7 (cleaned up).   
+ 
+3 Effective July 1, 2023, section 86.8 was transferred to section 10A.310 without 
+making any changes to its text as part of a government reorganization statute.  See 
+2023 Iowa Acts, ch. 19, § 1477(1)(h). 
+ 
+8 of 17
+
+ 
+9
+ 
+NCI contends that the commissioner’s decision violated an administrative 
+rule providing that “[n]o evidence shall be taken after the hearing.”  Iowa Admin 
+Code r. 876-4.31.  But this rule is not implicated when a party merely seeks to hold 
+the hearing record open for the submission of evidence as Turner sought to do 
+here and the commissioner ultimately agreed should have been allowed.  When 
+the record is left open, the evidence is essentially still taken during the hearing—
+not after.  NCI has pointed us to no contrary authority and the practice of leaving 
+the record open appears unremarkable in the cases.  See, e.g., Monsanto v. 
+Delgado, No. 16-0660, 2017 WL 510949, at *1 n.1 (Iowa Ct. App. Feb. 8, 2017) 
+(noting favorably decision to leave the record open sixty days); Hagen, 1 N.W.3d 
+at 6 (noting that the commissioner had acknowledged that deputies often kept the 
+record open rather than excluding evidence).  Indeed, when the deputy 
+commissioner was considering Turner’s request, NCI did not argue that the 
+administrative rule deprived it of authority to do so.4  The report’s admission was 
+not an abuse of discretion. 
+ 
+Causation of the Mental-Health Condition.  NCI also argues that, even if the 
+report was properly admitted, substantial evidence in the record as a whole does 
+not support the commissioner’s finding that Turner’s mental-health condition was 
+caused by his August 2018 work injury.  Turner’s mental-health condition is 
+compensable only if he shows it “arose out of and in the course of his employment.”  
+Dunlavey v. Econ. Fire & Cas. Co., 526 N.W.2d 845, 849 (Iowa 1995); see also 
+Iowa Code § 85.3(1) (“Every employer . . . shall provide, secure, and pay 
+ 
+4 And the deputy commissioner did hold the record open for the submission of 
+other evidence after the live video hearing—a decision not challenged by NCI now.  
+9 of 17
+
+ 
+10 
+compensation according to the provisions of this chapter for any and all personal 
+injuries sustained by an employee arising out of and in the course of the 
+employment.”).  “Medical causation is essentially within the domain of expert 
+testimony.”  Pease, 807 N.W.2d at 845 (cleaned up).  And “whether to accept or 
+reject an expert opinion is within the peculiar province of the commissioner.”  Id. 
+(cleaned up). 
+ 
+NCI points to its expert’s opinion—and other evidence suggesting—that 
+Turner’s mental-health condition was caused by issues other than the work injury.  
+And NCI is not wrong that one could reach that conclusion from the evidence—
+indeed the deputy commissioner did.  But Turner presented an expert opinion that 
+his mental-health condition was caused by the work injury.  That expert diagnosed 
+Turner with “adjustment disorder”—just as NCI’s expert did—and the 
+commissioner found “no evidence claimant was diagnosed with, or treated for, an 
+adjustment disorder prior to the work injury.”  Turner’s expert also explained that 
+Turner’s “delay of onset of psychiatric symptoms is to be expected” because the 
+disorder is caused by “the work-related injury and all the fallout from it, so it took 
+some time for him to attempt to live his life again with demonstrably increased 
+difficulty for the mental health aspect to blossom.”    
+ 
+So the commissioner was essentially “confronted with a classic ‘battle of the 
+experts.’”  Id. at 850.  The commissioner carefully weighed the evidence in its 
+decision and then concluded he found Turner’s expert’s “opinion more persuasive 
+than [NCI’s expert’s] opinion.”  Given our deferential standard of review, we “are 
+not at liberty to accept contradictory opinions of other experts in order to reject the 
+finding of the commissioner.”  Id. (cleaned up).  Substantial evidence supports the 
+10 of 17
+
+ 
+11 
+commissioner’s finding that Turner’s mental-health condition was caused by the 
+work injury.  So we affirm on NCI’s challenge to this finding. 
+ 
+Permanency of the Mental-Health Condition.  On the flip side, Turner makes 
+his own substantial-evidence challenge to the commissioner’s finding that he failed 
+to prove that his mental-health condition is permanent.5  See Broadlawns Med. 
+Ctr. v. Sanders, 792 N.W.2d 302, 306 (Iowa 2010) (“Injured employees are entitled 
+to compensation ‘for permanent disabilities.’” (quoting Iowa Code § 85.34)).  He 
+contends that this finding should be reversed and the case should be remanded to 
+the commissioner to consider an increase in the level of industrial disability.  But 
+Turner faces just as steep a climb as NCI does in fighting this factual dispute here 
+on judicial review.  
+ 
+In making this finding, the commissioner relied mainly on the report of 
+Turner’s expert, who opined that if Turner’s “stressor (i.e., the work-related injury 
+and all [its] various components, such as chronic pain) is not resolved, the 
+Adjustment Disorder will be permanent.”  The commissioner reasoned that his 
+expert “has not opined [Turner’s] adjustment disorder with mixed anxiety and 
+depressed mood is permanent” and that “[n]o physician or psychologist has opined 
+claimant’s mental health condition is permanent.”  Indeed, Turner’s expert 
+reiterated elsewhere in the report, “it remains to be seen how much impairment will 
+ 
+5 Turner also includes a stray reference in a heading for this argument that the 
+decision “is unreasonable, arbitrary, capricious, [and] an abuse of discretion.” 
+(Capitalization omitted).  But his argument focuses on the lack of substantial 
+evidence.  We do the same because failing to flesh out arguments on the other 
+grounds waives them.  See Iowa R. App. P. 6.903(2)(a)(8)(3). 
+11 of 17
+
+ 
+12 
+be permanent” because Turner’s “mental health condition (i.e., his Adjustment 
+Disorder) is currently untreated.” 
+ 
+Turner has not pointed to contrary expert evidence that his mental-health 
+condition was permanent at the time of the hearing.  He mostly attacks the 
+commissioner’s interpretation of his expert’s equivocation about permanency as 
+hyper-technical.  But we do not get to weigh the evidence anew.  And it matters 
+not if the commissioner could have also found that the condition was permanent.  
+See Pease, 807 N.W.2d at 845.  Substantial evidence supports the decision that 
+the commissioner did make.  And we thus affirm Turner’s challenge to the 
+commissioner’s finding that he failed to prove his mental-health condition is 
+permanent.  
+ 
+Alternative Benefits.  Turner alternatively urges us to award healing-period 
+benefits until the mental-health condition is properly treated.6  But NCI correctly 
+argues that this claim is not properly preserved.  Turner did not seek such benefits 
+before the deputy commissioner, choosing only to argue for an increased level of 
+industrial disability based on a permanent mental-health disability.  When the 
+deputy commissioner rejected that argument—finding he had not proved his 
+mental-health condition was caused by the injury at all—he kept all his eggs in that 
+same basket and did not argue for any healing-period benefits in his request for 
+rehearing to the deputy or his appeal to the commissioner.   
+ 
+6 Turner does not argue to us—nor did he ever before the agency—that the 
+commissioner’s decision to award any permanent disability benefits was 
+premature and thus should be remanded in its entirety for a new decision only after 
+it is ripe.  See Bell Bros. Heating & Air Condition v. Gwinn, 779 N.W.2d 193, 199–
+202 (Iowa 2010).  
+12 of 17
+
+ 
+13 
+ 
+To be sure, Turner did summarily bring up the issue in his motion for 
+rehearing by the commissioner.  But doing so then was too late for two reasons.  
+First, raising a new issue at this late stage was contrary to the agency rule.  See 
+Iowa Admin. Code r. 876-4.28(7) (“An issue will not be considered on appeal if the 
+issue could have been, but was not, presented to the deputy workers’ 
+compensation commissioner.”); see also Boehme v. Fareway Stores, Inc., 762 
+N.W.2d 142, 146 (2009) (applying rule 4.28(7) when considering error-
+preservation on judicial review but finding error preserved because the rule only 
+required raising an issue to the deputy—not a decision from the deputy).  Because 
+Turner did not present his claim for healing-period benefits to the deputy 
+commissioner, the commissioner could not consider the issue for the first time at 
+rehearing.  See Iowa Admin. Code r. 876-4.28(7). 
+ 
+And second, even outside of workers’ compensation cases, judicial “review 
+is generally limited to questions raised at or before the hearing held by the agency.”  
+Soo Line R. Co. v. Iowa Dep’t of Transp., 521 N.W.2d 685, 691 (Iowa 1994).  And 
+Turner has not shown his rehearing motion fits into the “limited exceptions” where 
+that motion can preserve the issue.  See id.  He could have raised the issue sooner.  
+Given the factual nature, this is not a case where a motion for rehearing would 
+have been the first opportunity to raise the issue.  See id. (citing Off. of Consumer 
+Advocate v. Iowa State Com. Comm’n, 465 N.W.2d 280, 283 (Iowa 1991)).  And 
+considering such a brand new fact-specific issue at that late stage would have 
+unfairly prejudiced NCI.  See id. (citing Peterson v. Iowa Dep’t of Transp., 508 
+N.W.2d 689, 692 (Iowa 1993)).  So we will not reverse the agency for failing to 
+13 of 17
+
+ 
+14 
+award benefits that it did not consider because Turner failed to request them at a 
+proper time—waiting instead until the end of a two-year administrative process. 
+ 
+III.  
+Industrial Disability 
+ 
+NCI also makes two challenges to the commissioner’s forty percent 
+permanent-partial-disability award.  First, it contends that Turner’s injuries should 
+be compensated as scheduled-member injuries rather than as an unscheduled 
+industrial disability.  Compare Iowa Code § 85.34(2)(a)–(u) (providing 
+compensation for scheduled-member injuries), with id. § 85.34(2)(v) (providing for 
+unscheduled industrial disability); see also Chavez v. MS Tech. LLC, 972 N.W.2d 
+662, 666–67 (Iowa 2022) (discussing the difference and explaining that workers 
+typically receive less compensation for scheduled-member injuries than industrial 
+disabilities).  But this argument fails out of the gate because NCI gave a legally 
+binding admission that “Turner sustained industrial disability from his 8/01/18 work 
+injury.” 
+ 
+This admission was made pursuant to a request under Iowa Rule of Civil 
+Procedure 1.510, which applies to proceedings before the workers’ compensation 
+commissioner.  See Iowa Admin. Code r. 876-4.35.  And so under Rule 1.511, it 
+was “conclusively established in the pending action unless the [workers’ 
+compensation commissioner] on motion permits withdrawal or amendment of the 
+admission.”  Iowa R. Civ. P. 1.511; see also Williams v. KW Prods., Inc., No. 09-
+1449, 2010 WL 1579521, at *3–4 (Iowa Ct. App. Apr. 10, 2010) (relying on 
+admission in workers’ compensation to conclude that as of the date of the 
+admissions, “there was no longer an issue as to” the admitted matter even though 
+14 of 17
+
+ 
+15 
+employer sent a supplemental denial because the employer never got “an agency 
+ruling permitting the withdrawal or amendment of the admission”). 
+ 
+The commissioner never granted NCI permission to withdraw or amend the 
+admission.  And it would have been prejudicial to do so as NCI belatedly requested 
+in its post-hearing brief with no justification beyond its new assessment of the 
+evidence already submitted at the hearing.  See Allied Gas & Chem. Co. v. 
+Federated Mut. Ins., 332 N.W.2d 877, 880 (Iowa 1983) (recognizing “prejudice 
+where a party is suddenly required to prove matters otherwise admitted”).  
+Because Turner’s industrial disability was conclusively established by the 
+admission, it necessarily follows that substantial evidence supports the 
+commissioner’s finding. 
+ 
+Second, NCI argues that the amount of industrial disability award is 
+excessive and should be reduced because the commissioner’s finding of forty 
+percent loss of earning capacity is not supported by substantial evidence.  NCI 
+focuses on the fact that Turner returned to work with no restrictions in arguing that 
+Turner has shown “no loss in earning capacity.”  But while this and other evidence 
+NCI points to might support its view, that is not the question before us.  See Pease, 
+807 N.W.2d at 845.  We ask only if the evidence would support the commissioner’s 
+finding.  See id.  The deputy commissioner carefully weighed the competing 
+medical evidence, Turner’s testimony about his current pain and the difficulties he 
+had during the short period when he had returned to work, Turner’s failure to 
+search for alternative work, and the lack of vocational expert opinion to reach his 
+decision that Turner proved a forty percent loss of future earning capacity.  In doing 
+so, the deputy commissioner agreed with NCI in part by rejecting Turner’s 
+15 of 17
+
+ 
+16 
+argument that he was totally disabled.  And the commissioner agreed with this 
+decision.  We cannot say that this finding is unsupported by substantial evidence.  
+So we affirm the commissioner’s finding of forty percent industrial disability as well. 
+ 
+AFFIRMED ON APPEAL AND CROSS-APPEAL. 
+16 of 17
+
+State of Iowa Courts
+Case Number
+Case Title
+23-1003
+Turner v. NCI Building Systems
+Electronically signed on 2025-01-09 08:26:17
+17 of 17

@@ -1,0 +1,1579 @@
+Case Number: 20015441.02
+Case Title:  WOLFE, SCOTT V. SEDONA STAFFING INC
+Doc Type:    Decision - Deputy
+Source:      Wolfe Scott-20015441.02d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+SCOTT WOLFE, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+File No. 20015441.02 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                  
+SEDONA STAFFING, INC., 
+  : 
+        ARBITRATION DECISION 
+ 
+ 
+  :                            
+ 
+Employer, 
+  : 
+ 
+ 
+  :                         
+and 
+ 
+  : 
+ 
+ 
+  : 
+ACE AMERICAN INSURANCE CO., 
+  : 
+ 
+ 
+  : 
+     Headnote Nos.: 1400; 1800; 1803; 
+ 
+Insurance Carrier, 
+  : 
+         2907; 3000; 3001; 3002; 4100 
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+ 
+The claimant, Scott Wolfe, filed a petition for arbitration seeking workers’ 
+compensation benefits from employer Sedona Staffing, Inc. (“Sedona”), and its insurer, 
+ACE American Insurance Company.  Zeke McCartney appeared on behalf of the 
+claimant.  Peter Thill appeared on behalf of the defendants.  Also present was Sedona’s 
+corporate representative, Nikki Kiefer. 
+ 
+The matter came on for hearing on September 10, 2025, before Deputy Workers’ 
+Compensation Commissioner Andrew M. Phillips.  Pursuant to an order of the Iowa 
+Workers’ Compensation Commissioner, the hearing occurred electronically via Zoom.  
+The hearing proceeded without difficulty.  
+ 
+The record in this case consists of Joint Exhibits 1-6, Claimant’s Exhibits 1-6, and 
+Defendants’ Exhibit A-M.  The exhibits were received into the record without objection. 
+ 
+Mr. Wolfe testified on his own behalf.  Ms. Kiefer testified on behalf of the 
+defendants.  Deb Hoadley was appointed the official reporter and custodian of the notes 
+of the proceeding.  The matter was considered fully submitted following briefing by the 
+parties on November 21, 2025.     
+STIPULATIONS 
+ 
+Through the hearing report, as reviewed at the commencement of the hearing, 
+the parties stipulated and/or established the following: 
+ELECTRONICALLY FILED     2025-Dec-18  09:30:16     DIVISION OF WORKERS' COMPENSATION
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 2 
+ 
+1. There was an employer-employee relationship at the time of the alleged injury. 
+  
+2. That the claimant sustained an injury, which arose out of, and in the course of, 
+his employment on December 16, 2020. 
+ 
+3. That the alleged injury is a cause of temporary disability during a period of 
+recovery. 
+ 
+4. That the alleged injury is a cause of permanent disability. 
+ 
+5. That, although entitlement to temporary disability and/or healing period 
+benefits cannot be stipulated, the claimant was off of work from December 21, 
+2020, to March 18, 2021.   
+ 
+6. That the permanent disability is an industrial disability. 
+ 
+7. That the commencement date for permanent partial disability benefits is May 
+27, 2021. 
+  
+8. That the claimant was single and entitled to two exemptions at the time of the 
+alleged injury.   
+ 
+9. That, prior to the hearing, the claimant was paid weekly benefits.   
+ 
+10. That the costs listed in Claimant’s Exhibit 5 have been paid. 
+ 
+The defendants waived their affirmative defenses.   
+The parties are now bound by their stipulations. 
+ISSUES 
+The parties submitted the following issues for determination: 
+1. Whether the claimant is entitled to temporary disability and/or healing period 
+benefits from December 21, 2020, to March 18, 2021. 
+  
+2. The extent of the claimant’s permanent disability. 
+ 
+3. The claimant’s gross earnings, and weekly compensation rate.   
+ 
+4. Whether the claimant is entitled to reimbursement for the entire cost of an 
+independent medical examination pursuant to Iowa Code section 85.39, and 
+whether the cost of the IME was reasonable.   
+ 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 3 
+ 
+5. Whether the claimant can assert the odd-lot doctrine at hearing, as it was not 
+alleged in their initial petition.1 
+ 
+6. Whether the claimant is permanently and totally disabled, including under the 
+odd-lot doctrine. 
+ 
+7. Whether the cost of failing to attend an IME arranged by the defendants 
+should be taxed against the claimant. 
+ 
+8. Whether the claimant is entitled to a taxation of costs as itemized in 
+Claimant’s Exhibit 5. 
+FINDINGS OF FACT 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+Scott Wolfe, the claimant, was 57 years old at the time of the hearing.  
+(Testimony).  He resided in Dubuque, Iowa, since 2010, and was a widower.  
+(Testimony).  In 2020, he had two dependent children.  (Testimony).   
+Mr. Wolfe graduated from high school in 1986.  (Testimony).  He then attended 
+the University of Nebraska and obtained a bachelor’s degree in business administration 
+in 1991.  (Testimony; Defendants’ Exhibit F:64).  In 1996, he obtained a master’s in 
+business administration (“MBA”) from Westmar University in LeMars, Iowa.  (DE F:64).   
+Mr. Wolfe worked in a family business at Baker Hydra-Fork from early life.  
+(Testimony).  The business entailed family farming as well as a manufacturing facility.  
+(Testimony).  He worked as a farmhand and helped sweeping up a shop and loading 
+scrap metal.  (Testimony).  He then worked for the State of Nebraska’s Tourism 
+Department for a short time.  (Testimony).  Next, he worked as a store manager of a 
+pharmacy, wherein he stocked shelves, assisted customers, and performed office work.  
+(Testimony).   
+Mr. Wolfe has an extensive history in human resources, including in 
+management and upper management.  (DE E:40-41; F:62-63).  From 1991 to 1993, Mr. 
+Wolfe worked as a personnel manager at Keystone Manufacturing in Omaha, 
+Nebraska.  (DE F:63).  He supervised a payroll clerk and secretary, and managed 
+human resources duties.  (DE F:63).  He then worked for Tri-Manufacturing in Fort 
+Dodge, Iowa, from 1993 to 1997, as their human resources director.  (DE F:63).  This 
+job involved managing a human resources department, including supervising a safety 
+coordinator and a secretary.  (DE F:63).   
+ 
+1 The defendants objected to the inclusion of the odd-lot doctrine as a disputed issue in this case.  
+Arguments were heard at the hearing on this issue, but the undersigned requested that the parties brief 
+the issue in their posthearing briefs so that further consideration could be given to the arguments.  The 
+parties arguments will be addressed and a ruling will be made within the Conclusions of Law. 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 4 
+ 
+Mr. Wolfe left Tri-Manufacturing in 1997 for a position with Oakland Foods in 
+Oakland, Iowa, where he served as a human resources manager until 1999.  (DE F:62-
+63).  This involved supervising a number of management level employees and creating 
+a human resources and safety program for the facility.  (DE F:62-63).  Mr. Wolfe then 
+worked for Pepsi as a human resources manager.  (DE F:62).  He supervised several 
+other human resources employees and implemented human resources programs.  (DE 
+F:62).   
+From 2004 to 2005, Mr. Wolfe worked for Honeywell Electronics & Lighting.  (DE 
+F:62).  He supervised eight people, and had direct responsibility of human resources for 
+locations around the United States and Europe.  (DE F:62).  Mr. Wolfe moved to 
+become the director of human resources for Kerry Group in Beloit, Wisconsin, from 
+2006 to 2009.  (DE E:40).  He had “direct human resources authority for [b]usiness 
+[u]nits totaling $1 [b]illion in revenue in North America and 25 sites.”  (DE E:40).  For 
+several months in 2011, Mr. Wolfe was a human resources leader for Links Snacks 
+International, in Minong, Wisconsin.  (DE E:40).  He had global human resources 
+responsibility for this company, including locations in the United States, Canada, New 
+Zealand, Brazil, and Germany.  (DE E:40).   
+Mr. Wolfe also served as a volunteer firefighter and EMT for the Centralia Peosta 
+Fire Department and Epworth Fire Department from 2014 to 2024.  (DE E:40).  Through 
+this, he obtained certifications in Hazmat, as a fire fighter, and as an EMT.  (DE E:40).  
+Mr. Wolfe testified that his work as a volunteer firefighter and EMT required him to lift 
+heavy items and/or patients.  (Testimony).  He testified that he stopped being able to 
+attend meetings after his wife passed away.  (Testimony).  As a result, he had to resign 
+from these roles in 2019 and 2020.  (Testimony).  However, he also attempted to claim 
+that he could not physically perform the job after his work injury.  (Testimony).  It is 
+unclear from his testimony whether he resigned prior to his injury or subsequent to his 
+work injury.  (Testimony).   
+Mr. Wolfe visited with his personal provider, Cortney Kueter, P.A., at Grand River 
+Medical Group on June 29, 2020.  (Joint Exhibit 6:20-21).  This was for an annual 
+physical.  (JE 6:20).  It was noted that Mr. Wolfe had some issues with heart palpitations 
+and Type II diabetes.  (JE 6:20).   
+Mr. Wolfe was hired by Sedona on November 3, 2020.  (DE J:83; Testimony).  
+He was placed at Advanced Precast in Dyersville, Iowa, as a concrete finisher.  (DE 
+J:83; Testimony).  He testified that this was intended to be a full-time position.  
+(Testimony).  Mr. Wolfe noted that his first role with Advanced Precast was to cut foam 
+to be placed inside of cast concrete slabs.  (Testimony).  Once Advanced Precast found 
+out that he had experience operating large trucks as a volunteer firefighter, he moved to 
+a role wherein he drove concrete trucks from an onsite concrete plant into a 
+manufacturing building.  (Testimony).  In order to move to this position, Mr. Wolfe 
+obtained a Class B CDL.  (Testimony).   
+Mr. Wolfe returned to see Ms. Kueter on December 9, 2020.  (JE 6:22-23).  He 
+took metformin for his diabetes.  (JE 6:22).   
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 5 
+ 
+On December 16, 2020, Mr. Wolfe drove a cement truck to the manufacturing 
+side of the Dyersville Die Cast plant.  (Testimony).  As he exited the cement truck, he 
+fell backwards onto his back.  (Testimony).  He testified that he fell about four feet.  
+(Testimony).  He described feeling an “explosion” in his lower back.  (Testimony).  He 
+reported his injury to the office and was taken to Medical Associates in Dubuque, Iowa.  
+(Testimony; Joint Exhibit 1:1-2).   
+At his visit at Medical Associates, Mr. Wolfe noted he could ambulate with normal 
+strength, and had no radiculopathy.  (JE 1:1).  Upon examination, Mr. Wolfe displayed 
+tenderness to palpation along his thoracic and lumbar spinous processes.  (JE 1:1).  He 
+also had diffuse pain in his lumbar spine.  (JE 1:1).  He had full range of motion in his 
+lower back.  (JE 1:1).  X-rays were done, which showed mild superior end-plate 
+compression fractures at T12 and L1.  (JE 1:1).  The provider contacted orthopedics, 
+which recommended he wear a brace and follow-up with orthopedics.  (JE 1:1).  Mr. 
+Wolfe was taken off of work during this visit until his orthopedic follow-up.  (JE 1:2).   
+On December 21, 2020, Mr. Wolfe followed-up with Michael Chapman, M.D., at 
+Medical Associates Clinic.  (JE 3:8).  Mr. Wolfe wore a brace and used a heating pad to 
+improve his pain.  (JE 3:8).  Mr. Wolfe described his pain as aching, burning, and 
+stabbing in his low back and upper buttock.  (JE 3:8).  Dr. Chapman observed that Mr. 
+Wolfe appeared “very stiff” when he walked.  (JE 3:8).  Flexion and extension 
+aggravated the pain.  (JE 3:8).  Dr. Chapman recommended an MRI “to see if there is a 
+significant posterior ligamentous complex disruption at the thoracolumbar junction.”  (JE 
+3:8).   
+An MRI done on December 31, 2020, showed “isolated mild acute superior 
+endplate compression fractures of T12 and L1.”  (JE 3:9).  The MRI showed no other 
+acute abnormalities in the thoracic or lumbar spine.  (JE 3:9-10).  The MRI of the 
+thoracic spine noted that the fractures were better visualized on the MRI of the lumbar 
+spine.  (JE 3:10).  Mr. Wolfe seemed to think that the MRI showed a bulging disc and 
+that this information was “withheld” from him.  (Testimony).   
+On January 8, 2021, Mr. Wolfe returned to see Dr. Chapman to review the 
+results of the MRI.  (JE 3:11).  Mr. Wolfe told Dr. Chapman that he continued to have 
+pain in his low back with occasional spasms in his left leg.  (JE 3:11).  Dr. Chapman 
+observed that Mr. Wolfe continued to be very stiff with painful flexion and extension.  
+(JE 3:11).  Dr. Chapman ordered a standing lateral x-ray of the thoracolumbar junction.  
+(JE 3:11).   
+Mr. Wolfe returned to see Dr. Chapman on January 29, 2021.  (JE 3:12).  He 
+continued to complain of significant pain in his back, which was especially intense upon 
+standing.  (JE 3:12).  Mr. Wolfe also experienced increasing pain when he did not wear 
+his brace.  (JE 3:12).  Dr. Chapman observed Mr. Wolfe to have pain with forward 
+flexion and extension.  (JE 3:12).  The doctor then recommended that Mr. Wolfe spend 
+increasing amounts of time out of his brace; however, he noted that Mr. Wolfe should 
+continue to wear it while in the car or walking outside.  (JE 3:12).  Dr. Chapman ordered 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 6 
+ 
+physical therapy to work on strengthening Mr. Wolfe’s core muscles and improving his 
+range of motion.  (JE 3:12).   
+On March 12, 2021, Mr. Wolfe followed-up with Dr. Chapman regarding his 
+compression fractures.  (JE 3:13).  Mr. Wolfe continued to have pain with prolonged 
+sitting.  (JE 3:13).  Forward flexion also aggravated his back.  (JE 3:13).  Dr. Chapman 
+noted that Mr. Wolfe may have some discogenic pain, but that the treatment for this was 
+identical to the treatment for his fractures.  (JE 3:13).  Dr. Chapman recommended that 
+Mr. Wolfe become more aggressive with core strengthening.  (JE 3:13).  He allowed Mr. 
+Wolfe to complete activities as tolerated.  (JE 3:13).   
+Dr. Chapman visited with Mr. Wolfe again on April 9, 2021.  (JE 3:14).  Mr. 
+Wolfe’s thoracolumbar pain improved, but his low back pain was “dramatically worse.”  
+(JE 3:14).  Mr. Wolfe had trouble sleeping.  (JE 3:14).  Dr. Chapman described Mr. 
+Wolfe as “significantly deteriorated than when I saw him last.”  (JE 3:14).  Upon 
+examination, Dr. Chapman found Mr. Wolfe to be very stiff with flexion.  (JE 3:14).  He 
+also noted that Mr. Wolfe’s pain was aggravated with nerve tension signs.  (JE 3:14).  
+Dr. Chapman diagnosed Mr. Wolfe with lumbosacral disc degeneration and a 
+compression fracture.  (JE 3:14).  He ordered PT to add certain exercises, and also 
+ordered a new MRI of the lumbar spine.  (JE 3:14).  At the conclusion of this visit, Dr. 
+Chapman took Mr. Wolfe off of work until after his next MRI.  (JE 3:15).   
+On April 19, 2021, Mr. Wolfe reported to Mercy Medical Center in Dubuque, 
+Iowa, where had an MRI of his lumbar spine.  (JE 2:4).  The MRI showed mild 
+degenerative findings, especially at L5-S1 with no significant spinal canal or neural 
+foraminal narrowing.  (JE 2:4).  The MRI also showed “[c]hronic superior endplate 
+compression fractures of T12 and L1 with unchanged mild vertebral body height loss.”  
+(JE 2:4).  Finally, the MRI showed mild degenerative endplate edema at L1.  (JE 2:4).     
+Mr. Wolfe returned to visit Dr. Chapman again on April 29, 2021.  (JE 3:16).  Mr. 
+Wolfe noted that he continued to do “poorly,” as the only time that he did not experience 
+any pain was when he was lying down.  (JE 3:16).  Dr. Chapman reviewed the results of 
+the recent MRI and noted that Mr. Wolfe had disc degeneration at L5-S1 with a central 
+bulge; however, Dr. Chapman noted the bulge was “not dramatic.”  (JE 3:16).  Dr. 
+Chapman opined that Mr. Wolfe’s issues were “not classically discogenic…” but instead 
+that Mr. Wolfe had “multiple pain generators.”  (JE 3:16).  Since Mr. Wolfe did not have 
+radicular pain, Dr. Chapman did not think an injection would help.  (JE 3:16).  Mr. Wolfe 
+testified that he did not want an injection in his back, and again expressed an opinion 
+that he did not trust Dr. Chapman, as he felt that Dr. Chapman withheld that he “had 
+bulging discs for three months.”  (Testimony).  Dr. Chapman recommended that Mr. 
+Wolfe continue with physical therapy to improve his strength.  (JE 3:16).  Dr. Chapman 
+concluded that Mr. Wolfe would not be able to “reliably work” due to the soreness he 
+experienced at the time of the appointment.  (JE 3:16).   
+On April 30, 2021, Sedona offered Mr. Wolfe a temporary accommodation on a 
+full time basis.  (DE E:52).  It appears that Mr. Wolfe attempted to add his own 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 7 
+ 
+addendum to the offer, and crossed out a portion of the letter in which Sedona outlined 
+the consequences of a refusal to accept the temporary offer.  (DE E:52-53).   
+Mr. Wolfe then signed off on a letter, dated May 14, 2021, in which he accepted a 
+return to temporary employment with Sedona.  (DE E:54).  This included working 
+general or office labor on a full-time basis during the day shift at the pay rate of 
+seventeen and 00/100 dollars ($17.00) per hour.  (DE E:54).  His restrictions listed in 
+the letter included: no repetitive lifting, bending or twisting, and an option to change 
+positions every 15 minutes.  (DE E:54).  His duties included: assembling papers into 
+packets, doing computer tutorials and evaluations, and general office clerk duties within 
+his restrictions.  (DE E:54).  
+On May 19, 2021, Mr. Wolfe attempted to work on a light duty basis at Sedona.  
+(Testimony).  He testified that he began to experience pain in his low back and left leg 
+after collating paperwork, which he claimed required excessive twisting.  (Testimony).  
+An ambulance was called for Mr. Wolfe.  (JE 4:18).  The ambulance took Mr. Wolfe to 
+the emergency room at Mercy Medical Center for complaints of pain in his leg and a 
+feeling as though his left leg fell asleep.  (JE 2:5-7).  He noted his previous fall.  (JE 
+2:5).  He told the provider that his symptoms started to improve after he lay flat on his 
+back for a period of time.  (JE 2:6).  The emergency room diagnosed him with a low 
+back strain and discharged him.  (JE 2:7).   
+Dr. Chapman examined Mr. Wolfe again on May 27, 2021, for Mr. Wolfe’s 
+ongoing back pain.  (JE 3:17).  Mr. Wolfe noted that he was “the same” as his last visit 
+with continued pain.  (JE 3:17).  Mr. Wolfe went to work for 30 minutes, and his left leg 
+ended up numb or dead.  (JE 3:17).  Mr. Wolfe indicated that he spent 14 to 16 hours 
+per day in bed, as he was only comfortable while laying down.  (JE 3:17).  Upon 
+examination, Dr. Chapman observed that Mr. Wolfe had significant pain with axial 
+compression of his shoulders and with waist rotation.  (JE 3:17).  To Dr. Chapman, this 
+represented symptom magnification.  (JE 3:17).  Additionally, Dr. Chapman observed 
+that Mr. Wolfe had pain with a Faber maneuver, but not with other provocative testing of 
+the SI joint.  (JE 3:17).  Dr. Chapman noted that Mr. Wolfe’s fractures were healed, and 
+that he had “little disc desiccation at L5-S1…” with no neurocompression.  (JE 3:17).  
+Dr. Chapman concluded: 
+I am at a loss to explain his symptoms and why he is not able to tolerate 
+even sedentary work.  I recommended he get another opinion.  There are 
+some physical exam findings that suggest symptom magnification.  I do not 
+doubt he is in some pain but I do not find any physiological explanation for 
+this degree of disability based on what I see on his imaging. 
+(JE 3:17).   
+ 
+Mr. Wolfe saw Ms. Kueter again on June 14, 2021, for another annual physical.  
+(JE 6:24-25).  Mr. Wolfe described a myriad of issues, including with his heart, his 
+diabetes, and his prostate.  (JE 6:24).  There was no mention of his back issues.  (JE 
+6:24).   
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 8 
+ 
+ 
+On July 9, 2021, Mr. Wolfe reported to Chad Abernathey, M.D., for his ongoing 
+low back pain.  (JE 5:19).  Dr. Abernathey is a board certified neurosurgeon.  (DE A:2).  
+Mr. Wolfe recounted his history including his conservative care.  (JE 5:19).  Dr. 
+Abernathey reviewed the previous MRIs including T12 and L1 compression deformities 
+without significant neural compromise; however, the MRI also showed a “small disc 
+protrusion at L5-S1.”  (JE 5:19).  Dr. Abernathey concluded: 
+Scott Wolfe presents with subjective chronic low back pain related to a work 
+event.  I do not recommend an aggressive neurosurgical stance due to a 
+paucity of clinical or radiographic findings.  His neural elements are well 
+decompressed on his MRI images and his neurologic function is intact.  … 
+I offered him the opportunity to undergo an epidural steroid injection, but he 
+declined.  The patient states that he had previously been vice president of 
+human resources at a large corporation.  He says that injections were never 
+helpful in any of his employees and he is adamantly opposed to pain 
+management.  I will defer to his primary physicians regarding additional 
+management. 
+(JE 5:19).  Mr. Wolfe felt that this examination only lasted five minutes.  (Testimony).   
+ 
+Following this visit, Dr. Abernathey responded to a check-box-type letter from 
+Joseph Feldkamp of ESIS.  (DE A:1).  In his response, dated August 11, 2021, Dr. 
+Abernathey indicated that Mr. Wolfe had no permanent impairment relating to the 
+December 16, 2020, date of injury, that he reached maximum medical improvement 
+(“MMI”) as of June 16, 2021, and that he required no work restrictions due to his work 
+injury.  (DE A:1).   
+ 
+Mr. Wolfe saw Ms. Kueter again on December 22, 2021.  (JE 6:26-27).  Mr. 
+Wolfe made no mention of his low back pain.  (JE 6:26-27).  However, he noted having 
+a double bypass surgery.  (JE 6:26).  He contemplated taking testosterone and human 
+growth hormone.  (JE 6:26).   
+ 
+On June 22, 2022, Mr. Wolfe returned to Ms. Kueter’s office.  (JE 6:28-29).  Mr. 
+Wolfe made no mention of his low back pain or issues.  (JE 6:28).  He continued to take 
+medications for his diabetes and heart issues.  (JE 6:28).  He walked for about one hour 
+per day and used a rowing elliptical to exercise.  (JE 6:28).   
+ 
+During 2022, Sedona reached out to Mr. Wolfe on several occasions.  (DE J:83).  
+Mr. Wolfe either did not respond or declined to call them back.  (DE J:83; Testimony).  
+By October of 2022, Mr. Wolfe responded to Sedona and indicated that he was not 
+seeking work.  (DE J:83; Testimony).  Thus, Sedona placed Mr. Wolfe into an inactive 
+status.  (DE J:83-84; Testimony).  This meant that they would no longer call him for 
+available jobs.  (Testimony).   
+ 
+Ms. Kueter examined Mr. Wolfe again on February 8, 2023.  (JE 6:30-31).  He 
+continued to take medication for his cardiovascular issues and for his diabetes.  (JE 
+6:30).  He began to take Mounjaro for his diabetes.  (JE 6:30-31).   
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 9 
+ 
+ 
+On August 16, 2023, Mr. Wolfe returned to see Ms. Kueter for his annual 
+physical.  (JE 6:32-33).  Mr. Wolfe made no mention of back complaints.  (JE 6:32).  He 
+engaged in an extended discussion regarding his myriad of other health issues.  (JE 
+6:32).   
+ 
+Ms. Kueter examined Mr. Wolfe again on February 22, 2024.  (JE 6:34-35).  He 
+continued to have issues with diabetes and his heart.  (JE 6:34-35).  There was no 
+mention of his low back pain.  (JE 6:34-35).   
+ 
+At the arrangement of claimant’s counsel, Mr. Wolfe presented to David Segal, 
+M.D., J.D., for an independent medical examination on January 19, 2024.  (Claimant’s 
+Exhibit 2:5-29).  Dr. Segal issued a report outlining his findings and opinions.  (CE 2:5-
+29).  Dr. Segal is board certified in brain and spine neurosurgery.  (CE 2:5).2  Mr. Wolfe 
+recounted this examination lasting from one-and-a-half to two hours.  (Testimony).   
+ 
+In preparing his report, Dr. Segal reviewed a number of medical records.   (CE 
+2:30-37).  Dr. Segal noted in his record review in the initial IME report that Mr. Wolfe 
+relayed that he felt Dr. Abernathey “dismissed” him.  (CE 2:10).  Dr. Segal then 
+interviewed Mr. Wolfe prior to examining him.  (CE 2:7-8).  Mr. Wolfe outlined the 
+incident of December 16, 2020, when he fell from the cement truck.  (CE 2:8).  Mr. 
+Wolfe rated his pain 1 out of 10, but noted that it could be up to 8 out of 10.  (CE 2:7).  
+He located the pain to the lower back below the beltline, and noted that it radiated to 
+both sides and both of his legs.  (CE 2:7).  Doing things like bending, changing position, 
+coughing, activities of daily living, lifting, lying down in an incorrect position, pulling, 
+pushing, sitting, sneezing, squatting, standing, twisting, and walking, caused his pain to 
+flare up.  (CE 2:7).  Mr. Wolfe described situations where his pain flared-up that would 
+“bring him to his knees” where there would be no position of relief.  (CE 2:8).  Mr. Wolfe 
+noted that his flare-ups happen if he does not maintain an “S-curve position in his back.”  
+(CE 2:8).  Mr. Wolfe told Dr. Segal that he could not return to even sedentary work 
+because he could not sit during a flare-up.  (CE 2:10).  He also indicated that his life 
+was “in a holding pattern” due to the results of his injury.  (CE 2:10).   
+ 
+Dr. Segal’s report then delved into the Oswestry disability index which Dr. Segal 
+outlined while Mr. Wolfe experienced a “flare up” and when he did not experience a 
+“flare up.”  (CE 2:11).  He found that Mr. Wolfe was in a “crippled category” when he 
+experienced a “flare up,” and was severely disabled when he did not have a flare-up.  
+(CE 2:11).   
+ 
+Dr. Segal next undertook a physical examination of Mr. Wolfe.  (CE 2:11).  He 
+found Mr. Wolfe to have tenderness at L1 and L3-S1 at the midline.  (CE 2:11).  He also 
+ 
+2 It should be noted that Dr. Segal was alleged to demonstrate professional incompetency during his time 
+in practice by inappropriately utilizing certain surgical techniques, failing to have proper coverage 
+arrangements for patients during an absence, maintaining pre-signed prescriptions, and receiving 
+overpayments.  (DE K:88-105).  Dr. Segal voluntarily discontinued his surgical practice and agreed to a 
+citation, warning and paid a five thousand and 00/100 dollar ($5,000.00) civil penalty in a settlement 
+agreement with the Iowa Board of Medicine.  (DE K:88-105).  He also agreed to take a professional ethics 
+program.  (DE K:88-105).   
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 10 
+ 
+showed sensory losses in the left L3 and S1 dermatomal distribution.  (CE 2:11).  Dr. 
+Segal measured range of motion in Mr. Wolfe’s lumbar spine.  (CE 2:11-12).  He found 
+Mr. Wolfe to have flexion to 40 degrees, extension to 10 degrees, right lateral flexion to 
+10 degrees, and left lateral flexion to 15 degrees.  (CE 2:11-12).  These ranges of 
+motion were all significantly less than what Dr. Segal noted to be “normal.”  (CE 2:11-
+12).   
+ 
+The report continued with Dr. Segal’s personal interpretation of the multiple 
+imaging studies taken of Mr. Wolfe’s low back.  (CE 2:12-13).  Specifically, Dr. Segal 
+opined as to the findings of the April 19, 2021, MRI of Mr. Wolfe’s lumbar spine.  (CE 
+2:12-13).  Dr. Segal noted that the mechanism of the compression fractures was the 
+“axial load on the spine during the impact.”  (CE 2:13).  He noted that, “[a] fall from a 
+height can generate significant force, causing hyperextension and rotational stress on 
+the spine...” which can lead to a fracture.  (CE 2:13).  Dr. Segal opined that the disc 
+findings at L5-S1 could be acute, but could also pre-exist the work injury.  (CE 2:13).  
+Since they were asymptomatic, Dr. Segal concluded that “…[t]he work injury lit up that 
+area, causing the lower back pain and left radicular symptoms.”  (CE 2:13).  He also 
+concluded that the central and left-sided disc herniation at L5-S1 slightly compressed 
+the left S1 nerve root.  (CE 2:13).   
+ 
+Dr. Segal continued his report by providing his opinions as to a number of items.  
+(CE 2:13-29).  He opined that Mr. Wolfe had four “independent areas of injury” as 
+follows: 
+1. Superior endplate compression fracture T12 
+2. Superior endplate compression fracture L1 
+3. Lumbar radiculopathy with possible direct injury to the nerve roots 
+4. Disc protrusion (possible permanent aggravation of preexisting 
+condition) 
+(CE 2:14).  Dr. Segal noted that even though “T12 and L1 are adjacent, they are part of 
+different spine areas…”  (CE 2:14).  He continued by opining that Mr. Wolfe “likely 
+injured the lumbar nerve roots and/or injured the discs in a way that causes nerve root 
+irritation.”  (CE 2:14).  Dr. Segal then turned to his diagnosis of Mr. Wolfe as suffering 
+from lumbar radiculopathy.  (CE 2:14-15).  He noted that Mr. Wolfe had “…symptoms of 
+lumbar radiculopathy that are classic symptoms.”  (CE 2:14).   
+ 
+The report continued with Dr. Segal’s diagnoses “…caused by the acute work 
+injury of December 16, 2020…”  (CE 2:16).  These included: a superior endplate 
+fracture at L1 with height loss, disc protrusion at L5-S1, lumbar radiculopathy at the L3 
+and S1 nerve roots, mechanical low back pain syndrome, and a superior endplate 
+fracture at T12 with height loss.  (CE 2:16).  Dr. Segal opined that the injuries suffered 
+by Mr. Wolfe on December 16, 2020, were caused by his fall due to the “…combination 
+of rotational, flexion, and compressive forces…”  (CE 2:16).  Dr. Segal attributed some 
+of Mr. Wolfe’s mechanical low back pain due to an antalgic gait; however, he admits 
+that this is entirely based upon Mr. Wolfe’s subjective history and not his observation of 
+Mr. Wolfe’s gait.  (CE 2:17).  Dr. Segal then indicated that Mr. Wolfe had left L3 and S1 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 11 
+ 
+radiculopathy findings upon examination, despite denying pain or numbness in his legs.  
+(CE 2:17).   He also opined that Mr. Wolfe’s medical records support a diagnosis of 
+radiculopathy.  (CE 2:17).  Dr. Segal opined that all of Mr. Wolfe’s diagnoses were 
+“directly and causally related to the work injury.”  (CE 2:21).  Dr. Segal based his 
+opinions on both the acute fractures suffered by Mr. Wolfe and by opining that Mr. Wolfe 
+had degenerative issues that were aggravated or lit-up by the work injury.  (CE 2:21-
+22).   
+ 
+Dr. Segal continued by outlining his opinions on Mr. Wolfe’s permanent 
+impairment by referencing the AMA Guides to the Evaluation of Permanent Impairment, 
+Fifth Edition.  (CE 2:22-23).  Dr. Segal noted that Mr. Wolfe had multilevel injuries to his 
+lumbar spine.  (CE 2:22).  As a result, he felt that the ROM method was the most 
+appropriate for calculating Mr. Wolfe’s permanent impairment as it related to his lumbar 
+spine.  (CE 2:23).  Dr. Segal performed his own measurements of the August 24, 2022, 
+MRI and found Mr. Wolfe to have a 48 percent height loss due to the L1 vertebral 
+compression fracture.  (CE 2:23).  This resulted in a 7 percent whole person 
+impairment.  (CE 2:23).  Turning next to the ROM impairment, Dr. Segal referred to the 
+range of motion measurements that he obtained during the IME.  (CE 2:23).  He found 
+Mr. Wolfe to have a 4 percent whole person impairment due to lumbar flexion and 
+sacral flexion, a 5 percent whole person impairment due to lumbar extension issues, a 2 
+percent whole person impairment due to side bend on the left and a 3 percent whole 
+person impairment due to side bend on the right.  (CE 2:23-24).  This resulted in a 14 
+percent whole person impairment based upon the ROM method.  (CE 2:24).  The doctor 
+next turned to a spinal nerve deficit based upon his opinions that Mr. Wolfe had nerve 
+roots with deficit at the right L5 and S1 level.  (CE 2:24).  He found Mr. Wolfe to have a 
+4 percent “LEI” for left L3 nerve issues, a 4 percent “LEI” due to left S1 nerve issues, 
+and a 3 percent “LEI” for motor weakness.  (CE 2:24).  He combined these impairments 
+into a 4 percent whole person impairment for nerve root dysfunction.  (CE 2:24).  Dr. 
+Segal then used the combined values chart to arrive at a 22 percent whole person 
+impairment due to injuries to the claimant’s lumbar spine.  (CE 2:25).   
+ 
+Dr. Segal next turned to the thoracic spine.  (CE 2:25).  He used the DRE 
+method to rate the claimant’s thoracic spine injuries.  (CE 2:25).  He placed Mr. Wolfe in 
+a DRE Category II, as he performed his own measurements on Mr. Wolfe’s MRI studies 
+and found a 36 percent height loss.  (CE 2:25).  This resulted in a 12 percent whole 
+person impairment.  (CE 2:25).  Dr. Segal then placed Mr. Wolfe in a DRE Category III 
+for impairment based on radiculopathy.  (CE 2:25).  He provided a 16 percent 
+impairment of the whole person due to this radiculopathy.  (CE 2:25).  Dr. Segal 
+combined the lumbar rating of 22 percent of the whole person with the 16 percent of the 
+whole person using the combined valued chart on page 604 of the Guides to arrive at a 
+34 percent whole person impairment.  (CE 2:25).   
+ 
+Dr. Segal then delved into his opinions on necessary work restrictions for Mr. 
+Wolfe.  (CE 2:25-26).  Dr. Segal opined: “…due to the impact of the work injury on Mr. 
+Wolfe’s functional abilities, he does not have the work capacity that he did before that 
+work injury.”  (CE 2:25).  Dr. Segal recommended the following restrictions: 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 12 
+ 
+- 
+Sitting: No restrictions if in the “right chair” with back support 
+- 
+Standing: 15 minutes at a time, then rest for 15 minutes, total 4 hours 
+per day 
+- 
+Walking: 10 minutes at a time, then rest for 15 minutes, total 3 hours per 
+day 
+- 
+Bending, one bend: Occasionally (but very carefully) 
+- 
+Bending, repetitive: Never 
+- 
+Use of Vibratory Tools: Never 
+- 
+Lifting/Carrying: 10 pounds Occasionally, 15 pounds, Rarely 
+- 
+Pushing/Pulling: Rarely 
+- 
+Stairs: One flight Rarely 
+- 
+Kneeling: Rarely 
+- 
+Crouching/Squatting: Rarely 
+- 
+Ladders: Never 
+(CE 2:26).   
+ 
+Dr. Segal discussed his opinions on whether Mr. Wolfe reached MMI.  (CE 2:26-
+27).  Since Mr. Wolfe had no new treatments planned and was “plateaued for quite 
+some time…,” Dr. Segal opined that he reached MMI.  (CE 2:26).  He placed Mr. Wolfe 
+at MMI as of May 27, 2021.  (CE 2:26).   
+ 
+Finally, Dr. Segal made recommendations on the need for immediate and future 
+treatment.  (CE 2:27-28).  Dr. Segal recommended that Mr. Wolfe have an evaluation 
+from a pain management doctor and a neurosurgeon.  (CE 2:27).  Specifically, Dr. 
+Segal recommended injections and an appointment with a “Dr. Buchanan” in Waterloo, 
+Iowa.  (CE 2:27).  He also felt Mr. Wolfe should consider a lumbar discogram.  (CE 
+2:27).  Dr. Segal recommended the following treatments as “potential future treatments:” 
+- 
+Imaging: 
+o Periodic X-rays with flexion/extension 
+o CT scans 
+o MRIs (dynamic MRI lumbar) 
+- 
+Pain Medication 
+- 
+TENS Unit 
+- 
+Physical Therapy/Occupational Therapy 
+- 
+Aquatic Therapy 
+- 
+Cortisone/PRP Injections 
+- 
+Electromyography (EMG) 
+- 
+Nerve Conduction Velocity (NCV) 
+- 
+Discography 
+- 
+Lumbar Epidural Steroid Injections 
+- 
+Repeat Lumbar Facet Injections/Medial branch block/Radiofrequency 
+ablation 
+- 
+Evaluation by Neurosurgeon/Orthopedic Spine Surgeon 
+- 
+Vertebroplasty or kyphoplasty 
+- 
+Lumbar Discectomy and laminectomy 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 13 
+ 
+- 
+Lumbar Fusion 
+- 
+Orthotics (Back Brace) 
+(CE 2:27-28).   
+ 
+On June 24, 2024, Mr. Wolfe returned to visit Ms. Kueter.  (JE 6:36-37).  He 
+discussed his multiple ongoing health issues, but made no mention of anything related 
+to his back.3  (JE 6:36).   
+ 
+In April of 2025, Mr. Wolfe pled guilty to a Class D felony of enticing a minor.  
+(DE H:74).   
+ 
+On August 6, 2025, at the arrangement of the defendants, Mr. Wolfe was seen 
+for an IME by Jonathon Fields, M.D., M.B.A., M.P.H., C.I.M.E.  (DE B:15-31).4  Dr. 
+Fields is board certified in occupational and environmental medicine and is a certified 
+independent medical examiner.  (DE B:32).  He is also the president of Summit 
+Industrial Medicine, which is provides “…care of complex worker’s [sic] compensation 
+cases throughout [n]ortheastern Iowa.  Services include [t]ake [o]ver [c]are, 
+[i]ndependent [m]edical [e]xaminations, [i]mpairment [r]atings, [f]itness for [d]uty, 
+[second] opinions, [and[ [m]edicolegal [c]ase [r]eview.”  (DE B:32).   
+ 
+Prior to the IME, Dr. Fields’ office had Mr. Wolfe complete a health assessment 
+questionnaire and a pain diagram.  (DE B:15-18).  Mr.  Wolfe indicated that he 
+experienced aching, burning, stabbing, and numbness in his lower back, along his 
+beltline.  (DE B:18).  He rated his pain 9 out of 10.  (DE B:18).  He also indicated that he 
+had numbness and pain down his left leg.  (DE B:18).  Mr. Wolfe indicated that he could 
+do the following “with much difficulty”: dressing himself, standing up from a straight 
+chair, getting in and out of bed, walking outdoors on flat and even ground, climbing up 
+five steps with a guard rail, wash and dry his body, getting on and off of the toilet, 
+running errand and shopping, and getting in and out of a car.  (DE B:15-16).  He could 
+do the following with “some difficulty”: lifting a cup or glass to his mouth, opening a milk 
+carton, opening car doors, opening previously opened jars, and turning faucets on and 
+off.  (DE B:15-16).  Finally, he noted that he could not shampoo his own hair, take a 
+bath in a tub, reaching and grabbing a five-pound object from above his head, bending 
+down to pick things up, and doing chores such as vacuuming or yard work.  (DE B:15-
+16).  Mr. Wolfe noted that he used a special or built up chair and a raised toilet seat.  
+(DE B:15-16).  Mr. Wolfe noted that he could do “a little.”  (DE B:17).  He indicated that 
+his pain over the previous week was 90 out of 100, where 100 represented “severe 
+pain.”  (DE B:17).  Mr. Wolfe rated his overall health a 10, indicating close to “very well.”  
+(DE B:17).   
+ 
+3 Mr. Wolfe testified that he never made any mention to Ms. Kueter of his ongoing back complaints 
+because “she is not … the doctor approved for my back.  She can’t do anything with it.”  (Testimony). 
+4 Mr. Wolfe testified that he attempted to see Dr. Fields on two prior occasions.  (Testimony).  During the 
+first visit, Mr. Wolfe indicated that Dr. Fields was not at the correct office to examine him.  (Testimony).  
+During the second visit, Mr. Wolfe refused to fill out certain pre-examination paperwork without his 
+attorney reviewing it first.  (Testimony).   
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 14 
+ 
+ 
+Dr. Fields issued a report on August 25, 2025, outlining the findings of his IME.  
+(DE B:19-31).  Dr. Fields began his report by reviewing a number of medical records, 
+the deposition of the claimant, the claimant’s discovery responses, and Dr. Segal’s IME 
+report.  (DE B:19-23).  Dr. Fields then recounted Mr. Wolfe’s work history.  (DE B:24).  
+Mr. Wolfe then described his current symptoms to Dr. Fields.  (DE B:24-25).  He noted 
+that he did not have constant left leg pain, but that he experienced left leg symptoms 
+during his “low back ‘episodes.’”  (DE B:24).  He described the pain as numbness, 
+tingling, and buckling of his knee.  (DE B:24).  He rated his pain 7 out of 10 during his 
+“episodes.”  (DE B:24).  He noted that these odd feelings stopped at his mid-calf.  (DE 
+B:25).  Mr. Wolfe then outlined his low back pain, which he described as “the worst pain 
+he has had in his entire life.”  (DE B:25).  He indicated that, at the time of the IME, his 
+back was “way worse” than it was immediately following his injury, and that his low back 
+continued to worsen.  (DE B:25).  He experienced “episodes” every two-to-three weeks 
+where his pain moved to 11 out of 10.  (DE B:25).  The described “episodes” last three-
+to-four days.  (DE B:25).  Heat helps to alleviate his pain.  (DE B:25).  Mr. Wolfe 
+indicated that he undertook no physical activity, including no home exercising.  (DE 
+B:25).  Finally, Mr. Wolfe noted that he uses a cart at the grocery store, but would not 
+carry groceries into his home.  (DE B:25).  Instead, he has a friend help him bring his 
+groceries into his home.  (DE B:25).   
+ 
+Dr. Fields’ report continues with an outline of his physical examination of Mr. 
+Wolfe, who he described as “somewhat confrontational.”  (DE B:26).  He observed that 
+Mr. Wolfe stood from his seated position with no issues and ambulated with a normal, 
+symmetric gait.  (DE B:26).  Mr. Wolfe also demonstrated the ability to perform a full 
+squat.  (DE B:26).  Mr. Wolfe showed no tenderness to palpation on examination, and 
+described his pain as “deep” when he experienced “episodes.”  (DE B:27).  Dr. Fields 
+attempted to perform a straight leg raise test on Mr. Wolfe, but Mr. Wolfe refused to 
+extend either leg and began to shake his legs when he attempted to extend them.  (DE 
+B:27).  Dr. Fields opined that this appeared to be self-limiting behavior, as Mr. Wolfe 
+could walk with both legs fully extended.  (DE B:27).  Dr. Fields documented “Waddell’s 
+non-organic signs for low back pain” as follows” 
+Sensitivity: Pain on light 
+palpation in the lumbar 
+region, Pain on 
+disseminated palpation not 
+corresponding to anatomical 
+pattern 
+No 
+Simulation: Pain on axial 
+cranial compression, Pain 
+on shoulder rotation 
+Yes.  Noted pain in this 
+lumbar region with right 
+sided shoulder rotation.   
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 15 
+ 
+Distraction: Difference when 
+raising leg in seated or 
+supine position 
+Unable to perform as would 
+not fully extend either leg. 
+Regional: Motor or sensitive 
+abnormalities that cannot be 
+explained on an anatomical 
+basis 
+No 
+Sign of hyper-reaction: 
+Verbalization or expression 
+disproportionate to 
+symptoms 
+No 
+(DE B:27).  Dr. Fields documented Mr. Wolfe’s range of motion as 30 degrees of 
+forward flexion, 5 degrees of extension, 5 degrees of right lateral bend, and 5 degrees 
+of left lateral bend.  (DE B:27).  Dr. Fields noted that after he examined Mr. Wolfe, he 
+went to sit down in a chair and placed a pillow behind his back.  (DE B:28).   
+ 
+The report continued with Dr. Fields’ opinions as to Mr. Wolfe’s condition 
+following his work injury.  (DE B:28-30).  Dr. Fields indicated that Mr. Wolfe had mild 
+compression fractures at T12 and L1 as a result of his fall, and that these healed by 
+May 27, 2021.  (DE B:28).  Dr. Fields continued, “[i]t is my medical opinion that Mr. 
+Wolfe’s current reported pain symptomatology is unrelated to the injury from December 
+16, 2020.”  (DE B:28).  He goes on to concur with Drs. Abernathey and Chapman that 
+there were no underlying physiological reasons to explain Mr. Wolfe’s ongoing pain, 
+including no radiographic evidence of neurocompression due to a herniated disc, nor 
+any signs of radiculopathy.  (DE B:28).  Dr. Fields found “clear inconsistencies” during 
+the IME, which he attributed to symptom magnification due to Mr. Wolfe’s demonstration 
+of pain on axial rotation and his unwillingness to straighten his legs.  (DE B:28).  Dr. 
+Fields noted that Dr. Chapman and a physical therapist observed similar instances of 
+symptom magnification.  (DE B:28).   
+ 
+Dr. Fields next indicated that only the mild compression fractures at T12 and L1 
+were causally related to the claimant’s fall on December 16, 2020.  (DE B:29).  Any 
+ongoing symptoms were unrelated to the December 16, 2020, fall. (DE B:29).  Finally, 
+Dr. Fields opined that Mr. Wolfe’s fractures were completely healed, and that there was 
+no aggravation, lighting up or permanent change to explain his ongoing complaints.  
+(DE B:29).  Considering the foregoing, Dr. Fields placed Mr. Wolfe at MMI as of May 27, 
+2021.  (DE B:29).  He then considered permanent impairment pursuant to the Guides.  
+(DE B:29).  He referenced Table 15-3 on page 384 of the Guides in placing Mr. Wolfe in 
+the DRE Lumbar Category II, which resulted in a 5 percent whole person impairment.  
+(DE B:29).  He then referenced Table 15-4 on page 389 of the Guides in opining that 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 16 
+ 
+Mr. Wolfe met the criteria for DRE Thoracic Category II, resulting in a 5 percent whole 
+person impairment.  (DE B:29).  Dr. Fields used the combined values chart to arrive at a 
+10 percent whole person impairment.  (DE B:29).   
+ 
+Dr. Fields then provided commentary on Dr. Segal’s IME and resulting opinions.  
+(DE B:30).  Specifically, he disagreed with Dr. Segal’s application of the Guides in using 
+the range of motion (“ROM”) method for evaluating Mr. Wolfe’s lumbar spine.  (DE 
+B:30).  Dr. Fields noted that the Guides provides that the ROM method should only be 
+used if:  
+A. There are fractures at more than 1 level in a spinal region. 
+B. There is radiculopathy bilaterally or at multiple levels in the same spinal 
+region 
+C. There is multilevel motion segment alteration (such as multilevel fusion) 
+in the same spinal region, or 
+D. There is recurrent disc herniation or stenosis with radiculopathy at the 
+same or a different level in the same spinal region; in this case, 
+combined the ratings using the range of motion method. 
+(DE B:30).  Dr. Fields opined, “…there is no objective medical evidence that Mr. Wolfe 
+meets any of these criteria.  Therefore, Dr. Segal departs from the Guides methodology, 
+producing an overstatement of impairment.”  (DE B:30).   
+ 
+Dr. Fields recommended no permanent work restrictions for Mr. Wolfe due to his 
+lack of objective deficits.  (DE B:30).  He also recommended no future treatments 
+besides normal follow-up with Mr. Wolfe’s primary care provider for his personal health 
+issues.  (DE B:30).  Mr. Wolfe testified that the whole examination took no more than 45 
+minutes, and that he felt it was less thorough than Dr. Segal’s examination.  
+(Testimony).   
+ 
+At the time of the hearing, Mr. Wolfe continued to have low back pain.  
+(Testimony).  He experienced “episodes” about once per month wherein he described 
+“debilitating” pain and symptoms that prevent him from moving or living his life.   
+(Testimony).  He rated his pain during these “episodes” as 25 out of 10, and testified 
+further that he sometimes had numbness and tingling in his left leg.  (Testimony).  
+These “episodes” would last for three-to-five days, and resulted in an inability to sleep.  
+(Testimony).  He could tell when an “episode” was dissipating, as his pain would 
+decrease to 7 out of 10.  (Testimony).  He noted that he could only sit in a chair for so 
+long with a pillow behind his back before he needed to lay down in order to relieve rising 
+back pain.  (Testimony).  At times, he used ice packs to help relieve his pain.  
+(Testimony).  Mr.  Wolfe also testified that he avoided standing for longer than ten-to-
+fifteen minutes, as it aggravated his back issues.  (Testimony).   
+ 
+Mr. Wolfe testified that he used to walk one hour in the morning and the evening, 
+but that he could no longer do so.  (Testimony).  He could still drive, but he used a 
+heating pad on long trips.  (Testimony).  He also stopped several times on long trips in 
+order to change positions.  (Testimony).  He modified the suspension on a Jeep 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 17 
+ 
+Wrangler that he previously owned so that it would not bounce around.  (Testimony).  
+He also put a makeshift bed in the rear of his Jeep so that he could rest on long trips.  
+(Testimony).  Mr. Wolfe testified that he has had a housekeeper since 2011 who does 
+cleaning for him. (Testimony).  He noted that she has to do more work since his injury in 
+helping to clean his apartment.  (Testimony).   
+ 
+In his answers to interrogatories, Mr. Wolfe indicated that he earned ten 
+thousand and 00/100 ($10,000.00) per month in investment income.  (DE I:78).  He also 
+testified that he applied for over 100 jobs, but was unable to obtain employment.  
+(Testimony).  He felt that he could not perform any of his previous jobs due to his 
+ongoing pain in his low back.  (Testimony).  Instead, he spends his days reviewing and 
+managing his investments.  (Testimony). 
+ 
+Mr. Wolfe noted that he has experience using a cell phone and owns a computer.  
+(Testimony).   
+ 
+According to Mr. Wolfe he had not yet been released to work by a doctor.  
+(Testimony).  He continued, “I don’t feel I’m capable of doing any kind of work.  … I’ve 
+got to be upfront that I’ve got a back injury where I can’t lift, stand or sit for prolonged 
+periods of time; and so I don’t think I’m going to get that job, if I’m honest that way…”  
+(Testimony).  Mr. Wolfe also testified a number of times that he had extensive 
+experience in human resources and seemed to have knowledge of the workers’ 
+compensation system.  (Testimony).  It was thus odd that he testified that he did not 
+know who his current doctor was and that he lacked knowledge that he was released 
+from care.  (Testimony).   
+CONCLUSIONS OF LAW 
+The party who would suffer loss if an issue were not established has the burden 
+of proving that issue by a preponderance of the evidence.  Iowa Rule of Appellate 
+Procedure 6.904(3).   
+Odd-Lot Permanent and Total Disability 
+The first issue to consider in this case is whether the claimant may assert the 
+applicability of the odd-lot doctrine as it relates to their permanent disability.  The 
+claimant argues that they should be allowed to assert that they are permanently and 
+totally disabled pursuant to the odd-lot doctrine despite not pleading permanent and 
+total disability in their original notice and petition.  The claimant alleges that they raised 
+the issue of “extent of disability” as a disputed issue in their original notice and petition, 
+and that this is sufficient to put the defendants on notice of their assertion.   
+The defendants argue that the claimant failed to plead permanent total disability 
+as a disputed issue, and that it would be prejudicial to allow the claimant to assert that 
+they are permanently and totally disabled pursuant to the odd-lot doctrine.   
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 18 
+ 
+The claimant filed an original notice and petition (“petition”) on July 8, 2024.  In 
+the petition, the claimant alleged that he sustained injuries to his left leg, left foot, back, 
+and body as a whole as the result of a fall off of a truck on December 15, 2020.  The 
+claimant further alleged disputed issues of: rate, causation, nature and extent of 
+disability, interest, alternate care, medical expenses, mileage, penalty, and 
+reimbursement for an IME.   
+The claimant then amended their petition on July 11, 2024, to change the date of 
+injury to December 16, 2020.  There were no additional amendments to the petition.   
+It was not until the parties exchanged their proposed hearing reports shortly 
+ahead of the hearing that the claimant informed the defendants that he asserted the 
+application of the odd-lot doctrine to his permanent disability.  There is no record of any 
+vocational expert report or any other report provided to the defendants at any point 
+ahead of the hearing indicating that Mr. Wolfe was permanently and totally disabled, or 
+that would indicate that the odd-lot doctrine would apply.  The claimant may point to the 
+report of Dr. Segal; however, it is unclear as to when this was served on the defendants.   
+Iowa Code section 86.14(1)5 states, “[i]n an original proceeding, all matters 
+relevant to a dispute are subject to inquiry.”  Iowa Code section 86.17(1) provides, “[t]he 
+deputy commissioner or the commissioner may make such inquiries in contested case 
+proceedings as shall be deemed necessary, so long as such inquiries do not violate any 
+of the provisions of section 17A.17.”  Further, Iowa Code section 86.18(1) states, 
+“[e]vidence, process and procedure in contested case proceedings … shall be as 
+summary as practicable consistent with the requirements of chapter 17A.”   
+As noted by Deputy Humphrey in Maljkovic v. Tyson Foods, Inc.: 
+The “as summary as practicable” statutory language dates back 
+substantively to the Iowa Workers’ Compensation Act’s inception.  See 
+1913 Iowa Acts ch. 147, sec. 25.  The Iowa Supreme Court has held the 
+analogous provision in the original version of the statute demonstrates, “It 
+was the purpose of the legislature to create a tribunal to do rough justice—
+speedy, summary, informal, untechnical.”  Zomer v. West River Farms, Inc., 
+666 N.W.2d 130, 133 (Iowa 2003)(quoting Flint v. City of Eldon, 191 Iowa 
+845, 847, 183 N.W. 344, 345 (1921)).  Under Iowa Code section 84A.5(6), 
+the division of workers’ compensation is “responsible for the administration 
+of the laws of this rate relating to workers’ compensation” and the executive 
+head of the division is the commissioner.  Iowa Code section 86.8(1)(a) 
+states the commissioner “shall” adopt rules necessary to implement Iowa’s 
+workers’ compensation statutes. 
+ 
+5 Iowa Code chapter 86 was transferred to Iowa Code section 10A.303, et seq. by the legislature, 
+effective July 1, 2023.  See 2023 Iowa Acts ch. 19, sec. 1477.  Cases before the agency are governed by 
+the edition of the Iowa Code in effect at the time of the alleged work injury.  See Stiles v. Annett Holdings, 
+Inc., File No. 5064673 (App. Oct. 2, 2020).  This decision will cite to Iowa Code chapter 86 because the 
+alleged injury date in this matter occurred before the changes to Iowa Code occurred. 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 19 
+ 
+See Maljkovic v. Tyson Foods, Inc., File No. 22005791.02 (Arb. Dec. Feb 20, 2025).   
+In light of the statutory requirement, the agency has adopted rules governing 
+contested cases in chapter 876 of the Iowa Administrative Code.  Specifically, 876 Iowa 
+Administrative Code 3.17(7) establishes forms to be used as an original notice and 
+petition in certain types of cases, and references 876 Iowa Administrative Code 4.6 for 
+further description.  876 Iowa Administrative Code 4.6 states that a claimant’s Form 100 
+“shall contain factors relevant to the contested case proceedings listed in rule 876—
+4.1,” including an arbitration proceeding pursuant to Iowa Code section 86.14, such as 
+the instant matter.  876 Iowa Administrative Code 4.6 provides further: 
+A separate original notice and petition shall be filed for each claim that 
+seeks benefits due to the occurrence of an injury, occupational disease or 
+occupational hearing loss.  The original notice and petition shall allege a 
+specific date of occurrence consisting of a day, month and year.  Alternate 
+or multiple dates of occurrence may be alleged in the same original notice 
+and petition if the claim or claims arose from the same occurrence or series 
+of occurrences and uncertainty exists concerning the correct date of 
+occurrence or the number of occurrences. 
+See 876 Iowa Administrative Code 4.6.  Our supreme court has held, “[a]n application 
+for arbitration is not a formal pleading and is not to be judged by the technical rules of 
+pleading.  Nor is the same conformity of proof to allegation necessary as in ordinary 
+actions.”  Yaeger v. Firestone Tire & Rubber Co., 253 Iowa 369, 373-74, 112 N.W.2d 
+299, 301-02 (1961).  “The whole idea is to get away from cumbersome procedures and 
+technicalities of pleading, and to reach a right decision by the shortest and quickest 
+possible route.”  Hoenig v. Mason & Hanger, Inc., 162 N.W.2d 188, 192-93 (Iowa 
+1968)(quoting Larson, The Law of Workmen’s Compensation, Vol. 2, sec. 78.10).   
+However, the court also recognized that, “there is a point beyond which the 
+sweeping-aside of ‘technicalities’ cannot go, since evidentiary and procedural rules 
+usually have an irreducible hard core of necessary function which cannot be dispensed 
+with in any orderly investigation of the merits of a case.”  Id.  “When an employer is 
+confronted with a petition for arbitration it has a substantive right to be at least generally 
+informed as to the basic material facts upon which the employee relies as a basis for 
+compensation in order to prepare and defend.”  Id. at 192.  This right is “a 
+counterbalancing factor that cannot be ignored” when the sufficiency of the allegation in 
+a petition are assessed.  Id.   
+In this case, Sedona has the right to know the material facts on which Mr. Wolfe 
+based his claim.  This includes the allegations to which type of compensation the 
+claimant alleges entitlement, such as permanent and total disability under the odd-lot 
+doctrine.  Knowing this information allows for an employer to adequately prepare their 
+defense by consulting certain vocational experts and/or having the claimant examined 
+by certain providers for IMEs.   
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 20 
+ 
+Mr. Wolfe relies on checking the “extent of disability” box on the petition as 
+providing Sedona with notice of his assertion of permanent and total disability as an 
+issue.  I disagree.  Additionally, there is not sufficient evidence to show that Sedona was 
+aware through the discovery process that Mr. Wolfe may be permanently and totally 
+disabled.  For example, there are disputes among authorized treating providers and Dr. 
+Segal as to the extent of permanent restrictions necessary for Mr. Wolfe.  Additionally, 
+there are no reports of vocational experts present in the record.  These are generally 
+crucial to deciding the issue of permanent and total disability under the odd-lot doctrine.   
+As noted by Deputy Humphrey in Maljkovic, “[t]he legislature’s desire for speedy 
+justice meted out by an informal tribunal does not override an employer’s right to know 
+the material facts upon which an injured worker relies as the basis for workers’ 
+compensation benefits.”  Maljkovic, File No. 22005791.02 at pg. 5.  The nature of 
+benefits sought by the claimant are undoubtedly material facts.  Failing to plead 
+permanent and total disability, even by the odd-lot doctrine, prevented Sedona from a 
+full and fair opportunity to develop their defense regarding the claimant’s allegations.  
+This is simply too prejudicial to the defendants to allow Mr. Wolfe to pursue such claims 
+in this case.   
+Industrial Disability 
+The parties stipulated that Mr. Wolfe’s disability should be evaluated as an 
+industrial disability in this case.   
+Industrial disability was defined in Diederich v. Tri-City Ry. Co. of Iowa, 219 Iowa 
+587, 591, 258 N.W. 899, 902 (1935) as follows:  "It is therefore plain that the Legislature 
+intended the term 'disability' to mean 'industrial disability' or loss of earning capacity and 
+not a mere 'functional disability' to be computed in terms of percentages of the total 
+physical and mental ability of a normal man." 
+Functional impairment is an element to be considered in determining industrial 
+disability which is the reduction of earning capacity, but consideration must also be 
+given to the injured employee's age, education, qualifications, experience, motivation, 
+loss of earnings, severity and situs of the injury, work restrictions, inability to engage in 
+employment for which the employee is fitted and the employer's offer of work or failure 
+to so offer.  McSpadden v. Big Ben Coal Co., 288 N.W.2d 181, 192 (Iowa 1980); Olson 
+v. Goodyear Service Stores, 255 Iowa 1112, 1120, 125 N.W.2d 251, 256 (1963); Barton 
+v. Nevada Poultry Co., 253 Iowa 285, 110 N.W.2d 660, 663 (1961). 
+Before considering the industrial disability analysis, I wanted to make note of my 
+findings regarding Mr. Wolfe’s credibility.  Mr. Wolfe has extensive experience in 
+workers’ compensation.  He was clearly an intelligent person.  However, some of his 
+verbal answers consisted of questions posed in response to defendants’ counsel.  
+Additionally, he testified that he modified his Jeep in order to have a bed in back in 
+order to sleep on long drives.  However, Mr. Wolfe’s felony plea was in regard to a 
+situation wherein he was apprehended in another city in Iowa, some distance from his 
+home, while engaged in an attempt to entice a minor.  It was noted in the evidence that 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 21 
+ 
+Mr. Wolfe had a mattress in the back of his Jeep during his arrest.  It is difficult for me to 
+square Mr. Wolfe’s explanation for why he had a mattress in the back of his Jeep with 
+the circumstances of his felony conviction.  This, in addition to my other observations, 
+concerned me with regard to Mr. Wolfe’s credibility. 
+At the time of the hearing, Mr. Wolfe was 57 years old.  He possesses a high 
+school diploma, and a bachelor’s degree from the University of Nebraska.  He later 
+obtained an MBA from Westmar University in LeMars, Iowa.   
+Mr. Wolfe worked in human resources for almost twenty years.  He worked in 
+varying capacities from low level human resources work as a store manager to high 
+level human resources positions for multi-national corporations like Pepsi, Honeywell, 
+and Jack Links.  He is absolutely qualified to work in what would be considered “white 
+collar” positions in human resources, as his prior experience suggests.  He also worked 
+for almost ten years as a volunteer firefighter.   
+In 2020, Mr. Wolfe began working for Sedona.  Sedona appears to be a staffing-
+type agency, who placed Mr. Wolfe at Advanced Precast in Dyersville, Iowa.  Mr. Wolfe 
+started as a concrete finisher wherein he cut foam to be placed inside of cast concrete 
+slabs.  After Advanced Precast found out that Mr. Wolfe had experience driving large 
+trucks as a volunteer firefighter, they moved him to a position operating concrete trucks 
+at the Advanced Precast plant.  In order to move to this position, Mr. Wolfe needed to 
+get a Class B CDL.  He maintained that CDL following the termination of his 
+employment from Sedona, but he testified that he was unsure if he would be able to 
+pass the DOT physical examination going forward.   
+While working at Advanced Precast on December 16, 2020, Mr. Wolfe fell as he 
+exited a cement truck.  He fell backwards onto his back, and felt an immediate 
+“explosion” in his lower back.  He was eventually diagnosed with mild superior end-plate 
+compression fractures at T12 and L1 in his back.  Following an initial visit, Mr. Wolfe 
+commenced care which included an initial MRI, which showed no acute abnormalities 
+beyond his fractures.  Despite this lack of objective evidence in the record, Mr. Wolfe 
+was convinced that he had bulging discs and that this information was kept from him.   
+Mr. Wolfe’s treatment continued with Dr. Chapman, who recommended that Mr. 
+Wolfe wear a brace for his back.  He later recommended physical therapy.  By March of 
+2021, Mr. Wolfe complained of significant pain in his back, which was worse when 
+standing or sitting.  Dr. Chapman noted that there may be some discogenic explanation 
+for these issues, but that the treatment plan remained unchanged.   
+During an April of 2021 visit with Dr. Chapman, Mr. Wolfe presented as 
+“significantly deteriorated” from his previous visit with Dr. Chapman.  As a result, Dr. 
+Chapman ordered a repeat MRI of the lumbar spine.  Beyond the previously visualized 
+fractures, the MRI showed mild degenerative findings, especially at L5-S1; however, 
+there was no significant spinal canal or neural foraminal narrowing.  Dr. Chapman noted 
+that the bulge seen at L5-S1 was “not dramatic.”  He further noted that Mr. Wolfe’s 
+ongoing issues were “not classically discogenic…” but instead were the result of 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 22 
+ 
+“multiple pain generators.”  Dr. Chapman recommended continued physical therapy, 
+and noted that, at the time, Mr. Wolfe could not “reliably work” due to his soreness.   
+In mid-May of 2021, Sedona offered Mr. Wolfe a temporary accommodation on a 
+full time basis in allowing Mr. Wolfe to work in general or office labor on a full-time basis.  
+He was to be restricted from repetitive lifting, bending or twisting, and to be given an 
+option to change position every 15 minutes.  He was to assemble papers into packets, 
+and do other general office work duties.  Unfortunately, when Mr. Wolfe attempted this, 
+he experienced pain in his low back and leg, which resulted in his transport to the 
+hospital via EMS.  At the emergency room, he was diagnosed with a low back strain 
+and discharged.   
+Mr. Wolfe then returned to see Dr. Chapman on May 27, 2021, wherein he again 
+complained of severe pain.  He recounted the issue at Sedona from mid-May to Dr. 
+Chapman.  Mr. Wolfe told Dr. Chapman that he had to spend 14 to 16 hours per day in 
+bed.  Dr. Chapman opined that Mr. Wolfe’s factures were healed and that he had no 
+neurocompression in his low back.  Nevertheless, Dr. Chapman found Mr. Wolfe to 
+have significant subjective pain with axial compression of his shoulders and with waist 
+rotation.  According to the doctor these presentations represented symptom 
+magnification.  Dr. Chapman also observed Mr. Wolfe to have pain with a “Faber 
+maneuver” but not with other provocative testing in the area of the SI joint.  The doctor 
+opined in his record: 
+I am at a loss to explain his symptoms and why he is not able to tolerate 
+even sedentary work.  I recommend he get another opinion.  There are 
+some physical exam findings that suggest symptom magnification.  I do not 
+doubt he is in some pain but I do not find any physiological explanation for 
+this degree of disability based on what I see on his imaging.   
+See JE 3:17.   
+As a result of Dr. Chapman’s opinions, Mr. Wolfe was referred to Dr. Abernathey, 
+a board certified neurosurgeon for an additional opinion.  Dr. Abernathey reviewed Mr. 
+Wolfe’s records and the imaging, noting a “small disc protrusion at L5-S1.”  Dr. 
+Abernathey opined: 
+Scott Wolfe presents with subjective chronic low back pain related to a 
+work event.  I do not recommend an aggressive neurosurgical stance due 
+to a paucity of clinical or radiographic findings.  His neural elements are well 
+decompressed on his MRI images and his neurologic function is intact.  … 
+I offered him the opportunity to undergo an epidural steroid injection, but he 
+declined.  The patient states that he had previously been vice president of 
+human resources at a large corporation.  He says that injections were never 
+helpful in any of his employees and he is adamantly opposed to pain 
+management.  I will defer to his primary physicians regarding additional 
+management. 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 23 
+ 
+See JE 5:19.  Mr. Wolfe opined that this visit with Dr. Abernathey lasted no more than 
+five minutes.  Following this appointment, the doctor sent a check-box-type letter to an 
+adjuster with ESIS.  In his letter, dated August 11, 2021, Dr. Abernathey indicated that 
+Mr. Wolfe had no permanent impairment, nor did he require permanent work 
+restrictions, as it related to the December 16, 2020, incident.  He further opined that Mr. 
+Wolfe reached MMI as of June 16, 2021.   
+After his appointment with Dr. Abernathey, Mr. Wolfe only visited with his primary 
+care provider for medical care.  These visits consisted of maintenance for his diabetes 
+and heart.  He made no mention during any of these visits of any back issues.  Mr. 
+Wolfe attempted to explain away his failure to mention his low back pain to Mr. Kueter 
+by arguing that she was not “the doctor approved for [his] back.”   
+Claimant’s counsel then arranged for an IME with Dr. Segal.  Dr. Segal is board 
+certified in brain and spine neurosurgery; however, he no longer practices medicine as 
+a surgeon.  He performed an examination of Mr. Wolfe and measured the range of 
+motion in his back.  He concluded that Mr. Wolfe’s fall and fractures “lit up” the disc 
+findings at L5-S1 which caused Mr. Wolfe to have low back pain and left radicular 
+symptoms.  He also opined that Mr. Wolfe had a slight compression of the left S1 nerve 
+root.  His diagnoses of Mr. Wolfe were: 1. a superior endplate compression fracture at 
+T12; 2. a superior endplate compression fracture at L1; 3. lumbar radiculopathy with 
+possible direct injury to the nerve roots; and, 4. disc protrusion that was a possible 
+permanent aggravation of his preexisting condition.  Dr. Segal opined that the 
+December 16, 2020, work incident caused Mr. Wolfe’s diagnoses.  Despite some 
+questionable findings, Dr. Segal found that Mr. Wolfe had radiculopathy.  Dr. Segal then 
+used the AMA Guides to find that Mr. Wolfe had 34 percent whole person impairment.  
+Dr Segal’s report contains the justification for his impairment rating.   
+Dr. Segal opined that Mr. Wolfe no longer had “the work capacity that he did 
+before” the December 16, 2020, work injury.  As a result, Dr. Segal recommended the 
+following permanent work restrictions: 
+Sitting: No restrictions if in the “right chair” with back support 
+Standing: 15 minutes at a time, then rest for 15 minutes, total 4 hours per 
+day 
+Walking: 10 minutes at a time, then rest for 15 minutes, total 3 hours per 
+day 
+Bending, one bend: Occasionally (but very carefully) 
+Bending, repetitive: Never 
+Use of Vibratory Tools: Never 
+Lifting/Carrying: 10 pounds Occasionally, 15 pounds, Rarely 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 24 
+ 
+Pushing/Pulling: Rarely 
+Stairs: One flight Rarely 
+Kneeling: Rarely 
+Crouching/Squatting: Rarely 
+Ladders: Never 
+See CE 2:26.  Dr. Segal concluded that Mr. Wolfe reached MMI as of May 27, 2021.   
+Mr. Wolfe then saw Dr. Fields, at the arrangement of the defendants.  Dr. Fields 
+is board certified in occupational and environmental medicine.  He is also a certified 
+independent medical examiner.  During his IME with Dr. Fields, Mr. Wolfe indicated that 
+he had pain rated 9 out of 10, and that he could only do limited things with no difficulty.  
+Mr. Wolfe told Dr. Fields that his low back continued to worsen following his injury, 
+including “episodes” every two-to-three weeks wherein he rated his pain 11 out of 10 for 
+three-to-four days.  Dr. Fields examined Mr. Wolfe and found him to have no tenderness 
+to palpation on examination.  He also found Mr. Wolfe to have a normal, symmetric gait.  
+Dr. Fields attempted to have Mr. Wolfe perform a straight leg raise test, but Mr. Wolfe 
+refused to extend either leg during the examination.  Dr. Fields found Mr. Wolfe to have 
+self-limiting behavior and documented certain non-organic signs for back pain in his 
+examination.  Dr. Fields documented Mr. Wolfe’s range of motion in his low back.   
+Dr. Fields opined that Mr. Wolfe had mild compression fractures at T12 and L1 
+following his fall, which were healed by May 27, 2021.  Dr. Fields concurred with Drs. 
+Abernathey and Chapman that Mr. Wolfe had no underlying physiological reasons to 
+explain his ongoing pain, including no radiographic evidence of any neurocompression 
+due to a herniated disc.  He also found Mr. Wolfe to have no signs of radiculopathy.  Dr. 
+Fields also noted that Mr. Wolfe demonstrated “clear inconsistencies” during the IME 
+such as pain on axial rotation and an unwillingness to straighten his legs.  Dr. Fields 
+attributed these to symptom magnification.   
+Dr. Fields placed Mr. Wolfe in the DRE Lumbar Category II and the DRE 
+Thoracic Category II.  As a result, he provided Mr. Wolfe with a 10 percent whole 
+person impairment based upon his fractures.  Dr. Fields was critical of Dr. Segal’s report 
+insofar as it used the range of motion technique to calculate permanent disability.  Dr. 
+Fields felt that Dr. Segal’s use of this technique resulted in “an overstatement of 
+impairment.”   
+Dr. Fields recommended no permanent work restrictions, nor further treatment.  
+He placed Mr. Wolfe at MMI as of May 27, 2021.   
+At the time of the hearing, Mr. Wolfe continued to complain of low back pain.  
+Like his examination with Dr. Fields, he noted having “episodes” of pain which he now 
+rated 25 out of 10.  He also complained of periodic numbness and tingling in his left leg.  
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 25 
+ 
+He recounted difficulty with sitting or standing for long periods of time.  He noted 
+modifying the suspension of his Jeep Wrangler in order to ease the bumpiness of its 
+ride.  He also noted that he had a housekeeper.   
+Mr. Wolfe was asked during the hearing whether he applied for any jobs since 
+being released from medical care.  He noted that he attempted to work a light duty 
+position before having a setback and going to the hospital via EMS.  He testified that he 
+applied for over one hundred positions using LinkedIn, but that his LinkedIn was 
+subsequently hacked.  Thus, he lost access to these applications.  Since regaining 
+access to his LinkedIn, he applied for over one hundred more positions.  However, it is 
+unclear as to the nature of these positions.  Mr. Wolfe supplied no evidence beyond his 
+testimony as to his attempts to find further employment.  Mr. Wolfe testified that he felt 
+he was not capable of performing any work.   
+According to Sedona, they attempted to contact Mr. Wolfe on several occasions.  
+He did not respond to their attempts to contact him until the final attempt.  During this 
+call, a position was discussed with him.  He felt he could not do it.  There is a dispute as 
+to whether he asked to be removed from consideration for further positions by Sedona 
+or whether Sedona simply removed him from their consideration because he did not 
+return contact with them and/or told them that he was not interested in a position with 
+Sedona. 
+I have concerns about Mr. Wolfe’s motivation to return to the workforce.  Several 
+doctors place no restrictions on him at all.  Even Dr. Segal, his hand-chosen IME 
+physician allows him to work in a sedentary position provided he had the “right chair” 
+with back support.  This is certainly a reasonable accommodation that an employer 
+could offer.  Considering his history in human resources, Mr. Wolfe would likely find a 
+market in largely sedentary jobs.  However, Mr. Wolfe pled guilty to a Class D felony for 
+enticing a minor in April of 2025.  This certainly would hamper his future employment 
+prospects in human resources positions, and could hamper his prospects in other 
+employment positions.   
+In considering the extent of Mr. Wolfe’s industrial disability, I considered all of the 
+relevant factors noted in our law.  I would initially note that Mr. Wolfe had several MRIs 
+which showed only mild to minimal changes.  Dr. Chapman, the treating physician, 
+noted the bulge to be “not dramatic.”  Additionally, Dr. Chapman found Mr. Wolfe’s 
+issues to be “not classically discogenic…”  He also opined that he could not explain Mr. 
+Wolfe’s ongoing symptoms nor why he could not tolerate even sedentary work.  He 
+opined that Mr. Wolfe displayed certain findings that indicated symptom magnification, 
+and recommended a second opinion.   
+Dr. Abernathey provided a second opinion.  He opined that the objective 
+radiographic findings showed nothing of consequence.  He opined that there was no 
+significant neural compromise on the MRI despite the “small disc protrusion at L5-S1.”  
+Dr. Abernathey recommended no work restrictions.   
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 26 
+ 
+Dr. Fields examined Mr. Wolfe and found evidence of symptom magnification.  
+He opined further that Mr. Wolfe’s pain symptomatology was unrelated to his December 
+16, 2020, work injury.  Additionally, Dr. Fields opined that there was no radiographic 
+evidence of neurocompression, nor was there any underlying physiological reason to 
+explain Mr. Wolfe’s ongoing pain.  Dr. Fields documented a number of inconsistencies 
+in Mr. Wolfe’s behavior during the examination.  He recommended no restrictions. 
+Dr. Segal is the only doctor to opine that Mr. Wolfe has significant ongoing 
+objective issues following his December 16, 2020, work incident.  Dr. Segal’s opinions 
+appear to largely be based upon Mr. Wolfe’s subjective complaints.  As three different 
+doctors note, Mr. Wolfe’s complaints do not correlate with the objective physiological 
+findings.  He noted that Mr. Wolfe could return to work with no restrictions on sitting, 
+provided he was given the “right chair.”   
+As noted above, I also have concerns about Mr. Wolfe’s motivation to find further 
+employment.  Considering even Dr. Segal would allow Mr. Wolfe to return to sedentary 
+work under certain conditions, it is difficult to understand why he has not more diligently 
+sought employment beyond simply LinkedIn searches.  I have these same concerns 
+about his ability to find gainful employment due to his felony conviction.   
+I also considered the functional impairment ratings provided by Drs. Segal and 
+Fields, in addition to Dr. Abernathey’s opinion that Mr. Wolfe had no permanent 
+impairment as a result of the December 16, 2020, work injury.   
+Based upon my review of the relevant factors, I find that Mr. Wolfe has a fifteen 
+percent industrial disability.  This results in an award of 75 weeks of permanent partial 
+disability benefits (15 percent x 500 weeks = 75 weeks).  Permanent partial disability 
+benefits should commence on May 27, 2021, pursuant to the parties’ stipulation.  The 
+defendants are entitled to a credit as stipulated. 
+Rate 
+The parties have a dispute as to the claimant’s gross earnings, and thus the rate 
+of compensation.  As a result of this, there is also a dispute as to whether the 
+defendants paid an improper rate from December 21, 2020, to March 18, 2021.   
+Iowa Code 85.36 states “[t]he basis of compensation shall be the weekly 
+earnings of the injured employee at the time of the injury.”  Weekly earnings are defined 
+as the gross salary, wages, or earnings of an employee had the employee worked the 
+customary hours for the full pay period in which the employee was injured as the 
+employer regularly required for work of employment.  Id.  The subsections of Iowa Code 
+85.36 set forth methods for computing weekly earnings depending upon the type of 
+earnings and employment.   
+In this case, Mr. Wolfe earned seventeen and 00/100 dollars ($17.00) per hour.  
+He started working for Sedona on November 8, 2020.  He was paid on an hourly basis.  
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 27 
+ 
+If an employee is paid on a daily, or hourly basis, or based upon output, weekly 
+earnings are computed by dividing by thirteen (13) the earnings over the thirteen (13) 
+week period immediately preceding the injury.  However, any week that does not fairly 
+reflect the employee’s customary earnings shall be replaced by the closest previous 
+week that is a fair representation of the employee’s customary earnings.  Iowa Code 
+85.36(6).  The calculation shall include shift differential pay, but not overtime or 
+premium pay in the calendar weeks immediately preceding the injury.  Id.  If the 
+employee was absent during the time period subject to calculation for personal reasons, 
+the weekly earnings are the amount the employee would have earned had the 
+employee worked when work was available to other employees in a similar occupation 
+for the employer.  Id.    
+If an employee has been employed by the employer for less than thirteen (13) 
+calendar weeks immediately preceding the injury, the employee’s weekly earnings shall 
+be computed pursuant to Iowa Code 85.36(6), taking the earnings to be what the 
+employee would have earned had the employee been so employed for the full thirteen 
+(13) weeks immediately preceding the injury, and had worked when work was available 
+to other similarly employed employees.  Iowa Code 85.36(7).  If the earnings of other 
+employees cannot be determined, the employee’s weekly wage shall be the average 
+computed for the number of weeks that the employee has been employed with the 
+employer.  Id.   
+In this case, the claimant worked for Sedona for four weeks prior to his injury.  
+During this time, he worked 38 hours during the week of November 8, 2020, 25 hours 
+during the week of November 15, 2020, 39.25 hours during the week of December 6, 
+2020, and 36.75 hours during the week of December 13, 2020.   
+The claimant argues that the 25 hours which he worked during the week of 
+November 15, 2020, should be excluded as it represents a 34 percent drop in hours 
+over the other three weeks.  Mr. Wolfe testified that it was his understanding that the 
+position with Sedona was a full-time position.   
+The defendants argue that all four weeks should be used in calculating the 
+average hours considered in calculating the claimant’s gross earnings.  The defendants 
+point to the testimony of Ms. Kiefer in support of their position.  Ms. Kiefer testified that 
+Mr. Wolfe was not guaranteed a specific number of hours while working for Sedona and 
+that his hours at Advanced Precast fluctuated based upon demand and weather 
+conditions.   
+Simply looking at the hours worked, it becomes apparent that a 25 hour week 
+does not fairly reflect Mr. Wolfe’s customary earnings during the brief time that he 
+worked for Sedona.  During the other three weeks in question, Mr. Wolfe worked 36 or 
+more hours.  A reduction in hours of over 11 hours of wages is unrepresentative of Mr. 
+Wolfe’s brief time with Sedona.   
+For the reasons set forth above, I conclude that the claimant’s gross weekly 
+wages are six hundred forty-six and 00/100 dollars ($646.00) per week.  The parties 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 28 
+ 
+stipulated that the claimant was single and entitled to two exemptions.  Thus, the 
+claimant’s weekly workers’ compensation rate is four hundred twenty-four and 76/100 
+dollars ($424.76) per week.   
+As a result of this determination, it appears that the defendants paid an improper 
+rate from December 21, 2020, to March 18, 2021.  Thus, the claimant is entitled to 
+payment for the underpaid rate of compensation for this period. 
+Medical Mileage 
+ 
+The claimant makes a request in his brief for reimbursement of medical mileage.  
+It should be noted that there is no note in the hearing report that the claimant is seeking 
+reimbursement for medical mileage.  There is no indication that the claimant is seeking 
+payment of medical expenses under section 8 of the hearing report, nor is there an 
+indication that the claimant is seeking medical mileage under section 10 of the hearing 
+report. 
+ 
+“This agency relies on hearing reports to determine the issues to be decided by 
+the presiding deputy commissioners.”  See Murray v. City of Missouri Valley, File Nos. 
+1664884.03; 19700585.02 (App. Dec., June 14, 2022).  If an issue is not raised in a 
+signed hearing report, nor is it raised with the deputy commissioner during a hearing, it 
+is considered waived.  Id. at 3 (citing Bos v. Climate Eng’rs, 2016 WL 1178116, File No. 
+5044761 (App. Dec. March 22, 2016); Hawkeye Wood Shavings v. Parrish, 2009 WL 
+3337613 (Iowa Ct. App. 2009); Burtnett v. Webster City Custom Meats, Inc., 2007 WL 
+254722 (Iowa Ct. App. 2007)).   
+The claimant failed to raise medical mileage as an issue at the hearing, or in the 
+hearing report.  Thus, this issue is waived. 
+IME Reimbursement Pursuant to Iowa Code section 85.39 
+ 
+The claimant seeks reimbursement for an IME performed by Dr. Segal, 
+amounting to five thousand one hundred and 00/100 dollars ($5,100.00).  The 
+defendants contend that the claimant is not entitled to reimbursement of Dr. Segal’s IME 
+fees, as they were not reasonable. 
+ 
+Iowa Code 85.39(2) states:   
+If an evaluation of permanent disability has been made by a physician 
+retained by the employer and the employee believes this evaluation to be 
+too low, the employee shall, upon application to the commissioner and upon 
+delivery of a copy of the application to the employer and its insurance 
+carrier, be reimbursed by the employer the reasonable fee for a subsequent 
+examination by a physician of the employee’s own choice, and reasonably 
+necessary transportation expenses incurred for the examination. . .   An 
+employer is only liable to reimburse an employee for the cost of an 
+examination conducted pursuant to this subsection if the injury for which the 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 29 
+ 
+employee is being examined is determined to be compensable under this 
+chapter or chapter 85A or 85B.  An employer is not liable for the cost of 
+such an examination if the injury for which the employee is being examined 
+is determined not to be a compensable injury.  A determination of the 
+reasonableness of a fee for an examination made pursuant to this 
+subsection shall be based on the typical fee charged by a medical provider 
+to perform an impairment rating in the local area where the examination is 
+conducted.     
+Iowa Code section 85.39(2).     
+ 
+Defendants are responsible only for reasonable fees associated with claimant’s 
+independent medical examination.  The claimant has the burden of proving the 
+reasonableness of the expenses incurred for the examination.  See Schintgen v. 
+Economy Fire & Casualty Co., File No. 855298 (App. April 26, 1991).  “The 
+reasonableness of the fee for an IME ‘is to be based on the typical fee charged in the 
+locale where the examination is performed.’”  P.M. Lattner Mfg. Co. v. Rife, 2 N.W.3d 
+859, 867 (Iowa 2024)(citing Mid. Am. Constr. LLC v. Sandlin, 2 N.W.3d 838 (Iowa 
+2024)).  The agency may also use its own experience in adjudicating IME 
+reimbursement claims in the local area where the examination is performed.  Sandlin, 2 
+N.W.3d at 849.  Additional facts to be considered for reasonableness should include the 
+time spent with the claimant, the time spent on the report, and the time spent reviewing 
+the claimant’s records.  Sandlin, 2 N.W.3d at 852 (citing Turner v. NCI Bldg. Sys., Inc., 
+File No. 1652235.01 (Arb. Feb. 24, 2022)).   
+An opinion finding a lack of causation is tantamount to a zero percent impairment 
+rating.  Kern v. Fenchel, Doster & Buck, P.L.C., 2021 WL 3890603 (Iowa Ct. App. 
+2021).     
+ 
+It is well accepted Iowa law that a claimant is only entitled to reimbursement for 
+one IME pursuant to Iowa Code section 85.39.  Larson Mfg. Co. Inc. v. Thorson, 763 
+N.W.2d 842, 861 (Iowa 2009).   
+ 
+In this case, the defendants only paid a portion of Dr. Segal’s IME fees.  The 
+defendants contend that the claimant has not proven that Dr. Segal’s fee was 
+reasonable.   
+In using my experience adjudicating workers’ compensation matters in this area 
+of Iowa, I do not find Dr. Segal’s fees to be reasonable.  Mr. Wolfe’s complaints are 
+centered on his lower back.  Dr. Segal did not provide an impairment rating for any 
+other part(s) of the body.  Also, Mr. Wolfe does not have a lengthy amount of treatment 
+for his complaints.  Dr. Segal charged eight hundred fifty and 00/100 dollars ($850.00) 
+per hour for six hours of work, which provides the total of five thousand one hundred 
+and 00/100 dollars ($5,100.00).  I find that this is unreasonable considering the 
+circumstances of this case.  Based upon my experience and the typical fees for an IME 
+in this part of the state, a fee of four thousand and 00/100 dollars ($4,000.00) is 
+reasonable.   
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 30 
+ 
+It is unclear from the evidentiary record how much the defendants reimbursed 
+Mr. Wolfe for Dr. Segal’s IME.  If the amount is less than four thousand and 00/100 
+dollars ($4,000.00), then the defendants shall reimburse Mr. Wolfe for any difference.   
+Reimbursement of No-Show Fee for IME 
+ 
+The defendants seek reimbursement of a no-show fee for an IME with Dr. Fields.   
+The undersigned could not find explicit justification in statute or the rules to 
+assess a no-show fee.  The closest corollary would be to assess this no-show fee as a 
+cost against the claimant.  Costs are to be assessed at the discretion of the deputy 
+commissioner hearing the case.  See 876 Iowa Administrative Code 4.33; Iowa Code 
+section 10A.328.  876 Iowa Administrative Code 4.33(6) provides:  
+[c]osts taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+reviewing health service disputes.   
+Pursuant to the holding in Des Moines Area Regional Transit Authority v. Young, 867 
+N.W.2d 839 (Iowa 2015), only the report of an IME physician, and not the examination 
+itself, can be taxed as a cost according to 876 IAC 4.33(6).  The Iowa Supreme Court 
+reasoned, “a physician’s report becomes a cost incurred in a hearing because it is used 
+as evidence in lieu of the doctor’s testimony,” while “[t]he underlying medical expenses 
+associated with the examination do not become costs of a report needed for a hearing, 
+just as they do not become costs of the testimony or deposition.”  Id.  (noting 
+additionally that “[i]n the context of the assessment of costs, the expenses of the 
+underlying medical treatment and examination are not part of the costs of the report or 
+deposition”).  The commissioner has found this rationale applicable to expenses 
+incurred by vocational experts.  See  Kirkendall v. Cargill Meat Solutions Corp., File No. 
+5055494 (App. Dec., December 17, 2018); Voshell v. Compass Group, USA, Inc., File 
+No. 5056857 (App. Dec., September 27, 2019).   
+ 
+The costs for the no-show fee do not fall under any of the eight categories 
+contemplated by 876 Iowa Administrative Code 4.33.  The no-show fee is not the 
+equivalent to a witness fee or the costs of a doctor’s deposition testimony.   
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 31 
+ 
+ 
+Another possible avenue is a sanction pursuant to 876 Iowa Administrative Code 
+4.36, which states: 
+If any party to a contested case or an attorney representing such party shall 
+fail to comply with these rules or any order of a deputy workers’ 
+compensation commissioner or the workers’ compensation commissioner, 
+the deputy workers’ compensation commissioner or the workers’ 
+compensation commissioner may impose sanctions which may include 
+dismissing the action without prejudice, excluding or limiting evidence, 
+assessing costs or expenses, and closing the record in whole or in part to 
+further activity by the party. 
+See 876 Iowa Administrative Code 4.36.  In failing to attend the scheduled IME, the 
+claimant failed to comply with Iowa Code section 85.39(1).  This is not a failure to abide 
+by the “rules” referenced by 876 Iowa Administrative Code 4.36.  The scenario where 
+this rule may apply would involve the defendants seeking (and being granted) an order 
+to compel the claimant to attend the IME pursuant to Iowa Code section 85.39(1).  If the 
+claimant failed to attend the IME following the issuance of an order to compel the 
+claimant to attend the IME, then sanction pursuant to 876 Iowa Administrative Code 
+4.36 may be appropriate.  However, the defendants neither sought, nor obtained, an 
+order to compel the claimant to attend the incidental IME.   
+ 
+Iowa Code section 85.39(1) provides that when an employee refuses to submit to 
+an IME pursuant to Iowa Code section 85.39(1), the employee forfeits their right to any 
+compensation for the period of the refusal.  See Iowa Code section 85.39(1).  This is the 
+consequence or sanction of the failure to comply with the statute.  There is no other 
+avenue for recovery of the no-show fee for the defendants in this case.   
+ 
+Therefore, I find that the claimant is not responsible to reimburse the no-show fee 
+to the defendants. 
+Costs 
+The claimant seeks an award of costs.  Costs are to be assessed at the 
+discretion of the deputy commissioner hearing the case.  See 876 Iowa Administrative 
+Code 4.33; Iowa Code section 10A.328.  876 Iowa Administrative Code 4.33(6) 
+provides:  
+[c]osts taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by Iowa 
+Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 32 
+ 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+reviewing health service disputes.   
+Pursuant to the holding in Des Moines Area Regional Transit Authority v. Young, 867 
+N.W.2d 839 (Iowa 2015), only the report of an IME physician, and not the examination 
+itself, can be taxed as a cost according to 876 IAC 4.33(6).  The Iowa Supreme Court 
+reasoned, “a physician’s report becomes a cost incurred in a hearing because it is used 
+as evidence in lieu of the doctor’s testimony,” while “[t]he underlying medical expenses 
+associated with the examination do not become costs of a report needed for a hearing, 
+just as they do not become costs of the testimony or deposition.”  Id.  (noting 
+additionally that “[i]n the context of the assessment of costs, the expenses of the 
+underlying medical treatment and examination are not part of the costs of the report or 
+deposition”).  The commissioner has found this rationale applicable to expenses 
+incurred by vocational experts.  See  Kirkendall v. Cargill Meat Solutions Corp., File No. 
+5055494 (App. Dec., December 17, 2018); Voshell v. Compass Group, USA, Inc., File 
+No. 5056857 (App. Dec., September 27, 2019).   
+ 
+The claimant seeks one hundred twenty-eight and 75/100 dollars ($128.75) in 
+costs for the filing fee.  In my discretion, I award the claimant the costs of the filing fee of 
+one hundred twenty-eight and 75/100 dollars ($128.75).   
+ 
+The claimant also seeks two hundred seventy-two and 05/100 dollars ($272.05) 
+in costs for the claimant’s deposition transcript.  The claimant’s deposition transcript 
+was not entered into evidence by either party.  In my discretion, I decline to award this 
+as a cost. 
+ORDER 
+THEREFORE, IT IS ORDERED: 
+That the claimant is not entitled to seek odd-lot permanent total disability 
+benefits, as these were not properly pled in his petition.   
+That the claimant sustained a fifteen (15) percent industrial disability, resulting in 
+entitlement to seventy-five (75) weeks of compensation at the below rate.   
+That the defendants are entitled to a credit as stipulated in the hearing report. 
+That the claimant’s gross weekly wages were six hundred forty-six and 00/100 
+dollars ($646.00) per week, that he was single, and entitled to two exemptions. 
+That the claimant’s rate of compensation is four hundred twenty-four and 76/100 
+dollars ($424.76) per week. 
+
+WOLFE V. SEDONA STAFFING, INC. 
+Page 33 
+ 
+That the defendants shall reimburse the claimant for underpayment of temporary 
+disability benefits from December 21, 2020, to March 18, 2021.   
+That the claimant failed to raise the issue of medical mileage at hearing, and thus 
+waived the issue. 
+That the defendants shall reimburse the claimant four thousand and 00/100 
+dollars ($4,000.00) for Dr. Segal’s IME report. 
+That the defendants shall reimburse the claimant one hundred twenty-eight and 
+75/100 dollars ($128.75) in costs incurred. 
+That the defendants shall pay accrued weekly benefits in a lump sum together 
+with interest.  All interest on past due weekly compensation benefits shall be payable at 
+an annual rate equal to the one-year treasury constant maturity published by the federal 
+reserve in the most recent H15 report settled as of the date of injury, plus two percent.  
+See Gamble v. AG Leader Technology, File No. 5054686 (App. Apr. 24, 2018).   
+That the defendants shall file subsequent reports of injury (SROI) as required by 
+this agency pursuant to 876 Iowa Administrative Code 3.1(2) and 876 Iowa 
+Administrative Code 11.7.   
+Signed and filed this __18th _ day of December, 2025. 
+ 
+ 
+The parties have been served, as follows: 
+Zeke McCartney (via WCES) 
+Peter Thill (via WCES) 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Workers’ Compensation Division to file documents in paper form. If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Workers’ 
+Compensation Division, 6200 Park Ave., Suite 100, Des Moines, Iowa 50321. The notice of appeal must be received 
+by the Workers’ Compensation Division within 20 days from the date of the decision. The appeal period will be 
+extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+            ANDREW M. PHILLIPS 
+               DEPUTY WORKERS’ 
+     COMPENSATION COMMISSIONER 

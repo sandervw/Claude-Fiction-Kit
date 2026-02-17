@@ -1,0 +1,576 @@
+Case Number: 19700200.01
+Case Title:  ELMORE, KERRY V. QUAKER OATS COMPANY
+Doc Type:    Decision - Deputy
+Source:      Elmore Kerry-19700200.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+KERRY ELMORE, 
+  : 
+ 
+ 
+  :                     File No. 19700200.01 
+ 
+Claimant, 
+  : 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :  
+QUAKER OATS COMPANY, 
+  : 
+ 
+ 
+  :   
+ 
+Employer, 
+  : 
+        ARBITRATION DECISION 
+ 
+ 
+  :   
+and 
+ 
+  : 
+ 
+ 
+  : 
+INDEMNITY INSURANCE COMPANY 
+  : 
+OF NORTH AMERICA, 
+  : 
+ 
+ 
+  :       Head Note Nos.:  1100, 1108, 1400 
+ 
+Insurance Carrier, 
+  : 
+ 
+Defendants. 
+  :  
+______________________________________________________________________ 
+STATEMENT OF THE CASE 
+The claimant, Kerry Elmore, filed a petition for arbitration on August 15, 2019, 
+seeking workers’ compensation benefits from Quaker Oats Company, employer, and 
+Indemnity Insurance Company of North America, insurance carrier.  The claimant was 
+represented by Nate Willems.  The defendants were represented by Kent Smith. 
+The matter came on for hearing on November 16, 2020, before Deputy Workers’ 
+Compensation Commissioner Joe Walsh in Des Moines, Iowa via Court Call 
+videoconferencing system.  The record in the case consists of Joint Exhibits 1 through 
+3; Claimant’s Exhibits 1 through 7; and Defense Exhibits A through H.  The claimant 
+testified at hearing.  Debra Hoadley served as the court reporter.  On November 17, 
+2020, claimant filed a motion to reopen the record, making allegations regarding his 
+employment circumstances.  The claimant submitted Claimant’s Exhibit 8.  On January 
+11, 2021, this motion was rejected under Rule 4.19(3)(e).  The undersigned did not 
+review Claimant’s Exhibit 8.  The matter was fully submitted on January 8, 2021, after 
+helpful briefing by the parties. 
+ISSUES 
+The parties submitted the following issues for determination: 
+1. Whether the claimant sustained an injury which arose out of and in the course 
+of his employment on August 1, 2019. 
+ELECTRONICALLY FILED     2021-Sep-10  12:37:12     DIVISION OF WORKERS' COMPENSATION
+
+ELMORE V. QUAKER OATS COMPANY 
+Page 2 
+2. Whether the alleged injury is a cause of any permanent disability and whether 
+claimant is entitled to any permanent partial disability benefits.  If so, the 
+nature and extent of such benefits are disputed. 
+3. The rate of compensation is disputed on the basis of gross wages. 
+4. Whether the claimant is entitled to the medical expenses set forth in 
+Claimant’s Exhibit 5. 
+5. Defendants assert the claim was not timely filed under Iowa Code section 
+85.26. 
+6. Whether defendants are entitled to a credit for benefits paid on his prior 
+tinnitus claim (March 29, 2013) under Iowa Code section 85.34(7). 
+7. Defendants assert that the principles of res judicata apply to this claim as it 
+relates to claimant’s March 29, 2013, tinnitus claim. 
+8. Claimant seeks costs set forth in Claimant’s Exhibit 7. 
+STIPULATIONS 
+Through the hearing report, the parties stipulated to the following: 
+1. The parties had an employer-employee relationship at all relevant times. 
+2. Temporary disability/healing period and medical benefits are not in dispute. 
+3. The parties have stipulated that if any permanent disability benefits are owed, 
+the commencement date for any permanent disability benefits is August 2, 
+2019. 
+4. The parties have stipulated that the claimant was married and entitled to two 
+exemptions for purposes of rate calculation. 
+5. Affirmative defenses have been waived with the exception of statute of 
+limitations (as set forth above). 
+These stipulations have been accepted by the undersigned and these 
+stipulations are deemed binding upon the parties. 
+FINDINGS OF FACT 
+Claimant Kerry Elmore was 59 years old as of the date of hearing.  He has 
+worked at Quaker Oats since 1982 up through the date of hearing.  He served in the 
+United States Army after receiving his GED in 1979.  Since 2011, Mr. Elmore has 
+worked as a general maintenance person (GMP).  His job duties generally involved 
+cleaning at the Quaker plant.  His earnings are in the record.  At the time of the alleged 
+
+ELMORE V. QUAKER OATS COMPANY 
+Page 3 
+injury he was earning $32.05 per hour and he worked regular overtime, up to 60 plus 
+hours per week.  (Defendants’ Exhibit F)  He also earned regular bonuses under his 
+union contract. 
+Mr. Elmore filed two prior claims against Quaker Oats (hereafter “Quaker”).  He 
+filed a petition alleging a March 29, 2013, tinnitus injury which was settled on 
+Agreement for Settlement on June 26, 2014.  (Claimant Exhibit 1 pages 1-4)  He was 
+paid a total of 49.6 weeks of compensation amounting to $40,000.00.  (Cl. Ex. 1, pp. 1, 
+3)  He then filed a petition for review reopening on the same claim, which was 
+eventually settled on a compromise basis on November 7, 2017.  (Cl. Ex. 1, pp. 5-10)  
+For the review-reopening claim, he was paid $40,000.00 on a full and final basis.  (Jt. 
+Ex. 1, p. 9)  Richard Tyler, Ph.D., served as Mr. Elmore’s expert in those cases.  Marlan 
+Hansen, M.D., served as the defendants’ expert in those claims. 
+Mr. Elmore alleges that he sustained a cumulative noise exposure aggravation 
+injury related to his hearing which manifested on or about August 1, 2019.  Specifically, 
+he contends that his condition of tinnitus has been materially aggravated since his 
+November 7, 2017, compromise settlement.  Therefore, his condition prior to the alleged 
+injury is particularly relevant. 
+There is no doubt that Mr. Elmore has been exposed to a noisy work 
+environment at Quaker.  (Cl. Ex. 6, pp. 1-2)  As a result, he has had hearing loss, which 
+at the time of hearing was not compensable because he still worked in the noisy 
+environment.  In addition, at some point he developed the condition of tinnitus.  Again, 
+this fact is not really in dispute.  The primary disputes are whether this condition was 
+materially aggravated after his compromise full and final settlement in 2017, and 
+whether the current claim is barred by res judicata and/or the statute of limitations. 
+Mr. Elmore testified live and in-person (via Court Call) at hearing.  I find his 
+testimony to be highly credible.  Mr. Elmore was an accurate historian and his testimony 
+was consistent with other portions of the record.  There was nothing about his 
+demeanor which caused me any concern regarding his truthfulness. 
+Prior to August 1, 2019, Mr. Elmore’s tinnitus was significantly disabling as 
+documented in the evidence.  When he began employment with Quaker, he did not 
+have the condition of tinnitus.  Quaker prepared noise measurement reports and other 
+work records to document exposure in the plant.  Mr. Elmore had regular hearing 
+evaluations from the beginning of his employment through November 2020.  In his 
+September 6, 2013, independent medical evaluation (IME) Richard Tyler, Ph.D., 
+summarized these reports, opining that Mr. Elmore was in a very noisy environment and 
+was exposed to impulsive noises which is more damaging.  (Cl. Ex. 2, pp. 2-3)  Dr. Tyler 
+also documented Mr. Elmore’s substantial overtime worked and the manner in which 
+this contributed to his tinnitus and hearing deficits.  (Cl. Ex. 2, p. 5) 
+According to Dr. Tyler, in 2004, Mr. Elmore’s tinnitus was first noted in his 
+hearing examination.  (Cl. Ex. 2, p. 7)  His tinnitus progressed from there until he 
+
+ELMORE V. QUAKER OATS COMPANY 
+Page 4 
+sustained an injury as defined by Iowa law, which manifested on or about March 29, 
+2013.  There was, of course, no specific event which occurred on that date, but rather 
+his condition progressed as a result of repeated noise exposure until it manifested on 
+that date.  In his IME examination with Dr. Tyler, Mr. Elmore filled out a hearing loss and 
+tinnitus questionnaire (in January 2013) which allowed Mr. Elmore to describe his 
+symptoms at that time.  (Cl. Ex. 2, pp. 20-27)  Therein, Mr. Elmore described the 
+“crickets” sound which he described as a “30” on a 100 point scale.  (Cl. Ex. 2, p. 24)  In 
+the written portion, he described his inability to understand voices in conversations.  (Cl. 
+Ex. 2, p. 24)  He described and rated his difficulties with concentration, his emotional 
+well-being, hearing and inability to sleep.  This is how he rated those areas on a 100 
+point scale (100 being total great effect; 0 no effect). 
+67. 
+Concentration 
+ 
+30 
+68. 
+Emotion well being  
+30 
+69. 
+Hearing 
+ 
+ 
+60 
+70. 
+Sleep  
+ 
+ 
+30 
+(Cl. Ex. 2, p. 25)  Based upon his review of the records, history taken from Mr. Elmore, 
+Dr. Tyler assigned an 11.4 percent body as a whole rating for the tinnitus.  (Cl. Ex. 2, p. 
+13) He recommended hearing aids and opined the tinnitus was due to the noisy 
+environment at Quaker and recommended significant restrictions at work and social 
+activities.  (Cl. Ex. 2, pp. 12-13)  Neither party followed the restrictions.  
+Defendants had claimant evaluated by Marlan Hansen, M.D., at the University of 
+Iowa Hospitals and Clinics.  Dr. Hansen reviewed documents and examined Mr. 
+Elmore.  He opined Mr. Elmore did have tinnitus and apportioned his claim between the 
+work-related and non-work portions.  He assigned a 1 percent whole body rating for the 
+tinnitus and did not recommend any medical restrictions.  (Def. Ex. C, p. 9)  He did feel 
+Mr. Elmore may benefit from a trial of hearing aids. 
+As mentioned above, the parties settled this claim on an agreement for 
+settlement on June 26, 2014.  After the settlement, Mr. Elmore continued to work in the 
+noisy environment.  The condition apparently progressed further as Mr. Elmore filed a 
+review-reopening petition on September 12, 2016.  Both parties obtained subsequent 
+evaluations from their original experts, Dr. Tyler and Dr. Hansen.  (Def. Ex. C, pp. 17-
+19; Def. Ex. E)  Both assigned higher impairment ratings from tinnitus and documented 
+his increasing symptoms.  Dr. Hansen noted that the condition of tinnitus is subjective 
+and opined that his increase in symptoms was consistent with the natural progression of 
+his tinnitus and hearing loss.  (Def. Ex. C, p. 18) 
+In any event, Mr. Elmore’s review-reopening petition was settled and then 
+approved on November 7, 2017.  This settlement, unlike the first, was a compromise 
+settlement under Section 85.35(3).  The basis for the dispute was set forth as follows: 
+
+ELMORE V. QUAKER OATS COMPANY 
+Page 5 
+Claimant alleges he developed tinnitus due to exposure to noise in the 
+course of his employment at Quaker Oats.  The parties settled this claim 
+on an Agreement for Settlement basis for 9.9% industrial disability, which 
+was approved by the Workers’ Compensation Commissioner on June 27, 
+2014. . . .  
+Claimant alleges he sustained a change of physical condition since the 
+Agreement for settlement in June 2014 and he has sustained additional 
+industrial disability.  Claimant relies on the report from Richard Tyler 
+Ph.D., finding Claimant’s hearing loss had increased and he had 
+significant tinnitus.  Claimant argues that his increased tinnitus has 
+resulted in additional industrial disability. 
+Defendants argue that Claimant’s alleged increase in tinnitus is, at most, a 
+natural progression of his condition that was expected to occur at the time 
+of the June 2014 settlement.  Defendants rely on the report from Marlan 
+Hansen, M.D., finding that Claimant’s hearing loss/tinnitus from June 214 
+[sic] to the present was a natural progression of his hearing condition that 
+existed prior to the settlement.  Defendants believe Claimant has not 
+sustained any change of condition that would entitle him to additional 
+benefits.  In addition, Defendants argue Claimant has not sustained any 
+industrial disability as evidenced by his ongoing employment at Quaker 
+Oats. 
+Given the dispute, the parties have agreed to settle the March 29, 2013 
+tinnitus claim on a full and final basis for $40,000 in new money. 
+(Cl. Ex. 1, pp. 5-6) 
+Mr. Elmore went back to work in the same noisy environment after the 
+settlement.  He now contends that his condition then worsened after November 7, 2017.  
+It is undoubtedly the same condition he has had since at least 2013 when the first injury 
+manifested. 
+At hearing, Mr. Elmore credibly testified that his tinnitus now wakes him up more 
+often in a given night.  (Tr., p. 13)  He described significant fatigue and waking up 
+numerous times per night, sometimes with headaches and feelings of anxiety.  (Tr., pp. 
+14-15)  He described the crickets sound as being louder, but he also described hearing 
+sounds like a car engine “with really bad lifters ticking really superfast …”  (Tr., p. 14)  
+Mr. Elmore has had to develop creative strategies to address his waking up in order to 
+relax.  (Tr., pp. 15-16)  This is new since 2017.  (Tr., p. 16)  He testified that before his 
+2017 settlement, when he would wake, he would simply roll over and go back to sleep.  
+Since the condition has progressed with the new, louder noises it now takes him a half 
+hour or so to get relaxed and back to sleep using new, creative strategies.  He testified 
+that his fatigue is so severe now that he occasionally misses work due to lack of sleep, 
+anxiety and headaches.  (Tr., pp. 16-19)  Mr. Elmore also testified that he now fails to 
+
+ELMORE V. QUAKER OATS COMPANY 
+Page 6 
+hear important safety cues at work such as co-workers hollering at him, or fork trucks 
+driving up behind him.  (Tr., p. 19)  He also testified that his inability to hear or 
+understand his co-workers now causes him significant difficulties.  He testified that 
+some co-workers call him “stupid” or “dumb” due to his inability to hear or understand 
+what is happening at work.  (Tr., pp. 21-22)  He now communicates often through text 
+messages even with team leaders at work.  He testified his inability to concentrate has 
+caused him to turn over household tasks, such as paying bills, to his spouse.  (Tr., p. 
+24) 
+Mr. Elmore filled out a new hearing loss and tinnitus questionnaire for Dr. Tyler in 
+May 2020.  (Cl. Ex. 2, pp. 28-35)  On this form, he rated the loudness of the crickets 
+sound as a 70 on a 100 point scale.  (Cl. Ex. 2, p. 32)  In the written comments section, 
+he added a number of detailed problems his tinnitus causes including confusion, the 
+inability to “define” voices, the inability to hear anything when there is background noise, 
+inability to sleep and feeling exhausted and confused during the day, as well as social 
+problems.  He rated his deficits as follows: 
+67. 
+Concentration 
+ 
+90 
+68. 
+Emotional well being 
+80 
+69.  
+Hearing  
+ 
+ 
+90 
+70. 
+Sleep  
+ 
+ 
+80 
+(Cl. Ex. 2, p. 33)  In comments he further described social isolation and confirmed a 
+number of the problems and difficulties he has at work and in his activities of daily living.  
+He wrote the following concluding comments:  “I’d give anything to be a part in a 
+conversation.  I’m laughed at a lot because they think I’m stupid because I can’t hear.  
+And to be able to sleep or not be so tired all day.”  (Cl. Ex. 2, p. 34)  In the tinnitus 
+handicap questionnaire, he detailed his tinnitus interfering significantly with his life, more 
+so than the earlier questionnaire.  (Compare Cl. Ex. 2, p. 35 with Cl. Ex. 2, p. 27) 
+In August 2020, defendants had claimant evaluated by a new medical expert, 
+Douglas Hoisington, M.D.  Dr. Hoisington reviewed a number of records, as well as a 
+detailed letter from defense counsel setting forth the course of events.  He also 
+examined Mr. Elmore.  He offered the following opinions.  “As stated above, there has 
+been no additional hearing loss since September 2016, and the tinnitus has remained 
+the same.”  (Def. Ex. D, p. 20)  Dr. Hoisington recommended new hearing aids but did 
+not assign any additional impairment or restrictions.  (Def. Ex. D, p. 20) 
+ 
+Mr. Elmore’s attorney wrote to Dr. Tyler on September 14, 2020.  (Cl. Ex. 2, p. 
+17)  He provided a number of important records to Dr. Tyler, including prior tests, 
+medical reports, Mr. Elmore’s deposition, answers to interrogatories, and defense 
+expert reports.  Dr. Tyler also had all of Mr. Elmore’s questionnaires, including the July 
+2020 questionnaire.  Dr. Tyler reviewed all of this information and interviewed Mr. 
+
+ELMORE V. QUAKER OATS COMPANY 
+Page 7 
+Elmore.  He prepared a lengthy report detailing the history of Mr. Elmore’s condition and 
+rendering expert opinions including a detailed appendix.  (Cl. Ex. 2, pp. 36-54)  Dr. Tyler 
+disagreed with Dr. Hoisington’s assessment and he assigned a 38 percent whole body 
+impairment for Mr. Elmore’s tinnitus pursuant to the AMA Guides to the Evaluation of 
+Permanent Impairment.  (Cl. Ex. 2, p. 42-43) He opined this was an 11 percent increase 
+in functional impairment since November 2017.  (Cl. Ex. 2, p. 42)  The rating assigned 
+impairment for hearing difficulties, sleep difficulties, concentration difficulties and 
+emotional difficulties.  Dr. Tyler noted the following restrictions:   
+He should not work around intense noise, particularly impulsive noise.  He 
+should not work where careful concentration is needed.  He should not 
+work where communication with fellow workers is required.  These 
+restrictions have become more critical, because of his increase in hearing 
+loss and tinnitus difficulties. 
+(Cl. Ex. 2, p. 37) 
+After reviewing the reports, I find Dr. Tyler’s report compelling.  Dr. Tyler has 
+consistently evaluated Mr. Elmore on three distinct occasions since 2013, and is in the 
+best position to provide an overall assessment.  Dr. Tyler’s professional credentials in 
+the field of audiology are impeccable.  (Cl. Ex. 2, pp. 55-98)  I find his report is strong 
+supporting evidence for Mr. Elmore’s assertion that his condition has worsened since 
+November 2017, when he settled his tinnitus claim.  I find this report more convincing 
+than Dr. Hoisington’s report.  Dr. Hoisington simply claimed without explanation that “the 
+tinnitus has remained the same.”  It is entirely unclear in this record what he based this 
+conclusion on.  This was the first occasion Dr. Hoisington evaluated Mr. Elmore.  It does 
+not appear that he reviewed the claimant’s deposition testimony or reviewed the same 
+detailed description of symptoms which was available to Dr. Tyler.  He did review a 
+lengthy letter from defense counsel which, while generally accurate, did not specifically 
+detail the symptoms Mr. Elmore has experienced since November 2017.  (See Def. Ex. 
+D, pp. 30-37)  Furthermore, while Dr. Hoisington is undoubtedly qualified to render 
+expert opinions, he does not have the breadth of experience and background in tinnitus 
+claims as Dr. Tyler. 
+The problem for the claimant, however, is that Dr. Tyler did not provide an 
+opinion that the claimant sustained a new tinnitus injury which manifested on or about 
+August 1, 2019.  Dr. Tyler merely opined that Mr. Elmore’s condition had substantially 
+worsened.  “Based on the information available to me, I conclude that the sensorineural 
+hearing loss and tinnitus experienced by Mr. Elmore worsened since 2017."  (Cl. Ex. 2, 
+p. 43)  While it is clear in his report that he did not believe that Mr. Elmore should 
+continue to be exposed to the noisy work environment, it is also clear that Dr. Tyler 
+opined that this was the exact same condition he had been dealing with since at least 
+2013.  There was no new cumulative trauma manifestation.  The condition simply 
+worsened. 
+ 
+ 
+
+ELMORE V. QUAKER OATS COMPANY 
+Page 8 
+CONCLUSIONS OF LAW 
+The first question submitted is whether the claimant sustained an injury which 
+arose out of and in the course of his employment which manifested on or about August 
+1, 2019.  Claimant has alleged that he substantially and materially aggravated his 
+preexisting diagnosis of tinnitus as a result of his exposure to excessive noise for the 
+employer since he settled his tinnitus claim in November 2017.  He contends the 
+condition manifested on August 1, 2019.  Defendants do not seriously dispute that the 
+claimant has suffered tinnitus.  They assert both that the condition is the same as it was 
+in November 2017, and to the extent it has worsened at all, that the condition has 
+naturally progressed and that his work activities since 2017, have not substantially or 
+materially aggravated the condition.  The defendants further argue that claimant’s claim 
+is barred by the doctrine of res judicata since he settled his tinnitus claim in November 
+2017 on a full and final basis. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the alleged injury actually occurred and that it both arose out of and in the course of the 
+employment.  Quaker Oats Co. v. Ciha, 552 N.W.2d 143 (Iowa 1996); Miedema v. Dial 
+Corp., 551 N.W.2d 309 (Iowa 1996).  The words “arising out of” refer to the cause or 
+source of the injury.  The words “in the course of” refer to the time, place, and 
+circumstances of the injury.  2800 Corp. v. Fernandez, 528 N.W.2d 124 (Iowa 1995).  
+An injury arises out of the employment when a causal relationship exists between the 
+injury and the employment.  Miedema, 551 N.W.2d 309.  The injury must be a rational 
+consequence of a hazard connected with the employment and not merely incidental to 
+the employment.  Koehler Elec. v. Wills, 608 N.W.2d 1 (Iowa 2000); Miedema, 551 
+N.W.2d 309.  An injury occurs “in the course of” employment when it happens within a 
+period of employment at a place where the employee reasonably may be when 
+performing employment duties and while the employee is fulfilling those duties or doing 
+an activity incidental to them.  Ciha, 552 N.W.2d 143. 
+A personal injury contemplated by the workers’ compensation law means an 
+injury, the impairment of health or a disease resulting from an injury which comes about, 
+not through the natural building up and tearing down of the human body, but because of 
+trauma.  The injury must be something that acts extraneously to the natural processes 
+of nature and thereby impairs the health, interrupts or otherwise destroys or damages a 
+part or all of the body.  Although many injuries have a traumatic onset, there is no 
+requirement for a special incident or an unusual occurrence.  Injuries which result from 
+cumulative trauma are compensable.  An occupational disease covered by chapter 85A 
+is specifically excluded from the definition of personal injury.  Iowa Code section 
+85.61(4)(b); Iowa Code section 85A.8; Iowa Code section 85A.14. 
+When the injury develops gradually over time, the cumulative injury rule applies.  
+The date of injury for cumulative injury purposes is the date on which the disability 
+manifests.  Manifestation is best characterized as that date on which both the fact of 
+injury and the causal relationship of the injury to the claimant’s employment would be 
+plainly apparent to a reasonable person.  The date of manifestation inherently is a fact 
+
+ELMORE V. QUAKER OATS COMPANY 
+Page 9 
+based determination.  The fact-finder is entitled to substantial latitude in making this 
+determination and may consider a variety of factors, none of which is necessarily 
+dispositive in establishing a manifestation date.  Among others, the factors may include 
+missing work when the condition prevents performing the job, or receiving significant 
+medical care for the condition.  For time limitation purposes, the discovery rule then 
+becomes pertinent so the statute of limitations does not begin to run until the employee, 
+as a reasonable person, knows or should know, that the cumulative injury condition is 
+serious enough to have a permanent, adverse impact on his or her employment.  
+Herrera v. IBP, Inc., 633 N.W.2d 284 (Iowa 2001); Oscar Mayer Foods Corp. v. Tasler, 
+483 N.W.2d 824 (Iowa 1992); McKeever Custom Cabinets v. Smith, 379 N.W.2d 368 
+(Iowa 1985). 
+Because a cumulative injury has been alleged, the issue of medical causation is 
+significantly linked to the issue of whether he suffered an injury which arose out of and 
+in the course of his employment. 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based.  A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause.  A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.  George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996). 
+The question of causal connection is essentially within the domain of expert 
+testimony.  The expert medical evidence must be considered with all other evidence 
+introduced bearing on the causal connection between the injury and the disability.  
+Supportive lay testimony may be used to buttress the expert testimony and, therefore, is 
+also relevant and material to the causation question.  The weight to be given to an 
+expert opinion is determined by the finder of fact and may be affected by the accuracy 
+of the facts the expert relied upon as well as other surrounding circumstances.  The 
+expert opinion may be accepted or rejected, in whole or in part.  St. Luke’s Hosp. v. 
+Gray, 604 N.W.2d 646 (Iowa 2000); IBP, Inc. v. Harpole, 621 N.W.2d 410 (Iowa 2001); 
+Dunlavey v. Economy Fire and Cas. Co., 526 N.W.2d 845 (Iowa 1995).  Miller v. 
+Lauridsen Foods, Inc., 525 N.W.2d 417 (Iowa 1994).  Unrebutted expert medical 
+testimony cannot be summarily rejected.  Poula v. Siouxland Wall & Ceiling, Inc., 516 
+N.W.2d 910 (Iowa App. 1994). 
+The first issue is whether the claim is barred by the doctrine of res judicata.  The 
+question is whether a worker can sustain a new, cumulative injury by aggravating a 
+condition which has already been settled, in this case on a full and final basis under 
+Section 85.35(3). 
+ 
+ 
+
+ELMORE V. QUAKER OATS COMPANY 
+Page 10 
+Defendants set forth the following argument. 
+Claimant’s alleged August 1, 2019 injury is precluded by res judicata.  
+“It is well settled that the doctrines of claim preclusion and issue 
+preclusion (formerly termed res judicata) are applicable in appropriate 
+circumstances to administrative quasi-judicial adjudications.”  Price v. 
+Koehring Cranes, File No. 5016412 (App. Dec. Aug. 19, 2008), citing Bd. 
+Of Sup’rs, Carroll City v. Chi. & N.W. Transp. Co., 260 N.W.2d 813, 815 
+(Iowa 1977).  Claimant already filed a Petition for tinnitus in 2013 and filed 
+a Review/Reopening Petition in 2017.  The Commissioner approved a 
+settlement of this matter in November 2017.  (Ex. 1, p. 5)  Claimant’s 
+tinnitus didn’t stop or improve at some point then reoccur unexpectedly.  It 
+persisted from 2013 through the present. 
+(Def. Brief, pp. 11-12)  The defendants go on to argue that tinnitus is subjective. 
+I reject this argument.  The claimant settled his 2013 claim for tinnitus on 
+November 1, 2017, on a full and final basis.  He then filed a petition alleging he 
+sustained a new cumulative trauma hearing injury on August 1, 2019.  It is the 
+claimant’s burden to prove he sustained a new cumulative trauma injury which 
+manifested on that date.  The fact that he had experienced a previous disability, which 
+he settled, does not bar him from attempting to prove that he sustained a new 
+cumulative trauma injury. 
+I find, however, that the claimant failed to prove that he sustained a new, 
+cumulative trauma injury, following his 2017 settlement.  His condition undoubtedly 
+worsened somewhat after the settlement.  Mr. Elmore continued to work for Quaker in a 
+noisy environment and Quaker continued to allow him to work, probably because their 
+own expert at that time placed no restrictions on him.  In any event, he did continue to 
+experience noise exposure, including impulsive noise.  With the benefit of hindsight, it 
+appears it was unwise for the claimant to continue to work in the noisy environment 
+given the nature and severity of his condition. 
+The condition also progressed naturally and it is somewhat difficult to determine 
+how much of his condition is from a natural progression and how much is from 
+continued noise exposure.  In any event, it is likely that his condition worsened 
+somewhat because of his continued noise exposure.  I find, however, that claimant has 
+failed to meet his burden of proof that he sustained a new, distinct cumulative trauma 
+injury. 
+In Ellingson v. Fleetguard, Inc., the Supreme Court addressed the issue of a 
+subsequent personal injury which arises from an aggravation of a prior work-related 
+injury.  In Ellingson, the claimant had suffered a traumatic event work injury in 1985 
+which resulted in a serious cervical condition.  Ellingson v. Fleetguard, Inc., 599 N.W.2d 
+440, 442 (Iowa 1999) Ellingson argued that she sustained a discreet cumulative injury 
+which manifested later and was partially responsible for her disability.   
+
+ELMORE V. QUAKER OATS COMPANY 
+Page 11 
+To the extent that the evidence reveals a subsequent aggravation of 
+Ellingson's January 4, 1985 injury, this is a relevant circumstance in fixing 
+the extent of her permanent disability. Aggravating work activities were 
+doubtless a causal factor with respect to the total degree of disability that 
+she exhibited at the time of the hearing. It is clear, however, that she may 
+not establish a cumulative-injury claim by merely asserting that her 
+disability immediately following the January 4, 1985 injury was increased 
+by subsequent aggravating work activities. That circumstance only serves 
+to increase the disability attributable to the January 4, 1985 injury. To 
+show a cumulative injury she must demonstrate that she has suffered a 
+distinct and discreet disability attributable to post–1985 work activities 
+rather than as an aggravation of the January 4, 1985 injury. In presenting 
+that claim to the commissioner, she could only prevail if the commissioner, 
+as primary fact finder, found that a factual basis for a cumulative-injury 
+disability existed. The commissioner did not make that finding. The 
+findings of the commissioner have the effect of a jury verdict. Ward v. Iowa 
+Dep't of Transp., 304 N.W.2d 236, 237 (Iowa 1981); Paveglio v. Firestone 
+Tire & Rubber Co., 167 N.W.2d 636, 640 (Iowa 1969). 
+Ellingson, 599 N.W.2d at 444. 
+Mr. Elmore’s condition is the exact same condition he had in 2013 and settled in 
+2014 and 2017; namely severe tinnitus.  It is now slightly worse than it was at the time 
+he effectuated his full and final settlement in 2017.  Mr. Elmore asserted that the type of 
+noise he hears is new (a loud roaring as opposed to loud crickets).  He also asserts that 
+he is more isolated and has had to develop new strategies to deal with the worsening 
+condition.  A number of symptoms are somewhat more severe.  Dr. Tyler, however, did 
+not opine that the claimant sustained a new, distinct or discreet cumulative trauma injury 
+as a result of the continued noise exposure.  Rather, Dr. Tyler opined that his condition 
+has simply worsened over time.  “Based on the information available to me, I conclude 
+that the sensorineural hearing loss and tinnitus experienced by Mr. Elmore has 
+worsened since 2017."  (Cl. Ex. 2, p. 43)  Having reviewed Dr. Tyler’s report thoroughly, 
+I simply do not have enough evidence that the claimant sustained a new, discreet 
+cumulative trauma injury to his hearing which arose out of and in the course of his 
+employment. 
+For these reasons I find that claimant has failed to prove that he sustained a 
+cumulative trauma injury which arose out of and in the course of his employment.  The 
+remaining issues, therefore, are deemed moot. 
+ 
+ 
+
+ELMORE V. QUAKER OATS COMPANY 
+Page 12 
+ORDER 
+THEREFORE IT IS ORDERED: 
+Claimant shall take nothing from these proceedings. 
+Each party shall pay their own costs. 
+Signed and filed this _10th _ day of September, 2021. 
+ 
+   __________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ JOSEPH L. WALSH 
+ 
+ 
+ 
+ 
+ 
+ 
+                      DEPUTY WORKERS’  
+ 
+ 
+ 
+ 
+ 
+ 
+COMPENSATION COMMISSIONER 
+The parties have been served, as follows:  
+Nate Willems (via WCES) 
+Kent Smith (via WCES) 
+ 
+ 
+ 
+ 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 86) of the Iowa Administrative Code.  The notice of appeal must 
+be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted permission 
+by the Division of Workers’ Compensation to file documents in paper form.  If such permission has been granted, the 
+notice of appeal must be filed at the following address:  Workers’ Compensation Commissioner, Iowa Division of 
+Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836.  The notice of appeal must be 
+received by the Division of Workers’ Compensation within 20 days from the date of the decision.  The appeal period 
+will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 

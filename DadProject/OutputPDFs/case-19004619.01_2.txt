@@ -1,0 +1,221 @@
+Case Number: 19004619.01
+Case Title:  BAILEY, MICHELE V. ALLSTEEL, INC./ 2ND INJ-FUND
+Doc Type:    Decision - Deputy
+Source:      Bailey Michele-19004619.01O.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+MICHELE BAILEY, 
+File No. 19004619.01 
+ 
+Claimant, 
+vs. 
+ 
+ 
+ALLSTEEL, INC., 
+ 
+RULING ON APPLICATIONS 
+FOR REHEARING BY 
+CLAIMANT & EMPLOYER 
+ 
+Self-Insured Employer, 
+SECOND INJURY FUND OF IOWA, 
+ 
+ 
+Defendants. 
+On April 7, 2022, the agency issued an arbitration decision in this case finding, 
+among other things, claimant Michele Bailey is entitled to permanent partial disability 
+(PPD) benefits for industrial disability from defendant-employer Allsteel, Inc., under Iowa 
+Code section 85.34(2)(v). Under rule 876 IAC 4.24, Bailey applied for reconsideration. 
+On April 11, 2022, Allsteel did the same. Bailey resisted Allsteel’s application, Allsteel 
+has not responded to Bailey’s application, and the Second Injury Fund of Iowa (Fund) 
+has not filed a response to either application.  
+1. ALLSTEEL’S APPLIC ATION . 
+Rule 876 IAC 4.19(3)(f) requires the parties to a contested case before the 
+agency to “prepare and file a joint hearing report that defines the claims, defenses, and 
+issues that are to be submitted to the deputy commissioner who presides at the 
+hearing.” The agency “cannot consider the hearing report in a vacuum.” Staff Mgmt. v. 
+Jimenez, 839 N.W.2d 640, 656 (Iowa 2013). The parties to a case may “put different 
+interpretations on a stipulation.” Graen’s Mens Wear, Inc. v. Stille-Pierce Agency, 329 
+N.W.2d 295, 300 (Iowa 1983). The agency must “consider the stipulation ‘with reference 
+to its subject matter and in light of the surrounding circumstances and the whole record, 
+including the state of the pleadings and issues involved.’” Jimenez, 839 N.W.2d at 656–
+57.  
+In this case, there are two defendants, each with potential individual liability: 
+Allsteel, the employer, and the Fund. Iowa Code section 85.64 makes an employer 
+liable for “the degree of disability” resulting from the work injury that caused the second 
+qualifying loss for purposes of Fund benefits. The Fund is then liable after payment of 
+benefits by the employer for “compensation as would be payable for the degree of 
+permanent disability involved after first deducting from such remainder the compensable 
+value of the previously lost member or organ.” Iowa Code § 85.64(1). Consequently, the 
+ELECTRONICALLY FILED     2022-Apr-28  10:55:52     DIVISION OF WORKERS' COMPENSATION
+
+BAILEY V. ALLSTEEL, INC. 
+Page 2 
+ 
+question of liability for permanent partial disability (PPD) benefits necessitates 
+consideration of both Allsteel and the Fund’s defenses. 
+In the petition, Bailey alleged injuries to both arms and her “whole body” and 
+identified “industrial disability” as a disputed issue. In the Fund’s answer, it denied the 
+applicability of the Second Injury Fund Act, Iowa Code sections 85.63 through 85.69. 
+Thus, the petition and the Fund’s answer gave Allsteel notice and a chance to mount a 
+defense with respect to the permanent disability resulting from Bailey’s alleged injuries 
+for which it is liable. See Larson Mfg. Co. Inc. v. Thorson, 763 N.W.2d 842, 853 (Iowa 
+2009); see also Drake Univ. v. Davis, 769 N.W.2d 176, 181–82 (Iowa 2009). 
+In Allsteel’s application for rehearing, it raises the hearing report’s stipulations 
+regarding Bailey’s injuries and the permanent disability they caused. The parties 
+stipulated Bailey sustained work injuries on June 7, 2019, that caused permanent 
+disability. Hrg. Rpt. §§ 2(a), 3(b). In Section 5 of the Hearing Report, the parties 
+indicated: 
+ Bailey’s entitlement to PPD benefits is disputed.  
+ They dispute whether Bailey is entitled to PPD benefits for an eight percent 
+functional impairment to each arm and a thirteen percent functional 
+impairment to her right shoulder. Id. at § 5(a). 
+Further, the parties stipulated, “If the injury is found to be a cause of permanent 
+disability, [t]he disability is a scheduled member disability to the bilateral arms and right 
+shoulder.” Id. at § 5(b). They indicated it was disputed whether the disability is an 
+industrial disability “for purposes of the Fund Claim.” Id. at § 5(b). The parties also 
+disputed the commencement date for benefits depending on what injuries were found to 
+result in permanent disability. 
+This case went to hearing on August 17, 2021. The agency issued an arbitration 
+decision in Anderson v. Bridgestone Americas, Inc. and Second Injury Fund of Iowa, 
+File No. 5067475, on September 2, 2021. The parties’ post-hearing briefs were due on 
+September 24, 2021. Bailey’s post-hearing brief did not discuss the Anderson decision. 
+Neither did Allsteel’s. 
+In contrast, the Fund’s post-hearing brief cited to Anderson and argued that if the 
+agency found Bailey sustained permanent disabilities to her arms and shoulder, 
+permanent disability must be determined based on lost earning capacity under Iowa 
+Code section 85.34(2)(v). The Fund further contended Allsteel was liable for such 
+industrial disability, not the Fund. While the parties’ respective positions in this case 
+were admittedly ill-defined at the time of hearing and the agency issued a decision that 
+implicated their respective positions between the date of hearing and the due date of 
+post-hearing briefs, it is plain that the Fund did not believe it had stipulated away its 
+defense on liability with respect to the applicability of section 85.34(2)(v) to disability 
+caused by Bailey’s alleged work injuries. 
+
+BAILEY V. ALLSTEEL, INC. 
+Page 3 
+ 
+On January 25, 2022, the Commissioner issued an appeal decision affirming and 
+adopting the arbitration decision as final action in Anderson. The agency filed the 
+arbitration decision in this case on April 7, 2022. In it, the undersigned found Bailey’s 
+injuries to her bilateral arms and right shoulder caused permanent disability. The 
+undersigned found the Fund’s argument persuasive regarding the application of section 
+85.34(2)(v) persuasive under Anderson. Because permanent disability is measured by 
+lost earning capacity under section 85.34(2)(v), the undersigned applied an industrial 
+disability analysis to determine Bailey’s entitlement to PPD benefits and found Allsteel 
+liable. 
+Allsteel applied for rehearing because of the arbitration decision’s application of 
+Iowa Code section 85.34(2)(v). The application contains no discussion of whether the 
+presiding deputy must apply the holdings off agency decisions issued after the date of 
+the hearing in a case. It argues the parties’ stipulation in Section 5(b) of the hearing 
+report that the injuries to Bailey’s bilateral arms and shoulder caused “scheduled 
+member disability” means that “any award of permanency benefits should have been 
+rendered pursuant to Iowa Code sections 85.34(2)(t) for the bilateral carpal tunnel 
+(arms) and 85.34(2)(n) for the right shoulder, respectively. Industrial disability is 
+inapplicable pursuant to the parties’ stipulation on the [h]earing [r]eport.” Allsteel 
+contends the arbitration decision’s application of section 85.34(2)(v) violated its due 
+process rights. 
+Bailey resisted Allsteel’s application. Bailey noted Allsteel cited to Robinson v. 
+City of Des Moines, File No. 5035076 (App. January 25, 2013), in which the 
+Commissioner ruled “stipulations entered into by parties should be binding so long as 
+they are not erroneous as a matter of law.” Bailey contends the Commissioner’s appeal 
+decision in Anderson, which was issued after the submission of post-hearing briefs by 
+the parties, makes the parties’ stipulation legally erroneous and non-binding on the 
+agency. Consequently, according to Bailey, Allsteel’s application should be rejected. 
+Courts have long recognized “a stipulation does not foreclose legal questions.” 
+Case v. Los Angeles Lumber Prod., 308 U.S. 106, 114 (1939). “Stipulations as to the 
+law do not settle . . . what the law is, and consequently are of no validity.’” Freeman v. 
+Ernst & Young, 541 N.W.2d 890, 894 (Iowa 1995) (quoting State v. Aumann, 236 
+N.W.2d 320, 322 (Iowa 1975) and citing 73 Am.Jur.2d Stipulations § 5, at 539 (1974)). 
+“Although litigants may stipulate to facts, they may not stipulate to what the law 
+requires, or to the law that will apply to a given state of facts.” 83 C.J.S. Stipulations § 
+28. In workers’ compensation cases before the agency, the Iowa Supreme Court has 
+held “it is the [C]ommissioner’s duty to determine the application of law to the contested 
+facts, and this determination is not within the parties’ power by stipulation.” Jimenez, 
+839 N.W.2d at 656 (citing Mycogen Seeds v. Sands, 686 N.W.2d 457, 467 (Iowa 2004) 
+and Iowa Supreme Ct. Att’y Disciplinary Bd. v. Gailey, 790 N.W.2d 801, 804 (Iowa 
+2010)).  
+ 
+ 
+
+BAILEY V. ALLSTEEL, INC. 
+Page 4 
+ 
+The case law is clear. A stipulation with respect to the application of law to facts 
+is not binding on the agency. It is axiomatic that the agency applying the law to the facts 
+of a case independent of a stipulation does not infringe on a party’s right to due 
+process. 
+Moreover, even assuming arguendo the parties can dictate how the agency 
+applies the law in a case, the stipulation that Bailey’s injuries caused “scheduled 
+member disability” cannot reasonably be construed to preclude the agency applying 
+industrial disability analysis under section 85.34(2)(v). The Fund signed onto the 
+hearing report that the undersigned issued an order adopting. But the Fund clearly did 
+not believe the parties had entered into a stipulation regarding how chapter 85 applied 
+in this case, as evidenced by its defense against liability. The Fund argued that if the 
+agency found Bailey sustained permanent disability to her arms, Allsteel was liable for 
+any industrial disability under section 85.34(2)(v). Thus, there was no meeting of the 
+minds between the parties on the application of the law to the facts in this case. 
+Allsteel prays for the undersigned to “find the at-issue injuries to be ‘scheduled 
+member’ injuries pursuant to the stipulation(s) via the [h]earing [r]eport and to award 
+permanency benefits accordingly.” Granting Allsteel’s application would require ignoring 
+the Fund’s defense on liability with respect to Anderson as well as the text of sections 
+85.34(2)(v) and 85.64(1). This would place the burden of paying PPD benefits for 
+permanent disability caused by injuries arising out of and in the course of Bailey’s 
+employment with Allsteel on the Fund. Even if the parties could dictate by stipulation the 
+application of the law in a case before the agency, the parties’ stipulations in this case 
+cannot reasonably be construed to dictate such a result. 
+For these reasons, the parties’ stipulations regarding the application of the Iowa 
+Workers’ Compensation Act to the facts in this case are not binding on the agency. The 
+arbitration decision’s application of Iowa Code section 85.34(2)(v) is not a violation of 
+Allsteel’s right to due process. Allsteel’s application for rehearing is denied.  
+2. B AILEY’S APPLIC ATION . 
+Bailey moved for rehearing on the question of industrial disability because of an 
+incorrect calculation of functional disability using the combined values chart in the Fifth 
+Edition of the American Medical Association (AMA) Guides to the Evaluation of 
+Permanent Impairment (Guide). According to Bailey’s motion, the undersigned 
+miscalculated the combined value of her permanent functional impairments. Neither 
+Allsteel nor the Fund responded to Bailey’s motion. 
+Bailey is correct. The arbitration decision incorrectly combined her permanent 
+functional impairments. Using the combined values table on pages 604 and 605 of the 
+Guides, Bailey’s seven percent impairment must be combined with her four percent 
+impairment of one arm. This results in a combined value of eleven percent that must in 
+turn be combined with the four percent impairment of her other arm. Doing so in 
+accordance with the table gives Bailey a combined functional impairment of fifteen 
+percent.  
+
+BAILEY V. ALLSTEEL, INC. 
+Page 5 
+ 
+Using fifteen percent, the correct combined value for Bailey’s functional 
+impairment, and the previously articulated analysis of the other factors used in an 
+industrial disability analysis, the weight of the evidence establishes an industrial 
+disability of twenty-two percent. Five hundred multiplied by twenty-two percent is one 
+hundred ten weeks. Bailey is entitled permanent partial disability (PPD) benefits for one 
+hundred ten weeks in the amount of four hundred ninety-five and 6/100 dollars per 
+week. 
+OR D ER  
+THEREFORE, IT IS ORDERED: 
+1) Allsteel’s application for rehearing is DENIED. 
+ 
+2) Bailey’s application for rehearing is GRANTED.  
+ 
+3) The arbitration decision is amended with respect to its permanent disability 
+analysis as set forth above.  
+ 
+4) The defendants shall pay to Bailey permanent partial disability (PPD) benefits 
+for one hundred ten (110) weeks in the amount of four hundred ninety-five 
+and 6/100 dollars ($495.06) per week. 
+Signed and filed this 28th day of April, 2022. 
+ 
+ 
+ 
+                     BEN HUMPHREY 
+Deputy Workers’ Compensation Commissioner 
+ 
+The parties have been served, as follows: 
+Nate Willems (via WCES) 
+Edward Rose (via WCES) 
+Jonathan Bergman (via WCES) 
+ 
+ 

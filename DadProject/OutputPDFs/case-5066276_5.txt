@@ -1,0 +1,270 @@
+Case Number: 5066276
+Case Title:  HUBBARD-MCKINNEY, CASSIDY V. NEWTON COMMUNITY SCHOOL
+Doc Type:    Decision - Court of Appeals
+Source:      Hubbard-McKinney, Cassidy-5066276.Court of Appeals Decision.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 22-0030 
+Filed February 22, 2023 
+ 
+ 
+NEWTON COMMUNITY SCHOOL DISTRICT and EMCASCO INSURANCE 
+COMPANY, 
+ 
+Petitioners-Appellants, 
+ 
+vs. 
+ 
+CASSIDY HUBBARD-McKINNEY, 
+ 
+Respondent-Appellee. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Sarah Crane, Judge. 
+ 
+ 
+An employer and its insurer appeal a judicial review decision affirming the 
+workers’ compensation commissioner’s award of benefits to an employee.  
+AFFIRMED.  
+ 
+ 
+D. Brian Scieszinski of Bradshaw, Fowler, Proctor & Fairgrave, P.C., Des 
+Moines, for appellants. 
+ 
+Richard R. Schmidt of Mueller, Berg, & Schmidt, P.L.L.C., Des Moines, for 
+appellee. 
+ 
+ 
+Considered by Ahlers, P.J., and Badding and Chicchelly, JJ.
+
+ 
+2
+AHLERS, Presiding Judge. 
+ 
+The facts of this workers’ compensation appeal are largely undisputed.  In 
+2018, Cassidy Hubbard-McKinney fell and injured her left knee while working for 
+Newton Community School District (the school).  The parties agree that the injury 
+arose out of and in the course of her employment, the injury caused permanent 
+disability, and the injury is a scheduled injury to Hubbard-McKinney’s leg.  See 
+Iowa Code § 85.34(2)(p) (2018) (providing for 220 weeks of benefits for loss of a 
+leg).  They also agree that Hubbard-McKinney sustained a nine percent permanent 
+impairment to her leg using the appropriate guides to the evaluation of permanent 
+impairment published by the American Medical Association.1  They even agree 
+that, of the nine percent impairment, seven percent is attributable to aggravation 
+of preexisting degenerative conditions of Hubbard-McKinney’s knee and the 
+additional two percent was directly caused by the fall at work.  They disagree on 
+whether the school is responsible for the aggravation of the preexisting condition, 
+which led to contested proceedings before the workers’ compensation commission 
+and on judicial review.  So, the issue is one of apportionment.  See Warren Props. 
+v. Stewart, 864 N.W.2d 307, 315 (Iowa 2015) (referring to Iowa Code 
+section 85.34(7) as a “statutory rule of apportionment”). 
+ 
+ 
+Following a contested hearing, a deputy workers’ compensation 
+ 
+1 See Iowa Code § 85.34(2)(x) (requiring use of the guides published by the 
+American Medical Association in determining percentage of impairment); Iowa 
+Admin. Code r. 876–2.4 (“The Guides to the Evaluation of Permanent Impairment, 
+Fifth Edition, published by the American Medical Association are adopted for 
+determining the extent of loss or percentage of impairment for permanent partial 
+disabilities and payment of weekly compensation for permanent partial scheduled 
+injuries under Iowa Code section 85.34(2) not involving a determination of 
+reduction in an employee’s earning capacity.”). 
+
+ 
+3
+commissioner assessed the evidence—which included conflicting expert 
+opinions—and concluded that the workplace fall aggravated Hubbard-McKinney’s 
+underlying, preexisting degenerative conditions that had previously been 
+asymptomatic.  As a result, the deputy found that Hubbard-McKinney was entitled 
+to compensation for the entire nine percent permanent impairment to her left leg.  
+On intra-agency appeal, the workers’ compensation commissioner affirmed the 
+deputy.  The school petitioned for judicial review, and the district court affirmed the 
+commissioner’s ruling.  The school appeals. 
+ 
+On appeal, the school does not challenge any of the factual findings made 
+by the commissioner.2  Nor does it challenge case law prior to 2017 that allows an 
+employee to recover for preexisting conditions when the conditions were 
+aggravated, accelerated, worsened, or “lit up” due to the injury.  See, e.g., Rose v. 
+John Deere Ottumwa Works, 76 N.W.2d 756, 761 (Iowa 1956) (“If plaintiff was 
+diseased and his condition was aggravated, accelerated, worsened or ‘lighted up’ 
+by the injury so it resulted in the disability found to exist plaintiff was entitled to 
+recover.”).  Instead, the school relies entirely on a legislative change to Iowa Code 
+section 85.34(7) in support of its contention that the school is not responsible for 
+the seven percent impairment related to preexisting degenerative conditions 
+regardless of whether they were aggravated by the work fall. 
+ 
+2 At the hearing before the deputy commissioner, the school contested whether 
+Hubbard-McKinney’s preexisting degenerative conditions in her leg were 
+symptomatic before the fall.  Having lost that contest before the agency, on appeal, 
+the school accepts the finding that Hubbard-McKinney’s knee was asymptomatic 
+before the fall. 
+
+ 
+4
+ 
+Before getting to the legislative change and the parties’ arguments, we first 
+address the standard of review.  To the extent this case calls on us to interpret 
+Iowa Code chapter 85, “the question on review is whether the agency’s 
+interpretation was erroneous, and we may substitute our interpretation for the 
+agency’s.”  Meyer v. IBP, Inc., 710 N.W.2d 213, 219 (Iowa 2006); see Iowa Code 
+§ 17A.19(10)(c).  To the extent we are called to review the commissioner’s ultimate 
+conclusion, the challenge is to the agency’s application of the law to the facts, “and 
+the question on review is whether the agency abused its discretion by, for example, 
+employing wholly irrational reasoning or ignoring important and relevant evidence.”  
+Meyer, 710 N.W.2d at 219; see Iowa Code § 17A.19(10)(i), (j). 
+ 
+Turning to the legislative change, Iowa Code section 85.34(7) was adopted 
+in 2004 and amended in 2017.  See Warren Props., 864 N.W.2d at 313 (detailing 
+the history of apportionment leading up to the legislature’s adoption of 
+section 85.34(7) in 2004).  The effective date of the 2017 amendment was prior to 
+Hubbard-McKinney’s injury.  See 2017 Iowa Acts ch. 23, § 24.  To highlight the 
+amendments, we provide the pre-amendment 2004 text with the 2017 deletions 
+from that text shown by strike-throughs and additions to that text shown by 
+underline: 
+a.   An employer is fully liable for compensating all only that portion 
+of an employee’s disability that arises out of and in the course of the 
+employee’s employment with the employer. and that relates to the 
+injury that serves as the basis for the employees claim for 
+compensation under this chapter, or chapter 85A, 85B, or 86.  An 
+employer is not liable for compensating an employee’s pre-existing 
+disability that arose out of and in the course of employment from a 
+prior injury with the employer, to the extent that the employee’s pre-
+existing disability has already been compensated under this chapter, 
+or chapter 85A, 85B, or 86.  An employer is not liable for 
+compensating an employee’s pre-existing disability that arose out of 
+
+ 
+5
+and in the course of employment with a different employer or from 
+causes unrelated to employment. 
+b. (1) If an injured employee has a pre-existing disability that was 
+caused by a prior injury arising out of and in the course of 
+employment with the same employer, and the pre-existing disability 
+was compensable under the same paragraph of subsection 2 as the 
+employee’s present injury, the employer is liable for the combined 
+disability that is caused by the injuries, measured in relation to the 
+employees condition immediately prior to the first injury.  In this 
+instance, the employer’s liability for the combined disability shall be 
+considered to be already partially satisfied to the extent of the 
+percentage of disability for which the employee was previously 
+compensated by the employer. 
+(2)  If, however, an employer is liable to an employee for a combined 
+disability that is payable under subsection 2, paragraph “u”, and the 
+employee has a pre-existing disability that causes the employee’s 
+earnings to be less at the time of the present injury than if the prior 
+injury had not occurred, the employer’s liability for the combined 
+disability shall be considered to be already partially satisfied to the 
+extent of the percentage of disability for which the employee was 
+previously compensated by the employer minus the percentage that 
+the employee’s earnings are less at the time of the present injury 
+than if the prior injury had not occurred. 
+c.  A successor employer shall be considered to be the same 
+employer if the employee became part of the successor employer’s 
+workforce through a merger, purchase, or other transaction that 
+assumes the employee into the successor employer’s workforce 
+without substantially changing the nature of the employee’s 
+employment. 
+ 
+See 2017 Iowa Acts ch. 23, §§ 13, 14. 
+ 
+The school contends this legislative change negates compensability for the 
+seven percent impairment attributable to Hubbard-McKinney’s preexisting 
+degenerative condition of her knee that was aggravated by the work fall.  In support 
+of this contention, the school relies on the language “[a]n employer is not liable for 
+compensating an employee’s preexisting disability that arose out of and in the 
+course of employment . . . from causes unrelated to employment.”  Iowa Code 
+§ 85.35(7). 
+
+ 
+6
+ 
+The deficiency in the school’s argument is that it conflates preexisting 
+condition with preexisting disability.  Our workers’ compensation statute and case 
+law tell us they are not the same.  As noted, the apportionment provisions of 
+section 85.34(7) only apply to preexisting “disability.”  Although disability is not 
+specifically defined in chapter 85, looking at the chapter as a whole provides insight 
+into the term’s meaning.  See Save Our Stadiums v. Des Moines Indep. Cmty. Sch. 
+Dist., 982 N.W.2d 139, 144 (Iowa 2022) (“We interpret statutes as a whole.”).  
+Section 85.33(2) defines disability in reference to temporary partial or total 
+disability as “the condition of an employee for whom it is medically indicated that 
+the employee is not capable of returning to employment substantially similar to the 
+employment in which the employee was engaged at the time of injury.”  This 
+definition informs us that disability within the context of chapter 85 refers not to a 
+worker’s asymptomatic condition, but to the inability to work.   
+ 
+This distinction between condition and disability is also recognized by our 
+case law.  In Floyd v. Quaker Oats, our supreme court described the distinction as 
+follows: 
+ 
+Ever since Rose v. John Deere Ottumwa Works, 76 N.W.2d 
+756 (1956), our law has recognized the distinction between 
+preexisting conditions and preexisting disability.  Full compensation 
+is allowed for the result of workplace activities aggravating a 
+preexisting condition.  Thus, for the apportionment rule to be applied 
+in situations in which apportionment would otherwise be proper, the 
+preexisting injury must have independently produced a discreet and 
+ascertainable degree of disability.  In other words, it must be shown 
+that a particular percentage of permanent disability would have 
+resulted from the prior event acting alone. 
+ 
+
+ 
+7
+646 N.W.2d 105, 110 (Iowa 2002) (internal citations omitted).3  While Floyd 
+predated the adoption of the apportionment provisions of section 85.34(7) in 2004 
+(and the amendment in 2017), we assume the legislature is familiar with the 
+existing state of the law when it enacts new legislation.  See Victoriano v. City of 
+Waterloo, ___ N.W.2d ___, ___, 2023 WL 115162, at *2 (Iowa 2023).  As noted in 
+the passage from Floyd above, the distinction between preexisting conditions and 
+preexisting disability has been made at least since the Rose decision in 1956.  Yet, 
+in adopting the apportionment provisions of section 85.34(7) in 2004 and then 
+amending them in 2017, the legislature chose to apportion only preexisting 
+disability, not preexisting conditions.  This tells us that the legislature intended to 
+ 
+3 This distinction is also recognized by Larson’s Workers’ Compensation Law, a 
+respected treatise in this area of the law.  See Bluml v. Dee Jay’s Inc., 920 N.W.2d 
+82, 92 (Iowa 2018) (Waterman, J., dissenting) (recognizing Larson’s as a 
+“respected treatise”).  Larson’s notes that, when considering apportionment 
+statutes: 
+[I]t is important to distinguish such prior disability (which means the 
+kind of definite loss of a member, or permanent impairment of the 
+body, that would be recognized as a disability for compensation 
+purposes if work-connected) from prior predisposing weakness or 
+disease which, although not disabling at the time of injury, is 
+precipitated by the industrial injury and contributes to its effects. 
+8 Arthur Larson et al., Larson’s Workers’ Comp. Law ch. 90, at 90-1 (2022).  The 
+treatise goes on to note: 
+Nothing is better established in compensation law than the rule that, 
+when industrial injury precipitates disability from a latent prior 
+condition, . . . the entire disability is compensable, and except in 
+states having special statutes on aggravation of disease, no attempt 
+is made to weigh the relative contribution of the accident and the 
+preexisting condition to the final disability or death.  Apportionment 
+does not apply in such cases, nor in any case in which the prior 
+condition was not a disability in the compensation sense. 
+Id. § 90.04[1], at 90-8 (footnotes omitted).  As a concluding comment on the topic, 
+the treatise notes that “[t]o be apportionable, then, an impairment must have been 
+independently producing some degree of disability before the accident, and must 
+be continuing to operate as a source of disability after the accident.”  Id. § 90.04[3], 
+at 90-10. 
+
+ 
+8
+continue the distinction between preexisting condition and preexisting disability.   
+ 
+Here, Hubbard-McKinney’s preexisting knee condition did not constitute a 
+disability, as it was asymptomatic, did not interfere with her ability to work, and had 
+not “produced a discreet and ascertainable degree of disability.”  See Floyd, 646 
+N.W.2d at 110.  Having no disability within the meaning of the workers’ 
+compensation statute, the school was not entitled to reduce Hubbard-McKinney’s 
+workers’ compensation benefits due to her preexisting, asymptomatic condition 
+when her fall at work aggravated that condition to result in a nine percent 
+impairment to her leg.  The commissioner was correct in granting benefits to 
+Hubbard-McKinney based on the full nine percent of her scheduled member 
+disability, and the district court was correct to affirm the commissioner’s ruling. 
+AFFIRMED.  
+ 

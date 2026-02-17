@@ -1,0 +1,521 @@
+Case Number: 5054541
+Case Title:  COTE V. FEDERAL-MOGUL CORP
+Doc Type:    Decision - District Court
+Source:      Cote, Alfred-5054541.Ruling on PET for Judicial Review.pdf
+========================================================================
+
+1 
+ 
+IN THE IOWA DISTRICT COURT FOR POLK COUNTY 
+ 
+ALFRED FRANCES COTÉ’, 
+ 
+Petitioner, 
+ 
+vs. 
+ 
+FEDERAL-MOGUL CORP. 
+ 
+and 
+ 
+TRAVELERS INDEMNITY COMPANY OF 
+CT. 
+ 
+Respondents. 
+ 
+ 
+Case No. CVCV057816 
+ 
+ 
+RULING ON PETITION FOR JUDICIAL REVIEW 
+ 
+This is a petition for judicial review from a final decision of the Iowa Workers’ Compensation 
+Commissioner. The Court heard this matter on December 13, 2019. Alfred Frances Coté (“Mr. Coté” or 
+“Petitioner”) appeared through attorney Nicholas G. Pothitakis. Federal-Mogul Corp. (“Federal-Mogul”) 
+and Travelers Indemnity Company of CT. (“Respondents”) appeared through attorney Julie A. Burger. 
+After considering the arguments of the parties and having reviewed the file and the applicable case law, the 
+Court now enters the following ruling. 
+INTRODUCTION 
+A. Factual Background  
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT
+
+2 
+ 
+At the time of his hearing, Alfred Cote’ was 58 years old. [Arbitration Hr’g Tr.at 8]. He is an 
+electrician by trade. [Arbitration Hr’g Tr.at 11]. He started working for Federal-Mogul in May 2010. 
+[Arbitration Hr’g Tr.at 27]. Federal-Mogul is a company that makes automotive parts and they produce 
+spark plugs at their Burlington, Iowa plant. [Arbitration Hr’g Tr.at 28-9]. They use a number of different 
+machines and chemicals in producing their spark plugs. [Arbitration Hr’g Tr.at 29]. Mr. Coté performed 
+electrical maintenance and troubleshooting for some of this machinery. [Arbitration Hr’g Tr.at 27-8]. 
+Mr. Coté typically worked weekend-overnight shifts at the plant, usually from 7 p.m. to 7 a.m. 
+[Arbitration Hr’g Tr.at 37-8]. On November 24, 2013, Mr. Coté and a technician were troubleshooting a 
+SOLO (brand) annealing oven that stopped working earlier in the day. Mr. Coté had worked on this machine 
+a few times before; however, he was less familiar with the machine this time because it was running, and it 
+normally did not run on the weekends. [Arbitration Hr’g Tr.at 38].  
+At his administrative hearing, Mr. Coté reported that he did not fully understand the operation of 
+the machine or what, if any, chemicals that it could potentially release during operation. [Arbitration Hr’g 
+Tr.at 41]. Mr. Coté explained that he attempted to find this information later in order to figure out what 
+substances he may have been exposed to at times relevant hereto. Id.  
+Per Mr. Coté’s September 19, 2016 hearing testimony, the oven operates as follows: Nickel alloy 
+parts are run through the oven on a metal conveyor belt at very slow speeds. The oven is about sixteen feet 
+long. A component of the oven is an “ammonia cracker,” which, if functioning properly, heats ammonia to 
+900 degrees Celsius.1 The superheated ammonia is piped into the oven to cause a chemical reaction with 
+the nickel alloy parts. [Arbitration Hr’g Tr.at 35]. The process is designed to remove the sulfur from the 
+nickel alloy so that the spark plug parts do not corrode. [Arbitration Hr’g Tr.at 39]. The oven is open at 
+both ends and there are natural gas fires at each opening with flues above them. [Arbitration Hr’g Tr.at 35]. 
+Mr. Coté explained the fires exist to burn off the hydrogen and hydrogen sulfide waste products generated 
+                                                          
+1 At this temperature, the ammonia “cracks” and becomes 75 percent hydrogen, 25 percent nitrogen, with 
+a small amount of ammonia residue leftover. [Arbitration Hr’g Tr.at 35]. 
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT
+
+3 
+ 
+by the annealing oven process. The nickel that Federal-Mogul uses contains sulfur in the approximate 
+amount of 20 parts per million (“ppm”) Sulphur. [Ex. 10 at 2.]  
+Mr. Coté explained his exposure event (the “Exposure Event”) as follows: He first checked that the 
+electricity was on for the ammonia cracker and for the oven, which he determined it was. [Arbitration Hr’g 
+Tr.at 44]. At the time, Cote explained that he was sitting in a low chair because the ammonia cracker “[is] 
+way down low” and that he was “maybe within a foot, foot and a half of the end of the annealing oven 
+where the parts come out where normally you’d have … that open flame.” [Arbitration Hr’g Tr.at 45]. The 
+fires on either end of the oven were not turned on at the time, so any hydrogen and hydrogen sulfide waste 
+products would have accumulated or escaped. [Arbitration Hr’g Tr.at 45]. The pipe that feeds ammonia 
+into the oven from the ammonia cracker was on Mr. Coté’s end of the oven and about six to eight inches 
+from its opening, next to which Mr. Coté’s was seated within 1-1.5 feet. [Arbitration Hr’g Tr.at 48]. The 
+technician was about sixteen feet away at the other end of the oven. [Arbitration Hr’g Tr.at 46]. 
+Mr. Coté related that the technician said he was going to start up the oven so they could figure out 
+what was wrong with it. The technician started the oven and Mr. Coté testified that “almost instantly … 
+you could hear this hiss, and I got this very warm gas that was just coming out of there very fast.” 
+[Arbitration Hr’g Tr.at 47]. Cote noted that the ammonia gas supply to the cracker was set at 20 psi instead 
+of 5 psi, which resulted in the release of more ammonia gas than usual. [Ex. 5 at 13]. Of the exposure, Mr. 
+Coté stated, “It hit me so hard, I couldn’t get up... I instantly got a really bad headache, irritated my eyes 
+and mouth. I immediately realized I was a bit confused.” [Arbitration Hr’g Tr.at 48]. Mr. Coté testified that 
+the technician “gave out a big yell… He jumped up and jumped backwards … And then he came back over 
+to [the control panel] and shut [the oven] off.” [Arbitration Hr’g Tr.at 47-8]. 
+Mr. Coté explained that the technician came over and helped him up because, in Mr. Coté’s words, 
+“it just really got me bad.” [Arbitration Hr’g Tr.at 48]. Mr. Coté related that they did not know “what the 
+heck happened” though Mr. Coté observed that “there was an ammonia odor and another bad odor …” 
+[Arbitration Hr’g Tr.at 47]. Mr. Coté “started feeling worse” and “started noticing that [his] right arm and 
+hand was shaking some.” [Arbitration Hr’g Tr.at 49-50]. He elaborated that he “felt really funny and kind 
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT
+
+4 
+ 
+of tingly on my right side, my right arm” and he “felt funny in [his] face.” [Arbitration Hr’g Tr.at 50]. When 
+Mr. Coté went to make a record of the attempt to fix the machine, he could not use the mouse because his 
+hand was “shaking so bad that my fingers kept on hitting the mouse keys back and forth… realized [he] 
+couldn't even do that… and just couldn’t function at all...” [Arbitration Hr’g Tr.at 51].  
+Mr. Coté went to the Great River Medical Center emergency room shortly thereafter. [Arbitration 
+Hr’g Tr.at 51]. “He had a myriad of symptoms including tremors in the right arm, hand and fingers. He had 
+numbness on the right side of his face, confusion, and a headache.” [Arbitration Decision at 11].  He was 
+immediately administered oxygen. [Arbitration Hr’g Tr.at 52]. Mr. Coté noted that he started feeling better 
+and that they asked him what he was exposed to. Id. At the time, the only thing Mr. Coté could think of was 
+ammonia from the ammonia cracker. Id. Mr. Coté testified that one of the doctors called the plant and asked 
+them to send over a Material Safety Data Sheet (MSDS) concerning what he might have been exposed to, 
+which they failed to do. [Arbitration Hr’g Tr.at 52]. Mr. Coté related that the hospital pulled up an MSDS 
+for anhydrous ammonia and diagnosed Mr. Coté with a transient ischemic attack (TIA), or a temporary clot 
+or blockage to the brain. [Arbitration Hr’g Tr.at 54]. Mr. Coté was released from the hospital and instructed 
+to see the company doctor in the morning. [Arbitration Hr’g Tr.at 53].  
+The following morning, Mr. Coté saw Dr. Rachel Oliverio. Id. On his occupational medicine clinic 
+intake form, Cote described his current symptoms as “tremors in right arm, hand, and fingers, headache, 
+right face numbness.” [Ex. 1 at 1]. Dr. Oliverio diagnosed Cote with (1) toxic effects from gases and (2) a 
+transient ischemic attack. Id. at 4. Dr. Oliverio noted that Cote could return to regular duty, but instructed 
+him to follow up with a neurologist for further evaluation. [Arbitration Hr’g Tr.at 55].  
+On December 5, 2013, Mr. Coté saw neurologist Dr. Anil Dhuna. Mr. Coté reported having 
+occasional shakiness of the right side and right eye droopiness to Dr. Dhuna. [Ex. 2 at 1]. In his “Assessment 
+and Plan”, Dr. Dhuna noted that: 
+[Mr. Coté] had exposure at work to superheated anhydrous ammonia. Shortly after 
+exposure [Mr. Coté] had burning in his eyes, shortness of breath and then right-sided 
+weakness and incoordination. His symptoms have greatly improved but he still has some 
+trouble with right hand tremor and right eye ptosis. My suspicion is that the stress of the 
+chemical exposure may have precipitated a mild stroke. [Mr. Coté] has significant risk 
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT
+
+5 
+ 
+factors for stroke with obesity and hypertension. … I am arranging for an MRI scan of the 
+brain and carotid ultrasound. … [Mr. Coté] is to continue working full-time without 
+restrictions.  
+[Ex. 2 at 4]. Cote had a follow-up appointment with Dr. Dhuna on January 9, 2014. Id. at 5. Mr. Coté’s 
+MRI And EEG exam results were found to be within normal ranges. Id. at 7. At this point, Dr. Dhuna 
+indicated Mr. Coté’s symptoms were “more suggestive of a central tremor and may be exacerbated by his 
+exposure to anhydrous ammonia, but I cannot rule out a clinical small vascular event. This could be a mild 
+underlying essential tremor exacerbated by stress.” Id.  
+Dr. Dhuna referred Cote to a stroke specialist, Dr. Harold Adams. [Arbitration Hr’g Tr.at 60]. On 
+April 16, 2014, Cote saw Dr. Adams at the University of Iowa stroke clinic. [Ex. 5 at 1]. Dr. Adams 
+examined Cote and noted that “[Cote] does have a tremor which is absent at rest but increases dramatically 
+with action and terminally.” [Ex. 5 at 3]. Dr. Adams looked at the imaging studies Cote brought and thought 
+it was unlikely that Cote had a stroke. Id. Dr. Adams’ “working hypothesis” was that Cote had a Parkinson 
+syndrome. Id. Dr. Adams’ basis for the diagnosis of parkinsonism included Mr. Coté’s tremor, rigidity, and 
+bradykinesia. Id. As to the possibility of a relationship between his findings and  ammonia exposure, Dr. 
+Adams opined that “it is unclear if a couple episodes of environmental ammonia exposure can cause these 
+types of neurologic impairments.” Id. Dr. Adams ordered imaging studies of Mr. Coté’s brain, including a 
+SPECT scan, to explore whether his initial diagnosis was correct. Id. The imaging study impression 
+indicated “[f]indings of bilaterally decreased putaminal uptake … is suspicious for early Parkinsonian 
+syndrome.” [Ex. 5 at 5].  
+On June 4, 2014, Cote saw Dr. Dhuna for a follow-up appointment. [Ex. 2 at 8]. Dr. Dhuna 
+recognized that Cote had a SPECT scan done at the University of Iowa and that the impression was Cote 
+had a tremor consistent with Parkinson’s disease. Id. Dr. Dhuna observed that Cote “initially had right hand 
+tremor which has improved now and he has more head titubation.” [Ex. 2 at 10]. Dr. Dhuna still concluded 
+that he thought Cote most likely had essential tremor. Id.  
+At a July 1, 2014 follow-up appointment, Dr. Adams again examined Cote. [Ex. 5 at 7]. He noted 
+that:  
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT
+
+6 
+ 
+Cote continues to have tremors and some other evidence of raised the [sic] concern of 
+Parkinsonian syndrome. This is not Parkinson’s disease. He does not have postural 
+instability. His movements are generally quite good. His findings are primarily rigidity 
+with some element of cogwheeling in the right upper extremity. The cause for his 
+Parkinsonian syndrome has not been established. His symptoms began after possible toxic 
+substances in an incident at work. ... The nature of the toxic substances has not been 
+established. Initially, there was a concern about ammonia. I cannot find evidence of 
+ammonia playing a role in the development of parkinsonian syndrome but there are a 
+number of other substances including heavy metals that may produce neurologic 
+symptoms. I am unsure how we can move forward to establish a cause and effect 
+relationship. 
+ Id. at 9. In a letter to Dr. Janette Glass, Mr. Coté’s primary care provider, Dr. Adams reported that: 
+My diagnosis remains a parkinsonian syndrome. The cause of his parkinsonian syndrome 
+has not been established with certainty. There are cases of parkinsonism that have been 
+associated with exposure to toxic substances. In most circumstances, this has been a 
+chronic exposure. I am unsure on how to determine a cause-and-effect relationship in this 
+incident in part because I do not know the possible substances and their concentrations that 
+may have caused his symptoms. Still, his symptoms appeared shortly after his reported 
+exposure. 
+[Ex. 5 at 11].  
+On September 24, 2014, at the request of Travelers Insurance, Cote saw Dr. Frederic Gerr at the 
+University of Iowa Hospitals and Clinics. Dr. Gerr performed an independent medical examination of Cote 
+to address the issue of causation, among other things. [Ex. 5 at 12]. As to diagnosis, Dr. Gerr opined that 
+Cote likely has a parkinsonian syndrome. Id. at 17. Dr. Gerr explained Mr. Coté’s imaging study and Mr. 
+Coté’s treating neurologists supported this diagnosis. Id. Dr. Gerr further opined that “to a reasonable 
+degree of medical certainty, the exposure to the ammonia substances and other contents of the vented gas 
+were not a cause of [Mr. Coté’s] current condition.” Id. Dr. Gerr acknowledged that “the reported tight 
+temporal relationship between the onset of Mr. Coté’s tremor and his exposure to gasses vented from 
+annealing oven on November 24, 2013, are suggestive of a causal relationship ...” Id. But, he determined: 
+[T]here is no biomedical evidence that such an exposure is capable of causing his condition. 
+… There are no case reports nor any descriptions of rapid-onset, persistent Parkinsonism 
+following acute exposure to any anhydrous ammonia (or nickel, copper, or zinc) in the 
+biomedical literature. Furthermore, there is no epidemiological evidence that such 
+exposures are capable of causing nearly instantaneous onset Parkinsonian illness (not 
+Parkinsonian illness of less raid [sic] onset). In addition, the rapidity of onset of the 
+condition … makes a toxicological cause resulting from the annealing oven exposure 
+virtually impossible.  
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT
+
+7 
+ 
+[Ex. 5 at 17].  
+Cote sought out a tremor specialist for further evaluation and treatment. [Arbitration Hr’g Tr.at 77]. 
+On April 29, 2015 he saw Dr. Richard Dubinsky of the University of Kansas, Department of Neurology. 
+[Ex. 9 at 1]. Cote represented to Dr. Dubinsky that he had an occupational exposure to hydrogen sulfide 
+gas. Id. Dr. Dubinsky explained from the outset that he would not address questions of causation. Id. Dr. 
+Dubinsky performed a physical and neurological examination of Cote and observed a tremor in Mr. Coté’s 
+“hand both at rest and with action” but no evidence of “cog wheeling.” Id. at 2. Ultimately, Dr. Dubinsky 
+opined that “[t]here is no clinical evidence of parkinsonism or Parkinson’s disease and with a normal sense 
+of smell I am not concerned about incipient PD at this time. Id. at 3. Dr. Dubinsky diagnosed Cote with 
+essential tremor. Id.  
+On September 10, 2015. Dr. Dhuna saw Cote again. Cote reported to Dr. Dhuna that the gas(es) he 
+was exposed to included hydrogen sulfide. In his Assessment and Plan notes, Dr. Dhuna explained:  
+[T]here have also been cases with acute exposure of hydrogen sulfide exceeding 280 
+mg/m3 causing long-term neurological effects with tremors, reduced motion function, 
+ataxia and cognitive deficits. It would be possible that if [Cote] had been exposed to 
+hydrogen sulfide at these dosages, that his present neurological symptoms could be related 
+to his industrial exposure. There is no other etiology for his tremors determined at this 
+point. His neurological symptoms have occured after his acute exposure and have 
+remained. 
+[Ex. 2 at 13].  
+With the focus changing from ammonia exposure to hydrogen sulfide exposure, Cote and Federal-
+Mogul each attempted to test for hydrogen sulfide around the annealing oven. Cote noted that sometime in 
+the latter half of 2015, the night supervisor asked him to test for dangerous levels of gases in the plant. 
+[Arbitration Hr’g Tr.at 83]. Cote testified that, when he was about six or seven feet away from the opening 
+of the oven, the testing equipment detected hydrogen sulfide, “[b]ut the level wasn't much higher than 
+whatever that safe level was.” [Arbitration Hr’g Tr.at 85, 87]. At the time that Cote was getting his reading, 
+the fire on the side of the oven was out, unlike when Cote was working on the oven on November 24, 2013. 
+[Arbitration Hr’g Tr.at 85]. On March 14, 2016, the Environmental Engineer at Federal-Mogul's Burlington 
+plant, Gary McCauley, sampled the air directly around the annealing oven for hydrogen sulfide. [Ex. 10 at 
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT
+
+8 
+ 
+2]. When the oven was up to temperature and full, McCauley reported that no measurable amount of 
+hydrogen sulfide was exiting the oven. Id. However, the oven was in working order when the test was done, 
+and the natural glass flames were both on, unlike when Cote was working on the oven on November 24, 
+2013. [Arbitration Hr’g Tr.at 90].  
+Through counsel, Cote sought out Dr. Harry Elston, a chemist and certified industrial hygienist at 
+Midwest Chemical Safety, to give his opinion on whether the annealing oven could generate 280 mg/m3 of 
+hydrogen sulfide, an exposure level Dr. Dhuna opined could cause long term neurological effects. [Ex. 8]. 
+Based on the assumption that the nickel wire processed in the annealing oven contained about 20 ppm of 
+Sulphur, Dr. Elston explained that the hydrogen annealing of 28 pounds of wire could produce the exposure 
+level Dr. Dhuna cited. Id. Dr. Elston ultimately opined, based on an assumption of the approximate 
+dimensions of Mr. Coté’s working environment, that one could reasonably conclude that Cote more-likely-
+than not had an acute exposure to hydrogen sulfide from the annealing oven. Id.  
+Cote also sought a medical causation opinion from Dr. Dhuna. In a letter dated February 26, 2016, 
+Dr. Dhuna concluded that Mr. Coté’s work-place exposure was more-likely-than-not a “substantial 
+contributing factor” to his essential tremors. [Ex. 6]. Dr. Dhuna explained his opinion was based on the 
+history presented to him, which included that (1) Cote experienced a high-level exposure to hydrogen 
+sulfide and (2) that the tremors came on suddenly after exposure. Id. Dr. Dhuna also based his conclusion 
+on his previous determination that an acute exposure to high-levels of hydrogen sulfide can cause essential 
+tremors. Id.  
+On June 15, 2016, Travelers Insurance sought a subsequent medical causation opinion from Dr. 
+Gerr, updating the materials they provided him to reflect Mr. Coté’s contention that he was also exposed to 
+hydrogen sulfide and that this exposure explained his present condition. Dr. Gerr's ultimate conclusion was 
+that “there is no biological or medical basis to conclude that [Mr. Coté’s] occupational exposure to either 
+ammonia gas or hydrogen sulfide gas caused, contributed to, or aggravated his current neurological illness.” 
+[Ex. 7 at 2]. Dr. Gerr explained the rationale for his opinion as follows. First, Dr. Gerr found there was “no 
+credible evidence that Mr. Cote was exposed to clinically or biologically relevant levels of hydrogen sulfide 
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT
+
+9 
+ 
+gas allegedly emitted by the annealing oven ....” Dr. Gerr’s bases for this opinion were: (1) McCauley's 
+report concerning the amount of hydrogen sulfide found to be leaving the oven when in operation, (2) the 
+fact that [Mr. Coté’s] report of a rotten-egg smell was not made until eighteen months after the exposure 
+event, and (3) that the literature demonstrates that individuals who experienced permanent neurological 
+impairment from hydrogen sulfide exposure had concomitant severe and immediate lung injury, none of 
+which Petitioner reported. Second, Dr. Gerr found that, based on his survey of the medical literature,  
+[t]here is no known association between exposure to hydrogen sulfide and essential 
+tremor nor between hydrogen sulfide and Parkinsonian syndrome or Parkinson's disease ... 
+[E]xposure to high levels of hydrogen sulfide are associated with potentially permanent 
+neurological impairment. However, such impairment does not manifest as essential tremor 
+nor as parkinsonian illness. 
+[Ex. 7 at 3].  
+Prior to Mr. Coté’s exposure event on November 24, 2013, he had numerous health problems 
+related to contracting West Nile virus in 2002. [Arbitration Hr’g Tr.at 13]. Mr. Coté noted it is a chronic 
+condition and left him with a compromised immune system. [Arbitration Hr’g Tr.at 14]. Mr. Coté 
+experienced a number of symptoms following and/or in connection with West Nile virus including 
+headaches, hearing changes, balance problems, left-sided numbness, dizziness, nerve neuropathy, and 
+dysphagia. Mr. Coté saw a number of doctors in connection with these symptoms. The record also shows 
+Mr. Coté has a lengthy medical history of attempting to deal with these issues. Nevertheless, Mr. Coté 
+testified – and the record reflects – that he did not have any type of tremor or shaking of his arms or head 
+on the right side of his body prior to November 24, 2013. [Arbitration Hr’g Tr.at 16].  
+B. Procedural History 
+ 
+On September 22, 2015, Mr. Coté filed his petition for workers’ compensation benefits. In part, 
+Mr. Coté alleged that he suffered a permanent disability arising from the exposure event from the annealing 
+oven on November 24, 2013. Iowa Workers’ Compensation Deputy Commissioner Michelle McGovern 
+(the “Deputy Commissioner”) held a hearing on this matter on September 19, 2016, and issued an arbitration 
+decision on September 12, 2017. Per the hearing report, the parties stipulated that there was an exposure 
+event, but disputed whether the alleged injury was a cause of temporary and/or permanent disability. If the 
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT
+
+10 
+ 
+alleged injury was found to be a cause of permanent disability, the parties stipulated that it would be an 
+industrial disability.  
+After considering the facts detailed above, the Deputy Commissioner ultimately found that Mr. 
+Coté sustained a work-place injury entitling him to medical expenses, but that Mr. Coté failed to establish 
+that the exposure event caused him to sustain permanent disability. As an initial matter, the Deputy 
+Commissioner laid out the causation standard that claimants must establish as a matter of law. She then 
+proceeded to her causation analysis, which states in relevant part:  
+This is an interesting but puzzling case. [Mr. Coté] consulted with a myriad of specialists 
+from several University Medical Centers. He conferred with all types of neurologists, 
+neuro-radiologists, and he underwent countless diagnostic tests. Nevertheless, physicians 
+cannot agree upon a concrete diagnosis for [Mr. Coté]. Currently, it appears [Mr. Coté] 
+suffers from essential tremor. The tremor did develop after the SOLO annealing oven 
+malfunctioned on November 23, 2013. It is unknown whether [Mr. Coté] was exposed to 
+anhydrous ammonia, hydrogen sulfide, both or neither. There is no doubt there was an 
+exposure to something in the air but no sampling was done at the time. There is no empirical 
+data to support an over-exposure to anything. No one knows the length of time [Mr. Coté] 
+spent sitting on a chair next to the annealing oven. As a consequence, there is no data to 
+establish the amount of time [Mr. Coté] was exposed. 
+ 
+The exposure adversely impacted [Mr. Coté] immediately. He was unable to manipulate 
+the mouse of his computer because of tremors in his right hand. [Mr. Coté] sought 
+emergency medical care at the Great Medical Center. From the onset of his medical 
+treatment, [Mr. Coté] complained of right arm, hand and finger tremors. He had other 
+symptoms as well. He was confused, he developed a hoarse voice, both eyes were burning, 
+the right side of his face became numb, he had sustained some toxic effects immediately 
+following the exposure. In short, [Mr. Coté] sustained an injury that arose out of an in the 
+course of his employment.  
+ 
+However, the salient issue is the medical cause for the right hand, and right arm tremors. 
+The other symptoms dissipated with time.  
+ 
+[Arbitration Decision p. 24. ] 
+The Deputy Commissioner went on to identify deficiencies with Dr. Elston’s opinion, 
+noting that he could not state that Mr. Coté “was over exposed to hydrogen sulfide on the day in 
+question” and that he “did not conduct any sampling in the [] plant … or even tour the facility.” Id. 
+She also found McCauley’s sampling data for hydrogen sulfide to be irrelevant because “they do 
+not affect what did or did not occur on November 24, 2013.” Id. at 25.  
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT
+
+11 
+ 
+The Deputy Commissioner also referenced that “most of the medical professionals ignored 
+the issue of medical causation with respect to the diagnoses they offered [Mr. Coté].” She 
+explained: 
+Dr. Oliverio opined [Mr. Coté] had a [TIA] but [Mr. Coté] was returned to work without 
+any restrictions. Dr. Adams questioned whether ammonia exposure in the workplace could 
+cause neurologic impairments such as a Parkinson syndrome. Dr. Dubansky [sic] refused 
+to discuss whether hydrogen sulfide could cause essential tremor. No medical provider 
+produced any literature or scientific studies to establish hydrogen sulfide was a cause for 
+essential tremor. Many of [Mr. Coté’s] symptoms were the same as the ones he express 
+after he developed West Nile Virus.  
+[Arbitration Decision at 25].  
+With respect to medical experts who offered opinions on causation, the Deputy 
+Commissioner highlighted Dr. Gerr’s emphatic opinion that a causal relationship between Mr. 
+Coté’s condition and exposure to hydrogen sulfide did not exist. And she noted that while Dr. 
+Dhuna found a causal connection based on the history reported to him, she did not give it any 
+weight because the opinion was “not based upon accurate facts” since “[Mr. Coté] reported he was 
+exposed to hydrogen sulfide when there was no empirical data to support [his] contention.” Id. The 
+Deputy Commissioner’s ultimate conclusion on the issue of whether Mr. Coté sustained a 
+permanent injury was that Mr. Coté “failed to prove by a preponderance of the evidence that his 
+condition of essential tremor is causally connected to any exposure he sustained on November 24, 
+2013.” [Arbitration Decision at 25].  
+ 
+Of note, within the ‘Findings of Fact’ section of the Deputy Commissioner’s Arbitration Decision, 
+she included the Mayo Clinic’s definition of essential tremor, their explanation of its symptoms and signs, 
+a comparison between essential tremor and Parkinson’s disease, and causes of essential tremor. [Arbitration 
+Decision at 16-7]. Neither party submitted the Mayo Clinic’s overview of essential tremor into evidence or 
+offered it as an exhibit. Apparently, the Deputy Commissioner incorporated her own research into her 
+findings. It is unclear the extent to which the Deputy Commissioner relied on this information in reaching 
+her decision.  
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT
+
+12 
+ 
+Upon a de novo review, the Workers’ Compensation Commissioner (the “Commissioner”) reached 
+the same conclusions as the Deputy Commissioner and adopted her findings of fact and conclusions of law 
+as the agency’s final decision. 
+ 
+On appeal, Mr. Coté contends that the Commissioner erred in finding that his work injury did not 
+cause him to sustain a permanent disability. Mr. Coté asks the Court to reverse the Commissioner’s decision 
+and find that he sustained a permanent injury arising out and in the course of his employment or remand 
+the matter for rehearing before the Commissioner to correct any errors made.  
+ 
+STANDARD OF REVIEW 
+ 
+Chapter 17A of the Iowa Code governs judicial review of administrative agency action. The district 
+court acts in an appellate capacity to correct errors of law by the agency. Meyer v. IBP, Inc., 710 N.W.2d 
+213, 219 (Iowa 2006). The Court “may grant relief if the agency action has prejudiced the substantial rights 
+of the petitioner, and the agency action meets one of the enumerated criteria contained in section 17A.19 
+(10) (a) through (n).” Burton v. Hilltop Care Cntr., 813 N.W.2d 250, 256 (Iowa 2012) (quoting Evercom 
+Sys., Inc. v. Iowa Utilities Bd., 805 N.W.2d 758, 762 (Iowa 2011)).  
+Where an agency has been “clearly vested” with fact-finding authority, the appropriate “standard 
+of review [on appeal] depends on the aspect of the agency’s decision that form the basis of the petition for 
+judicial review.”. Burton, 813 N.W.2d at 256. The standard of review varies depending on whether the 
+alleged error involves an issue of (1) findings of fact, (2) interpretation of law, or (3) an application of the 
+law to facts. 
+The Court must also grant appropriate relief from agency action if such action was “[b]ased upon 
+an erroneous interpretation of a provision of law whose interpretation has not clearly been vested by a 
+provision of law in the discretion of the agency.” Iowa Code § 17A.19(10)(c). With respect to such 
+provisions of law, the Court is not required to defer to the agency’s interpretation. Iowa Code § 
+17A.19(11)(b). Additionally, the Court must grant relief from agency action that is “[b]ased upon an 
+irrational, illogical, or wholly unjustifiable interpretation of a provision of law,” based upon a 
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT
+
+13 
+ 
+misapplication of law to the facts, or “[o]therwise unreasonable, arbitrary, capricious, or an abuse of 
+discretion.” Iowa Code § 17A.19(1)(l–n). 
+If “the claim of error lies with the ultimate conclusion reached, then the challenge is to the agency’s 
+application of the law to the facts, and the question on review is whether the agency abused its discretion 
+by, for example, employing wholly irrational reasoning or ignoring important and relevant evidence.” 
+Meyer, 710 N.W.2d at 219. In other words, the Court will only reverse the Commissioner’s application of 
+law to the facts if “it is ‘irrational, illogical, or wholly unjustifiable.’” Neal, 814 N.W.2d at 518 (quoting 
+Lakeside Casino v. Blue, 743 N.W.2d 169, 173 (Iowa 2007); see also Burton, 813 N.W.2d at 256 (“When 
+application of law to fact has been clearly vested in the discretion of an agency, a reviewing court may only 
+disturb the agency’s application of the law to the facts of a particular case if that application is ‘irrational, 
+illogical, or wholly unjustifiable.’”). 
+If the alleged error is one of fact, the standard of review is whether the findings are supported by 
+substantial evidence. Harris, 778 N.W.2d at 196; Schutjer v. Algona Manor Care Ctr., 780 N.W.2d 549, 
+557 (Iowa 2010). “[A] reviewing court can only disturb those factual findings if they are ‘not supported by 
+substantial evidence in the record before the court when that record is reviewed as a whole.’” Burton, 813 
+N.W.2d at 256 (quoting Iowa Code § 17A.19(10)(f)). The Court “is limited to the findings that were actually 
+made by the agency and not other findings the agency could have made.” Id. "The commissioner, not the 
+court, weighs the evidence." Ward v. Iowa Dep't of Transp., 304 N.W.2d 236, 237 (Iowa 1981). “[C]ourts 
+must not simply rubber stamp the agency fact finding without engaging in a fairly intensive review of the 
+record to ensure that the fact finding is itself reasonable.” Wal-Mart Stores, Inc. v. Caselman, 657 N.W.2d 
+493, 499 (Iowa 2003) (internal quotations and citation omitted). 
+“Evidence is substantial if a reasonable person would find the evidence adequate to reach the same 
+conclusion.” Grundmeyer v. Weyerhaeuser Co., 649 N.W.2d 744, 748 (Iowa 2002) (citing Ehteshamfar v. 
+UTA Engineered Sys. Div., 555 N.W.2d 450, 452 (Iowa 1996)).  
+Here, Petitioner attempts to frame the issue in a way to get a less deferential standard of review. 
+Petitioner argues that the agency applied the incorrect burden of proof. However, the substance of 
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT
+
+14 
+ 
+Petitioner’s argument is that the Deputy Commissioner erred by according Dr. Gerr’s expert opinion(s) 
+more weight than the opinions of Petitioner’s experts. This is a challenge to the agency’s findings of fact, 
+which will not be disturbed as long as they are supported by substantial evidence in the record. 
+ANALYSIS 
+Petitioner argues that the Deputy Commissioner made two errors. Each is addressed in turn.  
+A. Incorrect burden of proof regarding causation: 
+As stated earlier, regardless of how Petitioner phrased the issue, the substance of his argument is 
+that the Deputy Commissioner erred in according Dr. Gerr’s expert opinion(s) more weight than the 
+opinions of Petitioner’s experts. The Deputy Commissioner cites the appropriate burden of proof.  
+Iowa Code section 85.3 creates a workers’ compensation claim and entails four basic elements. 
+Meyer v. IBP, Inc., 710 N.W.2d 213, 220 (Iowa 2006). First, “the claimant suffered a personal injury.” Id. 
+(quotations omitted). Second, an employer-employee relationship existed between the claimant and the 
+respondent. Id. Third, “the injury arose out of the employment.” Id. Fourth, “the injury arose in the course 
+of the employment.” Id.  
+The Iowa Supreme Court has recognized an additional requirement in workers’ compensation 
+claims that is not directly implicated by Iowa Code section 85.3—a disability that is the subject of the 
+workers’ compensation claim must have been proximately caused by the injury that arose out of and in the 
+course of employment. Id. n.2 (citing Freeman v. Luppes Transp. Co., 227 N.W.2d 143, 148 (Iowa 1975)). 
+“A cause is proximate if it is a substantial factor in bringing about the result.” Blacksmith v. All-Am., Inc., 
+290 N.W.2d 348, 354 (Iowa 1980) (citation omitted). “It only needs to be one cause; it does not have to be 
+the only cause.” Id. (citation omitted). “Ordinarily, expert testimony is necessary to establish the causal 
+connection between the injury and the disability for which benefits are claimed.” Schutjer v. Algona Manor 
+Care Ctr., 780 N.W.2d 549, 560 (Iowa 2010) (citation omitted). “The commissioner must consider the 
+expert testimony together with all other evidence introduced bearing on the causal connection between the 
+injury and the disability.” Sherman v. Pella Corp., 576 N.W.2d 312, 321 (Iowa 1998) (citation omitted).  
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT
+
+15 
+ 
+The claimant bears the burden to prove all of the elements of his workers’ compensation claim by 
+a preponderance of the evidence, including that his work injury proximately caused the disability for which 
+he seeks compensation. Id. “A preponderance of the evidence exists when the causal connection is probable 
+rather than merely possible.” Id. A preponderance  
+means superiority in weight, influence, or force. The evidence may preponderate, 
+and yet leave the mind in doubt as to the very truth. In such cases the evidence does not 
+fairly set the question at rest, but merely preponderates in favor of that side whereon the 
+doubts have less weight.  
+Walthart v. Bd. of Directors of Edgewood-Colesburg Cmty. Sch. Dist., 694 N.W.2d 740, 744 (Iowa 2005) 
+(citation omitted). 
+As the trier of fact, the Commissioner weighs the evidence and assesses the credibility of the witnesses. 
+The experts in this case leave many questions unanswered. However, it was the Petitioner’s burden to prove 
+all of the elements of his claim. Petitioner was inconsistent in his descriptions of what he was exposed to, 
+including his comments to Dr. Dhuna, whose causation opinion Petitioner ultimately relies on. Petitioner 
+speculated what he was exposed to and recounted the Exposure Event accordingly throughout his medical 
+records. The Deputy Commissioner took issue with this inconsistency and found that Petitioner’s causation 
+experts did not have accurate facts when rendering their opinions. For this reason, the Deputy 
+Commissioner did not find Petitioner’s experts reliable and instead focused on Dr. Gerr’s causation opinion, 
+which the Deputy Commissioner found credible and reliable. Whether or not this Court agrees with the 
+Agency’s conclusion in this case, there is substantial evidence in the record to support the Deputy 
+Commissioner’s finding that Petitioner failed to prove medical causation.  
+B. Whether the Deputy Commissioner erred in relying on her personal investigation of medical 
+authorities 
+Petitioner takes issue with the Deputy Commissioner’s personal investigation of Essential Tremor. 
+In her “FINDINGS OF FACT” section, the Deputy Commissioner includes the definition and overview of 
+Essential Tremor from the Mayo Clinic’s website. [Arbitration Decision at 15-17]. Respondent correctly 
+points out that Petitioner does not cite to any authority that the Deputy Commissioner’s incorporation of 
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT
+
+16 
+ 
+her personal research into her findings of fact violates any rule. [Res’p’s Brief 19]. This Court suspects that 
+the Deputy Commissioner found herself in a position much like this court – wanting more information. It 
+was Petitioner’s burden to prove his claim at the agency level just as it is the Petitioner’s burden to prove 
+the merits of this appeal. Petitioner fell short in both instances. Regardless, the Deputy Commissioner does 
+not refer to any of her research in her reasoning or conclusions of law. To the extent that she erred in her 
+investigation, Petitioner failed to show that it resulted in any prejudice to the Petitioner.  
+CONCLUSION 
+IT IS THEREFORE ORDERED the Deputy Commissioner’s Order, affirmed by the 
+Commissioner, is hereby AFFIRMED.  Costs of the appeal are taxed to Petitioner. 
+ 
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT
+
+State of Iowa Courts
+Type:
+OTHER ORDER
+Case Number
+Case Title
+CVCV057816
+ALFRED FRANCES COTE VS FEDERAL MOGUL ET AL
+So Ordered
+Electronically signed on 2020-03-31 10:54:47     page 17 of 17
+E-FILED  2020 MAR 31 10:54 AM POLK - CLERK OF DISTRICT COURT

@@ -1,0 +1,1079 @@
+Case Number: 21012392.01
+Case Title:  TREMAINE, JAMES V. ARCONIC CORP.
+Doc Type:    Decision - Deputy
+Source:      Tremaine James-21012392.01d.PDF
+========================================================================
+
+BEFORE THE IOWA WORKERS’ COMPENSATION COMMISSIONER 
+______________________________________________________________________ 
+ 
+ 
+  : 
+JAMES TREMAINE, 
+  : 
+ 
+ 
+  : 
+ 
+Claimant, 
+  : 
+ 
+   File No. 21012392.01 
+ 
+ 
+  : 
+vs. 
+ 
+  : 
+ 
+ 
+  :                  
+ARCONIC CORP., 
+  : 
+ 
+ARBITRATION DECISION 
+ 
+ 
+  :                            
+ 
+Employer, 
+  : 
+ 
+ 
+  :                         
+and 
+ 
+  : 
+ 
+ 
+  : 
+AIU INSURANCE CO., 
+  : 
+ 
+ 
+  : 
+         Head Notes: 1108; 1800; 1803 
+ 
+Insurance Carrier, 
+  : 
+ 
+Defendants. 
+  : 
+______________________________________________________________________ 
+ 
+STATEMENT OF THE CASE 
+ 
+ 
+The claimant, James Tremaine, filed a petition for arbitration seeking workers’ 
+compensation benefits from Arconic, Inc. (“Arconic”) and its insurer, AIU Insurance Co. 
+(National Union Fire of Pitts. PA). Rocco Motto appeared on behalf of the claimant. Troy 
+Howell appeared on behalf of the defendants.   
+ 
+ 
+The matter came on for hearing on February 8, 2024, before Deputy Workers’ 
+Compensation Commissioner Andrew M. Phillips. Pursuant to an order of the Iowa 
+Workers’ Compensation Commissioner, the hearing occurred electronically via Zoom.  
+The hearing proceeded without significant difficulty.  
+ 
+ 
+The record in this case consists of Joint Exhibits 1-9, Claimant’s Exhibits 1-3, and 
+Defendant’s Exhibits A-O. All of the exhibits were received into evidence without 
+objection.   
+ 
+The claimant testified on his own behalf. Heidi Krafka was appointed the official 
+reporter and custodian of the notes of the proceeding. The evidentiary record closed at 
+the conclusion of the hearing, and the matter was considered fully submitted following 
+briefing by the parties on March 27, 2024.     
+ 
+STIPULATIONS 
+ 
+ 
+Through the hearing report, as reviewed at the commencement of the hearing, 
+the parties stipulated and/or established the following: 
+ELECTRONICALLY FILED     2024-May-22  10:40:11     DIVISION OF WORKERS' COMPENSATION
+
+TREMAINE V. ARCONIC CORP. 
+Page 2 
+ 
+1. There was an employer-employee relationship at the time of the alleged 
+injury.   
+  
+2. That the claimant sustained an injury, which arose out of and in the course of 
+his employment on August 12, 2021.   
+ 
+3. That, although entitlement to temporary disability and/or healing period 
+benefits cannot be stipulated, the claimant was off work from December 7, 
+2021 to January 18, 2022.   
+ 
+4. That, if the injury is found to be a cause of permanent disability, the claimant 
+returned to work at the same or higher wages and thus pursuant to Iowa 
+Code section 85.34(2)(v), any permanent partial disability benefits would be 
+considered upon a functional basis rather than a reduction in earning 
+capacity.   
+ 
+5. That, if the injury is found to be a cause of permanent disability, the proper 
+commencement date for permanent partial disability benefits, if any are 
+awarded, is December 16, 2022. 
+ 
+6. That, at the time of the work injury, the claimant’s gross earnings were one 
+thousand four hundred seventy-nine and 74/100 dollars ($1,479.74) per 
+week, that the claimant was married and entitled to five exemptions. The 
+resulting stipulated weekly compensation rate was nine hundred sixty-four 
+and 60/100 dollars ($964.60).     
+ 
+7. That the defendants are entitled to a credit pursuant to Iowa Code section 
+85.38(2) for payment of sick pay or disability benefits in the amount of two 
+thousand five hundred seventy-eight and 97/100 dollars ($2,578.97) for short-
+term disability benefits paid from December 7, 2021 to January 18, 2022. 
+ 
+8. That the costs listed in Claimant’s Exhibits 2 and 3 were paid.   
+ 
+ 
+The defendants waived their affirmative defenses.     
+ 
+ 
+The parties are now bound by their stipulations. 
+ 
+ISSUES 
+ 
+The parties submitted the following issues for determination: 
+ 
+1. Whether the alleged injury is a cause of temporary disability during a period of 
+recovery. 
+  
+2. Whether the alleged injury is a cause of permanent disability. 
+ 
+
+TREMAINE V. ARCONIC CORP. 
+Page 3 
+ 
+3. Whether the claimant is entitled to temporary disability and/or healing period 
+benefits from December 7, 2021 to January 18, 2022.   
+ 
+4. The extent of permanent partial disability benefits, should any be awarded. 
+ 
+5. Whether the claimant is entitled to reimbursement for an independent medical 
+evaluation (“IME”) pursuant to Iowa Code section 85.39.   
+  
+6. Whether the claimant is entitled to a specific taxation of costs, and the 
+amount of those costs.  
+ 
+The defendants note in several spots in the hearing report that it is their contention that:  
+ 
+Claimant temporarily injured his left hip and left groin on August 12, 2021 
+but affirmatively state: 1) that such injuries were only temporarily 
+exacerbated and subsequently returned to their pre-August 12, 2021 
+baseline; 2) that such injuries did not cause Claimant’s left hip replacement 
+and/or December 7, 2021 left hip replacement surgery; and 3) that such 
+injuries did not cause any permanent impairment or permanent disability.   
+ 
+See Hearing Report, pg. 1.   
+ 
+FINDINGS OF FACT 
+ 
+The undersigned, having considered all of the evidence and testimony in the 
+record, finds: 
+ 
+James Tremaine, the claimant, was 42 years old at the time of the hearing. 
+(Hearing Transcript, p. 10) He graduated from high school. (Id.) Subsequent to his 
+graduation from high school, he joined the United States Marine Corps. (Hr. Tr., p. 11) 
+He served in the Marine Corps until 2002, at which time he was medically retired due to 
+suffering a face injury and subsequent migraines. (Id.) This incident impaired his long-
+term memory. (Hr. Tr., pp. 12-13) His accident also resulted in the implantation of two 
+plates, one in his cheek and one under his right eye. (Id.) The Veterans’ Administration 
+(“VA”) determined that the claimant suffered a 60 percent disability due to his facial 
+and/or head injuries. (Hr. Tr., p. 11) At the time of the hearing, Mr. Tremaine continued 
+to take medications for his migraines. (Hr. Tr., p. 13) He continued to see a neurologist 
+every three months for treatment. (Hr. Tr., pp. 13-14) 
+  
+Mr. Tremaine earned two bachelor's degrees from Kaplan University in 2010. (Hr. 
+Tr., p. 10) His degrees are in business management and professional studies. (Id.)   
+ 
+The claimant began working for Arconic in 2014. (Hr. Tr., p. 15) For the last eight 
+years, he has been a union steward. (Hr. Tr., p. 16) Since joining Arconic, he worked as 
+an NC operator and a thermal equipment operator. (Hr. Tr., p. 15) Since 2017, he 
+
+TREMAINE V. ARCONIC CORP. 
+Page 4 
+ 
+worked as a complex operator. (Id.) As a complex operator, he lifted 50 pounds, 
+climbed in and out of a truck, and climbed on tabletop molds. (Id.) 
+  
+The claimant previously suffered a back injury while working for Arconic in 2014 
+or 2015. (Hr. Tr., p. 14) Since that time, he has had three back surgeries. (Id.) Mr. 
+Tremaine could not recollect any injuries to his left hip during his employment at 
+Arconic. (Hr. Tr., pp. 16-18) He previously treated for left hip issues, but could not recall 
+this due to his long-term memory issues. (Id.) 
+ 
+For example, in 2015, he had abdominal x-rays taken, which showed a 
+prominent femoral neck that may have caused bilateral femoral acetabular 
+impingement. (Joint Exhibit 1, pp. 1-2) In October of 2016, he wanted to lose weight due 
+to pain in his knees, hips, back and feet. (JE 1, p. 3) An MRI was ordered in August of 
+2017 due to Mr. Tremaine’s complaints of low back pain that extended into both of his 
+hips and his left knee. (JE 1, p. 5) The MRI showed the results of a previous spinal 
+surgery and mild disc bulging at several levels. (JE 1, p. 7)   
+ 
+In January of 2018, Mr. Tremaine called a doctor’s office complaining of low back 
+and left hip pain. (JE 2, p. 4) He opined that it felt as though his left hip shifted to the 
+side. (Id.) He denied trauma to the hip. (Id.) X-rays performed in February of 2018 
+showed bilateral osteophyte formation at the lateral femoral head neck junctions with 
+some mild narrowing. (JE 2, p. 17) He was diagnosed with low back pain and told to see 
+an orthopedic physician for further evaluation. (JE 2, p. 19)  
+  
+On December 28, 2018, Mr. Tremaine visited Matthew Christophersen, M.D., at 
+Davenport Surgical Group. (JE 1, pp. 8-11) Mr. Tremaine complained of left groin pain 
+that extended back over several years. (JE 1, p. 8) He also experienced occasional pain 
+on the right. (Id.) Lifting heavy weight and physical activity aggravated his issues. (Id.) 
+He was diagnosed with an inguinal hernia and scheduled for a laparoscopic repair. (JE 
+1, p. 11)  
+ 
+Mr. Tremaine visited with Peter Merrell, PA-C, at ORA Orthopedics on August 6, 
+2019. (JE 4, pp. 27-28) He complained of left anterior hip pain dating back about six 
+weeks. (JE 4, p. 27) There was no traumatic onset of the pain. (Id.) Upon examination, 
+he displayed pain with flexion in his left hip along with positive impingement. (Id.) X-rays 
+of the left hip were ordered, which showed “very large pistol-grip deformities of bilateral 
+hips with some superior joint space narrowing and acetabular osteophyte formation.” 
+(Id.) He was provided with an injection of Kenalog and recommended physical therapy. 
+(Id.) 
+ 
+He returned to ORA Orthopedics on October 8, 2019, with continued complaints 
+of left hip issues. (JE 4, p. 30) Specifically, he noted no more pain in his left hip, but 
+complained that he felt as though his hip was catching with range of motion. (Id.) He 
+was diagnosed with left hip “FAI with very large CAM lesion and early arthritis.” (Id.) It 
+was recommended that he have another left hip injection. (Id.) 
+ 
+
+TREMAINE V. ARCONIC CORP. 
+Page 5 
+ 
+Andrea Wehrle, PA-C, examined Mr. Tremaine at an urgent care at ORA 
+Orthopedics on November 4, 2020, for complaints of “several joint pains” following a fall 
+while carrying boxes. (JE 4, pp. 33-34) He located some of his pain to the lateral aspect 
+of his left hip, especially while standing and walking. (JE 4, p. 33) He also experienced 
+pain while walking up his stairs. (Id.) The physician’s assistant recommended that the 
+claimant rest, use ice or heat, and take anti-inflammatories for pain relief. (Id.) He was 
+offered a work release, but declined. (JE 4, p. 34) 
+ 
+On November 13, 2020, Andrew Bries, M.D., visited with Mr. Tremaine at ORA 
+Orthopedics. (JE 4, pp. 35-36) Mr. Tremaine continued to complain of pain in his left 
+hip, and clicking in his groin. (JE 4, p. 35) He displayed pain with internal rotation and 
+positive impingement signs. (Id.) Dr. Bries reviewed the prior imaging, which he opined 
+showed “FAI with joint space narrowing…” along with about 2 mm of joint space in the 
+left hip with a large cam lesion. (Id.) Dr. Bries diagnosed Mr. Tremaine with left hip pain, 
+FAI with a probable labral tear, and early osteoarthritis. (Id.) Dr. Bries recommended 
+and performed an injection into the left hip, to be followed by over-the-counter anti-
+inflammatory medication, and physical therapy. (JE 4, pp. 35-36)   
+ 
+Mr. Tremaine stopped attending physical therapy in December of 2020, at which 
+time he was discharged. (JE 5, p. 65)   
+ 
+Dr. Bries re-examined Mr. Tremaine on January 5, 2021, for his continued off-
+and-on left hip pain. (JE 4, p. 38) The left hip pain depended upon what activities he 
+undertook. (Id.) Dr. Bries recommended that Mr. Tremaine proceed with exercises for 
+his hip “…until he is ready to move forward with surgery.” (Id.) It is unclear what that 
+surgery might be. (Id.) 
+ 
+During a visit with Quad City Family Physicians, P.C., on January 26, 2021, Mr. 
+Tremaine told the provider that he had pain in his hips. (JE 3, pp. 23-26) He was told to 
+work on losing weight. (JE 3, p. 26) 
+ 
+During February and March of 2021, Mr. Tremaine visited Rheumatology 
+Associates for complaints of mild diffuse joint pain. (JE 6, pp. 81-91) There is minimal 
+mention of the left hip or groin. (Id.) By the end of March, Mr. Tremaine had a consult for 
+chronic severe low back pain. (JE 7, pp. 92-94)   
+ 
+On August 12, 2021, the claimant was working in an unfamiliar pit at Arconic. (Hr. 
+Tr., p. 20) He prepared to load buckets with scalpings, which are tiny pieces of metal, 
+which would then be loaded into a melter. (Id.) He carried a load of cardboard as he 
+descended stairs to enter the well of the pit. (Id.) While doing so, he fell on broken 
+steps. (Id.) As he fell, he caught himself, but instantly felt a stabbing pain in his left side 
+and left groin area. (Id.) He testified that he never previously felt pain that severe in that 
+part of his body. (Hr. Tr., p. 21) He then told his supervisor, Amanda Lux, about the 
+injury. (Id.) She took photos of the stairs, asked Mr. Tremaine if he was okay, and told 
+him if he needed anything to let her know. (Hr. Tr., p. 22) He never asked to see plant 
+
+TREMAINE V. ARCONIC CORP. 
+Page 6 
+ 
+medical providers, nor was he directed to plant medical providers. (Defendants’ Exhibit 
+O, p. 64)   
+ 
+Two weeks later, Ms. Lux approached Mr. Tremaine and advised that he should 
+go to “medical.” (Hr. Tr., p. 22) This happened on August 26, 2021, when first aid was 
+provided by a nurse at Arconic. (JE 8, pp. 95-99) He recounted the incident on the stairs 
+and the onset of left groin pain to the nurse. (Id.) He told the nurse that his left groin 
+pain did not show improvement, and had worsened. (JE 8, p. 98; Ex. O, p. 64) He 
+favored his left side while walking. (JE 8, p. 98) The nurse recommended that he 
+alternate ibuprofen and Tylenol. (JE 8, p. 99) He was allowed to work with no 
+restrictions, and told to work at a slower pace. (Id.) 
+ 
+ 
+Mr. Tremaine saw Arconic medical again on August 27, 2021, for his left groin 
+pain. (JE 8, p. 100) He complained of unchanged left groin pain located deep into his 
+groin. (Id.) The nurse recommended he alternate ice and heat, and continue to take 
+over the counter medication. (Id.) He was again returned to work with no restrictions. 
+(Id.) 
+  
+On September 2, 2021, Mr. Tremaine had imaging done of his left pelvis and 
+lateral hip. (JE 1, pp. 12-13; JE 8, p. 102) The imaging showed a prominent bony 
+protuberance at the junction of each femoral head and neck. (Id.) The radiologist opined 
+that this was commonly seen with femoroacetabular impingement syndrome. (Id.) The 
+imaging also showed bilateral joint space narrowing which was worse on the left. (Id.) 
+The radiologist opined that this appeared to be osteoarthritis. (Id.) 
+ 
+Theodore Koerner, M.D., of Arconic’s medical team, evaluated Mr. Tremaine on 
+September 7, 2021. (JE 8, pp. 103-104) Mr. Tremaine recounted the details of his 
+incident wherein he claims to have hyperextended his left leg causing left groin pain. 
+(JE 8, p. 103) Dr. Koerner observed the claimant to have full passive range of motion in 
+the left hip, along with mild subjective tenderness with adduction. (Id.) Dr. Koerner also 
+reviewed the x-rays done on September 2, 2021, and opined that they showed left 
+osteoarthritis. (Id.) He diagnosed the claimant as follows:  
+1. Pre-existing, non-work-related, bilateral Femoro-acetabular Impingement 
+Syndrome.   
+2. Pre-existing, non-work-related, bilateral osteoarthritis, L greater than R. 
+3. Mild work-related exacerbation of #1 and #2, resolved to baseline after 26 
+days of conservative therapy. 
+4. The above opinions on medical causation are based on medical certainty, as 
+determined by a preponderance of the available evidence.   
+(Id.) Dr. Koerner placed the claimant at maximum medical improvement (“MMI”) and 
+opined that the claimant had a work-related exacerbation of his pre-existing pathologies. 
+(Id.) Furthermore, Dr. Koerner opined that the claimant returned to his pre-injury 
+baseline, and returned him to work without restrictions. (Id.)    
+ 
+After having an x-ray, he was told that he had arthritis and should seek his own 
+medical care, as it was not work related. (Hr. Tr., p. 24) He testified that his pain 
+
+TREMAINE V. ARCONIC CORP. 
+Page 7 
+ 
+increased over the next few weeks, including his experiencing additional difficulties with 
+walking from the gate to his production location. (Id.) At that time, he decided to visit 
+ORA. (Id.) 
+ 
+On November 10, 2021, Mr. Tremaine had his first visit at ORA following his fall 
+at Arconic. (JE 4, pp. 39-42) In anticipation for his visit, he filled out a form indicating 
+that he slipped down stairs while at work, feeling an immediate pain in his left groin. (JE 
+4, p. 39) He located his pain mostly to his groin, but indicated that it migrated to his 
+lateral hip. (Id.) He also claimed issues with lifting his left leg. (Id.) Dr. Bries noted that 
+Mr. Tremaine had pain since September, and that he slipped which “really kind of flared 
+it up.” (JE 4, p. 41) He denied a history of injections, or physical therapy for his left hip. 
+(Id.) Dr. Bries observed that the claimant had pain with passive hip flexion, along with 
+pain during internal rotation. (JE 4, p. 42) Dr. Bries reviewed prior x-rays, from 
+September 2, 2021, which showed “…severe osteoarthritis with a large cam lesion and 
+joint space obliteration, worse on the left than the right.” (Id.) Based upon his 
+examination and review, Dr. Bries diagnosed Mr. Tremaine with left hip osteoarthritis 
+“…who is too far gone for hip arthroscopy for the CAM lesion.” (Id.) Dr. Bries 
+recommended a surgical solution for the claimant’s left hip issues, with a left hip 
+injection in the interim. (Id.) 
+ 
+Dr. Bries referred Mr. Tremaine to Joseph Martin, M.D., for continued care, on 
+November 30, 2021. (JE 4, pp. 45-46) Mr. Tremaine complained of left groin pain 
+following his work incident. (JE 4, p. 45) His symptoms worsened with walking, stairs, 
+exercising, and kneeling. (Id.) Dr. Martin ordered x-rays and reviewed them. (Id.) He 
+opined that the x-rays showed “severe bone on bone osteoarthritis with superior wear, a 
+cam lesion, and osteophyte formation”. (Id.) He diagnosed the claimant with severe 
+chronic primary left hip osteoarthritis. (Id.) Dr. Martin recommended a total left hip 
+arthroplasty. (Id.) 
+ 
+On December 7, 2021, Dr. Martin performed a left total hip replacement on Mr. 
+Tremaine due to his diagnosis of osteoarthritis in the left hip. (JE 4, p. 48; JE 9, pp. 106-
+107) His surgery was uncomplicated. (JE 9, p. 106) He started physical therapy almost 
+immediately following surgery. (JE 5, pp. 67-69) 
+ 
+The claimant attended his first outpatient physical therapy session with Rock 
+Valley Physical Therapy on December 10, 2021. (JE 5, pp. 70-73) Mr. Tremaine noted 
+doing “ok,” but had some questions about using a walker versus a cane. (JE 5, p. 70) 
+Therapy was performed. (Id.) 
+ 
+Mr. Tremaine had a post-surgical follow-up visit with Dr. Martin on December 17, 
+2021. (JE 4, p. 49) He walked with help from a cane and noted beginning physical 
+therapy. (Id.) Dr. Martin opined that Mr. Tremaine was doing great, and removed his 
+staples. (Id.) He recommended that the claimant continue physical therapy, exercise on 
+his own, and gradually walk further. (Id.) 
+ 
+
+TREMAINE V. ARCONIC CORP. 
+Page 8 
+ 
+On December 27, 2021, Jessica McKearney, NP-C examined Mr. Tremaine at 
+ORA’s urgent care clinic for complaints of left knee pain. (JE 4, pp. 50-51) Mr. Tremaine 
+noted that he was getting into the shower when he slipped. (JE 4, p. 50) He caught 
+himself, but had pain in his left knee, which he rated 6 out of 10. (Id.) Ms. McKearney 
+offered the claimant a left knee injection, which he accepted. (Id.) 
+   
+Mark Hichborn, PA-C, examined Mr. Tremaine at ORA on January 18, 2022. (JE 
+4, p. 52) Mr. Tremaine continued to attend physical therapy following his left hip 
+replacement. (Id.) He continued to complain of left knee pain during this visit. (Id.) He 
+was provided with prescriptions and told to return in six weeks for additional follow-up 
+care. (Id.) Mr. Hichborn provided Mr. Tremaine with a return to work with no restrictions. 
+(JE 4, p. 53) Mr. Tremaine testified that it was Dr. Martin that provided him with a work 
+release based upon his request to be released to work without restrictions. (Hr. Tr., pp. 
+25-26) Mr. Tremaine further testified that he requested a work release without 
+restrictions because he experienced financial problems while only being paid short-term 
+disability. (Hr. Tr., p. 26) 
+ 
+Mr. Tremaine had a return to work evaluation at Arconic on January 18, 2022. 
+(JE 8, p. 104) He had no noticeable limp, and denied pain or numbness on examination.  
+(Id.) He was not cleared to work yet, as he continued to attend physical therapy. (Id.) 
+ 
+Arconic conducted another return to work evaluation on January 19, 2022. (JE 8, 
+pp. 104-105) The record documented Mr. Tremaine telling the evaluator, “I am so much 
+better, could barely walk before surgery.” (JE 8, p. 104) He again denied numbness, 
+weakness, or tingling in his left hip. (Id.) He walked with a normal gait. (Id.) He displayed 
+full range of motion in his hip and knee, and could squat without difficulty. (JE 8, p. 105) 
+He was allowed to return to work without restrictions. (Id.)  
+   
+Mr. Tremaine was discharged from physical therapy on January 25, 2022, 
+following his attendance at nine sessions of physical therapy. (JE 5, pp. 77-80) Mr. 
+Tremaine told the therapist that he returned to work, had no issues, and felt better than 
+he did before the surgery. (JE 5, p. 77) He exhibited a low pain score. (Id.) The therapist 
+opined that Mr. Tremaine met his goals. (Id.) 
+ 
+On March 8, 2022, Mr. Hichborn again examined Mr. Tremaine’s left hip. (JE 4, 
+p. 54) Mr. Tremaine explained that his left hip was “doing better and better…” and felt 
+“…stronger and stronger.” (Id.) He was observed ambulating with a normal gait pattern, 
+and advised to continue his exercises. (Id.) Mr. Hichborn counseled Mr. Tremaine to 
+continue strengthening his left leg and progress his activities as he could tolerate. (Id.)  
+Mr. Tremaine was asked to return in nine months, as that would be one year since his 
+surgery. (Id.) 
+ 
+Mr. Tremaine saw Dr. Martin again on December 9, 2022, for his one-year post 
+surgery follow-up. (JE 4, p. 56) Mr. Tremaine noted doing well overall, despite lingering 
+weakness on the left side. (Id.) Dr. Martin noted no limp by the claimant. (Id.) Dr. Martin 
+opined that Mr. Tremaine had a well-functioning left hip arthroplasty and that he also 
+
+TREMAINE V. ARCONIC CORP. 
+Page 9 
+ 
+had moderate to severe osteoarthritis in his right hip. (Id.) Dr. Martin recommended that 
+Mr. Tremaine avoid high impact activities, such as running or jumping. (Id.)    
+ 
+On December 16, 2022, Dr. Martin wrote a letter in response to a missive from 
+Mr. Tremaine’s counsel. (JE 4, pp. 57-58) The letter contained Dr. Martin’s opinions as 
+to Mr. Tremaine’s condition. (Id.) Dr. Martin noted that the claimant had a slip and fall at 
+work, and was then diagnosed with left hip osteoarthritis. (JE 4, p. 57) Based upon this, 
+Dr. Martin opined that Mr. Tremaine exacerbated a pre-existing condition when he fell at 
+work. (Id.) Dr. Martin placed the claimant at maximum medical improvement (“MMI”), 
+and provided an impairment rating based upon the AMA Guides to the Evaluation of 
+Permanent Impairment, Fifth Edition. (Id.) Dr. Martin felt that Mr. Tremaine had a good 
+functioning left hip replacement, and was entitled to a 37 percent lower extremity 
+impairment. (Id.) This equated to a 15 percent whole person impairment. (Id.) He 
+recommended Mr. Tremaine avoid crawling at work, as well as avoiding repetitive lifting 
+over 40 pounds. (JE 4, p. 58) 
+ 
+Dr. Martin later revised his December 16, 2022 letter, in a February 10, 2023 
+letter, also addressed to claimant’s counsel. (JE 4, pp. 59-60) Dr. Martin added a 
+paragraph indicating that, “…it is likely that Mr. Tremaine would have required hip 
+replacement surgery at this point.  It is probably reasonable to say that his injury at work 
+may have made it necessary to do this procedure sooner than if he had not had the 
+injury at work.” (JE 4, p. 60) 
+ 
+Dr. Martin responded to a check-box type letter from defendants’ counsel dated 
+July 31, 2023. (Ex. F, pp. 19-21) Dr. Martin went to special lengths to remove 
+information from the letter indicating that he did not agree with statements that Mr. 
+Tremaine would have required left hip replacement surgery regardless of his August 12, 
+2021, work incident. (Ex. F, p. 20) Though Dr. Martin agreed that “…it [was] impossible 
+to state how much, if any, of your permanent impairment rating is causally related to the 
+August 12, 2021[,] work incident at Arconic given Mr. Tremaine’s pre-existing left hip 
+problems.” (Id.) 
+ 
+On July 5, 2023, Dr. Bries responded to a letter from defendants’ counsel 
+indicating that he agreed that Mr. Tremaine would have needed a left hip replacement 
+surgery prior to the August 12, 2021 work incident. (Ex. G, p. 25) He further agreed that 
+the left hip surgery was not causally related to the August 12, 2021 work incident. (Id.) 
+He further indicated that Mr. Tremaine would have required the left hip surgery 
+regardless of the August 12, 2021 incident. (Id.) Dr. Bries concluded with the opinion 
+that the impairment rated provided by Dr. Martin is unrelated to the August 12, 2021 
+work incident. (Id.) 
+ 
+On November 3, 2023, Mr. Tremaine visited with Sunil Bansal, M.D., M.P.H. for 
+an IME. (Claimant’s Exhibit 1, pp. 1-14) The IME was arranged by claimant’s counsel.  
+(Id.) Dr. Bansal is board certified in occupational medicine. (Ex. 1, p. 1) Following the 
+IME, Dr. Bansal issued a report outlining the findings of his examination on January 3, 
+2024. (Ex. 1, pp. 9-14) 
+
+TREMAINE V. ARCONIC CORP. 
+Page 10 
+ 
+Dr. Bansal began his report by outlining the claimant’s medical care. (Ex, 1, pp. 
+1-8) Mr. Tremaine outlined the work incident wherein he missed a step and almost fell 
+causing an immediate stabbing pain in his left groin. (Ex. 1, pp. 7-8) Mr. Tremaine told 
+Dr. Bansal that he had no issues or treatment in his left hip prior to the August of 2021 
+work incident. (Ex. 1, p. 8) Mr. Tremaine felt that he recovered well from his left hip 
+replacement, but that he could “…definitely feel the difference.” (Ex. 1, p. 9)  He felt that 
+his left hip was better than prior to the surgery, though it was “…not perfect.” (Id.) He 
+could walk normally with no problem, but reported pain with bending, kneeling, and 
+using stairs. (Id.) Mr. Tremaine noted that he did not work on his feet all day, and mostly 
+sat for 75 percent of his day. (Ex. 1, p. 11) He reported bending and squatting for 10 
+percent of his day, and standing or walking to the remainder. (Id.) Finally, he noted no 
+difficulty with his job duties, despite some residual soreness by the end of the day. (Id.) 
+  
+The report transitioned to a recounting of Dr. Bansal’s examination of the 
+claimant. (Ex. 1, p. 9) Dr. Bansal found no tenderness to palpation over the left hip, nor 
+any leg length discrepancy. (Id.) There also was no “accentuation of pain” when he 
+internally and externally rotated the claimant’s left hip. (Id.) Dr. Bansal found Mr. 
+Tremaine to have full range of motion and strength in his left hip. (Id.) Mr. Tremaine also 
+showed no loss of sensory discrimination in his left lower extremity. (Id.) Finally, Dr. 
+Bansal noted that Mr. Tremaine ambulated with a normal gait. (Id.) 
+ 
+Dr. Bansal continued the report by offering his opinions as to Mr. Tremaine’s 
+condition. (Ex. 1, p. 10) First, he diagnosed Mr. Tremaine with aggravation of left hip 
+osteoarthritis, and aggravation of femoroacetabular impingement. (Id.) Dr. Bansal 
+opined that Mr. Tremaine aggravated his left hip osteoarthritis and femoroacetabular 
+impingement when he fell on the broken steps at work on August 12, 2021. (Ex. 1, p. 
+11) This accelerated the need for a hip replacement. (Id.) Namely, Mr. Tremaine’s 
+hyperextension of his left lower extremity can cause “…excessive strain on the anterior 
+structures, including the muscles, tendons, and the joint capsule.” (Id.) Dr. Bansal felt 
+that the claimant’s pre-existing femoroacetabular impingement and osteoarthritis were 
+particularly concerning in light of his hyperextension, as the hyperextension “…likely 
+exerted significant stress on the already compromised hip joint.” (Id.) According to Dr. 
+Bansal, this additional trauma aggravated the mechanical stress on the claimant’s hip 
+joint resulting in an acceleration of the wear and tear of the joint surfaces and cartilage. 
+(Id.) This combination, per Dr. Bansal’s report, “…often results in a more rapid 
+progression of the disease than would be expected from the degenerative condition 
+alone.” (Ex. 1, p. 12) Dr. Bansal opined that the pre-injury medical records for his left hip 
+indicated “…a consistent pattern of left hip pain and early signs of arthritis.” (Id.) Dr. 
+Bansal agreed with the opinion of Dr. Martin insofar as he felt that the claimant’s pre-
+existing osteoarthritis was significantly worsened by his work injury. (Id.) Dr. Bansal 
+referenced Table 17-33 of the Guides to provide the claimant with the same 37 percent 
+left lower extremity impairment or 15 percent whole person impairment, which is 
+identical to the rating provided by Dr. Martin. (Ex. 1, p. 14) 
+  
+Dr. Bansal opined that the claimant would likely need a revision hip replacement 
+for future medical care. (Ex. 1, p. 13) Dr. Bansal recommended permanent restrictions 
+
+TREMAINE V. ARCONIC CORP. 
+Page 11 
+ 
+of avoiding frequent kneeling, squatting, using multiple stairs, or climbing ladders. (Ex. 
+1, p. 14) 
+ 
+Rick Garrels, M.D. performed an IME on the claimant, at the arrangement of 
+Arconic, on December 29, 2023. (Ex. L, pp. 39-44) Dr. Garrels is board certified in 
+occupational medicine. (Ex. M, p. 47) Subsequent to the examination, Dr. Garrels 
+issued a report outlining the findings of the IME. (Ex. L, pp. 39-1) 
+ 
+In preparing his report, Dr. Garrels reviewed a number of medical records. (Ex. L, 
+pp. 43-44) He also interviewed the claimant regarding his job duties and how his injury 
+occurred. (Ex. L, p. 42) Mr. Tremaine reported a perceived weakness when he 
+attempted to get up. (Id.) He proceeded to examine the claimant and found him to have 
+a mild restriction in range of motion with extension and external rotation of 10 degrees.  
+(Ex. L, p. 43) He had no issues with strength, though he had issues with fully squatting. 
+(Id.) He displayed a normal gait. (Id.) 
+ 
+Dr. Garrels continued his report by answering a series of questions based upon 
+his examination of Mr. Tremaine. (Ex. L, p. 39) Dr. Garrels opined that Mr. Tremaine’s 
+left hip osteoarthritis “…was a well-established pre-existing condition prior to the alleged 
+August 12, 2021 work incident…  It was not caused by the alleged August 12, 2021 
+work incident at Arconic.” (Id.) Additionally, Dr. Garrels felt that Mr. Tremaine’s left hip 
+femoroacetabular impingement (“FAI”) was also a pre-existing condition that was not 
+caused by his work incident at Arconic. (Id.) Dr. Garrels noted that Dr. Bries 
+recommended surgical intervention for the claimant’s left hip on January 5, 2021, and 
+that based upon this, the surgery would have happened even if the claimant had not 
+had an incident on August 12, 2021. (Ex. L, p. 40) Since the claimant’s left hip issues 
+pre-existed the work incident and were not related to the August 12, 2021 work incident, 
+Dr. Garrels concluded that Mr. Tremaine had no permanent impairment pursuant to the 
+AMA Guides. (Id.) Dr. Garrels agreed with Dr. Martin’s recommendations for permanent 
+restrictions; however, they were not related to any incident at Arconic. (Id.) Dr. Garrels 
+recommended no further medical treatment for the claimant. (Ex. L, p. 41) 
+ 
+Mr. Tremaine testified to walking with a slight limp, and needing to use handrails 
+when climbing stairs. (Hr. Tr., pp. 26-28) He could not take a first step with his left lower 
+extremity. (Id.) Further, he experienced weakness in his left lower extremity. (Id.) At 
+work, he struggled with roping off molds and walking from the gate of Arconic to his 
+work location. (Id.) 
+ 
+At the time of the hearing, Mr. Tremaine had no additional medical treatment 
+planned. (Hr. Tr., p. 27) However, he testified that due to his age, Dr. Martin felt that he 
+would need another hip replacement in 10 to 15 years. (Id.) 
+ 
+According to pay records submitted in the record, Mr. Tremaine earned sixty-five 
+thousand seven hundred thirty-nine and 31/100 dollars ($65,739.31) in 2020. (Ex. A, p. 
+1) He earned seventy-five thousand eight hundred eighty-six and 76/100 dollars 
+
+TREMAINE V. ARCONIC CORP. 
+Page 12 
+ 
+($75,886.76) in 2021. (Ex. A, p. 2) In 2022, the claimant earned eighty-five thousand 
+nine hundred ninety-two and 98/100 dollars ($85,992.98) at Arconic. (Ex. A, p. 3) 
+ 
+CONCLUSIONS OF LAW 
+ 
+The party who would suffer loss if an issue were not established has the burden 
+of proving that issue by a preponderance of the evidence. Iowa Rule of Appellate 
+Procedure 6.904(3).   
+ 
+Causation 
+ 
+The parties dispute whether or not the claimant sustained a permanent disability 
+to his left hip as a result of his work injury on August 12, 2021. The claimant alleges that 
+the incident on August 12, 2021 resulted in the need for a left hip replacement surgery 
+and permanent impairment to his left hip. The defendants allege that the claimant 
+suffered a temporary aggravation to his pre-existing left hip issues, and that the 
+temporary aggravation did not necessitate the resulting left hip replacement. The 
+defendants further argue that the claimant already required a left hip replacement 
+surgery prior to the work incident.   
+ 
+The claimant has the burden of proving by a preponderance of the evidence that 
+the injury is a proximate cause of the disability on which the claim is based. A cause is 
+proximate if it is a substantial factor in bringing about the result; it need not be the only 
+cause. A preponderance of the evidence exists when the causal connection is probable, 
+rather than merely possible. George A. Hormel & Co. v. Jordan, 569 N.W.2d 148 (Iowa 
+1997); Frye v. Smith-Doyle Contractors, 569 N.W.2d 154 (Iowa App. 1997); Sanchez v. 
+Blue Bird Midwest, 554 N.W.2d 283 (Iowa App. 1996).    
+ 
+The question of medical causation is “essentially within the domain of expert 
+testimony.” Cedar Rapids Cmty. Sch. Dist. v. Pease, 807 N.W.2d 839, 844-45 (Iowa 
+2011). The commissioner, as the trier of fact, must “weigh the evidence and measure 
+the credibility of witnesses.” Id. The trier of fact may accept or reject expert testimony, 
+even if uncontroverted, in whole or in part. Frye, 569 N.W.2d at 156. When considering 
+the weight of an expert opinion, the fact-finder may consider whether the examination 
+occurred shortly after the claimant was injured, the compensation arrangement, the 
+nature and extent of the examination, the expert’s education, experience, training, and 
+practice, and “all other factors which bear upon the weight and value” of the opinion.  
+Rockwell Graphic Sys., Inc. v. Prince, 366 N.W.2d 187, 192 (Iowa 1985). Unrebutted 
+expert medical testimony cannot be summarily rejected. Poula v. Siouxland Wall & 
+Ceiling, Inc., 516 N.W.2d 910 (Iowa App. 1994). Supportive lay testimony may be used 
+to buttress expert testimony, and therefore, is also relevant and material to the 
+causation question.    
+ 
+Iowa employers take an employee subject to any active or dormant health 
+problems, and must exercise care to avoid injury to both the weak and infirm and the 
+strong and healthy. Hanson v. Dickinson, 188 Iowa 728, 176 N.W. 823 (1920). While a 
+
+TREMAINE V. ARCONIC CORP. 
+Page 13 
+ 
+claimant must show that the injury proximately caused the medical condition sought to 
+be compensable, it is well established that a cause is “proximate” when it is a 
+substantial factor, or even the primary or most substantial cause to be compensable 
+under the Iowa workers’ compensation system.  Miller v. Lauridsen Foods, Inc., 525 
+N.W.2d 417 (Iowa 1994); Blacksmith v. All-American, Inc., 290 N.W.2d 348 (Iowa 
+1980).    
+ 
+It is well established in workers’ compensation that “if a claimant had a 
+preexisting condition or disability, aggravated, accelerated, worsened, or ‘lighted up’ by 
+an injury which arose out of and in the course of employment resulting in a disability 
+found to exist,” the claimant is entitled to compensation. Iowa Dep’t. of Transp. v. Van 
+Cannon, 459 N.W.2d 900, 904 (Iowa 1990). The Iowa Supreme Court has held, 
+ 
+[A] disease which under any rational work is likely to progress so as to 
+finally disable an employee does not become a “personal injury” under our 
+Workmen’s Compensation Act merely because it reaches a point of 
+disablement while work an employer is being pursued.  It is only when 
+there is direct causal connection between exertion of the employment and 
+the injury that a compensation award can be made.  The question is 
+whether the diseased condition was the cause or whether the employment 
+was a proximate contributing cause.   
+ 
+Musselman v. Ce. Tel. Co., 261 Iowa 352, 359-60, 154 N.W.2d 128, 132 (1967).   
+ 
+It is also well settled in Iowa that an employer is liable for all consequences that 
+naturally and proximately flow from an accident to an employee in the usual course of 
+their employment. Oldham v. Scofield & Welch, 222 Iowa 764, 767-68, 255 N.W. 480, 
+482 (1936). Further disability is compensable when the further disability is the proximate 
+result of the original injury. Id.   
+ 
+Before addressing the bulk of the matter, it is vital to address the claimant’s 
+credibility. The claimant sustained injuries to his face and head while in the Marine 
+Corps. He testified to having significant memory issues as a result of these injuries. His 
+memory issues were so significant that he failed to remember complaints to his left hip 
+that predated the August 12, 2021 work incident. He also changed his testimony as it 
+related to the distance between broken steps and the bottom of the “well” in which he 
+was working on the day of the accident. It is unclear if this is due to his memory issues.  
+He also changed his version of the incident on at least one occasion, indicating a fall 
+rather than his testimony of his catching himself prior to falling. Considering the 
+foregoing, especially the claimant’s significant acquired memory issues, it is difficult for 
+me to consider the claimant to be a credible witness when he recounts his injury history. 
+    
+As noted, the claimant alleges that he sustained a left hip injury as a result of a 
+work incident on August 12, 2021. The claimant alleges that his hip injury resulted in the 
+need for a left hip replacement. The claimant has a significant history of left hip 
+complaints that predate the alleged work injury. In 2015, Mr. Tremaine had x-rays taken 
+
+TREMAINE V. ARCONIC CORP. 
+Page 14 
+ 
+which showed a prominent femoral neck that the radiologist opined may have caused 
+bilateral femoral acetabular impingement (“FAI”). He reported pain in his hips again in 
+October of 2016, when he expressed a desire to lose weight.   
+ 
+By January of 2018, Mr. Tremaine called a doctor’s office complaining of left hip 
+pain and a feeling as though his left hip shifted to one side. X-rays showed osteophyte 
+formation at the lateral femoral head neck junctions with mild narrowing. He was 
+referred to an orthopedic physician for further evaluation. He eventually treated with 
+ORA in August of 2019, with complaints of left anterior hip pain dating back six weeks. 
+X-rays again showed “very large pistol-grip deformities of bilateral hips with some 
+superior joint space narrowing and acetabular osteophyte formation.” (JE 4, p. 27) At 
+that time, he was provided with an injection into his hip, and it was recommended that 
+he pursue physical therapy.   
+ 
+Mr. Tremaine returned to ORA in October of 2019 with additional complaints of 
+left hip issues. He specifically noted that his pain dissipated following the previous 
+injection; however, he described a feeling of his hip catching when he moved. He was 
+diagnosed with left hip FAI with a very large CAM lesion, along with early arthritis. 
+Another injection was recommended. He again complained of joint pain following a fall 
+in November of 2020.   
+ 
+Dr. Bries then saw Mr. Tremaine on November 13, 2020, for continued 
+complaints of left hip pain and a clicking feeling in his groin. Dr. Bries observed that Mr. 
+Tremaine had FAI with joint space narrowing. He noted only 2 mm of joint space in the 
+claimant’s left hip along with a large cam lesion. Dr. Bries recommended physical 
+therapy and provided the claimant with another injection into his left hip.   
+ 
+Mr. Tremaine attended physical therapy before being discharged in December of 
+2020. In January of 2021, Dr. Bries again saw Mr. Tremaine to follow-up on his left hip 
+pain. Mr. Tremaine told Dr. Bries that the left hip pain varied depending on what 
+activities he performed. Dr. Bries recommended that Mr. Tremaine proceed with hip 
+exercises at home until he was ready to proceed with a surgical option. It is unclear 
+what that surgical option may mean based solely upon this record. Unfortunately, due to 
+Mr. Tremaine’s poor memory, he had no recollection of any hip treatment. However, Dr. 
+Bries responded to a letter from defendants’ counsel in July of 2023, clarifying that he 
+was referring to a left hip replacement surgery.   
+ 
+The claimant continued complaining of joint pain, including in his left hip during 
+several visits to a rheumatologist in February and March of 2021.   
+ 
+Then, on August 12, 2021, Mr. Tremaine slipped and began to fall while carrying 
+cardboard into a pit. He testified that he felt a stabbing pain immediately in his left groin. 
+He likened the pain to nothing that he ever previously felt. He informed his supervisor of 
+the issue, but never was taken to the plant medical providers, nor did he seek any 
+treatment on his own. Two weeks later, he was taken to see the nurse at Arconic, where 
+he complained of left groin pain. He continued to complain of left groin pain.   
+
+TREMAINE V. ARCONIC CORP. 
+Page 15 
+ 
+ 
+On September 2, 2021, imaging was taken of the claimant’s left pelvis and lateral 
+hip, which showed a prominent bony protuberance at the junction of the femoral head 
+and neck. The radiologist opined that this was commonly seen with FAI syndrome. The 
+imaging also showed narrowing of the joint space on the left, which the radiologist felt 
+was osteoarthritis.   
+ 
+Mr. Tremaine then followed-up with Dr. Koerner at Arconic. Mr. Tremaine told Dr. 
+Koerner he hyperextended his left leg, which caused him to have groin pain. He 
+displayed some mild tenderness to adduction in the left hip, though there is limited 
+mention of his hip being his pain generator. Dr. Koerner diagnosed Mr. Tremaine with 
+pre-existing, non-work-related bilateral FAI and pre-existing non-work-related 
+osteoarthritis. Dr. Koerner further opined that the claimant’s condition was a mild work-
+related exacerbation of the pre-existing issues with a return to baseline. He returned Mr. 
+Tremaine to work without restrictions. 
+   
+Over the following few weeks, Mr. Tremaine felt that the pain increased in his left 
+hip. He thus returned to ORA in November of 2021. Mr. Tremaine indicated that a slip at 
+work flared his pain that he experienced. Dr. Bries diagnosed Mr. Tremaine with left hip 
+osteoarthritis and opined that the condition was too advanced to proceed with an 
+arthroscopic surgery. Dr. Bries referred the claimant to Dr. Martin, who ordered 
+additional x-rays. According to Dr. Martin, the x-rays showed “severe bone on bone 
+osteoarthritis with superior wear, a cam lesion, and osteophyte formation.” (JE 4, p. 45) 
+He recommended a total left hip arthroplasty. This was performed on December 7, 
+2021.   
+ 
+After the surgery, Mr. Tremaine began physical therapy, and continued his 
+follow-ups with Dr. Martin and ORA. By January 18, 2022, Dr. Martin released the 
+claimant to return to work without restrictions. Mr. Tremaine testified that he requested 
+this release, but there is no mention in the medical record of his requesting the same. 
+Additionally, with Mr. Tremaine’s admitted memory issues, it is difficult to fully believe 
+that he could remember specifically asking Dr. Martin for a release from care.   
+ 
+Mr. Tremaine returned to work with Arconic on January 19, 2022, following an 
+evaluation with an Arconic employee. He told the Arconic employee that he had a great 
+deal of improvement since his surgery. Arconic determined he could return to work 
+without restrictions.   
+ 
+He was then discharged from physical therapy with a low pain score and no 
+issues in his left hip on March 25, 2022. The therapist opined that Mr. Tremaine met his 
+therapeutic goals.   
+ 
+Mr. Tremaine continued his follow-up visits with Dr. Martin and ORA through 
+December of 2022.   
+ 
+
+TREMAINE V. ARCONIC CORP. 
+Page 16 
+ 
+Dr. Martin responded to a letter from claimant’s counsel on December 16, 2022.  
+He opined that Mr. Tremaine exacerbated his pre-existing osteoarthritis when he fell at 
+work.  He placed Mr. Tremaine at MMI and opined that the claimant had a good 
+functioning left hip replacement, thus entitling him to a 37 percent lower extremity 
+impairment, or a 15 percent whole person impairment pursuant to the Guides. This 
+opinion was later edited with a paragraph stating, “…it is likely that Mr. Tremaine would 
+have required hip replacement surgery at this point. It is probably reasonable to say that 
+his injury at work may have made it necessary to do this procedure sooner than if he 
+had not had the injury at work.” (JE 4, p. 60) 
+ 
+Dr. Martin then responded to a check-box letter from defendants’ counsel in July 
+of 2023. He went to special lengths to remove information from the letter, indicating a 
+lack of agreement with statements opining that Mr. Tremaine would have required the 
+left hip surgery regardless of the August 12, 2021, work incident. However, Dr. Martin 
+agreed that, “…it [was] impossible to state how much, if any, of your permanent 
+impairment rating is causally related to the August 12, 2021[,] work incident at Arconic 
+given Mr. Tremaine’s pre-existing left hip problems.” (Ex. F, p. 20) 
+ 
+Dr. Bries then responded to a check-box letter from defendants’ counsel, wherein 
+he agreed that Mr. Tremaine required a left hip replacement surgery prior to the August 
+12, 2021, work incident. He also agreed that the left hip surgery lacked a causal 
+relationship to the August 12, 2021 work incident. He further concluded that the 
+impairment rating provided by Dr. Martin was entirely unrelated to the August 12, 2021 
+work incident.   
+ 
+Mr. Tremaine then had an IME at the arrangement of his counsel with Dr. Bansal.  
+Dr. Bansal interviewed the claimant, and the claimant recounted missing a step and 
+having an immediate stabbing pain in his left groin. Mr. Tremaine told Dr. Bansal that he 
+had no issues or treatment to his left hip prior to this incident; however, Dr. Bansal 
+noted in his report that he reviewed records regarding left hip treatment that predated 
+the claimant’s alleged work injury.   
+ 
+Dr. Bansal diagnosed the claimant with an aggravation of left hip osteoarthritis 
+and aggravation of femoroacetabular impingement, which occurred when he fell on 
+broken steps at work on August 12, 2021. According to Dr. Bansal, this accelerated the 
+need for a left hip replacement surgery. Dr. Bansal opined that the claimant’s 
+hyperextended his left leg, and that this hyperextension exerted excess stress on the 
+claimant’s damaged hip joint. This aggravated the mechanical stress on the claimant’s 
+left hip, resulting in an acceleration of the wear and tear of the joint surfaces. This 
+combination, according to Dr. Bansal “…often results in a more rapid progression of the 
+disease than would be expected from the degenerative condition alone.” (Ex. 1, p. 12). 
+Dr. Bansal concurred with Dr. Martin’s previously provided impairment rating.  
+  
+The defendants sent Mr. Tremaine to an IME with Dr. Garrels, who opined that 
+Mr. Tremaine had well-established left hip osteoarthritis that was not caused by the 
+August 12, 2021 work incident. The claimant’s left hip FAI was also a pre-existing 
+
+TREMAINE V. ARCONIC CORP. 
+Page 17 
+ 
+condition that was not caused by his work incident at Arconic. Dr. Garrels noted Dr. 
+Bries’ surgical recommendation in January of 2021, and used this as the basis for his 
+opinion that the left hip surgery would have occurred regardless of the August 12, 2021, 
+work incident. Considering the claimant’s left hip problems predated his August 12, 
+2021 work incident, Dr. Garrels opined that Mr. Tremaine did not have any permanent 
+impairment to his left hip related to the August 12, 2021 work incident.   
+ 
+The question is whether the claimant’s work injury caused temporary disability 
+and/or permanent disability. This question hinges on whether or not the claimant’s work 
+injury necessitated his left hip replacement. The claimant points to the opinions of Drs. 
+Martin and Bansal. Dr. Martin, who is a treating physician of the claimant, provides 
+strong opinions in an initial letter, opining that Mr. Tremaine exacerbated or lit up his 
+pre-existing arthritic condition. However, Dr. Martin proceeds to eviscerate his own 
+opinion by amending his initial letter to include, “…it is likely that Mr. Tremaine would 
+have required hip replacement surgery at this point. It is probably reasonable to say that 
+his injury at work may have made it necessary to do this procedure sooner than if he 
+had not had the injury at work.” This kind of wishy-washy language significantly 
+discredits Dr. Martin’s opinions as his changes now indicate his opinion was that it was 
+“probably reasonable” that Mr. Tremaine’s left hip surgery and permanent impairment 
+were caused by his work injury. Dr. Martin further damaged his credibility in this case by 
+his response to defendants’ check box letter, wherein he agreed that, “…it [was] 
+impossible to state how much, if any, of [his] permanent impairment rating is causally 
+related to the August 12, 2021[,] work incident at Arconic given Mr. Tremaine’s pre-
+existing left hip problems.” It becomes apparent when reviewing all three of Dr. Martin’s 
+opinions that he significantly watered them down over time, thus making them difficult to 
+rely upon in arriving at a decision in this case.  
+  
+The next opinions are those of Dr. Bansal. In preparing his report, Dr. Bansal 
+relied, at least somewhat, on the claimant’s representations of his prior treatment 
+history. This included a failure to mention his substantial hip treatment in the past. 
+However, Dr. Bansal did review medical records, including those that predated the work 
+incident. Dr. Bansal opined that the claimant hyperextended his left leg, and that this 
+hyperextension exerted excess stress on his damaged hip joint. This aggravated the 
+mechanical stress on the claimant’s left hip, resulting in an acceleration of the wear and 
+tear of the joint surfaces. The combination of these two issues, according to Dr. Bansal 
+“…often results in a more rapid progression of the disease than would be expected from 
+the degenerative condition alone.” (Ex. 1, p. 12). Dr. Bansal provided a thorough 
+explanation, but I am concerned by his reliance upon the subjective statements of the 
+claimant, who admittedly is a poor historian.  
+  
+The defendants point to the opinions of Drs. Koerner, Bries, and Garrels in 
+support of their position. Dr. Koerner saw the claimant at Arconic for complaints of groin 
+pain and pain with motion in the left hip. It appears that Dr. Koerner only examined the 
+claimant on a limited number of occasions, yet he opined that Mr. Tremaine had pre-
+existing non-work-related bilateral FAI and osteoarthritis. Dr. Koerner opined that the 
+claimant’s condition was a mild work-related exacerbation of these pre-existing issues 
+
+TREMAINE V. ARCONIC CORP. 
+Page 18 
+ 
+followed by a return to his baseline. He allowed Mr. Tremaine to work without 
+restrictions. Dr. Koerner only saw the claimant on a limited basis before providing these 
+opinions. This reduces the value of his opinions in this case. 
+   
+Dr. Bries treated the claimant for his previous left hip complaints. Of note, Dr. 
+Bries recommended a hip surgery in January of 2021, only eight months before the 
+claimant’s work injury. The initial record was unclear as to what that surgical option was; 
+however, Dr. Bries later clarified that he referred to a left hip replacement surgery. He 
+saw the claimant again in November of 2021, and referred the claimant to see Dr. 
+Martin for a surgical evaluation. Dr. Bries responded to a check-box letter indicating that 
+the claimant’s left hip surgery lacked a causal relationship to the August 12, 2021 work 
+incident, and that Dr. Martin’s impairment rating was entirely unrelated to the August 12, 
+2021 work incident. Dr. Bries’ opinions hold significant weight in this matter, as he is the 
+only doctor that treated Mr. Tremaine before and after the August 12, 2021 work 
+incident.   
+ 
+Finally, the defendants point to Dr. Garrels. Dr. Garrels provided brief opinions 
+following an IME. Dr. Garrels opined that the claimant’s left hip surgery would have 
+occurred regardless of the August 12, 2021 work incident, and that no permanent 
+impairment resulted from the August 12, 2021 work incident. Dr. Garrels’ opinions are 
+rather conclusory and lack detail as to how he arrived at them. However, they are 
+consistent with the opinions of Drs. Koerner and Bries. 
+ 
+I find the opinions of Dr. Bries to be the most persuasive. Dr. Bries treated the 
+claimant prior to the alleged work injury for left hip pain. Mr. Tremaine did not remember 
+his treatment with Dr. Bries; however, the medical records are clear. Dr. Bries 
+recommended a left hip surgery to the claimant prior to his work injury. Dr. Bries later 
+clarified that his medical record referred to a left hip replacement surgery, despite not 
+explicitly saying as much. Dr. Bries is the person most knowledgeable about the 
+meaning of his medical notes in a medical record. He also has no reason to be 
+dishonest with the Agency or the parties, and there is no reason to doubt his memory of 
+his treatment of Mr. Tremaine. Dr. Bries’ opinions are buttressed by those of Dr. Garrels 
+and Dr. Koerner. Additionally, Dr. Martin’s opinion, or lack thereof, that it was “probably 
+reasonable that his injury at work may have made it necessary” that Mr. Tremaine had 
+his left hip surgery is not sufficient to prove by a preponderance of the evidence that the 
+claimant’s left hip injury was permanent in nature. There is insufficient evidence in the 
+record to prove, by a preponderance of the evidence, that the claimant’s work incident 
+on August 12, 2021 lit up his pre-existing left hip issues. This is based on both the 
+expert medical evidence and the claimant’s poor memory. Since Mr. Tremaine could not 
+even remember significant left hip treatment prior to August 12, 2021, it made it difficult 
+to assess whether there were significant changes to his left hip following the August 12, 
+2021 work injury.   
+ 
+Based upon the foregoing, I find that the claimant’s left hip replacement surgery 
+did not arise out of and in the course of his employment, nor was it a cause of 
+temporary disability, nor was it a cause of permanent disability.   
+
+TREMAINE V. ARCONIC CORP. 
+Page 19 
+ 
+ 
+IME Reimbursement Pursuant to Iowa Code section 85.39 
+ 
+The claimant seeks reimbursement for an IME performed by Dr. Bansal.   
+Iowa Code 85.39(2) states:   
+ 
+If an evaluation of permanent disability has been made by a physician 
+retained by the employer and the employee believes this evaluation to be 
+too low, the employee shall, upon application to the commissioner and upon 
+delivery of a copy of the application to the employer and its insurance 
+carrier, be reimbursed by the employer the reasonable fee for a subsequent 
+examination by a physician of the employee’s own choice, and reasonably 
+necessary transportation expenses incurred for the examination.     
+. . .    
+An employer is only liable to reimburse an employee for the cost of an 
+examination conducted pursuant to this subsection if the injury for which the 
+employee is being examined is determined to be compensable under this 
+chapter or chapter 85A or 85B. An employer is not liable for the cost of such 
+an examination if the injury for which the employee is being examined is 
+determined not to be a compensable injury. A determination of the 
+reasonableness of a fee for an examination made pursuant to this 
+subsection shall be based on the typical fee charged by a medical provider 
+to perform an impairment rating in the local area where the examination is 
+conducted.     
+ 
+Iowa Code section 85.39(2).    
+  
+The Iowa Supreme Court determined that an “examination” required “to perform 
+an impairment rating” must include certain steps as required under the AMA Guides.  
+Mid American Construction, LLC, v. Sandlin, 2 N.W.3d 838 (Iowa 2024). These steps 
+include: determining whether an injured worker achieved MMI, reviewing past medical 
+records to ascertain knowledge as to any past injuries to the injured worker, opining as 
+to whether the work injury caused the impairment, conducting a physical examination of 
+the claimant in order “to assess the employee’s status and perform accurate 
+measurements…”, and determining a diagnosis. Id.   
+ 
+Defendants are responsible only for reasonable fees associated with claimant’s 
+independent medical examination. The claimant has the burden of proving the 
+reasonableness of the expenses incurred for the examination. See Schintgen v. 
+Economy Fire & Casualty Co., File No. 855298 (App. April 26, 1991). This burden may 
+be met either by “…evidence of the fees typically charged in that locality to support or 
+challenge the fee charged in a particular case…” or by agency expertise in adjudicating 
+claims in the local area where the examination was conducted. Mid American 
+Construction, LLC v. Sandlin, 2 N.W.3d 838 (Iowa 2024).   
+ 
+
+TREMAINE V. ARCONIC CORP. 
+Page 20 
+ 
+An opinion finding a lack of causation is tantamount to a zero percent impairment 
+rating. Kern v. Fenchel, Doster & Buck, P.L.C., 2021 WL 3890603 (Iowa App. 2021).  
+    
+It is well accepted Iowa law that a claimant is only entitled to reimbursement for 
+one IME pursuant to Iowa Code section 85.39. Larson Mfg. Co. v. Thorson, 763 N.W.2d 
+842, 861 (Iowa 2009).   
+ 
+I previously found that the claimant’s left hip injury did not arise out of and in the 
+course of his employment, nor was it permanent in nature, nor was the claimant entitled 
+to temporary disability benefits. Therefore, the injury is not compensable. Based upon 
+the language in Iowa Code section 85.39, the claimant is not entitled to reimbursement 
+for an IME in this case. 
+ 
+Costs 
+ 
+The claimant seeks an assessment of costs as listed in Claimant’s Exhibit 3.  
+Costs are to be assessed at the discretion of the deputy commissioner hearing the 
+case. See 876 Iowa Administrative Code 4.33; Iowa Code section 10A.328. 876 Iowa 
+Administrative Code 4.33(6) provides:  
+ 
+[c]osts taxed by the workers’ compensation commissioner or a deputy 
+commissioner shall be (1) attendance of a certified shorthand reporter or 
+presence of mechanical means at hearings and evidential depositions, (2) 
+transcription costs when appropriate, (3) costs of service of the original 
+notice and subpoenas, (4) witness fees and expenses as provided by 
+Iowa Code sections 622.69 and 622.72, (5) the costs of doctors’ and 
+practitioners’ deposition testimony, provided that said costs do not exceed 
+the amounts provided by Iowa Code sections 622.69 and 622.72, (6) the 
+reasonable costs of obtaining no more than two doctors’ or practitioners’ 
+reports, (7) filing fees when appropriate, including convenience fees 
+incurred by using the WCES payment gateway, and (8) costs of persons 
+reviewing health service disputes. 
+   
+Pursuant to the holding in Des Moines Area Regional Transit Authority v. Young, 
+867 N.W.2d 839 (Iowa 2015), only the report of an IME physician, and not the 
+examination itself, can be taxed as a cost according to 876 IAC 4.33(6). The Iowa 
+Supreme Court reasoned, “a physician’s report becomes a cost incurred in a hearing 
+because it is used as evidence in lieu of the doctor’s testimony,” while “[t]he underlying 
+medical expenses associated with the examination do not become costs of a report 
+needed for a hearing, just as they do not become costs of the testimony or deposition.”  
+Id. (noting additionally that “[i]n the context of the assessment of costs, the expenses of 
+the underlying medical treatment and examination are not part of the costs of the report 
+or deposition”). The commissioner has found this rationale applicable to expenses 
+incurred by vocational experts. See  Kirkendall v. Cargill Meat Solutions Corp., File No. 
+5055494 (App. December 17, 2018); Voshell v. Compass Group, USA, Inc., File No. 
+5056857 (App. September 27, 2019).   
+
+TREMAINE V. ARCONIC CORP. 
+Page 21 
+ 
+ 
+In my discretion, I decline to award the claimant costs. 
+ 
+ORDER 
+ 
+ 
+THEREFORE, IT IS ORDERED: 
+ 
+That the claimant shall take nothing further. 
+ 
+That the parties shall bear their own costs. 
+ 
+That the defendants shall file subsequent reports of injury (SROI) as required by 
+this agency pursuant to 876 Iowa Administrative Code 3.1(2) and 876 Iowa 
+Administrative Code 11.7.   
+ 
+Signed and filed this     22nd     day of May, 2024. 
+ 
+ 
+The parties have been served, as follows: 
+Rocco Motto (via WCES) 
+Troy Howell (via WCES) 
+ 
+ 
+Right to Appeal:  This decision shall become final unless you or another interested party appeals within 20 days 
+from the date above, pursuant to rule 876-4.27 (17A, 10A) of the Iowa Administrative Code. The notice of appeal 
+must be filed via Workers’ Compensation Electronic System (WCES) unless the filing party has been granted 
+permission by the Division of Workers’ Compensation to file documents in paper form. If such permission has been 
+granted, the notice of appeal must be filed at the following address: Workers’ Compensation Commissioner, Iowa 
+Division of Workers’ Compensation, 150 Des Moines Street, Des Moines, Iowa 50309-1836. The notice of appeal 
+must be received by the Division of Workers’ Compensation within 20 days from the date of the decision. The appeal 
+period will be extended to the next business day if the last day to appeal falls on a weekend or legal holiday. 
+            ANDREW M. PHILLIPS 
+               DEPUTY WORKERS’ 
+     COMPENSATION COMMISSIONER 

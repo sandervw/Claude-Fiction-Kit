@@ -1,0 +1,410 @@
+Case Number: 5044236
+Case Title:  BLASDELL, HEATHER (DEC) V. LINNHAVEN, INC.
+Doc Type:    Decision - Court of Appeals
+Source:      240333_Linnhaven_Inc_v_Blasdell_5E78EEC6AB42C.pdf
+========================================================================
+
+IN THE COURT OF APPEALS OF IOWA 
+ 
+No. 24-0333 
+Filed October 30, 2024 
+ 
+ 
+LINNHAVEN, 
+INC., 
+and 
+ACCIDENT 
+FUND 
+NATIONAL 
+INSURANCE 
+COMPANY/UNITED HEARTLAND, 
+ 
+Plaintiffs-Appellants, 
+ 
+vs. 
+ 
+ROGER BLASDELL, surviving spouse of HEATHER BLASDELL, 
+ 
+Defendant-Appellee. 
+________________________________________________________________ 
+ 
+ 
+Appeal from the Iowa District Court for Polk County, Coleman McAllister, 
+Judge. 
+ 
+ 
+An employer appeals the district court’s denial of its petition for judicial 
+review of the workers’ compensation commissioner’s decision finding that a 
+surviving spouse’s death benefits are not barred by the willful-injury defense of 
+Iowa Code section 85.16(1) (2016).  AFFIRMED. 
+ 
+ 
+Laura J. Ostrander, Lansing, Michigan, for appellants. 
+ 
+Thomas Wertz of Wertz Law Firm, Cedar Rapids, for appellee. 
+ 
+ 
+Heard by Greer, P.J., and Buller and Langholz, JJ.
+
+ 
+2
+LANGHOLZ, Judge. 
+ 
+Tragically, Heather Blasdell died from an overdose of prescription drugs.  
+The workers’ compensation commissioner found that the overdose was accidental.  
+So the commissioner awarded her husband, Roger Blasdell, workers’ 
+compensation death benefits.  But on judicial review, Heather’s former employer, 
+Linnhaven, Inc., contends that her death was a suicide.1  Linnhaven thus argues 
+that the death benefits are barred by the willful-injury defense of Iowa Code section 
+85.16(1) (2016) and the commissioner’s contrary finding is not supported by 
+substantial evidence.  And Linnhaven argues that regardless whether the death 
+was accidental, it was not caused by Heather’s work injury.   
+ 
+But this second causation issue is not properly before us because it was not 
+decided by the commissioner or the district court.  Neither did Linnhaven ever 
+clearly raise the issue before the commissioner.  So we cannot consider it now. 
+ 
+Linnhaven’s properly preserved challenge to the commissioner’s finding 
+that Heather’s death was accidental fails on the merits.  Such factual disputes are 
+resolved before the commissioner.  Because substantial evidence in the agency 
+record supports the commissioner’s finding that Heather’s death was accidental, 
+the commissioner’s decision must be affirmed.  We thus affirm the district court’s 
+judgment, including its unchallenged order to remand Blasdell’s burial-expense 
+claim to be decided by the commissioner.  
+ 
+1 Linnhaven’s insurer, Accident Fund National Insurance Company/United 
+Heartland, is also a party to this judicial-review proceeding and the underlying 
+workers’ compensation proceeding.  For readability, we refer only to Linnhaven.  
+And because Heather and her husband have the same last name, we refer to 
+Heather by her first name and her husband by his last name. 
+
+ 
+3
+ 
+I.  
+Factual Background and Proceedings 
+ 
+In November 2012, Heather injured her ankle while working for Linnhaven.  
+She later developed lower-back pain and depression as a result of the injury.  And 
+the workers’ compensation commissioner thus found that Heather was 
+permanently and totally disabled because of the injury and awarded her workers’ 
+compensation benefits.  
+ 
+Heather sought mental-health counseling after the injury.  She was 
+diagnosed with a major depressive disorder starting in 2013 and continuing up until 
+August 2015.  Multiple counseling records note that Heather had suicidal thoughts 
+several times a week, but she had “no plans” and “no intent” to act on those 
+thoughts.  
+ 
+In September 2016, Heather died at her home alone.  An autopsy report by 
+the state medical examiner found the cause of death was a “[m]ixed drug 
+(quetiapine and zolpidem) intoxication.”  And the manner of death was 
+“undetermined.” 
+ 
+Police investigated and concluded based on the evidence at the scene, 
+Heather’s previous medical history, and the autopsy report that Heather either had 
+an accidental overdose or a successful suicide attempt.  The investigation noted 
+that Heather had a history of suicide attempts, that she would “routinely take 
+excess amounts of her prescription medications to get ‘high,’” and that she “and 
+her boyfriend had recently broken up.”  The police also discovered an undated 
+note in a notebook under a stack of paperwork on Heather’s bed that included 
+negative statements about herself, praise for her son, and a request that her friend 
+or mom take care of her “fur babies.”  The note to her son appears unfinished, 
+
+ 
+4
+ending in the middle of a line and without a punctuation mark: “You have become 
+a strong very proud of you. I wish I could have [ . . . ].”  
+ 
+Heather’s son and a neighbor friend both talked with Heather early on the 
+morning of her death before leaving for work.  They both agreed that she appeared 
+“high,” but that “this did not alarm them to seek medical attention for her” because 
+of her past history with prescription drugs.  The friend “talked to Heather about 
+seeing each other that evening.”  
+ 
+From before her workplace injury until her death, Heather and Blasdell were 
+married but separated.  So after Heather’s death, Blasdell sought death benefits 
+under Iowa Code section 85.31(1)(a)(1) and reimbursement for burial expenses 
+under section 85.28.  Linnhaven denied liability, arguing that Blasdell was barred 
+from receiving any benefits under Iowa Code section 85.42(1)(a) because he 
+willfully deserted Heather and under section 85.16(1) because her death was a 
+suicide and thus a willful injury. 
+ 
+A hearing was held before a deputy commissioner, at which all parties 
+agreed the only issues to be decided were: (1) Linnhaven’s defense that Blasdell 
+willfully deserted Heather; (2) Linnhaven’s defense that the death was a willful 
+injury; (3) the proper rate of compensation; and (4) taxation of costs.  Both 
+Heather’s son and Blasdell testified that they believed her death was an accidental 
+overdose, not a suicide.  Her son—who was living with her—explained that in the 
+days before her death, Heather’s “emotional state was really well.”  And he shared 
+that the night before, she was up “baking cookies and stuff” and “we had plans with 
+my sister to come down.”  When pressed by Linnhaven, he said he thought that 
+
+ 
+5
+“she had taken her medicine to go to sleep, and she was unable to fall asleep and 
+didn’t know—didn’t realize that she had already taken it and took more.” 
+ 
+The workers’ compensation commissioner agreed with Linnhaven that 
+Blasdell willfully deserted Heather.  So the commissioner denied Blasdell benefits 
+under Iowa Code section 85.42(1)(a).  And the commissioner did not decide 
+whether Heather’s death was accidental or a suicide. 
+ 
+Blasdell then successfully petitioned for judicial review.  The district court 
+reversed the commissioner’s decision that Blasdell deserted Heather and 
+remanded the case back to the commissioner to decide whether Linnhaven had 
+proved that Heather’s death was a willful injury.  And on appeal, our supreme court 
+agreed “with the district court that there is not substantial evidence to support the 
+commissioner’s finding that [Blasdell] deserted Heather without fault by her.”  
+Blasdell v. Linnhaven, Inc., 989 N.W.2d 131, 140–41 (Iowa 2023).  It likewise 
+agreed that because the commissioner “did not address Linnhaven’s claim that the 
+willful injury exception under Iowa Code section 85.16 bars [Blasdell’s] recovery of 
+the benefits,” “remand is appropriate for the commissioner to make the factual 
+findings necessary to decide this issue.”  Id. at 141. 
+ 
+Two months after procedendo issued, formally concluding the appeal, the 
+workers’ compensation commissioner issued a remand decision.  Based on the 
+evidence and briefing submitted prior to the first judicial-review proceeding, the 
+commissioner found that Linnhaven “failed to carry [its] burden of proof that 
+Heather’s death was a suicide under Iowa Code section 85.16(1).”  The 
+commissioner acknowledged the counseling records stating Heather’s “‘moderate’ 
+risk for suicide” and the undated note that “could be construed to be a suicide 
+
+ 
+6
+note.”  But it did not find this evidence persuasive because “there is no evidence if 
+[the note] was written the day before death, or written months or even years prior 
+to death” and because of the other contrary or missing evidence.  The 
+commissioner reasoned:  
+No expert has opined that Heather committed suicide.  The police 
+investigation indicates Heather’s death was caused by an accidental 
+overdose or suicide.  The autopsy report found that the cause of 
+death was undetermined.  The death certificate also found that the 
+cause of death was undetermined.  The police report noted that [her 
+son] and a friend believed Heather took excessive amounts of 
+medication to get high.  [Her son and Blasdell] both testified at 
+hearing they believed that Heather’s death was an accidental 
+overdose. 
+ 
+And so, the commissioner ruled that Blasdell’s claim for benefits was not barred 
+under Iowa Code section 85.16(1)(a) and he was entitled to death benefits.  The 
+commissioner also found that Linnhaven had not proved that the rate of benefits 
+should be changed from the agreed-to rate from Heather’s original award and thus 
+ordered Linnhaven to pay death benefits of $408.46 per week to Blasdell for so 
+long as he is eligible under Iowa Code section 85.31(1)(a)(1). 
+ 
+Blasdell petitioned for rehearing, asking the commissioner to decide his 
+claim for burial expenses that was not addressed in the remand decision.  
+Linnhaven resisted the petition, arguing that the issue was not properly before the 
+commissioner on remand.  But Linnhaven did not file its own rehearing petition 
+asking the commissioner to address any other issues.  The commissioner did not 
+grant Blasdell’s petition within twenty days, so it was “deemed to have been 
+denied.”  Iowa Code § 17A.16(2). 
+ 
+Linnhaven then petitioned for judicial review of the commissioner’s remand 
+decision under Iowa Code chapter 17A.  The one-page petition stated a single 
+
+ 
+7
+ground for reversal: “that substantial evidence supports none of the 
+Commissioner’s findings with regard to any of the issues Defendants raised in the 
+appeal.”  In its briefing to the district court, Linnhaven clarified that the “sole issue” 
+was whether the court “should reverse the Commissioner’s Appeal Decision that 
+found Roger Blasdell entitled to death benefits despite the Claimant’s intentional 
+suicide and the affirmative defense of intentional injury raised by the Defendants 
+pursuant to Iowa Code section 85.16(1).”  But rather than arguing why substantial 
+evidence does not support the commissioner’s finding that Heather’s death was 
+accidental, it focused nearly all its briefing on a new argument.  Linnhaven 
+contended that under the statute authorizing death benefits, Iowa Code section 
+85.31(1)(a), “no benefits may be awarded” because Heather’s “death, regardless 
+of whether an intentional suicide or accidental overdose, did not arise out of or in 
+the course of employment.”  Blasdell cross-petitioned for review of the 
+commissioner’s ruling, arguing that the commissioner’s failure to award burial 
+expenses was “affected by errors of law, is not supported by substantial evidence 
+in the record, and is unreasonable, arbitrary or capricious or characterized by an 
+abuse of discretion[] or unwarranted exercise of discretion.” 
+ 
+The district court denied Linnhaven’s petition, holding that the 
+commissioner’s decision that Linnhaven failed to prove its willful-injury defense 
+was “supported by substantial evidence.”  The court reasoned that “[w]hile 
+Linnhaven certainly can point to facts in the record that support a suspicion that 
+Heather’s death was a suicide, they simply have not conclusively proven that to be 
+the case” because “[t]here are likewise facts in the record that support a finding 
+that Heather’s death was the result of a tragic accidental drug overdose and not a 
+
+ 
+8
+suicide.”  The district court did not address Linnhaven’s newfound claim that 
+benefits should have been denied because Heather’s death was not caused by 
+her employment.  On Blasdell’s cross-petition, the court concluded that Blasdell 
+made a timely request for burial expenses but “for reasons that are unclear in the 
+record, the agency never acted on [his] request.”  So the court decided “remand is 
+appropriate for the Commissioner to consider and rule on [Blasdell’s] request for 
+burial expenses.”  
+ 
+Neither party moved under Iowa Rule of Civil Procedure 1.904 for the district 
+court to reconsider or enlarge its ruling.  Instead, Linnhaven appealed, challenging 
+only the court’s ruling on its willful-injury defense to Blasdell’s death benefits.   
+ 
+II. 
+Error Preservation on Causation 
+ 
+In a judicial-review proceeding under chapter 17A, we may only consider 
+issues that have been raised in and decided by both the agency and the district 
+court.  See Archer Daniels Midland v. Williams, 3 N.W.3d 231, 236 (Iowa Ct. App. 
+2023); Hill v. Fleetguard, Inc., 705 N.W.2d 665, 670–71 (Iowa 2005).  Because a 
+judicial-review proceeding is appellate in nature, a party cannot wait to raise an 
+issue “for the first time during judicial review.”  Williams, 3 N.W.3d at 236.  And 
+even when the party raises the issue before the agency, if the agency fails to 
+decide it, the party must “point out the issue in a motion for rehearing” before the 
+agency to preserve error on the issue.  KFC Corp. v. Iowa Dep’t of Revenue, 792 
+N.W.2d 308, 329 (Iowa 2010).  The same is true in the district court.  To preserve 
+error for our review—in a judicial-review proceeding, same as any other—a party 
+must request a ruling by filing a motion under Iowa Rule of Civil Procedure 1.904 
+
+ 
+9
+“when the district court fails to resolve an issue, claim or other legal theory properly 
+submitted for adjudication.”  Hill, 705 N.W.2d at 671 (cleaned up). 
+ 
+Linnhaven devotes much of its briefing to arguing that the death-benefits 
+award must be reversed regardless of whether Heather’s death was accidental or 
+a suicide because Blasdell did not prove that it was causally related to injuries 
+arising out of and in the course of her employment.  See Iowa Code § 85.31(1)(a); 
+Tebbs v. Denmark Light & Tel. Corp., 300 N.W. 328, 331 (Iowa 1941).  But 
+Linnhaven failed to preserve error on this issue twice over.  First, Linnhaven did 
+not raise this issue for the commissioner to decide.  The closest it came—a stray 
+sentence buried in briefing in an argument that Heather’s death was a suicide and 
+thus proved Linnhaven’s willful-injury affirmative defense—does not suffice to raise 
+this distinct issue based on a different statute and a different burden than the willful-
+injury affirmative defense.2  And even if that mere hint were enough to raise the 
+issue, when the commissioner did not decide it, Linnhaven needed to seek 
+rehearing to preserve error.  See KFC Corp., 792 N.W.2d at 329; Williams, 
+3 N.W.3d at 236. 
+ 
+Second, Linnhaven did not preserve error in the district court because it did 
+not get a ruling on this issue there either.  See Hill, 705 N.W.2d at 670–71.  
+Linnhaven did make this new causation argument in the district court—for the first 
+ 
+2 Three of Linnhaven’s briefs before the commissioner prior to the first judicial-
+review proceeding contain the same stray sentence and factual citation in its 
+argument about the facts supporting a suicide finding and its willful-injury 
+affirmative defense: “In addition, Mr. Blasdell has provided no evidence that Ms. 
+Blasdell’s suicide was caused by the initial November 5, 2012 work injury to her 
+ankle.  See all Claimant’s exhibits on file herein.”  Linnhaven did not explain the 
+importance of this assertion nor tie it to any statutory requirement. 
+
+ 
+10 
+time offering some legal authority and analysis.  But the court decided only the 
+properly preserved substantial-evidence challenge to the commissioner’s finding 
+that Heather’s death was accidental and did not address or acknowledge 
+Linnhaven’s causation argument.  Because the court did not rule on it, Linnhaven 
+had to file a 1.904 motion asking the court to enlarge its ruling to address the 
+causation argument.  See id.  So even if we could overlook Linnhaven’s failure to 
+preserve error before the commissioner, we still could not consider this new 
+argument for the first time on appeal.   
+ 
+At oral argument, Linnhaven urged that we can nevertheless reach this 
+issue because Blasdell did not raise any error-preservation concerns.  But the 
+requirement to preserve error protects more “than simply the interests of the 
+opposing party.”  Top of Iowa Coop. v. Sime Farms, Inc., 608 N.W.2d 454, 470 
+(Iowa 2000).  That is especially so in a judicial-review proceeding, which involves 
+not just “judicial resources,” but the interests of another branch of government that 
+we afford respect.  Id.  So we must consider whether error is preserved even when 
+it has been ignored—or conceded—by the opposing party on appeal.  See id.  We 
+thus consider only Linnhaven’s properly preserved substantial-evidence challenge 
+to the commissioner’s decision. 
+ 
+III. 
+Affirmative Defense of Willful Injury under Section 85.16(1)  
+ 
+In an appeal of a district court’s ruling on judicial review of agency action, 
+we apply the same statutory standards of review of the agency action as the district 
+court.  See Carreras v. Iowa Dep’t of Transp., 977 N.W.2d 438, 444 (Iowa 2022).  
+Those standards provide that a court “shall reverse, modify, or grant other 
+appropriate relief” of an agency decision when that decision prejudices the judicial-
+
+ 
+11 
+review petitioner’s “substantial rights” because the decision is “[b]ased upon a 
+determination of fact clearly vested by a provision of law in the discretion of the 
+agency that is not supported by substantial evidence in the record before the court 
+when that record is viewed as a whole.”  Iowa Code § 17A.19(10)(f).  The workers’ 
+compensation commissioner has been vested with discretion to make fact 
+determinations on compensation claims like this one.  See Mike Brooks, Inc. v. 
+House, 843 N.W.2d 885, 889 (Iowa 2014).  We thus must “accept the 
+commissioner’s factual findings when supported by substantial evidence.”  
+Williams, 3 N.W.3d at 234 (cleaned up). 
+ 
+Evidence is substantial if it “would be deemed sufficient by a neutral, 
+detached, and reasonable person, to establish the fact at issue when the 
+consequences resulting from the establishment of that fact are understood to be 
+serious and of great importance.”  Iowa Code § 17A.19(10)(f)(1).  “Evidence is not 
+insubstantial just because it could lead reasonable minds to different conclusions.”  
+Williams, 3 N.W.3d at 234; see also Larson Mfg. Co. v. Thorson, 763 N.W.2d 842, 
+850 (Iowa 2009).  The commissioner, as trier of fact, decides the credibility of the 
+witnesses, assesses the evidence, and resolves the disputed facts.  Arndt v. City 
+of Le Claire, 728 N.W.2d 389, 394–95 (Iowa 2007).  And so, like challenging a jury 
+verdict, a substantial-evidence challenge to the commissioner’s decision is a heavy 
+lift.  See Sellers v. Emp’t Appeal Bd., 531 N.W.2d 645, 646 (Iowa Ct. App. 1995) 
+(explaining that because judicial review of agency action is “severely 
+circumscribed,” “[n]early all disputes are won or lost” in the agency).   
+ 
+Linnhaven argues that substantial evidence in the record does not support 
+the commissioner’s finding that Heather’s death was accidental.  And it thus seeks 
+
+ 
+12 
+reversal of the commissioner’s decision that Linnhaven failed to prove its willful-
+injury affirmative defense under Iowa Code section 85.16(1).  That statute provides 
+that “[n]o compensation . . . shall be allowed for an injury caused . . . [b]y the 
+employee’s willful intent to injure the employee’s self.”  Iowa Code § 85.16(1).  As 
+an affirmative defense, Linnhaven had the burden of proving it.  See Nelson v. 
+Cities Serv. Oil Co., 146 N.W.2d 261, 264 (Iowa 1966).  Before the commissioner, 
+Linnhaven tried to meet its burden by proving that Heather’s death was a suicide.3 
+ 
+No doubt, there is evidence in the record from which a reasonable mind 
+could reach the conclusion Linnhaven urged.  Medical records showed that 
+Heather reported suicidal thoughts and was a moderate suicide risk.  She may 
+have previously attempted suicide.  She and her boyfriend had recently broken up.  
+And a note was found at her home that reads like a suicide note.  But that is not 
+the question here.  See Williams, 3 N.W.3d at 234.  On substantial-evidence 
+review, we ask whether substantial evidence supported the findings made by the 
+commissioner—not whether they could support a contrary finding.  See id. 
+ 
+And we agree with the district court that substantial evidence supports the 
+commissioner’s finding that Heather’s death was an accident.  The potential 
+suicide note was found in a notebook under a stack of papers on Heather’s bed—
+not right next to her.  It was undated.  And it was unfinished.  So the commissioner 
+could have reasonably found it merely showed Heather had been thinking about 
+ 
+3 The supreme court has held that even some suicides are compensable injuries 
+not disallowed by the willful-injury defense.  See Humboldt Cmty. Schs. v. Fleming, 
+603 N.W.2d 759, 762–63 (Iowa 1999).  But Blasdell has never argued—and the 
+commissioner did not find—that Heather’s death was a suicide.  So we do not 
+consider whether Heather’s death could be a compensable injury even if it were a 
+suicide. 
+
+ 
+13 
+suicide at some point in the past—not that she intended to do so when she 
+overdosed.  Heather’s son testified that she had been doing “really well” in the 
+days before her death.  And both he and another friend who spoke with her the 
+morning she died shared that they were making plans and indeed that Heather 
+had baked cookies just the night before.  What’s more, neither the medical 
+examiner nor the police investigation concluded that Heather’s death was a 
+suicide.   
+ 
+With evidence pointing in both directions, we cannot say that the record 
+lacked substantial evidence to support the commissioner’s conclusion that 
+Linnhaven failed to prove its willful-injury affirmative defense.  We thus affirm the 
+decisions of the commissioner and the district court. 
+ 
+Linnhaven did not appeal the district court’s order remanding the case to 
+the commissioner only “to consider and rule on [Blasdell’s] request for burial 
+expenses.”  So our affirmance of the challenged ruling does not disturb the district 
+court’s order remanding to the commissioner for that purpose.   
+ 
+AFFIRMED. 
+ 
