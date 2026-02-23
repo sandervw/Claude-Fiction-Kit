@@ -1,5 +1,9 @@
 # Prompts for Dark Fantasy Worldbuilding
 
+## Story Idea Prompt
+
+Hey claude, can you use your story idea skill to generate a story based on the role/archtype of **'The picaresque amoral survivor'** (like *Cugel* from *The Eyes of the Overworld*), and the setting of **'a corporate office-dungeon'**, based on the context of the setting in @Setting/CorpLore.md? (Like a modern corporate office, but with the elements of a dark fantasy dungeon like magic/demons/undead/weird-landscapes.) Write your result to the @Output\ folder.
+
 ## 'World' Prompt
 
 Hey Claude, I want you to generate 10 dark fantasy settings. Each setting should be atypical or untried in the genre.
