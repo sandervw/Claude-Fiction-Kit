@@ -1,5 +1,9 @@
 # Prompts for Dark Fantasy Worldbuilding
 
+## Scene Writing
+
+Hey claude, take a read through @[TODO]. Use your scene-writer skill to work through the current scene of the story. Note the scene placement/number, prioties, wordcount, and description. Before you start, Read through @Setting/CorpLore.md to get extra setting context. Do not read any other files in the stories folder.
+
 ## Story Idea Prompt
 
 Hey claude, can you use your story idea skill to generate a story based on the role/archtype of **'The picaresque amoral survivor'** (like *Cugel* from *The Eyes of the Overworld*), and the setting of **'a corporate office-dungeon'**, based on the context of the setting in @Setting/CorpLore.md? (Like a modern corporate office, but with the elements of a dark fantasy dungeon like magic/demons/undead/weird-landscapes.) Write your result to the @Output\ folder.
