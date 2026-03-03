@@ -1,6 +1,6 @@
 ---
 name: literary-revision
-description: Revise, rewrite, or redo prose in specific literary styles. Use when user asks to revise text in Howard, Thorogood, Peake, Conan, Eddison, or archaic style. Also use for any request to rewrite with a particular voice, tone, or aesthetic.
+description: Revise, rewrite, or redo prose in specific literary styles. Use when user asks to revise text in Howard, Thorogood, Peake, Conan, Eddison, or archaic style. Also use for any request to rewrite with a particular tone or aesthetic.
 ---
 
 # Literary Revision
