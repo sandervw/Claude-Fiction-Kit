@@ -6,31 +6,37 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 LLMAppDocs is a toolkit and research repository for LLM-assisted fiction writing. Think of it as a workbench: literary source material goes in, and structured writing tools, prompts, and generated prose come out. The project focuses on:
 
-- Dark fantasy worldbuilding (Whyneland setting, bestiary, folklore)
-- LLM prompt engineering for prose generation and revision
-- Tag/trait extraction from fictional source material
+- Worldbuilding prompt and context engineering
+- Prose generation and revision with Claude Code and Claude API
 - Literary style emulation (Howard, Peake, Eddison, Vance, etc.)
-- Claude Code skills and agents for structured creative workflows
+- Character analysis and abstraction into reusable templates
+- Story ideation via bisociation (colliding unrelated elements)
+- Folklore and cultural worldbuilding generation
 
 ## Repository Structure
 
 ```
-LLMAppDocs/
+Claude-Fiction-Kit/
 ├── .claude/
-│   ├── agents/          # Specialized agents (draft-editor, fiction-tagger, text-trimmer)
-│   └── skills/          # 8 custom skills (see Skills section below)
-├── Elements/            # JSON data libraries (names, tags, actions, templates, encyclopedia)
-├── Input/               # Working input files, revision guides, context notes
-├── Images/              # Image assets
-├── javascript/          # Node.js utilities (character gen, template selection, markdown parsing)
-├── Markdown/            # Prompts, worldbuilding docs, writing guides, BRD
-├── Output/              # Generated prose, dialogue, story ideas
-├── Sources/
-│   ├── OriginalWorks/   # Literary source texts (Peake, Howard, Eddison, Homer, etc.)
-│   └── Derivative/      # Game/RPG lore (Dark Souls, Hollow Knight, Malazan, etc.)
-├── main.js              # Entry point: reads Input/temp.md, revises via Claude, outputs to Output/
-├── package.json         # Node.js config, depends on @anthropic-ai/sdk
-└── CLAUDE.md
+│   ├── agents/              # Custom claude agents (draft-editor, fiction-tagger, text-trimmer)
+│   └── skills/              # Custom claude skills (see Skills section below)
+├── code/
+│   ├── javascript/          # Node.js utilities (character gen, template selection, markdown parsing)
+│   ├── python/              # Python utilities (Gutenberg HTML-to-MD converter, random tag selector)
+│   ├── package.json         # Node project config (uses @anthropic-ai/sdk)
+│   └── package-lock.json
+├── documentation/           # Project docs, prompt archives, research templates
+├── fiction/
+│   ├── elements/            # JSON data files (names, words, scene tags, paragraph templates, etc.)
+│   ├── images/              # Character/creature artwork (PNG)
+│   └── whyneland/           # Whyneland setting: worldbuilding, bestiary, stories, drafts
+├── input/                   # Working input files, context notes, revision guides, temp scratch
+├── output/                  # Generated results (dialogue guidelines, story ideas, character JSON)
+├── sources/
+│   ├── literature/          # Public-domain literary texts (Howard, Peake, Eddison, Smith, Homer, etc.)
+│   └── derivative/          # Game/RPG lore extracts (Dark Souls, Hollow Knight, Malazan, yokai, etc.)
+├── CLAUDE.md
+└── README.md
 ```
 
 ## Skills (`.claude/skills/`)
@@ -56,17 +62,18 @@ LLMAppDocs/
 
 ## Key Conventions
 
-- **Worldbuilding setting**: Whyneland (regressive dark fantasy). Key docs: `Markdown/World.md`, `Markdown/Bestiary.md`
-- **Prompts reference**: `Markdown/Prompts.md` contains scene-writing, revision, and generation prompts
-- **Story files**: Stories live in a `Stories/` folder structure with TODO-driven scene tracking
-- **Literary sources**: Full texts in `Sources/OriginalWorks/` are used for style analysis and tag extraction
-- **JSON element libraries** in `Elements/` power character generation and template selection
-- **Node.js entry point**: `main.js` reads from `Input/temp.md`, applies LLM revision, writes to `Output/llmresult.md`
+- Always write results to markdown or JSON files unless instructed otherwise
+- Output goes to the `output/` folder by default (see Working With This Repo)
+- Literary source texts live in `sources/literature/` (public domain) and `sources/derivative/` (game/RPG lore)
+- JSON data files (names, tags, templates) live in `fiction/elements/`
+- Skills follow a consistent structure: `SKILL.md` (instructions), `assets/` (templates), `references/` (style guides)
+- Node.js code uses ES modules (`"type": "module"` in package.json) and the Anthropic SDK
 
 ## Working With This Repo
 
-- When writing scenes, always check the TODO file for current scene priorities and placement
-- When revising prose, reference the appropriate style/voice skill rather than improvising
-- Prefer reading existing source material and worldbuilding docs before generating new content
-- The `Elements/*.json` files are structured data -- modify via scripts or careful manual editing
-- Story context files (setting, lore, character docs) should be read before scene writing to maintain consistency
+- Always write generated results to `output/` unless instructed otherwise
+- Use `input/` for scratch/working files (context notes, temp markdown, revision guides)
+- When running JS code, `cd` into `code/` first (`npm` scripts expect that working directory)
+- To convert a Gutenberg HTML book: `python code/python/convert-gutenberg.py <input.html> [output.md]`
+- Source texts are reference material; do not modify files in `sources/` unless asked
+- The `fiction/whyneland/` folder contains an active fiction project; treat drafts carefully

@@ -1,4 +1,4 @@
-# LLMAppDocs
+# Claude-Fiction-Kit
 
 A toolkit for LLM-assisted fiction writing, built around Claude Code's skills and agents system. Feed in literary source material and worldbuilding docs, get structured prose generation, style revision, and character analysis out.
 
@@ -8,40 +8,53 @@ This repository is part research lab, part writing workbench. It contains:
 
 - **Custom Claude Code skills** for scene writing, prose revision, character analysis, folklore generation, and more
 - **Custom Claude Code agents** for draft editing, tag extraction, and document compression
-- **A dark fantasy setting** (Whyneland) with bestiary, world lore, and etymology guides
-- **Literary source texts** from Howard, Peake, Eddison, Vance, Homer, and others -- used for style analysis and emulation
-- **JSON element libraries** for procedural character generation, scene tagging, and template selection
-- **Node.js utilities** that interface with the Claude API for automated prose revision
+- **Literary source texts** -- public-domain works (Howard, Peake, Eddison, Smith, Homer) and game/RPG lore (Dark Souls, Hollow Knight, Malazan)
+- **Fiction worldbuilding** -- the Whyneland setting with bestiary, etymology, cosmology, and story drafts
+- **Structured data** -- JSON files for names, scene tags, vocabulary, paragraph templates, and character actions
+- **Utility scripts** -- Node.js tools for character generation and template selection, Python tools for Gutenberg conversion and tag randomization
 
 ## Getting Started
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (v18+)
-- [Claude Code CLI](https://docs.anthropic.com/en/docs/claude-code)
-- An Anthropic API key (for the Node.js scripts)
+- [Claude Code](https://docs.anthropic.com/en/docs/claude-code) CLI installed
+- Node.js (for running JS utilities in `code/`)
+- Python 3 (for running Python utilities in `code/python/`)
 
 ### Setup
 
 ```bash
-npm install
+git clone https://github.com/your-username/Claude-Fiction-Kit.git
+cd Claude-Fiction-Kit
+cd code && npm install && cd ..
 ```
 
 ### Usage
 
-**With Claude Code (primary workflow):**
+The primary workflow is through Claude Code's skills and agents. Open the repo in Claude Code and use slash commands:
 
-Open the repo in Claude Code. The 8 skills and 3 agents are automatically available. Use them via slash commands (e.g., `/scene-writer`, `/literary-revision`) or by asking Claude to invoke them.
+```
+/scene-writer          # Write a prose scene from an outline
+/literary-revision     # Revise text in a literary style
+/voice-revision        # Rewrite text in a character's voice
+/story-idea-generator  # Generate a story idea via bisociation
+/character-analysis    # Analyze a fictional character
+/folklore-generator    # Generate folklore for an object or phenomenon
+```
 
-**With Node.js scripts:**
+You can also run the Node.js utilities directly:
 
 ```bash
-# Revise prose via Claude API
-# Place input text in Input/temp.md, then:
-node main.js
+cd code
+npm run generate-character    # Generate a character from templates
+npm run main                  # Run the main paragraph archive tool
+```
 
-# Generate a character from templates
-npm run generate-character
+Or the Python utilities:
+
+```bash
+python code/python/convert-gutenberg.py <input.html> [output.md]   # Convert Gutenberg HTML to Markdown
+python code/python/random_tags.py                                   # Select random tags from JSON
 ```
 
 ## Skills
@@ -68,23 +81,31 @@ npm run generate-character
 ## Repository Layout
 
 ```
-├── .claude/skills/      # 8 custom Claude Code skills with reference docs
-├── .claude/agents/      # 3 specialized agents
-├── Elements/            # JSON data (names, tags, actions, templates, encyclopedia)
-├── Input/               # Working input files and revision guides
-├── javascript/          # Node.js utilities for generation and parsing
-├── Markdown/            # Prompts, worldbuilding, writing guides
-├── Output/              # Generated prose and story ideas
-├── Sources/
-│   ├── OriginalWorks/   # Full literary texts for style analysis
-│   └── Derivative/      # Game/RPG lore for tag extraction
-├── main.js              # Entry point for LLM-powered prose revision
-└── package.json
+Claude-Fiction-Kit/
+├── .claude/
+│   ├── agents/              # 3 specialized agents (draft-editor, fiction-tagger, text-trimmer)
+│   └── skills/              # 8 custom skills, each with SKILL.md, assets/, and references/
+├── code/
+│   ├── javascript/          # Node.js utilities (character gen, template selection, markdown parsing)
+│   ├── python/              # Python utilities (Gutenberg converter, random tag selector)
+│   └── package.json
+├── documentation/           # Project docs, prompt archives, research templates
+├── fiction/
+│   ├── elements/            # JSON data (names, words, scene tags, paragraph templates)
+│   ├── images/              # Character/creature artwork
+│   └── whyneland/           # Whyneland setting: world docs, bestiary, story drafts
+├── input/                   # Working scratch files, context notes, revision guides
+├── output/                  # Generated results (dialogue, story ideas, character data)
+├── sources/
+│   ├── literature/          # Public-domain texts (Howard, Peake, Eddison, Smith, Homer)
+│   └── derivative/          # Game/RPG lore (Dark Souls, Hollow Knight, Malazan, yokai)
+├── CLAUDE.md                # Claude Code project instructions
+└── README.md
 ```
 
 ## Tech Stack
 
 - **Claude Code** -- skills, agents, and interactive writing workflows
-- **Node.js** -- automation scripts and Claude API integration
 - **@anthropic-ai/sdk** -- Claude API client
-- **Python** -- utility scripts (tag randomization)
+- **Node.js** -- automation scripts and Claude API integration
+- **Python** -- utility scripts (Gutenberg conversion, tag randomization)

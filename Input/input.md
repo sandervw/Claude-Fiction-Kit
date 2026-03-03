@@ -1,0 +1,5 @@
+In old tales they tell us many wonders of heroes and of high courage, of glad feasting, of wine and of mourning; and herein ye shall read of the marvellous deeds and of the strife of brave men.
+
+There grew up in Burgundy a noble maiden, in no land was a fairer. Kriemhild was her name. Well favoured was the damsel, and by reason of her died many warriors. Doughty knights in plenty wooed her, as was meet, for of her body she was exceeding comely, and her virtues were an adornment to all women.
+
+Three kings noble and rich guarded her, Gunther and Gernot, warriors of fame, and Giselher the youth, a chosen knight. The damsel was their sister, and the care of her fell on them. These lords were courteous and of high lineage, bold and very strong, each of them the pick of knights. The name of their country was Burgundy, and they did great deeds, after, in Etzel’s land. At Worms, by the Rhine, they dwelled in might with many a proud lord for vassal.
