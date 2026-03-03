@@ -12,7 +12,9 @@
       "Skill(character-abstraction)",
       "Skill(fiction-abstraction)",
       "Skill(folklore-generator)",
-      "Read(~\\.claude\\skills\\**)"
+      "Read(~\\.claude\\skills\\**)",
+      "Bash(pip install:*)",
+      "Skill(claude-developer-platform)"
     ],
     "deny": [],
     "ask": []
