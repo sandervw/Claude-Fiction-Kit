@@ -44,8 +44,8 @@ Claude-Fiction-Kit/
 | Skill                     | Purpose                                                                        |
 | ------------------------- | ------------------------------------------------------------------------------ |
 | **scene-writer**          | Write complete prose scenes from outline + story context                       |
-| **literary-revision**     | Revise prose in specific literary styles (Howard, Peake, Eddison, Thorogood)   |
-| **voice-revision**        | Rewrite prose in character voices (Freeman, Cugel, Gittes, Dagoth Ur, Solaire) |
+| **literary-revision**     | Revise prose in specific literary styles (Howard, Peake, Eddison)              |
+| **voice-revision**        | Rewrite prose in character voices (Freeman, Paladin, Thorogood)                |
 | **story-idea-generator**  | Generate story ideas via bisociation (colliding two unrelated elements)        |
 | **character-analysis**    | Analyze fictional characters (profile, description, actions, quotes)           |
 | **character-abstraction** | Strip setting-specific details from character elements into portable templates |
