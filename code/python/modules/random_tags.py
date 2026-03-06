@@ -15,8 +15,8 @@ def get_random_tags(filename: str, count: int) -> list[str]:
     Returns:
         List of randomly selected tag strings
     """
-    script_dir = Path(__file__).parent
-    filepath = script_dir / filename
+    input_dir = Path(__file__).resolve().parents[2] / "input"
+    filepath = input_dir / filename
 
     with open(filepath, 'r', encoding='utf-8') as f:
         data = json.load(f)

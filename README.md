@@ -62,8 +62,8 @@ python code/python/random_tags.py                                   # Select ran
 | Skill                   | What It Does                                                                            |
 | ----------------------- | --------------------------------------------------------------------------------------- |
 | `scene-writer`          | Writes complete prose scenes from an outline and story context                          |
-| `literary-revision`     | Revises prose in literary styles (Howard, Peake, Eddison, Thorogood)                    |
-| `voice-revision`        | Rewrites prose in character voices (Freeman, Cugel, Gittes, Dagoth Ur, Solaire)         |
+| `literary-revision`     | Revises prose in literary styles (Howard, Peake, Eddison)                               |
+| `voice-revision`        | Rewrites prose in character voices (Freeman, Paladin, Thorogood)                        |
 | `story-idea-generator`  | Generates story ideas by colliding two unrelated elements (bisociation)                 |
 | `character-analysis`    | Analyzes fictional characters across four modes (profile, description, actions, quotes) |
 | `character-abstraction` | Strips setting details from character elements into portable templates                  |

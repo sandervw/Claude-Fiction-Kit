@@ -272,12 +272,24 @@ class GutenbergToMarkdown(HTMLParser):
 """
 
 
-def convert(input_path: str, output_path: str = None):
-    """Convert a Gutenberg HTML file to Markdown."""
-    input_file = Path(input_path)
+def convert(filename: str, output_path: str = None):
+    """Convert a Gutenberg HTML file to Markdown.
+
+    Args:
+        filename: Filename or relative path within input/.
+        output_path: Optional override for output file path.
+    """
+    # Resolve paths relative to input/ and output/
+    project_root = Path(__file__).resolve().parents[2]
+    input_file = project_root / "input" / filename
+    output_dir = project_root / "output"
+
+    if not input_file.exists():
+        print(f"Error: File not found: {input_file}")
+        return
 
     if output_path is None:
-        output_file = input_file.with_suffix('.md')
+        output_file = output_dir / input_file.with_suffix('.md').name
     else:
         output_file = Path(output_path)
 
@@ -301,10 +313,14 @@ def convert(input_path: str, output_path: str = None):
     # Write output
     output_file.write_text(markdown, encoding='utf-8')
 
+    # Delete original HTML file
+    input_file.unlink()
+
     print(f"Converted: {input_file.name} -> {output_file.name}")
     print(f"Title: {parser.title or 'Unknown'}")
     print(f"Author: {parser.author or 'Unknown'}")
     print(f"Output size: {len(markdown):,} characters")
+    print(f"Deleted: {input_file.name}")
 
 
 def main():
