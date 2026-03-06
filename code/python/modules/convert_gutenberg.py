@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Convert Project Gutenberg HTML books to clean Markdown.
 
@@ -20,317 +19,258 @@ You may need to customize the SKIP_SECTIONS list and tweak the header
 for different books.
 """
 
-import re
-import sys
-from html.parser import HTMLParser
-from html import unescape
-from pathlib import Path
+from __future__ import annotations
 
-# Section IDs to skip entirely (case-sensitive, matches h2 id attribute)
-SKIP_SECTIONS = {
-    'CONTENTS',
-    'ILLUSTRATIONS',
-    'DEDICATION',
-}
+import sys
+from dataclasses import dataclass, field
+from html.parser import HTMLParser
+
+from modules.utils.markdown_writer import (
+    MarkdownBuilder,
+    clean_markdown,
+    clean_text,
+    format_header,
+)
+from modules.utils.file_pipeline import (
+    read_file,
+    resolve_paths,
+    write_file,
+    print_summary,
+)
+
+SKIP_SECTIONS = {'CONTENTS', 'ILLUSTRATIONS', 'DEDICATION'}
+
+
+@dataclass
+class ParserState:
+    current_text: list[str] = field(default_factory=list)
+    in_body: bool = False
+    in_pg_header: bool = False
+    in_pg_footer: bool = False
+    in_h2: bool = False
+    in_subhead: bool = False
+    in_paragraph: bool = False
+    in_poetry: bool = False
+    in_stanza: bool = False
+    in_blockquote: bool = False
+    in_titlepage: bool = False
+    skip_section: bool = False
+    skip_content: bool = False
+
+
+@dataclass
+class BookMetadata:
+    title: str = ""
+    author: str = ""
+    source_url: str = ""
 
 
 class GutenbergToMarkdown(HTMLParser):
-    def __init__(self):
+    def __init__(self) -> None:
         super().__init__()
-        self.output = []
-        self.current_text = []
+        self.state = ParserState()
+        self.meta = BookMetadata()
+        self.md = MarkdownBuilder()
 
-        # State tracking
-        self.in_body = False
-        self.in_pg_header = False
-        self.in_pg_footer = False
-        self.in_h2 = False
-        self.in_subhead = False
-        self.in_paragraph = False
-        self.in_poetry = False
-        self.in_stanza = False
-        self.in_blockquote = False
-        self.in_titlepage = False
-        self.skip_section = False
-        self.skip_content = False
-
-        # Metadata extraction
-        self.title = ""
-        self.author = ""
-        self.source_url = ""
-
-    def handle_starttag(self, tag, attrs):
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        s = self.state
         attrs_dict = dict(attrs)
         classes = attrs_dict.get('class', '').split()
         tag_id = attrs_dict.get('id', '')
 
-        # Extract metadata from meta tags
         if tag == 'meta':
-            name = attrs_dict.get('name', '')
-            content = attrs_dict.get('content', '')
-            if name == 'dc.title' and not self.title:
-                self.title = content
-            elif name == 'dc.creator' and not self.author:
-                # Clean up author format (e.g., "Eddison, Eric Rücker, 1882-1945")
-                parts = content.split(',')
-                if len(parts) >= 2:
-                    self.author = f"{parts[1].strip()} {parts[0].strip()}"
-                else:
-                    self.author = content
-
-        # Extract source URL
+            self._extract_metadata(attrs_dict)
         if tag == 'link' and attrs_dict.get('rel') == 'dcterms.isFormatOf':
-            self.source_url = attrs_dict.get('href', '')
+            self.meta.source_url = attrs_dict.get('href', '')
 
-        # Skip Gutenberg boilerplate
         if 'pg-header' in classes or tag_id == 'pg-header':
-            self.in_pg_header = True
-            self.skip_content = True
+            s.in_pg_header, s.skip_content = True, True
             return
         if 'pg-footer' in classes or tag_id == 'pg-footer':
-            self.in_pg_footer = True
-            self.skip_content = True
+            s.in_pg_footer, s.skip_content = True, True
             return
-
-        # Skip page numbers
-        if 'pagenum' in classes:
-            self.skip_content = True
+        if 'pagenum' in classes or 'figcenter' in classes:
+            s.skip_content = True
             return
-
-        # Skip images
-        if 'figcenter' in classes:
-            self.skip_content = True
-            return
-
-        # Skip title page
         if 'titlepage' in classes:
-            self.in_titlepage = True
-            self.skip_content = True
+            s.in_titlepage, s.skip_content = True, True
             return
 
         if tag == 'body':
-            self.in_body = True
+            s.in_body = True
+            return
+        if not s.in_body or s.skip_content:
             return
 
-        if not self.in_body or self.skip_content:
-            return
-
-        # Check for sections to skip
         if tag == 'h2':
             if tag_id in SKIP_SECTIONS:
-                self.skip_section = True
+                s.skip_section = True
                 return
-            else:
-                self.skip_section = False
-
-        # Skip content in excluded sections
-        if self.skip_section:
+            s.skip_section = False
+        if s.skip_section:
             return
-
         if tag == 'div' and 'chapter' in classes:
             return
 
-        if tag == 'h2' and self.in_body:
-            self.in_h2 = True
-            self.current_text = []
+        if tag == 'h2' and s.in_body:
+            s.in_h2, s.current_text = True, []
             return
-
         if tag == 'div' and 'subhead' in classes:
-            self.in_subhead = True
-            self.current_text = []
+            s.in_subhead, s.current_text = True, []
             return
-
         if tag == 'p':
-            self.in_paragraph = True
-            self.current_text = []
+            s.in_paragraph, s.current_text = True, []
             return
-
         if tag == 'div' and 'poetry' in classes:
-            self.in_poetry = True
-            self.output.append("\n")
+            s.in_poetry = True
+            self.md.blank_line()
             return
-
         if tag == 'div' and 'stanza' in classes:
-            self.in_stanza = True
+            s.in_stanza = True
             return
-
         if tag == 'blockquote':
-            self.in_blockquote = True
+            s.in_blockquote = True
             return
-
-        # Line breaks in poetry
-        if tag == 'br' and self.in_poetry:
-            self.current_text.append('\n')
+        if tag == 'br' and s.in_poetry:
+            s.current_text.append('\n')
             return
-
-        # Inline formatting
         if tag in ('i', 'em'):
-            self.current_text.append('*')
-            return
-        if tag in ('b', 'strong'):
-            self.current_text.append('**')
-            return
+            s.current_text.append('*')
+        elif tag in ('b', 'strong'):
+            s.current_text.append('**')
 
-    def handle_endtag(self, tag):
+    def handle_endtag(self, tag: str) -> None:
+        s = self.state
         if tag == 'section':
-            if self.in_pg_header:
-                self.in_pg_header = False
-                self.skip_content = False
+            if s.in_pg_header:
+                s.in_pg_header, s.skip_content = False, False
                 return
-            if self.in_pg_footer:
-                self.in_pg_footer = False
-                self.skip_content = False
+            if s.in_pg_footer:
+                s.in_pg_footer, s.skip_content = False, False
                 return
 
-        if tag == 'span' and self.skip_content:
-            self.skip_content = False
+        if tag == 'span' and s.skip_content:
+            s.skip_content = False
             return
 
         if tag == 'div':
-            if self.skip_content:
-                if self.in_titlepage:
-                    self.in_titlepage = False
-                self.skip_content = False
+            if s.skip_content:
+                if s.in_titlepage:
+                    s.in_titlepage = False
+                s.skip_content = False
                 return
-            if self.in_poetry:
-                if self.in_stanza:
-                    self.in_stanza = False
-                    self.output.append("\n")
+            if s.in_poetry:
+                if s.in_stanza:
+                    s.in_stanza = False
+                    self.md.blank_line()
                 else:
-                    self.in_poetry = False
+                    s.in_poetry = False
                 return
-            if self.in_subhead:
-                self.in_subhead = False
-                text = self._clean_text()
+            if s.in_subhead:
+                s.in_subhead = False
+                text = clean_text(s.current_text)
+                s.current_text = []
                 if text:
-                    self.output.append(f"*{text}*\n\n")
+                    self.md.raw(f"*{text}*\n\n")
                 return
 
-        if self.skip_content or self.skip_section:
+        if s.skip_content or s.skip_section:
             return
 
-        if tag == 'h2' and self.in_h2:
-            self.in_h2 = False
-            text = self._clean_text()
+        if tag == 'h2' and s.in_h2:
+            s.in_h2 = False
+            text = clean_text(s.current_text)
+            s.current_text = []
             if text:
-                self.output.append(f"\n---\n\n## {text}\n\n")
+                self.md.heading(text)
             return
 
-        if tag == 'p' and self.in_paragraph:
-            self.in_paragraph = False
-            text = self._clean_text()
+        if tag == 'p' and s.in_paragraph:
+            s.in_paragraph = False
+            text = clean_text(s.current_text)
+            s.current_text = []
             if text:
-                if self.in_blockquote:
-                    self.output.append(f"> {text}\n>\n")
+                if s.in_blockquote:
+                    self.md.blockquote(text)
                 else:
-                    self.output.append(f"{text}\n\n")
+                    self.md.paragraph(text)
             return
 
         if tag == 'blockquote':
-            self.in_blockquote = False
-            self.output.append("\n")
+            s.in_blockquote = False
+            self.md.blank_line()
             return
-
-        # Inline formatting
         if tag in ('i', 'em'):
-            self.current_text.append('*')
+            s.current_text.append('*')
+        elif tag in ('b', 'strong'):
+            s.current_text.append('**')
+
+    def handle_data(self, data: str) -> None:
+        s = self.state
+        if s.skip_content or s.in_pg_header or s.in_pg_footer or s.skip_section:
             return
-        if tag in ('b', 'strong'):
-            self.current_text.append('**')
-            return
+        if s.in_h2 or s.in_subhead or s.in_paragraph:
+            s.current_text.append(data)
 
-    def handle_data(self, data):
-        if self.skip_content or self.in_pg_header or self.in_pg_footer:
-            return
-        if self.skip_section:
-            return
-        if self.in_h2 or self.in_subhead or self.in_paragraph:
-            self.current_text.append(data)
+    def _extract_metadata(self, attrs_dict: dict[str, str]) -> None:
+        name = attrs_dict.get('name', '')
+        content = attrs_dict.get('content', '')
+        if name == 'dc.title' and not self.meta.title:
+            self.meta.title = content
+        elif name == 'dc.creator' and not self.meta.author:
+            parts = content.split(',')
+            if len(parts) >= 2:
+                self.meta.author = f"{parts[1].strip()} {parts[0].strip()}"
+            else:
+                self.meta.author = content
 
-    def _clean_text(self):
-        """Join current text and normalize whitespace."""
-        text = ''.join(self.current_text).strip()
-        text = re.sub(r'\s+', ' ', text)
-        self.current_text = []
-        return text
+    def get_markdown(self) -> str:
+        return self.md.build()
 
-    def get_markdown(self):
-        return ''.join(self.output)
-
-    def get_header(self):
-        """Generate markdown header from extracted metadata."""
-        title = self.title or "Unknown Title"
-        author = self.author or "Unknown Author"
-        source = self.source_url or "Project Gutenberg"
-
-        return f"""# {title}
-
-*{author}*
-
-*Source: {source}. Public domain.*
-
-"""
+    def get_header(self) -> str:
+        return format_header(
+            title=self.meta.title or "Unknown Title",
+            author=self.meta.author or "Unknown Author",
+            source=(self.meta.source_url or "Project Gutenberg") + ". Public domain",
+        )
 
 
-def convert(filename: str, output_path: str = None):
-    """Convert a Gutenberg HTML file to Markdown.
-
-    Args:
-        filename: Filename or relative path within input/.
-        output_path: Optional override for output file path.
-    """
-    # Resolve paths relative to input/ and output/
-    project_root = Path(__file__).resolve().parents[2]
-    input_file = project_root / "input" / filename
-    output_dir = project_root / "output"
-
-    if not input_file.exists():
-        print(f"Error: File not found: {input_file}")
+def convert(filename: str, output_path: str | None = None) -> None:
+    try:
+        input_file, output_file = resolve_paths(
+            filename, output_path, anchor=__file__, levels_up=3
+        )
+    except FileNotFoundError as e:
+        print(f"Error: {e}")
         return
 
-    if output_path is None:
-        output_file = output_dir / input_file.with_suffix('.md').name
-    else:
-        output_file = Path(output_path)
-
-    # Read and parse
-    html_content = input_file.read_text(encoding='utf-8')
-
+    html_content = read_file(input_file)
     parser = GutenbergToMarkdown()
     parser.feed(html_content)
 
-    markdown = parser.get_markdown()
-
-    # Clean up
-    markdown = unescape(markdown)
-    markdown = re.sub(r'\n{3,}', '\n\n', markdown)
-    markdown = re.sub(r'\*\*\*\*+', '', markdown)  # Remove bold artifacts
-    markdown = markdown.strip()
-
-    # Add header
+    markdown = clean_markdown(parser.get_markdown())
     markdown = parser.get_header() + markdown
 
-    # Write output
-    output_file.write_text(markdown, encoding='utf-8')
-
-    # Delete original HTML file
+    write_file(output_file, markdown)
     input_file.unlink()
 
-    print(f"Converted: {input_file.name} -> {output_file.name}")
-    print(f"Title: {parser.title or 'Unknown'}")
-    print(f"Author: {parser.author or 'Unknown'}")
-    print(f"Output size: {len(markdown):,} characters")
-    print(f"Deleted: {input_file.name}")
+    print_summary(
+        input_file.name,
+        output_file.name,
+        len(markdown),
+        deleted=True,
+        title=parser.meta.title or "Unknown",
+        author=parser.meta.author or "Unknown",
+    )
 
 
-def main():
+def main() -> None:
     if len(sys.argv) < 2:
         print(__doc__)
         sys.exit(1)
 
     input_path = sys.argv[1]
     output_path = sys.argv[2] if len(sys.argv) > 2 else None
-
     convert(input_path, output_path)
 
 

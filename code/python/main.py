@@ -1,4 +1,7 @@
+from __future__ import annotations
+
 from pathlib import Path
+
 from modules.llm_prompt import llm_prompt
 
 input_file = Path("../../input/input.md").read_text(encoding="utf-8")
