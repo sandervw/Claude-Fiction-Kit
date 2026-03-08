@@ -9,11 +9,11 @@ Analyze fictional characters and output structured documents.
 
 ## Mode Detection
 
-**STOP: Read ONLY the ONE reference file for the detected mode. Do NOT pre-read templates, other references, or any other files. Follow the reference workflow step by step.**
+**STOP:** This is a branching skill, not a workflow. The four modes below are mutually exclusive. Read ONLY the ONE reference file for the detected mode. NEVER read any other files.
 
 Determine mode from user request:
 
-**Full mode** (default):
+**Profile mode**:
 - Triggers: "analyze", "full analysis", "character profile", "character template"
 - **Read**: `references/profile-reference.md`
 
@@ -31,7 +31,7 @@ Determine mode from user request:
 
 If ambiguous, ask user which mode.
 
-**IMPORTANT: Each mode is a SEPARATE BRANCH. Read ONLY the single reference file listed for the detected mode. Do NOT read files for other modes.**  
+**REMINDER:** Each mode is a SEPARATE BRANCH. Read ONLY the single reference file listed for the detected mode. Do NOT read files for other modes.  
 
 ## Workflow
 
@@ -39,3 +39,5 @@ If ambiguous, ask user which mode.
 2. Read the appropriate reference doc for that mode
 3. Follow the workflow in that reference doc
 4. Present completed file(s) to user
+
+**REMINDER:** NEVER DO ALL FOUR MODES. Never, ever assume the user wants this. You **MUST** pick and run one mode.
