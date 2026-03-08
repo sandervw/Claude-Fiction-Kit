@@ -9,10 +9,12 @@ Analyze fictional characters and output structured documents.
 
 ## Mode Detection
 
+**STOP: Read ONLY the ONE reference file for the detected mode. Do NOT pre-read templates, other references, or any other files. Follow the reference workflow step by step.**
+
 Determine mode from user request:
 
-**Profile mode** (default):
-- Triggers: "analyze", "character breakdown", "character profile", "character template"
+**Full mode** (default):
+- Triggers: "analyze", "full analysis", "character profile", "character template"
 - **Read**: `references/profile-reference.md`
 
 **Description mode**:
@@ -28,6 +30,8 @@ Determine mode from user request:
 - **Read**: `references/quotes-reference.md`
 
 If ambiguous, ask user which mode.
+
+**IMPORTANT: Each mode is a SEPARATE BRANCH. Read ONLY the single reference file listed for the detected mode. Do NOT read files for other modes.**  
 
 ## Workflow
 
