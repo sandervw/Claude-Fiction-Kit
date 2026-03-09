@@ -14,7 +14,8 @@
       "Skill(folklore-generator)",
       "Read(~\\.claude\\skills\\**)",
       "Bash(pip install:*)",
-      "Skill(claude-developer-platform)"
+      "Skill(claude-developer-platform)",
+      "Bash(cp:*)"
     ],
     "deny": [],
     "ask": []
