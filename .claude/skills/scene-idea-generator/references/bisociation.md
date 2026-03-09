@@ -2,7 +2,7 @@
 
 ## How to Identify Friction
 
-Scan each trait combination and ask: **does this pairing produce a "what if" question with inherent tension?**
+Scan each trait combination and ask: **does this pairing produce a scene with inherent tension?**
 
 Friction tends to appear in these patterns:
 
@@ -20,9 +20,9 @@ From all the combinations that produce friction, select the **top 4-7** based on
 2. Memorable
 3. Specific/Unique
 
-Frame each collision as a numbered "What if?" question, followed by a short one-sentence explanation of where the friction comes from:
+Frame each collision as a 1-sentence scene summary, followed by a short one-sentence explanation of where the friction comes from:
 
 ```
-"1. What if [situation created by the collision]?"
+"1. Scene Summary"
    Friction: [which traits collide and why the result is charged]
 ```

@@ -9,21 +9,21 @@
 
 ### 1. [Scene Title]
 
-**Scene**: [What if? premise - 1 sentence] *(friction type)*
+**Scene**: [Premise - 1 sentence summary of scene] *(1-3 word friction type)*
 
-- **Location & Atmosphere**: [10-15 words]
-- **Tension & Stakes**: [10-15 word]
-- **Key Image**: [10-15 words]
-- **Movement**: [10-15 words]
+- **Location & Atmosphere**: [8-12 words]
+- **Tension & Stakes**: [8-12 word]
+- **Key Image**: [8-12 words]
+- **Movement**: [8-12 words]
 
 ### 2. [Scene Title]
 
-**Scene**: [What if? premise - 1 sentence] *(friction type)*
+**Scene**: [Premise - 1 sentence summary of scene] *(1-3 word friction type)*
 
-- **Location & Atmosphere**: [10-15 words]
-- **Tension & Stakes**: [10-15 word]
-- **Key Image**: [10-15 words]
-- **Movement**: [10-15 words]
+- **Location & Atmosphere**: [8-12 words]
+- **Tension & Stakes**: [8-12 word]
+- **Key Image**: [8-12 words]
+- **Movement**: [8-12 words]
 
 Etc...
 
