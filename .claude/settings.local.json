@@ -15,7 +15,11 @@
       "Read(~\\.claude\\skills\\**)",
       "Bash(pip install:*)",
       "Skill(claude-developer-platform)",
-      "Bash(cp:*)"
+      "Bash(cp:*)",
+      "Bash(pip list:*)",
+      "Bash(tesseract --version 2>/dev/null || echo \"tesseract not installed\")",
+      "Read(//c/Program Files/Tesseract-OCR/**)",
+      "Read(//c/Program Files \\(x86\\)/Tesseract-OCR/**)"
     ],
     "deny": [],
     "ask": []
