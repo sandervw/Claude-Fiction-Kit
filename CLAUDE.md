@@ -33,8 +33,8 @@ Claude-Fiction-Kit/
 ├── input/                   # Working input files, context notes, revision guides, temp scratch
 ├── output/                  # Generated results (dialogue guidelines, story ideas, character JSON)
 ├── sources/
-│   ├── literature/          # Public-domain literary texts (Howard, Peake, Eddison, Smith, Homer, etc.)
-│   └── derivative/          # Game/RPG lore extracts (Dark Souls, Hollow Knight, Malazan, yokai, etc.)
+│   ├── literature/          # Public-domain literary texts
+│   └── derivative/          # Game/RPG lore extracts
 ├── CLAUDE.md
 └── README.md
 ```

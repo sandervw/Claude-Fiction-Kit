@@ -8,7 +8,6 @@ This repository is part research lab, part writing workbench. It contains:
 
 - **Custom Claude Code skills** for scene writing, prose revision, character analysis, folklore generation, and more
 - **Custom Claude Code agents** for draft editing, tag extraction, and document compression
-- **Literary source texts** -- public-domain works (Howard, Peake, Eddison, Smith, Homer) and game/RPG lore (Dark Souls, Hollow Knight, Malazan)
 - **Fiction worldbuilding** -- the Whyneland setting with bestiary, etymology, cosmology, and story drafts
 - **Structured data** -- JSON files for names, scene tags, vocabulary, paragraph templates, and character actions
 - **Utility scripts** -- Node.js tools for character generation and template selection, Python tools for Gutenberg conversion and tag randomization
@@ -96,9 +95,7 @@ Claude-Fiction-Kit/
 │   └── whyneland/           # Whyneland setting: world docs, bestiary, story drafts
 ├── input/                   # Working scratch files, context notes, revision guides
 ├── output/                  # Generated results (dialogue, story ideas, character data)
-├── sources/
-│   ├── literature/          # Public-domain texts (Howard, Peake, Eddison, Smith, Homer)
-│   └── derivative/          # Game/RPG lore (Dark Souls, Hollow Knight, Malazan, yokai)
+├── sources/                 # Store any training texts here
 ├── CLAUDE.md                # Claude Code project instructions
 └── README.md
 ```
