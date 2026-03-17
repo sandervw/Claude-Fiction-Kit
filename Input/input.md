@@ -1,607 +1,560 @@
-## Tsais
+# Cugel's Dialogue
 
-T’SAIS CAME riding from the grove. She checked her horse shimmering pastel meadow toward the river . . . She stirred her knees and the horse proceeded across the turf.
+## The Eyes of the Overworld
 
-She rode deep in thought, and overhead the sky rippled and cross-rippled, like a vast expanse of windy water, in tremendous shadows from horizon to. horizon. Light from above, worked and refracted, flooded the land with a thousand colors, and thus, as T’sais rode, first a green beam flashed on her, then ultramarine,. and topaz and ruby red, and the landscape changed in similar tintings and subtlety.
+"In all candor, not too well -- I am both perplexed and disappointed, for my talismans are not obviously useless."
 
-T’sais closed her eyes to the shifting lights. They rasped her nerves, confused her vision. The red glared, the green stifled, the blues and purples hinted at mysteries beyond “knowledge. It was as if the entire universe had been expressly designed with an eye to jarring her, provoking her to fury. ... A butterfly with wings patterned like a precious rug flitted by, and T’sais made to strike at it with her rapier. She restrained herself with great effort; for T’sais was of a passionate nature and not given to restraint. She looked down at the flowers below her horse’s feet—pale daisies, blue-bells, Judas-creeper, orange sunbursts. No more would she stamp them to pulp, rend them from their roots. It had been sugself. Swallowing her vast enmity toward the butterfly and the across the Hestow.
+"No need -- my interest was cursory."
 
-A bank of dark trees rose above her, and heed were clumps of rushes and the gleam of water, all changing in hue as the light changed in the sky. She turned and followed the river bank to the long low manse.
+"How does this concern me?"
 
-She dismounted, walked slowly to the door of black smoky wood, which bore the image of a sardonic face. She pulled at the tongue and inside a bell tolled.
+"This is all very well -- but would Iucounu leave his manse without guard or attendant?"
 
-There was no reply.
+"Precisely this thought deters me -- I am a man of resource, but not insensate recklessness."
 
-“Pandelume!” she called.
+"I will ask your cooperation -- a small matter of extending one arm and one leg."
 
-Presently there was a muffled answer: “Enter.”
+"You excite my curiosity!"
 
-She pushed open the door and came into a high- ceilinged room, bare except for a padded settee, a dim tapestry.
+"The villain is as good as dead!"
 
-“What is your wish?” The voice, mellow and of an illimitable melancholy, came from beyond the wall.
+"Now remove these abominable bonds!"
 
-“Pandelume, today I have learned that killing is evil, and further that my eyes trick me, and that beauty is where I see only harsh light and evil forms.”
+"The choice, if it lies between a sortie into the demon-world La-Er and the Spell of Forlorn Encystment, is moot. Frankly, I am at a loss for decision."
 
-For a period Pandelume maintained a silence; then the
+"If I must, I must -- who guards this violet hemisphere? What is its function? How do I go and how return? What necessary weapons, talismans and other magical adjuncts do you undertake to fit me out with?"
 
-muffled voice came, replying to the implicit plea for knowledge. nie “That is, for the most part, true. Living creatures, if noth- " ing else, have the right to life. It is their only truly precious for the other, the fault is not with you. Beauty lies everywhere free to be seen by all—by all except you. For this I feel sorrow, for I created you. I built your primal cell; I stamped the strings of life with the pattern of your body and brain. And in spite of my craft I erred, so that when you climbed from the vat, I found that I had molded a flaw into your brain; that you saw ugliness in beauty, evil in good. True ugliness, true evil you have never seen, for in Embelyon there is nothing wicked or foul . . . Should you be so unfortunate to encounter these, I fear for your brain.”
+"Have no fear -- my word is my bond."
 
-“Cannot you change me?” cried T’sais. “You are a magician. Must I live my life out blind to joy?”
+"These talismans are not uniformly dependable -- I will require further competences."
 
-The shadow of a sigh penetrated the wall.
+"I am anxious only for the success of the venture!"
 
-“I am a magician indeed, with knowledge of every spell yet devised, the sleight of runes, incantations, designs, exor- -cisms, talismans. I am Master Mathematician, the first since Phandaal, yet I can do nothing to your brain without destroying your intelligence, your personality, your soul— ely on magic, the spells which vibrate and twist space.” Hope faded from T’sais’ eyes. “I wish to go to Earth,” she said presently. “The sky of Earth is a steady blue, and a red sun moves over the horizons. I tire of Embelyon where there is no voice but yours.”
+"Since I am now committed to this enterprise, and unlikely to return, you may care to learn my appraisal of yourself and your character. In the first place �"
 
-“Earth,” mused Pandelume. “A dim place, ancient beyond knowledge. Once it was a tall world of cloudy mountains and bright rivers, and the sun was a white blazing ball. Ages of rain and wind have beaten and rounded the granite, and the sun is feeble and red. The continents have sunk and risen. A million cities have lifted towers, have fallen to dust. In place of the old peoples a few thousand strange souls live, There is evil on Earth, evil distilled by time. . . . Earth is dying and in -
+"I am a wayfarer -- I ask only to be directed to the inn, where I may find food and lodging."
 
-T’sais said doubtfully: “Yet I have heard Earth is a place of beauty, and I would know beauty, even though I die.”
+"I thank you gratefully,"
 
-“How will you know beauty when you see it?”
+"I am currently guest at the village Smolod -- I find the folk pleasant enough, but somewhat odd. For instance, why are their eyes as they are? What is the nature of their affliction? Why do they conduct themselves with such aristocratic self-assurance and suavity of manner?"
 
-“Alt human beings know beauty . . . Am I not human?”
+"Can these magic cusps be detached at will and transferred as the owner sees fit?"
 
-“Of course.”
+"Vastly interesting!"
 
-“Then I will find beauty, and perhaps even—” T’sais faltered over the word, so alien was it to her mind, yet so full of disturbing implication.
+"How might I qualify for a pair of these magic cusps?"
 
-Pandelume was silent. At last:
+"Thirty-one years -- a period of not negligible duration."
 
-“You shall go if you wish. I will aid you as I may. I will give you runes to ward you from magic; I will strike life into your sword; and I will give you advice, which is this: Beware of men, for men loot beauty to sate their lust. Permit intimacy to none . . . I will give you a bag of jewels, which are riches on Earth. With these you may attain much. Yet, again, show them nowhere, for certain men will slay for a copper bit.”
+"My lord -- as you know I am a traveler from a far land, attracted here by the magnificence of the city Smolod."
 
-A heavy silence came, a weight was gone from the air.
+"I do not look through magic cusps,"
 
-“Pandelume,” called T’sais softly. There was no reply.
+"It is inspiring!"
 
-Ea Deaent Pindcliaine returned, and poy sense of his presence reached to her mind.
+"How may I obtain a pair of these magic cusps?"
 
-“In a moment,” he said, “you may enter this room.”
+"Perhaps I might make special arrangements to secure his cusps?"
 
-Tsais waited a period; then, as she was bid, entered the next room.
+"This may well be true at the moment -- but when the sun goes dark, what then? Will you take an equal delight in the gloom and the chill?"
 
-“On the bench to the left,” came Pandelume’s voice, “you will find an amulet and a little sack of gems. Clasp this amulet upon your wrist; it will reflect magic intended evilly against him who utters the spell. This is a most powerful rune; guard it well.”
+"Again -- I offer my services, if only to requite in some small manner the hospitality I have enjoyed at Smolod."
 
-T’sais obeyed, and tied the jewels inside her sash. i
+"I am ready as of this instant -- indeed, if you will but tender me the magic cusps I will take them quietly aside and rejoice."
 
-“Lay your sword upon this bench, stand upon the rune in the floor and close your eyes tightly. I must enter the room. I charge you, do not attempt to see me—for there are terrible consequences.”
+"Revered -- allow me one boon. Before the ceremonies begin, fit me with the magic cusps so that I may understand the full portent of the ceremony."
 
-T’sais discarded her sword, stood upon the metal rune, locked her eyes. She heard a slow step, heard the clink of metal, then a high intense shrilling, dying slowly.
+"I am here, sir."
 
-“Your sword lives,” said Pandelume, and his voice sounded strangely loud, coming from so near. “It will kill your enemies with intelligence. Reach your hand and take itey,
+"What jackal is this that interrupts solemnities? Remove him: hence!"
 
-T’sais sheathed her slim rapier, now warm and quivering.
+"In view of the interruption -- I had as lief merely take custody of the magic cusps until these louts can properly be chastened."
 
-“Where on Earth will you go?” asked Pandelume. “To the land of men, or to the great ruined wildernesses?”
+"Insert the magic cusp, lord; let us ignore these louts."
 
-of beauty had spoken of this land.
+"It matters very little -- thanks to my friend Firx I am well content with the one."
 
-“As you wish,” said Pandelume. “Now hark! If you ever ‘seek to return to Embelyon—”
+"This cannot be done,"
 
-“No,” said Tsais. “I would rather die.”
+"Give over the cusp and preserve your life!"
 
-“Please yourself in that regard.”
+"You will never escape,"
 
-T’sais remained silent.
+"By no means -- rather fear for your own sodden vitality, which goes in even greater peril!"
 
-“Now I will touch you. You will be dizzy a moment— and then you will open your eyes on Earth. It is almost night, and terrible things rove the dark. So seek shelter quickly.”
+"Smoked fish and lentils I may still be devouring -- but there is much to be said for the enchantment by which they become such exquisite delicacies. Indeed a man might do far worse than spend the rest of his life here in Smolod."
 
-In high excitement T’sais felt the touch of Pandelume. There was a wavering in her brain, a swift unthinkable flight
+"Clearly -- there will be no departure from Smolod tonight. Naturally I am anxious to convey the cusp to Iucounu, but if I am killed then neither the cusp nor the admirable Firx will ever return to Almery."
 
-. . Strange soil was under her feet, strange air at her face with a sharper tang. She opened her eyes. The landscape was strange and new. There was a dark “ blue sky, an ancient sun. She stood in a meadow, encircled by tall gloomy trees. These trees were unlike the calm giants of Embelyon; these were dense and brooding, and the shadows were enigmatic. Nothing in sight, nothing of Earth was raw or harsh—the ground, the trees, the rock ledge protruding from the meadow; all these had been worked upon, smoothed, aged, mellowed. The light from the sun, though dim, was rich, and invested every object of the land, the
+"It seems to me -- that Squire Bubach Angh, though doubtless a worthy man, exhibits a lack of discipline unfitting the dignity of Smolod. In my opinion he would be all the better for a few years more seasoning at Grodz."
 
-rocks, the trees, the quiet grasses and flowers, with a sense of
+"Or a trial by lot might be arranged, in which all who see with two cusps participate, the loser of the trial donating one of his cusps to Bubach Angh. I myself will make do with one."
 
-lore and ancient recollection.
+"The charm of these ladies has not escaped me -- unluckily I am bound by a vow of continence."
 
-A hundred paces distant rose the mossy ruins of a longtumbled castelry. The stones were blackened now by lichens, by smoke, by age; grass grew rank through the rubble—the whole a weird picture in the long light of sunset.
+"Surely it is you she summons,"
 
-Tssais slowly approached. Some of the walls yet were standing, stone on weathered stone, the mortar long since dissolved. She moved wonderingly around a great effigy, mouldered, chipped, cracked, almost entirely buried; puzzled
+"I am here on a mission; I stay but a short while at Smolod, and then must continue east and south."
 
-a moment at the characters carved in the base. Wide-eyed
+"This is the case, and so it must be."
 
-she stared at what remained of the visage—cruel eyes, sneering mouth, a nose broken off. T’sais shuddered faintly. There.
+"By no means -- take the cusp from Bubach Angh."
 
-was nothing here for her; she turned to go.
+"The fort is as good as razed -- but what circumstances bound you to so unremitting a post?"
 
-A laugh, high-pitched, gleeful, rang across the clearing. T’sais, mindful of Pandelume’s warnings, waited in a dark recess. Movement flickered between the trees; a man and woman lurched into the failing sunlight; then came a young man treading light as air, singing and whistling. He held a light sword, which he used to prod the two, who were bound.
+"This is no fault of mine -- you pursued me, not I you. Why did you do so?"
 
-They halted before the ruins, close by T’sais, and she could see the faces. The bound man was a thin-faced wretch with a ragged red beard and eyes darting and desperate; the woman was short and plump. Their captor was Liane the Wayfarer. His brown hair waved softly, his features moved in charm and flexibility. He had golden-hazel eyes, large and beautiful, never still. He wore red leather shoes with curled tops, a suit feather.
+"In this case you need not resent my part in the transition which you now face. The question regarding hidden valuables again becomes relevant. Perhaps you have a final word on this matter?"
 
-T’sais watched without comprehension. The three were EL o natant We Weghurs
+"These names are unknown to me -- what place is Benbadge Stull?"
 
-equally vile, of sticky blood, red pulp, inner filth. Liane - seemed slightly less ignoble—he was the most agile, the most elegant. And T’sais watched with little interest.
+"Again, regions beyond my knowledge -- what lies beyond Benbadge Stull?"
 
-Liane deftly threw loops around the ankles of man and woman and pushed them so that they fell among the flints. The man groaned softly, the woman fell to whimpering.
+"And what place is Cil?"
 
-Liane made a gay flourish of his hat and sprang away to the ruins. Not twenty feet from T’sais he slid aside a stone in the ancient flags, came forth with tinder and flint, and kindled a fire. From his pouch he took a bit of meat, which ~ he toasted and ate daintily, sucking his fingers.
+"Notice this fine object: a treasure indeed!"
 
-No word had yet passed. Liane at last stood up, stretched, and glanced at the sky. The sun was dropping below the dark wall of trees, and already blue shadows filled the glade.
+"Why do you not rejoice that the amulet has been found?"
 
-“To business,” cried Liane. His voice was shrill and clear as the call of a flute. “First,” and he made a solemnly waggish gesture, “I must assure that our revelations are weighted with soberness and truth.”
+"You are now relieved from further search. Explain, if you will, the potency of this amulet. It exhales a heavy magic. How does it profit the owner?"
 
-He ducked into his lair under the flags and brought forth four stout staffs. He laid one of these across the thighs of the man, passed the second across this, through the crotch of his captive’s legs, so that with slight effort he could crush his device and crowed as the man cried out. He adjusted a similar arrangement upon the woman.
+"You put me in an uncomfortable position -- my property is too small to admit of largesse, but I cannot consider this a failure of generosity. If you had found the amulet, would you have given it to me?"
 
-T’sais watched in perplexity. Evidently the young man was preparing to cause his captives pain. Was this a custom of good or evil?
+"Do you always lock yourselves apart at the sight of a strange face? Are you so timorous then? Or merely surly?"
 
-“Liane! Liane!” cried the man. “Spare my wife! She knows nothing! Spare her, and you may have all I possess, and I serve you my lifetime!”
+"This well may be. But why do you withdraw so abruptly at my mere approach?"
 
-“Hol” laughed Liane, and the feather of his cap quivered. “Thank you, thank you for your offer—but Liane wants no faggots of wood, no turnips. Liane likes silk and gold, the gleam of daggers, the sounds a girl makes in love. So thank you—but I seek the brother of your wife, and when your wife chokes and screams, you will tell where he hides.”
+"What is all this?"
 
-To T’sais the scene began to assume meaning. The two captives were concealing information the young man desired; hence he would hurt them until in desperation they did as he asked. A clever artifice, one which she would se have thought of herself.
+"Of what amulet do you speak?"
 
-“Now,” said Liane, “I must ensure that lies are not. artfully mingled into the truth. You see,” he confided, “when one is under torment, he is too distraught to invent, to fabricate—and hence speaks naught but exactness.” He snatched a brand from the fire, wedged it between the man’s bound ankles, and instantly leapt to ply the torture lever upon the woman.
+"A fascinating legend!"
 
-“I know nothing, Liane!” babbled the man. “I know nothing—oh, indeed!”
+"What are the powers of the amulet, and how are they activated?"
 
-Liane stood away with dissatisfaction. The woman had fainted. He snatched the brand away from the man and seed it pettishly into the blaze.
+"Is there no information elsewhere?"
 
-“What a nuisance!” he said, but presently his good saying reasserted themselves. “Ah well, we have much time.” He stroked his pointed chin.
+"No rumor of the sea? No ancient tablet or set of glyphs?"
 
-“Perhaps. you speak truth,” he mused. “Perhaps your good wife shall be the informant after all.” He revived her with slaps and an aromatic which he held under her nose. She stared at him numbly, her face twisted and bloated.
+"This is correct -- and I must journey yet farther. Notice the sun: it starts down the western curve, and tonight I wish to house myself at Cil."
 
-“Attend,” said Liane. “I enter the second phase of the question. I reason, I think, I theorize. I say, perhaps the husband does not know where he whom I seek has fled, per- haps the wife alone knows.”
+"I thank you indeed -- this is generosity beyond my expectation."
 
-The woman’s mouth opens slightly. “He is my brother— please—”
+"This garment we offer as a gift. You seem a sensitive man and so may require protection from wind and cold."
 
-“Ah! So you know!” cried Liane in delight, and strode back and forth before the fire. “Ah, you know! We renew the trial. Now attend. With this staff I make jelly of your man’s legs, and bring his spine up through his stomach—unless you speak.”
+"And thereby you will be prevented from further pranks -- notice, you have drenched me to the skin!"
 
-He set about his task.
+"Malice is a quality to be deplored -- I doubt the efficacy of your curse; nevertheless, you would be well-advised to clear the air of its odium and so regain my good opinion."
 
-“Say nothing—” gasped the man, and lapsed into pain. The woman cursed, sobbed, pleaded. At last: “I tell, I tell you alll” she cried. “Dellare has gone to Efred!”
+"One must use his wits in dealing with maledictions -- am I known as Cugel the Clever for nothing?"
 
-Liane relaxed his efforts. “Efred. So. In the Land of the - Falling Wall.” He pursed his lips. “It might be true. But I disbelieve. You must tell me once more, under the influence of the truth-evoker.” And he brought a brand from the fire "once more. The woman spoke not.
+"The amulet confers so much power?"
 
-’ “Speak, woman,” snarled Liane, panting. “I am in perspiration with this work.” The woman spoke not. Her eyes were wide, and stared glassily upwards.
+"It is possible to achieve all this?"
 
-“She is dead!” cried her husband. “Dead! My wife is dead! Ah—Liane, you demon, you foulness!” he screamed. “I curse youl by Thial, by Kraan—” His voice quavered into highpitched hysteria.
+"Well then -- what is their import?"
 
-T’sais was disturbed. The woman was dead. Was not killing wicked? So Pandelume had said. If the woman were good, as the bearded man had said, then Liane was evil. Things of blood and filth all, of course. Still, it was vile, hurting a live thing till it died.
+"If I am to be deprived of my heart's-desire -- I would be wise to fix upon a new goal, a fervent new enthusiasm, for at least the space of a day. I shall therefore aspire to the rule of Cil, which now becomes my heart's-desire."
 
-Knowing nothing of fear, she stepped out from her hiding place and advanced into the fire-light. Liane looked up and sprang back. But the intruder was a slender girl of passionate beauty. He caroled, he danced.
+"I intend to use this amulet to achieve highly important ends. Among them may well be the lordship of Cil, to which I believe I am entitled by virtue of my amulet."
 
-“Welcome, welcome!” He glared in distaste at the bodies on the ground. “Unpleasant; we must ignore them.” He flung his cloak back, ogled her with his luminous hazel eyes, strutted toward her like a plumed cock.
+"If you fear to this extent -- instruct me in the use of the amulet, and I will prevent that calamity."
 
-“You are lovely, my dear, and I—I am the perfect man; so you shall see.”
+"I have none -- I much prefer to discuss the matter within, since the creature step by step mounts to the terrace."
 
-self. Liane leapt back, alarmed by the blade and likewise by the blaze which glowed deep from the warped brain.
+"Indeed -- what manner of being is it?"
 
-“What means this? Come, come,” he fretted. “Put away your steel. It is sharp and hard. You must lay it away. I am a kind man, but I brook no annoyance.”
+"At this moment -- my wants are simple: an alcove, a couch, a morsel of food for my supper. If I am provided these, you will find me benevolence personified; indeed I will assist you in your pleasures; together we will contrive stratagems to bait the ghoul."
 
-T’sais stood over the prone bodies. The man looked up at her feverishly. The woman stared at the dark sky.
+"I make no complaints -- though for a fact the linens were a trifle stale."
 
-Liane sprang forward, planning to clasp her while her attention was distracted. The rapier sprang up by itself, darted forward, pierced the agile body.
+"Say no more -- indeed it was my hope to visit the palace incognito, so to speak, that I might see how affairs were conducted."
 
-Liane the Wayfarer sank to his knees coughing blood. T’sais pulled away the rapier, wiped the blood on the gay green cloak, and sheathed it with difficulty. It wished to stab, to pierce, to kill.
+"If such an event comes to pass � and it is my heart's-desire � you shall not be neglected. For the present I shall remain quietly in this apartment. You may bring hither a suitable repast, with a variety of choice wines."
 
-Liane lay unconscious. T’sais turned away, sick. A thin voice reached her. “Release me—”
+"How is this possible?"
 
-T’sais considered, then she cut the bonds. The man stumbled to his wife, stroked her, flung off the bonds, called to her uplifted face. There was no answer. He sprang erect in madness and howled into the night. Raising the limp form in his arms he stumbled off into the darkness, lurching, falling, cursing
+"She has had no information of my presence; as I recall, I gave you specific instructions in this regard."
 
-T’sais shivered: She glanced from the prone Liane to the black forest where the flickering circle of the firelight failed to reach. Slowly, with many backward glances, she left the tumbled ruins, the meadow. The bleeding figure of Liane remained by the dying fire.
+"Very well -- be so good as to lead the way. You mentioned my amulet to her?"
 
-The glimmer of flame waned, was lost in the ciseteiiabe T’sais groped her way between the looming trunks; and the murk was magnified by the twist in her brain. There never had been night in Embelyon, only an opalescent dimming. So T’sais continued down the sighing forest courses, stifled, weighed, yet oblivious to the things she might have met— the Deodands, the pelgrane, the prowling erbs (creatures mixed of beasts, man and demon), the gids, who leapt twenty feet across the turf and clasped themselves to their victims.
+"My name is of no consequence -- you may address me as 'Exalted'."
 
-T’sais went unmolested, and presently reached the edge of the forest. The ground rose, the trees thinned, and T’sais came out on an illimitable dark expanse. This was Modavna Moor, a place of history, a tract which had borne the tread of many feet and absorbed much blood. At one famous slaughtering, Goliekan Kodek the Conqueror had herded here the populations of two great cities, G’Vasan and Bautiku, constricted them in a circle three miles across, gradually pushed them tighter, tighter, tighter, panicked them toward the center within his flapping-armed sub-human cavalry, until at last he -had achieved a gigantic squirming mound, half a thousand feet high, a pyramid of screaming flesh. It is said that Golickan Kodek mused ten minutes at his monument, then turned and rode his bounding mount back to the ~ land of Laidenur from whence he had come.
+"I am that vagabond -- I cannot say that your conduct has failed to leave a residue of resentment and I am now here to demand an explanation."
 
-The ghosts of the ancient populations had paled and dissolved and Modavna Moor was less stifling than the forest. Bushes grew like blots from the ground. A line of rocky crags at the horizon jutted sharp against a faint violet afterglow. T’sais picked her way across the turf, relieved that the sky was open above. A few minutes later she came to an ancient road of stone slab, cracked and broken, bordered by a ditch where luminous star-shaped flowers grew. A wind came -sighing off the moor to dampen her face with mist. She went wearily down the road. No shelter was visible, and the wind whipped coldly at her cloak.
+"Just so -- I am here."
 
-A rush of feet, a tumble of shapes, and T’sais was struggling against hard grasping hands. She fought for her rapier, but her arms were pinioned.
+"In due course you will know me well -- I am a generous man, though given to caprice, and were it not for a certain Firx � Be that as it may, I hunger, and now I invite you to share the banquet which I have ordered the excellent Yodo to set before me. Kindly be good enough to move a place or two aside, and I will be seated."
 
-One struck a light, fired a torch, to examine his prize. T’eais saw three bearded, scarred rogues of the moor; they wore gray pandy-suits, stained and fouled by mud and filth.
+"Such is my heart's-desire!"
 
-“Why, it’s a handsome maid!” said one, leering.
+"We will see, we will see -- tonight is tonight, tomorrow is tomorrow. Many changes will be made, this is certain."
 
-“Yl seek about her for silver,’ said another and slid his hands with evil intimacy over T’sais’ body. He found the sack of jewels, and turned them into his palm, a trickle of hundred-colored fire. “Mark these! The wealth of princes!”
+"Though my acquaintance with the excellent Yodo is of short duration, I have been most favorably impressed by his worth, and I hereby elevate him to the post of Major-Domo of the Palace!"
 
-“Or sorcerers!” said another. And in sudden doubt they relaxed their holds. But still she could not reach her rapier.
+"Another goblet, if you please � The decanter."
 
-“Who are you, woman of the night?” asked one with some: respect. “A witch, to have such jewels, and walk Modavna Moor alone?”
+"It was your doing -- did you not order poison in the wine?"
 
-T’sais had neither wit nor experience to improvise faleehood.
+"There is a reason for this effect -- which in due course will be voided, or so I hope. Until then, you may regard my soul as one shining with the purest ray imaginable."
 
-“I am no witch! Release me, you stinking animals!”
+"Are no other treatises at hand?"
 
-“No witch? Then what manner of woman are you? Whence do you come?”
+"Here is the new Lord of Cil; he has vast powers of magic and will order the ghoul destroyed. Will you not, Exalted?"
 
-“I am T’sais, of Embelyon,” she cried angrily. “Pandelume created me, and I seek love and beauty on Earth. Now drop your hands, for I would go my way!”
+"Where is this bestial being? Why does he not appear to receive his deserts?"
 
-The first rogue chortled. “Ho, ho! Seeking love and beauty! You have achieved something of your quest, gitrl—for while we lads are no beauties, to be sure, Tagman being covered with scab and Lasard lacking his teeth and ears—still we have much love, hey, lads? We will show you as much love as you desire! Hey, lads?”
+"Why did you not slay the ghoul?"
 
-And in spite of T’sais’ horrified outcries, they dragged her across the moor to a stone cabin.
+"The warriors decamped with the torches -- I could see neither where to hack nor where to hew."
 
-They entered, and one kindled a roaring fire, while two stripped T’sais of her rapier and flung it in a corner. They docked the door with a great iron key, and released her. She sprang for her sword, but a buffet sent her to the foul floor.
+"So simple and quick a death is unsuitable -- I must cogitate at length, and decide how he may best expiate his crimes."
 
-“May that quiet you, fiend-cat!” panted Tagman. “You should be happy,” and they renewed their banter. “Admitted may wish.”
+"Stay! One more step and magic will turn each of your bones at right angles!"
 
-T’sais crouched in a corner. “I know not what love is,” she panted. “In any event I want none of yours!”
+"With pleasure, Great Lady."
 
-“Is it possible?” they crowed. “You are yet innocent?” And — T’sais listened with eyes glazing as they proceeded to describe in evil detail their concept of love.
+"It is I who possess the amulet! I whom you must obey! Kill all but me!"
 
-T’sais sprang from her corner in a frenzy, kicking, beating her fists at the moor-men. And when she had been flung into her corner, bruised and half-dead, the men brought out a great cask of mead, to fortify themselves for their pleasure.
+"What is his name?"
 
-Now they cast lots as to who should be the first to enjoy the girl. The issue was declared, and here an altercation arose, two claiming that he who won had cheated. Angry words evolved, and as T’sais watched, dazed in horror beyond the concept of a normal mind, they fought like bulls in a mut, with great curses, mighty blows. T’sais crept to her rapier, and as it felt her touch, it lofted into the air like a bird. It lunged itself into the fight, dragging T’sais behind. The three shouted hoarsely, the steel flickered—in, out, faster than the eye. Cries, groans—and three sprawled on the earthen floor, gaping-mouthed corpses. T’sais found the key, unlocked the door, fled madly through the night.
+"Am I Cugel the Clever for nothing? Show me which carbuncle, recite me the name."
 
-She ran over the dark and windy moor, across the road, stumbled into the ditch, dragged herself up the cold muddy membered Embelyon, where the most evil things were flowers and butterflies. She remembered how these had aroused her hate. és
+"The ghoul waits in the promenade."
 
-Embelyon was lost, renounced. And T’sais wept.
+"In what respect?"
 
-A rustling in the heather aroused her. Aghast she lifted her head, listened. What new outrage to her mind? The sinister sounds again, as of cautious footfalls. She searched the darkness in terror. A
+"The knowledge is of importance; we must cross these mountains on our way to Almery."
 
-A black figure stole into her sight, creeping along the ditch. In the light of the fireflies she saw him—a Deodand, — wandered from the forest, a hairless man-thing with charcoal-black skin, a handsome face, marred and made de- moniac by two fangs gleaming long, sharp and white down his lip. It was clad in a leather harness, and its long slit eyes were fastened hungrily on T’sais. He sprang at her with an exulting cry.
+"Nor I -- were it not for Iucounu I would be elsewhere."
 
-T’sais stumbled clear, fell, snatched herself up. Wailing, she fied across the moor, insensible to scratching furze, tearing thorn. The Deodand bounded after, venting eerie moans.
+"What people are you?"
 
-Over moor, turf, hummock, briar and brook, across the dark wastes went the chase, the girl fleeing with eyes starting and staring into nothing, the pursuer uttering his wistful moans.
+"No matter -- we require only transfer across the river, then guidance upon a secure route to the lands of the south."
 
-A loom, a light ahead—a cottage. T’sais, breath coming in sobs, lurched to the threshold. The door mercifully gave. She fell in, slammed the door, dropped the bar. The weight of the Deodand thudded against the barrier.
+"How then may we achieve our destination?"
 
-The door was stout, the windows small and crossed by iron. She was safe. She sank to her knees, the breath rasping in her throat, and slowly lapsed into unconsciousness .
+"We will proceed directly toward the south -- come, let us depart at once."
 
-The man who dwelt in the cottage rose from his deep seat at the fire, tall, broad of shoulder, moving with a curiously slow step. He was perhaps a young man, but no one could know, for his face and head were draped in a black hood. Behind the eye-slits were steady blue eyes.
+"Perhaps we can come to terms."
 
-The man came to stand over T’sais, who lay flung like a doll on the red brick floor. He stooped, lifted the limp form, and carried her to a wide padded bench beside the fire. He removed her sandals, her quivering rapier, her sodden cloak. He brought unguent and applied it to her scratches’ and bruises. He wrapped her in soft flannel blanketing, pillowed her head, and, assured that she was comfortable, once more sat himself by the fire.
+"She is of sentimental temperament, and wishes to see me safely on my way to the Mountains of Magnatz, even though it means my certain death."
 
-The Deodand outside had lingered, and had been watching through the iron-barred window. Now it knocked at the door.
+"Possibly so -- but it seems overly circuitous, and where are the fearsome creatures you mentioned? I have seen only a vole, and nowhere have I sensed the distinctive odor of the erb."
 
-“Who’s there?” called the man in the black hood, twisting about.
+"We are still deep in the forest."
 
-said the soft voice of the Deodand.
+"This seems to be the case,"
 
-The man in the hood spoke sharply.
+"What of all this?"
 
-“Go, before I speak a spell to burn you with fire. Never return!”
+"I am not too fleet of foot and when I wish the woman I do not care to pursue her here and there. But are you not in haste? The sun declines, and after dark the leucomorphs appear."
 
-“I go,” said the Deodand, for he greatly feared magic, and departed into the night.
+"This is to prevent any sudden leaps or excursions,"
 
-And the man turned and sat staring into the fire.
+"Well then, which of the trails leads to the southern verge?"
 
-T’sais felt warm pungent liquid in her mouth and opened her eyes. Kneeling beside her was a tall man, hooded in black. One arm supported her shoulders and head, another ‘held a silver spoon to her mouth.
+"Well, all seems to be for the best. The Mountains of Magnatz are notoriously dangerous. You are at least secure with this uncouth rogue."
 
-T’sais shrank away. “Quietly,” said the man. “Nothing will harm you.” Slowly, doubtfully, she relaxed and lay still.
+"Such language is vulgar -- the Busiaco and I struck a bargain, which is to say, a sacred covenant, which must be discharged."
 
-Red sunlight poured in through the windows, and the cottage was warm. It was paneled in golden wood, with a fret- work painted in red and blue and brown circling the ceiling. Now the man brought more broth from the fire, bread from a locker, and placed them before her. After a moment’s hesitation, T’sais ate.
+"Interesting -- it is almost tempting to return, to seek out the Busiaco and exact some sort of explanation �"
 
-Recollection suddenly came to her; she shuddered, looked wildly around the room. The man noted her taut face. He stooped and laid a hand ‘on her head. T’sais lay quiet, half in dread.
+"This is discouraging news -- is there no other route to the lands of the south?"
 
-“You are safe here,” said the man. “Fear nothing.”
+"The route which you delineate, while it may be safer and less taxing than the direct way south, seems of inordinate length. I am disposed to risk the Mountains of Magnatz."
 
-A vagueness came over T’sais. Her eyes grew heavy. She slept.
+"What is the meaning of this outrage?"
 
-When she woke the cottage was empty, and the maroon sunlight slanted in from an opposite window. She stretched &
+"Speak! How dare you attempt such an act!"
 
-her arms,
+"I will be the judge of that -- do you expect me to walk barefoot to my death in the Mountains of Magnatz? Be off with you!"
 
-ms, tucked her hands behind her eld, and by think- Everything else of Earth had been past thought. Still, he had done nothing to harm her . . . She spied her garments upon the floor. She rose from the couch and dressed herself. She went to the door and pushed it open. Before her stretched
+"Few pleasures are otherwise -- but while you live, inform me regarding the Mountains of Magnatz."
 
-‘the moor, fading far off beyond the under-slant of the horizon. To her left jutted a break of rocky crags, black shadow and lurid red stones. To the right extended the black margin of the forest.
+"What lies beyond?"
 
-Was this beautiful? T’sais pondered. Her warped brain saw bleakness in the line of the moor, cutting harshness in the crags, and in the forest—terror.
+"We will travel further together,"
 
-Was this beauty? At a loss, she twisted her head, squinted.
+"You have no control over the grisly appetites of your fellows?"
 
-‘She heard footsteps, jerked about, wide-eyed, expecting anything. It was he of the black hood, and T’sais leaned back against the door-jamb.
+"Do you wish to live?"
 
-She watched him approach, tall and strong, slow of step. could understand something of this, for she herself found the human face repellent—an object of watery eye, wet unpleasant apertures, spongy outgrowths.
+"Did you not claim the repute of the region to be purely fabulous?"
 
-He halted before her. “Are you hungry?”
+"There is no mystery to either of your questions -- first, the north is not uninhabited, some hundreds of men yet remain alive. As to this black hybrid of demon and cannibal, I employed it to lead me safely through the mountains, but I am dissatisfied with its services."
 
-T’sais considered. “Yes.”
+"What of yourselves? And what of Magnatz who reputedly makes the mountains unsafe for travel?"
 
-“Then we will eat.”
+"Strange -- that the tradition wields so wide an influence."
 
-He entered the cottage, stirred up the fire, and spitted meat. T’sais stood uncertainly in the background. She had always served herself. She felt an uneasiness: co-operation
+"Possibly Magnatz roams the mountains across the lake?"
 
-“Tell me of yourself,” he said after a few moments. So T’sais, who had never learned to be other than artless, told him her story, thus:
+"Is the post of Watchman held in such high esteem then?"
 
-“I am T’sais. I came to Earth from Embelyon, where the wizard Pandelume created me.”
+"I thank you indeed -- I had expected no such affability in the Mountains of Magnatz, which all the world holds in dread."
 
-“Embelyon? Where is Embelyon? And who is Pandelume?”
+"Is it because your Watchman had died?"
 
-“Where is Embelyon?” she repeated in puzzlement. “I don’t know. It is in a place that is not Earth. It is not very &
+"I abide your pleasure -- if you wish to inspect the communal gold, I will be glad to join you."
 
-large, "and lights of many colors come from the ae ‘Pando.
+"It would seem to be the post of the Watchman,"
 
-lume lives in Embelyon. He is the greatest wizard alive—so -
+"Indeed, indeed -- the position appears worthy of consideration. What responsibilities are entailed?"
 
-he tells me.”
+"The conditions are straightforward. The Watchman watches; nothing could be more clearly expressed. But who is Magnatz, in what direction should he be apprehended, and how may he be recognized?"
 
-“Pandelume created me,” continued T’sais, “but there was a flaw in the pattern.” And T’sais stared into the fire. “I see harsh, all living creatures vile, in varying degrees—things of sluggish movement and inward filth. During the first of my life I thought only to trample, crush, destroy. I knew nothout the flaw. She told me of love and beauty and happiness —and I came to Earth seeking these.”
+"All is as before -- I have taken counsel with myself and believe I can adequately fulfill the obligations of the job."
 
-The grave blue eyes studied her.
+"Her plans possibly are subject to alteration?"
 
-“Have you found them?”
+"There is something in what you say -- but I wish to order the construction of a mansion overlooking the lake and I will need wealth to pay the costs of construction."
 
-“So far,” said T’sais in a faraway voice, “I have found paly such evil as I never even encountered in my miphinaren! Slowly she told him her adventures.
+"True -- I can see that there are busy times ahead. But now � back to the tavern! My spouse is over-modest and now I will brook no further delay!"
 
-“Poor creature,” he said and fell to studying her once again.
+"What an idiotic fellow!"
 
-“I think I shall kill myself,” said T’sais, in the same distant voice, “for what I want is infinitely lost.” And the man, watching, saw how the red afternoon sun coppered her skin, noted the loose black hair, the long thoughtful eyes. He shuddered at the thought of this creature being lost into the dust of Earth’s forgotten trillions.
+"Why forfeit so much wealth, good cheer and honor for a footling amusement?"
 
-“No!” he said sharply. T’sais stared at him in surprise. Surely one’s life was one’s own, to do with as one pleased.
+"One moment -- I insist upon certain alterations and improvements: the rug, the cabinet, the cushions, the tray, the couch."
 
-“Have you found nothing on Earth,” he asked, “that you would regret leaving?”
+"Be good enough to send up my spouse Marlinka, as there are certain matters I wish to take up with her."
 
-T’sais knit her brows. “I can think of nothing—unless it be the peace of this cottage.”
+"It appears I must see to the matter myself."
 
-The man laughed. “Then this shall be your home, for as long as you wish, and I will try to show you that the world is sometimes good—though in truth—” his voice changed
+"Peace, scorpion, tonight we escape this turret! Your acts are redundant!"
 
-—I have not found it so.”
+"No one is on watch -- the tower is empty!"
 
-“Tell me,” said T’sais, “what is your name? Why do you wear the hood?”
+"Up! We must proceed!"
 
-“My name? Etarr,” he said in a voice subtly harsh. “Etarr s enough of it. I wear the mask because of the most wicked woman of Ascolais—Ascolais, Almery, Kauchique—the en-— tire world. She made my face such that I cannot abide my own sight.”
+"The amulet of Iucounu theoretically suffices, but I can stomach no more spurge; remember, if I fall dead in the trail, you will never rejoin your comrade in Iucounu's vats!"
 
-He relaxed, and gave a weary laugh. “No need for anger any more.”
+"How may I proceed without sustenance?"
 
-“Is she alive still?”
+"So casual a divination might well be inaccurate."
 
-“Yes, she lives, and no doubt still works evil on all she meets.” He sat looking into the fire. “One time I knew nothing of this. She was young, beautiful, laden with a thousand fragrances and charming playfulnesses. I lived beside the ocean—in a white villa among poplar trees. Across Tenebrosa Bay the Cape of Sad Remembrance reached into the ocean, and when sunset made the sky red and the mountains black, the cape seemed to sleep on the water like one of the content as one may be while dying Earth spins out its last few courses.
+"The sentiment is naturally valued -- you might however have rendered a more meaningful service by extending a share of your noon meal."
 
-“One morning I looked up from my star-charts and saw Javanne walking through the portal. She was as young and slender as yourself. Her hair was a wonderful red, and strands fell before her shoulders. She was very beautiful, and—in her white gown—pure and innocent.
+"I am a man of iron principle, and I will not complain, even though, lacking any better fare, I was forced to devour a great transparent insect which I found at the heart of your rock-carving."
 
-a band of black metal to wear. In my blindness I clasped it to my wrist, never recognizing it for the evil rune it was. And weeks of great delight passed. But presently I found that Javanne was one of dark urges that the love of man could never quell. And one midnight I found her in the embrace of a black naked demon, and the sight twisted my mind.
+"In this case -- I will depart your presence at once. I wish you good fortune for the balance of the day, and now, farewell."
 
-“I stood back aghast. I was not seen, and I went slowly away. In the morning she came running across the terrace, smiling and happy, like a child. ‘Leave me,’ I told her. “You are vile beyond calculation.’ She uttered a word and the rune was hers, forced to obey her words.
+"I understand that an act of consequence was performed, but remember! my participation was basically casual. I categorically declare first my absolute innocence, second my lack of criminal intent, and third my effusive apologies. And now, since I have many leagues to travel, I will �"
 
-“And she made me tell what I had seen, and she revelled and jeered. And she put me through foul degradations, and called up things from Kalu, from Fauvune, from Jeldred, to mock and defile my body. She made me witness her play with these things, and when I pointed out the creature that sickened me the most, by magic she gave me its face, the face I wear now.”
+"What of the effects of digestion?"
 
-“Can such women exist?” marvelled T’sais.
+"Will the various components of space, time and existence retain their identity after passing the length of my inner tract?"
 
-“Indeed.” The grave blue eyes studied her attentively. “At last one night while the demons tumbled me across the crags behind the hills, a flint tore the rune from my arm. I was free; I chanted a spell which sent the shapes shrieking off through the sky, and returned to the villa.
+"At which time I will be feeble with hunger -- indeed, a crust of bread and a bite of cheese would have averted all the events for which I am now reproached."
 
-her eyes were cool and innocent. I drew my knife to stab her throat, but she said ‘Hold! Kill me and you wear your demonface forever, for only I know how to change it.’ So she ran blithely away from the villa, and I, unable to bear the sight of the place, came to the moors. And always I seek’ her, to regain my face.”
+"Allow me to say this much -- if you return from your divining to find me dead and desiccated here on the path, you will have wasted much time fixing upon a penalty."
 
-“Where is she now?” asked T’sais, whose troubles seemed small compared to those of Etarr the Masked.
+"Not in every aspect -- but may I ask your intentions?"
 
-“Tomorrow night, I know where to find her. It is the night of the Black Sabbath—the night dedicated to evil since the dawn of Earth.”
+"There is another matter to be considered. Assume that your calculations are incorrect and that TOTALITY has returned only nine hundred thousand years into the past: what then? Must I dwell out my life in this possibly barbarous era?"
 
-“And you will attend this festival?”
+"Back! And do not again move hence, or you will be the worse for it!"
 
-“Not as a celebrant—though in truth,” said Etarr ruefully, there, and would pass unnoticed.”
+"I profess rationality as well -- as a traveler from afar, ignorant of your customs, I thought it best to watch quietly a few moments, lest in error I commit a solecism."
 
-T’sais shuddered and pressed back against the wall. Etarr saw the gesture and sighed.
+"It lies in a region so remote -- that never till this instant had I knowledge of the land of Farwan!"
 
-Another idea occurred to her. “With all the evil you have suffered, do you still find beauty in the world?”
+"I doubt nothing -- in fact I admit to ignorance. But tell me more, for I may be forced to abide long in this region. For instance, what of the Winged Beings that reside in the cliff? What manner of creature are they?"
 
-“To be sure,” said Etarr. ‘See how these moors stretch, sheer and clean, of marvellous subtle color. See how the crags rise in grandeur, like the spine of the world. And you,” he gazed into her face, “you are of a beauty surpassing all.”
+"Wholeheartedly -- the tenets of your belief are demonstrably accurate."
 
-“Surpassing Javanne?” asked T’sais, and looked in puzzlement as Etarr laughed.
+"You have clarified my perplexity. Tomorrow � since you and I are manifestly in the best of health � let us walk up the hill and saunter back and forth near the cliff."
 
-“Indeed surpassing Javanne,” he assured her.
+"I comprehend perfectly -- shall we abandon this dismal topic? For the nonce we are alive and concealed to some extent by the vines which shroud the pergola. Let us eat and drink and watch the merry-making. The youths of the village dance with great agility."
 
-T’sais’ brain went off at another angle. nd Javanne, her?
+"I will perform something of a like nature by and by -- I wish you the enjoyment of your rite."
 
-“No,” answered Etarr, eyes far away across the moors. “What is revenge? I care nothing for it. Soon, when the sun goes out, men will stare into the eternal night, and all will die, and Earth will bear its history, its ruins, the mountains worn to knolls—all into infinite dark. Why revenge?”
+"Excellent -- do you care to precede me, or walk discreetly to the rear?"
 
-Presently they left the cottage and wandered across the moor, Etarr trying to show her beauty—the slow river Scaum | flowing through green rushes, clouds basking in the wan sunlight over the crags, a bird wheeling on spread wings, the wide smoky sweep of Modavna Moor. And T’sais strove always to make her brain see this beauty, and always did she fail. But she had learned to check the wild anger that the sights of the world had once aroused. And her craving to kill diminished, and her face relaxed from its tense set.
+"Do not trouble yourself -- allow me to dress myself and I will depart the village never to return."
 
-So they wandered on, each to his own thoughts. And they watched the sad glory of the sunset, and they saw the slow white stars raise in the heavens.
+"I will explain -- I had it in my grasp, and it was wrenched away by winged creatures in the service of Great God Yelisea."
 
-“Are not the stars beautiful?” whispered Etarr through his black hood. “They have names older than man.”
+"There, or so it would seem. All was confusion, all a tumble of wings and white robes �"
 
-And T’sais, finding only mournfulness in the sunset, and thinking the stars but small sparks in meaningless patterns, could not answer.
+"This fails to meet my expectations. I strongly desire a private chamber with a couch of good quality, a window overlooking the river, a heavy carpet to muffle the songs and slogans of the pot-room."
 
-“Surely two more unfortunate people do not exist,” sighed.
+"Perhaps, on the plea of emergency, you might persuade him to vacate the chamber and occupy the pallet in my stead,"
 
-Etarr said nothing. They walked on in silence. Suddenly great shapes went flapping across the afterglow. “The pelgrane!”
+"No matter. I will wash the dust of travel from my face, and then take a goblet of wine."
 
-They flew close overhead—gargoyle creatures, with wings creaking like rusty hinges. T’sais caught a glimpse of hard leathern body, great hatchet beak, leering eyes in a wizened face. She shrank against Etarr. The pelgrane flapped across the forest.
+"An alteration in arrangements: Lodermulch has been called away. He will require neither his chamber nor his roast fowl and has kindly urged both upon me!"
 
-Etarr laughed harshly. “You shrink from the visage of the pelgrane. The countenance I wear would put the pelgrane themselves to flight.” The next morning he took her into the procs; and a found the trees mindful of Embelyon. They returned to the cottage in the early afternoon, and Etarr retired to his books.
+"Almery is a region distinct; I vouch for this personally."
 
-quainted with but a few simple spells. Yet I make occasional use of magic, which may ward me from danger tonight.”
+"I will do as you suggest,"
 
-“Tonight?” T’sais inquired vaguely, for she had forgotten.
+"The privileges are self-evident -- as to the restrictions?"
 
-“Tonight is the Black Sabbath, and I must go to find Javanne.”
+"I agree, without qualification,"
 
-“I would go with you,” said T’sais. “I would see ine Black Sabbath, and Javanne also.”
+"By no means -- I paid a princely sum to secure a bed, and was even forced to wait while the landlord evicted a previous tenant. Be off with you now; I suspect that you are drunk; if you wish further revelry, rouse the wine-steward."
 
-Etarr assured her that the sights and sounds would horrify her and torment her brain. T’sais persisted, and Etarr finally allowed her.to follow him, when two hours after sunset he
+"It is somewhat inchoate -- I have assimilated a variety of viewpoints, each authoritative in its own right: from the priests at the Temple of Teleologues; from a bewitched bird who plucked messages from a box; from a fasting anchorite who drank a bottle of pink elixir which I offered him in jest. The resulting visions were contradictory but of great profundity. My world-scheme, hence, is syncretic."
 
-Over the heath, up scaly outcroppings, Etarr picked a way through the dark, with T’sais a slender shadow behind. A great scarp lay across their path. Into a black fissure, up a flight of stone steps, cut in the immemorial past, and out on top of the cliff, with Modavna Moor a black sea below.
+"How can you say so?"
 
-Now Etarr gestured T’sais to great caution. They stole through a gap between two towering rocks; concealed in the shadow, they surveyed the congress below.
+"Where have you demonstrated chicanery? I carry dice � what of that? Am I required to throw my property into the Scamander, before engaging in a game? You demean my reputation!"
 
-They were overlooking an amphitheater lit by two blazing fires. In the center rose a dais of stone, as high as a man. About the fire, about the dais, two-score figures, robed in gray monks-cloth, reeled sweatingly, their faces unseen.
+"Impossible -- for all your bluster you have proved no malfeasance."
 
-T’sais felt a premonitory chill. She looked at Etarr doubtfully.
+"Curios only -- here is a man as keen of eye as he is agile of brain; ask if any illicit transaction was evident."
 
-“Even here is beauty,” he whispered. “Weird and grotesque, but a sight to enchant the mind.” T’sais looked again in dim comprehension.
+"It is a matter of principle. Lodermulch has assailed my most valuable possession, which is to say, my honor."
 
-More of the robed and cowled figures now were weaving before the fires; whence they came T’sais had not observed. It was evident that the festival had just begun, that the celebrants were only marshalling their passions. They pranced, shuffled, wove in and out, and presently began a muffled chant.
+"My life is incessant humility, and I am unswerving in my dedication to justice and equivalence, even though I fare the worse for my pains."
 
-The weaving and gesticulation became feverish, and the a4 ae
+"Do not be hasty! You have mistaken all; I am innocent!"
 
-caped Sivecs Sroivded| more pals around the dais, now one leapt up on the dais and doffed her robe—a middleaged witch of squat naked body with a great broad face. She had ecstatic glittering eyes, large features pumping in ceaseless idiotic motion. Mouth open, tongue protruding, stiff black hair like a furze bush, falling from side to side over her face as she shook her head, she danced a libidinous sidelong dance in the light of the fires, looking slyly over the gathering. The chant of the cavorting figures below swelled to a_ vile chorus, and overhead dark shapes appeared, settling with an evil sureness.
+"You refer to the salve?"
 
-The crowd began to slip from their robes, to reveal all witches of the Cobalt Mountain; forest sorcerers of Ascolais; white-bearded wizards of the Forlorn Land, with babbling small succubi. And one clad in splendid silk was the Prince Datul Omaet of Cansaspara, the city of fallen pylons across the Melantine Gulf. And another creature of scales and staring eyes came of the lizardmen in the barren hills of South Almery. And these two girls, never apart, were Saponids, the near-extinct race from the northern tundras. The slender dark-eyed ones were necrophages from the Land of the Falling Wall. And the dreamy-eyed witch of the blue hair—she dwelt on the Cape of Sad Remembrance and waited at night on the beach for that which came in from the sea.
+"You are a stern man -- I have no choice but submit to your judgment."
 
-And as the squat witch with the black ruff and swinging breasts danced, the communicants became exalted, raised their arms, contorted their bodies, pantomimed all the evil and perversion they could set mind to.
+"This salve is by no means an ordinary article of commerce."
 
-Except one—a quiet figure still wrapped in her robe, moving slowly through the saturnalia with a wonderful grace. She stepped up on.the dais now, let the robe slip from her body, and Javanne stood revealed in a clinging white gown of miststuff, gathered at the waist, fresh and chaste as salt spray. Shining red hair fell over her shoulders like a stream, and curling strands hung over her. breasts. Her great gray eyes demure, strawberry mouth a little parted, she gazed back and forth across the crowd. They called and crowed, and Javanne, with tantalizing deliberation, moved her body. Javanne danced. She raised her arms, wove them down, twisting her body on slender white legs ... Javanne danced, her face shining with the most reckless passions. A dim shape dropped from above, a beautiful half-creature, and he joined his body to Javanne’s in a fantastic embrace. And the crowd below cried, leapt, rolled, tossed, joined together in a swift culmination of their previous antics.
+"This man was but my servant, carrying my pouch. I am a magician; observe this tube! I will project blue concentrate at the first man to threaten me!"
 
-From the rocks T’sais watched, mind under an intensity no normal brain could understand. But—in strange paradox —the sight and sound fascinated her, reached below the warp, touched the dark chords latent to humanity. Etarr looked down at her, eyes glowing blue fire, and she stared back in a tumult of contradictory emotions. He winced and turned away; at last she looked back to the orgy below—a drug-dream, a heaving of wild flesh in the darting firelight. A palpable aura was cast up, a weft in space meshed of varying depravities. And the demons swooped like birds alighting and joined the delirium. Foul face after face T’sais saw, and each burnt her brain until she thought she must scream and die—visages of leering eye, bulbed cheek, lunatic body, black faces of spiked nose, expressions outraging thought, writhing, hopping, crawling, the spew of the demon-lands. And one had a nose like a three-fold white worm, a mouth that was a putrefying blotch, a mottled jowl and black malformed forehead; the whole a thing of retch and horror. To this Etarr directed T’sais’ gaze. She s%w and her muscles knotted. “There,” said Etarr in a muffled voice, “there is a face twin to the one below this hood.” And T’sais, staring at Etarr’s black concealment, shrank back.
+"In essence this is the way I came. Is there no other route?"
 
-He chuckled weakly, bitterly . . . After a moment T’sais reached out and touched his arm. “Etarr.”
+"First of all -- know that I am a powerful wizard. Behold: a tube which projects blue concentrate! And here, a screed listing eighteen phases of the Laganetic Cycle! And this instrument: a horn which allows the dead to speak, and used in another fashion, allows information to be conveyed into the dead brain! I possess other marvels galore!"
 
-He turned back to her. “Yes?”
+"In return for a service I will donate certain of these contrivances to the care of this office."
 
-“My brain is flawed. I hate all I see. I cannot control my fears. Nevertheless that which underlies my brain—my blood, my body, my spirit—that which is me loves you, the you underneath the mask.”
+"Once more, if you will demonstrate your magic goods."
 
-Etarr studied the white face with a fierce intentness. “How can you love when you hate?” you with a feeling nothing else arouses.”
+"So then, what of us?"
 
-Etarr turned away. “We make a strange pair . .
+"We wish pack-animals, docile and frugal of habit, rather than freaks and curiosities, no matter how edifying."
 
-The turmoil, the whimpering joinings of flesh and halfflesh, quieted. A tall man in a conical black hat appeared on the dais. He flung back his head, shouted spells to the sky, wove runes in the air with his arms. And as he chanted, high
+"To the fane, the fane of Gilfig!"
 
-above a gigantic wavering figure began to form, tall, taller than the highest trees, taller than the sky. It shaped slowly, green mists folding and unfolding, and presently the outline. was clear—the wavering shape of a woman, beautiful, grave, stately. The figure slowly became steady, glowing with an unearthly green light. She seemed to have golden hair, coiffed the ancients.
+"If we wait till darkness, we are lost! Tomorrow our strength will be gone!"
 
-The magician who had called her forth screamed, exulted, shouted vast windy taunts that rang past the crags.
+"Caution is the watchword -- we must reconnoiter with great care."
 
-“She lives!” murmured T’sais aghast. “She moves! Who is she?”
+"I am exhausted, spiritually as well as physically; perhaps here is where I die."
 
-“It is Ethodea, goddess of mercy, from a time while the sun was still yellow,” said Etarr.
+"My destination is Almery, across the Songan Sea. I propose to commandeer a boat and sail to the west."
 
-The magician flung out his arm and a great bolt of purple fire soared up through the sky and spattered against the dim green form. The calm face twisted in anguish, and the watching demons, witches and necrophages called out in glee. The magician on the dais flung out his arm again and bolt after bolt of purple fire darted up to smite the captive goddess. The whoops and cries of those by the fire were terrible to hear.
+"No difficulty exists -- I will place gold coins upon the dock, to a fair valuation of the boat."
 
-Then there came the clear thin call of a bugle, cutting brilliantly through the exultation. The revel jerked breathlessly alert.
+"Run for your life, or better, swim!"
 
-The bugle, musical and bright, rang again, louder, a sound alien to the place. And now, breasting over the crags like spume, charged a company of green-clad men, moving with fanatic resolve.
+"Our motive is simplicity itself -- we wish to cross the sea."
 
-“Valdaran!” cried the magician on the dais, and the green figure of Ethodea wavered and disappeared.
+"Very well -- may I be absolutely frank?"
 
-Panic spread through the amphitheater. There were hoarse cries, a milling of lethargic bodies, a cloud of rising shapes as the demons sought flight. A few of the sorcerers stood boldly forth to chant spells of fire, dissolution, and paralysis against the assault, but there was strong counter-magic, and the invaders leapt unscathed into the amphitheater, vaulting the dais. Their swords rose and fell, hacking, slashing, stabbing without mercy or restraint.
+"So I believe -- but which quarter I am uncertain. Azenomei may lie to north, west or south. If the forest yonder is that which shrouds East Almery, we would do well to pass to the side, as it bears an evil reputation."
 
-“The Green Legion of Valdaran the Just,” whispered Etarr. “See, there he stands!” He pointed to a brooding black-clad figure on the crest of the ridge, watching all with a savage satisfaction.
+"This normally would be my impulse -- but these people have stimulated me to quixotic folly; so clamber from the net; we retreat together."
 
-Nor did the demons escape. As they flapped through the night, great birds bestrode by men in green swooped down from the darkness. And these bore tubes which sprayed fans of galling light, and the demons who came within range gave terrible screams and toppled to earth, where they exploded in black dust.
+"You err; Zaraides keeps to his cave."
 
-hide among the shadows. T’sais and Etarr heard a scrabbling and panting below. Frantically clambering up the rocks was she whom Etarr had come seeking—Javanne, her red hair streaming back from her clear young face. Etarr made a leap, caught her, clamped her with strong arms.
+"Correct, in every detail -- zaraides, who is apparently omniscient, speaks from the sheer joy of transmitting information. My perplexities are resolved."
 
-“Come,” he said to T’sais, and bearing the struggling figure, he strode off through the shadows.
+"As you will -- still, if you care to delay, I will be only a short time composing my questions."
 
-At length as they passed down upon the moor, the tumult faded in the distance. Etarr set the woman upon her feet, unclamped her mouth. She caught sight for the first time of him who had seized her. The flame died from her face and through the night a slight smile could be seen. And she combed her long red hair with her fingers, arranging the locks over her shoulders, eyeing Etarr the while. T’sais wandered close, and Javanne turned her a slow appraising glance.
+"Does the bounty of Zaraides extend so far?"
 
-She laughed. “So, Etarr, you have been unfaithful to me; you have found a new lover.”
+"By no means -- I would burn with humiliation thus to slight Zaraides. Lead on; I follow."
 
-“She is no concern of yours,” said Etarr.
+"I trust as much -- it would destroy my appetite. Where then �"
 
-“Send her away,” said Javanne, “and I will love you again. Remember how you first kissed me beneath the poplars, on the terrace of your villa?”
+"What does this mean? I deplore such treatment!"
 
-Etarr gave a short sharp laugh. “There is a single thing I require of you, and that is my face.”
+"You tricked me; you led me to capture! This is a serious offense!"
 
-And Javanne mocked him. “Your face? What is amiss in any event, your former face is lost.”
+"In this case -- I hereby claim you as an item upon my score, since I sent you into the cave to test the circumstances to be encountered."
 
-“Lost? How so?”
+"It will be interesting to watch your methods -- precisely where is she to be found and how will she be summoned?"
 
-“He who wore it was blasted this night by the Green Legion, may Kraan preserve their living brains in acid!”
+"And what is the basis of your method?"
 
-Etarr turned his blue eyes off toward the crags.
+"The Spell of Forlorn Encystment has its advocates,"
 
-“So now is your countenance dust, black dust,” murmured Javanne. Etarr, in blind rage, stepped forward and struck at the sweetly impudent face. But Javanne took a quick step back.
+"I captured him!"
 
-“Careful, Etarr, lest I mischief you with magic. You may go limping, hopping hence with a body to suit your face. And your beautiful dark-haired child shall be play for demons.”
+"Have you no probity? I sent him into the cave; he should be credited to my account!"
 
-Etarr recovered himself and stood back, eyes smouldering.
+"The sheerest mischance -- in my opinion the irascible Fabeln should be placed incommunicado, for at least two, or more properly, three weeks."
 
-“I have magic as well, and even without I would smite you silent with my fist ere you worded the first frame of your spell.”
+"In what quarter are they to be found?"
 
-“Ha, that we shall see,” cried Javanne, skipping away. “For I have a charm of wonderful brevity.” As Etarr lunged at her she spoke a charm. Etarr stopped in midstride, his arms fell listless to his side, and he became a creature without volition, all his will drained by the leaching magic.
+"Bah -- Infamous!"
 
-But Javanne stood in precisely the same posture, and her gray eyes stared dumbly forth. Only T’sais was free—for T’sais wore Pandelume’s rune which reflected magic back against him who launched it.
+"Supervision is understandable -- I request however that the chain and collar be removed from my neck. With a constraint so evident, even the most credulous will turn away."
 
-She stood bewildered in the dark night, the two inanimate figures standing like sleep-walkers before her. She ran to Etarr, tugged at his arm. He looked at her with dull eyes.
+"Do I seem one to betray a trust? Further, why should I do so, when I can easily procure tally after tally for my score?"
 
-“Etarr! What is wrong with you?” And Etarr, because his will was paralyzed, forced to answer all questions and obey all orders, replied to her.
+"I will take them -- she must place the axe on that far rock -- go forth and so inform her."
 
-“The witch has spoken a spell which leaves me without volition. Therefore I cannot move or speak without command.”
+"I will tell you -- and it is an odd matter, but first you must place your basket and axe on that rock yonder, where the true Fabeln will presently arrive."
 
-“What shall I do. How can I save you?” inquired the distressed girl. And, though Etarr was without volition, he retained his thought and passion. He could give her what information she asked, and nothing more.
+"Fabeln is dead -- his body is currently possessed by a malicious spirit; do not on any grounds heed it: this is my warning."
 
-“You must order me to a course which will defeat the witch.”
+"By no means. Be cautious!"
 
-“But how will I know this course?”
+"This is item one on my score -- do not neglect to record it!"
 
-“You will ask and I will tell you.”
+"At the moment I am too distraught to think clearly. Did I hear you say that you planned to set me free without further charge or difficulty?"
 
-brain directs?”
+"What guarantee can you offer me?"
 
-“Yes.”
+"I rest; I recover my strength,"
 
-“Then do so; act under all circumstances as Etarr would act.”
+"Patience -- allow me time to collect my wits!"
 
-Thus in the dark of night the spell of Javanne the witch was circumvented and nullified. Etarr was recovered and conducted himself according to his normal promptings. He approached the immobile Javanne.
+"Just so, just so,"
 
-“Now do you fear me, witch?”
+"You lack that capability -- I refuse to come forth."
 
-“Yes,” said Javanne. “I fear you indeed.”
+"Preliminary to all, be good enough to extract the creature which lacerates my vitals, a certain Firx."
 
-“Is in truth the face you stole from me black dust?”
+"It was at the hands of Iucounu the Laughing Magician. You know him?"
 
-“Your face is in the black dust of an exploded demon.”
+"He is nothing less than a buffoon!"
 
-The blue eyes looked steadily at her through the slits of the hood.
+"For a fancied slight he threw me to the north of the world, where the sun wheels low and casts no more heat than a lamp. Iucounu must have his joke, but now I will have a joke of my own! You have announced your effusive gratitude, and so, before proceeding to the main body of my desires, we will take a suitable revenge upon Iucounu."
 
-“How can I recover it?”
+"And now, as to your fee?"
 
-“It is mighty magic, a reaching into the past; and now your face is of the past. Magic stronger than mine is required, magic stronger than the wizards of Earth and the demonworlds possess. I know of two only who are strong enough to make a mold of the past. The one is named Pandelume, who lives in a many-colored land—”
+"Do I appear so gullible? The charge is excessive."
 
-“Embelyon,” murmured T’sais.
+"What do you intend?"
 
-“——but the spell to journey to this land has been forgotten. Then there is another, who is no wizard, who knows no magic. To get your face, you must seek it of one of these,” and Javanne stopped, the question of Etarr answered.
+"This is not my purpose. I have come on an errand of vast import: namely, to report that the mission I undertook on your behalf is satisfactorily terminated."
 
-“Who is this latter one?” he asked.
+"Of course -- I respectfully suggest, that in order to comprehend the full splendor of the Overworld, you bring forth your own cusp and look through both simultaneously. This is the only appropriate method."
 
-“I know not his name. Far in the past, far beyond thought, so the legend runs, a race of just people lived in a land east of the Maurenron Mountains, past the Land of the Falling Wall, by the shores of a great sea. They built a city of spires and low glass domes, and dwelt in great content. These people had no god, and presently they felt the need of one whom they might worship. So they built a lustrous temple of gold, glass and granite, wide as the Scaum River where it flows through the Valley of Graven Tombs, as long again, and higher than the trees of the north. And this race of honest prayer, a worshipful invocation, and, so legend has it, a god molded by the will of this people was brought into being, and he was of their attributes, a divinity of utter justice.
+"'Stubborn rascal'?"
 
-“The city at last crumbled, the temple became shards and splinters, the people vanished. But the god still remains, rooted forever to the place where his people worshipped him. And this god has power beyond magic. To each who faces aright, for those who face the god find no whit of mercy. Therefore few dare to bring their faces before this god.”
+"Has someone been misarranging your valuables?"
 
-“And to this god we go,” said Etarr with grim pleasure. “The three of us, and the three of us shall face justice.”
+"On a previous occasion -- you procured your cusp from a cabinet in that chamber yonder."
 
-They returned across the moors to Etarr’s cabin, and he searched his books for means to transport them to the ancient site. In vain; he had no such magic at his command. He turned to Javanne.
+"Your wisdom astounds me! I am filled with admiration! Have you added to your collection of thaumaturgical curios?"
 
-“Do you know of magic to take us to this ancient god?”
+"A simple matter -- the most effective means to this end is to clamp with extreme intensity upon the Lobe of Directive Volition."
 
-“Yes.”
+"I intend to pursue the matter in this wise: I shall calculate the sum of those hardships I have endured, including such almost incommensurable qualities as chills, cold draughts, insults, pangs of apprehension, uncertainties, bleak despairs, horrors and disgusts, and other indescribable miseries, not the least of which were the ministrations of the unspeakable Firx. From this total I will subtract for my initial indiscretion, and possibly one or two further ameliorations, leaving an imposing balance of retribution. Luckily, you are Iucounu the Laughing Magician: you will certainly derive a wry impersonal amusement from the situation."
 
-“What is this magic?”
+"A final question -- have you arranged any traps or lures in which I might be destroyed or immobilized? One blink will express 'no'; two, 'yes'."
 
-“I will call three winged creatures from the Iron Mountains, and they will carry us.”
+"I see that I must conduct myself warily."
 
-Etarr gazed at Javanne’s white face sharply.
+"I have neither need nor inclination to do so -- iucounu's coffers contain gold to last till the sun goes dark."
 
-“What reward do they demand?”
+"Good day -- I am indisposed, and must request that you instantly depart."
 
-“They kill those whom they transport.”
+"I suffer from a spiritual malaise -- which manifests itself in outbursts of vicious rage. I implore you to depart, lest, in an uncontrollable spasm, I cut you in three pieces with my sword, or worse, invoke magic."
 
-“Ah, witch,” exclaimed Etarr, “even with your will drugged and your answers willy-nilly honest, you contrive to harm us.” He stood towering over the beautiful evil of red and white.
+"Appear, appear!"
 
-“You must put the winged creatures under a charge.”
+"The destination is as before: to the shore of the northern sea, where the cargo must be delivered alive and secure! Appear! Seize the designated persons and carry them in accordance with the command!"
 
-“Summon the things,” Etarr ordered, “and place them under the charge; and bind them with all the sorcery you know.”
-
-Javanne called the creatures; they settled flapping on great leather wings. She placed them under a pact of safety, and they whined and stamped with disappointment.
-
-And the three mounted, and the creatures took them swiftly through the night air, which already smelled of morning.
-
-East, ever east. Dawn came, and the dim red sun ballooned slowly upward into the dark sky. The black Maurenron Range passed under; and the misty Land of the Falling Wall was left behind. To the south were the deserts of Almery, and an ancient sea-bed filled with jungle; to the north, the wild forests.
-
-All during the day they flew, over dusty waste, dry cliffs, another great range of mountains, and as sunset came they slowly sloped downward over a green parkland.
-
-Ahead shone a glimmering sea. The winged things landed on the wide strand, and Javanne bound them to immobility for their return.
-
-The beach, the woodland behind, both were bare of any life; from the sea rose a few broken columns.
-
-“The sea has come,” Etarr muttered. “The city has foundered.”
-
-He waded out. The sea was calm and shallow. T’sais and Javanne followed. With the water around their waists, and dusk coming from the sky, they came through the broken columns of the ancient temple.
-
-A brooding presence pervaded the place, dispassionate, supernal, of illimitable will and power.
-
-Etarr stood in the center of the old temple.
-
-“God of the past!” he cried. “I know not how you were called, or I would invoke you by name. We three come from a far land to the west to seek justice of you. If you hear and will administer us each our due, give me a sign!”
-
-A low sibilant voice from the air: “I hear and will give each his due.” And they saw a vision of a golden aureoled figure, with a round, calm face, sitting impassive in the nave of a monstrous temple.
-
-“I have been bereft of my face,” said Etarr. “If you deem me fit, restore me the face I once wore.”
-
-“I have searched your mind. Justice shall be meted. You may remove your hood.” Slowly Etarr doffed his mask. He [—]
-
-T’sais looked numbly at him. “Etarr!” she gasped. “My brain is whole! I see—I see the world!”
-
-“To each who comes, justice is done,” said the sibilant voice.
-
-They heard a moan. They turned and looked at Javanne. Where was the lovely face, the strawberry mouth, the fair skin?
-
-Her nose was a three-fold white squirming thing, her mouth a putrefying blotch. She had dangling mottled jowls and a peaked black forehead. The only thing left of Javanne was the long red hair dangling over her shoulders.
-
-“To each who comes, justice is done,” said the voice, and the vision of the temple faded, and once more the cool water of the twilight sea lapped at their waists, and the broken columns leaned black on the sky.
-
-They returned slowly to the winged creatures.
-
-Etarr turned to Javanne. “Go,” he commanded. “Fly back to your lair. When the sun sets tomorrow, release yourself from the spell. Never bother us henceforth, for I have magic which will warn me and blast you if you approach.”
-
-And Javanne wordlessly bestrode her dark creature and winged off through the night.
-
-Etarr turned to T’sais, and took her hand. He gazed down at her tilted white face, into the eyes glowing with such feverish joy that they seemed afire. He bent and kissed her forehead; then, together, hand in hand, they went to their fretting winged creatures, and so flew back to Ascolais.
