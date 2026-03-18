@@ -19,7 +19,8 @@
       "Bash(pip list:*)",
       "Bash(tesseract --version 2>/dev/null || echo \"tesseract not installed\")",
       "Read(//c/Program Files/Tesseract-OCR/**)",
-      "Read(//c/Program Files \\(x86\\)/Tesseract-OCR/**)"
+      "Read(//c/Program Files \\(x86\\)/Tesseract-OCR/**)",
+      "Bash(grep:*)"
     ],
     "deny": [],
     "ask": []
