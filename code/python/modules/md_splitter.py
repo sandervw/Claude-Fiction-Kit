@@ -12,7 +12,7 @@ def split_md_by_h2(filename: str) -> list[dict]:
     and 'text' is everything below it until the next ## (or end of file).
     """
 
-    input_file, _ = resolve_paths(filename, output_suffix=".json")
+    input_file, _ = resolve_paths(filename, output_suffix=".json", anchor=__file__, levels_up=4)
     content = read_file(input_file)
 
     # Split on ## headers, keeping the header text
