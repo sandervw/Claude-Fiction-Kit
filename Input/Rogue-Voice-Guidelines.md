@@ -1,15 +1,15 @@
 # Dialogue Voice Guidelines: The Grandiloquent Rogue
 
-A set of guidelines for writing dialogue in the voice of a supremely self-assured, verbally dexterous confidence man -- a character who wields formal rhetoric like a weapon and treats every conversation as a negotiation to be won.
+A set of guidelines for writing dialogue in the voice of a supremely self-assured, verbally dexterous confidence man - a character who wields formal rhetoric like a weapon and treats every conversation as a negotiation to be won.
 
 ---
 
 ## Core Personality (as expressed through dialogue)
 
 - **Unshakeable self-regard.** This character never doubts his own brilliance, even when events prove otherwise. Every setback is reframed as someone else's failure.
-- **Transactional worldview.** Every interaction is a deal. Flattery, threats, appeals to principle -- all are tools deployed to extract advantage.
-- **Dignity under absurdity.** Even when starving, captured, or humiliated, the character maintains elevated diction and composure. He never begs -- he *reframes the request*.
-- **Selective honesty.** He will announce his candor ("In all candor...") precisely when being least truthful. Genuine admissions are rare and always serve a rhetorical purpose.
+- **Transactional worldview.** Every interaction is a deal. Flattery, threats, appeals to principle - all are tools deployed to extract advantage.
+- **Dignity under absurdity.** Even when starving, captured, or humiliated, the character maintains elevated diction and composure. He never begs - he *reframes the request*.
+- **Selective honesty.** He will announce his candor ("Candidly...") precisely when being least truthful. Genuine admissions are rare and always serve a rhetorical purpose.
 
 ---
 
@@ -17,20 +17,20 @@ A set of guidelines for writing dialogue in the voice of a supremely self-assure
 
 ### The Mid-Sentence Pivot
 
-The most distinctive structural feature. Sentences begin with one trajectory, then pivot via a dash to redirect toward self-interest, qualification, or a buried demand.
+The most distinctive structural feature. Sentences begin with one trajectory, then pivot to redirect toward self-interest, qualification, or a buried demand.
 
-> "I am a generous man, though given to caprice, and were it not for a certain constraint -- be that as it may, I hunger."
+> "I am a generous man, though given to caprice, and were it not for a certain constraint - be that as it may, I hunger."
 
 > "Clearly there will be no departure tonight. Naturally I am anxious to complete the errand, but if I am killed then neither the prize nor my services will ever return."
 
-**Pattern:** [Concession or preamble] -- [pivot to what he actually wants]
+**Pattern:** [Concession or preamble] - [pivot to what he actually wants]
 
 ### Rhetorical Questions as Weapons
 
 Questions are rarely genuine inquiries. They are accusations, deflections, or demands wearing a question's clothing.
 
 > "How does this concern me?"
-> "Am I known as a clever man for nothing?"
+> "Am I known as a witty man for nothing?"
 > "Do you always lock yourselves apart at the sight of a strange face? Are you so timorous then? Or merely surly?"
 
 **Pattern:** Stack two or three rhetorical questions in sequence, each escalating the implied judgment.
@@ -68,8 +68,8 @@ The character speaks as though drafting a diplomatic communique, even when threa
 
 **Vocabulary to avoid:**
 - Simple, direct words where an ornate synonym exists ("big" vs. "imposing", "angry" vs. "irascible")
-- Slang, contractions, or colloquialisms (never "don't" -- always "do not")
-- Emotional or vulnerable language (never "I'm scared" -- instead "I confess to a degree of apprehension")
+- Slang, contractions, or colloquialisms (never "don't" - always "do not")
+- Emotional or vulnerable language (never "I'm scared" - instead "I confess to a degree of apprehension")
 
 ### Archaic Constructions
 
@@ -98,9 +98,9 @@ Ugly realities are always dressed in finery:
 
 Before anyone can accuse him, he redefines the situation in terms favorable to himself.
 
-> "This is no fault of mine -- you pursued me, not I you. Why did you do so?"
+> "This is no fault of mine - you pursued me, not I you. Why did you do so?"
 
-> "You put me in an uncomfortable position -- my property is too small to admit of generosity, but I cannot consider this a failure of generosity."
+> "You put me in an uncomfortable position - my property is too small to admit of generosity, but I cannot consider this a failure of generosity."
 
 ### 2. False Magnanimity
 
@@ -112,7 +112,7 @@ Offering something he never intended to give, or "graciously" accepting what he 
 
 ### 3. The Appeal to Abstract Principle
 
-When caught in wrongdoing, he pivots from the specific accusation to a grand abstract principle -- honor, justice, equivalence -- forcing the accuser to argue philosophy instead of facts.
+When caught in wrongdoing, he pivots from the specific accusation to a grand abstract principle - honor, justice, equivalence - forcing the accuser to argue philosophy instead of facts.
 
 > "It is a matter of principle. He has assailed my most valuable possession, which is to say, my honor."
 
@@ -124,7 +124,7 @@ Creating time pressure to force decisions before others can think clearly.
 
 > "If we wait till darkness, we are lost! Tomorrow our strength will be gone!"
 
-> "The creature step by step mounts to the terrace -- I much prefer to discuss the matter within."
+> "The creature step by step mounts to the terrace - I much prefer to discuss the matter within."
 
 ### 5. The Gracious Threat
 
@@ -138,9 +138,9 @@ Threats delivered in the language of polite concern or helpful advice.
 
 Occasionally feigns modesty, but only to set up a larger claim or to disarm suspicion.
 
-> "I am a wayfarer -- I ask only to be directed to the inn."
+> "I am a wayfarer - I ask only to be directed to the inn."
 
-> "My name is of no consequence -- you may address me as 'Exalted'."
+> "My name is of no consequence - you may address me as 'Exalted'."
 
 ### 7. Claiming Credit / Deflecting Blame
 
@@ -149,7 +149,7 @@ Will claim ownership of any positive outcome and redirect blame for any negative
 > "I captured him!"
 > "I sent him into the cave; he should be credited to my account!"
 
-> "The warriors decamped with the torches -- I could see neither where to hack nor where to hew." (Explaining why he failed to fight.)
+> "The warriors decamped with the torches - I could see neither where to hack nor where to hew." (Explaining why he failed to fight.)
 
 ---
 
@@ -157,18 +157,18 @@ Will claim ownership of any positive outcome and redirect blame for any negative
 
 These templates can be adapted to any situation:
 
-| Pattern                                 | Example                                                                           | Usage                                                     |
-| --------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| "I am a man of [virtue]..."             | "I am a man of resource, but not insensate recklessness."                         | Self-description that justifies inaction or self-interest |
-| "Such is too hasty and common a [noun]" | "Such is too hasty and common a death."                                           | Refusal dressed as principled objection                   |
-| "[Concession] -- but [redirect]"        | "True -- I can see that there are busy times ahead. But now, back to the tavern!" | Acknowledging others only to pivot to his own agenda      |
-| "In plain words..." / "Candidly..."     | "In plain words, not too well."                                                   | Signaling false honesty                                   |
-| "You may address me as..."              | "You may address me as 'Exalted'."                                                | Claiming status through sheer assertion                   |
-| "Notwithstanding all of this..."        | "Notwithstanding all of this, would he leave his estate without guard?"           | Dismissing others' points to raise his own concern        |
-| "That decision rests with me"           | "That decision rests with me -- do you expect me to walk barefoot?"               | Seizing authority in any dispute                          |
-| "The choice... is irrelevant"           | "The choice, if it lies between X and Y, is errelevant."                          | Declaring a dilemma unsolvable to avoid commitment        |
-| "It signifies little"                   | "It signifies little -- thanks to my companion I am well content."                | Dismissing a setback he cannot reverse                    |
-| "I must consider..."                    | "I must consider the available roads."                                            | Delaying through feigned deliberation                     |
+| Pattern                                 | Example                                                                          | Usage                                                     |
+| --------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| "I am a man of [virtue]..."             | "I am a man of resource, but not insensate recklessness."                        | Self-description that justifies inaction or self-interest |
+| "Such is too hasty and common a [noun]" | "Such is too hasty and common a death."                                          | Refusal dressed as principled objection                   |
+| "[Concession] - but [redirect]"         | "True - I can see that there are busy times ahead. But now, back to the tavern!" | Acknowledging others only to pivot to his own agenda      |
+| "In plain words..." / "Candidly..."     | "In plain words, not too well."                                                  | Signaling false honesty                                   |
+| "You may address me as..."              | "You may address me as 'Exalted'."                                               | Claiming status through sheer assertion                   |
+| "Notwithstanding all of this..."        | "Notwithstanding all of this, would he leave his estate without guard?"          | Dismissing others' points to raise his own concern        |
+| "That decision rests with me"           | "That decision rests with me - do you expect me to walk barefoot?"               | Seizing authority in any dispute                          |
+| "The choice... is irrelevant"           | "The choice, if it lies between X and Y, is errelevant."                         | Declaring a dilemma unsolvable to avoid commitment        |
+| "It signifies little"                   | "It signifies little - thanks to my companion I am well content."                | Dismissing a setback he cannot reverse                    |
+| "I must consider..."                    | "I must consider the available roads."                                           | Delaying through feigned deliberation                     |
 
 ---
 
@@ -195,5 +195,5 @@ This voice is *sparing* with figurative language. The comedy comes from elevated
 
 - **Not bumbling or foolish.** The character is genuinely clever; his schemes often work. The humor comes from the gap between his grandiose self-image and his actual moral character, not from incompetence.
 - **Not cruel for cruelty's sake.** He is selfish and amoral, but not sadistic. He prefers to talk his way out rather than fight, and takes no pleasure in suffering he cannot profit from.
-- **Not self-aware.** He does not recognize his own hypocrisy. His declarations of honor and principle are delivered with complete sincerity. This is essential -- the moment the character winks at the audience, the voice collapses.
+- **Not self-aware.** He does not recognize his own hypocrisy. His declarations of honor and principle are delivered with complete sincerity. This is essential - the moment the character winks at the audience, the voice collapses.
 - **Not monotone.** While the register is consistently elevated, the *energy* shifts: oily flattery, righteous indignation, brisk command, wounded innocence, philosophical musing. The voice has range within its register.
