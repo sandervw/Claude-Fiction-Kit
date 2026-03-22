@@ -5,7 +5,7 @@
 
 CARCANA MC's Department of Gender-Appropriate Commination occupied a full half-floor of the eastern wing, the department's territory marked by a hand-lettered placard reading TEAMS 7.A THROUGH 8.G and by the particular quality of its air: recycled beyond all memory of freshness, carrying notes of stale toner and carpet adhesive and, from the floor vents, something faintly sulfurous. The carpet underfoot had been worn to a greasy sheen along the traffic paths between cubicle rows. Decades of trudging feet had ground its original pattern into indeterminacy.
 
-Mr. Rafe Scigley, sauntered along these hedging cubicles at a leisurely pace.
+Mr. Rafe Scigley sauntered along these hedging cubicles at a leisurely pace.
 
 Rafe approved of the place. It had the unmistakable atmosphere of a department where no one glanced up from their work. The cubicle partitions rose to roughly chest height, upholstered in some institutional fabric the color of cold porridge, and behind them sat rows of demons engaged in the steady labor of 'Commination'. Whatsoever that labor entailed, Rafe had not troubled himself to learn.
 
@@ -13,27 +13,27 @@ Rafe was hunting for a Forever World. He was a demon of 'no little distinction',
 
 He paused at a T-intersection and surveyed the field. Fourth alcove, down the row to his left: a solitary demon, hunched and round-shouldered, pecking at his glyphboard with resigned rhythm. No neighbors within earshot. Rafe straightened his sport coat, adjusted his expression to one of brisk concern, and advanced.
 
-"Good afternoon," said Rafe to the demon as he stepped up to the cubicle, looming over the partition wall with his full height and speaking with pouncing authority. "MY name is Rafe Scigley, Compliance Liaison for the Ergonomic Standards Division. I am here to conduct an inspection."
+"Good afternoon," said Rafe as he stepped up to the cubicle, looming over the partition wall with his full height and speaking with pouncing authority. "My name is Rafe Scigley, Compliance Liaison for the Ergonomic Standards Division. I am here to conduct a cursory - though I assure you, categorically thorough - inspection."
 
 The demon looked up. He had matte, unblinking eyes. Behind him, a motivational broadsheet hung in a frame of mahogany wood and bronze filigree, its glass cover cracked diagonally: a sunrise over a parking garage, captioned SYNERGY IS A JOURNEY. Rafe spared it a glance of artistic approval.
 
 "I don't recall an inspection this lunar cycle," the demon said in a flat voice.
 
-"That is because it was unscheduled." Rafe let his gaze travel over the alcove with performative concern: the curling memoranda pinned to the cubicle wall, yellowed past legibility; the CRT monitor glowing its sickly phosphor green; the demon's posture, which was, truthfully, kyphotic. "Your lumbar angles falls below the ordained physical minimum. Significantly below, if I am being candid." He reached into his jacket and produced a bonsai root hook, a curved implement with a sharpened steel tip whose original purpose had been agricultural. He brandished it as one might flourish a medical instrument. The sharpened steel caught the overhead light, which hummed at a frequency just below articulation, as though the fixture were reciting something private to itself. "You see this? No, don't touch it. I am waiting for it to attune to the space."
+"Manifestly not, as it was unscheduled." Rafe let his gaze travel over the alcove with performative concern: the curling memoranda pinned to the cubicle wall, yellowed past legibility; the CRT monitor glowing its sickly phosphor green; the demon's posture, which was, truthfully, kyphotic. "I must observe - candidly, and with no wish to alarm - that your lumbar angle falls below the ordained physical minimum. Significantly below." He reached into his jacket and produced a bonsai root hook, a curved implement with a sharpened steel tip whose original purpose had been agricultural. He brandished it as one might flourish a medical instrument. The sharpened steel caught the overhead light, which hummed at a frequency just below articulation, as though the fixture were reciting something private to itself. "You perceive this instrument? No - do not touch it. It is attenuating itself to the ergonomic particularities of the space, a process I will brook no interruption of."
 
 The demon reclined slightly. Somewhere two rows over, a telephone commenced bleating.
 
-"What you must now do," Rafe continued, tucking the hook away and adopting a soothing cadence, "is report to the Calibration Office on the fourth mezzanine. Room 414-C. They'll run a corrective divination - I estimate it will take fifteen minutes, perhaps twenty. Nothing invasive."
+"What you must now do," Rafe continued, tucking the hook away and adopting a soothing cadence, "is report to the Calibration Office on the fourth mezzanine. Room 414-C. They will administer a corrective divination - fifteen minutes, perhaps twenty. Nothing invasive, nothing to deplore. A mere amelioration."
 
 "Well, I never signed up for corrective divination."
 
-"It was declared mandatory last quarter, a part of the new wellness coda." Something inside Rafe's sport coat pockets clinked faintly as he gestured. "You shall wish to bring your intake scroll? They're firm about documentation."
+"It was declared mandatory last quarter, pursuant to the new wellness coda. I confess I find the bureaucratic apparatus as circuitous as you do - notwithstanding which, the mandate is incommensurable with personal preference." Something inside Rafe's sport coat pockets clinked faintly as he gestured. "You shall wish to bring your intake scroll. They are firm about documentation."
 
 The demon hesitated. Around them, the cubicle garden produced its ambient music: the rain-patter of keystrokes from neighboring alcoves, rising and falling in waves, punctuated by the occasional muttered imprecation which was the music's verse.
 
 "Well, I don't have an intake scroll," the demon said. He swiveled back to the electric screen, and raised his hands to the array of glyphs on his desk.
 
-"Then you'll need to accquire one through the rite of witnessed process," Rafe appended quickly. "That would take place upon the third mezzanine - not the fourth - in the first, rightmost door, second corridor past the water station." Rafe threaded a note of sympathy in his voice. "I understand the inconvenience. But the mandate comes from above, and between the two of us, Ergonomic Compliance imprints itself into a quarterly review, once it has been flouted."
+"Then you will need to acquire one through the rite of witnessed process," Rafe appended, permitting a note of collegial sympathy to enter his voice. "That would take place upon the third mezzanine - not the fourth - in the first, rightmost door, second corridor past the water station. I understand the inconvenience, and I deplore it wholeheartedly. But the mandate descends from above, and between the two of us, Ergonomic Compliance imprints itself into a quarterly review once it has been flouted. It signifies little to me - but to you, I should think, a great deal."
 
 The demon stood. He collected a binder from his desk with bovine movements, and departed. Rafe watched him go, tracking the round-shouldered figure as it shuffled down the cubicle row and turned the corner toward the stairwell.
 
@@ -62,7 +62,7 @@ So quickly did Rafe discover the nearest stairwell access from the cubicle garde
 
 The hiring summons had specified a location: Sub-Level 3, Corridor 9-West, Room 1170. Rafe would present himself, answer every question incorrectly, and be escorted out through whatever service exit the department maintained for failed supplicants.
 
-*Although this is a simple gambit*, Rafe thought, *it is entirely serviceable. The sort of maneuver that separates the professional from the mere jackanape.*
+*A serviceable gambit*, Rafe thought, *and I deploy it not from necessity but from largesse - the sort of maneuver that separates the professional from the mere jackanape. That others might fumble such an enterprise signifies little; I am not others.*
 
 Rafe rehearsed as he walked. The corridor narrowed, almost imperceptibly, and overhead, fluorescent tubes cast a flat, antiseptic light that hummed at a frequency just below thought. Jutting from the messenger bag riding at his hip, Rafe's furled motivational poster, rolled around its pasteboard tube, devoured the flat light through its exposed end.
 
@@ -72,7 +72,7 @@ Now the ceiling tiles underwent a metamorphosis-of-hue, from vending-machine-mus
 
 Beneath his loafers, the carpet ended. Linoleum began - the variety of linoleum found in basement commissaries and disciplinary holding rooms. Gone too was the door behind him. A fire-exit sign rotated on its bracket and came to rest pointing into blank drywall. The corridor, which had run east-west, now ran along an axis which resisted cardinal description.
 
-Rafe paused at a directory placard mounted at shoulder height. Below the enormous golden studs spelling out the company name, CARCANA MC, the department names were rearranging themselves, letters sliding behind their laminate casing with the dry, papery susurrus of a filing drawer being sorted. DEPARTMENT OF GENDER-APPROPRIATE COMMINATION dispersed, garbling like letter-soup, and coalesced back into ONBOARDING - ORIENTATION HALL C. Rafe rubbed his eyes, and consulted the new directions. *Nearer than I anticipated*, he thought. *The edifice is cooperating.*
+Rafe paused at a directory placard mounted at shoulder height. Below the enormous golden studs spelling out the company name, CARCANA MC, the department names were rearranging themselves, letters sliding behind their laminate casing with the dry, papery susurrus of a filing drawer being sorted. DEPARTMENT OF GENDER-APPROPRIATE COMMINATION dispersed, garbling like letter-soup, and coalesced back into ONBOARDING - ORIENTATION HALL C. Rafe rubbed his eyes, and consulted the new directions. *Nearer than I anticipated - the edifice manifestly cooperates with those who demonstrate sufficient probity of purpose.*
 
 It was five-o'clock everywhere now. Rafe sought a place to rest.
 
@@ -84,9 +84,9 @@ They climbed in rusted iron columns from the linoleum to a height that defeated 
 
 Rafe had now been walking for many hours, having neither sat nor rested since leaving the cubicle hedge. His feet in his loafers had swollen to fill them precisely, and his messenger bag's strap had gouged a chafing furrow over his clavicle. It was well past close-of-business. The fluorescent tubes in the corridor behind him had already gone dark. Ahead, the supply-forest offered no light of its own beyond a faint red glow, deep in the stacks, whose provenance he could not determine.
 
-*A supply stockpile. Forgotten. Unattended. Hmm, I must consider.*
+*A supply stockpile. Forgotten. Unattended. I must consider the available amenities.*
 
-Rafe was a practical demon, and practicality dictated shelter where shelter presented itself. The interview was tomorrow. His scheme required rest, composure. *A demon of my caliber ought not to make a habit of sleeping on linoleum.* Rafe mused. *Yet is there not a certain respectability in being adaptable to circumstance?*
+Rafe was a practical demon, and practicality dictated shelter where shelter presented itself. The interview was tomorrow. His scheme required rest, composure. *A demon of my caliber does not make a habit of sleeping on linoleum — yet is there not a certain probity in demonstrating one's adaptability to circumstance? I am a resourceful creature, not an insensate one.*
 
 The deeper aisles, Rafe soon discovered, were wet.
 
@@ -108,15 +108,15 @@ The demon was crouched on a low shelf three aisles over, visible through a gap w
 
 "Edict of writ number 11-C. Supply withdrawal, non-emergency. You have no writ on your person." The clerk's voice was flat and nasal and too loud. "This annex must be entered - or exited - only by one carrying writ 11-C. These are the aisle 4,000 through 6,112, the aisles of writ 11-C. Shelf coordinates are posted."
 
-"I am not here to requisition supplies," Rafe said. "I am in transit. A brief and authorized repose, nothing more."
+"I am not here to requisition supplies — candidly, the notion of pilfering from this mausoleum of binder clips offends me," Rafe said. "I am in transit. A brief and wholly authorized repose, nothing more. If there is a protocol governing the temporary occupation of a junction by a credentialed professional, I submit that I have satisfied its spirit, if not its letter."
 
 The clerk descended from the shelf. He landed without sound. He consulted a clipboard of particle-board lacquered in white gold, holding it at an angle that suggested Rafe's position in the annex was a matter for astrological record. "Transit requires a Writ... let me see- 7. Overnight occupancy of this Archival Annex without Writ 7-Z is a System-Maintainer-Class infraction." He made a mark on the clipboard. "You are in Aisle 5,004. Junction C."
 
-"Then perhaps you might direct me to the onboarding annex. Department of Gender-Appropriate Commination. I have an interview."
+"Manifestly I appreciate the rigor of your recordkeeping — it bespeaks a dedication to order I wholeheartedly endorse. Notwithstanding all of this, perhaps you might direct me to the onboarding annex. Department of Gender-Appropriate Commination. I have an interview, and I would as lief arrive in a timely fashion as stand here debating the finer points of writ taxonomy."
 
 The clerk lowered his clipboard a fraction. He touched the edge of his badge with one finger, then turned back to his clipboard. "There is no hiring annex in this wing. Not anymore."
 
-"It was on the directory."
+"It was on the directory. I observed it myself — do you suggest the directory traffics in falsehoods? Or has this institution simply misplaced an entire department?"
 
 The clerk crossed the junction to a stanchion at its center and pointed with his clipboard at a laminated sheet bolted to its face. Rafe had not noticed it in the dark. The grid of shelf coordinates had been overlaid with hand-drawn routes in red marker: winding paths through the stacks, annotated in a crabbed hand with notes like *flooded past Q3* and *ceiling collapse, use detour* and *DO NOT OPEN*.
 
@@ -124,7 +124,7 @@ The clerk crossed the junction to a stanchion at its center and pointed with his
 
 "Follow the red line," continued the clerk. He paused and glanced toward the deeper aisles, where the red murk thickened. "Do not take anything. When you hear the hum, you are close to Onboarding. If you hear it and you are not close - if the shelves are still full and the tiles are still sagging - turn around."
 
-"What hum?" Rafe asked.
+"Be so good as to specify — what precisely hums, and at what distance ought I to find this humming reassuring rather than alarming?"
 
 But the clerk had already retreated into the shelves. Only the receding scratch of graphite on clipboard confirmed he had been there at all.
 
@@ -136,7 +136,7 @@ Rafe found himself standing at the edge of things.
 
 A set of double doors waited at the aisle's terminus. Their frosted-glass fanlights were half-obscured by stacked boxes, but he could make out lettering etched into the glass: **ONBOARDING - ORIENTATION HALL C**. A low sound reached him. Not the HVAC. A hum. Steady and warm. It seemed to emanate from behind the doors, or from the walls themselves.
 
-*Right on schedule.*
+*Precisely on schedule.*
 
 ## Scene 4 - The Interview
 
@@ -148,7 +148,7 @@ The Aychar was a swollen mass of malformed bureaucratic tissues, limbs, and orga
 
 Rafe had not given his name. He applied his most affable smile, and placed his palms on the ebony counter, leaning forward in a manner of familiarity.
 
-"A minor navigational discrepancy," he said. "I trust the interview can still proceed on schedule."
+"A minor navigational discrepancy - the signage in this establishment would confound a cartographer, though I do not say so by way of complaint. I trust the interview can still proceed on schedule."
 
 "Interview," it repeated. The word came out taxonomic.
 
@@ -156,21 +156,19 @@ Behind Rafe, three other applicants waited in the hiring vestibule. The first wa
 
 "There is no interview, Mr. Scigley." said the Aychar after a moment. It drifted sideways along the desk, consulting a form that had materialized in the bloated digits of one of its several mismatched limbs. "Your interview was conducted and passed on the fourteenth. You were expected on the fifteenth for your Rites of Integration. It is now... the fifteenth."
 
-"I see," said Rafe. Behind a careful mask, rapid calculations. He had applied only yesterday, which had surely been the thirteenth, hours before he discovered the supply-forest, via a terminal accessed through fraud in a cubicle garden two floors above. The fourteenth had not yet occurred when he submitted the application. The fifteenth, by any reasonable lunar reckoning, was tomorrow. Unless temporal discrepancies had been itnroduced during a traversal-by-elevator? But even then, he had surely never passed any interview; he had not suffered an interview in years.
+Rafe maintained the smile, though behind it his mind worked with frantic mercantile precision. He had applied only yesterday, which had surely been the thirteenth - hours before he discovered the supply-forest, via a terminal accessed through fraud in a cubicle garden two floors above. The fourteenth had not yet occurred when he submitted the application. The fifteenth, by any reasonable lunar reckoning, was tomorrow. Unless temporal discrepancies had been introduced during a traversal-by-elevator? But even then, he had manifestly never passed any interview; he had not suffered an interview in years. He resolved not to raise the point. Temporal disputes with processing departments were, in his considerable experience, incommensurable with victory.
 
-Rafe decided not to raise the point. Temporal disputes with processing departments were, in his considerable experience, unwinnable.
-
-"A clerical misunderstanding," he offered. "I shall arrange a fresh appointment for some near future date. If you could direct me to the nearest..."
+"A clerical misunderstanding, nothing more - the sort of thing one deplores but cannot, in candor, remedy from this side of the counter. I shall arrange a fresh appointment for some near future date. Be so good as to direct me to the nearest scheduling alcove, and I will trouble you no further."
 
 "You are already on the correct date, Mr. Scigley." The Aychar drifted two inches nearer, so that Rafe could smell the adhesive breath misting from its shining lips. "Your onboarding cohort has been waiting."
 
-Rafe could feel the three applicants at his back, watching. He said, "I am afraid there has been an error. I applied for the position with no fixed intention of filling it. My references are in-part, more optimistic than strictly factual. Candidly, my candidacy is a sustained act of..."
+Rafe could feel the three applicants at his back, watching. He straightened to his full height, assuming an air of magnanimous disclosure. "I am compelled, in the spirit of probity, to make a confession that does me no particular credit - though I trust it reflects well upon my forthrightness. I applied for the position with no fixed intention of filling it. My references are, in part, considerably more optimistic than the underlying facts would sustain. My qualifications are, let us say, syncretic - assembled from disparate sources of varying authenticity. Candidly, my entire candidacy is a sustained act of creative improvisation, and I would not wish to deprive this department of a genuinely qualified candidate by occupying a post I obtained through what I can only characterize as largesse of imagination."
 
 "Yes," said the Aychar. "Fabricated qualifications are not disqualifying. Fictional references are accepted in lieu of actual ones, provided they are fictitiously consistent. You have been hired, Mr. Scigley. You may proceed to the Onboarding Annex for your Rites of Integration."
 
 Behind the Aychar and the table, an org chart hung high upon the wall. So many revision stickers had been applied over so many fiscal quarters that the chart had become three-dimensional: a topographic map of departmental restructurings, whole divisions entombed beneath layers of revision. Rafe stared at it. His name was already on that chart. Somewhere, under something.
 
-"No," said Rafe. He turned for the door through which he had entered. It was shut. Two demons stood in front of it: squat, grey-skinned creatures in ill-fitting blazers, heavy steel salvers strapped to their forearms like bucklers - for catering purposes. Their eyes were disinterested; their identity-badges, without names.
+"I categorically decline," said Rafe, and turned for the door through which he had entered. It was shut. Two demons stood in front of it: squat, grey-skinned creatures in ill-fitting blazers, heavy steel salvers strapped to their forearms like bucklers - for catering purposes. Their eyes were disinterested; their identity-badges, without names.
 
 "Orientation is mandatory," said the Aychar behind him.
 
@@ -232,7 +230,7 @@ The other three candidates followed Rafe through. The fat demon filled the doorw
 
 Rafe remembered the ID badge in his coat pocket, the one he had liberated from the demon in the Department of Gender-Appropriate Commination. What had been the demon's name again? Something with an 'F'? Flea? Fart? Rafe approached the terminal. The two options of amber-colored light glared him in the eye. He drew the badge from his pocket, taking care to angle the photo away from the watching Coordinator, and pressed the magnetic strip to the scanner.
 
-"Returning Employee," Rafe declared aloud, for the benefit of the room.
+"Returning Employee," Rafe declared aloud. "You will observe I do not hesitate — there is nothing so tiresome as a candidate who dithers at the threshold of his own legitimacy."
 
 The screen chimed and refreshed: **IDENTITY CONFIRMED - COMMENCING RITES.** With a shudder and a creaking the printer surged to a heightened level of activity. It now emitted a mechanical grinding, and the warm stink of ozone and hot toner filled the chamber. Paper slid from its jaws: scroll after scroll of spreadsheets, horoscopes, death insurance forms, each stamped in variegated dyes with the badge's ID number, and the name 'Gorben Felch'. At the head of each page, in small serif capitals, ran the title: THE ACCORD OF THE FOUR SEASONS OF THE DEPARTMENT OF BLOODY CONFLICT.
 
@@ -244,17 +242,17 @@ From the Coordinator came the funereal rejoinder, "While the Rite of Identity ma
 
 Paper cascaded from the output tray. The pile grew.
 
-A signature was worth more than a badge in a room like this; Rafe had always understood that. Badges could be revoked; signatures bound. He lifted one of the W-4s from the pile. The form was warm, its small print dense, with Gorben Felch's name stamped at its base, along with a signature line underscored by the word **EMPLOYEE**.
+Rafe lifted one of the W-4s from the pile. The form was warm, its small print dense, with Gorben Felch's name stamped at its base, along with a signature line underscored by the word **EMPLOYEE**.
 
-"I believe," Rafe said, holding out the paper to the fat demon, "that this requires two strata of authority. Two signatures, one from the primary hire, one from a witness. Purely procedural, standard rite protocol."
+"Manifestly," Rafe said, holding out the paper to the fat demon, "this document requires two strata of authority — one signature from the primary hire, one from a witness — and I would be remiss, categorically remiss, were I to permit a mere procedural deficiency to imperil the validity of the entire Accord. You will note the line is underscored. The rite demands its witness; I am merely the instrument of its demand."
 
 "I *have* served as witness in other rites," said the demon. "Though I confess this is the first time a returning employee has asked me to verify his own paperwork."
 
-"I make no proposal. You must look on the matter as if the Rite of Identity itself is tendering the request."
+"I make no proposal — perish the thought. You must look upon the matter as if the Rite of Identity itself is tendering the request. I am, as it were, a conduit — a vessel of no personal volition whatsoever in this transaction. The form compels; I merely present."
 
 From the far side of the room, a sound: the demon with the beetling eyes and wringing fingers had backed himself against a filing cabinet, and was whispering something rapid and formless. He had his eyes fixed upon the printer. The Coordinator faced the candidate with an expression as devoid of emotion as waxwork, yet with that same subconscious, horrible threat somehow conveyed.
 
-"Sign here," Rafe said quietly to the fat demon, offering the form and producing an antiquated marble pen from some secret pocket of his sport's coat. "Else this coordinator may decide we are laggards, and decide that termination were the better choice for us all."
+"Sign here," Rafe said to the fat demon, producing an antiquated marble pen from some secret pocket of his sport coat and offering it alongside the form. "I draw your attention to our esteemed Coordinator, whose patience — while doubtless oceanic in its reserves — is not, I suspect, inexhaustible. Those who are perceived as laggards in proceedings such as these are, I am given to understand, alternatively integrated. I would deplore such an outcome on your behalf."
 
 The demon reached for the pen, then paused, pink fingers hovering. He glanced at the Coordinator's turned back, then back at Rafe's face. Then he took the pen and signed.
 
@@ -266,11 +264,11 @@ The Coordinator's head snapped back as if on signal. He crossed the room in thre
 
 The printer ground onward, pages spilling without pause. The Coordinator was already turning from the nervous candidate, clipboard raised, eyes moving toward the terminal where the badge scan record waited. Rafe had thirty seconds, if that, before cross-referencing began.
 
-Thinking swiftly, he extracted from an inner pocket of his sport coat a large pad of unused bathroom tissue. This he fed into the printer's intake. The rollers caught the paper. A whine rose from somewhere deep in the arcane machinery. It surged in pitch, and then the printer seized with a shuddering cough, and went still.
+He extracted from an inner pocket of his sport coat a large pad of unused bathroom tissue and fed it into the printer's intake. The rollers caught the paper. A whine rose from somewhere deep in the arcane machinery. It surged in pitch, and then the printer seized with a shuddering cough, and went still.
 
-The silence was enormous. The coordinator turned, staring at the machine, then at Rafe, then at the machine again.
+The silence was enormous. The Coordinator turned, staring at the machine, then at Rafe, then at the machine again.
 
-"Paper jam," said Rafe.
+"A paper jam," Rafe announced. "These institutional mechanisms are, as we all know, subject to caprice. I trust the fault will not be laid at the feet of one who has already demonstrated his probity by submitting to the rite in good order."
 
 The Coordinator said nothing. Then he produced again his ring of iron keys, selected one key with serrated teeth, strode across and unlocked the far door, and with one ceremonial sweep of his thin arm, ushered the candidate through; all but the fat demon, who remained behind.
 
@@ -302,11 +300,11 @@ Rafe wrenched the first armrest free. It came away trailing a stripped bolt, and
 
 "What," said the nervous candidate, sidling up next to Rafe, "are you doing?"
 
-Rafe did not look up. "I am improving my posture."
+Rafe did not look up. "I am conducting a cursory audit of this furniture's structural probity. One discovers, in these older models, that the pneumatic assemblies are of a caliber no longer manufactured - a loss which I deplore."
 
 The nervous candidate stared at the dismantled chair, then at the locked door. "You're not searching for the keycard at all, you're going to break it down."
 
-"I am conducting a personal audit of this furniture. I would prefer to conduct it without commentary."
+"Your powers of observation, while intermittently functional, have led you to a conclusion I categorically reject. I am a man of resource, not of vandalism - though I confess the two are occasionally housed in adjacent offices."
 
 But the would-be competitor had seen the stratagem now, or thought he had, and he wanted part of it. He crouched beside the overturned chair and began pulling at the seat cushion. What it yielded was a puff of ancient foam and a choking cloud of dust.
 
@@ -318,7 +316,7 @@ Rafe turned toward the stained-glass door.
 
 The nervous candidate darted in front of him and planted both hands on the door frame. "If you break that door," he hissed, "we both go through. I go first."
 
-"You go nowhere," Rafe said. "You are welcome to search for the keycard, which I am sure is hidden somewhere educational, perhaps inside that water cooler."
+"You go nowhere," Rafe said, hefting the cylinder. "First, I hold the instrument. Second - and I say this with no malice, merely as a point of administrative clarity - you lack the constitution for sortie, as is manifestly demonstrated by the perspiration which has ruined your collar. You are welcome to search for the keycard, which I am certain lies concealed somewhere educational, perhaps lodged within that water cooler as a lesson in corporate perseverance."
 
 He feinted left. The nervous candidate matched him. Rafe feinted right. The nervous candidate matched him again. They faced each other, the dust still swirling between them, and for a moment neither stirred. The nervous candidate's hands were raised, half-reaching - not quite blocking, not quite grasping. Beyond the glass, the traffic hummed.
 
@@ -352,7 +350,7 @@ The Coordinator led them down.
 
 Not along a corridor, nor through any passage belonging to the building's known architecture, but down a steep slope into thickening gloom. The noonday light of the fluorescent tubes seemed to waver and perish as they went. The carpet gave way to bare concrete, then to stone.
 
-"I don't care for this," the nervous demon whispered, so close and sudden behind Rafe's ear that voice seemed like a thunderclap in the stillness. Rafe spun an angry glare on the demon and shoved him off a step, but rendered no answer.
+"I do not care for this," the nervous demon whispered, so close and sudden behind Rafe's ear that the voice seemed like a thunderclap in the stillness. Rafe spun an angry glare on the demon and shoved him off a step, but rendered no answer.
 
 The next chamber's peculiar smell preceded actual sight of the room: calcium and toner ink, dry as kiln-dust, a mineral exhalation that coated the back of the throat. The corridor widened abruptly, the sloping ceased, and they found themselves standing at the verge of a mighty conference chamber. A long table of black-lacquered wood stretched from the threshold to a far end lost in shadow - and around it were ranged the dead.
 
@@ -372,13 +370,11 @@ One skeleton on the middle left-end of the conference table adjusted its posture
 
 "They are long dead," hissed the little demon beside Rafe. "Skeleton, my confrere, what can it mean? I have heard, but never- And look, they are taking *notes*."
 
-"They are a Skeleton Crew," said Rafe. He had seen it once before - a department that remained under contract, that could not be dissolved, whose employees were forever bound. The Crew was bound to this agenda. They could not deviate from its order, not though they lacked flesh and blood and breath.
-
-*Which meant the schedule could be leveraged.*
+"They are a Skeleton Crew," said Rafe. "A department that remains under contract - that cannot be dissolved, whose employees are forever bound. Observe the placards, the lanyards, the agenda before each seat. They are bound to this schedule and cannot deviate from its order, not though they lack flesh and blood and breath. Which is to say - and I speak candidly - that the schedule itself constitutes an exploitable instrument."
 
 Rafe stood. The Crew's empty sockets turned toward him. The narration continued.
 
-"Point of order," Rafe said. His voice was steady, professionally pitched. "I am an external auditor, retained on contract for spectral review. I move to table item nine - the judgement of present-era personnel - pending a quorum confirmation of the judgement's jurisdictional ambit."
+"Point of order," Rafe said. His voice was steady, professionally pitched. "I am an external auditor, retained on contract for spectral review. I move to table item nine - that being the judgement of present-era personnel - pending a quorum confirmation of the judgement's jurisdictional ambit."
 
 The nervous demon stood too. "No, no, no. We should leave," he said. He reached for Rafe's sleeve. Rafe wrenched his arm free.
 
@@ -434,7 +430,7 @@ Rafe had clocked the surge, along with a particular gleam at the table's far end
 
 At the end of the table Rafe's hand lunged at the gleam he had spotted. He found what he had expected. Half-buried under scattered agenda papers, his bonsai root hook - the old hook, the one from his original orientation - caught the projector's dying light; stainless steel, sharpened to a whisper. He belted it at his hip where it belonged.
 
-The tearing-apart of the other two demons proceeded, and Rafe perceived now two of The Skeleton Crew clattering swiftly towards him. Just below the room-filling clamor of rattling bones, Rafe's ear caught another sound - a click - he glanced over his shoulder, and behind the exit door, cracked ajar. No tumblers, no bolt. It had simply ceased to be locked.
+The tearing-apart of the other two demons proceeded, and Rafe perceived now two of The Skeleton Crew clattering swiftly towards him. Just below the room-filling clamor of rattling bones, Rafe's ear caught another sound - a click - he glanced over his shoulder, and behind him the exit door stood cracked ajar. No tumblers, no bolt. It had simply ceased to be locked.
 
 Rafe leapt for the door and hauled it open. Upon his cheeks he felt the blast of cold air; on the tympana of his ears, the dusk-hour hum of distant fluorescents; at his shoulder the calcified hardness of a skeleton claw.
 
@@ -450,23 +446,23 @@ It did not glance up at the slamming of the door. Its swollen bulk - a sphere of
 
 "Ah," said the Aychar warmly when it at last looked up. "So there you are, Rafe Scigley."
 
-Rafe brushed plaster dust from the torn shoulder of his sport coat. He said, "A regrettable outcome, but I am afraid my particular abilities aligned poorly with the integrating ceremonies. Three chambers, not a single binding contract signed. I understand, no, no need to expostulate gently on the 'unfitness of the match'. If you will only direct me to the nearest parking garage, I shall readily see myself out."
+Rafe brushed plaster dust from the torn shoulder of his sport coat. "A regrettable outcome - though I hasten to clarify, not regrettable on my account, as my particular abilities aligned poorly with the integrating ceremonies, a deficiency I attribute wholly to the ceremonies themselves. Three chambers, not a single binding contract signed. I understand, no, no need to expostulate gently on the 'unfitness of the match'. If you will but direct me to the nearest parking garage, I shall see myself out with all conceivable dispatch."
 
 The Aychar's lips stretched wide. "Mr. Scigley, you survived. That is integration's object. CARCANA MC twines her fingers through the tresses of such employees, those who survive to turn a company profit."
 
 One bloated deformation-of-limb extended itself to a glyphboard on the compressed steel surface of the desk, and depressed a key. The motivational poster of Mao Zedong slid aside to reveal a digital display, which flickered to life and began cycling through scanned pages of a benefits-enrollment scroll. Each field had been pre-filled with Rafe's name in a typeface of otherworldly provenance.
 
-"I decline the offer," said Rafe. He stepped forward and tapped his root hook on the desk's fused surface.
+"I categorically decline the offer," said Rafe, stepping forward to tap his root hook upon the desk's fused surface. "I am a man of considerable resource, and I do not recall authorizing the pre-inscription of my name upon any enrollment scroll whatsoever."
 
 The Aychar's fingers raced across the glyphs in some other task now, as if it had not heard. With another limb it produced a leather manilla folio from beneath the desk and slid it forward. The folio was warm and smelled of toner. "You will find your new role assignment on page 3, sanctioned Words of Mighty Danger on page 7, and your updated seniority classification on page 11."
 
-Rafe began to protest, then latched onto the Aychar's last comment. "Updated seniority?"
+Rafe opened his mouth to pursue his objection, then arrested himself mid-syllable. "Updated seniority, you say?"
 
 "All years of prior service have been recalibrated to zero for purposes of treasure accrual, pension eligibility, etc." The Aychar's mouth split across its orb-body. "We find it motivates."
 
-Rafe suppressed a turn in his stomach with some difficulty, and weighed the words. *Zero seniority. Zero accumulated obligations.* Rafe sensed a loophole. *Years of compounding company debt, gone, by their own hand.*
+Rafe suppressed a turn in his stomach with some difficulty. *Zero seniority. Zero accumulated obligations. Years of compounding company debt, expunged by CARCANA's own hands - manifestly a loophole of the most generous proportions.*
 
-"Well," said Rafe at last. "After all, one must accept the laws set out for all equally. As this reset must also surely extend to prior financial encumbrances - small as they were in my own case - I should like to commission-"
+"Well," said Rafe at last, assuming a tone of philosophical resignation. "After all, one must accept the laws set out for all equally - I deplore inconsistency above all vices. And as this recalibration to zero must, by the iron dictates of equivalence, extend to prior financial encumbrances - small as they were in my own case, the merest trifle on the ledger - I should like to commission-"
 
 "It does not extend." The Aychar's smile budged not by so much as a fingernail's-width. "Company debts carry over in full per the ADDENDUM OF SHARES, SORROWS, AND BURDENS: *All prior obligations endure, through reclassification and reorganization, yea, though the season may pass uncounted.* Your balance has actually increased."
 
@@ -477,13 +473,13 @@ The Aychar gestured toward the door. A collection notice hung pinned to the wall
 *Charged to: SCIGLEY, R.*
 *Referred to: Office of Mr. P. Sinocarre, High Commissioner, January Financials*
 
-Rafe read it twice.
+Rafe read it twice. "Infamous. I categorically declare first that I did not destroy the chair, second that whatever force acted upon said chair was a direct consequence of CARCANA's own integrating ceremonies, and third that fourteen thousand dollars for a single piece of lumbar-adaptive furniture bespeaks a procurement department in the grip of either madness or embezzlement."
 
 "Additionally," said the Aychar, producing a second leather manilla folio from under the desk, this one textured in that prickly, fish-skin-like surface which was indicative of having been drawn from an unfillable filing cabinet, "Mr. Sinocarre has booked an immediate appointment with you. He was most specific about the timing."
 
 The intercom above the door crackled. A voice, bright and clerical, read from what sounded like a scheduling template: "Mr. Scigley, your appointment with Mr. Sinocarre, High Commissioner of the January Financials, has been confirmed for immediate availability. Please remain at your current location."
 
-Rafe quickly threaded his bonsai hook back through his belt. "Where is my new desk assignment?" he asked.
+Rafe quickly threaded his bonsai hook back through his belt. "Where has the company seen fit to station me?"
 
 The Aychar pulled the laminated packet back across the desk, squared it against the terminal, and only then consulted the screen. "Gallery of the Stone Saints, 11-West. Cubicle block F, row 9."
 
