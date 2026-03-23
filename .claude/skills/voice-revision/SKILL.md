@@ -1,6 +1,6 @@
 ---
 name: voice-revision
-description: Revise, rewrite, or redo prose in specific character 'voices'. Use when user asks to revise text in Freeman, Paladin, or Thorogood voice. Also use for any request to rewrite with a particular voice or as a particular character.
+description: Revise, rewrite, or redo prose in specific character 'voices'. Use when user asks to revise text in Freeman, Paladin, Thorogood, or Rogue voice. Also use for any request to rewrite with a particular voice or as a particular character.
 ---
 
 # Literary Revision
@@ -22,12 +22,14 @@ Revise user-provided prose into a specific character voice while preserving core
 | **Freeman**   | Neurotic 1st person, stream of consciousness | Comedic self-interested survival narration | [freeman-voice.md]   |
 | **Paladin** | Devout questing knight, radiant faith inner monologue | Earnest pilgrim narration with wondering diction | [paladin-voice.md] |
 | **Thorogood** | Bar-band storyteller, 2nd person, bluesy | Punchy, rhythmic retellings with attitude | [thorogood-voice.md] |
+| **Rogue** | Grandiloquent confidence man, elevated diction | Formal rhetoric as weapon, every conversation a negotiation | [rogue-voice.md] |
 
 ## Voice Selection
 
 - User says "Freeman," "Freeman's Mind," "neurotic," "inner monologue," "stream of consciousness" → Load freeman-voice.md
 - User says "Paladin," "radiant faith," "questing knight" → Load paladin-voice.md
 - User says "Thorogood," "bluesy," "bar story," "roadhouse" → Load thorogood-voice.md
+- User says "Rogue," "grandiloquent," "confidence man," "con man," "formal rhetoric" → Load rogue-voice.md
 - Ambiguous request → Ask user to specify voice
 
 ## Output Guidelines
