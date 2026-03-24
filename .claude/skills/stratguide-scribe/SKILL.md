@@ -35,7 +35,11 @@ Determine mode from user request:
 - Triggers: "write the narrator blobs", "narrator mode", "narrator style", or user provides a breakdown and asks for Narrator blobs to be written
 - **Read**: `references/narrator-reference.md`
 
-<!-- Future style modes (Description, Dialogue, Table) will be added here -->
+**Description mode**:
+- Triggers: "write the description blobs", "description mode", "description style", or user provides a breakdown and asks for Description blobs to be written
+- **Read**: `references/description-reference.md`
+
+<!-- Future style modes (Dialogue, Table) will be added here -->
 
 If ambiguous, ask user which mode.
 

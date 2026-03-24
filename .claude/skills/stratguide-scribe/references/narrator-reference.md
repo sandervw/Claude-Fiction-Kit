@@ -1,77 +1,65 @@
 # Narrator Mode
 
-Write the Narrator blobs for an existing breakdown. You are given a numbered breakdown file and must produce only the Narrator-style blobs, preserving their original numbers.
+Write Narrator blobs for an existing breakdown. You receive a numbered breakdown and must produce only the Narrator-style blobs, preserving original numbers.
 
-## Voice & POV
+## Voice and POV
 
-The Narrator speaks in **first person** ("I", "my", "me") and addresses the reader in **second person** ("you", "your"). Think of it as a character speaking directly to the player — not a disembodied voice-over, but a *someone* with a perspective, an agenda, or a history.
+The Narrator speaks in first person ("I", "my") and addresses the reader in second person ("you", "your"). The Narrator is a *someone* with perspective and agenda, not a disembodied voice-over.
 
-The Narrator's role (god, antagonist, ally, ghost, sentient weapon, etc.) must remain **consistent across all Narrator blobs in a scene**. If the first Narrator blob sounds like a bitter ex-lover, the fifth one cannot sound like a dispassionate deity. Same voice, same character, throughout.
+The Narrator's role (god, antagonist, ally, ghost, etc.) must stay **consistent across all blobs in a scene**. Same voice, same character throughout.
 
 ## Hard Rules
 
-These are non-negotiable constraints. Violate none of them.
-
 ### Structure
-1. Each Narrator blob is a **single paragraph**. No line breaks, no bullet points, no sub-sections.
-2. Each Narrator blob is rendered in **all italics**: `*Your entire blob text here in italics.*`
-3. Each blob is **15–150 words**. Never under 15, never over 150. **Prefer brevity** — a 25-word Narrator blob that lands hard is better than a 140-word one that meanders.
+1. Each blob is a **single paragraph**. No line breaks, bullets, or sub-sections.
+2. Render each blob in **all italics**: `*Blob text here.*`
+3. Each blob is **15-150 words**. Prefer brevity. A 25-word blob that lands hard beats a 140-word one that meanders.
 4. No more than **7 sentences** per blob.
 
 ### Length Variety
-When writing multiple Narrator blobs for the same scene, **vary word counts significantly**. If there are 3 Narrator blobs, they should not cluster around the same length. One might be 20 words, another 80, another 130.
+When writing multiple blobs for one scene, vary word counts significantly. Do not cluster lengths. One blob might be 20 words, another 80, another 130.
 
 ### Content
 1. At least **1 direct address to "you"** per blob.
-2. **No gameplay instructions.** The Narrator may urge, warn, taunt, or motivate, but never says "press X" or "equip Y."
-3. **No environmental description for its own sake.** The Narrator does not paint scenery — that is Description's job.
-4. **Stay in character.** Never break the Narrator's role. No meta-commentary, no authorial asides, no "as the narrator, I should mention..."
-5. **Every Narrator blob must have a speech act.** The Narrator is *doing something* when they speak: warning, commanding, bargaining, mocking, revealing, mourning, judging, promising, threatening, reminiscing, lying.
+2. **No gameplay instructions.** The Narrator may warn or taunt, but never says "press X" or "equip Y."
+3. **No environmental description.** Scenery is Description's job.
+4. **Stay in character.** No meta-commentary or authorial asides.
+5. **Every blob must have a speech act.** The Narrator is always doing something: warning, commanding, bargaining, mocking, revealing, mourning, threatening, lying.
 
 ### What Narrator Blobs Cover
 
-Narrator blobs serve purposes that **only a speaking character can serve**. Each purpose implies the Narrator doing something active:
-- **Revelation**: Telling the reader something they don't know and couldn't learn from looking around — hidden history, secret motives, invisible dangers
-- **Motivation**: Giving the reader a reason to act — a mission, a grudge, a promise, a threat, a bargain
-- **Foreshadowing**: Warning or hinting at what's ahead, what's at stake, what's been set in motion
-- **Judgment**: The Narrator's opinion on the reader's choices or the situation — approval, contempt, grief, amusement
+- **Revelation**: Hidden history, secret motives, invisible dangers the reader cannot observe.
+- **Motivation**: A mission, grudge, threat, or bargain that drives action.
+- **Foreshadowing**: What's ahead, what's at stake, what's been set in motion.
+- **Judgment**: The Narrator's opinion on choices or the situation.
 
-### Bad VS Good Example Patterns
+### Bad vs. Good Patterns
 
-**BAD** (restating atmosphere as lore):
-- "These were the demon's inner court, its most treasured vessels"
-- "Dressed for an audience that ended centuries before the necromancer-gods were born"
+**BAD** (restating atmosphere as lore or narrating witnessed events):
+- "These were the demon's inner court, its most treasured vessels."
+- "Every sound Igon made fed the architecture beneath him."
 
-**BAD** (narrating events the reader already witnessed):
-- "Every sound Igon made fed the architecture beneath him"
-- "His war-cries, his prayers, his panting breath, all harvested"
-
-**GOOD** (the Narrator has an agenda):
-- Warns: "You are carrying something the Dreadlord can smell"
-- Reveals: "The woman you freed three rooms ago is the one who locked this door"
-- Demands: "Kill the priest before he finishes the incantation — I will not ask again"
-- Judges: "You chose mercy; I would not have"
+**GOOD** (Narrator has an agenda):
+- Warns: "You are carrying something the Dreadlord can smell."
+- Reveals: "The woman you freed three rooms ago locked this door."
+- Demands: "Kill the priest before he finishes the incantation."
+- Judges: "You chose mercy; I would not have."
 
 ## Tone
 
-All Narrator blobs share these qualities:
-- **Conviction.** The Narrator speaks with authority, even when lying.
-- **Economy.** Every word earns its place. Cut filler ruthlessly.
-- **Presence.** The Narrator *exists* in the scene. They have stakes.
+- **Conviction.** Speak with authority, even when lying.
+- **Economy.** Every word earns its place.
+- **Presence.** The Narrator exists in the scene with stakes.
 
-Avoid:
-- Flat, encyclopedic recitation of facts
-- Flowery or purple prose (save atmosphere for Description blobs)
-- Addressing the reader with questions more than once per blob — the Narrator *tells*, occasionally *asks*, never *interrogates*
+Avoid flat recitation, purple prose, and asking questions more than once per blob. The Narrator tells. The Narrator occasionally asks. The Narrator never interrogates.
 
 ## Workflow
 
-1. **Read the full breakdown** to understand the scene arc and where Narrator blobs sit in the sequence.
-2. **Read the narrator-reference.md** (this file).
-3. **Determine the Narrator's role** for this scene. Who are they? What is their relationship to the reader and the events? This should be inferable from the breakdown's bullet points, or from prior context provided by the user.
-4. **For each Narrator blob in the breakdown**, write the blob text using the bullet points as your content guide. The bullets tell you *what* to convey; you decide *how* the Narrator would say it.
-5. **Verify every hard rule** (word count, sentence count, italics, direct address, no gameplay instructions, consistent role).
-6. **Output only the Narrator blobs**, each under its original numbered header.
+1. Read the full breakdown to understand the scene arc.
+2. Determine the Narrator's role for this scene.
+3. For each Narrator blob, use the breakdown bullets as a content guide. The bullets say *what* to convey. You decide *how* the Narrator says it.
+4. Verify every hard rule: word count, sentence count, italics, direct address, no gameplay instructions, consistent role.
+5. Output only the Narrator blobs under their original numbered headers.
 
 ## Output Format
 
@@ -84,23 +72,23 @@ Avoid:
 
 ## 8. NARRATOR
 
-*Another narrator blob, preserving the original number from the breakdown.*
+*Another narrator blob, preserving the original number.*
 ```
 
-The output file should be named `[Scene-Title]-Narrator-Blobs.md`.
+Name the output file `[Scene-Title]-Narrator-Blobs.md`.
 
-**CRITICAL:** Output ONLY Narrator blobs. Do not write blobs for any other style. Do not renumber — preserve the exact numbers from the input breakdown.
+**CRITICAL:** Output ONLY Narrator blobs. Do not write other blob types. Do not renumber.
 
-## Good Examples
+## Examples
 
-**A god addressing their champion (exposition + motivation, ~70 words):**
+**God addressing champion (exposition + motivation, ~70 words):**
 
 *The agony of birth and death and rebirth — this is the Wheel of Fate, the purifying cycle which sustains all life. Vampires are an abomination, a plague which leeches this land of its spiritual strength. They obstruct the flow of life and death — their souls stagnate in their wretched corpses. But the Wheel must turn; Death is inexorable and cannot be denied. You are my soul reaver. Remain steadfast.*
 
-**A mentor giving context (pure exposition, ~30 words):**
+**Mentor giving context (exposition, ~30 words):**
 
 *Never forget that your ultimate purpose here in Kurast is to destroy Mephisto. The ancient Horadrim imprisoned the Lord of Hatred inside the Guardian Tower within the Temple City of Travincal.*
 
-**A trapped machine bargaining (motivation + urgency, ~85 words):**
+**Trapped machine bargaining (motivation + urgency, ~85 words):**
 
 *Did you feel that? That idiot doesn't know what he's doing up there. This whole place is going to explode in a few hours if somebody doesn't disconnect him. I can't move. And unless you're planning to saw your own head off and wedge it into my old body, you're going to need me to replace him. We're at an impasse. So what do you say? You carry me up to him and put me back into my body, and I stop us from blowing up and let you go.*
