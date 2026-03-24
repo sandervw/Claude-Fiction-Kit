@@ -16,6 +16,9 @@ These are non-negotiable constraints. Violate none of them.
 3. Each blob is **40–150 words**. Never under 40, never over 150.
 4. No more than **6 sentences** per blob.
 
+### Length Variety
+When writing multiple Action blobs for the same scene, **vary word counts significantly**. If there are 3 Action blobs, don't make them all ~100 words. One might be 50, the other two 120–140. Monotonous blob lengths make the scene feel mechanical.
+
 ### Content
 5. **No interiority.** Never describe the reader's thoughts, feelings, emotions, or internal state. Only external actions, observations, and consequences.
 6. **No naming the main character.** The reader is "you" — never give them a name, title, or epithet.
