@@ -6,9 +6,9 @@
 - Altar at the far end glowing with sickly green light
 
 ## 2. NARRATOR
-- This place was holy once; now it feeds on devotion
-- The Dreadlord claimed it three centuries ago
-- Warns the reader: nothing consecrated survives here long
+- Warns: the green light will try to pull you toward the altar — resist it
+- Reveals: the Dreadlord was once the chapel's high priest
+- Demands you destroy the altar after the fight, or the cycle repeats
 
 ## 3. TABLE (4)
 - Four items scattered across the chapel the player can scavenge

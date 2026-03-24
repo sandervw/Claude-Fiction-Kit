@@ -22,7 +22,7 @@ Each blob gets 3–7 bullet points. Bullets are terse — just enough to capture
 Use this to decide which style fits each story beat:
 
 - **ACTION** — The reader must *do* something: fight, choose, navigate, solve, avoid. Written like a strategy guide walkthrough. Often presents branching options ("if you X, then Y; otherwise Z").
-- **NARRATOR** — Exposition, lore, context, foreshadowing, or commentary. The omniscient narrator *speaks to* the reader. Good for exposition, lore, transitions, reveals.
+- **NARRATOR** — A character (god, antagonist, ally, weapon, ghost, etc.) speaks directly to the reader. Narrator bullets describe what the narrator *does as a speaker*: warns, taunts, reveals, demands, offers, judges, foreshadows. **Narrator is NOT atmosphere or world-state rephrased as lore.**
 - **DESCRIPTION** — Sensory, environmental, atmospheric. What the reader sees, hears, smells, feels as they move through the scene. Pure prose, no instructions.
 - **DIALOGUE** — A single NPC speaks. Exactly four short bullet-point lines. Note the speaker in the header: `## DIALOGUE — [Character Name]`. The main character ("you") NEVER speaks.
 - **TABLE** — Structured game-mechanic content: item lists, location indexes, binary choices, trap catalogs, quest options. Specify size in header: `## TABLE (N)` where N is 2, 3, 4, 9, or 12. Each entry is a bold title + short description.
