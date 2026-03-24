@@ -1,6 +1,6 @@
 ---
 name: stratguide-scribe
-description: Break down story scenes into structured "blob" sequences in a video-game-guidebook style. Use when the user mentions "stratguide", "guidebook", "game guide book", "blob breakdown", "blob outline", or asks to structure a scene/chapter/story into a sequence of blobs (Action, Narrator, Description, Dialogue, Table). Also trigger when the user asks to write or revise content in any individual blob style for an existing breakdown.
+description: Break down story scenes into structured "blob" sequences in a video-game-guidebook style, and write individual blob styles from existing breakdowns. Use when the user mentions "stratguide", "guidebook", "game guide book", "blob breakdown", "blob outline", or asks to structure a scene/chapter/story into a sequence of blobs (Action, Narrator, Description, Dialogue, Table). Also trigger when the user asks to write or revise content in any individual blob style (e.g., "write the action blobs", "action mode") for an existing breakdown.
 ---
 
 # Stratguide Scribe
@@ -27,7 +27,11 @@ Determine mode from user request:
 - Triggers: "break down", "breakdown", "blob outline", "structure this scene", "stratguide", "guidebook", "game guide book", or any request to outline/plan a scene as a blob sequence
 - **Read**: `references/breakdown-reference.md`
 
-<!-- Future modes for writing individual blob styles will be added here -->
+**Action mode**:
+- Triggers: "write the action blobs", "action mode", "action style", or user provides a breakdown and asks for Action blobs to be written
+- **Read**: `references/action-reference.md`
+
+<!-- Future style modes (Narrator, Description, Dialogue, Table) will be added here -->
 
 If ambiguous, ask user which mode.
 

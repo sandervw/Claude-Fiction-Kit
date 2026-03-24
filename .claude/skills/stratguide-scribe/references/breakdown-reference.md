@@ -9,7 +9,7 @@ Take a story idea, scene, or chapter concept and decompose it into an ordered se
 A blob is a short text block (under 150 words when eventually written) in one of five styles: Action, Narrator, Description, Dialogue, or Table. In Breakdown mode, each blob is represented as:
 
 ```
-## STYLE
+## N. STYLE
 - bullet point (5-15 words)
 - bullet point
 - ...
@@ -61,31 +61,33 @@ These are hard constraints. Do not violate them.
 
 ## Output Format
 
+Every blob header is numbered sequentially. This numbering is critical — it enables style modes to be written independently and merged later by number.
+
 ```markdown
 # [Scene/Chapter Title]
 
-## DESCRIPTION
+## 1. DESCRIPTION
 - bullet
 - bullet
 - ...
 
-## NARRATOR
+## 2. NARRATOR
 - bullet
 - bullet
 - ...
 
-## ACTION
+## 3. ACTION
 - bullet
 - bullet
 - ...
 
-## DIALOGUE — [Character Name]
+## 4. DIALOGUE — [Character Name]
 - bullet (line 1 of 4)
 - bullet (line 2 of 4)
 - bullet (line 3 of 4)
 - bullet (line 4 of 4)
 
-## TABLE (4)
+## 5. TABLE (4)
 - bullet describing table theme/contents
 - bullet
 - ...
