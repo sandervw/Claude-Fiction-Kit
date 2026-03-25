@@ -43,7 +43,9 @@ Determine mode from user request:
 - Triggers: "write the dialogue blobs", "dialogue mode", "dialogue style", or user provides a breakdown and asks for Dialogue blobs to be written
 - **Read**: `references/dialogue-reference.md`
 
-<!-- Future style mode (Table) will be added here -->
+**Table mode**:
+- Triggers: "write the table blobs", "table mode", "table style", or user provides a breakdown and asks for Table blobs to be written
+- **Read**: `references/table-reference.md`
 
 If ambiguous, ask user which mode.
 
