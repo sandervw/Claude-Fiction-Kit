@@ -1,5 +1,70 @@
 # Prompts for Dark Fantasy Worldbuilding
 
+## Extract world lore prompt
+
+```
+You are a mythographer analyzing fiction to extract **setting-defining lore** — the kind of worldbuilding that functions like real-world mythology (creation stories, cosmological rules, divine hierarchies, afterlife mechanics, prophetic traditions). Think "Yggdrasil" or "the Resurrection," not "a character's sword name."
+
+## Lore Categories
+
+| Category                 | Scope                                                                | Document Path                 |
+| ------------------------ | -------------------------------------------------------------------- | ----------------------------- |
+| **Cosmogony**            | Origin of the world/universe, creation events                        | /lore/cosmogony.md            |
+| **Cosmology**            | Structure/rules of reality, planes, dimensions, how the world works  | /lore/cosmology.md            |
+| **Theogony**             | Origin, nature, and hierarchy of gods/divine beings                  | /lore/theogony.md             |
+| **Anthropogeny**         | Origin and nature of humanity/mortal races                           | /lore/anthropogeny.md         |
+| **Death/Afterlife**      | What happens after death, underworlds, soul mechanics                | /lore/death-afterlife.md      |
+| **Creatures**            | Mythologically significant beings, species, monsters                 | /lore/creatures.md            |
+| **Magic Systems**        | How magic works, its sources, costs, rules                           | /lore/magic-systems.md        |
+| **Hero Cycles**          | Legendary figures, mythic patterns, foundational cultural narratives | /lore/hero-cycles.md          |
+| **Demon Cults**          | Forbidden worship, dark pacts, cult structures and practices         | /lore/demon-cults.md          |
+| **Prophecy**             | Prophetic traditions, oracles, foretold events                       | /lore/prophecy.md             |
+| **Astral Mythology**     | Stars, moons, celestial bodies and their mythic significance         | /lore/astral-mythology.md     |
+| **Otherworld Geography** | Named mythic locations, sacred/cursed places, non-mortal realms      | /lore/otherworld-geography.md |
+
+## Extraction Rules
+
+1. **Only extract lore that defines the setting itself** — structural facts about how this world works, not incidental flavor or character-specific details.
+2. **Test each candidate against this filter:** "If I removed this from the setting, would the world's mythology be meaningfully different?" If no, skip it.
+3. **Distinguish explicit from implied.** Mark lore the text states directly as `[EXPLICIT]` and lore you're inferring from context as `[IMPLIED]`.
+4. **If lore doesn't fit any category,** propose a new category name and justify it in one sentence.
+5. **Do not extract:** character names (unless they ARE the mythology, like a god), place flavor text, magic item names, combat techniques, or political/social structures unless they have mythological weight.
+
+## Deduplication Workflow
+
+Work in two passes:
+
+**Pass 1 — Extract blind.** Read the story and extract all candidate lore elements without consulting any existing documents. Output your raw candidates grouped by category.
+
+**Pass 2 — Deduplicate.** For each category that has candidates, open ONLY that category's document from the table above. Compare your candidates against what already exists. Then mark each candidate:
+- `[NEW]` — Not present in the existing doc. Recommend adding.
+- `[REINFORCES]` — Already documented but this story adds detail, nuance, or a new angle. Quote what exists and describe what's new.
+- `[DUPLICATE]` — Already fully covered. Drop it from final output.
+
+Do NOT open documents for categories with zero candidates.
+
+## Output Format
+
+For each category where `[NEW]` or `[REINFORCES]` candidates remain after deduplication:
+
+### [Category Name]
+
+- `[NEW|REINFORCES]` `[EXPLICIT|IMPLIED]` **Lore element name/label** — One-sentence description of what was established or suggested. *(Quote or paraphrase the supporting passage.)*
+  - *(If REINFORCES: "Existing doc says X. This story adds Y.")*
+
+If a category has nothing after deduplication, omit it entirely.
+
+End with a `### Summary` section: 2-3 sentences on the story's overall mythological footprint — what kind of setting-lore it contributes most heavily to.
+
+---
+
+## Story to Analyze
+
+<story>
+{{PASTE STORY HERE}}
+</story>
+```
+
 ## Scene Writing
 
 Hey claude, take a read through @[TODO]. Use your scene-writer skill to work through the current scene of the story. Note the scene placement/number, prioties, wordcount, and description. Before you start, Read through @Setting/CorpLore.md to get extra setting context. Do not read any other files in the stories folder.
