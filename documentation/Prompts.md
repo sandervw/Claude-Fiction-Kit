@@ -1,5 +1,9 @@
 # Prompts for Dark Fantasy Worldbuilding
 
+## Fairytale storybook image style
+
+Illustration in a dark fairytale storybook style. Flat, shape-driven rendering with no visible outlines — forms are defined entirely by color and value contrast, like cut paper or matte gouache. Muted, desaturated earth-tone palette: taupes, warm browns, dusty mauves, and grey-greens, punctuated by selective warm accents in amber, rust-red, and orange. Subtle paper grain texture across the entire image. Atmospheric lighting from a single warm source, creating dramatic value contrast and soft ambient glow against deep shadows. Characters are stylized with slightly elongated proportions, simplified facial features, and flat costume rendering — reminiscent of animation concept art. Composition uses layered depth: decorative stylized botanicals in the foreground, figures in the midground, and environmental silhouettes receding into the background. Plants and foliage are ornamental and Art Nouveau-influenced, not photorealistic. The overall mood is eerie yet beautiful — folkloric, quiet menace, like a dark European fairy tale. No photorealism, no 3D rendering, no harsh edges. Think vintage illustrated storybook meets animated film key frame.
+
 ## Extract world lore prompt
 
 ```
