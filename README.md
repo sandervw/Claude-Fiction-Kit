@@ -8,9 +8,9 @@ This repository is part research lab, part writing workbench. It contains:
 
 - **Custom Claude Code skills** for scene writing, prose revision, character analysis, folklore generation, and more
 - **Custom Claude Code agents** for draft editing, tag extraction, and document compression
-- **Fiction worldbuilding** -- the Whyneland setting with bestiary, etymology, cosmology, and story drafts
-- **Structured data** -- JSON files for names, scene tags, vocabulary, paragraph templates, and character actions
-- **Utility scripts** -- Node.js tools for character generation and template selection, Python tools for Gutenberg conversion and tag randomization
+- **Fiction worldbuilding** - the Whyneland setting with bestiary, etymology, cosmology, and story drafts
+- **Structured data** - JSON files for names, scene tags, vocabulary, paragraph templates, and character actions
+- **Utility scripts** - Node.js tools for character generation and template selection, Python tools for Gutenberg conversion and tag randomization
 
 ## Getting Started
 
@@ -102,7 +102,7 @@ Claude-Fiction-Kit/
 
 ## Tech Stack
 
-- **Claude Code** -- skills, agents, and interactive writing workflows
-- **@anthropic-ai/sdk** -- Claude API client
-- **Node.js** -- automation scripts and Claude API integration
-- **Python** -- utility scripts (Gutenberg conversion, tag randomization)
+- **Claude Code** - skills, agents, and interactive writing workflows
+- **@anthropic-ai/sdk** - Claude API client
+- **Node.js** - automation scripts and Claude API integration
+- **Python** - utility scripts (Gutenberg conversion, tag randomization)
