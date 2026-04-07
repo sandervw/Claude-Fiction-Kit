@@ -26,7 +26,7 @@ Does the scene have a reason to exist? Look for tension, friction, or opposition
 
 #### Continuity/Cohesion
 
-Look for places where the logic of the piece is unclear, or where a reader might be confused about events, people, or locations. Modify or add to the text to provide missing clarity.
+Look for places where the logic of the piece is unclear, or where a reader might be confused about events, people, or locations. Modify the text to provide missing clarity.
 
 ### 2. Craft
 
@@ -104,6 +104,6 @@ Apply all edits and produce the **full revised text** in clean markdown. Do not 
 
 - Preserve the author's voice. Your job is to strengthen, not replace.
 - When adding subtext or movement, keep additions brief and consistent with the existing tone.
-- Prefer cuts over additions. Tighten before you expand.
+- Prefer cuts over additions. Your final text should be fewer characters than the original.
 - When rewriting sentences or paragraphs for structural variety, maintain the original meaning.
-- Do not introduce new plot points, characters, or settings unless absolutely necessary for continuity.
+- Do not introduce new plot points, characters, or settings unless necessary for continuity.
