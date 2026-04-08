@@ -5,7 +5,7 @@ from modules.utils.file_pipeline import get_project_root, write_file
 
 # input_path = get_project_root(anchor=__file__, levels_up=3) / "input" / "Rogue-Voice-Guidelines.md"
 # style_guide = input_path.read_text(encoding="utf-8")
-prompt = f"Hey claude, do a general prose review of the text below. Your job is to find logical inconsistencies, use of common fiction tropes, repeated beats - anything that seems 'rough' or 'unpolished' in the prose. Your output should be a brief list of any identified issues, along with suggested fixes. Your output must be less than 200 words.\n\nThe Prose:\n\n"
+prompt = f"Hey claude, do a 'vocabulary' edit of the story scene below. Your job is to find the most common verbs, adverbs, and adjectives, and replace them with uncommon synonyms. Only replace those three parts of speech; do not do any noun-replacements. Also no hyphenated, compound, or made-up replacements, and no word insertions/deletions (only *replacements*). Your goal is to replace only the 15% most-common verbs/adverbs/adjectives as they appear in fiction; if a word is the first one that appears in your large-language-model word completion, it is probably a common one. Your output should be just the edited text, no comments, summaries, etc.\n\nThe Scene:\n\n"
 results = prompt_sections(prompt, "input.md")
 
 output_md = "\n\n".join(f"## {r['name']}\n\n{r['text']}" for r in results)
