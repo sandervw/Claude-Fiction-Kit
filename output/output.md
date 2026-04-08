@@ -10,7 +10,7 @@
 
 In the town of Little Comfort's, within its most frequented chrypt, the voices of the regular patrons repeated themselves in the ears of a hunched old man as he plied a path along the row of columns least-limned in the light of the long fire. "Bonefish... fish... fish..." echoed one. "From the grave... the grave... grave..." trailed another.
 
-The man had heard the voices and their echoes often enough. He passed through the same vault - Little Comfort's *Last Rest* - every day of his adult life. His own tohmb, scarcely more than a carved hollow in the chief crag of the town, could only be reached by passing through The Last Rest. The only way for any traveller to enter Little Comfort proper; Little Comfort, with its repurposed Tohmbs, it's headstone tents, all set under the shadows of high cliffs, with terse brown grass and dead shrub yards; the only passage into this harbor of the living was through that convivial house of marble.
+The man had heard the voices and their echoes often enough. He passed through the same vault - Little Comfort's *Last Rest* - every day of his adult life. His own tohmb, scarcely more than a carved hollow in the chief crag of the town, could only be reached by passing through The Last Rest. The only way for any wayfarer to enter Little Comfort proper; Little Comfort, with its repurposed Tohmbs, it's headstone tents, all set under the shadows of high cliffs, with terse brown grass and dead shrub yards; the only passage into this harbor of the living was through that convivial house of marble.
 
 Even so the man took pains to be inconspicuous. As he skulked, wringing his fingers to a dryness so sparky that it endangered his sere clothes, he mumbled clipped fragments of sentences:
 
@@ -18,7 +18,7 @@ Even so the man took pains to be inconspicuous. As he skulked, wringing his fing
 
 Thusly punctuated did the man's silent footsteps carry him from the inn, up the tangled cobblestone ways, to his home's door of barbed iron.
 
-As the man opened this barrier with a squeal of metal and squealed it shut behind him, something shifted in his face. Cold comfort though such a portal might have seemed to any ordinary living man, for the old man it functioned like a word of hypnosis. A peace slackened his muscles. His mutters ceased. He went and lit a candle on a nearby ledge, then stood before a mirror and stared at himself. His hands found the basin. He set his thumbs against the rim and leaned toward the water to wash some grave dirt off his chin.
+As the man opened this barrier with a squeal of metal and squealed it shut behind him, something shifted in his face. Cold comfort though such a portal might have seemed to any ordinary living man, for the old man it functioned like a word of hypnosis. A peace slackened his muscles. His mutters ceased. He went and lit a taper on a nearby ledge, then stood before a mirror and stared at himself. His hands found the basin. He set his thumbs against the rim and leaned toward the water to wash some grave dirt off his chin.
 
 So relaxed had the man become that he did not see the deformation of shadow in the corner by the bedslab - not until this deformation had stolen up behind his shoulder in the reflection. The old man jerked instinctively. but he stopped short of turning. He held perfectly still, as he felt the cold promise of a deep cut, just under the spot of dirt on his chin. In the mirror the razor gleamed.
 
@@ -38,13 +38,13 @@ The old man drew in one deep rasp, exhaled, then hesitated on the second.
 
 In a flash the knife closed with the throat. In the shadow's reflection on the mirror, teeth flashed in a grin. The shadow tisked. "You aught to be ashamed of yourself. Getting snuck by Killing Birds with Rocks. 'Birdsey' to my friends. My friend Othelmedir, he's the linguist. The master mancer. And Fogg - be glad I'm not Fogg. I'm just the little stewboy of the crew. Though I must give myself credit where credit is due: I do throw a mean stone. You've been had by lowly fodder, you old gravedigger."
 
-As he spoke the shadow unconsciously loosened the razor-edge of the knife from the bared throat. A man of action might have thrown his shoulderblades against his soliloquizing antagonist. But the old gravedigger was by nature a coward. And a fool. He said, "You're mushroom food, Birdsey."
+As he spoke the shadow unconsciously loosened the razor-edge of the knife from the bared throat. A man of action might have thrown his shoulderblades against his soliloquizing antagonist. But the old gravedigger was by nature a poltroon. And a fool. He said, "You're mushroom food, Birdsey."
 
 "Hmm?" asked Birdsey.
 
 "Map goes to the Foundation. Place for dead. Not living. You'll perish."
 
-Birdsey seemed to ponder. He drew his knife away. The old man shifted forward and to the side to extricate himself, but a flash of shadow and steel came quicker. The old man felt pain on his temple. Then the little candle, and the reflection, and consciousness, vanished.
+Birdsey seemed to ponder. He drew his knife away. The old man shifted forward and to the side to extricate himself, but a flash of shadow and steel came quicker. The old man felt pain on his temple. Then the little taper, and the reflection, and consciousness, vanished.
 
 "Perhaps you're right, heh, heh," said Birdsey. "It'd be a shame to cut that old throat now. Firstly, because you were so obedient - up till that last word. Second, because you've made a long life on this mountain. Ahhh, but Fogg will pull out my fingernails if I leave you breathing."
 
@@ -54,7 +54,7 @@ Birdsey cut the old man's throat.
 
 ## Scene 2
 
-A man with the mien of a redwood tree commenced an act of kneeling on a tiled corridor floor. So proudly stood this man's height over the masonry of the corridor that it seemed an aeon passed in the span of time it took his left knee joint to bend, his right to touch the ground. His two iron-colored eyes were set in black skin. They scanned the merely-terrestrial stone. In his hand the man cupped a glowing blue ball of thin strands, like yarn woven from the stuff beneath a fire's coals, and this shed the only light in the dusty passage. When the tall man's right knee finally reached terra-firma, he gently pushed the wisp of light forward along the tiles. Shadows danced on the walls from heaps of bones. Before it reached the end of the darkened passage, the momentum of the ball expired.
+A man with the mien of a redwood tree commenced an act of kneeling on a tiled corridor floor. So proudly stood this man's height over the masonry of the corridor that it seemed an aeon passed in the span of time it took his left knee joint to bend, his right to touch the ground. His two iron-colored eyes were set in black skin. They scanned the merely-terrestrial stone. In his hand the man cupped a glowing blue ball of thin strands, like yarn woven from the stuff beneath a fire's coals, and this shed the only light in the dusty passage. When the tall man's right knee finally reached terra-firma, he gently pushed the wisp of light forward along the tiles. Shadows danced on the walls from heaps of ossature. Before it reached the end of the darkened passage, the momentum of the ball expired.
 
 "I can't figure north from south on this map," said a voice from behind the tall man. Killing Birds with Rocks - Birdsey - stepped into view. Birdsey was a small and wiry man, especially beside the monolith currently occupying the corridor, and he hunched now with his sideburns bristling down over an unfurled scroll of leather. "It's unlike any catacombs I ever sacked. Good sir Othelmedir, do those bones have any pointers?"
 
@@ -102,7 +102,7 @@ The three men followed the line left by Othelmedir's orb. Othelmedir bent and re
 
 Othelmedir marched to the exact middle of four pillars, where his glowing orb had stalled. Fogg's cold blue eyes, Birdsey's narrow ones, and the empty sockets of a score of skulls all stared at the tall and thin mancer, underlit in the faint glow of sapphire. Othelmedir intoned, the same phrase spoken over and over, deadspeech, the language of the dead and the scholars. "Fehér uj sinonak. Fehér uj sinonak. Fehér uj sinonak."
 
-With Othelmedir's understanding and orb lighting their way, the three walked a short time later into a smaller round room. This room was an intersection of five paths. Four large byways opened into cardinal directions, the three men having entered from the east. The fifth way was down. A railless hole spanned most of the floor. As Othelmedir leaned over the lip - and he could lean far indeed - the mancer descried a narrow stairway. Little more than a foot in width, this stair descended beyond sight.
+With Othelmedir's understanding and orb lighting their way, the three walked a short time later into a smaller round room. This room was an intersection of five paths. Four large byways opened into cardinal directions, the three men having entered from the east. The fifth way was down. A railless aperture spanned most of the floor. As Othelmedir leaned over the lip - and he could lean far indeed - the mancer descried a narrow stairway. Little more than a foot in width, this stair descended beyond sight.
 
 Othelmedir extended his arm and released his orb. It plummeted, leaving a midair streak of blue. It was still falling as Othelmedir, then Birdsey, then Fogg set their feet on the narrow descending steps.
 
@@ -188,7 +188,7 @@ Fogg looked up from the dust to the huge motif of the worm beside Birdsey. He sq
 
 "What?"
 
-"The dust. Shed skin. A snake or a worm."
+"The dust. Shed skin. A serpent or a worm."
 
 Othelmedir only nodded and closed his eyes again, resuming the call to the dead. Birdsey said, "heh, heh. I suppose worms are sacred to all the gods."
 
@@ -196,7 +196,7 @@ Othelmedir only nodded and closed his eyes again, resuming the call to the dead.
 
 But something else hissed as Fogg set his palm against the worm relief. He sprang back. Othelmedir's eyes flashed. Birdsey spun. The hiss persisted, and all three stared at the double bronze doors.
 
-A perfect black seam opened between the scratches on the bronze. The crack widened. Othelmedir took a pace back, and Fogg's two-handed sword swung from its sheath as the hiss rose to a wail like a wraith. All three put hands to their faces, both as a ward again the sharp wind, and against the texture-stench of the ancient air. Dust, with the smell of an abandoned cabin in a deep grove, and the chill of glacier-smoothed pebbles, blasted their skin.
+A perfect black seam opened between the scratches on the bronze. The crack widened. Othelmedir took a pace back, and Fogg's two-handed sword swung from its scabbard as the hiss rose to a wail like a wraith. All three put hands to their faces, both as a ward again the sharp wind, and against the texture-stench of the ancient air. Dust, with the smell of an abandoned cabin in a deep covert, and the chill of glacier-smoothed pebbles, blasted their skin.
 
 When the gust of cold air finally subsided, the three lowered their hands.
 
@@ -230,7 +230,7 @@ Suddenly the worm's back-end rose and swung. Birdsey screamed, dropped his sling
 
 "No-" Othelmedir began. Birdsey was beyond terror, however, and only yanked Othelmedir harder toward the door. Othelmedir himself felt no special grief for the loss of Fogg, beyond the latter's value as a fighter. But he feared entrapment within a single-exit tohmb.
 
-Fogg seemed at that moment to have second thoughts about dying. With a savage cry and a surge of corded arms he pressed the worm's bulk. A tiny gap opened, small and momentary. But in that brief second Fogg filled his lungs. Fogg's two-handed sword shifted also. He set the blade at an angle with the wall so that, as the worm pressed in again, its own force drove its bulk along the razor edge. The creature emitted a vibration that might have been pain. It reeled back, a small cut visible in the leather. Fogg neither pressed the attack nor held his place. The instant he was freed he stumbled for the door, gasping. He heard the worm slither against the floor just as he crossed the threshold. He spun, bringing his two-handed sword up to block.
+Fogg seemed at that moment to have second thoughts about dying. With a savage cry and a surge of corded arms he pressed the worm's bulk. A tiny gap opened, small and momentary. But in that brief second Fogg filled his lungs. Fogg's two-handed sword shifted also. He set the blade at an angle with the wall so that, as the worm pressed in again, its own force drove its bulk along the razor edge. The creature emitted a vibration that might have been pain. It reeled back, a small incision visible in the leather. Fogg neither pressed the attack nor held his place. The instant he was freed he stumbled for the door, gasping. He heard the worm slither against the floor just as he crossed the threshold. He spun, bringing his two-handed sword up to block.
 
 Birdsey tried to slam one of the heavy bronze doors. He abandoned the effort and fell back, however, as the leatherwyrm threw itself against the door's stone casing. Fogg's two-handed sword blocked none of the worm's mass, for the worm came up short of the weapon. Its vastness slammed the bronze doors and stone frame. A mineral *snap* resounded. The tunnel shivered. "Back!" yelled Othelmedir.
 
@@ -264,7 +264,7 @@ As they went blindly on, however, they discovered that they *could* see the mist
 
 The tunnel had afforded the three space to walk abreast. Now it widened to five meters from wall-to-wall, then six, then they discerned ahead that it opened out broadly. Othelmedir raised his good arm with a flat palm. They proceeded slowly, noticing a strange glimmering texture of the floor where the tunnel terminated.
 
-They realized, as they stepped out and into the wide space, that this glimmer was the shine of the teal vapor off of a floor of ice. They had entered a huge, frozen reservoir, deep in the catacombs. And at the heart of this reservoir, there was a frozen ship.
+They realized, as they stepped out and into the wide space, that this glimmer was the shine of the teal vapor off of a floor of ice. They had entered a huge, frozen cistern, deep in the catacombs. And at the heart of this cistern, there was a frozen ship.
 
 A long vessel of three masts, tarred and tallowed to watertightness, lay locked in the center of the frozen pool. Blue-white powder rimed every board and line of the ship. The double-set of rowlock holes on the side that faced the three were frozen over with draping curtains of icicles. Two more enormous icicles, oddly symmetrical and perfect, dangled over the ship from the roof of the reservoir, nearly even at their tips with the crow's-nest of the center mast. The ship seemed to the three plunderers more like the idealization of a ship than a concrete one; a vessel in service to one of the seven dead gods, carting souls for the deity's malign ends, so silently did it lay, crusted and motionless in the teal fog. This was not full silence, but the silence of a frozen lake crackling like a dead thunderstorm. The air tasted antiseptic.
 
@@ -292,7 +292,7 @@ As they reached the vessel, its frosted hull presented their first obstacle, for
 
 Fogg tossed down a knotted rope. Birdsey climbed easily, and together he and Fogg hauled in the injured mancer.
 
-The three stopped and stared. The deck was barren - covered in the same rime of frost - except for a few pieces of coiled rigging, and except for three thickly-frozen rings around the three masts. The rings were each under a thick but translucent layer of pure ice. And under this ice, hexagonal, golden coins sparkled. Birdsey's eyes especially seemed to reflect the gold.
+The three stopped and stared. The deck was barren - covered in the same rime of frost - except for a few pieces of coiled cordage, and except for three thickly-frozen rings around the three masts. The rings were each under a thick but translucent layer of pure ice. And under this ice, hexagonal, golden coins sparkled. Birdsey's eyes especially seemed to reflect the gold.
 
 Othelmedir, though the sparkle had drawn his initial attention, quickly paid closer mind to the masts. They were not sawn and carved pieces of timber, but birch trees; whole birch trees, with bark, and with thin sere sails hanging from their branches. On the deckboards surrounding the masts and their three rings of treasure, scratches gouged the wood. The scratches were deep enough that the ice patina did not conceal them.
 
@@ -328,7 +328,7 @@ While Othelmedir pondered, Fogg's TINK, TINK, TINK, continued to resound dully i
 
 A trigger was needed, thought Othelmedir. An augur for the coming of spring; a thaw. What could signal a change in season, in such a place of depth and death? Othelmedir shivered in the cold - a grisly action in a man so lean and tall; too swift, like a hummingbird's flitting wings.
 
-Water. The answer surfaced unbidden. All was crusted and frozen in this chamber, but perhaps a sprinkle of liquid form might trigger the change he desired. Othelmedir considered how to bring this about for some minutes. He nearly laughed when he thought of it, but did not, for he never laughed without purpose. He made as if to spit, but stopped. If the environment of the reservoir were as terrible as this, in dead winter, what unpredictable scene would the onset of spring invoke? What storm would the malicious ghost of that ancient year enact?
+Water. The answer surfaced unbidden. All was crusted and frozen in this chamber, but perhaps a sprinkle of liquid form might trigger the change he desired. Othelmedir considered how to bring this about for some minutes. He nearly laughed when he thought of it, but did not, for he never laughed without purpose. He made as if to spit, but stopped. If the environment of the cistern were as terrible as this, in dead winter, what unpredictable scene would the onset of spring invoke? What tempest would the malicious ghost of that ancient year enact?
 
 The steady TINK, TINK, TINK sounded sharply and more clearly, at that instant, through Othelmedir's pondering. He turned, strode to the door. He saw Fogg still hammering at the ice with his pommel. The position was awkward, the work arduous, and the man was breathing heavily.
 
@@ -394,9 +394,9 @@ Each of the three birch-tree masts had moved. Not in conjunction with the ship's
 
 Birchmen. Othelmedir knew the false masts. Once there had been a forest on Deadman's Pile, before the Road of Graves began to wriggle through it. A birch forest; a forest whose limbs grew with green leaves, and whose trunks grew alabaster with beautiful dark spots; not the skeletal, leafless, leprous trees which now sprouted from the mountain's soil, fully-grown and crooked and dead. But that ancient forest of many thousand years ago had been sawn down in its Time. And the souls of those trees had never forgiven the offense. They haunted their sawn trunks forever after. Birchmen, trees of hate and locomotion.
 
-Birchmen were nigh-impervious to man's tools of bloodshed - being made of wood not flesh. But they were sightless... if Othelmedir's memory recalled rightly. Carefully, slowly, Othelmedir waved to catch Fogg's attention. He held a finger to his lips.
+Birchmen were nigh-impervious to man's implements of bloodshed - being made of wood not flesh. But they were sightless... if Othelmedir's memory recalled rightly. Carefully, slowly, Othelmedir waved to catch Fogg's attention. He held a finger to his lips.
 
-Fogg tracked the sweeping of the aft mast's long roots with his black eyes for a moment longer. The masts began to shuffle across the decking, and he saw that he must move or eventually be caught in its path. He began to pick a route to Othelmedir, carefully avoided the scattered spackle of glinting yellow on the deck. The rain poured on still; the ship rocked. Othelmedir held perfectly still at the rail, watching his companion tiptoe toward him. The Birchmen ranged farther. Fogg stopped at a fallen line of rigging, which spanned the deck, and terminated in a coiled pile at the bow side. He picked up the rope at its end. He continued to sway carefully over the shifting pieces of coin, meanwhile knotting his end of the rope into a loop, by which he meant to tie a harness so that he and Othelmedir could descend the ship's side in silence. All this time the three Birchmen roved. Though each continued to sweep the scattered gold back into rings, the unabating waves only undid their work.
+Fogg tracked the sweeping of the aft mast's long roots with his black eyes for a moment longer. The masts began to shuffle across the decking, and he saw that he must move or eventually be caught in its path. He began to pick a route to Othelmedir, carefully avoided the scattered spackle of glinting yellow on the deck. The rain poured on still; the ship rocked. Othelmedir held perfectly still at the rail, watching his companion tiptoe toward him. The Birchmen ranged farther. Fogg stopped at a fallen line of rigging, which spanned the deck, and terminated in a coiled pile at the bow side. He picked up the cordage at its end. He continued to sway carefully over the shifting pieces of coin, meanwhile knotting his end of the rope into a loop, by which he meant to tie a harness so that he and Othelmedir could descend the ship's side in silence. All this time the three Birchmen roved. Though each continued to sweep the scattered gold back into rings, the unabating waves only undid their work.
 
 "What's taking?" Birdsey's cry echoed in the hollow room, above the hiss of rain and sliding coins. One of Birchmen instantly swiveled, the tattered sails on its limbs fluttering with the sudden motion. With alarming speed (any speed was alarming to witness in a tree) the things rushed to the rail upon its writhing tangle of roots, like the tall standard of some dead king carried upright on a tumbleweed. Othelmedir and Fogg stood without breath or motion. Othelmedir went into his mind. He found some words of Deadspeech, and made them soundlessly with his lips and tongue. Though his voice produced no noise, Birdsey - who still stood by the mouth of the tunnel, squinting through the downpour - heard the mancer's ghastly deadvoice in his mind: "Keep utterly silent!" He did so, and waited.
 
@@ -408,7 +408,7 @@ Behind them, unnoticed, one of the Birchmen's roots slithered over the remaining
 
 The rain fell steady as static over the boards of the Mailed Flayer's funereal barque; while the swells of the reservoir pulsed with rhythm against its port. Fogg, lying on his back, and Othelmedir at the rail, squinted through the storm at the quivering birch trees. Their breath stopped in their lungs - their shoulders bunched - in that moment of the storm which seemed to stretch.
 
-The trees punctured the pressure. All three towering Birchmen scuttled at Fogg. Fogg's two-handed sword was free of its sheath in a whistle. He cut the slackened rope and leaped to his feet.
+The trees punctured the pressure. All three towering Birchmen scuttled at Fogg. Fogg's two-handed sword was free of its scabbard in a whistle. He cut the slackened rope and leaped to his feet.
 
 The Birchmen came like scarecrows caught in a tornado, tattered sails swaying around them as they hurtled. Another lightning bolt dropped from the metal stalactites - the scene flashed lurid. The nearest tree came up short of where Fogg stood. With its root it lashed.
 
@@ -418,7 +418,7 @@ From off by the exit, Birdsey called out, "What's going on out there?"
 
 Even one-handed Fogg's chop had severed the whipping root. The root struck the deck with a *clunk*. The tree seemed not to care. It barreled down on him with its trunk. Taking his weapon in both fists, retreating, Fogg began to chop, chop, chop at the trunk and the mass of writhing roots. Splinters flew with the rain.
 
-Then Fogg's two-handed sword struck too deep. He tried to yank it loose; he found it wedged. The Birchman pressed in. The other two followed close. Fogg released the hilt and stumbled back, the space between himself and the wall of the forecastle shrinking with each step. He drew his morningstar, though he doubted he could inflict much damage to the gnarled skin of the Birchmen.
+Then Fogg's two-handed sword struck too deep. He tried to yank it loose; he found it wedged. The Birchman pressed in. The other two followed close. Fogg released the hilt and stumbled back, the space between himself and the bulkhead of the forecastle shrinking with each step. He drew his morningstar, though he doubted he could inflict much damage to the gnarled skin of the Birchmen.
 
 Othelmedir had managed to escape the notice of the trees. He stood near the cabin door, trying to block out Birdsey's cries and the drum of the rain. Focus. How could he affect another season change? How could he force the ghost of that terrible year into Summer? What had made that summer baking in The Year of Seasons Terrible? An endless sun - that was what it had been.
 
