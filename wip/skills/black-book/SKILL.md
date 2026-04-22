@@ -11,11 +11,11 @@ Structure stories and scenes as sequences of typed "blobs" — short text blocks
 
 | Style | Voice / POV | One-liner |
 |---|---|---|
-| **Verse** | 3rd person, action scrawls | Like a string of action-focused texts from a scholarly, eloquent necromancer. |
-| **Essay** | discursive first person | Like a serious nonfiction essay, but describes/argues a specific fiction element.  |
-| **interview** | 2nd person, prose fiction | Regular fiction prose, but "you" is the protagonist. |
-| **epitaph** | 3rd person character speech | Four short bullet-point lines from a single NPC. Never the main character. |
-| **lemma** | Structured list | Items, locations, choices, traps — any game mechanic. Sizes: 2, 3, 4, 9, 12. |
+| **Verse** | 3rd-person, action scrawls | Like a string of action-focused texts from a scholarly, eloquent necromancer. |
+| **Essay** | discursive 1st-person | Like a serious nonfiction essay, but describes/argues a specific fiction element.  |
+| **Interview** | candid, conversational 1st-person | A framed monologue where prompts stand in for the interviewer. |
+| **Memorials** | formal, compressed 2nd/3rd-person | 2-4 epitaphs. Aimed at honoring the dead or addressing passers-by. |
+| **Lemma** | 3rd-person omniscient | Encyclopedia entry for a fictional element: items, locations, monsters, etc. |
 
 ## Mode Detection
 
@@ -24,28 +24,28 @@ Structure stories and scenes as sequences of typed "blobs" — short text blocks
 Determine mode from user request:
 
 **Breakdown mode**:
-- Triggers: "break down", "breakdown", "blob outline", "structure this scene", "stratguide", "guidebook", "game guide book", or any request to outline/plan a scene as a blob sequence
+- Triggers: "break down", "breakdown", "blob outline", "structure this scene", or any request to outline/plan a scene as a blob sequence
 - **Read**: `references/breakdown-reference.md`
 
-**Action mode**:
-- Triggers: "write the action blobs", "action mode", "action style", or user provides a breakdown and asks for Action blobs to be written
-- **Read**: `references/action-reference.md`
+**Verse mode**:
+- Triggers: TODO
+- **Read**: `TODO.md`
 
-**Narrator mode**:
-- Triggers: "write the narrator blobs", "narrator mode", "narrator style", or user provides a breakdown and asks for Narrator blobs to be written
-- **Read**: `references/narrator-reference.md`
+**Essay mode**:
+- Triggers: TODO
+- **Read**: `TODO.md`
 
-**Description mode**:
-- Triggers: "write the description blobs", "description mode", "description style", or user provides a breakdown and asks for Description blobs to be written
-- **Read**: `references/description-reference.md`
+**Interview mode**:
+- Triggers: TODO
+- **Read**: `TODO.md`
 
-**Dialogue mode**:
-- Triggers: "write the dialogue blobs", "dialogue mode", "dialogue style", or user provides a breakdown and asks for Dialogue blobs to be written
-- **Read**: `references/dialogue-reference.md`
+**Memorials mode**:
+- Triggers: TODO
+- **Read**: `TODO.md`
 
-**Table mode**:
-- Triggers: "write the table blobs", "table mode", "table style", or user provides a breakdown and asks for Table blobs to be written
-- **Read**: `references/table-reference.md`
+**Lemma mode**:
+- Triggers: TODO
+- **Read**: `TODO.md`
 
 If ambiguous, ask user which mode.
 
