@@ -1,0 +1,55 @@
+{
+  "simile_bans": [
+    "no `X like Y` similes where Y is domestic or food",
+    "no similes comparing the dead or decaying to objects",
+    "no `like a` constructions",
+    "no extended metaphors longer than one sentence",
+    "no similes whose vehicle is a household item",
+    "no metaphors built on weather or seasons",
+    "no metaphors comparing human action to animal behavior",
+    "no similes whose vehicle is a tool or weapon",
+    "no metaphors built on light or darkness"
+  ],
+  "cadence_bans": [
+    "no isolated fragment sentences",
+    "no `not X, but Y` constructions",
+    "no tricolon (rule of three) lists",
+    "no staccato comma-list cadences (e.g., `throat, chest, skull`)",
+    "no anaphora across consecutive sentences",
+    "no sentences that end on a single-word coda",
+    "no parallel-clause balanced sentences (`he did X. she did Y.`)",
+    "no consecutive sentences of the same length",
+    "no sentences shorter than five words"
+  ],
+  "syntactic_bans": [
+    "no semicolons",
+    "no em-dashes",
+    "no parenthetical asides",
+    "no negative-construction sentences (`he did not X`)",
+    "no sentences beginning with a participial phrase",
+    "no comma splices",
+    "no sentences beginning with `And` or `But`",
+    "no colons used to introduce clauses",
+    "no rhetorical questions in narration"
+  ],
+  "imagery_bans": [
+    "no visor-fogging or breath-in-helm imagery",
+    "no glowbug, lantern, or torchlight throwing shadows imagery",
+    "no dust-motes-in-light imagery",
+    "no rain-on-stone or rain-on-armor imagery",
+    "no birds rising from trees as a reaction to violence",
+    "no character described by what their hands are doing",
+    "no description of breath as visible vapor",
+    "no eyes described as reflective surfaces (mirrors, water, glass)",
+    "no silence described as a physical weight"
+  ],
+  "register_bans": [
+    "no clinical or scientific vocabulary in narration",
+    "no archaic register if the scene is modern",
+    "no modern slang if the scene is pre-modern",
+    "no abstract nouns standing in for sensory description",
+    "no philosophical asides from the narrator",
+    "no Latinate vocabulary where Anglo-Saxon would do",
+    "no sententious closing lines (one-line moralisms)"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "senses": [
+    "sight",
+    "sound",
+    "smell",
+    "taste",
+    "touch",
+    "proprioception",
+    "temperature",
+    "kinaesthetic",
+    "balance",
+    "pain"
+  ],
+  "rhythms": [
+    "long-coordinated",
+    "fragmented",
+    "paratactic",
+    "periodic",
+    "balanced",
+    "cumulative",
+    "periodic-with-interruptions",
+    "run-on"
+  ],
+  "pov_distances": [
+    "close",
+    "mid",
+    "distant",
+    "sliding-close-to-distant",
+    "sliding-distant-to-close"
+  ],
+  "time_handling": [
+    "real-time",
+    "summary",
+    "scene-into-summary",
+    "fractured",
+    "retrospective",
+    "anticipatory"
+  ],
+  "scene_shapes": [
+    "escalation",
+    "reversal",
+    "accumulation",
+    "deflation",
+    "circular",
+    "parallel-thread"
+  ]
+}

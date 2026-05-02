@@ -4,20 +4,12 @@
 
 LLMAppDocs is a toolkit and research repository for LLM-assisted fiction writing.
 
-## Repository Structure
-
-```
-Claude-Fiction-Kit/
-├── .claude/
-├── code/
-├── documentation/           # Project docs, prompt archives, research templates
-├── fiction/
-├── input/
-├── output/
-├── sources/
-├── CLAUDE.md
-└── README.md
-```
+Skills are organized into bucket folders under skills/:
+- analysis/ — existing fiction analysis/extraction
+- composition/ — prose/idea generation
+- revision/ — fiction styling/revision
+- wip/ — work-in-progress skills; do not reference unless requested
+- x_archive/ — no longer used; do not reference unless requested
 
 ## Rules
 

@@ -1,0 +1,47 @@
+{
+  "positive_modes": [
+    "speaks only in declaratives about the past",
+    "answers every question with another question",
+    "issues commands without justification",
+    "speaks in third-person of themselves",
+    "uses only imperatives and questions, never declaratives",
+    "quotes proverbs or texts instead of speaking directly",
+    "describes their own actions in present tense as they speak",
+    "speaks in conditionals (`if X, then Y`) almost exclusively",
+    "answers literal questions with metaphors",
+    "always restates the other character's last line before replying",
+    "speaks only in numbered or itemized statements",
+    "frames every reply as a transaction or bargain"
+  ],
+  "vocab_registers": [
+    "archaic",
+    "plain-modern",
+    "formal-modern",
+    "colloquial",
+    "technical or jargon-heavy",
+    "child-simple",
+    "biblical-cadence",
+    "bureaucratic",
+    "military-clipped",
+    "mercantile-pragmatic"
+  ],
+  "sentence_length_caps": [
+    "6",
+    "10",
+    "15",
+    "20",
+    "no-cap-but-min-15"
+  ],
+  "signature_constructions": [
+    "begins every line with a preposition",
+    "never uses the word `I`",
+    "always names the person they're addressing",
+    "ends every line on a noun",
+    "uses no contractions",
+    "uses contractions in every line where possible",
+    "begins every line with a conjunction",
+    "every line contains a number",
+    "every line refers to a body part",
+    "every line ends in an unanswered implication"
+  ]
+}
