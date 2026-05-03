@@ -27,9 +27,9 @@
   ],
   "sentence_length_caps": [
     "6",
-    "10",
     "15",
-    "20",
+    "25",
+    "no-cap-but-min-10",
     "no-cap-but-min-15"
   ],
   "signature_constructions": [

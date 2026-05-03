@@ -23,7 +23,8 @@
       "Bash(grep:*)",
       "Bash(cp \"C:/Users/Sander/OneDrive/Documents/Github/Claude-Fiction-Kit/input/sampling.py\" \"C:/Users/Sander/OneDrive/Documents/Github/Claude-Fiction-Kit/.claude/skills/forbidden-patterns/assets/sampling.py\")",
       "Bash(cp \"C:/Users/Sander/OneDrive/Documents/Github/Claude-Fiction-Kit/input/sampling.py\" \"C:/Users/Sander/OneDrive/Documents/Github/Claude-Fiction-Kit/.claude/skills/scene-parameters/assets/sampling.py\")",
-      "Bash(cp \"C:/Users/Sander/OneDrive/Documents/Github/Claude-Fiction-Kit/input/sampling.py\" \"C:/Users/Sander/OneDrive/Documents/Github/Claude-Fiction-Kit/.claude/skills/speech-rules/assets/sampling.py\")"
+      "Bash(cp \"C:/Users/Sander/OneDrive/Documents/Github/Claude-Fiction-Kit/input/sampling.py\" \"C:/Users/Sander/OneDrive/Documents/Github/Claude-Fiction-Kit/.claude/skills/speech-rules/assets/sampling.py\")",
+      "PowerShell(Get-ChildItem *)"
     ],
     "deny": [],
     "ask": []

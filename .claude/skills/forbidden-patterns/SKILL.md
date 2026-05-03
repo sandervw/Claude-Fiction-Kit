@@ -10,7 +10,7 @@ Two modes. Detect from the request.
 
 ## Predictive
 
-Roll bans from `assets/vocabulary.json` using `assets/sampling.py`:
+Roll bans using `assets/sampling.py`:
 
 ```
 python assets/sampling.py simile_bans 2
@@ -20,14 +20,18 @@ python assets/sampling.py imagery_bans 2
 python assets/sampling.py register_bans 1
 ```
 
-Use the rolled rules verbatim. Do not paraphrase or soften. If the user supplies additional bans, append them.
+Use the rolled rules verbatim. If the user supplies additional bans, append them.
 
-Compose a markdown card with categorized bans and a one-line note: *"The writing agent treats every ban above as a hard contract."* Save to `output/blacklist-[scene-tag].md`.
+Compose a markdown card with categorized bans.
+
+Keep your card under 100 words.
+
+Save to `output/blacklist-[scene-tag].md`.
 
 ## Audit
 
-Read the draft and the existing blacklist card. Scan systematically — one ban at a time.
+Read the draft and the existing blacklist card. Scan systematically — one ban at a time. For each violation report: paragraph or line reference, the offending text quoted, and the rule it broke. 
 
-For each violation report: paragraph or line reference, the offending text quoted, and the rule it broke.
+Keep your report under 300 words.
 
 Do NOT rewrite. Output a violation report only. Save to `output/audit-[scene-tag].md`.
