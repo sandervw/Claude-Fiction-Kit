@@ -1,8 +1,6 @@
 ---
 name: prose-producer
 description: Orchestrates a full scene draft. Given a scene outline file and a source style passage file, generates four style cards, composes the scene, and audits the draft against the blacklist. Triggers include "produce a scene", "run the prose pipeline", "prose-producer".
-tools: Agent, Read, Glob
-model: sonnet
 ---
 
 # Prose Producer
